@@ -315,7 +315,7 @@
 
 [Pub. L. 99–272, title IX, § 9219(a)(3)(B)][/us/pl/99/272/s9219/a/3/B], Apr. 7, 1986, [100 Stat. 182][/us/stat/100/182], provided that:
 
->     “(i) The amendments made by paragraph (2) \[amending this section\] shall apply to enrollments in months beginning with the first effective month (as defined in clause (ii)), except that in the case of any individual who would have a special enrollment period under section 1837(i) of the Social Security Act \[subsec. (i) of this section\] that would have begun after November 1984 and before the first effective month, the period shall be deemed to begin with the first day of the first effective month.
+>     “(i) The amendments made by paragraph (2) \[amending this section\] shall apply to enrollments in months beginning with the first effective month (as defined in clause (ii)), except that in the case of any individual who would have a special enrollment period under section 1837(i) of the Social Security Act \[[42 U.S.C. 1395p(i)][/us/usc/t42/s1395p/i]\] that would have begun after November 1984 and before the first effective month, the period shall be deemed to begin with the first day of the first effective month.
 
 >     “(ii) For purposes of clause (i), the term ‘first effective month’ means the first month that begins more than 90 days after the date of the enactment of this Act \[Apr. 7, 1986\].”
 
@@ -323,7 +323,7 @@
 
 [Pub. L. 98–369, div. B, title III, § 2338(d)(2)][/us/pl/98/369/s2338/d/2], July 18, 1984, [98 Stat. 1093][/us/stat/98/1093], provided that:
 
->     “(A) The amendments made by subsections (b) and (c) \[amending this section and [section 1395q of this title][/us/usc/t42/s1395q]\] shall apply to enrollments in months beginning with the first effective month, except that in the case of any individual who would have had a special enrollment period under section 1837(i) of the Social Security Act \[subsec. (i) of this section\] that would have begun before such first effective month, such period shall be deemed to begin with the first day of such first effective month.
+>     “(A) The amendments made by subsections (b) and (c) \[amending this section and [section 1395q of this title][/us/usc/t42/s1395q]\] shall apply to enrollments in months beginning with the first effective month, except that in the case of any individual who would have had a special enrollment period under section 1837(i) of the Social Security Act \[[42 U.S.C. 1395p(i)][/us/usc/t42/s1395p/i]\] that would have begun before such first effective month, such period shall be deemed to begin with the first day of such first effective month.
 
 >     “(B) For purposes of subparagraph (A), the term ‘first effective month’ means the first month which begins more than 90 days after the date of the enactment of this Act \[July 18, 1984\].”
 
@@ -353,7 +353,7 @@
 
 [Pub. L. 90–248, title I, § 136(b)][/us/pl/90/248/s136/b], Jan. 2, 1968, [81 Stat. 853][/us/stat/81/853], provided that: 
 
-> “The amendment made by subsection (a) \[amending this section\] shall apply to individuals enrolling under part B of title XVIII \[this part\] in months beginning after the date of the enactment of this Act \[Jan. 2, 1968\].”
+> “The amendment made by subsection (a) \[amending this section\] shall apply to individuals enrolling under part B of title XVIII \[[42 U.S.C. 1395j][/us/usc/t42/s1395j] et seq.\] in months beginning after the date of the enactment of this Act \[Jan. 2, 1968\].”
 
 [Pub. L. 90–248, title I, § 145(e)][/us/pl/90/248/s145/e], Jan. 2, 1968, [81 Stat. 859][/us/stat/81/859], provided that: 
 
@@ -365,15 +365,15 @@
 
 >     “(1) __In general.—__ 
 
->     In the case of any individual who, as of the date of the enactment of this Act \[Dec. 8, 2003\], is eligible to enroll but is not enrolled under part B of title XVIII of the Social Security Act \[this part\] and is a covered beneficiary (as defined in [section 1072(5) of title 10][/us/usc/t10/s1072/5], United States Code), the Secretary of Health and Human Services shall provide for a special enrollment period during which the individual may enroll under such part. Such period shall begin as soon as possible after the date of the enactment of this Act and shall end on December 31, 2004.
+>     In the case of any individual who, as of the date of the enactment of this Act \[Dec. 8, 2003\], is eligible to enroll but is not enrolled under part B of title XVIII of the Social Security Act \[[42 U.S.C. 1395j][/us/usc/t42/s1395j] et seq.\] and is a covered beneficiary (as defined in [section 1072(5) of title 10][/us/usc/t10/s1072/5], United States Code), the Secretary of Health and Human Services shall provide for a special enrollment period during which the individual may enroll under such part. Such period shall begin as soon as possible after the date of the enactment of this Act and shall end on December 31, 2004.
 
 >     “(2) __Coverage period.—__ 
 
->     In the case of an individual who enrolls during the special enrollment period provided under paragraph (1), the coverage period under part B of title XVIII of the Social Security Act \[this part\] shall begin on the first day of the month following the month in which the individual enrolls.”
+>     In the case of an individual who enrolls during the special enrollment period provided under paragraph (1), the coverage period under part B of title XVIII of the Social Security Act \[[42 U.S.C. 1395j][/us/usc/t42/s1395j] et seq.\] shall begin on the first day of the month following the month in which the individual enrolls.”
 
  __Extension Through__  __March 31, 1968__  __of 1967 General Enrollment Period__ 
 
-    [Pub. L. 90–97, § 1][/us/pl/90/97/s1], Sept. 30, 1967, [81 Stat. 249][/us/stat/81/249], extended the general enrollment period under subsec. (e) of this section, beginning Oct. 1, 1967, and ending Dec. 31, 1967, for purposes of enrolling in the insurance program established under part B of title XVIII of such Act \[this part\] and of terminating such enrollment as provided in [section 1395q(b)(1) of this title][/us/usc/t42/s1395q/b/1], through Mar. 31, 1968.
+    [Pub. L. 90–97, § 1][/us/pl/90/97/s1], Sept. 30, 1967, [81 Stat. 249][/us/stat/81/249], extended the general enrollment period under subsec. (e) of this section, beginning Oct. 1, 1967, and ending Dec. 31, 1967, for purposes of enrolling in the insurance program established under part B of title XVIII of such Act \[[42 U.S.C. 1395j][/us/usc/t42/s1395j] et seq.\] and of terminating such enrollment as provided in [section 1395q(b)(1) of this title][/us/usc/t42/s1395q/b/1], through Mar. 31, 1968.
 
  __Enrollment Before__  __Oct. 1, 1966__  __, of Eligible Individuals Failing for Good Cause To Enroll Before__  __June 1, 1966__  __; Commencement of Coverage Period__ 
 
@@ -381,11 +381,11 @@
 
 > “If—
 
->     “(1) an individual was eligible to enroll under section 1837(c) of the Social Security Act \[subsec. (c) of this section\] before June 1, 1966, but failed to enroll before such date, and
+>     “(1) an individual was eligible to enroll under section 1837(c) of the Social Security Act \[[42 U.S.C. 1395p(c)][/us/usc/t42/s1395p/c]\] before June 1, 1966, but failed to enroll before such date, and
 
 >     “(2) it is shown to the satisfaction of the Secretary of Health, Education, and Welfare \[now Health and Human Services\] that there was good cause for such failure to enroll before June 1, 1966,
 
->         such individual may enroll pursuant to this subsection at any time before October 1, 1966. The determination of what constitutes good cause for purposes of the preceding sentence shall be made in accordance with regulations of the Secretary. In the case of any individual who enrolls pursuant to this subsection, the coverage period (within the meaning of section 1838 of the Social Security Act \[[section 1395q of this title][/us/usc/t42/s1395q]\]) shall begin on the first day of the 6th month after the month in which he enrolls.”
+>         such individual may enroll pursuant to this subsection at any time before October 1, 1966. The determination of what constitutes good cause for purposes of the preceding sentence shall be made in accordance with regulations of the Secretary. In the case of any individual who enrolls pursuant to this subsection, the coverage period (within the meaning of section 1838 of the Social Security Act \[[42 U.S.C. 1395q][/us/usc/t42/s1395q]\]) shall begin on the first day of the 6th month after the month in which he enrolls.”
 
 ----------
 
@@ -549,9 +549,11 @@
 [/us/usc/t42/s1395q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395q
 [/us/pl/99/272/s9219/a/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs9219%2Fa%2F3%2FB
 [/us/stat/100/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F182
+[/us/usc/t42/s1395p/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395p%2Fi
 [/us/pl/98/369/s2338/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2338%2Fd%2F2
 [/us/stat/98/1093]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1093
 [/us/usc/t42/s1395q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395q
+[/us/usc/t42/s1395p/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395p%2Fi
 [/us/pl/98/369/s2354/b/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2354%2Fb%2F10
 [/us/pl/98/369/s2354/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2354%2Fe%2F1
 [/us/usc/t42/s1320a–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320a%E2%80%931
@@ -566,6 +568,7 @@
 [/us/stat/86/1448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1448
 [/us/pl/90/248/s136/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248%2Fs136%2Fb
 [/us/stat/81/853]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F853
+[/us/usc/t42/s1395j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395j
 [/us/pl/90/248/s145/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248%2Fs145%2Fe
 [/us/stat/81/859]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F859
 [/us/usc/t42/s1395q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395q
@@ -573,14 +576,18 @@
 [/us/usc/t42/s1395r]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395r
 [/us/pl/108/173/s625/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs625%2Fb
 [/us/stat/117/2318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2318
+[/us/usc/t42/s1395j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395j
 [/us/usc/t10/s1072/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1072%2F5
+[/us/usc/t42/s1395j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395j
 [/us/pl/90/97/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F97%2Fs1
 [/us/stat/81/249]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F249
+[/us/usc/t42/s1395j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395j
 [/us/usc/t42/s1395q/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395q%2Fb%2F1
 [/us/pl/89/97/s102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97%2Fs102%2Fb
 [/us/stat/79/332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F332
 [/us/pl/89/384/s3/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F384%2Fs3%2Fc
 [/us/stat/80/105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F105
+[/us/usc/t42/s1395p/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395p%2Fc
 [/us/usc/t42/s1395q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395q
 
 

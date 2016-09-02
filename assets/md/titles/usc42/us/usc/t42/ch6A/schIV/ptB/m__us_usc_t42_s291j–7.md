@@ -87,7 +87,7 @@
 
 [Pub. L. 91–667, title II, § 200][/us/pl/91/667/s200], Jan. 11, 1971, [84 Stat. 2007][/us/stat/84/2007], provided: 
 
-> “That the Secretary is authorized to issue commitments for direct loans to public agencies in accordance with section 627 of the Public Health Service Act \[this section\] which shall constitute contractual obligations of the United States, the total of such outstanding commitments not to exceed $30,000,000 at any given time; to sell obligations received pursuant to such commitments as provided in section 627, and the proceeds of any such sale shall be used to make a direct loan pursuant to the outstanding commitment under which the obligations were received.”
+> “That the Secretary is authorized to issue commitments for direct loans to public agencies in accordance with section 627 of the Public Health Service Act \[[42 U.S.C. 291j–7][/us/usc/t42/s291j–7]\] which shall constitute contractual obligations of the United States, the total of such outstanding commitments not to exceed $30,000,000 at any given time; to sell obligations received pursuant to such commitments as provided in section 627, and the proceeds of any such sale shall be used to make a direct loan pursuant to the outstanding commitment under which the obligations were received.”
 
 ----------
 
@@ -107,5 +107,6 @@
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/91/667/s200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F667%2Fs200
 [/us/stat/84/2007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F2007
+[/us/usc/t42/s291j–7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs291j%E2%80%937
 
 

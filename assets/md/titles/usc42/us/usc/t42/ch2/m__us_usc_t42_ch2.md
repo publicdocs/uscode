@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 81 to 87.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs81" data-uslm-ref="/us/usc/t42/s81">81</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs87" data-uslm-ref="/us/usc/t42/s87">87.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 88.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs88" data-uslm-ref="/us/usc/t42/s88">88.</a>  </td>
 
     <td> Discharge of cargo of vessel in quarantine.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 89.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs89" data-uslm-ref="/us/usc/t42/s89">89.</a>  </td>
 
     <td> Quarantine warehouses; erection.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 90.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs90" data-uslm-ref="/us/usc/t42/s90">90.</a>  </td>
 
     <td> Deposit of goods in warehouses.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 91.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs91" data-uslm-ref="/us/usc/t42/s91">91.</a>  </td>
 
     <td> Extending time for entry of vessels subject to quarantine.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 92 to 96.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs92" data-uslm-ref="/us/usc/t42/s92">92</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs96" data-uslm-ref="/us/usc/t42/s96">96.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 97.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs97" data-uslm-ref="/us/usc/t42/s97">97.</a>  </td>
 
     <td> State health laws observed by United States officers.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 98.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs98" data-uslm-ref="/us/usc/t42/s98">98.</a>  </td>
 
     <td> Vessels for quarantine officers.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 99 to 111.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs99" data-uslm-ref="/us/usc/t42/s99">99</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs111" data-uslm-ref="/us/usc/t42/s111">111.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 112.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs112" data-uslm-ref="/us/usc/t42/s112">112.</a>  </td>
 
     <td> Removal of revenue officers from port during epidemic.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 113, 114.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs113" data-uslm-ref="/us/usc/t42/s113">113</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs114" data-uslm-ref="/us/usc/t42/s114">114.</a>  </td>
 
     <td> Repealed.  </td>
 

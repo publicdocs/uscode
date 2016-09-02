@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 10361.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs10361" data-uslm-ref="/us/usc/t42/s10361">10361.</a>  </td>
 
     <td> Findings.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 10362.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs10362" data-uslm-ref="/us/usc/t42/s10362">10362.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 10363.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs10363" data-uslm-ref="/us/usc/t42/s10363">10363.</a>  </td>
 
     <td> Reclamation climate change and water program.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 10364.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs10364" data-uslm-ref="/us/usc/t42/s10364">10364.</a>  </td>
 
     <td> Water management improvement.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 10365.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs10365" data-uslm-ref="/us/usc/t42/s10365">10365.</a>  </td>
 
     <td> Hydroelectric power assessment.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 10366.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs10366" data-uslm-ref="/us/usc/t42/s10366">10366.</a>  </td>
 
     <td> Climate change and water intragovernmental panel.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 10367.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs10367" data-uslm-ref="/us/usc/t42/s10367">10367.</a>  </td>
 
     <td> Water data enhancement by United States Geological Survey.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 10368.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs10368" data-uslm-ref="/us/usc/t42/s10368">10368.</a>  </td>
 
     <td> National water availability and use assessment program.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 10369.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs10369" data-uslm-ref="/us/usc/t42/s10369">10369.</a>  </td>
 
     <td> Research agreement authority.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 10370.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs10370" data-uslm-ref="/us/usc/t42/s10370">10370.</a>  </td>
 
     <td> Effect.  </td>
 

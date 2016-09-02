@@ -141,7 +141,7 @@
 
 >     “(1) __In general.—__ 
 
->     The amendments made by this section \[enacting this section and amending [section 1396d of this title][/us/usc/t42/s1396d]\] shall apply to community supported living arrangements services furnished on or after the later of July 1, 1991, or 30 days after the publication of regulations setting forth interim requirements under subsection (h) \[probably means subsec. (h) of this section\] without regard to whether or not final regulations to carry out such amendments have been promulgated by such date.
+>     The amendments made by this section \[enacting this section and amending [section 1396d of this title][/us/usc/t42/s1396d]\] shall apply to community supported living arrangements services furnished on or after the later of July 1, 1991, or 30 days after the publication of regulations setting forth interim requirements under subsection (h) \[probably means [42 U.S.C. 1396u(h)][/us/usc/t42/s1396u/h]\] without regard to whether or not final regulations to carry out such amendments have been promulgated by such date.
 
 >     “(2) __Application process.—__ 
 
@@ -173,5 +173,6 @@
 [/us/pl/101/508/s4712/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs4712%2Fc
 [/us/stat/104/1388-190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-190
 [/us/usc/t42/s1396d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396d
+[/us/usc/t42/s1396u/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396u%2Fh
 
 

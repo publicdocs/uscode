@@ -271,7 +271,7 @@
 
 [Pub. L. 96–265, title III, § 304(h)][/us/pl/96/265/s304/h], June 9, 1980, [94 Stat. 456][/us/stat/94/456], provided that: 
 
-> “The amendments made by subsections (a), (b), (d), (e), and (f) \[amending this section\] shall be effective beginning with the twelfth month following the month in which this Act is enacted \[June 1980\]. Any State that, on the effective date of the amendments made by this section, has in effect an agreement with the Secretary of Health and Human Services under section 221(a) of the Social Security Act \[subsec. (a) of this section\] (as in effect prior to such amendments) will be deemed to have given to the Secretary the notice specified in section 221(a)(1) of such Act as amended by this section, in lieu of continuing such agreement in effect after the effective date of such amendments. Thereafter, a State may notify the Secretary in writing that it no longer wishes to make disability determinations, effective not less than 180 days after the notification is given.”
+> “The amendments made by subsections (a), (b), (d), (e), and (f) \[amending this section\] shall be effective beginning with the twelfth month following the month in which this Act is enacted \[June 1980\]. Any State that, on the effective date of the amendments made by this section, has in effect an agreement with the Secretary of Health and Human Services under section 221(a) of the Social Security Act \[[42 U.S.C. 421(a)][/us/usc/t42/s421/a]\] (as in effect prior to such amendments) will be deemed to have given to the Secretary the notice specified in section 221(a)(1) of such Act as amended by this section, in lieu of continuing such agreement in effect after the effective date of such amendments. Thereafter, a State may notify the Secretary in writing that it no longer wishes to make disability determinations, effective not less than 180 days after the notification is given.”
 
 [Pub. L. 96–265, title III, § 311(b)][/us/pl/96/265/s311/b], June 9, 1980, [94 Stat. 460][/us/stat/94/460], provided that: 
 
@@ -285,7 +285,7 @@
 
 [Pub. L. 101–239, title X, § 10306(a)(2)][/us/pl/101/239/s10306/a/2], Dec. 19, 1989, [103 Stat. 2484][/us/stat/103/2484], provided that: 
 
-> “Not later than July 1, 1990, the Secretary of Health and Human Services shall provide every individual receiving benefits under title II of the Social Security Act \[this subchapter\] on the basis of disability by reason of blindness an opportunity to make an election under section 221(l)(1) of such Act \[subsec. (l)(1) of this section\] (as added by paragraph (1)).”
+> “Not later than July 1, 1990, the Secretary of Health and Human Services shall provide every individual receiving benefits under title II of the Social Security Act \[[42 U.S.C. 401][/us/usc/t42/s401] et seq.\] on the basis of disability by reason of blindness an opportunity to make an election under section 221(l)(1) of such Act \[[42 U.S.C. 421][/us/usc/t42/s421](l)(1)\] (as added by paragraph (1)).”
 
  __Moratorium on Mental Impairment Reviews__ 
 
@@ -297,7 +297,7 @@
 
 >         (1)
 
->          Until such time as revised criteria have been established by regulation in accordance with subsection (a), no continuing eligibility review shall be carried out under section 221(i) of the Social Security Act \[subsec. (i) of this section\], or under the corresponding requirements established for disability determinations and reviews under title XVI of such Act \[subchapter XVI of this chapter\], with respect to any individual previously determined to be under a disability by reason of a mental impairment, if—
+>          Until such time as revised criteria have been established by regulation in accordance with subsection (a), no continuing eligibility review shall be carried out under section 221(i) of the Social Security Act \[[42 U.S.C. 421(i)][/us/usc/t42/s421/i]\], or under the corresponding requirements established for disability determinations and reviews under title XVI of such Act \[[42 U.S.C. 1381][/us/usc/t42/s1381] et seq.\], with respect to any individual previously determined to be under a disability by reason of a mental impairment, if—
 
 >             “(A) no initial decision on such review has been rendered with respect to such individual prior to the date of the enactment of this Act, or
 
@@ -305,11 +305,11 @@
 
 >             For purposes of this paragraph and subsection (c)(1) the term ‘continuing eligibility review’, when used to refer to a review of a previous determination of disability, includes any reconsideration of or hearing on the initial decision rendered in such review as well as such initial decision itself, and any review by the Appeals Council of the hearing decision.
 
->         “(2) Paragraph (1) shall not apply in any case where the Secretary determines that fraud was involved in the prior determination, or where an individual (other than an individual eligible to receive benefits under section 1619 of the Social Security Act \[[section 1382h of this title][/us/usc/t42/s1382h]\]) is determined by the Secretary to be engaged in substantial gainful activity (or gainful activity, in the case of a widow, surviving divorced wife, widower, or surviving divorced husband for purposes of section 202(e) and (f) of such Act \[section 402(e), (f) of this title\]).
+>         “(2) Paragraph (1) shall not apply in any case where the Secretary determines that fraud was involved in the prior determination, or where an individual (other than an individual eligible to receive benefits under section 1619 of the Social Security Act \[[42 U.S.C. 1382h][/us/usc/t42/s1382h]\]) is determined by the Secretary to be engaged in substantial gainful activity (or gainful activity, in the case of a widow, surviving divorced wife, widower, or surviving divorced husband for purposes of section 202(e) and (f) of such Act \[[42 U.S.C. 402(e)][/us/usc/t42/s402/e], (f)\]).
 
 >     “(c)
 
->         (1) Any initial determination that an individual is not under a disability by reason of a mental impairment and any determination that an individual is not under a disability by reason of a mental impairment in a reconsideration of or hearing on an initial disability determination, made or held under title II or XVI of the Social Security Act \[this subchapter or subchapter XVI of this chapter\] after the date of the enactment of this Act \[Oct. 9, 1984\] and prior to the date on which revised criteria are established by regulation in accordance with subsection (a), and any determination that an individual is not under a disability by reason of a mental impairment made under or in accordance with title II or XVI of such Act in a reconsideration of, hearing on, review by the Appeals Council of, or judicial review of a decision rendered in any continuing eligibility review to which subsection (b)(1) applies, shall be redetermined by the Secretary as soon as feasible after the date on which such criteria are so established, applying such revised criteria.
+>         (1) Any initial determination that an individual is not under a disability by reason of a mental impairment and any determination that an individual is not under a disability by reason of a mental impairment in a reconsideration of or hearing on an initial disability determination, made or held under title II or XVI of the Social Security Act \[[42 U.S.C. 401][/us/usc/t42/s401] et seq., 1381 et seq.\] after the date of the enactment of this Act \[Oct. 9, 1984\] and prior to the date on which revised criteria are established by regulation in accordance with subsection (a), and any determination that an individual is not under a disability by reason of a mental impairment made under or in accordance with title II or XVI of such Act in a reconsideration of, hearing on, review by the Appeals Council of, or judicial review of a decision rendered in any continuing eligibility review to which subsection (b)(1) applies, shall be redetermined by the Secretary as soon as feasible after the date on which such criteria are so established, applying such revised criteria.
 
 >         “(2) In the case of a redetermination under paragraph (1) of a prior action which found that an individual was not under a disability, if such individual is found on redetermination to be under a disability, such redetermination shall be applied as though it had been made at the time of such prior action.
 
@@ -329,13 +329,13 @@
 
 [Pub. L. 98–460, § 9(a)(2)][/us/pl/98/460/s9/a/2], Oct. 9, 1984, [98 Stat. 1805][/us/stat/98/1805], provided that: 
 
-> “The Secretary of Health and Human Services shall prescribe regulations required under section 221(j) of the Social Security Act \[subsec. (j) of this section\] not later than 180 days after the date of the enactment of this Act \[Oct. 9, 1984\].”
+> “The Secretary of Health and Human Services shall prescribe regulations required under section 221(j) of the Social Security Act \[[42 U.S.C. 421(j)][/us/usc/t42/s421/j]\] not later than 180 days after the date of the enactment of this Act \[Oct. 9, 1984\].”
 
  __Frequency of Continuing Eligibility Reviews__ 
 
 [Pub. L. 98–460, § 15][/us/pl/98/460/s15], Oct. 9, 1984, [98 Stat. 1808][/us/stat/98/1808], provided that: 
 
-> “The Secretary of Health and Human Services shall promulgate final regulations, within 180 days after the date of the enactment of this Act \[Oct. 9, 1984\], which establish the standards to be used by the Secretary in determining the frequency of reviews under section 221(i) of the Social Security Act \[subsec. (j) of this section\]. Until such regulations have been issued as final regulations, no individual may be reviewed more than once under section 221(i) of the Social Security Act.”
+> “The Secretary of Health and Human Services shall promulgate final regulations, within 180 days after the date of the enactment of this Act \[Oct. 9, 1984\], which establish the standards to be used by the Secretary in determining the frequency of reviews under section 221(i) of the Social Security Act \[[42 U.S.C. 421(j)][/us/usc/t42/s421/j]\]. Until such regulations have been issued as final regulations, no individual may be reviewed more than once under section 221(i) of the Social Security Act.”
 
  __Travel Expenses for Medical Examinations, Reconsideration Interviews, and Proceedings Before Administrative Law Judges__ 
 
@@ -389,11 +389,11 @@ Provisions authorizing payment of travel expenses either on an actual cost or co
 
 [Pub. L. 96–265, title III, § 304(g)][/us/pl/96/265/s304/g], June 9, 1980, [94 Stat. 456][/us/stat/94/456], provided that: 
 
-> “The Secretary of Health and Human Services shall implement a program of reviewing, on his own motion, decisions rendered by administrative law judges as a result of hearings under section 221(d) of the Social Security Act \[subsec. (d) of this section\], and shall report to the Congress by January 1, 1982, on his progress.”
+> “The Secretary of Health and Human Services shall implement a program of reviewing, on his own motion, decisions rendered by administrative law judges as a result of hearings under section 221(d) of the Social Security Act \[[42 U.S.C. 421(d)][/us/usc/t42/s421/d]\], and shall report to the Congress by January 1, 1982, on his progress.”
 
  __Assumption by Secretary of Functions and Operations of State Disability Determination Units__ 
 
-    [Pub. L. 96–265, title III, § 304(i)][/us/pl/96/265/s304/i], June 9, 1980, [94 Stat. 457][/us/stat/94/457], directed Secretary of Health and Human Services to submit to Congress by July 1, 1980, a detailed plan on how he intended to assume functions and operations of a State disability determination unit when this became necessary under amendments made by this section \[amending this section\], and how he intended to meet requirements of section 221(b)(3) of Social Security Act \[subsec. (b)(3) of this section\]. Such plan was to assume the uninterrupted operation of disability determination function and utilization of best qualified personnel to carry out such function, and was to include recommendations for any amendment of Federal law or regulation required to carry out such plan.
+    [Pub. L. 96–265, title III, § 304(i)][/us/pl/96/265/s304/i], June 9, 1980, [94 Stat. 457][/us/stat/94/457], directed Secretary of Health and Human Services to submit to Congress by July 1, 1980, a detailed plan on how he intended to assume functions and operations of a State disability determination unit when this became necessary under amendments made by this section \[amending this section\], and how he intended to meet requirements of section 221(b)(3) of Social Security Act \[[42 U.S.C. 421(b)(3)][/us/usc/t42/s421/b/3]\]. Such plan was to assume the uninterrupted operation of disability determination function and utilization of best qualified personnel to carry out such function, and was to include recommendations for any amendment of Federal law or regulation required to carry out such plan.
 
 ----------
 
@@ -501,6 +501,7 @@ Provisions authorizing payment of travel expenses either on an actual cost or co
 [/us/stat/96/2499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2499
 [/us/pl/96/265/s304/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F265%2Fs304%2Fh
 [/us/stat/94/456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F456
+[/us/usc/t42/s421/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs421%2Fa
 [/us/pl/96/265/s311/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F265%2Fs311%2Fb
 [/us/stat/94/460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F460
 [/us/pl/90/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248
@@ -510,9 +511,15 @@ Provisions authorizing payment of travel expenses either on an actual cost or co
 [/us/usc/t42/s423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs423
 [/us/pl/101/239/s10306/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs10306%2Fa%2F2
 [/us/stat/103/2484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2484
+[/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
+[/us/usc/t42/s421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs421
 [/us/pl/98/460/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F460%2Fs5
 [/us/stat/98/1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1801
+[/us/usc/t42/s421/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs421%2Fi
+[/us/usc/t42/s1381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1381
 [/us/usc/t42/s1382h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1382h
+[/us/usc/t42/s402/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs402%2Fe
+[/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
 [/us/pl/98/460/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F460%2Fs6%2Fc
 [/us/stat/98/1802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1802
 [/us/usc/t42/s1383b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1383b
@@ -524,8 +531,10 @@ Provisions authorizing payment of travel expenses either on an actual cost or co
 [/us/usc/t42/s405/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs405%2Fb%2F2
 [/us/pl/98/460/s9/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F460%2Fs9%2Fa%2F2
 [/us/stat/98/1805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1805
+[/us/usc/t42/s421/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs421%2Fj
 [/us/pl/98/460/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F460%2Fs15
 [/us/stat/98/1808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1808
+[/us/usc/t42/s421/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs421%2Fj
 [/us/pl/95/480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F480
 [/us/stat/92/1582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1582
 [/us/pl/94/439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F439
@@ -572,7 +581,9 @@ Provisions authorizing payment of travel expenses either on an actual cost or co
 [/us/stat/69/408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F408
 [/us/pl/96/265/s304/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F265%2Fs304%2Fg
 [/us/stat/94/456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F456
+[/us/usc/t42/s421/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs421%2Fd
 [/us/pl/96/265/s304/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F265%2Fs304%2Fi
 [/us/stat/94/457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F457
+[/us/usc/t42/s421/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs421%2Fb%2F3
 
 

@@ -29,10 +29,6 @@
 
 ([Pub. L. 109–162, title IV, § 402][/us/pl/109/162/s402], Jan. 5, 2006, [119 Stat. 3023][/us/stat/119/3023]; [Pub. L. 113–4, title IV, § 401][/us/pl/113/4/s401], Mar. 7, 2013, [127 Stat. 92][/us/stat/127/92].)
 
- __Amendment of Section__ 
-
-For effective date of amendment by [Pub. L. 113–4][/us/pl/113/4], see Effective Date of 2013 Amendment note below.
-
  __References in Text__ 
 
     This title, referred to in subsecs. (b) and (c), is title IV of [Pub. L. 109–162][/us/pl/109/162], Jan. 5, 2006, [119 Stat. 3017][/us/stat/119/3017], which enacted this section and part L (§ 14043d et seq.) of subchapter III of chapter 136 and [section 14045c of this title][/us/usc/t42/s14045c]. For complete classification of title IV to the Code, see Tables.
@@ -82,7 +78,6 @@ For effective date of amendment by [Pub. L. 113–4][/us/pl/113/4], see Effectiv
 [/us/stat/119/3023]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3023
 [/us/pl/113/4/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs401
 [/us/stat/127/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F92
-[/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
 [/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
 [/us/stat/119/3017]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3017
 [/us/usc/t42/s14045c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs14045c

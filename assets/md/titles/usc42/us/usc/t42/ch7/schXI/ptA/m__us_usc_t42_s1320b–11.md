@@ -125,7 +125,7 @@
 
 [Pub. L. 100–647, title VIII, § 8008(b)(2)][/us/pl/100/647/s8008/b/2], Nov. 10, 1988, [102 Stat. 3786][/us/stat/102/3786], provided that: 
 
-> “The Secretary of Health and Human Services shall establish the Blood Donor Locator Service pursuant to section 1141 of the Social Security Act \[this section\] not later than 180 days after the date of the enactment of this Act \[Nov. 10, 1988\].”
+> “The Secretary of Health and Human Services shall establish the Blood Donor Locator Service pursuant to section 1141 of the Social Security Act \[[42 U.S.C. 1320b–11][/us/usc/t42/s1320b–11]\] not later than 180 days after the date of the enactment of this Act \[Nov. 10, 1988\].”
 
 ----------
 
@@ -151,5 +151,6 @@
 [/us/usc/t48/s1681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1681
 [/us/pl/100/647/s8008/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs8008%2Fb%2F2
 [/us/stat/102/3786]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3786
+[/us/usc/t42/s1320b–11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320b%E2%80%9311
 
 

@@ -709,7 +709,7 @@
 
 > “Nothing in the amendments made by this section \[amending this section\] shall be construed as—
 
->     “(1) changing any income eligibility level for children under title XXI of the Social Security Act \[this subchapter\]; or
+>     “(1) changing any income eligibility level for children under title XXI of the Social Security Act \[[42 U.S.C. 1397aa][/us/usc/t42/s1397aa] et seq.\]; or
 
 >     “(2) changing the flexibility provided States under such title to establish the income eligibility level for targeted low-income children under a State child health plan and the methodologies used by the State to determine income or assets under such plan.”
 
@@ -993,6 +993,7 @@
 [/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
 [/us/pl/111/3/s114/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F3%2Fs114%2Fb
 [/us/stat/123/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F35
+[/us/usc/t42/s1397aa]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1397aa
 [/us/pl/111/3/s601/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F3%2Fs601%2Fb
 [/us/stat/123/96-98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F96-98
 [/us/pl/111/309/s205/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F309%2Fs205%2Fc

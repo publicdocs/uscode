@@ -197,21 +197,21 @@
 
 >     “(b)
 
->         (1) The amendments made by sections 101 \[amending this section\], 102 \[amending this section and [section 300e–1 of this title][/us/usc/t42/s300e–1]\], 103 \[amending this section\], 104 \[amending [section 300e–1 of this title][/us/usc/t42/s300e–1]\], and 106 \[amending [section 300e–1 of this title][/us/usc/t42/s300e–1]\] shall (A) apply with respect to grants, contracts, loans, and loan guarantees made under sections 1303, 1304, and 1305 of the Public Health Service Act \[sections 300e–2, 300e–3, and 300e–4 of this title\] for fiscal years beginning after September 30, 1976, (B) apply with respect to health benefit plans offered under section 1310 of such Act \[[section 300e–9 of this title][/us/usc/t42/s300e–9]\] after such date, and (C) for purposes of section 1312 \[[section 300e–11 of this title][/us/usc/t42/s300e–11]\] take effect October 1, 1976.
+>         (1) The amendments made by sections 101 \[amending this section\], 102 \[amending this section and [section 300e–1 of this title][/us/usc/t42/s300e–1]\], 103 \[amending this section\], 104 \[amending [section 300e–1 of this title][/us/usc/t42/s300e–1]\], and 106 \[amending [section 300e–1 of this title][/us/usc/t42/s300e–1]\] shall (A) apply with respect to grants, contracts, loans, and loan guarantees made under sections 1303, 1304, and 1305 of the Public Health Service Act \[[42 U.S.C. 300e–2][/us/usc/t42/s300e–2], 300e–3, 300e–4\] for fiscal years beginning after September 30, 1976, (B) apply with respect to health benefit plans offered under section 1310 of such Act \[[42 U.S.C. 300e–9][/us/usc/t42/s300e–9]\] after such date, and (C) for purposes of section 1312 \[[42 U.S.C. 300e–11][/us/usc/t42/s300e–11]\] take effect October 1, 1976.
 
->         “(2) Subsection (d) of section 1301 of the Public Health Service Act \[subsec. (d) of this section\] (added by section 103(b) of this Act) shall take effect with respect to fiscal years of health maintenance organizations beginning on or after the date of the enactment of this Act \[Oct. 8, 1976\].
+>         “(2) Subsection (d) of section 1301 of the Public Health Service Act \[[42 U.S.C. 300e(d)][/us/usc/t42/s300e/d]\] (added by section 103(b) of this Act) shall take effect with respect to fiscal years of health maintenance organizations beginning on or after the date of the enactment of this Act \[Oct. 8, 1976\].
 
->         “(3) The amendments made by section 107 \[amending sections 300e–2, 300e–3, and 300e–4 of this title\] shall apply with respect to grants, contracts, loans, and loan guarantees made under sections 1303, 1304, and 1305 of the Public Health Service Act \[sections 300e–2, 300e–3 and 300e–4 of this title\] for fiscal years beginning after September 30, 1976.
+>         “(3) The amendments made by section 107 \[amending sections 300e–2, 300e–3, and 300e–4 of this title\] shall apply with respect to grants, contracts, loans, and loan guarantees made under sections 1303, 1304, and 1305 of the Public Health Service Act \[[42 U.S.C. 300e–2][/us/usc/t42/s300e–2], 300e–3, 300e–4\] for fiscal years beginning after September 30, 1976.
 
->         “(4) The amendments made by sections 109(a)(1) \[amending [section 300e–4 of this title][/us/usc/t42/s300e–4]\] and 109(c) \[amending [section 300e–7 of this title][/us/usc/t42/s300e–7]\] shall apply with respect to loan guarantees made under section 1305 of the Public Health Service Act \[[section 300e–4 of this title][/us/usc/t42/s300e–4]\] after September 30, 1976.
+>         “(4) The amendments made by sections 109(a)(1) \[amending [section 300e–4 of this title][/us/usc/t42/s300e–4]\] and 109(c) \[amending [section 300e–7 of this title][/us/usc/t42/s300e–7]\] shall apply with respect to loan guarantees made under section 1305 of the Public Health Service Act \[[42 U.S.C. 300e–4][/us/usc/t42/s300e–4]\] after September 30, 1976.
 
->         “(5) The amendment made by section 109(e) \[amending [section 300e–3 of this title][/us/usc/t42/s300e–3]\] shall apply with respect to projects assisted under section 1304 of the Public Health Service Act \[[section 300e–3 of this title][/us/usc/t42/s300e–3]\] after September 30, 1976.
+>         “(5) The amendment made by section 109(e) \[amending [section 300e–3 of this title][/us/usc/t42/s300e–3]\] shall apply with respect to projects assisted under section 1304 of the Public Health Service Act \[[42 U.S.C. 300e–3][/us/usc/t42/s300e–3]\] after September 30, 1976.
 
 >         “(6) The amendments made by paragraphs (1) and (2) of section 110(a) \[amending [section 300e–9 of this title][/us/usc/t42/s300e–9]\] shall apply with respect to calendar quarters which begin after the date of the enactment of this Act \[Oct. 8, 1976\].
 
->         “(7) The amendments made by paragraphs (3) and (4) of section 110 \[amending [section 300e–9 of this title][/us/usc/t42/s300e–9]\] shall apply with respect to failures of employers to comply with section 1310(a) of the Public Health Service Act \[[section 300e–9 of this title][/us/usc/t42/s300e–9]\] after the date of the enactment of this Act \[Oct. 8, 1976\].
+>         “(7) The amendments made by paragraphs (3) and (4) of section 110 \[amending [section 300e–9 of this title][/us/usc/t42/s300e–9]\] shall apply with respect to failures of employers to comply with section 1310(a) of the Public Health Service Act \[[42 U.S.C. 300e–9(a)][/us/usc/t42/s300e–9/a]\] after the date of the enactment of this Act \[Oct. 8, 1976\].
 
->         “(8) The amendment made by section 111 \[amending [section 300e–11 of this title][/us/usc/t42/s300e–11]\] shall apply with respect to determinations of the Secretary of Health, Education, and Welfare described in section 1312(a) of the Public Health Service Act \[[section 300e–11(a) of this title][/us/usc/t42/s300e–11/a]\] and made after the date of the enactment of this Act \[Oct. 8, 1976\].”
+>         “(8) The amendment made by section 111 \[amending [section 300e–11 of this title][/us/usc/t42/s300e–11]\] shall apply with respect to determinations of the Secretary of Health, Education, and Welfare described in section 1312(a) of the Public Health Service Act \[[42 U.S.C. 300e–11(a)][/us/usc/t42/s300e–11/a]\] and made after the date of the enactment of this Act \[Oct. 8, 1976\].”
 
  __Short Title of 1978 Amendment__ 
 
@@ -229,7 +229,7 @@
 
 [Pub. L. 100–517, § 5(a)(3)][/us/pl/100/517/s5/a/3], Oct. 24, 1988, [102 Stat. 2579][/us/stat/102/2579], provided that: 
 
-> “During the period prior to the effective date of regulations issued under section 1301(c) of the Public Health Service Act \[subsec. (c) of this section\] (as amended by paragraph (2)), the Secretary of Health and Human Services shall consider the application for qualification under section 1301(c)(1)(A) of such Act of a health maintenance organization—
+> “During the period prior to the effective date of regulations issued under section 1301(c) of the Public Health Service Act \[[42 U.S.C. 300e(c)][/us/usc/t42/s300e/c]\] (as amended by paragraph (2)), the Secretary of Health and Human Services shall consider the application for qualification under section 1301(c)(1)(A) of such Act of a health maintenance organization—
 
 >     “(A) which is owned or controlled by another organization, and
 
@@ -337,8 +337,11 @@
 [/us/usc/t42/s300e–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300e%E2%80%931
 [/us/usc/t42/s300e–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300e%E2%80%931
 [/us/usc/t42/s300e–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300e%E2%80%931
+[/us/usc/t42/s300e–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300e%E2%80%932
 [/us/usc/t42/s300e–9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300e%E2%80%939
 [/us/usc/t42/s300e–11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300e%E2%80%9311
+[/us/usc/t42/s300e/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300e%2Fd
+[/us/usc/t42/s300e–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300e%E2%80%932
 [/us/usc/t42/s300e–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300e%E2%80%934
 [/us/usc/t42/s300e–7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300e%E2%80%937
 [/us/usc/t42/s300e–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300e%E2%80%934
@@ -346,7 +349,7 @@
 [/us/usc/t42/s300e–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300e%E2%80%933
 [/us/usc/t42/s300e–9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300e%E2%80%939
 [/us/usc/t42/s300e–9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300e%E2%80%939
-[/us/usc/t42/s300e–9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300e%E2%80%939
+[/us/usc/t42/s300e–9/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300e%E2%80%939%2Fa
 [/us/usc/t42/s300e–11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300e%E2%80%9311
 [/us/usc/t42/s300e–11/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300e%E2%80%9311%2Fa
 [/us/pl/95/559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F559
@@ -360,6 +363,7 @@
 [/us/usc/t42/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs201
 [/us/pl/100/517/s5/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F517%2Fs5%2Fa%2F3
 [/us/stat/102/2579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2579
+[/us/usc/t42/s300e/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300e%2Fc
 [/us/pl/99/660/s813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660%2Fs813
 [/us/stat/100/3801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3801
 [/us/pl/102/531/s311/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F531%2Fs311%2Fa

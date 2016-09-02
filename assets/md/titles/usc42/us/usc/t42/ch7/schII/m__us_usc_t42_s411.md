@@ -601,7 +601,7 @@ For the purposes of this subchapter—
 
 [Pub. L. 86–778, title I, § 106(c)][/us/pl/86/778/s106/c], Sept. 13, 1960, [74 Stat. 946][/us/stat/74/946], provided that: 
 
-> “The amendments made by this section \[amending this section and [section 1402 of Title 26][/us/usc/t26/s1402], Internal Revenue Code\] shall apply only with respect to taxable years ending on or after December 31, 1960; except that for purposes of section 203 of the Social Security Act \[[section 403 of this title][/us/usc/t42/s403]\], the amendment made by subsection (a) \[amending this section\] shall apply only with respect to taxable years (of the individual performing the service involved) beginning after the date of the enactment of this Act \[Sept. 13, 1960\].”
+> “The amendments made by this section \[amending this section and [section 1402 of Title 26][/us/usc/t26/s1402], Internal Revenue Code\] shall apply only with respect to taxable years ending on or after December 31, 1960; except that for purposes of section 203 of the Social Security Act \[[42 U.S.C. 403][/us/usc/t42/s403]\], the amendment made by subsection (a) \[amending this section\] shall apply only with respect to taxable years (of the individual performing the service involved) beginning after the date of the enactment of this Act \[Sept. 13, 1960\].”
 
  __Effective Date of 1958 Amendment__ 
 
@@ -611,7 +611,7 @@ For the purposes of this subchapter—
 
 >     “(1) with respect to individuals who die after the date of the enactment of this Act \[Aug. 28, 1958\], and
 
->     “(2) with respect to any individual who died after 1955 and on or before the date of the enactment of this Act \[Aug. 28, 1958\], but only if the requirements of section 403(b)(2) of this Act \[[section 603(b)(2) of this title][/us/usc/t42/s603/b/2]\] are met.”
+>     “(2) with respect to any individual who died after 1955 and on or before the date of the enactment of this Act \[Aug. 28, 1958\], but only if the requirements of section 403(b)(2) of this Act \[[42 U.S.C. 603(b)(2)][/us/usc/t42/s603/b/2]\] are met.”
 
  __Effective Date of 1957 Amendment__ 
 

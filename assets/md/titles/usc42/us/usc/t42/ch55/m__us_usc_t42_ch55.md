@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 4321.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs4321" data-uslm-ref="/us/usc/t42/s4321">4321.</a>  </td>
 
     <td> Congressional declaration of purpose.  </td>
 
@@ -41,7 +41,7 @@ SUBCHAPTER I—POLICIES AND GOALS  </td>
 
   <tr>
 
-    <td> 4331.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs4331" data-uslm-ref="/us/usc/t42/s4331">4331.</a>  </td>
 
     <td> Congressional declaration of national environmental policy.  </td>
 
@@ -49,7 +49,7 @@ SUBCHAPTER I—POLICIES AND GOALS  </td>
 
   <tr>
 
-    <td> 4332.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs4332" data-uslm-ref="/us/usc/t42/s4332">4332.</a>  </td>
 
     <td> Cooperation of agencies; reports; availability of information; recommendations; international and national coordination of efforts.  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER I—POLICIES AND GOALS  </td>
 
   <tr>
 
-    <td> 4332a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs4332a" data-uslm-ref="/us/usc/t42/s4332a">4332a.</a>  </td>
 
     <td> Accelerated decisionmaking in environmental reviews.  </td>
 
@@ -65,7 +65,7 @@ SUBCHAPTER I—POLICIES AND GOALS  </td>
 
   <tr>
 
-    <td> 4333.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs4333" data-uslm-ref="/us/usc/t42/s4333">4333.</a>  </td>
 
     <td> Conformity of administrative procedures to national environmental policy.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER I—POLICIES AND GOALS  </td>
 
   <tr>
 
-    <td> 4334.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs4334" data-uslm-ref="/us/usc/t42/s4334">4334.</a>  </td>
 
     <td> Other statutory obligations of agencies.  </td>
 
@@ -81,7 +81,7 @@ SUBCHAPTER I—POLICIES AND GOALS  </td>
 
   <tr>
 
-    <td> 4335.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs4335" data-uslm-ref="/us/usc/t42/s4335">4335.</a>  </td>
 
     <td> Efforts supplemental to existing authorizations.  </td>
 
@@ -97,7 +97,7 @@ SUBCHAPTER II—COUNCIL ON ENVIRONMENTAL QUALITY  </td>
 
   <tr>
 
-    <td> 4341.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs4341" data-uslm-ref="/us/usc/t42/s4341">4341.</a>  </td>
 
     <td> Omitted.  </td>
 
@@ -105,7 +105,7 @@ SUBCHAPTER II—COUNCIL ON ENVIRONMENTAL QUALITY  </td>
 
   <tr>
 
-    <td> 4342.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs4342" data-uslm-ref="/us/usc/t42/s4342">4342.</a>  </td>
 
     <td> Establishment; membership; Chairman; appointments.  </td>
 
@@ -113,7 +113,7 @@ SUBCHAPTER II—COUNCIL ON ENVIRONMENTAL QUALITY  </td>
 
   <tr>
 
-    <td> 4343.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs4343" data-uslm-ref="/us/usc/t42/s4343">4343.</a>  </td>
 
     <td> Employment of personnel, experts and consultants.  </td>
 
@@ -121,7 +121,7 @@ SUBCHAPTER II—COUNCIL ON ENVIRONMENTAL QUALITY  </td>
 
   <tr>
 
-    <td> 4344.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs4344" data-uslm-ref="/us/usc/t42/s4344">4344.</a>  </td>
 
     <td> Duties and functions.  </td>
 
@@ -129,7 +129,7 @@ SUBCHAPTER II—COUNCIL ON ENVIRONMENTAL QUALITY  </td>
 
   <tr>
 
-    <td> 4345.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs4345" data-uslm-ref="/us/usc/t42/s4345">4345.</a>  </td>
 
     <td> Consultation with Citizens’ Advisory Committee on Environmental Quality and other representatives.  </td>
 
@@ -137,7 +137,7 @@ SUBCHAPTER II—COUNCIL ON ENVIRONMENTAL QUALITY  </td>
 
   <tr>
 
-    <td> 4346.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs4346" data-uslm-ref="/us/usc/t42/s4346">4346.</a>  </td>
 
     <td> Tenure and compensation of members.  </td>
 
@@ -145,7 +145,7 @@ SUBCHAPTER II—COUNCIL ON ENVIRONMENTAL QUALITY  </td>
 
   <tr>
 
-    <td> 4346a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs4346a" data-uslm-ref="/us/usc/t42/s4346a">4346a.</a>  </td>
 
     <td> Travel reimbursement by private organizations and Federal, State, and local governments.  </td>
 
@@ -153,7 +153,7 @@ SUBCHAPTER II—COUNCIL ON ENVIRONMENTAL QUALITY  </td>
 
   <tr>
 
-    <td> 4346b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs4346b" data-uslm-ref="/us/usc/t42/s4346b">4346b.</a>  </td>
 
     <td> Expenditures in support of international activities.  </td>
 
@@ -161,7 +161,7 @@ SUBCHAPTER II—COUNCIL ON ENVIRONMENTAL QUALITY  </td>
 
   <tr>
 
-    <td> 4347.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs4347" data-uslm-ref="/us/usc/t42/s4347">4347.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 
@@ -177,7 +177,7 @@ SUBCHAPTER III—MISCELLANEOUS PROVISIONS  </td>
 
   <tr>
 
-    <td> 4361, 4361a.   </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs4361" data-uslm-ref="/us/usc/t42/s4361">4361</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs4361a" data-uslm-ref="/us/usc/t42/s4361a">4361a.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -185,7 +185,7 @@ SUBCHAPTER III—MISCELLANEOUS PROVISIONS  </td>
 
   <tr>
 
-    <td> 4361b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs4361b" data-uslm-ref="/us/usc/t42/s4361b">4361b.</a>  </td>
 
     <td> Implementation by Administrator of Environmental Protection Agency of recommendations of “CHESS” Investigative Report; waiver; inclusion of status of implementation requirements in annual revisions of plan for research, development, and demonstration.  </td>
 
@@ -193,7 +193,7 @@ SUBCHAPTER III—MISCELLANEOUS PROVISIONS  </td>
 
   <tr>
 
-    <td> 4361c.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs4361c" data-uslm-ref="/us/usc/t42/s4361c">4361c.</a>  </td>
 
     <td> Staff management.  </td>
 
@@ -201,7 +201,7 @@ SUBCHAPTER III—MISCELLANEOUS PROVISIONS  </td>
 
   <tr>
 
-    <td> 4362.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs4362" data-uslm-ref="/us/usc/t42/s4362">4362.</a>  </td>
 
     <td> Interagency cooperation on prevention of environmental cancer and heart and lung disease.  </td>
 
@@ -209,7 +209,7 @@ SUBCHAPTER III—MISCELLANEOUS PROVISIONS  </td>
 
   <tr>
 
-    <td> 4362a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs4362a" data-uslm-ref="/us/usc/t42/s4362a">4362a.</a>  </td>
 
     <td> Membership of Task Force on Environmental Cancer and Heart and Lung Disease.  </td>
 
@@ -217,7 +217,7 @@ SUBCHAPTER III—MISCELLANEOUS PROVISIONS  </td>
 
   <tr>
 
-    <td> 4363.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs4363" data-uslm-ref="/us/usc/t42/s4363">4363.</a>  </td>
 
     <td> Continuing and long-term environmental research and development.  </td>
 
@@ -225,7 +225,7 @@ SUBCHAPTER III—MISCELLANEOUS PROVISIONS  </td>
 
   <tr>
 
-    <td> 4363a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs4363a" data-uslm-ref="/us/usc/t42/s4363a">4363a.</a>  </td>
 
     <td> Pollution control technologies demonstrations.  </td>
 
@@ -233,7 +233,7 @@ SUBCHAPTER III—MISCELLANEOUS PROVISIONS  </td>
 
   <tr>
 
-    <td> 4364.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs4364" data-uslm-ref="/us/usc/t42/s4364">4364.</a>  </td>
 
     <td> Expenditure of funds for research and development related to regulatory program activities.  </td>
 
@@ -241,7 +241,7 @@ SUBCHAPTER III—MISCELLANEOUS PROVISIONS  </td>
 
   <tr>
 
-    <td> 4365.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs4365" data-uslm-ref="/us/usc/t42/s4365">4365.</a>  </td>
 
     <td> Science Advisory Board.  </td>
 
@@ -249,7 +249,7 @@ SUBCHAPTER III—MISCELLANEOUS PROVISIONS  </td>
 
   <tr>
 
-    <td> 4366.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs4366" data-uslm-ref="/us/usc/t42/s4366">4366.</a>  </td>
 
     <td> Identification and coordination of research, development, and demonstration activities.  </td>
 
@@ -257,7 +257,7 @@ SUBCHAPTER III—MISCELLANEOUS PROVISIONS  </td>
 
   <tr>
 
-    <td> 4366a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs4366a" data-uslm-ref="/us/usc/t42/s4366a">4366a.</a>  </td>
 
     <td> Omitted.  </td>
 
@@ -265,7 +265,7 @@ SUBCHAPTER III—MISCELLANEOUS PROVISIONS  </td>
 
   <tr>
 
-    <td> 4367.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs4367" data-uslm-ref="/us/usc/t42/s4367">4367.</a>  </td>
 
     <td> Reporting requirements of financial interests of officers and employees of Environmental Protection Agency.  </td>
 
@@ -273,7 +273,7 @@ SUBCHAPTER III—MISCELLANEOUS PROVISIONS  </td>
 
   <tr>
 
-    <td> 4368.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs4368" data-uslm-ref="/us/usc/t42/s4368">4368.</a>  </td>
 
     <td> Grants to qualified citizens groups.  </td>
 
@@ -281,7 +281,7 @@ SUBCHAPTER III—MISCELLANEOUS PROVISIONS  </td>
 
   <tr>
 
-    <td> 4368a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs4368a" data-uslm-ref="/us/usc/t42/s4368a">4368a.</a>  </td>
 
     <td> Utilization of talents of older Americans in projects of pollution prevention, abatement, and control.  </td>
 
@@ -289,7 +289,7 @@ SUBCHAPTER III—MISCELLANEOUS PROVISIONS  </td>
 
   <tr>
 
-    <td> 4368b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs4368b" data-uslm-ref="/us/usc/t42/s4368b">4368b.</a>  </td>
 
     <td> General assistance program.  </td>
 
@@ -297,7 +297,7 @@ SUBCHAPTER III—MISCELLANEOUS PROVISIONS  </td>
 
   <tr>
 
-    <td> 4369.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs4369" data-uslm-ref="/us/usc/t42/s4369">4369.</a>  </td>
 
     <td> Miscellaneous reports.  </td>
 
@@ -305,7 +305,7 @@ SUBCHAPTER III—MISCELLANEOUS PROVISIONS  </td>
 
   <tr>
 
-    <td> 4369a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs4369a" data-uslm-ref="/us/usc/t42/s4369a">4369a.</a>  </td>
 
     <td> Reports on environmental research and development activities of Agency.  </td>
 
@@ -313,7 +313,7 @@ SUBCHAPTER III—MISCELLANEOUS PROVISIONS  </td>
 
   <tr>
 
-    <td> 4370.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs4370" data-uslm-ref="/us/usc/t42/s4370">4370.</a>  </td>
 
     <td> Reimbursement for use of facilities.  </td>
 
@@ -321,7 +321,7 @@ SUBCHAPTER III—MISCELLANEOUS PROVISIONS  </td>
 
   <tr>
 
-    <td> 4370a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs4370a" data-uslm-ref="/us/usc/t42/s4370a">4370a.</a>  </td>
 
     <td> Assistant Administrators of Environmental Protection Agency; appointment; duties.  </td>
 
@@ -329,7 +329,7 @@ SUBCHAPTER III—MISCELLANEOUS PROVISIONS  </td>
 
   <tr>
 
-    <td> 4370b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs4370b" data-uslm-ref="/us/usc/t42/s4370b">4370b.</a>  </td>
 
     <td> Availability of fees and charges to carry out Agency programs.  </td>
 
@@ -337,7 +337,7 @@ SUBCHAPTER III—MISCELLANEOUS PROVISIONS  </td>
 
   <tr>
 
-    <td> 4370c.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs4370c" data-uslm-ref="/us/usc/t42/s4370c">4370c.</a>  </td>
 
     <td> Environmental Protection Agency fees.  </td>
 
@@ -345,7 +345,7 @@ SUBCHAPTER III—MISCELLANEOUS PROVISIONS  </td>
 
   <tr>
 
-    <td> 4370d.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs4370d" data-uslm-ref="/us/usc/t42/s4370d">4370d.</a>  </td>
 
     <td> Percentage of Federal funding for organizations owned by socially and economically disadvantaged individuals.  </td>
 
@@ -353,7 +353,7 @@ SUBCHAPTER III—MISCELLANEOUS PROVISIONS  </td>
 
   <tr>
 
-    <td> 4370e.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs4370e" data-uslm-ref="/us/usc/t42/s4370e">4370e.</a>  </td>
 
     <td> Working capital fund in Treasury.  </td>
 
@@ -361,7 +361,7 @@ SUBCHAPTER III—MISCELLANEOUS PROVISIONS  </td>
 
   <tr>
 
-    <td> 4370f.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs4370f" data-uslm-ref="/us/usc/t42/s4370f">4370f.</a>  </td>
 
     <td> Availability of funds after expiration of period for liquidating obligations.  </td>
 
@@ -369,7 +369,7 @@ SUBCHAPTER III—MISCELLANEOUS PROVISIONS  </td>
 
   <tr>
 
-    <td> 4370g.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs4370g" data-uslm-ref="/us/usc/t42/s4370g">4370g.</a>  </td>
 
     <td> Availability of funds for uniforms and certain services.  </td>
 
@@ -377,7 +377,7 @@ SUBCHAPTER III—MISCELLANEOUS PROVISIONS  </td>
 
   <tr>
 
-    <td> 4370h.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs4370h" data-uslm-ref="/us/usc/t42/s4370h">4370h.</a>  </td>
 
     <td> Availability of funds for facilities.  </td>
 

@@ -867,7 +867,7 @@ For the purposes of this subchapter—
 
 >     “(B) __Treatment of certain disabilities.—__ 
 
->     For purposes of establishing entitlement to hospital insurance benefits under part A of title XVIII of the Social Security Act \[section 1395c et seq. of this title\] pursuant to the amendments made by subsection (b), no individual may be considered to be under a disability for any period beginning before April 1, 1986.”
+>     For purposes of establishing entitlement to hospital insurance benefits under part A of title XVIII of the Social Security Act \[[42 U.S.C. 1395c][/us/usc/t42/s1395c] et seq.\] pursuant to the amendments made by subsection (b), no individual may be considered to be under a disability for any period beginning before April 1, 1986.”
 
  __Effective Date of 1985 Amendment__ 
 
@@ -947,7 +947,7 @@ For the purposes of this subchapter—
 
 [Pub. L. 89–97, title III, § 317(g)][/us/pl/89/97/s317/g], July 30, 1965, [79 Stat. 390][/us/stat/79/390], provided that: 
 
-> “The amendments made by this section \[amending this section and sections 3121, 3125, 6205, and 6413 of Title 26, Internal Revenue Code\] shall apply with respect to service performed after the calendar quarter in which this section is enacted and after the calendar quarter in which the Secretary of the Treasury receives a certification from the Commissioners of the District of Columbia expressing their desire to have the insurance system established by title II (and part A of title XVIII) of the Social Security Act \[this subchapter and part A of subchapter XVIII of this chapter\] extended to the officers and employees coming under the provisions of such amendments.”
+> “The amendments made by this section \[amending this section and sections 3121, 3125, 6205, and 6413 of Title 26, Internal Revenue Code\] shall apply with respect to service performed after the calendar quarter in which this section is enacted and after the calendar quarter in which the Secretary of the Treasury receives a certification from the Commissioners of the District of Columbia expressing their desire to have the insurance system established by title II (and part A of title XVIII) of the Social Security Act \[[42 U.S.C. 401][/us/usc/t42/s401] et seq., 1395c et seq.\] extended to the officers and employees coming under the provisions of such amendments.”
 
  __Effective Date of 1961 Amendment__ 
 
@@ -985,7 +985,7 @@ For the purposes of this subchapter—
 
 [Pub. L. 85–840, title III, § 312(b)][/us/pl/85/840/s312/b], Aug. 28, 1958, [72 Stat. 1035][/us/stat/72/1035], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that: 
 
-> “The amendment made by subsection (a) \[amending this section\] shall apply with respect to certificates filed under section 3121(k)(1) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] \[[section 3121(k)(1) of Title 26][/us/usc/t26/s3121/k/1], Internal Revenue Code\] after the date of enactment of this Act \[Aug. 28, 1958\].”
+> “The amendment made by subsection (a) \[amending this section\] shall apply with respect to certificates filed under section 3121(k)(1) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] \[[26 U.S.C. 3121(k)(1)][/us/usc/t26/s3121/k/1]\] after the date of enactment of this Act \[Aug. 28, 1958\].”
 
  __Effective Date of 1956 Amendment__ 
 
@@ -1011,11 +1011,11 @@ For the purposes of this subchapter—
 
 >          The amendment made by paragraph (2) of subsection (b) \[amending this section\] shall be effective only if—
 
->             “(i) the Board of Directors of the Tennessee Valley Authority submits to the Secretary of Health, Education, and Welfare, and the Secretary approves, before July 1, 1957, a plan, with respect to employees of the Tennessee Valley Authority, for the coordination, on an equitable basis, of the benefits provided by the retirement system applicable to such employees with the benefits provided by title II of the Social Security Act \[this subchapter\]; and
+>             “(i) the Board of Directors of the Tennessee Valley Authority submits to the Secretary of Health, Education, and Welfare \[now Health and Human Services\], and the Secretary approves, before July 1, 1957, a plan, with respect to employees of the Tennessee Valley Authority, for the coordination, on an equitable basis, of the benefits provided by the retirement system applicable to such employees with the benefits provided by title II of the Social Security Act \[[42 U.S.C. 401][/us/usc/t42/s401] et seq.\]; and
 
 >             “(ii) such plan specifies, as the effective date of the plan, July 1, 1957, or the first day of a prior calendar quarter beginning not earlier than January 1, 1956. If the plan specifies as the effective date of the plan a day before July 1, 1957, the amendment made by paragraph (2) of subsection (b) \[amending this section\] shall apply with respect to service performed on or after such effective date; except that, if such effective date is prior to the day on which the Secretary approves the plan, such amendment shall not apply with respect to service performed, prior to the day on which the Secretary approves the plan, by an individual who is not an employee of the Tennessee Valley Authority on such day.
 
->         “(D) The Secretary of Health, Education, and Welfare shall, on or before July 31, 1957, submit a report to the Congress setting forth the details of any plan approved by him under subparagraph (B) or (C).”
+>         “(D) The Secretary of Health, Education, and Welfare \[now Health and Human Services\] shall, on or before July 31, 1957, submit a report to the Congress setting forth the details of any plan approved by him under subparagraph (B) or (C).”
 
     Amendment by section 105(b) of [act Aug. 1, 1956, ch. 836][/us/act/1956-08-01/ch836], applicable with respect to service performed after 1956, see section 105(d) of such act Aug. 1, 1956, set out as a note under [section 409 of this title][/us/usc/t42/s409].
 
@@ -1047,7 +1047,7 @@ For the purposes of this subchapter—
 
 [Pub. L. 98–369, div. B, title VI, § 2601(c)][/us/pl/98/369/s2601/c], July 18, 1984, [98 Stat. 1126][/us/stat/98/1126], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that: 
 
-> “For purposes of section 210(a)(5)(G) of the Social Security Act \[subsec. (a)(5)(G) of this section\] and section 3121(b)(5)(G) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] \[[26 U.S.C. 3121(b)(5)(G)][/us/usc/t26/s3121/b/5/G]\], an individual shall not be considered to be subject to subchapter III of chapter 83 of title 5, United States Code, or to another retirement system established by a law of the United States for employees of the Federal Government (other than for members of the uniformed services), if he is contributing a reduced amount by reason of the Federal Employees’ Retirement Contribution Temporary Adjustment Act of 1983 \[[Pub. L. 98–168, title II][/us/pl/98/168], Nov. 29, 1983, [97 Stat. 1106][/us/stat/97/1106], set out as a note under [section 8331 of Title 5][/us/usc/t5/s8331], Government Organization and Employees\].”
+> “For purposes of section 210(a)(5)(G) of the Social Security Act \[[42 U.S.C. 410(a)(5)(G)][/us/usc/t42/s410/a/5/G]\] and section 3121(b)(5)(G) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] \[[26 U.S.C. 3121(b)(5)(G)][/us/usc/t26/s3121/b/5/G]\], an individual shall not be considered to be subject to subchapter III of chapter 83 of title 5, United States Code, or to another retirement system established by a law of the United States for employees of the Federal Government (other than for members of the uniformed services), if he is contributing a reduced amount by reason of the Federal Employees’ Retirement Contribution Temporary Adjustment Act of 1983 \[[Pub. L. 98–168, title II][/us/pl/98/168], Nov. 29, 1983, [97 Stat. 1106][/us/stat/97/1106], set out as a note under [section 8331 of Title 5][/us/usc/t5/s8331], Government Organization and Employees\].”
 
  __Qualification and Requalification of Federal Employees for Benefits__ 
 
@@ -1057,7 +1057,7 @@ For the purposes of this subchapter—
 
 >      Any individual who—
 
->         “(A) was subject to subchapter III of chapter 83 of title 5, United States Code, or to another retirement system established by a law of the United States for employees of the Federal Government (other than for members of the uniformed services), on December 31, 1983 (as determined for purposes of section 210(a)(5)(G) of the Social Security Act \[subsec. (a)(5)(G) of this section\]), and
+>         “(A) was subject to subchapter III of chapter 83 of title 5, United States Code, or to another retirement system established by a law of the United States for employees of the Federal Government (other than for members of the uniformed services), on December 31, 1983 (as determined for purposes of section 210(a)(5)(G) of the Social Security Act \[[42 U.S.C. 410(a)(5)(G)][/us/usc/t42/s410/a/5/G]\]), and
 
 >         “(B)
 
@@ -1079,9 +1079,9 @@ For the purposes of this subchapter—
 
 [Pub. L. 98–369, div. B, title VI, § 2601(e)][/us/pl/98/369/s2601/e], July 18, 1984, [98 Stat. 1127][/us/stat/98/1127], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
->     “(1) For purposes of section 210(a)(5) of the Social Security Act \[subsec. (a)(5) of this section\] (as in effect in January 1983 and as in effect on and after January 1, 1984) and section 3121(b)(5) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] \[[26 U.S.C. 3121(b)(5)][/us/usc/t26/s3121/b/5]\] (as so in effect), service performed in the employ of a nonprofit organization described in section 501(c)(3) of the Internal Revenue Code of 1986 \[[26 U.S.C. 501(c)(3)][/us/usc/t26/s501/c/3]\] by an employee who is required by law to be subject to subchapter III of chapter 83 of title 5, United States Code, with respect to such service, shall be considered to be service performed in the employ of an instrumentality of the United States.
+>     “(1) For purposes of section 210(a)(5) of the Social Security Act \[[42 U.S.C. 410(a)(5)][/us/usc/t42/s410/a/5]\] (as in effect in January 1983 and as in effect on and after January 1, 1984) and section 3121(b)(5) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] \[[26 U.S.C. 3121(b)(5)][/us/usc/t26/s3121/b/5]\] (as so in effect), service performed in the employ of a nonprofit organization described in section 501(c)(3) of the Internal Revenue Code of 1986 \[[26 U.S.C. 501(c)(3)][/us/usc/t26/s501/c/3]\] by an employee who is required by law to be subject to subchapter III of chapter 83 of title 5, United States Code, with respect to such service, shall be considered to be service performed in the employ of an instrumentality of the United States.
 
->     “(2) For purposes of section 203 of the Federal Employees’ Retirement Contribution Temporary Adjustment Act of 1983 \[[section 203 of Pub. L. 98–168][/us/pl/98/168/s203], set out as a note under [section 8331 of Title 5][/us/usc/t5/s8331], Government Organization and Employees\], service described in paragraph (1) which is also ‘employment’ for purposes of title II of the Social Security Act \[this subchapter\], shall be considered to be ‘covered service’.”
+>     “(2) For purposes of section 203 of the Federal Employees’ Retirement Contribution Temporary Adjustment Act of 1983 \[[section 203 of Pub. L. 98–168][/us/pl/98/168/s203], set out as a note under [section 8331 of Title 5][/us/usc/t5/s8331], Government Organization and Employees\], service described in paragraph (1) which is also ‘employment’ for purposes of title II of the Social Security Act \[[42 U.S.C. 401][/us/usc/t42/s401] et seq.\], shall be considered to be ‘covered service’.”
 
  __Accrued Federal Retirement Entitlements; Reduction Prohibited__ 
 
@@ -1093,11 +1093,11 @@ For the purposes of this subchapter—
 
 [Pub. L. 92–603, title I, § 125(a)][/us/pl/92/603/s125/a], Oct. 30, 1972, [86 Stat. 1357][/us/stat/86/1357], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that: 
 
-> “The provisions of section 210(a)(6)(B)(ii) of the Social Security Act \[subsec. (a)(6)(B)(ii) of this section\] and section 3121(b)(6)(B)(ii) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] \[[section 3121(b)(6)(B)(ii) of Title 26][/us/usc/t26/s3121/b/6/B/ii], Internal Revenue Code\], insofar as they relate to service performed in the employ of a Federal home loan bank, shall be effective—
+> “The provisions of section 210(a)(6)(B)(ii) of the Social Security Act \[subsec. (a)(6)(B)(ii) of this section\] and section 3121(b)(6)(B)(ii) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] \[[26 U.S.C. 3121(b)(6)(B)(ii)][/us/usc/t26/s3121/b/6/B/ii]\], insofar as they relate to service performed in the employ of a Federal home loan bank, shall be effective—
 
 >     “(1) with respect to all service performed in the employ of a Federal home loan bank on and after the first day of the first calendar quarter which begins on or after the date of the enactment of this Act \[Oct. 30, 1972\]; and
 
->     “(2) in the case of individuals who are in the employ of a Federal home loan bank on such first day, with respect to any service performed in the employ of a Federal home loan bank after the last day of the sixth calendar year preceding the year in which this Act is enacted \[1972\]; but this paragraph shall be effective only if an amount equal to the taxes imposed by sections 3101 and 3111 of such Code \[sections 3101 and 3111 of Title 26, Internal Revenue Code\] with respect to the services of all such individuals performed in the employ of Federal home loan banks after the last day of the sixth calendar year preceding the year in which this Act is enacted \[1972\] are paid under the provisions of section 3122 of such Code \[[section 3122 of Title 26][/us/usc/t26/s3122]\] by July 1, 1973, or by such later date as may be provided in an agreement entered into before such date with the Secretary of the Treasury or his delegate for purposes of this paragraph.”
+>     “(2) in the case of individuals who are in the employ of a Federal home loan bank on such first day, with respect to any service performed in the employ of a Federal home loan bank after the last day of the sixth calendar year preceding the year in which this Act is enacted \[1972\]; but this paragraph shall be effective only if an amount equal to the taxes imposed by sections 3101 and 3111 of such Code \[[26 U.S.C. 3101][/us/usc/t26/s3101], 3111\] with respect to the services of all such individuals performed in the employ of Federal home loan banks after the last day of the sixth calendar year preceding the year in which this Act is enacted \[1972\] are paid under the provisions of section 3122 of such Code \[[26 U.S.C. 3122][/us/usc/t26/s3122]\] by July 1, 1973, or by such later date as may be provided in an agreement entered into before such date with the Secretary of the Treasury or his delegate for purposes of this paragraph.”
 
  __Covered Employment Not Counted Under Other Federal Retirement Systems__ 
 
@@ -1473,6 +1473,7 @@ For the purposes of this subchapter—
 [/us/usc/t26/s162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs162
 [/us/pl/99/272/s13205/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs13205%2Fd%2F2
 [/us/stat/100/318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F318
+[/us/usc/t42/s1395c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395c
 [/us/pl/99/221/s3/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F221%2Fs3%2Fc
 [/us/stat/99/1736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1736
 [/us/usc/t26/s3121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs3121
@@ -1538,6 +1539,7 @@ For the purposes of this subchapter—
 [/us/usc/t26/s3121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs3121
 [/us/pl/89/97/s317/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97%2Fs317%2Fg
 [/us/stat/79/390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F390
+[/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
 [/us/pl/87/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F293
 [/us/pl/87/293/s202/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F293%2Fs202%2Fc
 [/us/usc/t26/s3121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs3121
@@ -1591,6 +1593,7 @@ For the purposes of this subchapter—
 [/us/stat/86/1357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1357
 [/us/pl/92/603/s125/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603%2Fs125%2Fb
 [/us/stat/86/1357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1357
+[/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
 [/us/act/1956-08-01/ch836]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-01%2Fch836
 [/us/usc/t42/s409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs409
 [/us/usc/t42/s405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs405
@@ -1610,6 +1613,7 @@ For the purposes of this subchapter—
 [/us/stat/98/1126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1126
 [/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
+[/us/usc/t42/s410/a/5/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs410%2Fa%2F5%2FG
 [/us/usc/t26/s3121/b/5/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs3121%2Fb%2F5%2FG
 [/us/pl/98/168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F168
 [/us/stat/97/1106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1106
@@ -1618,6 +1622,7 @@ For the purposes of this subchapter—
 [/us/stat/98/1126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1126
 [/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
 [/us/stat/100/2916]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2916
+[/us/usc/t42/s410/a/5/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs410%2Fa%2F5%2FG
 [/us/usc/t26/s3121/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs3121%2Fb%2F5
 [/us/pl/99/514/s1883/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1883%2Fa%2F5
 [/us/stat/100/2916]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2916
@@ -1626,10 +1631,12 @@ For the purposes of this subchapter—
 [/us/stat/98/1127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1127
 [/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
+[/us/usc/t42/s410/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs410%2Fa%2F5
 [/us/usc/t26/s3121/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs3121%2Fb%2F5
 [/us/usc/t26/s501/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs501%2Fc%2F3
 [/us/pl/98/168/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F168%2Fs203
 [/us/usc/t5/s8331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8331
+[/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
 [/us/pl/98/21/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21%2Fs101%2Fe
 [/us/stat/97/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F70
 [/us/usc/t42/s1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1305
@@ -1638,6 +1645,7 @@ For the purposes of this subchapter—
 [/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
 [/us/usc/t26/s3121/b/6/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs3121%2Fb%2F6%2FB%2Fii
+[/us/usc/t26/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs3101
 [/us/usc/t26/s3122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs3122
 [/us/act/1954-09-01/ch1206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-09-01%2Fch1206
 [/us/stat/68/1087]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F1087

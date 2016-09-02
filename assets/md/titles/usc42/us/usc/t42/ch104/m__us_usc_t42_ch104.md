@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 9701.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs9701" data-uslm-ref="/us/usc/t42/s9701">9701.</a>  </td>
 
     <td> Congressional findings and declaration of policy.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 9702.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs9702" data-uslm-ref="/us/usc/t42/s9702">9702.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 9703.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs9703" data-uslm-ref="/us/usc/t42/s9703">9703.</a>  </td>
 
     <td> Research, development, and demonstration program; establishment; purposes; implementation.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 9704.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs9704" data-uslm-ref="/us/usc/t42/s9704">9704.</a>  </td>
 
     <td> National reactor engineering simulator feasibility study.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 9705.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs9705" data-uslm-ref="/us/usc/t42/s9705">9705.</a>  </td>
 
     <td> Federal Nuclear Operations Corps’ study.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 9706.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs9706" data-uslm-ref="/us/usc/t42/s9706">9706.</a>  </td>
 
     <td> Dissemination of information.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 9707.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs9707" data-uslm-ref="/us/usc/t42/s9707">9707.</a>  </td>
 
     <td> Comprehensive program management plan.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 9708.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs9708" data-uslm-ref="/us/usc/t42/s9708">9708.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 

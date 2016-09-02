@@ -595,7 +595,7 @@
 
 [Pub. L. 99–660, title I, § 105(b)][/us/pl/99/660/s105/b], Nov. 14, 1986, [100 Stat. 3752][/us/stat/100/3752], provided that: 
 
-> “Paragraph (1) of section 351(h) of the Public Health Service Act \[former subsec. (h)(1) of this section\] as added by subsection (a) shall take effect upon the expiration of 90 days after the date of the enactment of this Act \[Nov. 14, 1986\].”
+> “Paragraph (1) of section 351(h) of the Public Health Service Act \[former [42 U.S.C. 262(h)(1)][/us/usc/t42/s262/h/1]\] as added by subsection (a) shall take effect upon the expiration of 90 days after the date of the enactment of this Act \[Nov. 14, 1986\].”
 
     Amendment by [section 315 of Pub. L. 99–660][/us/pl/99/660/s315] effective Dec. 22, 1987, see [section 323 of Pub. L. 99–660][/us/pl/99/660/s323], as amended, set out as an Effective Date note under [section 300aa–1 of this title][/us/usc/t42/s300aa–1].
 
@@ -806,6 +806,7 @@
 [/us/usc/t21/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs321
 [/us/pl/99/660/s105/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660%2Fs105%2Fb
 [/us/stat/100/3752]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3752
+[/us/usc/t42/s262/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs262%2Fh%2F1
 [/us/pl/99/660/s315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660%2Fs315
 [/us/pl/99/660/s323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660%2Fs323
 [/us/usc/t42/s300aa–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300aa%E2%80%931

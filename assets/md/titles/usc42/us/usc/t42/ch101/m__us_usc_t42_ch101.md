@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 9301.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs9301" data-uslm-ref="/us/usc/t42/s9301">9301.</a>  </td>
 
     <td> Congressional findings and declaration of policy.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 9302.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs9302" data-uslm-ref="/us/usc/t42/s9302">9302.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 9303.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs9303" data-uslm-ref="/us/usc/t42/s9303">9303.</a>  </td>
 
     <td> Program activities.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 9304.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs9304" data-uslm-ref="/us/usc/t42/s9304">9304.</a>  </td>
 
     <td> Comprehensive program management plan; submittal to Congressional committees.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 9305.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs9305" data-uslm-ref="/us/usc/t42/s9305">9305.</a>  </td>
 
     <td> Magnetic fusion engineering center.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 9306.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs9306" data-uslm-ref="/us/usc/t42/s9306">9306.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 9307.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs9307" data-uslm-ref="/us/usc/t42/s9307">9307.</a>  </td>
 
     <td> Program advisory committees.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 9308.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs9308" data-uslm-ref="/us/usc/t42/s9308">9308.</a>  </td>
 
     <td> International cooperation; examination of impact on national magnetic fusion program; exploration of prospects for joint funding in construction of fusion engineering device; report to Congressional committees on results of examination and exploration.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 9309.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs9309" data-uslm-ref="/us/usc/t42/s9309">9309.</a>  </td>
 
     <td> Technical manpower requirements; report to President and Congress.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 9310.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs9310" data-uslm-ref="/us/usc/t42/s9310">9310.</a>  </td>
 
     <td> Dissemination of information.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 9311.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs9311" data-uslm-ref="/us/usc/t42/s9311">9311.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 9312.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs9312" data-uslm-ref="/us/usc/t42/s9312">9312.</a>  </td>
 
     <td> Authorization of appropriations; contract authority.  </td>
 

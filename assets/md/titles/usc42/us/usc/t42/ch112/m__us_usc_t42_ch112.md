@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 10601.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs10601" data-uslm-ref="/us/usc/t42/s10601">10601.</a>  </td>
 
     <td> Crime Victims Fund.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 10602.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs10602" data-uslm-ref="/us/usc/t42/s10602">10602.</a>  </td>
 
     <td> Crime victim compensation.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 10603.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs10603" data-uslm-ref="/us/usc/t42/s10603">10603.</a>  </td>
 
     <td> Crime victim assistance.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 10603a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs10603a" data-uslm-ref="/us/usc/t42/s10603a">10603a.</a>  </td>
 
     <td> Child abuse prevention and treatment grants.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 10603b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs10603b" data-uslm-ref="/us/usc/t42/s10603b">10603b.</a>  </td>
 
     <td> Compensation and assistance to victims of terrorism or mass violence.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 10603c.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs10603c" data-uslm-ref="/us/usc/t42/s10603c">10603c.</a>  </td>
 
     <td> Compensation to victims of international terrorism.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 10603d.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs10603d" data-uslm-ref="/us/usc/t42/s10603d">10603d.</a>  </td>
 
     <td> Crime victims legal assistance grants.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 10603e.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs10603e" data-uslm-ref="/us/usc/t42/s10603e">10603e.</a>  </td>
 
     <td> Crime victims notification grants.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 10604.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs10604" data-uslm-ref="/us/usc/t42/s10604">10604.</a>  </td>
 
     <td> Administrative provisions.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 10605.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs10605" data-uslm-ref="/us/usc/t42/s10605">10605.</a>  </td>
 
     <td> Establishment of Office for Victims of Crime.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 10606.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs10606" data-uslm-ref="/us/usc/t42/s10606">10606.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 10607.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs10607" data-uslm-ref="/us/usc/t42/s10607">10607.</a>  </td>
 
     <td> Services to victims.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 10608.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs10608" data-uslm-ref="/us/usc/t42/s10608">10608.</a>  </td>
 
     <td> Closed circuit televised court proceedings for victims of crime.  </td>
 

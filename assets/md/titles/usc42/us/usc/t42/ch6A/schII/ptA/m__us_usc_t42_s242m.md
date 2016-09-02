@@ -215,7 +215,7 @@
 
  __Effective Date of 1988 Amendment__ 
 
-[Section 2600 of Pub. L. 100–690][/us/pl/100/690/s2600] provided that: 
+[Pub. L. 100–690, title II, § 2600][/us/pl/100/690/s2600], [102 Stat. 4233][/us/stat/102/4233], provided that: 
 
 > “Except as provided in section 2613(b)(1) \[[42 U.S.C. 285m][/us/usc/t42/s285m] note\], the amendments made by this subtitle \[subtitle G (§§ 2600–2641) of title II of [Pub. L. 100–690][/us/pl/100/690], enacting sections 285m–4 to 285m–6 of this title, amending this section, sections 242c, 281, 284, 284c, 285j, 285m, 285m–1 to 285m–6, 286, 289f, 290cc–28, 290cc–36, 292h, 294a, 295g–4, 295g–7, 295g–8b, 295h, 295h–5, 295j, 297j, 297n, 300cc–3, 300cc–13, 300cc–17, 300cc–20, 300cc–31, 300dd–1, 300dd–3, 300dd–8, 300dd–10, 300dd–12 to 300dd–14, 300dd–21, 300dd–32, 300ee, 300ee–2, 300ee–5, 300ee–12, 300ee–13, 300ee–15 to 300ee–18, 300ee–20, 300ee–22, 300ee–34, 300ff–48, and 300aaa to 300aaa–13 of this title, and [section 393 of Title 21][/us/usc/t21/s393], Food and Drugs, enacting provisions set out as notes under [section 285m of this title][/us/usc/t42/s285m], amending provisions set out as notes under sections 201, 292h, 300cc, 300ee–1, and 300ff–48 of this title, and repealing provisions set out as a note under [section 285m of this title][/us/usc/t42/s285m]\] shall take effect immediately after the enactment of the Health Omnibus Programs Extension of 1988 \[Nov. 4, 1988\].”
 
@@ -233,7 +233,7 @@
 
 [Pub. L. 93–353, title I, § 107(b)][/us/pl/93/353/s107/b], July 23, 1974, [88 Stat. 371][/us/stat/88/371], provided that: 
 
-> “The authorizations of appropriations provided by section 308(i) of the Public Health Service Act \[subsec. (i) of this section\] is extended for the fiscal year ending June 30, 1977, in the amounts authorized for the preceding fiscal year unless before June 30, 1976, Congress has passed legislation repealing this subsection.”
+> “The authorizations of appropriations provided by section 308(i) of the Public Health Service Act \[[42 U.S.C. 242m(i)][/us/usc/t42/s242m/i]\] is extended for the fiscal year ending June 30, 1977, in the amounts authorized for the preceding fiscal year unless before June 30, 1976, Congress has passed legislation repealing this subsection.”
 
 ----------
 
@@ -371,6 +371,7 @@
 [/us/stat/112/3587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3587
 [/us/pl/103/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F183
 [/us/pl/100/690/s2600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs2600
+[/us/stat/102/4233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4233
 [/us/usc/t42/s285m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs285m
 [/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
 [/us/usc/t21/s393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs393
@@ -383,5 +384,6 @@
 [/us/stat/92/3455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3455
 [/us/pl/93/353/s107/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F353%2Fs107%2Fb
 [/us/stat/88/371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F371
+[/us/usc/t42/s242m/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs242m%2Fi
 
 

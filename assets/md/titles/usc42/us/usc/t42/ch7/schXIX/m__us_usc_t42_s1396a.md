@@ -3219,7 +3219,7 @@ See 2010 Amendment notes below.
 
 [Pub. L. 109–171, title VI, § 6034(e)][/us/pl/109/171/s6034/e], Feb. 8, 2006, [120 Stat. 78][/us/stat/120/78], provided that: 
 
-> “Except as otherwise provided in this chapter \[chapter 3 (§§ 6031–6036) of subtitle A of title VI of [Pub. L. 109–171][/us/pl/109/171], enacting sections 1396h and 1396u–6 of this title, amending this section and sections 1395i, 1395ddd, 1396b, and 1396v of this title, and enacting provisions set out as notes under this section and sections 1396b and 1396h of this title\], in the case of a State plan under title XIX of the Social Security Act \[this subchapter\] which the Secretary determines requires State legislation in order for the plan to meet the additional requirements imposed by the amendments made by a provision of this chapter, the State plan shall not be regarded as failing to comply with the requirements of such Act \[this chapter\] solely on the basis of its failure to meet these additional requirements before the first day of the first calendar quarter beginning after the close of the first regular session of the State legislature that begins after the date of enactment of this Act \[Feb. 8, 2006\]. For purposes of the previous sentence, in the case of a State that has a 2-year legislative session, each year of the session shall be considered to be a separate regular session of the State legislature.”
+> “Except as otherwise provided in this chapter \[chapter 3 (§§ 6031–6036) of subtitle A of title VI of [Pub. L. 109–171][/us/pl/109/171], enacting sections 1396h and 1396u–6 of this title, amending this section and sections 1395i, 1395ddd, 1396b, and 1396v of this title, and enacting provisions set out as notes under this section and sections 1396b and 1396h of this title\], in the case of a State plan under title XIX of the Social Security Act \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\] which the Secretary determines requires State legislation in order for the plan to meet the additional requirements imposed by the amendments made by a provision of this chapter, the State plan shall not be regarded as failing to comply with the requirements of such Act \[[42 U.S.C. 301][/us/usc/t42/s301] et seq.\] solely on the basis of its failure to meet these additional requirements before the first day of the first calendar quarter beginning after the close of the first regular session of the State legislature that begins after the date of enactment of this Act \[Feb. 8, 2006\]. For purposes of the previous sentence, in the case of a State that has a 2-year legislative session, each year of the session shall be considered to be a separate regular session of the State legislature.”
 
 [Pub. L. 109–171, title VI, § 6035(c)][/us/pl/109/171/s6035/c], Feb. 8, 2006, [120 Stat. 80][/us/stat/120/80], as amended by [Pub. L. 109–432, div. B, title IV, § 405(c)(2)(A)(iii)][/us/pl/109/432/s405/c/2/A/iii], Dec. 20, 2006, [120 Stat. 3000][/us/stat/120/3000], provided that: 
 
@@ -3333,7 +3333,7 @@ See 2010 Amendment notes below.
 
 [Pub. L. 105–33, title IV, § 4714(c)][/us/pl/105/33/s4714/c], Aug. 5, 1997, [111 Stat. 510][/us/stat/111/510], provided that: 
 
-> “The amendments made by this section \[amending this section and sections 1395w–4, 1395cc, 1396d of this title\] shall apply to payment for (and with respect to provider agreements with respect to) items and services furnished on or after the date of the enactment of this Act \[Aug. 5, 1997\]. The amendments made by subsection (a) \[amending this section and [section 1396d of this title][/us/usc/t42/s1396d]\] shall also apply to payment by a State for items and services furnished before such date if such payment is the subject of a law suit that is based on the provisions of sections 1902(n) and 1905(p) of the Social Security Act \[subsec. (n) of this section and [section 1396d(p) of this title][/us/usc/t42/s1396d/p]\] and that is pending as of, or is initiated after, the date of the enactment of this Act.”
+> “The amendments made by this section \[amending this section and sections 1395w–4, 1395cc, 1396d of this title\] shall apply to payment for (and with respect to provider agreements with respect to) items and services furnished on or after the date of the enactment of this Act \[Aug. 5, 1997\]. The amendments made by subsection (a) \[amending this section and [section 1396d of this title][/us/usc/t42/s1396d]\] shall also apply to payment by a State for items and services furnished before such date if such payment is the subject of a law suit that is based on the provisions of sections 1902(n) and 1905(p) of the Social Security Act \[[42 U.S.C. 1396a(n)][/us/usc/t42/s1396a/n], 1396d(p)\] and that is pending as of, or is initiated after, the date of the enactment of this Act.”
 
 [Pub. L. 105–33, title IV, § 4715(b)][/us/pl/105/33/s4715/b], Aug. 5, 1997, [111 Stat. 511][/us/stat/111/511], provided that: 
 
@@ -3417,7 +3417,7 @@ See 2010 Amendment notes below.
 
 >     “(1) Except as provided in paragraph (2), the amendments made by subsections (a)(1), (b), and (c) \[amending this section\] shall apply to calendar quarters beginning on or after October 1, 1993, without regard to whether or not final regulations to carry out such amendments have been promulgated by such date.
 
->     “(2) In the case of a State plan for medical assistance under title XIX of the Social Security Act \[this subchapter\] which the Secretary of Health and Human Services determines requires State legislation (other than legislation appropriating funds) in order for the plan to meet the additional requirements imposed by the amendments made by subsections (a) and (b) \[amending this section and [section 1396b of this title][/us/usc/t42/s1396b]\], the State plan shall not be regarded as failing to comply with the requirements of such title solely on the basis of its failure to meet these additional requirements before the first day of the first calendar quarter beginning after the close of the first regular session of the State legislature that begins after the date of the enactment of this Act \[Aug. 10, 1993\]. For purposes of the preceding sentence, in the case of a State that has a 2-year legislative session, each year of such session shall be deemed to be a separate regular session of the State legislature.
+>     “(2) In the case of a State plan for medical assistance under title XIX of the Social Security Act \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\] which the Secretary of Health and Human Services determines requires State legislation (other than legislation appropriating funds) in order for the plan to meet the additional requirements imposed by the amendments made by subsections (a) and (b) \[amending this section and [section 1396b of this title][/us/usc/t42/s1396b]\], the State plan shall not be regarded as failing to comply with the requirements of such title solely on the basis of its failure to meet these additional requirements before the first day of the first calendar quarter beginning after the close of the first regular session of the State legislature that begins after the date of the enactment of this Act \[Aug. 10, 1993\]. For purposes of the preceding sentence, in the case of a State that has a 2-year legislative session, each year of such session shall be deemed to be a separate regular session of the State legislature.
 
 >     “(3) The amendment made by subsection (a)(2) \[amending [section 1396b of this title][/us/usc/t42/s1396b]\] shall apply to items and services furnished on or after October 1, 1993.”
 
@@ -3425,7 +3425,7 @@ See 2010 Amendment notes below.
 
 [Pub. L. 103–66, title XIII, § 13625(b)][/us/pl/103/66/s13625/b], Aug. 10, 1993, [107 Stat. 636][/us/stat/107/636], provided that: 
 
-> “Section 1902(a)(61) of the Social Security Act \[subsec. (a)(61) of this section\] (as added by subsection (a)) shall take effect January 1, 1995, and the standards referred to in such section shall be established not later than March 31, 1994.”
+> “Section 1902(a)(61) of the Social Security Act \[[42 U.S.C. 1396a(a)(61)][/us/usc/t42/s1396a/a/61]\] (as added by subsection (a)) shall take effect January 1, 1995, and the standards referred to in such section shall be established not later than March 31, 1994.”
 
 [Pub. L. 103–66, title XIII, § 13631(e)(2)][/us/pl/103/66/s13631/e/2], Aug. 10, 1993, [107 Stat. 644][/us/stat/107/644], provided that: 
 
@@ -3435,11 +3435,11 @@ See 2010 Amendment notes below.
 
 >     “(A) Except as provided in subparagraph (B), the amendments made by this subsection \[amending this section and [section 1396d of this title][/us/usc/t42/s1396d]\] shall apply to calendar quarters beginning on or after October 1, 1993, without regard to whether or not final regulations to carry out such amendments have been promulgated by such date.
 
->     “(B) In the case of a State plan for medical assistance under title XIX of the Social Security Act \[this subchapter\] which the Secretary of Health and Human Services determines requires State legislation (other than legislation appropriating funds) in order for the plan to meet the additional requirements imposed by the amendments made by this subsection, the State plan shall not be regarded as failing to comply with the requirements of such title solely on the basis of its failure to meet these additional requirements before the first day of the first calendar quarter beginning after the close of the first regular session of the State legislature that begins after the date of the enactment of this Act \[Aug. 10, 1993\]. For purposes of the previous sentence, in the case of a State that has a 2-year legislative session, each year of such session shall be deemed to be a separate regular session of the State legislature.”
+>     “(B) In the case of a State plan for medical assistance under title XIX of the Social Security Act \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\] which the Secretary of Health and Human Services determines requires State legislation (other than legislation appropriating funds) in order for the plan to meet the additional requirements imposed by the amendments made by this subsection, the State plan shall not be regarded as failing to comply with the requirements of such title solely on the basis of its failure to meet these additional requirements before the first day of the first calendar quarter beginning after the close of the first regular session of the State legislature that begins after the date of the enactment of this Act \[Aug. 10, 1993\]. For purposes of the previous sentence, in the case of a State that has a 2-year legislative session, each year of such session shall be deemed to be a separate regular session of the State legislature.”
 
 [Pub. L. 103–66, title XIII, § 13631(i)][/us/pl/103/66/s13631/i], Aug. 10, 1993, [107 Stat. 645][/us/stat/107/645], provided that: 
 
-> “Except as otherwise provided in this section, the amendments made by this section \[enacting [section 1396s of this title][/us/usc/t42/s1396s], transferring former [section 1396s of this title][/us/usc/t42/s1396s] to [section 1396v of this title][/us/usc/t42/s1396v], and amending this section and sections 1396b and 1396d of this title\] shall apply to payments under State plans approved under title XIX of the Social Security Act \[this subchapter\] for calendar quarters beginning on or after October 1, 1994.”
+> “Except as otherwise provided in this section, the amendments made by this section \[enacting [section 1396s of this title][/us/usc/t42/s1396s], transferring former [section 1396s of this title][/us/usc/t42/s1396s] to [section 1396v of this title][/us/usc/t42/s1396v], and amending this section and sections 1396b and 1396d of this title\] shall apply to payments under State plans approved under title XIX of the Social Security Act \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\] for calendar quarters beginning on or after October 1, 1994.”
 
  __Effective Date of 1991 Amendment__ 
 
@@ -3455,7 +3455,7 @@ See 2010 Amendment notes below.
 
 [Pub. L. 101–508, title IV, § 4402(e)][/us/pl/101/508/s4402/e], Nov. 5, 1990, [104 Stat. 1388–164][/us/stat/104/1388-164], provided that:
 
->     “(1) The amendments made by this section \[enacting [section 1396e of this title][/us/usc/t42/s1396e] and amending this section and sections 1396b and 1396d of this title\] apply (except as provided under paragraph (2)) to payments under title XIX of the Social Security Act \[this subchapter\] for calendar quarters beginning on or after January 1, 1991, without regard to whether or not final regulations to carry out such amendments have been promulgated by such date.
+>     “(1) The amendments made by this section \[enacting [section 1396e of this title][/us/usc/t42/s1396e] and amending this section and sections 1396b and 1396d of this title\] apply (except as provided under paragraph (2)) to payments under title XIX of the Social Security Act \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\] for calendar quarters beginning on or after January 1, 1991, without regard to whether or not final regulations to carry out such amendments have been promulgated by such date.
 
 >     “(2) In the case of a State plan for medical assistance under title XIX of the Social Security Act which the Secretary of Health and Human Services determines requires State legislation (other than legislation authorizing or appropriating funds) in order for the plan to meet the additional requirements imposed by the amendments made by subsection (a) \[enacting [section 1396e of this title][/us/usc/t42/s1396e] and amending this section\], the State plan shall not be regarded as failing to comply with the requirements of such title solely on the basis of its failure to meet this additional requirement before the first day of the first calendar quarter beginning after the close of the first regular session of the State legislature that begins after the date of the enactment of this Act \[Nov. 5, 1990\]. For purposes of the previous sentence, in the case of a State that has a 2-year legislative session, each year of such session shall be deemed to be a separate regular session of the State legislature.”
 
@@ -3465,13 +3465,13 @@ See 2010 Amendment notes below.
 
 [Pub. L. 101–508, title IV, § 4601(b)][/us/pl/101/508/s4601/b], Nov. 5, 1990, [104 Stat. 1388–167][/us/stat/104/1388-167], provided that:
 
->     “(1) The amendments made by this subsection \[probably should be “section”, which amended this section and sections 1396b, 1396d, and 1396r–6 of this title\] apply (except as otherwise provided in this subsection) to payments under title XIX of the Social Security Act \[this subchapter\] for calendar quarters beginning on or after July 1, 1991, without regard to whether or not final regulations to carry out such amendments have been promulgated by such date.
+>     “(1) The amendments made by this subsection \[probably should be “section”, which amended this section and sections 1396b, 1396d, and 1396r–6 of this title\] apply (except as otherwise provided in this subsection) to payments under title XIX of the Social Security Act \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\] for calendar quarters beginning on or after July 1, 1991, without regard to whether or not final regulations to carry out such amendments have been promulgated by such date.
 
 >     “(2) In the case of a State plan for medical assistance under title XIX of the Social Security Act which the Secretary of Health and Human Services determines requires State legislation (other than legislation authorizing or appropriating funds) in order for the plan to meet the additional requirements imposed by the amendments made by this subsection \[section\], the State plan shall not be regarded as failing to comply with the requirements of such title solely on the basis of its failure to meet these additional requirements before the first day of the first calendar quarter beginning after the close of the first regular session of the State legislature that begins after the date of the enactment of this Act \[Nov. 5, 1990\]. For purposes of the previous sentence, in the case of a State that has a 2-year legislative session, each year of such session shall be deemed to be a separate regular session of the State legislature.”
 
 [Pub. L. 101–508, title IV, § 4602(b)][/us/pl/101/508/s4602/b], Nov. 5, 1990, [104 Stat. 1388–167][/us/stat/104/1388-167], provided that: 
 
-> “The amendments made by subsection (a) \[amending this section\] apply to payments under title XIX of the Social Security Act \[this subchapter\] for calenar \[sic\] quarters beginning on or after July 1, 1991, without regard to whether or not final regulations to carry out such amendments have been promulgated by such date.”
+> “The amendments made by subsection (a) \[amending this section\] apply to payments under title XIX of the Social Security Act \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\] for calenar \[sic\] quarters beginning on or after July 1, 1991, without regard to whether or not final regulations to carry out such amendments have been promulgated by such date.”
 
 [Pub. L. 101–508, title IV, § 4603(b)][/us/pl/101/508/s4603/b], Nov. 5, 1990, [104 Stat. 1388–168][/us/stat/104/1388-168], provided that:
 
@@ -3485,7 +3485,7 @@ See 2010 Amendment notes below.
 
 [Pub. L. 101–508, title IV, § 4604(d)][/us/pl/101/508/s4604/d], Nov. 5, 1990, [104 Stat. 1388–169][/us/stat/104/1388-169], provided that:
 
->     “(1) The amendments made by this subsection \[probably should be “section”, which amended this section and [section 1396n of this title][/us/usc/t42/s1396n]\] shall become effective with respect to payments under title XIX of the Social Security Act \[this subchapter\] for calendar quarters beginning on or after July 1, 1991, without regard to whether or not final regulations to carry out such amendments have been promulgated by such date.
+>     “(1) The amendments made by this subsection \[probably should be “section”, which amended this section and [section 1396n of this title][/us/usc/t42/s1396n]\] shall become effective with respect to payments under title XIX of the Social Security Act \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\] for calendar quarters beginning on or after July 1, 1991, without regard to whether or not final regulations to carry out such amendments have been promulgated by such date.
 
 >     “(2) In the case of a State plan for medical assistance under title XIX of the Social Security Act which the Secretary of Health and Human Services determines requires State legislation (other than legislation authorizing or appropriating funds) in order for the plan to meet the additional requirements imposed by the amendments made by this subsection \[section\], the State plan shall not be regarded as failing to comply with the requirements of such title solely on the basis of its failure to meet these additional requirements before the first day of the first calendar quarter beginning after the close of the first regular session of the State legislature that begins after the date of the enactment of this Act \[Nov. 5, 1990\]. For purposes of the previous sentence, in the case of a State that has a 2-year legislative session, each year of such session shall be deemed to be a separate regular session of the State legislature.”
 
@@ -3505,7 +3505,7 @@ See 2010 Amendment notes below.
 
 >     “(2)
 
->         (A) The amendments made by subsection (c)(1) \[amending this section\] shall apply to home and community care furnished on or after July 1, 1991, or, if later, 30 days after the date of publication of interim regulations under section 1929(k)(1) \[[section 1396t(k)(1) of this title][/us/usc/t42/s1396t/k/1]\].
+>         (A) The amendments made by subsection (c)(1) \[amending this section\] shall apply to home and community care furnished on or after July 1, 1991, or, if later, 30 days after the date of publication of interim regulations under section 1929(k)(1) \[[42 U.S.C. 1396t(k)(1)][/us/usc/t42/s1396t/k/1]\].
 
 >         “(B) The amendment made by subsection (c)(2) \[amending [section 1396b of this title][/us/usc/t42/s1396b]\] shall apply to civil money penalties imposed after the date of the enactment of this Act \[Nov. 5, 1990\].”
 
@@ -3527,7 +3527,7 @@ See 2010 Amendment notes below.
 
 [Pub. L. 101–508, title IV, § 4752(c)(2)][/us/pl/101/508/s4752/c/2], Nov. 5, 1990, [104 Stat. 1388–207][/us/stat/104/1388-207], provided that: 
 
-> “The amendments made by paragraph (1) \[amending this section\] shall apply to medical assistance for calendar quarters beginning more than 60 days after the date of establishment of the physician identifier system under section 1902(x) of the Social Security Act \[subsec. (x) of this section\].”
+> “The amendments made by paragraph (1) \[amending this section\] shall apply to medical assistance for calendar quarters beginning more than 60 days after the date of establishment of the physician identifier system under section 1902(x) of the Social Security Act \[[42 U.S.C. 1396a(x)][/us/usc/t42/s1396a/x]\].”
 
 [Pub. L. 101–508, title IV, § 4754(b)][/us/pl/101/508/s4754/b], Nov. 5, 1990, [104 Stat. 1388–209][/us/stat/104/1388-209], provided that: 
 
@@ -3547,7 +3547,7 @@ See 2010 Amendment notes below.
 
 [Pub. L. 101–239, title VI, § 6401(c)][/us/pl/101/239/s6401/c], Dec. 19, 1989, [103 Stat. 2259][/us/stat/103/2259], provided that:
 
->     “(1) Except as provided in paragraph (2), the amendments made by this section \[amending this section and [section 1396b of this title][/us/usc/t42/s1396b]\] shall apply to payments under title XIX of the Social Security Act \[this subchapter\] for calendar quarters beginning on or after April 1, 1990, with respect to eligibility for medical assistance on or after such date, without regard to whether or not final regulations to carry out such amendments have been promulgated by such date.
+>     “(1) Except as provided in paragraph (2), the amendments made by this section \[amending this section and [section 1396b of this title][/us/usc/t42/s1396b]\] shall apply to payments under title XIX of the Social Security Act \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\] for calendar quarters beginning on or after April 1, 1990, with respect to eligibility for medical assistance on or after such date, without regard to whether or not final regulations to carry out such amendments have been promulgated by such date.
 
 >     “(2) In the case of a State plan for medical assistance under title XIX of the Social Security Act which the Secretary of Health and Human Services determines requires State legislation (other than legislation appropriating funds) in order for the plan to meet the additional requirements imposed by the amendments made by this section, the State plan shall not be regarded as failing to comply with the requirements of such title solely on the basis of its failure to meet these additional requirements before the first day of the first calendar quarter beginning after the close of the first regular session of the State legislature that begins after the date of the enactment of this Act \[Dec. 19, 1989\]. For purposes of the previous sentence, in the case of a State that has a 2-year legislative session, each year of such session shall be deemed to be a separate regular session of the State legislature.”
 
@@ -3561,7 +3561,7 @@ See 2010 Amendment notes below.
 
 [Pub. L. 101–239, title VI, § 6404(d)][/us/pl/101/239/s6404/d], Dec. 19, 1989, [103 Stat. 2264][/us/stat/103/2264], provided that:
 
->     “(1) The amendments made by this section \[amending this section and [section 1396d of this title][/us/usc/t42/s1396d]\] apply (except as provided under paragraph (2)) to payments under title XIX of the Social Security Act \[this subchapter\] for calendar quarters beginning on or after April 1, 1990, without regard to whether or not final regulations to carry out such amendments have been promulgated by such date.
+>     “(1) The amendments made by this section \[amending this section and [section 1396d of this title][/us/usc/t42/s1396d]\] apply (except as provided under paragraph (2)) to payments under title XIX of the Social Security Act \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\] for calendar quarters beginning on or after April 1, 1990, without regard to whether or not final regulations to carry out such amendments have been promulgated by such date.
 
 >     “(2) In the case of a State plan for medical assistance under title XIX of the Social Security Act which the Secretary of Health and Human Services determines requires State legislation (other than legislation appropriating funds) in order for the plan to meet the additional requirements imposed by the amendments made by this section, the State plan shall not be regarded as failing to comply with the requirements of such title solely on the basis of its failure to meet these additional requirements before the first day of the first calendar quarter beginning after the close of the first regular session of the State legislature that begins after the date of the enactment of this Act \[Dec. 19, 1989\]. For purposes of the previous sentence, in the case of a State that has a 2-year legislative session, each year of such session shall be deemed to be a separate regular session of the State legislature.”
 
@@ -3579,7 +3579,7 @@ See 2010 Amendment notes below.
 
 [Pub. L. 101–239, title VI, § 6408(d)(5)][/us/pl/101/239/s6408/d/5], Dec. 19, 1989, [103 Stat. 2269][/us/stat/103/2269], provided that:
 
->     “(A) The amendments made by this subsection \[amending this section and sections 1396d and 1396o of this title\] apply (except as provided under subparagraph (B)) to payments under title XIX of the Social Security Act \[this subchapter\] for calendar quarters beginning on or after July 1, 1990, without regard to whether or not final regulations to carry out such amendments have been promulgated by such date.
+>     “(A) The amendments made by this subsection \[amending this section and sections 1396d and 1396o of this title\] apply (except as provided under subparagraph (B)) to payments under title XIX of the Social Security Act \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\] for calendar quarters beginning on or after July 1, 1990, without regard to whether or not final regulations to carry out such amendments have been promulgated by such date.
 
 >     “(B) In the case of a State plan for medical assistance under title XIX of the Social Security Act which the Secretary of Health and Human Services determines requires State legislation (other than legislation appropriating funds) in order for the plan to meet the additional requirements imposed by the amendments made by this subsection, the State plan shall not be regarded as failing to comply with the requirements of such title solely on the basis of its failure to meet these additional requirements before the first day of the first calendar quarter beginning after the close of the first regular session of the State legislature that begins after the date of the enactment of this Act \[Dec. 19, 1989\]. For purposes of the previous sentence, in the case of a State that has a 2-year legislative session, each year of such session shall be deemed to be a separate regular session of the State legislature.”
 
@@ -3611,7 +3611,7 @@ See 2010 Amendment notes below.
 
 [Pub. L. 100–485, title III, § 303(f)][/us/pl/100/485/s303/f], Oct. 13, 1988, [102 Stat. 2393][/us/stat/102/2393], as amended by [Pub. L. 101–239, title VI, § 6411(i)(2)][/us/pl/101/239/s6411/i/2], Dec. 19, 1989, [103 Stat. 2273][/us/stat/103/2273]; [Pub. L. 104–193, title I, § 110(q)][/us/pl/104/193/s110/q], Aug. 22, 1996, [110 Stat. 2175][/us/stat/110/2175], provided that:
 
->     “(1) The amendments made by this section \[enacting [section 1396r–6 of this title][/us/usc/t42/s1396r–6], amending this section and [section 1396d of this title][/us/usc/t42/s1396d]\] (other than subsections (b)(3), (d), and (e) \[amending this section and [section 602 of this title][/us/usc/t42/s602] and provisions formerly set out as a note under [section 606 of this title][/us/usc/t42/s606]\]) shall apply to payments under title XIX of the Social Security Act \[this subchapter\] for calendar quarters beginning on or after April 1, 1990 (or, in the case of the Commonwealth of Kentucky, October 1, 1990) (without regard to whether regulations to implement such amendments are promulgated by such date), with respect to families that cease to be eligible for aid under part A of title IV of the Social Security Act \[part A of subchapter IV of this chapter\] on or after such date.
+>     “(1) The amendments made by this section \[enacting [section 1396r–6 of this title][/us/usc/t42/s1396r–6], amending this section and [section 1396d of this title][/us/usc/t42/s1396d]\] (other than subsections (b)(3), (d), and (e) \[amending this section and [section 602 of this title][/us/usc/t42/s602] and provisions formerly set out as a note under [section 606 of this title][/us/usc/t42/s606]\]) shall apply to payments under title XIX of the Social Security Act \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\] for calendar quarters beginning on or after April 1, 1990 (or, in the case of the Commonwealth of Kentucky, October 1, 1990) (without regard to whether regulations to implement such amendments are promulgated by such date), with respect to families that cease to be eligible for aid under part A of title IV of the Social Security Act \[[42 U.S.C. 601][/us/usc/t42/s601] et seq.\] on or after such date.
 
 >     “(2) The amendment made by subsection (b)(3) \[amending [section 602 of this title][/us/usc/t42/s602]\] shall become effective on April 1, 1990, but such amendment shall not apply with respect to families that cease to be eligible for aid under part A of title IV of the Social Security Act before such date.
 
@@ -3621,9 +3621,9 @@ See 2010 Amendment notes below.
 
 [Pub. L. 100–485, title IV, § 401(g)][/us/pl/100/485/s401/g], Oct. 13, 1988, [102 Stat. 2396][/us/stat/102/2396], as amended by [Pub. L. 103–432, title II, § 234(a)][/us/pl/103/432/s234/a], Oct. 31, 1994, [108 Stat. 4466][/us/stat/108/4466], provided that:
 
->     “(1) Except as provided in paragraph (2), and in section 1905(m)(2) of the Social Security Act \[[section 1396d(m)(2) of this title][/us/usc/t42/s1396d/m/2]\] (as added by subsection (d)(2) of this section), the amendments made by this section \[amending this section and sections 602, 607, and 1396d of this title\] shall become effective on October 1, 1990.
+>     “(1) Except as provided in paragraph (2), and in section 1905(m)(2) of the Social Security Act \[[42 U.S.C. 1396d(m)(2)][/us/usc/t42/s1396d/m/2]\] (as added by subsection (d)(2) of this section), the amendments made by this section \[amending this section and sections 602, 607, and 1396d of this title\] shall become effective on October 1, 1990.
 
->     “(2) The amendments made by this section shall not become effective with respect to Puerto Rico, American Samoa, Guam, or the Virgin Islands, until the date of the repeal of the limitations contained in section 1108(a) of the Social Security Act \[[section 1308(a) of this title][/us/usc/t42/s1308/a]\] on payments to such jurisdictions for purposes of making maintenance payments under parts A and E of title IV of such Act \[parts A and E of subchapter IV of this chapter\].”
+>     “(2) The amendments made by this section shall not become effective with respect to Puerto Rico, American Samoa, Guam, or the Virgin Islands, until the date of the repeal of the limitations contained in section 1108(a) of the Social Security Act \[[42 U.S.C. 1308(a)][/us/usc/t42/s1308/a]\] on payments to such jurisdictions for purposes of making maintenance payments under parts A and E of title IV of such Act \[[42 U.S.C. 601][/us/usc/t42/s601] et seq., 670 et seq.\].”
 
 \[[Pub. L. 103–432, title II, § 234(b)][/us/pl/103/432/s234/b], Oct. 31, 1994, [108 Stat. 4466][/us/stat/108/4466], provided that: 
 
@@ -3641,19 +3641,19 @@ See 2010 Amendment notes below.
 
 >     “(1)
 
->      The amendments made by this section \[amending this section and sections 1395v, 1396b, and 1396d of this title\] apply (except as provided in subsections (e) and (f) \[set out as notes under section 1395v and 1396b of this title\] and under paragraph (2)) to payments under title XIX of the Social Security Act \[this subchapter\] for calendar quarters beginning on or after January 1, 1989, without regard to whether or not final regulations to carry out such amendments have been promulgated by such date, with respect to medical assistance for—
+>      The amendments made by this section \[amending this section and sections 1395v, 1396b, and 1396d of this title\] apply (except as provided in subsections (e) and (f) \[set out as notes under section 1395v and 1396b of this title\] and under paragraph (2)) to payments under title XIX of the Social Security Act \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\] for calendar quarters beginning on or after January 1, 1989, without regard to whether or not final regulations to carry out such amendments have been promulgated by such date, with respect to medical assistance for—
 
->         “(A) monthly premiums under title XVIII of such Act \[subchapter XVIII of this chapter\] for months beginning with January 1989, and
+>         “(A) monthly premiums under title XVIII of such Act \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\] for months beginning with January 1989, and
 
 >         “(B) items and services furnished on and after January 1, 1989.
 
->     “(2) In the case of a State plan for medical assistance under title XIX of the Social Security Act \[this subchapter\] which the Secretary of Health and Human Services determines requires State legislation (other than legislation appropriating funds) in order for the plan to meet the additional requirements imposed by the amendments made by this section, the State plan shall not be regarded as failing to comply with the requirements of such title solely on the basis of its failure to meet these additional requirements before the first day of the first calendar quarter beginning after the close of the first session of the State legislature that begins after the date of the enactment of this Act \[July 1, 1988\]. For purposes of the previous sentence, in the case of a State that has a 2-year legislative session, each year of such session shall be deemed to be a separate regular session of the State legislature.”
+>     “(2) In the case of a State plan for medical assistance under title XIX of the Social Security Act \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\] which the Secretary of Health and Human Services determines requires State legislation (other than legislation appropriating funds) in order for the plan to meet the additional requirements imposed by the amendments made by this section, the State plan shall not be regarded as failing to comply with the requirements of such title solely on the basis of its failure to meet these additional requirements before the first day of the first calendar quarter beginning after the close of the first session of the State legislature that begins after the date of the enactment of this Act \[July 1, 1988\]. For purposes of the previous sentence, in the case of a State that has a 2-year legislative session, each year of such session shall be deemed to be a separate regular session of the State legislature.”
 
 [Pub. L. 100–360, title III, § 302(f)][/us/pl/100/360/s302/f], July 1, 1988, [102 Stat. 753][/us/stat/102/753], provided that:
 
 >     “(1) __In general.—__ 
 
->     The amendments made by this section \[amending this section and sections 1396b and 1396r–4 of this title\] apply (except as provided in this subsection) to payments under title XIX of the Social Security Act \[this subchapter\] for calendar quarters beginning on or after July 1, 1989, with respect to eligibility for medical assistance on or after such date, without regard to whether or not final regulations to carry out such amendments have been promulgated by such date.
+>     The amendments made by this section \[amending this section and sections 1396b and 1396r–4 of this title\] apply (except as provided in this subsection) to payments under title XIX of the Social Security Act \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\] for calendar quarters beginning on or after July 1, 1989, with respect to eligibility for medical assistance on or after such date, without regard to whether or not final regulations to carry out such amendments have been promulgated by such date.
 
 >     “(2) __Payment adjustment.—__ 
 
@@ -3661,7 +3661,7 @@ See 2010 Amendment notes below.
 
 >     “(3) __Delay for state legislation.—__ 
 
->     In the case of a State plan for medical assistance under title XIX of the Social Security Act \[this subchapter\] which the Secretary of Health and Human Services determines requires State legislation (other than legislation appropriating funds) in order for the plan to meet the additional requirements imposed by the amendments made by this section (other than subsection (b)(2)), the State plan shall not be regarded as failing to comply with the requirements of such title solely on the basis of its failure to meet these additional requirements before the first day of the first calendar quarter beginning after the close of the first regular session of the State legislature that begins after the date of the enactment of this Act. For purposes of the previous sentence, in the case of a State that has a regular legislative session of 2 years, each year of such session shall be deemed to be a separate regular session of the State legislature.”
+>     In the case of a State plan for medical assistance under title XIX of the Social Security Act \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\] which the Secretary of Health and Human Services determines requires State legislation (other than legislation appropriating funds) in order for the plan to meet the additional requirements imposed by the amendments made by this section (other than subsection (b)(2)), the State plan shall not be regarded as failing to comply with the requirements of such title solely on the basis of its failure to meet these additional requirements before the first day of the first calendar quarter beginning after the close of the first regular session of the State legislature that begins after the date of the enactment of this Act. For purposes of the previous sentence, in the case of a State that has a regular legislative session of 2 years, each year of such session shall be deemed to be a separate regular session of the State legislature.”
 
     Amendment by [section 303(d) of Pub. L. 100–360][/us/pl/100/360/s303/d] effective on and after Apr. 8, 1988, with additional provision for supersedure of certain administrative regulations, see [section 303(g)(4) of Pub. L. 100–360][/us/pl/100/360/s303/g/4], set out as an Effective Date note under [section 1396r–5 of this title][/us/usc/t42/s1396r–5].
 
@@ -3719,7 +3719,7 @@ See 2010 Amendment notes below.
 
 > “The amendments made by this subsection \[amending this section and [section 1396b of this title][/us/usc/t42/s1396b]\] shall not apply to a State until such date (not earlier than October 1, 1990) as of which the Secretary determines that—
 
->     “(A) the State has specified the resident assessment instrument under section 1919(e)(5) of the Social Security Act \[[section 1396r(e)(5) of this title][/us/usc/t42/s1396r/e/5]\], and
+>     “(A) the State has specified the resident assessment instrument under section 1919(e)(5) of the Social Security Act \[[42 U.S.C. 1396r(e)(5)][/us/usc/t42/s1396r/e/5]\], and
 
 >     “(B) the State has begun conducting surveys under section 1919(g)(2) of such Act.”
 
@@ -3733,7 +3733,7 @@ See 2010 Amendment notes below.
 
 [Pub. L. 100–203, title IX, § 9119(d)(2)][/us/pl/100/203/s9119/d/2], as added by [Pub. L. 100–360, title IV, § 411(n)(4)][/us/pl/100/360/s411/n/4], formerly § 411(n)(3), July 1, 1988, [102 Stat. 807][/us/stat/102/807], and renumbered by [Pub. L. 100–485, title VI, § 608(d)(28)][/us/pl/100/485/s608/d/28], Oct. 13, 1988, [102 Stat. 2423][/us/stat/102/2423], provided that: 
 
-> “The amendments made by paragraph (1) \[amending this section\] apply to payments under title XIX of the Social Security Act \[this subchapter\] for calendar quarters beginning on or after July 1, 1988, without regard to whether or not final regulations to carry out such amendments have been promulgated by such date.”
+> “The amendments made by paragraph (1) \[amending this section\] apply to payments under title XIX of the Social Security Act \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\] for calendar quarters beginning on or after July 1, 1988, without regard to whether or not final regulations to carry out such amendments have been promulgated by such date.”
 
     Amendment by sections 5(a) and 8(f) of [Pub. L. 100–93][/us/pl/100/93], applicable, with certain exception, to payments under subchapter XIX of this chapter for calendar quarters beginning more than thirty days after Aug. 18, 1987, without regard to whether or not final regulations to carry out such amendments have been published by such date, see [section 15(c) of Pub. L. 100–93][/us/pl/100/93/s15/c], set out as a note under [section 1320a–7 of this title][/us/usc/t42/s1320a–7].
 
@@ -3745,7 +3745,7 @@ See 2010 Amendment notes below.
 
 >     “(1) Except as provided in paragraph (2), the amendments made by sections 3, 4, 5, 6, and 7 \[amending this section and sections 1382, 1382c, 1382h, 1383, and 1396s of this title\] shall become effective on July 1, 1987.
 
->     “(2) In the case of a State plan for medical assistance under title XIX of the Social Security Act \[this subchapter\] which the Secretary of Health and Human Services determines requires State legislation in order for the plan to meet the requirements imposed by the amendments made by section 3(b) \[amending this section\] and section 7 of this Act \[amending this section and [section 1382h of this title][/us/usc/t42/s1382h]\], the State plan shall not be regarded as failing to comply with the requirements of such title solely on the basis of its failure to meet such additional requirements until 60 days after the close of the first regular session of the State legislature that begins after the date of the enactment of this Act \[Nov. 10, 1986\].”
+>     “(2) In the case of a State plan for medical assistance under title XIX of the Social Security Act \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\] which the Secretary of Health and Human Services determines requires State legislation in order for the plan to meet the requirements imposed by the amendments made by section 3(b) \[amending this section\] and section 7 of this Act \[amending this section and [section 1382h of this title][/us/usc/t42/s1382h]\], the State plan shall not be regarded as failing to comply with the requirements of such title solely on the basis of its failure to meet such additional requirements until 60 days after the close of the first regular session of the State legislature that begins after the date of the enactment of this Act \[Nov. 10, 1986\].”
 
 [Pub. L. 99–570, title XI, § 11005(c)(2)][/us/pl/99/570/s11005/c/2], Oct. 27, 1986, [100 Stat. 3207–169][/us/stat/100/3207-169], provided that: 
 
@@ -3759,7 +3759,7 @@ See 2010 Amendment notes below.
 
 >     “(1) Except as provided in paragraph (2), the amendments made by this section \[amending this section and [section 1396b of this title][/us/usc/t42/s1396b]\] shall apply to medical assistance furnished in calendar quarters beginning on or after April 1, 1987.
 
->     “(2) Subparagraph (C) of section 1902(l)(1) of the Social Security Act \[subsec. (l)(1)(C) of this section\], as added by subsection (b) of this section, shall apply to medical assistance furnished in calendar quarters beginning on or after October 1, 1987.
+>     “(2) Subparagraph (C) of section 1902(l)(1) of the Social Security Act \[[42 U.S.C. 1396a][/us/usc/t42/s1396a](l)(1)(C)\], as added by subsection (b) of this section, shall apply to medical assistance furnished in calendar quarters beginning on or after October 1, 1987.
 
 >     “(3) An amendment made by this section shall become effective as provided in paragraph (1) or (2) without regard to whether or not final regulations to carry out such amendment have been promulgated by the applicable date.”
 
@@ -3769,11 +3769,11 @@ See 2010 Amendment notes below.
 
 [Pub. L. 99–509, title IX, § 9403(h)][/us/pl/99/509/s9403/h], Oct. 21, 1986, [100 Stat. 2056][/us/stat/100/2056], provided that: 
 
-> “The amendments made by this section \[amending this section and sections 1396b, 1396d, and 1396o of this title\] apply to payments under title XIX of the Social Security Act \[this subchapter\] for calendar quarters beginning on or after July 1, 1987, without regard to whether or not final regulations to carry out such amendments have been promulgated by such date.”
+> “The amendments made by this section \[amending this section and sections 1396b, 1396d, and 1396o of this title\] apply to payments under title XIX of the Social Security Act \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\] for calendar quarters beginning on or after July 1, 1987, without regard to whether or not final regulations to carry out such amendments have been promulgated by such date.”
 
 [Pub. L. 99–509, title IX, § 9404(c)][/us/pl/99/509/s9404/c], Oct. 21, 1986, [100 Stat. 2057][/us/stat/100/2057], provided that:
 
->     “(1) The amendments made by this section \[amending this section and [section 1396d of this title][/us/usc/t42/s1396d]\] apply (except as provided under paragraph (2)) to payments under title XIX of the Social Security Act \[this subchapter\] for calendar quarters beginning on or after July 1, 1987, without regard to whether regulations to implement such amendments are promulgated by such date.
+>     “(1) The amendments made by this section \[amending this section and [section 1396d of this title][/us/usc/t42/s1396d]\] apply (except as provided under paragraph (2)) to payments under title XIX of the Social Security Act \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\] for calendar quarters beginning on or after July 1, 1987, without regard to whether regulations to implement such amendments are promulgated by such date.
 
 >     “(2) In the case of a State plan for medical assistance under title XIX of the Social Security Act which the Secretary of Health and Human Services determines requires State legislation (other than legislation appropriating funds) in order for the plan to meet the additional requirements imposed by the amendments made by this section, the State plan shall not be regarded as failing to comply with the requirements of such title solely on the basis of its failure to meet these additional requirements before the first day of the first calendar quarter beginning after the close of the first regular session of the State legislature that begins after the date of the enactment of this Act \[Oct. 21, 1986\].”
 
@@ -3781,7 +3781,7 @@ See 2010 Amendment notes below.
 
 >     “(1) Except as provided in paragraph (2), the amendments made by this section \[amending this section and [section 1396b of this title][/us/usc/t42/s1396b]\] shall apply to medical assistance furnished to aliens on or after January 1, 1987, without regard to whether or not final regulations to carry out such amendments have been promulgated by such date.
 
->     “(2) In the case of a State plan for medical assistance under title XIX of the Social Security Act \[this subchapter\] which the Secretary of Health and Human Services determines requires State legislation (other than legislation appropriating funds) in order for the plan to meet the additional requirement imposed by the amendment made in subsection (b) \[amending this section\], the State plan shall not be regarded as failing to comply with the requirements of such title solely on the basis of its failure to meet such additional requirement before the first day of the first calendar quarter beginning after the close of the first regular session of the State legislature that begins after the date of the enactment of this Act \[Oct. 21, 1986\].”
+>     “(2) In the case of a State plan for medical assistance under title XIX of the Social Security Act \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\] which the Secretary of Health and Human Services determines requires State legislation (other than legislation appropriating funds) in order for the plan to meet the additional requirement imposed by the amendment made in subsection (b) \[amending this section\], the State plan shall not be regarded as failing to comply with the requirements of such title solely on the basis of its failure to meet such additional requirement before the first day of the first calendar quarter beginning after the close of the first regular session of the State legislature that begins after the date of the enactment of this Act \[Oct. 21, 1986\].”
 
 [Pub. L. 99–509, title IX, § 9407(d)][/us/pl/99/509/s9407/d], Oct. 21, 1986, [100 Stat. 2060][/us/stat/100/2060], provided that: 
 
@@ -3793,7 +3793,7 @@ See 2010 Amendment notes below.
 
 [Pub. L. 99–509, title IX, § 9431(c)][/us/pl/99/509/s9431/c], Oct. 21, 1986, [100 Stat. 2066][/us/stat/100/2066], provided that: 
 
-> “The amendments made by this section \[amending this section and [section 1396b of this title][/us/usc/t42/s1396b]\] apply to payments under title XIX of the Social Security Act \[this subchapter\] for calendar quarters beginning on or after July 1, 1987, without regard to whether or not final regulations to carry out such amendments have been promulgated by such date.”
+> “The amendments made by this section \[amending this section and [section 1396b of this title][/us/usc/t42/s1396b]\] apply to payments under title XIX of the Social Security Act \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\] for calendar quarters beginning on or after July 1, 1987, without regard to whether or not final regulations to carry out such amendments have been promulgated by such date.”
 
 [Pub. L. 99–509, title IX, § 9433(b)][/us/pl/99/509/s9433/b], Oct. 21, 1986, [100 Stat. 2068][/us/stat/100/2068], provided that: 
 
@@ -3817,9 +3817,9 @@ See 2010 Amendment notes below.
 
 >     “(1) Except as otherwise provided, the amendments made by this section \[amending this section and sections 1396b and 1396k of this title and [section 1144 of Title 29][/us/usc/t29/s1144], Labor, and enacting provisions set out as notes under this section and [section 1144 of Title 29][/us/usc/t29/s1144]\] shall apply to calendar quarters beginning on or after the date of the enactment of this Act \[Apr. 7, 1986\].
 
->     “(2) In the case of a State plan for medical assistance under title XIX of the Social Security Act \[this subchapter\] which the Secretary of Health and Human Services determines requires State legislation (other than legislation appropriating funds) in order for the plan to meet the additional requirements imposed by the amendments made by this section, the State plan shall not be regarded as failing to comply with the requirements of such title solely on the basis of its failure to meet these additional requirements before the first day of the first calendar quarter beginning after the close of the first regular session of the State legislature that begins after the date of the enactment of this Act.
+>     “(2) In the case of a State plan for medical assistance under title XIX of the Social Security Act \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\] which the Secretary of Health and Human Services determines requires State legislation (other than legislation appropriating funds) in order for the plan to meet the additional requirements imposed by the amendments made by this section, the State plan shall not be regarded as failing to comply with the requirements of such title solely on the basis of its failure to meet these additional requirements before the first day of the first calendar quarter beginning after the close of the first regular session of the State legislature that begins after the date of the enactment of this Act.
 
->     “(3) No penalty may be applied against any State for a violation of section 1902(a)(25) of the Social Security Act \[subsec. (a)(25) of this section\] occurring prior to the effective date of the amendments made by this section.
+>     “(3) No penalty may be applied against any State for a violation of section 1902(a)(25) of the Social Security Act \[[42 U.S.C. 1396a(a)(25)][/us/usc/t42/s1396a/a/25]\] occurring prior to the effective date of the amendments made by this section.
 
 >     “(4) The amendment made by subsection (c) \[enacting provisions set out below\] shall become effective on the date of the enactment of this Act \[Apr. 7, 1986\].”
 
@@ -3843,7 +3843,7 @@ See 2010 Amendment notes below.
 
 >     “(2) The amendments made by this section shall not apply with respect to a change of ownership pursuant to an enforceable agreement entered into prior to October 1, 1985.
 
->     “(3) In the case of a State plan for medical assistance under title XIX of the Social Security Act \[this subchapter\] which the Secretary of Health and Human Services determines requires State legislation (other than legislation appropriating funds) in order for the plan to meet the requirements imposed by the amendments made by this section, the State plan shall not be regarded as failing to comply with the requirements of such title solely on the basis of its failure to meet the requirements imposed by the amendments made by this section before the first day of the first calendar quarter beginning after the close of the first regular session of the State legislature that begins after the date of the enactment of this Act \[Apr. 7, 1986\].”
+>     “(3) In the case of a State plan for medical assistance under title XIX of the Social Security Act \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\] which the Secretary of Health and Human Services determines requires State legislation (other than legislation appropriating funds) in order for the plan to meet the requirements imposed by the amendments made by this section, the State plan shall not be regarded as failing to comply with the requirements of such title solely on the basis of its failure to meet the requirements imposed by the amendments made by this section before the first day of the first calendar quarter beginning after the close of the first regular session of the State legislature that begins after the date of the enactment of this Act \[Apr. 7, 1986\].”
 
 [Pub. L. 99–272, title IX, § 9510(b)][/us/pl/99/272/s9510/b], Apr. 7, 1986, [100 Stat. 212][/us/stat/100/212], as amended by [Pub. L. 99–509, title IX, § 9435(d)(2)][/us/pl/99/509/s9435/d/2], Oct. 21, 1986, [100 Stat. 2070][/us/stat/100/2070], provided that: 
 
@@ -3869,7 +3869,7 @@ See 2010 Amendment notes below.
 
 >     “(A) Except as provided in subparagraph (B), the amendments made by subsection (b) \[amending this section\] shall apply to medical assistance furnished on or after October 1, 1984.
 
->     “(B) In the case of a State plan for medical assistance under title XIX of the Social Security Act \[this subchapter\] which the Secretary of Health and Human Services determines requires State legislation in order for the plan to meet the additional requirement imposed by the amendments made by this section \[amending this section and [section 1395x of this title][/us/usc/t42/s1395x] and enacting provisions set out as a note under [section 1395x of this title][/us/usc/t42/s1395x]\], the State plan shall not be regarded as failing to comply with the requirements of such title solely on the basis of its failure to meet this additional requirement before the first day of the first calendar quarter beginning after the close of the first regular session of the State legislature that begins after the date of the enactment of this Act \[July 18, 1984\].”
+>     “(B) In the case of a State plan for medical assistance under title XIX of the Social Security Act \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\] which the Secretary of Health and Human Services determines requires State legislation in order for the plan to meet the additional requirement imposed by the amendments made by this section \[amending this section and [section 1395x of this title][/us/usc/t42/s1395x] and enacting provisions set out as a note under [section 1395x of this title][/us/usc/t42/s1395x]\], the State plan shall not be regarded as failing to comply with the requirements of such title solely on the basis of its failure to meet this additional requirement before the first day of the first calendar quarter beginning after the close of the first regular session of the State legislature that begins after the date of the enactment of this Act \[July 18, 1984\].”
 
     Amendment by [section 2335(e) of Pub. L. 98–369][/us/pl/98/369/s2335/e] effective July 18, 1984, see [section 2335(g) of Pub. L. 98–369][/us/pl/98/369/s2335/g], set out as a note under [section 1395f of this title][/us/usc/t42/s1395f].
 
@@ -3877,7 +3877,7 @@ See 2010 Amendment notes below.
 
 >     “(1) Except as provided in paragraph (2), the amendments made by this section \[amending this section and sections 606 and 1396d of this title\] shall apply to calendar quarters beginning on or after October 1, 1984, without regard to whether or not final regulations to carry out such amendments have been promulgated by such date.
 
->     “(2) In the case of a State plan for medical assistance under title XIX of the Social Security Act \[this subchapter\] which the Secretary of Health and Human Services determines requires State legislation in order for the plan to meet the additional requirements imposed by the amendments made by this section, the State plan shall not be regarded as failing to comply with the requirements of such title solely on the basis of its failure to meet these additional requirements before the first day of the first calendar quarter beginning after the close of the first regular session of the State legislature that begins after the date of the enactment of this Act \[July 18, 1984\].”
+>     “(2) In the case of a State plan for medical assistance under title XIX of the Social Security Act \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\] which the Secretary of Health and Human Services determines requires State legislation in order for the plan to meet the additional requirements imposed by the amendments made by this section, the State plan shall not be regarded as failing to comply with the requirements of such title solely on the basis of its failure to meet these additional requirements before the first day of the first calendar quarter beginning after the close of the first regular session of the State legislature that begins after the date of the enactment of this Act \[July 18, 1984\].”
 
 [Pub. L. 98–369, div. B, title III, § 2362(b)][/us/pl/98/369/s2362/b], July 18, 1984, [98 Stat. 1105][/us/stat/98/1105], provided that: 
 
@@ -3889,7 +3889,7 @@ See 2010 Amendment notes below.
 
 >     “(1) Except as provided in paragraph (2), the amendments made by this section \[amending this section and [section 1396k of this title][/us/usc/t42/s1396k]\] shall become effective on October 1, 1984.
 
->     “(2) In the case of a State plan for medical assistance under title XIX of the Social Security Act \[this subchapter\] which the Secretary of Health and Human Services determines requires State legislation in order for the plan to meet the additional requirement imposed by the amendments made by this section, the State plan shall not be regarded as failing to comply with the requirements of such title solely on the basis of its failure to meet this additional requirement before the first day of the first calendar quarter beginning after the close of the first regular session of the State legislature that begins after the date of the enactment of this Act \[July 18, 1984\].”
+>     “(2) In the case of a State plan for medical assistance under title XIX of the Social Security Act \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\] which the Secretary of Health and Human Services determines requires State legislation in order for the plan to meet the additional requirement imposed by the amendments made by this section, the State plan shall not be regarded as failing to comply with the requirements of such title solely on the basis of its failure to meet this additional requirement before the first day of the first calendar quarter beginning after the close of the first regular session of the State legislature that begins after the date of the enactment of this Act \[July 18, 1984\].”
 
 [Pub. L. 98–369, div. B, title III, § 2368(c)][/us/pl/98/369/s2368/c], July 18, 1984, [98 Stat. 1110][/us/stat/98/1110], provided that: 
 
@@ -3913,7 +3913,7 @@ See 2010 Amendment notes below.
 
 >     “(1) Except as otherwise provided in this section, any amendment to the Omnibus Budget Reconciliation Act of 1981 \[[Pub. L. 97–35][/us/pl/97/35]\] made by this section \[amending this section and sections 1320a–1 and 1396b of this title and provisions set out as a note under [section 603 of this title][/us/usc/t42/s603]\] shall be effective as if it had been originally included in the provision of the Omnibus Budget Reconciliation Act of 1981 to which such amendment relates.
 
->     “(2) Except as otherwise provided in this section, any amendment to the Social Security Act \[this chapter\] made by the preceding provisions of this section \[amending this section and sections 701, 705, 1320a–7a, 1320b–4, 1396b, 1396d, and 1396n of this title\] shall be effective as if it had been originally included as a part of that provision of the Social Security Act to which it relates, as such provision of the Social Security Act was amended by the Omnibus Budget Reconciliation Act of 1981 \[[Pub. L. 97–35][/us/pl/97/35]\].”
+>     “(2) Except as otherwise provided in this section, any amendment to the Social Security Act \[[42 U.S.C. 301][/us/usc/t42/s301] et seq.\] made by the preceding provisions of this section \[amending this section and sections 701, 705, 1320a–7a, 1320b–4, 1396b, 1396d, and 1396n of this title\] shall be effective as if it had been originally included as a part of that provision of the Social Security Act to which it relates, as such provision of the Social Security Act was amended by the Omnibus Budget Reconciliation Act of 1981 \[[Pub. L. 97–35][/us/pl/97/35]\].”
 
     Amendment by [section 146(a) of Pub. L. 97–248][/us/pl/97/248/s146/a] effective with respect to contracts entered into or renewed on or after Sept. 3, 1982, see [section 149 of Pub. L. 97–248][/us/pl/97/248/s149], set out as an Effective Date note under [section 1320c of this title][/us/usc/t42/s1320c].
 
@@ -3933,7 +3933,7 @@ See 2010 Amendment notes below.
 
 [Pub. L. 97–35, title XXI, § 2173(b)(2)][/us/pl/97/35/s2173/b/2], Aug. 13, 1981, [95 Stat. 809][/us/stat/95/809], provided that: 
 
-> “The amendment made by paragraph (1) \[amending this section\] shall not apply with respect to services furnished before the date the Secretary of Health and Human Services first promulgates and has in effect final regulations (on an interim or other basis) to carry out section 1902(a)(13)(A) of the Social Security Act \[subsec. (a)(13)(A) of this section\] (as amended by this subtitle).”
+> “The amendment made by paragraph (1) \[amending this section\] shall not apply with respect to services furnished before the date the Secretary of Health and Human Services first promulgates and has in effect final regulations (on an interim or other basis) to carry out section 1902(a)(13)(A) of the Social Security Act \[[42 U.S.C. 1396a(a)(13)(A)][/us/usc/t42/s1396a/a/13/A]\] (as amended by this subtitle).”
 
 [Pub. L. 97–35, title XXI, § 2174(c)][/us/pl/97/35/s2174/c], Aug. 13, 1981, [95 Stat. 809][/us/stat/95/809], provided that: 
 
@@ -3941,17 +3941,17 @@ See 2010 Amendment notes below.
 
 [Pub. L. 97–35, title XXI, § 2175(d)(2)][/us/pl/97/35/s2175/d/2], Aug. 13, 1981, [95 Stat. 811][/us/stat/95/811], provided that:
 
->     “(A) The amendments made by paragraph (1) \[amending this section\] shall (except as provided under subparagraph (B)) be effective with respect to payments under title XIX of the Social Security Act \[this subchapter\] for calendar quarters beginning on or after October 1, 1981.
+>     “(A) The amendments made by paragraph (1) \[amending this section\] shall (except as provided under subparagraph (B)) be effective with respect to payments under title XIX of the Social Security Act \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\] for calendar quarters beginning on or after October 1, 1981.
 
->     “(B) In the case of a State plan for medical assistance under title XIX of the Social Security Act \[this subchapter\] which the Secretary of Health and Human Services determines requires State legislation in order for the plan to meet the additional requirement imposed by the amendment made by paragraph (1)(C), the State plan shall not be regarded as failing to comply with the requirements of such title solely on the basis of its failure to meet this additional requirement before the first day of the first calendar year beginning after the close of the first regular session of the State legislature that begins after the date of the enactment of this Act \[Aug. 13, 1981\].”
+>     “(B) In the case of a State plan for medical assistance under title XIX of the Social Security Act \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\] which the Secretary of Health and Human Services determines requires State legislation in order for the plan to meet the additional requirement imposed by the amendment made by paragraph (1)(C), the State plan shall not be regarded as failing to comply with the requirements of such title solely on the basis of its failure to meet this additional requirement before the first day of the first calendar year beginning after the close of the first regular session of the State legislature that begins after the date of the enactment of this Act \[Aug. 13, 1981\].”
 
 [Pub. L. 97–35, title XXI, § 2178(c)][/us/pl/97/35/s2178/c], Aug. 13, 1981, [95 Stat. 815][/us/stat/95/815], provided that: 
 
-> “The amendments made by this section \[amending this section and [section 1396b of this title][/us/usc/t42/s1396b]\] shall apply with respect to services furnished, under a State plan approved under title XIX of the Social Security Act \[this subchapter\], on or after October 1, 1981; except that such amendments shall not apply with respect to services furnished by a health maintenance organization under a contract with a State entered into under such title before October 1, 1981 unless the organization requests that such amendments apply and the Secretary of Health and Human Services and the single State agency (administering or supervising the administration of the State plan under such title) agree to such request.”
+> “The amendments made by this section \[amending this section and [section 1396b of this title][/us/usc/t42/s1396b]\] shall apply with respect to services furnished, under a State plan approved under title XIX of the Social Security Act \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\], on or after October 1, 1981; except that such amendments shall not apply with respect to services furnished by a health maintenance organization under a contract with a State entered into under such title before October 1, 1981 unless the organization requests that such amendments apply and the Secretary of Health and Human Services and the single State agency (administering or supervising the administration of the State plan under such title) agree to such request.”
 
 [Pub. L. 97–35, title XXI, § 2181(b)][/us/pl/97/35/s2181/b], Aug. 13, 1981, [95 Stat. 815][/us/stat/95/815], as amended by [Pub. L. 97–248, title I, § 137(a)(4)][/us/pl/97/248/s137/a/4], Sept. 3, 1982, [96 Stat. 376][/us/stat/96/376], provided that: 
 
-> “The amendment made by subsection (a)(1) \[amending [section 603 of this title][/us/usc/t42/s603]\] shall apply to reductions for calendar quarters beginning on or after June 30, 1974, and the amendments made by subsection (a)(2) \[amending this section\] shall take effect on October 1, 1981, except that, in the case of a State plan under title XIX of the Social Security Act \[this subchapter\] which the Secretary determines requires State legislation in order to incorporate the provisions required to be included by this section into such State plan, the State plan shall not be regarded as failing to comply with the requirements of such title solely on the basis of its failure to include the provisions required to be included in such State plan by subsection (a)(2) of this section before the first day of the first calendar quarter beginning after the close of the first regular session of the State legislature that begins after the date of enactment of this Act \[Aug. 13, 1981\], but the requirements previously set forth in paragraphs (1) through (3) of section 403(g) of the Social Security Act \[section 603(g)(1)–(3) of this title\] (prior to its repeal by this section) shall apply under title XIX of such Act to such State on and after October 1, 1981, whether or not the provisions required to be included by this section in the State plan under title XIX have been incorporated into such State plan.”
+> “The amendment made by subsection (a)(1) \[amending [section 603 of this title][/us/usc/t42/s603]\] shall apply to reductions for calendar quarters beginning on or after June 30, 1974, and the amendments made by subsection (a)(2) \[amending this section\] shall take effect on October 1, 1981, except that, in the case of a State plan under title XIX of the Social Security Act \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\] which the Secretary determines requires State legislation in order to incorporate the provisions required to be included by this section into such State plan, the State plan shall not be regarded as failing to comply with the requirements of such title solely on the basis of its failure to include the provisions required to be included in such State plan by subsection (a)(2) of this section before the first day of the first calendar quarter beginning after the close of the first regular session of the State legislature that begins after the date of enactment of this Act \[Aug. 13, 1981\], but the requirements previously set forth in paragraphs (1) through (3) of section 403(g) of the Social Security Act \[[42 U.S.C. 603(g)(1)][/us/usc/t42/s603/g/1]–(3)\] (prior to its repeal by this section) shall apply under title XIX of such Act to such State on and after October 1, 1981, whether or not the provisions required to be included by this section in the State plan under title XIX have been incorporated into such State plan.”
 
     For effective date, savings, and transitional provisions relating to amendment by [section 2193(c)(9) of Pub. L. 97–35][/us/pl/97/35/s2193/c/9], see [section 2194 of Pub. L. 97–35][/us/pl/97/35/s2194], set out as a note under [section 701 of this title][/us/usc/t42/s701].
 
@@ -3961,13 +3961,13 @@ See 2010 Amendment notes below.
 
 [Pub. L. 96–499, title IX, § 914(b)(2)][/us/pl/96/499/s914/b/2], Dec. 5, 1980, [94 Stat. 2622][/us/stat/94/2622], as amended by [Pub. L. 97–248, title I, § 137(c)(1)][/us/pl/97/248/s137/c/1], Sept. 3, 1982, [96 Stat. 381][/us/stat/96/381], provided that:
 
->     “(A) The amendments made by paragraph (1) \[amending this section\] shall (except as provided under subparagraph (B)) apply to cost reporting periods, beginning on or after April 1, 1981, of an entity providing services under a State plan approved under title XIX of the Social Security Act \[this subchapter\].”
+>     “(A) The amendments made by paragraph (1) \[amending this section\] shall (except as provided under subparagraph (B)) apply to cost reporting periods, beginning on or after April 1, 1981, of an entity providing services under a State plan approved under title XIX of the Social Security Act \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\].”
 
     “(B) In the case of a State plan for medical assistance under title XIX of the Social Security Act which the Secretary determines requires State legislation in order for the plan to meet the additional requirements imposed by the amendments made by paragraph (1), the State plan shall not be regarded as failing to comply with the requirements of such title solely on the basis of its failure to meet these additional requirements before the first day of the first calendar quarter beginning after the close of the first regular session of the State legislature that begins after the date of the enactment of this Act.”
 
 [Pub. L. 96–499, title IX, § 918(b)(2)][/us/pl/96/499/s918/b/2], Dec. 5, 1980, [94 Stat. 2626][/us/stat/94/2626], provided that:
 
->     “(A) The amendments made by paragraph (1) \[enacting this section\] shall (except as otherwise provided in subparagraph (B)) apply to medical assistance provided, under a State plan approved under title XIX of the Social Security Act \[this subchapter\], on and after the first day of the first calendar quarter that begins more than six months after the date of the enactment of this Act \[Dec. 5, 1980\].
+>     “(A) The amendments made by paragraph (1) \[enacting this section\] shall (except as otherwise provided in subparagraph (B)) apply to medical assistance provided, under a State plan approved under title XIX of the Social Security Act \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\], on and after the first day of the first calendar quarter that begins more than six months after the date of the enactment of this Act \[Dec. 5, 1980\].
 
 >     “(B) In the case of a State plan for medical assistance under title XIX of the Social Security Act which the Secretary of Health and Human Services determines requires State legislation in order for the plan to meet the additional requirements imposed by the amendments made by paragraph (1), the State plan shall not be regarded as failing to comply with the requirements of such title solely on the basis of its failure to meet these additional requirements before the first day of the first calendar quarter beginning after the close of the first regular session of the State legislature that begins after the date of the enactment of this Act.”
 
@@ -3977,7 +3977,7 @@ See 2010 Amendment notes below.
 
 [Pub. L. 96–499, title IX, § 965(c)][/us/pl/96/499/s965/c], Dec. 5, 1980, [94 Stat. 2652][/us/stat/94/2652], provided that:
 
->     “(1) The amendments made by this section \[amending this section and [section 1396d of this title][/us/usc/t42/s1396d]\] shall (except as provided under paragraph (2)) be effective with respect to payments under title XIX of the Social Security Act \[this subchapter\] for calendar quarters beginning more than one hundred and twenty days after the date of the enactment of this Act \[Dec. 5, 1980\].
+>     “(1) The amendments made by this section \[amending this section and [section 1396d of this title][/us/usc/t42/s1396d]\] shall (except as provided under paragraph (2)) be effective with respect to payments under title XIX of the Social Security Act \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\] for calendar quarters beginning more than one hundred and twenty days after the date of the enactment of this Act \[Dec. 5, 1980\].
 
 >     “(2) In the case of a State plan for medical assistance under title XIX of the Social Security Act which the Secretary of Health and Human Services determines requires State legislation in order for the plan to meet the additional requirements imposed by the amendments made by this section, the State plan shall not be regarded as failing to comply with the requirements of such title solely on the basis of its failure to meet these additional requirements before the first day of the first calendar quarter beginning after the close of the first regular session of the State legislature that begins after the date of the enactment of this Act.”
 
@@ -3987,7 +3987,7 @@ See 2010 Amendment notes below.
 
 >     “(A) Except as provided in subparagraph (B), the amendments made by paragraph (1) \[amending this section\] shall take effect one hundred and eighty days after the date of the enactment of this Act \[Nov. 1, 1978\].
 
->     “(B) In the case of a State plan for medical assistance under title XIX of the Social Security Act \[this subchapter\] which the Secretary determines requires State legislation in order for the plan to meet the requirement added by the amendments made by paragraph (1), such amendments shall not apply with respect to such State plan before ninety days after the close of the first regular session of the State legislature that begins after the date of the enactment of this Act.”
+>     “(B) In the case of a State plan for medical assistance under title XIX of the Social Security Act \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\] which the Secretary determines requires State legislation in order for the plan to meet the requirement added by the amendments made by paragraph (1), such amendments shall not apply with respect to such State plan before ninety days after the close of the first regular session of the State legislature that begins after the date of the enactment of this Act.”
 
  __Effective Date of 1977 Amendment__ 
 
@@ -3997,7 +3997,7 @@ See 2010 Amendment notes below.
 
 [Pub. L. 95–142, § 2(b)(2)][/us/pl/95/142/s2/b/2], Oct. 25, 1977, [91 Stat. 1177][/us/stat/91/1177], provided that: 
 
-> “The amendments made by paragraph (1) \[amending this section\] shall apply to calendar quarters beginning on and after July 1, 1978, with respect to State plans approved under title XIX of the Social Security Act \[this subchapter\].”
+> “The amendments made by paragraph (1) \[amending this section\] shall apply to calendar quarters beginning on and after July 1, 1978, with respect to State plans approved under title XIX of the Social Security Act \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\].”
 
     Amendment by [section 3(c)(1) of Pub. L. 95–142][/us/pl/95/142/s3/c/1] effective Jan. 1, 1978, see [section 3(e) of Pub. L. 95–142][/us/pl/95/142/s3/e], set out as an Effective Date note under [section 1320a–3 of this title][/us/usc/t42/s1320a–3].
 
@@ -4007,11 +4007,11 @@ See 2010 Amendment notes below.
 
 [Pub. L. 95–142, § 19(c)(2)][/us/pl/95/142/s19/c/2], Oct. 25, 1977, [91 Stat. 1205][/us/stat/91/1205], provided that:
 
->     “(A) The amendments made by subsection (b) \[amending this section and [section 1395x of this title][/us/usc/t42/s1395x]\] shall apply with respect to operations of a hospital, skilled nursing facility, or intermediate care facility, on and after the first day of its first fiscal year which begins after the end of the six-month period beginning on the date a uniform reporting system is established (under section 1121(a) of the Social Security Act) \[[section 1320a(a) of this title][/us/usc/t42/s1320a/a]\] for that type of health services facility.
+>     “(A) The amendments made by subsection (b) \[amending this section and [section 1395x of this title][/us/usc/t42/s1395x]\] shall apply with respect to operations of a hospital, skilled nursing facility, or intermediate care facility, on and after the first day of its first fiscal year which begins after the end of the six-month period beginning on the date a uniform reporting system is established (under section 1121(a) of the Social Security Act) \[[42 U.S.C. 1320a(a)][/us/usc/t42/s1320a/a]\] for that type of health services facility.
 
 >     “(B) The amendments made by subsection (b) \[amending this section and [section 1395x of this title][/us/usc/t42/s1395x]\] shall apply, with respect to the operation of a health services facility or organization which is neither a hospital, a skilled nursing facility, nor an intermediate care facility, on and after the first day of its first fiscal year which begins after such date as the Secretary of Health, Education, and Welfare \[now Health and Human Services\] determines to be appropriate for the implementation of the reporting requirement for that type of facility or organization.
 
->     “(C) Except as provided in subparagraphs (A) and (B), the amendments made by subsection (b)(2) \[amending this section\] shall apply, with respect to State plans approved under title XIX of the Social Security Act \[this subchapter\], on and after October 1, 1977.”
+>     “(C) Except as provided in subparagraphs (A) and (B), the amendments made by subsection (b)(2) \[amending this section\] shall apply, with respect to State plans approved under title XIX of the Social Security Act \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\], on and after October 1, 1977.”
 
     Amendment by [section 20(b) of Pub. L. 95–142][/us/pl/95/142/s20/b] effective Oct. 1, 1977, and the Secretary to adjust payments made to States under [section 1396b of this title][/us/usc/t42/s1396b] to reflect such amendment, see [section 20(c) of Pub. L. 95–142][/us/pl/95/142/s20/c], set out as a note under [section 1396b of this title][/us/usc/t42/s1396b].
 
@@ -4037,7 +4037,7 @@ See 2010 Amendment notes below.
 
 [Pub. L. 93–233, § 13(d)][/us/pl/93/233/s13/d], Dec. 31, 1973, [87 Stat. 965][/us/stat/87/965], provided that: 
 
-> “The amendments made by subsection (a) \[amending this section and sections 1396, 1396b, and 1396d of this title\] shall be effective with respect to payments under section 1903 of the Social Security Act \[[section 1396b of this title][/us/usc/t42/s1396b]\] for calendar quarters commencing after December 31, 1973.”
+> “The amendments made by subsection (a) \[amending this section and sections 1396, 1396b, and 1396d of this title\] shall be effective with respect to payments under section 1903 of the Social Security Act \[[42 U.S.C. 1396b][/us/usc/t42/s1396b]\] for calendar quarters commencing after December 31, 1973.”
 
 [Pub. L. 93–233, § 18][/us/pl/93/233/s18](z–3)(4), Dec. 31, 1973, [87 Stat. 974][/us/stat/87/974], provided that: 
 
@@ -4083,7 +4083,7 @@ See 2010 Amendment notes below.
 
 [Pub. L. 92–223, § 4(d)][/us/pl/92/223/s4/d], Dec. 28, 1971, [85 Stat. 810][/us/stat/85/810], as amended by [Pub. L. 92–603, title II, § 292][/us/pl/92/603/s292], Oct. 30, 1972, [86 Stat. 1458][/us/stat/86/1458], provided that: 
 
-> “The amendments made by this section \[amending this section and [section 1396d of this title][/us/usc/t42/s1396d] and repealing [section 1320a of this title][/us/usc/t42/s1320a]\] shall become effective January 1, 1972; except that the repeal made by subsection (c) \[repealing [section 1320a of this title][/us/usc/t42/s1320a]\], shall not become effective in the case of any State, which on January 1, 1972 did not have in effect a State plan approved under title XIX of the Social Security Act \[this subchapter\], until the first day of the first month (occurring after such date) that such State does have in effect a State plan approved under such title \[this subchapter\].”
+> “The amendments made by this section \[amending this section and [section 1396d of this title][/us/usc/t42/s1396d] and repealing [section 1320a of this title][/us/usc/t42/s1320a]\] shall become effective January 1, 1972; except that the repeal made by subsection (c) \[repealing [section 1320a of this title][/us/usc/t42/s1320a]\], shall not become effective in the case of any State, which on January 1, 1972 did not have in effect a State plan approved under title XIX of the Social Security Act \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\], until the first day of the first month (occurring after such date) that such State does have in effect a State plan approved under such title \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\].”
 
  __Effective Date of 1968 Amendment__ 
 
@@ -4133,7 +4133,7 @@ See 2010 Amendment notes below.
 
 [Pub. L. 99–272, title IX, § 9503(c)][/us/pl/99/272/s9503/c], Apr. 7, 1986, [100 Stat. 206][/us/stat/100/206], provided that: 
 
-> “The Secretary of Health and Human Services shall promulgate final regulations necessary to carry out sections 1902(a)(25) and 1903(r)(6)(J) of the Social Security Act \[subsec. (a)(25) of this section and [section 1396b(r)(6)(J) of this title][/us/usc/t42/s1396b/r/6/J]\] within 6 months after the date of the enactment of this Act \[Apr. 7, 1986\].”
+> “The Secretary of Health and Human Services shall promulgate final regulations necessary to carry out sections 1902(a)(25) and 1903(r)(6)(J) of the Social Security Act \[[42 U.S.C. 1396a(a)(25)][/us/usc/t42/s1396a/a/25], 1396b(r)(6)(J)\] within 6 months after the date of the enactment of this Act \[Apr. 7, 1986\].”
 
  __Construction of 2009 Amendment__ 
 
@@ -4567,7 +4567,7 @@ See 2010 Amendment notes below.
 
 >     “(a) __In General.—__ 
 
->     The Secretary is authorized to conduct, during each of fiscal years 2007 through 2011, demonstration projects (each in the section referred to as a ‘demonstration project’) in accordance with this section under which up to 10 States (as defined for purposes of title XIX of the Social Security Act \[this subchapter\]) are awarded grants, on a competitive basis, to test the effectiveness in improving or maintaining a child’s functional level and cost-effectiveness of providing coverage of home and community-based alternatives to psychiatric residential treatment for children enrolled in the Medicaid program under title XIX of such Act.
+>     The Secretary is authorized to conduct, during each of fiscal years 2007 through 2011, demonstration projects (each in the section referred to as a ‘demonstration project’) in accordance with this section under which up to 10 States (as defined for purposes of title XIX of the Social Security Act \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\]) are awarded grants, on a competitive basis, to test the effectiveness in improving or maintaining a child’s functional level and cost-effectiveness of providing coverage of home and community-based alternatives to psychiatric residential treatment for children enrolled in the Medicaid program under title XIX of such Act.
 
 >     “(b) __Application of Terms and Conditions.—__ 
 
@@ -4681,7 +4681,7 @@ See 2010 Amendment notes below.
 
 >                 “(ii) is receiving Medicaid benefits for inpatient services furnished by such inpatient facility; and
 
->                 “(iii) with respect to whom a determination has been made that, but for the provision of home and community-based long-term care services, the individual would continue to require the level of care provided in an inpatient facility and, in any case in which the State applies a more stringent level of care standard as a result of implementing the State plan option permitted under section 1915(i) of the Social Security Act \[[section 1396n(i) of this title][/us/usc/t42/s1396n/i]\], the individual must continue to require at least the level of care which had resulted in admission to the institution; and
+>                 “(iii) with respect to whom a determination has been made that, but for the provision of home and community-based long-term care services, the individual would continue to require the level of care provided in an inpatient facility and, in any case in which the State applies a more stringent level of care standard as a result of implementing the State plan option permitted under section 1915(i) of the Social Security Act \[[42 U.S.C. 1396n(i)][/us/usc/t42/s1396n/i]\], the individual must continue to require at least the level of care which had resulted in admission to the institution; and
 
 >             “(B) who resides in a qualified residence beginning on the initial date of participation in the demonstration project.
 
@@ -4693,7 +4693,7 @@ See 2010 Amendment notes below.
 
 >         “(4) __Medicaid.—__ 
 
->         The term ‘Medicaid’ means, with respect to a State, the State program under title XIX of the Social Security Act \[this subchapter\] (including any waiver or demonstration under such title or under section 1115 of such Act \[[section 1315 of this title][/us/usc/t42/s1315]\] relating to such title).
+>         The term ‘Medicaid’ means, with respect to a State, the State program under title XIX of the Social Security Act \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\] (including any waiver or demonstration under such title or under section 1115 of such Act \[[42 U.S.C. 1315][/us/usc/t42/s1315]\] relating to such title).
 
 >         “(5) __Qualified hcb program.—__ 
 
@@ -4753,7 +4753,7 @@ See 2010 Amendment notes below.
 
 >         “(9) __State.—__ 
 
->         The term ‘State’ has the meaning given such term for purposes of title XIX of the Social Security Act \[this subchapter\].
+>         The term ‘State’ has the meaning given such term for purposes of title XIX of the Social Security Act \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\].
 
 >     “(c) __State Application.—__ 
 
@@ -4793,7 +4793,7 @@ See 2010 Amendment notes below.
 
 >             “(B) each eligible individual or the individual’s authorized representative will choose the qualified residence in which the individual will reside and the setting in which the individual will receive home and community-based long-term care services;
 
->             “(C) the State will continue to make available, so long as the State operates its qualified HCB program consistent with applicable requirements, home and community-based long-term care services to each individual who completes participation in the MFP demonstration project for as long as the individual remains eligible for medical assistance for such services under such qualified HCB program (including meeting a requirement relating to requiring a level of care provided in an inpatient facility and continuing to require such services, and, if the State applies a more stringent level of care standard as a result of implementing the State plan option permitted under section 1915(i) of the Social Security Act \[[section 1396n(i) of this title][/us/usc/t42/s1396n/i]\], meeting the requirement for at least the level of care which had resulted in the individual’s admission to the institution).
+>             “(C) the State will continue to make available, so long as the State operates its qualified HCB program consistent with applicable requirements, home and community-based long-term care services to each individual who completes participation in the MFP demonstration project for as long as the individual remains eligible for medical assistance for such services under such qualified HCB program (including meeting a requirement relating to requiring a level of care provided in an inpatient facility and continuing to require such services, and, if the State applies a more stringent level of care standard as a result of implementing the State plan option permitted under section 1915(i) of the Social Security Act \[[42 U.S.C. 1396n(i)][/us/usc/t42/s1396n/i]\], meeting the requirement for at least the level of care which had resulted in the individual’s admission to the institution).
 
 >         “(7) __Rebalancing.—__ 
 
@@ -4893,11 +4893,11 @@ See 2010 Amendment notes below.
 
 >         “(3) __Waiver authority.—__ 
 
->         The Secretary is authorized to waive the following provisions of title XIX of the Social Security Act \[this subchapter\], to the extent necessary to enable a State initiative to meet the requirements and accomplish the purposes of this section:
+>         The Secretary is authorized to waive the following provisions of title XIX of the Social Security Act \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\], to the extent necessary to enable a State initiative to meet the requirements and accomplish the purposes of this section:
 
 >             “(A) __Statewideness.—__ 
 
->             Section 1902(a)(1) \[subsec. (a)(1) of this section\], in order to permit implementation of a State initiative in a selected area or areas of the State.
+>             Section 1902(a)(1) \[[42 U.S.C. 1396a(a)(1)][/us/usc/t42/s1396a/a/1]\], in order to permit implementation of a State initiative in a selected area or areas of the State.
 
 >             “(B) __Comparability.—__ 
 
@@ -4947,11 +4947,11 @@ See 2010 Amendment notes below.
 
 >         “(4) __Preventing duplication of payment.—__ 
 
->         The payment under a MFP demonstration project with respect to qualified expenditures shall be in lieu of any payment with respect to such expenditures that could otherwise be paid under Medicaid, including under section 1903(a) of the Social Security Act \[[section 1396b(a) of this title][/us/usc/t42/s1396b/a]\]. Nothing in the previous sentence shall be construed as preventing the payment under Medicaid for such expenditures in a grant year after amounts available to pay for such expenditures under the MFP demonstration project have been exhausted.
+>         The payment under a MFP demonstration project with respect to qualified expenditures shall be in lieu of any payment with respect to such expenditures that could otherwise be paid under Medicaid, including under section 1903(a) of the Social Security Act \[[42 U.S.C. 1396b(a)][/us/usc/t42/s1396b/a]\]. Nothing in the previous sentence shall be construed as preventing the payment under Medicaid for such expenditures in a grant year after amounts available to pay for such expenditures under the MFP demonstration project have been exhausted.
 
 >         “(5) __MFP-enhanced fmap.—__ 
 
->         For purposes of paragraph (1)(A), the ‘MFP-enhanced FMAP’, for a State for a fiscal year, is equal to the Federal medical assistance percentage (as defined in the first sentence of section 1905(b) \[[section 1396d(b) of this title][/us/usc/t42/s1396d/b]\]) for the State increased by a number of percentage points equal to 50 percent of the number of percentage points by which (A) such Federal medical assistance percentage for the State, is less than (B) 100 percent; but in no case shall the MFP-enhanced FMAP for a State exceed 90 percent.
+>         For purposes of paragraph (1)(A), the ‘MFP-enhanced FMAP’, for a State for a fiscal year, is equal to the Federal medical assistance percentage (as defined in the first sentence of section 1905(b) \[[42 U.S.C. 1396d(b)][/us/usc/t42/s1396d/b]\]) for the State increased by a number of percentage points equal to 50 percent of the number of percentage points by which (A) such Federal medical assistance percentage for the State, is less than (B) 100 percent; but in no case shall the MFP-enhanced FMAP for a State exceed 90 percent.
 
 >     “(f) __Quality Assurance and Improvement; Technical Assistance; Oversight.—__ 
 
@@ -5063,7 +5063,7 @@ See 2010 Amendment notes below.
 
 >     In conducting the study, the Secretary shall consult with the following:
 
->         “(1) Farmworkers affected by the lack of portability of coverage under the Medicaid program or the State children’s health insurance program (under titles XIX and XXI of the Social Security Act \[this subchapter and subchapter XXI of this chapter\]).
+>         “(1) Farmworkers affected by the lack of portability of coverage under the Medicaid program or the State children’s health insurance program (under titles XIX and XXI of the Social Security Act \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq., 1397aa et seq.\]).
 
 >         “(2) Individuals with expertise in providing health care to farmworkers, including designees of national and local organizations representing migrant health centers and other providers.
 
@@ -5089,11 +5089,11 @@ See 2010 Amendment notes below.
 
 >         “(2) __Medicaid.—__ 
 
->         The term ‘Medicaid’ means the program under title XIX of the Social Security Act \[this subchapter\].
+>         The term ‘Medicaid’ means the program under title XIX of the Social Security Act \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\].
 
 >         “(3) __SCHIP.—__ 
 
->         The term ‘SCHIP’ means the State children’s health insurance program under title XXI of the Social Security Act \[subchapter XXI of this chapter\].
+>         The term ‘SCHIP’ means the State children’s health insurance program under title XXI of the Social Security Act \[[42 U.S.C. 1397aa][/us/usc/t42/s1397aa] et seq.\].
 
 >     “(e) __Report.—__ 
 
@@ -5141,7 +5141,7 @@ See 2010 Amendment notes below.
 
 [Pub. L. 106–113, div. B, § 1000(a)(6)][/us/pl/106/113/s1000/a/6] \[title VI, § 603(b)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–395, provided that: 
 
-> “Not later than 1 year after the date of the enactment of this Act \[Nov. 29, 1999\], the Comptroller General of the United States shall submit a report to Congress that evaluates the effect on Federally-qualified health centers and rural health clinics and on the populations served by such centers and clinics of the phase-out and elimination of the reasonable cost basis for payment for Federally-qualified health center services and rural health clinic services provided under section 1902(a)(13)(C)(i) of the Social Security Act ([42 U.S.C. 1396a(a)(13)(C)(i)][/us/usc/t42/s1396a/a/13/C/i]), as amended by section 4712 of BBA ([111 Stat. 508][/us/stat/111/508]) \[the Balanced Budget Act of 1997, [Pub. L. 105–33][/us/pl/105/33]\] and subsection (a) of this section. Such report shall include an analysis of the amount, method, and impact of payments made by States that have provided for payment under title XIX of such Act \[this subchapter\] for such services on a basis other than payment of costs which are reasonable and related to the cost of furnishing such services, together with any recommendations for legislation, including whether a new payment system is needed, that the Comptroller General determines to be appropriate as a result of the study.”
+> “Not later than 1 year after the date of the enactment of this Act \[Nov. 29, 1999\], the Comptroller General of the United States shall submit a report to Congress that evaluates the effect on Federally-qualified health centers and rural health clinics and on the populations served by such centers and clinics of the phase-out and elimination of the reasonable cost basis for payment for Federally-qualified health center services and rural health clinic services provided under section 1902(a)(13)(C)(i) of the Social Security Act ([42 U.S.C. 1396a(a)(13)(C)(i)][/us/usc/t42/s1396a/a/13/C/i]), as amended by section 4712 of BBA ([111 Stat. 508][/us/stat/111/508]) \[the Balanced Budget Act of 1997, [Pub. L. 105–33][/us/pl/105/33]\] and subsection (a) of this section. Such report shall include an analysis of the amount, method, and impact of payments made by States that have provided for payment under title XIX of such Act \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\] for such services on a basis other than payment of costs which are reasonable and related to the cost of furnishing such services, together with any recommendations for legislation, including whether a new payment system is needed, that the Comptroller General determines to be appropriate as a result of the study.”
 
  __Demonstration of Coverage Under the Medicaid Program of Workers With Potentially Severe Disabilities__ 
 
@@ -5251,7 +5251,7 @@ See 2010 Amendment notes below.
 
 [Pub. L. 105–277, div. A, § 101(f)][/us/pl/105/277/s101/f] \[title VII, § 710\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–391, provided that: 
 
-> “For purposes of payments to States for medical assistance under title XIX of the Social Security Act \[this subchapter\] from amounts appropriated to carry out such title for fiscal year 1999 and for any subsequent fiscal year, individuals who are PACE program eligible individuals under section 1934 of that Act \[[section 1396u–4 of this title][/us/usc/t42/s1396u–4]\] and who meet the income and resource eligibility requirements of individuals who are eligible for medical assistance under section 1902(a)(10)(A)(ii)(VI) of that Act \[subsec. (a)(10)(A)(ii)(VI) of this section\] shall be treated as individuals described in such section 1902(a)(10)(A)(ii)(VI) during the period of their enrollment in the PACE program.”
+> “For purposes of payments to States for medical assistance under title XIX of the Social Security Act \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\] from amounts appropriated to carry out such title for fiscal year 1999 and for any subsequent fiscal year, individuals who are PACE program eligible individuals under section 1934 of that Act \[[42 U.S.C. 1396u–4][/us/usc/t42/s1396u–4]\] and who meet the income and resource eligibility requirements of individuals who are eligible for medical assistance under section 1902(a)(10)(A)(ii)(VI) of that Act \[[42 U.S.C. 1396a(a)(10)(A)(ii)(VI)][/us/usc/t42/s1396a/a/10/A/ii/VI]\] shall be treated as individuals described in such section 1902(a)(10)(A)(ii)(VI) during the period of their enrollment in the PACE program.”
 
  __Study and Report by Secretary of Health and Human Services__ 
 
@@ -5275,7 +5275,7 @@ See 2010 Amendment notes below.
 
 [Pub. L. 105–33, title IV, § 4759][/us/pl/105/33/s4759], Aug. 5, 1997, [111 Stat. 528][/us/stat/111/528], provided that: 
 
-> “In the case of a State plan under title XIX of the Social Security Act \[this subchapter\] which the Secretary of Health and Human Services determines requires State legislation in order for the plan to meet the additional requirements imposed by the amendments made by a provision of this subtitle \[subtitle H (§§ 4701–4759) of title IV of [Pub. L. 105–33][/us/pl/105/33], enacting sections 1396u–2 and 1396u–3 of this title, amending this section and sections 1308, 1315, 1320a–3, 1320a–7b, 1395i–3, 1395w–4, 1395cc, 1396b, 1396d, 1396e, 1396n, 1396o, 1396r, 1396r–4, 1396r–6, 1396r–8, 1396u–2, and 1396v of this title, and repealing [section 1396r–7 of this title][/us/usc/t42/s1396r–7]\], the State plan shall not be regarded as failing to comply with the requirements of such title solely on the basis of its failure to meet these additional requirements before the first day of the first calendar quarter beginning after the close of the first regular session of the State legislature that begins after the date of the enactment of this Act \[Aug. 5, 1997\]. For purposes of the previous sentence, in the case of a State that has a 2-year legislative session, each year of the session is considered to be a separate regular session of the State legislature.”
+> “In the case of a State plan under title XIX of the Social Security Act \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\] which the Secretary of Health and Human Services determines requires State legislation in order for the plan to meet the additional requirements imposed by the amendments made by a provision of this subtitle \[subtitle H (§§ 4701–4759) of title IV of [Pub. L. 105–33][/us/pl/105/33], enacting sections 1396u–2 and 1396u–3 of this title, amending this section and sections 1308, 1315, 1320a–3, 1320a–7b, 1395i–3, 1395w–4, 1395cc, 1396b, 1396d, 1396e, 1396n, 1396o, 1396r, 1396r–4, 1396r–6, 1396r–8, 1396u–2, and 1396v of this title, and repealing [section 1396r–7 of this title][/us/usc/t42/s1396r–7]\], the State plan shall not be regarded as failing to comply with the requirements of such title solely on the basis of its failure to meet these additional requirements before the first day of the first calendar quarter beginning after the close of the first regular session of the State legislature that begins after the date of the enactment of this Act \[Aug. 5, 1997\]. For purposes of the previous sentence, in the case of a State that has a 2-year legislative session, each year of the session is considered to be a separate regular session of the State legislature.”
 
  __References to Provisions of Part A of Subchapter IV Considered References to Such Provisions as in Effect__  __July 16, 1996__ 
 
@@ -5301,11 +5301,11 @@ See 2010 Amendment notes below.
 
 >                 “(i) the project can reasonably be expected to improve access to health insurance coverage for the uninsured;
 
->                 “(ii) with respect to projects for which the statewideness requirement has not been waived, the State provides, under its plan under title XIX of the Social Security Act \[this subchapter\], for eligibility for medical assistance for all individuals described in subparagraphs (A), (B), (C), and (D) of paragraph (1) of section 1902(l) of such Act \[subsec. (l)(1)(A), (B), (C), (D) of this section\] (based on the State’s election of certain eligibility options the highest income standards and, based on the State’s waiver of the application of any resource standard);
+>                 “(ii) with respect to projects for which the statewideness requirement has not been waived, the State provides, under its plan under title XIX of the Social Security Act \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\], for eligibility for medical assistance for all individuals described in subparagraphs (A), (B), (C), and (D) of paragraph (1) of section 1902(l) of such Act \[[42 U.S.C. 1396a][/us/usc/t42/s1396a](l)(1)(A), (B), (C), (D)\] (based on the State’s election of certain eligibility options the highest income standards and, based on the State’s waiver of the application of any resource standard);
 
 >                 “(iii) eligibility for benefits under the project is limited to individuals in families with income below 150 percent of the income official poverty line and who are not individuals receiving benefits under title XIX of the Social Security Act;
 
->                 “(iv) if the Secretary determines that it is cost-effective for the project to utilize employer coverage (as described in section 1925(b)(4)(D) of the Social Security Act \[[section 1396r–6(b)(4)(D) of this title][/us/usc/t42/s1396r–6/b/4/D]\]), the project must require an employer contribution and benefits under the State plan under title XIX of such Act will continue to be made available to the extent they are not available under the employer coverage;
+>                 “(iv) if the Secretary determines that it is cost-effective for the project to utilize employer coverage (as described in section 1925(b)(4)(D) of the Social Security Act \[[42 U.S.C. 1396r–6(b)(4)(D)][/us/usc/t42/s1396r–6/b/4/D]\]), the project must require an employer contribution and benefits under the State plan under title XIX of such Act will continue to be made available to the extent they are not available under the employer coverage;
 
 >                 “(v) the project provides for coverage of benefits consistent with subsection (b); and
 
@@ -5315,7 +5315,7 @@ See 2010 Amendment notes below.
 
 >         “(3) __Permissible restrictions.—__ 
 
->         A project may limit eligibility to individuals whose assets are valued below a level specified by the State. For this purpose, any evaluation of such assets shall be made in a manner consistent with the standards for valuation of assets under the State plan under title XIX of the Social Security Act for individuals entitled to assistance under part A of title IV of such Act \[part A of subchapter IV of this chapter\]. Nothing in this section shall be construed as requiring a State to provide for eligibility for individuals for months before the month in which such eligibility is first established.
+>         A project may limit eligibility to individuals whose assets are valued below a level specified by the State. For this purpose, any evaluation of such assets shall be made in a manner consistent with the standards for valuation of assets under the State plan under title XIX of the Social Security Act for individuals entitled to assistance under part A of title IV of such Act \[[42 U.S.C. 601][/us/usc/t42/s601] et seq.\]. Nothing in this section shall be construed as requiring a State to provide for eligibility for individuals for months before the month in which such eligibility is first established.
 
 >         “(4) __Extension of eligibility.—__ 
 
@@ -5325,17 +5325,17 @@ See 2010 Amendment notes below.
 
 >             “(A) __In general.—__ 
 
->             Subject to subparagraph (B), the Secretary may waive such requirements of title XIX of the Social Security Act (except section 1903(m) of the Social Security Act \[[section 1396b(m) of this title][/us/usc/t42/s1396b/m]\]) as may be required to provide for additional coverage of individuals under projects under this section.
+>             Subject to subparagraph (B), the Secretary may waive such requirements of title XIX of the Social Security Act (except section 1903(m) of the Social Security Act \[[42 U.S.C. 1396b(m)][/us/usc/t42/s1396b/m]\]) as may be required to provide for additional coverage of individuals under projects under this section.
 
 >             “(B) __Nonwaivable provisions.—__ 
 
->             Except with respect to those projects described in subparagraph (B) of paragraph (1), the Secretary may not waive, under subparagraph (A), the statewideness requirement of section 1902(a)(1) of the Social Security Act \[subsec. (a)(1) of this section\] or the Federal medical assistance percentage specified in section 1905(b) of such Act \[[section 1396d(b) of this title][/us/usc/t42/s1396d/b]\].
+>             Except with respect to those projects described in subparagraph (B) of paragraph (1), the Secretary may not waive, under subparagraph (A), the statewideness requirement of section 1902(a)(1) of the Social Security Act \[[42 U.S.C. 1396a(a)(1)][/us/usc/t42/s1396a/a/1]\] or the Federal medical assistance percentage specified in section 1905(b) of such Act \[[42 U.S.C. 1396d(b)][/us/usc/t42/s1396d/b]\].
 
 >     “(b) __Benefits.—__ 
 
 >         “(1) __In general.—__ 
 
->         Except as provided in this subsection, the amount, duration, and scope of medical assistance made available under a project shall be the same as the amount, duration, and scope of such assistance made available to individuals entitled to medical assistance under the State plan under section 1902(a)(10)(A)(i) of the Social Security Act \[subsec. (a)(10)(A)(i) of this section\].
+>         Except as provided in this subsection, the amount, duration, and scope of medical assistance made available under a project shall be the same as the amount, duration, and scope of such assistance made available to individuals entitled to medical assistance under the State plan under section 1902(a)(10)(A)(i) of the Social Security Act \[[42 U.S.C. 1396a(a)(10)(A)(i)][/us/usc/t42/s1396a/a/10/A/i]\].
 
 >         “(2) __Limits on benefits.—__ 
 
@@ -5363,7 +5363,7 @@ See 2010 Amendment notes below.
 
 >         “(3) __Income determination.—__ 
 
->         Each project shall provide for determinations of income in a manner consistent with the methodology used for determinations of income under title XIX of the Social Security Act \[this subchapter\] for individuals entitled to benefits under part A of title IV of such Act \[part A of subchapter IV of this chapter\].
+>         Each project shall provide for determinations of income in a manner consistent with the methodology used for determinations of income under title XIX of the Social Security Act \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\] for individuals entitled to benefits under part A of title IV of such Act \[[42 U.S.C. 601][/us/usc/t42/s601] et seq.\].
 
 >     “(d) __Duration.—__ 
 
@@ -5373,7 +5373,7 @@ See 2010 Amendment notes below.
 
 >         “(1) __In general.—__ 
 
->             (A) The Secretary in conducting projects shall limit the total amount of the Federal share of benefits paid and expenses incurred under title XIX of the Social Security Act \[this subchapter\] to no more than $40,000,000.
+>             (A) The Secretary in conducting projects shall limit the total amount of the Federal share of benefits paid and expenses incurred under title XIX of the Social Security Act \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\] to no more than $40,000,000.
 
 >             “(B) Of the amounts appropriated under subparagraph (A), the Secretary shall provide that no more than one-third of such amounts shall be used to carry out the projects described in paragraph (1)(B) of subsection (a) (for which the statewideness requirement has been waived).
 
@@ -5383,7 +5383,7 @@ See 2010 Amendment notes below.
 
 >         “(3) __No increase in federal medical assistance percentage.—__ 
 
->         Payments to a State under a project with respect to expenditures made for medical assistance made available under the project may not exceed the Federal medical assistance percentage (as defined in section 1905(b) of the Social Security Act \[[section 1396d(b) of this title][/us/usc/t42/s1396d/b]\]) of such expenditures.
+>         Payments to a State under a project with respect to expenditures made for medical assistance made available under the project may not exceed the Federal medical assistance percentage (as defined in section 1905(b) of the Social Security Act \[[42 U.S.C. 1396d(b)][/us/usc/t42/s1396d/b]\]) of such expenditures.
 
 >     “(f) __Evaluation and Report.—__ 
 
@@ -5405,7 +5405,7 @@ See 2010 Amendment notes below.
 
 >     In this section:
 
->         “(1) The term ‘income official poverty line’ means such line as defined by the Office of Management and Budget and revised annually in accordance with section 673(2) of the Omnibus Budget Reconciliation Act of 1981 \[[section 9902(2) of this title][/us/usc/t42/s9902/2]\].
+>         “(1) The term ‘income official poverty line’ means such line as defined by the Office of Management and Budget and revised annually in accordance with section 673(2) of the Omnibus Budget Reconciliation Act of 1981 \[[42 U.S.C. 9902(2)][/us/usc/t42/s9902/2]\].
 
 >         “(2) The term ‘project’ refers to a demonstration project under subsection (a).”
 
@@ -5417,11 +5417,11 @@ See 2010 Amendment notes below.
 
 >     “(a) __In General.—__ 
 
->     Not later than 3 months after the date of the enactment of this Act \[Nov. 5, 1990\], the Secretary of Health and Human Services (hereafter in this section referred to as the ‘Secretary’) shall provide for 2 demonstration projects to be administered by States that submit an application under this section, through programs administered by the States under title XIX of the Social Security Act \[this subchapter\]. Such demonstration projects shall provide coverage for the services described in subsection (c) to individuals whose income and resources do not exceed the maximum allowable amount for eligibility for any individual in any category of disability under the State plan under section 1902 of the Social Security Act \[this section\], and who have tested positive for the presence of HIV virus (without regard to the presence of any symptoms of AIDS or opportunistic diseases related to AIDS).
+>     Not later than 3 months after the date of the enactment of this Act \[Nov. 5, 1990\], the Secretary of Health and Human Services (hereafter in this section referred to as the ‘Secretary’) shall provide for 2 demonstration projects to be administered by States that submit an application under this section, through programs administered by the States under title XIX of the Social Security Act \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\]. Such demonstration projects shall provide coverage for the services described in subsection (c) to individuals whose income and resources do not exceed the maximum allowable amount for eligibility for any individual in any category of disability under the State plan under section 1902 of the Social Security Act \[[42 U.S.C. 1396a][/us/usc/t42/s1396a]\], and who have tested positive for the presence of HIV virus (without regard to the presence of any symptoms of AIDS or opportunistic diseases related to AIDS).
 
 >     “(b) __Services Available Under a Demonstration Project.—__ 
 
->         (1) The medical assistance made available to individuals described in section 1902(a)(10)(A) of the Social Security Act \[subsec. (a)(10)(A) of this section\] shall be made available to individuals described in subsection (a) who receive services under a demonstration project under such paragraph.
+>         (1) The medical assistance made available to individuals described in section 1902(a)(10)(A) of the Social Security Act \[[42 U.S.C. 1396a(a)(10)(A)][/us/usc/t42/s1396a/a/10/A]\] shall be made available to individuals described in subsection (a) who receive services under a demonstration project under such paragraph.
 
 >         “(2)
 
@@ -5463,11 +5463,11 @@ See 2010 Amendment notes below.
 
 >     “(d) __Federal Share of Costs.—__ 
 
->     The Federal share of the cost of services described in paragraph (3) furnished under a demonstration project conducted under paragraph (1) shall be determined by the otherwise applicable Federal matching assistance percentage pursuant to section 1905(b) of the Social Security Act \[[section 1396d(b) of this title][/us/usc/t42/s1396d/b]\].
+>     The Federal share of the cost of services described in paragraph (3) furnished under a demonstration project conducted under paragraph (1) shall be determined by the otherwise applicable Federal matching assistance percentage pursuant to section 1905(b) of the Social Security Act \[[42 U.S.C. 1396d(b)][/us/usc/t42/s1396d/b]\].
 
 >     “(e) __Waiver of Requirements of the Social Security Act.—__ 
 
->     The Secretary may waive such requirements of the Social Security Act \[this chapter\] as the Secretary determines to be necessary to carry out the purposes of this section.
+>     The Secretary may waive such requirements of the Social Security Act \[[42 U.S.C. 301][/us/usc/t42/s301] et seq.\] as the Secretary determines to be necessary to carry out the purposes of this section.
 
 >     “(f) __Limitation on Amount of Expenditures.—__ 
 
@@ -5505,7 +5505,7 @@ See 2010 Amendment notes below.
 
 >     “(1) __Passage of fmgems examination in order to obtain identifier.—__ 
 
->     The Secretary of Health and Human Service\[s\] shall provide, in the identifier system established under section 1902(x) of the Social Security Act \[subsec. (x) of this section\], that no foreign medical graduate (as defined in section 1886(h)(5)(D) of such Act \[[section 1395ww(h)(5)(D) of this title][/us/usc/t42/s1395ww/h/5/D]\]) shall be issued an identifier under such system unless the individual—
+>     The Secretary of Health and Human Service\[s\] shall provide, in the identifier system established under section 1902(x) of the Social Security Act \[[42 U.S.C. 1396a(x)][/us/usc/t42/s1396a/x]\], that no foreign medical graduate (as defined in section 1886(h)(5)(D) of such Act \[[42 U.S.C. 1395ww(h)(5)(D)][/us/usc/t42/s1395ww/h/5/D]\]) shall be issued an identifier under such system unless the individual—
 
 >         “(A) has passed the FMGEMS examination (as defined in section 1886(h)(5)(E) of such Act);
 
@@ -5521,7 +5521,7 @@ See 2010 Amendment notes below.
 
 [Pub. L. 101–508, title XI, § 11115(c)][/us/pl/101/508/s11115/c], Nov. 5, 1990, [104 Stat. 1388–415][/us/stat/104/1388-415], provided that: 
 
-> “Pursuant to section 1902(a)(17) of the Social Security Act ([42 U.S.C. 1396a(a)(17)][/us/usc/t42/s1396a/a/17]), the Secretary of Health and Human Services shall promulgate regulations to exempt from any determination of income and resources (for the month of receipt and the following month) under title XIX of the Social Security Act \[this subchapter\] any refund of Federal income taxes made to an individual by reason of section 32 of the Internal Revenue Code of 1986 \[[26 U.S.C. 32][/us/usc/t26/s32]\] (relating to earned income tax credit), and any payment made to an individual by an employer under \[former\] section 3507 of such Code \[[26 U.S.C. 3507][/us/usc/t26/s3507]\] (relating to advance payment of earned income credit).”
+> “Pursuant to section 1902(a)(17) of the Social Security Act ([42 U.S.C. 1396a(a)(17)][/us/usc/t42/s1396a/a/17]), the Secretary of Health and Human Services shall promulgate regulations to exempt from any determination of income and resources (for the month of receipt and the following month) under title XIX of the Social Security Act \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\] any refund of Federal income taxes made to an individual by reason of section 32 of the Internal Revenue Code of 1986 \[[26 U.S.C. 32][/us/usc/t26/s32]\] (relating to earned income tax credit), and any payment made to an individual by an employer under \[former\] section 3507 of such Code \[[26 U.S.C. 3507][/us/usc/t26/s3507]\] (relating to advance payment of earned income credit).”
 
  __Development of Model Applications for Medicaid Program__ 
 
@@ -5529,7 +5529,7 @@ See 2010 Amendment notes below.
 
 >     “(1) __In general.—__ 
 
->     The Secretary of Health and Human Services shall, by not later than 1 year after the date of the enactment of this Act \[Dec. 19, 1989\], develop a model application form for use in applying for benefits under title XIX of the Social Security Act \[this subchapter\] for individuals who are not receiving cash assistance under part A of title IV of the Social Security Act \[part A of subchapter IV of this chapter\], and who are not institutionalized. In developing such model application form, the Secretary is not authorized to require that such form be adopted by States as part of their State medicaid plan.
+>     The Secretary of Health and Human Services shall, by not later than 1 year after the date of the enactment of this Act \[Dec. 19, 1989\], develop a model application form for use in applying for benefits under title XIX of the Social Security Act \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\] for individuals who are not receiving cash assistance under part A of title IV of the Social Security Act \[[42 U.S.C. 601][/us/usc/t42/s601] et seq.\], and who are not institutionalized. In developing such model application form, the Secretary is not authorized to require that such form be adopted by States as part of their State medicaid plan.
 
 >     “(2) __Dissemination of model form.—__ 
 
@@ -5539,13 +5539,13 @@ See 2010 Amendment notes below.
 
 [Pub. L. 100–647, title VIII, § 8435][/us/pl/100/647/s8435], Nov. 10, 1988, [102 Stat. 3805][/us/stat/102/3805], provided that: 
 
-> “The Secretary of Health and Human Services may not fail or refuse to approve an amendment to a State plan under title XIX of the Social Security Act \[this subchapter\] that provides for coverage of case-management services described in section 1915(g)(2) of such Act \[[section 1396n(g)(2) of this title][/us/usc/t42/s1396n/g/2]\], or to deny payment to a State for such services under section 1903(a)(1) of such Act \[[section 1396b(a)(1) of this title][/us/usc/t42/s1396b/a/1]\] on the basis that a State is required to provide such services under State law or on the basis that the State had paid or is paying for such services from non-Federal funds before or after April 7, 1986. Nothing in this section shall be construed as requiring the Secretary to make payment to a State under section 1903(a)(1) of such Act for such case-management services which are provided without charge to the users of such services.”
+> “The Secretary of Health and Human Services may not fail or refuse to approve an amendment to a State plan under title XIX of the Social Security Act \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\] that provides for coverage of case-management services described in section 1915(g)(2) of such Act \[[42 U.S.C. 1396n(g)(2)][/us/usc/t42/s1396n/g/2]\], or to deny payment to a State for such services under section 1903(a)(1) of such Act \[[42 U.S.C. 1396b(a)(1)][/us/usc/t42/s1396b/a/1]\] on the basis that a State is required to provide such services under State law or on the basis that the State had paid or is paying for such services from non-Federal funds before or after April 7, 1986. Nothing in this section shall be construed as requiring the Secretary to make payment to a State under section 1903(a)(1) of such Act for such case-management services which are provided without charge to the users of such services.”
 
  __Treatment of States Operating Under Demonstration Projects__ 
 
 [Pub. L. 100–360, title III, § 301(g)(1)][/us/pl/100/360/s301/g/1], July 1, 1988, [102 Stat. 750][/us/stat/102/750], provided that: 
 
-> “In the case of any State which is providing medical assistance to its residents under a waiver granted under section 1115(a) of the Social Security Act \[[section 1315(a) of this title][/us/usc/t42/s1315/a]\], the Secretary of Health and Human Services shall require the State to meet the requirement of section 1902(a)(10)(E) of the Social Security Act \[subsec. (a)(10)(E) of this section\] in the same manner as the State would be required to meet such requirement if the State had in effect a plan approved under title XIX of such Act \[this subchapter\].”
+> “In the case of any State which is providing medical assistance to its residents under a waiver granted under section 1115(a) of the Social Security Act \[[42 U.S.C. 1315(a)][/us/usc/t42/s1315/a]\], the Secretary of Health and Human Services shall require the State to meet the requirement of section 1902(a)(10)(E) of the Social Security Act \[[42 U.S.C. 1396a(a)(10)(E)][/us/usc/t42/s1396a/a/10/E]\] in the same manner as the State would be required to meet such requirement if the State had in effect a plan approved under title XIX of such Act \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\].”
 
  __Adjustment in Medicaid Payment for Inpatient Hospital Services Furnished by Disproportionate Share Hospitals__ 
 
@@ -5555,7 +5555,7 @@ See 2010 Amendment notes below.
 
 [Pub. L. 100–203, title IV, § 4211(b)(2)][/us/pl/100/203/s4211/b/2], Dec. 22, 1987, [101 Stat. 1330–203][/us/stat/101/1330-203], as amended by [Pub. L. 101–508, title IV, § 4801(e)(1)(B)][/us/pl/101/508/s4801/e/1/B], Nov. 5, 1990, [104 Stat. 1388–215][/us/stat/104/1388-215], provided that: 
 
-> “A plan of a State under title XIX of the Social Security Act \[this subchapter\] shall not be considered to have met the requirement of section 1902(a)(13)(A) of the Social Security Act \[subsec. (a)(13)(A) of this section\] (as amended by paragraph (1)(A) of this subsection), as of the first day of a Federal fiscal year (beginning on or after October 1, 1990), unless the State has submitted to the Secretary of Health and Human Services, as of April 1 before the fiscal year, an amendment to such State plan to provide for an appropriate adjustment in payment amounts for nursing facility services furnished during the Federal fiscal year. Each such amendment shall include a detailed description of the specific methodology to be used in determining the appropriate adjustment in payment amounts for nursing facility services. The Secretary shall, not later than September 30 before the fiscal year concerned, review each such plan amendment for compliance with such requirement and by such date shall approve or disapprove each such amendment. If the Secretary disapproves such an amendment, the State shall immediately submit a revised amendment which meets such requirement. The absence of approval of such a plan amendment does not relieve the State or any nursing facility of any obligation or requirement under title XIX of the Social Security Act (as amended by this Act).”
+> “A plan of a State under title XIX of the Social Security Act \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\] shall not be considered to have met the requirement of section 1902(a)(13)(A) of the Social Security Act \[[42 U.S.C. 1396a(a)(13)(A)][/us/usc/t42/s1396a/a/13/A]\] (as amended by paragraph (1)(A) of this subsection), as of the first day of a Federal fiscal year (beginning on or after October 1, 1990), unless the State has submitted to the Secretary of Health and Human Services, as of April 1 before the fiscal year, an amendment to such State plan to provide for an appropriate adjustment in payment amounts for nursing facility services furnished during the Federal fiscal year. Each such amendment shall include a detailed description of the specific methodology to be used in determining the appropriate adjustment in payment amounts for nursing facility services. The Secretary shall, not later than September 30 before the fiscal year concerned, review each such plan amendment for compliance with such requirement and by such date shall approve or disapprove each such amendment. If the Secretary disapproves such an amendment, the State shall immediately submit a revised amendment which meets such requirement. The absence of approval of such a plan amendment does not relieve the State or any nursing facility of any obligation or requirement under title XIX of the Social Security Act (as amended by this Act).”
 
  __Technical Assistance With Respect to Facilities That Take Into Account Case Mix of Residents__ 
 
@@ -5569,9 +5569,9 @@ See 2010 Amendment notes below.
 
 >     “(a) __In General.—__ 
 
->         (1) The Secretary of Health and Human Services (in this section referred to as the ‘Secretary’) may not publish final or interim final regulations requiring a State plan approved under title XIX of the Social Security Act \[this subchapter\] to include a program requiring second surgical opinions or a program of inpatient hospital preadmission review.
+>         (1) The Secretary of Health and Human Services (in this section referred to as the ‘Secretary’) may not publish final or interim final regulations requiring a State plan approved under title XIX of the Social Security Act \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\] to include a program requiring second surgical opinions or a program of inpatient hospital preadmission review.
 
->         “(2) The Secretary may not, during the period beginning on the date of the enactment of the Omnibus Budget Reconciliation Act of 1990 \[Nov. 5, 1990\] and ending on the date that is 180 days after the date on which the report required by subsection (d) is submitted to the Congress, publish final or interim final regulations requiring a State plan approved under title XIX of the Social Security Act \[this subchapter\] to include a program for ambulatory surgery, preadmission testing, or same-day surgery.
+>         “(2) The Secretary may not, during the period beginning on the date of the enactment of the Omnibus Budget Reconciliation Act of 1990 \[Nov. 5, 1990\] and ending on the date that is 180 days after the date on which the report required by subsection (d) is submitted to the Congress, publish final or interim final regulations requiring a State plan approved under title XIX of the Social Security Act \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\] to include a program for ambulatory surgery, preadmission testing, or same-day surgery.
 
 >     “(b) __Report.—__ 
 
@@ -5591,7 +5591,7 @@ See 2010 Amendment notes below.
 
 >                 “(i) the number of board certified or board eligible physicians in the State who provide care and services to medicaid patients and who perform the procedure, and
 
->                 “(ii) in the case of a State with a mandatory second surgical opinion program in operation, the number of physicians described in clause (i) who provide second opinions (of the type described in section 1164 of the Social Security Act \[[section 1320c–13 of this title][/us/usc/t42/s1320c–13]\]) for the procedure at prevailing payment rates under the State medicaid plan, and
+>                 “(ii) in the case of a State with a mandatory second surgical opinion program in operation, the number of physicians described in clause (i) who provide second opinions (of the type described in section 1164 of the Social Security Act \[[42 U.S.C. 1320c–13][/us/usc/t42/s1320c–13]\]) for the procedure at prevailing payment rates under the State medicaid plan, and
 
 >             “(E)
 
@@ -5613,7 +5613,7 @@ See 2010 Amendment notes below.
 
 >         “(3) The representative sample of States required to be included in the report shall include States with mandatory second surgical opinion programs in operation, States with programs of inpatient hospital preadmission review in operation, and States with neither such program in operation.
 
->         “(4) In this subsection and subsection (d), the term ‘medicaid plan’ means a State plan approved under title XIX of the Social Security Act \[this subchapter\].
+>         “(4) In this subsection and subsection (d), the term ‘medicaid plan’ means a State plan approved under title XIX of the Social Security Act \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\].
 
 >     “(c) __Study.—__ 
 
@@ -5629,7 +5629,7 @@ See 2010 Amendment notes below.
 
 >             “(B) the rate of utilization by medicaid beneficiaries is significantly less than the rate for comparable, age-adjusted populations.
 
->         “(4) The study shall be coordinated, to the extent practicable, with the research program established pursuant to section 1875(c) of the Social Security Act \[section 1395ll(c) of this title\], with particular regard to the relationship of the variations described in paragraph (2) to patient outcomes.
+>         “(4) The study shall be coordinated, to the extent practicable, with the research program established pursuant to section 1875(c) of the Social Security Act \[[42 U.S.C. 1395][/us/usc/t42/s1395]ll(c)\], with particular regard to the relationship of the variations described in paragraph (2) to patient outcomes.
 
 >         “(5) The Secretary shall submit an interim report on the results of the study, including an analysis of the geographic variations under paragraph (2), to the Congress not later than January 1, 1990, and shall report the final results of the study to the Congress not later than January 1, 1992.
 
@@ -5655,11 +5655,11 @@ See 2010 Amendment notes below.
 
 [Pub. L. 99–272, title IX, § 9529(b)(2)][/us/pl/99/272/s9529/b/2], Apr. 7, 1986, [100 Stat. 220][/us/stat/100/220], provided that: 
 
-> “In the case of an adoption assistance agreement (other than an agreement under part E of title IV of the Social Security Act \[part E of subchapter IV of this chapter\]) entered into before the date of the enactment of this Act \[Apr. 7, 1986\]—
+> “In the case of an adoption assistance agreement (other than an agreement under part E of title IV of the Social Security Act \[[42 U.S.C. 670][/us/usc/t42/s670] et seq.\]) entered into before the date of the enactment of this Act \[Apr. 7, 1986\]—
 
 >     “(A)
 
->      the requirements of subdivisions (aa) and (bb) of section 1902(a)(10)(A)(ii)(VIII) of the Social Security Act \[subsec. (a)(10)(A)(ii)(VIII)(aa), (bb) of this section\] shall be deemed to be met if the State agency responsible for adoption assistance agreements determines that—
+>      the requirements of subdivisions (aa) and (bb) of section 1902(a)(10)(A)(ii)(VIII) of the Social Security Act \[[42 U.S.C. 1396a(a)(10)(A)(ii)(VIII)(aa)][/us/usc/t42/s1396a/a/10/A/ii/VIII/aa], (bb)\] shall be deemed to be met if the State agency responsible for adoption assistance agreements determines that—
 
 >         “(i) at the time of adoptive placement the child had special needs for medical or rehabilitative care that made the child difficult to place; and
 
@@ -5671,13 +5671,13 @@ See 2010 Amendment notes below.
 
 [Pub. L. 98–369, div. B, title III, § 2366][/us/pl/98/369/s2366], July 18, 1984, [98 Stat. 1108][/us/stat/98/1108], provided that: 
 
-> “The provisions of section 1902(a)(13) of the Social Security Act \[subsec. (a)(13) of this section\], in so far as they require a reduction of the amount of payment otherwise to be made to a public psychiatric hospital due to the level of care received in such hospital, shall not apply to payments to hospitals before July 1, 1985, and such a reduction made for payments during the 12-month period ending June 30, 1986, and during the 12-month period ending June 30, 1987, shall be one-third and two-thirds, respectively, of the amount of the reduction which would have been made without regard to this section.”
+> “The provisions of section 1902(a)(13) of the Social Security Act \[[42 U.S.C. 1396a(a)(13)][/us/usc/t42/s1396a/a/13]\], in so far as they require a reduction of the amount of payment otherwise to be made to a public psychiatric hospital due to the level of care received in such hospital, shall not apply to payments to hospitals before July 1, 1985, and such a reduction made for payments during the 12-month period ending June 30, 1986, and during the 12-month period ending June 30, 1987, shall be one-third and two-thirds, respectively, of the amount of the reduction which would have been made without regard to this section.”
 
  __Moratorium on Regulatory Actions by Secretary__ 
 
 [Pub. L. 98–369, div. B, title III, § 2373(c)][/us/pl/98/369/s2373/c], July 18, 1984, [98 Stat. 1112][/us/stat/98/1112], as amended by [Pub. L. 100–93, § 9][/us/pl/100/93/s9], Aug. 18, 1987, [101 Stat. 695][/us/stat/101/695], provided that:
 
->     “(1) The Secretary of Health and Human Services shall not take any compliance, disallowance, penalty, or other regulatory action against a State with respect to the moratorium period described in paragraph (2) by reason of such State’s plan described in paragraph (5) under title XIX of the Social Security Act \[this subchapter\] (including any part of the plan operating pursuant to section 1902(f) of such Act \[subsec. (f) of this section\]), or the operation thereunder, being determined to be in violation of clause (IV), (V), or (VI) of section 1902(a)(10)(A)(ii) or section 1902(a)(10)(C)(i)(III) of such Act on account of such plan’s (or its operation) having a standard or methodology which the Secretary interprets as being less restrictive than the standard or methodology required under such section, provided that such plan (or its operation) does not make ineligible any individual who would be eligible but for the provisions of this subsection.
+>     “(1) The Secretary of Health and Human Services shall not take any compliance, disallowance, penalty, or other regulatory action against a State with respect to the moratorium period described in paragraph (2) by reason of such State’s plan described in paragraph (5) under title XIX of the Social Security Act \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\] (including any part of the plan operating pursuant to section 1902(f) of such Act \[[42 U.S.C. 1396a(f)][/us/usc/t42/s1396a/f]\]), or the operation thereunder, being determined to be in violation of clause (IV), (V), or (VI) of section 1902(a)(10)(A)(ii) or section 1902(a)(10)(C)(i)(III) of such Act on account of such plan’s (or its operation) having a standard or methodology which the Secretary interprets as being less restrictive than the standard or methodology required under such section, provided that such plan (or its operation) does not make ineligible any individual who would be eligible but for the provisions of this subsection.
 
 >     “(2) The moratorium period is the period beginning on October 1, 1981, and ending 18 months after the date on which the Secretary submits the report required under paragraph (3).
 
@@ -5703,7 +5703,7 @@ See 2010 Amendment notes below.
 
 >         “(B) the time period allowed for sale of a home of any such individual,
 
->         who is an applicant for or recipient of medical assistance under the State plan as a medically needy individual (described in section 1902(a)(10)(C) of the Social Security Act \[subsec. (a)(10)(C) of this section\]) or as an optional categorically needy individual (described in section 1902(a)(10)(A)(ii) of such Act).”
+>         who is an applicant for or recipient of medical assistance under the State plan as a medically needy individual (described in section 1902(a)(10)(C) of the Social Security Act \[[42 U.S.C. 1396a(a)(10)(C)][/us/usc/t42/s1396a/a/10/C]\]) or as an optional categorically needy individual (described in section 1902(a)(10)(A)(ii) of such Act).”
 
     \[Amendment of [section 2373(c) of Pub. L. 98–369][/us/pl/98/369/s2373/c], set out above, by [section 9 of Pub. L. 100–93][/us/pl/100/93/s9] applicable as though originally included in [Pub. L. 98–369, § 2373(c)][/us/pl/98/369/s2373/c], see [section 15(e) of Pub. L. 100–93][/us/pl/100/93/s15/e], set out as an Effective Date of 1987 Amendment note under [section 1320a–7 of this title][/us/usc/t42/s1320a–7].\]
 
@@ -5715,7 +5715,7 @@ See 2010 Amendment notes below.
 
 [Pub. L. 96–272, title III, § 310(b)(1)][/us/pl/96/272/s310/b/1], June 17, 1980, [94 Stat. 533][/us/stat/94/533], provided that:
 
->     “(A) For purposes of section 1902(a)(10)(A) of the Social Security Act \[subsec. (a)(10)(A) of this section\], any individual who, prior to the date of enactment of this Act \[June 17, 1980\] and for the month of December 1978, was eligible for and received aid or assistance under a State plan approved under title I, X, XIV, or XVI, or part A of title IV of such Act \[subchapter I, X, XIV, or XVI, or part A of subchapter IV of this chapter\], or was eligible for and received supplemental security income benefits under title XVI of such Act \[subchapter XVI of this chapter\] (or a supplementary payment described in [section 13(c) of Public Law 93–233][/us/pl/93/233/s13/c]) \[set out as a note under this section\], and was also in receipt of (or was a dependent, for purposes of chapter 15 of title 38, United States Code, as in effect on December 31, 1978, of an individual in receipt of) pension from the Veterans’ Administration for the month of December 1978 shall (subject to subparagraph (B)) be deemed to have been receiving such aid, assistance, supplemental security income, or supplementary payment, for each calendar month thereafter (prior to the month in which the provisions of this subparagraph cease to be effective with respect to him as determined under subparagraph (B)), if such individual would have been eligible therefor in December 1978 and in the month in which the provisions of this subparagraph cease to be effective with respect to him as determined under subparagraph (B) had the increase in income of such individual (or of the family of which such individual is a member), attributable to an election (made by such individual or another member of such individual’s family) under section 306 of the Veterans’ and Survivors’ Pension Improvement Act of 1978 \[[section 306 of Pub. L. 95–588][/us/pl/95/588/s306], set out as a note under [section 521 of Title 38][/us/usc/t38/s521], Veterans’ Benefits\], not occurred.
+>     “(A) For purposes of section 1902(a)(10)(A) of the Social Security Act \[[42 U.S.C. 1396a(a)(10)(A)][/us/usc/t42/s1396a/a/10/A]\], any individual who, prior to the date of enactment of this Act \[June 17, 1980\] and for the month of December 1978, was eligible for and received aid or assistance under a State plan approved under title I, X, XIV, or XVI, or part A of title IV of such Act \[[42 U.S.C. 301][/us/usc/t42/s301] et seq., 1201 et seq., 1351 et seq., or 1381 et seq., or 601 et seq.\], or was eligible for and received supplemental security income benefits under title XVI of such Act \[[42 U.S.C. 1381][/us/usc/t42/s1381] et seq.\] (or a supplementary payment described in [section 13(c) of Public Law 93–233][/us/pl/93/233/s13/c]) \[set out as a note under this section\], and was also in receipt of (or was a dependent, for purposes of chapter 15 of title 38, United States Code, as in effect on December 31, 1978, of an individual in receipt of) pension from the Veterans’ Administration for the month of December 1978 shall (subject to subparagraph (B)) be deemed to have been receiving such aid, assistance, supplemental security income, or supplementary payment, for each calendar month thereafter (prior to the month in which the provisions of this subparagraph cease to be effective with respect to him as determined under subparagraph (B)), if such individual would have been eligible therefor in December 1978 and in the month in which the provisions of this subparagraph cease to be effective with respect to him as determined under subparagraph (B) had the increase in income of such individual (or of the family of which such individual is a member), attributable to an election (made by such individual or another member of such individual’s family) under section 306 of the Veterans’ and Survivors’ Pension Improvement Act of 1978 \[[section 306 of Pub. L. 95–588][/us/pl/95/588/s306], set out as a note under [section 521 of Title 38][/us/usc/t38/s521], Veterans’ Benefits\], not occurred.
 
 >     “(B)
 
@@ -5727,93 +5727,93 @@ See 2010 Amendment notes below.
 
 [Pub. L. 94–566, title V, § 503][/us/pl/94/566/s503], Oct. 20, 1976, [90 Stat. 2685][/us/stat/90/2685], provided that: 
 
-> “In addition to other requirements imposed by law as a condition for the approval of any State plan under title XIX of the Social Security Act \[this subchapter\], there is hereby imposed the requirement (and each such State plan shall be deemed to require) that medical assistance under such plan shall be provided to any individual, for any month after June 1977 for which such individual is entitled to a monthly insurance benefit under title II of such Act \[subchapter II of this chapter\] but is not eligible for benefits under title XVI of such Act \[subchapter XVI of this chapter\], in like manner and subject to the same terms and conditions as are applicable under such State plan in the case of individuals who are eligible for and receiving benefits under such title XVI \[subchapter XVI of this chapter\] for such month, if for such month such individual would be (or could become) eligible for benefits under such title XVI \[subchapter XVI of this chapter\] except for amounts of income received by such individual and his spouse (if any) which are attributable to increases in the level of monthly insurance benefits payable under title II of such Act \[subchapter II of this chapter\] which have occurred pursuant to section 215(i) of such Act \[[section 415(i) of this title][/us/usc/t42/s415/i]\], in the case of such individual, since the last month after April 1977 for which such individual was both eligible for (and received) benefits under such title XVI \[subchapter XVI of this chapter\] and was entitled to a monthly insurance benefit under such title II \[subchapter II of this chapter\], and, in the case of such individual’s spouse (if any), since the last such month for which such spouse was both eligible for (and received) benefits under such title XVI \[subchapter XVI of this chapter\] and was entitled to a monthly insurance benefit under such title II \[subchapter II of this chapter\]. Solely for purposes of this section, payments of the type described in section 1616(a) of the Social Security Act \[[section 1382e(a) of this title][/us/usc/t42/s1382e/a]\] or of the type described in [section 212(a) of Public Law 93–66][/us/pl/93/66/s212/a] \[set out as note under [section 1382 of this title][/us/usc/t42/s1382]\] shall be deemed to be benefits under title XVI of the Social Security Act \[subchapter XVI of this chapter\].”
+> “In addition to other requirements imposed by law as a condition for the approval of any State plan under title XIX of the Social Security Act \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\], there is hereby imposed the requirement (and each such State plan shall be deemed to require) that medical assistance under such plan shall be provided to any individual, for any month after June 1977 for which such individual is entitled to a monthly insurance benefit under title II of such Act \[[42 U.S.C. 401][/us/usc/t42/s401] et seq.\] but is not eligible for benefits under title XVI of such Act \[[42 U.S.C. 1381][/us/usc/t42/s1381] et seq.\], in like manner and subject to the same terms and conditions as are applicable under such State plan in the case of individuals who are eligible for and receiving benefits under such title XVI for such month, if for such month such individual would be (or could become) eligible for benefits under such title XVI except for amounts of income received by such individual and his spouse (if any) which are attributable to increases in the level of monthly insurance benefits payable under title II of such Act \[[42 U.S.C. 401][/us/usc/t42/s401] et seq.\] which have occurred pursuant to section 215(i) of such Act \[[42 U.S.C. 415(i)][/us/usc/t42/s415/i]\], in the case of such individual, since the last month after April 1977 for which such individual was both eligible for (and received) benefits under such title XVI \[[42 U.S.C. 1381][/us/usc/t42/s1381] et seq.\] and was entitled to a monthly insurance benefit under such title II \[[42 U.S.C. 401][/us/usc/t42/s401] et seq.\], and, in the case of such individual’s spouse (if any), since the last such month for which such spouse was both eligible for (and received) benefits under such title XVI \[[42 U.S.C. 1381][/us/usc/t42/s1381] et seq.\] and was entitled to a monthly insurance benefit under such title II \[[42 U.S.C. 401][/us/usc/t42/s401] et seq.\]. Solely for purposes of this section, payments of the type described in section 1616(a) of the Social Security Act \[[42 U.S.C. 1382e(a)][/us/usc/t42/s1382e/a]\] or of the type described in [section 212(a) of Public Law 93–66][/us/pl/93/66/s212/a] \[set out as note under [section 1382 of this title][/us/usc/t42/s1382]\] shall be deemed to be benefits under title XVI of the Social Security Act \[[42 U.S.C. 1381][/us/usc/t42/s1381] et seq.\].”
 
  __Medicaid Eligibility for Individuals Receiving Mandatory State Supplementary Payments; Effective Date__ 
 
 [Pub. L. 93–233, § 13(c)][/us/pl/93/233/s13/c], Dec. 31, 1973, [87 Stat. 965][/us/stat/87/965], provided that: 
 
-> “In addition to other requirements imposed by law as conditions for the approval of any State plan under title XIX of the Social Security Act \[this subchapter\], there is hereby imposed (effective January 1, 1974) the requirement (and each such State plan shall be deemed to require) that medical assistance under such plan shall be provided to any individual—
+> “In addition to other requirements imposed by law as conditions for the approval of any State plan under title XIX of the Social Security Act \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\], there is hereby imposed (effective January 1, 1974) the requirement (and each such State plan shall be deemed to require) that medical assistance under such plan shall be provided to any individual—
 
 >     “(1) for any month for which there (A) is payable with respect to such individual a supplementary payment pursuant to an agreement entered into between the State and the Secretary of Health, Education, and Welfare \[now Health and Human Services\] under [section 212(a) of Public Law 93–66][/us/pl/93/66/s212/a] \[set out as note under [section 1382 of this title][/us/usc/t42/s1382]\], and (B) would be payable with respect to such individual such a supplementary payment, if the amount of the supplementary payments payable pursuant to such agreement were established without regard to paragraph (3)(A)(ii) of such section 212(a) \[set out as note under [section 1382 of this title][/us/usc/t42/s1382]\], and
 
->     “(2) in like manner, and subject to the same terms and conditions, as medical assistance is provided under such plan to individuals with respect to whom benefits are payable for such month under the supplementary security income program established by title XVI of the Social Security Act \[subchapter XVI of this chapter\].
+>     “(2) in like manner, and subject to the same terms and conditions, as medical assistance is provided under such plan to individuals with respect to whom benefits are payable for such month under the supplementary security income program established by title XVI of the Social Security Act \[[42 U.S.C. 1381][/us/usc/t42/s1381] et seq.\].
 
->         Federal matching under title XIX of the Social Security Act \[this subchapter\] shall be available for the medical assistance furnished to individuals who are eligible for such assistance under this subsection.”
+>         Federal matching under title XIX of the Social Security Act \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\] shall be available for the medical assistance furnished to individuals who are eligible for such assistance under this subsection.”
 
  __Coverage of Essential Persons Under Medicaid__ 
 
 [Pub. L. 93–66, title II, § 230][/us/pl/93/66/s230], July 9, 1973, [87 Stat. 159][/us/stat/87/159], provided that: 
 
-> “In the case of any State plan (approved under title XIX of the Social Security Act \[this subchapter\]) which for December 1973 provided medical assistance to persons described in section 1905(a)(vi) of such Act \[[section 1396d(a)(vi) of this title][/us/usc/t42/s1396d/a/vi]\], there is hereby imposed the requirement (and such State plan shall be deemed to require) that medical assistance under such plan be provided to each such person (who for December 1973 was eligible for medical assistance under such plan) for each month (after December 1973) that—
+> “In the case of any State plan (approved under title XIX of the Social Security Act \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\]) which for December 1973 provided medical assistance to persons described in section 1905(a)(vi) of such Act \[[42 U.S.C. 1396d(a)(vi)][/us/usc/t42/s1396d/a/vi]\], there is hereby imposed the requirement (and such State plan shall be deemed to require) that medical assistance under such plan be provided to each such person (who for December 1973 was eligible for medical assistance under such plan) for each month (after December 1973) that—
 
->     “(1) the individual (referred to in the last sentence of section 1905(a) of such Act \[[section 1396d(a) of this title][/us/usc/t42/s1396d/a]\]) with whom such person is living continues to meet the criteria (as in effect for December 1973) for aid or assistance under a State plan (referred to in such sentence), and
+>     “(1) the individual (referred to in the last sentence of section 1905(a) of such Act \[[42 U.S.C. 1396d(a)][/us/usc/t42/s1396d/a]\]) with whom such person is living continues to meet the criteria (as in effect for December 1973) for aid or assistance under a State plan (referred to in such sentence), and
 
 >     “(2) such person continues to have the relationship with such individual described in such sentence and meets the other criteria (referred to in such sentence) with respect to a State plan (so referred to) as such plan was in effect for December 1973.
 
->         Federal matching under title XIX of the Social Security Act \[this subchapter\] shall be available for the medical assistance furnished to individuals eligible for such assistance under this section.”
+>         Federal matching under title XIX of the Social Security Act \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\] shall be available for the medical assistance furnished to individuals eligible for such assistance under this section.”
 
  __Persons in Medical Institutions__ 
 
 [Pub. L. 93–66, title II, § 231][/us/pl/93/66/s231], July 9, 1973, [87 Stat. 159][/us/stat/87/159], as amended by [Pub. L. 93–233, § 13(b)(1)][/us/pl/93/233/s13/b/1], Dec. 31, 1973, [87 Stat. 964][/us/stat/87/964], provided that: 
 
-> “For purposes of section 1902(a)(10) of the Social Security Act \[subsec. (a)(10) of this section\], any individual who, for all (or any part of) the month of December 1973—
+> “For purposes of section 1902(a)(10) of the Social Security Act \[[42 U.S.C. 1396a(a)(10)][/us/usc/t42/s1396a/a/10]\], any individual who, for all (or any part of) the month of December 1973—
 
->     “(1) was an inpatient in an institution qualified for reimbursement under title XIX of the Social Security Act \[this subchapter\], and
+>     “(1) was an inpatient in an institution qualified for reimbursement under title XIX of the Social Security Act \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\], and
 
 >     “(2)
 
->         (A) received or would (except for his being an inpatient in such institution) have been eligible to receive aid or assistance under a State plan approved under title I, X, XIV, or XVI of such Act \[subchapter I, X, XIV, or XVI of this chapter\], and
+>         (A) received or would (except for his being an inpatient in such institution) have been eligible to receive aid or assistance under a State plan approved under title I, X, XIV, or XVI of such Act \[[42 U.S.C. 301][/us/usc/t42/s301] et seq., 1201 et seq., 1351 et seq., 1381 et seq.\], and
 
->         “(B), \[sic\] on the basis of his status as described in subparagraph (A), was included as an individual eligible for medical assistance under a State plan approved under title XIX of such Act \[this subchapter\] (whether or not such individual actually received aid or assistance under a State plan referred to in subparagraph (A)),
+>         “(B), \[sic\] on the basis of his status as described in subparagraph (A), was included as an individual eligible for medical assistance under a State plan approved under title XIX of such Act \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\] (whether or not such individual actually received aid or assistance under a State plan referred to in subparagraph (A)),
 
 >         shall be deemed to be receiving such aid or assistance for such month and for each succeeding month in a continuous period of months if, for each month in such period—
 
 >         “(3) such individual continues to be (for all of such month) an inpatient in such an institution and would (except for his being an inpatient in such institution) continue to meet the conditions of eligibility to receive aid or assistance under such plan (as such plan was in effect for December 1973), and
 
->         “(4) such individual is determined (under the utilization review and other professional audit procedures applicable to State plans approved under title XIX of the Social Security Act \[this subchapter\]) to be in need of care in such an institution.
+>         “(4) such individual is determined (under the utilization review and other professional audit procedures applicable to State plans approved under title XIX of the Social Security Act \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\]) to be in need of care in such an institution.
 
->         Federal matching under title XIX of the Social Security Act \[this subchapter\] shall be available for the medical assistance furnished to individuals eligible for such assistance under this section.”
+>         Federal matching under title XIX of the Social Security Act \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\] shall be available for the medical assistance furnished to individuals eligible for such assistance under this section.”
 
  __Blind and Disabled Medically Indigent Persons__ 
 
 [Pub. L. 93–66, title II, § 232][/us/pl/93/66/s232], July 9, 1973, [87 Stat. 160][/us/stat/87/160], as amended by [Pub. L. 93–233, § 13(b)(2)][/us/pl/93/233/s13/b/2], Dec. 31, 1973, [87 Stat. 964][/us/stat/87/964], provided that: 
 
-> “For purposes of section 1902(a)(10) of the Social Security Act \[subsec. (a)(10) of this section\], any individual who, for the month of December 1973 was eligible \[subsec. (a)(10) of this section\] for medical assistance by reason of his having been determined to meet the criteria for blindness or disability (established by a State plan approved under title I, X, XIV, or XVI of such Act \[subchapter I, X, XIV, or XVI of this chapter\]), shall be deemed for purposes of title XIX \[this subchapter\] to be an individual who is blind or disabled within the meaning of section 1614(a) of the Social Security Act \[[section 1382c(a) of this title][/us/usc/t42/s1382c/a]\] for each month in a continuous period of months (beginning with the month of January 1974), if, for each month in such period, such individual continues to meet the criteria for blindness or disability so established by such a State plan (as it was in effect for December 1973), and the other conditions of eligibility contained in the plan of the State approved under title XIX \[this subchapter\] (as it was in effect in December 1973). Federal matching under title XIX of the Social Security Act \[this subchapter\] shall be available for the medical assistance furnished to individuals eligible for such assistance under this section.”
+> “For purposes of section 1902(a)(10) of the Social Security Act \[[42 U.S.C. 1396a(a)(10)][/us/usc/t42/s1396a/a/10]\], any individual who, for the month of December 1973 was eligible \[[42 U.S.C. 1396a(a)(10)][/us/usc/t42/s1396a/a/10]\] for medical assistance by reason of his having been determined to meet the criteria for blindness or disability (established by a State plan approved under title I, X, XIV, or XVI of such Act \[[42 U.S.C. 301][/us/usc/t42/s301] et seq., 1201 et seq., 1351 et seq., 1381 et seq.\]), shall be deemed for purposes of title XIX \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\] to be an individual who is blind or disabled within the meaning of section 1614(a) of the Social Security Act \[[42 U.S.C. 1382c(a)][/us/usc/t42/s1382c/a]\] for each month in a continuous period of months (beginning with the month of January 1974), if, for each month in such period, such individual continues to meet the criteria for blindness or disability so established by such a State plan (as it was in effect for December 1973), and the other conditions of eligibility contained in the plan of the State approved under title XIX \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\] (as it was in effect in December 1973). Federal matching under title XIX of the Social Security Act shall be available for the medical assistance furnished to individuals eligible for such assistance under this section.”
 
  __Impact of 1972 Social Security Benefits Increase Under__  __[__  __Pub. L. 92–336__  __][/us/pl/92/336]__  __Upon Eligibility for Assistance Under This Subchapter__ 
 
 [Pub. L. 92–603, title II, § 249E][/us/pl/92/603/s249E], Oct. 30, 1972, [86 Stat. 1429][/us/stat/86/1429], as amended by [Pub. L. 93–66, title II, § 233][/us/pl/93/66/s233], July 9, 1973, [87 Stat. 160][/us/stat/87/160], provided that: 
 
-> “For purposes of section 1902(a)(10) of the Social Security Act \[subsec. (a)(10) of this section\] any individual who, for the month of August 1972, was eligible for or receiving aid or assistance under a State plan approved under title I, X, XIV, or XVI, or part A of title IV of such Act \[subchapter I, X, XIV, or XVI, or part A of subchapter IV of this chapter\] and who for such month was entitled to monthly insurance benefits under title II of such Act \[subchapter II of this chapter\] shall be deemed to be eligible for such aid or assistance for any month thereafter prior to July 1975 if such individual would have been eligible for such aid or assistance for such month had the increase in monthly insurance benefits under title II of such Act \[subchapter II of this chapter\] resulting from enactment of [Pub. L. 92–336][/us/pl/92/336] \[see Tables\] not been applicable to such individual.”
+> “For purposes of section 1902(a)(10) of the Social Security Act \[[42 U.S.C. 1396a(a)(10)][/us/usc/t42/s1396a/a/10]\] any individual who, for the month of August 1972, was eligible for or receiving aid or assistance under a State plan approved under title I, X, XIV, or XVI, or part A of title IV of such Act \[[42 U.S.C. 301][/us/usc/t42/s301] et seq., 1201 et seq., 1351 et seq., or 1381 et seq., or 601 et seq.\] and who for such month was entitled to monthly insurance benefits under title II of such Act \[[42 U.S.C. 401][/us/usc/t42/s401] et seq.\] shall be deemed to be eligible for such aid or assistance for any month thereafter prior to July 1975 if such individual would have been eligible for such aid or assistance for such month had the increase in monthly insurance benefits under title II of such Act \[[42 U.S.C. 401][/us/usc/t42/s401] et seq.\] resulting from enactment of [Pub. L. 92–336][/us/pl/92/336] \[see Tables\] not been applicable to such individual.”
 
  __Nursing Homes Eligible for Matching Funds for Home Services When Meeting State Licensure Requirements After__  __June 30, 1968__ 
 
 [Pub. L. 90–248, title II, § 234(c)][/us/pl/90/248/s234/c], Jan. 2, 1968, [81 Stat. 907][/us/stat/81/907], provided that: 
 
-> “Notwithstanding any other provision of law, after June 30, 1968, no Federal funds shall be paid to any State as Federal matching under title I, X, XIV, XVI, or XIX of the Social Security Act \[subchapter I, X, XIV, XVI, or XIX of this chapter\] for payments made to any nursing home for or on account of any nursing home services provided by such nursing home for any period during which such nursing home is determined not to meet fully all requirements of the State for licensure as a nursing home, except that the Secretary may prescribe a reasonable period or periods of time during which a nursing home which has formerly met such requirements will be eligible for payments which include Federal participation if during such period or periods such home promptly takes all necessary steps to again meet such requirements.”
+> “Notwithstanding any other provision of law, after June 30, 1968, no Federal funds shall be paid to any State as Federal matching under title I, X, XIV, XVI, or XIX of the Social Security Act \[[42 U.S.C. 301][/us/usc/t42/s301] et seq., 1201 et seq., 1351 et seq., 1381 et seq., 1396 et seq.\] for payments made to any nursing home for or on account of any nursing home services provided by such nursing home for any period during which such nursing home is determined not to meet fully all requirements of the State for licensure as a nursing home, except that the Secretary may prescribe a reasonable period or periods of time during which a nursing home which has formerly met such requirements will be eligible for payments which include Federal participation if during such period or periods such home promptly takes all necessary steps to again meet such requirements.”
 
  __District of Columbia; Plan for Medical Assistance__ 
 
 [Pub. L. 90–227, § 1][/us/pl/90/227/s1], Dec. 27, 1967, [81 Stat. 744][/us/stat/81/744], provided: 
 
-> “That (a) the Commissioner of the District of Columbia \[now Mayor\] (hereafter in this Act \[enacting this note and provisions set out as a note under [section 1395v of this title][/us/usc/t42/s1395v]\] referred to as the ‘Commissioner’) may submit under title XIX of the Social Security Act \[this subchapter\] to the Secretary of Health, Education, and Welfare \[now Health and Human Services\] (hereafter in this Act referred to as the ‘Secretary’) a plan for medical assistance (and any modifications of such plan) to enable the District of Columbia to receive Federal financial assistance under such title for a medical assistance program established by the Commissioner under such plan.
+> “That (a) the Commissioner of the District of Columbia \[now Mayor\] (hereafter in this Act \[enacting this note and provisions set out as a note under [section 1395v of this title][/us/usc/t42/s1395v]\] referred to as the ‘Commissioner’) may submit under title XIX of the Social Security Act \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\] to the Secretary of Health, Education, and Welfare \[now Health and Human Services\] (hereafter in this Act referred to as the ‘Secretary’) a plan for medical assistance (and any modifications of such plan) to enable the District of Columbia to receive Federal financial assistance under such title for a medical assistance program established by the Commissioner under such plan.
 
 >     “(b)
 
 >         (1)
 
->          Notwithstanding any other provision of law, the Commissioner may take such action as may be necessary to submit such plan to the Secretary and to establish and carry out such medical assistance program, except that in prescribing the standards for determining eligibility for and the extent of medical assistance under the District of Columbia’s plan for medical assistance, the Commissioner may not (except to the extent required by title XIX of the Social Security Act \[this subchapter\])—
+>          Notwithstanding any other provision of law, the Commissioner may take such action as may be necessary to submit such plan to the Secretary and to establish and carry out such medical assistance program, except that in prescribing the standards for determining eligibility for and the extent of medical assistance under the District of Columbia’s plan for medical assistance, the Commissioner may not (except to the extent required by title XIX of the Social Security Act \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\])—
 
 >             “(A) prescribe maximum income levels for recipients of medical assistance under such plan which exceed (i) the title XIX maximum income levels if such levels are in effect, or (ii) the Commissioner’s maximum income levels for the local medical assistance program if there are no title XIX maximum income levels in effect; or
 
->             “(B) prescribe criteria which would permit an individual or family to be eligible for such assistance if such individual or family would be ineligible, solely by reason of his or its resources, for medical assistance both under the plan of the State of Maryland approved under title XIX of the Social Security Act \[this subchapter\] and under the plan of the State of Virginia approved under such title.
+>             “(B) prescribe criteria which would permit an individual or family to be eligible for such assistance if such individual or family would be ineligible, solely by reason of his or its resources, for medical assistance both under the plan of the State of Maryland approved under title XIX of the Social Security Act \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\] and under the plan of the State of Virginia approved under such title.
 
 >         “(2)
 
 >          For purposes of subparagraph (A) of paragraph (1) of this subsection—
 
->             “(A) the term ‘title XIX maximum income levels’ means any maximum income levels which may be specified by title XIX of the Social Security Act \[this subchapter\] for recipients of medical assistance under State plans approved under that title;
+>             “(A) the term ‘title XIX maximum income levels’ means any maximum income levels which may be specified by title XIX of the Social Security Act \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\] for recipients of medical assistance under State plans approved under that title;
 
 >             “(B) the term ‘the Commissioner’s maximum income levels for the local medical assistance program’ means the maximum income levels prescribed for recipients of medical assistance under the District of Columbia’s medical assistance program in effect in the fiscal year ending June 30, 1967; and
 
@@ -7209,6 +7209,8 @@ See 2010 Amendment notes below.
 [/us/pl/109/171/s6034/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2Fs6034%2Fe
 [/us/stat/120/78]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F78
 [/us/pl/109/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171
+[/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
+[/us/usc/t42/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs301
 [/us/pl/109/171/s6035/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2Fs6035%2Fc
 [/us/stat/120/80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F80
 [/us/pl/109/432/s405/c/2/A/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs405%2Fc%2F2%2FA%2Fiii
@@ -7299,7 +7301,7 @@ See 2010 Amendment notes below.
 [/us/pl/105/33/s4714/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs4714%2Fc
 [/us/stat/111/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F510
 [/us/usc/t42/s1396d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396d
-[/us/usc/t42/s1396d/p]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396d%2Fp
+[/us/usc/t42/s1396a/n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396a%2Fn
 [/us/pl/105/33/s4715/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs4715%2Fb
 [/us/stat/111/511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F511
 [/us/pl/105/33/s4724/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs4724%2Fc%2F2
@@ -7362,6 +7364,7 @@ See 2010 Amendment notes below.
 [/us/usc/t42/s1396p]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396p
 [/us/pl/103/66/s13622/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13622%2Fd
 [/us/stat/107/632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F632
+[/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
 [/us/usc/t42/s1396b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396b
 [/us/usc/t42/s1396b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396b
 [/us/pl/103/66/s13623/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13623%2Fa
@@ -7370,16 +7373,19 @@ See 2010 Amendment notes below.
 [/us/usc/t42/s1396g–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396g%E2%80%931
 [/us/pl/103/66/s13625/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13625%2Fb
 [/us/stat/107/636]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F636
+[/us/usc/t42/s1396a/a/61]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396a%2Fa%2F61
 [/us/pl/103/66/s13631/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13631%2Fe%2F2
 [/us/stat/107/644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F644
 [/us/pl/103/66/s13631/f/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13631%2Ff%2F3
 [/us/stat/107/644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F644
 [/us/usc/t42/s1396d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396d
+[/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
 [/us/pl/103/66/s13631/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13631%2Fi
 [/us/stat/107/645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F645
 [/us/usc/t42/s1396s]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396s
 [/us/usc/t42/s1396s]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396s
 [/us/usc/t42/s1396v]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396v
+[/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
 [/us/pl/102/234/s2/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F234%2Fs2%2Fc%2F1
 [/us/stat/105/1799]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1799
 [/us/usc/t42/s1396b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396b
@@ -7388,19 +7394,23 @@ See 2010 Amendment notes below.
 [/us/pl/101/508/s4402/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs4402%2Fe
 [/us/stat/104/1388-164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-164
 [/us/usc/t42/s1396e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396e
+[/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
 [/us/usc/t42/s1396e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396e
 [/us/pl/101/508/s4501/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs4501%2Ff
 [/us/stat/104/1388-166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-166
 [/us/usc/t42/s1396d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396d
 [/us/pl/101/508/s4601/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs4601%2Fb
 [/us/stat/104/1388-167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-167
+[/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
 [/us/pl/101/508/s4602/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs4602%2Fb
 [/us/stat/104/1388-167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-167
+[/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
 [/us/pl/101/508/s4603/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs4603%2Fb
 [/us/stat/104/1388-168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-168
 [/us/pl/101/508/s4604/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs4604%2Fd
 [/us/stat/104/1388-169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-169
 [/us/usc/t42/s1396n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396n
+[/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
 [/us/pl/101/508/s4701/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs4701%2Fb%2F1
 [/us/pl/101/508/s4701/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs4701%2Fc
 [/us/usc/t42/s1396b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396b
@@ -7426,6 +7436,7 @@ See 2010 Amendment notes below.
 [/us/stat/104/1388-205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-205
 [/us/pl/101/508/s4752/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs4752%2Fc%2F2
 [/us/stat/104/1388-207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-207
+[/us/usc/t42/s1396a/x]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396a%2Fx
 [/us/pl/101/508/s4754/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs4754%2Fb
 [/us/stat/104/1388-209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-209
 [/us/pl/101/508/s4755/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs4755%2Fc%2F1
@@ -7443,6 +7454,7 @@ See 2010 Amendment notes below.
 [/us/pl/101/239/s6401/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs6401%2Fc
 [/us/stat/103/2259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2259
 [/us/usc/t42/s1396b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396b
+[/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
 [/us/pl/101/239/s6402/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs6402%2Fc
 [/us/stat/103/2261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2261
 [/us/pl/101/508/s4704/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs4704%2Fe%2F2
@@ -7454,6 +7466,7 @@ See 2010 Amendment notes below.
 [/us/pl/101/239/s6404/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs6404%2Fd
 [/us/stat/103/2264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2264
 [/us/usc/t42/s1396d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396d
+[/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
 [/us/pl/101/239/s6405/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs6405%2Fc
 [/us/stat/103/2265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2265
 [/us/usc/t42/s1396d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396d
@@ -7463,6 +7476,7 @@ See 2010 Amendment notes below.
 [/us/stat/103/2268]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2268
 [/us/pl/101/239/s6408/d/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs6408%2Fd%2F5
 [/us/stat/103/2269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2269
+[/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
 [/us/pl/101/239/s6411/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs6411%2Fa%2F2
 [/us/stat/103/2270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2270
 [/us/pl/100/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360
@@ -7494,6 +7508,8 @@ See 2010 Amendment notes below.
 [/us/usc/t42/s1396d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396d
 [/us/usc/t42/s602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs602
 [/us/usc/t42/s606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs606
+[/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
+[/us/usc/t42/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs601
 [/us/usc/t42/s602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs602
 [/us/pl/100/485/s403/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F485%2Fs403%2Fb
 [/us/stat/102/2398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2398
@@ -7504,6 +7520,7 @@ See 2010 Amendment notes below.
 [/us/stat/108/4466]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4466
 [/us/usc/t42/s1396d/m/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396d%2Fm%2F2
 [/us/usc/t42/s1308/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1308%2Fa
+[/us/usc/t42/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs601
 [/us/pl/103/432/s234/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432%2Fs234%2Fb
 [/us/stat/108/4466]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4466
 [/us/pl/100/485/s401/g/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F485%2Fs401%2Fg%2F2
@@ -7522,9 +7539,14 @@ See 2010 Amendment notes below.
 [/us/stat/102/750]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F750
 [/us/pl/100/485/s608/d/14/K]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F485%2Fs608%2Fd%2F14%2FK
 [/us/stat/102/2416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2416
+[/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
+[/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
+[/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
 [/us/pl/100/360/s302/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360%2Fs302%2Ff
 [/us/stat/102/753]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F753
+[/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
 [/us/usc/t42/s1396r–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396r%E2%80%934
+[/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
 [/us/pl/100/360/s303/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360%2Fs303%2Fd
 [/us/pl/100/360/s303/g/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360%2Fs303%2Fg%2F4
 [/us/usc/t42/s1396r–5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396r%E2%80%935
@@ -7593,6 +7615,7 @@ See 2010 Amendment notes below.
 [/us/stat/102/807]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F807
 [/us/pl/100/485/s608/d/28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F485%2Fs608%2Fd%2F28
 [/us/stat/102/2423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2423
+[/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
 [/us/pl/100/93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F93
 [/us/pl/100/93/s15/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F93%2Fs15%2Fc
 [/us/usc/t42/s1320a–7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320a%E2%80%937
@@ -7601,6 +7624,7 @@ See 2010 Amendment notes below.
 [/us/usc/t42/s1320a–7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320a%E2%80%937
 [/us/pl/99/643/s10/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F643%2Fs10%2Fb
 [/us/stat/100/3580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3580
+[/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
 [/us/usc/t42/s1382h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1382h
 [/us/pl/99/570/s11005/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs11005%2Fc%2F2
 [/us/stat/100/3207-169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3207-169
@@ -7616,16 +7640,20 @@ See 2010 Amendment notes below.
 [/us/pl/100/203/s4101/b/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs4101%2Fb%2F2%2FC
 [/us/stat/101/1330-141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-141
 [/us/usc/t42/s1396b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396b
+[/us/usc/t42/s1396a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396a
 [/us/pl/99/509/s9402/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs9402%2Fc
 [/us/stat/100/2053]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2053
 [/us/pl/99/509/s9403/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs9403%2Fh
 [/us/stat/100/2056]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2056
+[/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
 [/us/pl/99/509/s9404/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs9404%2Fc
 [/us/stat/100/2057]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2057
 [/us/usc/t42/s1396d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396d
+[/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
 [/us/pl/99/509/s9406/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs9406%2Fc
 [/us/stat/100/2058]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2058
 [/us/usc/t42/s1396b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396b
+[/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
 [/us/pl/99/509/s9407/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs9407%2Fd
 [/us/stat/100/2060]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2060
 [/us/usc/t42/s1396r–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396r%E2%80%931
@@ -7635,6 +7663,7 @@ See 2010 Amendment notes below.
 [/us/pl/99/509/s9431/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs9431%2Fc
 [/us/stat/100/2066]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2066
 [/us/usc/t42/s1396b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396b
+[/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
 [/us/pl/99/509/s9433/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs9433%2Fb
 [/us/stat/100/2068]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2068
 [/us/pl/97/35/s2173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2173
@@ -7649,6 +7678,8 @@ See 2010 Amendment notes below.
 [/us/stat/100/207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F207
 [/us/usc/t29/s1144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1144
 [/us/usc/t29/s1144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1144
+[/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
+[/us/usc/t42/s1396a/a/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396a%2Fa%2F25
 [/us/pl/99/272/s9505/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs9505%2Fe
 [/us/stat/100/209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F209
 [/us/pl/99/509/s9435/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs9435%2Fd%2F1
@@ -7659,6 +7690,7 @@ See 2010 Amendment notes below.
 [/us/stat/100/2070]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2070
 [/us/pl/99/272/s9509/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs9509%2Fb
 [/us/stat/100/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F211
+[/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
 [/us/pl/99/272/s9510/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs9510%2Fb
 [/us/stat/100/212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F212
 [/us/pl/99/509/s9435/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs9435%2Fd%2F2
@@ -7680,6 +7712,7 @@ See 2010 Amendment notes below.
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
 [/us/pl/98/369/s2314/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2314%2Fc%2F3
 [/us/stat/98/1080]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1080
+[/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
 [/us/usc/t42/s1395x]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395x
 [/us/usc/t42/s1395x]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395x
 [/us/pl/98/369/s2335/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2335%2Fe
@@ -7687,6 +7720,7 @@ See 2010 Amendment notes below.
 [/us/usc/t42/s1395f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395f
 [/us/pl/98/369/s2361/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2361%2Fd
 [/us/stat/98/1104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1104
+[/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
 [/us/pl/98/369/s2362/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2362%2Fb
 [/us/stat/98/1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1105
 [/us/pl/98/369/s2363/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2363%2Fa%2F1
@@ -7695,6 +7729,7 @@ See 2010 Amendment notes below.
 [/us/pl/98/369/s2367/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2367%2Fc
 [/us/stat/98/1109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1109
 [/us/usc/t42/s1396k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396k
+[/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
 [/us/pl/98/369/s2368/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2368%2Fc
 [/us/stat/98/1110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1110
 [/us/pl/98/369/s2651/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2651%2Fc
@@ -7716,6 +7751,7 @@ See 2010 Amendment notes below.
 [/us/stat/96/381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F381
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/usc/t42/s603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs603
+[/us/usc/t42/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs301
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/pl/97/248/s146/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs146%2Fa
 [/us/pl/97/248/s149]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs149
@@ -7729,19 +7765,25 @@ See 2010 Amendment notes below.
 [/us/usc/t42/s1396d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396d
 [/us/pl/97/35/s2173/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2173%2Fb%2F2
 [/us/stat/95/809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F809
+[/us/usc/t42/s1396a/a/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396a%2Fa%2F13%2FA
 [/us/pl/97/35/s2174/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2174%2Fc
 [/us/stat/95/809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F809
 [/us/usc/t42/s1396b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396b
 [/us/pl/97/35/s2175/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2175%2Fd%2F2
 [/us/stat/95/811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F811
+[/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
+[/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
 [/us/pl/97/35/s2178/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2178%2Fc
 [/us/stat/95/815]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F815
 [/us/usc/t42/s1396b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396b
+[/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
 [/us/pl/97/35/s2181/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2181%2Fb
 [/us/stat/95/815]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F815
 [/us/pl/97/248/s137/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs137%2Fa%2F4
 [/us/stat/96/376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F376
 [/us/usc/t42/s603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs603
+[/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
+[/us/usc/t42/s603/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs603%2Fg%2F1
 [/us/pl/97/35/s2193/c/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2193%2Fc%2F9
 [/us/pl/97/35/s2194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2194
 [/us/usc/t42/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs701
@@ -7752,15 +7794,19 @@ See 2010 Amendment notes below.
 [/us/stat/94/2622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2622
 [/us/pl/97/248/s137/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs137%2Fc%2F1
 [/us/stat/96/381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F381
+[/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
 [/us/pl/96/499/s918/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F499%2Fs918%2Fb%2F2
 [/us/stat/94/2626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2626
+[/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
 [/us/pl/96/499/s962/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F499%2Fs962%2Fb
 [/us/stat/94/2651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2651
 [/us/pl/96/499/s965/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F499%2Fs965%2Fc
 [/us/stat/94/2652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2652
 [/us/usc/t42/s1396d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396d
+[/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
 [/us/pl/95/559/s14/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F559%2Fs14%2Fa%2F2
 [/us/stat/92/2140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2140
+[/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
 [/us/pl/95/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F210
 [/us/pl/95/210/s2/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F210%2Fs2%2Ff
 [/us/usc/t42/s1395cc]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395cc
@@ -7769,6 +7815,7 @@ See 2010 Amendment notes below.
 [/us/usc/t42/s1395g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395g
 [/us/pl/95/142/s2/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F142%2Fs2%2Fb%2F2
 [/us/stat/91/1177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1177
+[/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
 [/us/pl/95/142/s3/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F142%2Fs3%2Fc%2F1
 [/us/pl/95/142/s3/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F142%2Fs3%2Fe
 [/us/usc/t42/s1320a–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320a%E2%80%933
@@ -7779,6 +7826,7 @@ See 2010 Amendment notes below.
 [/us/usc/t42/s1395x]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395x
 [/us/usc/t42/s1320a/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320a%2Fa
 [/us/usc/t42/s1395x]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395x
+[/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
 [/us/pl/95/142/s20/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F142%2Fs20%2Fb
 [/us/usc/t42/s1396b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396b
 [/us/pl/95/142/s20/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F142%2Fs20%2Fc
@@ -7830,6 +7878,8 @@ See 2010 Amendment notes below.
 [/us/usc/t42/s1396d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396d
 [/us/usc/t42/s1320a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320a
 [/us/usc/t42/s1320a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320a
+[/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
+[/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
 [/us/pl/90/248/s210/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248%2Fs210%2Fa%2F6
 [/us/pl/90/248/s210/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248%2Fs210%2Fb
 [/us/usc/t42/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs302
@@ -7861,7 +7911,7 @@ See 2010 Amendment notes below.
 [/us/stat/81/911]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F911
 [/us/pl/99/272/s9503/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs9503%2Fc
 [/us/stat/100/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F206
-[/us/usc/t42/s1396b/r/6/J]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396b%2Fr%2F6%2FJ
+[/us/usc/t42/s1396a/a/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396a%2Fa%2F25
 [/us/pl/111/5/s5006/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs5006%2Fe%2F3
 [/us/stat/123/511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F511
 [/us/usc/t42/s1397gg]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1397gg
@@ -7917,6 +7967,7 @@ See 2010 Amendment notes below.
 [/us/stat/122/2394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2394
 [/us/pl/109/171/s6063]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2Fs6063
 [/us/stat/120/99]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F99
+[/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
 [/us/usc/t42/s1396n/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396n%2Fc
 [/us/usc/t42/s1396n/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396n%2Fc
 [/us/usc/t42/s1396n/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396n%2Fc
@@ -7931,9 +7982,13 @@ See 2010 Amendment notes below.
 [/us/stat/124/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F304
 [/us/usc/t42/s1396n/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396n%2Fi
 [/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
+[/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
 [/us/usc/t42/s1315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1315
+[/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
 [/us/usc/t42/s1396n/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396n%2Fi
 [/us/usc/t42/s1396n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396n
+[/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
+[/us/usc/t42/s1396a/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396a%2Fa%2F1
 [/us/usc/t42/s1396b/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396b%2Fa
 [/us/usc/t42/s1396d/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396d%2Fb
 [/us/pl/111/148/s2403/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs2403%2Fb%2F2
@@ -7944,7 +7999,10 @@ See 2010 Amendment notes below.
 [/us/pl/108/163/s2/n/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F163%2Fs2%2Fn%2F1
 [/us/stat/117/2023]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2023
 [/us/usc/t42/s1315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1315
+[/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
 [/us/usc/t42/s254c/g/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs254c%2Fg%2F3
+[/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
+[/us/usc/t42/s1397aa]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1397aa
 [/us/pl/106/554/s1/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F6
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
 [/us/usc/t42/s1396a/n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396a%2Fn
@@ -7958,6 +8016,7 @@ See 2010 Amendment notes below.
 [/us/usc/t42/s1396a/a/13/C/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396a%2Fa%2F13%2FC%2Fi
 [/us/stat/111/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F508
 [/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
 [/us/pl/106/170/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170%2Fs204
 [/us/stat/113/1897]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1897
 [/us/usc/t42/s1396d/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396d%2Fa
@@ -7971,7 +8030,9 @@ See 2010 Amendment notes below.
 [/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
 [/us/pl/105/277/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Ff
 [/us/stat/112/2681-337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-337
+[/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
 [/us/usc/t42/s1396u–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396u%E2%80%934
+[/us/usc/t42/s1396a/a/10/A/ii/VI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396a%2Fa%2F10%2FA%2Fii%2FVI
 [/us/pl/105/33/s4711/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs4711%2Fb
 [/us/stat/111/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F508
 [/us/usc/t42/s1396a/a/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396a%2Fa%2F13%2FA
@@ -7981,6 +8042,7 @@ See 2010 Amendment notes below.
 [/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
 [/us/pl/105/33/s4759]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs4759
 [/us/stat/111/528]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F528
+[/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
 [/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
 [/us/usc/t42/s1396r–7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396r%E2%80%937
 [/us/usc/t42/s1396u–1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396u%E2%80%931%2Fa
@@ -7988,9 +8050,17 @@ See 2010 Amendment notes below.
 [/us/stat/104/1388-199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-199
 [/us/pl/103/66/s13643/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13643%2Fa
 [/us/stat/107/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F647
+[/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
+[/us/usc/t42/s1396a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396a
 [/us/usc/t42/s1396r–6/b/4/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396r%E2%80%936%2Fb%2F4%2FD
+[/us/usc/t42/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs601
 [/us/usc/t42/s1396b/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396b%2Fm
+[/us/usc/t42/s1396a/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396a%2Fa%2F1
 [/us/usc/t42/s1396d/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396d%2Fb
+[/us/usc/t42/s1396a/a/10/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396a%2Fa%2F10%2FA%2Fi
+[/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
+[/us/usc/t42/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs601
+[/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
 [/us/usc/t42/s1396d/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396d%2Fb
 [/us/usc/t42/s9902/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9902%2F2
 [/us/pl/103/66/s13643/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13643%2Fa
@@ -7999,7 +8069,11 @@ See 2010 Amendment notes below.
 [/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
 [/us/pl/101/508/s4747]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs4747
 [/us/stat/104/1388-202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-202
+[/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
+[/us/usc/t42/s1396a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396a
+[/us/usc/t42/s1396a/a/10/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396a%2Fa%2F10%2FA
 [/us/usc/t42/s1396d/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396d%2Fb
+[/us/usc/t42/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs301
 [/us/pl/101/508/s4751/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs4751%2Fd
 [/us/stat/104/1388-205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-205
 [/us/pl/101/508/s4752/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs4752%2Fa%2F1%2FB
@@ -8008,21 +8082,28 @@ See 2010 Amendment notes below.
 [/us/usc/t42/s1395ww]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww
 [/us/pl/101/508/s4752/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs4752%2Fd
 [/us/stat/104/1388-207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-207
+[/us/usc/t42/s1396a/x]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396a%2Fx
 [/us/usc/t42/s1395ww/h/5/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww%2Fh%2F5%2FD
 [/us/pl/101/508/s11115/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11115%2Fc
 [/us/stat/104/1388-415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-415
 [/us/usc/t42/s1396a/a/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396a%2Fa%2F17
+[/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
 [/us/usc/t26/s32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs32
 [/us/usc/t26/s3507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs3507
 [/us/pl/101/239/s6506/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs6506%2Fb
 [/us/stat/103/2282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2282
+[/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
+[/us/usc/t42/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs601
 [/us/pl/100/647/s8435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs8435
 [/us/stat/102/3805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3805
+[/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
 [/us/usc/t42/s1396n/g/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396n%2Fg%2F2
 [/us/usc/t42/s1396b/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396b%2Fa%2F1
 [/us/pl/100/360/s301/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360%2Fs301%2Fg%2F1
 [/us/stat/102/750]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F750
 [/us/usc/t42/s1315/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1315%2Fa
+[/us/usc/t42/s1396a/a/10/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396a%2Fa%2F10%2FE
+[/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
 [/us/pl/100/203/s4112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs4112
 [/us/stat/101/1330-148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-148
 [/us/pl/100/360/s411/k/6/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360%2Fs411%2Fk%2F6%2FA
@@ -8032,6 +8113,8 @@ See 2010 Amendment notes below.
 [/us/stat/101/1330-203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-203
 [/us/pl/101/508/s4801/e/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs4801%2Fe%2F1%2FB
 [/us/stat/104/1388-215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-215
+[/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
+[/us/usc/t42/s1396a/a/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396a%2Fa%2F13%2FA
 [/us/pl/100/203/s4211/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs4211%2Fj
 [/us/stat/101/1330-207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-207
 [/us/pl/99/509/s9432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs9432
@@ -8041,19 +8124,29 @@ See 2010 Amendment notes below.
 [/us/stat/102/797]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F797
 [/us/pl/101/508/s4755/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs4755%2Fb
 [/us/stat/104/1388-210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-210
+[/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
+[/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
 [/us/usc/t42/s1320c–13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320c%E2%80%9313
+[/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
+[/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
 [/us/pl/99/272/s9509/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs9509%2Fc
 [/us/stat/100/212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F212
 [/us/pl/99/272/s9520]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs9520
 [/us/stat/100/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F217
 [/us/pl/99/272/s9529/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs9529%2Fb%2F2
 [/us/stat/100/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F220
+[/us/usc/t42/s670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs670
+[/us/usc/t42/s1396a/a/10/A/ii/VIII/aa]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396a%2Fa%2F10%2FA%2Fii%2FVIII%2Faa
 [/us/pl/98/369/s2366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2366
 [/us/stat/98/1108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1108
+[/us/usc/t42/s1396a/a/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396a%2Fa%2F13
 [/us/pl/98/369/s2373/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2373%2Fc
 [/us/stat/98/1112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1112
 [/us/pl/100/93/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F93%2Fs9
 [/us/stat/101/695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F695
+[/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
+[/us/usc/t42/s1396a/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396a%2Ff
+[/us/usc/t42/s1396a/a/10/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396a%2Fa%2F10%2FC
 [/us/pl/98/369/s2373/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2373%2Fc
 [/us/pl/100/93/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F93%2Fs9
 [/us/pl/98/369/s2373/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2373%2Fc
@@ -8063,6 +8156,9 @@ See 2010 Amendment notes below.
 [/us/stat/95/815]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F815
 [/us/pl/96/272/s310/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F272%2Fs310%2Fb%2F1
 [/us/stat/94/533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F533
+[/us/usc/t42/s1396a/a/10/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396a%2Fa%2F10%2FA
+[/us/usc/t42/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs301
+[/us/usc/t42/s1381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1381
 [/us/pl/93/233/s13/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F233%2Fs13%2Fc
 [/us/pl/95/588/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F588%2Fs306
 [/us/usc/t38/s521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs521
@@ -8070,38 +8166,72 @@ See 2010 Amendment notes below.
 [/us/usc/t38/s521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs521
 [/us/pl/94/566/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F566%2Fs503
 [/us/stat/90/2685]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2685
+[/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
+[/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
+[/us/usc/t42/s1381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1381
+[/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
 [/us/usc/t42/s415/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs415%2Fi
+[/us/usc/t42/s1381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1381
+[/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
+[/us/usc/t42/s1381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1381
+[/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
 [/us/usc/t42/s1382e/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1382e%2Fa
 [/us/pl/93/66/s212/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F66%2Fs212%2Fa
 [/us/usc/t42/s1382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1382
+[/us/usc/t42/s1381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1381
 [/us/pl/93/233/s13/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F233%2Fs13%2Fc
 [/us/stat/87/965]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F965
+[/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
 [/us/pl/93/66/s212/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F66%2Fs212%2Fa
 [/us/usc/t42/s1382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1382
 [/us/usc/t42/s1382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1382
+[/us/usc/t42/s1381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1381
+[/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
 [/us/pl/93/66/s230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F66%2Fs230
 [/us/stat/87/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F159
+[/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
 [/us/usc/t42/s1396d/a/vi]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396d%2Fa%2Fvi
 [/us/usc/t42/s1396d/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396d%2Fa
+[/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
 [/us/pl/93/66/s231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F66%2Fs231
 [/us/stat/87/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F159
 [/us/pl/93/233/s13/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F233%2Fs13%2Fb%2F1
 [/us/stat/87/964]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F964
+[/us/usc/t42/s1396a/a/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396a%2Fa%2F10
+[/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
+[/us/usc/t42/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs301
+[/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
+[/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
+[/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
 [/us/pl/93/66/s232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F66%2Fs232
 [/us/stat/87/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F160
 [/us/pl/93/233/s13/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F233%2Fs13%2Fb%2F2
 [/us/stat/87/964]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F964
+[/us/usc/t42/s1396a/a/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396a%2Fa%2F10
+[/us/usc/t42/s1396a/a/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396a%2Fa%2F10
+[/us/usc/t42/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs301
+[/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
 [/us/usc/t42/s1382c/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1382c%2Fa
+[/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
 [/us/pl/92/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F336
 [/us/pl/92/603/s249E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603%2Fs249E
 [/us/stat/86/1429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1429
 [/us/pl/93/66/s233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F66%2Fs233
 [/us/stat/87/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F160
+[/us/usc/t42/s1396a/a/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396a%2Fa%2F10
+[/us/usc/t42/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs301
+[/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
+[/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
 [/us/pl/92/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F336
 [/us/pl/90/248/s234/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248%2Fs234%2Fc
 [/us/stat/81/907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F907
+[/us/usc/t42/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs301
 [/us/pl/90/227/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F227%2Fs1
 [/us/stat/81/744]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F744
 [/us/usc/t42/s1395v]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395v
+[/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
+[/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
+[/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
+[/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
 
 

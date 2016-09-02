@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 3101.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs3101" data-uslm-ref="/us/usc/t42/s3101">3101.</a>  </td>
 
     <td> Congressional declaration of purpose.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 3102, 3103.   </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs3102" data-uslm-ref="/us/usc/t42/s3102">3102</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs3103" data-uslm-ref="/us/usc/t42/s3103">3103.</a>  </td>
 
     <td> Omitted.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 3104.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs3104" data-uslm-ref="/us/usc/t42/s3104">3104.</a>  </td>
 
     <td> Advance acquisition of land for public purposes.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 3105.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs3105" data-uslm-ref="/us/usc/t42/s3105">3105.</a>  </td>
 
     <td> Powers and duties of Secretary.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 3106.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs3106" data-uslm-ref="/us/usc/t42/s3106">3106.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 3107.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs3107" data-uslm-ref="/us/usc/t42/s3107">3107.</a>  </td>
 
     <td> Labor standards.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 3108.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs3108" data-uslm-ref="/us/usc/t42/s3108">3108.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 

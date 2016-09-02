@@ -39,11 +39,11 @@ The purpose of this subpart is to promote State flexibility in the development a
 
 >     “(a) __In General.—__ 
 
->     Except as otherwise provided in this Act \[see Short Title of 2006 Amendment note set out under [section 1305 of this title][/us/usc/t42/s1305]\], the amendments made by this Act shall take effect on October 1, 2006, and shall apply to payments under parts B and E of title IV of the Social Security Act \[this part and part E of this subchapter\] for calendar quarters beginning on or after such date, without regard to whether regulations to implement the amendments are promulgated by such date.
+>     Except as otherwise provided in this Act \[see Short Title of 2006 Amendment note set out under [section 1305 of this title][/us/usc/t42/s1305]\], the amendments made by this Act shall take effect on October 1, 2006, and shall apply to payments under parts B and E of title IV of the Social Security Act \[[42 U.S.C. 620][/us/usc/t42/s620] et seq., 670 et seq.\] for calendar quarters beginning on or after such date, without regard to whether regulations to implement the amendments are promulgated by such date.
 
 >     “(b) __Delay Permitted If State Legislation Required.—__ 
 
->     If the Secretary of Health and Human Services determines that State legislation (other than legislation appropriating funds) is required in order for a State plan developed pursuant to subpart 1 of part B \[this subpart\], or a State plan approved under subpart 2 of part B \[subpart 2 of this part\] or part E \[part E of this subchapter\], of title IV of the Social Security Act to meet the additional requirements imposed by the amendments made by this Act, the plan shall not be regarded as failing to meet any of the additional requirements before the 1st day of the 1st calendar quarter beginning after the first regular session of the State legislature that begins after the date of the enactment of this Act \[Sept. 28, 2006\]. If the State has a 2-year legislative session, each year of the session is deemed to be a separate regular session of the State legislature.
+>     If the Secretary of Health and Human Services determines that State legislation (other than legislation appropriating funds) is required in order for a State plan developed pursuant to subpart 1 of part B \[[42 U.S.C. 620][/us/usc/t42/s620] et seq.\], or a State plan approved under subpart 2 of part B \[[42 U.S.C. 629][/us/usc/t42/s629] et seq.\] or part E \[[42 U.S.C. 670][/us/usc/t42/s670] et seq.\], of title IV of the Social Security Act to meet the additional requirements imposed by the amendments made by this Act, the plan shall not be regarded as failing to meet any of the additional requirements before the 1st day of the 1st calendar quarter beginning after the first regular session of the State legislature that begins after the date of the enactment of this Act \[Sept. 28, 2006\]. If the State has a 2-year legislative session, each year of the session is deemed to be a separate regular session of the State legislature.
 
 >     “(c) __Availability of Promoting Safe and Stable Families Resources for Fiscal Year 2006.—__ 
 
@@ -53,7 +53,7 @@ The purpose of this subpart is to promote State flexibility in the development a
 
 [Pub. L. 90–248, title II, § 240(e)(2)][/us/pl/90/248/s240/e/2], Jan. 2, 1968, [81 Stat. 915][/us/stat/81/915], provided that: 
 
-> “Part B of title IV of the Social Security Act (as added by subsection (c) of this section) \[this part\], and the amendments made by subsections (a) and (b) of this section \[amending subchapter IV and enacting part A heading\] shall become effective on the date this Act is enacted \[Jan. 2, 1968\].”
+> “Part B of title IV of the Social Security Act (as added by subsection (c) of this section) \[[42 U.S.C. 620][/us/usc/t42/s620] et seq.\], and the amendments made by subsections (a) and (b) of this section \[amending subchapter IV and enacting part A heading\] shall become effective on the date this Act is enacted \[Jan. 2, 1968\].”
 
  __Findings__ 
 
@@ -106,9 +106,14 @@ The purpose of this subpart is to promote State flexibility in the development a
 [/us/pl/109/288/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F288%2Fs12
 [/us/stat/120/1255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1255
 [/us/usc/t42/s1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1305
+[/us/usc/t42/s620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs620
+[/us/usc/t42/s620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs620
+[/us/usc/t42/s629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs629
+[/us/usc/t42/s670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs670
 [/us/stat/120/1235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1235
 [/us/pl/90/248/s240/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248%2Fs240%2Fe%2F2
 [/us/stat/81/915]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F915
+[/us/usc/t42/s620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs620
 [/us/pl/109/288/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F288%2Fs2
 [/us/stat/120/1233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1233
 

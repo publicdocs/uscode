@@ -33,7 +33,7 @@ SUBCHAPTER I—STANDARDS AND OBLIGATIONS OF RESIDENCY IN FEDERALLY ASSISTED HOUS
 
   <tr>
 
-    <td> 13601.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs13601" data-uslm-ref="/us/usc/t42/s13601">13601.</a>  </td>
 
     <td> Compliance by owners as condition of Federal assistance.  </td>
 
@@ -41,7 +41,7 @@ SUBCHAPTER I—STANDARDS AND OBLIGATIONS OF RESIDENCY IN FEDERALLY ASSISTED HOUS
 
   <tr>
 
-    <td> 13602.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs13602" data-uslm-ref="/us/usc/t42/s13602">13602.</a>  </td>
 
     <td> Compliance with criteria for occupancy as requirement for tenancy.  </td>
 
@@ -49,7 +49,7 @@ SUBCHAPTER I—STANDARDS AND OBLIGATIONS OF RESIDENCY IN FEDERALLY ASSISTED HOUS
 
   <tr>
 
-    <td> 13603.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs13603" data-uslm-ref="/us/usc/t42/s13603">13603.</a>  </td>
 
     <td> Establishment of criteria for occupancy.  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER I—STANDARDS AND OBLIGATIONS OF RESIDENCY IN FEDERALLY ASSISTED HOUS
 
   <tr>
 
-    <td> 13604.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs13604" data-uslm-ref="/us/usc/t42/s13604">13604.</a>  </td>
 
     <td> Assisted applications.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER II—AUTHORITY TO PROVIDE PREFERENCES FOR ELDERLY RESIDENTS AND UNITS
 
   <tr>
 
-    <td> 13611.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs13611" data-uslm-ref="/us/usc/t42/s13611">13611.</a>  </td>
 
     <td> Authority.  </td>
 
@@ -81,7 +81,7 @@ SUBCHAPTER II—AUTHORITY TO PROVIDE PREFERENCES FOR ELDERLY RESIDENTS AND UNITS
 
   <tr>
 
-    <td> 13612.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs13612" data-uslm-ref="/us/usc/t42/s13612">13612.</a>  </td>
 
     <td> Reservation of units for disabled families.  </td>
 
@@ -89,7 +89,7 @@ SUBCHAPTER II—AUTHORITY TO PROVIDE PREFERENCES FOR ELDERLY RESIDENTS AND UNITS
 
   <tr>
 
-    <td> 13613.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs13613" data-uslm-ref="/us/usc/t42/s13613">13613.</a>  </td>
 
     <td> Secondary preferences.  </td>
 
@@ -97,7 +97,7 @@ SUBCHAPTER II—AUTHORITY TO PROVIDE PREFERENCES FOR ELDERLY RESIDENTS AND UNITS
 
   <tr>
 
-    <td> 13614.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs13614" data-uslm-ref="/us/usc/t42/s13614">13614.</a>  </td>
 
     <td> General availability of units.  </td>
 
@@ -105,7 +105,7 @@ SUBCHAPTER II—AUTHORITY TO PROVIDE PREFERENCES FOR ELDERLY RESIDENTS AND UNITS
 
   <tr>
 
-    <td> 13615.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs13615" data-uslm-ref="/us/usc/t42/s13615">13615.</a>  </td>
 
     <td> Preference within groups.  </td>
 
@@ -113,7 +113,7 @@ SUBCHAPTER II—AUTHORITY TO PROVIDE PREFERENCES FOR ELDERLY RESIDENTS AND UNITS
 
   <tr>
 
-    <td> 13616.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs13616" data-uslm-ref="/us/usc/t42/s13616">13616.</a>  </td>
 
     <td> Prohibition of evictions.  </td>
 
@@ -121,7 +121,7 @@ SUBCHAPTER II—AUTHORITY TO PROVIDE PREFERENCES FOR ELDERLY RESIDENTS AND UNITS
 
   <tr>
 
-    <td> 13617.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs13617" data-uslm-ref="/us/usc/t42/s13617">13617.</a>  </td>
 
     <td> Treatment of covered section 8 housing not subject to elderly preference.  </td>
 
@@ -129,7 +129,7 @@ SUBCHAPTER II—AUTHORITY TO PROVIDE PREFERENCES FOR ELDERLY RESIDENTS AND UNITS
 
   <tr>
 
-    <td> 13618.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs13618" data-uslm-ref="/us/usc/t42/s13618">13618.</a>  </td>
 
     <td> Treatment of other federally assisted housing.  </td>
 
@@ -137,7 +137,7 @@ SUBCHAPTER II—AUTHORITY TO PROVIDE PREFERENCES FOR ELDERLY RESIDENTS AND UNITS
 
   <tr>
 
-    <td> 13619.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs13619" data-uslm-ref="/us/usc/t42/s13619">13619.</a>  </td>
 
     <td> “Covered section 8 housing” defined.  </td>
 
@@ -145,7 +145,7 @@ SUBCHAPTER II—AUTHORITY TO PROVIDE PREFERENCES FOR ELDERLY RESIDENTS AND UNITS
 
   <tr>
 
-    <td> 13620.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs13620" data-uslm-ref="/us/usc/t42/s13620">13620.</a>  </td>
 
     <td> Study.  </td>
 
@@ -161,7 +161,7 @@ SUBCHAPTER III—SERVICE COORDINATORS FOR ELDERLY AND DISABLED RESIDENTS OF FEDE
 
   <tr>
 
-    <td> 13631.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs13631" data-uslm-ref="/us/usc/t42/s13631">13631.</a>  </td>
 
     <td> Requirement to provide service coordinators.  </td>
 
@@ -169,7 +169,7 @@ SUBCHAPTER III—SERVICE COORDINATORS FOR ELDERLY AND DISABLED RESIDENTS OF FEDE
 
   <tr>
 
-    <td> 13632.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs13632" data-uslm-ref="/us/usc/t42/s13632">13632.</a>  </td>
 
     <td> Grants for costs of providing service coordinators in certain federally assisted housing.  </td>
 
@@ -185,7 +185,7 @@ SUBCHAPTER IV—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 13641.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs13641" data-uslm-ref="/us/usc/t42/s13641">13641.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -193,7 +193,7 @@ SUBCHAPTER IV—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 13642.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs13642" data-uslm-ref="/us/usc/t42/s13642">13642.</a>  </td>
 
     <td> Applicability.  </td>
 
@@ -201,7 +201,7 @@ SUBCHAPTER IV—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 13643.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs13643" data-uslm-ref="/us/usc/t42/s13643">13643.</a>  </td>
 
     <td> Regulations.  </td>
 
@@ -217,7 +217,7 @@ SUBCHAPTER V—SAFETY AND SECURITY IN PUBLIC AND ASSISTED HOUSING  </td>
 
   <tr>
 
-    <td> 13661.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs13661" data-uslm-ref="/us/usc/t42/s13661">13661.</a>  </td>
 
     <td> Screening of applicants for federally assisted housing.  </td>
 
@@ -225,7 +225,7 @@ SUBCHAPTER V—SAFETY AND SECURITY IN PUBLIC AND ASSISTED HOUSING  </td>
 
   <tr>
 
-    <td> 13662.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs13662" data-uslm-ref="/us/usc/t42/s13662">13662.</a>  </td>
 
     <td> Termination of tenancy and assistance for illegal drug users and alcohol abusers in federally assisted housing.  </td>
 
@@ -233,7 +233,7 @@ SUBCHAPTER V—SAFETY AND SECURITY IN PUBLIC AND ASSISTED HOUSING  </td>
 
   <tr>
 
-    <td> 13663.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs13663" data-uslm-ref="/us/usc/t42/s13663">13663.</a>  </td>
 
     <td> Ineligibility of dangerous sex offenders for admission to public housing.  </td>
 
@@ -241,7 +241,7 @@ SUBCHAPTER V—SAFETY AND SECURITY IN PUBLIC AND ASSISTED HOUSING  </td>
 
   <tr>
 
-    <td> 13664.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs13664" data-uslm-ref="/us/usc/t42/s13664">13664.</a>  </td>
 
     <td> Definitions.  </td>
 

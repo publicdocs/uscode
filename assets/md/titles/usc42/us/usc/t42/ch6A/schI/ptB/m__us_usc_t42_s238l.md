@@ -85,7 +85,7 @@
 
 [Pub. L. 99–129, title II, § 226(b)][/us/pl/99/129/s226/b], Oct. 22, 1985, [99 Stat. 547][/us/stat/99/547], provided that: 
 
-> “In the case of any facility that was or is constructed, remodeled, expanded, or acquired on or before the date of enactment of this Act \[Oct. 22, 1985\] or within 180 days after the date of enactment of this Act, the period described in clause (i) or (ii), as the case may be, of section 2115(c)(2)(B) \[now 243(c)(2)(B)\] of the Public Health Service Act \[subsec. (c)(2)(B)(i), (ii) of this section\] (as amended by subsection (a) of this section) shall begin no earlier than 181 days after the date of enactment of this Act.”
+> “In the case of any facility that was or is constructed, remodeled, expanded, or acquired on or before the date of enactment of this Act \[Oct. 22, 1985\] or within 180 days after the date of enactment of this Act, the period described in clause (i) or (ii), as the case may be, of section 2115(c)(2)(B) \[now 243(c)(2)(B)\] of the Public Health Service Act \[[42 U.S.C. 238][/us/usc/t42/s238]l(c)(2)(B)(i), (ii)\] (as amended by subsection (a) of this section) shall begin no earlier than 181 days after the date of enactment of this Act.”
 
  __Effective Date of 1981 Amendment__ 
 
@@ -166,6 +166,7 @@
 [/us/pl/95/622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F622
 [/us/pl/99/129/s226/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F129%2Fs226%2Fb
 [/us/stat/99/547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F547
+[/us/usc/t42/s238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs238
 [/us/pl/97/35/s902/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs902%2Fh
 [/us/stat/95/561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F561
 [/us/pl/95/622/s110/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F622%2Fs110%2Fc

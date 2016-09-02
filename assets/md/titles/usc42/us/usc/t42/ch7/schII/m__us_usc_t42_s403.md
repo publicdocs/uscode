@@ -853,7 +853,7 @@
 
 [Pub. L. 103–296, title III, § 310(c)][/us/pl/103/296/s310/c], Aug. 15, 1994, [108 Stat. 1525][/us/stat/108/1525], provided that: 
 
-> “The amendments made by this section \[amending this section\] shall apply for the purpose of determining the total monthly benefits to which beneficiaries may be entitled under sections 202 and 223 of the Social Security Act \[sections 402 and 423 of this title\] based on the wages and self-employment income of an individual who—
+> “The amendments made by this section \[amending this section\] shall apply for the purpose of determining the total monthly benefits to which beneficiaries may be entitled under sections 202 and 223 of the Social Security Act \[[42 U.S.C. 402][/us/usc/t42/s402], 423\] based on the wages and self-employment income of an individual who—
 
 >     “(1) becomes entitled to an old-age insurance benefit under section 202(a) of such Act,
 
@@ -877,7 +877,7 @@
 
 >     “(A) __In general.—__ 
 
->     Except as provided in subparagraph (B), the amendments made by this subsection \[amending this section and [section 415 of this title][/us/usc/t42/s415]\] shall apply with respect to the computation of the primary insurance amount of any insured individual in any case in which a person becomes entitled to benefits under section 202 or 223 \[section 402 or 423 of this title\] on the basis of such insured individual’s wages and self-employment income for months after the 18-month period following the month in which this Act is enacted \[November 1990\], except that such amendments shall not apply if any person is entitled to benefits based on the wages and self-employment income of such insured individual for the month preceding the initial month of such person’s entitlement to such benefits under section 202 or 223.
+>     Except as provided in subparagraph (B), the amendments made by this subsection \[amending this section and [section 415 of this title][/us/usc/t42/s415]\] shall apply with respect to the computation of the primary insurance amount of any insured individual in any case in which a person becomes entitled to benefits under section 202 or 223 \[[42 U.S.C. 402][/us/usc/t42/s402], 423\] on the basis of such insured individual’s wages and self-employment income for months after the 18-month period following the month in which this Act is enacted \[November 1990\], except that such amendments shall not apply if any person is entitled to benefits based on the wages and self-employment income of such insured individual for the month preceding the initial month of such person’s entitlement to such benefits under section 202 or 223.
 
 >     “(B) __Recomputations.—__ 
 
@@ -897,7 +897,7 @@
 
 >         “(B) __Exception from application requirement.—__ 
 
->         Subparagraph (A) shall not apply with respect to the benefits of any individual if such individual is entitled to a benefit under subsection (b), (c), (e), or (f) of section 202 of the Social Security Act \[section 402(b), (c), (e), or (f) of this title\] for December 1990 and the individual on whose wages and self-employment income such benefit for December 1990 is based is the same individual on the basis of whose wages and self-employment income application would otherwise be required under subparagraph (A).”
+>         Subparagraph (A) shall not apply with respect to the benefits of any individual if such individual is entitled to a benefit under subsection (b), (c), (e), or (f) of section 202 of the Social Security Act \[[42 U.S.C. 402(b)][/us/usc/t42/s402/b], (c), (e), (f)\] for December 1990 and the individual on whose wages and self-employment income such benefit for December 1990 is based is the same individual on the basis of whose wages and self-employment income application would otherwise be required under subparagraph (A).”
 
 [Pub. L. 101–508, title V, § 5123(b)][/us/pl/101/508/s5123/b], Nov. 5, 1990, [104 Stat. 1388–284][/us/stat/104/1388-284], provided that: 
 
@@ -987,7 +987,7 @@
 
 [Pub. L. 96–265, title I, § 101(c)][/us/pl/96/265/s101/c], June 9, 1980, [94 Stat. 443][/us/stat/94/443], provided that: 
 
-> “The amendments made by this section \[amending this section and [section 415 of this title][/us/usc/t42/s415]\] shall apply only with respect to monthly benefits payable on the basis of the wages and self-employment income of an individual who first becomes eligible for benefits (determined under sections 215(a)(3)(B) and 215(a)(2)(A) of the Social Security Act \[section 415(a)(3)(B) and (2)(A) of this title\], as applied for this purpose) after 1978, and who first becomes entitled to disability insurance benefits after June 30, 1980.”
+> “The amendments made by this section \[amending this section and [section 415 of this title][/us/usc/t42/s415]\] shall apply only with respect to monthly benefits payable on the basis of the wages and self-employment income of an individual who first becomes eligible for benefits (determined under sections 215(a)(3)(B) and 215(a)(2)(A) of the Social Security Act \[[42 U.S.C. 415(a)(3)(B)][/us/usc/t42/s415/a/3/B], (a)(2)(A)\], as applied for this purpose) after 1978, and who first becomes entitled to disability insurance benefits after June 30, 1980.”
 
  __Effective Date of 1977 Amendment__ 
 
@@ -1059,7 +1059,7 @@
 
 [Pub. L. 90–248, title I, § 163(a)(2)][/us/pl/90/248/s163/a/2], Jan. 2, 1968, [81 Stat. 872][/us/stat/81/872], provided that: 
 
-> “The amendment made by paragraph (1) \[amending this section\] shall apply only with respect to monthly benefits payable under title II of the Social Security Act \[this subchapter\] with respect to individuals who become entitled to benefits under section 202(d) of such Act \[[section 402(d) of this title][/us/usc/t42/s402/d]\] solely by reason of section 216(h)(3) of such Act \[[section 416(h)(3) of this title][/us/usc/t42/s416/h/3]\] in or after January 1968 (but without regard to section 202(j)(1) of such Act \[[section 402(j)(1) of this title][/us/usc/t42/s402/j/1]\]). The provisions of section 170 of this Act \[set out as Savings Provisions note below\] shall not apply with respect to any such individual.”
+> “The amendment made by paragraph (1) \[amending this section\] shall apply only with respect to monthly benefits payable under title II of the Social Security Act \[[42 U.S.C. 401][/us/usc/t42/s401] et seq.\] with respect to individuals who become entitled to benefits under section 202(d) of such Act \[[42 U.S.C. 402(d)][/us/usc/t42/s402/d]\] solely by reason of section 216(h)(3) of such Act \[[42 U.S.C. 416(h)(3)][/us/usc/t42/s416/h/3]\] in or after January 1968 (but without regard to section 202(j)(1) of such Act \[[42 U.S.C. 402(j)(1)][/us/usc/t42/s402/j/1]\]). The provisions of section 170 of this Act \[set out as Savings Provisions note below\] shall not apply with respect to any such individual.”
 
  __Effective Date of 1965 Amendment__ 
 
@@ -1087,17 +1087,17 @@
 
 [Pub. L. 86–778, title II, § 211(p)][/us/pl/86/778/s211/p]–(s), Sept. 13, 1960, [74 Stat. 958][/us/stat/74/958], provided that:
 
->     “(p) Section 203(c), (d), (e), (g), and (i) of the Social Security Act \[subsecs. (c), (d), (e), (g), and (i) of this section\] as amended by this Act shall be effective with respect to monthly benefits for months after December 1960.
+>     “(p) Section 203(c), (d), (e), (g), and (i) of the Social Security Act \[[42 U.S.C. 403(c)][/us/usc/t42/s403/c], (d), (e), (g), (i)\] as amended by this Act shall be effective with respect to monthly benefits for months after December 1960.
 
->     “(q) Section 203(b), (f), and (h) of the Social Security Act \[subsecs. (b), (f), and (h) of this section\] as amended by this Act shall be effective with respect to taxable years beginning after December 1960.
+>     “(q) Section 203(b), (f), and (h) of the Social Security Act \[[42 U.S.C. 403(b)][/us/usc/t42/s403/b], (f), (h)\] as amended by this Act shall be effective with respect to taxable years beginning after December 1960.
 
->     “(r) Section 203(l) of the Social Security Act \[subsec. (l) of this section\] as amended by this Act, to the extent that it applies to section 203(g) of the Social Security Act as amended by this Act, shall be effective with respect to monthly benefits for months after December 1960 and, to the extent that it applies to section 203(h)(1)(A) of the Social Security Act as amended by this Act, shall be effective with respect to taxable years beginning after December 1960.
+>     “(r) Section 203(l) of the Social Security Act \[[42 U.S.C. 403][/us/usc/t42/s403](l)\] as amended by this Act, to the extent that it applies to section 203(g) of the Social Security Act as amended by this Act, shall be effective with respect to monthly benefits for months after December 1960 and, to the extent that it applies to section 203(h)(1)(A) of the Social Security Act as amended by this Act, shall be effective with respect to taxable years beginning after December 1960.
 
->     “(s) The amendments made by subsections (i), (j), (k), (l), (m), (n), and (o) \[amending sections 402, 408, and 415 of this title and sections 228c and 228e of Title 45, Railroads\], to the extent that they make changes in references to provisions of section 203 of the Social Security Act \[this section\], shall take effect in the manner provided in subsections (p) and (q) of this section for the provisions of such section 203 to which the respective references so changed relate.”
+>     “(s) The amendments made by subsections (i), (j), (k), (l), (m), (n), and (o) \[amending sections 402, 408, and 415 of this title and sections 228c and 228e of Title 45, Railroads\], to the extent that they make changes in references to provisions of section 203 of the Social Security Act \[[42 U.S.C. 403][/us/usc/t42/s403]\], shall take effect in the manner provided in subsections (p) and (q) of this section for the provisions of such section 203 to which the respective references so changed relate.”
 
 [Pub. L. 86–778, title III, § 302(b)][/us/pl/86/778/s302/b], Sept. 13, 1960, [74 Stat. 960][/us/stat/74/960], provided that: 
 
-> “The amendments made by subsection (a) \[amending this section\] shall apply only in the case of monthly benefits under section 202 or section 223 of the Social Security Act \[section 402 or [section 423 of this title][/us/usc/t42/s423]\] for months after the month following the month in which this Act is enacted \[September 1960\], and then only (1) if the insured individual on the basis of whose wages and self-employment income such monthly benefits are payable became entitled (without the application of section 202(j)(1) or section 223(b) of such Act) to benefits under section 202(a) or section 223 of such Act after the month following the month in which this Act is enacted, or (2) if such insured individual died before becoming so entitled and no person was entitled (without the application of section 202(j)(1) or section 223(b) of such Act) on the basis of such wages and self-employment income to monthly benefits under title II of the Social Security Act \[this subchapter\] for the month following the month in which this Act is enacted \[September 1960\] or any prior month.”
+> “The amendments made by subsection (a) \[amending this section\] shall apply only in the case of monthly benefits under section 202 or section 223 of the Social Security Act \[[42 U.S.C. 402][/us/usc/t42/s402], 423\] for months after the month following the month in which this Act is enacted \[September 1960\], and then only (1) if the insured individual on the basis of whose wages and self-employment income such monthly benefits are payable became entitled (without the application of section 202(j)(1) or section 223(b) of such Act) to benefits under section 202(a) or section 223 of such Act after the month following the month in which this Act is enacted, or (2) if such insured individual died before becoming so entitled and no person was entitled (without the application of section 202(j)(1) or section 223(b) of such Act) on the basis of such wages and self-employment income to monthly benefits under title II of the Social Security Act \[[42 U.S.C. 401][/us/usc/t42/s401] et seq.\] for the month following the month in which this Act is enacted \[September 1960\] or any prior month.”
 
  __Effective Date of 1958 Amendment__ 
 
@@ -1107,7 +1107,7 @@
 
 [Pub. L. 85–840, title III, § 307(h)(2)][/us/pl/85/840/s307/h/2], Aug. 28, 1958, [72 Stat. 1033][/us/stat/72/1033], provided that: 
 
-> “The amendments made by subsection (f) \[amending this section\] shall apply with respect to monthly benefits under subsection (d) or (g) of section 202 of the Social Security Act \[[section 402 of this title][/us/usc/t42/s402]\] for months in any taxable year, of the individual to whom the person entitled to such benefits is married, beginning after the month in which this Act is enacted \[August 1958\].”
+> “The amendments made by subsection (f) \[amending this section\] shall apply with respect to monthly benefits under subsection (d) or (g) of section 202 of the Social Security Act \[[42 U.S.C. 402(d)][/us/usc/t42/s402/d], (g)\] for months in any taxable year, of the individual to whom the person entitled to such benefits is married, beginning after the month in which this Act is enacted \[August 1958\].”
 
 [Pub. L. 85–840, title III, § 308(f)][/us/pl/85/840/s308/f], Aug. 28, 1958, [72 Stat. 1034][/us/stat/72/1034], provided that: 
 
@@ -1127,15 +1127,15 @@ Act Aug. 1, 1956,ch. 836, title I, § 112(c), [70 Stat. 831][/us/stat/70/831],
 
 [Act Sept. 1, 1954, ch. 1206][/us/act/1954-09-01/ch1206], title I, § 103(i)(3), [68 Stat. 1078][/us/stat/68/1078], provided that: 
 
-> “Subsections (b)(1), (b)(2), (c), (e), and (j) of section 203 of the Social Security Act \[this section\] as in effect prior to the enactment of this Act, to the extent they are in effect with respect to months after 1954, are each amended by striking out ‘seventy-five’ and inserting in lieu thereof ‘seventy-two’, but only with respect to such months after 1954.”
+> “Subsections (b)(1), (b)(2), (c), (e), and (j) of section 203 of the Social Security Act \[[42 U.S.C. 403][/us/usc/t42/s403]\] as in effect prior to the enactment of this Act, to the extent they are in effect with respect to months after 1954, are each amended by striking out ‘seventy-five’ and inserting in lieu thereof ‘seventy-two’, but only with respect to such months after 1954.”
 
     Amendment by section 102(e)(7) of act Sept. 1, 1954, applicable in the case of lump-sum death payments under [section 402 of this title][/us/usc/t42/s402] with respect to deaths occurring, and in the case of monthly benefits under such section for months after, August 1954, see section 102(f) of act Sept. 1, 1954, as amended, set out as a note under [section 415 of this title][/us/usc/t42/s415].
 
 [Act Sept. 1, 1954, ch. 1206][/us/act/1954-09-01/ch1206], title I, § 103(i)(1), (2), [68 Stat. 1077][/us/stat/68/1077], provided that:
 
->     “(1) The amendments made by subsection (f) and by paragraph (1) of subsection (a) of this section \[amending this section\] shall be applicable in the case of monthly benefits under title II of the Social Security Act \[this subchapter\] for months in any taxable year (of the individual entitled to such benefits) beginning after December 1954. The amendments made by paragraph (1) of subsection (b) of this section \[amending this section\] shall be applicable in the case of monthly benefits under such title II for months in any taxable year (of the individual on the basis of whose wages and self-employment income such benefits are payable) beginning after December 1954. The amendments made by subsections (e) and (g), and by paragraph (2) of subsection (a) and paragraph (2) of subsection (b) \[amending this section\] shall be applicable in the case of monthly benefits under such title II for months after December 1954. The remaining amendments made by this section (other than subsection (h)) \[amending this section\] shall be applicable, insofar as they are related to the monthly benefits of an individual which are based on his wages and self-employment income, in the case of monthly benefits under such title II for months in any taxable year (of such individual) beginning after December 1954 and, insofar as they are related to the monthly benefits of an individual which are based on the wages and self-employment income of someone else, in the case of monthly benefits under such title II for months in any taxable year (of the individual on whose wages and self-employment income such benefits are based) beginning after December 1954.
+>     “(1) The amendments made by subsection (f) and by paragraph (1) of subsection (a) of this section \[amending this section\] shall be applicable in the case of monthly benefits under title II of the Social Security Act \[[42 U.S.C. 401][/us/usc/t42/s401] et seq.\] for months in any taxable year (of the individual entitled to such benefits) beginning after December 1954. The amendments made by paragraph (1) of subsection (b) of this section \[amending this section\] shall be applicable in the case of monthly benefits under such title II for months in any taxable year (of the individual on the basis of whose wages and self-employment income such benefits are payable) beginning after December 1954. The amendments made by subsections (e) and (g), and by paragraph (2) of subsection (a) and paragraph (2) of subsection (b) \[amending this section\] shall be applicable in the case of monthly benefits under such title II for months after December 1954. The remaining amendments made by this section (other than subsection (h)) \[amending this section\] shall be applicable, insofar as they are related to the monthly benefits of an individual which are based on his wages and self-employment income, in the case of monthly benefits under such title II for months in any taxable year (of such individual) beginning after December 1954 and, insofar as they are related to the monthly benefits of an individual which are based on the wages and self-employment income of someone else, in the case of monthly benefits under such title II for months in any taxable year (of the individual on whose wages and self-employment income such benefits are based) beginning after December 1954.
 
->     “(2) No deduction shall be imposed on or after the date of the enactment of this Act \[Sept. 1, 1954\] under subsection (f) or (g) of section 203 of the Social Security Act \[subsec. (f) or (g) of this section\], as in effect prior to such date, on account of failure to file a report of an event described in subsection (b)(1), (b)(2), or (c)(1) of such section (as in effect prior to such date); and no such deduction imposed prior to such date shall be collected after such date. In determining whether, under section 203(g)(2) of the Social Security Act, as amended by this Act, a failure to file a report is a first or subsequent failure, any failure with respect to a taxable year which began prior to January 1955 shall be disregarded.”
+>     “(2) No deduction shall be imposed on or after the date of the enactment of this Act \[Sept. 1, 1954\] under subsection (f) or (g) of section 203 of the Social Security Act \[[42 U.S.C. 403(f)][/us/usc/t42/s403/f], (g)\], as in effect prior to such date, on account of failure to file a report of an event described in subsection (b)(1), (b)(2), or (c)(1) of such section (as in effect prior to such date); and no such deduction imposed prior to such date shall be collected after such date. In determining whether, under section 203(g)(2) of the Social Security Act, as amended by this Act, a failure to file a report is a first or subsequent failure, any failure with respect to a taxable year which began prior to January 1955 shall be disregarded.”
 
  __Effective Date of 1952 Amendment__ 
 
@@ -1143,7 +1143,7 @@ Act Aug. 1, 1956,ch. 836, title I, § 112(c), [70 Stat. 831][/us/stat/70/831],
 
 [Act July 18, 1952, ch. 945, § 4(e)][/us/act/1952-07-18/ch945/s4/e], [66 Stat. 773][/us/stat/66/773], provided that: 
 
-> “The amendments made by subsection (a) \[amending this section\] shall apply in the case of monthly benefits under title II of the Social Security Act \[this subchapter\] for months after August 1952. The amendments made by subsection (b) \[amending this section\] shall apply in the case of monthly benefits under such title II for months in any taxable year (of the individual entitled to such benefits) ending after August 1952. The amendments made by subsection (c) \[amending this section\] shall apply in the case of monthly benefits under such title II for months in any taxable year (of the individual on the basis of whose wages and self-employment income such benefits are payable) ending after August 1952. The amendments made by subsection (d) \[amending this section\] shall apply in the case of taxable years ending after August 1952. As used in this subsection, the term “taxable year” shall have the meaning assigned to it by section 211(e) of the Social Security Act \[[section 411(e) of this title][/us/usc/t42/s411/e]\].”
+> “The amendments made by subsection (a) \[amending this section\] shall apply in the case of monthly benefits under title II of the Social Security Act \[[42 U.S.C. 401][/us/usc/t42/s401] et seq.\] for months after August 1952. The amendments made by subsection (b) \[amending this section\] shall apply in the case of monthly benefits under such title II for months in any taxable year (of the individual entitled to such benefits) ending after August 1952. The amendments made by subsection (c) \[amending this section\] shall apply in the case of monthly benefits under such title II for months in any taxable year (of the individual on the basis of whose wages and self-employment income such benefits are payable) ending after August 1952. The amendments made by subsection (d) \[amending this section\] shall apply in the case of taxable years ending after August 1952. As used in this subsection, the term “taxable year” shall have the meaning assigned to it by section 211(e) of the Social Security Act \[[section 411(e) of this title][/us/usc/t42/s411/e]\].”
 
  __Effective Date of 1950 Amendment__ 
 
@@ -1153,7 +1153,7 @@ Act Aug. 1, 1956,ch. 836, title I, § 112(c), [70 Stat. 831][/us/stat/70/831],
 
 [Act Aug. 28, 1950, ch. 809][/us/act/1950-08-28/ch809], title I, § 103(b), [64 Stat. 492][/us/stat/64/492], provided that: 
 
-> “The amendments made by this section \[amending this section\] shall take effect September 1, 1950, except that the provisions of subsections (d), (e), and (f) of section 203 of the Social Security Act \[this section\] as in effect prior to the enactment of this Act \[Aug. 28, 1950\] shall be applicable for months prior to September 1950.”
+> “The amendments made by this section \[amending this section\] shall take effect September 1, 1950, except that the provisions of subsections (d), (e), and (f) of section 203 of the Social Security Act \[[42 U.S.C. 403(d)][/us/usc/t42/s403/d], (e), (f)\] as in effect prior to the enactment of this Act \[Aug. 28, 1950\] shall be applicable for months prior to September 1950.”
 
  __Effective Date of 1939 Amendment__ 
 
@@ -1163,23 +1163,23 @@ Act Aug. 1, 1956,ch. 836, title I, § 112(c), [70 Stat. 831][/us/stat/70/831],
 
 [Pub. L. 92–336, title II, § 201(h)(2)][/us/pl/92/336/s201/h/2], July 1, 1972, [86 Stat. 412][/us/stat/86/412], provided that: 
 
-> “In any case in which the provisions of section 1002(b)(2) of the Social Security Amendments of 1969 \[set out as a note under this section\] were applicable with respect to benefits for any month in 1970, the total of monthly benefits as determined under section 203(a) of the Social Security Act \[subsec. (a) of this section\] shall, for months after 1970, be increased to the amount that would be required in order to assure that the total of such monthly benefits (after the application of section 202(q) of such Act \[[section 402(q) of this title][/us/usc/t42/s402/q]\]) will not be less than the total of monthly benefits that was applicable (after the application of such sections 203(a) and 202(q)) for the first month for which the provisions of such section 1002(b)(2) applied.”
+> “In any case in which the provisions of section 1002(b)(2) of the Social Security Amendments of 1969 \[set out as a note under this section\] were applicable with respect to benefits for any month in 1970, the total of monthly benefits as determined under section 203(a) of the Social Security Act \[[42 U.S.C. 403(a)][/us/usc/t42/s403/a]\] shall, for months after 1970, be increased to the amount that would be required in order to assure that the total of such monthly benefits (after the application of section 202(q) of such Act \[[42 U.S.C. 402(q)][/us/usc/t42/s402/q]\]) will not be less than the total of monthly benefits that was applicable (after the application of such sections 203(a) and 202(q)) for the first month for which the provisions of such section 1002(b)(2) applied.”
 
 [Pub. L. 91–172, title X, § 1002(b)(2)][/us/pl/91/172/s1002/b/2], Dec. 30, 1969, [83 Stat. 740][/us/stat/83/740], provided that: 
 
-> “Notwithstanding any other provisions of law, when two or more persons are entitled to monthly insurance benefits under title II of the Social Security Act \[this subchapter\] for any month after 1969 on the basis of the wages and self-employment income of an insured individual (and at least one of such persons was so entitled for a month before January 1971 on the basis of an application filed before 1971), the total of the benefits to which such persons are entitled under such title of such month (after the application of sections 203(a) and 202(q) of such Act \[subsec. (a) of this section and [section 402(q) of this title][/us/usc/t42/s402/q]\]) shall be not less than the total of the monthly insurance benefits to which such persons would be entitled under such title for such month (after the application of such sections 203(a) and 202(q)) without regard to the amendment made by subsection (a) of this section \[amending [section 415 of this title][/us/usc/t42/s415]\].”
+> “Notwithstanding any other provisions of law, when two or more persons are entitled to monthly insurance benefits under title II of the Social Security Act \[[42 U.S.C. 401][/us/usc/t42/s401] et seq.\] for any month after 1969 on the basis of the wages and self-employment income of an insured individual (and at least one of such persons was so entitled for a month before January 1971 on the basis of an application filed before 1971), the total of the benefits to which such persons are entitled under such title of such month (after the application of sections 203(a) and 202(q) of such Act \[[42 U.S.C. 403(a)][/us/usc/t42/s403/a], 402(q)\]) shall be not less than the total of the monthly insurance benefits to which such persons would be entitled under such title for such month (after the application of such sections 203(a) and 202(q)) without regard to the amendment made by subsection (a) of this section \[amending [section 415 of this title][/us/usc/t42/s415]\].”
 
 [Pub. L. 90–248, title I, § 170][/us/pl/90/248/s170], Jan. 2, 1968, [81 Stat. 875][/us/stat/81/875], provided that: 
 
 > “Where—
 
->     “(1) one or more persons were entitled (without the application of section 202(j)(1) of the Social Security Act \[[section 402(j)(1) of this title][/us/usc/t42/s402/j/1]\]) to monthly benefits under section 202 or 223 of such Act \[section 402 or 423 of this title\] for January 1968 on the basis of the wages and self-employment income of an individual, and
+>     “(1) one or more persons were entitled (without the application of section 202(j)(1) of the Social Security Act \[[42 U.S.C. 402(j)(1)][/us/usc/t42/s402/j/1]\]) to monthly benefits under section 202 or 223 of such Act \[[42 U.S.C. 402][/us/usc/t42/s402], 423\] for January 1968 on the basis of the wages and self-employment income of an individual, and
 
->     “(2) one or more persons (not included in paragraph (1)) become entitled to monthly benefits under such section 202 \[[section 402 of this title][/us/usc/t42/s402]\] for February 1968 on the basis of such wages and self-employment by reason of the amendments made to such Act \[this chapter\] by sections 104 \[amending this section and sections 402, 416, 422, and 425 of this title\], 112 \[amending [section 402 of this title][/us/usc/t42/s402]\], 150 \[amending [section 416 of this title][/us/usc/t42/s416]\], 151 \[amending [section 402 of this title][/us/usc/t42/s402] and [section 228 of Title 45][/us/usc/t45/s228], Railroads\], 156 \[amending [section 416 of this title][/us/usc/t42/s416]\], and 157 of this Act \[amending section 402 and 402 note of this title\], and
+>     “(2) one or more persons (not included in paragraph (1)) become entitled to monthly benefits under such section 202 \[[42 U.S.C. 402][/us/usc/t42/s402]\] for February 1968 on the basis of such wages and self-employment by reason of the amendments made to such Act \[[42 U.S.C. 301][/us/usc/t42/s301] et seq.\] by sections 104 \[amending this section and sections 402, 416, 422, and 425 of this title\], 112 \[amending [section 402 of this title][/us/usc/t42/s402]\], 150 \[amending [section 416 of this title][/us/usc/t42/s416]\], 151 \[amending [section 402 of this title][/us/usc/t42/s402] and [section 228 of Title 45][/us/usc/t45/s228], Railroads\], 156 \[amending [section 416 of this title][/us/usc/t42/s416]\], and 157 of this Act \[amending section 402 and 402 note of this title\], and
 
->     “(3) the total of benefits to which all persons are entitled under such section 202 or 223 \[section 402 or 423 of this title\] on the basis of such wages and self-employment for February 1968 are reduced by reason of section 203(a) of such Act, as amended by this Act (or would, but for the penultimate sentence of such section 203(a), be so reduced),
+>     “(3) the total of benefits to which all persons are entitled under such section 202 or 223 \[[42 U.S.C. 402][/us/usc/t42/s402], 423\] on the basis of such wages and self-employment for February 1968 are reduced by reason of section 203(a) of such Act, as amended by this Act (or would, but for the penultimate sentence of such section 203(a), be so reduced),
 
->         then the amount of the benefit to which each such person referred to in paragraph (1) is entitled for months after January 1968 shall be increased, after the application of such section 203(a) \[subsec. (a) of this section\], to the amount it would have been if the person or persons referred to in paragraph (2) were not entitled to a benefit referred to in such paragraph.”
+>         then the amount of the benefit to which each such person referred to in paragraph (1) is entitled for months after January 1968 shall be increased, after the application of such section 203(a) \[[42 U.S.C. 403(a)][/us/usc/t42/s403/a]\], to the amount it would have been if the person or persons referred to in paragraph (2) were not entitled to a benefit referred to in such paragraph.”
 
 [Act Sept. 1, 1954, ch. 1206][/us/act/1954-09-01/ch1206], title I, § 102(h), [68 Stat. 1072][/us/stat/68/1072], provided that:
 
@@ -1187,15 +1187,15 @@ Act Aug. 1, 1956,ch. 836, title I, § 112(c), [70 Stat. 831][/us/stat/70/831],
 
 >      Where—
 
->         “(A) an individual was entitled (without the application of section 202(j)(1) of the Social Security Act \[[section 402(j)(1) of this title][/us/usc/t42/s402/j/1]\]) to an old-age insurance benefit under title II of such Act \[this subchapter\] for August 1954;
+>         “(A) an individual was entitled (without the application of section 202(j)(1) of the Social Security Act \[[42 U.S.C. 402(j)(1)][/us/usc/t42/s402/j/1]\]) to an old-age insurance benefit under title II of such Act \[[42 U.S.C. 401][/us/usc/t42/s401] et seq.\] for August 1954;
 
->         “(B) one or more other persons were entitled (without the application of such section 202(j)(1) \[[section 402(j)(1) of this title][/us/usc/t42/s402/j/1]\]) to monthly benefits under such title for such month on the basis of the wages and self-employment income of such individual; and
+>         “(B) one or more other persons were entitled (without the application of such section 202(j)(1) \[[42 U.S.C. 402(j)(1)][/us/usc/t42/s402/j/1]\]) to monthly benefits under such title for such month on the basis of the wages and self-employment income of such individual; and
 
->         “(C) the total of the benefits to which all persons are entitled under such title on the basis of such individual’s wages and self-employment income for any subsequent month for which he is entitled to an old-age insurance benefit under such title, would (but for the provisions of this paragraph) be reduced by reason of the application of section 203(a) of the Social Security Act \[subsec. (a) of this section\], as amended by this Act,
+>         “(C) the total of the benefits to which all persons are entitled under such title on the basis of such individual’s wages and self-employment income for any subsequent month for which he is entitled to an old-age insurance benefit under such title, would (but for the provisions of this paragraph) be reduced by reason of the application of section 203(a) of the Social Security Act \[[42 U.S.C. 403(a)][/us/usc/t42/s403/a]\], as amended by this Act,
 
 >         then the total of benefits referred to in clause (C) for such subsequent month shall be reduced to whichever of the following is the larger—
 
->         “(D) the amount determined pursuant to section 203(a) of the Social Security Act \[subsec. (a) of this section\], as amended by this Act; or
+>         “(D) the amount determined pursuant to section 203(a) of the Social Security Act \[[42 U.S.C. 403(a)][/us/usc/t42/s403/a]\], as amended by this Act; or
 
 >         “(E) the amount determined pursuant to such section, as in effect prior to the enactment of this Act \[Sept. 1, 1954\], for August 1954 plus the excess of (i) the amount of his old-age insurance benefit for such month computed as if the amendments made by the preceding subsections of this section \[amending this section and [section 415 of this title][/us/usc/t42/s415]\] had been applicable in the case of such benefit for such month over (ii) the amount of his old-age insurance benefit for such month, or
 
@@ -1205,13 +1205,13 @@ Act Aug. 1, 1956,ch. 836, title I, § 112(c), [70 Stat. 831][/us/stat/70/831],
 
 >      Where—
 
->         “(A) two or more persons were entitled (without the application of section 202(j)(1) of the Social Security Act \[[section 402(j)(1) of this title][/us/usc/t42/s402/j/1]\]) to monthly benefits under title II of such Act \[this subchapter\] for August 1954 on the basis of the wages and self-employment income of a deceased individual; and
+>         “(A) two or more persons were entitled (without the application of section 202(j)(1) of the Social Security Act \[[42 U.S.C. 402(j)(1)][/us/usc/t42/s402/j/1])\]) to monthly benefits under title II of such Act \[[42 U.S.C. 401][/us/usc/t42/s401] et seq.\] for August 1954 on the basis of the wages and self-employment income of a deceased individual; and
 
->         “(B) to total of the benefits to which all such persons are entitled on the basis of such deceased individual’s wages and self-employment income for any subsequent month would (but for the provisions of this paragraph) be reduced by reason of the application of the first sentence of section 203(a) of the Social Security Act \[subsec. (a) of this section\], as amended by this Act,
+>         “(B) to total of the benefits to which all such persons are entitled on the basis of such deceased individual’s wages and self-employment income for any subsequent month would (but for the provisions of this paragraph) be reduced by reason of the application of the first sentence of section 203(a) of the Social Security Act \[[42 U.S.C. 403(a)][/us/usc/t42/s403/a]\], as amended by this Act,
 
->         then, notwithstanding any other provision in title II of the Social Security Act \[this subchapter\], such deceased individual’s average monthly wage shall, for purposes of such section 203(a), be whichever of the following is the larger:
+>         then, notwithstanding any other provision in title II of the Social Security Act \[[42 U.S.C. 401][/us/usc/t42/s401] et seq.\], such deceased individual’s average monthly wage shall, for purposes of such section 203(a), be whichever of the following is the larger:
 
->         “(C) his average monthly wage determined pursuant to section 215 of such Act \[[section 415 of this title][/us/usc/t42/s415]\], as amended by this Act; or
+>         “(C) his average monthly wage determined pursuant to section 215 of such Act \[[42 U.S.C. 415][/us/usc/t42/s415]\], as amended by this Act; or
 
 >         “(D) his average monthly wage determined under such section 215, as in effect prior to the enactment of this Act \[Sept. 1, 1954\], plus $7.”
 
@@ -1219,7 +1219,7 @@ Act Aug. 1, 1956,ch. 836, title I, § 112(c), [70 Stat. 831][/us/stat/70/831],
 
 [Pub. L. 97–35, title XXII, § 2204][/us/pl/97/35/s2204], Aug. 13, 1981, [95 Stat. 837][/us/stat/95/837], provided that:
 
->     “(a) Notwithstanding subsection (e) of section 302 of the Social Security Amendments of 1977 ([91 Stat. 1531][/us/stat/91/1531]; [Public Law 95–216][/us/pl/95/216]) \[set out as an Effective Date of 1977 Amendment note above\], the amendments made to section 203 of the Social Security Act \[this section\] by subsections (a) through (d) of such section 302 shall, except as provided in subsection (b) of this section, apply only with respect to monthly insurance benefits payable under title II of the Social Security Act \[this subchapter\] for months after December 1982.
+>     “(a) Notwithstanding subsection (e) of section 302 of the Social Security Amendments of 1977 ([91 Stat. 1531][/us/stat/91/1531]; [Public Law 95–216][/us/pl/95/216]) \[set out as an Effective Date of 1977 Amendment note above\], the amendments made to section 203 of the Social Security Act \[[42 U.S.C. 403][/us/usc/t42/s403]\] by subsections (a) through (d) of such section 302 shall, except as provided in subsection (b) of this section, apply only with respect to monthly insurance benefits payable under title II of the Social Security Act \[[42 U.S.C. 401][/us/usc/t42/s401] et seq.\] for months after December 1982.
 
 >     “(b) In the case of any individual whose first taxable year (as in effect on the date of the enactment of this Act \[Aug. 13, 1981\]) ending after December 31, 1981, begins before January 1, 1982, the amendments made by section 302 of the Social Security Amendments of 1977 \[amending this section\] shall apply with respect to taxable years beginning with such taxable year.”
 
@@ -1227,11 +1227,11 @@ Act Aug. 1, 1956,ch. 836, title I, § 112(c), [70 Stat. 831][/us/stat/70/831],
 
 [Pub. L. 95–216, title III, § 301(c)(2)][/us/pl/95/216/s301/c/2], Dec. 20, 1997, [91 Stat. 1530][/us/stat/91/1530], provided that: 
 
-> “No notification with respect to an increased exempt amount for individuals described in section 203(f)(8)(D) of the Social Security Act \[subsec. (f)(8)(D) of this section\] (as added by paragraph (1) of this subsection) shall be required under the last sentence of section 203(f)(8)(B) of such Act in 1977, 1978, 1979, 1980, or 1981; and section 203(f)(8)(C) of such Act shall not prevent the new exempt amount determined and published under section 203(f)(8)(A) in 1977 from becoming effective to the extent that such new exempt amount applies to individuals other than those described in section 203(f)(8)(D) of such Act (as so added).”
+> “No notification with respect to an increased exempt amount for individuals described in section 203(f)(8)(D) of the Social Security Act \[[42 U.S.C. 403(f)(8)(D)][/us/usc/t42/s403/f/8/D]\] (as added by paragraph (1) of this subsection) shall be required under the last sentence of section 203(f)(8)(B) of such Act in 1977, 1978, 1979, 1980, or 1981; and section 203(f)(8)(C) of such Act shall not prevent the new exempt amount determined and published under section 203(f)(8)(A) in 1977 from becoming effective to the extent that such new exempt amount applies to individuals other than those described in section 203(f)(8)(D) of such Act (as so added).”
 
  __Retirement Test Exempt Amount for 1976__ 
 
-    By notice of the Secretary of Health, Education, and Welfare, Oct. 22, 1975, 40 F.R. 50556, it was determined and announced that, pursuant to authority contained in subsec. (f)(8) of this section, the monthly exempt amount under the retirement test would be $230 with respect to taxable years ending in calendar year 1976.
+    By notice of the Secretary of Health, Education, and Welfare \[now Health and Human Services\], Oct. 22, 1975, 40 F.R. 50556, it was determined and announced that, pursuant to authority contained in subsec. (f)(8) of this section, the monthly exempt amount under the retirement test would be $230 with respect to taxable years ending in calendar year 1976.
 
  __Cost-of-Living Increase in Benefits__ 
 
@@ -1241,7 +1241,7 @@ Act Aug. 1, 1956,ch. 836, title I, § 112(c), [70 Stat. 831][/us/stat/70/831],
 
 [Pub. L. 90–248, title I, § 161(c)][/us/pl/90/248/s161/c], Jan. 2, 1968, [81 Stat. 871][/us/stat/81/871], provided that: 
 
-> “The amendments made by this section \[amending this section\] shall apply with respect to any deductions imposed on or after the date of the enactment of this Act \[Jan. 2, 1968\] under subsections (g) and (h) of section 203 of the Social Security Act \[this section\] on account of failure to make a report required thereby.”
+> “The amendments made by this section \[amending this section\] shall apply with respect to any deductions imposed on or after the date of the enactment of this Act \[Jan. 2, 1968\] under subsections (g) and (h) of section 203 of the Social Security Act \[[42 U.S.C. 403(g)][/us/usc/t42/s403/g], (h)\] on account of failure to make a report required thereby.”
 
  __Computation of Benefits for Certain Children__ 
 
@@ -1249,11 +1249,11 @@ Act Aug. 1, 1956,ch. 836, title I, § 112(c), [70 Stat. 831][/us/stat/70/831],
 
 > “Where—
 
->     “(1) one or more persons were entitled (without the application of section 202(j)(1) of the Social Security Act \[[section 402(j)(1) of this title][/us/usc/t42/s402/j/1]\]) to monthly benefits under section 202 or 223 of such Act \[section 402 or 423 of this title\] for January 1968 on the basis of the wages and self-employment income of an individual, and
+>     “(1) one or more persons were entitled (without the application of section 202(j)(1) of the Social Security Act \[[42 U.S.C. 402(j)(1)][/us/usc/t42/s402/j/1]\]) to monthly benefits under section 202 or 223 of such Act \[[42 U.S.C. 402][/us/usc/t42/s402], 423\] for January 1968 on the basis of the wages and self-employment income of an individual, and
 
->     “(2) one or more persons became entitled to monthly benefits before January 1968 under section 202(d) of such Act \[[section 402(d) of this title][/us/usc/t42/s402/d]\] by reason of section 216(h)(3) of such Act \[section 416(h)(3) of this section\] (but without regard to section 202(j)(1)), on the basis of such wages and self-employment income and are so entitled for January 1968, and
+>     “(2) one or more persons became entitled to monthly benefits before January 1968 under section 202(d) of such Act \[[42 U.S.C. 402(d)][/us/usc/t42/s402/d]\] by reason of section 216(h)(3) of such Act \[[42 U.S.C. 416(h)(3)][/us/usc/t42/s416/h/3]\] (but without regard to section 202(j)(1)), on the basis of such wages and self-employment income and are so entitled for January 1968, and
 
->     “(3) the total of benefits to which all persons are entitled under such section 202 or 223 of such Act \[section 402 or 423 of this title\] on the basis of such wages and self-employment for January 1968 are reduced by reason of section 203(a) of such Act \[subsec. (a) of this section\], as amended by this Act (or would, but for the penultimate sentence of such section 203(a), be so reduced),
+>     “(3) the total of benefits to which all persons are entitled under such section 202 or 223 of such Act \[[42 U.S.C. 402][/us/usc/t42/s402], 423\] on the basis of such wages and self-employment for January 1968 are reduced by reason of section 203(a) of such Act \[[42 U.S.C. 403(a)][/us/usc/t42/s403/a]\], as amended by this Act (or would, but for the penultimate sentence of such section 203(a), be so reduced),
 
 >         then the amount of the benefit to which each such person referred to in paragraph (1) above (but not including persons referred to in paragraph (2) above) is entitled for months after January 1968 shall be increased, after the application of such section 203(a), to the amount it would have been if the person or persons referred to in paragraph (2) were not entitled to a benefit referred to in such paragraph (2).”
 
@@ -1261,7 +1261,7 @@ Act Aug. 1, 1956,ch. 836, title I, § 112(c), [70 Stat. 831][/us/stat/70/831],
 
 [Pub. L. 86–778, title II, § 209(b)][/us/pl/86/778/s209/b], Sept. 13, 1960, [74 Stat. 953][/us/stat/74/953], provided that: 
 
-> “No deduction shall be imposed on or after the date of the enactment of this Act \[Sept. 13, 1960\] under section 203(f) of the Social Security Act \[subsec. (f) of this section\], as in effect prior to such date, on account of failure to file a report of an event described in section 203(c) of such Act, as in effect prior to such date; and no such deduction imposed prior to such date shall be collected after such date.”
+> “No deduction shall be imposed on or after the date of the enactment of this Act \[Sept. 13, 1960\] under section 203(f) of the Social Security Act \[[42 U.S.C. 403(f)][/us/usc/t42/s403/f]\], as in effect prior to such date, on account of failure to file a report of an event described in section 203(c) of such Act, as in effect prior to such date; and no such deduction imposed prior to such date shall be collected after such date.”
 
  __Prohibition on Payment of Benefits to Certain Spouses or Children__ 
 
@@ -1269,13 +1269,13 @@ Act Aug. 1, 1956,ch. 836, title I, § 112(c), [70 Stat. 831][/us/stat/70/831],
 
 > “In any case where—
 
->     “(1) an individual has earnings (as defined in section 203(e)(4) of the Social Security Act \[subsec. (e)(4) of this section\] as in effect prior to the enactment of this Act \[Sept. 13, 1960\]) in a taxable year which begins before 1961 and ends in 1961 (but not on December 31, 1961), and
+>     “(1) an individual has earnings (as defined in section 203(e)(4) of the Social Security Act \[[42 U.S.C. 403(e)(4)][/us/usc/t42/s403/e/4]\] as in effect prior to the enactment of this Act \[Sept. 13, 1960\]) in a taxable year which begins before 1961 and ends in 1961 (but not on December 31, 1961), and
 
->     “(2) such individual’s spouse or child entitled to monthly benefits on the basis of such individual’s self-employment income has excess earnings (as defined in section 203(f)(3) of the Social Security Act as amended by this Act) in a taxable year which begins after 1960, and
+>     “(2) such individual’s spouse or child entitled to monthly benefits on the basis of such individual’s self-employment income has excess earnings (as defined in section 203(f)(3) of the Social Security Act \[[42 U.S.C. 403(f)(3)][/us/usc/t42/s403/f/3]\] as amended by this Act) in a taxable year which begins after 1960, and
 
 >     “(3) one or more months in the taxable year specified in paragraph (2) are included in the taxable year specified in paragraph (1),
 
->         then, if a deduction is imposed against the benefits payable to such individual with respect to a month described in paragraph (3), such spouse or child, as the case may be, shall not, for purposes of subsections (b) and (f) of section 203 of the Social Security Act as amended by this Act, be entitled to a payment for such month.”
+>         then, if a deduction is imposed against the benefits payable to such individual with respect to a month described in paragraph (3), such spouse or child, as the case may be, shall not, for purposes of subsections (b) and (f) of section 203 of the Social Security Act \[[42 U.S.C. 403(b)][/us/usc/t42/s403/b], (f)\] as amended by this Act, be entitled to a payment for such month.”
 
 ----------
 
@@ -1679,6 +1679,7 @@ Act Aug. 1, 1956,ch. 836, title I, § 112(c), [70 Stat. 831][/us/stat/70/831],
 [/us/stat/108/1524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1524
 [/us/pl/103/296/s310/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs310%2Fc
 [/us/stat/108/1525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1525
+[/us/usc/t42/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs402
 [/us/pl/103/296/s314/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs314%2Fb
 [/us/stat/108/1530]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1530
 [/us/pl/103/296/s321/g/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs321%2Fg%2F3%2FB
@@ -1686,9 +1687,11 @@ Act Aug. 1, 1956,ch. 836, title I, § 112(c), [70 Stat. 831][/us/stat/70/831],
 [/us/pl/101/508/s5117/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs5117%2Fa%2F4
 [/us/stat/104/1388-277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-277
 [/us/usc/t42/s415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs415
+[/us/usc/t42/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs402
 [/us/pl/101/508/s5119/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs5119%2Fe
 [/us/stat/104/1388-280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-280
 [/us/usc/t42/s416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs416
+[/us/usc/t42/s402/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs402%2Fb
 [/us/pl/101/508/s5123/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs5123%2Fb
 [/us/stat/104/1388-284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-284
 [/us/usc/t42/s411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs411
@@ -1753,6 +1756,7 @@ Act Aug. 1, 1956,ch. 836, title I, § 112(c), [70 Stat. 831][/us/stat/70/831],
 [/us/pl/96/265/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F265%2Fs101%2Fc
 [/us/stat/94/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F443
 [/us/usc/t42/s415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs415
+[/us/usc/t42/s415/a/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs415%2Fa%2F3%2FB
 [/us/pl/95/216/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F216%2Fs202
 [/us/pl/95/216/s204/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F216%2Fs204%2Fe
 [/us/pl/95/216/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F216%2Fs206
@@ -1808,6 +1812,7 @@ Act Aug. 1, 1956,ch. 836, title I, § 112(c), [70 Stat. 831][/us/stat/70/831],
 [/us/stat/81/834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F834
 [/us/pl/90/248/s163/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248%2Fs163%2Fa%2F2
 [/us/stat/81/872]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F872
+[/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
 [/us/usc/t42/s402/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs402%2Fd
 [/us/usc/t42/s416/h/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs416%2Fh%2F3
 [/us/usc/t42/s402/j/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs402%2Fj%2F1
@@ -1829,9 +1834,14 @@ Act Aug. 1, 1956,ch. 836, title I, § 112(c), [70 Stat. 831][/us/stat/70/831],
 [/us/usc/t42/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs402
 [/us/pl/86/778/s211/p]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F778%2Fs211%2Fp
 [/us/stat/74/958]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F958
+[/us/usc/t42/s403/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs403%2Fc
+[/us/usc/t42/s403/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs403%2Fb
+[/us/usc/t42/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs403
+[/us/usc/t42/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs403
 [/us/pl/86/778/s302/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F778%2Fs302%2Fb
 [/us/stat/74/960]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F960
-[/us/usc/t42/s423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs423
+[/us/usc/t42/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs402
+[/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
 [/us/pl/85/840/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F840%2Fs101%2Ff
 [/us/pl/85/840/s101/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F840%2Fs101%2Fg
 [/us/usc/t42/s415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs415
@@ -1841,7 +1851,7 @@ Act Aug. 1, 1956,ch. 836, title I, § 112(c), [70 Stat. 831][/us/stat/70/831],
 [/us/usc/t42/s416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs416
 [/us/pl/85/840/s307/h/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F840%2Fs307%2Fh%2F2
 [/us/stat/72/1033]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1033
-[/us/usc/t42/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs402
+[/us/usc/t42/s402/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs402%2Fd
 [/us/pl/85/840/s308/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F840%2Fs308%2Ff
 [/us/stat/72/1034]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1034
 [/us/usc/t42/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs402
@@ -1851,50 +1861,70 @@ Act Aug. 1, 1956,ch. 836, title I, § 112(c), [70 Stat. 831][/us/stat/70/831],
 [/us/stat/70/831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F831
 [/us/act/1954-09-01/ch1206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-09-01%2Fch1206
 [/us/stat/68/1078]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F1078
+[/us/usc/t42/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs403
 [/us/usc/t42/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs402
 [/us/usc/t42/s415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs415
 [/us/act/1954-09-01/ch1206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-09-01%2Fch1206
 [/us/stat/68/1077]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F1077
+[/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
+[/us/usc/t42/s403/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs403%2Ff
 [/us/usc/t42/s415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs415
 [/us/act/1952-07-18/ch945/s4/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-18%2Fch945%2Fs4%2Fe
 [/us/stat/66/773]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F773
+[/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
 [/us/usc/t42/s411/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs411%2Fe
 [/us/act/1950-08-28/ch809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-28%2Fch809
 [/us/stat/64/489]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F489
 [/us/act/1950-08-28/ch809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-28%2Fch809
 [/us/stat/64/492]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F492
+[/us/usc/t42/s403/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs403%2Fd
 [/us/act/1939-08-10/ch666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-08-10%2Fch666
 [/us/stat/53/1362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F1362
 [/us/pl/92/336/s201/h/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F336%2Fs201%2Fh%2F2
 [/us/stat/86/412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F412
+[/us/usc/t42/s403/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs403%2Fa
 [/us/usc/t42/s402/q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs402%2Fq
 [/us/pl/91/172/s1002/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs1002%2Fb%2F2
 [/us/stat/83/740]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F740
-[/us/usc/t42/s402/q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs402%2Fq
+[/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
+[/us/usc/t42/s403/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs403%2Fa
 [/us/usc/t42/s415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs415
 [/us/pl/90/248/s170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248%2Fs170
 [/us/stat/81/875]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F875
 [/us/usc/t42/s402/j/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs402%2Fj%2F1
 [/us/usc/t42/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs402
 [/us/usc/t42/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs402
+[/us/usc/t42/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs301
+[/us/usc/t42/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs402
 [/us/usc/t42/s416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs416
 [/us/usc/t42/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs402
 [/us/usc/t45/s228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft45%2Fs228
 [/us/usc/t42/s416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs416
+[/us/usc/t42/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs402
+[/us/usc/t42/s403/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs403%2Fa
 [/us/act/1954-09-01/ch1206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-09-01%2Fch1206
 [/us/stat/68/1072]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F1072
 [/us/usc/t42/s402/j/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs402%2Fj%2F1
+[/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
 [/us/usc/t42/s402/j/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs402%2Fj%2F1
+[/us/usc/t42/s403/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs403%2Fa
+[/us/usc/t42/s403/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs403%2Fa
 [/us/usc/t42/s415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs415
 [/us/usc/t42/s415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs415
 [/us/usc/t42/s402/j/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs402%2Fj%2F1
+[/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
+[/us/usc/t42/s403/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs403%2Fa
+[/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
 [/us/usc/t42/s415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs415
 [/us/pl/97/35/s2204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2204
 [/us/stat/95/837]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F837
 [/us/stat/91/1531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1531
 [/us/pl/95/216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F216
+[/us/usc/t42/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs403
+[/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
 [/us/pl/95/216/s301/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F216%2Fs301%2Fc%2F2
 [/us/stat/91/1530]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1530
+[/us/usc/t42/s403/f/8/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs403%2Ff%2F8%2FD
 [/us/pl/93/233/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F233%2Fs2
 [/us/usc/t42/s415/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs415%2Fa
 [/us/usc/t42/s415/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs415%2Fi
@@ -1902,13 +1932,22 @@ Act Aug. 1, 1956,ch. 836, title I, § 112(c), [70 Stat. 831][/us/stat/70/831],
 [/us/usc/t42/s415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs415
 [/us/pl/90/248/s161/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248%2Fs161%2Fc
 [/us/stat/81/871]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F871
+[/us/usc/t42/s403/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs403%2Fg
 [/us/pl/90/248/s163/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248%2Fs163%2Fb
 [/us/stat/81/872]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F872
 [/us/usc/t42/s402/j/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs402%2Fj%2F1
+[/us/usc/t42/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs402
 [/us/usc/t42/s402/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs402%2Fd
+[/us/usc/t42/s416/h/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs416%2Fh%2F3
+[/us/usc/t42/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs402
+[/us/usc/t42/s403/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs403%2Fa
 [/us/pl/86/778/s209/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F778%2Fs209%2Fb
 [/us/stat/74/953]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F953
+[/us/usc/t42/s403/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs403%2Ff
 [/us/pl/86/778/s211/t]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F778%2Fs211%2Ft
 [/us/stat/74/958]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F958
+[/us/usc/t42/s403/e/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs403%2Fe%2F4
+[/us/usc/t42/s403/f/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs403%2Ff%2F3
+[/us/usc/t42/s403/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs403%2Fb
 
 

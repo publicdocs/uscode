@@ -91,10 +91,6 @@
 
 ([Pub. L. 106–386, div. B, title II, § 1201][/us/pl/106/386/s1201], Oct. 28, 2000, [114 Stat. 1504][/us/stat/114/1504]; [Pub. L. 108–405, title II, § 205][/us/pl/108/405/s205], Oct. 30, 2004, [118 Stat. 2271][/us/stat/118/2271]; [Pub. L. 109–162, title I, § 103][/us/pl/109/162/s103], title IX, § 906(f), formerly § 906(g), Jan. 5, 2006, [119 Stat. 2978][/us/stat/119/2978], 3082, renumbered § 906(f), [Pub. L. 109–271, § 7(b)(2)(B)][/us/pl/109/271/s7/b/2/B], Aug. 12, 2006, [120 Stat. 764][/us/stat/120/764]; [Pub. L. 109–271, § 7(d)(1)][/us/pl/109/271/s7/d/1], Aug. 12, 2006, [120 Stat. 765][/us/stat/120/765]; [Pub. L. 113–4, title I, § 103][/us/pl/113/4/s103], Mar. 7, 2013, [127 Stat. 73][/us/stat/127/73].)
 
- __Amendment of Section__ 
-
-For effective date of amendment by [Pub. L. 113–4][/us/pl/113/4], see Effective Date of 2013 Amendment note below.
-
  __Codification__ 
 
     Section was enacted as part of the Violence Against Women Act of 2000 and also as part of the Victims of Trafficking and Violence Protection Act of 2000, and not as part of title I of the Omnibus Crime Control and Safe Streets Act of 1968 which comprises this chapter.
@@ -182,7 +178,6 @@ For effective date of amendment by [Pub. L. 113–4][/us/pl/113/4], see Effectiv
 [/us/stat/120/765]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F765
 [/us/pl/113/4/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs103
 [/us/stat/127/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F73
-[/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
 [/us/pl/113/4/s103/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs103%2F1
 [/us/pl/113/4/s103/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs103%2F2
 [/us/pl/113/4/s103/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs103%2F3%2FA

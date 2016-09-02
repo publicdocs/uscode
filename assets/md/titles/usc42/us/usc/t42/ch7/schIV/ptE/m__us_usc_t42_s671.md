@@ -363,11 +363,11 @@
 
 >     “(a) __In General.—__ 
 
->     Except as otherwise provided in this Act \[see Short Title of 2008 Amendment note set out under [section 1305 of this title][/us/usc/t42/s1305]\], each amendment made by this Act to part B or E of title IV of the Social Security Act \[part B of this subchapter and this part\] shall take effect on the date of the enactment of this Act \[Oct. 7, 2008\], and shall apply to payments under the part amended for quarters beginning on or after the effective date of the amendment.
+>     Except as otherwise provided in this Act \[see Short Title of 2008 Amendment note set out under [section 1305 of this title][/us/usc/t42/s1305]\], each amendment made by this Act to part B or E of title IV of the Social Security Act \[[42 U.S.C. 620][/us/usc/t42/s620] et seq., 670 et seq.\] shall take effect on the date of the enactment of this Act \[Oct. 7, 2008\], and shall apply to payments under the part amended for quarters beginning on or after the effective date of the amendment.
 
 >     “(b) __Delay Permitted if State Legislation Required.—__ 
 
->     In the case of a State plan approved under part B or E of title IV of the Social Security Act \[part B of this subchapter and this part\] which the Secretary of Health and Human Services determines requires State legislation (other than legislation appropriating funds) in order for the plan to meet the additional requirements imposed by this Act, the State plan shall not be regarded as failing to comply with the requirements of such part solely on the basis of the failure of the plan to meet such additional requirements before the 1st day of the 1st calendar quarter beginning after the close of the 1st regular session of the State legislature that ends after the 1-year period beginning with the date of the enactment of this Act \[Oct. 7, 2008\]. For purposes of the preceding sentence, in the case of a State that has a 2-year legislative session, each year of the session is deemed to be a separate regular session of the State legislature.”
+>     In the case of a State plan approved under part B or E of title IV of the Social Security Act \[[42 U.S.C. 620][/us/usc/t42/s620] et seq., 670 et seq.\] which the Secretary of Health and Human Services determines requires State legislation (other than legislation appropriating funds) in order for the plan to meet the additional requirements imposed by this Act, the State plan shall not be regarded as failing to comply with the requirements of such part solely on the basis of the failure of the plan to meet such additional requirements before the 1st day of the 1st calendar quarter beginning after the close of the 1st regular session of the State legislature that ends after the 1-year period beginning with the date of the enactment of this Act \[Oct. 7, 2008\]. For purposes of the preceding sentence, in the case of a State that has a 2-year legislative session, each year of the session is deemed to be a separate regular session of the State legislature.”
 
  __Effective Date of 2006 Amendment__ 
 
@@ -379,7 +379,7 @@
 
 >     “(1) __General.—__ 
 
->     The amendments made by subsection (a) \[amending this section\] shall take effect on October 1, 2006, and shall apply with respect to payments under part E of title IV of the Social Security Act \[this part\] for calendar quarters beginning on or after such date, without regard to whether regulations to implement the amendments are promulgated by such date.
+>     The amendments made by subsection (a) \[amending this section\] shall take effect on October 1, 2006, and shall apply with respect to payments under part E of title IV of the Social Security Act \[[42 U.S.C. 670][/us/usc/t42/s670] et seq.\] for calendar quarters beginning on or after such date, without regard to whether regulations to implement the amendments are promulgated by such date.
 
 >     “(2) __Elimination of opt-out.—__ 
 
@@ -387,7 +387,7 @@
 
 >     “(3) __Delay permitted if state legislation required.—__ 
 
->     If the Secretary of Health and Human Services determines that State legislation (other than legislation appropriating funds) is required in order for a State plan under section 471 of the Social Security Act \[this section\] to meet the additional requirements imposed by the amendments made by a subsection of this section, the plan shall not be regarded as failing to meet any of the additional requirements before the first day of the first calendar quarter beginning after the first regular session of the State legislature that begins after the otherwise applicable effective date of the amendments. If the State has a 2-year legislative session, each year of the session is deemed to be a separate regular session of the State legislature.”
+>     If the Secretary of Health and Human Services determines that State legislation (other than legislation appropriating funds) is required in order for a State plan under section 471 of the Social Security Act \[[42 U.S.C. 671][/us/usc/t42/s671]\] to meet the additional requirements imposed by the amendments made by a subsection of this section, the plan shall not be regarded as failing to meet any of the additional requirements before the first day of the first calendar quarter beginning after the first regular session of the State legislature that begins after the otherwise applicable effective date of the amendments. If the State has a 2-year legislative session, each year of the session is deemed to be a separate regular session of the State legislature.”
 
     Amendment by [Pub. L. 109–239][/us/pl/109/239] effective Oct. 1, 2006, except as otherwise provided, and applicable to payments under this part and part B of this subchapter for calendar quarters beginning on or after Oct. 1, 2006, without regard to whether regulations have been promulgated by Oct. 1, 2006, and with delay permitted if State legislation is required, see [section 14 of Pub. L. 109–239][/us/pl/109/239/s14], set out as a note under [section 622 of this title][/us/usc/t42/s622].
 
@@ -445,13 +445,13 @@
 
 >         (1)
 
->             (A) If any State makes the changes in its State plan approved under section 402 of the Social Security Act \[[section 602 of this title][/us/usc/t42/s602]\] that are required in order to carry out the amendments made by this title and formally notifies the Secretary of Health and Human Services of its desire to become subject to such amendments as of the first day of any calendar quarter beginning on or after the date on which the proposed regulations of the Secretary of Health and Human Services are published under section 203(a) \[[42 U.S.C. 671][/us/usc/t42/s671] note\] (or, if earlier, the date on which such regulations are required to be published under such section) and before October 1, 1990, such amendments shall become effective with respect to that State as of such first day.
+>             (A) If any State makes the changes in its State plan approved under section 402 of the Social Security Act \[[42 U.S.C. 602][/us/usc/t42/s602]\] that are required in order to carry out the amendments made by this title and formally notifies the Secretary of Health and Human Services of its desire to become subject to such amendments as of the first day of any calendar quarter beginning on or after the date on which the proposed regulations of the Secretary of Health and Human Services are published under section 203(a) \[[42 U.S.C. 671][/us/usc/t42/s671] note\] (or, if earlier, the date on which such regulations are required to be published under such section) and before October 1, 1990, such amendments shall become effective with respect to that State as of such first day.
 
->             “(B) In the case of any State in which the amendments made by this title become effective (in accordance with subparagraph (A)) with respect to any quarter of a fiscal year beginning before October 1, 1990, the limitation applicable to the State for the fiscal year under section 403(k)(2) of the Social Security Act \[[section 603(k)(2) of this title][/us/usc/t42/s603/k/2]\] (as added by section 201(c)(1) of this Act) shall be an amount that bears the same ratio to such limitation (as otherwise determined with respect to the State for the fiscal year) as the number of quarters in the fiscal year throughout which such amendments apply to the State bears to 4.
+>             “(B) In the case of any State in which the amendments made by this title become effective (in accordance with subparagraph (A)) with respect to any quarter of a fiscal year beginning before October 1, 1990, the limitation applicable to the State for the fiscal year under section 403(k)(2) of the Social Security Act \[[42 U.S.C. 603(k)(2)][/us/usc/t42/s603/k/2]\] (as added by section 201(c)(1) of this Act) shall be an amount that bears the same ratio to such limitation (as otherwise determined with respect to the State for the fiscal year) as the number of quarters in the fiscal year throughout which such amendments apply to the State bears to 4.
 
 >         “(2) Section 403(l)(3) of the Social Security Act \[section 603(l)(3) of this title\] (as added by section 201(c)(2) of this Act) is repealed effective October 1, 1995 (except that subparagraph (A) of such section 403(l)(3) shall remain in effect for purposes of applying any reduction in payment rates required by such subparagraph for any of the fiscal years specified therein); and section 403(l)(4) of such Act (as so added) is repealed effective October 1, 1998.
 
->         “(3) Subsections (a), (c), and (d) of section 203 of this Act \[[42 U.S.C. 671][/us/usc/t42/s671] note, 681 notes\], and section 486 of the Social Security Act \[[section 686 of this title][/us/usc/t42/s686]\] (as added by section 201(b) of this Act), shall become effective on the date of the enactment of this Act \[Oct. 13, 1988\].”
+>         “(3) Subsections (a), (c), and (d) of section 203 of this Act \[[42 U.S.C. 671][/us/usc/t42/s671] note, 681 notes\], and section 486 of the Social Security Act \[former [42 U.S.C. 686][/us/usc/t42/s686]\] (as added by section 201(b) of this Act), shall become effective on the date of the enactment of this Act \[Oct. 13, 1988\].”
 
  __Effective Date of 1986 Amendment__ 
 
@@ -475,7 +475,7 @@
 
 >     “(1) __In general.—__ 
 
->     Except as provided in paragraph (2) of this subsection, not later than 1 year after the date of enactment of this section \[Oct. 7, 2008\], the Secretary of Health and Human Services, in consultation with Indian tribes, tribal organizations, tribal consortia, and affected States, shall promulgate interim final regulations to carry out this section \[enacting [section 679c of this title][/us/usc/t42/s679c] and amending this section and sections 672, 674, and 677 of this title\] and the amendments made by this section. Such regulations shall include procedures to ensure that a transfer of responsibility for the placement and care of a child under a State plan approved under section 471 of the Social Security Act \[[42 U.S.C. 671][/us/usc/t42/s671]\] to a tribal plan approved under section 471 of such Act in accordance with section 479B of such Act \[[42 U.S.C. 679c][/us/usc/t42/s679c]\] (as added by subsection (a)(1) of this section) or to an Indian tribe, a tribal organization, or a tribal consortium that has entered into a cooperative agreement or contract with a State for the administration or payment of funds under part E of title IV of such Act \[this part\] does not affect the eligibility of, provision of services for, or the making of payments on behalf of, such children under part E of title IV of such Act, or the eligibility of such children for medical assistance under title XIX of such Act \[subchapter XIX of this chapter\].
+>     Except as provided in paragraph (2) of this subsection, not later than 1 year after the date of enactment of this section \[Oct. 7, 2008\], the Secretary of Health and Human Services, in consultation with Indian tribes, tribal organizations, tribal consortia, and affected States, shall promulgate interim final regulations to carry out this section \[enacting [section 679c of this title][/us/usc/t42/s679c] and amending this section and sections 672, 674, and 677 of this title\] and the amendments made by this section. Such regulations shall include procedures to ensure that a transfer of responsibility for the placement and care of a child under a State plan approved under section 471 of the Social Security Act \[[42 U.S.C. 671][/us/usc/t42/s671]\] to a tribal plan approved under section 471 of such Act in accordance with section 479B of such Act \[[42 U.S.C. 679c][/us/usc/t42/s679c]\] (as added by subsection (a)(1) of this section) or to an Indian tribe, a tribal organization, or a tribal consortium that has entered into a cooperative agreement or contract with a State for the administration or payment of funds under part E of title IV of such Act \[[42 U.S.C. 670][/us/usc/t42/s670] et seq.\] does not affect the eligibility of, provision of services for, or the making of payments on behalf of, such children under part E of title IV of such Act, or the eligibility of such children for medical assistance under title XIX of such Act \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\].
 
 >     “(2) __In-kind expenditures from third-party sources for purposes of determining non-federal share of administrative and training expenditures.—__ 
 
@@ -493,7 +493,7 @@
 
 [Pub. L. 100–485, title II, § 203(a)][/us/pl/100/485/s203/a], Oct. 13, 1988, [102 Stat. 2378][/us/stat/102/2378], provided that: 
 
-> “Not later than 6 months after the date of the enactment of this Act \[Oct. 13, 1988\], the Secretary of Health and Human Services (in this section referred to as the ‘Secretary’) shall issue proposed regulations for the purpose of implementing the amendments made by this title \[see Effective Date of 1988 Amendment note above\], including regulations establishing uniform data collection requirements. The Secretary shall publish final regulations for such purpose not later than one year after the date of the enactment of this Act. Regulations issued under this subsection shall be developed by the Secretary in consultation with the Secretary of Labor and with the responsible State agencies described in section 482(a)(2) of the Social Security Act \[[section 682(a)(2) of this title][/us/usc/t42/s682/a/2]\].”
+> “Not later than 6 months after the date of the enactment of this Act \[Oct. 13, 1988\], the Secretary of Health and Human Services (in this section referred to as the ‘Secretary’) shall issue proposed regulations for the purpose of implementing the amendments made by this title \[see Effective Date of 1988 Amendment note above\], including regulations establishing uniform data collection requirements. The Secretary shall publish final regulations for such purpose not later than one year after the date of the enactment of this Act. Regulations issued under this subsection shall be developed by the Secretary in consultation with the Secretary of Labor and with the responsible State agencies described in section 482(a)(2) of the Social Security Act \[former [42 U.S.C. 682(a)(2)][/us/usc/t42/s682/a/2]\].”
 
  __Construction of 2008 Amendment__ 
 
@@ -507,7 +507,7 @@
 
 >      affecting the responsibility of a State—
 
->         “(A) as part of the plan approved under section 471 of the Social Security Act ([42 U.S.C. 671][/us/usc/t42/s671]), to provide foster care maintenance payments, adoption assistance payments, and if the State elects, kinship guardianship assistance payments, for Indian children who are eligible for such payments and who are not otherwise being served by an Indian tribe, tribal organization, or tribal consortium pursuant to a program under such section 479B of such Act or a cooperative agreement or contract entered into between an Indian tribe, a tribal organization, or a tribal consortium and a State for the administration or payment of funds under part E of title IV of such Act \[this part\]; or
+>         “(A) as part of the plan approved under section 471 of the Social Security Act ([42 U.S.C. 671][/us/usc/t42/s671]), to provide foster care maintenance payments, adoption assistance payments, and if the State elects, kinship guardianship assistance payments, for Indian children who are eligible for such payments and who are not otherwise being served by an Indian tribe, tribal organization, or tribal consortium pursuant to a program under such section 479B of such Act or a cooperative agreement or contract entered into between an Indian tribe, a tribal organization, or a tribal consortium and a State for the administration or payment of funds under part E of title IV of such Act \[[42 U.S.C. 670][/us/usc/t42/s670] et seq.\]; or
 
 >         “(B) as part of the plan approved under section 477 of such Act ([42 U.S.C. 677][/us/usc/t42/s677]) to administer, supervise, or oversee programs carried out under that plan on behalf of Indian children who are eligible for such programs if such children are not otherwise being served by an Indian tribe, tribal organization, or tribal consortium pursuant to an approved plan under section 477(j) of such Act \[[42 U.S.C. 677(j)][/us/usc/t42/s677/j]\] or a cooperative agreement or contract entered into under section 477(b)(3)(G) of such Act \[[42 U.S.C. 677(b)(3)(G)][/us/usc/t42/s677/b/3/G]\].”
 
@@ -675,11 +675,15 @@
 [/us/pl/110/351/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F351%2Fs601
 [/us/stat/122/3981]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3981
 [/us/usc/t42/s1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1305
+[/us/usc/t42/s620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs620
+[/us/usc/t42/s620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs620
 [/us/pl/109/432/s405/c/1/B/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs405%2Fc%2F1%2FB%2Fiii
 [/us/stat/120/2999]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2999
 [/us/usc/t42/s1320a–2a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320a%E2%80%932a
 [/us/pl/109/248/s152/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248%2Fs152%2Fc
 [/us/stat/120/609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F609
+[/us/usc/t42/s670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs670
+[/us/usc/t42/s671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs671
 [/us/pl/109/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F239
 [/us/pl/109/239/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F239%2Fs14
 [/us/usc/t42/s622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs622
@@ -741,6 +745,8 @@
 [/us/usc/t42/s679c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs679c
 [/us/usc/t42/s671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs671
 [/us/usc/t42/s679c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs679c
+[/us/usc/t42/s670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs670
+[/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
 [/us/usc/t42/s671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs671
 [/us/usc/t42/s679c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs679c
 [/us/usc/t42/s674/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs674%2Fa%2F3
@@ -756,6 +762,7 @@
 [/us/usc/t42/s674/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs674%2Fa
 [/us/usc/t42/s679c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs679c
 [/us/usc/t42/s671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs671
+[/us/usc/t42/s670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs670
 [/us/usc/t42/s677]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs677
 [/us/usc/t42/s677/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs677%2Fj
 [/us/usc/t42/s677/b/3/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs677%2Fb%2F3%2FG

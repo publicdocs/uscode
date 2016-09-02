@@ -171,7 +171,7 @@
 
 [Pub. L. 99–339, title I, § 109(b)][/us/pl/99/339/s109/b], June 19, 1986, [100 Stat. 652][/us/stat/100/652], provided that: 
 
-> “The Administrator of the Environmental Protection Agency shall notify all States with respect to the requirements of section 1417 of the Public Health Service Act \[this section\] within 90 days after the enactment of this Act \[June 19, 1986\].”
+> “The Administrator of the Environmental Protection Agency shall notify all States with respect to the requirements of section 1417 of the Public Health Service Act \[[42 U.S.C. 300g–6][/us/usc/t42/s300g–6]\] within 90 days after the enactment of this Act \[June 19, 1986\].”
 
  __Ban on Lead Water Pipes, Solder, and Flux in VA and HUD Insured or Assisted Property__ 
 
@@ -221,6 +221,7 @@
 [/us/usc/t42/s300g–6/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300g%E2%80%936%2Fa%2F4
 [/us/pl/99/339/s109/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F339%2Fs109%2Fb
 [/us/stat/100/652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F652
+[/us/usc/t42/s300g–6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300g%E2%80%936
 [/us/pl/99/339/s109/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F339%2Fs109%2Fc
 [/us/stat/100/652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F652
 [/us/pl/102/54/s13/q/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54%2Fs13%2Fq%2F2

@@ -35,7 +35,7 @@
 
 >     “(a) __Old-Age, Survivors, and Disability, and Hospital Insurance Programs.—__ 
 
->     For purposes of title II of the Social Security Act \[subchapter II of this chapter\] and chapter 21 of the Internal Revenue Code of 1986 \[[26 U.S.C. 3101][/us/usc/t26/s3101] et seq.\], the term ‘wages’ shall not include the amount of any refund required under section 421 of the Medicare Catastrophic Coverage Act of 1988 \[[section 421 of Pub. L. 100–360][/us/pl/100/360/s421], formerly set out as a note below\].
+>     For purposes of title II of the Social Security Act \[[42 U.S.C. 401][/us/usc/t42/s401] et seq.\] and chapter 21 of the Internal Revenue Code of 1986 \[[26 U.S.C. 3101][/us/usc/t26/s3101] et seq.\], the term ‘wages’ shall not include the amount of any refund required under section 421 of the Medicare Catastrophic Coverage Act of 1988 \[[section 421 of Pub. L. 100–360][/us/pl/100/360/s421], formerly set out as a note below\].
 
 >     “(b) __Railroad Retirement Program.—__ 
 
@@ -91,6 +91,7 @@
 [/us/stat/111/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F347
 [/us/pl/101/239/s10202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs10202
 [/us/stat/103/2473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2473
+[/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
 [/us/usc/t26/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs3101
 [/us/pl/100/360/s421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360%2Fs421
 [/us/usc/t26/s3201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs3201

@@ -33,7 +33,7 @@ SUBCHAPTER I—NEIGHBORHOOD REINVESTMENT CORPORATION  </td>
 
   <tr>
 
-    <td> 8101.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs8101" data-uslm-ref="/us/usc/t42/s8101">8101.</a>  </td>
 
     <td> Congressional findings and declaration of purpose.  </td>
 
@@ -41,7 +41,7 @@ SUBCHAPTER I—NEIGHBORHOOD REINVESTMENT CORPORATION  </td>
 
   <tr>
 
-    <td> 8102.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs8102" data-uslm-ref="/us/usc/t42/s8102">8102.</a>  </td>
 
     <td> Neighborhood Reinvestment Corporation.  </td>
 
@@ -49,7 +49,7 @@ SUBCHAPTER I—NEIGHBORHOOD REINVESTMENT CORPORATION  </td>
 
   <tr>
 
-    <td> 8103.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs8103" data-uslm-ref="/us/usc/t42/s8103">8103.</a>  </td>
 
     <td> Board of Directors.  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER I—NEIGHBORHOOD REINVESTMENT CORPORATION  </td>
 
   <tr>
 
-    <td> 8104.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs8104" data-uslm-ref="/us/usc/t42/s8104">8104.</a>  </td>
 
     <td> Officers and employees.  </td>
 
@@ -65,7 +65,7 @@ SUBCHAPTER I—NEIGHBORHOOD REINVESTMENT CORPORATION  </td>
 
   <tr>
 
-    <td> 8105.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs8105" data-uslm-ref="/us/usc/t42/s8105">8105.</a>  </td>
 
     <td> Powers and duties of corporation.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER I—NEIGHBORHOOD REINVESTMENT CORPORATION  </td>
 
   <tr>
 
-    <td> 8106.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs8106" data-uslm-ref="/us/usc/t42/s8106">8106.</a>  </td>
 
     <td> Reports and audits.  </td>
 
@@ -81,7 +81,7 @@ SUBCHAPTER I—NEIGHBORHOOD REINVESTMENT CORPORATION  </td>
 
   <tr>
 
-    <td> 8107.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs8107" data-uslm-ref="/us/usc/t42/s8107">8107.</a>  </td>
 
     <td> Appropriations.  </td>
 
@@ -89,7 +89,7 @@ SUBCHAPTER I—NEIGHBORHOOD REINVESTMENT CORPORATION  </td>
 
   <tr>
 
-    <td> 8108.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs8108" data-uslm-ref="/us/usc/t42/s8108">8108.</a>  </td>
 
     <td> Warnings to homeowners of foreclosure rescue scams.  </td>
 
@@ -105,7 +105,9 @@ SUBCHAPTER II—NEIGHBORHOOD SELF-HELP DEVELOPMENT  </td>
 
   <tr>
 
-    <td> 8121 to 8124. Repealed.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs8121" data-uslm-ref="/us/usc/t42/s8121">8121</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs8124" data-uslm-ref="/us/usc/t42/s8124">8124.</a>  </td>
+
+    <td> Repealed.  </td>
 
   </tr>
 
@@ -119,7 +121,7 @@ SUBCHAPTER III—LIVABLE CITIES  </td>
 
   <tr>
 
-    <td> 8141.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs8141" data-uslm-ref="/us/usc/t42/s8141">8141.</a>  </td>
 
     <td> Congressional findings.  </td>
 
@@ -127,7 +129,7 @@ SUBCHAPTER III—LIVABLE CITIES  </td>
 
   <tr>
 
-    <td> 8142.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs8142" data-uslm-ref="/us/usc/t42/s8142">8142.</a>  </td>
 
     <td> Statement of purpose.  </td>
 
@@ -135,7 +137,7 @@ SUBCHAPTER III—LIVABLE CITIES  </td>
 
   <tr>
 
-    <td> 8143.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs8143" data-uslm-ref="/us/usc/t42/s8143">8143.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -143,7 +145,7 @@ SUBCHAPTER III—LIVABLE CITIES  </td>
 
   <tr>
 
-    <td> 8144.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs8144" data-uslm-ref="/us/usc/t42/s8144">8144.</a>  </td>
 
     <td> Grants to or contracts with organizations.  </td>
 
@@ -151,7 +153,7 @@ SUBCHAPTER III—LIVABLE CITIES  </td>
 
   <tr>
 
-    <td> 8145.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs8145" data-uslm-ref="/us/usc/t42/s8145">8145.</a>  </td>
 
     <td> Coordination and development of program with other Federal and non-Federal programs.  </td>
 
@@ -159,7 +161,7 @@ SUBCHAPTER III—LIVABLE CITIES  </td>
 
   <tr>
 
-    <td> 8146.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs8146" data-uslm-ref="/us/usc/t42/s8146">8146.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 

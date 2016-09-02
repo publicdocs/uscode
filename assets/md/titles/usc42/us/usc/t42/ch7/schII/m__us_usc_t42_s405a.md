@@ -35,7 +35,7 @@
 
 [Pub. L. 96–265, title V, § 503(c)][/us/pl/96/265/s503/c], June 9, 1980, [94 Stat. 471][/us/stat/94/471], provided that: 
 
-> “The provisions of [section 7 of Public Law 94–202][/us/pl/94/202/s7] \[this section\] shall not be applicable to any regulation which becomes effective on or after July 1, 1980, and which is designed to carry out the purposes of subsection (a) of this section \[amending [section 418 of this title][/us/usc/t42/s418]\].”
+> “The provisions of [section 7 of Public Law 94–202][/us/pl/94/202/s7] \[[42 U.S.C. 405a][/us/usc/t42/s405a]\] shall not be applicable to any regulation which becomes effective on or after July 1, 1980, and which is designed to carry out the purposes of subsection (a) of this section \[amending [section 418 of this title][/us/usc/t42/s418]\].”
 
 ----------
 
@@ -57,6 +57,7 @@
 [/us/pl/96/265/s503/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F265%2Fs503%2Fc
 [/us/stat/94/471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F471
 [/us/pl/94/202/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F202%2Fs7
+[/us/usc/t42/s405a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs405a
 [/us/usc/t42/s418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs418
 
 

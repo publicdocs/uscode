@@ -259,7 +259,7 @@
 
 >         “(3) The amendment made by section 208(h) of this Act \[amending [section 294a of this title][/us/usc/t42/s294a]\] shall take effect as of October 1, 1983.
 
->         “(4) The provisions of section 746 of the Public Health Service Act (as added by the amendment made by section 209(h)(2) of this Act) \[[section 294g–2 of this title][/us/usc/t42/s294g–2]\] shall take effect as of June 30, 1984.
+>         “(4) The provisions of section 746 of the Public Health Service Act (as added by the amendment made by section 209(h)(2) of this Act) \[former [42 U.S.C. 294q–2][/us/usc/t42/s294q–2]\] shall take effect as of June 30, 1984.
 
 >         “(5) The amendments made by section 209(j) of this Act \[amending sections 294m and 297a of this title\] shall take effect as of June 30, 1984.
 
@@ -279,7 +279,7 @@
 
 >     “(A) Except as provided in subparagraphs (B) and (C), the amendment made by paragraph (1) of this subsection \[enacting this section and sections 254l–1 to 254r of this title and repealing [section 234 of this title][/us/usc/t42/s234]\] shall apply with respect to scholarships awarded under the National Health Service Corps Scholarship Program from appropriations for such Program for fiscal years beginning after September 30, 1977.
 
->     “(B) The provisions of section 225(f)(1) of the Public Health Service Act (as in effect on September 30, 1977) \[former [section 234(f)(1) of this title][/us/usc/t42/s234/f/1]\] prescribing the financial obligation of a participant in the Public Health and National Health Service Corps Scholarship Program who fails to complete an active duty service obligation incurred under that Program shall apply to any individual who received a scholarship under such Program from appropriations for such Program for any fiscal year ending before October 1, 1977.
+>     “(B) The provisions of section 225(f)(1) of the Public Health Service Act (as in effect on September 30, 1977) \[former [42 U.S.C. 234(f)(1)][/us/usc/t42/s234/f/1]\] prescribing the financial obligation of a participant in the Public Health and National Health Service Corps Scholarship Program who fails to complete an active duty service obligation incurred under that Program shall apply to any individual who received a scholarship under such Program from appropriations for such Program for any fiscal year ending before October 1, 1977.
 
 >     “(C) If an individual received a scholarship under the Public Health and National Health Service Corps Scholarship Program for any school year beginning before the date of the enactment of this Act \[Oct. 12, 1976\], periods of internship or residency served by such individual in a facility of the National Health Service Corps or other facility of the Public Health Service shall be creditable in satisfying such individual’s service obligation incurred under that Program for such scholarship or for any scholarship received under the National Health Service Corps Scholarship Program for any subsequent school year. If an individual received a scholarship under the Public Health and National Health Service Corps Program for the first time from appropriations for such Program for the fiscal year ending September 30, 1977, periods of internship or residency served by such individual in such a facility shall be creditable in satisfying such individual’s service obligation incurred under that Program for such scholarship.”
 
@@ -394,7 +394,7 @@
 [/us/usc/t42/s294a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs294a
 [/us/usc/t42/s294e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs294e
 [/us/usc/t42/s294a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs294a
-[/us/usc/t42/s294g–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs294g%E2%80%932
+[/us/usc/t42/s294q–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs294q%E2%80%932
 [/us/usc/t42/s295g–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs295g%E2%80%931
 [/us/pl/95/215/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F215%2Fs5
 [/us/stat/91/1506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1506

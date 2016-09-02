@@ -33,7 +33,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 2301.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2301" data-uslm-ref="/us/usc/t42/s2301">2301.</a>  </td>
 
     <td> Congressional declaration of policy.  </td>
 
@@ -41,7 +41,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 2302.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2302" data-uslm-ref="/us/usc/t42/s2302">2302.</a>  </td>
 
     <td> Congressional findings.  </td>
 
@@ -49,7 +49,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 2303.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2303" data-uslm-ref="/us/usc/t42/s2303">2303.</a>  </td>
 
     <td> Purpose of chapter.  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 2304.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2304" data-uslm-ref="/us/usc/t42/s2304">2304.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -65,7 +65,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 2305.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2305" data-uslm-ref="/us/usc/t42/s2305">2305.</a>  </td>
 
     <td> Powers of Atomic Energy Commission.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 2306.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2306" data-uslm-ref="/us/usc/t42/s2306">2306.</a>  </td>
 
     <td> Qualification to purchase.  </td>
 
@@ -81,7 +81,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 2307.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2307" data-uslm-ref="/us/usc/t42/s2307">2307.</a>  </td>
 
     <td> Form and contents of contracts, mortgages, and other instruments.  </td>
 
@@ -89,7 +89,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 2308.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2308" data-uslm-ref="/us/usc/t42/s2308">2308.</a>  </td>
 
     <td> Conclusive evidence of compliance with chapter.  </td>
 
@@ -97,7 +97,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 2309.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2309" data-uslm-ref="/us/usc/t42/s2309">2309.</a>  </td>
 
     <td> Administrative review.  </td>
 
@@ -105,7 +105,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 2310.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2310" data-uslm-ref="/us/usc/t42/s2310">2310.</a>  </td>
 
     <td> Repossession of property; powers of Commission.  </td>
 
@@ -113,7 +113,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 2311.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2311" data-uslm-ref="/us/usc/t42/s2311">2311.</a>  </td>
 
     <td> Community Disposal Operations Fund.  </td>
 
@@ -121,7 +121,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 2312.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2312" data-uslm-ref="/us/usc/t42/s2312">2312.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 
@@ -129,7 +129,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 2313.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2313" data-uslm-ref="/us/usc/t42/s2313">2313.</a>  </td>
 
     <td> Transfer of functions.  </td>
 
@@ -137,7 +137,9 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 2314, 2315. Repealed.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2314" data-uslm-ref="/us/usc/t42/s2314">2314</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2315" data-uslm-ref="/us/usc/t42/s2315">2315.</a>  </td>
+
+    <td> Repealed.  </td>
 
   </tr>
 
@@ -151,7 +153,7 @@ SUBCHAPTER II—LOTS, APPRAISALS, AND PRICES  </td>
 
   <tr>
 
-    <td> 2321.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2321" data-uslm-ref="/us/usc/t42/s2321">2321.</a>  </td>
 
     <td> Lots; establishment of boundaries.  </td>
 
@@ -159,7 +161,7 @@ SUBCHAPTER II—LOTS, APPRAISALS, AND PRICES  </td>
 
   <tr>
 
-    <td> 2322.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2322" data-uslm-ref="/us/usc/t42/s2322">2322.</a>  </td>
 
     <td> Appraisal of property.  </td>
 
@@ -167,7 +169,7 @@ SUBCHAPTER II—LOTS, APPRAISALS, AND PRICES  </td>
 
   <tr>
 
-    <td> 2323.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2323" data-uslm-ref="/us/usc/t42/s2323">2323.</a>  </td>
 
     <td> Basis of appraisal.  </td>
 
@@ -175,7 +177,7 @@ SUBCHAPTER II—LOTS, APPRAISALS, AND PRICES  </td>
 
   <tr>
 
-    <td> 2324.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2324" data-uslm-ref="/us/usc/t42/s2324">2324.</a>  </td>
 
     <td> Posting of lists showing appraised value.  </td>
 
@@ -183,7 +185,7 @@ SUBCHAPTER II—LOTS, APPRAISALS, AND PRICES  </td>
 
   <tr>
 
-    <td> 2325.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2325" data-uslm-ref="/us/usc/t42/s2325">2325.</a>  </td>
 
     <td> Sales price.  </td>
 
@@ -191,7 +193,7 @@ SUBCHAPTER II—LOTS, APPRAISALS, AND PRICES  </td>
 
   <tr>
 
-    <td> 2326.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2326" data-uslm-ref="/us/usc/t42/s2326">2326.</a>  </td>
 
     <td> Deductions from sales price.  </td>
 
@@ -207,7 +209,7 @@ SUBCHAPTER III—CLASSIFICATION OF PROPERTY AND PRIORITIES  </td>
 
   <tr>
 
-    <td> 2331.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2331" data-uslm-ref="/us/usc/t42/s2331">2331.</a>  </td>
 
     <td> Classification of property.  </td>
 
@@ -215,7 +217,7 @@ SUBCHAPTER III—CLASSIFICATION OF PROPERTY AND PRIORITIES  </td>
 
   <tr>
 
-    <td> 2332.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2332" data-uslm-ref="/us/usc/t42/s2332">2332.</a>  </td>
 
     <td> Priorities; uniformity; preferences; impairment of rights.  </td>
 
@@ -223,7 +225,7 @@ SUBCHAPTER III—CLASSIFICATION OF PROPERTY AND PRIORITIES  </td>
 
   <tr>
 
-    <td> 2333.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2333" data-uslm-ref="/us/usc/t42/s2333">2333.</a>  </td>
 
     <td> Transfer of priorities.  </td>
 
@@ -239,7 +241,7 @@ SUBCHAPTER IV—SALES OF PROPERTY FOR PRIVATE USE  </td>
 
   <tr>
 
-    <td> 2341.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2341" data-uslm-ref="/us/usc/t42/s2341">2341.</a>  </td>
 
     <td> Applicability of subchapter.  </td>
 
@@ -247,7 +249,7 @@ SUBCHAPTER IV—SALES OF PROPERTY FOR PRIVATE USE  </td>
 
   <tr>
 
-    <td> 2342.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2342" data-uslm-ref="/us/usc/t42/s2342">2342.</a>  </td>
 
     <td> Disposal of property.  </td>
 
@@ -255,7 +257,7 @@ SUBCHAPTER IV—SALES OF PROPERTY FOR PRIVATE USE  </td>
 
   <tr>
 
-    <td> 2343.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2343" data-uslm-ref="/us/usc/t42/s2343">2343.</a>  </td>
 
     <td> Sales.  </td>
 
@@ -263,7 +265,7 @@ SUBCHAPTER IV—SALES OF PROPERTY FOR PRIVATE USE  </td>
 
   <tr>
 
-    <td> 2344.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2344" data-uslm-ref="/us/usc/t42/s2344">2344.</a>  </td>
 
     <td> Cash sales.  </td>
 
@@ -271,7 +273,7 @@ SUBCHAPTER IV—SALES OF PROPERTY FOR PRIVATE USE  </td>
 
   <tr>
 
-    <td> 2345.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2345" data-uslm-ref="/us/usc/t42/s2345">2345.</a>  </td>
 
     <td> Deeds; form and provisions.  </td>
 
@@ -279,7 +281,7 @@ SUBCHAPTER IV—SALES OF PROPERTY FOR PRIVATE USE  </td>
 
   <tr>
 
-    <td> 2346.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2346" data-uslm-ref="/us/usc/t42/s2346">2346.</a>  </td>
 
     <td> Occupancy by existing tenants.  </td>
 
@@ -287,7 +289,7 @@ SUBCHAPTER IV—SALES OF PROPERTY FOR PRIVATE USE  </td>
 
   <tr>
 
-    <td> 2347.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2347" data-uslm-ref="/us/usc/t42/s2347">2347.</a>  </td>
 
     <td> Sale of lots to lessees or individual owners.  </td>
 
@@ -295,7 +297,7 @@ SUBCHAPTER IV—SALES OF PROPERTY FOR PRIVATE USE  </td>
 
   <tr>
 
-    <td> 2348.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2348" data-uslm-ref="/us/usc/t42/s2348">2348.</a>  </td>
 
     <td> Priority sale of apartment houses.  </td>
 
@@ -303,7 +305,7 @@ SUBCHAPTER IV—SALES OF PROPERTY FOR PRIVATE USE  </td>
 
   <tr>
 
-    <td> 2349.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2349" data-uslm-ref="/us/usc/t42/s2349">2349.</a>  </td>
 
     <td> Hanford project; disposal of property.  </td>
 
@@ -319,7 +321,7 @@ SUBCHAPTER V—FINANCING  </td>
 
   <tr>
 
-    <td> 2361.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2361" data-uslm-ref="/us/usc/t42/s2361">2361.</a>  </td>
 
     <td> Contract to purchase by priority purchaser.  </td>
 
@@ -327,7 +329,7 @@ SUBCHAPTER V—FINANCING  </td>
 
   <tr>
 
-    <td> 2362.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2362" data-uslm-ref="/us/usc/t42/s2362">2362.</a>  </td>
 
     <td> Financing by Commission.  </td>
 
@@ -335,7 +337,7 @@ SUBCHAPTER V—FINANCING  </td>
 
   <tr>
 
-    <td> 2363.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2363" data-uslm-ref="/us/usc/t42/s2363">2363.</a>  </td>
 
     <td> Indemnity obligation of Commission; incorporation by reference in deed.  </td>
 
@@ -343,7 +345,7 @@ SUBCHAPTER V—FINANCING  </td>
 
   <tr>
 
-    <td> 2364.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2364" data-uslm-ref="/us/usc/t42/s2364">2364.</a>  </td>
 
     <td> Community employment and population.  </td>
 
@@ -351,7 +353,7 @@ SUBCHAPTER V—FINANCING  </td>
 
   <tr>
 
-    <td> 2365.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2365" data-uslm-ref="/us/usc/t42/s2365">2365.</a>  </td>
 
     <td> Amount of indemnity.  </td>
 
@@ -359,7 +361,7 @@ SUBCHAPTER V—FINANCING  </td>
 
   <tr>
 
-    <td> 2366.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2366" data-uslm-ref="/us/usc/t42/s2366">2366.</a>  </td>
 
     <td> Conditions of indemnity; purchase of property by Commission.  </td>
 
@@ -375,7 +377,7 @@ SUBCHAPTER VI—UTILITIES  </td>
 
   <tr>
 
-    <td> 2371.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2371" data-uslm-ref="/us/usc/t42/s2371">2371.</a>  </td>
 
     <td> Transfer of utilities.  </td>
 
@@ -383,7 +385,7 @@ SUBCHAPTER VI—UTILITIES  </td>
 
   <tr>
 
-    <td> 2372.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2372" data-uslm-ref="/us/usc/t42/s2372">2372.</a>  </td>
 
     <td> Date of transfer of utilities.  </td>
 
@@ -391,7 +393,7 @@ SUBCHAPTER VI—UTILITIES  </td>
 
   <tr>
 
-    <td> 2373.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2373" data-uslm-ref="/us/usc/t42/s2373">2373.</a>  </td>
 
     <td> Transfer to governmental or other legal entity; determination of transferee.  </td>
 
@@ -399,7 +401,7 @@ SUBCHAPTER VI—UTILITIES  </td>
 
   <tr>
 
-    <td> 2374.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2374" data-uslm-ref="/us/usc/t42/s2374">2374.</a>  </td>
 
     <td> Utilities transferable.  </td>
 
@@ -407,7 +409,7 @@ SUBCHAPTER VI—UTILITIES  </td>
 
   <tr>
 
-    <td> 2375.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2375" data-uslm-ref="/us/usc/t42/s2375">2375.</a>  </td>
 
     <td> Gift of utility to city; charges and terms for utilities transferred to other transferees.  </td>
 
@@ -423,7 +425,7 @@ SUBCHAPTER VII—MUNICIPALITIES  </td>
 
   <tr>
 
-    <td> 2381.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2381" data-uslm-ref="/us/usc/t42/s2381">2381.</a>  </td>
 
     <td> Assistance in organization.  </td>
 
@@ -431,7 +433,7 @@ SUBCHAPTER VII—MUNICIPALITIES  </td>
 
   <tr>
 
-    <td> 2382.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2382" data-uslm-ref="/us/usc/t42/s2382">2382.</a>  </td>
 
     <td> Transfer of municipal installations.  </td>
 
@@ -439,7 +441,7 @@ SUBCHAPTER VII—MUNICIPALITIES  </td>
 
   <tr>
 
-    <td> 2383.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2383" data-uslm-ref="/us/usc/t42/s2383">2383.</a>  </td>
 
     <td> Date of transfer.  </td>
 
@@ -447,7 +449,7 @@ SUBCHAPTER VII—MUNICIPALITIES  </td>
 
   <tr>
 
-    <td> 2384.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2384" data-uslm-ref="/us/usc/t42/s2384">2384.</a>  </td>
 
     <td> Transfer to governmental entity or private nonprofit organization; determination of transferee.  </td>
 
@@ -455,7 +457,7 @@ SUBCHAPTER VII—MUNICIPALITIES  </td>
 
   <tr>
 
-    <td> 2385.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2385" data-uslm-ref="/us/usc/t42/s2385">2385.</a>  </td>
 
     <td> Installations transferable.  </td>
 
@@ -463,7 +465,7 @@ SUBCHAPTER VII—MUNICIPALITIES  </td>
 
   <tr>
 
-    <td> 2386.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2386" data-uslm-ref="/us/usc/t42/s2386">2386.</a>  </td>
 
     <td> Transfer of installations without charge.  </td>
 
@@ -479,7 +481,7 @@ SUBCHAPTER VIII—LOCAL ASSISTANCE  </td>
 
   <tr>
 
-    <td> 2391.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2391" data-uslm-ref="/us/usc/t42/s2391">2391.</a>  </td>
 
     <td> Assistance to governmental entities.  </td>
 
@@ -487,7 +489,7 @@ SUBCHAPTER VIII—LOCAL ASSISTANCE  </td>
 
   <tr>
 
-    <td> 2392.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2392" data-uslm-ref="/us/usc/t42/s2392">2392.</a>  </td>
 
     <td> Reduction of payments.  </td>
 
@@ -495,7 +497,7 @@ SUBCHAPTER VIII—LOCAL ASSISTANCE  </td>
 
   <tr>
 
-    <td> 2393.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2393" data-uslm-ref="/us/usc/t42/s2393">2393.</a>  </td>
 
     <td> Payments in anticipation of services; withholding of payments.  </td>
 
@@ -503,7 +505,7 @@ SUBCHAPTER VIII—LOCAL ASSISTANCE  </td>
 
   <tr>
 
-    <td> 2394.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2394" data-uslm-ref="/us/usc/t42/s2394">2394.</a>  </td>
 
     <td> Contract to make payments.  </td>
 

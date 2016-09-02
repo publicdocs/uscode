@@ -497,19 +497,19 @@
 
 [Pub. L. 106–377, § 1(a)(1)][/us/pl/106/377/s1/a/1] \[title III\], Oct. 27, 2000, [114 Stat. 1441][/us/stat/114/1441], 1441A–41, provided in part: 
 
-> “That notwithstanding section 1412(b)(12)(A)(v) of the Safe Drinking Water Act, as amended \[subsec. (b)(12)(A)(v) of this section\], the Administrator shall promulgate a national primary drinking water regulation for arsenic not later than June 22, 2001.”
+> “That notwithstanding section 1412(b)(12)(A)(v) of the Safe Drinking Water Act, as amended \[[42 U.S.C. 300g–1(b)(12)(A)(v)][/us/usc/t42/s300g–1/b/12/A/v]\], the Administrator shall promulgate a national primary drinking water regulation for arsenic not later than June 22, 2001.”
 
  __Applicability of Prior Requirements__ 
 
 [Pub. L. 104–182, title I, § 102(b)][/us/pl/104/182/s102/b], Aug. 6, 1996, [110 Stat. 1620][/us/stat/110/1620], provided that: 
 
-> “The requirements of subparagraphs (C) and (D) of section 1412(b)(3) of the Safe Drinking Water Act \[subsec. (b)(3)(C), (D) of this section\] as in effect before the date of enactment of this Act \[Aug. 6, 1996\], and any obligation to promulgate regulations pursuant to such subparagraphs not promulgated as of the date of enactment of this Act, are superseded by the amendments made by subsection (a) \[amending this section\].”
+> “The requirements of subparagraphs (C) and (D) of section 1412(b)(3) of the Safe Drinking Water Act \[[42 U.S.C. 300g–1(b)(3)(C)][/us/usc/t42/s300g–1/b/3/C], (D)\] as in effect before the date of enactment of this Act \[Aug. 6, 1996\], and any obligation to promulgate regulations pursuant to such subparagraphs not promulgated as of the date of enactment of this Act, are superseded by the amendments made by subsection (a) \[amending this section\].”
 
  __Disinfectants and Disinfection Byproducts__ 
 
 [Pub. L. 104–182, title I, § 104(b)][/us/pl/104/182/s104/b], Aug. 6, 1996, [110 Stat. 1625][/us/stat/110/1625], provided that: 
 
-> “The Administrator of the Environmental Protection Agency may use the authority of section 1412(b)(5) of the Safe Drinking Water Act \[subsec. (b)(5) of this section\] (as amended by this Act) to promulgate the Stage I and Stage II Disinfectants and Disinfection Byproducts Rules as proposed in volume 59, Federal Register, page 38668 (July 29, 1994). The considerations used in the development of the July 29, 1994, proposed national primary drinking water regulation on disinfectants and disinfection byproducts shall be treated as consistent with such section 1412(b)(5) for purposes of such Stage I and Stage II rules.”
+> “The Administrator of the Environmental Protection Agency may use the authority of section 1412(b)(5) of the Safe Drinking Water Act \[[42 U.S.C. 300g–1(b)(5)][/us/usc/t42/s300g–1/b/5]\] (as amended by this Act) to promulgate the Stage I and Stage II Disinfectants and Disinfection Byproducts Rules as proposed in volume 59, Federal Register, page 38668 (July 29, 1994). The considerations used in the development of the July 29, 1994, proposed national primary drinking water regulation on disinfectants and disinfection byproducts shall be treated as consistent with such section 1412(b)(5) for purposes of such Stage I and Stage II rules.”
 
 ----------
 
@@ -579,9 +579,12 @@
 [/us/pl/95/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190
 [/us/pl/106/377/s1/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F377%2Fs1%2Fa%2F1
 [/us/stat/114/1441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1441
+[/us/usc/t42/s300g–1/b/12/A/v]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300g%E2%80%931%2Fb%2F12%2FA%2Fv
 [/us/pl/104/182/s102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182%2Fs102%2Fb
 [/us/stat/110/1620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1620
+[/us/usc/t42/s300g–1/b/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300g%E2%80%931%2Fb%2F3%2FC
 [/us/pl/104/182/s104/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182%2Fs104%2Fb
 [/us/stat/110/1625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1625
+[/us/usc/t42/s300g–1/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300g%E2%80%931%2Fb%2F5
 
 

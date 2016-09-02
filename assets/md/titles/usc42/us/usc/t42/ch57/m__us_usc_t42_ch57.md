@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 4391.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs4391" data-uslm-ref="/us/usc/t42/s4391">4391.</a>  </td>
 
     <td> Congressional statement of findings.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 4392.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs4392" data-uslm-ref="/us/usc/t42/s4392">4392.</a>  </td>
 
     <td> Presidential study.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 4393.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs4393" data-uslm-ref="/us/usc/t42/s4393">4393.</a>  </td>
 
     <td> Report to Congress by President.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 4394.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs4394" data-uslm-ref="/us/usc/t42/s4394">4394.</a>  </td>
 
     <td> Omitted.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 4395.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs4395" data-uslm-ref="/us/usc/t42/s4395">4395.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 

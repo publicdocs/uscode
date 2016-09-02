@@ -303,11 +303,11 @@
 
 >              The term ‘covered program’ means each of the following programs:
 
->                 “(I) The aid to families with dependent children program under part A of title IV of the Social Security Act \[part A of subchapter IV of this chapter\].
+>                 “(I) The aid to families with dependent children program under part A of title IV of the Social Security Act \[[42 U.S.C. 601][/us/usc/t42/s601] et seq.\].
 
->                 “(II) The medicaid program under title XIX of the Social Security Act \[subchapter XIX of this chapter\].
+>                 “(II) The medicaid program under title XIX of the Social Security Act \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\].
 
->                 “(III) Any State program under a plan approved under title I, X, XIV, or XVI of the Social Security Act \[subchapter I, X, XIV, or XVI of this chapter\].
+>                 “(III) Any State program under a plan approved under title I, X, XIV, or XVI of the Social Security Act \[[42 U.S.C. 301][/us/usc/t42/s301] et seq., 1201 et seq., 1351 et seq., 1381 et seq.\].
 
 >                 “(IV) The unemployment compensation program under section 3304 of the Internal Revenue Code of 1954 \[now 1986; [26 U.S.C. 3304][/us/usc/t26/s3304]\].
 
@@ -347,7 +347,7 @@
 
 >     “(1) The amendments made by subsections (j) and (k) \[amending [section 1383 of this title][/us/usc/t42/s1383] and [section 6103 of Title 26][/us/usc/t26/s6103], Internal Revenue Code\] shall become effective on the date of the enactment of this Act \[July 18, 1984\].
 
->     “(2) Except as otherwise specifically provided, the amendments made by subsections (a) through (i) \[enacting this section, amending sections 302, 503, 602, 1202, 1352, and 1396a of this title and [section 2020 of Title 7][/us/usc/t7/s2020], Agriculture, repealing [section 611 of this title][/us/usc/t42/s611], and amending provisions set out as a note under [section 1382 of this title][/us/usc/t42/s1382]\] shall become effective on April 1, 1985. In the case of any State which submits a plan describing a good faith effort by such State to come into compliance with the requirements of such subsections, the Secretary of Health and Human Services (or, in the case of the State unemployment compensation program, the Secretary of Labor, or, in the case of the food stamp program, the Secretary of Agriculture) may by waiver grant a delay in the effective date of such subsections, except that no such waiver may delay the effective date of section 1137(c) of the Social Security Act \[subsec. (c) of this section\] (as added by subsection (a) of this section), or delay the effective date of any other provision of or added by this section beyond September 30, 1986.”
+>     “(2) Except as otherwise specifically provided, the amendments made by subsections (a) through (i) \[enacting this section, amending sections 302, 503, 602, 1202, 1352, and 1396a of this title and [section 2020 of Title 7][/us/usc/t7/s2020], Agriculture, repealing [section 611 of this title][/us/usc/t42/s611], and amending provisions set out as a note under [section 1382 of this title][/us/usc/t42/s1382]\] shall become effective on April 1, 1985. In the case of any State which submits a plan describing a good faith effort by such State to come into compliance with the requirements of such subsections, the Secretary of Health and Human Services (or, in the case of the State unemployment compensation program, the Secretary of Labor, or, in the case of the food stamp program, the Secretary of Agriculture) may by waiver grant a delay in the effective date of such subsections, except that no such waiver may delay the effective date of section 1137(c) of the Social Security Act \[[42 U.S.C. 1320b–7(c)][/us/usc/t42/s1320b–7/c]\] (as added by subsection (a) of this section), or delay the effective date of any other provision of or added by this section beyond September 30, 1986.”
 
  __Construction of 1999 Amendment__ 
 
@@ -361,7 +361,7 @@
 
 [Pub. L. 99–603, title I, § 121(c)(1)][/us/pl/99/603/s121/c/1], Nov. 6, 1986, [100 Stat. 3391][/us/stat/100/3391], provided that: 
 
-> “The Commissioner of Immigration and Naturalization shall implement a system for the verification of immigration status under paragraphs (3) and (4)(B)(i) of section 1137(d) of the Social Security Act \[subsec. (d)(3) and (4)(B)(i) of this section\] (as amended by this section) so that the system is available to all the States by not later than October 1, 1987. Such system shall not be used by the Immigration and Naturalization Service for administrative (non-criminal) immigration enforcement purposes and shall be implemented in a manner that provides for verification of immigration status without regard to the sex, color, race, religion, or nationality of the individual involved.”
+> “The Commissioner of Immigration and Naturalization shall implement a system for the verification of immigration status under paragraphs (3) and (4)(B)(i) of section 1137(d) of the Social Security Act \[[42 U.S.C. 1320b–7(d)(3)][/us/usc/t42/s1320b–7/d/3], (4)(B)(i)\] (as amended by this section) so that the system is available to all the States by not later than October 1, 1987. Such system shall not be used by the Immigration and Naturalization Service for administrative (non-criminal) immigration enforcement purposes and shall be implemented in a manner that provides for verification of immigration status without regard to the sex, color, race, religion, or nationality of the individual involved.”
 
  __General Accounting Office Reports__ 
 
@@ -464,6 +464,9 @@
 [/us/stat/100/3391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3391
 [/us/usc/t42/s1436a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1436a
 [/us/usc/t20/s1091]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1091
+[/us/usc/t42/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs601
+[/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
+[/us/usc/t42/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs301
 [/us/usc/t26/s3304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs3304
 [/us/usc/t7/s2011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2011
 [/us/usc/t42/s1436a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1436a
@@ -476,6 +479,7 @@
 [/us/usc/t7/s2020]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2020
 [/us/usc/t42/s611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs611
 [/us/usc/t42/s1382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1382
+[/us/usc/t42/s1320b–7/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320b%E2%80%937%2Fc
 [/us/pl/106/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170
 [/us/pl/106/169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F169
 [/us/pl/106/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170
@@ -484,6 +488,7 @@
 [/us/usc/t8/s1551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1551
 [/us/pl/99/603/s121/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F603%2Fs121%2Fc%2F1
 [/us/stat/100/3391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3391
+[/us/usc/t42/s1320b–7/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320b%E2%80%937%2Fd%2F3
 [/us/pl/99/603/s121/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F603%2Fs121%2Fd
 [/us/stat/100/3393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3393
 

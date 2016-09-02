@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 10901.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs10901" data-uslm-ref="/us/usc/t42/s10901">10901.</a>  </td>
 
     <td> Authority of Secretary to make grants.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 10902.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs10902" data-uslm-ref="/us/usc/t42/s10902">10902.</a>  </td>
 
     <td> Application for grants.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 10903.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs10903" data-uslm-ref="/us/usc/t42/s10903">10903.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 10904.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs10904" data-uslm-ref="/us/usc/t42/s10904">10904.</a>  </td>
 
     <td> Annual report by States; contents; manner of payments pursuant to grants.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 10905.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs10905" data-uslm-ref="/us/usc/t42/s10905">10905.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 

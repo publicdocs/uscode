@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 4701.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs4701" data-uslm-ref="/us/usc/t42/s4701">4701.</a>  </td>
 
     <td> Congressional findings and declaration of policy.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 4702.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs4702" data-uslm-ref="/us/usc/t42/s4702">4702.</a>  </td>
 
     <td> Administration of authorities.  </td>
 
@@ -49,7 +49,9 @@ SUBCHAPTER I—DEVELOPMENT OF POLICIES AND STANDARDS  </td>
 
   <tr>
 
-    <td> 4711 to 4713. Omitted.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs4711" data-uslm-ref="/us/usc/t42/s4711">4711</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs4713" data-uslm-ref="/us/usc/t42/s4713">4713.</a>  </td>
+
+    <td> Omitted.  </td>
 
   </tr>
 
@@ -63,7 +65,7 @@ SUBCHAPTER II—STRENGTHENING STATE AND LOCAL PERSONNEL ADMINISTRATION  </td>
 
   <tr>
 
-    <td> 4721.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs4721" data-uslm-ref="/us/usc/t42/s4721">4721.</a>  </td>
 
     <td> Declaration of purpose.  </td>
 
@@ -71,7 +73,7 @@ SUBCHAPTER II—STRENGTHENING STATE AND LOCAL PERSONNEL ADMINISTRATION  </td>
 
   <tr>
 
-    <td> 4722.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs4722" data-uslm-ref="/us/usc/t42/s4722">4722.</a>  </td>
 
     <td> State government and statewide programs and grants.  </td>
 
@@ -79,7 +81,7 @@ SUBCHAPTER II—STRENGTHENING STATE AND LOCAL PERSONNEL ADMINISTRATION  </td>
 
   <tr>
 
-    <td> 4723.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs4723" data-uslm-ref="/us/usc/t42/s4723">4723.</a>  </td>
 
     <td> Local government programs and grants.  </td>
 
@@ -87,7 +89,7 @@ SUBCHAPTER II—STRENGTHENING STATE AND LOCAL PERSONNEL ADMINISTRATION  </td>
 
   <tr>
 
-    <td> 4724.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs4724" data-uslm-ref="/us/usc/t42/s4724">4724.</a>  </td>
 
     <td> Intergovernmental cooperation in recruiting and examining activities; potential employees, certification; payments for costs; credits to appropriation or fund for payment of expenses.  </td>
 
@@ -95,7 +97,7 @@ SUBCHAPTER II—STRENGTHENING STATE AND LOCAL PERSONNEL ADMINISTRATION  </td>
 
   <tr>
 
-    <td> 4725.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs4725" data-uslm-ref="/us/usc/t42/s4725">4725.</a>  </td>
 
     <td> Technical assistance; waiver of payments for costs; credits to appropriation or fund for payment of expenses.  </td>
 
@@ -103,7 +105,7 @@ SUBCHAPTER II—STRENGTHENING STATE AND LOCAL PERSONNEL ADMINISTRATION  </td>
 
   <tr>
 
-    <td> 4726.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs4726" data-uslm-ref="/us/usc/t42/s4726">4726.</a>  </td>
 
     <td> Coordination of Federal programs.  </td>
 
@@ -111,7 +113,7 @@ SUBCHAPTER II—STRENGTHENING STATE AND LOCAL PERSONNEL ADMINISTRATION  </td>
 
   <tr>
 
-    <td> 4727.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs4727" data-uslm-ref="/us/usc/t42/s4727">4727.</a>  </td>
 
     <td> Interstate compacts.  </td>
 
@@ -119,7 +121,7 @@ SUBCHAPTER II—STRENGTHENING STATE AND LOCAL PERSONNEL ADMINISTRATION  </td>
 
   <tr>
 
-    <td> 4728.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs4728" data-uslm-ref="/us/usc/t42/s4728">4728.</a>  </td>
 
     <td> Transfer of functions.  </td>
 
@@ -135,7 +137,7 @@ SUBCHAPTER III—TRAINING AND DEVELOPING STATE AND LOCAL EMPLOYEES  </td>
 
   <tr>
 
-    <td> 4741.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs4741" data-uslm-ref="/us/usc/t42/s4741">4741.</a>  </td>
 
     <td> Declaration of purpose.  </td>
 
@@ -143,7 +145,7 @@ SUBCHAPTER III—TRAINING AND DEVELOPING STATE AND LOCAL EMPLOYEES  </td>
 
   <tr>
 
-    <td> 4742.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs4742" data-uslm-ref="/us/usc/t42/s4742">4742.</a>  </td>
 
     <td> Admission to Federal employee training programs.  </td>
 
@@ -151,7 +153,7 @@ SUBCHAPTER III—TRAINING AND DEVELOPING STATE AND LOCAL EMPLOYEES  </td>
 
   <tr>
 
-    <td> 4743.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs4743" data-uslm-ref="/us/usc/t42/s4743">4743.</a>  </td>
 
     <td> Grants to State and local governments for training.  </td>
 
@@ -159,7 +161,7 @@ SUBCHAPTER III—TRAINING AND DEVELOPING STATE AND LOCAL EMPLOYEES  </td>
 
   <tr>
 
-    <td> 4744.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs4744" data-uslm-ref="/us/usc/t42/s4744">4744.</a>  </td>
 
     <td> Grants to other organizations.  </td>
 
@@ -167,7 +169,7 @@ SUBCHAPTER III—TRAINING AND DEVELOPING STATE AND LOCAL EMPLOYEES  </td>
 
   <tr>
 
-    <td> 4745.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs4745" data-uslm-ref="/us/usc/t42/s4745">4745.</a>  </td>
 
     <td> Government Service Fellowships.  </td>
 
@@ -175,7 +177,7 @@ SUBCHAPTER III—TRAINING AND DEVELOPING STATE AND LOCAL EMPLOYEES  </td>
 
   <tr>
 
-    <td> 4746.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs4746" data-uslm-ref="/us/usc/t42/s4746">4746.</a>  </td>
 
     <td> Coordination of Federal programs.  </td>
 
@@ -191,7 +193,7 @@ SUBCHAPTER IV—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 4761.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs4761" data-uslm-ref="/us/usc/t42/s4761">4761.</a>  </td>
 
     <td> Declaration of purpose.  </td>
 
@@ -199,7 +201,7 @@ SUBCHAPTER IV—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 4762.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs4762" data-uslm-ref="/us/usc/t42/s4762">4762.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -207,7 +209,7 @@ SUBCHAPTER IV—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 4763.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs4763" data-uslm-ref="/us/usc/t42/s4763">4763.</a>  </td>
 
     <td> General administrative provisions.  </td>
 
@@ -215,7 +217,7 @@ SUBCHAPTER IV—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 4764.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs4764" data-uslm-ref="/us/usc/t42/s4764">4764.</a>  </td>
 
     <td> Reporting and recordkeeping requirements for State or local governments and other organizations.  </td>
 
@@ -223,7 +225,7 @@ SUBCHAPTER IV—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 4765.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs4765" data-uslm-ref="/us/usc/t42/s4765">4765.</a>  </td>
 
     <td> Review and audit.  </td>
 
@@ -231,7 +233,7 @@ SUBCHAPTER IV—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 4766.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs4766" data-uslm-ref="/us/usc/t42/s4766">4766.</a>  </td>
 
     <td> Distribution of grants.  </td>
 
@@ -239,7 +241,7 @@ SUBCHAPTER IV—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 4767.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs4767" data-uslm-ref="/us/usc/t42/s4767">4767.</a>  </td>
 
     <td> Termination of grants.  </td>
 
@@ -247,7 +249,7 @@ SUBCHAPTER IV—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 4768.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs4768" data-uslm-ref="/us/usc/t42/s4768">4768.</a>  </td>
 
     <td> Advisory committees; appointment; compensation and travel expenses.  </td>
 
@@ -255,7 +257,7 @@ SUBCHAPTER IV—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 4769.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs4769" data-uslm-ref="/us/usc/t42/s4769">4769.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 
@@ -263,7 +265,7 @@ SUBCHAPTER IV—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 4770.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs4770" data-uslm-ref="/us/usc/t42/s4770">4770.</a>  </td>
 
     <td> Limitations on availability of funds for cost sharing.  </td>
 
@@ -271,7 +273,7 @@ SUBCHAPTER IV—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 4771.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs4771" data-uslm-ref="/us/usc/t42/s4771">4771.</a>  </td>
 
     <td> Method of payment; installments; advances or reimbursement; adjustments.  </td>
 
@@ -279,7 +281,7 @@ SUBCHAPTER IV—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 4772.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs4772" data-uslm-ref="/us/usc/t42/s4772">4772.</a>  </td>
 
     <td> Effective date of grant provisions.  </td>
 

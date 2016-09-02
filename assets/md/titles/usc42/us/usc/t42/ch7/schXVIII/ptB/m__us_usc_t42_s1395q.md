@@ -175,13 +175,13 @@
 
 [Pub. L. 90–97, § 3(a)][/us/pl/90/97/s3/a], Sept. 30, 1967, [81 Stat. 249][/us/stat/81/249], provided that: 
 
-> “In the case of any individual who, pursuant to section 1838(b)(1) of the Social Security Act \[subsec. (b)(1) of this section\], terminates his enrollment in the insurance program established under part B of title XVIII of such Act \[this part\], his coverage period (as defined in section 1838(a) of such Act) \[subsec. (a) of this section\]—
+> “In the case of any individual who, pursuant to section 1838(b)(1) of the Social Security Act \[[42 U.S.C. 1395q(b)(1)][/us/usc/t42/s1395q/b/1]\], terminates his enrollment in the insurance program established under part B of title XVIII of such Act \[[42 U.S.C. 1395j][/us/usc/t42/s1395j] et seq.\], his coverage period (as defined in section 1838(a) of such Act) \[[42 U.S.C. 1395q(a)][/us/usc/t42/s1395q/a]\]—
 
 >     “(1) shall terminate at the close of December 31, 1967, if he filed his notice of termination before January 1, 1968, or
 
 >     “(2) shall terminate at the close of March 31, 1968, if he filed his notice of termination after December 31, 1967, and before April 1, 1968.
 
->         An individual whose coverage period terminated pursuant to paragraph (1) at the close of December 31, 1967, may, notwithstanding section 1837(b)(2) of such Act \[[section 1395p(b)(2) of this title][/us/usc/t42/s1395p/b/2]\], enroll in such program before April 1, 1968, and for purposes of sections 1838(a)(2)(E) \[subsec. (a)(2)(E) of this section\] and 1837(b)(2) of such Act \[[section 1395p(b)(2) of this title][/us/usc/t42/s1395p/b/2]\] such enrollment shall be deemed an enrollment under section 1837(e) of such Act \[[section 1395p(e) of this title][/us/usc/t42/s1395p/e]\] and a second enrollment under such part.”
+>         An individual whose coverage period terminated pursuant to paragraph (1) at the close of December 31, 1967, may, notwithstanding section 1837(b)(2) of such Act \[[42 U.S.C. 1395p(b)(2)][/us/usc/t42/s1395p/b/2]\], enroll in such program before April 1, 1968, and for purposes of sections 1838(a)(2)(E) \[[42 U.S.C. 1395q(a)(2)(E)][/us/usc/t42/s1395q/a/2/E]\] and 1837(b)(2) of such Act \[[42 U.S.C. 1395p(b)(2)][/us/usc/t42/s1395p/b/2]\] such enrollment shall be deemed an enrollment under section 1837(e) of such Act \[[42 U.S.C. 1395p(e)][/us/usc/t42/s1395p/e]\] and a second enrollment under such part.”
 
  __Extension of 1967 General Enrollment Period Through__  __March 31, 1968__ 
 
@@ -191,7 +191,7 @@
 
 [Pub. L. 89–384, § 3(d)][/us/pl/89/384/s3/d], Apr. 8, 1966, [80 Stat. 105][/us/stat/80/105], provided that: 
 
-> “In the case of an individual who first satisfies paragraphs (1) and (2) of section 1836 of the Social Security Act \[section 1395o of this title\] in March, 1966, and who enrolls pursuant to subsection (d) of section 1837 of such Act \[[section 1395p of this title][/us/usc/t42/s1395p]\] in May 1966, his coverage period shall, notwithstanding section 1838(a)(2)(D) of such Act \[subsec. (a)(2)(D) of this section\], begin on July 1, 1966.”
+> “In the case of an individual who first satisfies paragraphs (1) and (2) of section 1836 of the Social Security Act \[[42 U.S.C. 1395][/us/usc/t42/s1395]o\] in March, 1966, and who enrolls pursuant to subsection (d) of section 1837 of such Act \[[42 U.S.C. 1395p][/us/usc/t42/s1395p]\] in May 1966, his coverage period shall, notwithstanding section 1838(a)(2)(D) of such Act \[[42 U.S.C. 1395q(a)(2)(D)][/us/usc/t42/s1395q/a/2/D]\], begin on July 1, 1966.”
 
  __Commencement of Coverage Period of Certain Enrollees__ 
 
@@ -298,7 +298,11 @@
 [/us/usc/t42/s1395p]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395p
 [/us/pl/90/97/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F97%2Fs3%2Fa
 [/us/stat/81/249]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F249
+[/us/usc/t42/s1395q/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395q%2Fb%2F1
+[/us/usc/t42/s1395j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395j
+[/us/usc/t42/s1395q/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395q%2Fa
 [/us/usc/t42/s1395p/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395p%2Fb%2F2
+[/us/usc/t42/s1395q/a/2/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395q%2Fa%2F2%2FE
 [/us/usc/t42/s1395p/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395p%2Fb%2F2
 [/us/usc/t42/s1395p/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395p%2Fe
 [/us/usc/t42/s1395p/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395p%2Fe
@@ -307,7 +311,9 @@
 [/us/usc/t42/s1395p]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395p
 [/us/pl/89/384/s3/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F384%2Fs3%2Fd
 [/us/stat/80/105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F105
+[/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
 [/us/usc/t42/s1395p]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395p
+[/us/usc/t42/s1395q/a/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395q%2Fa%2F2%2FD
 [/us/pl/89/97/s102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97%2Fs102%2Fb
 [/us/usc/t42/s1395p]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395p
 

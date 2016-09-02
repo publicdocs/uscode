@@ -291,13 +291,13 @@
 
 >     Not later than one year after the date of the enactment of this Act \[June 12, 2002\], the Secretary of Health and Human Services (referred to in this subsection as the ‘Secretary’) shall submit to the Committee on Energy and Commerce of the House of Representatives, and the Committee on Health, Education, Labor, and Pensions of the Senate, a report concerning—
 
->         “(A) the recommendations and findings of the National Advisory Committee on Children and Terrorism under section 319F(c)(2) of the Public Health Service Act \[probably means subsec. (b)(2) of this section\];
+>         “(A) the recommendations and findings of the National Advisory Committee on Children and Terrorism under section 319F(c)(2) of the Public Health Service Act \[probably means section 319F(b)(2), [42 U.S.C. 247d–6(b)(2)][/us/usc/t42/s247d–6/b/2]\];
 
->         “(B) the recommendations and findings of the EPIC Advisory Committee under section 319F(c)(3) of such Act \[probably means subsec. (b)(3) of this section\];
+>         “(B) the recommendations and findings of the EPIC Advisory Committee under section 319F(c)(3) of such Act \[probably means section 319F(b)(3), [42 U.S.C. 247d–6(b)(3)][/us/usc/t42/s247d–6/b/3]\];
 
 >         “(C) the characteristics that may render a rural community uniquely vulnerable to a biological attack, including distance, lack of emergency transport, hospital or laboratory capacity, lack of integration of Federal or State public health networks, workforce deficits, or other relevant characteristics;
 
->         “(D) the characteristics that may render areas or populations designated as medically underserved populations (as defined in section 330 of such Act \[[section 254b of this title][/us/usc/t42/s254b]\]) uniquely vulnerable to a biological attack, including significant numbers of low-income or uninsured individuals, lack of affordable and accessible health care services, insufficient public and primary health care resources, lack of integration of Federal or State public health networks, workforce deficits, or other relevant characteristics;
+>         “(D) the characteristics that may render areas or populations designated as medically underserved populations (as defined in section 330 of such Act \[[42 U.S.C. 254b][/us/usc/t42/s254b]\]) uniquely vulnerable to a biological attack, including significant numbers of low-income or uninsured individuals, lack of affordable and accessible health care services, insufficient public and primary health care resources, lack of integration of Federal or State public health networks, workforce deficits, or other relevant characteristics;
 
 >         “(E) the recommendations of the Secretary with respect to additional legislative authority that the Secretary determines is necessary to effectively strengthen rural communities, or medically underserved populations (as defined in section 330 of such Act); and
 
@@ -359,6 +359,8 @@
 [/us/pl/107/188/s104/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2Fs104%2Fa%2F2
 [/us/pl/107/188/s101/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2Fs101%2Fb%2F1
 [/us/stat/116/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F598
+[/us/usc/t42/s247d–6/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs247d%E2%80%936%2Fb%2F2
+[/us/usc/t42/s247d–6/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs247d%E2%80%936%2Fb%2F3
 [/us/usc/t42/s254b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs254b
 [/us/pl/107/188/s104/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2Fs104%2Fb
 [/us/stat/116/606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F606

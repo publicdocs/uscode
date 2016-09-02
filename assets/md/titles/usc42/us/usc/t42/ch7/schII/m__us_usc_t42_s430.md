@@ -133,7 +133,7 @@
 
 >     “(2) __Transitional rule.—__ 
 
->     For purposes of determining the contribution and benefit base for 1990, 1991, and 1992 under section 230(b) of the Social Security Act \[subsec. (b) of this section\] (and section 230(b) of such Act as in effect immediately prior to enactment of the Social Security Amendments of 1977 \[[Pub. L. 95–216][/us/pl/95/216], approved Dec. 20, 1977\])—
+>     For purposes of determining the contribution and benefit base for 1990, 1991, and 1992 under section 230(b) of the Social Security Act \[[42 U.S.C. 430(b)][/us/usc/t42/s430/b]\] (and section 230(b) of such Act as in effect immediately prior to enactment of the Social Security Amendments of 1977 \[[Pub. L. 95–216][/us/pl/95/216], approved Dec. 20, 1977\])—
 
 >         “(A) the average of total wages for 1988 shall be deemed to be equal to the amount which would have been determined without regard to this paragraph, plus 2 percent of the amount which has been determined to the average of total wages for 1987,
 
@@ -143,13 +143,13 @@
 
 >          the average of total wages reported to the Secretary of the Treasury for 1990 shall be deemed to be equal to the product of—
 
->             “(i) the SSA average wage index (as defined in section 215(i)(1)(G) of the Social Security Act \[[section 415(i)(1)(G) of this title][/us/usc/t42/s415/i/1/G]\] and promulgated by the Secretary) for 1989, and
+>             “(i) the SSA average wage index (as defined in section 215(i)(1)(G) of the Social Security Act \[[42 U.S.C. 415(i)(1)(G)][/us/usc/t42/s415/i/1/G]\] and promulgated by the Secretary) for 1989, and
 
 >             “(ii)
 
 >              the quotient obtained by dividing—
 
->                 “(I) the average of total wages (as defined in regulations of the Secretary and computed without regard to the limitations of section 209(a)(1) of the Social Security Act \[[section 409(a)(1) of this title][/us/usc/t42/s409/a/1]\] and by including deferred compensation amounts, within the meaning of section 209(k)(2) of such Act as added by this section) reported to the Secretary of the Treasury or his delegate for 1990, by
+>                 “(I) the average of total wages (as defined in regulations of the Secretary and computed without regard to the limitations of section 209(a)(1) of the Social Security Act \[[42 U.S.C. 409(a)(1)][/us/usc/t42/s409/a/1]\] and by including deferred compensation amounts, within the meaning of section 209(k)(2) of such Act as added by this section) reported to the Secretary of the Treasury or his delegate for 1990, by
 
 >                 “(II) the average of total wages (as so defined and computed without regard to the limitations specified in such section 209(a)(1) and by excluding deferred compensation amounts within the meaning of such section 209(k)(2)) reported to the Secretary of the Treasury or his delegate for 1989.
 
@@ -362,6 +362,7 @@
 [/us/usc/t42/s415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs415
 [/us/pl/101/239/s10208/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs10208%2Fc
 [/us/stat/103/2478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2478
+[/us/usc/t42/s430/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs430%2Fb
 [/us/pl/95/216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F216
 [/us/usc/t42/s415/i/1/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs415%2Fi%2F1%2FG
 [/us/usc/t42/s409/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs409%2Fa%2F1

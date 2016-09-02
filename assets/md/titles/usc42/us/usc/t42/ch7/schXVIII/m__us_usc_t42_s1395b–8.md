@@ -259,7 +259,7 @@
 
 >         “(2) __Individuals with chronic conditions defined.—__ 
 
->         In this section, the term ‘individuals with chronic conditions’ means an individual entitled to benefits under part A of title XVIII of the Social Security Act \[part A of this subchapter\], and enrolled under part B of such title \[part B of this subchapter\], but who is not enrolled under part C of such title \[part C of this subchapter\] who is diagnosed as having one or more chronic conditions (as defined by the Secretary), such as diabetes.
+>         In this section, the term ‘individuals with chronic conditions’ means an individual entitled to benefits under part A of title XVIII of the Social Security Act \[[42 U.S.C. 1395c][/us/usc/t42/s1395c] et seq.\], and enrolled under part B of such title \[[42 U.S.C. 1395j][/us/usc/t42/s1395j] et seq.\], but who is not enrolled under part C of such title \[[42 U.S.C. 1395w–21][/us/usc/t42/s1395w–21] et seq.\] who is diagnosed as having one or more chronic conditions (as defined by the Secretary), such as diabetes.
 
 >     “(b) __Design of Projects.—__ 
 
@@ -267,11 +267,11 @@
 
 >             “(A) __In general.—__ 
 
->             In establishing the demonstration projects under this section, the Secretary shall evaluate best practices employed by group health plans and practices under State plans for medical assistance under the medicaid program under title XIX of the Social Security Act \[subchapter XIX of this chapter\], as well as best practices in the private sector or other areas, of methods that permit patients to self-direct the provision of personal care services. The Secretary shall evaluate such practices for a 1-year period and, based on such evaluation, shall design the demonstration project.
+>             In establishing the demonstration projects under this section, the Secretary shall evaluate best practices employed by group health plans and practices under State plans for medical assistance under the medicaid program under title XIX of the Social Security Act \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\], as well as best practices in the private sector or other areas, of methods that permit patients to self-direct the provision of personal care services. The Secretary shall evaluate such practices for a 1-year period and, based on such evaluation, shall design the demonstration project.
 
 >             “(B) __Requirement for estimate of budget neutral costs.—__ 
 
->             As part of the evaluation under subparagraph (A), the Secretary shall evaluate the costs of furnishing care under the projects. The Secretary may not implement the demonstration projects under this section unless the Secretary determines that the costs of providing care to individuals with chronic conditions under the project will not exceed the costs, in the aggregate, of furnishing care to such individuals under title XVIII of the Social Security Act \[this subchapter\], that would otherwise be paid without regard to the demonstration projects for the period of the project.
+>             As part of the evaluation under subparagraph (A), the Secretary shall evaluate the costs of furnishing care under the projects. The Secretary may not implement the demonstration projects under this section unless the Secretary determines that the costs of providing care to individuals with chronic conditions under the project will not exceed the costs, in the aggregate, of furnishing care to such individuals under title XVIII of the Social Security Act \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\], that would otherwise be paid without regard to the demonstration projects for the period of the project.
 
 >         “(2) __Scope of services.—__ 
 
@@ -283,7 +283,7 @@
 
 >     “(d) __Demonstration Projects Sites.—__ 
 
->     Not later than 2 years after the date of the enactment of this Act \[Dec. 8, 2003\], the Secretary shall conduct a demonstration project in at least one area that the Secretary determines has a population of individuals entitled to benefits under part A of title XVIII of the Social Security Act \[part A of this subchapter\], and enrolled under part B of such title \[part B of this subchapter\], with a rate of incidence of diabetes that significantly exceeds the national average rate of all areas.
+>     Not later than 2 years after the date of the enactment of this Act \[Dec. 8, 2003\], the Secretary shall conduct a demonstration project in at least one area that the Secretary determines has a population of individuals entitled to benefits under part A of title XVIII of the Social Security Act \[[42 U.S.C. 1395c][/us/usc/t42/s1395c] et seq.\], and enrolled under part B of such title \[[42 U.S.C. 1395j][/us/usc/t42/s1395j] et seq.\], with a rate of incidence of diabetes that significantly exceeds the national average rate of all areas.
 
 >     “(e) __Evaluation and Report.—__ 
 
@@ -317,7 +317,7 @@
 
 [Pub. L. 108–173, title VII, § 721(b)][/us/pl/108/173/s721/b], Dec. 8, 2003, [117 Stat. 2346][/us/stat/117/2346], provided that: 
 
-> “The Secretary \[of Health and Human Services\] shall submit to Congress reports on the operation of section 1807 of the Social Security Act \[this section\], as added by subsection (a), as follows:
+> “The Secretary \[of Health and Human Services\] shall submit to Congress reports on the operation of section 1807 of the Social Security Act \[[42 U.S.C. 1395b–8][/us/usc/t42/s1395b–8]\], as added by subsection (a), as follows:
 
 >     “(1)
 
@@ -388,10 +388,18 @@
 [/us/stat/117/2341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2341
 [/us/pl/108/173/s648]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs648
 [/us/stat/117/2327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2327
+[/us/usc/t42/s1395c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395c
+[/us/usc/t42/s1395j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395j
+[/us/usc/t42/s1395w–21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%9321
+[/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
+[/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
+[/us/usc/t42/s1395c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395c
+[/us/usc/t42/s1395j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395j
 [/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
 [/us/usc/t42/s1395t]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395t
 [/us/pl/108/173/s721/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs721%2Fb
 [/us/stat/117/2346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2346
+[/us/usc/t42/s1395b–8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395b%E2%80%938
 [/us/pl/108/173/s723]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs723
 [/us/stat/117/2348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2348
 

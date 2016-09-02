@@ -207,7 +207,7 @@
 
 [Pub. L. 101–597, title II, § 203(b)][/us/pl/101/597/s203/b], Nov. 16, 1990, [104 Stat. 3027][/us/stat/104/3027], provided that: 
 
-> “With respect to any financial obligation of an individual under subsection (f) of section 225 of the Public Health Service Act \[former [section 234 of this title][/us/usc/t42/s234]\], as in effect prior to the repeal of such section by [section 408(b)(1) of Public Law 94–484][/us/pl/94/484/s408/b/1], the amendment made by subsection (a) of this section \[amending this section\] applies to any backruptcy \[sic\] proceeding in which discharge of such an obligation has not been granted before the date that is 31 days after the date of the enactment of this Act \[Nov. 16, 1990\].”
+> “With respect to any financial obligation of an individual under subsection (f) of section 225 of the Public Health Service Act \[former [42 U.S.C. 234][/us/usc/t42/s234]\], as in effect prior to the repeal of such section by [section 408(b)(1) of Public Law 94–484][/us/pl/94/484/s408/b/1], the amendment made by subsection (a) of this section \[amending this section\] applies to any backruptcy \[sic\] proceeding in which discharge of such an obligation has not been granted before the date that is 31 days after the date of the enactment of this Act \[Nov. 16, 1990\].”
 
  __Effective Date of 1988 Amendment__ 
 
@@ -229,7 +229,7 @@
 
 [Pub. L. 100–177, title III, § 308(b)][/us/pl/100/177/s308/b], Dec. 1, 1987, [101 Stat. 1006][/us/stat/101/1006], provided that: 
 
-> “The amendment made by subsection (a) \[amending this section\] applies to any bankruptcy proceeding in which discharge of an obligation under section 338E(d)(3) of the Public Health Service Act \[subsec. (d)(3) of this section\] (as redesignated by sections 201(2) and 202(e)(3) of this Act) has not been granted before the date that is 31 days after the date of enactment of this Act \[Dec. 1, 1987\].”
+> “The amendment made by subsection (a) \[amending this section\] applies to any bankruptcy proceeding in which discharge of an obligation under section 338E(d)(3) of the Public Health Service Act \[[42 U.S.C. 254][/us/usc/t42/s254]o(d)(3)\] (as redesignated by sections 201(2) and 202(e)(3) of this Act) has not been granted before the date that is 31 days after the date of enactment of this Act \[Dec. 1, 1987\].”
 
 ----------
 
@@ -340,5 +340,6 @@
 [/us/usc/t42/s254m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs254m
 [/us/pl/100/177/s308/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F177%2Fs308%2Fb
 [/us/stat/101/1006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1006
+[/us/usc/t42/s254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs254
 
 

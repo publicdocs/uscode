@@ -269,7 +269,7 @@
 
 [Section 322(c) of Pub. L. 99–660][/us/pl/99/660/s322/c], as added by [Pub. L. 101–502, § 5(g)(2)][/us/pl/101/502/s5/g/2], Nov. 3, 1990, [104 Stat. 1288][/us/stat/104/1288], and amended by [Pub. L. 102–572, title IX, § 902(b)(1)][/us/pl/102/572/s902/b/1], Oct. 29, 1992, [106 Stat. 4516][/us/stat/106/4516], provided that: 
 
-> “If the review authorized by section 2112(f) \[subsec. (f) of this section\] is held invalid because the judgment of the United States Court of Federal Claims being reviewed did not arise from a case or controversy under Article III of the Constitution, such judgment shall be reviewed by a 3-judge panel of the United States Court of Federal Claims. Such panel shall not include the judge who participated in such judgment.”
+> “If the review authorized by section 2112(f) \[[42 U.S.C. 300aa–12(f)][/us/usc/t42/s300aa–12/f]\] is held invalid because the judgment of the United States Court of Federal Claims being reviewed did not arise from a case or controversy under Article III of the Constitution, such judgment shall be reviewed by a 3-judge panel of the United States Court of Federal Claims. Such panel shall not include the judge who participated in such judgment.”
 
     \[Enactment of [section 322(c) of Pub. L. 99–660][/us/pl/99/660/s322/c] by [section 5(g)(2) of Pub. L. 101–502][/us/pl/101/502/s5/g/2], set out above, effective Nov. 14, 1986, see [section 5(h) of Pub. L. 101–502][/us/pl/101/502/s5/h], set out as an Effective Date of 1990 Amendment note under [section 300aa–11 of this title][/us/usc/t42/s300aa–11].\]
 
@@ -379,6 +379,7 @@
 [/us/stat/104/1288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1288
 [/us/pl/102/572/s902/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2Fs902%2Fb%2F1
 [/us/stat/106/4516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4516
+[/us/usc/t42/s300aa–12/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300aa%E2%80%9312%2Ff
 [/us/pl/99/660/s322/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660%2Fs322%2Fc
 [/us/pl/101/502/s5/g/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F502%2Fs5%2Fg%2F2
 [/us/pl/101/502/s5/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F502%2Fs5%2Fh

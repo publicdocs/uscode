@@ -815,7 +815,7 @@
 
 >     “(2) __Application to prior plan terminations.—__ 
 
->     Clause (ii) of section 1851(a)(3)(B) of the Social Security Act \[subsection (a)(3)(B)(ii) of this section\] (as inserted by subsection (a)) shall also apply to individuals whose enrollment in a Medicare+Choice plan was terminated or discontinued after December 31, 1998, and before the date of the enactment of this Act. In applying this paragraph, such an individual shall be treated, for purposes of part C of title XVIII of the Social Security Act \[this part\], as having discontinued enrollment in such a plan as of the date of the enactment of this Act.”
+>     Clause (ii) of section 1851(a)(3)(B) of the Social Security Act \[[42 U.S.C. 1395w–21(a)(3)(B)(ii)][/us/usc/t42/s1395w–21/a/3/B/ii]\] (as inserted by subsection (a)) shall also apply to individuals whose enrollment in a Medicare+Choice plan was terminated or discontinued after December 31, 1998, and before the date of the enactment of this Act. In applying this paragraph, such an individual shall be treated, for purposes of part C of title XVIII of the Social Security Act \[[42 U.S.C. 1395w–21][/us/usc/t42/s1395w–21] et seq.\], as having discontinued enrollment in such a plan as of the date of the enactment of this Act.”
 
  __Effective Date of 1999 Amendment__ 
 
@@ -839,13 +839,13 @@
 
 [Pub. L. 108–173, title II, § 223(b)][/us/pl/108/173/s223/b], Dec. 8, 2003, [117 Stat. 2207][/us/stat/117/2207], provided that: 
 
-> “The Secretary \[of Health and Human Services\] shall revise the regulations previously promulgated to carry out part C of title XVIII of the Social Security Act \[this part\] to carry out the provisions of this Act \[see Tables for classification\].”
+> “The Secretary \[of Health and Human Services\] shall revise the regulations previously promulgated to carry out part C of title XVIII of the Social Security Act \[[42 U.S.C. 1395w–21][/us/usc/t42/s1395w–21] et seq.\] to carry out the provisions of this Act \[see Tables for classification\].”
 
  __Construction__ 
 
 [Pub. L. 108–173, title II, § 221(b)(2)][/us/pl/108/173/s221/b/2], Dec. 8, 2003, [117 Stat. 2181][/us/stat/117/2181], provided that: 
 
-> “Nothing in part C of title XVIII of the Social Security Act \[this part\] shall be construed as preventing an MSA plan or MA private fee-for-service plan from having a service area that covers one or more MA regions or the entire nation.”
+> “Nothing in part C of title XVIII of the Social Security Act \[[42 U.S.C. 1395w–21][/us/usc/t42/s1395w–21] et seq.\] shall be construed as preventing an MSA plan or MA private fee-for-service plan from having a service area that covers one or more MA regions or the entire nation.”
 
  __No Cuts in Guaranteed Benefits.__ 
 
@@ -859,15 +859,15 @@
 
 >     “(a) __In General.—__ 
 
->     There is hereby established the Medicare Advantage program. The Medicare Advantage program shall consist of the program under part C of title XVIII of the Social Security Act \[this part\] (as amended by this Act \[see Tables for classification\]).
+>     There is hereby established the Medicare Advantage program. The Medicare Advantage program shall consist of the program under part C of title XVIII of the Social Security Act \[[42 U.S.C. 1395w–21][/us/usc/t42/s1395w–21] et seq.\] (as amended by this Act \[see Tables for classification\]).
 
 >     “(b) __References.—__ 
 
->     Subject to subsection (c), any reference to the program under part C of title XVIII of the Social Security Act \[this part\] shall be deemed a reference to the Medicare Advantage program and, with respect to such part, any reference to ‘Medicare+Choice’ is deemed a reference to ‘Medicare Advantage’ and ‘MA’.
+>     Subject to subsection (c), any reference to the program under part C of title XVIII of the Social Security Act \[[42 U.S.C. 1395w–21][/us/usc/t42/s1395w–21] et seq.\] shall be deemed a reference to the Medicare Advantage program and, with respect to such part, any reference to ‘Medicare+Choice’ is deemed a reference to ‘Medicare Advantage’ and ‘MA’.
 
 >     “(c) __Transition.—__ 
 
->     In order to provide for an orderly transition and avoid beneficiary and provider confusion, the Secretary \[of Health and Human Services\] shall provide for an appropriate transition in the use of the terms ‘Medicare+Choice’ and ‘Medicare Advantage’ (or ‘MA’) in reference to the program under part C of title XVIII of the Social Security Act \[this part\]. Such transition shall be fully completed for all materials for plan years beginning not later than January 1, 2006. Before the completion of such transition, any reference to ‘Medicare Advantage’ or ‘MA’ shall be deemed to include a reference to ‘Medicare+Choice’.”
+>     In order to provide for an orderly transition and avoid beneficiary and provider confusion, the Secretary \[of Health and Human Services\] shall provide for an appropriate transition in the use of the terms ‘Medicare+Choice’ and ‘Medicare Advantage’ (or ‘MA’) in reference to the program under part C of title XVIII of the Social Security Act \[[42 U.S.C. 1395w–21][/us/usc/t42/s1395w–21] et seq.\]. Such transition shall be fully completed for all materials for plan years beginning not later than January 1, 2006. Before the completion of such transition, any reference to ‘Medicare Advantage’ or ‘MA’ shall be deemed to include a reference to ‘Medicare+Choice’.”
 
  __Report on Impact of Increased Financial Assistance to Medicare Advantage Plans__ 
 
@@ -891,7 +891,7 @@
 
 >     “(1) __Authority to designate other plans as specialized ma plans.—__ 
 
->     During the period beginning on January 1, 2008, and ending on December 31, 2009, the Secretary of Health and Human Services shall not exercise the authority provided under section 231(d) of the Medicare Prescription Drug, Improvement, and Modernization Act of 2003 \[[Pub. L. 108–173][/us/pl/108/173]\] ([42 U.S.C. 1395w–21][/us/usc/t42/s1395w–21] note) to designate other plans as specialized MA plans for special needs individuals under part C of title XVIII of the Social Security Act \[this part\]. The preceding sentence shall not apply to plans designated as specialized MA plans for special needs individuals under such authority prior to January 1, 2008.
+>     During the period beginning on January 1, 2008, and ending on December 31, 2009, the Secretary of Health and Human Services shall not exercise the authority provided under section 231(d) of the Medicare Prescription Drug, Improvement, and Modernization Act of 2003 \[[Pub. L. 108–173][/us/pl/108/173]\] ([42 U.S.C. 1395w–21][/us/usc/t42/s1395w–21] note) to designate other plans as specialized MA plans for special needs individuals under part C of title XVIII of the Social Security Act \[[42 U.S.C. 1395w–21][/us/usc/t42/s1395w–21] et seq.\]. The preceding sentence shall not apply to plans designated as specialized MA plans for special needs individuals under such authority prior to January 1, 2008.
 
 >     “(2) __Enrollment in new plans.—__ 
 
@@ -899,7 +899,7 @@
 
 [Pub. L. 108–173, title II, § 231(d)][/us/pl/108/173/s231/d], Dec. 8, 2003, [117 Stat. 2208][/us/stat/117/2208], provided that: 
 
-> “In promulgating regulations to carry out section 1851(a)(2)(A)(ii) of the Social Security Act \[subsec. (a)(2)(A)(ii) of this section\] (as added by subsection (a)) and section 1859(b)(6) of such Act \[[section 1395w–28(b)(6) of this title][/us/usc/t42/s1395w–28/b/6]\] (as added by subsection (b)), the Secretary \[of Health and Human Services\] may provide (notwithstanding section 1859(b)(6)(A) of such Act) for the offering of specialized MA plans for special needs individuals by MA plans that disproportionately serve special needs individuals.”
+> “In promulgating regulations to carry out section 1851(a)(2)(A)(ii) of the Social Security Act \[[42 U.S.C. 1395w–21(a)(2)(A)(ii)][/us/usc/t42/s1395w–21/a/2/A/ii]\] (as added by subsection (a)) and section 1859(b)(6) of such Act \[[42 U.S.C. 1395w–28(b)(6)][/us/usc/t42/s1395w–28/b/6]\] (as added by subsection (b)), the Secretary \[of Health and Human Services\] may provide (notwithstanding section 1859(b)(6)(A) of such Act) for the offering of specialized MA plans for special needs individuals by MA plans that disproportionately serve special needs individuals.”
 
 [Pub. L. 108–173, title II, § 231(e)][/us/pl/108/173/s231/e], Dec. 8, 2003, [117 Stat. 2208][/us/stat/117/2208], provided that: 
 
@@ -933,7 +933,7 @@
 
 [Pub. L. 105–33, title IV, § 4002(c)][/us/pl/105/33/s4002/c], Aug. 5, 1997, [111 Stat. 329][/us/stat/111/329], provided that: 
 
-> “An individual who is enrolled on December 31, 1998, with an eligible organization under section 1876 of the Social Security Act ([42 U.S.C. 1395mm][/us/usc/t42/s1395mm]) shall be considered to be enrolled with that organization on January 1, 1999, under part C of title XVIII of such Act \[this part\] if that organization has a contract under that part for providing services on January 1, 1999 (unless the individual has disenrolled effective on that date).”
+> “An individual who is enrolled on December 31, 1998, with an eligible organization under section 1876 of the Social Security Act ([42 U.S.C. 1395mm][/us/usc/t42/s1395mm]) shall be considered to be enrolled with that organization on January 1, 1999, under part C of title XVIII of such Act \[[42 U.S.C. 1395w–21][/us/usc/t42/s1395w–21] et seq.\] if that organization has a contract under that part for providing services on January 1, 1999 (unless the individual has disenrolled effective on that date).”
 
  __Secretarial Submission of Legislative Proposal__ 
 
@@ -951,7 +951,7 @@
 
 >         “(1) __Establishment.—__ 
 
->         The Secretary shall implement a demonstration project (in this section referred to as the ‘project’) for the purpose of evaluating the use of a third-party contractor to conduct the Medicare+Choice plan enrollment and disenrollment functions, as described in part C of title XVIII of the Social Security Act \[this part\] (as added by section 4001 of this Act), in an area.
+>         The Secretary shall implement a demonstration project (in this section referred to as the ‘project’) for the purpose of evaluating the use of a third-party contractor to conduct the Medicare+Choice plan enrollment and disenrollment functions, as described in part C of title XVIII of the Social Security Act \[[42 U.S.C. 1395w–21][/us/usc/t42/s1395w–21] et seq.\] (as added by section 4001 of this Act), in an area.
 
 >         “(2) __Consultation.—__ 
 
@@ -979,7 +979,7 @@
 
 >     “(c) __Waiver Authority.—__ 
 
->     The Secretary shall waive compliance with the requirements of part C of title XVIII of the Social Security Act \[this part\] (as amended by section 4001 of this Act) to such extent and for such period as the Secretary determines is necessary to conduct the project.
+>     The Secretary shall waive compliance with the requirements of part C of title XVIII of the Social Security Act \[[42 U.S.C. 1395w–21][/us/usc/t42/s1395w–21] et seq.\] (as amended by section 4001 of this Act) to such extent and for such period as the Secretary determines is necessary to conduct the project.
 
 >     “(d) __Duration.—__ 
 
@@ -1159,6 +1159,8 @@
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
 [/us/pl/106/554/s1/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F6
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
+[/us/usc/t42/s1395w–21/a/3/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%9321%2Fa%2F3%2FB%2Fii
+[/us/usc/t42/s1395w–21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%9321
 [/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
 [/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
 [/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
@@ -1172,13 +1174,18 @@
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
 [/us/pl/108/173/s223/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs223%2Fb
 [/us/stat/117/2207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2207
+[/us/usc/t42/s1395w–21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%9321
 [/us/pl/108/173/s221/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs221%2Fb%2F2
 [/us/stat/117/2181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2181
+[/us/usc/t42/s1395w–21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%9321
 [/us/pl/111/148/s3602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs3602
 [/us/stat/124/538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F538
 [/us/usc/t42/s18001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs18001
 [/us/pl/108/173/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs201
 [/us/stat/117/2176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2176
+[/us/usc/t42/s1395w–21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%9321
+[/us/usc/t42/s1395w–21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%9321
+[/us/usc/t42/s1395w–21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%9321
 [/us/pl/108/173/s211/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs211%2Fg
 [/us/stat/117/2178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2178
 [/us/pl/108/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173
@@ -1194,8 +1201,10 @@
 [/us/stat/121/2496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2496
 [/us/pl/108/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173
 [/us/usc/t42/s1395w–21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%9321
+[/us/usc/t42/s1395w–21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%9321
 [/us/pl/108/173/s231/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs231%2Fd
 [/us/stat/117/2208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2208
+[/us/usc/t42/s1395w–21/a/2/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%9321%2Fa%2F2%2FA%2Fii
 [/us/usc/t42/s1395w–28/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%9328%2Fb%2F6
 [/us/pl/108/173/s231/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs231%2Fe
 [/us/stat/117/2208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2208
@@ -1214,6 +1223,7 @@
 [/us/pl/105/33/s4002/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs4002%2Fc
 [/us/stat/111/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F329
 [/us/usc/t42/s1395mm]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395mm
+[/us/usc/t42/s1395w–21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%9321
 [/us/pl/105/33/s4002/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs4002%2Ff%2F2
 [/us/stat/111/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F330
 [/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
@@ -1221,5 +1231,7 @@
 [/us/stat/111/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F337
 [/us/pl/105/33/s4018]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs4018
 [/us/stat/111/346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F346
+[/us/usc/t42/s1395w–21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%9321
+[/us/usc/t42/s1395w–21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%9321
 
 

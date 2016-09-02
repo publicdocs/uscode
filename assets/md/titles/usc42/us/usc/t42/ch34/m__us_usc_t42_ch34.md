@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 2701 to 2703.   </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2701" data-uslm-ref="/us/usc/t42/s2701">2701</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2703" data-uslm-ref="/us/usc/t42/s2703">2703.</a>  </td>
 
     <td> Repealed or Omitted.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 2704.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2704" data-uslm-ref="/us/usc/t42/s2704">2704.</a>  </td>
 
     <td> Discontinued Job Corps centers; utilization for special youth programs.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 2705, 2706.   </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2705" data-uslm-ref="/us/usc/t42/s2705">2705</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2706" data-uslm-ref="/us/usc/t42/s2706">2706.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 2707.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2707" data-uslm-ref="/us/usc/t42/s2707">2707.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 
@@ -73,7 +73,9 @@ Part A—Research, Demonstration, and Pilot Projects  </td>
 
   <tr>
 
-    <td> 2711 to 2729. Repealed.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2711" data-uslm-ref="/us/usc/t42/s2711">2711</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2729" data-uslm-ref="/us/usc/t42/s2729">2729.</a>  </td>
+
+    <td> Repealed.  </td>
 
   </tr>
 
@@ -87,7 +89,9 @@ Part B—Work and Training for Youth and Adults  </td>
 
   <tr>
 
-    <td> 2731 to 2749. Repealed or Omitted.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2731" data-uslm-ref="/us/usc/t42/s2731">2731</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2749" data-uslm-ref="/us/usc/t42/s2749">2749.</a>  </td>
+
+    <td> Repealed or Omitted.  </td>
 
   </tr>
 
@@ -101,7 +105,7 @@ Part C—Federal Work-Study Programs  </td>
 
   <tr>
 
-    <td> 2751.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2751" data-uslm-ref="/us/usc/t42/s2751">2751.</a>  </td>
 
     <td> Purpose; appropriations authorized.  </td>
 
@@ -109,7 +113,7 @@ Part C—Federal Work-Study Programs  </td>
 
   <tr>
 
-    <td> 2752.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2752" data-uslm-ref="/us/usc/t42/s2752">2752.</a>  </td>
 
     <td> Allocation of funds.  </td>
 
@@ -117,7 +121,7 @@ Part C—Federal Work-Study Programs  </td>
 
   <tr>
 
-    <td> 2753.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2753" data-uslm-ref="/us/usc/t42/s2753">2753.</a>  </td>
 
     <td> Grants for Federal work-study programs.  </td>
 
@@ -125,7 +129,7 @@ Part C—Federal Work-Study Programs  </td>
 
   <tr>
 
-    <td> 2754.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2754" data-uslm-ref="/us/usc/t42/s2754">2754.</a>  </td>
 
     <td> Sources of matching funds.  </td>
 
@@ -133,7 +137,7 @@ Part C—Federal Work-Study Programs  </td>
 
   <tr>
 
-    <td> 2755.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2755" data-uslm-ref="/us/usc/t42/s2755">2755.</a>  </td>
 
     <td> Flexible use of funds.  </td>
 
@@ -141,7 +145,7 @@ Part C—Federal Work-Study Programs  </td>
 
   <tr>
 
-    <td> 2756.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2756" data-uslm-ref="/us/usc/t42/s2756">2756.</a>  </td>
 
     <td> Job location and development programs.  </td>
 
@@ -149,7 +153,7 @@ Part C—Federal Work-Study Programs  </td>
 
   <tr>
 
-    <td> 2756a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2756a" data-uslm-ref="/us/usc/t42/s2756a">2756a.</a>  </td>
 
     <td> Additional funds to conduct community service work-study programs.  </td>
 
@@ -157,7 +161,7 @@ Part C—Federal Work-Study Programs  </td>
 
   <tr>
 
-    <td> 2756b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2756b" data-uslm-ref="/us/usc/t42/s2756b">2756b.</a>  </td>
 
     <td> Work colleges.  </td>
 
@@ -165,7 +169,7 @@ Part C—Federal Work-Study Programs  </td>
 
   <tr>
 
-    <td> 2757.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2757" data-uslm-ref="/us/usc/t42/s2757">2757.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -181,7 +185,9 @@ Part D—Special Impact Programs  </td>
 
   <tr>
 
-    <td> 2761 to 2768. Omitted or Repealed.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2761" data-uslm-ref="/us/usc/t42/s2761">2761</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2768" data-uslm-ref="/us/usc/t42/s2768">2768.</a>  </td>
+
+    <td> Omitted or Repealed.  </td>
 
   </tr>
 
@@ -195,7 +201,9 @@ Part E—Special Work and Career Development Programs  </td>
 
   <tr>
 
-    <td> 2769 to 2769f. Repealed.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2769" data-uslm-ref="/us/usc/t42/s2769">2769</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2769f" data-uslm-ref="/us/usc/t42/s2769f">2769f.</a>  </td>
+
+    <td> Repealed.  </td>
 
   </tr>
 
@@ -209,7 +217,7 @@ Part F—Duration of Programs  </td>
 
   <tr>
 
-    <td> 2771.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2771" data-uslm-ref="/us/usc/t42/s2771">2771.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -225,7 +233,7 @@ SUBCHAPTER II—URBAN AND RURAL COMMUNITY ACTION PROGRAMS  </td>
 
   <tr>
 
-    <td> 2781.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2781" data-uslm-ref="/us/usc/t42/s2781">2781.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -241,7 +249,9 @@ Part A—Community Action Agencies and Programs  </td>
 
   <tr>
 
-    <td> 2782 to 2797. Omitted or Repealed.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2782" data-uslm-ref="/us/usc/t42/s2782">2782</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2797" data-uslm-ref="/us/usc/t42/s2797">2797.</a>  </td>
+
+    <td> Omitted or Repealed.  </td>
 
   </tr>
 
@@ -255,7 +265,9 @@ Part B—Financial Assistance to Community Actions Programs and Related Activiti
 
   <tr>
 
-    <td> 2801 to 2815. Repealed.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2801" data-uslm-ref="/us/usc/t42/s2801">2801</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2815" data-uslm-ref="/us/usc/t42/s2815">2815.</a>  </td>
+
+    <td> Repealed.  </td>
 
   </tr>
 
@@ -269,7 +281,9 @@ Part C—Supplemental Programs and Activities  </td>
 
   <tr>
 
-    <td> 2821 to 2830. Omitted or Repealed.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2821" data-uslm-ref="/us/usc/t42/s2821">2821</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2830" data-uslm-ref="/us/usc/t42/s2830">2830.</a>  </td>
+
+    <td> Omitted or Repealed.  </td>
 
   </tr>
 
@@ -283,7 +297,9 @@ Part D—General and Technical Provisions  </td>
 
   <tr>
 
-    <td> 2831 to 2837. Omitted or Repealed.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2831" data-uslm-ref="/us/usc/t42/s2831">2831</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2837" data-uslm-ref="/us/usc/t42/s2837">2837.</a>  </td>
+
+    <td> Omitted or Repealed.  </td>
 
   </tr>
 
@@ -305,7 +321,9 @@ Part A—Rural Loan Program  </td>
 
   <tr>
 
-    <td> 2841, 2851 to 2856. Repealed.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2841" data-uslm-ref="/us/usc/t42/s2841">2841</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2851" data-uslm-ref="/us/usc/t42/s2851">2851</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2856" data-uslm-ref="/us/usc/t42/s2856">2856.</a>  </td>
+
+    <td> Repealed.  </td>
 
   </tr>
 
@@ -319,7 +337,9 @@ Part B—Assistance for Migrant, and Other Seasonally Employed Farmworkers and T
 
   <tr>
 
-    <td> 2861 to 2865. Repealed.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2861" data-uslm-ref="/us/usc/t42/s2861">2861</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2865" data-uslm-ref="/us/usc/t42/s2865">2865.</a>  </td>
+
+    <td> Repealed.  </td>
 
   </tr>
 
@@ -333,7 +353,7 @@ Part C—Duration of Program  </td>
 
   <tr>
 
-    <td> 2871.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2871" data-uslm-ref="/us/usc/t42/s2871">2871.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -349,7 +369,7 @@ Part D—Indemnity Payments to Dairy Farmers  </td>
 
   <tr>
 
-    <td> 2881.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2881" data-uslm-ref="/us/usc/t42/s2881">2881.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -365,7 +385,9 @@ SUBCHAPTER IV—ASSISTANCE FOR MIGRANT AND OTHER SEASONALLY EMPLOYED FARMWORKERS
 
   <tr>
 
-    <td> 2901 to 2907. Repealed.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2901" data-uslm-ref="/us/usc/t42/s2901">2901</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2907" data-uslm-ref="/us/usc/t42/s2907">2907.</a>  </td>
+
+    <td> Repealed.  </td>
 
   </tr>
 
@@ -379,7 +401,9 @@ SUBCHAPTER V—HEADSTART AND FOLLOW THROUGH  </td>
 
   <tr>
 
-    <td> 2921 to 2925. Repealed or Omitted.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2921" data-uslm-ref="/us/usc/t42/s2921">2921</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2925" data-uslm-ref="/us/usc/t42/s2925">2925.</a>  </td>
+
+    <td> Repealed or Omitted.  </td>
 
   </tr>
 
@@ -393,7 +417,9 @@ Part A—Headstart Programs  </td>
 
   <tr>
 
-    <td> 2928 to 2928n. Repealed or Omitted.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2928" data-uslm-ref="/us/usc/t42/s2928">2928</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2928n" data-uslm-ref="/us/usc/t42/s2928n">2928n.</a>  </td>
+
+    <td> Repealed or Omitted.  </td>
 
   </tr>
 
@@ -407,7 +433,9 @@ Part B—Follow Through Programs  </td>
 
   <tr>
 
-    <td> 2929 to 2929c. Repealed.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2929" data-uslm-ref="/us/usc/t42/s2929">2929</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2929c" data-uslm-ref="/us/usc/t42/s2929c">2929c.</a>  </td>
+
+    <td> Repealed.  </td>
 
   </tr>
 
@@ -421,7 +449,9 @@ Part C—General Provisions  </td>
 
   <tr>
 
-    <td> 2930 to 2930f. Repealed.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2930" data-uslm-ref="/us/usc/t42/s2930">2930</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2930f" data-uslm-ref="/us/usc/t42/s2930f">2930f.</a>  </td>
+
+    <td> Repealed.  </td>
 
   </tr>
 
@@ -435,7 +465,9 @@ Part D—Day Care Projects  </td>
 
   <tr>
 
-    <td> 2931 to 2933. Repealed.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2931" data-uslm-ref="/us/usc/t42/s2931">2931</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2933" data-uslm-ref="/us/usc/t42/s2933">2933.</a>  </td>
+
+    <td> Repealed.  </td>
 
   </tr>
 
@@ -457,7 +489,9 @@ Part A—Administration  </td>
 
   <tr>
 
-    <td> 2941 to 2951, 2961 to 2971g. Repealed.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2941" data-uslm-ref="/us/usc/t42/s2941">2941</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2951" data-uslm-ref="/us/usc/t42/s2951">2951</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2961" data-uslm-ref="/us/usc/t42/s2961">2961</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2971g" data-uslm-ref="/us/usc/t42/s2971g">2971g.</a>  </td>
+
+    <td> Repealed.  </td>
 
   </tr>
 
@@ -471,7 +505,9 @@ Part B—Coordination  </td>
 
   <tr>
 
-    <td> 2972 to 2980. Repealed.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2972" data-uslm-ref="/us/usc/t42/s2972">2972</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2980" data-uslm-ref="/us/usc/t42/s2980">2980.</a>  </td>
+
+    <td> Repealed.  </td>
 
   </tr>
 
@@ -485,7 +521,9 @@ SUBCHAPTER VII—COMMUNITY ECONOMIC DEVELOPMENT  </td>
 
   <tr>
 
-    <td> 2981 to 2981c. Repealed.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2981" data-uslm-ref="/us/usc/t42/s2981">2981</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2981c" data-uslm-ref="/us/usc/t42/s2981c">2981c.</a>  </td>
+
+    <td> Repealed.  </td>
 
   </tr>
 
@@ -499,7 +537,9 @@ Part A—Urban and Rural Special Impact Programs  </td>
 
   <tr>
 
-    <td> 2982 to 2982d. Repealed or Omitted.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2982" data-uslm-ref="/us/usc/t42/s2982">2982</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2982d" data-uslm-ref="/us/usc/t42/s2982d">2982d.</a>  </td>
+
+    <td> Repealed or Omitted.  </td>
 
   </tr>
 
@@ -513,7 +553,9 @@ Part B—Special Rural Programs  </td>
 
   <tr>
 
-    <td> 2983 to 2983b. Repealed.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2983" data-uslm-ref="/us/usc/t42/s2983">2983</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2983b" data-uslm-ref="/us/usc/t42/s2983b">2983b.</a>  </td>
+
+    <td> Repealed.  </td>
 
   </tr>
 
@@ -527,7 +569,9 @@ Part C—Development Loans to Community Economic Development Programs  </td>
 
   <tr>
 
-    <td> 2984 to 2984b. Repealed or Omitted.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2984" data-uslm-ref="/us/usc/t42/s2984">2984</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2984b" data-uslm-ref="/us/usc/t42/s2984b">2984b.</a>  </td>
+
+    <td> Repealed or Omitted.  </td>
 
   </tr>
 
@@ -541,7 +585,9 @@ Part D—Supportive Programs and Activities  </td>
 
   <tr>
 
-    <td> 2985 to 2985g. Repealed.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2985" data-uslm-ref="/us/usc/t42/s2985">2985</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2985g" data-uslm-ref="/us/usc/t42/s2985g">2985g.</a>  </td>
+
+    <td> Repealed.  </td>
 
   </tr>
 
@@ -555,7 +601,7 @@ SUBCHAPTER VIII—NATIVE AMERICAN PROGRAMS  </td>
 
   <tr>
 
-    <td> 2991.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2991" data-uslm-ref="/us/usc/t42/s2991">2991.</a>  </td>
 
     <td> Short title.  </td>
 
@@ -563,7 +609,7 @@ SUBCHAPTER VIII—NATIVE AMERICAN PROGRAMS  </td>
 
   <tr>
 
-    <td> 2991a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2991a" data-uslm-ref="/us/usc/t42/s2991a">2991a.</a>  </td>
 
     <td> Congressional statement of purpose.  </td>
 
@@ -571,7 +617,7 @@ SUBCHAPTER VIII—NATIVE AMERICAN PROGRAMS  </td>
 
   <tr>
 
-    <td> 2991b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2991b" data-uslm-ref="/us/usc/t42/s2991b">2991b.</a>  </td>
 
     <td> Financial assistance for Native American projects.  </td>
 
@@ -579,7 +625,7 @@ SUBCHAPTER VIII—NATIVE AMERICAN PROGRAMS  </td>
 
   <tr>
 
-    <td> 2991b–1.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2991b%E2%80%931" data-uslm-ref="/us/usc/t42/s2991b–1">2991b–1.</a>  </td>
 
     <td> Loan fund; demonstration project.  </td>
 
@@ -587,7 +633,7 @@ SUBCHAPTER VIII—NATIVE AMERICAN PROGRAMS  </td>
 
   <tr>
 
-    <td> 2991b–2.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2991b%E2%80%932" data-uslm-ref="/us/usc/t42/s2991b–2">2991b–2.</a>  </td>
 
     <td> Establishment of Administration for Native Americans.  </td>
 
@@ -595,7 +641,7 @@ SUBCHAPTER VIII—NATIVE AMERICAN PROGRAMS  </td>
 
   <tr>
 
-    <td> 2991b–3.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2991b%E2%80%933" data-uslm-ref="/us/usc/t42/s2991b–3">2991b–3.</a>  </td>
 
     <td> Grant program to ensure survival and continuing vitality of Native American languages.  </td>
 
@@ -603,7 +649,7 @@ SUBCHAPTER VIII—NATIVE AMERICAN PROGRAMS  </td>
 
   <tr>
 
-    <td> 2991c.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2991c" data-uslm-ref="/us/usc/t42/s2991c">2991c.</a>  </td>
 
     <td> Technical assistance and training.  </td>
 
@@ -611,7 +657,7 @@ SUBCHAPTER VIII—NATIVE AMERICAN PROGRAMS  </td>
 
   <tr>
 
-    <td> 2991d.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2991d" data-uslm-ref="/us/usc/t42/s2991d">2991d.</a>  </td>
 
     <td> Research, demonstration, and pilot projects.  </td>
 
@@ -619,7 +665,7 @@ SUBCHAPTER VIII—NATIVE AMERICAN PROGRAMS  </td>
 
   <tr>
 
-    <td> 2991d–1.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2991d%E2%80%931" data-uslm-ref="/us/usc/t42/s2991d–1">2991d–1.</a>  </td>
 
     <td> Panel review of applications for assistance.  </td>
 
@@ -627,7 +673,7 @@ SUBCHAPTER VIII—NATIVE AMERICAN PROGRAMS  </td>
 
   <tr>
 
-    <td> 2991e.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2991e" data-uslm-ref="/us/usc/t42/s2991e">2991e.</a>  </td>
 
     <td> Announcement of research, demonstration, or pilot projects.  </td>
 
@@ -635,7 +681,7 @@ SUBCHAPTER VIII—NATIVE AMERICAN PROGRAMS  </td>
 
   <tr>
 
-    <td> 2991f.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2991f" data-uslm-ref="/us/usc/t42/s2991f">2991f.</a>  </td>
 
     <td> Submission of plans to State and local officials.  </td>
 
@@ -643,7 +689,7 @@ SUBCHAPTER VIII—NATIVE AMERICAN PROGRAMS  </td>
 
   <tr>
 
-    <td> 2991g.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2991g" data-uslm-ref="/us/usc/t42/s2991g">2991g.</a>  </td>
 
     <td> Records and audits.  </td>
 
@@ -651,7 +697,7 @@ SUBCHAPTER VIII—NATIVE AMERICAN PROGRAMS  </td>
 
   <tr>
 
-    <td> 2991h.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2991h" data-uslm-ref="/us/usc/t42/s2991h">2991h.</a>  </td>
 
     <td> Appeals, notice, and hearing.  </td>
 
@@ -659,7 +705,7 @@ SUBCHAPTER VIII—NATIVE AMERICAN PROGRAMS  </td>
 
   <tr>
 
-    <td> 2992.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2992" data-uslm-ref="/us/usc/t42/s2992">2992.</a>  </td>
 
     <td> Evaluation of projects.  </td>
 
@@ -667,7 +713,7 @@ SUBCHAPTER VIII—NATIVE AMERICAN PROGRAMS  </td>
 
   <tr>
 
-    <td> 2992–1.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2992%E2%80%931" data-uslm-ref="/us/usc/t42/s2992–1">2992–1.</a>  </td>
 
     <td> Annual report.  </td>
 
@@ -675,7 +721,7 @@ SUBCHAPTER VIII—NATIVE AMERICAN PROGRAMS  </td>
 
   <tr>
 
-    <td> 2992a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2992a" data-uslm-ref="/us/usc/t42/s2992a">2992a.</a>  </td>
 
     <td> Labor standards.  </td>
 
@@ -683,7 +729,7 @@ SUBCHAPTER VIII—NATIVE AMERICAN PROGRAMS  </td>
 
   <tr>
 
-    <td> 2992a–1.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2992a%E2%80%931" data-uslm-ref="/us/usc/t42/s2992a–1">2992a–1.</a>  </td>
 
     <td> Staff.  </td>
 
@@ -691,7 +737,7 @@ SUBCHAPTER VIII—NATIVE AMERICAN PROGRAMS  </td>
 
   <tr>
 
-    <td> 2992b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2992b" data-uslm-ref="/us/usc/t42/s2992b">2992b.</a>  </td>
 
     <td> Administration.  </td>
 
@@ -699,7 +745,7 @@ SUBCHAPTER VIII—NATIVE AMERICAN PROGRAMS  </td>
 
   <tr>
 
-    <td> 2992b–1.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2992b%E2%80%931" data-uslm-ref="/us/usc/t42/s2992b–1">2992b–1.</a>  </td>
 
     <td> Additional requirements applicable to rulemaking.  </td>
 
@@ -707,7 +753,7 @@ SUBCHAPTER VIII—NATIVE AMERICAN PROGRAMS  </td>
 
   <tr>
 
-    <td> 2992c.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2992c" data-uslm-ref="/us/usc/t42/s2992c">2992c.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -715,7 +761,7 @@ SUBCHAPTER VIII—NATIVE AMERICAN PROGRAMS  </td>
 
   <tr>
 
-    <td> 2992d.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2992d" data-uslm-ref="/us/usc/t42/s2992d">2992d.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 
@@ -723,7 +769,9 @@ SUBCHAPTER VIII—NATIVE AMERICAN PROGRAMS  </td>
 
   <tr>
 
-    <td> 2993 to 2994d. Repealed.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2993" data-uslm-ref="/us/usc/t42/s2993">2993</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2994d" data-uslm-ref="/us/usc/t42/s2994d">2994d.</a>  </td>
+
+    <td> Repealed.  </td>
 
   </tr>
 
@@ -737,7 +785,9 @@ SUBCHAPTER IX—EVALUATION  </td>
 
   <tr>
 
-    <td> 2995 to 2995d. Repealed or Omitted.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2995" data-uslm-ref="/us/usc/t42/s2995">2995</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2995d" data-uslm-ref="/us/usc/t42/s2995d">2995d.</a>  </td>
+
+    <td> Repealed or Omitted.  </td>
 
   </tr>
 
@@ -751,7 +801,7 @@ SUBCHAPTER X—LEGAL SERVICES CORPORATION  </td>
 
   <tr>
 
-    <td> 2996.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2996" data-uslm-ref="/us/usc/t42/s2996">2996.</a>  </td>
 
     <td> Congressional findings and declaration of purpose.  </td>
 
@@ -759,7 +809,7 @@ SUBCHAPTER X—LEGAL SERVICES CORPORATION  </td>
 
   <tr>
 
-    <td> 2996a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2996a" data-uslm-ref="/us/usc/t42/s2996a">2996a.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -767,7 +817,7 @@ SUBCHAPTER X—LEGAL SERVICES CORPORATION  </td>
 
   <tr>
 
-    <td> 2996b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2996b" data-uslm-ref="/us/usc/t42/s2996b">2996b.</a>  </td>
 
     <td> Legal Services Corporation.  </td>
 
@@ -775,7 +825,7 @@ SUBCHAPTER X—LEGAL SERVICES CORPORATION  </td>
 
   <tr>
 
-    <td> 2996c.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2996c" data-uslm-ref="/us/usc/t42/s2996c">2996c.</a>  </td>
 
     <td> Board of Directors.  </td>
 
@@ -783,7 +833,7 @@ SUBCHAPTER X—LEGAL SERVICES CORPORATION  </td>
 
   <tr>
 
-    <td> 2996d.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2996d" data-uslm-ref="/us/usc/t42/s2996d">2996d.</a>  </td>
 
     <td> Officers and employees.  </td>
 
@@ -791,7 +841,7 @@ SUBCHAPTER X—LEGAL SERVICES CORPORATION  </td>
 
   <tr>
 
-    <td> 2996e.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2996e" data-uslm-ref="/us/usc/t42/s2996e">2996e.</a>  </td>
 
     <td> Powers, duties, and limitations.  </td>
 
@@ -799,7 +849,7 @@ SUBCHAPTER X—LEGAL SERVICES CORPORATION  </td>
 
   <tr>
 
-    <td> 2996f.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2996f" data-uslm-ref="/us/usc/t42/s2996f">2996f.</a>  </td>
 
     <td> Grants and contracts.  </td>
 
@@ -807,7 +857,7 @@ SUBCHAPTER X—LEGAL SERVICES CORPORATION  </td>
 
   <tr>
 
-    <td> 2996g.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2996g" data-uslm-ref="/us/usc/t42/s2996g">2996g.</a>  </td>
 
     <td> Records and reports.  </td>
 
@@ -815,7 +865,7 @@ SUBCHAPTER X—LEGAL SERVICES CORPORATION  </td>
 
   <tr>
 
-    <td> 2996h.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2996h" data-uslm-ref="/us/usc/t42/s2996h">2996h.</a>  </td>
 
     <td> Audits.  </td>
 
@@ -823,7 +873,7 @@ SUBCHAPTER X—LEGAL SERVICES CORPORATION  </td>
 
   <tr>
 
-    <td> 2996i.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2996i" data-uslm-ref="/us/usc/t42/s2996i">2996i.</a>  </td>
 
     <td> Financing.  </td>
 
@@ -831,7 +881,7 @@ SUBCHAPTER X—LEGAL SERVICES CORPORATION  </td>
 
   <tr>
 
-    <td> 2996j.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2996j" data-uslm-ref="/us/usc/t42/s2996j">2996j.</a>  </td>
 
     <td> Special limitations.  </td>
 
@@ -839,7 +889,7 @@ SUBCHAPTER X—LEGAL SERVICES CORPORATION  </td>
 
   <tr>
 
-    <td> 2996k.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2996k" data-uslm-ref="/us/usc/t42/s2996k">2996k.</a>  </td>
 
     <td> Coordination.  </td>
 
@@ -847,7 +897,7 @@ SUBCHAPTER X—LEGAL SERVICES CORPORATION  </td>
 
   <tr>
 
-    <td> 2996l.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2996" data-uslm-ref="/us/usc/t42/s2996">2996</a>l.  </td>
 
     <td> Reservation of right to repeal, alter, or amend.  </td>
 

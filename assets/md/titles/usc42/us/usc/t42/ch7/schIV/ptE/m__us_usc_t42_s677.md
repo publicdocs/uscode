@@ -381,7 +381,7 @@
 
 [Pub. L. 101–508, title V, § 5073(b)][/us/pl/101/508/s5073/b], Nov. 5, 1990, [104 Stat. 1388–233][/us/stat/104/1388-233], provided that: 
 
-> “The amendments made by subsection (a) \[amending this section\] shall apply to payments made under part E of title IV of the Social Security Act \[part E of this subchapter\] for fiscal years beginning in or after fiscal year 1991.”
+> “The amendments made by subsection (a) \[amending this section\] shall apply to payments made under part E of title IV of the Social Security Act \[[42 U.S.C. 670][/us/usc/t42/s670] et seq.\] for fiscal years beginning in or after fiscal year 1991.”
 
  __Effective Date of 1989 Amendment__ 
 
@@ -409,7 +409,7 @@
 
 [Pub. L. 107–133, title II, § 202(b)][/us/pl/107/133/s202/b], Jan. 17, 2002, [115 Stat. 2425][/us/stat/115/2425], provided that: 
 
-> “Notwithstanding section 477(d)(3) of the Social Security Act \[subsec. (d)(3) of this section\], payments made to a State under section 477 of such Act for fiscal year 2000 shall remain available for expenditure by the State through fiscal year 2002.”
+> “Notwithstanding section 477(d)(3) of the Social Security Act \[[42 U.S.C. 677(d)(3)][/us/usc/t42/s677/d/3]\], payments made to a State under section 477 of such Act for fiscal year 2000 shall remain available for expenditure by the State through fiscal year 2002.”
 
  __Findings__ 
 
@@ -433,7 +433,7 @@
 
 >     “(1) __Study.—__ 
 
->     The Secretary of Health and Human Services shall study the programs authorized under section 477 of the Social Security Act \[this section\] for the purposes of evaluating the effectiveness of the programs. The study shall include a comparison of outcomes of children who participated in the programs and a comparable group of children who did not participate in the programs.
+>     The Secretary of Health and Human Services shall study the programs authorized under section 477 of the Social Security Act \[[42 U.S.C. 677][/us/usc/t42/s677]\] for the purposes of evaluating the effectiveness of the programs. The study shall include a comparison of outcomes of children who participated in the programs and a comparable group of children who did not participate in the programs.
 
 >     “(2) __Report.—__ 
 
@@ -531,6 +531,7 @@
 [/us/stat/107/657]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F657
 [/us/pl/101/508/s5073/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs5073%2Fb
 [/us/stat/104/1388-233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-233
+[/us/usc/t42/s670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs670
 [/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
 [/us/pl/101/239/s8002/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs8002%2Fe
 [/us/usc/t42/s674]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs674
@@ -545,9 +546,11 @@
 [/us/usc/t42/s671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs671
 [/us/pl/107/133/s202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F133%2Fs202%2Fb
 [/us/stat/115/2425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F2425
+[/us/usc/t42/s677/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs677%2Fd%2F3
 [/us/pl/106/169/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F169%2Fs101%2Fa
 [/us/stat/113/1823]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1823
 [/us/pl/101/239/s8002/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs8002%2Fd
 [/us/stat/103/2453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2453
+[/us/usc/t42/s677]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs677
 
 

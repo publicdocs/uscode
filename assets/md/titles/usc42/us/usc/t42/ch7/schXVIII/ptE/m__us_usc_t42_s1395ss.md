@@ -1621,7 +1621,7 @@
 
 >         (A)
 
->          Clause (vi) of section 1882(d)(3)(A) of the Social Security Act \[subsec. (d)(3)(A)(vi) of this section\], as added by subsection (a), shall only apply to individuals applying for—
+>          Clause (vi) of section 1882(d)(3)(A) of the Social Security Act \[[42 U.S.C. 1395ss(d)(3)(A)(vi)][/us/usc/t42/s1395ss/d/3/A/vi]\], as added by subsection (a), shall only apply to individuals applying for—
 
 >             “(i) a health insurance policy described in section 1882(d)(3)(A)(iv) of such Act (as added by subsection (a)), after the date of the enactment of this Act \[Aug. 21, 1996\], or
 
@@ -1635,11 +1635,11 @@
 
 > “The amendments made by this section \[amending this section and sections 1320c–3, 1395b–2, and 1395b–4 of this title, repealing [section 1395zz of this title][/us/usc/t42/s1395zz], and enacting and amending provisions set out as notes below\] shall be effective as if included in the enactment of OBRA–1990 \[[Pub. L. 101–508][/us/pl/101/508]\]; except that—
 
->     “(1) the amendments made by subsection (d)(1) \[amending this section\] shall take effect on the date of the enactment of this Act \[Oct. 31, 1994\], but no penalty shall be imposed under section 1882(d)(3)(A) of the Social Security Act \[subsec. (d)(3)(A) of this section\] (for an action occurring after the effective date of the amendments made by section 4354 of OBRA–1990 \[see [section 4354(c) of Pub. L. 101–508][/us/pl/101/508/s4354/c], set out as an Effective Date of 1990 Amendment note below\] and before the date of the enactment of this Act) with respect to the sale or issuance of a policy which is not unlawful under section 1882(d)(3)(A)(i)(II) of the Social Security Act \[subsec. (d)(3)(A)(i)(II) of this section\] (as amended by this section);
+>     “(1) the amendments made by subsection (d)(1) \[amending this section\] shall take effect on the date of the enactment of this Act \[Oct. 31, 1994\], but no penalty shall be imposed under section 1882(d)(3)(A) of the Social Security Act \[[42 U.S.C. 1395ss(d)(3)(A)][/us/usc/t42/s1395ss/d/3/A]\] (for an action occurring after the effective date of the amendments made by section 4354 of OBRA–1990 \[see [section 4354(c) of Pub. L. 101–508][/us/pl/101/508/s4354/c], set out as an Effective Date of 1990 Amendment note below\] and before the date of the enactment of this Act) with respect to the sale or issuance of a policy which is not unlawful under section 1882(d)(3)(A)(i)(II) of the Social Security Act \[[42 U.S.C. 1395ss(d)(3)(A)(i)(II)][/us/usc/t42/s1395ss/d/3/A/i/II]\] (as amended by this section);
 
 >     “(2) the amendments made by subsection (d)(2)(A) \[amending this section\] and by subparagraphs (A), (B), and (E) of subsection (e)(1) \[amending this section\] shall be effective on the date specified in subsection (m)(4) \[set out as a note below\]; and
 
->     “(3) the amendment made by subsection (g)(2) \[amending this section\] shall take effect on January 1, 1995, and shall apply to individuals who attain 65 years of age or older on or after the effective date of section 1882(s)(2) of the Social Security Act \[subsec. (s)(2) of this section, for effective date see [section 4357(b) of Pub. L. 101–508][/us/pl/101/508/s4357/b], set out as an Effective Date of 1990 Amendment note below\] (and, in the case of individuals who attained 65 years of age after such effective date and before January 1, 1995, and who were not covered under such section before January 1, 1995, the 6-month period specified in that section shall begin January 1, 1995).”
+>     “(3) the amendment made by subsection (g)(2) \[amending this section\] shall take effect on January 1, 1995, and shall apply to individuals who attain 65 years of age or older on or after the effective date of section 1882(s)(2) of the Social Security Act \[[42 U.S.C. 1395ss(s)(2)][/us/usc/t42/s1395ss/s/2], for effective date see [section 4357(b) of Pub. L. 101–508][/us/pl/101/508/s4357/b], set out as an Effective Date of 1990 Amendment note below\] (and, in the case of individuals who attained 65 years of age after such effective date and before January 1, 1995, and who were not covered under such section before January 1, 1995, the 6-month period specified in that section shall begin January 1, 1995).”
 
  __Effective Date of 1990 Amendment__ 
 
@@ -1653,11 +1653,11 @@
 
 [Pub. L. 101–508, title IV, § 4355(d)][/us/pl/101/508/s4355/d], Nov. 5, 1990, [104 Stat. 1388–134][/us/stat/104/1388-134], as amended by [Pub. L. 103–432, title I, § 171(e)(3)][/us/pl/103/432/s171/e/3], Oct. 31, 1994, [108 Stat. 4449][/us/stat/108/4449], provided that: 
 
-> “The amendments made by this section \[amending this section\] shall apply to policies issued or renewed (or otherwise providing coverage after the date described in section 1882(p)(1)(C) of the Social Security Act \[subsec. (p)(1)(C) of this section\]) on or after the date specified in section 1882(p)(1)(C) of the Social Security Act.”
+> “The amendments made by this section \[amending this section\] shall apply to policies issued or renewed (or otherwise providing coverage after the date described in section 1882(p)(1)(C) of the Social Security Act \[[42 U.S.C. 1395ss(p)(1)(C)][/us/usc/t42/s1395ss/p/1/C]\]) on or after the date specified in section 1882(p)(1)(C) of the Social Security Act.”
 
 [Pub. L. 101–508, title IV, § 4356(b)][/us/pl/101/508/s4356/b], Nov. 5, 1990, [104 Stat. 1388–134][/us/stat/104/1388-134], as amended by [Pub. L. 103–432, title I, § 171(f)(2)][/us/pl/103/432/s171/f/2], Oct. 31, 1994, [108 Stat. 4449][/us/stat/108/4449], provided that: 
 
-> “The amendment made by subsection (a) \[amending this section\] shall take effect on the date specified in section 1882(p)(1)(C) of the Social Security Act \[subsec. (p)(1)(C) of this section\].”
+> “The amendment made by subsection (a) \[amending this section\] shall take effect on the date specified in section 1882(p)(1)(C) of the Social Security Act \[[42 U.S.C. 1395ss(p)(1)(C)][/us/usc/t42/s1395ss/p/1/C]\].”
 
 [Pub. L. 101–508, title IV, § 4357(b)][/us/pl/101/508/s4357/b], Nov. 5, 1990, [104 Stat. 1388–135][/us/stat/104/1388-135], provided that: 
 
@@ -1677,11 +1677,11 @@
 
 >     “(1) Except as provided in paragraphs (2) and (3), the amendments made by this section \[amending this section\] shall take effect on the date of the enactment of this Act \[July 1, 1988\].
 
->     “(2) The amendments made by subsections (a) and (b) \[amending this section\] shall become effective on the date specified in subsection (k)(1)(B) or (k)(2)(B) of section 1882 of the Social Security Act \[subsec. (k)(1)(B) or (k)(2)(B) of this section\] (as added by subsection (d) of this section).
+>     “(2) The amendments made by subsections (a) and (b) \[amending this section\] shall become effective on the date specified in subsection (k)(1)(B) or (k)(2)(B) of section 1882 of the Social Security Act \[[42 U.S.C. 1395ss(k)(1)(B)][/us/usc/t42/s1395ss/k/1/B], (2)(B)\] (as added by subsection (d) of this section).
 
 >     “(3) The amendment made by subsection (e) \[amending this section\] shall apply to medicare supplemental policies as of January 1, 1989, with respect to advertising used on or after such date.
 
->     “(4) The Secretary of Health and Human Services shall provide for the reappointment of members to the Supplemental Health Insurance Panel (under section 1882(b)(2) of the Social Security Act \[subsec. (b)(2) of this section\]) by not later than 90 days after the date of the enactment of this Act \[July 1, 1988\].”
+>     “(4) The Secretary of Health and Human Services shall provide for the reappointment of members to the Supplemental Health Insurance Panel (under section 1882(b)(2) of the Social Security Act \[[42 U.S.C. 1395ss(b)(2)][/us/usc/t42/s1395ss/b/2]\]) by not later than 90 days after the date of the enactment of this Act \[July 1, 1988\].”
 
     Except as specifically provided in [section 411 of Pub. L. 100–360][/us/pl/100/360/s411], amendment by section 411(i)(1)(B), (C) of [Pub. L. 100–360][/us/pl/100/360], as it relates to a provision in the Omnibus Budget Reconciliation Act of 1987, [Pub. L. 100–203][/us/pl/100/203], effective as if included in the enactment of that provision in [Pub. L. 100–203][/us/pl/100/203], see [section 411(a) of Pub. L. 100–360][/us/pl/100/360/s411/a], set out as a Reference to OBRA; Effective Date note under [section 106 of Title 1][/us/usc/t1/s106], General Provisions.
 
@@ -1697,7 +1697,7 @@
 
 >      In the case of a State which the Secretary of Health and Human Services identifies as—
 
->         “(i) requiring State legislation (other than legislation appropriating funds) in order for medicare supplemental policies to be changed to meet the requirements of section 1882(c)(3) of the Social Security Act \[subsec. (c)(3) of this section\], and
+>         “(i) requiring State legislation (other than legislation appropriating funds) in order for medicare supplemental policies to be changed to meet the requirements of section 1882(c)(3) of the Social Security Act \[[42 U.S.C. 1395ss(c)(3)][/us/usc/t42/s1395ss/c/3]\], and
 
 >         “(ii) having a legislature which is not scheduled to meet in 1988 in a legislative session in which such legislation may be considered or which has not enacted such legislation before July 1, 1988,
 
@@ -1709,7 +1709,7 @@
 
 [Pub. L. 96–265, title V, § 507(b)][/us/pl/96/265/s507/b], June 9, 1980, [94 Stat. 481][/us/stat/94/481], provided that: 
 
-> “The amendment made by this section \[enacting this section\] shall become effective on the date of the enactment of this Act \[June 9, 1980\], except that the provisions of paragraph (4) of section 1882(d) of the Social Security Act \[subsec. (d)(4) of this section\] (as added by this section) shall become effective on July 1, 1982.”
+> “The amendment made by this section \[enacting this section\] shall become effective on the date of the enactment of this Act \[June 9, 1980\], except that the provisions of paragraph (4) of section 1882(d) of the Social Security Act \[[42 U.S.C. 1395ss(d)(4)][/us/usc/t42/s1395ss/d/4]\] (as added by this section) shall become effective on July 1, 1982.”
 
  __Rule of Construction__ 
 
@@ -1717,7 +1717,7 @@
 
 >     “(1) __In general.—__ 
 
->     Nothing in this Act \[see Tables for classification\] shall be construed to require an issuer of a medicare supplemental policy under section 1882 of the Social Security Act ([42 U.S.C. 1395rr][/us/usc/t42/s1395rr]) \[[42 U.S.C. 1395ss][/us/usc/t42/s1395ss]\] to participate as a PDP sponsor under part D of title XVIII of such Act \[part D of this subchapter\], as added by section 101, as a condition for issuing such policy.
+>     Nothing in this Act \[see Tables for classification\] shall be construed to require an issuer of a medicare supplemental policy under section 1882 of the Social Security Act ([42 U.S.C. 1395rr][/us/usc/t42/s1395rr]) \[[42 U.S.C. 1395ss][/us/usc/t42/s1395ss]\] to participate as a PDP sponsor under part D of title XVIII of such Act \[[42 U.S.C. 1395w–101][/us/usc/t42/s1395w–101] et seq.\], as added by section 101, as a condition for issuing such policy.
 
 >     “(2) __Prohibition on state requirement.—__ 
 
@@ -1777,7 +1777,7 @@
 
 [Pub. L. 105–33, title IV, § 4031(f)][/us/pl/105/33/s4031/f], Aug. 5, 1997, [111 Stat. 359][/us/stat/111/359], provided that: 
 
-> “For purposes of apply \[sic\] section 1882 of the Social Security Act ([42 U.S.C. 1395ss][/us/usc/t42/s1395ss]) and regulations referred to in subsection (e) \[set out as a note above\], copayment amounts provided under section 1833(t)(5) of such Act \[section 1395l(t)(5) of this title\] with respect to hospital outpatient department services shall be treated under medicare supplemental policies in the same manner as coinsurance with respect to such services.”
+> “For purposes of apply \[sic\] section 1882 of the Social Security Act ([42 U.S.C. 1395ss][/us/usc/t42/s1395ss]) and regulations referred to in subsection (e) \[set out as a note above\], copayment amounts provided under section 1833(t)(5) of such Act \[[42 U.S.C. 1395][/us/usc/t42/s1395]l(t)(5)\] with respect to hospital outpatient department services shall be treated under medicare supplemental policies in the same manner as coinsurance with respect to such services.”
 
  __Transition Provisions__ 
 
@@ -1817,11 +1817,11 @@
 
 >     “(1) __In general.—__ 
 
->     If the Secretary of Health and Human Services identifies a State as requiring a change to its statutes or regulations to conform its regulatory program to the changes made by this section \[amending this section\], the State regulatory program shall not be considered to be out of compliance with the requirements of section 1882 of the Social Security Act \[this section\] due solely to failure to make such change until the date specified in paragraph (4).
+>     If the Secretary of Health and Human Services identifies a State as requiring a change to its statutes or regulations to conform its regulatory program to the changes made by this section \[amending this section\], the State regulatory program shall not be considered to be out of compliance with the requirements of section 1882 of the Social Security Act \[[42 U.S.C. 1395ss][/us/usc/t42/s1395ss]\] due solely to failure to make such change until the date specified in paragraph (4).
 
 >     “(2) __NAIC standards.—__ 
 
->     If, within 9 months after the date of the enactment of this Act \[Aug. 5, 1997\], the National Association of Insurance Commissioners (in this subsection referred to as the ‘NAIC’) modifies its NAIC Model Regulation relating to section 1882 of the Social Security Act \[this section\] (referred to in such section as the 1991 NAIC Model Regulation, as modified pursuant to section 171(m)(2) of the Social Security Act Amendments of 1994 ([Public Law 103–432][/us/pl/103/432]) \[set out as a note below\] and as modified pursuant to section 1882(d)(3)(A)(vi)(IV) of the Social Security Act \[subsec. (d)(3)(A)(vi)(IV) of this section\], as added by section 271(a) of the Health Insurance Portability and Accountability Act of 1996 ([Public Law 104–191][/us/pl/104/191]) to conform to the amendments made by this section \[amending this section\], such revised regulation incorporating the modifications shall be considered to be the applicable NAIC model regulation (including the revised NAIC model regulation and the 1991 NAIC Model Regulation) for the purposes of such section.
+>     If, within 9 months after the date of the enactment of this Act \[Aug. 5, 1997\], the National Association of Insurance Commissioners (in this subsection referred to as the ‘NAIC’) modifies its NAIC Model Regulation relating to section 1882 of the Social Security Act \[[42 U.S.C. 1395ss][/us/usc/t42/s1395ss]\] (referred to in such section as the 1991 NAIC Model Regulation, as modified pursuant to section 171(m)(2) of the Social Security Act Amendments of 1994 ([Public Law 103–432][/us/pl/103/432]) \[set out as a note below\] and as modified pursuant to section 1882(d)(3)(A)(vi)(IV) of the Social Security Act \[[42 U.S.C. 1395ss(d)(3)(A)(vi)(IV)][/us/usc/t42/s1395ss/d/3/A/vi/IV]\], as added by section 271(a) of the Health Insurance Portability and Accountability Act of 1996 ([Public Law 104–191][/us/pl/104/191]) to conform to the amendments made by this section \[amending this section\], such revised regulation incorporating the modifications shall be considered to be the applicable NAIC model regulation (including the revised NAIC model regulation and the 1991 NAIC Model Regulation) for the purposes of such section.
 
 >     “(3) __Secretary standards.—__ 
 
@@ -1851,7 +1851,7 @@
 
 >     “(1) __No penalties.—__ 
 
->     Subject to paragraph (3), no criminal or civil money penalty may be imposed under section 1882(d)(3)(A) of the Social Security Act \[subsec. (d)(3)(A) of this section\] for any act or omission that occurred during the transition period (as defined in paragraph (4)) and that relates to any health insurance policy that is described in clause (iv) or (v) of such section (as amended by subsection (a)).
+>     Subject to paragraph (3), no criminal or civil money penalty may be imposed under section 1882(d)(3)(A) of the Social Security Act \[[42 U.S.C. 1395ss(d)(3)(A)][/us/usc/t42/s1395ss/d/3/A]\] for any act or omission that occurred during the transition period (as defined in paragraph (4)) and that relates to any health insurance policy that is described in clause (iv) or (v) of such section (as amended by subsection (a)).
 
 >     “(2) __Limitation on legal action.—__ 
 
@@ -1873,7 +1873,7 @@
 
 [Pub. L. 103–432, title I, § 171(d)(3)(C)][/us/pl/103/432/s171/d/3/C], Oct. 31, 1994, [108 Stat. 4448][/us/stat/108/4448], provided that: 
 
-> “The requirement of a disclosure under section 1882(d)(3)(C)(ii) of the Social Security Act \[subsec. (d)(3)(C)(ii) of this section\] shall not apply to an application made for a policy or plan before 60 days after the date the Secretary of Health and Human Services publishes or promulgates all the statements under section 1882(d)(3)(D) of such Act.”
+> “The requirement of a disclosure under section 1882(d)(3)(C)(ii) of the Social Security Act \[[42 U.S.C. 1395ss(d)(3)(C)(ii)][/us/usc/t42/s1395ss/d/3/C/ii]\] shall not apply to an application made for a policy or plan before 60 days after the date the Secretary of Health and Human Services publishes or promulgates all the statements under section 1882(d)(3)(D) of such Act.”
 
  __State Regulatory Programs__ 
 
@@ -1881,7 +1881,7 @@
 
 >     “(1) __In general.—__ 
 
->     If the Secretary of Health and Human Services identifies a State as requiring a change to its statutes or regulations to conform its regulatory program to the changes made by this section \[amending this section and sections 1320c–3, 1395b–2, and 1395b–4 of this title, repealing [section 1395zz of this title][/us/usc/t42/s1395zz], and enacting and amending provisions set out as notes under this section\], the State regulatory program shall not be considered to be out of compliance with the requirements of section 1882 of the Social Security Act \[this section\] due solely to failure to make such change until the date specified in paragraph (4).
+>     If the Secretary of Health and Human Services identifies a State as requiring a change to its statutes or regulations to conform its regulatory program to the changes made by this section \[amending this section and sections 1320c–3, 1395b–2, and 1395b–4 of this title, repealing [section 1395zz of this title][/us/usc/t42/s1395zz], and enacting and amending provisions set out as notes under this section\], the State regulatory program shall not be considered to be out of compliance with the requirements of section 1882 of the Social Security Act \[[42 U.S.C. 1395ss][/us/usc/t42/s1395ss]\] due solely to failure to make such change until the date specified in paragraph (4).
 
 >     “(2) __NAIC standards.—__ 
 
@@ -2250,11 +2250,15 @@
 [/us/pl/104/191/s271/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2Fs271%2Fd
 [/us/stat/110/2036]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2036
 [/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/usc/t42/s1395ss/d/3/A/vi]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ss%2Fd%2F3%2FA%2Fvi
 [/us/pl/103/432/s171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432%2Fs171
 [/us/stat/108/4451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4451
 [/us/usc/t42/s1395zz]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395zz
 [/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/usc/t42/s1395ss/d/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ss%2Fd%2F3%2FA
 [/us/pl/101/508/s4354/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs4354%2Fc
+[/us/usc/t42/s1395ss/d/3/A/i/II]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ss%2Fd%2F3%2FA%2Fi%2FII
+[/us/usc/t42/s1395ss/s/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ss%2Fs%2F2
 [/us/pl/101/508/s4357/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs4357%2Fb
 [/us/pl/101/508/s4353/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs4353%2Fd%2F2
 [/us/stat/104/1388-130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-130
@@ -2264,10 +2268,12 @@
 [/us/stat/104/1388-134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-134
 [/us/pl/103/432/s171/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432%2Fs171%2Fe%2F3
 [/us/stat/108/4449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4449
+[/us/usc/t42/s1395ss/p/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ss%2Fp%2F1%2FC
 [/us/pl/101/508/s4356/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs4356%2Fb
 [/us/stat/104/1388-134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-134
 [/us/pl/103/432/s171/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432%2Fs171%2Ff%2F2
 [/us/stat/108/4449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4449
+[/us/usc/t42/s1395ss/p/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ss%2Fp%2F1%2FC
 [/us/pl/101/508/s4357/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs4357%2Fb
 [/us/stat/104/1388-135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-135
 [/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
@@ -2282,6 +2288,8 @@
 [/us/stat/102/2415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2415
 [/us/pl/101/234/s203/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F234%2Fs203%2Fd
 [/us/stat/103/1985]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1985
+[/us/usc/t42/s1395ss/k/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ss%2Fk%2F1%2FB
+[/us/usc/t42/s1395ss/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ss%2Fb%2F2
 [/us/pl/100/360/s411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360%2Fs411
 [/us/pl/100/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360
 [/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
@@ -2297,15 +2305,18 @@
 [/us/stat/102/788]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F788
 [/us/pl/100/485/s608/d/24/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F485%2Fs608%2Fd%2F24%2FA
 [/us/stat/102/2421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2421
+[/us/usc/t42/s1395ss/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ss%2Fc%2F3
 [/us/pl/100/93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F93
 [/us/pl/100/93/s15/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F93%2Fs15%2Fa
 [/us/usc/t42/s1320a–7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320a%E2%80%937
 [/us/pl/96/265/s507/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F265%2Fs507%2Fb
 [/us/stat/94/481]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F481
+[/us/usc/t42/s1395ss/d/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ss%2Fd%2F4
 [/us/pl/108/173/s104/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs104%2Fc
 [/us/stat/117/2165]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2165
 [/us/usc/t42/s1395rr]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395rr
 [/us/usc/t42/s1395ss]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ss
+[/us/usc/t42/s1395w–101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%93101
 [/us/usc/t42/s1395rr]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395rr
 [/us/usc/t42/s1395ss]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ss
 [/us/pl/110/275/s104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F275%2Fs104%2Fa
@@ -2321,22 +2332,29 @@
 [/us/pl/105/33/s4031/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs4031%2Ff
 [/us/stat/111/359]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F359
 [/us/usc/t42/s1395ss]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ss
+[/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
 [/us/pl/110/233/s104/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F233%2Fs104%2Fd
 [/us/stat/122/903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F903
 [/us/usc/t42/s1395ss]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ss
 [/us/usc/t42/s1395ss]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ss
 [/us/pl/105/33/s4031/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs4031%2Fe
 [/us/stat/111/358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F358
+[/us/usc/t42/s1395ss]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ss
+[/us/usc/t42/s1395ss]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ss
 [/us/pl/103/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432
+[/us/usc/t42/s1395ss/d/3/A/vi/IV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ss%2Fd%2F3%2FA%2Fvi%2FIV
 [/us/pl/104/191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191
 [/us/pl/104/191/s271/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2Fs271%2Fc
 [/us/stat/110/2036]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2036
+[/us/usc/t42/s1395ss/d/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ss%2Fd%2F3%2FA
 [/us/pl/103/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432
 [/us/pl/103/432/s171/d/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432%2Fs171%2Fd%2F3%2FC
 [/us/stat/108/4448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4448
+[/us/usc/t42/s1395ss/d/3/C/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ss%2Fd%2F3%2FC%2Fii
 [/us/pl/103/432/s171/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432%2Fs171%2Fm
 [/us/stat/108/4451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4451
 [/us/usc/t42/s1395zz]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395zz
+[/us/usc/t42/s1395ss]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ss
 [/us/pl/101/508/s4358/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs4358%2Fd
 [/us/stat/104/1388-137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-137
 [/us/usc/t42/s1320c–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320c%E2%80%933

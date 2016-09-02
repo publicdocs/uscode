@@ -367,7 +367,7 @@
 
 >     The matters which shall be addressed in such regulations shall include—
 
->         “(A) the form and manner in which tickets to work and self-sufficiency may be distributed to beneficiaries pursuant to section 1148(b)(1) of the Social Security Act \[subsec. (b)(1) of this section\];
+>         “(A) the form and manner in which tickets to work and self-sufficiency may be distributed to beneficiaries pursuant to section 1148(b)(1) of the Social Security Act \[[42 U.S.C. 1320b–19(b)(1)][/us/usc/t42/s1320b–19/b/1]\];
 
 >         “(B) the format and wording of such tickets, which shall incorporate by reference any contractual terms governing service by employment networks under the Program;
 
@@ -567,13 +567,13 @@
 
 >         “(B)
 
->          with respect to the Ticket to Work and Self-Sufficiency Program established under section 1148 of such Act \[this section\]—
+>          with respect to the Ticket to Work and Self-Sufficiency Program established under section 1148 of such Act \[[42 U.S.C. 1320b–19][/us/usc/t42/s1320b–19]\]—
 
 >             “(i) advise the Commissioner of Social Security with respect to establishing phase-in sites for such Program and fully implementing the Program thereafter, the refinement of access of disabled beneficiaries to employment networks, payment systems, and management information systems, and advise the Commissioner whether such measures are being taken to the extent necessary to ensure the success of the Program;
 
 >             “(ii) advise the Commissioner regarding the most effective designs for research and demonstration projects associated with the Program or conducted pursuant to section 302 of this Act \[set out as a note under [section 434 of this title][/us/usc/t42/s434]\];
 
->             “(iii) advise the Commissioner on the development of performance measurements relating to quality assurance under section 1148(d)(6) of the Social Security Act \[subsec. (d)(6) of this section\]; and
+>             “(iii) advise the Commissioner on the development of performance measurements relating to quality assurance under section 1148(d)(6) of the Social Security Act \[[42 U.S.C. 1320b–19(d)(6)][/us/usc/t42/s1320b–19/d/6]\]; and
 
 >             “(iv) furnish progress reports on the Program to the Commissioner and each House of Congress.
 
@@ -601,7 +601,7 @@
 
 >             “(ii) __Requirement.—__ 
 
->             At least one-half of the members appointed under subparagraph (A) shall be individuals with disabilities, or representatives of individuals with disabilities, with consideration given to current or former title II \[subchapter II of this chapter\] disability beneficiaries or title XVI \[subchapter XVI of this chapter\] disability beneficiaries (as such terms are defined in section 1148(k) of the Social Security Act \[subsec. (k) of this section\] (as added by subsection (a)).
+>             At least one-half of the members appointed under subparagraph (A) shall be individuals with disabilities, or representatives of individuals with disabilities, with consideration given to current or former title II \[[42 U.S.C. 401][/us/usc/t42/s401] et seq.\] disability beneficiaries or title XVI \[[42 U.S.C. 1381][/us/usc/t42/s1381] et seq.\] disability beneficiaries (as such terms are defined in section 1148(k) of the Social Security Act \[[42 U.S.C. 1320b–19(k)][/us/usc/t42/s1320b–19/k]\] (as added by subsection (a)).
 
 >         “(C) __Terms.—__ 
 
@@ -738,6 +738,7 @@
 [/us/stat/113/1874]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1874
 [/us/pl/106/170/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170%2Fs101%2Fe
 [/us/stat/113/1877]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1877
+[/us/usc/t42/s1320b–19/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320b%E2%80%9319%2Fb%2F1
 [/us/pl/108/203/s406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F203%2Fs406
 [/us/stat/118/527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F527
 [/us/usc/t42/s1320b–19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320b%E2%80%9319
@@ -754,7 +755,12 @@
 [/us/pl/106/170/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170%2Fs101%2Ff
 [/us/stat/113/1878]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1878
 [/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
+[/us/usc/t42/s1320b–19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320b%E2%80%9319
 [/us/usc/t42/s434]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs434
+[/us/usc/t42/s1320b–19/d/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320b%E2%80%9319%2Fd%2F6
+[/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
+[/us/usc/t42/s1381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1381
+[/us/usc/t42/s1320b–19/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320b%E2%80%9319%2Fk
 [/us/usc/t5/s3109/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3109%2Fb
 
 

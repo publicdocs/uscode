@@ -333,7 +333,7 @@
 
 >         “(A) __In general.—__ 
 
->         The Secretary of Health and Human Services (in this subsection referred to as the ‘Secretary’) shall establish, on an expedited basis and using a negotiated rulemaking process under subchapter 3 \[III\] of chapter 5 of title 5, United States Code, standards relating to the exception for risk-sharing arrangements to the anti-kickback penalties described in section 1128B(b)(3)(F) of the Social Security Act \[subsec. (b)(3)(F) of this section\], as added by subsection (a).
+>         The Secretary of Health and Human Services (in this subsection referred to as the ‘Secretary’) shall establish, on an expedited basis and using a negotiated rulemaking process under subchapter 3 \[III\] of chapter 5 of title 5, United States Code, standards relating to the exception for risk-sharing arrangements to the anti-kickback penalties described in section 1128B(b)(3)(F) of the Social Security Act \[[42 U.S.C. 1320a–7b(b)(3)(F)][/us/usc/t42/s1320a–7b/b/3/F]\], as added by subsection (a).
 
 >         “(B) __Factors to consider.—__ 
 
@@ -393,7 +393,7 @@
 
 [Pub. L. 100–93, § 14(a)][/us/pl/100/93/s14/a], Aug. 18, 1987, [101 Stat. 697][/us/stat/101/697], provided that: 
 
-> “The Secretary of Health and Human Services, in consultation with the Attorney General, not later than 1 year after the date of the enactment of this Act \[Aug. 18, 1987\] shall publish proposed regulations, and not later than 2 years after the date of the enactment of this Act shall promulgate final regulations, specifying payment practices that shall not be treated as a criminal offense under section 1128B(b) of the Social Security Act \[subsec. (b) of this section\] and shall not serve as the basis for an exclusion under section 1128(b)(7) of such Act. Any practices specified in regulations pursuant to the preceding sentence shall be in addition to the practices described in subparagraphs (A) through (C) of section 1128B(b)(3).”
+> “The Secretary of Health and Human Services, in consultation with the Attorney General, not later than 1 year after the date of the enactment of this Act \[Aug. 18, 1987\] shall publish proposed regulations, and not later than 2 years after the date of the enactment of this Act shall promulgate final regulations, specifying payment practices that shall not be treated as a criminal offense under section 1128B(b) of the Social Security Act \[[42 U.S.C. 1320a–7b(b)][/us/usc/t42/s1320a–7b/b]\] and shall not serve as the basis for an exclusion under section 1128(b)(7) of such Act. Any practices specified in regulations pursuant to the preceding sentence shall be in addition to the practices described in subparagraphs (A) through (C) of section 1128B(b)(3).”
 
 ----------
 
@@ -570,8 +570,10 @@
 [/us/usc/t42/s1320a–7b/b/3/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320a%E2%80%937b%2Fb%2F3%2FI
 [/us/pl/104/191/s216/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2Fs216%2Fb
 [/us/stat/110/2007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2007
+[/us/usc/t42/s1320a–7b/b/3/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320a%E2%80%937b%2Fb%2F3%2FF
 [/us/usc/t5/s564/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs564%2Fa
 [/us/pl/100/93/s14/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F93%2Fs14%2Fa
 [/us/stat/101/697]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F697
+[/us/usc/t42/s1320a–7b/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320a%E2%80%937b%2Fb
 
 

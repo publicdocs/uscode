@@ -417,7 +417,7 @@
 
 [Pub. L. 110–275, title I, § 164(g)][/us/pl/110/275/s164/g], July 15, 2008, [122 Stat. 2575][/us/stat/122/2575], provided that: 
 
-> “The amendments made by subsections (c)(1), (d), and (e)(1) \[amending this section and [section 1395w–28 of this title][/us/usc/t42/s1395w–28]\] shall apply to plan years beginning on or after January 1, 2010, and shall apply to all specialized Medicare Advantage plans for special needs individuals regardless of when the plan first entered the Medicare Advantage program under part C of title XVIII of the Social Security Act \[this part\].”
+> “The amendments made by subsections (c)(1), (d), and (e)(1) \[amending this section and [section 1395w–28 of this title][/us/usc/t42/s1395w–28]\] shall apply to plan years beginning on or after January 1, 2010, and shall apply to all specialized Medicare Advantage plans for special needs individuals regardless of when the plan first entered the Medicare Advantage program under part C of title XVIII of the Social Security Act \[[42 U.S.C. 1395w–21][/us/usc/t42/s1395w–21] et seq.\].”
 
 [Pub. L. 110–275, title I, § 171(c)][/us/pl/110/275/s171/c], July 15, 2008, [122 Stat. 2580][/us/stat/122/2580], provided that: 
 
@@ -477,7 +477,7 @@
 
 [Pub. L. 105–33, title IV, § 4002(g)][/us/pl/105/33/s4002/g], Aug. 5, 1997, [111 Stat. 330][/us/stat/111/330], provided that: 
 
-> “Section 1857(e)(2) of the Social Security Act \[subsec. (e)(2) of this section\] (requiring contribution to certain costs related to the enrollment process comparative materials) applies to demonstrations with respect to which enrollment is effected or coordinated under section 1851 of such Act \[[section 1395w–21 of this title][/us/usc/t42/s1395w–21]\].”
+> “Section 1857(e)(2) of the Social Security Act \[[42 U.S.C. 1395w–27(e)(2)][/us/usc/t42/s1395w–27/e/2]\] (requiring contribution to certain costs related to the enrollment process comparative materials) applies to demonstrations with respect to which enrollment is effected or coordinated under section 1851 of such Act \[[42 U.S.C. 1395w–21][/us/usc/t42/s1395w–21]\].”
 
 ----------
 
@@ -570,6 +570,7 @@
 [/us/pl/110/275/s164/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F275%2Fs164%2Fg
 [/us/stat/122/2575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2575
 [/us/usc/t42/s1395w–28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%9328
+[/us/usc/t42/s1395w–21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%9321
 [/us/pl/110/275/s171/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F275%2Fs171%2Fc
 [/us/stat/122/2580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2580
 [/us/usc/t42/s1395w–112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%93112
@@ -603,6 +604,7 @@
 [/us/stat/117/2171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2171
 [/us/pl/105/33/s4002/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs4002%2Fg
 [/us/stat/111/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F330
+[/us/usc/t42/s1395w–27/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%9327%2Fe%2F2
 [/us/usc/t42/s1395w–21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%9321
 
 

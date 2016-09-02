@@ -41,7 +41,7 @@ Part A—General Provisions  </td>
 
   <tr>
 
-    <td> 15001.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs15001" data-uslm-ref="/us/usc/t42/s15001">15001.</a>  </td>
 
     <td> Findings, purposes, and policy.  </td>
 
@@ -49,7 +49,7 @@ Part A—General Provisions  </td>
 
   <tr>
 
-    <td> 15002.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs15002" data-uslm-ref="/us/usc/t42/s15002">15002.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -57,7 +57,7 @@ Part A—General Provisions  </td>
 
   <tr>
 
-    <td> 15003.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs15003" data-uslm-ref="/us/usc/t42/s15003">15003.</a>  </td>
 
     <td> Records and audits.  </td>
 
@@ -65,7 +65,7 @@ Part A—General Provisions  </td>
 
   <tr>
 
-    <td> 15004.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs15004" data-uslm-ref="/us/usc/t42/s15004">15004.</a>  </td>
 
     <td> Responsibilities of the Secretary.  </td>
 
@@ -73,7 +73,7 @@ Part A—General Provisions  </td>
 
   <tr>
 
-    <td> 15005.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs15005" data-uslm-ref="/us/usc/t42/s15005">15005.</a>  </td>
 
     <td> Reports of the Secretary.  </td>
 
@@ -81,7 +81,7 @@ Part A—General Provisions  </td>
 
   <tr>
 
-    <td> 15006.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs15006" data-uslm-ref="/us/usc/t42/s15006">15006.</a>  </td>
 
     <td> State control of operations.  </td>
 
@@ -89,7 +89,7 @@ Part A—General Provisions  </td>
 
   <tr>
 
-    <td> 15007.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs15007" data-uslm-ref="/us/usc/t42/s15007">15007.</a>  </td>
 
     <td> Employment of individuals with disabilities.  </td>
 
@@ -97,7 +97,7 @@ Part A—General Provisions  </td>
 
   <tr>
 
-    <td> 15008.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs15008" data-uslm-ref="/us/usc/t42/s15008">15008.</a>  </td>
 
     <td> Construction.  </td>
 
@@ -105,7 +105,7 @@ Part A—General Provisions  </td>
 
   <tr>
 
-    <td> 15009.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs15009" data-uslm-ref="/us/usc/t42/s15009">15009.</a>  </td>
 
     <td> Rights of individuals with developmental disabilities.  </td>
 
@@ -121,7 +121,7 @@ Part B—Federal Assistance to State Councils on Developmental Disabilities  </t
 
   <tr>
 
-    <td> 15021.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs15021" data-uslm-ref="/us/usc/t42/s15021">15021.</a>  </td>
 
     <td> Purpose.  </td>
 
@@ -129,7 +129,7 @@ Part B—Federal Assistance to State Councils on Developmental Disabilities  </t
 
   <tr>
 
-    <td> 15022.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs15022" data-uslm-ref="/us/usc/t42/s15022">15022.</a>  </td>
 
     <td> State allotments.  </td>
 
@@ -137,7 +137,7 @@ Part B—Federal Assistance to State Councils on Developmental Disabilities  </t
 
   <tr>
 
-    <td> 15023.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs15023" data-uslm-ref="/us/usc/t42/s15023">15023.</a>  </td>
 
     <td> Payments to the States for planning, administration, and services.  </td>
 
@@ -145,7 +145,7 @@ Part B—Federal Assistance to State Councils on Developmental Disabilities  </t
 
   <tr>
 
-    <td> 15024.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs15024" data-uslm-ref="/us/usc/t42/s15024">15024.</a>  </td>
 
     <td> State plan.  </td>
 
@@ -153,7 +153,7 @@ Part B—Federal Assistance to State Councils on Developmental Disabilities  </t
 
   <tr>
 
-    <td> 15025.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs15025" data-uslm-ref="/us/usc/t42/s15025">15025.</a>  </td>
 
     <td> State Councils on Developmental Disabilities and designated State agencies.  </td>
 
@@ -161,7 +161,7 @@ Part B—Federal Assistance to State Councils on Developmental Disabilities  </t
 
   <tr>
 
-    <td> 15026.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs15026" data-uslm-ref="/us/usc/t42/s15026">15026.</a>  </td>
 
     <td> Federal and non-Federal share.  </td>
 
@@ -169,7 +169,7 @@ Part B—Federal Assistance to State Councils on Developmental Disabilities  </t
 
   <tr>
 
-    <td> 15027.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs15027" data-uslm-ref="/us/usc/t42/s15027">15027.</a>  </td>
 
     <td> Withholding of payments for planning, administration, and services.  </td>
 
@@ -177,7 +177,7 @@ Part B—Federal Assistance to State Councils on Developmental Disabilities  </t
 
   <tr>
 
-    <td> 15028.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs15028" data-uslm-ref="/us/usc/t42/s15028">15028.</a>  </td>
 
     <td> Appeals by States.  </td>
 
@@ -185,7 +185,7 @@ Part B—Federal Assistance to State Councils on Developmental Disabilities  </t
 
   <tr>
 
-    <td> 15029.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs15029" data-uslm-ref="/us/usc/t42/s15029">15029.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 
@@ -201,7 +201,7 @@ Part C—Protection and Advocacy of Individual Rights  </td>
 
   <tr>
 
-    <td> 15041.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs15041" data-uslm-ref="/us/usc/t42/s15041">15041.</a>  </td>
 
     <td> Purpose.  </td>
 
@@ -209,7 +209,7 @@ Part C—Protection and Advocacy of Individual Rights  </td>
 
   <tr>
 
-    <td> 15042.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs15042" data-uslm-ref="/us/usc/t42/s15042">15042.</a>  </td>
 
     <td> Allotments and payments.  </td>
 
@@ -217,7 +217,7 @@ Part C—Protection and Advocacy of Individual Rights  </td>
 
   <tr>
 
-    <td> 15043.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs15043" data-uslm-ref="/us/usc/t42/s15043">15043.</a>  </td>
 
     <td> System required.  </td>
 
@@ -225,7 +225,7 @@ Part C—Protection and Advocacy of Individual Rights  </td>
 
   <tr>
 
-    <td> 15044.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs15044" data-uslm-ref="/us/usc/t42/s15044">15044.</a>  </td>
 
     <td> Administration.  </td>
 
@@ -233,7 +233,7 @@ Part C—Protection and Advocacy of Individual Rights  </td>
 
   <tr>
 
-    <td> 15045.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs15045" data-uslm-ref="/us/usc/t42/s15045">15045.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 
@@ -249,7 +249,7 @@ Part D—National Network of University Centers for Excellence in Developmental 
 
   <tr>
 
-    <td> 15061.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs15061" data-uslm-ref="/us/usc/t42/s15061">15061.</a>  </td>
 
     <td> Grant authority.  </td>
 
@@ -257,7 +257,7 @@ Part D—National Network of University Centers for Excellence in Developmental 
 
   <tr>
 
-    <td> 15062.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs15062" data-uslm-ref="/us/usc/t42/s15062">15062.</a>  </td>
 
     <td> Grant awards.  </td>
 
@@ -265,7 +265,7 @@ Part D—National Network of University Centers for Excellence in Developmental 
 
   <tr>
 
-    <td> 15063.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs15063" data-uslm-ref="/us/usc/t42/s15063">15063.</a>  </td>
 
     <td> Purpose and scope of activities.  </td>
 
@@ -273,7 +273,7 @@ Part D—National Network of University Centers for Excellence in Developmental 
 
   <tr>
 
-    <td> 15064.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs15064" data-uslm-ref="/us/usc/t42/s15064">15064.</a>  </td>
 
     <td> Applications.  </td>
 
@@ -281,7 +281,7 @@ Part D—National Network of University Centers for Excellence in Developmental 
 
   <tr>
 
-    <td> 15065.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs15065" data-uslm-ref="/us/usc/t42/s15065">15065.</a>  </td>
 
     <td> Definition.  </td>
 
@@ -289,7 +289,7 @@ Part D—National Network of University Centers for Excellence in Developmental 
 
   <tr>
 
-    <td> 15066.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs15066" data-uslm-ref="/us/usc/t42/s15066">15066.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 
@@ -305,7 +305,7 @@ Part E—Projects of National Significance  </td>
 
   <tr>
 
-    <td> 15081.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs15081" data-uslm-ref="/us/usc/t42/s15081">15081.</a>  </td>
 
     <td> Purpose.  </td>
 
@@ -313,7 +313,7 @@ Part E—Projects of National Significance  </td>
 
   <tr>
 
-    <td> 15082.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs15082" data-uslm-ref="/us/usc/t42/s15082">15082.</a>  </td>
 
     <td> Grant authority.  </td>
 
@@ -321,7 +321,7 @@ Part E—Projects of National Significance  </td>
 
   <tr>
 
-    <td> 15083.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs15083" data-uslm-ref="/us/usc/t42/s15083">15083.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 
@@ -337,7 +337,7 @@ SUBCHAPTER II—FAMILY SUPPORT  </td>
 
   <tr>
 
-    <td> 15091.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs15091" data-uslm-ref="/us/usc/t42/s15091">15091.</a>  </td>
 
     <td> Findings, purposes, and policy.  </td>
 
@@ -345,7 +345,7 @@ SUBCHAPTER II—FAMILY SUPPORT  </td>
 
   <tr>
 
-    <td> 15092.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs15092" data-uslm-ref="/us/usc/t42/s15092">15092.</a>  </td>
 
     <td> Definitions and special rule.  </td>
 
@@ -353,7 +353,7 @@ SUBCHAPTER II—FAMILY SUPPORT  </td>
 
   <tr>
 
-    <td> 15093.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs15093" data-uslm-ref="/us/usc/t42/s15093">15093.</a>  </td>
 
     <td> Grants to States.  </td>
 
@@ -361,7 +361,7 @@ SUBCHAPTER II—FAMILY SUPPORT  </td>
 
   <tr>
 
-    <td> 15094.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs15094" data-uslm-ref="/us/usc/t42/s15094">15094.</a>  </td>
 
     <td> Application.  </td>
 
@@ -369,7 +369,7 @@ SUBCHAPTER II—FAMILY SUPPORT  </td>
 
   <tr>
 
-    <td> 15095.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs15095" data-uslm-ref="/us/usc/t42/s15095">15095.</a>  </td>
 
     <td> Designation of the lead entity.  </td>
 
@@ -377,7 +377,7 @@ SUBCHAPTER II—FAMILY SUPPORT  </td>
 
   <tr>
 
-    <td> 15096.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs15096" data-uslm-ref="/us/usc/t42/s15096">15096.</a>  </td>
 
     <td> Authorized activities.  </td>
 
@@ -385,7 +385,7 @@ SUBCHAPTER II—FAMILY SUPPORT  </td>
 
   <tr>
 
-    <td> 15097.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs15097" data-uslm-ref="/us/usc/t42/s15097">15097.</a>  </td>
 
     <td> Reporting.  </td>
 
@@ -393,7 +393,7 @@ SUBCHAPTER II—FAMILY SUPPORT  </td>
 
   <tr>
 
-    <td> 15098.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs15098" data-uslm-ref="/us/usc/t42/s15098">15098.</a>  </td>
 
     <td> Technical assistance.  </td>
 
@@ -401,7 +401,7 @@ SUBCHAPTER II—FAMILY SUPPORT  </td>
 
   <tr>
 
-    <td> 15099.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs15099" data-uslm-ref="/us/usc/t42/s15099">15099.</a>  </td>
 
     <td> Evaluation.  </td>
 
@@ -409,7 +409,7 @@ SUBCHAPTER II—FAMILY SUPPORT  </td>
 
   <tr>
 
-    <td> 15100.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs15100" data-uslm-ref="/us/usc/t42/s15100">15100.</a>  </td>
 
     <td> Projects of national significance.  </td>
 
@@ -417,7 +417,7 @@ SUBCHAPTER II—FAMILY SUPPORT  </td>
 
   <tr>
 
-    <td> 15101.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs15101" data-uslm-ref="/us/usc/t42/s15101">15101.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 
@@ -433,7 +433,7 @@ SUBCHAPTER III—PROGRAM FOR DIRECT SUPPORT WORKERS WHO ASSIST INDIVIDUALS WITH 
 
   <tr>
 
-    <td> 15111.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs15111" data-uslm-ref="/us/usc/t42/s15111">15111.</a>  </td>
 
     <td> Findings.  </td>
 
@@ -441,7 +441,7 @@ SUBCHAPTER III—PROGRAM FOR DIRECT SUPPORT WORKERS WHO ASSIST INDIVIDUALS WITH 
 
   <tr>
 
-    <td> 15112.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs15112" data-uslm-ref="/us/usc/t42/s15112">15112.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -449,7 +449,7 @@ SUBCHAPTER III—PROGRAM FOR DIRECT SUPPORT WORKERS WHO ASSIST INDIVIDUALS WITH 
 
   <tr>
 
-    <td> 15113.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs15113" data-uslm-ref="/us/usc/t42/s15113">15113.</a>  </td>
 
     <td> Reaching up scholarship program.  </td>
 
@@ -457,7 +457,7 @@ SUBCHAPTER III—PROGRAM FOR DIRECT SUPPORT WORKERS WHO ASSIST INDIVIDUALS WITH 
 
   <tr>
 
-    <td> 15114.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs15114" data-uslm-ref="/us/usc/t42/s15114">15114.</a>  </td>
 
     <td> Staff development curriculum authorization.  </td>
 
@@ -465,7 +465,7 @@ SUBCHAPTER III—PROGRAM FOR DIRECT SUPPORT WORKERS WHO ASSIST INDIVIDUALS WITH 
 
   <tr>
 
-    <td> 15115.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs15115" data-uslm-ref="/us/usc/t42/s15115">15115.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 

@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 6201.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs6201" data-uslm-ref="/us/usc/t42/s6201">6201.</a>  </td>
 
     <td> Congressional statement of purpose.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 6202.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs6202" data-uslm-ref="/us/usc/t42/s6202">6202.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -57,7 +57,7 @@ Part A—Domestic Supply  </td>
 
   <tr>
 
-    <td> 6211.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs6211" data-uslm-ref="/us/usc/t42/s6211">6211.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -65,7 +65,7 @@ Part A—Domestic Supply  </td>
 
   <tr>
 
-    <td> 6212.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs6212" data-uslm-ref="/us/usc/t42/s6212">6212.</a>  </td>
 
     <td> Domestic use of energy supplies and related materials and equipment.  </td>
 
@@ -73,7 +73,7 @@ Part A—Domestic Supply  </td>
 
   <tr>
 
-    <td> 6213.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs6213" data-uslm-ref="/us/usc/t42/s6213">6213.</a>  </td>
 
     <td> Certain lease bidding arrangements prohibited.  </td>
 
@@ -81,7 +81,7 @@ Part A—Domestic Supply  </td>
 
   <tr>
 
-    <td> 6214.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs6214" data-uslm-ref="/us/usc/t42/s6214">6214.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -89,7 +89,7 @@ Part A—Domestic Supply  </td>
 
   <tr>
 
-    <td> 6215.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs6215" data-uslm-ref="/us/usc/t42/s6215">6215.</a>  </td>
 
     <td> Major fuel burning stationary source.  </td>
 
@@ -97,7 +97,7 @@ Part A—Domestic Supply  </td>
 
   <tr>
 
-    <td> 6216.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs6216" data-uslm-ref="/us/usc/t42/s6216">6216.</a>  </td>
 
     <td> Annual Home Heating Readiness Reports.  </td>
 
@@ -105,7 +105,7 @@ Part A—Domestic Supply  </td>
 
   <tr>
 
-    <td> 6217.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs6217" data-uslm-ref="/us/usc/t42/s6217">6217.</a>  </td>
 
     <td> Scientific inventory of oil and gas reserves.  </td>
 
@@ -121,7 +121,7 @@ Part B—Strategic Petroleum Reserve  </td>
 
   <tr>
 
-    <td> 6231.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs6231" data-uslm-ref="/us/usc/t42/s6231">6231.</a>  </td>
 
     <td> Congressional finding and declaration of policy.  </td>
 
@@ -129,7 +129,7 @@ Part B—Strategic Petroleum Reserve  </td>
 
   <tr>
 
-    <td> 6232.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs6232" data-uslm-ref="/us/usc/t42/s6232">6232.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -137,7 +137,7 @@ Part B—Strategic Petroleum Reserve  </td>
 
   <tr>
 
-    <td> 6233.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs6233" data-uslm-ref="/us/usc/t42/s6233">6233.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -145,7 +145,7 @@ Part B—Strategic Petroleum Reserve  </td>
 
   <tr>
 
-    <td> 6234.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs6234" data-uslm-ref="/us/usc/t42/s6234">6234.</a>  </td>
 
     <td> Strategic Petroleum Reserve.  </td>
 
@@ -153,7 +153,7 @@ Part B—Strategic Petroleum Reserve  </td>
 
   <tr>
 
-    <td> 6235 to 6238.   </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs6235" data-uslm-ref="/us/usc/t42/s6235">6235</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs6238" data-uslm-ref="/us/usc/t42/s6238">6238.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -161,7 +161,7 @@ Part B—Strategic Petroleum Reserve  </td>
 
   <tr>
 
-    <td> 6239.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs6239" data-uslm-ref="/us/usc/t42/s6239">6239.</a>  </td>
 
     <td> Development, operation, and maintenance of the Reserve.  </td>
 
@@ -169,7 +169,7 @@ Part B—Strategic Petroleum Reserve  </td>
 
   <tr>
 
-    <td> 6240.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs6240" data-uslm-ref="/us/usc/t42/s6240">6240.</a>  </td>
 
     <td> Petroleum products for storage, transport, or exchange.  </td>
 
@@ -177,7 +177,7 @@ Part B—Strategic Petroleum Reserve  </td>
 
   <tr>
 
-    <td> 6241.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs6241" data-uslm-ref="/us/usc/t42/s6241">6241.</a>  </td>
 
     <td> Drawdown and sale of petroleum products.  </td>
 
@@ -185,7 +185,7 @@ Part B—Strategic Petroleum Reserve  </td>
 
   <tr>
 
-    <td> 6242.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs6242" data-uslm-ref="/us/usc/t42/s6242">6242.</a>  </td>
 
     <td> Coordination with import quota system.  </td>
 
@@ -193,7 +193,7 @@ Part B—Strategic Petroleum Reserve  </td>
 
   <tr>
 
-    <td> 6243.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs6243" data-uslm-ref="/us/usc/t42/s6243">6243.</a>  </td>
 
     <td> Records and accounts.  </td>
 
@@ -201,7 +201,7 @@ Part B—Strategic Petroleum Reserve  </td>
 
   <tr>
 
-    <td> 6244.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs6244" data-uslm-ref="/us/usc/t42/s6244">6244.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -209,7 +209,7 @@ Part B—Strategic Petroleum Reserve  </td>
 
   <tr>
 
-    <td> 6245.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs6245" data-uslm-ref="/us/usc/t42/s6245">6245.</a>  </td>
 
     <td> Annual report.  </td>
 
@@ -217,7 +217,7 @@ Part B—Strategic Petroleum Reserve  </td>
 
   <tr>
 
-    <td> 6246.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs6246" data-uslm-ref="/us/usc/t42/s6246">6246.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 
@@ -225,7 +225,7 @@ Part B—Strategic Petroleum Reserve  </td>
 
   <tr>
 
-    <td> 6247.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs6247" data-uslm-ref="/us/usc/t42/s6247">6247.</a>  </td>
 
     <td> SPR Petroleum Account.  </td>
 
@@ -233,7 +233,7 @@ Part B—Strategic Petroleum Reserve  </td>
 
   <tr>
 
-    <td> 6247a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs6247a" data-uslm-ref="/us/usc/t42/s6247a">6247a.</a>  </td>
 
     <td> Use of underutilized facilities.  </td>
 
@@ -241,7 +241,7 @@ Part B—Strategic Petroleum Reserve  </td>
 
   <tr>
 
-    <td> 6247b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs6247b" data-uslm-ref="/us/usc/t42/s6247b">6247b.</a>  </td>
 
     <td> Purchase of oil from marginal wells.  </td>
 
@@ -257,7 +257,7 @@ Part C—Authority To Contract for Petroleum Product Not Owned by United States 
 
   <tr>
 
-    <td> 6249.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs6249" data-uslm-ref="/us/usc/t42/s6249">6249.</a>  </td>
 
     <td> Contracting for petroleum product and facilities.  </td>
 
@@ -265,7 +265,7 @@ Part C—Authority To Contract for Petroleum Product Not Owned by United States 
 
   <tr>
 
-    <td> 6249a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs6249a" data-uslm-ref="/us/usc/t42/s6249a">6249a.</a>  </td>
 
     <td> Implementation.  </td>
 
@@ -273,7 +273,7 @@ Part C—Authority To Contract for Petroleum Product Not Owned by United States 
 
   <tr>
 
-    <td> 6249b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs6249b" data-uslm-ref="/us/usc/t42/s6249b">6249b.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -281,7 +281,7 @@ Part C—Authority To Contract for Petroleum Product Not Owned by United States 
 
   <tr>
 
-    <td> 6249c.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs6249c" data-uslm-ref="/us/usc/t42/s6249c">6249c.</a>  </td>
 
     <td> Contracts for which implementing legislation is needed.  </td>
 
@@ -297,7 +297,7 @@ Part D—Northeast Home Heating Oil Reserve  </td>
 
   <tr>
 
-    <td> 6250.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs6250" data-uslm-ref="/us/usc/t42/s6250">6250.</a>  </td>
 
     <td> Establishment.  </td>
 
@@ -305,7 +305,7 @@ Part D—Northeast Home Heating Oil Reserve  </td>
 
   <tr>
 
-    <td> 6250a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs6250a" data-uslm-ref="/us/usc/t42/s6250a">6250a.</a>  </td>
 
     <td> Authority.  </td>
 
@@ -313,7 +313,7 @@ Part D—Northeast Home Heating Oil Reserve  </td>
 
   <tr>
 
-    <td> 6250b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs6250b" data-uslm-ref="/us/usc/t42/s6250b">6250b.</a>  </td>
 
     <td> Conditions for release; plan.  </td>
 
@@ -321,7 +321,7 @@ Part D—Northeast Home Heating Oil Reserve  </td>
 
   <tr>
 
-    <td> 6250c.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs6250c" data-uslm-ref="/us/usc/t42/s6250c">6250c.</a>  </td>
 
     <td> Northeast Home Heating Oil Reserve Account.  </td>
 
@@ -329,7 +329,7 @@ Part D—Northeast Home Heating Oil Reserve  </td>
 
   <tr>
 
-    <td> 6250d.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs6250d" data-uslm-ref="/us/usc/t42/s6250d">6250d.</a>  </td>
 
     <td> Exemptions.  </td>
 
@@ -337,7 +337,7 @@ Part D—Northeast Home Heating Oil Reserve  </td>
 
   <tr>
 
-    <td> 6250e.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs6250e" data-uslm-ref="/us/usc/t42/s6250e">6250e.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -345,7 +345,7 @@ Part D—Northeast Home Heating Oil Reserve  </td>
 
   <tr>
 
-    <td> 6250f.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs6250f" data-uslm-ref="/us/usc/t42/s6250f">6250f.</a>  </td>
 
     <td> Limit on amount of petroleum distillate.  </td>
 
@@ -361,7 +361,7 @@ Part E—Expiration  </td>
 
   <tr>
 
-    <td> 6251.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs6251" data-uslm-ref="/us/usc/t42/s6251">6251.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -385,7 +385,9 @@ Part A—General Emergency Authorities  </td>
 
   <tr>
 
-    <td> 6261 to 6264. Repealed.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs6261" data-uslm-ref="/us/usc/t42/s6261">6261</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs6264" data-uslm-ref="/us/usc/t42/s6264">6264.</a>  </td>
+
+    <td> Repealed.  </td>
 
   </tr>
 
@@ -399,7 +401,7 @@ Part B—Authorities With Respect to International Energy Program  </td>
 
   <tr>
 
-    <td> 6271.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs6271" data-uslm-ref="/us/usc/t42/s6271">6271.</a>  </td>
 
     <td> International oil allocations.  </td>
 
@@ -407,7 +409,7 @@ Part B—Authorities With Respect to International Energy Program  </td>
 
   <tr>
 
-    <td> 6272.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs6272" data-uslm-ref="/us/usc/t42/s6272">6272.</a>  </td>
 
     <td> International voluntary agreements.  </td>
 
@@ -415,7 +417,7 @@ Part B—Authorities With Respect to International Energy Program  </td>
 
   <tr>
 
-    <td> 6273.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs6273" data-uslm-ref="/us/usc/t42/s6273">6273.</a>  </td>
 
     <td> Advisory committees.  </td>
 
@@ -423,7 +425,7 @@ Part B—Authorities With Respect to International Energy Program  </td>
 
   <tr>
 
-    <td> 6274.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs6274" data-uslm-ref="/us/usc/t42/s6274">6274.</a>  </td>
 
     <td> Exchange of information with International Energy Agency.  </td>
 
@@ -431,7 +433,7 @@ Part B—Authorities With Respect to International Energy Program  </td>
 
   <tr>
 
-    <td> 6275.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs6275" data-uslm-ref="/us/usc/t42/s6275">6275.</a>  </td>
 
     <td> Relationship between standby emergency authorities and international energy program.  </td>
 
@@ -439,7 +441,7 @@ Part B—Authorities With Respect to International Energy Program  </td>
 
   <tr>
 
-    <td> 6276.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs6276" data-uslm-ref="/us/usc/t42/s6276">6276.</a>  </td>
 
     <td> Domestic renewable energy industry and related service industries.  </td>
 
@@ -455,7 +457,7 @@ Part C—Summer Fill and Fuel Budgeting Programs  </td>
 
   <tr>
 
-    <td> 6283.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs6283" data-uslm-ref="/us/usc/t42/s6283">6283.</a>  </td>
 
     <td> Summer fill and fuel budgeting programs.  </td>
 
@@ -471,7 +473,7 @@ Part D—Expiration  </td>
 
   <tr>
 
-    <td> 6285.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs6285" data-uslm-ref="/us/usc/t42/s6285">6285.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -495,7 +497,7 @@ Part A—Energy Conservation Program for Consumer Products Other Than Automobile
 
   <tr>
 
-    <td> 6291.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs6291" data-uslm-ref="/us/usc/t42/s6291">6291.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -503,7 +505,7 @@ Part A—Energy Conservation Program for Consumer Products Other Than Automobile
 
   <tr>
 
-    <td> 6292.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs6292" data-uslm-ref="/us/usc/t42/s6292">6292.</a>  </td>
 
     <td> Coverage.  </td>
 
@@ -511,7 +513,7 @@ Part A—Energy Conservation Program for Consumer Products Other Than Automobile
 
   <tr>
 
-    <td> 6293.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs6293" data-uslm-ref="/us/usc/t42/s6293">6293.</a>  </td>
 
     <td> Test procedures.  </td>
 
@@ -519,7 +521,7 @@ Part A—Energy Conservation Program for Consumer Products Other Than Automobile
 
   <tr>
 
-    <td> 6294.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs6294" data-uslm-ref="/us/usc/t42/s6294">6294.</a>  </td>
 
     <td> Labeling.  </td>
 
@@ -527,7 +529,7 @@ Part A—Energy Conservation Program for Consumer Products Other Than Automobile
 
   <tr>
 
-    <td> 6294a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs6294a" data-uslm-ref="/us/usc/t42/s6294a">6294a.</a>  </td>
 
     <td> Energy Star program.  </td>
 
@@ -535,7 +537,7 @@ Part A—Energy Conservation Program for Consumer Products Other Than Automobile
 
   <tr>
 
-    <td> 6295.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs6295" data-uslm-ref="/us/usc/t42/s6295">6295.</a>  </td>
 
     <td> Energy conservation standards.  </td>
 
@@ -543,7 +545,7 @@ Part A—Energy Conservation Program for Consumer Products Other Than Automobile
 
   <tr>
 
-    <td> 6296.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs6296" data-uslm-ref="/us/usc/t42/s6296">6296.</a>  </td>
 
     <td> Requirements of manufacturers.  </td>
 
@@ -551,7 +553,7 @@ Part A—Energy Conservation Program for Consumer Products Other Than Automobile
 
   <tr>
 
-    <td> 6297.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs6297" data-uslm-ref="/us/usc/t42/s6297">6297.</a>  </td>
 
     <td> Effect on other law.  </td>
 
@@ -559,7 +561,7 @@ Part A—Energy Conservation Program for Consumer Products Other Than Automobile
 
   <tr>
 
-    <td> 6298.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs6298" data-uslm-ref="/us/usc/t42/s6298">6298.</a>  </td>
 
     <td> Rules.  </td>
 
@@ -567,7 +569,7 @@ Part A—Energy Conservation Program for Consumer Products Other Than Automobile
 
   <tr>
 
-    <td> 6299.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs6299" data-uslm-ref="/us/usc/t42/s6299">6299.</a>  </td>
 
     <td> Authority to obtain information.  </td>
 
@@ -575,7 +577,7 @@ Part A—Energy Conservation Program for Consumer Products Other Than Automobile
 
   <tr>
 
-    <td> 6300.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs6300" data-uslm-ref="/us/usc/t42/s6300">6300.</a>  </td>
 
     <td> Exports.  </td>
 
@@ -583,7 +585,7 @@ Part A—Energy Conservation Program for Consumer Products Other Than Automobile
 
   <tr>
 
-    <td> 6301.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs6301" data-uslm-ref="/us/usc/t42/s6301">6301.</a>  </td>
 
     <td> Imports.  </td>
 
@@ -591,7 +593,7 @@ Part A—Energy Conservation Program for Consumer Products Other Than Automobile
 
   <tr>
 
-    <td> 6302.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs6302" data-uslm-ref="/us/usc/t42/s6302">6302.</a>  </td>
 
     <td> Prohibited acts.  </td>
 
@@ -599,7 +601,7 @@ Part A—Energy Conservation Program for Consumer Products Other Than Automobile
 
   <tr>
 
-    <td> 6303.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs6303" data-uslm-ref="/us/usc/t42/s6303">6303.</a>  </td>
 
     <td> Enforcement.  </td>
 
@@ -607,7 +609,7 @@ Part A—Energy Conservation Program for Consumer Products Other Than Automobile
 
   <tr>
 
-    <td> 6304.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs6304" data-uslm-ref="/us/usc/t42/s6304">6304.</a>  </td>
 
     <td> Injunctive enforcement.  </td>
 
@@ -615,7 +617,7 @@ Part A—Energy Conservation Program for Consumer Products Other Than Automobile
 
   <tr>
 
-    <td> 6305.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs6305" data-uslm-ref="/us/usc/t42/s6305">6305.</a>  </td>
 
     <td> Citizen suits.  </td>
 
@@ -623,7 +625,7 @@ Part A—Energy Conservation Program for Consumer Products Other Than Automobile
 
   <tr>
 
-    <td> 6306.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs6306" data-uslm-ref="/us/usc/t42/s6306">6306.</a>  </td>
 
     <td> Administrative procedure and judicial review.  </td>
 
@@ -631,7 +633,7 @@ Part A—Energy Conservation Program for Consumer Products Other Than Automobile
 
   <tr>
 
-    <td> 6307.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs6307" data-uslm-ref="/us/usc/t42/s6307">6307.</a>  </td>
 
     <td> Consumer education.  </td>
 
@@ -639,7 +641,7 @@ Part A—Energy Conservation Program for Consumer Products Other Than Automobile
 
   <tr>
 
-    <td> 6308.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs6308" data-uslm-ref="/us/usc/t42/s6308">6308.</a>  </td>
 
     <td> Annual report.  </td>
 
@@ -647,7 +649,7 @@ Part A—Energy Conservation Program for Consumer Products Other Than Automobile
 
   <tr>
 
-    <td> 6309.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs6309" data-uslm-ref="/us/usc/t42/s6309">6309.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 
@@ -663,7 +665,7 @@ Part A–1—Certain Industrial Equipment  </td>
 
   <tr>
 
-    <td> 6311.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs6311" data-uslm-ref="/us/usc/t42/s6311">6311.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -671,7 +673,7 @@ Part A–1—Certain Industrial Equipment  </td>
 
   <tr>
 
-    <td> 6312.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs6312" data-uslm-ref="/us/usc/t42/s6312">6312.</a>  </td>
 
     <td> Purposes and coverage.  </td>
 
@@ -679,7 +681,7 @@ Part A–1—Certain Industrial Equipment  </td>
 
   <tr>
 
-    <td> 6313.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs6313" data-uslm-ref="/us/usc/t42/s6313">6313.</a>  </td>
 
     <td> Standards.  </td>
 
@@ -687,7 +689,7 @@ Part A–1—Certain Industrial Equipment  </td>
 
   <tr>
 
-    <td> 6314.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs6314" data-uslm-ref="/us/usc/t42/s6314">6314.</a>  </td>
 
     <td> Test procedures.  </td>
 
@@ -695,7 +697,7 @@ Part A–1—Certain Industrial Equipment  </td>
 
   <tr>
 
-    <td> 6315.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs6315" data-uslm-ref="/us/usc/t42/s6315">6315.</a>  </td>
 
     <td> Labeling.  </td>
 
@@ -703,7 +705,7 @@ Part A–1—Certain Industrial Equipment  </td>
 
   <tr>
 
-    <td> 6316.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs6316" data-uslm-ref="/us/usc/t42/s6316">6316.</a>  </td>
 
     <td> Administration, penalties, enforcement, and preemption.  </td>
 
@@ -711,7 +713,7 @@ Part A–1—Certain Industrial Equipment  </td>
 
   <tr>
 
-    <td> 6317.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs6317" data-uslm-ref="/us/usc/t42/s6317">6317.</a>  </td>
 
     <td> Energy conservation standards for high-intensity discharge lamps, distribution transformers, and small electric motors.  </td>
 
@@ -727,7 +729,7 @@ Part B—State Energy Conservation Plans  </td>
 
   <tr>
 
-    <td> 6321.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs6321" data-uslm-ref="/us/usc/t42/s6321">6321.</a>  </td>
 
     <td> Congressional findings and declaration of purpose.  </td>
 
@@ -735,7 +737,7 @@ Part B—State Energy Conservation Plans  </td>
 
   <tr>
 
-    <td> 6322.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs6322" data-uslm-ref="/us/usc/t42/s6322">6322.</a>  </td>
 
     <td> State energy conservation plans.  </td>
 
@@ -743,7 +745,7 @@ Part B—State Energy Conservation Plans  </td>
 
   <tr>
 
-    <td> 6323.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs6323" data-uslm-ref="/us/usc/t42/s6323">6323.</a>  </td>
 
     <td> Federal assistance to States.  </td>
 
@@ -751,7 +753,7 @@ Part B—State Energy Conservation Plans  </td>
 
   <tr>
 
-    <td> 6323a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs6323a" data-uslm-ref="/us/usc/t42/s6323a">6323a.</a>  </td>
 
     <td> Matching State contributions.  </td>
 
@@ -759,7 +761,7 @@ Part B—State Energy Conservation Plans  </td>
 
   <tr>
 
-    <td> 6324.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs6324" data-uslm-ref="/us/usc/t42/s6324">6324.</a>  </td>
 
     <td> State energy efficiency goals.  </td>
 
@@ -767,7 +769,7 @@ Part B—State Energy Conservation Plans  </td>
 
   <tr>
 
-    <td> 6325.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs6325" data-uslm-ref="/us/usc/t42/s6325">6325.</a>  </td>
 
     <td> General provisions.  </td>
 
@@ -775,7 +777,7 @@ Part B—State Energy Conservation Plans  </td>
 
   <tr>
 
-    <td> 6326.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs6326" data-uslm-ref="/us/usc/t42/s6326">6326.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -783,7 +785,7 @@ Part B—State Energy Conservation Plans  </td>
 
   <tr>
 
-    <td> 6327.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs6327" data-uslm-ref="/us/usc/t42/s6327">6327.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -799,7 +801,7 @@ Part C—Industrial Energy Efficiency  </td>
 
   <tr>
 
-    <td> 6341.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs6341" data-uslm-ref="/us/usc/t42/s6341">6341.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -807,7 +809,7 @@ Part C—Industrial Energy Efficiency  </td>
 
   <tr>
 
-    <td> 6342.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs6342" data-uslm-ref="/us/usc/t42/s6342">6342.</a>  </td>
 
     <td> Survey and Registry.  </td>
 
@@ -815,7 +817,7 @@ Part C—Industrial Energy Efficiency  </td>
 
   <tr>
 
-    <td> 6343.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs6343" data-uslm-ref="/us/usc/t42/s6343">6343.</a>  </td>
 
     <td> Waste energy recovery incentive grant program.  </td>
 
@@ -823,7 +825,7 @@ Part C—Industrial Energy Efficiency  </td>
 
   <tr>
 
-    <td> 6344.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs6344" data-uslm-ref="/us/usc/t42/s6344">6344.</a>  </td>
 
     <td> Additional incentives for recovery, use, and prevention of industrial waste energy.  </td>
 
@@ -831,7 +833,7 @@ Part C—Industrial Energy Efficiency  </td>
 
   <tr>
 
-    <td> 6345.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs6345" data-uslm-ref="/us/usc/t42/s6345">6345.</a>  </td>
 
     <td> Clean Energy Application Centers.  </td>
 
@@ -839,7 +841,7 @@ Part C—Industrial Energy Efficiency  </td>
 
   <tr>
 
-    <td> 6346, 6347.   </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs6346" data-uslm-ref="/us/usc/t42/s6346">6346</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs6347" data-uslm-ref="/us/usc/t42/s6347">6347.</a>  </td>
 
     <td> Repealed or Omitted.  </td>
 
@@ -847,7 +849,7 @@ Part C—Industrial Energy Efficiency  </td>
 
   <tr>
 
-    <td> 6348.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs6348" data-uslm-ref="/us/usc/t42/s6348">6348.</a>  </td>
 
     <td> Energy efficiency in industrial facilities.  </td>
 
@@ -855,7 +857,7 @@ Part C—Industrial Energy Efficiency  </td>
 
   <tr>
 
-    <td> 6349.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs6349" data-uslm-ref="/us/usc/t42/s6349">6349.</a>  </td>
 
     <td> Process-oriented industrial energy efficiency.  </td>
 
@@ -863,7 +865,7 @@ Part C—Industrial Energy Efficiency  </td>
 
   <tr>
 
-    <td> 6350.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs6350" data-uslm-ref="/us/usc/t42/s6350">6350.</a>  </td>
 
     <td> Industrial insulation and audit guidelines.  </td>
 
@@ -871,7 +873,7 @@ Part C—Industrial Energy Efficiency  </td>
 
   <tr>
 
-    <td> 6351.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs6351" data-uslm-ref="/us/usc/t42/s6351">6351.</a>  </td>
 
     <td> Coordination of research and development of energy efficient technologies for industry.  </td>
 
@@ -887,7 +889,7 @@ Part D—Other Federal Energy Conservation Measures  </td>
 
   <tr>
 
-    <td> 6361.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs6361" data-uslm-ref="/us/usc/t42/s6361">6361.</a>  </td>
 
     <td> Federal energy conservation programs.  </td>
 
@@ -895,7 +897,7 @@ Part D—Other Federal Energy Conservation Measures  </td>
 
   <tr>
 
-    <td> 6362.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs6362" data-uslm-ref="/us/usc/t42/s6362">6362.</a>  </td>
 
     <td> Energy conservation policies and practices.  </td>
 
@@ -903,7 +905,7 @@ Part D—Other Federal Energy Conservation Measures  </td>
 
   <tr>
 
-    <td> 6363.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs6363" data-uslm-ref="/us/usc/t42/s6363">6363.</a>  </td>
 
     <td> Federal actions with respect to recycled oil.  </td>
 
@@ -919,7 +921,7 @@ Part E—Energy Conservation Program for Schools and Hospitals  </td>
 
   <tr>
 
-    <td> 6371.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs6371" data-uslm-ref="/us/usc/t42/s6371">6371.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -927,7 +929,7 @@ Part E—Energy Conservation Program for Schools and Hospitals  </td>
 
   <tr>
 
-    <td> 6371a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs6371a" data-uslm-ref="/us/usc/t42/s6371a">6371a.</a>  </td>
 
     <td> Guidelines.  </td>
 
@@ -935,7 +937,7 @@ Part E—Energy Conservation Program for Schools and Hospitals  </td>
 
   <tr>
 
-    <td> 6371b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs6371b" data-uslm-ref="/us/usc/t42/s6371b">6371b.</a>  </td>
 
     <td> Preliminary energy audits and energy audits.  </td>
 
@@ -943,7 +945,7 @@ Part E—Energy Conservation Program for Schools and Hospitals  </td>
 
   <tr>
 
-    <td> 6371c.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs6371c" data-uslm-ref="/us/usc/t42/s6371c">6371c.</a>  </td>
 
     <td> State plans.  </td>
 
@@ -951,7 +953,7 @@ Part E—Energy Conservation Program for Schools and Hospitals  </td>
 
   <tr>
 
-    <td> 6371d.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs6371d" data-uslm-ref="/us/usc/t42/s6371d">6371d.</a>  </td>
 
     <td> Applications for financial assistance.  </td>
 
@@ -959,7 +961,7 @@ Part E—Energy Conservation Program for Schools and Hospitals  </td>
 
   <tr>
 
-    <td> 6371e.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs6371e" data-uslm-ref="/us/usc/t42/s6371e">6371e.</a>  </td>
 
     <td> Grants for project costs and technical assistance.  </td>
 
@@ -967,7 +969,7 @@ Part E—Energy Conservation Program for Schools and Hospitals  </td>
 
   <tr>
 
-    <td> 6371f.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs6371f" data-uslm-ref="/us/usc/t42/s6371f">6371f.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 
@@ -975,7 +977,7 @@ Part E—Energy Conservation Program for Schools and Hospitals  </td>
 
   <tr>
 
-    <td> 6371g.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs6371g" data-uslm-ref="/us/usc/t42/s6371g">6371g.</a>  </td>
 
     <td> Allocation of grants.  </td>
 
@@ -983,7 +985,7 @@ Part E—Energy Conservation Program for Schools and Hospitals  </td>
 
   <tr>
 
-    <td> 6371h.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs6371h" data-uslm-ref="/us/usc/t42/s6371h">6371h.</a>  </td>
 
     <td> Administration; detailed description in annual report.  </td>
 
@@ -991,7 +993,7 @@ Part E—Energy Conservation Program for Schools and Hospitals  </td>
 
   <tr>
 
-    <td> 6371h–1.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs6371h%E2%80%931" data-uslm-ref="/us/usc/t42/s6371h–1">6371h–1.</a>  </td>
 
     <td> Energy sustainability and efficiency grants and loans for institutions.  </td>
 
@@ -999,7 +1001,7 @@ Part E—Energy Conservation Program for Schools and Hospitals  </td>
 
   <tr>
 
-    <td> 6371i.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs6371i" data-uslm-ref="/us/usc/t42/s6371i">6371i.</a>  </td>
 
     <td> Records.  </td>
 
@@ -1007,7 +1009,7 @@ Part E—Energy Conservation Program for Schools and Hospitals  </td>
 
   <tr>
 
-    <td> 6371j.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs6371j" data-uslm-ref="/us/usc/t42/s6371j">6371j.</a>  </td>
 
     <td> Application of sections 3141–3144, 3146, and 3147 of title 40.  </td>
 
@@ -1023,7 +1025,7 @@ Part F—Energy Conservation Program for Buildings Owned by Units of Local Gover
 
   <tr>
 
-    <td> 6372.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs6372" data-uslm-ref="/us/usc/t42/s6372">6372.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -1031,7 +1033,7 @@ Part F—Energy Conservation Program for Buildings Owned by Units of Local Gover
 
   <tr>
 
-    <td> 6372a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs6372a" data-uslm-ref="/us/usc/t42/s6372a">6372a.</a>  </td>
 
     <td> Guidelines.  </td>
 
@@ -1039,7 +1041,7 @@ Part F—Energy Conservation Program for Buildings Owned by Units of Local Gover
 
   <tr>
 
-    <td> 6372b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs6372b" data-uslm-ref="/us/usc/t42/s6372b">6372b.</a>  </td>
 
     <td> Preliminary energy audits and energy audits.  </td>
 
@@ -1047,7 +1049,7 @@ Part F—Energy Conservation Program for Buildings Owned by Units of Local Gover
 
   <tr>
 
-    <td> 6372c.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs6372c" data-uslm-ref="/us/usc/t42/s6372c">6372c.</a>  </td>
 
     <td> State plans.  </td>
 
@@ -1055,7 +1057,7 @@ Part F—Energy Conservation Program for Buildings Owned by Units of Local Gover
 
   <tr>
 
-    <td> 6372d.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs6372d" data-uslm-ref="/us/usc/t42/s6372d">6372d.</a>  </td>
 
     <td> Applications for grants for technical assistance.  </td>
 
@@ -1063,7 +1065,7 @@ Part F—Energy Conservation Program for Buildings Owned by Units of Local Gover
 
   <tr>
 
-    <td> 6372e.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs6372e" data-uslm-ref="/us/usc/t42/s6372e">6372e.</a>  </td>
 
     <td> Grants for technical assistance.  </td>
 
@@ -1071,7 +1073,7 @@ Part F—Energy Conservation Program for Buildings Owned by Units of Local Gover
 
   <tr>
 
-    <td> 6372f.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs6372f" data-uslm-ref="/us/usc/t42/s6372f">6372f.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 
@@ -1079,7 +1081,7 @@ Part F—Energy Conservation Program for Buildings Owned by Units of Local Gover
 
   <tr>
 
-    <td> 6372g.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs6372g" data-uslm-ref="/us/usc/t42/s6372g">6372g.</a>  </td>
 
     <td> Allocation of grants.  </td>
 
@@ -1087,7 +1089,7 @@ Part F—Energy Conservation Program for Buildings Owned by Units of Local Gover
 
   <tr>
 
-    <td> 6372h.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs6372h" data-uslm-ref="/us/usc/t42/s6372h">6372h.</a>  </td>
 
     <td> Administration; detailed description in annual report.  </td>
 
@@ -1095,7 +1097,7 @@ Part F—Energy Conservation Program for Buildings Owned by Units of Local Gover
 
   <tr>
 
-    <td> 6372i.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs6372i" data-uslm-ref="/us/usc/t42/s6372i">6372i.</a>  </td>
 
     <td> Records.  </td>
 
@@ -1111,7 +1113,7 @@ Part G—Off-Highway Motor Vehicles  </td>
 
   <tr>
 
-    <td> 6373.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs6373" data-uslm-ref="/us/usc/t42/s6373">6373.</a>  </td>
 
     <td> Off-highway motor vehicles.  </td>
 
@@ -1127,7 +1129,7 @@ Part H—Encouraging Use of Alternative Fuels  </td>
 
   <tr>
 
-    <td> 6374.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs6374" data-uslm-ref="/us/usc/t42/s6374">6374.</a>  </td>
 
     <td> Alternative fuel use by light duty Federal vehicles.  </td>
 
@@ -1135,7 +1137,7 @@ Part H—Encouraging Use of Alternative Fuels  </td>
 
   <tr>
 
-    <td> 6374a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs6374a" data-uslm-ref="/us/usc/t42/s6374a">6374a.</a>  </td>
 
     <td> Alternative fuels truck commercial application program.  </td>
 
@@ -1143,7 +1145,7 @@ Part H—Encouraging Use of Alternative Fuels  </td>
 
   <tr>
 
-    <td> 6374b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs6374b" data-uslm-ref="/us/usc/t42/s6374b">6374b.</a>  </td>
 
     <td> Alternative fuels bus program.  </td>
 
@@ -1151,7 +1153,7 @@ Part H—Encouraging Use of Alternative Fuels  </td>
 
   <tr>
 
-    <td> 6374c.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs6374c" data-uslm-ref="/us/usc/t42/s6374c">6374c.</a>  </td>
 
     <td> Omitted.  </td>
 
@@ -1159,7 +1161,7 @@ Part H—Encouraging Use of Alternative Fuels  </td>
 
   <tr>
 
-    <td> 6374d.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs6374d" data-uslm-ref="/us/usc/t42/s6374d">6374d.</a>  </td>
 
     <td> Studies and reports.  </td>
 
@@ -1167,7 +1169,7 @@ Part H—Encouraging Use of Alternative Fuels  </td>
 
   <tr>
 
-    <td> 6374e.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs6374e" data-uslm-ref="/us/usc/t42/s6374e">6374e.</a>  </td>
 
     <td> Federal fleet conservation requirements.  </td>
 
@@ -1191,7 +1193,7 @@ Part A—Energy Data Base and Energy Information  </td>
 
   <tr>
 
-    <td> 6381.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs6381" data-uslm-ref="/us/usc/t42/s6381">6381.</a>  </td>
 
     <td> Verification examinations.  </td>
 
@@ -1199,7 +1201,7 @@ Part A—Energy Data Base and Energy Information  </td>
 
   <tr>
 
-    <td> 6382.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs6382" data-uslm-ref="/us/usc/t42/s6382">6382.</a>  </td>
 
     <td> Powers and duties of Comptroller General.  </td>
 
@@ -1207,7 +1209,7 @@ Part A—Energy Data Base and Energy Information  </td>
 
   <tr>
 
-    <td> 6383.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs6383" data-uslm-ref="/us/usc/t42/s6383">6383.</a>  </td>
 
     <td> Accounting practices.  </td>
 
@@ -1215,7 +1217,7 @@ Part A—Energy Data Base and Energy Information  </td>
 
   <tr>
 
-    <td> 6384.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs6384" data-uslm-ref="/us/usc/t42/s6384">6384.</a>  </td>
 
     <td> Enforcement.  </td>
 
@@ -1223,7 +1225,7 @@ Part A—Energy Data Base and Energy Information  </td>
 
   <tr>
 
-    <td> 6385.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs6385" data-uslm-ref="/us/usc/t42/s6385">6385.</a>  </td>
 
     <td> Petroleum product information.  </td>
 
@@ -1239,7 +1241,7 @@ Part B—General Provisions  </td>
 
   <tr>
 
-    <td> 6391.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs6391" data-uslm-ref="/us/usc/t42/s6391">6391.</a>  </td>
 
     <td> Prohibited actions.  </td>
 
@@ -1247,7 +1249,7 @@ Part B—General Provisions  </td>
 
   <tr>
 
-    <td> 6392.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs6392" data-uslm-ref="/us/usc/t42/s6392">6392.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -1255,7 +1257,7 @@ Part B—General Provisions  </td>
 
   <tr>
 
-    <td> 6393.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs6393" data-uslm-ref="/us/usc/t42/s6393">6393.</a>  </td>
 
     <td> Administrative procedure and judicial review.  </td>
 
@@ -1263,7 +1265,7 @@ Part B—General Provisions  </td>
 
   <tr>
 
-    <td> 6394.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs6394" data-uslm-ref="/us/usc/t42/s6394">6394.</a>  </td>
 
     <td> Prohibited acts.  </td>
 
@@ -1271,7 +1273,7 @@ Part B—General Provisions  </td>
 
   <tr>
 
-    <td> 6395.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs6395" data-uslm-ref="/us/usc/t42/s6395">6395.</a>  </td>
 
     <td> Enforcement.  </td>
 
@@ -1279,7 +1281,7 @@ Part B—General Provisions  </td>
 
   <tr>
 
-    <td> 6396.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs6396" data-uslm-ref="/us/usc/t42/s6396">6396.</a>  </td>
 
     <td> State laws or programs.  </td>
 
@@ -1287,7 +1289,7 @@ Part B—General Provisions  </td>
 
   <tr>
 
-    <td> 6397.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs6397" data-uslm-ref="/us/usc/t42/s6397">6397.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -1295,7 +1297,7 @@ Part B—General Provisions  </td>
 
   <tr>
 
-    <td> 6398.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs6398" data-uslm-ref="/us/usc/t42/s6398">6398.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 
@@ -1303,7 +1305,7 @@ Part B—General Provisions  </td>
 
   <tr>
 
-    <td> 6399.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs6399" data-uslm-ref="/us/usc/t42/s6399">6399.</a>  </td>
 
     <td> Intrastate natural gas.  </td>
 
@@ -1311,7 +1313,7 @@ Part B—General Provisions  </td>
 
   <tr>
 
-    <td> 6400.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs6400" data-uslm-ref="/us/usc/t42/s6400">6400.</a>  </td>
 
     <td> Limitation on loan guarantees.  </td>
 
@@ -1319,7 +1321,7 @@ Part B—General Provisions  </td>
 
   <tr>
 
-    <td> 6401.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs6401" data-uslm-ref="/us/usc/t42/s6401">6401.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -1335,7 +1337,7 @@ Part C—Congressional Review  </td>
 
   <tr>
 
-    <td> 6421.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs6421" data-uslm-ref="/us/usc/t42/s6421">6421.</a>  </td>
 
     <td> Procedure for Congressional review of Presidential requests to implement certain authorities.  </td>
 
@@ -1343,7 +1345,7 @@ Part C—Congressional Review  </td>
 
   <tr>
 
-    <td> 6422.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs6422" data-uslm-ref="/us/usc/t42/s6422">6422.</a>  </td>
 
     <td> Expedited procedure for Congressional consideration of certain authorities.  </td>
 

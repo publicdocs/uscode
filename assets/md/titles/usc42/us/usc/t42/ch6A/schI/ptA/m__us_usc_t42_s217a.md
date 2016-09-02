@@ -45,13 +45,13 @@
 
  __Transfer of Functions__ 
 
-    Office of Surgeon General abolished by section 3 of Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, [80 Stat. 1610][/us/stat/80/1610], and functions thereof transferred to Secretary of Health, Education, and Welfare by section 1 of Reorg. Plan No. 3 of 1966, set out as a note under [section 202 of this title][/us/usc/t42/s202]. Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by [section 509(b) of Pub. L. 96–88][/us/pl/96/88/s509/b] which is classified to [section 3508(b) of Title 20][/us/usc/t20/s3508/b], Education.
+    Office of Surgeon General abolished by section 3 of Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, [80 Stat. 1610][/us/stat/80/1610], and functions thereof transferred to Secretary of Health, Education, and Welfare by section 1 of Reorg. Plan No. 3 of 1966, set out as a note under [section 202 of this title][/us/usc/t42/s202]. Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by [section 509(b) of Pub. L. 96–88][/us/pl/96/88/s509/b] which is classified to [section 3508(b) of Title 20][/us/usc/t20/s3508/b], Education. Office of Surgeon General reestablished within the Office of the Assistant Secretary for Health, see Notice of Department of Health and Human Services, Office of the Assistant Secretary for Health, Mar. 30, 1987, 52 F.R. 11754.
 
  __Termination of Advisory Committees; Report by Secretary to Congressional Committees Relating to Termination__ 
 
 [Pub. L. 93–641, § 6][/us/pl/93/641/s6], Jan. 4, 1975, [88 Stat. 2275][/us/stat/88/2275], provided that:
 
->     “(a) An advisory committee established by or pursuant to the Public Health Service Act \[section 201 et seq. of this title\], the Mental Retardation Facilities and Community Mental Health Centers Construction Act of 1963 \[sections 2689 et seq. and 6001 et seq. of this title\], or the Comprehensive Alcohol Abuse and Alcoholism Prevention, Treatment, and Rehabilitation Act of 1970 \[section 4541 et seq. of this title\] shall terminate at such time as may be specifically prescribed by an Act of Congress enacted after the date of the enactment of this Act \[Jan. 4, 1975\].
+>     “(a) An advisory committee established by or pursuant to the Public Health Service Act \[[42 U.S.C. 201][/us/usc/t42/s201] et seq.\], the Mental Retardation Facilities and Community Mental Health Centers Construction Act of 1963 \[former [42 U.S.C. 2689][/us/usc/t42/s2689] et seq., 6001 et seq.\], or the Comprehensive Alcohol Abuse and Alcoholism Prevention, Treatment, and Rehabilitation Act of 1970 \[[42 U.S.C. 4541][/us/usc/t42/s4541] et seq.\] shall terminate at such time as may be specifically prescribed by an Act of Congress enacted after the date of the enactment of this Act \[Jan. 4, 1975\].
 
 >     “(b) The Secretary of Health, Education, and Welfare shall report, within one year after the date of the enactment of the Act \[Jan. 4, 1975\], to the Committee on Labor and Public Welfare of the Senate and the Committee on Interstate and Foreign Commerce of the House of Representatives (1) the purpose and use of each advisory committee established by or pursuant to the Public Health Service Act, the Mental Retardation Facilities and Community Mental Health Centers Construction Act of 1963, or the Comprehensive Alcohol Abuse and Alcoholism Prevention, Treatment, and Rehabilitation Act of 1970 and (2) his recommendations respecting the termination of each such advisory committee.”
 
@@ -81,5 +81,8 @@
 [/us/usc/t20/s3508/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs3508%2Fb
 [/us/pl/93/641/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F641%2Fs6
 [/us/stat/88/2275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2275
+[/us/usc/t42/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs201
+[/us/usc/t42/s2689]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2689
+[/us/usc/t42/s4541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4541
 
 

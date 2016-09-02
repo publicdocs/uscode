@@ -101,7 +101,7 @@
 
 [Pub. L. 101–239, title VI, § 6012(b)][/us/pl/101/239/s6012/b], Dec. 19, 1989, [103 Stat. 2163][/us/stat/103/2163], provided that: 
 
-> “The amendments made by this section \[enacting this section and amending [section 1395i–2 of this title][/us/usc/t42/s1395i–2]\] shall take effect on the date of the enactment of this Act \[Dec. 19, 1989\], but shall not apply so as to provide for coverage under part A of title XVIII of the Social Security Act \[this part\] for any month before July 1990.”
+> “The amendments made by this section \[enacting this section and amending [section 1395i–2 of this title][/us/usc/t42/s1395i–2]\] shall take effect on the date of the enactment of this Act \[Dec. 19, 1989\], but shall not apply so as to provide for coverage under part A of title XVIII of the Social Security Act \[[42 U.S.C. 1395c][/us/usc/t42/s1395c] et seq.\] for any month before July 1990.”
 
 ----------
 
@@ -132,5 +132,6 @@
 [/us/pl/101/239/s6012/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs6012%2Fb
 [/us/stat/103/2163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2163
 [/us/usc/t42/s1395i–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395i%E2%80%932
+[/us/usc/t42/s1395c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395c
 
 

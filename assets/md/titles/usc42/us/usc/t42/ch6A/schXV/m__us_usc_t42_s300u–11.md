@@ -61,7 +61,7 @@
 
 [Pub. L. 112–74, div. F, title II, § 220(a)][/us/pl/112/74/s220/a], Dec. 23, 2011, [125 Stat. 1085][/us/stat/125/1085], provided that: 
 
-> “The Secretary \[of Health and Human Services\] shall establish a publicly accessible website to provide information regarding the uses of funds made available under [section 4002 of Public Law 111–148][/us/pl/111/148/s4002] \[this section\].”
+> “The Secretary \[of Health and Human Services\] shall establish a publicly accessible website to provide information regarding the uses of funds made available under [section 4002 of Public Law 111–148][/us/pl/111/148/s4002] \[[42 U.S.C. 300u–11][/us/usc/t42/s300u–11]\].”
 
 ----------
 
@@ -83,5 +83,6 @@
 [/us/pl/112/74/s220/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs220%2Fa
 [/us/stat/125/1085]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1085
 [/us/pl/111/148/s4002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs4002
+[/us/usc/t42/s300u–11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300u%E2%80%9311
 
 

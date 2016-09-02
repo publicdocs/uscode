@@ -33,7 +33,7 @@ SUBCHAPTER I—CRIME IDENTIFICATION TECHNOLOGY  </td>
 
   <tr>
 
-    <td> 14601.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs14601" data-uslm-ref="/us/usc/t42/s14601">14601.</a>  </td>
 
     <td> State grant program for criminal justice identification, information, and communication.  </td>
 
@@ -49,7 +49,7 @@ SUBCHAPTER II—EXCHANGE OF CRIMINAL HISTORY RECORDS FOR NONCRIMINAL JUSTICE PUR
 
   <tr>
 
-    <td> 14611.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs14611" data-uslm-ref="/us/usc/t42/s14611">14611.</a>  </td>
 
     <td> Findings.  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER II—EXCHANGE OF CRIMINAL HISTORY RECORDS FOR NONCRIMINAL JUSTICE PUR
 
   <tr>
 
-    <td> 14612.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs14612" data-uslm-ref="/us/usc/t42/s14612">14612.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -65,7 +65,7 @@ SUBCHAPTER II—EXCHANGE OF CRIMINAL HISTORY RECORDS FOR NONCRIMINAL JUSTICE PUR
 
   <tr>
 
-    <td> 14613.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs14613" data-uslm-ref="/us/usc/t42/s14613">14613.</a>  </td>
 
     <td> Enactment and consent of the United States.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER II—EXCHANGE OF CRIMINAL HISTORY RECORDS FOR NONCRIMINAL JUSTICE PUR
 
   <tr>
 
-    <td> 14614.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs14614" data-uslm-ref="/us/usc/t42/s14614">14614.</a>  </td>
 
     <td> Effect on other laws.  </td>
 
@@ -81,7 +81,7 @@ SUBCHAPTER II—EXCHANGE OF CRIMINAL HISTORY RECORDS FOR NONCRIMINAL JUSTICE PUR
 
   <tr>
 
-    <td> 14615.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs14615" data-uslm-ref="/us/usc/t42/s14615">14615.</a>  </td>
 
     <td> Enforcement and implementation.  </td>
 
@@ -89,7 +89,7 @@ SUBCHAPTER II—EXCHANGE OF CRIMINAL HISTORY RECORDS FOR NONCRIMINAL JUSTICE PUR
 
   <tr>
 
-    <td> 14616.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs14616" data-uslm-ref="/us/usc/t42/s14616">14616.</a>  </td>
 
     <td> National Crime Prevention and Privacy Compact.  </td>
 

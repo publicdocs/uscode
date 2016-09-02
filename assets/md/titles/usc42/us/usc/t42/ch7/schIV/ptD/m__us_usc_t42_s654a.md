@@ -197,7 +197,7 @@
 
 [Pub. L. 104–193, title III, § 344(a)(3)][/us/pl/104/193/s344/a/3], Aug. 22, 1996, [110 Stat. 2236][/us/stat/110/2236], provided that: 
 
-> “The Secretary of Health and Human Services shall prescribe final regulations for implementation of section 454A of the Social Security Act \[this section\] not later than 2 years after the date of the enactment of this Act \[Aug. 22, 1996\].”
+> “The Secretary of Health and Human Services shall prescribe final regulations for implementation of section 454A of the Social Security Act \[[42 U.S.C. 654a][/us/usc/t42/s654a]\] not later than 2 years after the date of the enactment of this Act \[Aug. 22, 1996\].”
 
 ----------
 
@@ -238,5 +238,6 @@
 [/us/usc/t42/s654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs654
 [/us/pl/104/193/s344/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs344%2Fa%2F3
 [/us/stat/110/2236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2236
+[/us/usc/t42/s654a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs654a
 
 

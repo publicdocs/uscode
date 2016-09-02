@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 3271.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs3271" data-uslm-ref="/us/usc/t42/s3271">3271.</a>  </td>
 
     <td> Availability of soil surveys under soil survey program.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 3272.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs3272" data-uslm-ref="/us/usc/t42/s3272">3272.</a>  </td>
 
     <td> Cooperative assistance to State and other public agencies; types of assistance; private engineering services.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 3273.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs3273" data-uslm-ref="/us/usc/t42/s3273">3273.</a>  </td>
 
     <td> Contributions of State or other public agencies toward cost of soil surveys.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 3274.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs3274" data-uslm-ref="/us/usc/t42/s3274">3274.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 

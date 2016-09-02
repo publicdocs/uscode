@@ -395,7 +395,7 @@
 
 [Pub. L. 89–97, title IV, § 408(b)][/us/pl/89/97/s408/b], July 30, 1965, [79 Stat. 422][/us/stat/79/422], provided that: 
 
-> “The amendments made by subsection (a) \[amending this section\] shall be effective in the case of Puerto Rico, the Virgin Islands, or Guam with respect to fiscal years beginning on or after the date on which its plan under title XIX of the Social Security Act \[section 1396 et seq. of this title\] is approved.”
+> “The amendments made by subsection (a) \[amending this section\] shall be effective in the case of Puerto Rico, the Virgin Islands, or Guam with respect to fiscal years beginning on or after the date on which its plan under title XIX of the Social Security Act \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\] is approved.”
 
  __Effective Date of 1962 Amendment__ 
 
@@ -653,6 +653,7 @@
 [/us/stat/79/356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F356
 [/us/pl/89/97/s408/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97%2Fs408%2Fb
 [/us/stat/79/422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F422
+[/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
 [/us/pl/87/543/s151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F543%2Fs151
 [/us/stat/76/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F206
 [/us/pl/87/543/s132/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F543%2Fs132%2Fd

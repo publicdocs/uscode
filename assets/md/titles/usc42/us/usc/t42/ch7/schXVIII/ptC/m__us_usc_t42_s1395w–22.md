@@ -805,7 +805,7 @@
 
 [Pub. L. 110–275, title I, § 164(f)(2)][/us/pl/110/275/s164/f/2], July 15, 2008, [122 Stat. 2575][/us/stat/122/2575], provided that: 
 
-> “The amendment made by paragraph (1) \[amending this section\] shall take effect on a date specified by the Secretary of Health and Human Services (but in no case later than January 1, 2010), and shall apply to all specialized Medicare Advantage plans for special needs individuals regardless of when the plan first entered the Medicare Advantage program under part C of title XVIII of the Social Security Act \[this part\].”
+> “The amendment made by paragraph (1) \[amending this section\] shall take effect on a date specified by the Secretary of Health and Human Services (but in no case later than January 1, 2010), and shall apply to all specialized Medicare Advantage plans for special needs individuals regardless of when the plan first entered the Medicare Advantage program under part C of title XVIII of the Social Security Act \[[42 U.S.C. 1395w–21][/us/usc/t42/s1395w–21] et seq.\].”
 
 [Pub. L. 110–275, title I, § 165(b)][/us/pl/110/275/s165/b], July 15, 2008, [122 Stat. 2575][/us/stat/122/2575], provided that: 
 
@@ -1028,6 +1028,7 @@
 [/us/stat/122/2571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2571
 [/us/pl/110/275/s164/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F275%2Fs164%2Ff%2F2
 [/us/stat/122/2575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2575
+[/us/usc/t42/s1395w–21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%9321
 [/us/pl/110/275/s165/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F275%2Fs165%2Fb
 [/us/stat/122/2575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2575
 [/us/pl/108/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173

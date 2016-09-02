@@ -125,7 +125,7 @@
 
 [Act Aug. 6, 1947, ch. 510, § 4][/us/act/1947-08-06/ch510/s4], [61 Stat. 794][/us/stat/61/794], provided: 
 
-> “Section 603 of the War Mobilization and Reconversion Act of 1944 \[formerly set out as a note under section 1651 of Appendix to Title 50, War and National Defense\] (terminating the provisions of such Act \[sections 1651 to 1678 of Appendix to title 50\] on June 30, 1947) shall not be applicable in the case of the amendments made by title IV of such Act \[amending sections 1666 and 1667 of Appendix to Title 50\] to the Social Security Act \[this section and [section 1321 of this title][/us/usc/t42/s1321]\].”
+> “Section 603 of the War Mobilization and Reconversion Act of 1944 \[formerly set out as a note under section 1651 of Appendix to Title 50, War and National Defense\] (terminating the provisions of such Act \[sections 1651 to 1678 of Appendix to title 50\] on June 30, 1947) shall not be applicable in the case of the amendments made by title IV of such Act \[amending sections 1666 and 1667 of Appendix to Title 50\] to the Social Security Act \[[42 U.S.C. 1104][/us/usc/t42/s1104], 1321\].”
 
  __Payments to States__ 
 
@@ -192,7 +192,7 @@
 [/us/usc/t42/s1321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1321
 [/us/act/1947-08-06/ch510/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-08-06%2Fch510%2Fs4
 [/us/stat/61/794]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F794
-[/us/usc/t42/s1321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1321
+[/us/usc/t42/s1104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1104
 [/us/act/1937-08-24/ch755]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-08-24%2Fch755
 [/us/stat/50/754]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F50%2F754
 

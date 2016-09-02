@@ -1247,7 +1247,7 @@ See 2010 Amendment notes below.
 
 [Pub. L. 108–173, title I, § 103(e)(2)][/us/pl/108/173/s103/e/2], Dec. 8, 2003, [117 Stat. 2160][/us/stat/117/2160], provided that: 
 
-> “Section 1927(c)(1)(C)(i)(VI) of the Social Security Act \[subsec. (c)(1)(C)(i)(VI) of this section\], as added by paragraph (1), shall apply to prices charged for drugs dispensed on or after January 1, 2006.”
+> “Section 1927(c)(1)(C)(i)(VI) of the Social Security Act \[[42 U.S.C. 1396r–8(c)(1)(C)(i)(VI)][/us/usc/t42/s1396r–8/c/1/C/i/VI]\], as added by paragraph (1), shall apply to prices charged for drugs dispensed on or after January 1, 2006.”
 
  __Effective Date of 1999 Amendment__ 
 
@@ -1267,7 +1267,7 @@ See 2010 Amendment notes below.
 
 >     “(1) Except as provided in paragraph (2), the amendments made by this section \[amending this section and sections 1396a and 1396b of this title\] shall take effect as if included in the enactment of OBRA–1990 \[[Pub. L. 101–508][/us/pl/101/508]\].
 
->     “(2) The amendment made by subsection (a)(1) \[amending this section\] (insofar as such subsection amends section 1927(d) of the Social Security Act \[subsec. (d) of this section\]) and the amendment made by subsection (c) \[amending [section 1396a of this title][/us/usc/t42/s1396a]\] shall apply to calendar quarters beginning on or after October 1, 1993, without regard to whether or not regulations to carry out such amendments have been promulgated by such date.”
+>     “(2) The amendment made by subsection (a)(1) \[amending this section\] (insofar as such subsection amends section 1927(d) of the Social Security Act \[[42 U.S.C. 1396r–8(d)][/us/usc/t42/s1396r–8/d]\]) and the amendment made by subsection (c) \[amending [section 1396a of this title][/us/usc/t42/s1396a]\] shall apply to calendar quarters beginning on or after October 1, 1993, without regard to whether or not regulations to carry out such amendments have been promulgated by such date.”
 
 [Pub. L. 103–18, § 2(b)][/us/pl/103/18/s2/b], Apr. 12, 1993, [107 Stat. 54][/us/stat/107/54], provided that: 
 
@@ -1277,7 +1277,7 @@ See 2010 Amendment notes below.
 
 [Pub. L. 102–585, title VI, § 601(e)][/us/pl/102/585/s601/e], Nov. 4, 1992, [106 Stat. 4966][/us/stat/106/4966], provided that: 
 
-> “The amendments made by this section \[amending this section\] shall apply with respect to payments to State plans under title XIX of the Social Security Act \[this subchapter\] for calendar quarters (or periods) beginning on or after January 1, 1993 (without regard to whether or not regulations to carry out such amendments have been promulgated by such date).”
+> “The amendments made by this section \[amending this section\] shall apply with respect to payments to State plans under title XIX of the Social Security Act \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\] for calendar quarters (or periods) beginning on or after January 1, 1993 (without regard to whether or not regulations to carry out such amendments have been promulgated by such date).”
 
  __Regulations__ 
 
@@ -1287,7 +1287,7 @@ See 2010 Amendment notes below.
 
 >     Not later than June 1, 2006, the Inspector General of the Department of Health and Human Services shall—
 
->         “(i) review the requirements for, and manner in which, average manufacturer prices are determined under section 1927 of the Social Security Act \[this section\], as amended by this section; and
+>         “(i) review the requirements for, and manner in which, average manufacturer prices are determined under section 1927 of the Social Security Act \[[42 U.S.C. 1396r–8][/us/usc/t42/s1396r–8]\], as amended by this section; and
 
 >         “(ii) shall submit to the Secretary of Health and Human Services and Congress such recommendations for changes in such requirements or manner as the Inspector General determines to be appropriate.
 
@@ -1626,6 +1626,7 @@ See 2010 Amendment notes below.
 [/us/usc/t42/s1396b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396b
 [/us/pl/108/173/s103/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs103%2Fe%2F2
 [/us/stat/117/2160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2160
+[/us/usc/t42/s1396r–8/c/1/C/i/VI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396r%E2%80%938%2Fc%2F1%2FC%2Fi%2FVI
 [/us/pl/106/113/s1000/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F6
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
 [/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
@@ -1637,14 +1638,17 @@ See 2010 Amendment notes below.
 [/us/pl/103/66/s13602/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13602%2Fd
 [/us/stat/107/619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F619
 [/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/usc/t42/s1396r–8/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396r%E2%80%938%2Fd
 [/us/usc/t42/s1396a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396a
 [/us/pl/103/18/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F18%2Fs2%2Fb
 [/us/stat/107/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F54
 [/us/pl/102/585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F585
 [/us/pl/102/585/s601/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F585%2Fs601%2Fe
 [/us/stat/106/4966]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4966
+[/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
 [/us/pl/109/171/s6001/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2Fs6001%2Fc%2F3
 [/us/stat/120/55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F55
+[/us/usc/t42/s1396r–8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396r%E2%80%938
 [/us/pl/110/275/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F275%2Fs203
 [/us/stat/122/2592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2592
 [/us/usc/t42/s1396r–8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396r%E2%80%938

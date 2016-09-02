@@ -87,7 +87,7 @@
 
 >     “(2) __Limited exception to unit handling payments.—__ 
 
->     Notwithstanding section 454B(b)(1) of the Social Security Act \[subsec. (b)(1) of this section\], as added by this section, any State which, as of the date of the enactment of this Act \[Aug. 22, 1996\], processes the receipt of child support payments through local courts may, at the option of the State, continue to process through September 30, 1999, such payments through such courts as processed such payments on or before such date of enactment.”
+>     Notwithstanding section 454B(b)(1) of the Social Security Act \[[42 U.S.C. 654b(b)(1)][/us/usc/t42/s654b/b/1]\], as added by this section, any State which, as of the date of the enactment of this Act \[Aug. 22, 1996\], processes the receipt of child support payments through local courts may, at the option of the State, continue to process through September 30, 1999, such payments through such courts as processed such payments on or before such date of enactment.”
 
     For provisions relating to effective date of title III of [Pub. L. 104–193][/us/pl/104/193], see section 395(a)–(c) of [Pub. L. 104–193][/us/pl/104/193], set out as an Effective Date of 1996 Amendment note under [section 654 of this title][/us/usc/t42/s654].
 
@@ -115,6 +115,7 @@
 [/us/usc/t42/s608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs608
 [/us/pl/104/193/s312/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs312%2Fd
 [/us/stat/110/2209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2209
+[/us/usc/t42/s654b/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs654b%2Fb%2F1
 [/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
 [/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
 [/us/usc/t42/s654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs654

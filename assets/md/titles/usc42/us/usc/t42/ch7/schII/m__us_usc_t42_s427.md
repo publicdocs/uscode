@@ -93,25 +93,25 @@
 
 [Pub. L. 92–5, title II, § 202(c)][/us/pl/92/5/s202/c], Mar. 17, 1971, [85 Stat. 10][/us/stat/85/10], provided that: 
 
-> “The amendments made by subsections (a) and (b) \[amending this section and [section 428 of this title][/us/usc/t42/s428]\] shall apply with respect to monthly benefits under title II of the Social Security Act \[this subchapter\] for months after December 1970.”
+> “The amendments made by subsections (a) and (b) \[amending this section and [section 428 of this title][/us/usc/t42/s428]\] shall apply with respect to monthly benefits under title II of the Social Security Act \[[42 U.S.C. 401][/us/usc/t42/s401] et seq.\] for months after December 1970.”
 
  __Effective Date of 1969 Amendment__ 
 
 [Pub. L. 91–172, title X, § 1003(c)][/us/pl/91/172/s1003/c], Dec. 30, 1969, [83 Stat. 741][/us/stat/83/741], provided that: 
 
-> “The amendments made by subsections (a) and (b) \[amending this section and [section 428 of this title][/us/usc/t42/s428]\] shall apply with respect to monthly benefits under title II of the Social Security Act \[this subchapter\] for months after December 1969.”
+> “The amendments made by subsections (a) and (b) \[amending this section and [section 428 of this title][/us/usc/t42/s428]\] shall apply with respect to monthly benefits under title II of the Social Security Act \[[42 U.S.C. 401][/us/usc/t42/s401] et seq.\] for months after December 1969.”
 
  __Effective Date of 1968 Amendment__ 
 
 [Pub. L. 90–248, title I, § 102(c)][/us/pl/90/248/s102/c], Jan. 2, 1968, [81 Stat. 828][/us/stat/81/828], provided that: 
 
-> “The amendments made by subsections (a) and (b) \[amending this section and [section 428 of this title][/us/usc/t42/s428]\] shall apply with respect to monthly benefits under title II of the Social Security Act \[this subchapter\] for months after January 1968.”
+> “The amendments made by subsections (a) and (b) \[amending this section and [section 428 of this title][/us/usc/t42/s428]\] shall apply with respect to monthly benefits under title II of the Social Security Act \[[42 U.S.C. 401][/us/usc/t42/s401] et seq.\] for months after January 1968.”
 
  __Effective Date__ 
 
 [Pub. L. 89–97, title III, § 309(b)][/us/pl/89/97/s309/b], July 30, 1965, [79 Stat. 380][/us/stat/79/380], provided that: 
 
-> “The amendment made by subsection (a) \[enacting this section\] shall apply in the case of monthly benefits under title II of the Social Security Act \[this subchapter\] for and after the second month following the month \[July 1965\] in which this Act is enacted on the basis of applications filed in or after the month in which this Act is enacted.”
+> “The amendment made by subsection (a) \[enacting this section\] shall apply in the case of monthly benefits under title II of the Social Security Act \[[42 U.S.C. 401][/us/usc/t42/s401] et seq.\] for and after the second month following the month \[July 1965\] in which this Act is enacted on the basis of applications filed in or after the month in which this Act is enacted.”
 
  __Repeal of Amendment of Subsecs. (a) and (b) Prior to Effective Date__ 
 
@@ -199,14 +199,18 @@
 [/us/pl/92/5/s202/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F5%2Fs202%2Fc
 [/us/stat/85/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F10
 [/us/usc/t42/s428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs428
+[/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
 [/us/pl/91/172/s1003/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs1003%2Fc
 [/us/stat/83/741]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F741
 [/us/usc/t42/s428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs428
+[/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
 [/us/pl/90/248/s102/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248%2Fs102%2Fc
 [/us/stat/81/828]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F828
 [/us/usc/t42/s428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs428
+[/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
 [/us/pl/89/97/s309/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97%2Fs309%2Fb
 [/us/stat/79/380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F380
+[/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
 [/us/pl/92/336/s202/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F336%2Fs202%2Fa%2F4
 [/us/stat/86/416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F416
 [/us/usc/t42/s415/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs415%2Fi

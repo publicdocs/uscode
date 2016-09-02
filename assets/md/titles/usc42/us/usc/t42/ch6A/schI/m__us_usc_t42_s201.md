@@ -1345,7 +1345,7 @@ Act June 16, 1948, § 1, [62 Stat. 464][/us/stat/62/464], provided that:
 
 [Pub. L. 91–296, title VI, § 601][/us/pl/91/296/s601], June 30, 1970, [84 Stat. 353][/us/stat/84/353], as amended [Pub. L. 93–45, title IV, § 401(a)][/us/pl/93/45/s401/a], June 18, 1973, [87 Stat. 95][/us/stat/87/95]; [Pub. L. 93–352, title I, § 113][/us/pl/93/352/s113], July 23, 1974, [88 Stat. 360][/us/stat/88/360], provided that: 
 
-> “Notwithstanding any other provision of law, unless enacted after the enactment of this Act \[June 30, 1970\] expressly in limitation of the provisions of this section, funds appropriated for any fiscal year to carry out any program for which appropriations are authorized by the Public Health Service Act (Public Law 410, Seventy-eighth Congress, as amended) \[this chapter\] or the Mental Retardation Facilities and Community Mental Health Centers Construction Act of 1963 ([Public Law 88–164][/us/pl/88/164], as amended) \[sections 2689 et seq. and 6001 et seq. of this title\] shall remain available for obligation and expenditure until the end of such fiscal year.”
+> “Notwithstanding any other provision of law, unless enacted after the enactment of this Act \[June 30, 1970\] expressly in limitation of the provisions of this section, funds appropriated for any fiscal year to carry out any program for which appropriations are authorized by the Public Health Service Act (Public Law 410, Seventy-eighth Congress, as amended) \[[42 U.S.C. 201][/us/usc/t42/s201] et seq.\] or the Mental Retardation Facilities and Community Mental Health Centers Construction Act of 1963 ([Public Law 88–164][/us/pl/88/164], as amended) \[former [42 U.S.C. 2689][/us/usc/t42/s2689] et seq., 6001 et seq.\] shall remain available for obligation and expenditure until the end of such fiscal year.”
 
  __Federal Accountability__ 
 
@@ -2429,7 +2429,9 @@ Act June 16, 1948, § 1, [62 Stat. 464][/us/stat/62/464], provided that:
 [/us/stat/87/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F95
 [/us/pl/93/352/s113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F352%2Fs113
 [/us/stat/88/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F360
+[/us/usc/t42/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs201
 [/us/pl/88/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F164
+[/us/usc/t42/s2689]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2689
 [/us/pl/102/321/s203/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321%2Fs203%2Fb
 [/us/stat/106/410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F410
 [/us/pl/86/613/s18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F613%2Fs18

@@ -25,7 +25,7 @@
 
  __Study Regarding Coverage Under Part B of Medicare for Nonreimbursable Services Provided by Optometrists for Prosthetic Lenses for Patients With Aphakia__ 
 
-    [Pub. L. 94–182, title I, § 109][/us/pl/94/182/s109], Dec. 31, 1975, [89 Stat. 1053][/us/stat/89/1053], provided that the Secretary of Health, Education, and Welfare conduct a study on the appropriateness of reimbursement under the insurance program established by this part for services performed by optometrists with respect to the provision of prosthetic lenses for patients with aphakia and submit such study to Congress not later than 4 months after Dec. 31, 1975.
+    [Pub. L. 94–182, title I, § 109][/us/pl/94/182/s109], Dec. 31, 1975, [89 Stat. 1053][/us/stat/89/1053], provided that the Secretary of Health, Education, and Welfare \[now Health and Human Services\] conduct a study on the appropriateness of reimbursement under the insurance program established by this part for services performed by optometrists with respect to the provision of prosthetic lenses for patients with aphakia and submit such study to Congress not later than 4 months after Dec. 31, 1975.
 
  __Study To Determine Feasibility of Inclusion of Certain Additional Services Under Part B__ 
 

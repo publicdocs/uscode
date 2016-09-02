@@ -11,123 +11,101 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch136/schIII/ptG/m__us_usc_t42_ch136_schIII_ptG.md) | [Next](./../../../../../..//us/usc/t42/ch136/schIII/ptG/m__us_usc_t42_s14041a.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs14041)
+[Previous](./../../../../../..//us/usc/t42/ch136/schIII/ptG/m__us_usc_t42_ch136_schIII_ptG.md) | [Next](./../../../../../..//us/usc/t42/ch136/schIII/ptG/m__us_usc_t42_s14041a, 14041b.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs14041)
 
-## § 14041. Definitions
+## § 14041. Enhanced training and services to end abuse in later life
 
-In this part:
-
-    (1) __In general__ 
-
-        The terms “elder abuse, neglect, and exploitation”, and “older individual” have the meanings given the terms in [section 3002 of this title][/us/usc/t42/s3002].
-
-    (2) __Domestic violence__ 
-
-        The term “domestic violence” has the meaning given such term by section 3796gg–2  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title.
-
-    (3) __Sexual assault__ 
-
-        The term “sexual assault” has the meaning given the term in section 3796gg–2 1 of this title.
-
-([Pub. L. 103–322, title IV, § 40801][/us/pl/103/322/s40801], as added [Pub. L. 106–386, div. B, title II, § 1209(a)][/us/pl/106/386/s1209/a], Oct. 28, 2000, [114 Stat. 1508][/us/stat/114/1508]; amended [Pub. L. 113–4, title II, § 204(a)][/us/pl/113/4/s204/a], Mar. 7, 2013, [127 Stat. 82][/us/stat/127/82].)
-
- __Amendment of Section__ 
-
-[Pub. L. 113–4, § 4][/us/pl/113/4/s4], title II, § 204(a), Mar. 7, 2013, [127 Stat. 64][/us/stat/127/64], 82, provided that, effective at the beginning of the fiscal year following Mar. 7, 2013, this section is amended to read as follows:
-
-§ 14041. Enhanced training and services to end abuse in later life
-
-    (a) Definitions
+    (a) __Definitions__ 
 
     In this section—
 
-    (1) the term “exploitation” has the meaning given the term in [section 1397j of this title][/us/usc/t42/s1397j];
+        (1) the term “exploitation” has the meaning given the term in [section 1397j of this title][/us/usc/t42/s1397j];
 
-    (2) the term “later life”, relating to an individual, means the individual is 50 years of age or older; and
+        (2) the term “later life”, relating to an individual, means the individual is 50 years of age or older; and
 
-    (3) the term “neglect” means the failure of a caregiver or fiduciary to provide the goods or services that are necessary to maintain the health or safety of an individual in later life.
+        (3) the term “neglect” means the failure of a caregiver or fiduciary to provide the goods or services that are necessary to maintain the health or safety of an individual in later life.
 
-    (b) Grant program
+    (b) __Grant program__ 
 
-    (1) Grants authorized
+        (1) __Grants authorized__ 
 
-    The Attorney General may make grants to eligible entities to carry out the activities described in paragraph (2).
+            The Attorney General may make grants to eligible entities to carry out the activities described in paragraph (2).
 
-    (2) Mandatory and permissible activities
+        (2) __Mandatory and permissible activities__ 
 
-    (A) Mandatory activities
+            (A) __Mandatory activities__ 
 
-    An eligible entity receiving a grant under this section shall use the funds received under the grant to—
+            An eligible entity receiving a grant under this section shall use the funds received under the grant to—
 
-    (i) provide training programs to assist law enforcement agencies, prosecutors, agencies of States or units of local government, population specific organizations, victim service providers, victim advocates, and relevant officers in Federal, tribal, State, territorial, and local courts in recognizing and addressing instances of elder abuse;
+                (i) provide training programs to assist law enforcement agencies, prosecutors, agencies of States or units of local government, population specific organizations, victim service providers, victim advocates, and relevant officers in Federal, tribal, State, territorial, and local courts in recognizing and addressing instances of elder abuse;
 
-    (ii) provide or enhance services for victims of abuse in later life, including domestic violence, dating violence, sexual assault, stalking, exploitation, and neglect;
+                (ii) provide or enhance services for victims of abuse in later life, including domestic violence, dating violence, sexual assault, stalking, exploitation, and neglect;
 
-    (iii) establish or support multidisciplinary collaborative community responses to victims of abuse in later life, including domestic violence, dating violence, sexual assault, stalking, exploitation, and neglect; and
+                (iii) establish or support multidisciplinary collaborative community responses to victims of abuse in later life, including domestic violence, dating violence, sexual assault, stalking, exploitation, and neglect; and
 
-    (iv) conduct cross-training for law enforcement agencies, prosecutors, agencies of States or units of local government, attorneys, health care providers, population specific organizations, faith-based advocates, victim service providers, and courts to better serve victims of abuse in later life, including domestic violence, dating violence, sexual assault, stalking, exploitation, and neglect.
+                (iv) conduct cross-training for law enforcement agencies, prosecutors, agencies of States or units of local government, attorneys, health care providers, population specific organizations, faith-based advocates, victim service providers, and courts to better serve victims of abuse in later life, including domestic violence, dating violence, sexual assault, stalking, exploitation, and neglect.
 
-    (B) Permissible activities
+            (B) __Permissible activities__ 
 
-    An eligible entity receiving a grant under this section may use the funds received under the grant to—
+            An eligible entity receiving a grant under this section may use the funds received under the grant to—
 
-    (i) provide training programs to assist attorneys, health care providers, faith-based leaders, or other community-based organizations in recognizing and addressing instances of abuse in later life, including domestic violence, dating violence, sexual assault, stalking, exploitation, and neglect; or
+                (i) provide training programs to assist attorneys, health care providers, faith-based leaders, or other community-based organizations in recognizing and addressing instances of abuse in later life, including domestic violence, dating violence, sexual assault, stalking, exploitation, and neglect; or
 
-    (ii) conduct outreach activities and awareness campaigns to ensure that victims of abuse in later life, including domestic violence, dating violence, sexual assault, stalking, exploitation, and neglect receive appropriate assistance.
+                (ii) conduct outreach activities and awareness campaigns to ensure that victims of abuse in later life, including domestic violence, dating violence, sexual assault, stalking, exploitation, and neglect receive appropriate assistance.
 
-    (C) Waiver
+            (C) __Waiver__ 
 
-    The Attorney General may waive 1 or more of the activities described in subparagraph (A) upon making a determination that the activity would duplicate services available in the community.
+                The Attorney General may waive 1 or more of the activities described in subparagraph (A) upon making a determination that the activity would duplicate services available in the community.
 
-    (D) Limitation
+            (D) __Limitation__ 
 
-    An eligible entity receiving a grant under this section may use not more than 10 percent of the total funds received under the grant for an activity described in subparagraph (B)(ii).
+                An eligible entity receiving a grant under this section may use not more than 10 percent of the total funds received under the grant for an activity described in subparagraph (B)(ii).
 
-    (3) Eligible entities
+        (3) __Eligible entities__ 
 
-    An entity shall be eligible to receive a grant under this section if—
+        An entity shall be eligible to receive a grant under this section if—
 
-    (A) the entity is—
+            (A)
 
-    (i) a State;
+             the entity is—
 
-    (ii) a unit of local government;
+                (i) a State;
 
-    (iii) a tribal government or tribal organization;
+                (ii) a unit of local government;
 
-    (iv) a population specific organization with demonstrated experience in assisting individuals over 50 years of age;
+                (iii) a tribal government or tribal organization;
 
-    (v) a victim service provider with demonstrated experience in addressing domestic violence, dating violence, sexual assault, and stalking; or
+                (iv) a population specific organization with demonstrated experience in assisting individuals over 50 years of age;
 
-    (vi) a State, tribal, or territorial domestic violence or sexual assault coalition; and
+                (v) a victim service provider with demonstrated experience in addressing domestic violence, dating violence, sexual assault, and stalking; or
 
-    (B) the entity demonstrates that it is part of a multidisciplinary partnership that includes, at a minimum—
+                (vi) a State, tribal, or territorial domestic violence or sexual assault coalition; and
 
-    (i) a law enforcement agency;
+            (B)
 
-    (ii) a prosecutor’s office;
+             the entity demonstrates that it is part of a multidisciplinary partnership that includes, at a minimum—
 
-    (iii) a victim service provider; and
+                (i) a law enforcement agency;
 
-    (iv) a nonprofit program or government agency with demonstrated experience in assisting individuals in later life;
+                (ii) a prosecutor’s office;
 
-    (4) Underserved populations
+                (iii) a victim service provider; and
 
-    In making grants under this section, the Attorney General shall give priority to proposals providing services to culturally specific and underserved populations.
+                (iv) a nonprofit program or government agency with demonstrated experience in assisting individuals in later life;
 
-    (5) Authorization of appropriations
+        (4) __Underserved populations__ 
 
-    There is authorized to be appropriated to carry out this section $9,000,000 for each of fiscal years 2014 through 2018.
+            In making grants under this section, the Attorney General shall give priority to proposals providing services to culturally specific and underserved populations.
 
-See 2013 Amendment note below.
+        (5) __Authorization of appropriations__ 
 
- __References in Text__ 
+            There is authorized to be appropriated to carry out this section $9,000,000 for each of fiscal years 2014 through 2018.
 
-    [Section 3796gg–2 of this title][/us/usc/t42/s3796gg–2], referred to in pars. (2) and (3), was subsequently repealed and a new section 3796gg–2 enacted which does not define the terms “domestic violence” or “sexual assault”. However, such terms are defined in [section 13925 of this title][/us/usc/t42/s13925].
+([Pub. L. 103–322, title IV, § 40801][/us/pl/103/322/s40801], as added [Pub. L. 106–386, div. B, title II, § 1209(a)][/us/pl/106/386/s1209/a], Oct. 28, 2000, [114 Stat. 1508][/us/stat/114/1508]; amended [Pub. L. 113–4, title II, § 204(a)][/us/pl/113/4/s204/a], Mar. 7, 2013, [127 Stat. 82][/us/stat/127/82].)
 
  __Amendments__ 
 
-    2013—[Pub. L. 113–4][/us/pl/113/4] amended section generally. Prior to amendment, section defined terms.
+    2013—[Pub. L. 113–4][/us/pl/113/4] amended section generally. Prior to amendment, section defined terms for this part.
 
  __Effective Date of 2013 Amendment__ 
 
@@ -135,22 +113,17 @@ See 2013 Amendment note below.
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch136/schIII/ptG/m__us_usc_t42_ch136_schIII_ptG.md) | [Next](./../../../../../..//us/usc/t42/ch136/schIII/ptG/m__us_usc_t42_s14041a.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs14041)
+[Previous](./../../../../../..//us/usc/t42/ch136/schIII/ptG/m__us_usc_t42_ch136_schIII_ptG.md) | [Next](./../../../../../..//us/usc/t42/ch136/schIII/ptG/m__us_usc_t42_s14041a, 14041b.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs14041)
 
 ----------
 ----------
 
-[/us/usc/t42/s3002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3002
+[/us/usc/t42/s1397j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1397j
 [/us/pl/103/322/s40801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs40801
 [/us/pl/106/386/s1209/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386%2Fs1209%2Fa
 [/us/stat/114/1508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1508
 [/us/pl/113/4/s204/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs204%2Fa
 [/us/stat/127/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F82
-[/us/pl/113/4/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs4
-[/us/stat/127/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F64
-[/us/usc/t42/s1397j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1397j
-[/us/usc/t42/s3796gg–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3796gg%E2%80%932
-[/us/usc/t42/s13925]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13925
 [/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
 [/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
 [/us/pl/113/4/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs4

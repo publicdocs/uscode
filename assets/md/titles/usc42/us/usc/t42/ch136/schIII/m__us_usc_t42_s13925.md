@@ -535,10 +535,6 @@
 
 ([Pub. L. 103–322, title IV, § 40002][/us/pl/103/322/s40002], as added [Pub. L. 109–162, § 3(a)][/us/pl/109/162/s3/a], Jan. 5, 2006, [119 Stat. 2964][/us/stat/119/2964]; amended [Pub. L. 109–271][/us/pl/109/271], §§ 1(d)–(f), 2(e), Aug. 12, 2006, [120 Stat. 751][/us/stat/120/751], 752; [Pub. L. 111–320, title II, § 202(d)][/us/pl/111/320/s202/d], Dec. 20, 2010, [124 Stat. 3509][/us/stat/124/3509]; [Pub. L. 113–4, § 3][/us/pl/113/4/s3], Mar. 7, 2013, [127 Stat. 56][/us/stat/127/56].)
 
- __Amendment of Section__ 
-
-For effective date of amendment by [Pub. L. 113–4][/us/pl/113/4], see Effective Date of 2013 Amendment note below.
-
  __References in Text__ 
 
     This subchapter, referred to in text, was in the original “this title”, meaning title IV of [Pub. L. 103–322][/us/pl/103/322], Sept. 13, 1994, [108 Stat. 1902][/us/stat/108/1902], known as the Violence Against Women Act of 1994. For complete classification of title IV to the Code, see Short Title note set out under [section 13701 of this title][/us/usc/t42/s13701] and Tables.
@@ -561,7 +557,7 @@ For effective date of amendment by [Pub. L. 113–4][/us/pl/113/4], see Effectiv
 
     [Section 3789d of this title][/us/usc/t42/s3789d], referred to in subsec. (b)(13)(C), was in the original a reference to “[section 3789d of title 42][/us/usc/t42/s3789d], United States Code” but probably should have been a reference to [section 809 of Pub. L. 90–351][/us/pl/90/351/s809], which is classified to [section 3789d of this title][/us/usc/t42/s3789d].
 
-    The date of the enactment of this Act, referred to in subsec. (b)(16)(A)(i), (D), probably means the date of enactment of [Pub. L. 113–4][/us/pl/113/4], which was approved Mar. 7, 2013.
+    The date of the enactment of this Act, referred to in subsec. (b)(16)(A)(i), (D), probably means the date of enactment of [Pub. L. 113–4][/us/pl/113/4], which enacted subsec. (b)(16) of this section and was approved Mar. 7, 2013.
 
  __Amendments__ 
 
@@ -828,7 +824,6 @@ For effective date of amendment by [Pub. L. 113–4][/us/pl/113/4], see Effectiv
 [/us/stat/124/3509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3509
 [/us/pl/113/4/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs3
 [/us/stat/127/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F56
-[/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
 [/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
 [/us/stat/108/1902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1902
 [/us/usc/t42/s13701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13701

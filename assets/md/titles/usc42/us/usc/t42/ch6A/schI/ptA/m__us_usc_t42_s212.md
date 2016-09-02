@@ -169,9 +169,9 @@ Section 529 \[title III, § 304(c)\] of [Pub. L. 101–509][/us/pl/101/509] pr
 
 [Pub. L. 86–415, § 8(c)][/us/pl/86/415/s8/c], (d), Apr. 8, 1960, [74 Stat. 36][/us/stat/74/36], provided that:
 
->     “(c) An officer in the Regular Corps on active duty on the date of enactment of this Act \[Apr. 8, 1960\] may be retired and have his retired pay computed under section 211 of the Public Health Service Act, as amended by this Act \[this section\], or, if he so elects, under such section as in effect prior to the date of enactment of this Act \[Apr. 8, 1960\].
+>     “(c) An officer in the Regular Corps on active duty on the date of enactment of this Act \[Apr. 8, 1960\] may be retired and have his retired pay computed under section 211 of the Public Health Service Act \[[42 U.S.C. 212][/us/usc/t42/s212]\], as amended by this Act, or, if he so elects, under such section as in effect prior to the date of enactment of this Act \[Apr. 8, 1960\].
 
->     “(d) The limitation under subsection (f) of section 211 of the Public Health Service Act, as amended by this Act \[subsec. (f) of this section\], on the amount of active service with the Public Health Service, other than as a commissioned officer, which may be counted for purposes of retirement or separation for physical disability, shall not apply in the case of any officer of the Reserve Corps of the Public Health Service on active duty on June 30, 1960.”
+>     “(d) The limitation under subsection (f) of section 211 of the Public Health Service Act \[[42 U.S.C. 212(f)][/us/usc/t42/s212/f]\], as amended by this Act, on the amount of active service with the Public Health Service, other than as a commissioned officer, which may be counted for purposes of retirement or separation for physical disability, shall not apply in the case of any officer of the Reserve Corps of the Public Health Service on active duty on June 30, 1960.”
 
  __Transfer of Functions__ 
 
@@ -261,6 +261,8 @@ Section 529 \[title III, § 304(c)\] of [Pub. L. 101–509][/us/pl/101/509] pr
 [/us/usc/t33/s854a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs854a
 [/us/pl/86/415/s8/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F415%2Fs8%2Fc
 [/us/stat/74/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F36
+[/us/usc/t42/s212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs212
+[/us/usc/t42/s212/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs212%2Ff
 [/us/stat/80/1610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1610
 [/us/usc/t42/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs202
 [/us/pl/96/88/s509/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs509%2Fb

@@ -93,15 +93,15 @@ For the purposes of this subchapter—
 
 [Pub. L. 92–603, title I, § 104(j)][/us/pl/92/603/s104/j], Oct. 30, 1972, [86 Stat. 1341][/us/stat/86/1341], provided that:
 
->     “(1) The amendments made by this section \[amending this section and sections 415, 416, 423, and 427 of this title and provisions set out as a note under [section 415 of this title][/us/usc/t42/s415]\] (except the amendment made by subsection (i), and the amendment made by subsection (g) to section 209(i) of the Social Security Act) shall apply only in the case of a man who attains (or would attain) age 62 after December 1974. The amendment made by subsection (i), and the amendment made by subsection (g) to section 209(i) of the Social Security Act \[[section 409(i) of this title][/us/usc/t42/s409/i] and [section 3121(a)(9) of Title 26][/us/usc/t26/s3121/a/9], Internal Revenue Code\], shall apply only with respect to payments after 1974.
+>     “(1) The amendments made by this section \[amending this section and sections 415, 416, 423, and 427 of this title and provisions set out as a note under [section 415 of this title][/us/usc/t42/s415]\] (except the amendment made by subsection (i), and the amendment made by subsection (g) to section 209(i) of the Social Security Act) shall apply only in the case of a man who attains (or would attain) age 62 after December 1974. The amendment made by subsection (i), and the amendment made by subsection (g) to section 209(i) of the Social Security Act \[[42 U.S.C. 409(i)][/us/usc/t42/s409/i]\], shall apply only with respect to payments after 1974.
 
->     “(2) In the case of a man who attains age 62 prior to 1975, the number of his elapsed years for purposes of section 215(b)(3) of the Social Security Act \[[section 415(b)(3) of this title][/us/usc/t42/s415/b/3]\] shall be equal to (A) the number determined under such section as in effect on September 1, 1972, or (B) if less, the number determined as though he attained age 65 in 1975, except that monthly benefits under title II of the Social Security Act \[this subchapter\] for months prior to January 1973 payable on the basis of his wages and self-employment income shall be determined as though this section had not been enacted.
+>     “(2) In the case of a man who attains age 62 prior to 1975, the number of his elapsed years for purposes of section 215(b)(3) of the Social Security Act \[[42 U.S.C. 415(b)(3)][/us/usc/t42/s415/b/3]\] shall be equal to (A) the number determined under such section as in effect on September 1, 1972, or (B) if less, the number determined as though he attained age 65 in 1975, except that monthly benefits under title II of the Social Security Act \[[42 U.S.C. 401][/us/usc/t42/s401] et seq.\] for months prior to January 1973 payable on the basis of his wages and self-employment income shall be determined as though this section had not been enacted.
 
 >     “(3)
 
->         (A) In the case of a man who attains or will attain age 62 in 1973, the figure ‘65’ in sections 214(a)(1), 223(c)(1)(A), and 216(i)(3)(A) of the Social Security Act \[subsec. (a)(1) of this section and sections 423(c)(1)(A) and 416(i)(3)(A) of this title\] shall be deemed to read ‘64’.
+>         (A) In the case of a man who attains or will attain age 62 in 1973, the figure ‘65’ in sections 214(a)(1), 223(c)(1)(A), and 216(i)(3)(A) of the Social Security Act \[[42 U.S.C. 414(a)(1)][/us/usc/t42/s414/a/1], 423(c)(1)(A), 416(i)(3)(A)\] shall be deemed to read ‘64’.
 
->         “(B) In the case of a man who attains or will attain age 62 in 1974, the figure ‘65’ in sections 214(a)(1), 223(c)(1)(A), and 216(i)(3)(A) of the Social Security Act \[subsec. (a)(1) of this section and sections 423(c)(1)(A) and 416(i)(3)(A) of this title\] shall be deemed to read ‘63’.”
+>         “(B) In the case of a man who attains or will attain age 62 in 1974, the figure ‘65’ in sections 214(a)(1), 223(c)(1)(A), and 216(i)(3)(A) of the Social Security Act \[[42 U.S.C. 414(a)(1)][/us/usc/t42/s414/a/1], 423(c)(1)(A), 416(i)(3)(A)\] shall be deemed to read ‘63’.”
 
  __Effective Date of 1961 Amendment__ 
 
@@ -109,17 +109,17 @@ For the purposes of this subchapter—
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply—
 
->     “(1) in the case of monthly benefits under title II of the Social Security Act \[this subchapter\] for months beginning on or after the effective date of this title \[see note set out under [section 402 of this title][/us/usc/t42/s402]\], based on applications filed in or after March 1961,
+>     “(1) in the case of monthly benefits under title II of the Social Security Act \[[42 U.S.C. 401][/us/usc/t42/s401] et seq.\] for months beginning on or after the effective date of this title \[see note set out under [section 402 of this title][/us/usc/t42/s402]\], based on applications filed in or after March 1961,
 
 >     “(2) in the case of lump-sum death payments under such title with respect to deaths on or after the effective date of this title, and
 
->     “(3) in the case of an application for a disability determination (with respect to a period of disability, as defined in section 216(i) of such Act \[[section 416(i) of this title][/us/usc/t42/s416/i]\]) filed in or after March 1961.”
+>     “(3) in the case of an application for a disability determination (with respect to a period of disability, as defined in section 216(i) of such Act \[[42 U.S.C. 416(i)][/us/usc/t42/s416/i]\]) filed in or after March 1961.”
 
  __Effective Date of 1960 Amendment__ 
 
 [Pub. L. 86–778, title II, § 204(d)(1)][/us/pl/86/778/s204/d/1], Sept. 13, 1960, [74 Stat. 948][/us/stat/74/948], provided that: 
 
-> “The amendments made by subsections (a) and (b) of this section \[amending this section and provisions set out as a note under [section 415 of this title][/us/usc/t42/s415]\] shall be applicable (A) in the case of monthly benefits under title II of the Social Security Act \[this subchapter\], for months after the month in which this Act is enacted \[September 1960\], on the basis of applications filed in or after such month, (B) in the case of lump-sum death payments under such title with respect to deaths occurring after such month, and (C) in the case of an application for a disability determination with respect to a period of disability (as defined in section 216(i) of the Social Security Act \[[section 416(i) of this title][/us/usc/t42/s416/i]\]) filed after such month.”
+> “The amendments made by subsections (a) and (b) of this section \[amending this section and provisions set out as a note under [section 415 of this title][/us/usc/t42/s415]\] shall be applicable (A) in the case of monthly benefits under title II of the Social Security Act \[[42 U.S.C. 401][/us/usc/t42/s401] et seq.\], for months after the month in which this Act is enacted \[September 1960\], on the basis of applications filed in or after such month, (B) in the case of lump-sum death payments under such title with respect to deaths occurring after such month, and (C) in the case of an application for a disability determination with respect to a period of disability (as defined in section 216(i) of the Social Security Act \[[42 U.S.C. 416(i)][/us/usc/t42/s416/i]\]) filed after such month.”
 
  __Effective Date of 1958 Amendment__ 
 
@@ -143,9 +143,9 @@ For the purposes of this subchapter—
 
 >         “(A) on January 1, 1984, is age 55 or over, and is an employee of an organization described in section 210(a)(8)(B) of the Social Security Act \[[42 U.S.C. 410(a)(8)(B)][/us/usc/t42/s410/a/8/B]\] (A) which does not have in effect (on that date) a waiver certificate under section 3121(k) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] \[[26 U.S.C. 3121(k)][/us/usc/t26/s3121/k]\] and (B) to the employees of which social security coverage is extended on January 1, 1984, solely by reason of the enactment of this section \[amending [section 410 of this title][/us/usc/t42/s410] and [section 3121 of Title 26][/us/usc/t26/s3121], Internal Revenue Code, and enacting provisions set out as notes under [section 3121 of Title 26][/us/usc/t26/s3121]\], and
 
->         “(B) after December 31, 1983, acquires the number of quarters of coverage (within the meaning of section 213 of the Social Security Act \[[section 413 of this title][/us/usc/t42/s413]\]) which is required for purposes of this subparagraph under paragraph (2),
+>         “(B) after December 31, 1983, acquires the number of quarters of coverage (within the meaning of section 213 of the Social Security Act \[[42 U.S.C. 413][/us/usc/t42/s413]\]) which is required for purposes of this subparagraph under paragraph (2),
 
->         then such individual shall be deemed to be a fully insured individual (as defined in section 214 of the Social Security Act \[this section\]) for all of the purposes of title II of such Act \[this subchapter\].
+>         then such individual shall be deemed to be a fully insured individual (as defined in section 214 of the Social Security Act \[[42 U.S.C. 414][/us/usc/t42/s414]\]) for all of the purposes of title II of such Act \[[42 U.S.C. 401][/us/usc/t42/s401] et seq.\].
 
 >     “(2) The number of quarters of coverage which is required for purposes of subparagraph (B) of paragraph (1) shall be determined as follows:
 
@@ -283,15 +283,19 @@ For the purposes of this subchapter—
 [/us/stat/86/1341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1341
 [/us/usc/t42/s415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs415
 [/us/usc/t42/s409/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs409%2Fi
-[/us/usc/t26/s3121/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs3121%2Fa%2F9
 [/us/usc/t42/s415/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs415%2Fb%2F3
+[/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
+[/us/usc/t42/s414/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs414%2Fa%2F1
+[/us/usc/t42/s414/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs414%2Fa%2F1
 [/us/pl/87/64/s103/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F64%2Fs103%2Fb
 [/us/stat/75/137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F137
+[/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
 [/us/usc/t42/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs402
 [/us/usc/t42/s416/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs416%2Fi
 [/us/pl/86/778/s204/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F778%2Fs204%2Fd%2F1
 [/us/stat/74/948]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F948
 [/us/usc/t42/s415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs415
+[/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
 [/us/usc/t42/s416/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs416%2Fi
 [/us/pl/85/840]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F840
 [/us/pl/85/840/s207/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F840%2Fs207%2Fa
@@ -309,6 +313,8 @@ For the purposes of this subchapter—
 [/us/usc/t26/s3121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs3121
 [/us/usc/t26/s3121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs3121
 [/us/usc/t42/s413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs413
+[/us/usc/t42/s414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs414
+[/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
 [/us/pl/86/778/s204/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F778%2Fs204%2Fd%2F2
 [/us/stat/74/948]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F948
 [/us/act/1954-09-01/ch1206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-09-01%2Fch1206

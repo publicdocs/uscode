@@ -19,11 +19,13 @@
 
 ([Pub. L. 90–351, title I, § 1401][/us/pl/90/351/s1401], as added [Pub. L. 101–647, title II, § 241(a)(2)][/us/pl/101/647/s241/a/2], Nov. 29, 1990, [104 Stat. 4810][/us/stat/104/4810].)
 
+ __Codification__ 
+
+    Another [section 1401 of Pub. L. 90–351][/us/pl/90/351/s1401], title IX, June 19, 1968, [82 Stat. 238][/us/stat/82/238], enacted [section 3103a of Title 18][/us/usc/t18/s3103a], Crimes and Criminal Procedure.
+
  __Prior Provisions__ 
 
     A prior [section 1401 of Pub. L. 90–351][/us/pl/90/351/s1401] was renumbered section 2601 and is classified to [section 3797 of this title][/us/usc/t42/s3797].
-
-    Another prior [section 1401 of Pub. L. 90–351][/us/pl/90/351/s1401], title IX, June 19, 1968, [82 Stat. 238][/us/stat/82/238], enacted [section 3103a of Title 18][/us/usc/t18/s3103a], Crimes and Criminal Procedure.
 
  __Transfer of Functions__ 
 
@@ -40,10 +42,10 @@
 [/us/pl/101/647/s241/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs241%2Fa%2F2
 [/us/stat/104/4810]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4810
 [/us/pl/90/351/s1401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs1401
-[/us/usc/t42/s3797]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3797
-[/us/pl/90/351/s1401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs1401
 [/us/stat/82/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F238
 [/us/usc/t18/s3103a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3103a
+[/us/pl/90/351/s1401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs1401
+[/us/usc/t42/s3797]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3797
 [/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
 [/us/usc/t42/s3741]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3741
 

@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 10001.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs10001" data-uslm-ref="/us/usc/t42/s10001">10001.</a>  </td>
 
     <td> Statement of findings.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 10002.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs10002" data-uslm-ref="/us/usc/t42/s10002">10002.</a>  </td>
 
     <td> Statement of purpose.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 10003.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs10003" data-uslm-ref="/us/usc/t42/s10003">10003.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 10004.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs10004" data-uslm-ref="/us/usc/t42/s10004">10004.</a>  </td>
 
     <td> Promulgation of standards.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 10005.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs10005" data-uslm-ref="/us/usc/t42/s10005">10005.</a>  </td>
 
     <td> Model statute.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 10006.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs10006" data-uslm-ref="/us/usc/t42/s10006">10006.</a>  </td>
 
     <td> Compliance.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 10007.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs10007" data-uslm-ref="/us/usc/t42/s10007">10007.</a>  </td>
 
     <td> Federal radiation guidelines.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 10008.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs10008" data-uslm-ref="/us/usc/t42/s10008">10008.</a>  </td>
 
     <td> Applicability to Federal agencies.  </td>
 

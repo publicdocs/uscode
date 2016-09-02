@@ -207,7 +207,7 @@
 
 [Pub. L. 95–142, § 3(e)][/us/pl/95/142/s3/e], Oct. 25, 1977, [91 Stat. 1179][/us/stat/91/1179], provided that: 
 
-> “The amendment made by subsection (a)(1) \[enacting this section\] shall apply with respect to certifications and recertifications made (and participation in the programs established by titles V, XVIII, XIX, and XX of the Social Security Act \[subchapters V, XVIII, XIX, and XX of this chapter\] pursuant to certifications and recertifications made), and fiscal intermediary or agent agreements or contracts entered into or renewed, on and after the date of the enactment of this Act \[Oct. 25, 1977\]. The remaining amendments made by this section \[amending sections 1395x and 1395cc of this title\] shall take effect on the date of the enactment of this Act \[Oct. 25, 1977\]; except that the amendments made by subsections (c) and (d) \[amending sections 1396a, 1396b, 1397a, and 1397b of this title\] shall become effective January 1, 1978.”
+> “The amendment made by subsection (a)(1) \[enacting this section\] shall apply with respect to certifications and recertifications made (and participation in the programs established by titles V, XVIII, XIX, and XX of the Social Security Act \[[42 U.S.C. 701][/us/usc/t42/s701] et seq., 1395 et seq., 1396 et seq., 1397 et seq.\] pursuant to certifications and recertifications made), and fiscal intermediary or agent agreements or contracts entered into or renewed, on and after the date of the enactment of this Act \[Oct. 25, 1977\]. The remaining amendments made by this section \[amending sections 1395x and 1395cc of this title\] shall take effect on the date of the enactment of this Act \[Oct. 25, 1977\]; except that the amendments made by subsections (c) and (d) \[amending sections 1396a, 1396b, 1397a, and 1397b of this title\] shall become effective January 1, 1978.”
 
  __Public Availability of Information__ 
 
@@ -273,6 +273,7 @@
 [/us/usc/t42/s1397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1397
 [/us/pl/95/142/s3/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F142%2Fs3%2Fe
 [/us/stat/91/1179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1179
+[/us/usc/t42/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs701
 [/us/pl/111/148/s6101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs6101%2Fb
 [/us/stat/124/702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F702
 [/us/usc/t42/s1320a–3/c/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320a%E2%80%933%2Fc%2F3%2FA

@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 15701.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs15701" data-uslm-ref="/us/usc/t42/s15701">15701.</a>  </td>
 
     <td> Findings.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 15702.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs15702" data-uslm-ref="/us/usc/t42/s15702">15702.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 15703.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs15703" data-uslm-ref="/us/usc/t42/s15703">15703.</a>  </td>
 
     <td> National Windstorm Impact Reduction Program.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 15704.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs15704" data-uslm-ref="/us/usc/t42/s15704">15704.</a>  </td>
 
     <td> National Advisory Committee on Windstorm Impact Reduction.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 15705.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs15705" data-uslm-ref="/us/usc/t42/s15705">15705.</a>  </td>
 
     <td> Savings clause.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 15706.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs15706" data-uslm-ref="/us/usc/t42/s15706">15706.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 15707.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs15707" data-uslm-ref="/us/usc/t42/s15707">15707.</a>  </td>
 
     <td> Coordination.  </td>
 

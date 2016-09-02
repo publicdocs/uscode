@@ -21,13 +21,11 @@
 
         (1) the percentage of such students admitted for study who successfully attain a doctoral degree; and
 
-        (2)
+        (2) for students described in paragraph (1), the average time (not including any leaves of absence) between the beginning of graduate study and the receipt of a doctoral degree.
 
-         for students described in paragraph (1), the average time (not including any leaves of absence) between the beginning of graduate study and the receipt of a doctoral degree.
+        (3)  __ <sup>\[__  __1__  __\]</sup> __  __ <sup><sup> __  __1__  __ So in original. Probably should be “(b)”.__  __ </sup></sup> __  __Provision of information to applicants__ 
 
-            (3)  __ <sup>\[__  __1__  __\]</sup> __  __ <sup><sup> __  __1__  __ So in original. Probably should be “(b)”.__  __ </sup></sup> __  __Provision of information to applicants__ 
-
-                Each institution described in subsection (a) shall provide to each student submitting an application for a program of graduate study at such institution the information described in paragraphs (1) and (2) of such subsection with respect to the program or programs to which such student has applied.
+            Each institution described in subsection (a) shall provide to each student submitting an application for a program of graduate study at such institution the information described in paragraphs (1) and (2) of such subsection with respect to the program or programs to which such student has applied.
 
 ([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 403C, as added [Pub. L. 109–482, title I, § 104(a)(3)][/us/pl/109/482/s104/a/3], Jan. 15, 2007, [120 Stat. 3692][/us/stat/120/3692]; amended [Pub. L. 110–85, title XI, § 1104(5)][/us/pl/110/85/s1104/5], Sept. 27, 2007, [121 Stat. 975][/us/stat/121/975].)
 

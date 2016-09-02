@@ -45,7 +45,7 @@
 
 >     “(1) __In general.—__ 
 
->     The Secretary \[of Health and Human Services\] shall request the Institute of Medicine of the National Academy of Sciences to conduct an evaluation of the program under part B of title XI of the Social Security Act \[this part\]. The study shall include a review of the following:
+>     The Secretary \[of Health and Human Services\] shall request the Institute of Medicine of the National Academy of Sciences to conduct an evaluation of the program under part B of title XI of the Social Security Act \[[42 U.S.C. 1320c][/us/usc/t42/s1320c] et seq.\]. The study shall include a review of the following:
 
 >         “(A) An overview of the program under such part.
 
@@ -91,15 +91,15 @@
 
 [Pub. L. 97–448, title III, § 309(d)][/us/pl/97/448/s309/d], Jan. 12, 1983, [96 Stat. 2410][/us/stat/96/2410], provided that: 
 
-> “In order to avoid unfairly discriminating against professional standards review organizations whose performance was evaluated during the first and second calendar quarters of 1982, the Secretary of Health and Human Services shall disregard the results of such evaluations and shall carry out such new evaluations of such organizations as may be necessary to select utilization and quality control peer review organizations in accordance with subtitle C of title I of the Tax Equity and Fiscal Responsibility Act of 1982 \[sections 141–150 of [Pub. L. 97–248][/us/pl/97/248]\] and part B of title XI of the Social Security Act \[this part\] as amended by such subtitle.”
+> “In order to avoid unfairly discriminating against professional standards review organizations whose performance was evaluated during the first and second calendar quarters of 1982, the Secretary of Health and Human Services shall disregard the results of such evaluations and shall carry out such new evaluations of such organizations as may be necessary to select utilization and quality control peer review organizations in accordance with subtitle C of title I of the Tax Equity and Fiscal Responsibility Act of 1982 \[sections 141–150 of [Pub. L. 97–248][/us/pl/97/248]\] and part B of title XI of the Social Security Act \[[42 U.S.C. 1320c][/us/usc/t42/s1320c] et seq.\] as amended by such subtitle.”
 
  __Maintenance of Current Professional Standards Review Organization Agreements__ 
 
 [Pub. L. 97–248, title I, § 150][/us/pl/97/248/s150], Sept. 3, 1982, [96 Stat. 395][/us/stat/96/395], as amended by [Pub. L. 97–448, title III, § 309(a)(9)][/us/pl/97/448/s309/a/9], Jan. 12, 1983, [96 Stat. 2408][/us/stat/96/2408], provided that:
 
->     “(a) The Secretary of Health and Human Services shall not terminate or fail to renew any agreement in effect with a professional standards review organization under part B of title XI of the Social Security Act \[this part\] on the earlier of the date of the enactment of this Act \[Sept. 3, 1982\] or September 30, 1982 until such time as he enters into a contract with a utilization and quality control peer review organization under such part, as amended by this subtitle \[subtitle C (§§ 141–150) of title I of [Pub. L. 97–248][/us/pl/97/248]\], for the area served by such professional standards review organization. In complying with this subsection, the Secretary may renew any such agreement with a professional standards review organization for a period of less than 12 months.
+>     “(a) The Secretary of Health and Human Services shall not terminate or fail to renew any agreement in effect with a professional standards review organization under part B of title XI of the Social Security Act \[[42 U.S.C. 1320c][/us/usc/t42/s1320c] et seq.\] on the earlier of the date of the enactment of this Act \[Sept. 3, 1982\] or September 30, 1982 until such time as he enters into a contract with a utilization and quality control peer review organization under such part, as amended by this subtitle \[subtitle C (§§ 141–150) of title I of [Pub. L. 97–248][/us/pl/97/248]\], for the area served by such professional standards review organization. In complying with this subsection, the Secretary may renew any such agreement with a professional standards review organization for a period of less than 12 months.
 
->     “(b) The provisions of part B of title XI of the Social Security Act \[this part\] as in effect prior to the amendments made by this subtitle \[subtitle C (§§ 141–150) of title I of [Pub. L. 97–248][/us/pl/97/248]\] shall remain in effect with respect to agreements with professional standards review organizations in effect on the earlier of the date of the enactment of this Act \[Sept. 3, 1982\] or September 30, 1982, until such time as such agreement is terminated or is not renewed, in accordance with subsection (a). Any matters awaiting a determination by a Statewide Professional Standards Review Council on the date of the enactment of this Act shall be transferred to the Secretary of Health and Human Services for a determination unless such determination is made by such Council within 30 days after the date of the enactment of this Act. No payments shall be made under part B of title XI of the Social Security Act to Statewide Professional Standards Review Councils for services performed under section 1162 of such Act \[[section 1320c–11 of this title][/us/usc/t42/s1320c–11]\] after the end of such 30-day period.”
+>     “(b) The provisions of part B of title XI of the Social Security Act \[[42 U.S.C. 1320c][/us/usc/t42/s1320c] et seq.\] as in effect prior to the amendments made by this subtitle \[subtitle C (§§ 141–150) of title I of [Pub. L. 97–248][/us/pl/97/248]\] shall remain in effect with respect to agreements with professional standards review organizations in effect on the earlier of the date of the enactment of this Act \[Sept. 3, 1982\] or September 30, 1982, until such time as such agreement is terminated or is not renewed, in accordance with subsection (a). Any matters awaiting a determination by a Statewide Professional Standards Review Council on the date of the enactment of this Act shall be transferred to the Secretary of Health and Human Services for a determination unless such determination is made by such Council within 30 days after the date of the enactment of this Act. No payments shall be made under part B of title XI of the Social Security Act to Statewide Professional Standards Review Councils for services performed under section 1162 of such Act \[[42 U.S.C. 1320c–11][/us/usc/t42/s1320c–11]\] after the end of such 30-day period.”
 
 ----------
 
@@ -130,16 +130,20 @@
 [/us/pl/97/248/s150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs150
 [/us/pl/108/173/s109/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs109%2Fd
 [/us/stat/117/2173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2173
+[/us/usc/t42/s1320c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320c
 [/us/pl/101/508/s4205/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs4205%2Fc
 [/us/stat/104/1388-113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-113
 [/us/pl/97/448/s309/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F448%2Fs309%2Fd
 [/us/stat/96/2410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2410
 [/us/pl/97/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248
+[/us/usc/t42/s1320c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320c
 [/us/pl/97/248/s150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs150
 [/us/stat/96/395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F395
 [/us/pl/97/448/s309/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F448%2Fs309%2Fa%2F9
 [/us/stat/96/2408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2408
+[/us/usc/t42/s1320c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320c
 [/us/pl/97/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248
+[/us/usc/t42/s1320c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320c
 [/us/pl/97/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248
 [/us/usc/t42/s1320c–11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320c%E2%80%9311
 

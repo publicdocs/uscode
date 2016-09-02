@@ -73,7 +73,7 @@
 
 [Act Aug. 1, 1956, ch. 837][/us/act/1956-08-01/ch837], title V, § 501(b)(2), [70 Stat. 882][/us/stat/70/882], provided that: 
 
-> “The amendment made by this subsection \[amending this section\] (A) shall apply only with respect to service performed on or after July 4, 1952, (B) shall not be construed to affect the entitlement of any person to benefits under the Veterans’ Readjustment Assistance Act of 1952 \[[act July 16, 1952, ch. 875][/us/act/1952-07-16/ch875], [66 Stat. 633][/us/stat/66/633]\], (C) shall not be construed to authorize any payment under section 202(i) of the Social Security Act \[[section 402(i) of this title][/us/usc/t42/s402/i]\], or under Veterans Regulation Numbered 9(a), for any death occurring prior to January 1, 1957, and (D) shall not be construed to authorize payment of any benefits for any period prior to January 1, 1957.”
+> “The amendment made by this subsection \[amending this section\] (A) shall apply only with respect to service performed on or after July 4, 1952, (B) shall not be construed to affect the entitlement of any person to benefits under the Veterans’ Readjustment Assistance Act of 1952 \[[act July 16, 1952, ch. 875][/us/act/1952-07-16/ch875], [66 Stat. 633][/us/stat/66/633]\], (C) shall not be construed to authorize any payment under section 202(i) of the Social Security Act \[[42 U.S.C. 402(i)][/us/usc/t42/s402/i]\], or under Veterans Regulation Numbered 9(a), for any death occurring prior to January 1, 1957, and (D) shall not be construed to authorize payment of any benefits for any period prior to January 1, 1957.”
 
  __Transfer of Functions__ 
 
@@ -91,13 +91,13 @@
 
 >     “(B)
 
->         (i) who became entitled to old-age insurance benefits under section 202(a) of the Social Security Act \[[section 402(a) of this title][/us/usc/t42/s402/a]\] prior to January 1, 1957, or
+>         (i) who became entitled to old-age insurance benefits under section 202(a) of the Social Security Act \[[42 U.S.C. 402(a)][/us/usc/t42/s402/a]\] prior to January 1, 1957, or
 
->         “(ii) who died prior to January 1, 1957, and whose widow, child, or parent is entitled for the month of January 1957, on the basis of his wages and self-employment income, to a monthly survivor’s benefit under section 202 of such act \[[section 402 of this title][/us/usc/t42/s402]\]; and
+>         “(ii) who died prior to January 1, 1957, and whose widow, child, or parent is entitled for the month of January 1957, on the basis of his wages and self-employment income, to a monthly survivor’s benefit under section 202 of such act \[[42 U.S.C. 402][/us/usc/t42/s402]\]; and
 
->     “(C) any part of whose service described in subparagraph (A) was not included in the computation of his primary insurance amount under section 215 of such act \[[section 415 of this title][/us/usc/t42/s415]\] but would have been included in such computation if the amendment made by paragraph (1) of this subsection or paragraph (1) of subsection (d) had been effective prior to the date of such computation,
+>     “(C) any part of whose service described in subparagraph (A) was not included in the computation of his primary insurance amount under section 215 of such act \[[42 U.S.C. 415][/us/usc/t42/s415]\] but would have been included in such computation if the amendment made by paragraph (1) of this subsection or paragraph (1) of subsection (d) had been effective prior to the date of such computation,
 
->         the Secretary of Health, Education, and Welfare \[now Health and Human Services\] shall, notwithstanding the provisions of section 215(f)(1) of the Social Security Act \[[section 415(f)(1) of this title][/us/usc/t42/s415/f/1]\], recompute the primary insurance amount of such individual upon the filing of an application, after December 1956, by him or (if he dies without filing such an application) by any person entitled to monthly survivor’s benefits under section 202 of such act \[[section 402 of this title][/us/usc/t42/s402]\] on the basis of his wages and self-employment income. Such recomputation shall be made only in the manner, provided in title II of the Social Security Act \[sections 401 to 425 of this title\] as in effect at the time of the last previous computation or recomputation of such individual’s primary insurance amount, and as though application therefor was filed in the month in which application for such last previous computation or recomputation was filed. No recomputation made under this paragraph shall be regarded as a recomputation under section 215(f) of the Social Security Act \[[section 415(f) of this title][/us/usc/t42/s415/f]\]. Any such recomputation shall be effective for and after the twelfth month before the month in which the application was filed, but in no case for any month before January 1957.”
+>         the Secretary of Health, Education, and Welfare \[now Health and Human Services\] shall, notwithstanding the provisions of section 215(f)(1) of the Social Security Act \[[42 U.S.C. 415(f)(1)][/us/usc/t42/s415/f/1]\], recompute the primary insurance amount of such individual upon the filing of an application, after December 1956, by him or (if he dies without filing such an application) by any person entitled to monthly survivor’s benefits under section 202 of such act \[[42 U.S.C. 402][/us/usc/t42/s402]\] on the basis of his wages and self-employment income. Such recomputation shall be made only in the manner, provided in title II of the Social Security Act \[[42 U.S.C. 401][/us/usc/t42/s401] et seq.\] as in effect at the time of the last previous computation or recomputation of such individual’s primary insurance amount, and as though application therefor was filed in the month in which application for such last previous computation or recomputation was filed. No recomputation made under this paragraph shall be regarded as a recomputation under section 215(f) of the Social Security Act \[[42 U.S.C. 415(f)][/us/usc/t42/s415/f]\]. Any such recomputation shall be effective for and after the twelfth month before the month in which the application was filed, but in no case for any month before January 1957.”
 
  __Disposition of Remains of Deceased Personnel__ 
 
@@ -172,6 +172,7 @@
 [/us/usc/t42/s415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs415
 [/us/usc/t42/s415/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs415%2Ff%2F1
 [/us/usc/t42/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs402
+[/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
 [/us/usc/t42/s415/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs415%2Ff
 [/us/act/1956-04-30/ch227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-04-30%2Fch227
 [/us/stat/70/124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F124

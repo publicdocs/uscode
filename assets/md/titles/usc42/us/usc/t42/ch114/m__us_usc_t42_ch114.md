@@ -41,7 +41,7 @@ Part A—Establishment of Systems  </td>
 
   <tr>
 
-    <td> 10801.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs10801" data-uslm-ref="/us/usc/t42/s10801">10801.</a>  </td>
 
     <td> Congressional findings and statement of purpose.  </td>
 
@@ -49,7 +49,7 @@ Part A—Establishment of Systems  </td>
 
   <tr>
 
-    <td> 10802.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs10802" data-uslm-ref="/us/usc/t42/s10802">10802.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -57,7 +57,7 @@ Part A—Establishment of Systems  </td>
 
   <tr>
 
-    <td> 10803.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs10803" data-uslm-ref="/us/usc/t42/s10803">10803.</a>  </td>
 
     <td> Allotments.  </td>
 
@@ -65,7 +65,7 @@ Part A—Establishment of Systems  </td>
 
   <tr>
 
-    <td> 10804.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs10804" data-uslm-ref="/us/usc/t42/s10804">10804.</a>  </td>
 
     <td> Use of allotments.  </td>
 
@@ -73,7 +73,7 @@ Part A—Establishment of Systems  </td>
 
   <tr>
 
-    <td> 10805.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs10805" data-uslm-ref="/us/usc/t42/s10805">10805.</a>  </td>
 
     <td> System requirements.  </td>
 
@@ -81,7 +81,7 @@ Part A—Establishment of Systems  </td>
 
   <tr>
 
-    <td> 10806.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs10806" data-uslm-ref="/us/usc/t42/s10806">10806.</a>  </td>
 
     <td> Access to records.  </td>
 
@@ -89,7 +89,7 @@ Part A—Establishment of Systems  </td>
 
   <tr>
 
-    <td> 10807.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs10807" data-uslm-ref="/us/usc/t42/s10807">10807.</a>  </td>
 
     <td> Legal actions.  </td>
 
@@ -105,7 +105,7 @@ Part B—Administrative Provisions  </td>
 
   <tr>
 
-    <td> 10821.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs10821" data-uslm-ref="/us/usc/t42/s10821">10821.</a>  </td>
 
     <td> Applications.  </td>
 
@@ -113,7 +113,7 @@ Part B—Administrative Provisions  </td>
 
   <tr>
 
-    <td> 10822.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs10822" data-uslm-ref="/us/usc/t42/s10822">10822.</a>  </td>
 
     <td> Allotment formula and reallotments.  </td>
 
@@ -121,7 +121,7 @@ Part B—Administrative Provisions  </td>
 
   <tr>
 
-    <td> 10823.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs10823" data-uslm-ref="/us/usc/t42/s10823">10823.</a>  </td>
 
     <td> Payments under allotments.  </td>
 
@@ -129,7 +129,7 @@ Part B—Administrative Provisions  </td>
 
   <tr>
 
-    <td> 10824.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs10824" data-uslm-ref="/us/usc/t42/s10824">10824.</a>  </td>
 
     <td> Reports by Secretary.  </td>
 
@@ -137,7 +137,7 @@ Part B—Administrative Provisions  </td>
 
   <tr>
 
-    <td> 10825.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs10825" data-uslm-ref="/us/usc/t42/s10825">10825.</a>  </td>
 
     <td> Technical assistance.  </td>
 
@@ -145,7 +145,7 @@ Part B—Administrative Provisions  </td>
 
   <tr>
 
-    <td> 10826.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs10826" data-uslm-ref="/us/usc/t42/s10826">10826.</a>  </td>
 
     <td> Administration.  </td>
 
@@ -153,7 +153,7 @@ Part B—Administrative Provisions  </td>
 
   <tr>
 
-    <td> 10827.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs10827" data-uslm-ref="/us/usc/t42/s10827">10827.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 
@@ -169,7 +169,7 @@ SUBCHAPTER II—RESTATEMENT OF BILL OF RIGHTS FOR MENTAL HEALTH PATIENTS  </td>
 
   <tr>
 
-    <td> 10841.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs10841" data-uslm-ref="/us/usc/t42/s10841">10841.</a>  </td>
 
     <td> Restatement of bill of rights.  </td>
 
@@ -185,7 +185,7 @@ SUBCHAPTER III—CONSTRUCTION  </td>
 
   <tr>
 
-    <td> 10851.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs10851" data-uslm-ref="/us/usc/t42/s10851">10851.</a>  </td>
 
     <td> Construction of subchapters I and II; “individual with mental illness” defined.  </td>
 

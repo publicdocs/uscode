@@ -133,7 +133,7 @@
 
 [Pub. L. 106–310, div. A, title VII, § 701][/us/pl/106/310/s701], Oct. 17, 2000, [114 Stat. 1120][/us/stat/114/1120], provided that: 
 
-> “The purposes of this title \[enacting this section\] are to clarify the authority within the Public Health Service Act \[this chapter\] to authorize statewide newborn and infant hearing screening, evaluation and intervention programs and systems, technical assistance, a national applied research program, and interagency and private sector collaboration for policy development, in order to assist the States in making progress toward the following goals:
+> “The purposes of this title \[enacting this section\] are to clarify the authority within the Public Health Service Act \[[42 U.S.C. 201][/us/usc/t42/s201] et seq.\] to authorize statewide newborn and infant hearing screening, evaluation and intervention programs and systems, technical assistance, a national applied research program, and interagency and private sector collaboration for policy development, in order to assist the States in making progress toward the following goals:
 
 >     “(1) All babies born in hospitals in the United States and its territories should have a hearing screening before leaving the birthing facility. Babies born in other countries and residing in the United States via immigration or adoption should have a hearing screening as early as possible.
 
@@ -183,5 +183,6 @@
 [/us/usc/t42/s280g–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs280g%E2%80%931
 [/us/pl/106/310/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs701
 [/us/stat/114/1120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1120
+[/us/usc/t42/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs201
 
 

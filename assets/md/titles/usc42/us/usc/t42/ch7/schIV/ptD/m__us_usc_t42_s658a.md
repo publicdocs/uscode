@@ -2833,7 +2833,7 @@
 
 [Pub. L. 105–200, title II, § 201(c)][/us/pl/105/200/s201/c], July 16, 1998, [112 Stat. 656][/us/stat/112/656], provided that: 
 
-> “Within 9 months after the date of the enactment of this section \[July 16, 1998\], the Secretary of Health and Human Services shall prescribe regulations governing the implementation of section 458A \[now 458\] of the Social Security Act \[this section\] when such section takes effect and the implementation of subsection (b) of this section \[formerly set out as a note below\].”
+> “Within 9 months after the date of the enactment of this section \[July 16, 1998\], the Secretary of Health and Human Services shall prescribe regulations governing the implementation of section 458A \[now 458\] of the Social Security Act \[[42 U.S.C. 658a][/us/usc/t42/s658a]\] when such section takes effect and the implementation of subsection (b) of this section \[formerly set out as a note below\].”
 
  __Transition Rule__ 
 
@@ -2847,7 +2847,7 @@
 
 >         “(A) __In general.—__ 
 
->         The Secretary of Health and Human Services shall conduct a study of the implementation of the incentive payment system established by section 458 of the Social Security Act \[this section\], in order to identify the problems and successes of the system.
+>         The Secretary of Health and Human Services shall conduct a study of the implementation of the incentive payment system established by section 458 of the Social Security Act \[[42 U.S.C. 658a][/us/usc/t42/s658a]\], in order to identify the problems and successes of the system.
 
 >         “(B) __Reports to the congress.—__ 
 
@@ -2867,7 +2867,7 @@
 
 >         “(A) __In general.—__ 
 
->         The Secretary of Health and Human Services, in consultation with State directors of programs operated under part D of title IV of the Social Security Act \[this part\] and representatives of children potentially eligible for medical support, shall develop a performance measure based on the effectiveness of States in establishing and enforcing medical support obligations, and shall make recommendations for the incorporation of the measure, in a revenue neutral manner, into the incentive payment system established by section 458A \[now 458\] of the Social Security Act \[this section\].
+>         The Secretary of Health and Human Services, in consultation with State directors of programs operated under part D of title IV of the Social Security Act \[[42 U.S.C. 651][/us/usc/t42/s651] et seq.\] and representatives of children potentially eligible for medical support, shall develop a performance measure based on the effectiveness of States in establishing and enforcing medical support obligations, and shall make recommendations for the incorporation of the measure, in a revenue neutral manner, into the incentive payment system established by section 458A \[now 458\] of the Social Security Act \[[42 U.S.C. 658a][/us/usc/t42/s658a]\].
 
 >         “(B) __Report.—__ 
 
@@ -2894,10 +2894,14 @@
 [/us/usc/t42/s658]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs658
 [/us/pl/105/200/s201/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F200%2Fs201%2Fc
 [/us/stat/112/656]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F656
+[/us/usc/t42/s658a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs658a
 [/us/pl/105/200/s201/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F200%2Fs201%2Fb
 [/us/stat/112/656]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F656
 [/us/usc/t42/s658]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs658
 [/us/pl/105/200/s201/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F200%2Fs201%2Fd
 [/us/stat/112/656]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F656
+[/us/usc/t42/s658a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs658a
+[/us/usc/t42/s651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs651
+[/us/usc/t42/s658a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs658a
 
 

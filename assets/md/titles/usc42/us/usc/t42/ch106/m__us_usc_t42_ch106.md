@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 9901.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs9901" data-uslm-ref="/us/usc/t42/s9901">9901.</a>  </td>
 
     <td> Purposes and goals.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 9902.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs9902" data-uslm-ref="/us/usc/t42/s9902">9902.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 9903.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs9903" data-uslm-ref="/us/usc/t42/s9903">9903.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 9904.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs9904" data-uslm-ref="/us/usc/t42/s9904">9904.</a>  </td>
 
     <td> Establishment of block grant program.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 9905.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs9905" data-uslm-ref="/us/usc/t42/s9905">9905.</a>  </td>
 
     <td> Distribution to territories.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 9906.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs9906" data-uslm-ref="/us/usc/t42/s9906">9906.</a>  </td>
 
     <td> Allotments and payments to States.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 9907.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs9907" data-uslm-ref="/us/usc/t42/s9907">9907.</a>  </td>
 
     <td> Uses of funds.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 9908.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs9908" data-uslm-ref="/us/usc/t42/s9908">9908.</a>  </td>
 
     <td> Application and plan.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 9909.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs9909" data-uslm-ref="/us/usc/t42/s9909">9909.</a>  </td>
 
     <td> Designation and redesignation of eligible entities in unserved areas.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 9910.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs9910" data-uslm-ref="/us/usc/t42/s9910">9910.</a>  </td>
 
     <td> Tripartite boards.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 9911.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs9911" data-uslm-ref="/us/usc/t42/s9911">9911.</a>  </td>
 
     <td> Payments to Indian tribes.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 9912.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs9912" data-uslm-ref="/us/usc/t42/s9912">9912.</a>  </td>
 
     <td> Office of Community Services.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 9913.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs9913" data-uslm-ref="/us/usc/t42/s9913">9913.</a>  </td>
 
     <td> Training, technical assistance, and other activities.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> 9914.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs9914" data-uslm-ref="/us/usc/t42/s9914">9914.</a>  </td>
 
     <td> Monitoring of eligible entities.  </td>
 
@@ -137,7 +137,7 @@
 
   <tr>
 
-    <td> 9915.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs9915" data-uslm-ref="/us/usc/t42/s9915">9915.</a>  </td>
 
     <td> Corrective action; termination and reduction of funding.  </td>
 
@@ -145,7 +145,7 @@
 
   <tr>
 
-    <td> 9916.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs9916" data-uslm-ref="/us/usc/t42/s9916">9916.</a>  </td>
 
     <td> Fiscal controls, audits, and withholding.  </td>
 
@@ -153,7 +153,7 @@
 
   <tr>
 
-    <td> 9917.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs9917" data-uslm-ref="/us/usc/t42/s9917">9917.</a>  </td>
 
     <td> Accountability and reporting requirements.  </td>
 
@@ -161,7 +161,7 @@
 
   <tr>
 
-    <td> 9918.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs9918" data-uslm-ref="/us/usc/t42/s9918">9918.</a>  </td>
 
     <td> Limitations on use of funds.  </td>
 
@@ -169,7 +169,7 @@
 
   <tr>
 
-    <td> 9919.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs9919" data-uslm-ref="/us/usc/t42/s9919">9919.</a>  </td>
 
     <td> Drug and child support services and referrals.  </td>
 
@@ -177,7 +177,7 @@
 
   <tr>
 
-    <td> 9920.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs9920" data-uslm-ref="/us/usc/t42/s9920">9920.</a>  </td>
 
     <td> Operational rule.  </td>
 
@@ -185,7 +185,7 @@
 
   <tr>
 
-    <td> 9921.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs9921" data-uslm-ref="/us/usc/t42/s9921">9921.</a>  </td>
 
     <td> Discretionary authority of Secretary.  </td>
 
@@ -193,7 +193,7 @@
 
   <tr>
 
-    <td> 9922.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs9922" data-uslm-ref="/us/usc/t42/s9922">9922.</a>  </td>
 
     <td> Community food and nutrition programs.  </td>
 
@@ -201,7 +201,7 @@
 
   <tr>
 
-    <td> 9923.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs9923" data-uslm-ref="/us/usc/t42/s9923">9923.</a>  </td>
 
     <td> National or regional programs designed to provide instructional activities for low-income youth.  </td>
 
@@ -209,7 +209,7 @@
 
   <tr>
 
-    <td> 9924.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs9924" data-uslm-ref="/us/usc/t42/s9924">9924.</a>  </td>
 
     <td> References.  </td>
 
@@ -217,7 +217,7 @@
 
   <tr>
 
-    <td> 9925.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs9925" data-uslm-ref="/us/usc/t42/s9925">9925.</a>  </td>
 
     <td> Demonstration partnership agreements addressing needs of poor.  </td>
 
@@ -225,7 +225,7 @@
 
   <tr>
 
-    <td> 9926.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs9926" data-uslm-ref="/us/usc/t42/s9926">9926.</a>  </td>
 
     <td> Projects to expand the number of job opportunities available to certain low-income individuals.  </td>
 

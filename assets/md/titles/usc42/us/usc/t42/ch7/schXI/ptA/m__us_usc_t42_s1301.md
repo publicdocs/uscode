@@ -193,11 +193,11 @@
 
 >     “(b) __Effective Date.—__ 
 
->     The amendments made by this section \[amending this section\] shall apply to the Federal percentage (and Federal medical assistance percentage) for fiscal years 1987 and thereafter. Such amendments shall apply without regard to the requirement of section 1101(a)(8)(B) of the Social Security Act \[subsec. (a)(8)(B) of this section\] relating to the promulgation of the Federal percentage prior to November 30 of the year preceding the year in which the new Federal percentage becomes applicable. The Secretary of Health and Human Services shall promulgate such new percentage for fiscal year 1987 as soon as practicable after the date of the enactment of this Act \[Apr. 7, 1986\].
+>     The amendments made by this section \[amending this section\] shall apply to the Federal percentage (and Federal medical assistance percentage) for fiscal years 1987 and thereafter. Such amendments shall apply without regard to the requirement of section 1101(a)(8)(B) of the Social Security Act \[[42 U.S.C. 1301(a)(8)(B)][/us/usc/t42/s1301/a/8/B]\] relating to the promulgation of the Federal percentage prior to November 30 of the year preceding the year in which the new Federal percentage becomes applicable. The Secretary of Health and Human Services shall promulgate such new percentage for fiscal year 1987 as soon as practicable after the date of the enactment of this Act \[Apr. 7, 1986\].
 
 >     “(c) __Hold Harmless Provision.—__ 
 
->     Notwithstanding subsection (b), for calendar quarters occurring during fiscal year 1987 and only for purposes of making payments to States under sections 403 and 1903 of the Social Security Act \[sections 603 and 1396b of this title\], the amendments made by subsection (a) \[amending this section\] shall not apply to a State with respect to either such section if the effect of the \[sic\] applying the amendments would be to reduce the amount of payment made to the State under that section.”
+>     Notwithstanding subsection (b), for calendar quarters occurring during fiscal year 1987 and only for purposes of making payments to States under sections 403 and 1903 of the Social Security Act \[[42 U.S.C. 603][/us/usc/t42/s603] and 1396b\], the amendments made by subsection (a) \[amending this section\] shall not apply to a State with respect to either such section if the effect of the \[sic\] applying the amendments would be to reduce the amount of payment made to the State under that section.”
 
     \[[Pub. L. 99–509, title IX, § 9102][/us/pl/99/509/s9102], Oct. 21, 1986, [100 Stat. 1972][/us/stat/100/1972], provided that the amendment made by that section \[amending [section 9528(c) of Pub. L. 99–272][/us/pl/99/272/s9528/c], set out above\] is effective as provided in [section 9421(b) of Pub. L. 99–509][/us/pl/99/509/s9421/b]. See below.\]
 
@@ -257,7 +257,7 @@
 
 [Pub. L. 86–624, § 47(b)][/us/pl/86/624/s47/b], July 12, 1960, [74 Stat. 423][/us/stat/74/423], provided that: 
 
-> “The amendments made by paragraph (2) of section 30(a) \[amending this section\] shall be effective with the beginning of the calendar quarter in which this Act is enacted. The Secretary of Health, Education, and Welfare shall, as soon as possible after enactment of this Act \[July 12, 1960\], promulgate a Federal percentage for Hawaii determined in accordance with the provisions of subparagraph (B) of section 1101(a)(8) of the Social Security Act \[subsec. (a)(8)(B) of this section\], such promulgation to be effective for the period beginning with the beginning of the calendar quarter in which this Act is enacted and ending with the close of June 30, 1961.”
+> “The amendments made by paragraph (2) of section 30(a) \[amending this section\] shall be effective with the beginning of the calendar quarter in which this Act is enacted. The Secretary of Health, Education, and Welfare \[now Health and Human Services\] shall, as soon as possible after enactment of this Act \[July 12, 1960\], promulgate a Federal percentage for Hawaii determined in accordance with the provisions of subparagraph (B) of section 1101(a)(8) of the Social Security Act \[[42 U.S.C. 1301(a)(8)(B)][/us/usc/t42/s1301/a/8/B]\], such promulgation to be effective for the period beginning with the beginning of the calendar quarter in which this Act is enacted and ending with the close of June 30, 1961.”
 
  __Effective Date of 1959 Amendment__ 
 
@@ -279,7 +279,7 @@
 
 [Act June 14, 1948, ch. 468, § 2(b)][/us/act/1948-06-14/ch468/s2/b], [62 Stat. 438][/us/stat/62/438], provided that: 
 
-> “The amendment made by subsection (a) \[amending this section\] shall have the same effect as if included in the Social Security Act \[this chapter\] on August 14, 1935, the date of its enactment, but shall not have the effect of voiding any (1) wage credits reported to the Bureau of Internal Revenue \[now Internal Revenue Service\] with respect to services performed prior to the enactment of this Act \[June 14, 1948\] or (2) wage credits with respect to services performed prior to the close of the first calendar quarter which begins after the date of the enactment of this Act in the case of individuals who have attained age sixty-five or who have died, prior to the close of such quarter, and with respect to whom prior to the date of enactment of this Act wage credits were established which would not have been established had the amendment made by subsection (a) been in effect on and after August 14, 1935.”
+> “The amendment made by subsection (a) \[amending this section\] shall have the same effect as if included in the Social Security Act \[[42 U.S.C. 301][/us/usc/t42/s301] et seq.\] on August 14, 1935, the date of its enactment, but shall not have the effect of voiding any (1) wage credits reported to the Bureau of Internal Revenue \[now Internal Revenue Service\] with respect to services performed prior to the enactment of this Act \[June 14, 1948\] or (2) wage credits with respect to services performed prior to the close of the first calendar quarter which begins after the date of the enactment of this Act in the case of individuals who have attained age sixty-five or who have died, prior to the close of such quarter, and with respect to whom prior to the date of enactment of this Act wage credits were established which would not have been established had the amendment made by subsection (a) been in effect on and after August 14, 1935.”
 
  __Effective Date of 1946 Amendment__ 
 
@@ -307,7 +307,7 @@
 
 [Pub. L. 98–369, div. B, title VI, § 2663][/us/pl/98/369/s2663](l), July 18, 1984, [98 Stat. 1171][/us/stat/98/1171], provided that: 
 
-> “Any reference to the Federal Security Administrator which may remain in the provisions of title II, IV, VII, or XI of the Social Security Act \[subchapter II, IV, VII, or XI of this chapter\] (other than section 1101(a)(6) of such Act \[subsec. (a)(6) of this section\]) is amended—
+> “Any reference to the Federal Security Administrator which may remain in the provisions of title II, IV, VII, or XI of the Social Security Act \[\[[42 U.S.C. 401][/us/usc/t42/s401] et seq., 601 et seq., 901 et seq., 1301 et seq.\] (other than section 1101(a)(6) of such Act \[[42 U.S.C. 1301(a)(6)][/us/usc/t42/s1301/a/6]\]) is amended—
 
 >     “(1) by substituting ‘Secretary’ or ‘Secretary’s’ for the term ‘Administrator’ or ‘Administrator’s’, where the reference is to that term alone;
 
@@ -315,7 +315,7 @@
 
 >     “(3) by substituting ‘Secretary of Health and Human Services’ for the term ‘Federal Security Administrator’ in any other case where the reference is to that term;
 
->         and any reference to the Federal Security Agency which may remain in such provisions is amended by substituting ‘Department of Health and Human Services’ for the term ‘Federal Security Agency’; but nothing in this subsection shall affect the exercise under section 402(a)(5) of such Act \[[section 602(a)(5) of this title][/us/usc/t42/s602/a/5]\] of the functions, powers, and duties relating to the prescription of personnel standards on a merit basis which were transferred from the Secretary of Health, Education, and Welfare by [section 208(a)(3)(D) of Public Law 91–648][/us/pl/91/648/s208/a/3/D] \[[42 U.S.C. 4728(a)(3)(D)][/us/usc/t42/s4728/a/3/D]\].”
+>         and any reference to the Federal Security Agency which may remain in such provisions is amended by substituting ‘Department of Health and Human Services’ for the term ‘Federal Security Agency’; but nothing in this subsection shall affect the exercise under section 402(a)(5) of such Act \[[42 U.S.C. 602(a)(5)][/us/usc/t42/s602/a/5]\] of the functions, powers, and duties relating to the prescription of personnel standards on a merit basis which were transferred from the Secretary of Health, Education, and Welfare by [section 208(a)(3)(D) of Public Law 91–648][/us/pl/91/648/s208/a/3/D] \[[42 U.S.C. 4728(a)(3)(D)][/us/usc/t42/s4728/a/3/D]\].”
 
  __Definitions of “BIPA” and “Secretary”__ 
 
@@ -367,7 +367,7 @@
 
 [Act Sept. 1, 1954, ch. 1206][/us/act/1954-09-01/ch1206], title I, § 114, [68 Stat. 1087][/us/stat/68/1087], as amended Oct. 17, 1979, [Pub. L. 96–88, title V, § 509(b)][/us/pl/96/88/s509/b], [93 Stat. 695][/us/stat/93/695], provided that: 
 
-> “As used in the provisions of the Social Security Act amended by this title \[sections 402, 403, 415, and 421 of this title\], the term ‘Secretary’ means the Secretary of Health and Human Services.”
+> “As used in the provisions of the Social Security Act amended by this title \[[42 U.S.C. 402][/us/usc/t42/s402], 403, 415, and 421\], the term ‘Secretary’ means the Secretary of Health and Human Services.”
 
 ----------
 
@@ -490,6 +490,8 @@
 [/us/stat/100/219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F219
 [/us/pl/99/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509
 [/us/stat/100/1972]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1972
+[/us/usc/t42/s1301/a/8/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1301%2Fa%2F8%2FB
+[/us/usc/t42/s603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs603
 [/us/pl/99/509/s9102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs9102
 [/us/stat/100/1972]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1972
 [/us/pl/99/272/s9528/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs9528%2Fc
@@ -532,6 +534,7 @@
 [/us/stat/74/423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F423
 [/us/pl/86/624/s47/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F624%2Fs47%2Fb
 [/us/stat/74/423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F423
+[/us/usc/t42/s1301/a/8/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1301%2Fa%2F8%2FB
 [/us/pl/86/70/s32/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F70%2Fs32%2Fa
 [/us/pl/86/70/s32/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F70%2Fs32%2Fd
 [/us/pl/86/70/s47/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F70%2Fs47%2Fa
@@ -545,6 +548,7 @@
 [/us/stat/64/559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F559
 [/us/act/1948-06-14/ch468/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-14%2Fch468%2Fs2%2Fb
 [/us/stat/62/438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F438
+[/us/usc/t42/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs301
 [/us/act/1946-08-10/ch951]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-10%2Fch951
 [/us/stat/60/986]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F986
 [/us/act/1939-08-10/ch666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-08-10%2Fch666
@@ -563,6 +567,8 @@
 [/us/usc/t48/s1681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1681
 [/us/pl/98/369/s2663]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2663
 [/us/stat/98/1171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1171
+[/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
+[/us/usc/t42/s1301/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1301%2Fa%2F6
 [/us/pl/98/369/s2663/j/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2663%2Fj%2F2
 [/us/usc/t42/s602/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs602%2Fa%2F5
 [/us/pl/91/648/s208/a/3/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F648%2Fs208%2Fa%2F3%2FD
@@ -615,5 +621,6 @@
 [/us/stat/68/1087]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F1087
 [/us/pl/96/88/s509/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs509%2Fb
 [/us/stat/93/695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F695
+[/us/usc/t42/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs402
 
 

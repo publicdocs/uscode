@@ -99,7 +99,7 @@
 
 [Pub. L. 97–448, title III, § 309(c)(2)][/us/pl/97/448/s309/c/2], Jan. 12, 1983, [96 Stat. 2410][/us/stat/96/2410], provided that: 
 
-> “Any amendment to the Social Security Act \[this chapter\] made by this section \[amending this section and sections 410, 1320c–2, 1320c–3, 1395d, 1395f, 1395r, 1395y, 1395cc, 1395mm, 1395ww, 1396b, 1396n, 1396o, and 1396p of this title\] shall be effective as if it had been originally included as a part of that provision of the Social Security Act to which it relates, as such provision of such Act was amended or added by the Tax Equity and Fiscal Responsibility Act of 1982 \[[Pub. L. 97–248][/us/pl/97/248], Sept. 3, 1982, [96 Stat. 324][/us/stat/96/324]\].”
+> “Any amendment to the Social Security Act \[[42 U.S.C. 301][/us/usc/t42/s301] et seq.\] made by this section \[amending this section and sections 410, 1320c–2, 1320c–3, 1395d, 1395f, 1395r, 1395y, 1395cc, 1395mm, 1395ww, 1396b, 1396n, 1396o, and 1396p of this title\] shall be effective as if it had been originally included as a part of that provision of the Social Security Act to which it relates, as such provision of such Act was amended or added by the Tax Equity and Fiscal Responsibility Act of 1982 \[[Pub. L. 97–248][/us/pl/97/248], Sept. 3, 1982, [96 Stat. 324][/us/stat/96/324]\].”
 
  __Effective Date of 1982 Amendment__ 
 
@@ -159,6 +159,7 @@
 [/us/usc/t42/s410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs410
 [/us/pl/97/448/s309/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F448%2Fs309%2Fc%2F2
 [/us/stat/96/2410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2410
+[/us/usc/t42/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs301
 [/us/pl/97/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248
 [/us/stat/96/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F324
 [/us/pl/97/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248

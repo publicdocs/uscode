@@ -147,7 +147,7 @@
 
 [Pub. L. 107–260, § 2(b)][/us/pl/107/260/s2/b], Oct. 29, 2002, [116 Stat. 1744][/us/stat/116/1744], provided that: 
 
-> “The amendments made by subsection (a) \[amending this section\] apply to grants under section 399B of the Public Health Service Act \[this section\] for fiscal year 2002 and subsequent fiscal years, except that, in the case of a State that received such a grant for fiscal year 2000, the Secretary of Health and Human Services may delay the applicability of such amendments to the State for not more than 12 months if the Secretary determines that compliance with such amendments requires the enactment of a statute by the State or the issuance of State regulations.”
+> “The amendments made by subsection (a) \[amending this section\] apply to grants under section 399B of the Public Health Service Act \[[42 U.S.C. 280e][/us/usc/t42/s280e]\] for fiscal year 2002 and subsequent fiscal years, except that, in the case of a State that received such a grant for fiscal year 2000, the Secretary of Health and Human Services may delay the applicability of such amendments to the State for not more than 12 months if the Secretary determines that compliance with such amendments requires the enactment of a statute by the State or the issuance of State regulations.”
 
  __Congressional Findings and Purpose__ 
 
@@ -194,6 +194,7 @@
 [/us/stat/106/3504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3504
 [/us/pl/107/260/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F260%2Fs2%2Fb
 [/us/stat/116/1744]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1744
+[/us/usc/t42/s280e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs280e
 [/us/pl/102/515/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F515%2Fs2
 [/us/stat/106/3372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3372
 [/us/usc/t42/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs201

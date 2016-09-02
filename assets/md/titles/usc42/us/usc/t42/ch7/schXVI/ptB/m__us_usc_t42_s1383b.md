@@ -105,7 +105,7 @@
 
 [Pub. L. 93–66, title II, § 213][/us/pl/93/66/s213], July 9, 1973, [87 Stat. 158][/us/stat/87/158], provided that: 
 
-> “The Secretary of Health, Education, and Welfare \[now Health and Human Services\] in the recruitment and selection for employment of personnel whose services will be utilized in the administration of the Federal program of supplemental security income for the aged, blind, and disabled (established by title XVI of the Social Security Act \[this subchapter\]), shall give a preference, as among applicants whose qualifications are reasonably equal (subject to any preferences conferred by law or regulation on individuals who have been Federal employees and have been displaced from such employment), to applicants for employment who are or were employed in the administration of any State program approved under title I, X, XIV, or XVI of such Act \[subchapter I, X, XIV, or XVI of this chapter\] and are or were involuntarily displaced from their employment as a result of the displacement of such State program by such Federal program.”
+> “The Secretary of Health, Education, and Welfare \[now Health and Human Services\] in the recruitment and selection for employment of personnel whose services will be utilized in the administration of the Federal program of supplemental security income for the aged, blind, and disabled (established by title XVI of the Social Security Act \[this subchapter\]), shall give a preference, as among applicants whose qualifications are reasonably equal (subject to any preferences conferred by law or regulation on individuals who have been Federal employees and have been displaced from such employment), to applicants for employment who are or were employed in the administration of any State program approved under title I, X, XIV, or XVI of such Act \[[42 U.S.C. 301][/us/usc/t42/s301] et seq., 1201 et seq., 1351 et seq., 1381 et seq.\] and are or were involuntarily displaced from their employment as a result of the displacement of such State program by such Federal program.”
 
  __Application to Northern Mariana Islands__ 
 
@@ -168,6 +168,7 @@
 [/us/usc/t42/s421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs421
 [/us/pl/93/66/s213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F66%2Fs213
 [/us/stat/87/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F158
+[/us/usc/t42/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs301
 [/us/usc/t48/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1801
 [/us/pl/92/603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603
 [/us/pl/92/603/s303/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603%2Fs303%2Fb

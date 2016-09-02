@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 6101.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs6101" data-uslm-ref="/us/usc/t42/s6101">6101.</a>  </td>
 
     <td> Statement of purpose.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 6102.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs6102" data-uslm-ref="/us/usc/t42/s6102">6102.</a>  </td>
 
     <td> Prohibition of discrimination.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 6103.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs6103" data-uslm-ref="/us/usc/t42/s6103">6103.</a>  </td>
 
     <td> Regulations.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 6104.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs6104" data-uslm-ref="/us/usc/t42/s6104">6104.</a>  </td>
 
     <td> Enforcement.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 6105.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs6105" data-uslm-ref="/us/usc/t42/s6105">6105.</a>  </td>
 
     <td> Judicial review.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 6106.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs6106" data-uslm-ref="/us/usc/t42/s6106">6106.</a>  </td>
 
     <td> Study of discrimination based on age.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 6106a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs6106a" data-uslm-ref="/us/usc/t42/s6106a">6106a.</a>  </td>
 
     <td> Reports to the Secretary and Congress.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 6107.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs6107" data-uslm-ref="/us/usc/t42/s6107">6107.</a>  </td>
 
     <td> Definitions.  </td>
 

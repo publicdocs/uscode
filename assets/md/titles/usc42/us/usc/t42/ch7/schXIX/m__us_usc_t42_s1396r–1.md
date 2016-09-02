@@ -117,7 +117,7 @@
 
  __Amendment of Subsection (e)__ 
 
-[Pub. L. 111–148, title II, § 2004(b)][/us/pl/111/148/s2004/b], (d), title X, § 10201(a)(3), Mar. 23, 2010, [124 Stat. 283][/us/stat/124/283], 918, provided that, effective Jan. 1, 2014, subsection (e) of this section is amended by inserting “, clause (i)(IX),” after “clause (i)(VIII)”. See 2010 Amendment notes below.
+[Pub. L. 111–148, title II, § 2004(b)][/us/pl/111/148/s2004/b], (d), title X, § 10201(a)(3), Mar. 23, 2010, [124 Stat. 283][/us/stat/124/283], 918, provided that, effective Jan. 1, 2014, subsection (e) of this section is amended by inserting “, clause (i)(IX),” after “clause (i)(VIII)”. See 2010 Amendment note below.
 
  __References in Text__ 
 
@@ -177,7 +177,7 @@
 
 [Pub. L. 101–508, title IV, § 4605(c)][/us/pl/101/508/s4605/c], Nov. 5, 1990, [104 Stat. 1388–169][/us/stat/104/1388-169], provided that:
 
->     “(1) The amendments made by subsection (a) \[amending this section\] apply to payments under title XIX of the Social Security Act \[this subchapter\] for calendar quarters beginning on or after July 1, 1991, without regard to whether or not final regulations to carry out such amendments have been promulgated by such date.
+>     “(1) The amendments made by subsection (a) \[amending this section\] apply to payments under title XIX of the Social Security Act \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\] for calendar quarters beginning on or after July 1, 1991, without regard to whether or not final regulations to carry out such amendments have been promulgated by such date.
 
 >     “(2) The amendment made by subsection (b) \[amending this section\] shall be effective as if included in the enactment of section 9407(b) of the Omnibus Budget Reconciliation Act of 1986 \[[Pub. L. 99–509][/us/pl/99/509], enacting this section\].”
 
@@ -268,6 +268,7 @@
 [/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
 [/us/pl/101/508/s4605/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs4605%2Fc
 [/us/stat/104/1388-169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-169
+[/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
 [/us/pl/99/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509
 [/us/pl/100/485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F485
 [/us/pl/100/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360

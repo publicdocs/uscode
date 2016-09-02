@@ -467,7 +467,7 @@
 
 >     “(1) __In general.—__ 
 
->     Except as otherwise provided in this section, the amendments made by the preceding provisions of this section \[amending this section, sections 654 and 657 of this title, and [section 6402 of Title 26][/us/usc/t26/s6402], Internal Revenue Code\] shall take effect on October 1, 2009, and shall apply to payments under parts A and D of title IV of the Social Security Act \[this part and part D of this subchapter\] for calendar quarters beginning on or after such date, and without regard to whether regulations to implement the amendments (in the case of State programs operated under such part D) are promulgated by such date.
+>     Except as otherwise provided in this section, the amendments made by the preceding provisions of this section \[amending this section, sections 654 and 657 of this title, and [section 6402 of Title 26][/us/usc/t26/s6402], Internal Revenue Code\] shall take effect on October 1, 2009, and shall apply to payments under parts A and D of title IV of the Social Security Act \[[42 U.S.C. 601][/us/usc/t42/s601] et seq., 651 et seq.\] for calendar quarters beginning on or after such date, and without regard to whether regulations to implement the amendments (in the case of State programs operated under such part D) are promulgated by such date.
 
 >     “(2) __State option to accelerate effective date.—__ 
 
@@ -634,6 +634,7 @@
 [/us/pl/109/171/s7301/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2Fs7301%2Fe
 [/us/stat/120/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F144
 [/us/usc/t26/s6402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6402
+[/us/usc/t42/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs601
 [/us/pl/105/33/s5001/h/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs5001%2Fh%2F2
 [/us/stat/111/593]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F593
 [/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193

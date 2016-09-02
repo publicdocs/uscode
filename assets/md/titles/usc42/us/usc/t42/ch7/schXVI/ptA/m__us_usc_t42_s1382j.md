@@ -113,7 +113,7 @@
 
 [Pub. L. 96–265, title V, § 504(c)][/us/pl/96/265/s504/c], June 9, 1980, [94 Stat. 473][/us/stat/94/473], provided that: 
 
-> “The amendments made by this section \[enacting this section and amending [section 1382c of this title][/us/usc/t42/s1382c]\] shall be effective with respect to individuals applying for supplemental security income benefits under title XVI of the Social Security Act \[this subchapter\] for the first time after September 30, 1980.”
+> “The amendments made by this section \[enacting this section and amending [section 1382c of this title][/us/usc/t42/s1382c]\] shall be effective with respect to individuals applying for supplemental security income benefits under title XVI of the Social Security Act \[[42 U.S.C. 1381][/us/usc/t42/s1381] et seq.\] for the first time after September 30, 1980.”
 
  __Abolition of Immigration and Naturalization Service and Transfer of Functions__ 
 
@@ -175,6 +175,7 @@
 [/us/pl/96/265/s504/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F265%2Fs504%2Fc
 [/us/stat/94/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F473
 [/us/usc/t42/s1382c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1382c
+[/us/usc/t42/s1381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1381
 [/us/usc/t8/s1551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1551
 
 

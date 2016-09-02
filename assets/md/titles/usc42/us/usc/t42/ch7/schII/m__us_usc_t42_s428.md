@@ -243,7 +243,7 @@
 
 [Pub. L. 98–21, title III, § 305(e)][/us/pl/98/21/s305/e], Apr. 20, 1983, [97 Stat. 113][/us/stat/97/113], provided that: 
 
-> “The Secretary shall increase the amounts specified in section 228 of the Social Security Act \[this section\], as amended by this section, to take into account any general benefit increases (as referred to in section 215(i)(3) of such Act \[[section 415(i)(3) of this title][/us/usc/t42/s415/i/3]\]), and any increases under section 215(i) of such Act, which have occurred after June 1974 or may hereafter occur.”
+> “The Secretary shall increase the amounts specified in section 228 of the Social Security Act \[this section\], as amended by this section, to take into account any general benefit increases (as referred to in section 215(i)(3) of such Act \[[42 U.S.C. 415(i)(3)][/us/usc/t42/s415/i/3]\]), and any increases under section 215(i) of such Act, which have occurred after June 1974 or may hereafter occur.”
 
  __Special $50 Payment Under Tax Reduction Act of 1975__ 
 
@@ -253,7 +253,7 @@
 
 [Pub. L. 89–368, title III, § 302(b)][/us/pl/89/368/s302/b], Mar. 15, 1966, [80 Stat. 70][/us/stat/80/70], provided that: 
 
-> “For purposes of paragraph (4) of section 228(a) of the Social Security Act \[subsec. (a)(4) of this section\] (added by subsection (a) of this section), an application filed under section 103 of the Social Security Amendments of 1965 \[set out as a note under [section 426 of this title][/us/usc/t42/s426]\] before July 1966 shall be regarded as an application under such section 228 \[this section\] and shall, for purposes of such paragraph and of the last sentence of such section 228(a), be deemed to have been filed in July 1966, unless the person by whom or on whose behalf such application was filed notifies the Secretary that he does not want such application so regarded.”
+> “For purposes of paragraph (4) of section 228(a) of the Social Security Act \[[42 U.S.C. 428(a)(4)][/us/usc/t42/s428/a/4]\] (added by subsection (a) of this section), an application filed under section 103 of the Social Security Amendments of 1965 \[set out as a note under [section 426 of this title][/us/usc/t42/s426]\] before July 1966 shall be regarded as an application under such section 228 \[[42 U.S.C. 428][/us/usc/t42/s428]\] and shall, for purposes of such paragraph and of the last sentence of such section 228(a), be deemed to have been filed in July 1966, unless the person by whom or on whose behalf such application was filed notifies the Secretary that he does not want such application so regarded.”
 
 ----------
 
@@ -402,6 +402,8 @@
 [/us/usc/t42/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs402
 [/us/pl/89/368/s302/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F368%2Fs302%2Fb
 [/us/stat/80/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F70
+[/us/usc/t42/s428/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs428%2Fa%2F4
 [/us/usc/t42/s426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs426
+[/us/usc/t42/s428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs428
 
 

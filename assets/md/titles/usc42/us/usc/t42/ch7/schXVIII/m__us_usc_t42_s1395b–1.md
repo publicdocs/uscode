@@ -287,7 +287,7 @@
 
 >     “(a) __In General.—__ 
 
->     The Secretary of Health and Human Services (in this section referred to as the ‘Secretary’) shall establish under title XVIII of the Social Security Act \[this subchapter\] a medical home demonstration project (in this section referred to as the ‘project’) to redesign the health care delivery system to provide targeted, accessible, continuous and coordinated, family-centered care to high-need populations and under which—
+>     The Secretary of Health and Human Services (in this section referred to as the ‘Secretary’) shall establish under title XVIII of the Social Security Act \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\] a medical home demonstration project (in this section referred to as the ‘project’) to redesign the health care delivery system to provide targeted, accessible, continuous and coordinated, family-centered care to high-need populations and under which—
 
 >         “(1) care management fees are paid to persons performing services as personal physicians; and
 
@@ -369,7 +369,7 @@
 
 >         “(2) __Medical home sharing in savings.—__ 
 
->         The Secretary shall provide for payment under the project of a medical home based on the payment methodology applied to physician group practices under section 1866A of the Social Security Act ([42 U.S.C. 1395cc–1][/us/usc/t42/s1395cc–1]). Under such methodology, 80 percent of the reductions in expenditures under title XVIII of the Social Security Act \[this subchapter\] resulting from participation of individuals that are attributable to the medical home (as reduced by the total care managements fees paid to the medical home under the project) shall be paid to the medical home. The amount of such reductions in expenditures shall be determined by using assumptions with respect to reductions in the occurrence of health complications, hospitalization rates, medical errors, and adverse drug reactions.
+>         The Secretary shall provide for payment under the project of a medical home based on the payment methodology applied to physician group practices under section 1866A of the Social Security Act ([42 U.S.C. 1395cc–1][/us/usc/t42/s1395cc–1]). Under such methodology, 80 percent of the reductions in expenditures under title XVIII of the Social Security Act \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\] resulting from participation of individuals that are attributable to the medical home (as reduced by the total care managements fees paid to the medical home under the project) shall be paid to the medical home. The amount of such reductions in expenditures shall be determined by using assumptions with respect to reductions in the occurrence of health complications, hospitalization rates, medical errors, and adverse drug reactions.
 
 >         “(3) __Source.—__ 
 
@@ -535,7 +535,7 @@
 
 >         The term ‘eligible beneficiary’ means any individual who—
 
->             “(A) is entitled to benefits under part A and enrolled for benefits under part B of title XVIII of the Social Security Act \[parts A and B of this subchapter\] and is not enrolled in a plan under part C of such title \[part C of this subchapter\]; and
+>             “(A) is entitled to benefits under part A and enrolled for benefits under part B of title XVIII of the Social Security Act \[[42 U.S.C. 1395c][/us/usc/t42/s1395c] et seq., 1395j et seq.\] and is not enrolled in a plan under part C of such title \[[42 U.S.C. 1395w–21][/us/usc/t42/s1395w–21] et seq.\]; and
 
 >             “(B) has one or more chronic medical conditions specified by the Secretary (one of which may be cognitive impairment).
 
@@ -567,7 +567,7 @@
 
 >         “(2) __Target individual defined.—__ 
 
->         In this section, the term ‘target individual’ means an individual of a racial and ethnic minority group, as defined by section 1707 of the Public Health Service Act \[[section 300u–6 of this title][/us/usc/t42/s300u–6]\], who is entitled to benefits under part A, and enrolled under part B, of title XVIII of the Social Security Act \[parts A and B of this subchapter\].
+>         In this section, the term ‘target individual’ means an individual of a racial and ethnic minority group, as defined by section 1707 of the Public Health Service Act \[[42 U.S.C. 300u–6][/us/usc/t42/s300u–6]\], who is entitled to benefits under part A, and enrolled under part B, of title XVIII of the Social Security Act \[[42 U.S.C. 1395c][/us/usc/t42/s1395c] et seq., 1395j et seq.\].
 
 >     “(b) __Program Design.—__ 
 
@@ -601,7 +601,7 @@
 
 >         If the initial report under subsection (c) contains an evaluation that demonstration projects—
 
->             “(A) reduce expenditures under the medicare program under title XVIII of the Social Security Act \[this subchapter\]; or
+>             “(A) reduce expenditures under the medicare program under title XVIII of the Social Security Act \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\]; or
 
 >             “(B) do not increase expenditures under the medicare program and reduce racial and ethnic health disparities in the quality of health care services provided to target individuals and increase satisfaction of beneficiaries and health care providers;
 
@@ -633,7 +633,7 @@
 
 >     “(d) __Waiver Authority.—__ 
 
->     The Secretary shall waive compliance with the requirements of title XVIII of the Social Security Act \[this subchapter\] to such extent and for such period as the Secretary determines is necessary to conduct demonstration projects.
+>     The Secretary shall waive compliance with the requirements of title XVIII of the Social Security Act \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\] to such extent and for such period as the Secretary determines is necessary to conduct demonstration projects.
 
 >     “(e) __Funding.—__ 
 
@@ -641,7 +641,7 @@
 
 >             “(A) __State projects.—__ 
 
->             Except as provided in subparagraph (B), the Secretary shall provide for the transfer from the Federal Hospital Insurance Trust Fund and the Federal Supplementary \[Medical\] Insurance Trust Fund under title XVIII of the Social Security Act \[this subchapter\], in such proportions as the Secretary determines to be appropriate, of such funds as are necessary for the costs of carrying out the demonstration projects.
+>             Except as provided in subparagraph (B), the Secretary shall provide for the transfer from the Federal Hospital Insurance Trust Fund and the Federal Supplementary \[Medical\] Insurance Trust Fund under title XVIII of the Social Security Act \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\], in such proportions as the Secretary determines to be appropriate, of such funds as are necessary for the costs of carrying out the demonstration projects.
 
 >             “(B) __Territory projects.—__ 
 
@@ -837,7 +837,7 @@
 
 >         “(1) __In general.—__ 
 
->         Subject to the succeeding provisions of this subsection, services related to the treatment or management of (including prevention of complications from) diabetes for medicare beneficiaries furnished under the project shall be considered to be services covered under part B of title XVIII of the Social Security Act \[part B of this subchapter\].
+>         Subject to the succeeding provisions of this subsection, services related to the treatment or management of (including prevention of complications from) diabetes for medicare beneficiaries furnished under the project shall be considered to be services covered under part B of title XVIII of the Social Security Act \[[42 U.S.C. 1395j][/us/usc/t42/s1395j] et seq.\].
 
 >         “(2) __Payments.—__ 
 
@@ -899,7 +899,7 @@
 
 [Pub. L. 101–508, title IV, § 4008(i)(1)][/us/pl/101/508/s4008/i/1], Nov. 5, 1990, [104 Stat. 1388–50][/us/stat/104/1388-50], as amended by [Pub. L. 103–66, title XIII, § 13507][/us/pl/103/66/s13507], Aug. 10, 1993, [107 Stat. 579][/us/stat/107/579], provided that: 
 
-> “The Secretary of Health and Human Services is authorized to waive such provisions of title XVIII of the Social Security Act \[this subchapter\] as are necessary to conduct any demonstration project for limited-service rural hospitals with respect to which the Secretary has entered into an agreement before the date of the enactment of the Omnibus Budget Reconciliation Act of 1989 \[Dec. 19, 1989\]. The Secretary shall continue any such demonstration project until at least July 1, 1997.”
+> “The Secretary of Health and Human Services is authorized to waive such provisions of title XVIII of the Social Security Act \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\] as are necessary to conduct any demonstration project for limited-service rural hospitals with respect to which the Secretary has entered into an agreement before the date of the enactment of the Omnibus Budget Reconciliation Act of 1989 \[Dec. 19, 1989\]. The Secretary shall continue any such demonstration project until at least July 1, 1997.”
 
  __Volunteer Senior Aides Demonstration Projects for Basic Medical Assistance and Support to Families With Disabled or Ill Children__ 
 
@@ -955,7 +955,7 @@
 
 >             “(B) leads to a master’s or doctoral degree in nursing,
 
->             shall be allowable as reasonable costs under title XVIII of the Social Security Act \[this subchapter\] and reimbursed under such title on the same basis as if they were allowable direct costs of a hospital-operated approved educational program (other than an approved graduate medical education program).
+>             shall be allowable as reasonable costs under title XVIII of the Social Security Act \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\] and reimbursed under such title on the same basis as if they were allowable direct costs of a hospital-operated approved educational program (other than an approved graduate medical education program).
 
 >         “(3) The activities described in this paragraph are the activities for which the reasonable costs of conducting such activities are allowable under title XVIII of the Social Security Act if conducted under a hospital-operated approved educational program (other than an approved graduate medical education program), but only to the extent such activities are directly related to the operation of the educational program conducted pursuant to the written agreement between the hospital and the educational institution.
 
@@ -965,7 +965,7 @@
 
 >     “(b) __Joint Undergraduate Education Program.—__ 
 
->     In the case of a hospital which (1) was paid under a waiver under section 402 of the Social Security Amendments of 1967 \[[section 402 of Pub. L. 90–248][/us/pl/90/248/s402], enacting this section and amending section 1395ll of this title\] and section 222 of the Social Security Amendments of 1972 \[[section 222 of Pub. L. 92–603][/us/pl/92/603/s222], amending this section and section 1395ll of this title and enacting provisions set out below\], which waiver expired on September 30, 1985, and (2) during its cost reporting period beginning in fiscal year 1985 and for each subsequent cost reporting period, has been and is associated with, and has incurred and incurs substantial costs with respect to, a nursing college with which it has shared and shares common directors, educational activities of the nursing college shall be considered to be educational activities operated directly by such hospital for purposes of title XVIII of the Social Security Act \[this subchapter\], and shall be allowable as reasonable costs under such title and reimbursed under such title on the same basis as if they were allowable direct costs of a hospital-operated approved educational program (other than an approved graduate medical education program), for hospital cost reporting periods beginning in fiscal years 1986 though 1991.”
+>     In the case of a hospital which (1) was paid under a waiver under section 402 of the Social Security Amendments of 1967 \[[section 402 of Pub. L. 90–248][/us/pl/90/248/s402], enacting this section and amending section 1395ll of this title\] and section 222 of the Social Security Amendments of 1972 \[[section 222 of Pub. L. 92–603][/us/pl/92/603/s222], amending this section and section 1395ll of this title and enacting provisions set out below\], which waiver expired on September 30, 1985, and (2) during its cost reporting period beginning in fiscal year 1985 and for each subsequent cost reporting period, has been and is associated with, and has incurred and incurs substantial costs with respect to, a nursing college with which it has shared and shares common directors, educational activities of the nursing college shall be considered to be educational activities operated directly by such hospital for purposes of title XVIII of the Social Security Act \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\], and shall be allowable as reasonable costs under such title and reimbursed under such title on the same basis as if they were allowable direct costs of a hospital-operated approved educational program (other than an approved graduate medical education program), for hospital cost reporting periods beginning in fiscal years 1986 though 1991.”
 
  __Research on Long-Term Care Services for Medicare Beneficiaries__ 
 
@@ -1013,13 +1013,13 @@
 
 >     “(a) __Set Asides for Issues of Health Care in Rural Areas and In Inner-City Areas.—__ 
 
->         (1) Not less than ten percent of the total amounts annually appropriated to, and expended by, the Health Care Financing Administration for the conduct of research and demonstration projects in fiscal years 1988, 1989, and 1990 shall be expended for research and demonstration projects relating exclusively or substantially to rural health issues, including (but not limited to) the impact of the payment methodology under section 1886(d) of the Social Security Act \[[section 1395ww(d) of this title][/us/usc/t42/s1395ww/d]\] on the financial viability of small rural hospitals, the effect of medicare payment policies on the ability of rural areas (and rural hospitals in particular) to attract and retain physicians and other health professionals, the appropriateness of medicare conditions of participation and staffing requirements for small rural hospitals, and the impact of medicare policies on access to (and the quality of) health care in rural areas.
+>         (1) Not less than ten percent of the total amounts annually appropriated to, and expended by, the Health Care Financing Administration for the conduct of research and demonstration projects in fiscal years 1988, 1989, and 1990 shall be expended for research and demonstration projects relating exclusively or substantially to rural health issues, including (but not limited to) the impact of the payment methodology under section 1886(d) of the Social Security Act \[[42 U.S.C. 1395ww(d)][/us/usc/t42/s1395ww/d]\] on the financial viability of small rural hospitals, the effect of medicare payment policies on the ability of rural areas (and rural hospitals in particular) to attract and retain physicians and other health professionals, the appropriateness of medicare conditions of participation and staffing requirements for small rural hospitals, and the impact of medicare policies on access to (and the quality of) health care in rural areas.
 
 >         “(2) Not less than ten percent of the total amounts annually appropriated to, and expended by, the Health Care Financing Administration for the conduct of research and demonstration projects in fiscal years 1988, 1989, and 1990 shall be expended for research and demonstration projects relating exclusively or substantially to issues of providing health care in inner-city areas, including (but not limited to) the impact of the payment methodology under section 1886(d) of the Social Security Act on the financial viability of inner-city hospitals and the impact of medicare policies on access to (and the quality of) health care in inner-city areas.
 
 >     “(b) __Agenda.—__ 
 
->     The Secretary of Health and Human Services shall establish an agenda of research and demonstration projects, relating exclusively or substantially to rural health issues or to inner-city health issues, that are in progress or have been proposed, and shall include such agenda in the annual report submitted pursuant to section 1875(b) of the Social Security Act \[section 1395ll(b) of this title\]. The agenda shall be accompanied by a statement setting forth the amounts that have been obligated and expended with respect to such projects in the current and most recently completed fiscal years.”
+>     The Secretary of Health and Human Services shall establish an agenda of research and demonstration projects, relating exclusively or substantially to rural health issues or to inner-city health issues, that are in progress or have been proposed, and shall include such agenda in the annual report submitted pursuant to section 1875(b) of the Social Security Act \[[42 U.S.C. 1395][/us/usc/t42/s1395]ll(b)\]. The agenda shall be accompanied by a statement setting forth the amounts that have been obligated and expended with respect to such projects in the current and most recently completed fiscal years.”
 
  __Alzheimer’s Disease Demonstration Projects__ 
 
@@ -1033,7 +1033,7 @@
 
 [Pub. L. 99–272, title IX, § 9215][/us/pl/99/272/s9215], Apr. 7, 1986, [100 Stat. 180][/us/stat/100/180], as amended by [Pub. L. 101–239, title VI, § 6135][/us/pl/101/239/s6135], Dec. 19, 1989, [103 Stat. 2222][/us/stat/103/2222]; [Pub. L. 103–66, title XIII, § 13557][/us/pl/103/66/s13557], Aug. 10, 1993, [107 Stat. 592][/us/stat/107/592]; [Pub. L. 105–33, title IV, § 4017][/us/pl/105/33/s4017], Aug. 5, 1997, [111 Stat. 345][/us/stat/111/345]; [Pub. L. 106–113, div. B, § 1000(a)(6)][/us/pl/106/113/s1000/a/6] \[title V, § 534\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–390; [Pub. L. 106–554, § 1(a)(6)][/us/pl/106/554/s1/a/6] \[title VI, § 633\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–568; [Pub. L. 108–173, title II, § 235][/us/pl/108/173/s235], Dec. 8, 2003, [117 Stat. 2210][/us/stat/117/2210], provided that:
 
->     “(a) The Secretary of Health and Human Services shall extend through December 31, 1997, approval of four municipal health services demonstration projects (located in Baltimore, Cincinnati, Milwaukee, and San Jose) authorized under section 402(a) of the Social Security Amendments of 1967 \[subsec. (a) of this section\]. The Secretary shall submit a report to Congress on the waiver program with respect to the quality of health care, beneficiary costs, costs to the medicaid program and other payers, access to care, outcomes, beneficiary satisfaction, utilization differences among the different populations served by the projects, and such other factors as may be appropriate. Subject to subsection (c), the Secretary may further extend such demonstration projects through December 31, 2006, but only with respect to individuals who received at least one service during the period beginning on January 1, 1996, and ending on the date of the enactment of the Balanced Budget Act of 1997 \[Aug. 5, 1997\].
+>     “(a) The Secretary of Health and Human Services shall extend through December 31, 1997, approval of four municipal health services demonstration projects (located in Baltimore, Cincinnati, Milwaukee, and San Jose) authorized under section 402(a) of the Social Security Amendments of 1967 \[[42 U.S.C. 1395b–1(a)][/us/usc/t42/s1395b–1/a]\]. The Secretary shall submit a report to Congress on the waiver program with respect to the quality of health care, beneficiary costs, costs to the medicaid program and other payers, access to care, outcomes, beneficiary satisfaction, utilization differences among the different populations served by the projects, and such other factors as may be appropriate. Subject to subsection (c), the Secretary may further extend such demonstration projects through December 31, 2006, but only with respect to individuals who received at least one service during the period beginning on January 1, 1996, and ending on the date of the enactment of the Balanced Budget Act of 1997 \[Aug. 5, 1997\].
 
 >     “(b) The Secretary shall work with each such demonstration project to develop a plan, to be submitted to the Committee on Ways and Means and the Committee on Commerce of the House of Representatives and the Committee on Finance of the Senate by March 31, 1998, for the orderly transition of demonstration projects and the project participants to a non-demonstration project health care delivery system, such as through integration with a private or public health plan, including a medicaid managed care or Medicare+Choice plan.
 
@@ -1051,15 +1051,15 @@
 
 >     “(a)
 
->         (1) In the case of a project described in subsection (b), the Secretary of Health and Human Services shall provide, except as provided in paragraph (2), that the amount of payments to hospitals covered under the project during the period described in paragraph (3) shall include payments for their operation of hospital-based mobile intensive care units (as defined by State statute) if the State provides satisfactory assurances that the total amount of payments to such hospitals under titles XVIII and XIX of the Social Security Act \[this subchapter and subchapter XIX of this chapter\] under the demonstration project (including any such additional amount of payment) would not exceed the total amount of payments which would have been paid under such titles if the demonstration project were not in effect.
+>         (1) In the case of a project described in subsection (b), the Secretary of Health and Human Services shall provide, except as provided in paragraph (2), that the amount of payments to hospitals covered under the project during the period described in paragraph (3) shall include payments for their operation of hospital-based mobile intensive care units (as defined by State statute) if the State provides satisfactory assurances that the total amount of payments to such hospitals under titles XVIII and XIX of the Social Security Act \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq., 1396 et seq.\] under the demonstration project (including any such additional amount of payment) would not exceed the total amount of payments which would have been paid under such titles if the demonstration project were not in effect.
 
 >         “(2) Paragraph (1) shall not apply if the State in which the project is located notifies the Secretary, within 30 days after the date of the enactment of this section \[July 18, 1984\], that the State does not want paragraph (1) to apply to that project.
 
->         “(3) The period referred to in paragraph (1) begins on the date of the enactment of this section and continues so long as the Secretary continues the Statewide waiver referred to in subsection (b), but in no case ends earlier than 90 days after the date final regulations to implement section 1886(c) of the Social Security Act \[[section 1395ww(c) of this title][/us/usc/t42/s1395ww/c]\] are published.
+>         “(3) The period referred to in paragraph (1) begins on the date of the enactment of this section and continues so long as the Secretary continues the Statewide waiver referred to in subsection (b), but in no case ends earlier than 90 days after the date final regulations to implement section 1886(c) of the Social Security Act \[[42 U.S.C. 1395ww(c)][/us/usc/t42/s1395ww/c]\] are published.
 
->     “(b) The project referred to in subsection (a) is the statewide demonstration project established in the State of New Jersey under section 402 of the Social Security Amendments of 1967, as amended by section 222(b) of the Social Security Amendments of 1972 ([Public Law 92–603][/us/pl/92/603]) \[this section\], which project provides for payments to hospitals in the State on a prospective basis and related to a classification of patients by diagnosis-related groups.
+>     “(b) The project referred to in subsection (a) is the statewide demonstration project established in the State of New Jersey under section 402 of the Social Security Amendments of 1967, as amended by section 222(b) of the Social Security Amendments of 1972 ([Public Law 92–603][/us/pl/92/603]) \[[42 U.S.C. 1395b–1][/us/usc/t42/s1395b–1]\], which project provides for payments to hospitals in the State on a prospective basis and related to a classification of patients by diagnosis-related groups.
 
->     “(c) Payment for services described in this section shall be considered to be payments for services under part A of title XVIII of the Social Security Act \[part A of this subchapter\].”
+>     “(c) Payment for services described in this section shall be considered to be payments for services under part A of title XVIII of the Social Security Act \[[42 U.S.C. 1395c][/us/usc/t42/s1395c] et seq.\].”
 
  __Continuation of Secretary’s Authority Regarding Experiments and Demonstration Projects__ 
 
@@ -1067,7 +1067,7 @@
 
 >     “(1) Except as provided in paragraph (2), the amendments made by this title \[amending sections 1320a–1, 1320c–2, 1395f, 1395i–2, 1395n, 1395r, 1395v, 1395w, 1395x, 1395y, 1395cc, 1395mm, 1395oo, 1395rr, 1395ww, and 1395xx of this title, enacting provisions set out as notes under this section and sections 1395r, 1395x, 1395y, 1395cc, and 1395ww of this title, and amending provisions set out as a note under [section 1395x of this title][/us/usc/t42/s1395x]\] shall not affect the authority of the Secretary to develop, carry out, or continue experiments and demonstration projects.
 
->     “(2) The Secretary shall provide that, upon the request of a State which has a demonstration project, for payment of hospitals under title XVIII of the Social Security Act \[this subchapter\] approved under section 402(a) of the Social Security Amendments of 1967 \[subsec. (a) of this section\] or section 222(a) of the Social Security Amendments of 1972 \[set out as a note below\], which (A) is in effect as of March 1, 1983, and (B) was entered into after August 1982 (or upon the request of another party to demonstration project agreement), the terms of the demonstration agreement shall be modified so that the demonstration project is not required to maintain the rate of increase in medicare hospital costs in that State below the national rate of increase in medicare hospital costs.”
+>     “(2) The Secretary shall provide that, upon the request of a State which has a demonstration project, for payment of hospitals under title XVIII of the Social Security Act \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\] approved under section 402(a) of the Social Security Amendments of 1967 \[[42 U.S.C. 1395b–1(a)][/us/usc/t42/s1395b–1/a]\] or section 222(a) of the Social Security Amendments of 1972 \[set out as a note below\], which (A) is in effect as of March 1, 1983, and (B) was entered into after August 1982 (or upon the request of another party to demonstration project agreement), the terms of the demonstration agreement shall be modified so that the demonstration project is not required to maintain the rate of increase in medicare hospital costs in that State below the national rate of increase in medicare hospital costs.”
 
  __Alternative Care Demonstration Projects in Hospitals Short of Skilled Nursing Facilities__ 
 
@@ -1079,9 +1079,9 @@
 
 [Pub. L. 97–248, title I, § 122(i)][/us/pl/97/248/s122/i], formerly § 122(h), Sept. 3, 1982, [96 Stat. 362][/us/stat/96/362], as redesignated and amended by [Pub. L. 97–448, title III, § 309(a)(6)][/us/pl/97/448/s309/a/6], (e), Jan. 12, 1983, [96 Stat. 2408][/us/stat/96/2408], 2410, provided that:
 
->     “(1) Notwithstanding any provision of law which has the effect of restricting the time period of a hospice demonstration project in effect on July 15, 1982, pursuant to section 402(a) of the Social Security Amendments of 1967 \[subsec. (a) of this section\], the Secretary of Health and Human Services, upon request of the hospice involved, shall permit continuation of the project until November 1, 1983, or, if later, the date on which payments can first be made to any hospice program under the amendments made by this section.
+>     “(1) Notwithstanding any provision of law which has the effect of restricting the time period of a hospice demonstration project in effect on July 15, 1982, pursuant to section 402(a) of the Social Security Amendments of 1967 \[[42 U.S.C. 1395b–1(a)][/us/usc/t42/s1395b–1/a]\], the Secretary of Health and Human Services, upon request of the hospice involved, shall permit continuation of the project until November 1, 1983, or, if later, the date on which payments can first be made to any hospice program under the amendments made by this section.
 
->     “(2) Prior to September 30, 1983, the Secretary shall submit to Congress a report on the effectiveness of demonstration projects referred to in paragraph (1), including an evaluation of the cost-effectiveness of hospice care, the reasonableness of the 40-percent cap amount for hospice care as provided in section 1814(i) of the Social Security Act \[[section 1395f(i) of this title][/us/usc/t42/s1395f/i]\] (as added by this section), proposed methodology for determining such cap amount, proposed standards for requiring and measuring the maintenance of effort for utilizing volunteers as required under section 1861(dd) of such Act \[[section 1395x(dd) of this title][/us/usc/t42/s1395x/dd]\], an evaluation of physician reimbursement for services furnished as a part of hospice care and for services furnished to individuals receiving hospice care but which are not reimbursed as a part of the hospice care, and any proposed legislative changes in the hospice care provisions of title XVIII of such Act \[this subchapter\].
+>     “(2) Prior to September 30, 1983, the Secretary shall submit to Congress a report on the effectiveness of demonstration projects referred to in paragraph (1), including an evaluation of the cost-effectiveness of hospice care, the reasonableness of the 40-percent cap amount for hospice care as provided in section 1814(i) of the Social Security Act \[[42 U.S.C. 1395f(i)][/us/usc/t42/s1395f/i]\] (as added by this section), proposed methodology for determining such cap amount, proposed standards for requiring and measuring the maintenance of effort for utilizing volunteers as required under section 1861(dd) of such Act \[[42 U.S.C. 1395x(dd)][/us/usc/t42/s1395x/dd]\], an evaluation of physician reimbursement for services furnished as a part of hospice care and for services furnished to individuals receiving hospice care but which are not reimbursed as a part of the hospice care, and any proposed legislative changes in the hospice care provisions of title XVIII of such Act \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\].
 
 >     “(3)
 
@@ -1109,7 +1109,7 @@
 
 >     “(1) the applicant for such grant is a State or an agency thereof,
 
->     “(2) such participant is an individual practice association which has been in existence for at least 3 years prior to the date of enactment of this section \[Dec. 31, 1975\] and which has in effect a contract with such State (or an agency thereof), entered into prior to the date on which the grant is approved by the Secretary, under which such association will, for a period which begins before and ends after the date such grant is so approved, provide health care services for individuals entitled to care and services under the State plan of such State which is approved under title XIX of the Social Security Act \[subchapter XIX of this chapter\],
+>     “(2) such participant is an individual practice association which has been in existence for at least 3 years prior to the date of enactment of this section \[Dec. 31, 1975\] and which has in effect a contract with such State (or an agency thereof), entered into prior to the date on which the grant is approved by the Secretary, under which such association will, for a period which begins before and ends after the date such grant is so approved, provide health care services for individuals entitled to care and services under the State plan of such State which is approved under title XIX of the Social Security Act \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\],
 
 >     “(3) the purpose of the inclusion of the project of such association is to test the utility of a particular rate-setting methodology, designed to be employed in prepaid health plans, in an individual practice association operation, and
 
@@ -1119,13 +1119,13 @@
 
 [Pub. L. 92–603, title II, § 222(a)][/us/pl/92/603/s222/a], Oct. 30, 1972, [86 Stat. 1390][/us/stat/86/1390], as amended by [Pub. L. 97–35, title XXI, § 2193(e)][/us/pl/97/35/s2193/e], Aug. 13, 1981, [95 Stat. 828][/us/stat/95/828], provided that:
 
->     “(1) The Secretary of Health, Education, and Welfare \[now Health and Human Services\], directly or through contracts with, or grants to, public or private agencies or organizations, shall develop and carry out experiments and demonstration projects designed to determine the relative advantages and disadvantages of various alternative methods of making payment on a prospective basis to hospitals, skilled nursing facilities, and other providers of services for care and services provided by them under title XVIII of the Social Security Act \[this subchapter\] and under State plans approved under title XIX of such Act \[subchapter XIX of this chapter\], including alternative methods for classifying providers, for establishing prospective rates of payment, and for implementing on a gradual, selective, or other basis the establishment of a prospective payment system, in order to stimulate such providers through positive (or negative) financial incentives to use their facilities and personnel more efficiently and thereby to reduce the total costs of the health programs involved without adversely affecting the quality of services by containing or lowering the rate of increase in provider costs that has been and is being experienced under the existing system of retroactive cost reimbursement.
+>     “(1) The Secretary of Health, Education, and Welfare \[now Health and Human Services\], directly or through contracts with, or grants to, public or private agencies or organizations, shall develop and carry out experiments and demonstration projects designed to determine the relative advantages and disadvantages of various alternative methods of making payment on a prospective basis to hospitals, skilled nursing facilities, and other providers of services for care and services provided by them under title XVIII of the Social Security Act \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\] and under State plans approved under title XIX of such Act \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\], including alternative methods for classifying providers, for establishing prospective rates of payment, and for implementing on a gradual, selective, or other basis the establishment of a prospective payment system, in order to stimulate such providers through positive (or negative) financial incentives to use their facilities and personnel more efficiently and thereby to reduce the total costs of the health programs involved without adversely affecting the quality of services by containing or lowering the rate of increase in provider costs that has been and is being experienced under the existing system of retroactive cost reimbursement.
 
 >     “(2) The experiments and demonstration projects developed under paragraph (1) shall be of sufficient scope and shall be carried out on a wide enough scale to permit a thorough evaluation of the alternative methods of prospective payment under consideration while giving assurance that the results derived from the experiments and projects will obtain generally in the operation of the programs involved (without committing such programs to the adoption of any prospective payment system either locally or nationally).
 
->     “(3) In the case of any experiment or demonstration project under paragraph (1), the Secretary may waive compliance with the requirements of titles XVIII and XIX of the Social Security Act \[this subchapter and subchapter XIX of this chapter\] insofar as such requirements relate to methods of payment for services provided; and costs incurred in such experiment or project in excess of those which would otherwise be reimbursed or paid under such titles \[subchapters\] may be reimbursed or paid to the extent that such waiver applies to them (with such excess being borne by the Secretary). No experiment or demonstration project shall be developed or carried out under paragraph (1) until the Secretary obtains the advice and recommendations of specialists who are competent to evaluate the proposed experiment or project as to the soundness of its objectives, the possibilities of securing productive results, the adequacy of resources to conduct it, and its relationship to other similar experiments or projects already completed or in process; and no such experiment or project shall be actually placed in operation unless at least 30 days prior thereto a written report, prepared for purposes of notification and information only, containing a full and complete description thereof has been transmitted to the Committee on Ways and Means of the House of Representatives and to the Committee on Finance of the Senate.
+>     “(3) In the case of any experiment or demonstration project under paragraph (1), the Secretary may waive compliance with the requirements of titles XVIII and XIX of the Social Security Act \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq., 1396 et seq.\] insofar as such requirements relate to methods of payment for services provided; and costs incurred in such experiment or project in excess of those which would otherwise be reimbursed or paid under such titles \[subchapters\] may be reimbursed or paid to the extent that such waiver applies to them (with such excess being borne by the Secretary). No experiment or demonstration project shall be developed or carried out under paragraph (1) until the Secretary obtains the advice and recommendations of specialists who are competent to evaluate the proposed experiment or project as to the soundness of its objectives, the possibilities of securing productive results, the adequacy of resources to conduct it, and its relationship to other similar experiments or projects already completed or in process; and no such experiment or project shall be actually placed in operation unless at least 30 days prior thereto a written report, prepared for purposes of notification and information only, containing a full and complete description thereof has been transmitted to the Committee on Ways and Means of the House of Representatives and to the Committee on Finance of the Senate.
 
->     “(4) Grants, payments under contracts, and other expenditures made for experiments and demonstration projects under this subsection shall be made in appropriate part from the Federal Hospital Insurance Trust Fund (established by section 1817 of the Social Security Act \[[section 1395i of this title][/us/usc/t42/s1395i]\]) and the Federal Supplementary Medical Insurance Trust Fund (established by section 1841 of the Social Security Act \[[section 1395t of this title][/us/usc/t42/s1395t]\]) and from funds appropriated under title XIX of such Act \[subchapter XIX of this chapter\]. Grants and payments under contracts may be made either in advance or by way of reimbursement, as may be determined by the Secretary, and shall be made in such installments and on such conditions as the Secretary finds necessary to carry out the purpose of this subsection. With respect to any such grant, payment, or other expenditure, the amount to be paid from each of such trust funds (and from funds appropriated under such title XIX) shall be determined by the Secretary, giving due regard to the purposes of the experiment or project involved.
+>     “(4) Grants, payments under contracts, and other expenditures made for experiments and demonstration projects under this subsection shall be made in appropriate part from the Federal Hospital Insurance Trust Fund (established by section 1817 of the Social Security Act \[[42 U.S.C. 1395i][/us/usc/t42/s1395i]\]) and the Federal Supplementary Medical Insurance Trust Fund (established by section 1841 of the Social Security Act \[[42 U.S.C. 1395t][/us/usc/t42/s1395t]\]) and from funds appropriated under title XIX of such Act \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\]. Grants and payments under contracts may be made either in advance or by way of reimbursement, as may be determined by the Secretary, and shall be made in such installments and on such conditions as the Secretary finds necessary to carry out the purpose of this subsection. With respect to any such grant, payment, or other expenditure, the amount to be paid from each of such trust funds (and from funds appropriated under such title XIX) shall be determined by the Secretary, giving due regard to the purposes of the experiment or project involved.
 
 >     “(5) The Secretary shall submit to the Congress no later than July 1, 1974, a full report on the experiments and demonstration projects carried out under this subsection and on the experience of other programs with respect to prospective reimbursement together with any related data and materials which he may consider appropriate. Such report shall include detailed recommendations with respect to the specific methods which could be used in the full implementation of a system of prospective payment to providers of services under the programs involved.”
 
@@ -1201,9 +1201,11 @@
 [/us/stat/120/2987]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2987
 [/us/pl/110/275/s133/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F275%2Fs133%2Fa
 [/us/stat/122/2531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2531
+[/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
 [/us/usc/t42/s1395x/r/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395x%2Fr%2F1
 [/us/usc/t42/s1395w–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%934
 [/us/usc/t42/s1395cc–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395cc%E2%80%931
+[/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
 [/us/usc/t42/s1395t]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395t
 [/us/usc/t42/s1395t]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395t
 [/us/pl/109/171/s5008]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2Fs5008
@@ -1216,11 +1218,17 @@
 [/us/stat/117/2329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2329
 [/us/usc/t42/s1395t]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395t
 [/us/usc/t42/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1301
+[/us/usc/t42/s1395c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395c
+[/us/usc/t42/s1395w–21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%9321
 [/us/pl/106/554/s1/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F6
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
 [/us/pl/106/554/s1/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F6
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
 [/us/usc/t42/s300u–6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300u%E2%80%936
+[/us/usc/t42/s1395c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395c
+[/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
+[/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
+[/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
 [/us/pl/106/554/s1/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F6
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
 [/us/pl/108/173/s736/b/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs736%2Fb%2F13
@@ -1241,18 +1249,22 @@
 [/us/pl/108/173/s417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs417
 [/us/stat/117/2282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2282
 [/us/usc/t42/s254b/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs254b%2Fb%2F3
+[/us/usc/t42/s1395j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395j
 [/us/pl/101/508/s4008/i/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs4008%2Fi%2F1
 [/us/stat/104/1388-50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-50
 [/us/pl/103/66/s13507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13507
 [/us/stat/107/579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F579
+[/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
 [/us/pl/101/239/s10404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs10404
 [/us/stat/103/2488]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2488
 [/us/pl/100/647/s8411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs8411
 [/us/stat/102/3800]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3800
 [/us/pl/101/239/s6205/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs6205%2Fa%2F1%2FB
 [/us/stat/103/2243]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2243
+[/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
 [/us/pl/90/248/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248%2Fs402
 [/us/pl/92/603/s222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603%2Fs222
+[/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
 [/us/pl/100/360/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360%2Fs207
 [/us/stat/102/732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F732
 [/us/pl/101/234/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F234%2Fs201%2Fa
@@ -1278,6 +1290,7 @@
 [/us/pl/100/360/s411/m/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360%2Fs411%2Fm%2F2%2FA
 [/us/stat/102/806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F806
 [/us/usc/t42/s1395ww/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww%2Fd
+[/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
 [/us/pl/99/509/s9342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs9342
 [/us/stat/100/2038]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2038
 [/us/pl/101/508/s4164/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs4164%2Fa%2F2
@@ -1300,6 +1313,7 @@
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
 [/us/pl/108/173/s235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs235
 [/us/stat/117/2210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2210
+[/us/usc/t42/s1395b–1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395b%E2%80%931%2Fa
 [/us/pl/108/173/s201/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs201%2Fb
 [/us/usc/t42/s1395w–21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%9321
 [/us/pl/99/272/s9314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs9314
@@ -1310,19 +1324,26 @@
 [/us/stat/104/1388-100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-100
 [/us/pl/98/369/s2320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2320
 [/us/stat/98/1083]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1083
+[/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
 [/us/usc/t42/s1395ww/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww%2Fc
 [/us/pl/92/603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603
+[/us/usc/t42/s1395b–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395b%E2%80%931
+[/us/usc/t42/s1395c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395c
 [/us/pl/98/21/s603/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21%2Fs603%2Fb
 [/us/stat/97/167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F167
 [/us/usc/t42/s1395x]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395x
+[/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
+[/us/usc/t42/s1395b–1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395b%E2%80%931%2Fa
 [/us/pl/98/21/s603/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21%2Fs603%2Fd
 [/us/stat/97/168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F168
 [/us/pl/97/248/s122/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs122%2Fi
 [/us/stat/96/362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F362
 [/us/pl/97/448/s309/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F448%2Fs309%2Fa%2F6
 [/us/stat/96/2408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2408
+[/us/usc/t42/s1395b–1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395b%E2%80%931%2Fa
 [/us/usc/t42/s1395f/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395f%2Fi
 [/us/usc/t42/s1395x/dd]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395x%2Fdd
+[/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
 [/us/usc/t45/s231f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft45%2Fs231f
 [/us/pl/96/499/s903/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F499%2Fs903%2Fc
 [/us/stat/94/2615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2615
@@ -1335,11 +1356,16 @@
 [/us/pl/94/182/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F182%2Fs107
 [/us/stat/89/1053]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F1053
 [/us/pl/92/603/s222/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603%2Fs222%2Fa
+[/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
 [/us/pl/92/603/s222/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603%2Fs222%2Fa
 [/us/stat/86/1390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1390
 [/us/pl/97/35/s2193/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2193%2Fe
 [/us/stat/95/828]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F828
+[/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
+[/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
+[/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
 [/us/usc/t42/s1395i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395i
 [/us/usc/t42/s1395t]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395t
+[/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
 
 

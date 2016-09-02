@@ -583,7 +583,7 @@ For constitutionality of [section 339(a) of Pub. L. 98–97][/us/pl/98/97/s339/a
 
 [Pub. L. 98–21, title III, § 332(c)][/us/pl/98/21/s332/c], Apr. 20, 1983, [97 Stat. 129][/us/stat/97/129], provided that: 
 
-> “The amendments made by this section \[amending this section and [section 423 of this title][/us/usc/t42/s423]\] shall be effective with respect to applications for disability insurance benefits under section 223 of the Social Security Act \[[section 423 of this title][/us/usc/t42/s423]\], and for disability determinations under section 216(i) of such Act \[subsec. (i) of this section\], filed after the date of the enactment of this Act \[Apr. 20, 1983\], except that no monthly benefits under title II of the Social Security Act \[this subchapter\] shall be payable or increased by reason of the amendments made by this section for months before the month following the month of enactment of this Act.”
+> “The amendments made by this section \[amending this section and [section 423 of this title][/us/usc/t42/s423]\] shall be effective with respect to applications for disability insurance benefits under section 223 of the Social Security Act \[[42 U.S.C. 423][/us/usc/t42/s423]\], and for disability determinations under section 216(i) of such Act \[[42 U.S.C. 416(i)][/us/usc/t42/s416/i]\], filed after the date of the enactment of this Act \[Apr. 20, 1983\], except that no monthly benefits under title II of the Social Security Act \[[42 U.S.C. 401][/us/usc/t42/s401] et seq.\] shall be payable or increased by reason of the amendments made by this section for months before the month following the month of enactment of this Act.”
 
 [Pub. L. 98–21, title III, § 333(b)][/us/pl/98/21/s333/b], Apr. 20, 1983, [97 Stat. 130][/us/stat/97/130], provided that: 
 
@@ -619,7 +619,7 @@ For constitutionality of [section 339(a) of Pub. L. 98–97][/us/pl/98/97/s339/a
 
 [Pub. L. 92–603, title I, § 115(c)][/us/pl/92/603/s115/c], Oct. 30, 1972, [86 Stat. 1349][/us/stat/86/1349], provided that: 
 
-> “The amendments made by this section \[amending this section\] shall apply only with respect to benefits payable under title II of the Social Security Act \[this subchapter\] for months after December 1972 on the basis of applications filed in or after the month in which this Act is enacted \[October 1972\].”
+> “The amendments made by this section \[amending this section\] shall apply only with respect to benefits payable under title II of the Social Security Act \[[42 U.S.C. 401][/us/usc/t42/s401] et seq.\] for months after December 1972 on the basis of applications filed in or after the month in which this Act is enacted \[October 1972\].”
 
     Amendment by [section 116(d) of Pub. L. 92–603][/us/pl/92/603/s116/d] effective with respect to applications for disability determinations under subsec. (i) of this section filed on or after October 1972 or before October 1972 under specified conditions, see [section 116(e) of Pub. L. 92–603][/us/pl/92/603/s116/e], set out as a note under [section 423 of this title][/us/usc/t42/s423].
 
@@ -627,11 +627,11 @@ For constitutionality of [section 339(a) of Pub. L. 98–97][/us/pl/98/97/s339/a
 
 [Pub. L. 92–603, title I, § 118(c)][/us/pl/92/603/s118/c], Oct. 30, 1972, [86 Stat. 1351][/us/stat/86/1351], provided that: 
 
-> “The amendments made by this section \[amending this section and [section 423 of this title][/us/usc/t42/s423]\] shall apply in the case of deaths occurring after December 31, 1969. For purposes of such amendments (and for purposes of sections 202(j)(1) and 223(b) of the Social Security Act \[sections 402(j)(1) and 423(b) of this title\], any application with respect to an individual whose death occurred after December 31, 1969, but before the date of the enactment of this Act \[Oct. 30, 1972\] which is filed in, or within 3 months after the month in which this Act is enacted \[October 1972\] shall be deemed to have been filed in the month in which such death occurred.”
+> “The amendments made by this section \[amending this section and [section 423 of this title][/us/usc/t42/s423]\] shall apply in the case of deaths occurring after December 31, 1969. For purposes of such amendments (and for purposes of sections 202(j)(1) and 223(b) of the Social Security Act \[[42 U.S.C. 402(j)(1)][/us/usc/t42/s402/j/1], 423(b)\], any application with respect to an individual whose death occurred after December 31, 1969, but before the date of the enactment of this Act \[Oct. 30, 1972\] which is filed in, or within 3 months after the month in which this Act is enacted \[October 1972\] shall be deemed to have been filed in the month in which such death occurred.”
 
 [Pub. L. 92–603, title I, § 145(b)][/us/pl/92/603/s145/b], Oct. 30, 1972, [86 Stat. 1370][/us/stat/86/1370], provided that: 
 
-> “The amendments made by this section \[amending this section\] shall apply only with respect to benefits payable under title II of the Social Security Act \[this subchapter\] for months after December 1972 on the basis of applications filed in or after the month in which this Act is enacted \[October 1972\].”
+> “The amendments made by this section \[amending this section\] shall apply only with respect to benefits payable under title II of the Social Security Act \[[42 U.S.C. 401][/us/usc/t42/s401] et seq.\] for months after December 1972 on the basis of applications filed in or after the month in which this Act is enacted \[October 1972\].”
 
  __Effective Date of 1968 Amendment__ 
 
@@ -639,25 +639,25 @@ For constitutionality of [section 339(a) of Pub. L. 98–97][/us/pl/98/97/s339/a
 
 [Pub. L. 90–248, title I, § 105(c)][/us/pl/90/248/s105/c], Jan. 2, 1968, [81 Stat. 833][/us/stat/81/833], provided that: 
 
-> “The amendment made by subsection (a) \[amending this section\] shall apply only with respect to applications for disability determinations filed under section 216(i) of the Social Security Act \[subsec. (i) of this section\] in or after the month in which this Act is enacted \[January 1968\]. The amendments made by subsection (b) \[amending [section 423 of this title][/us/usc/t42/s423]\] shall apply with respect to monthly benefits under title II of such Act \[this subchapter\] for months after January 1968, but only on the basis of applications for such benefits filed in or after the month in which this Act is enacted.”
+> “The amendment made by subsection (a) \[amending this section\] shall apply only with respect to applications for disability determinations filed under section 216(i) of the Social Security Act \[[42 U.S.C. 416(i)][/us/usc/t42/s416/i]\] in or after the month in which this Act is enacted \[January 1968\]. The amendments made by subsection (b) \[amending [section 423 of this title][/us/usc/t42/s423]\] shall apply with respect to monthly benefits under title II of such Act \[[42 U.S.C. 401][/us/usc/t42/s401] et seq.\] for months after January 1968, but only on the basis of applications for such benefits filed in or after the month in which this Act is enacted.”
 
 [Pub. L. 90–248, title I, § 111(b)][/us/pl/90/248/s111/b], Jan. 2, 1968, [81 Stat. 838][/us/stat/81/838], provided that: 
 
-> “No monthly insurance benefits under title II of the Social Security Act \[this subchapter\] shall be payable or increased for any month before the month in which this Act is enacted \[January 1968\] by reason of amendments made by subsection (a) \[amending this section\].”
+> “No monthly insurance benefits under title II of the Social Security Act \[[42 U.S.C. 401][/us/usc/t42/s401] et seq.\] shall be payable or increased for any month before the month in which this Act is enacted \[January 1968\] by reason of amendments made by subsection (a) \[amending this section\].”
 
 [Pub. L. 90–248, title I, § 150(b)][/us/pl/90/248/s150/b], Jan. 2, 1968, [81 Stat. 860][/us/stat/81/860], provided that: 
 
-> “The amendment made by subsection (a) \[amending this section\] shall apply with respect to monthly benefits payable under title II of the Social Security Act \[this subchapter\] for months after January 1968, but only on the basis of an application filed in or after the month in which this Act is enacted \[January 1968\].”
+> “The amendment made by subsection (a) \[amending this section\] shall apply with respect to monthly benefits payable under title II of the Social Security Act \[[42 U.S.C. 401][/us/usc/t42/s401] et seq.\] for months after January 1968, but only on the basis of an application filed in or after the month in which this Act is enacted \[January 1968\].”
 
 [Pub. L. 90–248, title I, § 156(e)][/us/pl/90/248/s156/e], Jan. 2, 1968, [81 Stat. 867][/us/stat/81/867], provided that: 
 
-> “The amendments made by this section \[amending this section\] shall apply with respect to monthly benefits under title II of the Social Security Act \[this subchapter\] for months after January 1968, but only on the basis of applications filed in or after the month in which this Act is enacted \[January 1968\].”
+> “The amendments made by this section \[amending this section\] shall apply with respect to monthly benefits under title II of the Social Security Act \[[42 U.S.C. 401][/us/usc/t42/s401] et seq.\] for months after January 1968, but only on the basis of applications filed in or after the month in which this Act is enacted \[January 1968\].”
 
     Amendment by [section 158(d) of Pub. L. 90–248][/us/pl/90/248/s158/d] applicable with respect to applications for disability insurance benefits under [section 423 of this title][/us/usc/t42/s423] and to disability determinations under subsec. (i) of this section, see [section 158(e) of Pub. L. 90–248][/us/pl/90/248/s158/e], set out as a note under [section 423 of this title][/us/usc/t42/s423].
 
 [Pub. L. 90–248, title I, § 172(c)][/us/pl/90/248/s172/c], Jan. 2, 1968, [81 Stat. 877][/us/stat/81/877], provided that: 
 
-> “The amendments made by this section \[amending this section\] shall be effective with respect to benefits under section 223 of the Social Security Act \[[section 423 of this title][/us/usc/t42/s423]\] for months after January 1968 based on applications filed after the date of enactment of this Act \[Jan. 2, 1968\] and with respect to disability determinations under section 216(i) of the Social Security Act \[subsec. (i) of this section\] based on applications filed after the date of enactment of this Act.”
+> “The amendments made by this section \[amending this section\] shall be effective with respect to benefits under section 223 of the Social Security Act \[[42 U.S.C. 423][/us/usc/t42/s423]\] for months after January 1968 based on applications filed after the date of enactment of this Act \[Jan. 2, 1968\] and with respect to disability determinations under section 216(i) of the Social Security Act \[[42 U.S.C. 416(i)][/us/usc/t42/s416/i]\] based on applications filed after the date of enactment of this Act.”
 
  __Effective Date of 1965 Amendment__ 
 
@@ -667,7 +667,7 @@ For constitutionality of [section 339(a) of Pub. L. 98–97][/us/pl/98/97/s339/a
 
 [Pub. L. 89–97, title III, § 339(c)][/us/pl/89/97/s339/c], July 30, 1965, [79 Stat. 411][/us/stat/79/411], provided that: 
 
-> “The amendments made by subsections (a) and (b) \[amending this section and [section 402 of this title][/us/usc/t42/s402]\] shall be applicable with respect to monthly insurance benefits under title II of the Social Security Act \[this subchapter\] beginning with the second month following the month in which this Act is enacted \[July 1965\] but only on the basis of an application filed in or after the month in which this Act is enacted.”
+> “The amendments made by subsections (a) and (b) \[amending this section and [section 402 of this title][/us/usc/t42/s402]\] shall be applicable with respect to monthly insurance benefits under title II of the Social Security Act \[[42 U.S.C. 401][/us/usc/t42/s401] et seq.\] beginning with the second month following the month in which this Act is enacted \[July 1965\] but only on the basis of an application filed in or after the month in which this Act is enacted.”
 
     Amendment by section 303(a)(1), (b)(1), (2) of [Pub. L. 89–97][/us/pl/89/97] effective with respect to applications for disability insurance benefits under [section 423 of this title][/us/usc/t42/s423], and for disability determinations under subsec. (i) of this section, filed in or after July 1965 or before July 1965, if the applicant has not died before such month, and notice of final administrative decision has not been given to the applicant before such month, except that monthly insurance benefits under this subchapter shall not be payable or increased by reason of amendments to subsecs. (i)(1)(A), (2), (3) of this section for months before the second month following July 1965, see [section 303(f)(1) of Pub. L. 89–97][/us/pl/89/97/s303/f/1], set out as a note under [section 423 of this title][/us/usc/t42/s423].
 
@@ -675,21 +675,21 @@ For constitutionality of [section 339(a) of Pub. L. 98–97][/us/pl/98/97/s339/a
 
 [Pub. L. 89–97, title III, § 328(d)][/us/pl/89/97/s328/d], July 30, 1965, [79 Stat. 401][/us/stat/79/401], provided that: 
 
-> “The amendments made by this section \[amending this section and sections 402 and 423 of this title\] shall apply with respect to (1) applications filed on or after the date of enactment of this Act \[July 30, 1965\], (2) applications as to which the Secretary has not made a final decision before the date of enactment of this Act, and (3) if a civil action with respect to final decision by the Secretary has been commenced under section 205(g) of the Social Security Act \[[section 405(g) of this title][/us/usc/t42/s405/g]\] before the date of enactment of this Act, applications as to which there has been no final judicial decision before the date of enactment of this Act.”
+> “The amendments made by this section \[amending this section and sections 402 and 423 of this title\] shall apply with respect to (1) applications filed on or after the date of enactment of this Act \[July 30, 1965\], (2) applications as to which the Secretary has not made a final decision before the date of enactment of this Act, and (3) if a civil action with respect to final decision by the Secretary has been commenced under section 205(g) of the Social Security Act \[[42 U.S.C. 405(g)][/us/usc/t42/s405/g]\] before the date of enactment of this Act, applications as to which there has been no final judicial decision before the date of enactment of this Act.”
 
 [Pub. L. 89–97, title III, § 344(e)][/us/pl/89/97/s344/e], July 30, 1965, [79 Stat. 413][/us/stat/79/413], provided that: 
 
-> “The amendments made by this section \[amending this section and [section 423 of this title][/us/usc/t42/s423]\] shall apply only with respect to monthly benefits under title II of the Social Security Act \[this subchapter\] for months after the first month following the month in which this Act is enacted \[July 1965\], on the basis of applications for such benefits filed in or after the month in which this Act is enacted.”
+> “The amendments made by this section \[amending this section and [section 423 of this title][/us/usc/t42/s423]\] shall apply only with respect to monthly benefits under title II of the Social Security Act \[[42 U.S.C. 401][/us/usc/t42/s401] et seq.\] for months after the first month following the month in which this Act is enacted \[July 1965\], on the basis of applications for such benefits filed in or after the month in which this Act is enacted.”
 
  __Effective Date of 1964 Amendment__ 
 
 [Pub. L. 88–650, § 1(d)][/us/pl/88/650/s1/d], Oct. 13, 1964, [78 Stat. 1075][/us/stat/78/1075], provided that:
 
->     “(1) The amendments made by subsections (a), (b), and (c) \[amending this section\] shall apply in the case of applications for disability determinations under section 216(i) of the Social Security Act \[subsec. (i) of this section\] filed after the month following the month in which this Act is enacted \[October 1964\].
+>     “(1) The amendments made by subsections (a), (b), and (c) \[amending this section\] shall apply in the case of applications for disability determinations under section 216(i) of the Social Security Act \[[42 U.S.C. 416(i)][/us/usc/t42/s416/i]\] filed after the month following the month in which this Act is enacted \[October 1964\].
 
 >     “(2)
 
->      Except as provided in the succeeding paragraphs, such amendments shall also apply, and as though such amendments had been enacted on July 1, 1962, in the case of applications for disability determinations filed under section 216(i) of the Social Security Act \[subsec. (i) of this section\] during the period beginning July 1, 1962, and ending with the close of the month following the month in which this Act is enacted \[October 1964\], by an individual who—
+>      Except as provided in the succeeding paragraphs, such amendments shall also apply, and as though such amendments had been enacted on July 1, 1962, in the case of applications for disability determinations filed under section 216(i) of the Social Security Act \[[42 U.S.C. 416(i)][/us/usc/t42/s416/i]\] during the period beginning July 1, 1962, and ending with the close of the month following the month in which this Act is enacted \[October 1964\], by an individual who—
 
 >         “(A) has been under a disability (as defined in such section 216(i)) continuously since he filed such application and up to (i) the first day of the second month following the month in which this Act is enacted or (ii) if earlier, the first day of the month in which he attained the age of 65, and
 
@@ -697,25 +697,25 @@ For constitutionality of [section 339(a) of Pub. L. 98–97][/us/pl/98/97/s339/a
 
 >     “(3)
 
->      In the case of an individual to whom paragraph (2) applies and who filed an application for disability insurance benefits under section 223 of the Social Security Act \[[section 423 of this title][/us/usc/t42/s423]\] during the period specified in such paragraph—
+>      In the case of an individual to whom paragraph (2) applies and who filed an application for disability insurance benefits under section 223 of the Social Security Act \[[42 U.S.C. 423][/us/usc/t42/s423]\] during the period specified in such paragraph—
 
->         “(A) if such individual was under a disability (as defined in section 223(c) of such Act) throughout such period and was not entitled to disability insurance benefits under such section 223 for any month in such period (except for the amendments made by this section), such application and any application filed during such period for benefits under section 202 of the Social Security Act \[[section 402 of this title][/us/usc/t42/s402]\] on the basis of the wages and self-employment income of such individual shall, notwithstanding section 202(j)(2) and the first sentence of section 223(b), be deemed an effective application, or
+>         “(A) if such individual was under a disability (as defined in section 223(c) of such Act) throughout such period and was not entitled to disability insurance benefits under such section 223 for any month in such period (except for the amendments made by this section), such application and any application filed during such period for benefits under section 202 of the Social Security Act \[[42 U.S.C. 402][/us/usc/t42/s402]\] on the basis of the wages and self-employment income of such individual shall, notwithstanding section 202(j)(2) and the first sentence of section 223(b), be deemed an effective application, or
 
 >         “(B)
 
->          if such individual was entitled (without the application of this section) to disability insurance benefits under section 223 \[[section 423 of this title][/us/usc/t42/s423]\] for a continuous period of months immediately preceding—
+>          if such individual was entitled (without the application of this section) to disability insurance benefits under section 223 \[[42 U.S.C. 423][/us/usc/t42/s423]\] for a continuous period of months immediately preceding—
 
 >             “(i) the second month following the month in which this Act was enacted \[October 1964\], or
 
->             “(ii) if earlier, the month in which he became entitled to benefits under section 202(a) \[[section 402(a) of this title][/us/usc/t42/s402/a]\],
+>             “(ii) if earlier, the month in which he became entitled to benefits under section 202(a) \[[42 U.S.C. 402(a)][/us/usc/t42/s402/a]\],
 
 >             his primary insurance amount shall be recomputed, but only if such amount would be increased solely by reason of the enactment of this section.
 
->     “(4) No monthly insurance benefits, and no increase in monthly insurance benefits, may be paid under title II of the Social Security Act \[this subchapter\] by reason of the enactment of this section for any month before the eleventh month before the month in which this Act is enacted \[October 1964\].
+>     “(4) No monthly insurance benefits, and no increase in monthly insurance benefits, may be paid under title II of the Social Security Act \[[42 U.S.C. 401][/us/usc/t42/s401] et seq.\] by reason of the enactment of this section for any month before the eleventh month before the month in which this Act is enacted \[October 1964\].
 
 >     “(5)
 
->      In the case of an individual (A) who is entitled under section 202 of the Social Security Act \[[section 402 of this title][/us/usc/t42/s402]\] (but without the application of subsection (j)(1) of such section) to a widow’s, widower’s, or parent’s insurance benefit, or to an old-age, wife’s or husband’s insurance benefit which is reduced under section 202(q) of such Act, for any month in the period referred to in paragraph (2) of this subsection, (B) who was under a disability (as defined in section 223(c) of the Social Security Act \[[section 423(c) of this title][/us/usc/t42/s423/c]\]) which began prior to the sixth month before the first month for which the benefits referred to in clause (A) are payable and which continued through the month following the month in which this Act is enacted \[October 1964\], and (C) who files an application for disability insurance benefits under section 223(a)(1) of the Social Security Act—
+>      In the case of an individual (A) who is entitled under section 202 of the Social Security Act \[[42 U.S.C. 402][/us/usc/t42/s402]\] (but without the application of subsection (j)(1) of such section) to a widow’s, widower’s, or parent’s insurance benefit, or to an old-age, wife’s or husband’s insurance benefit which is reduced under section 202(q) of such Act, for any month in the period referred to in paragraph (2) of this subsection, (B) who was under a disability (as defined in section 223(c) of the Social Security Act \[[42 U.S.C. 423(c)][/us/usc/t42/s423/c]\]) which began prior to the sixth month before the first month for which the benefits referred to in clause (A) are payable and which continued through the month following the month in which this Act is enacted \[October 1964\], and (C) who files an application for disability insurance benefits under section 223(a)(1) of the Social Security Act—
 
 >         “(i) subsection (a)(3) of section 223 of the Social Security Act shall not prevent him from being entitled to such disability insurance benefits;
 
@@ -725,7 +725,7 @@ For constitutionality of [section 339(a) of Pub. L. 98–97][/us/pl/98/97/s339/a
 
 >         “(iv) in case the benefits reduced under subsection (q) of section 202 of such Act are old-age insurance benefits (I) such old-age insurance benefits for the months in the period referred to in paragraph (2) of this subsection shall not be recomputed solely by reason of the enactment of this section, and, if otherwise recomputed, the provisions of and amendments made by this section shall not apply to such recomputation; and (II) the months for which he received such old-age insurance benefits before or during the period for which he becomes entitled, by reason of such enactment, to disability insurance benefits under such section 223 and the months for which he received such disability insurance benefits shall be excluded from the ‘reduction period’ and the ‘adjusted reduction period’, as defined in paragraphs (5) and (6), respectively, of such subsection (q) for purposes of determining the amount of the old-age insurance benefits to which he may subsequently become entitled.
 
->     “(6) The entitlement of any individual to benefits under section 202 of the Social Security Act \[[section 402 of this title][/us/usc/t42/s402]\] shall not be terminated solely by reason of the enactment of this section, except where such individual is entitled to benefits under section 202(a) or 223 of such Act \[section 402(a) or 423 of this title\] in an amount which (but for this subsection) would have required termination of such benefits under such section 202.”
+>     “(6) The entitlement of any individual to benefits under section 202 of the Social Security Act \[[section 402 of this title][/us/usc/t42/s402]\] shall not be terminated solely by reason of the enactment of this section, except where such individual is entitled to benefits under section 202(a) or 223 of such Act \[[42 U.S.C. 402(a)][/us/usc/t42/s402/a] or 423\] in an amount which (but for this subsection) would have required termination of such benefits under such section 202.”
 
  __Effective Date of 1961 Amendment__ 
 
@@ -737,7 +737,7 @@ For constitutionality of [section 339(a) of Pub. L. 98–97][/us/pl/98/97/s339/a
 
 [Pub. L. 86–778, title II, § 207(d)][/us/pl/86/778/s207/d], Sept. 13, 1960, [74 Stat. 951][/us/stat/74/951], provided that: 
 
-> “The amendments made by this section \[amending this section\] shall apply only with respect to monthly benefits under section 202 of the Social Security Act \[[section 402 of this title][/us/usc/t42/s402]\] for months beginning with the month in which this Act is enacted \[September 1960\], on the basis of applications filed in or after such month.”
+> “The amendments made by this section \[amending this section\] shall apply only with respect to monthly benefits under section 202 of the Social Security Act \[[42 U.S.C. 402][/us/usc/t42/s402]\] for months beginning with the month in which this Act is enacted \[September 1960\], on the basis of applications filed in or after such month.”
 
 [Pub. L. 86–778, title II, § 208(f)][/us/pl/86/778/s208/f], Sept. 13, 1960, [74 Stat. 952][/us/stat/74/952], provided that: 
 
@@ -751,13 +751,13 @@ For constitutionality of [section 339(a) of Pub. L. 98–97][/us/pl/98/97/s339/a
 
 [Pub. L. 85–840, title II, § 207(a)][/us/pl/85/840/s207/a], Aug. 28, 1958, [72 Stat. 1025][/us/stat/72/1025], provided that: 
 
-> “The amendments made by section 201 \[amending this section\] shall apply with respect to applications for a disability determination under section 216(i) of the Social Security Act \[subsec. (i) of this section\] filed after June 1961. The amendments made by section 202 \[amending [section 423 of this title][/us/usc/t42/s423]\] shall apply with respect to applications for disability insurance benefits under section 223 of such Act filed after December 1957. The amendments made by section 203 \[amending this section\] shall apply with respect to applications for a disability determination under such section 216(i) filed after June 1958. The amendments made by section 204 \[amending this section and [section 423 of this title][/us/usc/t42/s423]\] shall apply with respect to (1) applications for disability insurance benefits under such section 223 or for a disability determination under such section 216(i) filed on or after the date of enactment of this Act \[Aug. 28, 1958\], and (2) applications for such benefits or for such a determination filed after 1957 and prior to such date of enactment if the applicant has not died prior to such date of enactment and if notice to the applicant of the Secretary’s decision with respect thereto has not been given to him on or prior to such date, except that (A) no benefits under title II of the Social Security Act \[this subchapter\] for the month in which this Act is enacted \[August 1958\] or any prior month shall be payable or increased by reason of the amendments made by section 204 of this Act, and (B) the provisions of section 215(f)(1) of the Social Security Act \[[section 415(f)(1) of this title][/us/usc/t42/s415/f/1]\] shall not prevent recomputation of monthly benefits under section 202 of such Act \[[section 402 of this title][/us/usc/t42/s402]\] (but no such recomputation shall be regarded as a recomputation for purposes of section 215(f) of such Act). The amendments made by section 205 (other than by subsections (k) and (m)) \[amending sections 401, 402, 403, 414, 422, and 425 of this title\] shall apply with respect to monthly benefits under title II of the Social Security Act \[this subchapter\] for months after the month in which this Act is enacted, but only if an application for such benefits is filed on or after the date of enactment of this Act. The amendments made by section 206 \[repealing [section 424 of this title][/us/usc/t42/s424]\] and by subsections (k) and (m) of section 205 \[amending sections 403 and 415 of this title\] shall apply with respect to monthly benefits under title II of the Social Security Act \[this subchapter\] for the month in which this Act is enacted and succeeding months.”
+> “The amendments made by section 201 \[amending this section\] shall apply with respect to applications for a disability determination under section 216(i) of the Social Security Act \[subsec. (i) of this section\] filed after June 1961. The amendments made by section 202 \[amending [section 423 of this title][/us/usc/t42/s423]\] shall apply with respect to applications for disability insurance benefits under section 223 of such Act filed after December 1957. The amendments made by section 203 \[amending this section\] shall apply with respect to applications for a disability determination under such section 216(i) filed after June 1958. The amendments made by section 204 \[amending this section and [section 423 of this title][/us/usc/t42/s423]\] shall apply with respect to (1) applications for disability insurance benefits under such section 223 or for a disability determination under such section 216(i) filed on or after the date of enactment of this Act \[Aug. 28, 1958\], and (2) applications for such benefits or for such a determination filed after 1957 and prior to such date of enactment if the applicant has not died prior to such date of enactment and if notice to the applicant of the Secretary’s decision with respect thereto has not been given to him on or prior to such date, except that (A) no benefits under title II of the Social Security Act \[[42 U.S.C. 401][/us/usc/t42/s401] et seq.\] for the month in which this Act is enacted \[August 1958\] or any prior month shall be payable or increased by reason of the amendments made by section 204 of this Act, and (B) the provisions of section 215(f)(1) of the Social Security Act \[[42 U.S.C. 415(f)(1)][/us/usc/t42/s415/f/1]\] shall not prevent recomputation of monthly benefits under section 202 of such Act \[[42 U.S.C. 402][/us/usc/t42/s402]\] (but no such recomputation shall be regarded as a recomputation for purposes of section 215(f) of such Act). The amendments made by section 205 (other than by subsections (k) and (m)) \[amending sections 401, 402, 403, 414, 422, and 425 of this title\] shall apply with respect to monthly benefits under title II of the Social Security Act \[[42 U.S.C. 401][/us/usc/t42/s401] et seq.\] for months after the month in which this Act is enacted, but only if an application for such benefits is filed on or after the date of enactment of this Act. The amendments made by section 206 \[repealing [section 424 of this title][/us/usc/t42/s424]\] and by subsections (k) and (m) of section 205 \[amending sections 403 and 415 of this title\] shall apply with respect to monthly benefits under title II of the Social Security Act \[[42 U.S.C. 401][/us/usc/t42/s401] et seq.\] for the month in which this Act is enacted and succeeding months.”
 
     Amendment by section 301(a)(2), (b)(2), (c)(2), (d), (e) of [Pub. L. 85–840][/us/pl/85/840] applicable with respect to monthly benefits under [section 402 of this title][/us/usc/t42/s402] for months beginning after Aug. 28, 1958, but only if an application for such benefits is filed on or after such date, see [section 301(f) of Pub. L. 85–840][/us/pl/85/840/s301/f], set out as a note under [section 402 of this title][/us/usc/t42/s402].
 
 [Pub. L. 85–840, title III, § 302(b)][/us/pl/85/840/s302/b], Aug. 28, 1958, [72 Stat. 1028][/us/stat/72/1028], provided that: 
 
-> “The amendment made by this section \[amending this section\] shall apply with respect to monthly benefits under section 202 of the Social Security Act \[[section 402 of this title][/us/usc/t42/s402]\] for months beginning after the date of enactment of this Act \[Aug. 28, 1958\], but only if an application for such benefits is filed on or after such date.”
+> “The amendment made by this section \[amending this section\] shall apply with respect to monthly benefits under section 202 of the Social Security Act \[[42 U.S.C. 402][/us/usc/t42/s402]\] for months beginning after the date of enactment of this Act \[Aug. 28, 1958\], but only if an application for such benefits is filed on or after such date.”
 
     Amendment by [section 305(b) of Pub. L. 85–840][/us/pl/85/840/s305/b] applicable in the case of lump-sum death payments under [section 402(i) of this title][/us/usc/t42/s402/i] on the basis of the wages and self-employment income of any individual who dies after August 1958, see [section 305(c) of Pub. L. 85–840][/us/pl/85/840/s305/c], set out as a note under [section 402 of this title][/us/usc/t42/s402].
 
@@ -769,13 +769,13 @@ For constitutionality of [section 339(a) of Pub. L. 98–97][/us/pl/98/97/s339/a
 
 [Act Aug. 1, 1956, ch. 836][/us/act/1956-08-01/ch836], title I, § 102(b), [70 Stat. 809][/us/stat/70/809], provided that:
 
->     “(1) The amendment made by subsection (a) \[amending this section\] shall apply in the case of benefits under subsection (e) of section 202 of the Social Security Act \[[section 402(e) of this title][/us/usc/t42/s402/e]\] for months after October 1956, but only, except in the case of an individual who was entitled to wife’s or mother’s insurance benefits under such section 202 for October 1956, or any month thereafter, on the basis of applications filed after the date of enactment of this Act \[Aug. 1, 1956\]. The amendment made by subsection (a) shall apply in the case of benefits under subsection (h) of such section 202 for months after October 1956 on the basis of applications filed after the date of enactment of this Act.
+>     “(1) The amendment made by subsection (a) \[amending this section\] shall apply in the case of benefits under subsection (e) of section 202 of the Social Security Act \[[42 U.S.C. 402(e)][/us/usc/t42/s402/e]\] for months after October 1956, but only, except in the case of an individual who was entitled to wife’s or mother’s insurance benefits under such section 202 for October 1956, or any month thereafter, on the basis of applications filed after the date of enactment of this Act \[Aug. 1, 1956\]. The amendment made by subsection (a) shall apply in the case of benefits under subsection (h) of such section 202 for months after October 1956 on the basis of applications filed after the date of enactment of this Act.
 
->     “(2) Except as provided in paragraphs (1) and (4), the amendment made by subsection (a) shall apply in the case of lump-sum death payments under section 202(i) of the Social Security Act with respect to deaths after October 1956, and in the case of monthly benefits under title II of such Act \[this subchapter\] for months after October 1956 on the basis of applications filed after the date of enactment of this Act.
+>     “(2) Except as provided in paragraphs (1) and (4), the amendment made by subsection (a) shall apply in the case of lump-sum death payments under section 202(i) of the Social Security Act with respect to deaths after October 1956, and in the case of monthly benefits under title II of such Act \[[42 U.S.C. 401][/us/usc/t42/s401] et seq.\] for months after October 1956 on the basis of applications filed after the date of enactment of this Act.
 
 >     “(3)
 
->      For purposes of section 215(b)(3)(B) of the Social Security Act \[[section 415(b)(3)(B) of this title][/us/usc/t42/s415/b/3/B]\] (but subject to paragraphs (1) and (2) of this subsection)—
+>      For purposes of section 215(b)(3)(B) of the Social Security Act \[[42 U.S.C. 415(b)(3)(B)][/us/usc/t42/s415/b/3/B]\] (but subject to paragraphs (1) and (2) of this subsection)—
 
 >         “(A) a woman who attains the age of sixty-two prior to November 1956 and who was not eligible for old-age insurance benefits under section 202 of such Act (as in effect prior to the enactment of this Act) for any month prior to November 1956 shall be deemed to have attained the age of sixty-two in 1956 or, if earlier, the year in which she died;
 
@@ -785,7 +785,7 @@ For constitutionality of [section 339(a) of Pub. L. 98–97][/us/pl/98/97/s339/a
 
 >         A woman shall, for purposes of this paragraph, be deemed eligible for old-age insurance benefits under section 202 of the Social Security Act for any month if she was or would have been, upon filing application therefor in such month, entitled to such benefits for such month.
 
->     “(4) For purposes of section 209(i) of such Act \[[section 409(i) of this title][/us/usc/t42/s409/i]\], the amendment made by subsection (a) shall apply only with respect to remuneration paid after October 1956.”
+>     “(4) For purposes of section 209(i) of such Act \[[42 U.S.C. 409(i)][/us/usc/t42/s409/i]\], the amendment made by subsection (a) shall apply only with respect to remuneration paid after October 1956.”
 
  __Effective Date of 1954 Amendment__ 
 
@@ -817,13 +817,13 @@ For constitutionality of [section 339(a) of Pub. L. 98–97][/us/pl/98/97/s339/a
 
 >     “(a)
 
->      In the case of any individual who does not meet the requirements of section 216(i)(3) of the Social Security Act \[subsec. (i)(3) of this section\] with respect to any quarter, or who is not insured for disability insurance benefits as determined under section 223(c)(1) of such Act \[[section 423(c)(1) of this title][/us/usc/t42/s423/c/1]\] with respect to any month in a quarter, such individual shall be deemed to have met such requirements with respect to such quarter or to be so insured with respect to such month of such quarter, as the case may be, if—
+>      In the case of any individual who does not meet the requirements of section 216(i)(3) of the Social Security Act \[[42 U.S.C. 416(i)(3)][/us/usc/t42/s416/i/3]\] with respect to any quarter, or who is not insured for disability insurance benefits as determined under section 223(c)(1) of such Act \[[42 U.S.C. 423(c)(1)][/us/usc/t42/s423/c/1]\] with respect to any month in a quarter, such individual shall be deemed to have met such requirements with respect to such quarter or to be so insured with respect to such month of such quarter, as the case may be, if—
 
->         “(1) he had a total of not less than twenty quarters of coverage (as defined in section 213 of such Act \[[section 413 of this title][/us/usc/t42/s413]\]) during the period ending with the close of such quarter, and
+>         “(1) he had a total of not less than twenty quarters of coverage (as defined in section 213 of such Act \[[42 U.S.C. 413][/us/usc/t42/s413]\]) during the period ending with the close of such quarter, and
 
 >         “(2) all of the quarters elapsing after 1950 and up to but excluding such quarter were quarters of coverage with respect to him and there were not fewer than six such quarters of coverage.
 
->     “(b) Subsection (a) shall apply only in the case of applications for disability insurance benefits under section 223 of the Social Security Act, or for disability determinations under section 216(i) of such Act, filed in or after the month in which this Act is enacted \[September 1960\], and then only with respect to an individual who, but for such subsection (a), would not meet the requirements for a period of disability under section 216(i) with respect to the quarter in which this Act is enacted or any prior quarter and would not meet the requirements for benefits under section 223 with respect to the month in which this Act is enacted or any prior month. No benefits under title II of the Social Security Act \[this subchapter\] for the month in which this Act is enacted or any prior month shall be payable or increased by reason of the amendment made by such subsection.”
+>     “(b) Subsection (a) shall apply only in the case of applications for disability insurance benefits under section 223 of the Social Security Act, or for disability determinations under section 216(i) of such Act, filed in or after the month in which this Act is enacted \[September 1960\], and then only with respect to an individual who, but for such subsection (a), would not meet the requirements for a period of disability under section 216(i) with respect to the quarter in which this Act is enacted or any prior quarter and would not meet the requirements for benefits under section 223 with respect to the month in which this Act is enacted or any prior month. No benefits under title II of the Social Security Act \[[42 U.S.C. 401][/us/usc/t42/s401] et seq.\] for the month in which this Act is enacted or any prior month shall be payable or increased by reason of the amendment made by such subsection.”
 
 ----------
 
@@ -1108,6 +1108,8 @@ For constitutionality of [section 339(a) of Pub. L. 98–97][/us/pl/98/97/s339/a
 [/us/stat/97/129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F129
 [/us/usc/t42/s423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs423
 [/us/usc/t42/s423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs423
+[/us/usc/t42/s416/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs416%2Fi
+[/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
 [/us/pl/98/21/s333/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21%2Fs333%2Fb
 [/us/stat/97/130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F130
 [/us/pl/97/35/s2202/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2202%2Fa%2F2
@@ -1140,6 +1142,7 @@ For constitutionality of [section 339(a) of Pub. L. 98–97][/us/pl/98/97/s339/a
 [/us/usc/t42/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs402
 [/us/pl/92/603/s115/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603%2Fs115%2Fc
 [/us/stat/86/1349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1349
+[/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
 [/us/pl/92/603/s116/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603%2Fs116%2Fd
 [/us/pl/92/603/s116/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603%2Fs116%2Fe
 [/us/usc/t42/s423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs423
@@ -1149,20 +1152,27 @@ For constitutionality of [section 339(a) of Pub. L. 98–97][/us/pl/98/97/s339/a
 [/us/pl/92/603/s118/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603%2Fs118%2Fc
 [/us/stat/86/1351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1351
 [/us/usc/t42/s423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs423
+[/us/usc/t42/s402/j/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs402%2Fj%2F1
 [/us/pl/92/603/s145/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603%2Fs145%2Fb
 [/us/stat/86/1370]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1370
+[/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
 [/us/pl/90/248/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248%2Fs104
 [/us/pl/90/248/s104/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248%2Fs104%2Fe
 [/us/usc/t42/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs402
 [/us/pl/90/248/s105/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248%2Fs105%2Fc
 [/us/stat/81/833]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F833
+[/us/usc/t42/s416/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs416%2Fi
 [/us/usc/t42/s423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs423
+[/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
 [/us/pl/90/248/s111/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248%2Fs111%2Fb
 [/us/stat/81/838]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F838
+[/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
 [/us/pl/90/248/s150/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248%2Fs150%2Fb
 [/us/stat/81/860]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F860
+[/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
 [/us/pl/90/248/s156/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248%2Fs156%2Fe
 [/us/stat/81/867]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F867
+[/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
 [/us/pl/90/248/s158/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248%2Fs158%2Fd
 [/us/usc/t42/s423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs423
 [/us/pl/90/248/s158/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248%2Fs158%2Fe
@@ -1170,6 +1180,7 @@ For constitutionality of [section 339(a) of Pub. L. 98–97][/us/pl/98/97/s339/a
 [/us/pl/90/248/s172/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248%2Fs172%2Fc
 [/us/stat/81/877]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F877
 [/us/usc/t42/s423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs423
+[/us/usc/t42/s416/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs416%2Fi
 [/us/pl/89/97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97
 [/us/usc/t42/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs402
 [/us/pl/89/97/s308/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97%2Fs308%2Fe
@@ -1180,6 +1191,7 @@ For constitutionality of [section 339(a) of Pub. L. 98–97][/us/pl/98/97/s339/a
 [/us/pl/89/97/s339/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97%2Fs339%2Fc
 [/us/stat/79/411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F411
 [/us/usc/t42/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs402
+[/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
 [/us/pl/89/97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97
 [/us/usc/t42/s423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs423
 [/us/pl/89/97/s303/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97%2Fs303%2Ff%2F1
@@ -1193,15 +1205,20 @@ For constitutionality of [section 339(a) of Pub. L. 98–97][/us/pl/98/97/s339/a
 [/us/pl/89/97/s344/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97%2Fs344%2Fe
 [/us/stat/79/413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F413
 [/us/usc/t42/s423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs423
+[/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
 [/us/pl/88/650/s1/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F650%2Fs1%2Fd
 [/us/stat/78/1075]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F1075
+[/us/usc/t42/s416/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs416%2Fi
+[/us/usc/t42/s416/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs416%2Fi
 [/us/usc/t42/s423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs423
 [/us/usc/t42/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs402
 [/us/usc/t42/s423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs423
 [/us/usc/t42/s402/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs402%2Fa
+[/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
 [/us/usc/t42/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs402
 [/us/usc/t42/s423/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs423%2Fc
 [/us/usc/t42/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs402
+[/us/usc/t42/s402/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs402%2Fa
 [/us/pl/87/64/s102/b/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F64%2Fs102%2Fb%2F2%2FD
 [/us/pl/87/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F64
 [/us/pl/87/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F64
@@ -1225,9 +1242,12 @@ For constitutionality of [section 339(a) of Pub. L. 98–97][/us/pl/98/97/s339/a
 [/us/stat/72/1025]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1025
 [/us/usc/t42/s423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs423
 [/us/usc/t42/s423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs423
+[/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
 [/us/usc/t42/s415/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs415%2Ff%2F1
 [/us/usc/t42/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs402
+[/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
 [/us/usc/t42/s424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs424
+[/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
 [/us/pl/85/840]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F840
 [/us/usc/t42/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs402
 [/us/pl/85/840/s301/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F840%2Fs301%2Ff
@@ -1247,6 +1267,7 @@ For constitutionality of [section 339(a) of Pub. L. 98–97][/us/pl/98/97/s339/a
 [/us/act/1956-08-01/ch836]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-01%2Fch836
 [/us/stat/70/809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F809
 [/us/usc/t42/s402/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs402%2Fe
+[/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
 [/us/usc/t42/s415/b/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs415%2Fb%2F3%2FB
 [/us/usc/t42/s409/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs409%2Fi
 [/us/usc/t42/s415/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs415%2Ff
@@ -1263,7 +1284,9 @@ For constitutionality of [section 339(a) of Pub. L. 98–97][/us/pl/98/97/s339/a
 [/us/stat/97/109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F109
 [/us/pl/86/778/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F778%2Fs404
 [/us/stat/74/970]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F970
+[/us/usc/t42/s416/i/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs416%2Fi%2F3
 [/us/usc/t42/s423/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs423%2Fc%2F1
 [/us/usc/t42/s413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs413
+[/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
 
 

@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 4271.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs4271" data-uslm-ref="/us/usc/t42/s4271">4271.</a>  </td>
 
     <td> Establishment.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 4272.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs4272" data-uslm-ref="/us/usc/t42/s4272">4272.</a>  </td>
 
     <td> Declaration of purpose.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 4273.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs4273" data-uslm-ref="/us/usc/t42/s4273">4273.</a>  </td>
 
     <td> Membership of Commission; appointment of members; term.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 4274.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs4274" data-uslm-ref="/us/usc/t42/s4274">4274.</a>  </td>
 
     <td> Organization of Commission.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 4275.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs4275" data-uslm-ref="/us/usc/t42/s4275">4275.</a>  </td>
 
     <td> Duties of Commission.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 4276.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs4276" data-uslm-ref="/us/usc/t42/s4276">4276.</a>  </td>
 
     <td> Powers and administrative provisions.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 4277.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs4277" data-uslm-ref="/us/usc/t42/s4277">4277.</a>  </td>
 
     <td> Compensation of members.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 4278.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs4278" data-uslm-ref="/us/usc/t42/s4278">4278.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 4279.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs4279" data-uslm-ref="/us/usc/t42/s4279">4279.</a>  </td>
 
     <td> Receipt of funds; consideration by Congress.  </td>
 

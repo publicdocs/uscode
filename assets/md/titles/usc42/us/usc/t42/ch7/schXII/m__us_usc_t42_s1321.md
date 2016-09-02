@@ -93,7 +93,7 @@
 
 >     “(1)
 
->      No amount shall be transferred on or after the date of the enactment of this Act \[Sept. 13, 1960\] from the Federal unemployment account to the account of any State in the Unemployment Trust Fund pursuant to any application made under section 1201(a) of the Social Security Act \[subsec. (a) of this section\] as in effect before such date; except that, if—
+>      No amount shall be transferred on or after the date of the enactment of this Act \[Sept. 13, 1960\] from the Federal unemployment account to the account of any State in the Unemployment Trust Fund pursuant to any application made under section 1201(a) of the Social Security Act \[[42 U.S.C. 1321(a)][/us/usc/t42/s1321/a]\] as in effect before such date; except that, if—
 
 >         “(A) some but not all of an amount certified by the Secretary of Labor to the Secretary of the Treasury for transfer to the account of any State was transferred to such account before such date, and
 
@@ -101,7 +101,7 @@
 
 >         the Secretary of the Treasury shall, prior to audit or settlement by the General Accounting Office \[now Government Accountability Office\], transfer from the Federal unemployment account to the account of such State in the Unemployment Trust Fund the amount so requested or (if smaller) the amount available in the Federal unemployment account at the time of the transfer. No such amount shall be transferred under this paragraph after the one-year period beginning on the date of the enactment of this Act \[Sept. 13, 1960\].
 
->     “(2) For purposes of section 3302(c) of the Federal Unemployment Tax Act \[[section 3302(c) of Title 26][/us/usc/t26/s3302/c], Internal Revenue Code\] and titles IX and XII of the Social Security Act \[subchapter IX and XII of this chapter\], if any amount is transferred pursuant to paragraph (1) to the unemployment account of any State, such amount shall be treated as an advance made before the date of the enactment of this Act \[Sept. 13, 1960\].”
+>     “(2) For purposes of section 3302(c) of the Federal Unemployment Tax Act \[[section 3302(c) of Title 26][/us/usc/t26/s3302/c], Internal Revenue Code\] and titles IX and XII of the Social Security Act \[[42 U.S.C. 1101][/us/usc/t42/s1101] et seq., 1321 et seq.\], if any amount is transferred pursuant to paragraph (1) to the unemployment account of any State, such amount shall be treated as an advance made before the date of the enactment of this Act \[Sept. 13, 1960\].”
 
  __Advances to Alaska__ 
 
@@ -151,7 +151,9 @@
 [/us/usc/t42/s1104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1104
 [/us/pl/86/778/s522/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F778%2Fs522%2Fb
 [/us/stat/74/979]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F979
+[/us/usc/t42/s1321/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1321%2Fa
 [/us/usc/t26/s3302/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs3302%2Fc
+[/us/usc/t42/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1101
 [/us/act/1955-06-01/ch118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-06-01%2Fch118
 [/us/stat/69/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F81
 

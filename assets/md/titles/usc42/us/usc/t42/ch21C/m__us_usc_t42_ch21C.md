@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 2000cc.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2000cc" data-uslm-ref="/us/usc/t42/s2000cc">2000cc.</a>  </td>
 
     <td> Protection of land use as religious exercise.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 2000cc–1.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2000cc%E2%80%931" data-uslm-ref="/us/usc/t42/s2000cc–1">2000cc–1.</a>  </td>
 
     <td> Protection of religious exercise of institutionalized persons.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 2000cc–2.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2000cc%E2%80%932" data-uslm-ref="/us/usc/t42/s2000cc–2">2000cc–2.</a>  </td>
 
     <td> Judicial relief.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 2000cc–3.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2000cc%E2%80%933" data-uslm-ref="/us/usc/t42/s2000cc–3">2000cc–3.</a>  </td>
 
     <td> Rules of construction.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 2000cc–4.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2000cc%E2%80%934" data-uslm-ref="/us/usc/t42/s2000cc–4">2000cc–4.</a>  </td>
 
     <td> Establishment Clause unaffected.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 2000cc–5.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2000cc%E2%80%935" data-uslm-ref="/us/usc/t42/s2000cc–5">2000cc–5.</a>  </td>
 
     <td> Definitions.  </td>
 

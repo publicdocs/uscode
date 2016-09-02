@@ -39,7 +39,7 @@
 
 >         “(1) __In general.—__ 
 
->         There are transferred to the Social Security Administration all functions of the Secretary of Health and Human Services with respect to or in support of the programs and activities the administration of which is vested in the Social Security Administration by reason of this title \[see Tables for classification\] and the amendments made thereby. The Commissioner of Social Security shall allocate such functions in accordance with sections 701, 702, 703, and 704 of the Social Security Act \[this section and sections 902 to 904 of this title\] (as amended by this title).
+>         There are transferred to the Social Security Administration all functions of the Secretary of Health and Human Services with respect to or in support of the programs and activities the administration of which is vested in the Social Security Administration by reason of this title \[see Tables for classification\] and the amendments made thereby. The Commissioner of Social Security shall allocate such functions in accordance with sections 701, 702, 703, and 704 of the Social Security Act \[[42 U.S.C. 901][/us/usc/t42/s901], 902, 903, 904\] (as amended by this title).
 
 >         “(2) __Functions of other agencies.—__ 
 
@@ -47,7 +47,7 @@
 
 >             Subject to subparagraph (B), the Social Security Administration shall also perform—
 
->                 “(i) the functions of the Department of Health and Human Services, including functions relating to titles XVIII and XIX of the Social Security Act \[subchapters XVIII and IX of this chapter\] (including adjudications, subject to final decisions by the Secretary of Health and Human Services), that the Social Security Administration in such Department performed as of immediately before the date of the enactment of this Act \[Aug. 15, 1994\], and
+>                 “(i) the functions of the Department of Health and Human Services, including functions relating to titles XVIII and XIX of the Social Security Act \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq., 1396 et seq.\] (including adjudications, subject to final decisions by the Secretary of Health and Human Services), that the Social Security Administration in such Department performed as of immediately before the date of the enactment of this Act \[Aug. 15, 1994\], and
 
 >                 “(ii) the functions of any other agency for which administrative responsibility was vested in the Social Security Administration in the Department of Health and Human Services as of immediately before the date of the enactment of this Act.
 
@@ -107,15 +107,15 @@
 
 >         “(1) __Appointment of initial commissioner of social security.—__ 
 
->         The President shall nominate for appointment the initial Commissioner of Social Security to serve as head of the Social Security Administration established under section 701 of the Social Security Act \[this section\] (as amended by this Act) not later than 60 days after the date of the enactment of this Act \[Aug. 15, 1994\].
+>         The President shall nominate for appointment the initial Commissioner of Social Security to serve as head of the Social Security Administration established under section 701 of the Social Security Act \[[42 U.S.C. 901][/us/usc/t42/s901]\] (as amended by this Act) not later than 60 days after the date of the enactment of this Act \[Aug. 15, 1994\].
 
 >         “(2) __Assumption of office of initial commissioner before effective date of new agency.—__ 
 
->         If the appointment of the initial Commissioner of Social Security pursuant to section 702 of the Social Security Act \[[section 902 of this title][/us/usc/t42/s902]\] (as amended by this Act) is confirmed by the Senate pursuant to such section 702 before March 31, 1995, the individual shall take office as Commissioner immediately upon confirmation, and, until March 31, 1995, such Commissioner shall perform the functions of the Commissioner of Social Security in the Department of Health and Human Services.
+>         If the appointment of the initial Commissioner of Social Security pursuant to section 702 of the Social Security Act \[[42 U.S.C. 902][/us/usc/t42/s902]\] (as amended by this Act) is confirmed by the Senate pursuant to such section 702 before March 31, 1995, the individual shall take office as Commissioner immediately upon confirmation, and, until March 31, 1995, such Commissioner shall perform the functions of the Commissioner of Social Security in the Department of Health and Human Services.
 
 >         “(3) __Treatment of inspector general and other appointments.—__ 
 
->         At any time on or after the date of the enactment of this Act \[Aug. 15, 1994\], any of the officers provided for in section 702 of the Social Security Act (as amended by this title) and any of the members of the Social Security Advisory Board provided for in section 703 of such Act \[[section 903 of this title][/us/usc/t42/s903]\] (as so amended) may be nominated and take office, under the terms and conditions set out in such sections.
+>         At any time on or after the date of the enactment of this Act \[Aug. 15, 1994\], any of the officers provided for in section 702 of the Social Security Act (as amended by this title) and any of the members of the Social Security Advisory Board provided for in section 703 of such Act \[[42 U.S.C. 903][/us/usc/t42/s903]\] (as so amended) may be nominated and take office, under the terms and conditions set out in such sections.
 
 >         “(4) __Compensation for initial officers and board members before effective date of new agency.—__ 
 
@@ -123,7 +123,7 @@
 
 >         “(5) __Interim role of current commissioner after effective date of new agency.—__ 
 
->         In the event that, as of March 31, 1995, an individual appointed to serve as the initial Commissioner of Social Security has not taken office, until such initial Commissioner has taken office, the officer serving on March 31, 1995, as Commissioner of Social Security (or Acting Commissioner of Social Security, if applicable) in the Department of Health and Human Services shall, while continuing to serve as such Commissioner of Social Security (or Acting Commissioner of Social Security), serve as Commissioner of Social Security (or Acting Commissioner of Social Security, respectively) in the Social Security Administration established under such section 701 and shall assume the powers and duties under such Act \[this chapter\] (as amended by this Act) of the Commissioner of Social Security in the Social Security Administration as so established under such section 701. In the event that, as of March 31, 1995, the President has not nominated an individual for appointment to the office of Commissioner of Social Security in the Social Security Administration established under such section 701, then the individual serving as Commissioner of Social Security (or Acting Commissioner of Social Security, if applicable) in the Department of Health and Human Services shall become the Acting Commissioner of Social Security in the Social Security Administration as so established under such section 701.
+>         In the event that, as of March 31, 1995, an individual appointed to serve as the initial Commissioner of Social Security has not taken office, until such initial Commissioner has taken office, the officer serving on March 31, 1995, as Commissioner of Social Security (or Acting Commissioner of Social Security, if applicable) in the Department of Health and Human Services shall, while continuing to serve as such Commissioner of Social Security (or Acting Commissioner of Social Security), serve as Commissioner of Social Security (or Acting Commissioner of Social Security, respectively) in the Social Security Administration established under such section 701 and shall assume the powers and duties under such Act \[[42 U.S.C. 301][/us/usc/t42/s301] et seq.\] (as amended by this Act) of the Commissioner of Social Security in the Social Security Administration as so established under such section 701. In the event that, as of March 31, 1995, the President has not nominated an individual for appointment to the office of Commissioner of Social Security in the Social Security Administration established under such section 701, then the individual serving as Commissioner of Social Security (or Acting Commissioner of Social Security, if applicable) in the Department of Health and Human Services shall become the Acting Commissioner of Social Security in the Social Security Administration as so established under such section 701.
 
 >         “(6) __Interim inspector general.—__ 
 
@@ -179,7 +179,7 @@
 
 >     “(a) __References to the Department of Health and Human Services.—__ 
 
->     Whenever any reference is made in any provision of law (other than this title \[see Tables for classification\] or a provision of law amended by this title), regulation, rule, record, or document to the Department of Health and Human Services with respect to such Department’s functions under the old-age, survivors, and disability insurance program under title II of the Social Security Act \[subchapter II of this chapter\] or the supplemental security income program under title XVI of such Act \[subchapter XVI of this chapter\] or other functions performed by the Social Security Administration pursuant to section 105(a)(2) of this Act \[set out above\], such reference shall be considered a reference to the Social Security Administration.
+>     Whenever any reference is made in any provision of law (other than this title \[see Tables for classification\] or a provision of law amended by this title), regulation, rule, record, or document to the Department of Health and Human Services with respect to such Department’s functions under the old-age, survivors, and disability insurance program under title II of the Social Security Act \[[42 U.S.C. 401][/us/usc/t42/s401] et seq.\] or the supplemental security income program under title XVI of such Act \[[42 U.S.C. 1381][/us/usc/t42/s1381] et seq.\] or other functions performed by the Social Security Administration pursuant to section 105(a)(2) of this Act \[set out above\], such reference shall be considered a reference to the Social Security Administration.
 
 >     “(b) __References to the Secretary of Health and Human Services.—__ 
 
@@ -208,6 +208,8 @@
 [/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
 [/us/pl/103/296/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs105
 [/us/stat/108/1472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1472
+[/us/usc/t42/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs901
+[/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
 [/us/usc/t40/s606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs606
 [/us/usc/t40/s3305/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs3305%2Fb%2F2%2FB
 [/us/pl/103/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296
@@ -216,11 +218,15 @@
 [/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
 [/us/pl/103/296/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs106
 [/us/stat/108/1474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1474
+[/us/usc/t42/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs901
 [/us/usc/t42/s902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs902
 [/us/usc/t42/s903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs903
+[/us/usc/t42/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs301
 [/us/pl/95/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F452
 [/us/usc/t5/s5315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5315
 [/us/pl/103/296/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs109
 [/us/stat/108/1489]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1489
+[/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
+[/us/usc/t42/s1381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1381
 
 

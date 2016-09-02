@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 10701.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs10701" data-uslm-ref="/us/usc/t42/s10701">10701.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 10702.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs10702" data-uslm-ref="/us/usc/t42/s10702">10702.</a>  </td>
 
     <td> Establishment of Institute; duties.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 10703.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs10703" data-uslm-ref="/us/usc/t42/s10703">10703.</a>  </td>
 
     <td> Board of Directors.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 10704.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs10704" data-uslm-ref="/us/usc/t42/s10704">10704.</a>  </td>
 
     <td> Officers and employees.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 10705.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs10705" data-uslm-ref="/us/usc/t42/s10705">10705.</a>  </td>
 
     <td> Grants and contracts.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 10706.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs10706" data-uslm-ref="/us/usc/t42/s10706">10706.</a>  </td>
 
     <td> Limitations on grants and contracts.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 10707.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs10707" data-uslm-ref="/us/usc/t42/s10707">10707.</a>  </td>
 
     <td> Restrictions on activities of Institute.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 10708.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs10708" data-uslm-ref="/us/usc/t42/s10708">10708.</a>  </td>
 
     <td> Administrative provisions.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 10709.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs10709" data-uslm-ref="/us/usc/t42/s10709">10709.</a>  </td>
 
     <td> Presidential coordination.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 10710.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs10710" data-uslm-ref="/us/usc/t42/s10710">10710.</a>  </td>
 
     <td> Records and reports.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 10711.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs10711" data-uslm-ref="/us/usc/t42/s10711">10711.</a>  </td>
 
     <td> Audits.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 10712.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs10712" data-uslm-ref="/us/usc/t42/s10712">10712.</a>  </td>
 
     <td> Report by Attorney General.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 10713.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs10713" data-uslm-ref="/us/usc/t42/s10713">10713.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 

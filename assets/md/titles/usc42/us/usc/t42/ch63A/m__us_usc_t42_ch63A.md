@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 4851.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs4851" data-uslm-ref="/us/usc/t42/s4851">4851.</a>  </td>
 
     <td> Findings.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 4851a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs4851a" data-uslm-ref="/us/usc/t42/s4851a">4851a.</a>  </td>
 
     <td> Purposes.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 4851b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs4851b" data-uslm-ref="/us/usc/t42/s4851b">4851b.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER I—LEAD-BASED PAINT HAZARD REDUCTION  </td>
 
   <tr>
 
-    <td> 4852.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs4852" data-uslm-ref="/us/usc/t42/s4852">4852.</a>  </td>
 
     <td> Grants for lead-based paint hazard reduction in target housing.  </td>
 
@@ -65,7 +65,7 @@ SUBCHAPTER I—LEAD-BASED PAINT HAZARD REDUCTION  </td>
 
   <tr>
 
-    <td> 4852a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs4852a" data-uslm-ref="/us/usc/t42/s4852a">4852a.</a>  </td>
 
     <td> Task force on lead-based paint hazard reduction and financing.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER I—LEAD-BASED PAINT HAZARD REDUCTION  </td>
 
   <tr>
 
-    <td> 4852b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs4852b" data-uslm-ref="/us/usc/t42/s4852b">4852b.</a>  </td>
 
     <td> National consultation on lead-based paint hazard reduction.  </td>
 
@@ -81,7 +81,7 @@ SUBCHAPTER I—LEAD-BASED PAINT HAZARD REDUCTION  </td>
 
   <tr>
 
-    <td> 4852c.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs4852c" data-uslm-ref="/us/usc/t42/s4852c">4852c.</a>  </td>
 
     <td> Guidelines for lead-based paint hazard evaluation and reduction activities.  </td>
 
@@ -89,7 +89,7 @@ SUBCHAPTER I—LEAD-BASED PAINT HAZARD REDUCTION  </td>
 
   <tr>
 
-    <td> 4852d.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs4852d" data-uslm-ref="/us/usc/t42/s4852d">4852d.</a>  </td>
 
     <td> Disclosure of information concerning lead upon transfer of residential property.  </td>
 
@@ -105,7 +105,7 @@ SUBCHAPTER II—WORKER PROTECTION  </td>
 
   <tr>
 
-    <td> 4853.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs4853" data-uslm-ref="/us/usc/t42/s4853">4853.</a>  </td>
 
     <td> Worker protection.  </td>
 
@@ -113,7 +113,7 @@ SUBCHAPTER II—WORKER PROTECTION  </td>
 
   <tr>
 
-    <td> 4853a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs4853a" data-uslm-ref="/us/usc/t42/s4853a">4853a.</a>  </td>
 
     <td> Coordination between Environmental Protection Agency and Department of Labor.  </td>
 
@@ -137,7 +137,7 @@ Part 1—HUD Research  </td>
 
   <tr>
 
-    <td> 4854.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs4854" data-uslm-ref="/us/usc/t42/s4854">4854.</a>  </td>
 
     <td> Research on lead exposure from other sources.  </td>
 
@@ -145,7 +145,7 @@ Part 1—HUD Research  </td>
 
   <tr>
 
-    <td> 4854a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs4854a" data-uslm-ref="/us/usc/t42/s4854a">4854a.</a>  </td>
 
     <td> Testing technologies.  </td>
 
@@ -153,7 +153,7 @@ Part 1—HUD Research  </td>
 
   <tr>
 
-    <td> 4854b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs4854b" data-uslm-ref="/us/usc/t42/s4854b">4854b.</a>  </td>
 
     <td> Authorization.  </td>
 
@@ -169,7 +169,7 @@ Part 2—GAO Report  </td>
 
   <tr>
 
-    <td> 4855.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs4855" data-uslm-ref="/us/usc/t42/s4855">4855.</a>  </td>
 
     <td> Federal implementation and insurance study.  </td>
 
@@ -185,7 +185,7 @@ SUBCHAPTER IV—REPORTS  </td>
 
   <tr>
 
-    <td> 4856.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs4856" data-uslm-ref="/us/usc/t42/s4856">4856.</a>  </td>
 
     <td> Reports of Secretary of Housing and Urban Development.  </td>
 

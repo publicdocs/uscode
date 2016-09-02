@@ -159,7 +159,7 @@
 
 > “The amendment made by subsection (a) \[enacting this section and renumbering this section and [section 290aa–5 of this title][/us/usc/t42/s290aa–5]\] does not terminate the membership of any advisory council for the National Institute on Alcohol Abuse and Alcoholism, the National Institute on Drug Abuse, or the National Institute of Mental Health which was in existence on the date of enactment of this Act \[Oct. 27, 1986\]. After such date—
 
->     “(1) the Secretary of Health and Human Services shall make appointments to each such advisory council in such a manner as to bring about as soon as practicable the composition for such council prescribed by section 505 \[now 502\] of the Public Health Service Act \[this section\];
+>     “(1) the Secretary of Health and Human Services shall make appointments to each such advisory council in such a manner as to bring about as soon as practicable the composition for such council prescribed by section 505 \[now 502\] of the Public Health Service Act \[[42 U.S.C. 290aa–1][/us/usc/t42/s290aa–1]\];
 
 >     “(2) each advisory council shall organize itself in accordance with such section and exercise the functions prescribed by such section; and
 
@@ -237,5 +237,6 @@
 [/us/pl/99/570/s4004/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs4004%2Fb
 [/us/stat/100/3207-111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3207-111
 [/us/usc/t42/s290aa–5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs290aa%E2%80%935
+[/us/usc/t42/s290aa–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs290aa%E2%80%931
 
 

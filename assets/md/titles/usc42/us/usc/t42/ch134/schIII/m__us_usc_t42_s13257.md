@@ -71,13 +71,11 @@
 
                 (iii) such new vehicles will meet the applicable non-Federal and non-State fleet performance requirements of such fleets (including range, passenger or cargo-carrying capacity, reliability, refueling capability, vehicle mix, and economical operation and maintenance); and
 
-                (iv)
+                (iv) establishment of a fleet requirement program by rule under this subsection will not result in unfair competitive advantages or disadvantages, or result in undue economic hardship, to the affected fleets.
 
-                 establishment of a fleet requirement program by rule under this subsection will not result in unfair competitive advantages or disadvantages, or result in undue economic hardship, to the affected fleets.
+        (2) The Secretary shall not promulgate a rule under this subsection if he is unable to make affirmative findings in the case of each of the subparagraphs under paragraph (1), and each of the clauses under subparagraph (C) of paragraph (1).
 
-                    (2) The Secretary shall not promulgate a rule under this subsection if he is unable to make affirmative findings in the case of each of the subparagraphs under paragraph (1), and each of the clauses under subparagraph (C) of paragraph (1).
-
-                    (3) If the Secretary does not determine that such program is necessary under this subsection, the provisions of subsection (e) of this section shall apply to the consideration in the future of any fleet requirement program. The record of this rulemaking, including the Secretary’s findings, shall be incorporated into a rulemaking under that subsection. If the Secretary determines under this subsection that such program is necessary, the Secretary shall not initiate the later rulemaking under subsection (e) of this section.
+        (3) If the Secretary does not determine that such program is necessary under this subsection, the provisions of subsection (e) of this section shall apply to the consideration in the future of any fleet requirement program. The record of this rulemaking, including the Secretary’s findings, shall be incorporated into a rulemaking under that subsection. If the Secretary determines under this subsection that such program is necessary, the Secretary shall not initiate the later rulemaking under subsection (e) of this section.
 
     (c) __Advance notice of proposed rulemaking__ 
 

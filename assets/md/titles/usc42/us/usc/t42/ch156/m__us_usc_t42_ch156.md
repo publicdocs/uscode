@@ -33,7 +33,7 @@ SUBCHAPTER I—APPLICATION AND USE OF ADOPTED HEALTH INFORMATION TECHNOLOGY STAN
 
   <tr>
 
-    <td> 17901.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs17901" data-uslm-ref="/us/usc/t42/s17901">17901.</a>  </td>
 
     <td> Coordination of Federal activities with adopted standards and implementation specifications.  </td>
 
@@ -41,7 +41,7 @@ SUBCHAPTER I—APPLICATION AND USE OF ADOPTED HEALTH INFORMATION TECHNOLOGY STAN
 
   <tr>
 
-    <td> 17902.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs17902" data-uslm-ref="/us/usc/t42/s17902">17902.</a>  </td>
 
     <td> Application to private entities.  </td>
 
@@ -49,7 +49,7 @@ SUBCHAPTER I—APPLICATION AND USE OF ADOPTED HEALTH INFORMATION TECHNOLOGY STAN
 
   <tr>
 
-    <td> 17903.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs17903" data-uslm-ref="/us/usc/t42/s17903">17903.</a>  </td>
 
     <td> Study and reports.  </td>
 
@@ -65,7 +65,7 @@ SUBCHAPTER II—TESTING OF HEALTH INFORMATION TECHNOLOGY  </td>
 
   <tr>
 
-    <td> 17911.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs17911" data-uslm-ref="/us/usc/t42/s17911">17911.</a>  </td>
 
     <td> National Institute for Standards and Technology testing.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER II—TESTING OF HEALTH INFORMATION TECHNOLOGY  </td>
 
   <tr>
 
-    <td> 17912.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs17912" data-uslm-ref="/us/usc/t42/s17912">17912.</a>  </td>
 
     <td> Research and development programs.  </td>
 
@@ -89,7 +89,7 @@ SUBCHAPTER III—PRIVACY  </td>
 
   <tr>
 
-    <td> 17921.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs17921" data-uslm-ref="/us/usc/t42/s17921">17921.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -105,7 +105,7 @@ Part A—Improved Privacy Provisions and Security Provisions  </td>
 
   <tr>
 
-    <td> 17931.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs17931" data-uslm-ref="/us/usc/t42/s17931">17931.</a>  </td>
 
     <td> Application of security provisions and penalties to business associates of covered entities; annual guidance on security provisions.  </td>
 
@@ -113,7 +113,7 @@ Part A—Improved Privacy Provisions and Security Provisions  </td>
 
   <tr>
 
-    <td> 17932.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs17932" data-uslm-ref="/us/usc/t42/s17932">17932.</a>  </td>
 
     <td> Notification in the case of breach.  </td>
 
@@ -121,7 +121,7 @@ Part A—Improved Privacy Provisions and Security Provisions  </td>
 
   <tr>
 
-    <td> 17933.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs17933" data-uslm-ref="/us/usc/t42/s17933">17933.</a>  </td>
 
     <td> Education on health information privacy.  </td>
 
@@ -129,7 +129,7 @@ Part A—Improved Privacy Provisions and Security Provisions  </td>
 
   <tr>
 
-    <td> 17934.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs17934" data-uslm-ref="/us/usc/t42/s17934">17934.</a>  </td>
 
     <td> Application of privacy provisions and penalties to business associates of covered entities.  </td>
 
@@ -137,7 +137,7 @@ Part A—Improved Privacy Provisions and Security Provisions  </td>
 
   <tr>
 
-    <td> 17935.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs17935" data-uslm-ref="/us/usc/t42/s17935">17935.</a>  </td>
 
     <td> Restrictions on certain disclosures and sales of health information; accounting of certain protected health information disclosures; access to certain information in electronic format.  </td>
 
@@ -145,7 +145,7 @@ Part A—Improved Privacy Provisions and Security Provisions  </td>
 
   <tr>
 
-    <td> 17936.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs17936" data-uslm-ref="/us/usc/t42/s17936">17936.</a>  </td>
 
     <td> Conditions on certain contacts as part of health care operations.  </td>
 
@@ -153,7 +153,7 @@ Part A—Improved Privacy Provisions and Security Provisions  </td>
 
   <tr>
 
-    <td> 17937.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs17937" data-uslm-ref="/us/usc/t42/s17937">17937.</a>  </td>
 
     <td> Temporary breach notification requirement for vendors of personal health records and other non-HIPAA covered entities.  </td>
 
@@ -161,7 +161,7 @@ Part A—Improved Privacy Provisions and Security Provisions  </td>
 
   <tr>
 
-    <td> 17938.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs17938" data-uslm-ref="/us/usc/t42/s17938">17938.</a>  </td>
 
     <td> Business associate contracts required for certain entities.  </td>
 
@@ -169,7 +169,7 @@ Part A—Improved Privacy Provisions and Security Provisions  </td>
 
   <tr>
 
-    <td> 17939.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs17939" data-uslm-ref="/us/usc/t42/s17939">17939.</a>  </td>
 
     <td> Improved enforcement.  </td>
 
@@ -177,7 +177,7 @@ Part A—Improved Privacy Provisions and Security Provisions  </td>
 
   <tr>
 
-    <td> 17940.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs17940" data-uslm-ref="/us/usc/t42/s17940">17940.</a>  </td>
 
     <td> Audits.  </td>
 
@@ -193,7 +193,7 @@ Part B—Relationship to Other Laws; Regulatory References; Effective Date; Repo
 
   <tr>
 
-    <td> 17951.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs17951" data-uslm-ref="/us/usc/t42/s17951">17951.</a>  </td>
 
     <td> Relationship to other laws.  </td>
 
@@ -201,7 +201,7 @@ Part B—Relationship to Other Laws; Regulatory References; Effective Date; Repo
 
   <tr>
 
-    <td> 17952.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs17952" data-uslm-ref="/us/usc/t42/s17952">17952.</a>  </td>
 
     <td> Regulatory references.  </td>
 
@@ -209,7 +209,7 @@ Part B—Relationship to Other Laws; Regulatory References; Effective Date; Repo
 
   <tr>
 
-    <td> 17953.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs17953" data-uslm-ref="/us/usc/t42/s17953">17953.</a>  </td>
 
     <td> Studies, reports, guidance.  </td>
 

@@ -151,9 +151,7 @@ Unless otherwise provided, for purposes of this part—
 
 > “This subtitle \[subtitle D (§§ 40401–40422) of title IV of [Pub. L. 103–322][/us/pl/103/322], enacting part D (§ 13991 et seq.) of subchapter III of this chapter\] may be cited as the ‘Equal Justice for Women in the Courts Act of 1994’.”
 
-[Pub. L. 103–322, title IV, § 41001][/us/pl/103/322/s41001], as added by [Pub. L. 109–162, title I, § 105(a)][/us/pl/109/162/s105/a], Jan. 5, 2006, [119 Stat. 2979][/us/stat/119/2979], provided that: 
-
-> “This subtitle \[subtitle J (§§ 41001–41006) of title IV of [Pub. L. 103–322][/us/pl/103/322], enacting part I (§ 14043 et seq.) of subchapter III of this chapter\] may be cited as the ‘Violence Against Women Act Court Training and Improvements Act of 2005’.”
+    [Pub. L. 103–322, title IV, § 41001][/us/pl/103/322/s41001], as added by [Pub. L. 109–162, title I, § 105(a)][/us/pl/109/162/s105/a], Jan. 5, 2006, [119 Stat. 2979][/us/stat/119/2979], provided that subtitle J of title IV of [Pub. L. 103–322][/us/pl/103/322], enacting part I (§ 14043 et seq.) of subchapter III of this chapter, could be cited as the “Violence Against Women Act Court Training and Improvements Act of 2005”, prior to repeal by [Pub. L. 113–4, title I, § 104(b)][/us/pl/113/4/s104/b], Mar. 7, 2013, [127 Stat. 76][/us/stat/127/76].
 
 [Pub. L. 103–322, title XX, § 200101][/us/pl/103/322/s200101], Sept. 13, 1994, [108 Stat. 2049][/us/stat/108/2049], provided that: 
 
@@ -272,6 +270,8 @@ Unless otherwise provided, for purposes of this part—
 [/us/pl/109/162/s105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs105%2Fa
 [/us/stat/119/2979]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2979
 [/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
+[/us/pl/113/4/s104/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs104%2Fb
+[/us/stat/127/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F76
 [/us/pl/103/322/s200101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs200101
 [/us/stat/108/2049]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2049
 [/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322

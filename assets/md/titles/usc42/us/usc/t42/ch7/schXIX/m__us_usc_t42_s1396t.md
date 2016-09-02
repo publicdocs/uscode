@@ -489,8 +489,6 @@
 
     Section applicable to home and community care furnished on or after July 1, 1991, without regard to whether or not final regulations to carry out the amendments made by [section 4711 of Pub. L. 101–508][/us/pl/101/508/s4711] have been promulgated by such date, see [section 4711(e) of Pub. L. 101–508][/us/pl/101/508/s4711/e], set out as an Effective Date of 1990 Amendment note under [section 1396a of this title][/us/usc/t42/s1396a].
 
-    Effective Date
-
 ----------
 
 [Previous](./../../../../..//us/usc/t42/ch7/schXIX/m__us_usc_t42_s1396s.md) | [Next](./../../../../..//us/usc/t42/ch7/schXIX/m__us_usc_t42_s1396u.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396t)

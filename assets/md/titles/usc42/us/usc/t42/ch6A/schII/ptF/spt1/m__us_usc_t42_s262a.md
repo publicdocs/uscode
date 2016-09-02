@@ -365,13 +365,13 @@
 
 [Pub. L. 107–188, title II, § 203(b)][/us/pl/107/188/s203/b], June 12, 2002, [116 Stat. 647][/us/stat/116/647], provided that: 
 
-> “Subsection (h) of section 351A of the Public Health Service Act \[subsec. (h) of this section\], as added by section 201 of this Act, is deemed to have taken effect on the effective date of the Antiterrorism and Effective Death Penalty Act of 1996 \[[Pub. L. 104–132][/us/pl/104/132], Apr. 24, 1996, [110 Stat. 1214][/us/stat/110/1214]\].”
+> “Subsection (h) of section 351A of the Public Health Service Act \[[42 U.S.C. 262a(h)][/us/usc/t42/s262a/h]\], as added by section 201 of this Act, is deemed to have taken effect on the effective date of the Antiterrorism and Effective Death Penalty Act of 1996 \[[Pub. L. 104–132][/us/pl/104/132], Apr. 24, 1996, [110 Stat. 1214][/us/stat/110/1214]\].”
 
  __Regulations__ 
 
 [Pub. L. 107–188, title II, § 203(a)][/us/pl/107/188/s203/a], June 12, 2002, [116 Stat. 647][/us/stat/116/647], provided that: 
 
-> “Regulations promulgated by the Secretary of Health and Human Services under section 511 of the Antiterrorism and Effective Death Penalty Act of 1996 \[[Pub. L. 104–132][/us/pl/104/132], set out as a note under [section 262 of this title][/us/usc/t42/s262]\] are deemed to have been promulgated under section 351A of the Public Health Service Act \[this section\], as added by section 201 of this Act. Such regulations, including the list under \[former\] subsection (d)(1) of such section 511, that were in effect on the day before the date of the enactment of this Act \[June 12, 2002\] remain in effect until modified by the Secretary in accordance with such section 351A and with section 202 of this Act \[set out as a note below\].”
+> “Regulations promulgated by the Secretary of Health and Human Services under section 511 of the Antiterrorism and Effective Death Penalty Act of 1996 \[[Pub. L. 104–132][/us/pl/104/132], [42 U.S.C. 262][/us/usc/t42/s262] note\] are deemed to have been promulgated under section 351A of the Public Health Service Act \[[42 U.S.C. 262a][/us/usc/t42/s262a]\], as added by section 201 of this Act. Such regulations, including the list under \[former\] subsection (d)(1) of such section 511, that were in effect on the day before the date of the enactment of this Act \[June 12, 2002\] remain in effect until modified by the Secretary in accordance with such section 351A and with section 202 of this Act \[set out as a note below\].”
 
  __National Science Advisory Board for Biosecurity__ 
 
@@ -393,19 +393,19 @@
 
 >     “(a) __Date Certain for Notice of Possession.—__ 
 
->     Not later than 90 days after the date of the enactment of this Act \[June 12, 2002\], all persons (unless exempt under subsection (g) of section 351A of the Public Health Service Act \[subsec. (g) of this section\], as added by section 201 of this Act) in possession of biological agents or toxins listed under such section 351A of the Public Health Service Act \[this section\] shall notify the Secretary of Health and Human Services of such possession. Not later than 30 days after such date of enactment, the Secretary shall provide written guidance on how such notice is to be provided to the Secretary.
+>     Not later than 90 days after the date of the enactment of this Act \[June 12, 2002\], all persons (unless exempt under subsection (g) of section 351A of the Public Health Service Act \[[42 U.S.C. 262a(g)][/us/usc/t42/s262a/g]\], as added by section 201 of this Act) in possession of biological agents or toxins listed under such section 351A of the Public Health Service Act \[[42 U.S.C. 262a][/us/usc/t42/s262a]\] shall notify the Secretary of Health and Human Services of such possession. Not later than 30 days after such date of enactment, the Secretary shall provide written guidance on how such notice is to be provided to the Secretary.
 
 >     “(b) __Date Certain for Promulgation; Effective Date Regarding Criminal and Civil Penalties.—__ 
 
->     Not later than 180 days after the date of the enactment of this Act \[June 12, 2002\], the Secretary of Health and Human Services shall promulgate an interim final rule for carrying out section 351A of the Public Health Service Act \[this section\], subject to subsection (c). Such interim final rule shall take effect 60 days after the date on which such rule is promulgated, including for purposes of—
+>     Not later than 180 days after the date of the enactment of this Act \[June 12, 2002\], the Secretary of Health and Human Services shall promulgate an interim final rule for carrying out section 351A of the Public Health Service Act \[[42 U.S.C. 262a][/us/usc/t42/s262a]\], subject to subsection (c). Such interim final rule shall take effect 60 days after the date on which such rule is promulgated, including for purposes of—
 
 >         “(1) [section 175b(c) of title 18][/us/usc/t18/s175b/c], United States Code (relating to criminal penalties), as added by section 231(a)(5) of this Act; and
 
->         “(2) section 351A(i) of the Public Health Service Act \[subsec. (i) of this section\] (relating to civil penalties).
+>         “(2) section 351A(i) of the Public Health Service Act \[[42 U.S.C. 262a(i)][/us/usc/t42/s262a/i]\] (relating to civil penalties).
 
 >     “(c) __Transitional Provision Regarding Current Research and Education.—__ 
 
->     The interim final rule under subsection (b) shall include time frames for the applicability of the rule that minimize disruption of research or educational projects that involve biological agents and toxins listed pursuant to section 351A(a)(1) of the Public Health Service Act \[subsec. (a)(1) of this section\] and that were underway as of the effective date of such rule.”
+>     The interim final rule under subsection (b) shall include time frames for the applicability of the rule that minimize disruption of research or educational projects that involve biological agents and toxins listed pursuant to section 351A(a)(1) of the Public Health Service Act \[[42 U.S.C. 262a(a)(1)][/us/usc/t42/s262a/a/1]\] and that were underway as of the effective date of such rule.”
 
  __Ex. Ord. No. 13546. Optimizing the Security of Biological Select Agents and Toxins in the United States__ 
 
@@ -586,19 +586,26 @@ Sec. 6. Coordination of Federal Oversight for BSAT Security. To ensure that the 
 [/us/usc/t6/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs101
 [/us/pl/107/188/s203/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2Fs203%2Fb
 [/us/stat/116/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F647
+[/us/usc/t42/s262a/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs262a%2Fh
 [/us/pl/104/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132
 [/us/stat/110/1214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1214
 [/us/pl/107/188/s203/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2Fs203%2Fa
 [/us/stat/116/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F647
 [/us/pl/104/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132
 [/us/usc/t42/s262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs262
+[/us/usc/t42/s262a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs262a
 [/us/pl/109/417/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417%2Fs205
 [/us/stat/120/2851]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2851
 [/us/pl/107/188/s201/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2Fs201%2Fb
 [/us/stat/116/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F646
 [/us/pl/107/188/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2Fs202
 [/us/stat/116/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F646
+[/us/usc/t42/s262a/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs262a%2Fg
+[/us/usc/t42/s262a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs262a
+[/us/usc/t42/s262a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs262a
 [/us/usc/t18/s175b/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs175b%2Fc
+[/us/usc/t42/s262a/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs262a%2Fi
+[/us/usc/t42/s262a/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs262a%2Fa%2F1
 [/us/usc/t5/s552a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552a
 
 

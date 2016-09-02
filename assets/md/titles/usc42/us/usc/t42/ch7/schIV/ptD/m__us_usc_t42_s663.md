@@ -119,7 +119,7 @@
 
 [Pub. L. 96–611, § 9(d)][/us/pl/96/611/s9/d], Dec. 28, 1980, [94 Stat. 3573][/us/stat/94/3573], provided that: 
 
-> “No agreement entered into under section 463 of the Social Security Act \[this section\] shall become effective before the date on which [section 1738A of title 28][/us/usc/t28/s1738A], United States Code (as added by this title \[probably should be “as added by section 8(a) of this Act”\]) becomes effective.”
+> “No agreement entered into under section 463 of the Social Security Act \[[42 U.S.C. 663][/us/usc/t42/s663]\] shall become effective before the date on which [section 1738A of title 28][/us/usc/t28/s1738A], United States Code (as added by this title \[probably should be “as added by section 8(a) of this Act”\]) becomes effective.”
 
 ----------
 
@@ -174,6 +174,7 @@
 [/us/stat/108/4461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4461
 [/us/pl/96/611/s9/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F611%2Fs9%2Fd
 [/us/stat/94/3573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3573
+[/us/usc/t42/s663]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs663
 [/us/usc/t28/s1738A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1738A
 
 

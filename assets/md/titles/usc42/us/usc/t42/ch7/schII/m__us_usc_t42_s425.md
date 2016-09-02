@@ -81,21 +81,21 @@
 
 >     “(C) __Sunset of 36-month rule.—__ 
 
->     Section 225(c)(7) of the Social Security Act \[subsec. (c)(7) of this section\] (added by subparagraph (A)) shall cease to be effective with respect to benefits for months after September 2004.
+>     Section 225(c)(7) of the Social Security Act \[[42 U.S.C. 425(c)(7)][/us/usc/t42/s425/c/7]\] (added by subparagraph (A)) shall cease to be effective with respect to benefits for months after September 2004.
 
 >     “(E) __Effective date.—__ 
 
 >         “(i) __In general.—__ 
 
->         Except as otherwise provided in this paragraph, the amendments made by this paragraph \[amending this section and sections 426 and 426–1 of this title\] shall apply with respect to benefits based on disability (as defined in section 225(c)(9) of the Social Security Act \[subsec. (c)(9) of this section\], added by this section) which are otherwise payable in months beginning after 180 days after the date of the enactment of this Act \[Aug. 15, 1994\]. The Secretary of Health and Human Services shall issue regulations necessary to carry out the amendments made by this paragraph not later than 180 days after the date of the enactment of this Act.
+>         Except as otherwise provided in this paragraph, the amendments made by this paragraph \[amending this section and sections 426 and 426–1 of this title\] shall apply with respect to benefits based on disability (as defined in section 225(c)(9) of the Social Security Act \[[42 U.S.C. 425(c)(9)][/us/usc/t42/s425/c/9]\], added by this section) which are otherwise payable in months beginning after 180 days after the date of the enactment of this Act \[Aug. 15, 1994\]. The Secretary of Health and Human Services shall issue regulations necessary to carry out the amendments made by this paragraph not later than 180 days after the date of the enactment of this Act.
 
 >         “(ii) __Referral and monitoring agencies.—__ 
 
->         Section 225(c)(5) of the Social Security Act \[subsec. (c)(5) of this section\] (added by this subsection) shall take effect 180 days after the date of the enactment of this Act.
+>         Section 225(c)(5) of the Social Security Act \[[42 U.S.C. 425(c)(5)][/us/usc/t42/s425/c/5]\] (added by this subsection) shall take effect 180 days after the date of the enactment of this Act.
 
 >         “(iii) __Termination after 36 months.—__ 
 
->         Section 225(c)(7) of the Social Security Act \[subsec. (c)(7) of this section\] (added by this subsection) shall apply with respect to benefits based on disability (as so defined) for months beginning after 180 days after the date of the enactment of this Act.”
+>         Section 225(c)(7) of the Social Security Act \[[42 U.S.C. 425(c)(7)][/us/usc/t42/s425/c/7]\] (added by this subsection) shall apply with respect to benefits based on disability (as so defined) for months beginning after 180 days after the date of the enactment of this Act.”
 
  __Effective Date of 1990 Amendment__ 
 
@@ -143,17 +143,17 @@
 
 >     “(i) __Treatment requirement.—__ 
 
->     Paragraphs (1) through (4) of section 225(c) of the Social Security Act \[subsec. (c)(1) to (4) of this section\] (added by this subsection) shall apply only with respect to benefits paid in months after the month in which such individual is notified by the Secretary in writing that alcoholism or drug addiction is a contributing factor material to the Secretary’s determination and that such individual is therefore required to comply with the provisions of section 225(c) of such Act.
+>     Paragraphs (1) through (4) of section 225(c) of the Social Security Act \[[42 U.S.C. 425(c)(1)][/us/usc/t42/s425/c/1] to (4)\] (added by this subsection) shall apply only with respect to benefits paid in months after the month in which such individual is notified by the Secretary in writing that alcoholism or drug addiction is a contributing factor material to the Secretary’s determination and that such individual is therefore required to comply with the provisions of section 225(c) of such Act.
 
 >     “(ii) __Termination after 36 months.—__ 
 
 >         “(I) __In general.—__ 
 
->         For purposes of section 225(c)(7) of the Social Security Act \[subsec. (c)(7) of this section\] (added by this subsection), the first month of entitlement beginning after 180 days after the date of the enactment of this Act \[Aug. 15, 1994\] shall be treated as the individual’s first month of entitlement to such benefits.
+>         For purposes of section 225(c)(7) of the Social Security Act \[[42 U.S.C. 425(c)(7)][/us/usc/t42/s425/c/7]\] (added by this subsection), the first month of entitlement beginning after 180 days after the date of the enactment of this Act \[Aug. 15, 1994\] shall be treated as the individual’s first month of entitlement to such benefits.
 
 >         “(II) __Concurrent beneficiaries currently under treatment.—__ 
 
->         In any case in which the individual is also entitled to benefits under title XVI \[subchapter XVI of this chapter\] and, as of 180 days after the date of the enactment of this Act, such individual is undergoing treatment required under section 1611(e)(3) of the Social Security Act \[[section 1382(e)(3) of this title][/us/usc/t42/s1382/e/3]\] (as in effect immediately before the date of the enactment of this Act), the Secretary of Health and Human Services shall notify such individual of the provisions of section 225(c)(7) of the Social Security Act (added by this subsection) not later than 180 days after the date of the enactment of this Act.
+>         In any case in which the individual is also entitled to benefits under title XVI \[[42 U.S.C. 1381][/us/usc/t42/s1381] et seq.\] and, as of 180 days after the date of the enactment of this Act, such individual is undergoing treatment required under section 1611(e)(3) of the Social Security Act \[[42 U.S.C. 1382(e)(3)][/us/usc/t42/s1382/e/3]\] (as in effect immediately before the date of the enactment of this Act), the Secretary of Health and Human Services shall notify such individual of the provisions of section 225(c)(7) of the Social Security Act (added by this subsection) not later than 180 days after the date of the enactment of this Act.
 
 >         “(III) __Concurrent beneficiaries not currently under treatment.—__ 
 
@@ -245,6 +245,10 @@
 [/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
 [/us/pl/103/296/s201/a/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs201%2Fa%2F3%2FC
 [/us/stat/108/1497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1497
+[/us/usc/t42/s425/c/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs425%2Fc%2F7
+[/us/usc/t42/s425/c/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs425%2Fc%2F9
+[/us/usc/t42/s425/c/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs425%2Fc%2F5
+[/us/usc/t42/s425/c/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs425%2Fc%2F7
 [/us/pl/101/508/s5113/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs5113%2Fc
 [/us/stat/104/1388-273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-273
 [/us/usc/t42/s1383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1383
@@ -275,6 +279,9 @@
 [/us/stat/111/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F625
 [/us/pl/103/296/s201/a/3/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs201%2Fa%2F3%2FF
 [/us/stat/108/1498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1498
+[/us/usc/t42/s425/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs425%2Fc%2F1
+[/us/usc/t42/s425/c/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs425%2Fc%2F7
+[/us/usc/t42/s1381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1381
 [/us/usc/t42/s1382/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1382%2Fe%2F3
 [/us/pl/103/296/s201/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs201%2Fc
 [/us/stat/108/1506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1506

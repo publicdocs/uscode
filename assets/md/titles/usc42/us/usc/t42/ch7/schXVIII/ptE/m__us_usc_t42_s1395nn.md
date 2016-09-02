@@ -789,17 +789,17 @@
 
 >     With respect to referrals made for clinical laboratory services on or before December 31, 1994—
 
->         “(A) the second sentence of subsection (a)(2), and subsections (b)(2)(B) and (d)(2), of section 1877 of the Social Security Act \[subsecs. (a)(2), (b)(2)(B), and (d)(2) of this section\] (as in effect on the day before the date of the enactment of this Act \[Aug. 10, 1993\]) shall apply instead of the corresponding provisions in section 1877 (as amended by this Act);
+>         “(A) the second sentence of subsection (a)(2), and subsections (b)(2)(B) and (d)(2), of section 1877 of the Social Security Act \[[42 U.S.C. 1395nn(a)(2)][/us/usc/t42/s1395nn/a/2], (b)(2)(B), (d)(2)\] (as in effect on the day before the date of the enactment of this Act \[Aug. 10, 1993\]) shall apply instead of the corresponding provisions in section 1877 (as amended by this Act);
 
->         “(B) section 1877(b)(4) of the Social Security Act \[subsec. (b)(4) of this section\] (as in effect on the day before the date of the enactment of this Act) shall apply;
+>         “(B) section 1877(b)(4) of the Social Security Act \[[42 U.S.C. 1395nn(b)(4)][/us/usc/t42/s1395nn/b/4]\] (as in effect on the day before the date of the enactment of this Act) shall apply;
 
->         “(C) the requirements of section 1877(c)(2) of the Social Security Act \[subsec. (c)(2) of this section\] (as amended by this Act) shall not apply to any securities of a corporation that meets the requirements of section 1877(c)(2) of the Social Security Act (as in effect on the day before the date of the enactment of this Act);
+>         “(C) the requirements of section 1877(c)(2) of the Social Security Act \[[42 U.S.C. 1395nn(c)(2)][/us/usc/t42/s1395nn/c/2]\] (as amended by this Act) shall not apply to any securities of a corporation that meets the requirements of section 1877(c)(2) of the Social Security Act (as in effect on the day before the date of the enactment of this Act);
 
->         “(D) section 1877(e)(3) of the Social Security Act \[subsec. (e)(3) of this section\] (as amended by this Act) shall apply, except that it shall not apply to any arrangement that meets the requirements of subsection (e)(2) or subsection (e)(3) of section 1877 of the Social Security Act (as in effect on the day before the date of the enactment of this Act);
+>         “(D) section 1877(e)(3) of the Social Security Act \[[42 U.S.C. 1395nn(e)(3)][/us/usc/t42/s1395nn/e/3]\] (as amended by this Act) shall apply, except that it shall not apply to any arrangement that meets the requirements of subsection (e)(2) or subsection (e)(3) of section 1877 of the Social Security Act (as in effect on the day before the date of the enactment of this Act);
 
->         “(E) the requirements of clauses (iv) and (v) of section 1877(h)(4)(A), and of clause (i) of section 1877(h)(4)(B), of the Social Security Act \[subsec. (h)(4)(A)(iv), (v), (B)(i) of this section\] (as amended by this Act) shall not apply; and
+>         “(E) the requirements of clauses (iv) and (v) of section 1877(h)(4)(A), and of clause (i) of section 1877(h)(4)(B), of the Social Security Act \[[42 U.S.C. 1395nn(h)(4)(A)(iv)][/us/usc/t42/s1395nn/h/4/A/iv], (v), (B)(i)\] (as amended by this Act) shall not apply; and
 
->         “(F) section 1877(h)(4)(B) of the Social Security Act \[subsec. (h)(4)(B) of this section\] (as in effect on the day before the date of the enactment of this Act) shall apply instead of section 1877(h)(4)(A)(ii) of such Act (as amended by this Act).”
+>         “(F) section 1877(h)(4)(B) of the Social Security Act \[[42 U.S.C. 1395nn(h)(4)(B)][/us/usc/t42/s1395nn/h/4/B]\] (as in effect on the day before the date of the enactment of this Act) shall apply instead of section 1877(h)(4)(A)(ii) of such Act (as amended by this Act).”
 
 \[[Pub. L. 103–432, title I, § 152(d)(2)][/us/pl/103/432/s152/d/2], Oct. 31, 1994, [108 Stat. 4437][/us/stat/108/4437], provided that: 
 
@@ -819,13 +819,13 @@
 
 >     “(1) Except as provided in paragraph (2), the amendments made by this section \[enacting this section and amending section 1395l of this title\] shall become effective with respect to referrals made on or after January 1, 1992.
 
->     “(2) The reporting requirement of section 1877(f) of the Social Security Act \[subsec. (f) of this section\] shall take effect on October 1, 1990.”
+>     “(2) The reporting requirement of section 1877(f) of the Social Security Act \[[42 U.S.C. 1395nn(f)][/us/usc/t42/s1395nn/f]\] shall take effect on October 1, 1990.”
 
  __Deadline for Certain Regulations__ 
 
 [Pub. L. 101–239, title VI, § 6204(d)][/us/pl/101/239/s6204/d], Dec. 19, 1989, [103 Stat. 2242][/us/stat/103/2242], as amended by [Pub. L. 101–508, title IV, § 4207(e)(4)(B)][/us/pl/101/508/s4207/e/4/B], formerly § 4027(e)(4)(B), Nov. 5, 1990, [104 Stat. 1388–122][/us/stat/104/1388-122], renumbered [Pub. L. 103–432, title I, § 160(d)(4)][/us/pl/103/432/s160/d/4], Oct. 31, 1994, [108 Stat. 4444][/us/stat/108/4444], provided that: 
 
-> “The Secretary of Health and Human Services shall publish final regulations to carry out section 1877 of the Social Security Act \[this section\] by not later than October 1, 1991.”
+> “The Secretary of Health and Human Services shall publish final regulations to carry out section 1877 of the Social Security Act \[[42 U.S.C. 1395nn][/us/usc/t42/s1395nn]\] by not later than October 1, 1991.”
 
  __Enforcement__ 
 
@@ -889,7 +889,7 @@
 
 [Pub. L. 108–173, title V, § 507(b)][/us/pl/108/173/s507/b], Dec. 8, 2003, [117 Stat. 2296][/us/stat/117/2296], provided that: 
 
-> “For purposes of section 1877(h)(7)(B)(i)(II) of the Social Security Act \[subsec. (h)(7)(B)(i)(II) of this section\], as added by subsection (a)(1)(B), in determining whether a hospital is under development as of November 18, 2003, the Secretary \[of Health and Human Services\] shall consider—
+> “For purposes of section 1877(h)(7)(B)(i)(II) of the Social Security Act \[[42 U.S.C. 1395nn(h)(7)(B)(i)(II)][/us/usc/t42/s1395nn/h/7/B/i/II]\], as added by subsection (a)(1)(B), in determining whether a hospital is under development as of November 18, 2003, the Secretary \[of Health and Human Services\] shall consider—
 
 >     “(1) whether architectural plans have been completed, funding has been received, zoning requirements have been met, and necessary approvals from appropriate State agencies have been received; and
 
@@ -1072,6 +1072,12 @@
 [/us/stat/107/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F604
 [/us/pl/103/432/s152/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432%2Fs152%2Fc
 [/us/stat/108/4437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4437
+[/us/usc/t42/s1395nn/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395nn%2Fa%2F2
+[/us/usc/t42/s1395nn/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395nn%2Fb%2F4
+[/us/usc/t42/s1395nn/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395nn%2Fc%2F2
+[/us/usc/t42/s1395nn/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395nn%2Fe%2F3
+[/us/usc/t42/s1395nn/h/4/A/iv]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395nn%2Fh%2F4%2FA%2Fiv
+[/us/usc/t42/s1395nn/h/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395nn%2Fh%2F4%2FB
 [/us/pl/103/432/s152/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432%2Fs152%2Fd%2F2
 [/us/stat/108/4437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4437
 [/us/pl/103/66/s13562/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13562%2Fb
@@ -1083,12 +1089,14 @@
 [/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
 [/us/pl/101/239/s6204/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs6204%2Fc
 [/us/stat/103/2242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2242
+[/us/usc/t42/s1395nn/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395nn%2Ff
 [/us/pl/101/239/s6204/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs6204%2Fd
 [/us/stat/103/2242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2242
 [/us/pl/101/508/s4207/e/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs4207%2Fe%2F4%2FB
 [/us/stat/104/1388-122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-122
 [/us/pl/103/432/s160/d/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432%2Fs160%2Fd%2F4
 [/us/stat/108/4444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4444
+[/us/usc/t42/s1395nn]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395nn
 [/us/pl/111/148/s6001/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs6001%2Fb
 [/us/stat/124/689]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F689
 [/us/pl/111/148/s10601/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10601%2Fb
@@ -1101,6 +1109,7 @@
 [/us/usc/t42/s1395nn]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395nn
 [/us/pl/108/173/s507/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs507%2Fb
 [/us/stat/117/2296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2296
+[/us/usc/t42/s1395nn/h/7/B/i/II]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395nn%2Fh%2F7%2FB%2Fi%2FII
 [/us/pl/108/173/s507/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs507%2Fc
 [/us/stat/117/2296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2296
 [/us/pl/101/239/s6204/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs6204%2Fe

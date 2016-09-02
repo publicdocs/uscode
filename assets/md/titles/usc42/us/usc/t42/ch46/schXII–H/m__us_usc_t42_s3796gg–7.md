@@ -77,10 +77,6 @@
 
 ([Pub. L. 106–386, div. B, title IV, § 1402][/us/pl/106/386/s1402], Oct. 28, 2000, [114 Stat. 1513][/us/stat/114/1513]; [Pub. L. 109–162, title II, § 204(a)][/us/pl/109/162/s204/a], Jan. 5, 2006, [119 Stat. 3000][/us/stat/119/3000]; [Pub. L. 113–4, title II, § 203][/us/pl/113/4/s203], Mar. 7, 2013, [127 Stat. 82][/us/stat/127/82].)
 
- __Amendment of Section__ 
-
-For effective date of amendment by [Pub. L. 113–4][/us/pl/113/4], see Effective Date of 2013 Amendment note below.
-
  __References in Text__ 
 
     The Americans with Disabilities Act of 1990, referred to in subsec. (b)(5)(A), is [Pub. L. 101–336][/us/pl/101/336], July 26, 1990, [104 Stat. 327][/us/stat/104/327], as amended, which is classified principally to chapter 126 (§ 12101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 12101 of this title][/us/usc/t42/s12101] and Tables.
@@ -133,7 +129,6 @@ For effective date of amendment by [Pub. L. 113–4][/us/pl/113/4], see Effectiv
 [/us/stat/119/3000]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3000
 [/us/pl/113/4/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs203
 [/us/stat/127/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F82
-[/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
 [/us/pl/101/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F336
 [/us/stat/104/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F327
 [/us/usc/t42/s12101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12101

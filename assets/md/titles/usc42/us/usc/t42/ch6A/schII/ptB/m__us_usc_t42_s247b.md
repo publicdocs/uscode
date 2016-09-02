@@ -329,7 +329,7 @@
 
 [Pub. L. 92–449, title I, § 102][/us/pl/92/449/s102], Sept. 30, 1972, [86 Stat. 750][/us/stat/86/750], provided that: 
 
-> “The amendment made by [section 101 of this title][/us/usc/t42/s101] \[amending this section\] shall apply to grants made under section 317 of the Public Health Service Act \[this section\] after June 30, 1972, except that subsection (d) of such section as amended by section 101 \[subsec. (d) of this section\] shall take effect on the date of enactment of this Act \[Sept. 30, 1972\].”
+> “The amendment made by [section 101 of this title][/us/usc/t42/s101] \[amending this section\] shall apply to grants made under section 317 of the Public Health Service Act \[[42 U.S.C. 247b][/us/usc/t42/s247b]\] after June 30, 1972, except that subsection (d) of such section as amended by section 101 shall take effect on the date of enactment of this Act \[Sept. 30, 1972\].”
 
  __Rule of Construction Regarding Access to Immunizations__ 
 
@@ -479,6 +479,7 @@
 [/us/pl/92/449/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F449%2Fs102
 [/us/stat/86/750]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F750
 [/us/usc/t42/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs101
+[/us/usc/t42/s247b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs247b
 [/us/pl/111/148/s4204/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs4204%2Fd
 [/us/stat/124/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F572
 [/us/pl/94/420/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F420%2Fs3

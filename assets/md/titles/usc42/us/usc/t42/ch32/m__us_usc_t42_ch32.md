@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 2651.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2651" data-uslm-ref="/us/usc/t42/s2651">2651.</a>  </td>
 
     <td> Recovery by United States.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 2652.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2652" data-uslm-ref="/us/usc/t42/s2652">2652.</a>  </td>
 
     <td> Regulations.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 2653.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2653" data-uslm-ref="/us/usc/t42/s2653">2653.</a>  </td>
 
     <td> Limitation or repeal of other provisions for recovery of hospital and medical care costs.  </td>
 

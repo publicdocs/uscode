@@ -197,9 +197,9 @@
 
     “(1) In general.—Notwithstanding any other provision of law, the payments described in paragraph (2) shall not be considered income or resources in determining eligibility for, or the amount of—
 
-    “(A) medical assistance under title XIX of the Social Security Act \[section 1396 et seq. of this title\]; or
+    “(A) medical assistance under title XIX of the Social Security Act \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\]; or
 
-    “(B) supplemental security income benefits under title XVI of the Social Security Act \[section 1381 et seq. of this title\].
+    “(B) supplemental security income benefits under title XVI of the Social Security Act \[[42 U.S.C. 1381][/us/usc/t42/s1381] et seq.\].
 
     “(2) Private payments described.—The payments described in this subsection are—
 
@@ -217,7 +217,7 @@
 
     “(b) Government Payments.—
 
-    “(1) In general.—Notwithstanding any other provision of law, the payments described in paragraph (2) shall not be considered income or resources in determining eligibility for, or the amount of supplemental security income benefits under title XVI of the Social Security Act \[section 1381 et seq. of this title\].
+    “(1) In general.—Notwithstanding any other provision of law, the payments described in paragraph (2) shall not be considered income or resources in determining eligibility for, or the amount of supplemental security income benefits under title XVI of the Social Security Act \[[42 U.S.C. 1381][/us/usc/t42/s1381] et seq.\].
 
     “(2) Government payments described.—The payments described in this subsection are payments made from the Fund established pursuant to section 101 of this Act.”
 
@@ -253,5 +253,8 @@
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
 [/us/usc/t31/s9702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs9702
 [/us/usc/t31/s3803/c/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3803%2Fc%2F2%2FC
+[/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
+[/us/usc/t42/s1381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1381
+[/us/usc/t42/s1381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1381
 
 

@@ -387,7 +387,7 @@
 
             (A) in meeting the security countermeasure needs identified under this section; and
 
-            (B) on the annual Public Health Emergency Medical Countermeasures Enterprise and Strategy  <sup>\[2\]</sup>  <sup><sup> 2 So in original. Probably should be “Enterprise Strategy and”. </sup></sup>  Implementation Plan (pursuant to [section 300hh–10(d) of this title][/us/usc/t42/s300hh–10/d]).
+            (B) on the annual Public Health Emergency Medical Countermeasures Enterprise and Strategy  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “Enterprise Strategy and”. </sup></sup>  Implementation Plan (pursuant to [section 300hh–10(d) of this title][/us/usc/t42/s300hh–10/d]).
 
     (h) __Definitions__ 
 
@@ -527,7 +527,7 @@
 
 >     “(a) __In General.—__ 
 
->     Through the national stockpile under section 121 \[now section 319F–2 of act July 1, 1944, this section\], the President, subject to subsections (b) and (c), shall make available to State and local governments potassium iodide tablets for stockpiling and for distribution as appropriate to public facilities, such as schools and hospitals, in quantities sufficient to provide adequate protection for the population within 20 miles of a nuclear power plant.
+>     Through the national stockpile under section 121 \[now section 319F–2 of act July 1, 1944, [42 U.S.C. 247d–6b][/us/usc/t42/s247d–6b]\], the President, subject to subsections (b) and (c), shall make available to State and local governments potassium iodide tablets for stockpiling and for distribution as appropriate to public facilities, such as schools and hospitals, in quantities sufficient to provide adequate protection for the population within 20 miles of a nuclear power plant.
 
 >     “(b) __State and Local Plans.—__ 
 
@@ -752,6 +752,7 @@
 [/us/stat/117/1148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1148
 [/us/pl/107/188/s127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2Fs127
 [/us/stat/116/615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F615
+[/us/usc/t42/s247d–6b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs247d%E2%80%936b
 [/us/usc/t3/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs301
 [/us/usc/t42/s6613/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6613%2Fb
 [/us/pl/107/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188

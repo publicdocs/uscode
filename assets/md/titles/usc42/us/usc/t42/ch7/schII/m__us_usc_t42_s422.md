@@ -193,7 +193,7 @@
 
 [Pub. L. 98–460, § 11(c)][/us/pl/98/460/s11/c], Oct. 9, 1984, [98 Stat. 1806][/us/stat/98/1806], provided that: 
 
-> “The amendments made by this section \[amending this section and [section 1382d of this title][/us/usc/t42/s1382d]\] shall apply with respect to individuals who receive benefits as a result of section 225(b) or section 1631(a)(6) of the Social Security Act \[section 425(b) or 1383(a)(6) of this title\], or who refuse to continue to accept rehabilitation services or fail to cooperate in an approved vocational rehabilitation program, in or after the first month following the month in which this Act is enacted \[October 1984\].”
+> “The amendments made by this section \[amending this section and [section 1382d of this title][/us/usc/t42/s1382d]\] shall apply with respect to individuals who receive benefits as a result of section 225(b) or section 1631(a)(6) of the Social Security Act \[[42 U.S.C. 425(b)][/us/usc/t42/s425/b] or 1383(a)(6)\], or who refuse to continue to accept rehabilitation services or fail to cooperate in an approved vocational rehabilitation program, in or after the first month following the month in which this Act is enacted \[October 1984\].”
 
     Amendment by [Pub. L. 98–369][/us/pl/98/369] effective July 18, 1984, but not to be construed as changing or affecting any right, liability, status, or interpretation which existed (under the provisions of law involved) before that date, see [section 2664(b) of Pub. L. 98–369][/us/pl/98/369/s2664/b], set out as a note under [section 401 of this title][/us/usc/t42/s401].
 
@@ -231,9 +231,9 @@
 
 >     “(1) The amendment made by subsection (a) \[amending this section\] shall be effective only with respect to months beginning after the month in which this Act is enacted \[September 1960\].
 
->     “(2) The amendments made by subsections (b) and (d) \[amending sections 423 and 402 of this title\] shall apply only with respect to benefits under section 223(a) or 202(d) of the Social Security Act \[section 423(a) or 402(d) of this title\] for months after the month in which this Act is enacted in the case of individuals who, without regard to such amendments, would have been entitled to such benefits for the month in which this Act is enacted or for any succeeding month.
+>     “(2) The amendments made by subsections (b) and (d) \[amending sections 423 and 402 of this title\] shall apply only with respect to benefits under section 223(a) or 202(d) of the Social Security Act \[[42 U.S.C. 423(a)][/us/usc/t42/s423/a] or 402(d)\] for months after the month in which this Act is enacted in the case of individuals who, without regard to such amendments, would have been entitled to such benefits for the month in which this Act is enacted or for any succeeding month.
 
->     “(3) The amendment made by subsection (c) \[amending [section 416 of this title][/us/usc/t42/s416]\] shall apply only in the case of individuals who have a period of disability (as defined in section 216(i) of the Social Security Act \[[section 416(i) of this title][/us/usc/t42/s416/i]\]) beginning on or after the date of the enactment of this Act \[Sept. 13, 1960\], or beginning before such date and continuing, without regard to such amendment, beyond the end of the month in which this Act is enacted.”
+>     “(3) The amendment made by subsection (c) \[amending [section 416 of this title][/us/usc/t42/s416]\] shall apply only in the case of individuals who have a period of disability (as defined in section 216(i) of the Social Security Act \[[42 U.S.C. 416(i)][/us/usc/t42/s416/i]\]) beginning on or after the date of the enactment of this Act \[Sept. 13, 1960\], or beginning before such date and continuing, without regard to such amendment, beyond the end of the month in which this Act is enacted.”
 
  __Effective Date of 1958 Amendment__ 
 
@@ -241,7 +241,7 @@
 
 [Pub. L. 85–840, title III, § 307(h)(3)][/us/pl/85/840/s307/h/3], Aug. 28, 1958, [72 Stat. 1033][/us/stat/72/1033], provided that: 
 
-> “The amendments made by subsection (g) \[amending this section\] shall apply with respect to monthly benefits under section 202 of the Social Security Act \[[section 402 of this title][/us/usc/t42/s402]\] for months, occurring after the month in which this Act is enacted \[August 1958\], in which a deduction is incurred under paragraph (1) of section 222(b) of the Social Security Act \[subsec. (b)(1) of this section\].”
+> “The amendments made by subsection (g) \[amending this section\] shall apply with respect to monthly benefits under section 202 of the Social Security Act \[[42 U.S.C. 402][/us/usc/t42/s402]\] for months, occurring after the month in which this Act is enacted \[August 1958\], in which a deduction is incurred under paragraph (1) of section 222(b) of the Social Security Act \[[42 U.S.C. 422(b)(1)][/us/usc/t42/s422/b/1]\].”
 
 ----------
 
@@ -366,6 +366,7 @@
 [/us/pl/98/460/s11/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F460%2Fs11%2Fc
 [/us/stat/98/1806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1806
 [/us/usc/t42/s1382d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1382d
+[/us/usc/t42/s425/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs425%2Fb
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
 [/us/pl/98/369/s2664/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2664%2Fb
 [/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
@@ -394,6 +395,7 @@
 [/us/usc/t42/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs402
 [/us/pl/86/778/s403/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F778%2Fs403%2Fe
 [/us/stat/74/969]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F969
+[/us/usc/t42/s423/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs423%2Fa
 [/us/usc/t42/s416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs416
 [/us/usc/t42/s416/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs416%2Fi
 [/us/pl/85/840/s205/n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F840%2Fs205%2Fn
@@ -402,5 +404,6 @@
 [/us/pl/85/840/s307/h/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F840%2Fs307%2Fh%2F3
 [/us/stat/72/1033]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1033
 [/us/usc/t42/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs402
+[/us/usc/t42/s422/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs422%2Fb%2F1
 
 

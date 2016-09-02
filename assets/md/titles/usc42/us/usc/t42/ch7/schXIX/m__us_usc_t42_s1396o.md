@@ -257,7 +257,7 @@
 
 >     “(1) Except as provided in paragraph (2), the amendments made by this section \[enacting this section and amending [section 1396a of this title][/us/usc/t42/s1396a]\] shall become effective on October 1, 1982.
 
->     “(2) In the case of a State plan for medical assistance under title XIX of the Social Security Act \[this subchapter\] which the Secretary of Health and Human Services determines requires State legislation in order for the plan to meet the additional requirements imposed by the amendments made by this section, the State plan shall not be regarded as failing to comply with the requirements of such title solely on the basis of its failure to meet these additional requirements before the first day of the first calendar quarter beginning after the close of the first regular session of the State legislature that begins after the date of the enactment of this Act \[Sept. 3, 1982\].”
+>     “(2) In the case of a State plan for medical assistance under title XIX of the Social Security Act \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\] which the Secretary of Health and Human Services determines requires State legislation in order for the plan to meet the additional requirements imposed by the amendments made by this section, the State plan shall not be regarded as failing to comply with the requirements of such title solely on the basis of its failure to meet these additional requirements before the first day of the first calendar quarter beginning after the close of the first regular session of the State legislature that begins after the date of the enactment of this Act \[Sept. 3, 1982\].”
 
 ----------
 
@@ -392,5 +392,6 @@
 [/us/pl/97/448/s309/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F448%2Fs309%2Fa%2F8
 [/us/stat/96/2408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2408
 [/us/usc/t42/s1396a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396a
+[/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
 
 

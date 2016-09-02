@@ -37,7 +37,7 @@
 
 [Pub. L. 94–202, § 8(c)][/us/pl/94/202/s8/c], Jan. 2, 1976, [89 Stat. 1137][/us/stat/89/1137], provided that: 
 
-> “Section 232 of the Social Security Act \[this section\], as added by subsection (b) of this section, shall be effective with respect to statements reporting income received after 1977.”
+> “Section 232 of the Social Security Act \[[42 U.S.C. 432][/us/usc/t42/s432]\], as added by subsection (b) of this section, shall be effective with respect to statements reporting income received after 1977.”
 
 ----------
 
@@ -58,5 +58,6 @@
 [/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
 [/us/pl/94/202/s8/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F202%2Fs8%2Fc
 [/us/stat/89/1137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F1137
+[/us/usc/t42/s432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs432
 
 

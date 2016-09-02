@@ -33,7 +33,7 @@ SUBCHAPTER I—PAYMENTS TO STATES FOR ELECTION ADMINISTRATION IMPROVEMENTS AND R
 
   <tr>
 
-    <td> 15301.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs15301" data-uslm-ref="/us/usc/t42/s15301">15301.</a>  </td>
 
     <td> Payments to States for activities to improve administration of elections.  </td>
 
@@ -41,7 +41,7 @@ SUBCHAPTER I—PAYMENTS TO STATES FOR ELECTION ADMINISTRATION IMPROVEMENTS AND R
 
   <tr>
 
-    <td> 15302.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs15302" data-uslm-ref="/us/usc/t42/s15302">15302.</a>  </td>
 
     <td> Replacement of punch card or lever voting machines.  </td>
 
@@ -49,7 +49,7 @@ SUBCHAPTER I—PAYMENTS TO STATES FOR ELECTION ADMINISTRATION IMPROVEMENTS AND R
 
   <tr>
 
-    <td> 15303.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs15303" data-uslm-ref="/us/usc/t42/s15303">15303.</a>  </td>
 
     <td> Guaranteed minimum payment amount.  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER I—PAYMENTS TO STATES FOR ELECTION ADMINISTRATION IMPROVEMENTS AND R
 
   <tr>
 
-    <td> 15304.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs15304" data-uslm-ref="/us/usc/t42/s15304">15304.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 
@@ -65,7 +65,7 @@ SUBCHAPTER I—PAYMENTS TO STATES FOR ELECTION ADMINISTRATION IMPROVEMENTS AND R
 
   <tr>
 
-    <td> 15305.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs15305" data-uslm-ref="/us/usc/t42/s15305">15305.</a>  </td>
 
     <td> Administration of programs.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER I—PAYMENTS TO STATES FOR ELECTION ADMINISTRATION IMPROVEMENTS AND R
 
   <tr>
 
-    <td> 15306.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs15306" data-uslm-ref="/us/usc/t42/s15306">15306.</a>  </td>
 
     <td> Effective date.  </td>
 
@@ -105,7 +105,7 @@ subpart 1—election assistance commission  </td>
 
   <tr>
 
-    <td> 15321.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs15321" data-uslm-ref="/us/usc/t42/s15321">15321.</a>  </td>
 
     <td> Establishment.  </td>
 
@@ -113,7 +113,7 @@ subpart 1—election assistance commission  </td>
 
   <tr>
 
-    <td> 15322.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs15322" data-uslm-ref="/us/usc/t42/s15322">15322.</a>  </td>
 
     <td> Duties.  </td>
 
@@ -121,7 +121,7 @@ subpart 1—election assistance commission  </td>
 
   <tr>
 
-    <td> 15323.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs15323" data-uslm-ref="/us/usc/t42/s15323">15323.</a>  </td>
 
     <td> Membership and appointment.  </td>
 
@@ -129,7 +129,7 @@ subpart 1—election assistance commission  </td>
 
   <tr>
 
-    <td> 15324.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs15324" data-uslm-ref="/us/usc/t42/s15324">15324.</a>  </td>
 
     <td> Staff.  </td>
 
@@ -137,7 +137,7 @@ subpart 1—election assistance commission  </td>
 
   <tr>
 
-    <td> 15325.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs15325" data-uslm-ref="/us/usc/t42/s15325">15325.</a>  </td>
 
     <td> Powers.  </td>
 
@@ -145,7 +145,7 @@ subpart 1—election assistance commission  </td>
 
   <tr>
 
-    <td> 15326.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs15326" data-uslm-ref="/us/usc/t42/s15326">15326.</a>  </td>
 
     <td> Dissemination of information.  </td>
 
@@ -153,7 +153,7 @@ subpart 1—election assistance commission  </td>
 
   <tr>
 
-    <td> 15327.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs15327" data-uslm-ref="/us/usc/t42/s15327">15327.</a>  </td>
 
     <td> Annual report.  </td>
 
@@ -161,7 +161,7 @@ subpart 1—election assistance commission  </td>
 
   <tr>
 
-    <td> 15328.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs15328" data-uslm-ref="/us/usc/t42/s15328">15328.</a>  </td>
 
     <td> Requiring majority approval for actions.  </td>
 
@@ -169,7 +169,7 @@ subpart 1—election assistance commission  </td>
 
   <tr>
 
-    <td> 15329.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs15329" data-uslm-ref="/us/usc/t42/s15329">15329.</a>  </td>
 
     <td> Limitation on rulemaking authority.  </td>
 
@@ -177,7 +177,7 @@ subpart 1—election assistance commission  </td>
 
   <tr>
 
-    <td> 15330.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs15330" data-uslm-ref="/us/usc/t42/s15330">15330.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 
@@ -193,7 +193,7 @@ subpart 2—election assistance commission standards board and board of advisors
 
   <tr>
 
-    <td> 15341.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs15341" data-uslm-ref="/us/usc/t42/s15341">15341.</a>  </td>
 
     <td> Establishment.  </td>
 
@@ -201,7 +201,7 @@ subpart 2—election assistance commission standards board and board of advisors
 
   <tr>
 
-    <td> 15342.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs15342" data-uslm-ref="/us/usc/t42/s15342">15342.</a>  </td>
 
     <td> Duties.  </td>
 
@@ -209,7 +209,7 @@ subpart 2—election assistance commission standards board and board of advisors
 
   <tr>
 
-    <td> 15343.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs15343" data-uslm-ref="/us/usc/t42/s15343">15343.</a>  </td>
 
     <td> Membership of Standards Board.  </td>
 
@@ -217,7 +217,7 @@ subpart 2—election assistance commission standards board and board of advisors
 
   <tr>
 
-    <td> 15344.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs15344" data-uslm-ref="/us/usc/t42/s15344">15344.</a>  </td>
 
     <td> Membership of Board of Advisors.  </td>
 
@@ -225,7 +225,7 @@ subpart 2—election assistance commission standards board and board of advisors
 
   <tr>
 
-    <td> 15345.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs15345" data-uslm-ref="/us/usc/t42/s15345">15345.</a>  </td>
 
     <td> Powers of Boards; no compensation for service.  </td>
 
@@ -233,7 +233,7 @@ subpart 2—election assistance commission standards board and board of advisors
 
   <tr>
 
-    <td> 15346.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs15346" data-uslm-ref="/us/usc/t42/s15346">15346.</a>  </td>
 
     <td> Status of Boards and members for purposes of claims against Board.  </td>
 
@@ -249,7 +249,7 @@ subpart 3—technical guidelines development committee  </td>
 
   <tr>
 
-    <td> 15361.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs15361" data-uslm-ref="/us/usc/t42/s15361">15361.</a>  </td>
 
     <td> Technical Guidelines Development Committee.  </td>
 
@@ -257,7 +257,7 @@ subpart 3—technical guidelines development committee  </td>
 
   <tr>
 
-    <td> 15362.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs15362" data-uslm-ref="/us/usc/t42/s15362">15362.</a>  </td>
 
     <td> Process for adoption.  </td>
 
@@ -273,7 +273,7 @@ Part B—Testing, Certification, Decertification, and Recertification of Voting 
 
   <tr>
 
-    <td> 15371.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs15371" data-uslm-ref="/us/usc/t42/s15371">15371.</a>  </td>
 
     <td> Certification and testing of voting systems.  </td>
 
@@ -289,7 +289,7 @@ Part C—Studies and Other Activities To Promote Effective Administration of Fed
 
   <tr>
 
-    <td> 15381.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs15381" data-uslm-ref="/us/usc/t42/s15381">15381.</a>  </td>
 
     <td> Periodic studies of election administration issues.  </td>
 
@@ -297,7 +297,7 @@ Part C—Studies and Other Activities To Promote Effective Administration of Fed
 
   <tr>
 
-    <td> 15382.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs15382" data-uslm-ref="/us/usc/t42/s15382">15382.</a>  </td>
 
     <td> Study, report, and recommendations on best practices for facilitating military and overseas voting.  </td>
 
@@ -305,7 +305,7 @@ Part C—Studies and Other Activities To Promote Effective Administration of Fed
 
   <tr>
 
-    <td> 15383.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs15383" data-uslm-ref="/us/usc/t42/s15383">15383.</a>  </td>
 
     <td> Report on human factor research.  </td>
 
@@ -313,7 +313,7 @@ Part C—Studies and Other Activities To Promote Effective Administration of Fed
 
   <tr>
 
-    <td> 15384.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs15384" data-uslm-ref="/us/usc/t42/s15384">15384.</a>  </td>
 
     <td> Study and report on voters who register by mail and use of Social Security information.  </td>
 
@@ -321,7 +321,7 @@ Part C—Studies and Other Activities To Promote Effective Administration of Fed
 
   <tr>
 
-    <td> 15385.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs15385" data-uslm-ref="/us/usc/t42/s15385">15385.</a>  </td>
 
     <td> Study and report on electronic voting and the electoral process.  </td>
 
@@ -329,7 +329,7 @@ Part C—Studies and Other Activities To Promote Effective Administration of Fed
 
   <tr>
 
-    <td> 15386.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs15386" data-uslm-ref="/us/usc/t42/s15386">15386.</a>  </td>
 
     <td> Study and report on free absentee ballot postage.  </td>
 
@@ -337,7 +337,7 @@ Part C—Studies and Other Activities To Promote Effective Administration of Fed
 
   <tr>
 
-    <td> 15387.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs15387" data-uslm-ref="/us/usc/t42/s15387">15387.</a>  </td>
 
     <td> Consultation with Standards Board and Board of Advisors.  </td>
 
@@ -361,7 +361,7 @@ subpart 1—requirements payments  </td>
 
   <tr>
 
-    <td> 15401.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs15401" data-uslm-ref="/us/usc/t42/s15401">15401.</a>  </td>
 
     <td> Requirements payments.  </td>
 
@@ -369,7 +369,7 @@ subpart 1—requirements payments  </td>
 
   <tr>
 
-    <td> 15402.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs15402" data-uslm-ref="/us/usc/t42/s15402">15402.</a>  </td>
 
     <td> Allocation of funds.  </td>
 
@@ -377,7 +377,7 @@ subpart 1—requirements payments  </td>
 
   <tr>
 
-    <td> 15403.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs15403" data-uslm-ref="/us/usc/t42/s15403">15403.</a>  </td>
 
     <td> Condition for receipt of funds.  </td>
 
@@ -385,7 +385,7 @@ subpart 1—requirements payments  </td>
 
   <tr>
 
-    <td> 15404.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs15404" data-uslm-ref="/us/usc/t42/s15404">15404.</a>  </td>
 
     <td> State plan.  </td>
 
@@ -393,7 +393,7 @@ subpart 1—requirements payments  </td>
 
   <tr>
 
-    <td> 15405.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs15405" data-uslm-ref="/us/usc/t42/s15405">15405.</a>  </td>
 
     <td> Process for development and filing of plan; publication by Commission.  </td>
 
@@ -401,7 +401,7 @@ subpart 1—requirements payments  </td>
 
   <tr>
 
-    <td> 15406.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs15406" data-uslm-ref="/us/usc/t42/s15406">15406.</a>  </td>
 
     <td> Requirement for public notice and comment.  </td>
 
@@ -409,7 +409,7 @@ subpart 1—requirements payments  </td>
 
   <tr>
 
-    <td> 15407.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs15407" data-uslm-ref="/us/usc/t42/s15407">15407.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 
@@ -417,7 +417,7 @@ subpart 1—requirements payments  </td>
 
   <tr>
 
-    <td> 15408.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs15408" data-uslm-ref="/us/usc/t42/s15408">15408.</a>  </td>
 
     <td> Reports.  </td>
 
@@ -433,7 +433,7 @@ subpart 2—payments to states and units of local government to assure access fo
 
   <tr>
 
-    <td> 15421.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs15421" data-uslm-ref="/us/usc/t42/s15421">15421.</a>  </td>
 
     <td> Payments to States and units of local government to assure access for individuals with disabilities.  </td>
 
@@ -441,7 +441,7 @@ subpart 2—payments to states and units of local government to assure access fo
 
   <tr>
 
-    <td> 15422.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs15422" data-uslm-ref="/us/usc/t42/s15422">15422.</a>  </td>
 
     <td> Amount of payment.  </td>
 
@@ -449,7 +449,7 @@ subpart 2—payments to states and units of local government to assure access fo
 
   <tr>
 
-    <td> 15423.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs15423" data-uslm-ref="/us/usc/t42/s15423">15423.</a>  </td>
 
     <td> Requirements for eligibility.  </td>
 
@@ -457,7 +457,7 @@ subpart 2—payments to states and units of local government to assure access fo
 
   <tr>
 
-    <td> 15424.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs15424" data-uslm-ref="/us/usc/t42/s15424">15424.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 
@@ -465,7 +465,7 @@ subpart 2—payments to states and units of local government to assure access fo
 
   <tr>
 
-    <td> 15425.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs15425" data-uslm-ref="/us/usc/t42/s15425">15425.</a>  </td>
 
     <td> Reports.  </td>
 
@@ -481,7 +481,7 @@ subpart 3—grants for research on voting technology improvements  </td>
 
   <tr>
 
-    <td> 15441.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs15441" data-uslm-ref="/us/usc/t42/s15441">15441.</a>  </td>
 
     <td> Grants for research on voting technology improvements.  </td>
 
@@ -489,7 +489,7 @@ subpart 3—grants for research on voting technology improvements  </td>
 
   <tr>
 
-    <td> 15442.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs15442" data-uslm-ref="/us/usc/t42/s15442">15442.</a>  </td>
 
     <td> Report.  </td>
 
@@ -497,7 +497,7 @@ subpart 3—grants for research on voting technology improvements  </td>
 
   <tr>
 
-    <td> 15443.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs15443" data-uslm-ref="/us/usc/t42/s15443">15443.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 
@@ -513,7 +513,7 @@ subpart 4—pilot program for testing of equipment and technology  </td>
 
   <tr>
 
-    <td> 15451.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs15451" data-uslm-ref="/us/usc/t42/s15451">15451.</a>  </td>
 
     <td> Pilot program.  </td>
 
@@ -521,7 +521,7 @@ subpart 4—pilot program for testing of equipment and technology  </td>
 
   <tr>
 
-    <td> 15452.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs15452" data-uslm-ref="/us/usc/t42/s15452">15452.</a>  </td>
 
     <td> Report.  </td>
 
@@ -529,7 +529,7 @@ subpart 4—pilot program for testing of equipment and technology  </td>
 
   <tr>
 
-    <td> 15453.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs15453" data-uslm-ref="/us/usc/t42/s15453">15453.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 
@@ -545,7 +545,7 @@ subpart 5—protection and advocacy systems  </td>
 
   <tr>
 
-    <td> 15461.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs15461" data-uslm-ref="/us/usc/t42/s15461">15461.</a>  </td>
 
     <td> Payments for protection and advocacy systems.  </td>
 
@@ -553,7 +553,7 @@ subpart 5—protection and advocacy systems  </td>
 
   <tr>
 
-    <td> 15462.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs15462" data-uslm-ref="/us/usc/t42/s15462">15462.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 
@@ -569,7 +569,7 @@ subpart 6—national student and parent mock election  </td>
 
   <tr>
 
-    <td> 15471.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs15471" data-uslm-ref="/us/usc/t42/s15471">15471.</a>  </td>
 
     <td> National Student and Parent Mock Election.  </td>
 
@@ -577,7 +577,7 @@ subpart 6—national student and parent mock election  </td>
 
   <tr>
 
-    <td> 15472.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs15472" data-uslm-ref="/us/usc/t42/s15472">15472.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 
@@ -601,7 +601,7 @@ Part A—Requirements  </td>
 
   <tr>
 
-    <td> 15481.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs15481" data-uslm-ref="/us/usc/t42/s15481">15481.</a>  </td>
 
     <td> Voting systems standards.  </td>
 
@@ -609,7 +609,7 @@ Part A—Requirements  </td>
 
   <tr>
 
-    <td> 15482.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs15482" data-uslm-ref="/us/usc/t42/s15482">15482.</a>  </td>
 
     <td> Provisional voting and voting information requirements.  </td>
 
@@ -617,7 +617,7 @@ Part A—Requirements  </td>
 
   <tr>
 
-    <td> 15483.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs15483" data-uslm-ref="/us/usc/t42/s15483">15483.</a>  </td>
 
     <td> Computerized statewide voter registration list requirements and requirements for voters who register by mail.  </td>
 
@@ -625,7 +625,7 @@ Part A—Requirements  </td>
 
   <tr>
 
-    <td> 15484.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs15484" data-uslm-ref="/us/usc/t42/s15484">15484.</a>  </td>
 
     <td> Minimum requirements.  </td>
 
@@ -633,7 +633,7 @@ Part A—Requirements  </td>
 
   <tr>
 
-    <td> 15485.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs15485" data-uslm-ref="/us/usc/t42/s15485">15485.</a>  </td>
 
     <td> Methods of implementation left to discretion of State.  </td>
 
@@ -649,7 +649,7 @@ Part B—Voluntary Guidance  </td>
 
   <tr>
 
-    <td> 15501.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs15501" data-uslm-ref="/us/usc/t42/s15501">15501.</a>  </td>
 
     <td> Adoption of voluntary guidance by Commission.  </td>
 
@@ -657,7 +657,7 @@ Part B—Voluntary Guidance  </td>
 
   <tr>
 
-    <td> 15502.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs15502" data-uslm-ref="/us/usc/t42/s15502">15502.</a>  </td>
 
     <td> Process for adoption.  </td>
 
@@ -673,7 +673,7 @@ SUBCHAPTER IV—ENFORCEMENT  </td>
 
   <tr>
 
-    <td> 15511.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs15511" data-uslm-ref="/us/usc/t42/s15511">15511.</a>  </td>
 
     <td> Actions by the Attorney General for declaratory and injunctive relief.  </td>
 
@@ -681,7 +681,7 @@ SUBCHAPTER IV—ENFORCEMENT  </td>
 
   <tr>
 
-    <td> 15512.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs15512" data-uslm-ref="/us/usc/t42/s15512">15512.</a>  </td>
 
     <td> Establishment of State-based administrative complaint procedures to remedy grievances.  </td>
 
@@ -697,7 +697,7 @@ SUBCHAPTER V—HELP AMERICA VOTE COLLEGE PROGRAM  </td>
 
   <tr>
 
-    <td> 15521.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs15521" data-uslm-ref="/us/usc/t42/s15521">15521.</a>  </td>
 
     <td> Establishment of program.  </td>
 
@@ -705,7 +705,7 @@ SUBCHAPTER V—HELP AMERICA VOTE COLLEGE PROGRAM  </td>
 
   <tr>
 
-    <td> 15522.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs15522" data-uslm-ref="/us/usc/t42/s15522">15522.</a>  </td>
 
     <td> Activities under Program.  </td>
 
@@ -713,7 +713,7 @@ SUBCHAPTER V—HELP AMERICA VOTE COLLEGE PROGRAM  </td>
 
   <tr>
 
-    <td> 15523.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs15523" data-uslm-ref="/us/usc/t42/s15523">15523.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 
@@ -729,7 +729,7 @@ SUBCHAPTER VI—TRANSFER TO COMMISSION OF FUNCTIONS UNDER CERTAIN LAWS  </td>
 
   <tr>
 
-    <td> 15531.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs15531" data-uslm-ref="/us/usc/t42/s15531">15531.</a>  </td>
 
     <td> Transfer of functions of Office of Election Administration of Federal Election Commission.  </td>
 
@@ -737,7 +737,7 @@ SUBCHAPTER VI—TRANSFER TO COMMISSION OF FUNCTIONS UNDER CERTAIN LAWS  </td>
 
   <tr>
 
-    <td> 15532.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs15532" data-uslm-ref="/us/usc/t42/s15532">15532.</a>  </td>
 
     <td> Transfer of functions.  </td>
 
@@ -745,7 +745,7 @@ SUBCHAPTER VI—TRANSFER TO COMMISSION OF FUNCTIONS UNDER CERTAIN LAWS  </td>
 
   <tr>
 
-    <td> 15533.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs15533" data-uslm-ref="/us/usc/t42/s15533">15533.</a>  </td>
 
     <td> Transfer of property, records, and personnel.  </td>
 
@@ -753,7 +753,7 @@ SUBCHAPTER VI—TRANSFER TO COMMISSION OF FUNCTIONS UNDER CERTAIN LAWS  </td>
 
   <tr>
 
-    <td> 15534.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs15534" data-uslm-ref="/us/usc/t42/s15534">15534.</a>  </td>
 
     <td> Effective date; transition.  </td>
 
@@ -769,7 +769,7 @@ SUBCHAPTER VII—MISCELLANEOUS PROVISIONS  </td>
 
   <tr>
 
-    <td> 15541.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs15541" data-uslm-ref="/us/usc/t42/s15541">15541.</a>  </td>
 
     <td> State defined.  </td>
 
@@ -777,7 +777,7 @@ SUBCHAPTER VII—MISCELLANEOUS PROVISIONS  </td>
 
   <tr>
 
-    <td> 15542.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs15542" data-uslm-ref="/us/usc/t42/s15542">15542.</a>  </td>
 
     <td> Audits and repayment of funds.  </td>
 
@@ -785,7 +785,7 @@ SUBCHAPTER VII—MISCELLANEOUS PROVISIONS  </td>
 
   <tr>
 
-    <td> 15543.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs15543" data-uslm-ref="/us/usc/t42/s15543">15543.</a>  </td>
 
     <td> Review and report on adequacy of existing electoral fraud statutes and penalties.  </td>
 
@@ -793,7 +793,7 @@ SUBCHAPTER VII—MISCELLANEOUS PROVISIONS  </td>
 
   <tr>
 
-    <td> 15544.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs15544" data-uslm-ref="/us/usc/t42/s15544">15544.</a>  </td>
 
     <td> Other criminal penalties.  </td>
 
@@ -801,7 +801,7 @@ SUBCHAPTER VII—MISCELLANEOUS PROVISIONS  </td>
 
   <tr>
 
-    <td> 15545.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs15545" data-uslm-ref="/us/usc/t42/s15545">15545.</a>  </td>
 
     <td> No effect on other laws.  </td>
 

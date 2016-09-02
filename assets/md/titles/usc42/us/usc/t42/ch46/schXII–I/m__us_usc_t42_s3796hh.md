@@ -149,10 +149,6 @@
 
 ([Pub. L. 90–351, title I, § 2101][/us/pl/90/351/s2101], as added [Pub. L. 103–322, title IV, § 40231(a)(3)][/us/pl/103/322/s40231/a/3], Sept. 13, 1994, [108 Stat. 1932][/us/stat/108/1932]; amended [Pub. L. 106–386, div. B, title I][/us/pl/106/386], §§ 1101(a)(2), (b)(2), 1102(b), 1109(c), title II, § 1209(b), title V, § 1512(b), Oct. 28, 2000, [114 Stat. 1492][/us/stat/114/1492], 1493, 1495, 1503, 1509, 1533; [Pub. L. 109–162, title I, § 102(b)][/us/pl/109/162/s102/b], title IX, § 906(c), Jan. 5, 2006, [119 Stat. 2975][/us/stat/119/2975], 3081; [Pub. L. 109–271, § 7(a)(5)][/us/pl/109/271/s7/a/5], Aug. 12, 2006, [120 Stat. 764][/us/stat/120/764]; [Pub. L. 113–4, title I, § 102(a)(1)][/us/pl/113/4/s102/a/1], Mar. 7, 2013, [127 Stat. 70][/us/stat/127/70].)
 
- __Amendment of Section__ 
-
-For effective date of amendment by [Pub. L. 113–4][/us/pl/113/4], see Effective Date of 2013 Amendment note below.
-
  __References in Text__ 
 
     January 5, 2006, referred to in subsec. (c)(5), was in the original “the date of enactment of this section”, which was translated as meaning the date of enactment of [Pub. L. 109–162][/us/pl/109/162], which enacted par. (5) of subsec. (c), to reflect the probable intent of Congress.
@@ -284,7 +280,6 @@ For effective date of amendment by [Pub. L. 113–4][/us/pl/113/4], see Effectiv
 [/us/stat/120/764]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F764
 [/us/pl/113/4/s102/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs102%2Fa%2F1
 [/us/stat/127/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F70
-[/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
 [/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
 [/us/pl/90/351/s2101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs2101
 [/us/usc/t42/s3797]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3797

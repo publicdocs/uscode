@@ -341,13 +341,13 @@
 
 >     “(1)
 
->      Subject to paragraph (2), the amendments made by this section \[amending this section and sections 1395l, 1395u, 1395x, 1395y, 1395aa, 1395bb, 1395cc, 1395ww, 1396a, and 1396n of this title and provisions set out as a note under [section 1395ww of this title][/us/usc/t42/s1395ww]\] shall not apply during a year (beginning with 1989) to a hospital located in a rural area (as defined for purposes of section 1886(d) of the Social Security Act \[[section 1395ww(d) of this title][/us/usc/t42/s1395ww/d]\]) if the hospital establishes, at any time before the year\[,\] to the satisfaction of the Secretary of Health and Human Services that—
+>      Subject to paragraph (2), the amendments made by this section \[amending this section and sections 1395l, 1395u, 1395x, 1395y, 1395aa, 1395bb, 1395cc, 1395ww, 1396a, and 1396n of this title and provisions set out as a note under [section 1395ww of this title][/us/usc/t42/s1395ww]\] shall not apply during a year (beginning with 1989) to a hospital located in a rural area (as defined for purposes of section 1886(d) of the Social Security Act \[[42 U.S.C. 1395ww(d)][/us/usc/t42/s1395ww/d]\]) if the hospital establishes, at any time before the year\[,\] to the satisfaction of the Secretary of Health and Human Services that—
 
 >         “(A) as of January 1, 1988, the hospital employed or contracted with a certified registered nurse anesthetist (but not more than one full-time equivalent certified registered nurse anesthetist),
 
 >         “(B) in 1987 the hospital had a volume of surgical procedures (including inpatient and outpatient procedures) requiring anesthesia services that did not exceed 500 (or such higher number as the Secretary determines to be appropriate), and
 
->         “(C) each certified registered nurse anesthetist employed by, or under contract with, the hospital has agreed not to bill under part B of title XVIII of such Act \[this part\] for professional services furnished by the anesthetist at the hospital.
+>         “(C) each certified registered nurse anesthetist employed by, or under contract with, the hospital has agreed not to bill under part B of title XVIII of such Act \[[42 U.S.C. 1395j][/us/usc/t42/s1395j] et seq.\] for professional services furnished by the anesthetist at the hospital.
 
 >     “(2) Paragraph (1) shall not apply in a year (after 1989) to a hospital unless the hospital establishes, before the beginning of the year, that the hospital has had a volume of surgical procedures (including inpatient and outpatient procedures) requiring anesthesia services in the previous year that did not exceed 500 (or such higher number as the Secretary determines to be appropriate).”
 
@@ -359,7 +359,7 @@
 
  __Payment for Services of Physicians Rendered in a Teaching Hospital for Accounting Periods Beginning After__  __June 30, 1975__  __, and Prior to__  __October 1, 1978__  __; Studies, Reports, etc.; Effective Dates__ 
 
-    [Pub. L. 93–233, § 15(a)(2)][/us/pl/93/233/s15/a/2], Dec. 31, 1973, [87 Stat. 966][/us/stat/87/966], provided that for the cost accounting periods beginning after June 30, 1975, and prior to Oct. 1, 1978, subsec. (a)(2)(B)(i) of this section will be administered as if subclause II of subsec. (a)(2)(B)(i) read as follows: “(II) a physician to a patient in a hospital which has a teaching program approved as specified in paragraph (6) of section 1861(b) \[[section 1395x(b)(6) of this title][/us/usc/t42/s1395x/b/6]\] (including services in conjunction with the teaching programs of such hospital whether or not such patient is an inpatient of such hospital), where the conditions specified in paragraph (7) of such section \[[section 1395x(b)(7) of this title][/us/usc/t42/s1395x/b/7]\] are met and”.
+    [Pub. L. 93–233, § 15(a)(2)][/us/pl/93/233/s15/a/2], Dec. 31, 1973, [87 Stat. 966][/us/stat/87/966], provided that for the cost accounting periods beginning after June 30, 1975, and prior to Oct. 1, 1978, subsec. (a)(2)(B)(i) of this section will be administered as if subclause II of subsec. (a)(2)(B)(i) read as follows: “(II) a physician to a patient in a hospital which has a teaching program approved as specified in paragraph (6) of section 1861(b) \[[42 U.S.C. 1395x(b)(6)][/us/usc/t42/s1395x/b/6]\] (including services in conjunction with the teaching programs of such hospital whether or not such patient is an inpatient of such hospital), where the conditions specified in paragraph (7) of such section \[[42 U.S.C. 1395x(b)(7)][/us/usc/t42/s1395x/b/7]\] are met and”.
 
 ----------
 
@@ -615,6 +615,7 @@
 [/us/stat/103/2222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2222
 [/us/usc/t42/s1395ww]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww
 [/us/usc/t42/s1395ww/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww%2Fd
+[/us/usc/t42/s1395j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395j
 [/us/pl/101/239/s6132/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs6132%2Fb
 [/us/stat/103/2222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2222
 [/us/pl/99/509/s9320/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs9320%2Fk

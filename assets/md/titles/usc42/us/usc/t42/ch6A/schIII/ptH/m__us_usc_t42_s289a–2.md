@@ -101,7 +101,7 @@
 
 [Pub. L. 103–43, title I, § 133][/us/pl/103/43/s133], June 10, 1993, [107 Stat. 135][/us/stat/107/135], provided that: 
 
-> “Section 492B of the Public Health Service Act, as added by section 131 of this Act \[this section\], shall not apply with respect to projects of clinical research for which initial funding was provided prior to the date of the enactment of this Act \[June 10, 1993\]. With respect to the inclusion of women and minorities as subjects in clinical research conducted or supported by the National Institutes of Health, any policies of the Secretary of Health and Human Services regarding such inclusion that are in effect on the day before the date of the enactment of this Act shall continue to apply to the projects referred to in the preceding sentence.”
+> “Section 492B of the Public Health Service Act, as added by section 131 of this Act \[[42 U.S.C. 289a–2][/us/usc/t42/s289a–2]\], shall not apply with respect to projects of clinical research for which initial funding was provided prior to the date of the enactment of this Act \[June 10, 1993\]. With respect to the inclusion of women and minorities as subjects in clinical research conducted or supported by the National Institutes of Health, any policies of the Secretary of Health and Human Services regarding such inclusion that are in effect on the day before the date of the enactment of this Act shall continue to apply to the projects referred to in the preceding sentence.”
 
 ----------
 
@@ -116,5 +116,6 @@
 [/us/stat/107/133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F133
 [/us/pl/103/43/s133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs133
 [/us/stat/107/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F135
+[/us/usc/t42/s289a–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs289a%E2%80%932
 
 

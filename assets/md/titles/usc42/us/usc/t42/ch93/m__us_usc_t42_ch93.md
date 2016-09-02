@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 8501.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs8501" data-uslm-ref="/us/usc/t42/s8501">8501.</a>  </td>
 
     <td> Congressional findings and purposes.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 8502.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs8502" data-uslm-ref="/us/usc/t42/s8502">8502.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -49,7 +49,7 @@ SUBCHAPTER I—EMERGENCY ENERGY CONSERVATION PROGRAM  </td>
 
   <tr>
 
-    <td> 8511.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs8511" data-uslm-ref="/us/usc/t42/s8511">8511.</a>  </td>
 
     <td> National and State emergency conservation targets.  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER I—EMERGENCY ENERGY CONSERVATION PROGRAM  </td>
 
   <tr>
 
-    <td> 8512.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs8512" data-uslm-ref="/us/usc/t42/s8512">8512.</a>  </td>
 
     <td> State emergency conservation plan.  </td>
 
@@ -65,7 +65,7 @@ SUBCHAPTER I—EMERGENCY ENERGY CONSERVATION PROGRAM  </td>
 
   <tr>
 
-    <td> 8513.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs8513" data-uslm-ref="/us/usc/t42/s8513">8513.</a>  </td>
 
     <td> Standby Federal conservation plan.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER I—EMERGENCY ENERGY CONSERVATION PROGRAM  </td>
 
   <tr>
 
-    <td> 8514.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs8514" data-uslm-ref="/us/usc/t42/s8514">8514.</a>  </td>
 
     <td> Judicial review.  </td>
 
@@ -81,7 +81,7 @@ SUBCHAPTER I—EMERGENCY ENERGY CONSERVATION PROGRAM  </td>
 
   <tr>
 
-    <td> 8515.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs8515" data-uslm-ref="/us/usc/t42/s8515">8515.</a>  </td>
 
     <td> Reports.  </td>
 
@@ -97,7 +97,7 @@ SUBCHAPTER II—OTHER AUTOMOBILE FUEL PURCHASE MEASURES  </td>
 
   <tr>
 
-    <td> 8521.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs8521" data-uslm-ref="/us/usc/t42/s8521">8521.</a>  </td>
 
     <td> Minimum automobile fuel purchase measures.  </td>
 
@@ -105,7 +105,7 @@ SUBCHAPTER II—OTHER AUTOMOBILE FUEL PURCHASE MEASURES  </td>
 
   <tr>
 
-    <td> 8522.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs8522" data-uslm-ref="/us/usc/t42/s8522">8522.</a>  </td>
 
     <td> Out-of-State vehicles to be exempted from odd-even motor fuel purchase restrictions.  </td>
 
@@ -121,7 +121,7 @@ SUBCHAPTER III—STUDIES  </td>
 
   <tr>
 
-    <td> 8531.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs8531" data-uslm-ref="/us/usc/t42/s8531">8531.</a>  </td>
 
     <td> Study and report.  </td>
 
@@ -129,7 +129,7 @@ SUBCHAPTER III—STUDIES  </td>
 
   <tr>
 
-    <td> 8532.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs8532" data-uslm-ref="/us/usc/t42/s8532">8532.</a>  </td>
 
     <td> Middle distillate monitoring program.  </td>
 
@@ -145,7 +145,7 @@ SUBCHAPTER IV—ADMINISTRATIVE PROVISIONS  </td>
 
   <tr>
 
-    <td> 8541.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs8541" data-uslm-ref="/us/usc/t42/s8541">8541.</a>  </td>
 
     <td> Administration.  </td>
 

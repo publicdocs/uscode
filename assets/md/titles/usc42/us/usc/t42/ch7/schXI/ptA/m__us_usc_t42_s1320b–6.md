@@ -137,7 +137,7 @@
 
 [Pub. L. 106–169, title II, § 208(b)][/us/pl/106/169/s208/b], Dec. 14, 1999, [113 Stat. 1842][/us/stat/113/1842], provided that: 
 
-> “The amendment made by this section \[enacting this section\] shall apply with respect to convictions of violations described in paragraphs (1) and (2) of section 1136(a) of the Social Security Act \[subsec. (a) of this section\] and determinations described in paragraph (3) of such section occurring on or after the date of the enactment of this Act \[Dec. 14, 1999\].”
+> “The amendment made by this section \[enacting this section\] shall apply with respect to convictions of violations described in paragraphs (1) and (2) of section 1136(a) of the Social Security Act \[[42 U.S.C. 1320b–6(a)][/us/usc/t42/s1320b–6/a]\] and determinations described in paragraph (3) of such section occurring on or after the date of the enactment of this Act \[Dec. 14, 1999\].”
 
 ----------
 
@@ -169,5 +169,6 @@
 [/us/stat/110/2168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2168
 [/us/pl/106/169/s208/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F169%2Fs208%2Fb
 [/us/stat/113/1842]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1842
+[/us/usc/t42/s1320b–6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320b%E2%80%936%2Fa
 
 

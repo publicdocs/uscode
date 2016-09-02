@@ -147,7 +147,7 @@
 
 [Pub. L. 100–203, title IV, § 4005(b)(4)][/us/pl/100/203/s4005/b/4], Dec. 22, 1987, [101 Stat. 1330–49][/us/stat/101/1330-49], provided that: 
 
-> “The amendments made by paragraphs (1) and (2) \[amending this section\] shall apply to agreements under section 1883 of the Social Security Act \[this section\] entered into after March 31, 1988.”
+> “The amendments made by paragraphs (1) and (2) \[amending this section\] shall apply to agreements under section 1883 of the Social Security Act \[[42 U.S.C. 1395tt][/us/usc/t42/s1395tt]\] entered into after March 31, 1988.”
 
     Amendment by [section 4201(d)(3) of Pub. L. 100–203][/us/pl/100/203/s4201/d/3] applicable to services furnished on or after Oct. 1, 1990, without regard to whether regulations to implement such amendment are promulgated by such date, except as otherwise specifically provided in [section 1395i–3 of this title][/us/usc/t42/s1395i–3], see [section 4204(a) of Pub. L. 100–203][/us/pl/100/203/s4204/a], as amended, set out as an Effective Date note under [section 1395i–3 of this title][/us/usc/t42/s1395i–3].
 
@@ -161,13 +161,13 @@
 
 [Pub. L. 101–508, title IV, § 4008(j)(2)][/us/pl/101/508/s4008/j/2], Nov. 5, 1990, [104 Stat. 1388–51][/us/stat/104/1388-51], provided that: 
 
-> “If, as a result of the amendment made by paragraph (1) \[amending this section\], the reasonable cost of routine services furnished by a hospital during a calendar year (as determined under section 1883 of the Social Security Act \[this section\]) is less than the reasonable cost of such services determined under such section for the previous calendar year, the reasonable cost of such services furnished by the hospital during the calendar year under such section shall be equal to the reasonable cost determined under such section for the previous calendar year.”
+> “If, as a result of the amendment made by paragraph (1) \[amending this section\], the reasonable cost of routine services furnished by a hospital during a calendar year (as determined under section 1883 of the Social Security Act \[[42 U.S.C. 1395tt][/us/usc/t42/s1395tt]\]) is less than the reasonable cost of such services determined under such section for the previous calendar year, the reasonable cost of such services furnished by the hospital during the calendar year under such section shall be equal to the reasonable cost determined under such section for the previous calendar year.”
 
  __Swing Beds Certified Prior to__  __May 1, 1987__ 
 
 [Pub. L. 101–508, title IV, § 4008(j)(3)][/us/pl/101/508/s4008/j/3], Nov. 5, 1990, [104 Stat. 1388–52][/us/stat/104/1388-52], provided that: 
 
-> “Notwithstanding the requirement of section 1883(b)(1) of the Social Security Act \[subsec. (b)(1) of this section\] that the Secretary may not enter into an agreement under such section with a hospital that is not located in a rural area, any agreement entered into under such section on or before May 1, 1987, between the Secretary of Health and Human Services and a hospital located in an urban area shall remain in effect.”
+> “Notwithstanding the requirement of section 1883(b)(1) of the Social Security Act \[[42 U.S.C. 1395tt(b)(1)][/us/usc/t42/s1395tt/b/1]\] that the Secretary may not enter into an agreement under such section with a hospital that is not located in a rural area, any agreement entered into under such section on or before May 1, 1987, between the Secretary of Health and Human Services and a hospital located in an urban area shall remain in effect.”
 
  __Report of Hospital Admissions for Extended Care Services__ 
 
@@ -276,6 +276,7 @@
 [/us/usc/t1/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft1%2Fs106
 [/us/pl/100/203/s4005/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs4005%2Fb%2F4
 [/us/stat/101/1330-49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-49
+[/us/usc/t42/s1395tt]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395tt
 [/us/pl/100/203/s4201/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs4201%2Fd%2F3
 [/us/usc/t42/s1395i–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395i%E2%80%933
 [/us/pl/100/203/s4204/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs4204%2Fa
@@ -285,8 +286,10 @@
 [/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
 [/us/pl/101/508/s4008/j/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs4008%2Fj%2F2
 [/us/stat/104/1388-51]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-51
+[/us/usc/t42/s1395tt]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395tt
 [/us/pl/101/508/s4008/j/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs4008%2Fj%2F3
 [/us/stat/104/1388-52]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-52
+[/us/usc/t42/s1395tt/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395tt%2Fb%2F1
 [/us/pl/100/203/s4005/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs4005%2Fb%2F3
 [/us/stat/101/1330-49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-49
 [/us/pl/100/360/s411/b/4/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360%2Fs411%2Fb%2F4%2FE

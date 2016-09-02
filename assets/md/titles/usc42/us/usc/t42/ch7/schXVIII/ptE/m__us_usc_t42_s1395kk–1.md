@@ -333,11 +333,11 @@
 
 >     “(2) __Deadline for promulgation of certain regulations.—__ 
 
->     The Secretary \[of Health and Human Services\] shall first issue regulations under section 1874A(h) of the Social Security Act \[subsec. (h) of this section\], as added by subsection (a), by not later than 1 year after the date of the enactment of this Act \[Dec. 8, 2003\].
+>     The Secretary \[of Health and Human Services\] shall first issue regulations under section 1874A(h) of the Social Security Act \[[42 U.S.C. 1395kk–1(h)][/us/usc/t42/s1395kk–1/h]\], as added by subsection (a), by not later than 1 year after the date of the enactment of this Act \[Dec. 8, 2003\].
 
 >     “(3) __Application of standard protocols for random prepayment review.—__ 
 
->     Section 1874A(h)(1)(B) of the Social Security Act \[subsec. (h)(1)(B) of this section\], as added by subsection (a), shall apply to random prepayment reviews conducted on or after such date (not later than 1 year after the date of the enactment of this Act \[Dec. 8, 2003\]) as the Secretary shall specify.”
+>     Section 1874A(h)(1)(B) of the Social Security Act \[[42 U.S.C. 1395kk–1(h)(1)(B)][/us/usc/t42/s1395kk–1/h/1/B]\], as added by subsection (a), shall apply to random prepayment reviews conducted on or after such date (not later than 1 year after the date of the enactment of this Act \[Dec. 8, 2003\]) as the Secretary shall specify.”
 
  __Effective Date; Transition Rule__ 
 
@@ -365,11 +365,11 @@
 
 >         “(B) __Appropriate transition.—__ 
 
->         The Secretary shall take such steps as are necessary to provide for an appropriate transition from agreements under section 1816 and contracts under section 1842 of the Social Security Act ([42 U.S.C. 1395h][/us/usc/t42/s1395h], 1395u) to contracts under section 1874A \[this section\], as added by subsection (a)(1).
+>         The Secretary shall take such steps as are necessary to provide for an appropriate transition from agreements under section 1816 and contracts under section 1842 of the Social Security Act ([42 U.S.C. 1395h][/us/usc/t42/s1395h], 1395u) to contracts under section 1874A \[[42 U.S.C. 1395kk–1][/us/usc/t42/s1395kk–1]\], as added by subsection (a)(1).
 
 >     “(3) __Authorizing continuation of mip functions under current contracts and agreements and under transition contracts.—__ 
 
->     Notwithstanding the amendments made by this section \[enacting this section and amending sections 1395h and 1395u of this title\], the provisions contained in the exception in section 1893(d)(2) of the Social Security Act ([42 U.S.C. 1395ddd(d)(2)][/us/usc/t42/s1395ddd/d/2]) shall continue to apply during the period that begins on the date of the enactment of this Act \[Dec. 8, 2003\] and ends on October 1, 2011, and any reference in such provisions to an agreement or contract shall be deemed to include a contract under section 1874A of such Act \[this section\], as inserted by subsection (a)(1), that continues the activities referred to in such provisions.”
+>     Notwithstanding the amendments made by this section \[enacting this section and amending sections 1395h and 1395u of this title\], the provisions contained in the exception in section 1893(d)(2) of the Social Security Act ([42 U.S.C. 1395ddd(d)(2)][/us/usc/t42/s1395ddd/d/2]) shall continue to apply during the period that begins on the date of the enactment of this Act \[Dec. 8, 2003\] and ends on October 1, 2011, and any reference in such provisions to an agreement or contract shall be deemed to include a contract under section 1874A of such Act \[[42 U.S.C. 1395kk–1][/us/usc/t42/s1395kk–1]\], as inserted by subsection (a)(1), that continues the activities referred to in such provisions.”
 
  __Construction__ 
 
@@ -387,13 +387,13 @@
 
 [Pub. L. 108–173, title IX, § 911(a)(2)][/us/pl/108/173/s911/a/2], Dec. 8, 2003, [117 Stat. 2383][/us/stat/117/2383], provided that: 
 
-> “In developing contract performance requirements under section 1874A(b) of the Social Security Act \[subsec. (b) of this section\], as inserted by paragraph (1), the Secretary \[of Health and Human Services\] shall consider inclusion of the performance standards described in sections 1816(f)(2) of such Act \[[section 1395h(f)(2) of this title][/us/usc/t42/s1395h/f/2]\] (relating to timely processing of reconsiderations and applications for exemptions) and section 1842(b)(2)(B) of such Act \[[section 1395u(b)(2)(B) of this title][/us/usc/t42/s1395u/b/2/B]\] (relating to timely review of determinations and fair hearing requests), as such sections were in effect before the date of the enactment of this Act \[Dec. 8, 2003\].”
+> “In developing contract performance requirements under section 1874A(b) of the Social Security Act \[[42 U.S.C. 1395kk–1(b)][/us/usc/t42/s1395kk–1/b]\], as inserted by paragraph (1), the Secretary \[of Health and Human Services\] shall consider inclusion of the performance standards described in sections 1816(f)(2) of such Act \[[42 U.S.C. 1395h(f)(2)][/us/usc/t42/s1395h/f/2]\] (relating to timely processing of reconsiderations and applications for exemptions) and section 1842(b)(2)(B) of such Act \[[42 U.S.C. 1395u(b)(2)(B)][/us/usc/t42/s1395u/b/2/B]\] (relating to timely review of determinations and fair hearing requests), as such sections were in effect before the date of the enactment of this Act \[Dec. 8, 2003\].”
 
  __References__ 
 
 [Pub. L. 108–173, title IX, § 911(e)][/us/pl/108/173/s911/e], Dec. 8, 2003, [117 Stat. 2386][/us/stat/117/2386], provided that: 
 
-> “On and after the effective date provided under subsection (d)(1) \[set out above\], any reference to a fiscal intermediary or carrier under title XI or XVIII of the Social Security Act \[subchapter XI of this chapter and this subchapter\] (or any regulation, manual instruction, interpretative rule, statement of policy, or guideline issued to carry out such titles) shall be deemed a reference to a medicare administrative contractor (as provided under section 1874A of the Social Security Act \[this section\]).”
+> “On and after the effective date provided under subsection (d)(1) \[set out above\], any reference to a fiscal intermediary or carrier under title XI or XVIII of the Social Security Act \[[42 U.S.C. 1301][/us/usc/t42/s1301] et seq., 1395 et seq.\] (or any regulation, manual instruction, interpretative rule, statement of policy, or guideline issued to carry out such titles) shall be deemed a reference to a medicare administrative contractor (as provided under section 1874A of the Social Security Act \[[42 U.S.C. 1395kk–1][/us/usc/t42/s1395kk–1]\]).”
 
  __Secretarial Submission of Legislative Proposal__ 
 
@@ -427,23 +427,23 @@
 
 >     “(1) __In general.—__ 
 
->     The provisions of section 1874A(e)(2) of the Social Security Act \[subsec. (e)(2) of this section\] (other than subparagraph (B)), as added by subsection (a), shall apply to each fiscal intermediary under section 1816 of the Social Security Act ([42 U.S.C. 1395h][/us/usc/t42/s1395h]) and each carrier under section 1842 of such Act ([42 U.S.C. 1395u][/us/usc/t42/s1395u]) in the same manner as they apply to medicare administrative contractors under such provisions.
+>     The provisions of section 1874A(e)(2) of the Social Security Act \[[42 U.S.C. 1395kk–1(e)(2)][/us/usc/t42/s1395kk–1/e/2]\] (other than subparagraph (B)), as added by subsection (a), shall apply to each fiscal intermediary under section 1816 of the Social Security Act ([42 U.S.C. 1395h][/us/usc/t42/s1395h]) and each carrier under section 1842 of such Act ([42 U.S.C. 1395u][/us/usc/t42/s1395u]) in the same manner as they apply to medicare administrative contractors under such provisions.
 
 >     “(2) __Deadline for initial evaluation.—__ 
 
->     In the case of such a fiscal intermediary or carrier with an agreement or contract under such respective section in effect as of the date of the enactment of this Act \[Dec. 8, 2003\], the first evaluation under section 1874A(e)(2)(A) of the Social Security Act \[subsec. (e)(2)(A) of this section\] (as added by subsection (a)), pursuant to paragraph (1), shall be completed (and a report on the evaluation submitted to the Secretary \[of Health and Human Services\]) by not later than 1 year after such date.”
+>     In the case of such a fiscal intermediary or carrier with an agreement or contract under such respective section in effect as of the date of the enactment of this Act \[Dec. 8, 2003\], the first evaluation under section 1874A(e)(2)(A) of the Social Security Act \[[42 U.S.C. 1395kk–1(e)(2)(A)][/us/usc/t42/s1395kk–1/e/2/A]\] (as added by subsection (a)), pursuant to paragraph (1), shall be completed (and a report on the evaluation submitted to the Secretary \[of Health and Human Services\]) by not later than 1 year after such date.”
 
 [Pub. L. 108–173, title IX, § 921(b)(2)][/us/pl/108/173/s921/b/2], Dec. 8, 2003, [117 Stat. 2389][/us/stat/117/2389], provided that: 
 
-> “The provisions of section 1874A(f) of the Social Security Act \[subsec. (f) of this section\], as added by paragraph (1), shall apply to each fiscal intermediary under section 1816 of the Social Security Act ([42 U.S.C. 1395h][/us/usc/t42/s1395h]) and each carrier under section 1842 of such Act ([42 U.S.C. 1395u][/us/usc/t42/s1395u]) in the same manner as they apply to medicare administrative contractors under such provisions.”
+> “The provisions of section 1874A(f) of the Social Security Act \[[42 U.S.C. 1395kk–1(f)][/us/usc/t42/s1395kk–1/f]\], as added by paragraph (1), shall apply to each fiscal intermediary under section 1816 of the Social Security Act ([42 U.S.C. 1395h][/us/usc/t42/s1395h]) and each carrier under section 1842 of such Act ([42 U.S.C. 1395u][/us/usc/t42/s1395u]) in the same manner as they apply to medicare administrative contractors under such provisions.”
 
 [Pub. L. 108–173, title IX, § 921(c)(3)][/us/pl/108/173/s921/c/3], Dec. 8, 2003, [117 Stat. 2390][/us/stat/117/2390], provided that: 
 
-> “The provisions of section 1874A(g) of the Social Security Act \[subsec. (g) of this section\], as added by paragraph (1), shall apply to each fiscal intermediary under section 1816 of the Social Security Act ([42 U.S.C. 1395h][/us/usc/t42/s1395h]) and each carrier under section 1842 of such Act ([42 U.S.C. 1395u][/us/usc/t42/s1395u]) in the same manner as they apply to medicare administrative contractors under such provisions.”
+> “The provisions of section 1874A(g) of the Social Security Act \[[42 U.S.C. 1395kk–1(g)][/us/usc/t42/s1395kk–1/g]\], as added by paragraph (1), shall apply to each fiscal intermediary under section 1816 of the Social Security Act ([42 U.S.C. 1395h][/us/usc/t42/s1395h]) and each carrier under section 1842 of such Act ([42 U.S.C. 1395u][/us/usc/t42/s1395u]) in the same manner as they apply to medicare administrative contractors under such provisions.”
 
 [Pub. L. 108–173, title IX, § 934(c)][/us/pl/108/173/s934/c], Dec. 8, 2003, [117 Stat. 2407][/us/stat/117/2407], provided that: 
 
-> “The provisions of section 1874A(h) of the Social Security Act \[subsec. (h) of this section\], as added by subsection (a), shall apply to each fiscal intermediary under section 1816 of the Social Security Act ([42 U.S.C. 1395h][/us/usc/t42/s1395h]) and each carrier under section 1842 of such Act ([42 U.S.C. 1395u][/us/usc/t42/s1395u]) in the same manner as they apply to medicare administrative contractors under such provisions.”
+> “The provisions of section 1874A(h) of the Social Security Act \[[42 U.S.C. 1395kk–1(h)][/us/usc/t42/s1395kk–1/h]\], as added by subsection (a), shall apply to each fiscal intermediary under section 1816 of the Social Security Act ([42 U.S.C. 1395h][/us/usc/t42/s1395h]) and each carrier under section 1842 of such Act ([42 U.S.C. 1395u][/us/usc/t42/s1395u]) in the same manner as they apply to medicare administrative contractors under such provisions.”
 
  __Policy Development Regarding Evaluation and Management (E & M) Documentation Guidelines__ 
 
@@ -451,7 +451,7 @@
 
 >     “(a) __In General.—__ 
 
->     The Secretary \[of Health and Human Services\] may not implement any new or modified documentation guidelines (which for purposes of this section includes clinical examples) for evaluation and management physician services under the \[sic\] title XVIII of the Social Security Act \[this subchapter\] on or after the date of the enactment of this Act \[Dec. 8, 2003\] unless the Secretary—
+>     The Secretary \[of Health and Human Services\] may not implement any new or modified documentation guidelines (which for purposes of this section includes clinical examples) for evaluation and management physician services under the \[sic\] title XVIII of the Social Security Act \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\] on or after the date of the enactment of this Act \[Dec. 8, 2003\] unless the Secretary—
 
 >         “(1) has developed the guidelines in collaboration with practicing physicians (including both generalists and specialists) and provided for an assessment of the proposed guidelines by the physician community;
 
@@ -527,7 +527,7 @@
 
 >         The matters referred to in paragraph (1) are—
 
->             “(A) the development of a simpler, alternative system of requirements for documentation accompanying claims for evaluation and management physician services for which payment is made under title XVIII of the Social Security Act \[this subchapter\]; and
+>             “(A) the development of a simpler, alternative system of requirements for documentation accompanying claims for evaluation and management physician services for which payment is made under title XVIII of the Social Security Act \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\]; and
 
 >             “(B) consideration of systems other than current coding and documentation requirements for payment for such physician services.
 
@@ -537,7 +537,7 @@
 
 >         “(4) __Application of hipaa uniform coding requirements.—__ 
 
->         In developing an alternative system under paragraph (2), the Secretary shall consider requirements of administrative simplification under part C of title XI of the Social Security Act \[part C of subchapter XI of this chapter\].
+>         In developing an alternative system under paragraph (2), the Secretary shall consider requirements of administrative simplification under part C of title XI of the Social Security Act \[[42 U.S.C. 1320d][/us/usc/t42/s1320d] et seq.\].
 
 >         “(5) __Report to congress.—__ 
 
@@ -595,42 +595,57 @@
 [/us/stat/117/2390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2390
 [/us/pl/108/173/s934/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs934%2Fb
 [/us/stat/117/2407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2407
+[/us/usc/t42/s1395kk–1/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395kk%E2%80%931%2Fh
+[/us/usc/t42/s1395kk–1/h/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395kk%E2%80%931%2Fh%2F1%2FB
 [/us/pl/108/173/s911/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs911%2Fd
 [/us/stat/117/2385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2385
 [/us/usc/t42/s1395h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395h
 [/us/usc/t42/s1395h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395h
+[/us/usc/t42/s1395kk–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395kk%E2%80%931
 [/us/usc/t42/s1395ddd/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ddd%2Fd%2F2
+[/us/usc/t42/s1395kk–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395kk%E2%80%931
 [/us/pl/108/173/s901/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs901%2Fa
 [/us/stat/117/2374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2374
 [/us/pl/108/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173
 [/us/pl/108/173/s911/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs911%2Fa%2F2
 [/us/stat/117/2383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2383
+[/us/usc/t42/s1395kk–1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395kk%E2%80%931%2Fb
 [/us/usc/t42/s1395h/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395h%2Ff%2F2
 [/us/usc/t42/s1395u/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395u%2Fb%2F2%2FB
 [/us/pl/108/173/s911/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs911%2Fe
 [/us/stat/117/2386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2386
+[/us/usc/t42/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1301
+[/us/usc/t42/s1395kk–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395kk%E2%80%931
 [/us/pl/108/173/s911/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs911%2Ff
 [/us/stat/117/2386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2386
 [/us/pl/108/173/s911/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs911%2Fg
 [/us/stat/117/2386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2386
 [/us/pl/108/173/s912/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs912%2Fb
 [/us/stat/117/2388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2388
+[/us/usc/t42/s1395kk–1/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395kk%E2%80%931%2Fe%2F2
 [/us/usc/t42/s1395h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395h
 [/us/usc/t42/s1395u]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395u
+[/us/usc/t42/s1395kk–1/e/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395kk%E2%80%931%2Fe%2F2%2FA
 [/us/pl/108/173/s921/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs921%2Fb%2F2
 [/us/stat/117/2389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2389
+[/us/usc/t42/s1395kk–1/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395kk%E2%80%931%2Ff
 [/us/usc/t42/s1395h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395h
 [/us/usc/t42/s1395u]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395u
 [/us/pl/108/173/s921/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs921%2Fc%2F3
 [/us/stat/117/2390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2390
+[/us/usc/t42/s1395kk–1/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395kk%E2%80%931%2Fg
 [/us/usc/t42/s1395h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395h
 [/us/usc/t42/s1395u]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395u
 [/us/pl/108/173/s934/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs934%2Fc
 [/us/stat/117/2407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2407
+[/us/usc/t42/s1395kk–1/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395kk%E2%80%931%2Fh
 [/us/usc/t42/s1395h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395h
 [/us/usc/t42/s1395u]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395u
 [/us/pl/108/173/s941]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs941
 [/us/stat/117/2418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2418
+[/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
+[/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
+[/us/usc/t42/s1320d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320d
 [/us/usc/t42/s1395ww/d/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww%2Fd%2F2%2FD
 
 

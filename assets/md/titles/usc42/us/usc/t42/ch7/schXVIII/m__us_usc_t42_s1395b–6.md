@@ -307,7 +307,7 @@
 
 >     “(1) __Study.—__ 
 
->     The Medicare Payment Advisory Commission shall undertake a comprehensive study to review the regulatory burdens placed on all classes of health care providers under parts A and B of the medicare program under title XVIII of the Social Security Act \[this subchapter\] and to determine the costs these burdens impose on the nation’s health care system. The study shall also examine the complexity of the current regulatory system and its impact on providers.
+>     The Medicare Payment Advisory Commission shall undertake a comprehensive study to review the regulatory burdens placed on all classes of health care providers under parts A and B of the medicare program under title XVIII of the Social Security Act \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\] and to determine the costs these burdens impose on the nation’s health care system. The study shall also examine the complexity of the current regulatory system and its impact on providers.
 
 >     “(2) __Report.—__ 
 
@@ -329,7 +329,7 @@
 
 >     “(a) __Study.—__ 
 
->     The Medicare Payment Advisory Commission shall conduct a study of rural providers furnishing items and services for which payment is made under title XVIII of the Social Security Act \[this subchapter\]. Such study shall examine and evaluate the adequacy and appropriateness of the categories of special payments (and payment methodologies) established for rural hospitals under the medicare program, and the impact of such categories on beneficiary access and quality of health care services.
+>     The Medicare Payment Advisory Commission shall conduct a study of rural providers furnishing items and services for which payment is made under title XVIII of the Social Security Act \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\]. Such study shall examine and evaluate the adequacy and appropriateness of the categories of special payments (and payment methodologies) established for rural hospitals under the medicare program, and the impact of such categories on beneficiary access and quality of health care services.
 
 >     “(b) __Report.—__ 
 
@@ -345,7 +345,7 @@
 
 >         “(A) each type of Medicare+Choice plan described in section 1851(a)(2) of the Social Security Act ([42 U.S.C. 1395w–21(a)(2)][/us/usc/t42/s1395w–21/a/2]), including each type of Medicare+Choice plan that is a coordinated care plan (as described in subparagraph (A) of such section); and
 
->         “(B) the original medicare fee-for-service program under parts A and B \[sic\] title XVIII of such Act ([42 U.S.C. 1395][/us/usc/t42/s1395] et seq.) \[parts A and B of this subchapter\].
+>         “(B) the original medicare fee-for-service program under parts A and B \[sic\] title XVIII of such Act ([42 U.S.C. 1395][/us/usc/t42/s1395] et seq.) \[[42 U.S.C. 1395c][/us/usc/t42/s1395c] et seq., 1395j et seq.\].
 
 >     “(2) __Considerations.—__ 
 
@@ -375,7 +375,7 @@
 
 [Pub. L. 105–33, title IV, § 4804(c)][/us/pl/105/33/s4804/c], Aug. 5, 1997, [111 Stat. 552][/us/stat/111/552], provided that: 
 
-> “The Medicare Payment Advisory Commission shall include in its annual report under section 1805(b)(1)(B) of the Social Security Act \[subsec. (b)(1)(B) of this section\] recommendations on the methodology and level of payments made to PACE providers under sections 1894(d) and 1934(d) of such Act \[sections 1395eee(d) and 1396u–4(d) of this title\] and on the treatment of private, for-profit entities as PACE providers.”
+> “The Medicare Payment Advisory Commission shall include in its annual report under section 1805(b)(1)(B) of the Social Security Act \[[42 U.S.C. 1395b–6(b)(1)(B)][/us/usc/t42/s1395b–6/b/1/B]\] recommendations on the methodology and level of payments made to PACE providers under sections 1894(d) and 1934(d) of such Act \[[42 U.S.C. 1395eee(d)][/us/usc/t42/s1395eee/d], 1396u–4(d)\] and on the treatment of private, for-profit entities as PACE providers.”
 
 ----------
 
@@ -458,19 +458,24 @@
 [/us/stat/113/1501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1501
 [/us/pl/106/113/s1000/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F6
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
+[/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
 [/us/pl/106/113/s1000/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F6
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
 [/us/usc/t42/s1395ww/h/5/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww%2Fh%2F5%2FF
 [/us/pl/106/113/s1000/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F6
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
+[/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
 [/us/pl/106/113/s1000/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F6
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
 [/us/usc/t42/s1395w–21/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%9321%2Fa%2F2
 [/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
+[/us/usc/t42/s1395c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395c
 [/us/pl/105/277/s5202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs5202%2Fb
 [/us/stat/112/2681-917]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-917
 [/us/usc/t42/s1395b–6/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395b%E2%80%936%2Fc%2F3
 [/us/pl/105/33/s4804/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs4804%2Fc
 [/us/stat/111/552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F552
+[/us/usc/t42/s1395b–6/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395b%E2%80%936%2Fb%2F1%2FB
+[/us/usc/t42/s1395eee/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395eee%2Fd
 
 

@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 3531.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs3531" data-uslm-ref="/us/usc/t42/s3531">3531.</a>  </td>
 
     <td> Congressional declaration of purpose.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 3532.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs3532" data-uslm-ref="/us/usc/t42/s3532">3532.</a>  </td>
 
     <td> Establishment of Department.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 3533.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs3533" data-uslm-ref="/us/usc/t42/s3533">3533.</a>  </td>
 
     <td> Officers of Department.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 3533a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs3533a" data-uslm-ref="/us/usc/t42/s3533a">3533a.</a>  </td>
 
     <td> Transferred.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 3534.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs3534" data-uslm-ref="/us/usc/t42/s3534">3534.</a>  </td>
 
     <td> Transfer of functions.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 3535.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs3535" data-uslm-ref="/us/usc/t42/s3535">3535.</a>  </td>
 
     <td> Administrative provisions.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 3536.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs3536" data-uslm-ref="/us/usc/t42/s3536">3536.</a>  </td>
 
     <td> Annual reports.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 3537.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs3537" data-uslm-ref="/us/usc/t42/s3537">3537.</a>  </td>
 
     <td> Separability.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 3537a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs3537a" data-uslm-ref="/us/usc/t42/s3537a">3537a.</a>  </td>
 
     <td> Prohibition of advance disclosure of funding decisions.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 3537b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs3537b" data-uslm-ref="/us/usc/t42/s3537b">3537b.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 3537c.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs3537c" data-uslm-ref="/us/usc/t42/s3537c">3537c.</a>  </td>
 
     <td> Prohibition of lump-sum payments.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 3538.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs3538" data-uslm-ref="/us/usc/t42/s3538">3538.</a>  </td>
 
     <td> Rescheduling and refinancing of Federal loans.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 3539.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs3539" data-uslm-ref="/us/usc/t42/s3539">3539.</a>  </td>
 
     <td> Housing and Urban Development Disaster Assistance Fund.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> 3540.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs3540" data-uslm-ref="/us/usc/t42/s3540">3540.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -137,7 +137,7 @@
 
   <tr>
 
-    <td> 3541.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs3541" data-uslm-ref="/us/usc/t42/s3541">3541.</a>  </td>
 
     <td> Paperwork reduction.  </td>
 
@@ -145,7 +145,7 @@
 
   <tr>
 
-    <td> 3542.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs3542" data-uslm-ref="/us/usc/t42/s3542">3542.</a>  </td>
 
     <td> Public notice and comment regarding demonstration programs not expressly authorized in law.  </td>
 
@@ -153,7 +153,7 @@
 
   <tr>
 
-    <td> 3543.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs3543" data-uslm-ref="/us/usc/t42/s3543">3543.</a>  </td>
 
     <td> Preventing fraud and abuse in Department of Housing and Urban Development programs.  </td>
 
@@ -161,7 +161,7 @@
 
   <tr>
 
-    <td> 3544.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs3544" data-uslm-ref="/us/usc/t42/s3544">3544.</a>  </td>
 
     <td> Preventing fraud and abuse in housing and urban development programs.  </td>
 
@@ -169,7 +169,7 @@
 
   <tr>
 
-    <td> 3545.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs3545" data-uslm-ref="/us/usc/t42/s3545">3545.</a>  </td>
 
     <td> HUD accountability.  </td>
 
@@ -177,7 +177,7 @@
 
   <tr>
 
-    <td> 3545a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs3545a" data-uslm-ref="/us/usc/t42/s3545a">3545a.</a>  </td>
 
     <td> Notification of issuance of electronic notice of availability of assistance or funding to be competitively awarded for certain programs or discretionary funds.  </td>
 
@@ -185,7 +185,7 @@
 
   <tr>
 
-    <td> 3546.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs3546" data-uslm-ref="/us/usc/t42/s3546">3546.</a>  </td>
 
     <td> Use of domestic products.  </td>
 
@@ -193,7 +193,7 @@
 
   <tr>
 
-    <td> 3547.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs3547" data-uslm-ref="/us/usc/t42/s3547">3547.</a>  </td>
 
     <td> Special projects.  </td>
 
@@ -201,7 +201,7 @@
 
   <tr>
 
-    <td> 3548.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs3548" data-uslm-ref="/us/usc/t42/s3548">3548.</a>  </td>
 
     <td> Semiannual report on contracts and task orders.  </td>
 
@@ -209,7 +209,7 @@
 
   <tr>
 
-    <td> 3549.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs3549" data-uslm-ref="/us/usc/t42/s3549">3549.</a>  </td>
 
     <td> Investigation of violations.  </td>
 

@@ -33,7 +33,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 3401.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs3401" data-uslm-ref="/us/usc/t42/s3401">3401.</a>  </td>
 
     <td> Declaration of policy.  </td>
 
@@ -41,7 +41,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 3402.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs3402" data-uslm-ref="/us/usc/t42/s3402">3402.</a>  </td>
 
     <td> State facilities and personnel for care and treatment; encouragement of adequate provision; benefit of experience of Surgeon General and Attorney General.  </td>
 
@@ -57,7 +57,9 @@ SUBCHAPTER II—CIVIL COMMITMENT OF PERSONS NOT CHARGED WITH ANY CRIMINAL OFFENS
 
   <tr>
 
-    <td> 3411 to 3426. Repealed.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs3411" data-uslm-ref="/us/usc/t42/s3411">3411</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs3426" data-uslm-ref="/us/usc/t42/s3426">3426.</a>  </td>
+
+    <td> Repealed.  </td>
 
   </tr>
 
@@ -71,7 +73,7 @@ SUBCHAPTER III—REHABILITATION AND POSTHOSPITALIZATION CARE PROGRAMS AND ASSIST
 
   <tr>
 
-    <td> 3441, 3442.   </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs3441" data-uslm-ref="/us/usc/t42/s3441">3441</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs3442" data-uslm-ref="/us/usc/t42/s3442">3442.</a>  </td>
 
     <td> Repealed.  </td>
 

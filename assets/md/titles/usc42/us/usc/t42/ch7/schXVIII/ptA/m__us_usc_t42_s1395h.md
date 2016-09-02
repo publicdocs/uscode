@@ -203,7 +203,7 @@
 
 [Pub. L. 103–432, title I, § 151(b)(4)][/us/pl/103/432/s151/b/4], Oct. 31, 1994, [108 Stat. 4435][/us/stat/108/4435], provided that: 
 
-> “The amendments made by paragraphs (1) and (2) \[amending this section and [section 1395u of this title][/us/usc/t42/s1395u]\] shall apply to contracts with fiscal intermediaries and carriers under title XVIII of the Social Security Act \[this subchapter\] for contract years beginning with 1995.”
+> “The amendments made by paragraphs (1) and (2) \[amending this section and [section 1395u of this title][/us/usc/t42/s1395u]\] shall apply to contracts with fiscal intermediaries and carriers under title XVIII of the Social Security Act \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\] for contract years beginning with 1995.”
 
  __Effective Date of 1993 Amendment__ 
 
@@ -245,7 +245,7 @@
 
 >     “(A) The amendment made by paragraph (1) \[amending this section\] shall apply to claims received on or after the date of enactment of this Act \[Dec. 22, 1987\].
 
->     “(B) The Secretary of Health and Human Services shall provide for such timely amendments to agreements under section 1816 \[this section\], and regulations, to such extent as may be necessary to implement the amendment made by paragraph (1).”
+>     “(B) The Secretary of Health and Human Services shall provide for such timely amendments to agreements under section 1816 \[[42 U.S.C. 1395h][/us/usc/t42/s1395h]\], and regulations, to such extent as may be necessary to implement the amendment made by paragraph (1).”
 
  __Effective Date of 1986 Amendment__ 
 
@@ -253,9 +253,9 @@
 
 >     “(1) Except as provided in paragraph (2), the amendments made by subsections (b) and (c) \[amending this section and [section 1395u of this title][/us/usc/t42/s1395u]\] shall apply to claims received on or after November 1, 1986.
 
->     “(2) Sections 1816(c)(2)(C)) \[sic\] and 1842(c)(2)(C) of the Social Security Act \[subsec. (c)(2)(C) of this section and [section 1395u(c)(2)(C) of this title][/us/usc/t42/s1395u/c/2/C]\], as added by such amendments, shall apply to claims received on or after April 1, 1987.
+>     “(2) Sections 1816(c)(2)(C)) \[sic\] and 1842(c)(2)(C) of the Social Security Act \[[42 U.S.C. 1395h(c)(2)(C)][/us/usc/t42/s1395h/c/2/C], 1395u(c)(2)(C)\], as added by such amendments, shall apply to claims received on or after April 1, 1987.
 
->     “(3) The Secretary of Health and Human Services shall provide for such timely amendments to agreements under section 1816 of the Social Security Act \[this section\] and contracts under section 1842 of such Act \[[section 1395u of this title][/us/usc/t42/s1395u]\], and regulations, to such extent as may be necessary to implement the provisions of this Act on a timely basis.”
+>     “(3) The Secretary of Health and Human Services shall provide for such timely amendments to agreements under section 1816 of the Social Security Act \[[42 U.S.C. 1395h][/us/usc/t42/s1395h]\] and contracts under section 1842 of such Act \[[42 U.S.C. 1395u][/us/usc/t42/s1395u]\], and regulations, to such extent as may be necessary to implement the provisions of this Act on a timely basis.”
 
     Amendment by [section 9352(a)(2) of Pub. L. 99–509][/us/pl/99/509/s9352/a/2] to be implemented by Secretary of Health and Human Services not later than 6 months after Oct. 21, 1986, see [section 9352(c)(1) of Pub. L. 99–509][/us/pl/99/509/s9352/c/1], set out as a note under [section 1320c–2 of this title][/us/usc/t42/s1320c–2].
 
@@ -277,7 +277,7 @@
 
 [Pub. L. 95–142, § 14(c)][/us/pl/95/142/s14/c], (d), Oct. 25, 1977, [91 Stat. 1200][/us/stat/91/1200], provided that:
 
->     “(c) The amendment made by paragraphs (2) and (3) of subsection (a) \[amending this section\] to the extent that they require application of standards, criteria, and procedures developed under section 1816(f) of the Social Security Act \[subsec. (f) of this section\] shall apply to the entering into, renewal, or termination of agreements on and after October 1, 1978.
+>     “(c) The amendment made by paragraphs (2) and (3) of subsection (a) \[amending this section\] to the extent that they require application of standards, criteria, and procedures developed under section 1816(f) of the Social Security Act \[[42 U.S.C. 1395h(f)][/us/usc/t42/s1395h/f]\] shall apply to the entering into, renewal, or termination of agreements on and after October 1, 1978.
 
 >     “(d) Except as provided in subsection (c), the amendment made by subsection (a)(2) \[amending this section\] shall apply to agreements entered into or renewed on or after the date of enactment of this Act \[Oct. 25, 1977\].”
 
@@ -293,7 +293,7 @@
 
 [Pub. L. 100–203, title IV, § 4031(a)(3)(B)][/us/pl/100/203/s4031/a/3/B], Dec. 22, 1987, [101 Stat. 1330–76][/us/stat/101/1330-76], provided that: 
 
-> “The Secretary of Health and Human Services shall provide for such timely amendments to agreements under section 1816 of the Social Security Act \[this section\] and contracts under section 1842 of such Act \[[section 1395u of this title][/us/usc/t42/s1395u]\], and regulations, to such extent as may be necessary to implement the provisions of this subsection \[amending this section and [section 1395u of this title][/us/usc/t42/s1395u]\] on a timely basis.”
+> “The Secretary of Health and Human Services shall provide for such timely amendments to agreements under section 1816 of the Social Security Act \[[42 U.S.C. 1395h][/us/usc/t42/s1395h]\] and contracts under section 1842 of such Act \[[42 U.S.C. 1395u][/us/usc/t42/s1395u]\], and regulations, to such extent as may be necessary to implement the provisions of this subsection \[amending this section and [section 1395u of this title][/us/usc/t42/s1395u]\] on a timely basis.”
 
  __Prohibition of Policies Other Than as Provided by__  __[__  __Section 4031 of Pub. L. 100–203__  __][/us/pl/100/203/s4031]__  __Intended To Slow Down Medicare Payments; Budget Considerations__ 
 
@@ -303,13 +303,13 @@
 
 [Pub. L. 100–203, title IV, § 4032(c)(2)][/us/pl/100/203/s4032/c/2], Dec. 22, 1987, [101 Stat. 1330–77][/us/stat/101/1330-77], provided that: 
 
-> “The Secretary of Health and Human Services shall provide for such timely amendments to agreements under section 1816 \[this section\] and contracts under section 1842 of the Social Security Act \[[section 1395u of this title][/us/usc/t42/s1395u]\], and regulations, to such extent as may be necessary to implement the amendments made by subsections (a) and (b) \[amending this section\] on a timely basis.”
+> “The Secretary of Health and Human Services shall provide for such timely amendments to agreements under section 1816 \[[42 U.S.C. 1395h][/us/usc/t42/s1395h]\] and contracts under section 1842 of the Social Security Act \[[42 U.S.C. 1395u][/us/usc/t42/s1395u]\], and regulations, to such extent as may be necessary to implement the amendments made by subsections (a) and (b) \[amending this section\] on a timely basis.”
 
  __Replacement of Agency, Organization, or Carrier Processing Medicare Claims; Number of Agreements and Contracts Authorized for Fiscal Years 1985 Through 1993__ 
 
 [Pub. L. 98–369, div. B, title III, § 2326(a)][/us/pl/98/369/s2326/a], July 18, 1984, [98 Stat. 1087][/us/stat/98/1087], as amended by [Pub. L. 98–617, § 3(a)(2)][/us/pl/98/617/s3/a/2], Nov. 8, 1984, [98 Stat. 3295][/us/stat/98/3295]; [Pub. L. 99–509, title IX, § 9321(b)][/us/pl/99/509/s9321/b], Oct. 21, 1986, [100 Stat. 2016][/us/stat/100/2016]; [Pub. L. 101–239, title VI, § 6215(a)][/us/pl/101/239/s6215/a], Dec. 19, 1989, [103 Stat. 2252][/us/stat/103/2252]; [Pub. L. 103–432, title I, § 159(a)][/us/pl/103/432/s159/a], Oct. 31, 1994, [108 Stat. 4443][/us/stat/108/4443], provided that: 
 
-> “During each fiscal year (beginning with fiscal year 1985 and ending with fiscal year 1993), the Secretary of Health and Human Services may enter into not more than two agreements under section 1816 of the Social Security Act \[this section\], and not more than two contracts under section 1842 of such Act \[[section 1395u of this title][/us/usc/t42/s1395u]\], on the basis of competitive bidding, without regard to the nominating process under section 1816(a) of such Act or cost reimbursement provisions under sections 1816(c) or 1842(c) of such Act during the term of the agreement. Such procedure may be used only for the purpose of replacing an agency or organization or carrier which over a 2-year period of time has been in the lowest 20th percentile of agencies and organizations or carriers having agreements or contracts under the respective section, as measured by the Secretary’s cost and performance criteria. In addition, beginning with fiscal year 1990 and any subsequent fiscal year the Secretary may enter into such additional agreements and contracts without regard to such cost reimbursement provisions if the fiscal intermediary or carrier involved and the Secretary agree to waive such provisions, but the Secretary may not take any action that has the effect of requiring that the intermediary or carrier agree to waive such provisions, including requiring such a waiver as a condition for entering into or renewing such an agreement or contract. Any agency or organization or carrier selected on the basis of competitive bidding must perform all of the duties listed in section 1816(a) of such Act, or the duties listed in paragraphs (1) through (4) of section 1842(a) of such Act, as the case may be, and must be a health insuring organization (as determined by the Secretary).”
+> “During each fiscal year (beginning with fiscal year 1985 and ending with fiscal year 1993), the Secretary of Health and Human Services may enter into not more than two agreements under section 1816 of the Social Security Act \[[42 U.S.C. 1395h][/us/usc/t42/s1395h]\], and not more than two contracts under section 1842 of such Act \[[42 U.S.C. 1395u][/us/usc/t42/s1395u]\], on the basis of competitive bidding, without regard to the nominating process under section 1816(a) of such Act or cost reimbursement provisions under sections 1816(c) or 1842(c) of such Act during the term of the agreement. Such procedure may be used only for the purpose of replacing an agency or organization or carrier which over a 2-year period of time has been in the lowest 20th percentile of agencies and organizations or carriers having agreements or contracts under the respective section, as measured by the Secretary’s cost and performance criteria. In addition, beginning with fiscal year 1990 and any subsequent fiscal year the Secretary may enter into such additional agreements and contracts without regard to such cost reimbursement provisions if the fiscal intermediary or carrier involved and the Secretary agree to waive such provisions, but the Secretary may not take any action that has the effect of requiring that the intermediary or carrier agree to waive such provisions, including requiring such a waiver as a condition for entering into or renewing such an agreement or contract. Any agency or organization or carrier selected on the basis of competitive bidding must perform all of the duties listed in section 1816(a) of such Act, or the duties listed in paragraphs (1) through (4) of section 1842(a) of such Act, as the case may be, and must be a health insuring organization (as determined by the Secretary).”
 
 \[[Pub. L. 103–432, title I, § 159(b)][/us/pl/103/432/s159/b], Oct. 31, 1994, [108 Stat. 4443][/us/stat/108/4443], provided that: 
 
@@ -329,7 +329,7 @@
 
  __Developmental Date for Standards, Criteria, and Procedures Pursuant to Subsec. (f) of This Section__ 
 
-    [Pub. L. 95–142, § 14(b)][/us/pl/95/142/s14/b], Oct. 15, 1977, [91 Stat. 1200][/us/stat/91/1200], directed the Secretary of Health, Education, and Welfare to develop the standards, criteria, and procedures described in subsection (f) of section 1816 of the Social Security Act \[subsec. (f) of this section\] (as added by subsection (a)(5)) not later than Oct. 1, 1978.
+    [Pub. L. 95–142, § 14(b)][/us/pl/95/142/s14/b], Oct. 15, 1977, [91 Stat. 1200][/us/stat/91/1200], directed the Secretary of Health, Education, and Welfare \[now Health and Human Services\] to develop the standards, criteria, and procedures described in subsection (f) of section 1816 of the Social Security Act \[[42 U.S.C. 1395h(f)][/us/usc/t42/s1395h/f]\] (as added by subsection (a)(5)) not later than Oct. 1, 1978.
 
 ----------
 
@@ -455,6 +455,7 @@
 [/us/pl/103/432/s151/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432%2Fs151%2Fb%2F4
 [/us/stat/108/4435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4435
 [/us/usc/t42/s1395u]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395u
+[/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
 [/us/pl/103/66/s13568/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13568%2Fc
 [/us/stat/107/608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F608
 [/us/usc/t42/s1395u]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395u
@@ -484,10 +485,12 @@
 [/us/stat/101/1330-78]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-78
 [/us/pl/100/203/s4085/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs4085%2Fd%2F2
 [/us/stat/101/1330-131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-131
+[/us/usc/t42/s1395h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395h
 [/us/pl/99/509/s9311/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs9311%2Fd
 [/us/stat/100/1999]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1999
 [/us/usc/t42/s1395u]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395u
-[/us/usc/t42/s1395u/c/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395u%2Fc%2F2%2FC
+[/us/usc/t42/s1395h/c/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395h%2Fc%2F2%2FC
+[/us/usc/t42/s1395h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395h
 [/us/usc/t42/s1395u]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395u
 [/us/pl/99/509/s9352/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs9352%2Fa%2F2
 [/us/pl/99/509/s9352/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs9352%2Fc%2F1
@@ -503,6 +506,7 @@
 [/us/usc/t42/s1395x]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395x
 [/us/pl/95/142/s14/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F142%2Fs14%2Fc
 [/us/stat/91/1200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1200
+[/us/usc/t42/s1395h/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395h%2Ff
 [/us/pl/92/603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603
 [/us/pl/92/603/s243/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603%2Fs243%2Fc
 [/us/pl/100/360/s427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360%2Fs427
@@ -512,6 +516,7 @@
 [/us/pl/100/203/s4031/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs4031%2Fa
 [/us/pl/100/203/s4031/a/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs4031%2Fa%2F3%2FB
 [/us/stat/101/1330-76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-76
+[/us/usc/t42/s1395h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395h
 [/us/usc/t42/s1395u]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395u
 [/us/usc/t42/s1395u]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395u
 [/us/pl/100/203/s4031]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs4031
@@ -522,6 +527,7 @@
 [/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
 [/us/pl/100/203/s4032/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs4032%2Fc%2F2
 [/us/stat/101/1330-77]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-77
+[/us/usc/t42/s1395h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395h
 [/us/usc/t42/s1395u]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395u
 [/us/pl/98/369/s2326/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2326%2Fa
 [/us/stat/98/1087]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1087
@@ -533,6 +539,7 @@
 [/us/stat/103/2252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2252
 [/us/pl/103/432/s159/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432%2Fs159%2Fa
 [/us/stat/108/4443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4443
+[/us/usc/t42/s1395h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395h
 [/us/usc/t42/s1395u]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395u
 [/us/pl/103/432/s159/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432%2Fs159%2Fb
 [/us/stat/108/4443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4443
@@ -547,5 +554,6 @@
 [/us/usc/t42/s1395u]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395u
 [/us/pl/95/142/s14/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F142%2Fs14%2Fb
 [/us/stat/91/1200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1200
+[/us/usc/t42/s1395h/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395h%2Ff
 
 

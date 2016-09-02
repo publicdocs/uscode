@@ -47,7 +47,7 @@
 
 >      Except as provided in paragraph (2), the amendments made by this section \[amending this section and sections 300aa–11 to 300aa–17, 300aa–21, 300aa–23, 300aa–26, and 300aa–27 of this title\] shall apply as follows:
 
->         “(A) Petitions filed after the date of enactment of this section \[Dec. 19, 1989\] shall proceed under the National Vaccine Injury Compensation Program under title XXI of the Public Health Service Act \[this subchapter\] as amended by this section.
+>         “(A) Petitions filed after the date of enactment of this section \[Dec. 19, 1989\] shall proceed under the National Vaccine Injury Compensation Program under title XXI of the Public Health Service Act \[[42 U.S.C. 300aa–1][/us/usc/t42/s300aa–1] et seq.\] as amended by this section.
 
 >         “(B) Petitions currently pending in which the evidentiary record is closed shall continue to proceed under the Program in accordance with the law in effect before the date of the enactment of this section, except that if the United States Court of Federal Claims is to review the findings of fact and conclusions of law of a special master on such a petition, the court may receive further evidence in conducting such review.
 
@@ -79,6 +79,7 @@
 [/us/pl/101/239/s6601/s]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs6601%2Fs
 [/us/pl/102/572/s902/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2Fs902%2Fb%2F1
 [/us/stat/106/4516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4516
+[/us/usc/t42/s300aa–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300aa%E2%80%931
 [/us/usc/t42/s300aa–12/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300aa%E2%80%9312%2Fd
 [/us/usc/t42/s300aa–21/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300aa%E2%80%9321%2Fb
 [/us/usc/t42/s300aa–15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300aa%E2%80%9315

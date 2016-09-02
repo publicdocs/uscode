@@ -5235,7 +5235,7 @@
 
 [Pub. L. 110–173, title I, § 114(e)(2)][/us/pl/110/173/s114/e/2], Dec. 29, 2007, [121 Stat. 2505][/us/stat/121/2505], provided that: 
 
-> “Subsection (m)(2) of section 1886 of the Social Security Act \[subsec. (m)(2) of this section\], as added by paragraph (1), shall not apply to discharges occurring on or after July 1, 2007, and before April 1, 2008.”
+> “Subsection (m)(2) of section 1886 of the Social Security Act \[[42 U.S.C. 1395ww(m)(2)][/us/usc/t42/s1395ww/m/2]\], as added by paragraph (1), shall not apply to discharges occurring on or after July 1, 2007, and before April 1, 2008.”
 
 [Pub. L. 110–173, title I, § 115(a)(2)][/us/pl/110/173/s115/a/2], Dec. 29, 2007, [121 Stat. 2506][/us/stat/121/2506], provided that: 
 
@@ -5387,7 +5387,7 @@
 
 [Pub. L. 105–33, title IV, § 4421(c)][/us/pl/105/33/s4421/c], Aug. 5, 1997, [111 Stat. 413][/us/stat/111/413], provided that: 
 
-> “The amendments made by this section \[amending this section\] shall apply to cost reporting periods beginning on or after October 1, 2000, except that the Secretary of Health and Human Services may require the submission of data under section 1886(j)(2)(D) of the Social Security Act \[subsec. (j)(2)(D) of this section\] (as added by subsection (a)) on and after the date of the enactment of this section \[Aug. 5, 1997\].”
+> “The amendments made by this section \[amending this section\] shall apply to cost reporting periods beginning on or after October 1, 2000, except that the Secretary of Health and Human Services may require the submission of data under section 1886(j)(2)(D) of the Social Security Act \[[42 U.S.C. 1395ww(j)(2)(D)][/us/usc/t42/s1395ww/j/2/D]\] (as added by subsection (a)) on and after the date of the enactment of this section \[Aug. 5, 1997\].”
 
 [Pub. L. 105–33, title IV, § 4627(b)][/us/pl/105/33/s4627/b], Aug. 5, 1997, [111 Stat. 483][/us/stat/111/483], provided that: 
 
@@ -5415,7 +5415,7 @@
 
 [Pub. L. 103–66, title XIII, § 13563(c)(2)][/us/pl/103/66/s13563/c/2], Aug. 10, 1993, [107 Stat. 606][/us/stat/107/606], provided that: 
 
-> “The amendment made by paragraph (1) \[amending this section\] shall apply to payments under section 1886(h) of the Social Security Act \[subsec. (h) of this section\] for cost reporting periods beginning on or after October 1, 1992.”
+> “The amendment made by paragraph (1) \[amending this section\] shall apply to payments under section 1886(h) of the Social Security Act \[[42 U.S.C. 1395ww(h)][/us/usc/t42/s1395ww/h]\] for cost reporting periods beginning on or after October 1, 1992.”
 
  __Effective Date of 1990 Amendment__ 
 
@@ -5483,11 +5483,11 @@
 
 > “The amendments made by this subsection \[amending this section\] shall apply with respect to cost reporting periods beginning on or after October 1, 1989, except that—
 
->     “(A) in the case of a hospital classified by the Secretary of Health and Human Services as a hospital involved extensively in treatment for or research on cancer under section 1886(d)(5)(I) of the Social Security Act \[subsec. (d)(5)(I) of this section\] (as redesignated by section 6003(e)(1)(A)) after the date of the enactment of this Act \[Dec. 19, 1989\], such amendments shall apply with respect to cost reporting periods beginning on or after the date of such classification,
+>     “(A) in the case of a hospital classified by the Secretary of Health and Human Services as a hospital involved extensively in treatment for or research on cancer under section 1886(d)(5)(I) of the Social Security Act \[[42 U.S.C. 1395ww(d)(5)(I)][/us/usc/t42/s1395ww/d/5/I]\] (as redesignated by section 6003(e)(1)(A)) after the date of the enactment of this Act \[Dec. 19, 1989\], such amendments shall apply with respect to cost reporting periods beginning on or after the date of such classification,
 
->     “(B) in the case of a hospital that is not described in subparagraph (A), such amendments shall apply with respect to portions of cost reporting periods or discharges occurring during and after fiscal year 1987 for purposes of section 1886(g) of the Social Security Act \[subsec. (g) of this section\], and
+>     “(B) in the case of a hospital that is not described in subparagraph (A), such amendments shall apply with respect to portions of cost reporting periods or discharges occurring during and after fiscal year 1987 for purposes of section 1886(g) of the Social Security Act \[[42 U.S.C. 1395ww(g)][/us/usc/t42/s1395ww/g]\], and
 
->     “(C) such amendments shall take effect 30 days after the date of the enactment of this Act for purposes of determining the eligibility of a hospital to receive periodic interim payments under section 1815(e)(2) of the Social Security Act \[[section 1395g(e)(2) of this title][/us/usc/t42/s1395g/e/2]\].”
+>     “(C) such amendments shall take effect 30 days after the date of the enactment of this Act for purposes of determining the eligibility of a hospital to receive periodic interim payments under section 1815(e)(2) of the Social Security Act \[[42 U.S.C. 1395g(e)(2)][/us/usc/t42/s1395g/e/2]\].”
 
 [Pub. L. 101–239, title VI, § 6004(b)(2)][/us/pl/101/239/s6004/b/2], Dec. 19, 1989, [103 Stat. 2160][/us/stat/103/2160], provided that: 
 
@@ -5519,19 +5519,19 @@
 
 >     In the case of a subsection (d) hospital (as defined in paragraph (6))—
 
->         “(A) the amendments made by subsections (a) and (c) \[amending this section\] shall apply to payments made under section 1886(d)(1)(A)(iii) of the Social Security Act \[subsec. (d)(1)(A)(iii) of this section\] on the basis of discharges occurring on or after April 1, 1988, and
+>         “(A) the amendments made by subsections (a) and (c) \[amending this section\] shall apply to payments made under section 1886(d)(1)(A)(iii) of the Social Security Act \[[42 U.S.C. 1395ww(d)(1)(A)(iii)][/us/usc/t42/s1395ww/d/1/A/iii]\] on the basis of discharges occurring on or after April 1, 1988, and
 
->         “(B) for discharges occurring on or after October 1, 1988, the applicable percentage increase (described in section 1886(b)(3)(B) of such Act \[subsec. (b)(3)(B) of this section\]) for discharges occurring during fiscal year 1987 is deemed to have been such percentage increase as amended by subsection (a).
+>         “(B) for discharges occurring on or after October 1, 1988, the applicable percentage increase (described in section 1886(b)(3)(B) of such Act \[[42 U.S.C. 1395ww(b)(3)(B)][/us/usc/t42/s1395ww/b/3/B]\]) for discharges occurring during fiscal year 1987 is deemed to have been such percentage increase as amended by subsection (a).
 
 >     “(2) __PPS sole community hospitals, hospital specific portion of payment.—__ 
 
->     In the case of a subsection (d) hospital which receives payments made under section 1886(d)(1)(A) of the Social Security Act \[subsec. (d)(1)(A) of this section\] because it is a sole community hospital—
+>     In the case of a subsection (d) hospital which receives payments made under section 1886(d)(1)(A) of the Social Security Act \[[42 U.S.C. 1395ww(d)(1)(A)][/us/usc/t42/s1395ww/d/1/A]\] because it is a sole community hospital—
 
 >         “(A) the amendment made by subsections (a) and (c) \[amending this section\] shall apply to payments under section 1886(d)(1)(A)(ii)(I) of the Social Security Act made on the basis of discharges occurring during a cost reporting period of a hospital, for the hospital’s cost reporting period beginning on or after October 1, 1987;
 
 >         “(B)
 
->          notwithstanding subparagraph (A), for cost reporting period beginning during fiscal year 1988, the applicable percentage increase (as defined in section 1886(b)(3)(B) of such Act \[subsec. (b)(3)(B) of this section\]) for the—
+>          notwithstanding subparagraph (A), for cost reporting period beginning during fiscal year 1988, the applicable percentage increase (as defined in section 1886(b)(3)(B) of such Act \[[42 U.S.C. 1395ww(b)(3)(B)][/us/usc/t42/s1395ww/b/3/B]\]) for the—
 
 >             “(i) first 51 days of the cost reporting period shall be 0 percent,
 
@@ -5547,7 +5547,7 @@
 
 >         “(A) the amendments made by subsection (e) \[amending this section\] shall apply to cost reporting periods beginning on or after October 1, 1987;
 
->         “(B) notwithstanding subparagraph (A), for the hospital’s cost reporting period beginning during fiscal year 1988, payment under title XVIII of the Social Security Act \[this subchapter\] shall be made as though the applicable percentage increase described in section 1886(b)(3)(B) of such Act \[subsec. (b)(3)(B) of this section\] were equal to the product of 2.7 percent and the ratio of 315 to 366; and
+>         “(B) notwithstanding subparagraph (A), for the hospital’s cost reporting period beginning during fiscal year 1988, payment under title XVIII of the Social Security Act \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\] shall be made as though the applicable percentage increase described in section 1886(b)(3)(B) of such Act \[[42 U.S.C. 1395ww(b)(3)(B)][/us/usc/t42/s1395ww/b/3/B]\] were equal to the product of 2.7 percent and the ratio of 315 to 366; and
 
 >         “(C) for cost reporting periods beginning on or after October 1, 1988, the applicable percentage increase (as so defined) with respect to the cost reporting period beginning during fiscal year 1988 shall be deemed to have been 2.7 percent.
 
@@ -5557,11 +5557,11 @@
 
 >     “(5) __Transition for large urban area rates.—__ 
 
->     In computing the average standardized amount for hospitals located in a large urban area or other urban area under section 1886(d)(3)(A)(ii) of the Social Security Act \[subsec. (d)(3)(A)(ii) of this section\] (as amended by subsection (c)) for fiscal year 1988, the reference to ‘the respective average standardized amount computed for the previous fiscal year under this subparagraph’ is deemed a reference to the average standardized amount computed for hospitals located in an urban area for the 51-day period beginning on October 1, 1987.
+>     In computing the average standardized amount for hospitals located in a large urban area or other urban area under section 1886(d)(3)(A)(ii) of the Social Security Act \[[42 U.S.C. 1395ww(d)(3)(A)(ii)][/us/usc/t42/s1395ww/d/3/A/ii]\] (as amended by subsection (c)) for fiscal year 1988, the reference to ‘the respective average standardized amount computed for the previous fiscal year under this subparagraph’ is deemed a reference to the average standardized amount computed for hospitals located in an urban area for the 51-day period beginning on October 1, 1987.
 
 >     “(6) __Definition.—__ 
 
->     In this subsection, the term ‘subsection (d) hospital’ has the meaning given such term in section 1886(d)(1)(B) of the Social Security Act \[subsec. (d)(1)(B) of this section\].”
+>     In this subsection, the term ‘subsection (d) hospital’ has the meaning given such term in section 1886(d)(1)(B) of the Social Security Act \[[42 U.S.C. 1395ww(d)(1)(B)][/us/usc/t42/s1395ww/d/1/B]\].”
 
 [Pub. L. 100–203, title IV, § 4003(e)][/us/pl/100/203/s4003/e], Dec. 22, 1987, [101 Stat. 1330–47][/us/stat/101/1330-47], provided that: 
 
@@ -5609,7 +5609,7 @@
 
 [Pub. L. 99–509, title IX, § 9302(a)(3)][/us/pl/99/509/s9302/a/3], Oct. 21, 1986, [100 Stat. 1982][/us/stat/100/1982], provided that: 
 
-> “The amendment made by paragraph (1) \[amending this section\] shall apply to cost reporting periods beginning on or after October 1, 1986 and, for purposes of section 1886(d) of the Social Security Act \[subsec. (d) of this section\], for cost reporting periods beginning and discharges occurring on or after October 1, 1986.”
+> “The amendment made by paragraph (1) \[amending this section\] shall apply to cost reporting periods beginning on or after October 1, 1986 and, for purposes of section 1886(d) of the Social Security Act \[[42 U.S.C. 1395ww(d)][/us/usc/t42/s1395ww/d]\], for cost reporting periods beginning and discharges occurring on or after October 1, 1986.”
 
 [Pub. L. 99–509, title IX, § 9302(b)(2)][/us/pl/99/509/s9302/b/2], Oct. 21, 1986, [100 Stat. 1982][/us/stat/100/1982], provided that: 
 
@@ -5653,19 +5653,19 @@
 
 >     In the case of a subsection (d) hospital (as defined in paragraph (4))—
 
->         “(A) the amendment made by subsection (b) \[amending this section\] shall apply to payments made under section 1886(d)(1)(A) of such Act \[subsec. (d)(1)(A) of this section\] made on the basis of discharges occurring on or after May 1, 1986; and
+>         “(A) the amendment made by subsection (b) \[amending this section\] shall apply to payments made under section 1886(d)(1)(A) of such Act \[[42 U.S.C. 1395ww(d)(1)(A)][/us/usc/t42/s1395ww/d/1/A]\] made on the basis of discharges occurring on or after May 1, 1986; and
 
->         “(B) for discharges occurring on or after October 1, 1986, the applicable percentage increase (described in section 1886(b)(3)(B) \[subsec. (b)(3)(B) of this section\]) for discharges occurring during fiscal year 1986 shall be deemed to have been ½ percent.
+>         “(B) for discharges occurring on or after October 1, 1986, the applicable percentage increase (described in section 1886(b)(3)(B) \[[42 U.S.C. 1395ww(b)(3)(B)][/us/usc/t42/s1395ww/b/3/B]\]) for discharges occurring during fiscal year 1986 shall be deemed to have been ½ percent.
 
 >     “(2) __PPS hospitals, hospital specific portion of payment.—__ 
 
 >     In the case of a subsection (d) hospital—
 
->         “(A) the amendment made by subsection (b) \[amending this section\] shall apply to payments under section 1886(d)(1)(A) of the Social Security Act \[subsec. (d)(1)(A) of this section\] made on the basis of discharges occurring during a cost reporting period of a hospital, for the hospital’s cost reporting periods beginning on or after October 1, 1985;
+>         “(A) the amendment made by subsection (b) \[amending this section\] shall apply to payments under section 1886(d)(1)(A) of the Social Security Act \[[42 U.S.C. 1395ww(d)(1)(A)][/us/usc/t42/s1395ww/d/1/A]\] made on the basis of discharges occurring during a cost reporting period of a hospital, for the hospital’s cost reporting periods beginning on or after October 1, 1985;
 
 >         “(B)
 
->          notwithstanding subparagraph (A), for the cost reporting period beginning during fiscal year 1986, the applicable percentage increase (as defined in section 1886(b)(3)(B) of such Act \[subsec. (b)(3)(B) of this section\]) for the—
+>          notwithstanding subparagraph (A), for the cost reporting period beginning during fiscal year 1986, the applicable percentage increase (as defined in section 1886(b)(3)(B) of such Act \[[42 U.S.C. 1395ww(b)(3)(B)][/us/usc/t42/s1395ww/b/3/B]\]) for the—
 
 >             “(i) first 7 months of the cost reporting period shall be 0 percent, and
 
@@ -5679,13 +5679,13 @@
 
 >         “(A) the amendment made by subsection (b) \[amending this section\] shall apply to cost reporting periods beginning on or after October 1, 1985;
 
->         “(B) notwithstanding subparagraph (A), for the hospital’s cost reporting period beginning during fiscal year 1986, payment under title XVIII of the Social Security Act \[this subchapter\] shall be made as though the applicable percentage increase described in section 1886(b)(3)(B) \[subsec. (b)(3)(B) of this section\] were equal to 5⁄24 of 1 percent; and
+>         “(B) notwithstanding subparagraph (A), for the hospital’s cost reporting period beginning during fiscal year 1986, payment under title XVIII of the Social Security Act \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\] shall be made as though the applicable percentage increase described in section 1886(b)(3)(B) \[[42 U.S.C. 1395ww(b)(3)(B)][/us/usc/t42/s1395ww/b/3/B]\] were equal to 5⁄24 of 1 percent; and
 
 >         “(C) for cost reporting periods beginning on or after October 1, 1986, the applicable percentage increase (as so defined) with respect to the cost reporting period beginning during fiscal year 1986 shall be deemed to have been ½ percent.
 
 >     “(4) __Definition.—__ 
 
->     In this subsection, the term ‘subsection (d) hospital’ has the meaning given such term in section 1886(d)(1)(B) of the Social Security Act \[subsec. (d)(1)(B) of this section\].”
+>     In this subsection, the term ‘subsection (d) hospital’ has the meaning given such term in section 1886(d)(1)(B) of the Social Security Act \[[42 U.S.C. 1395ww(d)(1)(B)][/us/usc/t42/s1395ww/d/1/B]\].”
 
 [Pub. L. 99–272, title IX, § 9102(d)][/us/pl/99/272/s9102/d], Apr. 7, 1986, [100 Stat. 155][/us/stat/100/155], provided that:
 
@@ -5697,7 +5697,7 @@
 
     “(A) to cost reporting periods beginning on or after October 1, 1985, but
 
-    “(B) notwithstanding subparagraph (A), for a hospital’s cost reporting period beginning during fiscal year 1986, for purposes of section 1886(d)(1)(A) of the Social Security Act \[subsec. (d)(1)(A) of this section\]—
+    “(B) notwithstanding subparagraph (A), for a hospital’s cost reporting period beginning during fiscal year 1986, for purposes of section 1886(d)(1)(A) of the Social Security Act \[[42 U.S.C. 1395ww(d)(1)(A)][/us/usc/t42/s1395ww/d/1/A]\]—
 
     “(i) during the first 7 months of the period the ‘target percentage’ is 50 percent and the ‘DRG percentage’ is 50 percent, and
 
@@ -5707,15 +5707,15 @@
 
     “(4) Exception.—
 
-    “(A) Notwithstanding any other provision of this subsection, the amendments made by this section \[amending this section\] shall not apply to payments with respect to the operating costs of inpatient hospital services (as defined in section 1886(a)(4) of the Social Security Act \[subsec. (a)(4) of this section\]) of a subsection (d) hospital (as defined in section 1886(d)(1)(B) of such Act \[subsec. (d)(1)(B) of this section\]) located in the State of Oregon.
+    “(A) Notwithstanding any other provision of this subsection, the amendments made by this section \[amending this section\] shall not apply to payments with respect to the operating costs of inpatient hospital services (as defined in section 1886(a)(4) of the Social Security Act \[[42 U.S.C. 1395ww(a)(4)][/us/usc/t42/s1395ww/a/4]\]) of a subsection (d) hospital (as defined in section 1886(d)(1)(B) of such Act \[[42 U.S.C. 1395ww(d)(1)(B)][/us/usc/t42/s1395ww/d/1/B]\]) located in the State of Oregon.
 
-    “(B) Notwithstanding any other provision of law, for a cost reporting period beginning during fiscal year 1986 of a subsection (d) hospital to which the amendments made by this section \[amending this section\] do not apply, for purposes of section 1886(d)(1)(A) of of \[sic\] Social Security Act \[subsec. (d)(1)(A) of this section\]—
+    “(B) Notwithstanding any other provision of law, for a cost reporting period beginning during fiscal year 1986 of a subsection (d) hospital to which the amendments made by this section \[amending this section\] do not apply, for purposes of section 1886(d)(1)(A) of of \[sic\] Social Security Act \[[42 U.S.C. 1395ww(d)(1)(A)][/us/usc/t42/s1395ww/d/1/A]\]—
 
     “(i) during the first 7 months of the period the ‘target percentage’ is 50 percent and the ‘DRG percentage’ is 50 percent, and
 
     “(ii) during the remaining 5 months of the period the ‘target percentage’ is 25 percent and the ‘DRG percentage’ is 75 percent.
 
-    “(C) Notwithstanding any other provision of law, for purposes of section 1886(d)(1)(D) of such Act \[subsec. (d)(1)(D) of this section\], the applicable combined adjusted DRG prospective payment rate for a subsection (d) hospital to which the amendments made by this section \[amending this section\] do not apply is, for discharges occurring on or after October 1, 1985, and before May 1, 1986, a combined rate consisting of 25 percent of the national adjusted DRG prospective payment rate and 75 percent of the regional adjusted DRG prospective payment rate for such discharges.”
+    “(C) Notwithstanding any other provision of law, for purposes of section 1886(d)(1)(D) of such Act \[[42 U.S.C. 1395ww(d)(1)(D)][/us/usc/t42/s1395ww/d/1/D]\], the applicable combined adjusted DRG prospective payment rate for a subsection (d) hospital to which the amendments made by this section \[amending this section\] do not apply is, for discharges occurring on or after October 1, 1985, and before May 1, 1986, a combined rate consisting of 25 percent of the national adjusted DRG prospective payment rate and 75 percent of the regional adjusted DRG prospective payment rate for such discharges.”
 
 [Pub. L. 99–272, title IX, § 9104(c)][/us/pl/99/272/s9104/c], Apr. 7, 1986, [100 Stat. 158][/us/stat/100/158], provided that:
 
@@ -5763,7 +5763,7 @@
 
 >     “(1) Except as provided in paragraph (2), the amendments made by subsections (b) and (c) \[amending this section\] shall be effective with respect to cost reporting periods beginning on or after October 1, 1983, and the amendment made by subsection (a) \[amending this section\] shall be effective with respect to cost reporting periods beginning on or after October 1, 1984.
 
->     “(2) The amendment made by subsection (b) \[amending this section\] shall not apply so as to reduce any payment under section 1886(d) of the Social Security Act \[subsec. (d) of this section\] to a hospital the region of which is deemed to be changed pursuant to such amendment for discharges occurring in any cost reporting period beginning before October 1, 1984.”
+>     “(2) The amendment made by subsection (b) \[amending this section\] shall not apply so as to reduce any payment under section 1886(d) of the Social Security Act \[[42 U.S.C. 1395ww(d)][/us/usc/t42/s1395ww/d]\] to a hospital the region of which is deemed to be changed pursuant to such amendment for discharges occurring in any cost reporting period beginning before October 1, 1984.”
 
 [Pub. L. 98–369, div. B, title III, § 2312(c)][/us/pl/98/369/s2312/c], July 18, 1984, [98 Stat. 1078][/us/stat/98/1078], as amended by [Pub. L. 99–509, title IX, § 9320(a)][/us/pl/99/509/s9320/a], Oct. 21, 1986, [100 Stat. 2013][/us/stat/100/2013]; [Pub. L. 100–360, title IV, § 411(p)][/us/pl/100/360/s411/p], July 1, 1988, as added by [Pub. L. 100–485, title VI, § 608(d)(29)][/us/pl/100/485/s608/d/29], Oct. 13, 1988, [102 Stat. 2424][/us/stat/102/2424], provided that: 
 
@@ -5787,13 +5787,13 @@
 
 >         (1) Except as provided in section 602(l) \[amending [section 1395cc of this title][/us/usc/t42/s1395cc]\] and in paragraph (2), the amendments made by the preceding provisions of this title \[amending this section and sections 1320c–2, 1395f, 1395n, 1395x, 1395y, 1395cc, 1395mm, 1395oo, 1395rr, and 1395xx of this title\] apply to items and services furnished by or under arrangements with a hospital beginning with its first cost reporting period that begins on or after October 1, 1983. A change in a hospital’s cost reporting period that has been made after November 1982 shall be recognized for purposes of this section only if the Secretary finds good cause for that change.
 
->         “(2) Section 1866(a)(1)(F) of the Social Security Act \[[section 1395cc(a)(1)(F) of this title][/us/usc/t42/s1395cc/a/1/F]\] (as added by [section 602(f)(1)(C) of this title][/us/usc/t42/s602/f/1/C]), section 1862(a)(14) \[[section 1395y(a)(14) of this title][/us/usc/t42/s1395y/a/14]\] (as added by [section 602(e)(3) of this title][/us/usc/t42/s602/e/3]) and sections 1886(a)(1)(G) and (H) of such Act \[probably should be section 1866(a)(1)(G) and (H) which is classified to section 1395cc(a)(1)(G) and (H) of this title\] (as added by [section 602(f)(1)(C) of this title][/us/usc/t42/s602/f/1/C]) take effect on October 1, 1983.
+>         “(2) Section 1866(a)(1)(F) of the Social Security Act \[[42 U.S.C. 1395cc(a)(1)(F)][/us/usc/t42/s1395cc/a/1/F]\] (as added by [section 602(f)(1)(C) of this title][/us/usc/t42/s602/f/1/C]), section 1862(a)(14) \[[42 U.S.C. 1395y(a)(14)][/us/usc/t42/s1395y/a/14]\] (as added by [section 602(e)(3) of this title][/us/usc/t42/s602/e/3]) and sections 1886(a)(1)(G) and (H) of such Act \[probably should be section 1866(a)(1)(G) and (H), [42 U.S.C. 1395cc(a)(1)(G)][/us/usc/t42/s1395cc/a/1/G], (H)\] (as added by [section 602(f)(1)(C) of this title][/us/usc/t42/s602/f/1/C]) take effect on October 1, 1983.
 
->     “(b) The Secretary shall make an appropriate reduction in the payment amount under section 1886(d) of the Social Security Act \[subsec. (d) of this section\] (as amended by this title) for any discharge, if the admission has occurred before a hospital’s first cost reporting period that begins after September 1983, to take into account amounts payable under title XVIII of that Act \[this subchapter\] (as in effect before the date of the enactment of this Act \[Apr. 20, 1983\]) for items and services furnished before that period.
+>     “(b) The Secretary shall make an appropriate reduction in the payment amount under section 1886(d) of the Social Security Act \[[42 U.S.C. 1395ww(d)][/us/usc/t42/s1395ww/d]\] (as amended by this title) for any discharge, if the admission has occurred before a hospital’s first cost reporting period that begins after September 1983, to take into account amounts payable under title XVIII of that Act \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\] (as in effect before the date of the enactment of this Act \[Apr. 20, 1983\]) for items and services furnished before that period.
 
 >     “(c)
 
->         (1) The Secretary shall cause to be published in the Federal Register a notice of the interim final DRG prospective payment rates established under subsection (d) of section 1886 of the Social Security Act \[subsec. (d) of this section\] (as amended by this title) no later than September 1, 1983, and allow for a period of public comment thereon. Payment on the basis of prospective rates shall become effective on October 1, 1983, without the necessity for consideration of comments received, but the Secretary shall, by notice published in the Federal Register, affirm or modify the amounts by December 31, 1983, after considering those comments.
+>         (1) The Secretary shall cause to be published in the Federal Register a notice of the interim final DRG prospective payment rates established under subsection (d) of section 1886 of the Social Security Act \[[42 U.S.C. 1395ww(d)][/us/usc/t42/s1395ww/d]\] (as amended by this title) no later than September 1, 1983, and allow for a period of public comment thereon. Payment on the basis of prospective rates shall become effective on October 1, 1983, without the necessity for consideration of comments received, but the Secretary shall, by notice published in the Federal Register, affirm or modify the amounts by December 31, 1983, after considering those comments.
 
 >         “(2) A modification under paragraph (1) that reduces a prospective payment rate shall apply only to discharges occurring after 30 days after the date the notice of the modification is published in the Federal Register.
 
@@ -5815,7 +5815,7 @@
 
 [Pub. L. 98–369, div. B, title III, § 2315(f)(2)][/us/pl/98/369/s2315/f/2], July 18, 1984, [98 Stat. 1080][/us/stat/98/1080], provided that: 
 
-> “Notwithstanding section 604(c) of the Social Security Amendments of 1983 \[[section 604(c) of Pub. L. 98–21][/us/pl/98/21/s604/c], set out above\], the Secretary of Health and Human Services shall cause to be published in the Federal Register proposed regulations to carry out subsection (c) of section 1886 of the Social Security Act \[subsec. (c) of this section\] not later than July 1, 1984, and allow for a period of 45 days for public comment thereon. After consideration of the comments received, the Secretary shall cause to be published in the Federal Register final regulations to carry out such subsection not later than October 1, 1984.”
+> “Notwithstanding section 604(c) of the Social Security Amendments of 1983 \[[section 604(c) of Pub. L. 98–21][/us/pl/98/21/s604/c], set out above\], the Secretary of Health and Human Services shall cause to be published in the Federal Register proposed regulations to carry out subsection (c) of section 1886 of the Social Security Act \[[42 U.S.C. 1395ww(c)][/us/usc/t42/s1395ww/c]\] not later than July 1, 1984, and allow for a period of 45 days for public comment thereon. After consideration of the comments received, the Secretary shall cause to be published in the Federal Register final regulations to carry out such subsection not later than October 1, 1984.”
 
 [Pub. L. 97–248, title I, § 101(b)(2)(A)][/us/pl/97/248/s101/b/2/A], Sept. 3, 1982, [96 Stat. 335][/us/stat/96/335], provided that: 
 
@@ -6215,7 +6215,7 @@
 
 >     “(1) __In general.—__ 
 
->     During the 5-year period beginning on the date of the enactment of this Act \[Dec. 29, 2007\], the Secretary \[of Health and Human Services\] shall impose a moratorium for purposes of the Medicare program under title XVIII of the Social Security Act \[this subchapter\]—
+>     During the 5-year period beginning on the date of the enactment of this Act \[Dec. 29, 2007\], the Secretary \[of Health and Human Services\] shall impose a moratorium for purposes of the Medicare program under title XVIII of the Social Security Act \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\]—
 
 >         “(A) subject to paragraph (2), on the establishment and classification of a long-term care hospital or satellite facility, other than an existing long-term care hospital or facility; and
 
@@ -6261,7 +6261,7 @@
 
 >     “(1) __In general.—__ 
 
->     The Secretary of Health and Human Services shall provide, under contracts with one or more appropriate fiscal intermediaries or medicare administrative contractors under section 1874A(a)(4)(G) of the Social Security Act ([42 U.S.C. 1395kk–1(a)(4)(G)][/us/usc/t42/s1395kk–1/a/4/G]), for reviews of the medical necessity of admissions to long-term care hospitals (described in section 1886(d)(1)(B)(iv) of such Act \[subsec. (d)(1)(B)(iv) of this section\]) and continued stay at such hospitals, of individuals entitled to, or enrolled for, benefits under part A of title XVIII of such Act \[part A of this subchapter\] consistent with this subsection. Such reviews shall be made for discharges occurring on or after October 1, 2007.
+>     The Secretary of Health and Human Services shall provide, under contracts with one or more appropriate fiscal intermediaries or medicare administrative contractors under section 1874A(a)(4)(G) of the Social Security Act ([42 U.S.C. 1395kk–1(a)(4)(G)][/us/usc/t42/s1395kk–1/a/4/G]), for reviews of the medical necessity of admissions to long-term care hospitals (described in section 1886(d)(1)(B)(iv) of such Act \[[42 U.S.C. 1395ww(d)(1)(B)(iv)][/us/usc/t42/s1395ww/d/1/B/iv]\]) and continued stay at such hospitals, of individuals entitled to, or enrolled for, benefits under part A of title XVIII of such Act \[[42 U.S.C. 1395c][/us/usc/t42/s1395c] et seq.\] consistent with this subsection. Such reviews shall be made for discharges occurring on or after October 1, 2007.
 
 >     “(2) __Review methodology.—__ 
 
@@ -6369,7 +6369,7 @@
 
 >     “(a) __In General.—__ 
 
->     Notwithstanding section 412.23(b)(2) of title 42, Code of Federal Regulations, the Secretary of Health and Human Services shall require a compliance rate that is no greater than the 60 percent compliance rate that became effective for cost reporting periods beginning on or after July 1, 2006, in the classification criterion used under the IRF regulation (as defined in subsection (c)) to determine whether a hospital or unit of a hospital is an inpatient rehabilitation facility under the Medicare program under title XVIII of the Social Security Act \[this subchapter\].
+>     Notwithstanding section 412.23(b)(2) of title 42, Code of Federal Regulations, the Secretary of Health and Human Services shall require a compliance rate that is no greater than the 60 percent compliance rate that became effective for cost reporting periods beginning on or after July 1, 2006, in the classification criterion used under the IRF regulation (as defined in subsection (c)) to determine whether a hospital or unit of a hospital is an inpatient rehabilitation facility under the Medicare program under title XVIII of the Social Security Act \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\].
 
 >     “(b) __Continued Use of Comorbidities.—__ 
 
@@ -6433,7 +6433,7 @@
 
 >             “(A) remuneration for purposes of section 1128B of the Social Security Act ([42 U.S.C. 1320a–7b][/us/usc/t42/s1320a–7b]);
 
->             “(B) a payment intended to induce a physician to reduce or limit services to a patient entitled to benefits under Medicare or a State plan approved under title XIX of such Act \[subchapter XIX of this chapter\] in violation of section 1128A of such Act ([42 U.S.C. 1320a–7a][/us/usc/t42/s1320a–7a]); or
+>             “(B) a payment intended to induce a physician to reduce or limit services to a patient entitled to benefits under Medicare or a State plan approved under title XIX of such Act \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\] in violation of section 1128A of such Act ([42 U.S.C. 1320a–7a][/us/usc/t42/s1320a–7a]); or
 
 >             “(C) a financial relationship for purposes of section 1877 of such Act ([42 U.S.C. 1395nn][/us/usc/t42/s1395nn]).
 
@@ -6497,7 +6497,7 @@
 
 >         “(3) __Medicare.—__ 
 
->         The term ‘Medicare’ means the programs under title XVIII of the Social Security Act \[this subchapter\].
+>         The term ‘Medicare’ means the programs under title XVIII of the Social Security Act \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\].
 
 >         “(4) __Physician.—__ 
 
@@ -6609,7 +6609,7 @@
 
 >                 “(iii) makes available 24-hour emergency care services; and
 
->                 “(iv) is not eligible for designation, or has not been designated, as a critical access hospital under section 1820 \[probably means section 1820 of the Social Security Act which is classified to [section 1395i–4 of this title][/us/usc/t42/s1395i–4]\].
+>                 “(iv) is not eligible for designation, or has not been designated, as a critical access hospital under section 1820 \[probably means section 1820 of the Social Security Act, [42 U.S.C. 1395i–4][/us/usc/t42/s1395i–4]\].
 
 >             “(B) __Treatment of psychiatric and rehabilitation units.—__ 
 
@@ -6647,7 +6647,7 @@
 
 [Pub. L. 108–173, title IV, § 422(c)][/us/pl/108/173/s422/c], Dec. 8, 2003, [117 Stat. 2286][/us/stat/117/2286], provided that: 
 
-> “Not later than July 1, 2005, the Secretary \[of Health and Human Services\] shall submit to Congress a report containing recommendations regarding whether to extend the deadline for applications for an increase in resident limits under section 1886(h)(4)(I)(ii)(II) of the Social Security Act \[section 1886(h)(4) (subsec. (h)(4) of this section) does not contain a subpar. (I)\] (as added by subsection (a)).”
+> “Not later than July 1, 2005, the Secretary \[of Health and Human Services\] shall submit to Congress a report containing recommendations regarding whether to extend the deadline for applications for an increase in resident limits under section 1886(h)(4)(I)(ii)(II) of the Social Security Act \[section 1886(h)(4) ([42 U.S.C. 1395ww(h)(4)][/us/usc/t42/s1395ww/h/4]) does not contain a subpar. (I)\] (as added by subsection (a)).”
 
  __MedPAC Study on Rural Hospital Payment Adjustments__ 
 
@@ -6687,7 +6687,7 @@
 
 [Pub. L. 108–173, title V, § 503(d)(2)][/us/pl/108/173/s503/d/2], Dec. 8, 2003, [117 Stat. 2292][/us/stat/117/2292], provided that: 
 
-> “There shall be no reduction or other adjustment in payments under section 1886 of the Social Security Act \[this section\] because an additional payment is provided under subsection (d)(5)(K)(ii)(III) of such section.”
+> “There shall be no reduction or other adjustment in payments under section 1886 of the Social Security Act \[[42 U.S.C. 1395ww][/us/usc/t42/s1395ww]\] because an additional payment is provided under subsection (d)(5)(K)(ii)(III) of such section.”
 
  __One-Time Appeals Process for Hospital Wage Index Classification__ 
 
@@ -6745,7 +6745,7 @@
 
 >     “(g) __Disregarding Hospital Reclassifications for Purposes of Group Reclassifications.—__ 
 
->     For purposes of the reclassification of a group of hospitals in a geographic area under section 1886(d) of the Social Security Act \[subsec. (d) of this section\] for purposes of discharges occurring beginning on October 1, 2007, and ending on the last date of the extension of reclassifications under section 106(a) of the Medicare Improvement\[s\] and Extension Act of 2006 (division B of [Public Law 109–432][/us/pl/109/432]) \[set out above\], a hospital reclassified under this section (including any such reclassification which is extended under section 106(a) of the Medicare Improvements and Extension Act of 2006) \[div. B of [Pub. L. 109–432][/us/pl/109/432], set out as a note under this section\] shall not be taken into account and shall not prevent the other hospitals in such area from continuing such a group for such purpose.”
+>     For purposes of the reclassification of a group of hospitals in a geographic area under section 1886(d) of the Social Security Act \[[42 U.S.C. 1395ww(d)][/us/usc/t42/s1395ww/d]\] for purposes of discharges occurring beginning on October 1, 2007, and ending on the last date of the extension of reclassifications under section 106(a) of the Medicare Improvement\[s\] and Extension Act of 2006 (division B of [Public Law 109–432][/us/pl/109/432]) \[set out above\], a hospital reclassified under this section (including any such reclassification which is extended under section 106(a) of the Medicare Improvements and Extension Act of 2006) \[div. B of [Pub. L. 109–432][/us/pl/109/432], set out as a note under this section\] shall not be taken into account and shall not prevent the other hospitals in such area from continuing such a group for such purpose.”
 
  __Exception to Initial Residency Period for Geriatric Residency or Fellowship Programs__ 
 
@@ -6781,7 +6781,7 @@
 
 [Pub. L. 108–173, title IX, § 951][/us/pl/108/173/s951], Dec. 8, 2003, [117 Stat. 2427][/us/stat/117/2427], provided that: 
 
-> “Beginning not later than 1 year after the date of the enactment of this Act \[Dec. 8, 2003\], the Secretary \[of Health and Human Services\] shall arrange to furnish to subsection (d) hospitals (as defined in section 1886(d)(1)(B) of the Social Security Act, [42 U.S.C. 1395ww(d)(1)(B)][/us/usc/t42/s1395ww/d/1/B]) the data necessary for such hospitals to compute the number of patient days used in computing the disproportionate patient percentage under such section for that hospital for the current cost reporting year. Such data shall also be furnished to other hospitals which would qualify for additional payments under part A of title XVIII of the Social Security Act \[part A of this subchapter\] on the basis of such data.”
+> “Beginning not later than 1 year after the date of the enactment of this Act \[Dec. 8, 2003\], the Secretary \[of Health and Human Services\] shall arrange to furnish to subsection (d) hospitals (as defined in section 1886(d)(1)(B) of the Social Security Act, [42 U.S.C. 1395ww(d)(1)(B)][/us/usc/t42/s1395ww/d/1/B]) the data necessary for such hospitals to compute the number of patient days used in computing the disproportionate patient percentage under such section for that hospital for the current cost reporting year. Such data shall also be furnished to other hospitals which would qualify for additional payments under part A of title XVIII of the Social Security Act \[[42 U.S.C. 1395c][/us/usc/t42/s1395c] et seq.\] on the basis of such data.”
 
  __Special Rules for Payment for Fiscal Year 2001__ 
 
@@ -6839,7 +6839,7 @@
 
 >         “(A)
 
->          any increased costs incurred by subsection (d) hospitals (as defined in paragraph (1)(B) of section 1886(d) of the Social Security Act ([42 U.S.C. 1395ww(d)][/us/usc/t42/s1395ww/d])) in providing inpatient hospital services to medicare beneficiaries under title XVIII of such Act \[this subchapter\] during the period beginning on October 1, 1983, and ending on September 30, 1999, that were attributable to—
+>          any increased costs incurred by subsection (d) hospitals (as defined in paragraph (1)(B) of section 1886(d) of the Social Security Act ([42 U.S.C. 1395ww(d)][/us/usc/t42/s1395ww/d])) in providing inpatient hospital services to medicare beneficiaries under title XVIII of such Act \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\] during the period beginning on October 1, 1983, and ending on September 30, 1999, that were attributable to—
 
 >             “(i) complying with new blood safety measure requirements; and
 
@@ -6889,7 +6889,7 @@
 
 >     “(A) the collection of data under paragraph (1) \[set out above\]; and
 
->     “(B) the measurement under the third sentence of section 1886(d)(3)(E) \[subsection (d)(3)(E) of this section\], as amended by paragraph (2).”
+>     “(B) the measurement under the third sentence of section 1886(d)(3)(E) \[[42 U.S.C. 1395ww(d)(3)(E)][/us/usc/t42/s1395ww/d/3/E]\], as amended by paragraph (2).”
 
  __Payment for Inpatient Services of Psychiatric Hospitals__ 
 
@@ -6903,7 +6903,7 @@
 
 >     “(1) __Report.—__ 
 
->     Not later than April 1, 2001, the Secretary of Health and Human Services shall submit to Congress a report on methods of expeditiously incorporating new medical services and technologies into the clinical coding system used with respect to payment for inpatient hospital services furnished under the medicare program under title XVIII of the Social Security Act \[this subchapter\], together with a detailed description of the Secretary’s preferred methods to achieve this purpose.
+>     Not later than April 1, 2001, the Secretary of Health and Human Services shall submit to Congress a report on methods of expeditiously incorporating new medical services and technologies into the clinical coding system used with respect to payment for inpatient hospital services furnished under the medicare program under title XVIII of the Social Security Act \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\], together with a detailed description of the Secretary’s preferred methods to achieve this purpose.
 
 >     “(2) __Implementation.—__ 
 
@@ -6913,7 +6913,7 @@
 
 [Pub. L. 106–554, § 1(a)(6)][/us/pl/106/554/s1/a/6] \[title V, § 533(b)(2)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–549, provided that: 
 
-> “The Secretary of Health and Human Services shall consult with groups representing hospitals, physicians, and manufacturers of new medical technologies before publishing the notice of proposed rulemaking required by section 1886(d)(5)(K)(i) of the Social Security Act \[subsection (d)(5)(K)(i) of this section\] (as added by paragraph (1)).”
+> “The Secretary of Health and Human Services shall consult with groups representing hospitals, physicians, and manufacturers of new medical technologies before publishing the notice of proposed rulemaking required by section 1886(d)(5)(K)(i) of the Social Security Act \[[42 U.S.C. 1395ww(d)(5)(K)(i)][/us/usc/t42/s1395ww/d/5/K/i]\] (as added by paragraph (1)).”
 
  __Special Payments To Maintain 6.5 Percent IME Payment for Fiscal Year 2000__ 
 
@@ -6949,7 +6949,7 @@
 
 >     “(1) __Modification of requirement.—__ 
 
->     In developing the prospective payment system for payment for inpatient hospital services provided in long-term care hospitals described in section 1886(d)(1)(B)(iv) of the Social Security Act ([42 U.S.C. 1395ww(d)(1)(B)(iv)][/us/usc/t42/s1395ww/d/1/B/iv]) under the medicare program under title XVIII of such Act \[this subchapter\] required under section 123 of BBRA \[[Pub. L. 106–113, § 1000(a)(6)][/us/pl/106/113/s1000/a/6] \[title I, § 123\], set out as a note below\], the Secretary of Health and Human Services shall examine the feasibility and the impact of basing payment under such a system on the use of existing (or refined) hospital diagnosis-related groups (DRGs) that have been modified to account for different resource use of long-term care hospital patients as well as the use of the most recently available hospital discharge data. The Secretary shall examine and may provide for appropriate adjustments to the long-term hospital payment system, including adjustments to DRG weights, area wage adjustments, geographic reclassification, outliers, updates, and a disproportionate share adjustment consistent with section 1886(d)(5)(F) of the Social Security Act ([42 U.S.C. 1395ww(d)(5)(F)][/us/usc/t42/s1395ww/d/5/F]).
+>     In developing the prospective payment system for payment for inpatient hospital services provided in long-term care hospitals described in section 1886(d)(1)(B)(iv) of the Social Security Act ([42 U.S.C. 1395ww(d)(1)(B)(iv)][/us/usc/t42/s1395ww/d/1/B/iv]) under the medicare program under title XVIII of such Act \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\] required under section 123 of BBRA \[[Pub. L. 106–113, § 1000(a)(6)][/us/pl/106/113/s1000/a/6] \[title I, § 123\], set out as a note below\], the Secretary of Health and Human Services shall examine the feasibility and the impact of basing payment under such a system on the use of existing (or refined) hospital diagnosis-related groups (DRGs) that have been modified to account for different resource use of long-term care hospital patients as well as the use of the most recently available hospital discharge data. The Secretary shall examine and may provide for appropriate adjustments to the long-term hospital payment system, including adjustments to DRG weights, area wage adjustments, geographic reclassification, outliers, updates, and a disproportionate share adjustment consistent with section 1886(d)(5)(F) of the Social Security Act ([42 U.S.C. 1395ww(d)(5)(F)][/us/usc/t42/s1395ww/d/5/F]).
 
 >     “(2) __Default implementation of system based on existing drg methodology.—__ 
 
@@ -7085,11 +7085,11 @@
 
 >     “(1) __In general.—__ 
 
->     Any hospital classified as a rural referral center by the Secretary of Health and Human Services under section 1886(d)(5)(C) of the Social Security Act \[subsec. (d)(5)(C) of this section\] for fiscal year 1991 shall be classified as such a rural referral center for fiscal year 1998 and each subsequent fiscal year.
+>     Any hospital classified as a rural referral center by the Secretary of Health and Human Services under section 1886(d)(5)(C) of the Social Security Act \[[42 U.S.C. 1395ww(d)(5)(C)][/us/usc/t42/s1395ww/d/5/C]\] for fiscal year 1991 shall be classified as such a rural referral center for fiscal year 1998 and each subsequent fiscal year.
 
 >     “(2) __Budget neutrality.—__ 
 
->     The provisions of section 1886(d)(8)(D) of the Social Security Act \[subsec. (d)(8)(D) of this section\] shall apply to reclassifications made pursuant to paragraph (1) in the same manner as such provisions apply to a reclassification under section 1886(d)(10) of such Act \[subsec. (d)(10) of this section\].”
+>     The provisions of section 1886(d)(8)(D) of the Social Security Act \[[42 U.S.C. 1395ww(d)(8)(D)][/us/usc/t42/s1395ww/d/8/D]\] shall apply to reclassifications made pursuant to paragraph (1) in the same manner as such provisions apply to a reclassification under section 1886(d)(10) of such Act \[[42 U.S.C. 1395ww(d)(10)][/us/usc/t42/s1395ww/d/10]\].”
 
  __Hospital Geographic Reclassification Permitted for Purposes of Disproportionate Share Payment Adjustments__ 
 
@@ -7115,7 +7115,7 @@
 
 >     In the case of a hospital described in paragraph (2) for its cost reporting period—
 
->         “(A) beginning in fiscal year 1998 the amount of payment made to the hospital under section 1886(d) of the Social Security Act \[subsec. (d) of this section\] for discharges occurring during such fiscal year only shall be increased as though the applicable percentage increase (otherwise applicable to discharges occurring during fiscal year 1998 under section 1886(b)(3)(B)(i)(XIII) of the Social Security Act ([42 U.S.C. 1395ww(b)(3)(B)(i)(XIII)][/us/usc/t42/s1395ww/b/3/B/i/XIII])) had been increased by 0.5 percentage points; and
+>         “(A) beginning in fiscal year 1998 the amount of payment made to the hospital under section 1886(d) of the Social Security Act \[[42 U.S.C. 1395ww(d)][/us/usc/t42/s1395ww/d]\] for discharges occurring during such fiscal year only shall be increased as though the applicable percentage increase (otherwise applicable to discharges occurring during fiscal year 1998 under section 1886(b)(3)(B)(i)(XIII) of the Social Security Act ([42 U.S.C. 1395ww(b)(3)(B)(i)(XIII)][/us/usc/t42/s1395ww/b/3/B/i/XIII])) had been increased by 0.5 percentage points; and
 
 >         “(B) beginning in fiscal year 1999 the amount of payment made to the hospital under section 1886(d) of the Social Security Act for discharges occurring during such fiscal year only shall be increased as though the applicable percentage increase (otherwise applicable to discharges occurring during fiscal year 1999 under section 1886(b)(3)(B)(i)(XIV) of the Social Security Act ([42 U.S.C. 1395ww(b)(3)(B)(i)(XIV)][/us/usc/t42/s1395ww/b/3/B/i/XIV])) had been increased by 0.3 percentage points.
 
@@ -7127,7 +7127,7 @@
 
 >         “(A) that is described in paragraph (3) for such period;
 
->         “(B) that is located in a State in which the amount of the aggregate payments under section 1886(d) of such Act \[subsec. (d) of this section\] for hospitals located in the State and described in paragraph (3) for their cost reporting periods beginning during fiscal year 1995 is less than the aggregate allowable operating costs of inpatient hospital services (as defined in section 1886(a)(4) of such Act) for all such hospitals in such State with respect to such cost reporting periods; and
+>         “(B) that is located in a State in which the amount of the aggregate payments under section 1886(d) of such Act \[[42 U.S.C. 1395ww(d)][/us/usc/t42/s1395ww/d]\] for hospitals located in the State and described in paragraph (3) for their cost reporting periods beginning during fiscal year 1995 is less than the aggregate allowable operating costs of inpatient hospital services (as defined in section 1886(a)(4) of such Act) for all such hospitals in such State with respect to such cost reporting periods; and
 
 >         “(C) with respect to which the payments under section 1886(d) of such Act ([42 U.S.C. 1395ww(d)][/us/usc/t42/s1395ww/d]) for discharges occurring in the cost reporting period involved, as estimated by the Secretary, is less than the allowable operating costs of inpatient hospital services (as defined in section 1886(a)(4) of such Act ([42 U.S.C. 1395ww(a)(4)][/us/usc/t42/s1395ww/a/4])\[)\] for such hospital for such period, as estimated by the Secretary.
 
@@ -7163,9 +7163,9 @@
 
 >          The costs described in this paragraph are as follows:
 
->             “(A) The costs incurred by the hospital during a period (as determined by the Secretary) of furnishing hospital services to individuals who are entitled to benefits under part A of title XVIII of the Social Security Act \[part A of this subchapter\] and who receive supplemental security income benefits under title XVI of such Act \[subchapter XVI of this chapter\] (excluding any supplementation of those benefits by a State under section 1616 of such Act ([42 U.S.C. 1382e][/us/usc/t42/s1382e])).
+>             “(A) The costs incurred by the hospital during a period (as determined by the Secretary) of furnishing hospital services to individuals who are entitled to benefits under part A of title XVIII of the Social Security Act \[[42 U.S.C. 1395c][/us/usc/t42/s1395c] et seq.\] and who receive supplemental security income benefits under title XVI of such Act \[[42 U.S.C. 1381][/us/usc/t42/s1381] et seq.\] (excluding any supplementation of those benefits by a State under section 1616 of such Act ([42 U.S.C. 1382e][/us/usc/t42/s1382e])).
 
->             “(B) The costs incurred by the hospital during a period (as so determined) of furnishing hospital services to individuals who receive medical assistance under the State plan under title XIX of such Act \[subchapter XIX of this chapter\] and are not entitled to benefits under part A of title XVIII of such Act \[part A of this subchapter\] (including individuals enrolled in a managed care organization (as defined in section 1903(m)(1)(A) of such Act ([42 U.S.C. 1396b(m)(1)(A)][/us/usc/t42/s1396b/m/1/A]) or any other managed care plan under such title and individuals who receive medical assistance under such title pursuant to a waiver approved by the Secretary under section 1115 of such Act ([42 U.S.C. 1315][/us/usc/t42/s1315])).
+>             “(B) The costs incurred by the hospital during a period (as so determined) of furnishing hospital services to individuals who receive medical assistance under the State plan under title XIX of such Act \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\] and are not entitled to benefits under part A of title XVIII of such Act \[[42 U.S.C. 1395c][/us/usc/t42/s1395c] et seq.\] (including individuals enrolled in a managed care organization (as defined in section 1903(m)(1)(A) of such Act ([42 U.S.C. 1396b(m)(1)(A)][/us/usc/t42/s1396b/m/1/A]) or any other managed care plan under such title and individuals who receive medical assistance under such title pursuant to a waiver approved by the Secretary under section 1115 of such Act ([42 U.S.C. 1315][/us/usc/t42/s1315])).
 
 >     “(c) __Data Collection.—__ 
 
@@ -7203,7 +7203,7 @@
 
 >     “(c) __Exclusion of Certain Wages.—__ 
 
->     In the case of a hospital that is owned by a municipality and that was reclassified as an urban hospital under section 1886(d)(10) of the Social Security Act \[subsec. (d)(10) of this section\] for fiscal year 1996, in calculating the hospital’s average hourly wage for purposes of geographic reclassification under such section for fiscal year 1998, the Secretary of Health and Human Services shall exclude the general service wages and hours of personnel associated with a skilled nursing facility that is owned by the hospital of the same municipality and that is physically separated from the hospital to the extent that such wages and hours of such personnel are not shared with the hospital and are separately documented. A hospital that applied for and was denied reclassification as an urban hospital for fiscal year 1998, but that would have received reclassification had the exclusion required by this section been applied to it, shall be reclassified as an urban hospital for fiscal year 1998.”
+>     In the case of a hospital that is owned by a municipality and that was reclassified as an urban hospital under section 1886(d)(10) of the Social Security Act \[[42 U.S.C. 1395ww(d)(10)][/us/usc/t42/s1395ww/d/10]\] for fiscal year 1996, in calculating the hospital’s average hourly wage for purposes of geographic reclassification under such section for fiscal year 1998, the Secretary of Health and Human Services shall exclude the general service wages and hours of personnel associated with a skilled nursing facility that is owned by the hospital of the same municipality and that is physically separated from the hospital to the extent that such wages and hours of such personnel are not shared with the hospital and are separately documented. A hospital that applied for and was denied reclassification as an urban hospital for fiscal year 1998, but that would have received reclassification had the exclusion required by this section been applied to it, shall be reclassified as an urban hospital for fiscal year 1998.”
 
  __Report on Effect of Amendments by__  __[__  __Pub. L. 105–33, § 4415__  __][/us/pl/105/33/s4415]__  __, on Psychiatric Hospitals__ 
 
@@ -7217,11 +7217,11 @@
 
 >     “(1) __Application to cost reporting periods.—__ 
 
->     Any classification by reason of section 1886(d)(1)(B)(v)(III) of the Social Security Act \[subsec. (d)(1)(B)(v)(III) of this section\] (as added by subsection (a)) shall apply to 12-month cost reporting periods beginning on or after July 1, 1999.
+>     Any classification by reason of section 1886(d)(1)(B)(v)(III) of the Social Security Act \[[42 U.S.C. 1395ww(d)(1)(B)(v)(III)][/us/usc/t42/s1395ww/d/1/B/v/III]\] (as added by subsection (a)) shall apply to 12-month cost reporting periods beginning on or after July 1, 1999.
 
 >     “(2) __Base year.—__ 
 
->     Notwithstanding the provisions of section 1886(b)(3)(E) of such Act ([42 U.S.C. 1395ww(b)(3)(E)][/us/usc/t42/s1395ww/b/3/E]) or other provisions to the contrary, the base cost reporting period for purposes of determining the target amount for any hospital classified by reason of section 1886(d)(1)(B)(v)(III) of such Act \[subsec. (d)(1)(B)(v)(III) of this section\] (as added by subsection (a)) shall be the 12-month cost reporting period beginning on July 1, 1995.
+>     Notwithstanding the provisions of section 1886(b)(3)(E) of such Act ([42 U.S.C. 1395ww(b)(3)(E)][/us/usc/t42/s1395ww/b/3/E]) or other provisions to the contrary, the base cost reporting period for purposes of determining the target amount for any hospital classified by reason of section 1886(d)(1)(B)(v)(III) of such Act \[[42 U.S.C. 1395ww(d)(1)(B)(v)(III)][/us/usc/t42/s1395ww/d/1/B/v/III]\] (as added by subsection (a)) shall be the 12-month cost reporting period beginning on July 1, 1995.
 
 >     “(3) __Deadline for payments.—__ 
 
@@ -7267,7 +7267,7 @@
 
 >             “(A) may require such long-term care hospitals to submit such information to the Secretary as the Secretary may require to develop the proposal; and
 
->             “(B) shall consider several payment methodologies, including the feasibility of expanding the current diagnosis-related groups and prospective payment system established under section 1886(d) of the Social Security Act \[subsec. (d) of this section\] to apply to payments under the medicare program to long-term care hospitals.
+>             “(B) shall consider several payment methodologies, including the feasibility of expanding the current diagnosis-related groups and prospective payment system established under section 1886(d) of the Social Security Act \[[42 U.S.C. 1395ww(d)][/us/usc/t42/s1395ww/d]\] to apply to payments under the medicare program to long-term care hospitals.
 
 >     “(b) __Report.—__ 
 
@@ -7301,7 +7301,7 @@
 
 >         The hospital-specific relative value projected for a teaching hospital in a year shall be equal to the sum of—
 
->             “(A) the average per discharge relative value (as determined under section 1848(c)(2) of such Act \[[section 1395w–4(c)(2) of this title][/us/usc/t42/s1395w–4/c/2]\]) for physicians’ services furnished to inpatients of the hospital by the hospital’s medical staff (excluding interns and residents) during the second year preceding that calendar year, and
+>             “(A) the average per discharge relative value (as determined under section 1848(c)(2) of such Act \[[42 U.S.C. 1395w–4(c)(2)][/us/usc/t42/s1395w–4/c/2]\]) for physicians’ services furnished to inpatients of the hospital by the hospital’s medical staff (excluding interns and residents) during the second year preceding that calendar year, and
 
 >             “(B) the equivalent per discharge relative value (as determined under such section) for physicians’ services furnished to inpatients of the hospital by interns and residents of the hospital during the second year preceding that calendar year, adjusted for variations in case-mix among hospitals, and in disproportionate share status and teaching status among hospitals (as determined by the Secretary under paragraph (3)).
 
@@ -7357,11 +7357,11 @@
 
 >     “(b) __Relation to Demonstration Projects and Authority.—__ 
 
->         “(1) Section 1886(h)(6) of the Social Security Act \[subsec. (h)(6) of this section\], added by subsection (a), other than subparagraph (F)(ii) thereof, shall not apply to any residency training program with respect to which a demonstration project described in paragraph (3) has been approved by the Health Care Financing Administration as of May 27, 1997.
+>         “(1) Section 1886(h)(6) of the Social Security Act \[[42 U.S.C. 1395ww(h)(6)][/us/usc/t42/s1395ww/h/6]\], added by subsection (a), other than subparagraph (F)(ii) thereof, shall not apply to any residency training program with respect to which a demonstration project described in paragraph (3) has been approved by the Health Care Financing Administration as of May 27, 1997.
 
 >         “(2) Effective May 27, 1997, the Secretary of Health and Human Services is not authorized to approve any demonstration project described in paragraph (3) for any residency training year beginning before July 1, 2006.
 
->         “(3) A demonstration project described in this paragraph is a project that primarily provides for additional payments under title XVIII of the Social Security Act \[this subchapter\] in connection with a reduction in the number of residents in a medical residency training program.
+>         “(3) A demonstration project described in this paragraph is a project that primarily provides for additional payments under title XVIII of the Social Security Act \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\] in connection with a reduction in the number of residents in a medical residency training program.
 
 >     “(c) __Interim, Final Regulations.—__ 
 
@@ -7373,7 +7373,7 @@
 
 >     “(a) __In General.—__ 
 
->     The Secretary of Health and Human Services (in this section referred to as the ‘Secretary’) shall establish a demonstration project under which, instead of making payments to teaching hospitals pursuant to section 1886(h) of the Social Security Act \[subsec. (h) of this section\], the Secretary shall make payments under this section to each consortium that meets the requirements of subsection (b) and that applies to be included under the project.
+>     The Secretary of Health and Human Services (in this section referred to as the ‘Secretary’) shall establish a demonstration project under which, instead of making payments to teaching hospitals pursuant to section 1886(h) of the Social Security Act \[[42 U.S.C. 1395ww(h)][/us/usc/t42/s1395ww/h]\], the Secretary shall make payments under this section to each consortium that meets the requirements of subsection (b) and that applies to be included under the project.
 
 >     “(b) __Qualifying Consortia.—__ 
 
@@ -7405,7 +7405,7 @@
 
 >     “(c) __Amount and Source of Payment.—__ 
 
->     The total of payments to a qualifying consortium for a fiscal year pursuant to subsection (a) shall not exceed the amount that would have been paid under section 1886(h) or (k) of the Social Security Act \[subsecs. (h), (k) of this section\] for the teaching hospital (or hospitals) in the consortium. Such payments shall be made in such proportion from each of the trust funds established under title XVIII of such Act \[this subchapter\] as the Secretary specifies.”
+>     The total of payments to a qualifying consortium for a fiscal year pursuant to subsection (a) shall not exceed the amount that would have been paid under section 1886(h) or (k) of the Social Security Act \[[42 U.S.C. 1395ww(h)][/us/usc/t42/s1395ww/h], (k)\] for the teaching hospital (or hospitals) in the consortium. Such payments shall be made in such proportion from each of the trust funds established under title XVIII of such Act \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\] as the Secretary specifies.”
 
  __Recommendations on Long-Term Policies Regarding Teaching Hospitals and Graduate Medical Education__ 
 
@@ -7413,7 +7413,7 @@
 
 >     “(a) __In General.—__ 
 
->     The Medicare Payment Advisory Commission (established under section 1805 of the Social Security Act \[[section 1395b–6 of this title][/us/usc/t42/s1395b–6]\] and in this section referred to as the ‘Commission’) shall examine and develop recommendations on whether and to what extent medicare payment policies and other Federal policies regarding teaching hospitals and graduate medical education should be changed. Such recommendations shall include recommendations regarding each of the following:
+>     The Medicare Payment Advisory Commission (established under section 1805 of the Social Security Act \[[42 U.S.C. 1395b–6][/us/usc/t42/s1395b–6]\] and in this section referred to as the ‘Commission’) shall examine and develop recommendations on whether and to what extent medicare payment policies and other Federal policies regarding teaching hospitals and graduate medical education should be changed. Such recommendations shall include recommendations regarding each of the following:
 
 >         “(1)
 
@@ -7459,7 +7459,7 @@
 
 >     The Secretary of Health and Human Services shall conduct a study with respect to—
 
->         “(1) variations among hospitals in the hospital overhead and supervisory physician components of their direct medical education costs taken into account under section 1886(h) of the Social Security Act \[subsec. (h) of this section\], and
+>         “(1) variations among hospitals in the hospital overhead and supervisory physician components of their direct medical education costs taken into account under section 1886(h) of the Social Security Act \[[42 U.S.C. 1395ww(h)][/us/usc/t42/s1395ww/h]\], and
 
 >         “(2) the reasons for such variations.
 
@@ -7483,13 +7483,13 @@
 
 [Pub. L. 105–33, title IV, § 4644(c)(2)][/us/pl/105/33/s4644/c/2], Aug. 5, 1997, [111 Stat. 488][/us/stat/111/488], provided that: 
 
-> “In the case of an application for a change in geographic classification under such section \[subsec. (d)(10)(C)(ii) of this section\] for fiscal year 1999, the Secretary of Health and Human Services shall shorten the deadlines under such section so as to permit completion of a final decision by the Secretary by June 15, 1998.”
+> “In the case of an application for a change in geographic classification under such section \[[42 U.S.C. 1395ww(d)(10)(C)(ii)][/us/usc/t42/s1395ww/d/10/C/ii]\] for fiscal year 1999, the Secretary of Health and Human Services shall shorten the deadlines under such section so as to permit completion of a final decision by the Secretary by June 15, 1998.”
 
  __No Standardized Amount Adjustments for Fiscal Years 1992 or 1993__ 
 
 [Pub. L. 103–66, title XIII, § 13501(b)(2)][/us/pl/103/66/s13501/b/2], Aug. 10, 1993, [107 Stat. 574][/us/stat/107/574], provided that: 
 
-> “The Secretary of Health and Human Services shall not revise the fiscal year 1992 or fiscal year 1993 standardized amounts pursuant to subsections (d)(3)(B) and (d)(8)(D) of section 1886 of the Social Security Act \[subsec. (d)(3)(B) and (d)(8)(D) of this section\] to account for the amendment made by paragraph (1) \[amending this section\].”
+> “The Secretary of Health and Human Services shall not revise the fiscal year 1992 or fiscal year 1993 standardized amounts pursuant to subsections (d)(3)(B) and (d)(8)(D) of section 1886 of the Social Security Act \[[42 U.S.C. 1395ww(d)(3)(B)][/us/usc/t42/s1395ww/d/3/B], (d)(8)(D)\] to account for the amendment made by paragraph (1) \[amending this section\].”
 
  __Extension of Regional Referral Center Classifications Through Fiscal Year 1994; Reclassification__ 
 
@@ -7497,7 +7497,7 @@
 
 >     “(1) __Extension of classification through fiscal year 1994.—__ 
 
->     Any hospital that is classified as a regional referral center under section 1886(d)(5)(C) of the Social Security Act \[subsec. (d)(5)(C) of this section\] as of September 30, 1992, shall continue to be so classified for cost reporting periods beginning during fiscal year 1993 or fiscal year 1994, unless the area in which the hospital is located is redesignated as a Metropolitan Statistical Area by the Office of Management and Budget for such a fiscal year.
+>     Any hospital that is classified as a regional referral center under section 1886(d)(5)(C) of the Social Security Act \[[42 U.S.C. 1395ww(d)(5)(C)][/us/usc/t42/s1395ww/d/5/C]\] as of September 30, 1992, shall continue to be so classified for cost reporting periods beginning during fiscal year 1993 or fiscal year 1994, unless the area in which the hospital is located is redesignated as a Metropolitan Statistical Area by the Office of Management and Budget for such a fiscal year.
 
 >     “(2) __Permitting hospitals to decline reclassification.—__ 
 
@@ -7511,7 +7511,7 @@
 
 >          if the hospital—
 
->             “(i) declines such reclassification, administer the Social Security Act \[this chapter\] (other than section 1886(d)(8)(D)) for such fiscal year as if the decision by the Review Board had not occurred, or
+>             “(i) declines such reclassification, administer the Social Security Act \[[42 U.S.C. 301][/us/usc/t42/s301] et seq.\] (other than section 1886(d)(8)(D)) for such fiscal year as if the decision by the Review Board had not occurred, or
 
 >             “(ii) fails to decline such reclassification, administer the Social Security Act without regard to paragraph (1).
 
@@ -7531,13 +7531,13 @@
 
 >     “(2) __Permitting hospitals to decline reclassification.—__ 
 
->     If any hospital fails to qualify as a medicare-dependent, small rural hospital under section 1886(d)(5)(G)(i) of the Social Security Act \[subsec. (d)(5)(G)(i) of this section\] as a result of a decision by the Medicare Geographic Classification Review Board under section 1886(d)(10) of such Act to reclassify the hospital as being located in an urban area for fiscal year 1993, fiscal year 1994, fiscal year 1998, fiscal year 1999, or fiscal year 2000 through fiscal year 2013, the Secretary of Health and Human Services shall—
+>     If any hospital fails to qualify as a medicare-dependent, small rural hospital under section 1886(d)(5)(G)(i) of the Social Security Act \[[42 U.S.C. 1395ww(d)(5)(G)(i)][/us/usc/t42/s1395ww/d/5/G/i]\] as a result of a decision by the Medicare Geographic Classification Review Board under section 1886(d)(10) of such Act to reclassify the hospital as being located in an urban area for fiscal year 1993, fiscal year 1994, fiscal year 1998, fiscal year 1999, or fiscal year 2000 through fiscal year 2013, the Secretary of Health and Human Services shall—
 
 >         “(A) notify such hospital of such failure to qualify,
 
 >         “(B) provide an opportunity for such hospital to decline such reclassification, and
 
->         “(C) if the hospital declines such reclassification, administer the Social Security Act \[this chapter\] (other than section 1886(d)(8)(D)) for such fiscal year as if the decision by the Review Board had not occurred.
+>         “(C) if the hospital declines such reclassification, administer the Social Security Act \[[42 U.S.C. 301][/us/usc/t42/s301] et seq.\] (other than section 1886(d)(8)(D)) for such fiscal year as if the decision by the Review Board had not occurred.
 
 >     “(3) __Requiring lump-sum retroactive payment.—__ 
 
@@ -7555,7 +7555,7 @@
 
 >     “(1) __In general.—__ 
 
->     In determining the amount of payment to be made under section 1886(h) of the Social Security Act \[subsec. (h) of this section\] in the case of a hospital described in paragraph (2) for cost reporting periods beginning on or after October 1, 1992, the Secretary of Health and Human Services shall redetermine the approved FTE resident amount to reflect the amount that would have been paid the hospital if, during the hospital’s base cost reporting period, the hospital had been liable for FICA taxes or for contributions to the retirement system of a State, a political subdivision of a State, or an instrumentality of such a State or political subdivision with respect to interns and residents in its medical residency training program.
+>     In determining the amount of payment to be made under section 1886(h) of the Social Security Act \[[42 U.S.C. 1395ww(h)][/us/usc/t42/s1395ww/h]\] in the case of a hospital described in paragraph (2) for cost reporting periods beginning on or after October 1, 1992, the Secretary of Health and Human Services shall redetermine the approved FTE resident amount to reflect the amount that would have been paid the hospital if, during the hospital’s base cost reporting period, the hospital had been liable for FICA taxes or for contributions to the retirement system of a State, a political subdivision of a State, or an instrumentality of such a State or political subdivision with respect to interns and residents in its medical residency training program.
 
 >     “(2) __Hospitals affected.—__ 
 
@@ -7573,7 +7573,7 @@
 
 [Pub. L. 101–508, title IV, § 4002(d)(1)][/us/pl/101/508/s4002/d/1], Nov. 5, 1990, [104 Stat. 1388–35][/us/stat/104/1388-35], provided that:
 
->     “(A) For purposes of section 1886(d)(3)(E) of the Social Security Act \[subsec. (d)(3)(E) of this section\] for discharges occurring on or after January 1, 1991, and before October 1, 1993, the Secretary of Health and Human Services shall apply an area wage index determined using the survey of the 1988 wages and wage-related costs of hospitals in the United States conducted under such section.
+>     “(A) For purposes of section 1886(d)(3)(E) of the Social Security Act \[[42 U.S.C. 1395ww(d)(3)(E)][/us/usc/t42/s1395ww/d/3/E]\] for discharges occurring on or after January 1, 1991, and before October 1, 1993, the Secretary of Health and Human Services shall apply an area wage index determined using the survey of the 1988 wages and wage-related costs of hospitals in the United States conducted under such section.
 
 >     “(B) The Secretary shall apply the wage index described in subparagraph (A) without regard to a previous survey of wages and wage-related costs.”
 
@@ -7585,7 +7585,7 @@
 
 [Pub. L. 101–508, title IV, § 4002(h)(2)(A)][/us/pl/101/508/s4002/h/2/A], Nov. 5, 1990, [104 Stat. 1388–38][/us/stat/104/1388-38], provided that: 
 
-> “For purposes of determining whether a hospital requesting a change in geographic classification for fiscal year 1992 under section 1886(d)(10) of the Social Security Act \[subsec. (d)(10) of this section\] has met the deadline described in subparagraph (C)(ii) of such section, an application submitted under such subparagraph shall be considered to have been submitted by the first day of the preceding fiscal year if it is submitted within 60 days of the date of publication of the guidelines described in subparagraph (D)(i) of such section.”
+> “For purposes of determining whether a hospital requesting a change in geographic classification for fiscal year 1992 under section 1886(d)(10) of the Social Security Act \[[42 U.S.C. 1395ww(d)(10)][/us/usc/t42/s1395ww/d/10]\] has met the deadline described in subparagraph (C)(ii) of such section, an application submitted under such subparagraph shall be considered to have been submitted by the first day of the preceding fiscal year if it is submitted within 60 days of the date of publication of the guidelines described in subparagraph (D)(i) of such section.”
 
  __Payments for Medical Education Costs__ 
 
@@ -7595,7 +7595,7 @@
 
 >         “(1) __In general.—__ 
 
->         The Secretary of Health and Human Services may not, before October 1, 1991, recoup payments from a hospital because of alleged overpayments to such hospital under part A of title XVIII of the Social Security Act \[part A of this subchapter\] due to a determination that the amount of payments made for graduate medical education programs exceeds the amount allowable under section 1886(h) \[subsec. (h) of this section\].
+>         The Secretary of Health and Human Services may not, before October 1, 1991, recoup payments from a hospital because of alleged overpayments to such hospital under part A of title XVIII of the Social Security Act \[[42 U.S.C. 1395c][/us/usc/t42/s1395c] et seq.\] due to a determination that the amount of payments made for graduate medical education programs exceeds the amount allowable under section 1886(h) \[[42 U.S.C. 1395ww(h)][/us/usc/t42/s1395ww/h]\].
 
 >         “(2) __Cap on annual amount of recoupment.—__ 
 
@@ -7627,7 +7627,7 @@
 
 >             “(A) __In general.—__ 
 
->             The Secretary of Health and Human Services may not recoup payments from (or otherwise reduce or adjust payments under part A of title XVIII of the Social Security Act to) a hospital because of alleged overpayments to such hospital under such title due to a determination that costs which were reported by the hospital on its medicare cost reports for cost reporting periods beginning on or after October 1, 1983, and before October 1, 1990, relating to approved nursing and allied health education programs did not meet the requirements for allowable nursing and allied health education costs (as developed by the Secretary pursuant to section 1861(v) of such Act \[[section 1395x(v) of this title][/us/usc/t42/s1395x/v]\]).
+>             The Secretary of Health and Human Services may not recoup payments from (or otherwise reduce or adjust payments under part A of title XVIII of the Social Security Act to) a hospital because of alleged overpayments to such hospital under such title due to a determination that costs which were reported by the hospital on its medicare cost reports for cost reporting periods beginning on or after October 1, 1983, and before October 1, 1990, relating to approved nursing and allied health education programs did not meet the requirements for allowable nursing and allied health education costs (as developed by the Secretary pursuant to section 1861(v) of such Act \[[42 U.S.C. 1395x(v)][/us/usc/t42/s1395x/v]\]).
 
 >             “(B) __Refund of amounts recouped.—__ 
 
@@ -7647,7 +7647,7 @@
 
 >         “(1) __In general.—__ 
 
->         The Secretary of Health and Human Services may not, before October 1, 1991, recoup payments from a hospital because of alleged overpayments to such hospital under part B of title XVIII of the Social Security Act \[part B of this subchapter\] due to a determination that the amount of payments made for graduate medical education programs exceeds the amount allowable under section 1886(h) \[subsec. (h) of this section\].
+>         The Secretary of Health and Human Services may not, before October 1, 1991, recoup payments from a hospital because of alleged overpayments to such hospital under part B of title XVIII of the Social Security Act \[[42 U.S.C. 1395j][/us/usc/t42/s1395j] et seq.\] due to a determination that the amount of payments made for graduate medical education programs exceeds the amount allowable under section 1886(h) \[[42 U.S.C. 1395ww(h)][/us/usc/t42/s1395ww/h]\].
 
 >         “(2) __Cap on annual amount of recoupment.—__ 
 
@@ -7679,7 +7679,7 @@
 
 >             “(A) __In general.—__ 
 
->             The Secretary of Health and Human Services may not recoup payments from (or otherwise reduce or adjust payments under part B of title XVIII of the Social Security Act to) a hospital because of alleged overpayments to such hospital under such title due to a determination that costs which were reported by the hospital on its medicare cost reports for cost reporting periods beginning on or after October 1, 1983, and before October 1, 1990, relating to approved nursing and allied health education programs did not meet the requirements for allowable nursing and allied health education costs (as developed by the Secretary pursuant to section 1861(v) of such Act \[[section 1395x(v) of this title][/us/usc/t42/s1395x/v]\]).
+>             The Secretary of Health and Human Services may not recoup payments from (or otherwise reduce or adjust payments under part B of title XVIII of the Social Security Act to) a hospital because of alleged overpayments to such hospital under such title due to a determination that costs which were reported by the hospital on its medicare cost reports for cost reporting periods beginning on or after October 1, 1983, and before October 1, 1990, relating to approved nursing and allied health education programs did not meet the requirements for allowable nursing and allied health education costs (as developed by the Secretary pursuant to section 1861(v) of such Act \[[42 U.S.C. 1395x(v)][/us/usc/t42/s1395x/v]\]).
 
 >             “(B) __Refund of amounts recouped.—__ 
 
@@ -7699,7 +7699,7 @@
 
 >     “(1) __Development of proposal.—__ 
 
->     The Secretary of Health and Human Services shall develop a proposal to modify the current system under which hospitals that are not subsection (d) hospitals (as defined in section 1886(d)(1)(B) of the Social Security Act \[subsec. (d)(1)(B) of this section\]) receive payment for the operating and capital-related costs of inpatient hospital services under part A \[part A of this subchapter\] of the medicare program or a proposal to replace such system with a system under which such payments would be made on the basis of nationally-determined average standardized amounts. In developing any proposal under this paragraph to replace the current system with a prospective payment system, the Secretary shall—
+>     The Secretary of Health and Human Services shall develop a proposal to modify the current system under which hospitals that are not subsection (d) hospitals (as defined in section 1886(d)(1)(B) of the Social Security Act \[[42 U.S.C. 1395ww(d)(1)(B)][/us/usc/t42/s1395ww/d/1/B]\]) receive payment for the operating and capital-related costs of inpatient hospital services under part A \[[42 U.S.C. 1395c][/us/usc/t42/s1395c] et seq.\] of the medicare program or a proposal to replace such system with a system under which such payments would be made on the basis of nationally-determined average standardized amounts. In developing any proposal under this paragraph to replace the current system with a prospective payment system, the Secretary shall—
 
 >         “(A) take into consideration the need to provide for appropriate limits on increases in expenditures under the medicare program;
 
@@ -7721,7 +7721,7 @@
 
 [Pub. L. 101–508, title IV, § 4005(c)(3)][/us/pl/101/508/s4005/c/3], Nov. 5, 1990, [104 Stat. 1388–42][/us/stat/104/1388-42], provided that: 
 
-> “The Administrator of the Health Care Financing Administration shall provide guidance to agencies and organizations performing functions pursuant to section 1816 of the Social Security Act \[[section 1395h of this title][/us/usc/t42/s1395h]\] and to hospitals that are not subsection (d) hospitals (as defined in section 1886(d)(1)(B) of such Act \[subsec. (d)(1)(B) of this section\]) to assist such agencies, organizations, and hospitals in filing complete applications with the Administrator for exemptions, exceptions, and adjustments under section 1886(b)(4)(A) of such Act.”
+> “The Administrator of the Health Care Financing Administration shall provide guidance to agencies and organizations performing functions pursuant to section 1816 of the Social Security Act \[[42 U.S.C. 1395h][/us/usc/t42/s1395h]\] and to hospitals that are not subsection (d) hospitals (as defined in section 1886(d)(1)(B) of such Act \[[42 U.S.C. 1395ww(d)(1)(B)][/us/usc/t42/s1395ww/d/1/B]\]) to assist such agencies, organizations, and hospitals in filing complete applications with the Administrator for exemptions, exceptions, and adjustments under section 1886(b)(4)(A) of such Act.”
 
  __Freeze in Payments Under Part A of This Subchapter Through__  __December 31, 1990__ 
 
@@ -7729,11 +7729,11 @@
 
 >     “(a) __In General.—__ 
 
->     Notwithstanding any other provision of law, for purposes of determining the amount of payment for items or services under part A of title XVIII of the Social Security Act \[part A of this subchapter\] (including payments under section 1886 of such Act \[this section\] attributable to or allocated under such part) during the period described in subsection (b):
+>     Notwithstanding any other provision of law, for purposes of determining the amount of payment for items or services under part A of title XVIII of the Social Security Act \[[42 U.S.C. 1395c][/us/usc/t42/s1395c] et seq.\] (including payments under section 1886 of such Act \[[42 U.S.C. 1395ww][/us/usc/t42/s1395ww]\] attributable to or allocated under such part) during the period described in subsection (b):
 
 >         “(1) The market basket percentage increase (described in section 1886(b)(3)(B)(iii) of the Social Security Act) shall be deemed to be 0 for discharges occurring during such period.
 
->         “(2) The percentage increase or decrease in the medical care expenditure category of the consumer price index applicable under section 1814(i)(2)(B) of such Act \[[section 1395f(i)(2)(B) of this title][/us/usc/t42/s1395f/i/2/B]\] shall be deemed to be 0.
+>         “(2) The percentage increase or decrease in the medical care expenditure category of the consumer price index applicable under section 1814(i)(2)(B) of such Act \[[42 U.S.C. 1395f(i)(2)(B)][/us/usc/t42/s1395f/i/2/B]\] shall be deemed to be 0.
 
 >         “(3) The area wage index applicable to a subsection (d) hospital under section 1886(d)(3)(E) of such Act shall be deemed to be the area wage index applicable to such hospital as of September 30, 1990.
 
@@ -7749,7 +7749,7 @@
 
 >     “(1) __In general.—__ 
 
->     The Secretary of Health and Human Services shall review the requirements applicable under title XVIII of the Social Security Act \[this subchapter\] to determine which requirements could be made less administratively and economically burdensome (without diminishing the quality of care) for hospitals defined in section 1886(d)(1)(B) of such Act \[subsec. (d)(1)(B) of this section\] that are located in a rural area (as defined in section 1886(d)(2)(D) of such Act). Such review shall specifically include standards related to staffing requirements.
+>     The Secretary of Health and Human Services shall review the requirements applicable under title XVIII of the Social Security Act \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\] to determine which requirements could be made less administratively and economically burdensome (without diminishing the quality of care) for hospitals defined in section 1886(d)(1)(B) of such Act \[[42 U.S.C. 1395ww(d)(1)(B)][/us/usc/t42/s1395ww/d/1/B]\] that are located in a rural area (as defined in section 1886(d)(2)(D) of such Act). Such review shall specifically include standards related to staffing requirements.
 
 >     “(2) __Report.—__ 
 
@@ -7759,7 +7759,7 @@
 
 [Pub. L. 101–508, title IV, § 4207(b)(1)][/us/pl/101/508/s4207/b/1], formerly § 4027(b)(1), Nov. 5, 1990, [104 Stat. 1388–118][/us/stat/104/1388-118], as renumbered and amended by [Pub. L. 103–432, title I, § 160(d)(4)][/us/pl/103/432/s160/d/4], (5)(C), Oct. 31, 1994, [108 Stat. 4444][/us/stat/108/4444], provided that: 
 
-> “Notwithstanding any other provision of law, the Secretary of Health and Human Services may not issue any proposed or final regulation, instruction, or other policy which is estimated by the Secretary to result in a net reduction in expenditures under title XVIII of the Social Security Act \[this subchapter\] in a fiscal year (beginning with fiscal year 1991 and ending with fiscal year 1993, or, if later, the last fiscal year for which there is a maximum deficit amount specified under section 601(a)(1) of the Congressional Budget and Impoundment Control Act of 1974 \[[2 U.S.C. 665(a)(1)][/us/usc/t2/s665/a/1]\]) of more than $50,000,000, except as follows:
+> “Notwithstanding any other provision of law, the Secretary of Health and Human Services may not issue any proposed or final regulation, instruction, or other policy which is estimated by the Secretary to result in a net reduction in expenditures under title XVIII of the Social Security Act \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\] in a fiscal year (beginning with fiscal year 1991 and ending with fiscal year 1993, or, if later, the last fiscal year for which there is a maximum deficit amount specified under section 601(a)(1) of the Congressional Budget and Impoundment Control Act of 1974 \[[2 U.S.C. 665(a)(1)][/us/usc/t2/s665/a/1]\]) of more than $50,000,000, except as follows:
 
 >     “(A) The Secretary may issue such a proposed regulation, instruction, or other policy with respect to the fiscal year before the May 15 preceding the beginning of the fiscal year.
 
@@ -7771,31 +7771,31 @@
 
 [Pub. L. 101–508, title IV, § 4207(b)(2)][/us/pl/101/508/s4207/b/2], formerly § 4027(b)(2), Nov. 5, 1990, [104 Stat. 1388–118][/us/stat/104/1388-118], as renumbered by [Pub. L. 103–432, title I, § 160(d)(4)][/us/pl/103/432/s160/d/4], Oct. 31, 1994, [108 Stat. 4444][/us/stat/108/4444], provided that: 
 
-> “Notwithstanding any other provision of law, the Secretary of Health and Human Services is not authorized to issue, after the date of the enactment of this Act \[Nov. 5, 1990\], any final regulation, instruction, or other policy change which is primarily intended to have the effect of slowing down or speeding up claims processing, or delaying payment of claims, under title XVIII of the Social Security Act \[this subchapter\].”
+> “Notwithstanding any other provision of law, the Secretary of Health and Human Services is not authorized to issue, after the date of the enactment of this Act \[Nov. 5, 1990\], any final regulation, instruction, or other policy change which is primarily intended to have the effect of slowing down or speeding up claims processing, or delaying payment of claims, under title XVIII of the Social Security Act \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\].”
 
  __Extension of Area Wage Index__ 
 
 [Pub. L. 101–403, title I, § 115(a)][/us/pl/101/403/s115/a], Oct. 1, 1990, [104 Stat. 870][/us/stat/104/870], provided that: 
 
-> “For purposes of determining the amount of payment made to a hospital under part A of title XVIII of the Social Security Act \[part A of this subchapter\] for the operating costs of inpatient hospital services for discharges occurring on or after October 1, 1990, and on or before October 20, 1990, the Secretary of Health and Human Services, in adjusting such amount under section 1886(d)(3)(E) of such Act \[subsec. (d)(3)(E) of this section\] to reflect the relative hospital wage level in the geographic area of the hospital compared to the national average hospital wage index, shall apply the area wage index applicable to such hospital as of September 30, 1990.”
+> “For purposes of determining the amount of payment made to a hospital under part A of title XVIII of the Social Security Act \[[42 U.S.C. 1395c][/us/usc/t42/s1395c] et seq.\] for the operating costs of inpatient hospital services for discharges occurring on or after October 1, 1990, and on or before October 20, 1990, the Secretary of Health and Human Services, in adjusting such amount under section 1886(d)(3)(E) of such Act \[[42 U.S.C. 1395ww(d)(3)(E)][/us/usc/t42/s1395ww/d/3/E]\] to reflect the relative hospital wage level in the geographic area of the hospital compared to the national average hospital wage index, shall apply the area wage index applicable to such hospital as of September 30, 1990.”
 
  __Adjustments Resulting From Extensions of Regional Floor on Standardized Amounts__ 
 
 [Pub. L. 101–403, title I, § 115(b)(2)][/us/pl/101/403/s115/b/2], Oct. 1, 1990, [104 Stat. 870][/us/stat/104/870], provided that: 
 
-> “The Secretary of Health and Human Services shall make any adjustments resulting from the amendment made by paragraph (1) \[amending this section\] in the amount of the payments made to hospitals under section 1886(d) of the Social Security Act \[subsec. (d) of this section\] in a fiscal year for the operating costs of inpatient hospital services in a manner that ensures that the aggregate payments under such section are not greater or less than those that would have been made in the year without such adjustments.”
+> “The Secretary of Health and Human Services shall make any adjustments resulting from the amendment made by paragraph (1) \[amending this section\] in the amount of the payments made to hospitals under section 1886(d) of the Social Security Act \[[42 U.S.C. 1395ww(d)][/us/usc/t42/s1395ww/d]\] in a fiscal year for the operating costs of inpatient hospital services in a manner that ensures that the aggregate payments under such section are not greater or less than those that would have been made in the year without such adjustments.”
 
  __Indexing of Future Applicable Percentage Increases__ 
 
 [Pub. L. 101–239, title VI, § 6003(a)(3)][/us/pl/101/239/s6003/a/3], Dec. 19, 1989, [103 Stat. 2140][/us/stat/103/2140], provided that: 
 
-> “For discharges occurring on or after October 1, 1990, the applicable percentage increase (described in section 1886(b)(3)(B) of the Social Security Act \[subsec. (b)(3)(B) of this section\]) for discharges occurring during fiscal year 1990 is deemed to have been such percentage increase as amended by paragraph (1).”
+> “For discharges occurring on or after October 1, 1990, the applicable percentage increase (described in section 1886(b)(3)(B) of the Social Security Act \[[42 U.S.C. 1395ww(b)(3)(B)][/us/usc/t42/s1395ww/b/3/B]\]) for discharges occurring during fiscal year 1990 is deemed to have been such percentage increase as amended by paragraph (1).”
 
  __Continuation of Sole Community Hospital Designation for Current Sole Community Hospitals__ 
 
 [Pub. L. 101–239, title VI, § 6003(e)(3)][/us/pl/101/239/s6003/e/3], Dec. 19, 1989, [103 Stat. 2144][/us/stat/103/2144], provided that: 
 
-> “Any hospital classified as a sole community hospital under section 1886(d)(5)(C)(ii) of the Social Security Act \[subsec. (d)(5)(C)(ii) of this section\] on the date of the enactment of this Act \[Dec. 19, 1989\] that will no longer be classified as a sole community hospital after such date as a result of the amendments made by paragraph (1) \[amending this section\] shall continue to be classified as a sole community hospital for purposes of section 1886(d)(5)(D) of such Act \[subsec. (d)(5)(D) of this section\].”
+> “Any hospital classified as a sole community hospital under section 1886(d)(5)(C)(ii) of the Social Security Act \[[42 U.S.C. 1395ww(d)(5)(C)(ii)][/us/usc/t42/s1395ww/d/5/C/ii]\] on the date of the enactment of this Act \[Dec. 19, 1989\] that will no longer be classified as a sole community hospital after such date as a result of the amendments made by paragraph (1) \[amending this section\] shall continue to be classified as a sole community hospital for purposes of section 1886(d)(5)(D) of such Act \[[42 U.S.C. 1395ww(d)(5)(D)][/us/usc/t42/s1395ww/d/5/D]\].”
 
  __Additional Payment Resulting From Corrections of Erroneously Determined Wage Index__ 
 
@@ -7803,7 +7803,7 @@
 
 >     “(A) __In general.—__ 
 
->     If the Secretary of Health and Human Services (hereinafter referred to as the ‘Secretary’) discovers an error with respect to the determination, adjustment, or computation of the area wage index described in section 1886(d)(3)(E) of the Social Security Act \[subsec. (d)(3)(E) of this section\] and subsequently corrects such error, the Secretary shall make an additional payment under title XVIII of such Act \[this subchapter\] to a hospital affected by such error for inpatient hospital discharges occurring during the period when the erroneously determined, adjusted, or computed wage index was in effect.
+>     If the Secretary of Health and Human Services (hereinafter referred to as the ‘Secretary’) discovers an error with respect to the determination, adjustment, or computation of the area wage index described in section 1886(d)(3)(E) of the Social Security Act \[[42 U.S.C. 1395ww(d)(3)(E)][/us/usc/t42/s1395ww/d/3/E]\] and subsequently corrects such error, the Secretary shall make an additional payment under title XVIII of such Act \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\] to a hospital affected by such error for inpatient hospital discharges occurring during the period when the erroneously determined, adjusted, or computed wage index was in effect.
 
 >     “(B) __Conditions for additional payment.—__ 
 
@@ -7829,7 +7829,7 @@
 
 >     “(b) __Determining Payment Amount.—__ 
 
->     The Secretary of Health and Human Services shall determine the amount of payment made to hospitals under part A of title XVIII of the Social Security Act \[part A of this subchapter\] for the costs of administering blood clotting factors to individuals with hemophilia by multiplying a predetermined price per unit of blood clotting factor (determined in consultation with the Prospective Payment Assessment Commission) by the number of units provided to the individual.
+>     The Secretary of Health and Human Services shall determine the amount of payment made to hospitals under part A of title XVIII of the Social Security Act \[[42 U.S.C. 1395c][/us/usc/t42/s1395c] et seq.\] for the costs of administering blood clotting factors to individuals with hemophilia by multiplying a predetermined price per unit of blood clotting factor (determined in consultation with the Prospective Payment Assessment Commission) by the number of units provided to the individual.
 
 >     “(c) __Recommendations on Payments.—__ 
 
@@ -7839,13 +7839,13 @@
 
 [Pub. L. 101–239, title VI, § 6015(b)][/us/pl/101/239/s6015/b], Dec. 19, 1989, [103 Stat. 2164][/us/stat/103/2164], provided that: 
 
-> “By not later than 180 days after the date of enactment of this Act \[Dec. 19, 1989\], the Secretary of Health and Human Services shall publish instructions specifying the application process to be used in providing exceptions and adjustments under section 1886(b)(4)(A) of the Social Security Act \[subsec. (b)(4)(A) of this section\].”
+> “By not later than 180 days after the date of enactment of this Act \[Dec. 19, 1989\], the Secretary of Health and Human Services shall publish instructions specifying the application process to be used in providing exceptions and adjustments under section 1886(b)(4)(A) of the Social Security Act \[[42 U.S.C. 1395ww(b)(4)(A)][/us/usc/t42/s1395ww/b/4/A]\].”
 
  __Delay in Recoupment of Certain Nursing and Allied Education Costs__ 
 
 [Pub. L. 101–239, title VI, § 6205(b)][/us/pl/101/239/s6205/b], Dec. 19, 1989, [103 Stat. 2243][/us/stat/103/2243], provided that:
 
->     “(1) The Secretary of Health and Human Services (in this subsection referred to as the ‘Secretary’) shall not, before October 1, 1990, recoup from, or otherwise reduce or adjust payments under title XVIII of the Social Security Act \[this subchapter\] to, hospitals because of alleged overpayments to such hospitals under such title due to a determination that costs which were reported by a hospital on its medicare cost reports relating to approved nursing and allied health education programs were allowable costs and are included in the definition of ‘operating costs of inpatient hospital services’ pursuant to section 1886(a)(4) of such Act \[subsec. (a)(4) of this section\], so that no pass-through of such costs was permitted under that section.
+>     “(1) The Secretary of Health and Human Services (in this subsection referred to as the ‘Secretary’) shall not, before October 1, 1990, recoup from, or otherwise reduce or adjust payments under title XVIII of the Social Security Act \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\] to, hospitals because of alleged overpayments to such hospitals under such title due to a determination that costs which were reported by a hospital on its medicare cost reports relating to approved nursing and allied health education programs were allowable costs and are included in the definition of ‘operating costs of inpatient hospital services’ pursuant to section 1886(a)(4) of such Act \[[42 U.S.C. 1395ww(a)(4)][/us/usc/t42/s1395ww/a/4]\], so that no pass-through of such costs was permitted under that section.
 
 >     “(2)
 
@@ -7869,7 +7869,7 @@
 
 >             “(ii) the types of costs related to nursing or allied health education programs that are allowable by medicare;
 
->             “(iii) the distinction between costs of approved educational activities as recognized under section 1886(a)(3) of the Social Security Act \[subsec. (a)(3) of this section\] and educational costs treated as operating costs of inpatient hospital services; and
+>             “(iii) the distinction between costs of approved educational activities as recognized under section 1886(a)(3) of the Social Security Act \[[42 U.S.C. 1395ww(a)(3)][/us/usc/t42/s1395ww/a/3]\] and educational costs treated as operating costs of inpatient hospital services; and
 
 >             “(iv) the treatment of other funding sources for the program.”
 
@@ -7895,13 +7895,13 @@
 
 [Pub. L. 101–234, title I, § 101(c)(2)(B)][/us/pl/101/234/s101/c/2/B], Dec. 13, 1989, [103 Stat. 1980][/us/stat/103/1980], provided that: 
 
-> “The Secretary of Health and Human Services shall make an appropriate adjustment to the target amount established under section 1886(b)(3)(A) of the Social Security Act \[subsec. (b)(3)(A) of this section\] in the case of inpatient hospital services provided to an inpatient whose stay began before January 1, 1990, in order to take into account the target amount that would have applied but for the amendments made by this title \[see Tables for classification\].”
+> “The Secretary of Health and Human Services shall make an appropriate adjustment to the target amount established under section 1886(b)(3)(A) of the Social Security Act \[[42 U.S.C. 1395ww(b)(3)(A)][/us/usc/t42/s1395ww/b/3/A]\] in the case of inpatient hospital services provided to an inpatient whose stay began before January 1, 1990, in order to take into account the target amount that would have applied but for the amendments made by this title \[see Tables for classification\].”
 
  __Election of Personnel Policy for ProPAC Employees__ 
 
 [Pub. L. 100–647, title VIII, § 8405][/us/pl/100/647/s8405], Nov. 10, 1988, [102 Stat. 3800][/us/stat/102/3800], provided that: 
 
-> “With respect to employees of the Prospective Payment Assessment Commission hired before December 22, 1987, such employees shall have the option to elect within 60 days of the date of enactment of this Act \[Nov. 10, 1988\] to be covered under either the personnel policy in effect with respect to such employees before December 22, 1987, or under the employees coverage provided under the last sentence of section 1886(e)(6)(D) of the Social Security Act \[subsec. (e)(6)(D) of this section\].”
+> “With respect to employees of the Prospective Payment Assessment Commission hired before December 22, 1987, such employees shall have the option to elect within 60 days of the date of enactment of this Act \[Nov. 10, 1988\] to be covered under either the personnel policy in effect with respect to such employees before December 22, 1987, or under the employees coverage provided under the last sentence of section 1886(e)(6)(D) of the Social Security Act \[[42 U.S.C. 1395ww(e)(6)(D)][/us/usc/t42/s1395ww/e/6/D]\].”
 
  __Adjustments in Payments for Inpatient Hospital Services__ 
 
@@ -7909,11 +7909,11 @@
 
 >     “(1) __PPS hospitals.—__ 
 
->     In adjusting DRG prospective payment rates under section 1886(d) of the Social Security Act \[subsec. (d) of this section\], outlier cutoff points under section 1886(d)(5)(A) of such Act, and weighting factors under section 1886(d)(4) of such Act for discharges occurring on or after October 1, 1988, and before January 1, 1990, the Secretary of Health and Human Services shall, to the extent appropriate, take into consideration the reductions in payments to hospitals by (or on behalf of) medicare beneficiaries resulting from the elimination of a day limitation on medicare inpatient hospital services (under the amendments made by section 101 \[amending [section 1395d of this title][/us/usc/t42/s1395d]\]).
+>     In adjusting DRG prospective payment rates under section 1886(d) of the Social Security Act \[[42 U.S.C. 1395ww(d)][/us/usc/t42/s1395ww/d]\], outlier cutoff points under section 1886(d)(5)(A) of such Act, and weighting factors under section 1886(d)(4) of such Act for discharges occurring on or after October 1, 1988, and before January 1, 1990, the Secretary of Health and Human Services shall, to the extent appropriate, take into consideration the reductions in payments to hospitals by (or on behalf of) medicare beneficiaries resulting from the elimination of a day limitation on medicare inpatient hospital services (under the amendments made by section 101 \[amending [section 1395d of this title][/us/usc/t42/s1395d]\]).
 
 >     “(2) __PPS-exempt hospitals.—__ 
 
->     In adjusting target amounts under section 1886(b)(3) of the Social Security Act \[subsec. (b)(3) of this section\] for portions of cost reporting periods occurring on or after January 1, 1989, and before January 1, 1990, the Secretary shall, on a hospital-specific basis, take into consideration the reductions in payments to hospitals by (or on behalf of) medicare beneficiaries resulting from the elimination of a day limitation on medicare inpatient hospital services (under the amendments made by section 101 \[amending [section 1395d of this title][/us/usc/t42/s1395d]\]), without regard to whether such a hospital is paid on the basis described in subparagraph (A) or (B) of section 1886(b)(1) of such Act, without regard to whether any of such beneficiaries exhausted medicare inpatient hospital insurance benefits before January 1, 1989.”
+>     In adjusting target amounts under section 1886(b)(3) of the Social Security Act \[[42 U.S.C. 1395ww(b)(3)][/us/usc/t42/s1395ww/b/3]\] for portions of cost reporting periods occurring on or after January 1, 1989, and before January 1, 1990, the Secretary shall, on a hospital-specific basis, take into consideration the reductions in payments to hospitals by (or on behalf of) medicare beneficiaries resulting from the elimination of a day limitation on medicare inpatient hospital services (under the amendments made by section 101 \[amending [section 1395d of this title][/us/usc/t42/s1395d]\]), without regard to whether such a hospital is paid on the basis described in subparagraph (A) or (B) of section 1886(b)(1) of such Act, without regard to whether any of such beneficiaries exhausted medicare inpatient hospital insurance benefits before January 1, 1989.”
 
     \[Amendment of [section 104(c) of Pub. L. 100–360][/us/pl/100/360/s104/c], set out above, by section 101(c)(1), (2)(A) of [Pub. L. 101–234][/us/pl/101/234] effective as if included in enactment of [Pub. L. 100–360][/us/pl/100/360], see [section 101(d) of Pub. L. 101–234][/us/pl/101/234/s101/d], set out as a note under [section 1395c of this title][/us/usc/t42/s1395c]\].
 
@@ -7925,13 +7925,13 @@
 
 [Pub. L. 100–203, title IV, § 4004(b)][/us/pl/100/203/s4004/b], Dec. 22, 1987, [101 Stat. 1330–47][/us/stat/101/1330-47], provided that: 
 
-> “In calculating the wage index under section 1886(d) of the Social Security Act \[subsec. (d) of this section\] for purposes of making payment adjustments after September 30, 1988, as required under paragraphs (2)(H) and (3)(E) of such section, in the case of any institution which received the waiver specified in section 602(k) of the Social Security Amendments of 1983 \[[section 602(k) of Pub. L. 98–21][/us/pl/98/21/s602/k], set out as a note under [section 1395y of this title][/us/usc/t42/s1395y]\], the Secretary of Health and Human Services shall include wage costs paid to related organization employees directly involved in the delivery and administration of care provided by the related organization to hospital inpatients. For purposes of the preceding sentence, the term ‘wage costs’ does not include costs of overhead or home office administrative salaries or any costs that are not incurred in the hospital’s Metropolitan Statistical Area.”
+> “In calculating the wage index under section 1886(d) of the Social Security Act \[[42 U.S.C. 1395ww(d)][/us/usc/t42/s1395ww/d]\] for purposes of making payment adjustments after September 30, 1988, as required under paragraphs (2)(H) and (3)(E) of such section, in the case of any institution which received the waiver specified in section 602(k) of the Social Security Amendments of 1983 \[[section 602(k) of Pub. L. 98–21][/us/pl/98/21/s602/k], set out as a note under [section 1395y of this title][/us/usc/t42/s1395y]\], the Secretary of Health and Human Services shall include wage costs paid to related organization employees directly involved in the delivery and administration of care provided by the related organization to hospital inpatients. For purposes of the preceding sentence, the term ‘wage costs’ does not include costs of overhead or home office administrative salaries or any costs that are not incurred in the hospital’s Metropolitan Statistical Area.”
 
  __Limitation on Amounts Paid in Fiscal Years 1988 and 1989__ 
 
 [Pub. L. 100–203, title IV, § 4005(c)(2)(B)][/us/pl/100/203/s4005/c/2/B], Dec. 22, 1987, [101 Stat. 1330–49][/us/stat/101/1330-49], provided that: 
 
-> “The Secretary of Health and Human Services shall take appropriate steps to ensure that the total amount paid in a fiscal year under title XVIII of the Social Security Act \[this subchapter\] by reason of the amendment made by paragraph (1)(B) \[amending this section\] does not exceed $5,000,000 in the case of fiscal year 1988 and $10,000,000 for fiscal year 1989.”
+> “The Secretary of Health and Human Services shall take appropriate steps to ensure that the total amount paid in a fiscal year under title XVIII of the Social Security Act \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\] by reason of the amendment made by paragraph (1)(B) \[amending this section\] does not exceed $5,000,000 in the case of fiscal year 1988 and $10,000,000 for fiscal year 1989.”
 
  __Study of Criteria for Classification of Hospitals as Rural Referral Centers; Report__ 
 
@@ -7961,11 +7961,11 @@
 
 >         “(H) The Administrator shall submit a final report on the program to the Congress not later than 180 days after all projects receiving a grant under the program are completed.
 
->         Each demonstration project under this subsection shall demonstrate methods of strengthening the financial and managerial capability of the hospital involved to provide necessary services. Such methods may include programs of cooperation with other health care providers, of diversification in services furnished (including the provision of home health services), of physician recruitment, and of improved management systems. Grants under this paragraph may be used to provide instruction and consultation (and such other services as the Administrator determines appropriate) via telecommunications to physicians in such rural areas (within the meaning of section 1886(d)(2)(D) of the Social Security Act \[subsec. (d)(2)(D) of this section\]) as are designated either class 1 or class 2 health manpower shortage areas under section 332(a)(1)(A) of the Public Health Service Act \[[section 254e(a)(1)(A) of this title][/us/usc/t42/s254e/a/1/A]\].
+>         Each demonstration project under this subsection shall demonstrate methods of strengthening the financial and managerial capability of the hospital involved to provide necessary services. Such methods may include programs of cooperation with other health care providers, of diversification in services furnished (including the provision of home health services), of physician recruitment, and of improved management systems. Grants under this paragraph may be used to provide instruction and consultation (and such other services as the Administrator determines appropriate) via telecommunications to physicians in such rural areas (within the meaning of section 1886(d)(2)(D) of the Social Security Act \[[42 U.S.C. 1395ww(d)(2)(D)][/us/usc/t42/s1395ww/d/2/D]\]) as are designated either class 1 or class 2 health manpower shortage areas under section 332(a)(1)(A) of the Public Health Service Act \[[42 U.S.C. 254e(a)(1)(A)][/us/usc/t42/s254e/a/1/A]\].
 
 >     “(2)
 
->      For purposes of this subsection, the term ‘eligible small rural hospital’ means any rural primary care hospital designated by the Secretary under section 1820(i)(2) of the Social Security Act \[[section 1395i–4(i)(2) of this title][/us/usc/t42/s1395i–4/i/2]\], or any non-Federal, short-term general acute care hospital that—
+>      For purposes of this subsection, the term ‘eligible small rural hospital’ means any rural primary care hospital designated by the Secretary under section 1820(i)(2) of the Social Security Act \[[42 U.S.C. 1395i–4(i)(2)][/us/usc/t42/s1395i–4/i/2]\], or any non-Federal, short-term general acute care hospital that—
 
 >         “(A) is located in a rural area (as determined in accordance with subsection (d)),
 
@@ -7981,7 +7981,7 @@
 
 >         “(C) The Governor of a State may designate an appropriate State agency to receive and comment on applications submitted under subparagraph (A).
 
->     “(4) A hospital shall be considered to be located in a rural area for purposes of this subsection if it is treated as being located in a rural area for purposes of section 1886(d)(3)(D) of the Social Security Act \[subsec. (d)(3)(D) of this section\].
+>     “(4) A hospital shall be considered to be located in a rural area for purposes of this subsection if it is treated as being located in a rural area for purposes of section 1886(d)(3)(D) of the Social Security Act \[[42 U.S.C. 1395ww(d)(3)(D)][/us/usc/t42/s1395ww/d/3/D]\].
 
 >     “(5)
 
@@ -8023,9 +8023,9 @@
 
 >         “(B) A hospital receiving a grant under this subsection for a project may not use the grant to retire debt incurred with respect to any capital expenditure made prior to the date on which the project is initiated.
 
->         “(C) Not more than one-third of any grant made under this subsection may be expended for capital-related costs (as defined by the Secretary for purposes of section 1886(a)(4) of the Social Security Act \[subsec. (a)(4) of this section\]) of the project, except that this limitation shall not apply with respect to a grant used for the purposes described in subparagraph (D).
+>         “(C) Not more than one-third of any grant made under this subsection may be expended for capital-related costs (as defined by the Secretary for purposes of section 1886(a)(4) of the Social Security Act \[[42 U.S.C. 1395ww(a)(4)][/us/usc/t42/s1395ww/a/4]\]) of the project, except that this limitation shall not apply with respect to a grant used for the purposes described in subparagraph (D).
 
->         “(D) A hospital may use a grant received under this subsection to develop a plan for converting itself to a rural primary care hospital (as described in section 1820 of the Social Security Act \[[section 1395i–4 of this title][/us/usc/t42/s1395i–4]\]) or to develop a rural health network (as defined in section 1820(g) of such Act) in the State in which it is located if the State is receiving a grant under section 1820(a)(1).
+>         “(D) A hospital may use a grant received under this subsection to develop a plan for converting itself to a rural primary care hospital (as described in section 1820 of the Social Security Act \[[42 U.S.C. 1395i–4][/us/usc/t42/s1395i–4]\]) or to develop a rural health network (as defined in section 1820(g) of such Act) in the State in which it is located if the State is receiving a grant under section 1820(a)(1).
 
 >     “(8)
 
@@ -8111,7 +8111,7 @@
 
 >             “(A) The term ‘bad debt and charity care’ has such meaning as the Secretary establishes.
 
->             “(B) The term ‘class’ means, with respect to payers at least, the programs under this title XVIII of the Social Security Act \[this subchapter\], a State plan approved under title XIX of such Act \[subchapter XIX of this chapter\], other third party-payers, and other persons (including self-paying individuals).
+>             “(B) The term ‘class’ means, with respect to payers at least, the programs under this title XVIII of the Social Security Act \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\], a State plan approved under title XIX of such Act \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\], other third party-payers, and other persons (including self-paying individuals).
 
 >         “(6) The Secretary shall set aside at least a total of $3,000,000 for fiscal years 1988, 1989, and 1990 from existing research funds or from operations funds to develop the format, according to paragraph (1) and for data collection and analysis, but total funds shall not exceed $15,000,000.
 
@@ -8129,7 +8129,7 @@
 
 >         “(A) __In general.—__ 
 
->         For discharges classified in diagnosis-related groups relating to burn cases and occurring on or after April 1, 1988, and before October 1, 1989, the marginal cost of care permitted by the Secretary of Health and Human Services under section 1886(d)(5)(A)(iii) of the Social Security Act \[subsec. (d)(5)(A)(iii) of this section\] shall be 90 percent of the appropriate per diem cost of care or 90 percent of the cost for cost outliers.
+>         For discharges classified in diagnosis-related groups relating to burn cases and occurring on or after April 1, 1988, and before October 1, 1989, the marginal cost of care permitted by the Secretary of Health and Human Services under section 1886(d)(5)(A)(iii) of the Social Security Act \[[42 U.S.C. 1395ww(d)(5)(A)(iii)][/us/usc/t42/s1395ww/d/5/A/iii]\] shall be 90 percent of the appropriate per diem cost of care or 90 percent of the cost for cost outliers.
 
 >         “(B) __Budget neutrality.—__ 
 
@@ -8139,7 +8139,7 @@
 
 >         “(A) __In general.—__ 
 
->         Notwithstanding any other provision of law, except as required to implement specific provisions required under statute, the Secretary of Health and Human Services is not authorized to issue in final form, after the date of the enactment of this Act \[Dec. 22, 1987\] and before September 1, 1988, any final regulation which changes the method of payment for outlier cases under section 1886(d)(5)(A) of the Social Security Act \[subsec. (d)(5)(A) of this section\].
+>         Notwithstanding any other provision of law, except as required to implement specific provisions required under statute, the Secretary of Health and Human Services is not authorized to issue in final form, after the date of the enactment of this Act \[Dec. 22, 1987\] and before September 1, 1988, any final regulation which changes the method of payment for outlier cases under section 1886(d)(5)(A) of the Social Security Act \[[42 U.S.C. 1395ww(d)(5)(A)][/us/usc/t42/s1395ww/d/5/A]\].
 
 >         “(B) __Propac report.—__ 
 
@@ -8147,7 +8147,7 @@
 
 >     “(3) __Report on outlier payments.—__ 
 
->     The Secretary of Health and Human Services shall include in the annual report submitted to the Congress pursuant to section 1875(b) of the Social Security Act \[section 1395ll(b) of this title\] a comparison with respect to hospitals located in an urban area and hospitals located in a rural area in the amount of reductions under section 1886(d)(3)(B) of the Social Security Act \[subsec. (d)(3)(B) of this section\] and additional payments under section 1886(d)(5)(A) of such Act.”
+>     The Secretary of Health and Human Services shall include in the annual report submitted to the Congress pursuant to section 1875(b) of the Social Security Act \[[42 U.S.C. 1395][/us/usc/t42/s1395]ll(b)\] a comparison with respect to hospitals located in an urban area and hospitals located in a rural area in the amount of reductions under section 1886(d)(3)(B) of the Social Security Act \[[42 U.S.C. 1395ww(d)(3)(B)][/us/usc/t42/s1395ww/d/3/B]\] and additional payments under section 1886(d)(5)(A) of such Act.”
 
  __ProPAC Studies and Reports__ 
 
@@ -8159,17 +8159,17 @@
 
 >     “(2) __Propac report on separate urban payment rates.—__ 
 
->     The Prospective Payment Assessment Commission shall evaluate the desirability of maintaining separate DRG prospective payment rates for hospitals located in large urban areas (as defined in section 1886(d)(2)(D)) of the Social Security Act \[subsec. (d)(2)(D) of this section\]) and in other urban areas, and shall report to Congress on such evaluation not later than January 1, 1989.
+>     The Prospective Payment Assessment Commission shall evaluate the desirability of maintaining separate DRG prospective payment rates for hospitals located in large urban areas (as defined in section 1886(d)(2)(D)) of the Social Security Act \[[42 U.S.C. 1395ww(d)(2)(D)][/us/usc/t42/s1395ww/d/2/D]\]) and in other urban areas, and shall report to Congress on such evaluation not later than January 1, 1989.
 
 >     “(3) __Report on adjustment for non-labor costs.—__ 
 
->     The Prospective Payment Assessment Commission shall perform an analysis to determine the feasibility and appropriateness of adjusting the non-wage-related portion of the adjusted average standardized amounts under section 1886(d)(3) of the Social Security Act \[subsec. (d)(3) of this section\] based on area differences in hospitals’ costs (other than wage-related costs) and input prices. The Commission shall report to the Congress on such analysis by not later than October 1, 1989.”
+>     The Prospective Payment Assessment Commission shall perform an analysis to determine the feasibility and appropriateness of adjusting the non-wage-related portion of the adjusted average standardized amounts under section 1886(d)(3) of the Social Security Act \[[42 U.S.C. 1395ww(d)(3)][/us/usc/t42/s1395ww/d/3]\] based on area differences in hospitals’ costs (other than wage-related costs) and input prices. The Commission shall report to the Congress on such analysis by not later than October 1, 1989.”
 
  __Special Rule for Urban Areas in New England__ 
 
 [Pub. L. 100–203, title IV, § 4009(i)][/us/pl/100/203/s4009/i], Dec. 22, 1987, [101 Stat. 1330–58][/us/stat/101/1330-58], as amended by [Pub. L. 100–360, title IV, § 411(b)(8)(C)][/us/pl/100/360/s411/b/8/C], July 1, 1988, [102 Stat. 772][/us/stat/102/772], provided that: 
 
-> “In the case of urban areas in New England, the Secretary of Health and Human Services shall apply the second sentence of section 1886(d)(2)(D) of the Social Security Act \[subsec. (d)(2)(D) of this section\], as amended by section 4002(b) of this subtitle, as though 970,000 were substituted for 1,000,000.”
+> “In the case of urban areas in New England, the Secretary of Health and Human Services shall apply the second sentence of section 1886(d)(2)(D) of the Social Security Act \[[42 U.S.C. 1395ww(d)(2)(D)][/us/usc/t42/s1395ww/d/2/D]\], as amended by section 4002(b) of this subtitle, as though 970,000 were substituted for 1,000,000.”
 
  __Rural Health Medical Education Demonstration Project__ 
 
@@ -8197,7 +8197,7 @@
 
 >     “(d) __Clarification of Payment.—__ 
 
->     For purposes of section 1886 of the Social Security Act \[this section\]—
+>     For purposes of section 1886 of the Social Security Act \[[42 U.S.C. 1395ww][/us/usc/t42/s1395ww]\]—
 
 >         “(1) with respect to subsection (d)(5)(B) of such section, any resident physician participating in the project under subsection (a) for any part of a year shall be treated as if he or she were working at the appropriate sponsoring hospital with an agreement under subsection (a) on September 1 of such year (and shall not be treated as if working at the small rural hospital); and
 
@@ -8209,19 +8209,19 @@
 
 >     “(f) __Definition.—__ 
 
->     In this section, the term ‘sponsoring hospital’ means a hospital that receives payments under sections 1886(d)(5)(B) and 1886(h) of the Social Security Act \[subsecs. (d)(5)(B) and (h) of this section\].”
+>     In this section, the term ‘sponsoring hospital’ means a hospital that receives payments under sections 1886(d)(5)(B) and 1886(h) of the Social Security Act \[[42 U.S.C. 1395ww(d)(5)(B)][/us/usc/t42/s1395ww/d/5/B], (h)\].”
 
  __Prohibition on Policy by Secretary of Health and Human Services To Reduce Expenditures in Fiscal Years 1989, 1990, and 1991__ 
 
 [Pub. L. 100–203, title IV, § 4039(d)][/us/pl/100/203/s4039/d], Dec. 22, 1987, [101 Stat. 1330–82][/us/stat/101/1330-82], as amended by [Pub. L. 100–360, title IV, § 426(e)][/us/pl/100/360/s426/e], July 1, 1988, [102 Stat. 814][/us/stat/102/814]; [Pub. L. 101–239, title VI, § 6207(b)][/us/pl/101/239/s6207/b], Dec. 19, 1989, [103 Stat. 2245][/us/stat/103/2245], provided that: 
 
-> “Notwithstanding any other provision of law, except as required to implement specific provisions required under statute, the Secretary of Health and Human Services is not authorized to issue in final form, after the date of the enactment of this Act \[Dec. 22, 1987\] and before October 15, 1990, any regulation, instruction, or other policy which is estimated by the Secretary to result in a net reduction in expenditures under title XVIII of the Social Security Act \[this subchapter\] in fiscal year 1989 or in fiscal year 1990 or in fiscal year 1991 of more than $50,000,000.”
+> “Notwithstanding any other provision of law, except as required to implement specific provisions required under statute, the Secretary of Health and Human Services is not authorized to issue in final form, after the date of the enactment of this Act \[Dec. 22, 1987\] and before October 15, 1990, any regulation, instruction, or other policy which is estimated by the Secretary to result in a net reduction in expenditures under title XVIII of the Social Security Act \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\] in fiscal year 1989 or in fiscal year 1990 or in fiscal year 1991 of more than $50,000,000.”
 
  __Temporary Extension of Payment Policies for Inpatient Hospital Services__ 
 
 [Pub. L. 100–119, title I, § 107(a)(1)][/us/pl/100/119/s107/a/1], Sept. 29, 1987, [101 Stat. 782][/us/stat/101/782], as amended by [Pub. L. 100–203, title IV, § 4002(f)(2)][/us/pl/100/203/s4002/f/2], Dec. 22, 1987, [101 Stat. 1330–45][/us/stat/101/1330-45], provided that: 
 
-> “Notwithstanding any other provision of law, with respect to payment for inpatient hospital services under section 1886 of the Social Security Act \[this section\]:
+> “Notwithstanding any other provision of law, with respect to payment for inpatient hospital services under section 1886 of the Social Security Act \[[42 U.S.C. 1395ww][/us/usc/t42/s1395ww]\]:
 
 >     “(A) __Temporary freeze in pps hospital rates.—__ 
 
@@ -8263,7 +8263,7 @@
 
 >     Notwithstanding any other provision of law, the Secretary of Health and Human Services is not authorized to issue after September 18, 1987, and before November 21, 1987—
 
->         “(A) any final regulation that changes the policy with respect to payment under title XVIII of the Social Security Act \[this subchapter\] to providers of service for reasonable costs relating to unrecovered costs associated with unpaid deductible and coinsurance amounts incurred under such title;
+>         “(A) any final regulation that changes the policy with respect to payment under title XVIII of the Social Security Act \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\] to providers of service for reasonable costs relating to unrecovered costs associated with unpaid deductible and coinsurance amounts incurred under such title;
 
 >         “(B) any final regulation, instruction, or other policy change which is primarily intended to have the effect of slowing down claims processing, or delaying payment of claims, under such title; or
 
@@ -8283,7 +8283,7 @@
 
 [Pub. L. 99–509, title IX, § 9302(b)(3)][/us/pl/99/509/s9302/b/3], Oct. 21, 1986, [100 Stat. 1982][/us/stat/100/1982], provided that: 
 
-> “For payments made under section 1886(d) of the Social Security Act \[subsec. (d) of this section\] for discharges occurring in fiscal year 1987—
+> “For payments made under section 1886(d) of the Social Security Act \[[42 U.S.C. 1395ww(d)][/us/usc/t42/s1395ww/d]\] for discharges occurring in fiscal year 1987—
 
 >     “(A) the proportions under paragraph (3)(B) for hospitals located in urban and rural areas shall be established at such levels as produce the same total dollar reduction under such paragraph as if this section had not been enacted; and
 
@@ -8293,29 +8293,29 @@
 
 [Pub. L. 101–239, title VI, § 6003(d)][/us/pl/101/239/s6003/d], Dec. 19, 1989, [103 Stat. 2142][/us/stat/103/2142], provided that: 
 
-> “Any hospital that is classified as a regional referral center under section 1886(d)(5)(C) of the Social Security Act \[subsec. (d)(5)(C) of this section\] as of September 30, 1989, including a hospital so classified as a result of section 9302(d)(2) of the Omnibus Budget Reconciliation Act of 1986 \[[Pub. L. 99–509][/us/pl/99/509], set out below\], shall continue to be classified as a regional referral center for cost reporting periods beginning on or after October 1, 1989, and before October 1, 1992.”
+> “Any hospital that is classified as a regional referral center under section 1886(d)(5)(C) of the Social Security Act \[[42 U.S.C. 1395ww(d)(5)(C)][/us/usc/t42/s1395ww/d/5/C]\] as of September 30, 1989, including a hospital so classified as a result of section 9302(d)(2) of the Omnibus Budget Reconciliation Act of 1986 \[[Pub. L. 99–509][/us/pl/99/509], set out below\], shall continue to be classified as a regional referral center for cost reporting periods beginning on or after October 1, 1989, and before October 1, 1992.”
 
 [Pub. L. 99–509, title IX, § 9302(d)(2)][/us/pl/99/509/s9302/d/2], Oct. 21, 1986, [100 Stat. 1983][/us/stat/100/1983], provided that: 
 
-> “Any hospital that is classified as a regional referral center under section 1886(d)(5)(C)(i) of the Social Security Act \[subsec. (d)(5)(C)(i) of this section\] on the date of the enactment of this Act \[Oct. 21, 1986\] shall continue to be classified as a regional referral center for cost reporting periods beginning on or after October 1, 1986, and before October 1, 1989.”
+> “Any hospital that is classified as a regional referral center under section 1886(d)(5)(C)(i) of the Social Security Act \[[42 U.S.C. 1395ww(d)(5)(C)(i)][/us/usc/t42/s1395ww/d/5/C/i]\] on the date of the enactment of this Act \[Oct. 21, 1986\] shall continue to be classified as a regional referral center for cost reporting periods beginning on or after October 1, 1986, and before October 1, 1989.”
 
  __Budget-Neutral Implementation__ 
 
 [Pub. L. 99–509, title IX, § 9302(d)(3)][/us/pl/99/509/s9302/d/3], Oct. 21, 1986, [100 Stat. 1983][/us/stat/100/1983], provided that: 
 
-> “Paragraph (2) \[set out as a note above\] and the amendment made by paragraph (1)(A) \[amending this section\] shall be implemented in a manner that ensures that total payments under section 1886 of the Social Security Act \[this section\] are not increased or decreased by reason of the classifications required by such paragraph or amendment.”
+> “Paragraph (2) \[set out as a note above\] and the amendment made by paragraph (1)(A) \[amending this section\] shall be implemented in a manner that ensures that total payments under section 1886 of the Social Security Act \[[42 U.S.C. 1395ww][/us/usc/t42/s1395ww]\] are not increased or decreased by reason of the classifications required by such paragraph or amendment.”
 
  __Promulgation of New Rate__ 
 
 [Pub. L. 99–509, title IX, § 9302(f)][/us/pl/99/509/s9302/f], Oct. 21, 1986, [100 Stat. 1984][/us/stat/100/1984], provided that: 
 
-> “The Secretary of Health and Human Services shall provide, within 30 days after the date of the enactment of this Act \[Oct. 21, 1986\], for the publication of the payments rates that will apply under section 1886 of the Social Security Act \[this section\], for discharges occurring on or after October 1, 1986, taking into account the amendments made by this section \[amending this section\], without regard to the provisions of chapter 5 of title 5, United States Code.”
+> “The Secretary of Health and Human Services shall provide, within 30 days after the date of the enactment of this Act \[Oct. 21, 1986\], for the publication of the payments rates that will apply under section 1886 of the Social Security Act \[[42 U.S.C. 1395ww][/us/usc/t42/s1395ww]\], for discharges occurring on or after October 1, 1986, taking into account the amendments made by this section \[amending this section\], without regard to the provisions of chapter 5 of title 5, United States Code.”
 
  __Miscellaneous Accounting Provision__ 
 
 [Pub. L. 99–509, title IX, § 9307(d)][/us/pl/99/509/s9307/d], Oct. 21, 1986, [100 Stat. 1996][/us/stat/100/1996], as amended by [Pub. L. 100–203, title IV, § 4008(e)][/us/pl/100/203/s4008/e], Dec. 22, 1987, [101 Stat. 1330–56][/us/stat/101/1330-56], provided that: 
 
-> “Notwithstanding any other provision of law, for purposes of section 1886(d)(1)(A) of the Social Security Act \[subsec. (d)(1)(A) of this section\], in the case of a hospital that—
+> “Notwithstanding any other provision of law, for purposes of section 1886(d)(1)(A) of the Social Security Act \[[42 U.S.C. 1395ww(d)(1)(A)][/us/usc/t42/s1395ww/d/1/A]\], in the case of a hospital that—
 
 >     “(1) had a cost reporting period beginning on September 28, 29, or 30 of 1985,
 
@@ -8333,31 +8333,31 @@
 
 >     “(1) __Prohibition of issuance of final regulations on capital-related costs as part of payment for operating costs before november 21, 1987.—__ 
 
->     Notwithstanding any other provision of law (except as provided in paragraph (3)), the Secretary of Health and Human Services may not issue, in final form, after September 1, 1986, and before November 21, 1987, any regulation that changes the methodology for computing the amount of payment for capital-related costs (as defined in paragraph (4)) for inpatient hospital services under part A of title XVIII of the Social Security Act \[part A of this subchapter\]. Any regulation published in violation of the previous sentence is void and of no effect.
+>     Notwithstanding any other provision of law (except as provided in paragraph (3)), the Secretary of Health and Human Services may not issue, in final form, after September 1, 1986, and before November 21, 1987, any regulation that changes the methodology for computing the amount of payment for capital-related costs (as defined in paragraph (4)) for inpatient hospital services under part A of title XVIII of the Social Security Act \[[42 U.S.C. 1395c][/us/usc/t42/s1395c] et seq.\]. Any regulation published in violation of the previous sentence is void and of no effect.
 
 >     “(2) __Not including capital-related regulations in budget baseline.—__ 
 
->     Any reference in law to a regulation issued in final form or proposed by the Health Care Financing Administration pursuant to sections 1886(b)(3)(B), 1886(d)(3)(A), and 1886(e)(4) of the Social Security Act \[subsecs. (b)(3)(B), (d)(3)(A), and (e)(4) of this section\] shall not include any regulation issued or proposed with respect to capital-related costs (as defined in paragraph (4)).
+>     Any reference in law to a regulation issued in final form or proposed by the Health Care Financing Administration pursuant to sections 1886(b)(3)(B), 1886(d)(3)(A), and 1886(e)(4) of the Social Security Act \[[42 U.S.C. 1395ww(b)(3)(B)][/us/usc/t42/s1395ww/b/3/B], (d)(3)(A), (e)(4)\] shall not include any regulation issued or proposed with respect to capital-related costs (as defined in paragraph (4)).
 
 >     “(3) __Exception.—__ 
 
->     Paragraph (1) shall not apply to any regulation issued for the sole purpose of implementing section 1861(v)(1)(O) and 1886(g)(2) of the Social Security Act \[[section 1395x(v)(1)(O) of this title][/us/usc/t42/s1395x/v/1/O] and subsec. (g)(2) of this section\] and section 1886(g)(3)(A) and (B) of the Social Security Act \[subsec. (g)(3)(A) and (B) of this section\] (as amended by section 9303(a) of this Act).
+>     Paragraph (1) shall not apply to any regulation issued for the sole purpose of implementing section 1861(v)(1)(O) and 1886(g)(2) of the Social Security Act \[[42 U.S.C. 1395x(v)(1)(O)][/us/usc/t42/s1395x/v/1/O], 1395ww(g)(2)\] and section 1886(g)(3)(A) and (B) of the Social Security Act \[[42 U.S.C. 1395ww(g)(3)(A)][/us/usc/t42/s1395ww/g/3/A], (B)\] (as amended by section 9303(a) of this Act).
 
 >     “(4) __Capital-related costs defined.—__ 
 
->     In this subsection, the term ‘capital-related costs’ means those capital-related costs that are specifically excluded, under the second sentence of section 1886(a)(4) of the Social Security Act \[subsec. (a)(4) of this section\], from the term ‘operating costs of inpatient hospital services’ (as defined in that section) for cost reporting periods beginning prior to October 1, 1987.”
+>     In this subsection, the term ‘capital-related costs’ means those capital-related costs that are specifically excluded, under the second sentence of section 1886(a)(4) of the Social Security Act \[[42 U.S.C. 1395ww(a)(4)][/us/usc/t42/s1395ww/a/4]\], from the term ‘operating costs of inpatient hospital services’ (as defined in that section) for cost reporting periods beginning prior to October 1, 1987.”
 
  __Limitation on Authority To Issue Certain Final Regulations and Instructions Relating to Hospitals or Physicians__ 
 
 [Pub. L. 99–509, title IX, § 9321(d)][/us/pl/99/509/s9321/d], Oct. 21, 1986, [100 Stat. 2017][/us/stat/100/2017], provided that: 
 
-> “Notwithstanding any other provision of law, except as required to implement specific provisions required under statute and except as provided under subsection (c) \[set out above\] with respect to a regulation described in that subsection, the Secretary of Health and Human Services is not authorized to issue in final form after the date of the enactment of this Act \[Oct. 21, 1986\] and before September 1, 1987, any regulation, instruction, or other policy which is estimated by the Secretary to result in a net reduction in expenditures under title XVIII of the Social Security Act \[this subchapter\] in fiscal year 1988 of more than $50,000,000, and which relates to hospitals or physicians.”
+> “Notwithstanding any other provision of law, except as required to implement specific provisions required under statute and except as provided under subsection (c) \[set out above\] with respect to a regulation described in that subsection, the Secretary of Health and Human Services is not authorized to issue in final form after the date of the enactment of this Act \[Oct. 21, 1986\] and before September 1, 1987, any regulation, instruction, or other policy which is estimated by the Secretary to result in a net reduction in expenditures under title XVIII of the Social Security Act \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\] in fiscal year 1988 of more than $50,000,000, and which relates to hospitals or physicians.”
 
  __Study of Methodology for Area Wage Adjustment for Central Cities; Report to Congress__ 
 
 [Pub. L. 99–272, title IX, § 9103(b)][/us/pl/99/272/s9103/b], Apr. 7, 1986, [100 Stat. 156][/us/stat/100/156], provided that:
 
->     “(1) The Secretary of Health and Human Services, in consultation with the Prospective Payment Assessment Commission, shall collect information and shall develop one or more methodologies to permit the adjustment of the wage indices used for purposes of sections 1886(d)(2)(C)(ii), 1886(d)(2)(H), and 1886(d)(3)(E) of the Social Security Act \[subsec. (d)(2)(C)(ii), (H), and (3)(E) of this section\], in order to more accurately reflect hospital labor markets, by taking into account variations in wages and wage-related costs between the central city portion of urban areas and other parts of urban areas.
+>     “(1) The Secretary of Health and Human Services, in consultation with the Prospective Payment Assessment Commission, shall collect information and shall develop one or more methodologies to permit the adjustment of the wage indices used for purposes of sections 1886(d)(2)(C)(ii), 1886(d)(2)(H), and 1886(d)(3)(E) of the Social Security Act \[[42 U.S.C. 1395ww(d)(2)(C)(ii)][/us/usc/t42/s1395ww/d/2/C/ii], (H), (3)(E)\], in order to more accurately reflect hospital labor markets, by taking into account variations in wages and wage-related costs between the central city portion of urban areas and other parts of urban areas.
 
 >     “(2) The Secretary shall report to Congress on the information collected and the methodologies developed under paragraph (1) not later than May 1, 1987. The report shall include a recommendation as to the feasibility and desirability of implementing such methodologies.”
 
@@ -8367,7 +8367,7 @@
 
 >     “(a) __Continuation of Waivers.—__ 
 
->     A hospital reimbursement control system which, on January 1, 1985, was carrying out a demonstration under a contract which had been approved by the Secretary of Health and Human Services pursuant to section 222(a) of the Social Security Amendments of 1972 \[[section 222(a) of Pub. L. 92–603][/us/pl/92/603/s222/a], set out as a note under [section 1395b–1 of this title][/us/usc/t42/s1395b–1]\], or under section 402 of the Social Security Amendments of 1967 (as amended by section 222(b) of the Social Security Amendments of 1972) \[[section 1395b–1 of this title][/us/usc/t42/s1395b–1]\], shall be deemed to meet the requirements of section 1886(c)(1)(A) of the Social Security Act \[subsec. (c)(1)(A) of this section\] if such system applies—
+>     A hospital reimbursement control system which, on January 1, 1985, was carrying out a demonstration under a contract which had been approved by the Secretary of Health and Human Services pursuant to section 222(a) of the Social Security Amendments of 1972 \[[section 222(a) of Pub. L. 92–603][/us/pl/92/603/s222/a], set out as a note under [section 1395b–1 of this title][/us/usc/t42/s1395b–1]\], or under section 402 of the Social Security Amendments of 1967 (as amended by section 222(b) of the Social Security Amendments of 1972) \[[42 U.S.C. 1395b–1][/us/usc/t42/s1395b–1]\], shall be deemed to meet the requirements of section 1886(c)(1)(A) of the Social Security Act \[[42 U.S.C. 1395ww(c)(1)(A)][/us/usc/t42/s1395ww/c/1/A]\] if such system applies—
 
 >         “(1) to substantially all non-Federal acute care hospitals (as defined by the Secretary) in the geographic area served by such system on January 1, 1985, and
 
@@ -8377,11 +8377,11 @@
 
 >             “(A) all revenues or expenses in such geographic area for inpatient hospital services, and
 
->             “(B) revenues or expenses in such geographic area for inpatient hospital services provided under the State’s plan approved under title XIX \[subchapter XIX of this chapter\].
+>             “(B) revenues or expenses in such geographic area for inpatient hospital services provided under the State’s plan approved under title XIX \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\].
 
 >     “(b) __Approval.—__ 
 
->     In the case of a hospital cost control system described in subsection (a), the requirements of section 1886(c) of the Social Security Act \[subsec. (c) of this section\] which apply to States shall instead apply to such system and, for such purposes, any reference to a State is deemed a reference to such system.
+>     In the case of a hospital cost control system described in subsection (a), the requirements of section 1886(c) of the Social Security Act \[[42 U.S.C. 1395ww(c)][/us/usc/t42/s1395ww/c]\] which apply to States shall instead apply to such system and, for such purposes, any reference to a State is deemed a reference to such system.
 
 >     “(c) __Effective Date.—__ 
 
@@ -8393,7 +8393,7 @@
 
 >     “(a) __Disclosure of Information.—__ 
 
->     The Secretary of Health and Human Services shall make available to the Prospective Payment Assessment Commission, the Congressional Budget Office, the Comptroller General, and the Congressional Research Service the most current information on the payments being made under section 1886 of the Social Security Act \[this section\] to individual hospitals. Such information shall be made available in a manner that permits examination of the impact of such section on hospitals.
+>     The Secretary of Health and Human Services shall make available to the Prospective Payment Assessment Commission, the Congressional Budget Office, the Comptroller General, and the Congressional Research Service the most current information on the payments being made under section 1886 of the Social Security Act \[[42 U.S.C. 1395ww][/us/usc/t42/s1395ww]\] to individual hospitals. Such information shall be made available in a manner that permits examination of the impact of such section on hospitals.
 
 >     “(b) __Confidentiality.—__ 
 
@@ -8425,7 +8425,7 @@
 
 >         (1)
 
->          The Secretary of Health and Human Services shall conduct a study with respect to approved educational activities relating to nursing and other health professions for which reimbursement is made to hospitals under title XVIII of the Social Security Act \[this subchapter\]. The study shall address—
+>          The Secretary of Health and Human Services shall conduct a study with respect to approved educational activities relating to nursing and other health professions for which reimbursement is made to hospitals under title XVIII of the Social Security Act \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\]. The study shall address—
 
 >             “(A) the types and numbers of such programs, and number of students supported or trained under each program;
 
@@ -8435,11 +8435,11 @@
 
 >             The Secretary shall report the results of such study to the Committee on Finance of the Senate and the Committees on Ways and Means and Energy and Commerce of the House of Representatives prior to December 31, 1987.
 
->         “(2) The Secretary shall conduct a separate study of the advisability of continuing or terminating the exception under section 1886(h)(5)(F)(ii) of the Social Security Act \[subsec. (h)(5)(F)(ii) of this section\] for geriatric residencies and fellowships, and of expanding such exception to cover other educational activities, particularly those which are necessary to meet the projected health care needs of Medicare beneficiaries. Such study shall also examine the adequacy of the supply of faculty in the field of geriatrics. The Secretary shall report the results of such study to the committees described in paragraph (1) prior to July 1, 1990.
+>         “(2) The Secretary shall conduct a separate study of the advisability of continuing or terminating the exception under section 1886(h)(5)(F)(ii) of the Social Security Act \[[42 U.S.C. 1395ww(h)(5)(F)(ii)][/us/usc/t42/s1395ww/h/5/F/ii]\] for geriatric residencies and fellowships, and of expanding such exception to cover other educational activities, particularly those which are necessary to meet the projected health care needs of Medicare beneficiaries. Such study shall also examine the adequacy of the supply of faculty in the field of geriatrics. The Secretary shall report the results of such study to the committees described in paragraph (1) prior to July 1, 1990.
 
 >     “(d) __GAO Study.—__ 
 
->         (1) The Comptroller General shall conduct a study of the variation in the amounts of payments made under title XVIII of the Social Security Act \[this subchapter\] with respect to patients in different teaching hospital settings and in the amounts of such payments which are made with respect to patients who are treated in teaching and nonteaching hospital settings. Such study shall identify the components of such payments (including payments with respect to inpatient hospital services, physicians’ services, and capital costs, and, in the case of teaching hospital patients, payments with respect to direct and indirect teaching costs) and shall account, to the extent feasible, for any variations in the amounts of the payment components between teaching and nonteaching settings and among different teaching settings.
+>         (1) The Comptroller General shall conduct a study of the variation in the amounts of payments made under title XVIII of the Social Security Act \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\] with respect to patients in different teaching hospital settings and in the amounts of such payments which are made with respect to patients who are treated in teaching and nonteaching hospital settings. Such study shall identify the components of such payments (including payments with respect to inpatient hospital services, physicians’ services, and capital costs, and, in the case of teaching hospital patients, payments with respect to direct and indirect teaching costs) and shall account, to the extent feasible, for any variations in the amounts of the payment components between teaching and nonteaching settings and among different teaching settings.
 
 >         “(2) In carrying out such study, the Comptroller General may utilize a sample of hospital patients and any other data sources which he deems appropriate, and shall, to the extent feasible, control for differences in severity of illness levels, area wage levels, levels of physician reasonable charges for like services and procedures, and for other factors which could affect the comparability of patients and of payments between teaching and nonteaching settings and among teaching settings. The information obtained in the study shall be coordinated with the information obtained in conducting the study of teaching physicians’ services under section 2307(c) of the Deficit Reduction Act of 1984 \[[section 2307(c) of Pub. L. 98–369][/us/pl/98/369/s2307/c], set out as a note under [section 1395u of this title][/us/usc/t42/s1395u]\].
 
@@ -8447,11 +8447,11 @@
 
 >     “(e) __Report on Uniformity of Approved FTE Resident Amounts.—__ 
 
->     The Secretary of Health and Human Services shall report to the committees described in subsection (c)(1), not later than December 31, 1987, on whether section 1886(h) of the Social Security Act \[subsec. (h) of this section\] should be revised to provide for greater uniformity in the approved FTE resident amounts established under paragraph (2) of that section, and, if so, how such revisions should be implemented.
+>     The Secretary of Health and Human Services shall report to the committees described in subsection (c)(1), not later than December 31, 1987, on whether section 1886(h) of the Social Security Act \[[42 U.S.C. 1395ww(h)][/us/usc/t42/s1395ww/h]\] should be revised to provide for greater uniformity in the approved FTE resident amounts established under paragraph (2) of that section, and, if so, how such revisions should be implemented.
 
 >     “(f) __Study on Foreign Medical Graduates.—__ 
 
->     The Secretary of Health and Human Services shall study, and report to the committees described in subsection (c)(1), not later than December 31, 1987, respecting the use of physicians who are foreign medical graduates (within the meaning of section 1886(h)(5)(D) of the Social Security Act \[subsec. (h)(5)(D) of this section\]) in the provision of health care services (particularly inpatient and outpatient hospital services) to medicare beneficiaries. Such study shall evaluate—
+>     The Secretary of Health and Human Services shall study, and report to the committees described in subsection (c)(1), not later than December 31, 1987, respecting the use of physicians who are foreign medical graduates (within the meaning of section 1886(h)(5)(D) of the Social Security Act \[[42 U.S.C. 1395ww(h)(5)(D)][/us/usc/t42/s1395ww/h/5/D]\]) in the provision of health care services (particularly inpatient and outpatient hospital services) to medicare beneficiaries. Such study shall evaluate—
 
 >         “(1) the types of services provided;
 
@@ -8471,13 +8471,13 @@
 
 [Pub. L. 99–272, title IX, § 9202(j)][/us/pl/99/272/s9202/j], Apr. 7, 1986, [100 Stat. 177][/us/stat/100/177], as amended by [Pub. L. 99–514, title XVIII, § 1895(b)(10)][/us/pl/99/514/s1895/b/10], Oct. 22, 1986, [100 Stat. 2933][/us/stat/100/2933], provided that: 
 
-> “In the case of a hospital in a State that has had a waiver approved under section 1886(c) of the Social Security Act \[subsec. (c) of this section\] or section 402 of the Social Security Amendments of 1967 \[[section 1395b–1 of this title][/us/usc/t42/s1395b–1]\], for cost reporting periods beginning on or after January 1, 1986, if the waiver is terminated—
+> “In the case of a hospital in a State that has had a waiver approved under section 1886(c) of the Social Security Act \[[42 U.S.C. 1395ww(c)][/us/usc/t42/s1395ww/c]\] or section 402 of the Social Security Amendments of 1967 \[[42 U.S.C. 1395b–1][/us/usc/t42/s1395b–1]\], for cost reporting periods beginning on or after January 1, 1986, if the waiver is terminated—
 
 >     “(1) the Secretary of Health and Human Services shall permit the hospital to change the method by which it allocates administrative and general costs to the direct medical education cost centers to the method specified in the medicare cost report;
 
 >     “(2) the Secretary may make appropriate adjustments in the regional adjusted DRG prospective payment rate (for the region in which the State is located), based on the assumption that all teaching hospitals in the State use the medicare cost report; and
 
->     “(3) the Secretary shall adjust the hospital-specific portion of payment under section 1886(d) of such Act \[subsec. (d) of this section\] for any such hospital that actually chooses to use the medicare cost report.
+>     “(3) the Secretary shall adjust the hospital-specific portion of payment under section 1886(d) of such Act \[[42 U.S.C. 1395ww(d)][/us/usc/t42/s1395ww/d]\] for any such hospital that actually chooses to use the medicare cost report.
 
 >         The Secretary shall implement this subsection based on the best available data.”
 
@@ -8487,11 +8487,11 @@
 
 >     “(a) __Moratorium.—__ 
 
->     Prior to January 1, 1990, the Secretary of Health and Human Services shall not conduct any demonstration projects relating to competitive bidding as a method of purchasing laboratory services under title XVIII of the Social Security Act \[this subchapter\]. The Secretary may contract for the design of, and site selection for, such demonstration projects.
+>     Prior to January 1, 1990, the Secretary of Health and Human Services shall not conduct any demonstration projects relating to competitive bidding as a method of purchasing laboratory services under title XVIII of the Social Security Act \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\]. The Secretary may contract for the design of, and site selection for, such demonstration projects.
 
 >     “(b) __Cooperation in Study.—__ 
 
->     The Secretary of Health and Human Services and the Comptroller General shall assist representatives of clinical laboratories in the industry’s conduct of a study to determine whether methods exist which are better than competitive bidding for purposes of utilizing competitive market forces in setting payment levels for laboratory services under title XVIII of the Social Security Act \[this subchapter\]. If such a study is conducted by the clinical laboratory industry, the Secretary and the Comptroller General shall comment on such study and submit such comments and the study to the Senate Committee on Finance and the House Committees on Ways and Means and Energy and Commerce.”
+>     The Secretary of Health and Human Services and the Comptroller General shall assist representatives of clinical laboratories in the industry’s conduct of a study to determine whether methods exist which are better than competitive bidding for purposes of utilizing competitive market forces in setting payment levels for laboratory services under title XVIII of the Social Security Act \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\]. If such a study is conducted by the clinical laboratory industry, the Secretary and the Comptroller General shall comment on such study and submit such comments and the study to the Senate Committee on Finance and the House Committees on Ways and Means and Energy and Commerce.”
 
  __Medicare Hospital and Physician Payment Provisions; Extension Period__ 
 
@@ -8499,11 +8499,11 @@
 
 >     “(a) __Maintaining Existing Hospital Payment Rates.—__ 
 
->     Notwithstanding any other provision of law, the amount of payment under section 1886 of the Social Security Act \[this section\] for inpatient hospital services for discharges occurring (and cost reporting periods beginning) during the extension period (as defined in subsection (c)) shall be determined on the same basis as the amount of payment for such services for a discharge occurring on (or the cost reporting period beginning immediately on or before) September 30, 1985.
+>     Notwithstanding any other provision of law, the amount of payment under section 1886 of the Social Security Act \[[42 U.S.C. 1395ww][/us/usc/t42/s1395ww]\] for inpatient hospital services for discharges occurring (and cost reporting periods beginning) during the extension period (as defined in subsection (c)) shall be determined on the same basis as the amount of payment for such services for a discharge occurring on (or the cost reporting period beginning immediately on or before) September 30, 1985.
 
 >     “(b) __Maintaining Existing Payment Rates for Physicians’ Services.—__ 
 
->     Notwithstanding any other provision of law, the amount of payment under part B of title XVIII of the Social Security Act \[part B of this subchapter\] for physicians’ services which are furnished during the extension period (as defined in subsection (c)) shall be determined on the same basis as the amount of payment for such services furnished on September 30, 1985, and the 15-month period, referred to in section 1842(j)(1) of such Act \[[section 1395u(j)(1) of this title][/us/usc/t42/s1395u/j/1]\], shall be deemed to include the extension period.
+>     Notwithstanding any other provision of law, the amount of payment under part B of title XVIII of the Social Security Act \[[42 U.S.C. 1395j][/us/usc/t42/s1395j] et seq.\] for physicians’ services which are furnished during the extension period (as defined in subsection (c)) shall be determined on the same basis as the amount of payment for such services furnished on September 30, 1985, and the 15-month period, referred to in section 1842(j)(1) of such Act \[[42 U.S.C. 1395u(j)(1)][/us/usc/t42/s1395u/j/1]\], shall be deemed to include the extension period.
 
 >     “(c) __Extension Period Defined.—__ 
 
@@ -8523,7 +8523,7 @@
 
 > “The Secretary of Health and Human Services shall, prior to December 31, 1984—
 
->     “(1) develop and publish a definition of ‘hospitals that serve a significantly disproportionate number of patients who have low income or are entitled to benefits under part A’ of title XVIII of the Social Security Act \[part A of this subchapter\] for purposes of section 1886(d)(5)(C)(i) of that Act \[subsec. (d)(5)(C)(i) of this section\], and
+>     “(1) develop and publish a definition of ‘hospitals that serve a significantly disproportionate number of patients who have low income or are entitled to benefits under part A’ of title XVIII of the Social Security Act \[[42 U.S.C. 1395c][/us/usc/t42/s1395c] et seq.\] for purposes of section 1886(d)(5)(C)(i) of that Act \[[42 U.S.C. 1395ww(d)(5)(C)(i)][/us/usc/t42/s1395ww/d/5/C/i]\], and
 
 >     “(2) identify those hospitals which meet such definition, and make such identity available to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate.”
 
@@ -8531,11 +8531,11 @@
 
 [Pub. L. 98–369, div. B, title III, § 2316][/us/pl/98/369/s2316], July 18, 1984, [98 Stat. 1081][/us/stat/98/1081], as amended by [Pub. L. 99–272, title IX, § 9103(a)(1)][/us/pl/99/272/s9103/a/1], Apr. 7, 1986, [100 Stat. 156][/us/stat/100/156], provided that:
 
->     “(a) The Secretary of Health and Human Services, in consultation with the Secretary of Labor, shall conduct a study to develop an appropriate index for purposes of adjusting payment amounts under section 1886(d) of the Social Security Act \[subsec. (d) of this section\] to reflect area differences in average hospital wage levels, as required under paragraphs (2)(H) and (3)(E) of such section \[subsec. (d)(2)(H) and (3)(E) of this section\], taking into account wage differences of full time and part time workers. The Secretary of Health and Human Services shall report the results of such study to the Congress not later than 30 days after the date of the enactment of this Act \[July 18, 1984\], including any changes which the Secretary determines to be necessary to provide for an appropriate index.
+>     “(a) The Secretary of Health and Human Services, in consultation with the Secretary of Labor, shall conduct a study to develop an appropriate index for purposes of adjusting payment amounts under section 1886(d) of the Social Security Act \[[42 U.S.C. 1395ww(d)][/us/usc/t42/s1395ww/d]\] to reflect area differences in average hospital wage levels, as required under paragraphs (2)(H) and (3)(E) of such section \[[42 U.S.C. 1395ww(d)(2)(H)][/us/usc/t42/s1395ww/d/2/H], (3)(E)\], taking into account wage differences of full time and part time workers. The Secretary of Health and Human Services shall report the results of such study to the Congress not later than 30 days after the date of the enactment of this Act \[July 18, 1984\], including any changes which the Secretary determines to be necessary to provide for an appropriate index.
 
->     “(b) The Secretary shall adjust the payment amounts for hospitals for discharges occurring on or after May 1, 1986, to reflect the changes the Secretary has promulgated in final regulations (on September 3, 1985) relating to the hospital wage index under section 1886(d)(3)(E) of the Social Security Act \[subsec. (d)(3)(E) of this section\]. For discharges occurring after September 30, 1986, the Secretary shall provide for such periodic adjustments in the appropriate wage index used under that section as may be necessary, taking into account changes in the wage levels and relative proportions of full-time and part-time workers.
+>     “(b) The Secretary shall adjust the payment amounts for hospitals for discharges occurring on or after May 1, 1986, to reflect the changes the Secretary has promulgated in final regulations (on September 3, 1985) relating to the hospital wage index under section 1886(d)(3)(E) of the Social Security Act \[[42 U.S.C. 1395ww(d)(3)(E)][/us/usc/t42/s1395ww/d/3/E]\]. For discharges occurring after September 30, 1986, the Secretary shall provide for such periodic adjustments in the appropriate wage index used under that section as may be necessary, taking into account changes in the wage levels and relative proportions of full-time and part-time workers.
 
->     “(c) The Secretary shall conduct a study and report to the Congress on proposed criteria under which, in the case of a hospital that demonstrates to the Secretary in a current fiscal year that the adjustment being made under paragraph (2)(H) or (3)(E) of section 1886(d) of the Social Security Act \[subsec. (d)(2)(H) or (3)(E) of this section\] for that hospital’s discharges in that fiscal year does not accurately reflect the wage levels in the labor market serving the hospital, the Secretary, to the extent he deems appropriate, would modify such adjustment for that hospital for discharges in the subsequent fiscal year to take into account a difference in payment amounts in that current fiscal year to the hospital that resulted from such inaccuracy.”
+>     “(c) The Secretary shall conduct a study and report to the Congress on proposed criteria under which, in the case of a hospital that demonstrates to the Secretary in a current fiscal year that the adjustment being made under paragraph (2)(H) or (3)(E) of section 1886(d) of the Social Security Act \[[42 U.S.C. 1395ww(d)(2)(H)][/us/usc/t42/s1395ww/d/2/H], (3)(E)\] for that hospital’s discharges in that fiscal year does not accurately reflect the wage levels in the labor market serving the hospital, the Secretary, to the extent he deems appropriate, would modify such adjustment for that hospital for discharges in the subsequent fiscal year to take into account a difference in payment amounts in that current fiscal year to the hospital that resulted from such inaccuracy.”
 
 \[[Pub. L. 99–272, title IX, § 9103(a)(2)][/us/pl/99/272/s9103/a/2], Apr. 7, 1986, [100 Stat. 156][/us/stat/100/156], provided that: 
 
@@ -8553,7 +8553,7 @@
 
 [Pub. L. 98–21, title VI, § 601(g)][/us/pl/98/21/s601/g], Apr. 20, 1983, [97 Stat. 163][/us/stat/97/163], provided that: 
 
-> “In determining whether a hospital is in an urban or rural area for purposes of section 1886(d) of the Social Security Act \[subsec. (d) of this section\], the Secretary of Health and Human Services shall classify any hospital located in New England as being located in an urban area if such hospital was classified as being located in an urban area under the Standard Metropolitan Statistical Area system of classification in effect in 1979.”
+> “In determining whether a hospital is in an urban or rural area for purposes of section 1886(d) of the Social Security Act \[[42 U.S.C. 1395ww(d)][/us/usc/t42/s1395ww/d]\], the Secretary of Health and Human Services shall classify any hospital located in New England as being located in an urban area if such hospital was classified as being located in an urban area under the Standard Metropolitan Statistical Area system of classification in effect in 1979.”
 
  __Reports, Experiments, and Demonstration Proj­ects Related to Inclusion in Prospective Payment Amounts of Inpatient Hospital Service Capital-Related Costs__ 
 
@@ -9528,6 +9528,7 @@
 [/us/usc/t42/s1395ww/d/5/B/x/III]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww%2Fd%2F5%2FB%2Fx%2FIII
 [/us/pl/110/173/s114/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F173%2Fs114%2Fe%2F2
 [/us/stat/121/2505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2505
+[/us/usc/t42/s1395ww/m/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww%2Fm%2F2
 [/us/pl/110/173/s115/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F173%2Fs115%2Fa%2F2
 [/us/stat/121/2506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2506
 [/us/pl/110/161/s225/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2Fs225%2Fb%2F2
@@ -9612,6 +9613,7 @@
 [/us/usc/t42/s1395ww/d/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww%2Fd%2F1%2FB
 [/us/pl/105/33/s4421/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs4421%2Fc
 [/us/stat/111/413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F413
+[/us/usc/t42/s1395ww/j/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww%2Fj%2F2%2FD
 [/us/pl/105/33/s4627/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs4627%2Fb
 [/us/stat/111/483]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F483
 [/us/pl/103/432/s101/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432%2Fs101%2Fa%2F2
@@ -9626,6 +9628,7 @@
 [/us/stat/107/605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F605
 [/us/pl/103/66/s13563/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13563%2Fc%2F2
 [/us/stat/107/606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F606
+[/us/usc/t42/s1395ww/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww%2Fh
 [/us/pl/101/508/s4002/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs4002%2Fa%2F2
 [/us/stat/104/1388-32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-32
 [/us/pl/101/508/s4002/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs4002%2Fb%2F5
@@ -9659,6 +9662,8 @@
 [/us/stat/103/2158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2158
 [/us/pl/101/239/s6004/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs6004%2Fa%2F3
 [/us/stat/103/2159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2159
+[/us/usc/t42/s1395ww/d/5/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww%2Fd%2F5%2FI
+[/us/usc/t42/s1395ww/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww%2Fg
 [/us/usc/t42/s1395g/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395g%2Fe%2F2
 [/us/pl/101/239/s6004/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs6004%2Fb%2F2
 [/us/stat/103/2160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2160
@@ -9692,6 +9697,14 @@
 [/us/stat/101/1330-45]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-45
 [/us/pl/100/360/s411/b/1/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360%2Fs411%2Fb%2F1%2FI
 [/us/stat/102/769]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F769
+[/us/usc/t42/s1395ww/d/1/A/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww%2Fd%2F1%2FA%2Fiii
+[/us/usc/t42/s1395ww/b/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww%2Fb%2F3%2FB
+[/us/usc/t42/s1395ww/d/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww%2Fd%2F1%2FA
+[/us/usc/t42/s1395ww/b/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww%2Fb%2F3%2FB
+[/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
+[/us/usc/t42/s1395ww/b/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww%2Fb%2F3%2FB
+[/us/usc/t42/s1395ww/d/3/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww%2Fd%2F3%2FA%2Fii
+[/us/usc/t42/s1395ww/d/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww%2Fd%2F1%2FB
 [/us/pl/100/203/s4003/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs4003%2Fe
 [/us/stat/101/1330-47]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-47
 [/us/pl/100/203/s4005/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs4005%2Fa%2F3
@@ -9739,6 +9752,7 @@
 [/us/usc/t26/s162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs162
 [/us/pl/99/509/s9302/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs9302%2Fa%2F3
 [/us/stat/100/1982]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1982
+[/us/usc/t42/s1395ww/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww%2Fd
 [/us/pl/99/509/s9302/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs9302%2Fb%2F2
 [/us/stat/100/1982]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1982
 [/us/pl/99/509/s9302/d/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs9302%2Fd%2F1%2FB
@@ -9764,8 +9778,20 @@
 [/us/pl/99/107/s5/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F107%2Fs5%2Fc
 [/us/pl/99/272/s9101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs9101%2Fe
 [/us/stat/100/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F154
+[/us/usc/t42/s1395ww/d/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww%2Fd%2F1%2FA
+[/us/usc/t42/s1395ww/b/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww%2Fb%2F3%2FB
+[/us/usc/t42/s1395ww/d/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww%2Fd%2F1%2FA
+[/us/usc/t42/s1395ww/b/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww%2Fb%2F3%2FB
+[/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
+[/us/usc/t42/s1395ww/b/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww%2Fb%2F3%2FB
+[/us/usc/t42/s1395ww/d/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww%2Fd%2F1%2FB
 [/us/pl/99/272/s9102/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs9102%2Fd
 [/us/stat/100/155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F155
+[/us/usc/t42/s1395ww/d/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww%2Fd%2F1%2FA
+[/us/usc/t42/s1395ww/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww%2Fa%2F4
+[/us/usc/t42/s1395ww/d/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww%2Fd%2F1%2FB
+[/us/usc/t42/s1395ww/d/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww%2Fd%2F1%2FA
+[/us/usc/t42/s1395ww/d/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww%2Fd%2F1%2FD
 [/us/pl/99/272/s9104/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs9104%2Fc
 [/us/stat/100/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F158
 [/us/pl/99/272/s9105/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs9105%2Fe
@@ -9790,6 +9816,7 @@
 [/us/stat/98/1075]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1075
 [/us/pl/98/369/s2311/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2311%2Fd
 [/us/stat/98/1077]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1077
+[/us/usc/t42/s1395ww/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww%2Fd
 [/us/pl/98/369/s2312/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2312%2Fc
 [/us/stat/98/1078]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1078
 [/us/pl/99/509/s9320/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs9320%2Fa
@@ -9817,7 +9844,11 @@
 [/us/usc/t42/s602/f/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs602%2Ff%2F1%2FC
 [/us/usc/t42/s1395y/a/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395y%2Fa%2F14
 [/us/usc/t42/s602/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs602%2Fe%2F3
+[/us/usc/t42/s1395cc/a/1/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395cc%2Fa%2F1%2FG
 [/us/usc/t42/s602/f/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs602%2Ff%2F1%2FC
+[/us/usc/t42/s1395ww/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww%2Fd
+[/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
+[/us/usc/t42/s1395ww/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww%2Fd
 [/us/usc/t42/s1395x]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395x
 [/us/pl/97/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F448
 [/us/pl/97/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248
@@ -9831,6 +9862,7 @@
 [/us/pl/98/369/s2315/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2315%2Ff%2F2
 [/us/stat/98/1080]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1080
 [/us/pl/98/21/s604/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21%2Fs604%2Fc
+[/us/usc/t42/s1395ww/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww%2Fc
 [/us/pl/97/248/s101/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs101%2Fb%2F2%2FA
 [/us/stat/96/335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F335
 [/us/pl/97/248/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs101%2Fa
@@ -9920,6 +9952,7 @@
 [/us/stat/123/496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F496
 [/us/pl/111/148/s3106/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs3106%2Fb
 [/us/stat/124/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F418
+[/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
 [/us/usc/t42/s1395ff]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ff
 [/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
 [/us/pl/111/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5
@@ -9928,6 +9961,8 @@
 [/us/pl/110/173/s114/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F173%2Fs114%2Ff
 [/us/stat/121/2505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2505
 [/us/usc/t42/s1395kk–1/a/4/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395kk%E2%80%931%2Fa%2F4%2FG
+[/us/usc/t42/s1395ww/d/1/B/iv]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww%2Fd%2F1%2FB%2Fiv
+[/us/usc/t42/s1395c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395c
 [/us/usc/t42/s1395ww/d/1/B/iv]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww%2Fd%2F1%2FB%2Fiv
 [/us/pl/110/173/s117/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F173%2Fs117%2Fa%2F2
 [/us/stat/121/2507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2507
@@ -9974,6 +10009,7 @@
 [/us/stat/120/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F33
 [/us/pl/110/173/s115/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F173%2Fs115%2Fb%2F1
 [/us/stat/121/2506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2506
+[/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
 [/us/pl/110/173/s115/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F173%2Fs115%2Fb%2F2
 [/us/stat/121/2506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2506
 [/us/pl/109/171/s5005/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2Fs5005%2Fa
@@ -9982,12 +10018,14 @@
 [/us/pl/111/148/s3027]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs3027
 [/us/stat/124/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F415
 [/us/usc/t42/s1320a–7b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320a%E2%80%937b
+[/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
 [/us/usc/t42/s1320a–7a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320a%E2%80%937a
 [/us/usc/t42/s1395nn]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395nn
 [/us/usc/t42/s1320a–7/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320a%E2%80%937%2Fa
 [/us/usc/t42/s1320a–7a/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320a%E2%80%937a%2Fa
 [/us/usc/t42/s1395ww/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww%2Fd
 [/us/usc/t42/s1395x/mm]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395x%2Fmm
+[/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
 [/us/usc/t42/s1395x/r]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395x%2Fr
 [/us/usc/t42/s1395u/e/18/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395u%2Fe%2F18%2FC
 [/us/pl/108/173/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs404
@@ -10013,6 +10051,7 @@
 [/us/usc/t42/s1395ww/h/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww%2Fh%2F7
 [/us/pl/108/173/s422/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs422%2Fc
 [/us/stat/117/2286]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2286
+[/us/usc/t42/s1395ww/h/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww%2Fh%2F4
 [/us/pl/108/173/s433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs433
 [/us/stat/117/2288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2288
 [/us/pl/108/173/s501/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs501%2Fc
@@ -10020,6 +10059,7 @@
 [/us/usc/t42/s1395ww]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww
 [/us/pl/108/173/s503/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs503%2Fd%2F2
 [/us/stat/117/2292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2292
+[/us/usc/t42/s1395ww]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww
 [/us/pl/108/173/s508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs508
 [/us/stat/117/2297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2297
 [/us/pl/110/173/s117/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F173%2Fs117%2Fb
@@ -10030,6 +10070,7 @@
 [/us/usc/t42/s1395ww/d/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww%2Fd%2F1%2FB
 [/us/usc/t42/s1395ww/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww%2Fd
 [/us/usc/t42/s1395ww/d/10/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww%2Fd%2F10%2FD
+[/us/usc/t42/s1395ww/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww%2Fd
 [/us/usc/t42/s1395ww/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww%2Fd
 [/us/usc/t42/s1395ww/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww%2Fd
 [/us/pl/109/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432
@@ -10044,6 +10085,7 @@
 [/us/pl/108/173/s951]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs951
 [/us/stat/117/2427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2427
 [/us/usc/t42/s1395ww/d/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww%2Fd%2F1%2FB
+[/us/usc/t42/s1395c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395c
 [/us/pl/106/554/s1/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F6
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
 [/us/usc/t42/s1395ww/d/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww%2Fd%2F1%2FB
@@ -10063,6 +10105,7 @@
 [/us/pl/106/554/s1/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F6
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
 [/us/usc/t42/s1395ww/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww%2Fd
+[/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
 [/us/pl/106/554/s1/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F6
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
 [/us/usc/t42/s1395w–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%934
@@ -10074,14 +10117,17 @@
 [/us/usc/t42/s1395ww/d/3/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww%2Fd%2F3%2FE
 [/us/pl/106/554/s1/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F6
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
+[/us/usc/t42/s1395ww/d/3/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww%2Fd%2F3%2FE
 [/us/pl/106/554/s1/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F6
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
 [/us/usc/t42/s1395ww/d/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww%2Fd%2F1%2FB
 [/us/usc/t42/s1395ww/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww%2Fb%2F1%2FA
 [/us/pl/106/554/s1/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F6
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
+[/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
 [/us/pl/106/554/s1/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F6
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
+[/us/usc/t42/s1395ww/d/5/K/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww%2Fd%2F5%2FK%2Fi
 [/us/pl/106/113/s1000/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F6
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
 [/us/usc/t42/s1395ww/d/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww%2Fd%2F1%2FB
@@ -10099,6 +10145,7 @@
 [/us/pl/106/554/s1/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F6
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
 [/us/usc/t42/s1395ww/d/1/B/iv]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww%2Fd%2F1%2FB%2Fiv
+[/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
 [/us/pl/106/113/s1000/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F6
 [/us/usc/t42/s1395ww/d/5/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww%2Fd%2F5%2FF
 [/us/pl/106/113/s1000/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F6
@@ -10124,6 +10171,9 @@
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
 [/us/pl/105/33/s4202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs4202%2Fb
 [/us/stat/111/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F375
+[/us/usc/t42/s1395ww/d/5/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww%2Fd%2F5%2FC
+[/us/usc/t42/s1395ww/d/8/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww%2Fd%2F8%2FD
+[/us/usc/t42/s1395ww/d/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww%2Fd%2F10
 [/us/pl/105/33/s4203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs4203
 [/us/stat/111/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F375
 [/us/usc/t42/s1395ww/d/10/C/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww%2Fd%2F10%2FC%2Fi
@@ -10133,8 +10183,10 @@
 [/us/stat/111/397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F397
 [/us/pl/106/113/s1000/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F6
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
+[/us/usc/t42/s1395ww/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww%2Fd
 [/us/usc/t42/s1395ww/b/3/B/i/XIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww%2Fb%2F3%2FB%2Fi%2FXIII
 [/us/usc/t42/s1395ww/b/3/B/i/XIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww%2Fb%2F3%2FB%2Fi%2FXIV
+[/us/usc/t42/s1395ww/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww%2Fd
 [/us/usc/t42/s1395ww/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww%2Fd
 [/us/usc/t42/s1395ww/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww%2Fa%2F4
 [/us/usc/t42/s1395ww/d/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww%2Fd%2F1%2FB
@@ -10145,7 +10197,11 @@
 [/us/pl/105/33/s4403/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs4403%2Fb
 [/us/stat/111/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F399
 [/us/usc/t42/s1395ww/d/5/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww%2Fd%2F5%2FF
+[/us/usc/t42/s1395c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395c
+[/us/usc/t42/s1381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1381
 [/us/usc/t42/s1382e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1382e
+[/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
+[/us/usc/t42/s1395c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395c
 [/us/usc/t42/s1396b/m/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396b%2Fm%2F1%2FA
 [/us/usc/t42/s1315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1315
 [/us/usc/t42/s1395ww/d/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww%2Fd%2F1%2FB
@@ -10159,6 +10215,7 @@
 [/us/usc/t42/s1395ww/d/3/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww%2Fd%2F3%2FE
 [/us/usc/t42/s1395ww/d/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww%2Fd%2F2%2FD
 [/us/usc/t42/s1395ww/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww%2Fd
+[/us/usc/t42/s1395ww/d/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww%2Fd%2F10
 [/us/pl/105/33/s4415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs4415
 [/us/pl/105/33/s4415/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs4415%2Fd
 [/us/stat/111/407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F407
@@ -10167,7 +10224,9 @@
 [/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
 [/us/pl/106/554/s1/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F4
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
+[/us/usc/t42/s1395ww/d/1/B/v/III]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww%2Fd%2F1%2FB%2Fv%2FIII
 [/us/usc/t42/s1395ww/b/3/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww%2Fb%2F3%2FE
+[/us/usc/t42/s1395ww/d/1/B/v/III]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww%2Fd%2F1%2FB%2Fv%2FIII
 [/us/pl/105/33/s4418/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs4418%2Fb
 [/us/stat/111/409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F409
 [/us/usc/t42/s1395ww/d/1/B/v/II]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww%2Fd%2F1%2FB%2Fv%2FII
@@ -10179,6 +10238,7 @@
 [/us/pl/105/33/s4422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs4422
 [/us/stat/111/414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F414
 [/us/usc/t42/s1395ww/d/1/B/iv]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww%2Fd%2F1%2FB%2Fiv
+[/us/usc/t42/s1395ww/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww%2Fd
 [/us/pl/105/33/s4506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs4506
 [/us/stat/111/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F437
 [/us/usc/t42/s1395w–4/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%934%2Fc%2F2
@@ -10190,13 +10250,19 @@
 [/us/usc/t42/s1395x/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395x%2Fb%2F6
 [/us/pl/105/33/s4626/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs4626%2Fb
 [/us/stat/111/483]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F483
+[/us/usc/t42/s1395ww/h/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww%2Fh%2F6
+[/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
 [/us/pl/105/33/s4628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs4628
 [/us/stat/111/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F484
+[/us/usc/t42/s1395ww/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww%2Fh
+[/us/usc/t42/s1395ww/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww%2Fh
+[/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
 [/us/pl/105/33/s4629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs4629
 [/us/stat/111/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F484
 [/us/usc/t42/s1395b–6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395b%E2%80%936
 [/us/pl/105/33/s4630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs4630
 [/us/stat/111/485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F485
+[/us/usc/t42/s1395ww/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww%2Fh
 [/us/pl/105/33/s4644/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs4644%2Fa%2F2
 [/us/stat/111/488]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F488
 [/us/usc/t5/s802/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs802%2Fa
@@ -10206,10 +10272,14 @@
 [/us/usc/t5/s802/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs802%2Fa
 [/us/pl/105/33/s4644/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs4644%2Fc%2F2
 [/us/stat/111/488]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F488
+[/us/usc/t42/s1395ww/d/10/C/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww%2Fd%2F10%2FC%2Fii
 [/us/pl/103/66/s13501/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13501%2Fb%2F2
 [/us/stat/107/574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F574
+[/us/usc/t42/s1395ww/d/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww%2Fd%2F3%2FB
 [/us/pl/103/66/s13501/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13501%2Fd
 [/us/stat/107/575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F575
+[/us/usc/t42/s1395ww/d/5/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww%2Fd%2F5%2FC
+[/us/usc/t42/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs301
 [/us/pl/103/66/s13501/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13501%2Fe%2F2
 [/us/stat/107/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F576
 [/us/pl/105/33/s4204/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs4204%2Fa%2F3
@@ -10222,61 +10292,92 @@
 [/us/stat/124/425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F425
 [/us/pl/112/240/s606/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs606%2Fb%2F2
 [/us/stat/126/2349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2349
+[/us/usc/t42/s1395ww/d/5/G/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww%2Fd%2F5%2FG%2Fi
+[/us/usc/t42/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs301
 [/us/pl/103/66/s13563/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13563%2Fd
 [/us/stat/107/606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F606
+[/us/usc/t42/s1395ww/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww%2Fh
 [/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
 [/us/usc/t26/s3121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs3121
 [/us/usc/t26/s3111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs3111
 [/us/pl/101/508/s4002/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs4002%2Fd%2F1
 [/us/stat/104/1388-35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-35
+[/us/usc/t42/s1395ww/d/3/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww%2Fd%2F3%2FE
 [/us/pl/101/508/s4002/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs4002%2Fe%2F2
 [/us/pl/101/508/s4002/h/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs4002%2Fh%2F2%2FA
 [/us/stat/104/1388-38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-38
+[/us/usc/t42/s1395ww/d/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww%2Fd%2F10
 [/us/pl/101/508/s4004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs4004
 [/us/stat/104/1388-39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-39
+[/us/usc/t42/s1395c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395c
+[/us/usc/t42/s1395ww/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww%2Fh
 [/us/usc/t42/s1395x/v]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395x%2Fv
 [/us/pl/101/508/s4159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs4159
 [/us/stat/104/1388-90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-90
+[/us/usc/t42/s1395j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395j
+[/us/usc/t42/s1395ww/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww%2Fh
 [/us/usc/t42/s1395x/v]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395x%2Fv
 [/us/pl/101/508/s4005/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs4005%2Fb
 [/us/stat/104/1388-40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-40
+[/us/usc/t42/s1395ww/d/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww%2Fd%2F1%2FB
+[/us/usc/t42/s1395c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395c
 [/us/pl/101/508/s4005/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs4005%2Fc%2F3
 [/us/stat/104/1388-42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-42
 [/us/usc/t42/s1395h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395h
+[/us/usc/t42/s1395ww/d/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww%2Fd%2F1%2FB
 [/us/pl/101/508/s4007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs4007
 [/us/stat/104/1388-43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-43
+[/us/usc/t42/s1395c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395c
+[/us/usc/t42/s1395ww]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww
 [/us/usc/t42/s1395f/i/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395f%2Fi%2F2%2FB
 [/us/pl/101/508/s4008]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs4008
 [/us/stat/104/1388-53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-53
+[/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
+[/us/usc/t42/s1395ww/d/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww%2Fd%2F1%2FB
 [/us/pl/101/508/s4207/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs4207%2Fb%2F1
 [/us/stat/104/1388-118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-118
 [/us/pl/103/432/s160/d/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432%2Fs160%2Fd%2F4
 [/us/stat/108/4444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4444
+[/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
 [/us/usc/t2/s665/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs665%2Fa%2F1
 [/us/pl/101/508/s4207/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs4207%2Fb%2F2
 [/us/stat/104/1388-118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-118
 [/us/pl/103/432/s160/d/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432%2Fs160%2Fd%2F4
 [/us/stat/108/4444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4444
+[/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
 [/us/pl/101/403/s115/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F403%2Fs115%2Fa
 [/us/stat/104/870]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F870
+[/us/usc/t42/s1395c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395c
+[/us/usc/t42/s1395ww/d/3/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww%2Fd%2F3%2FE
 [/us/pl/101/403/s115/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F403%2Fs115%2Fb%2F2
 [/us/stat/104/870]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F870
+[/us/usc/t42/s1395ww/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww%2Fd
 [/us/pl/101/239/s6003/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs6003%2Fa%2F3
 [/us/stat/103/2140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2140
+[/us/usc/t42/s1395ww/b/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww%2Fb%2F3%2FB
 [/us/pl/101/239/s6003/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs6003%2Fe%2F3
 [/us/stat/103/2144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2144
+[/us/usc/t42/s1395ww/d/5/C/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww%2Fd%2F5%2FC%2Fii
+[/us/usc/t42/s1395ww/d/5/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww%2Fd%2F5%2FD
 [/us/pl/101/239/s6003/h/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs6003%2Fh%2F5
 [/us/stat/103/2157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2157
+[/us/usc/t42/s1395ww/d/3/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww%2Fd%2F3%2FE
+[/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
 [/us/pl/101/239/s6003/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs6003%2Fi
 [/us/stat/103/2158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2158
 [/us/pl/105/362/s601/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362%2Fs601%2Fb%2F4
 [/us/stat/112/3286]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3286
 [/us/pl/101/239/s6011/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs6011%2Fb
 [/us/stat/103/2161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2161
+[/us/usc/t42/s1395c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395c
 [/us/pl/101/239/s6015/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs6015%2Fb
 [/us/stat/103/2164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2164
+[/us/usc/t42/s1395ww/b/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww%2Fb%2F4%2FA
 [/us/pl/101/239/s6205/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs6205%2Fb
 [/us/stat/103/2243]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2243
+[/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
+[/us/usc/t42/s1395ww/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww%2Fa%2F4
+[/us/usc/t42/s1395ww/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww%2Fa%2F3
 [/us/pl/101/2399/s6217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F2399%2Fs6217
 [/us/stat/103/2253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2253
 [/us/pl/101/508/s4207/k/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs4207%2Fk%2F5
@@ -10285,15 +10386,19 @@
 [/us/stat/108/4444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4444
 [/us/pl/101/234/s101/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F234%2Fs101%2Fc%2F2%2FB
 [/us/stat/103/1980]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1980
+[/us/usc/t42/s1395ww/b/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww%2Fb%2F3%2FA
 [/us/pl/100/647/s8405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs8405
 [/us/stat/102/3800]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3800
+[/us/usc/t42/s1395ww/e/6/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww%2Fe%2F6%2FD
 [/us/pl/100/360/s104/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360%2Fs104%2Fc
 [/us/stat/102/688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F688
 [/us/pl/100/485/s608/d/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F485%2Fs608%2Fd%2F3%2FC
 [/us/stat/102/2413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2413
 [/us/pl/101/234/s101/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F234%2Fs101%2Fc%2F1
 [/us/stat/103/1980]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1980
+[/us/usc/t42/s1395ww/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww%2Fd
 [/us/usc/t42/s1395d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395d
+[/us/usc/t42/s1395ww/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww%2Fb%2F3
 [/us/usc/t42/s1395d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395d
 [/us/pl/100/360/s104/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360%2Fs104%2Fc
 [/us/pl/101/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F234
@@ -10307,10 +10412,12 @@
 [/us/stat/103/1981]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1981
 [/us/pl/100/203/s4004/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs4004%2Fb
 [/us/stat/101/1330-47]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-47
+[/us/usc/t42/s1395ww/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww%2Fd
 [/us/pl/98/21/s602/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21%2Fs602%2Fk
 [/us/usc/t42/s1395y]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395y
 [/us/pl/100/203/s4005/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs4005%2Fc%2F2%2FB
 [/us/stat/101/1330-49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-49
+[/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
 [/us/pl/100/203/s4005/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs4005%2Fd%2F2
 [/us/stat/101/1330-49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-49
 [/us/pl/100/203/s4005/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs4005%2Fe
@@ -10319,8 +10426,11 @@
 [/us/stat/103/2150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2150
 [/us/pl/103/432/s103/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432%2Fs103%2Fa%2F1
 [/us/stat/108/4404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4404
+[/us/usc/t42/s1395ww/d/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww%2Fd%2F2%2FD
 [/us/usc/t42/s254e/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs254e%2Fa%2F1%2FA
 [/us/usc/t42/s1395i–4/i/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395i%E2%80%934%2Fi%2F2
+[/us/usc/t42/s1395ww/d/3/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww%2Fd%2F3%2FD
+[/us/usc/t42/s1395ww/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww%2Fa%2F4
 [/us/usc/t42/s1395i–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395i%E2%80%934
 [/us/usc/t42/s1395tt]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395tt
 [/us/usc/t42/s1395tt]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395tt
@@ -10344,55 +10454,75 @@
 [/us/pl/100/485/s608/d/18/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F485%2Fs608%2Fd%2F18%2FD
 [/us/stat/102/2419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2419
 [/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
+[/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
+[/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
 [/us/pl/100/203/s4008/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs4008%2Fd
 [/us/stat/101/1330-55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-55
 [/us/pl/100/360/s411/b/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360%2Fs411%2Fb%2F7
 [/us/stat/102/771]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F771
+[/us/usc/t42/s1395ww/d/5/A/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww%2Fd%2F5%2FA%2Fiii
+[/us/usc/t42/s1395ww/d/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww%2Fd%2F5%2FA
+[/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
+[/us/usc/t42/s1395ww/d/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww%2Fd%2F3%2FB
 [/us/pl/100/203/s4009/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs4009%2Fh
 [/us/stat/101/1330-58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-58
 [/us/pl/98/21/s603/a/2/C/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21%2Fs603%2Fa%2F2%2FC%2Fi
+[/us/usc/t42/s1395ww/d/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww%2Fd%2F2%2FD
+[/us/usc/t42/s1395ww/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww%2Fd%2F3
 [/us/pl/100/203/s4009/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs4009%2Fi
 [/us/stat/101/1330-58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-58
 [/us/pl/100/360/s411/b/8/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360%2Fs411%2Fb%2F8%2FC
 [/us/stat/102/772]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F772
+[/us/usc/t42/s1395ww/d/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww%2Fd%2F2%2FD
 [/us/pl/100/203/s4038]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs4038
 [/us/stat/101/1330-80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-80
 [/us/pl/101/239/s6216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs6216
 [/us/stat/103/2253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2253
 [/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
+[/us/usc/t42/s1395ww]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww
 [/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
+[/us/usc/t42/s1395ww/d/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww%2Fd%2F5%2FB
 [/us/pl/100/203/s4039/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs4039%2Fd
 [/us/stat/101/1330-82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-82
 [/us/pl/100/360/s426/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360%2Fs426%2Fe
 [/us/stat/102/814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F814
 [/us/pl/101/239/s6207/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs6207%2Fb
 [/us/stat/103/2245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2245
+[/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
 [/us/pl/100/119/s107/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F119%2Fs107%2Fa%2F1
 [/us/stat/101/782]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F782
 [/us/pl/100/203/s4002/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs4002%2Ff%2F2
 [/us/stat/101/1330-45]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-45
+[/us/usc/t42/s1395ww]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww
 [/us/pl/100/203/s4002/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs4002%2Ff%2F2
 [/us/pl/100/119/s107/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F119%2Fs107%2Fa%2F1
 [/us/pl/100/203/s4002/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs4002%2Ff%2F2
 [/us/pl/100/119/s107/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F119%2Fs107%2Fb
 [/us/stat/101/783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F783
+[/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
 [/us/pl/99/509/s9311/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs9311%2Fa
 [/us/usc/t42/s1395g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395g
 [/us/pl/99/509/s9302/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs9302%2Fb%2F3
 [/us/stat/100/1982]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1982
+[/us/usc/t42/s1395ww/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww%2Fd
 [/us/pl/101/239/s6003/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs6003%2Fd
 [/us/stat/103/2142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2142
+[/us/usc/t42/s1395ww/d/5/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww%2Fd%2F5%2FC
 [/us/pl/99/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509
 [/us/pl/99/509/s9302/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs9302%2Fd%2F2
 [/us/stat/100/1983]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1983
+[/us/usc/t42/s1395ww/d/5/C/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww%2Fd%2F5%2FC%2Fi
 [/us/pl/99/509/s9302/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs9302%2Fd%2F3
 [/us/stat/100/1983]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1983
+[/us/usc/t42/s1395ww]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww
 [/us/pl/99/509/s9302/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs9302%2Ff
 [/us/stat/100/1984]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1984
+[/us/usc/t42/s1395ww]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww
 [/us/pl/99/509/s9307/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs9307%2Fd
 [/us/stat/100/1996]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1996
 [/us/pl/100/203/s4008/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs4008%2Fe
 [/us/stat/101/1330-56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-56
+[/us/usc/t42/s1395ww/d/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww%2Fd%2F1%2FA
 [/us/pl/90/248/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248%2Fs402
 [/us/usc/t42/s1395b–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395b%E2%80%931
 [/us/pl/92/603/s222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603%2Fs222
@@ -10407,18 +10537,28 @@
 [/us/stat/101/783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F783
 [/us/pl/100/203/s4009/j/6/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs4009%2Fj%2F6%2FD
 [/us/stat/101/1330-59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-59
+[/us/usc/t42/s1395c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395c
+[/us/usc/t42/s1395ww/b/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww%2Fb%2F3%2FB
 [/us/usc/t42/s1395x/v/1/O]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395x%2Fv%2F1%2FO
+[/us/usc/t42/s1395ww/g/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww%2Fg%2F3%2FA
+[/us/usc/t42/s1395ww/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww%2Fa%2F4
 [/us/pl/99/509/s9321/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs9321%2Fd
 [/us/stat/100/2017]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2017
+[/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
 [/us/pl/99/272/s9103/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs9103%2Fb
 [/us/stat/100/156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F156
+[/us/usc/t42/s1395ww/d/2/C/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww%2Fd%2F2%2FC%2Fii
 [/us/pl/99/272/s9108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs9108
 [/us/stat/100/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F161
 [/us/pl/92/603/s222/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603%2Fs222%2Fa
 [/us/usc/t42/s1395b–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395b%E2%80%931
 [/us/usc/t42/s1395b–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395b%E2%80%931
+[/us/usc/t42/s1395ww/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww%2Fc%2F1%2FA
+[/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
+[/us/usc/t42/s1395ww/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww%2Fc
 [/us/pl/99/272/s9114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs9114
 [/us/stat/100/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F163
+[/us/usc/t42/s1395ww]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww
 [/us/pl/99/272/s9115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs9115
 [/us/stat/100/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F163
 [/us/pl/99/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272
@@ -10432,8 +10572,13 @@
 [/us/stat/101/1330-131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-131
 [/us/pl/101/508/s4118/i/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs4118%2Fi%2F2
 [/us/stat/104/1388-70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-70
+[/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
+[/us/usc/t42/s1395ww/h/5/F/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww%2Fh%2F5%2FF%2Fii
+[/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
 [/us/pl/98/369/s2307/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2307%2Fc
 [/us/usc/t42/s1395u]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395u
+[/us/usc/t42/s1395ww/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww%2Fh
+[/us/usc/t42/s1395ww/h/5/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww%2Fh%2F5%2FD
 [/us/pl/101/508/s4118/i/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs4118%2Fi%2F2
 [/us/stat/104/1388-70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-70
 [/us/usc/t42/s1395x]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395x
@@ -10442,7 +10587,9 @@
 [/us/stat/100/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F177
 [/us/pl/99/514/s1895/b/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1895%2Fb%2F10
 [/us/stat/100/2933]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2933
+[/us/usc/t42/s1395ww/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww%2Fc
 [/us/usc/t42/s1395b–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395b%E2%80%931
+[/us/usc/t42/s1395ww/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww%2Fd
 [/us/pl/99/272/s9204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs9204
 [/us/stat/100/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F177
 [/us/pl/99/509/s9339/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs9339%2Fe
@@ -10451,6 +10598,8 @@
 [/us/stat/101/1330-130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-130
 [/us/pl/100/647/s8426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs8426
 [/us/stat/102/3803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3803
+[/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
+[/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
 [/us/pl/99/107/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F107%2Fs5
 [/us/stat/99/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F479
 [/us/pl/99/155/s2/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F155%2Fs2%2Fd
@@ -10463,15 +10612,23 @@
 [/us/stat/99/1665]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1665
 [/us/pl/99/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272
 [/us/stat/100/153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F153
+[/us/usc/t42/s1395ww]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww
+[/us/usc/t42/s1395j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395j
 [/us/usc/t42/s1395u/j/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395u%2Fj%2F1
 [/us/pl/99/107/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F107%2Fs5
 [/us/pl/99/272/s9101/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs9101%2Fd
 [/us/pl/98/369/s2315/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2315%2Fh
 [/us/stat/98/1080]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1080
+[/us/usc/t42/s1395c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395c
+[/us/usc/t42/s1395ww/d/5/C/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww%2Fd%2F5%2FC%2Fi
 [/us/pl/98/369/s2316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2316
 [/us/stat/98/1081]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1081
 [/us/pl/99/272/s9103/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs9103%2Fa%2F1
 [/us/stat/100/156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F156
+[/us/usc/t42/s1395ww/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww%2Fd
+[/us/usc/t42/s1395ww/d/2/H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww%2Fd%2F2%2FH
+[/us/usc/t42/s1395ww/d/3/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww%2Fd%2F3%2FE
+[/us/usc/t42/s1395ww/d/2/H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww%2Fd%2F2%2FH
 [/us/pl/99/272/s9103/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs9103%2Fa%2F2
 [/us/stat/100/156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F156
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
@@ -10479,6 +10636,7 @@
 [/us/stat/97/149]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F149
 [/us/pl/98/21/s601/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21%2Fs601%2Fg
 [/us/stat/97/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F163
+[/us/usc/t42/s1395ww/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww%2Fd
 [/us/pl/98/21/s603/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21%2Fs603%2Fa
 [/us/stat/97/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F166
 [/us/pl/98/369/s2317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2317

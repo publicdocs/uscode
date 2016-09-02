@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 12901.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs12901" data-uslm-ref="/us/usc/t42/s12901">12901.</a>  </td>
 
     <td> Purpose.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 12902.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs12902" data-uslm-ref="/us/usc/t42/s12902">12902.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 12903.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs12903" data-uslm-ref="/us/usc/t42/s12903">12903.</a>  </td>
 
     <td> General authority.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 12904.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs12904" data-uslm-ref="/us/usc/t42/s12904">12904.</a>  </td>
 
     <td> Eligible activities.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 12905.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs12905" data-uslm-ref="/us/usc/t42/s12905">12905.</a>  </td>
 
     <td> Responsibilities of grantees.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 12906.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs12906" data-uslm-ref="/us/usc/t42/s12906">12906.</a>  </td>
 
     <td> Grants for AIDS housing information and coordination services.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 12907.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs12907" data-uslm-ref="/us/usc/t42/s12907">12907.</a>  </td>
 
     <td> AIDS short-term supported housing and services.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 12908.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs12908" data-uslm-ref="/us/usc/t42/s12908">12908.</a>  </td>
 
     <td> Rental assistance.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 12909.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs12909" data-uslm-ref="/us/usc/t42/s12909">12909.</a>  </td>
 
     <td> Single room occupancy dwellings.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 12910.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs12910" data-uslm-ref="/us/usc/t42/s12910">12910.</a>  </td>
 
     <td> Grants for community residences and services.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 12911.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs12911" data-uslm-ref="/us/usc/t42/s12911">12911.</a>  </td>
 
     <td> Report.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 12912.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs12912" data-uslm-ref="/us/usc/t42/s12912">12912.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 

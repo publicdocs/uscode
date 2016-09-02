@@ -91,7 +91,7 @@
 
 [Pub. L. 99–660, title VIII, § 804(b)][/us/pl/99/660/s804/b], Nov. 14, 1986, [100 Stat. 3800][/us/stat/100/3800], provided that: 
 
-> “The amendment made by subsection (a) \[amending this section\] does not apply to any loan or loan guarantee for the initial costs of operation of a health maintenance organization made under title XIII of the Public Health Service Act \[this subchapter\] before October 1, 1985.”
+> “The amendment made by subsection (a) \[amending this section\] does not apply to any loan or loan guarantee for the initial costs of operation of a health maintenance organization made under title XIII of the Public Health Service Act \[[42 U.S.C. 300e][/us/usc/t42/s300e] et seq.\] before October 1, 1985.”
 
     Amendment by [Pub. L. 99–660][/us/pl/99/660] effective Oct. 1, 1985, see [section 815(a) of Pub. L. 99–660][/us/pl/99/660/s815/a], set out as an Effective and Termination Dates of 1986 Amendment note under [section 300e–1 of this title][/us/usc/t42/s300e–1].
 
@@ -154,6 +154,7 @@
 [/us/pl/93/641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F641
 [/us/pl/99/660/s804/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660%2Fs804%2Fb
 [/us/stat/100/3800]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3800
+[/us/usc/t42/s300e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300e
 [/us/pl/99/660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660
 [/us/pl/99/660/s815/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660%2Fs815%2Fa
 [/us/usc/t42/s300e–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300e%E2%80%931

@@ -439,7 +439,7 @@
 
 >     “(A) __Study.—__ 
 
->     The Comptroller General of the United States shall conduct a study on the impact of competitive acquisition of durable medical equipment under section 1847 of the Social Security Act \[this section\], as amended by paragraph (1) and as amended by section 2 of the Medicare DMEPOS Competitive Acquisition Reform Act of 2008 \[probably should refer to section 154 of the Medicare Improvements for Patients and Providers Act of 2008, [Pub. L. 110–275][/us/pl/110/275]\], on suppliers and manufacturers of such equipment and on patients. Such study shall specifically examine the impact of such competitive acquisition on access to, and quality of, such equipment and service related to such equipment and the topics specified in subparagraph (C).
+>     The Comptroller General of the United States shall conduct a study on the impact of competitive acquisition of durable medical equipment under section 1847 of the Social Security Act \[[42 U.S.C. 1395w–3][/us/usc/t42/s1395w–3]\], as amended by paragraph (1) and as amended by section 2 of the Medicare DMEPOS Competitive Acquisition Reform Act of 2008 \[probably should refer to section 154 of the Medicare Improvements for Patients and Providers Act of 2008, [Pub. L. 110–275][/us/pl/110/275]\], on suppliers and manufacturers of such equipment and on patients. Such study shall specifically examine the impact of such competitive acquisition on access to, and quality of, such equipment and service related to such equipment and the topics specified in subparagraph (C).
 
 >     “(B) __Report.—__ 
 
@@ -475,13 +475,13 @@
 
 [Pub. L. 108–173, title III, § 302(e)][/us/pl/108/173/s302/e], Dec. 8, 2003, [117 Stat. 2233][/us/stat/117/2233], as amended by [Pub. L. 110–275, title I, § 154(c)(2)(C)][/us/pl/110/275/s154/c/2/C], July 15, 2008, [122 Stat. 2566][/us/stat/122/2566], provided that: 
 
-> “The Inspector General of the Department of Health and Human Services shall conduct a study to determine the extent to which (if any) suppliers of covered items of durable medical equipment that are subject to the competitive acquisition program under section 1847 of the Social Security Act \[this section\], as amended by subsection (a) \[probably should be (b)(1)\], are soliciting physicians to prescribe certain brands or modes of delivery of covered items based on profitability. Not later than July 1, 2011, the Inspector General shall submit to Congress a report on such study.”
+> “The Inspector General of the Department of Health and Human Services shall conduct a study to determine the extent to which (if any) suppliers of covered items of durable medical equipment that are subject to the competitive acquisition program under section 1847 of the Social Security Act \[[42 U.S.C. 1395w–3][/us/usc/t42/s1395w–3]\], as amended by subsection (a) \[probably should be (b)(1)\], are soliciting physicians to prescribe certain brands or modes of delivery of covered items based on profitability. Not later than July 1, 2011, the Inspector General shall submit to Congress a report on such study.”
 
  __Study by GAO__ 
 
 [Pub. L. 105–33, title IV, § 4319(c)][/us/pl/105/33/s4319/c], Aug. 5, 1997, [111 Stat. 394][/us/stat/111/394], provided that: 
 
-> “The Comptroller of the United States shall study the effectiveness of the establishment of competitive acquisition areas under section 1847(a) of the Social Security Act \[subsec. (a) of this section\], as added by this section.”
+> “The Comptroller of the United States shall study the effectiveness of the establishment of competitive acquisition areas under section 1847(a) of the Social Security Act \[[42 U.S.C. 1395w–3(a)][/us/usc/t42/s1395w–3/a]\], as added by this section.”
 
 ----------
 
@@ -567,12 +567,15 @@
 [/us/stat/117/2230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2230
 [/us/pl/110/275/s154/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F275%2Fs154%2Fc%2F1
 [/us/stat/122/2565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2565
+[/us/usc/t42/s1395w–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%933
 [/us/pl/110/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F275
 [/us/pl/108/173/s302/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs302%2Fe
 [/us/stat/117/2233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2233
 [/us/pl/110/275/s154/c/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F275%2Fs154%2Fc%2F2%2FC
 [/us/stat/122/2566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2566
+[/us/usc/t42/s1395w–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%933
 [/us/pl/105/33/s4319/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs4319%2Fc
 [/us/stat/111/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F394
+[/us/usc/t42/s1395w–3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%933%2Fa
 
 

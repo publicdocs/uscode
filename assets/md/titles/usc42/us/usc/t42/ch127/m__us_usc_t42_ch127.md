@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 12301.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs12301" data-uslm-ref="/us/usc/t42/s12301">12301.</a>  </td>
 
     <td> Findings.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 12302.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs12302" data-uslm-ref="/us/usc/t42/s12302">12302.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -57,7 +57,7 @@ Part A—Administration on Children, Youth, and Families  </td>
 
   <tr>
 
-    <td> 12311.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs12311" data-uslm-ref="/us/usc/t42/s12311">12311.</a>  </td>
 
     <td> Establishment of Administration on Children, Youth, and Families.  </td>
 
@@ -65,7 +65,7 @@ Part A—Administration on Children, Youth, and Families  </td>
 
   <tr>
 
-    <td> 12312.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs12312" data-uslm-ref="/us/usc/t42/s12312">12312.</a>  </td>
 
     <td> Functions of Commissioner.  </td>
 
@@ -73,7 +73,7 @@ Part A—Administration on Children, Youth, and Families  </td>
 
   <tr>
 
-    <td> 12313.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs12313" data-uslm-ref="/us/usc/t42/s12313">12313.</a>  </td>
 
     <td> Federal agency consultations.  </td>
 
@@ -81,7 +81,7 @@ Part A—Administration on Children, Youth, and Families  </td>
 
   <tr>
 
-    <td> 12314.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs12314" data-uslm-ref="/us/usc/t42/s12314">12314.</a>  </td>
 
     <td> Omitted.  </td>
 
@@ -89,7 +89,7 @@ Part A—Administration on Children, Youth, and Families  </td>
 
   <tr>
 
-    <td> 12315.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs12315" data-uslm-ref="/us/usc/t42/s12315">12315.</a>  </td>
 
     <td> Administration.  </td>
 
@@ -105,7 +105,7 @@ Part B—Grants for State and Community Programs for Children, Youth, and Famili
 
   <tr>
 
-    <td> 12331.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs12331" data-uslm-ref="/us/usc/t42/s12331">12331.</a>  </td>
 
     <td> Purpose.  </td>
 
@@ -113,7 +113,7 @@ Part B—Grants for State and Community Programs for Children, Youth, and Famili
 
   <tr>
 
-    <td> 12332.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs12332" data-uslm-ref="/us/usc/t42/s12332">12332.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -121,7 +121,7 @@ Part B—Grants for State and Community Programs for Children, Youth, and Famili
 
   <tr>
 
-    <td> 12333.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs12333" data-uslm-ref="/us/usc/t42/s12333">12333.</a>  </td>
 
     <td> Establishment of programs.  </td>
 
@@ -129,7 +129,7 @@ Part B—Grants for State and Community Programs for Children, Youth, and Famili
 
   <tr>
 
-    <td> 12334.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs12334" data-uslm-ref="/us/usc/t42/s12334">12334.</a>  </td>
 
     <td> Administration.  </td>
 
@@ -137,7 +137,7 @@ Part B—Grants for State and Community Programs for Children, Youth, and Famili
 
   <tr>
 
-    <td> 12335.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs12335" data-uslm-ref="/us/usc/t42/s12335">12335.</a>  </td>
 
     <td> State plan.  </td>
 
@@ -145,7 +145,7 @@ Part B—Grants for State and Community Programs for Children, Youth, and Famili
 
   <tr>
 
-    <td> 12336.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs12336" data-uslm-ref="/us/usc/t42/s12336">12336.</a>  </td>
 
     <td> Independent State body.  </td>
 
@@ -153,7 +153,7 @@ Part B—Grants for State and Community Programs for Children, Youth, and Famili
 
   <tr>
 
-    <td> 12337.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs12337" data-uslm-ref="/us/usc/t42/s12337">12337.</a>  </td>
 
     <td> State coordination of services.  </td>
 
@@ -161,7 +161,7 @@ Part B—Grants for State and Community Programs for Children, Youth, and Famili
 
   <tr>
 
-    <td> 12338.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs12338" data-uslm-ref="/us/usc/t42/s12338">12338.</a>  </td>
 
     <td> Supportive services.  </td>
 
@@ -169,7 +169,7 @@ Part B—Grants for State and Community Programs for Children, Youth, and Famili
 
   <tr>
 
-    <td> 12339.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs12339" data-uslm-ref="/us/usc/t42/s12339">12339.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -177,7 +177,7 @@ Part B—Grants for State and Community Programs for Children, Youth, and Famili
 
   <tr>
 
-    <td> 12340.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs12340" data-uslm-ref="/us/usc/t42/s12340">12340.</a>  </td>
 
     <td> Authorization of appropriation and allotment.  </td>
 
@@ -193,7 +193,7 @@ Part C—National Clearinghouse  </td>
 
   <tr>
 
-    <td> 12351.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs12351" data-uslm-ref="/us/usc/t42/s12351">12351.</a>  </td>
 
     <td> Findings and purpose.  </td>
 
@@ -201,7 +201,7 @@ Part C—National Clearinghouse  </td>
 
   <tr>
 
-    <td> 12352.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs12352" data-uslm-ref="/us/usc/t42/s12352">12352.</a>  </td>
 
     <td> “Family resource and support programs” defined.  </td>
 
@@ -209,7 +209,7 @@ Part C—National Clearinghouse  </td>
 
   <tr>
 
-    <td> 12353.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs12353" data-uslm-ref="/us/usc/t42/s12353">12353.</a>  </td>
 
     <td> Establishment of National Center on Family Resource and Support Programs.  </td>
 
@@ -217,7 +217,7 @@ Part C—National Clearinghouse  </td>
 
   <tr>
 
-    <td> 12354.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs12354" data-uslm-ref="/us/usc/t42/s12354">12354.</a>  </td>
 
     <td> Evaluation.  </td>
 
@@ -225,7 +225,7 @@ Part C—National Clearinghouse  </td>
 
   <tr>
 
-    <td> 12355.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs12355" data-uslm-ref="/us/usc/t42/s12355">12355.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 
@@ -241,7 +241,7 @@ SUBCHAPTER II—WHITE HOUSE CONFERENCE ON CHILDREN, YOUTH, AND FAMILIES  </td>
 
   <tr>
 
-    <td> 12371.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs12371" data-uslm-ref="/us/usc/t42/s12371">12371.</a>  </td>
 
     <td> Findings.  </td>
 
@@ -249,7 +249,7 @@ SUBCHAPTER II—WHITE HOUSE CONFERENCE ON CHILDREN, YOUTH, AND FAMILIES  </td>
 
   <tr>
 
-    <td> 12372.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs12372" data-uslm-ref="/us/usc/t42/s12372">12372.</a>  </td>
 
     <td> Authority of President and Secretary; final report.  </td>
 
@@ -257,7 +257,7 @@ SUBCHAPTER II—WHITE HOUSE CONFERENCE ON CHILDREN, YOUTH, AND FAMILIES  </td>
 
   <tr>
 
-    <td> 12373.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs12373" data-uslm-ref="/us/usc/t42/s12373">12373.</a>  </td>
 
     <td> Conference administration.  </td>
 
@@ -265,7 +265,7 @@ SUBCHAPTER II—WHITE HOUSE CONFERENCE ON CHILDREN, YOUTH, AND FAMILIES  </td>
 
   <tr>
 
-    <td> 12374.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs12374" data-uslm-ref="/us/usc/t42/s12374">12374.</a>  </td>
 
     <td> Conference committees.  </td>
 
@@ -273,7 +273,7 @@ SUBCHAPTER II—WHITE HOUSE CONFERENCE ON CHILDREN, YOUTH, AND FAMILIES  </td>
 
   <tr>
 
-    <td> 12375.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs12375" data-uslm-ref="/us/usc/t42/s12375">12375.</a>  </td>
 
     <td> Report of Conference.  </td>
 
@@ -281,7 +281,7 @@ SUBCHAPTER II—WHITE HOUSE CONFERENCE ON CHILDREN, YOUTH, AND FAMILIES  </td>
 
   <tr>
 
-    <td> 12376.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs12376" data-uslm-ref="/us/usc/t42/s12376">12376.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -289,7 +289,7 @@ SUBCHAPTER II—WHITE HOUSE CONFERENCE ON CHILDREN, YOUTH, AND FAMILIES  </td>
 
   <tr>
 
-    <td> 12377.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs12377" data-uslm-ref="/us/usc/t42/s12377">12377.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 

@@ -33,7 +33,7 @@ Every individual who—
 
 [Pub. L. 89–97, title I, § 104(b)(2)][/us/pl/89/97/s104/b/2], July 30, 1965, [79 Stat. 334][/us/stat/79/334], provided that: 
 
-> “An individual who has been convicted of any offense under (A) chapter 37 \[section 792 et seq. of Title 18, Crimes and Criminal Procedure\] (relating to espionage and censorship), chapter 105 \[section 2151 et seq. of Title 18\] (relating to sabotage), or chapter 115 \[section 2381 et seq. of Title 18\] (relating to treason, sedition, and subversive activities) of title 18 of the United States Code, or (B) section 4, 112, or 113 of the Internal Security Act of 1950, as amended \[section 783, 822, or 823 of Title 50, War and National Defense\], may not enroll under part B of title XVIII of the Social Security Act \[this part\].”
+> “An individual who has been convicted of any offense under (A) chapter 37 \[section 792 et seq. of Title 18, Crimes and Criminal Procedure\] (relating to espionage and censorship), chapter 105 \[section 2151 et seq. of Title 18\] (relating to sabotage), or chapter 115 \[section 2381 et seq. of Title 18\] (relating to treason, sedition, and subversive activities) of title 18 of the United States Code, or (B) section 4, 112, or 113 of the Internal Security Act of 1950, as amended \[section 783, 822, or 823 of Title 50, War and National Defense\], may not enroll under part B of title XVIII of the Social Security Act \[[42 U.S.C. 1395j][/us/usc/t42/s1395j] et seq.\].”
 
 ----------
 
@@ -50,5 +50,6 @@ Every individual who—
 [/us/pl/92/603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603
 [/us/pl/89/97/s104/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97%2Fs104%2Fb%2F2
 [/us/stat/79/334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F334
+[/us/usc/t42/s1395j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395j
 
 

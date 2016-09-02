@@ -63,7 +63,7 @@ For the purposes of this subchapter, the term “aid to the blind” means money
 
 [Act Aug. 28, 1950, ch. 809][/us/act/1950-08-28/ch809], title III, § 343(b), [64 Stat. 554][/us/stat/64/554], provided that: 
 
-> “The amendment made by subsection (a) \[amending this section\] shall take effect October 1, 1950, except that the exclusion of money payments to needy individuals described in clause (a) or (b) of section 1006 of the Social Security Act \[this section\] as so amended shall, in the case of any of such individuals who are not patients in a public institution, be effective July 1, 1952.”
+> “The amendment made by subsection (a) \[amending this section\] shall take effect October 1, 1950, except that the exclusion of money payments to needy individuals described in \[former\] clause (a) or (b) of section 1006 of the Social Security Act \[[42 U.S.C. 1206][/us/usc/t42/s1206]\] as so amended shall, in the case of any of such individuals who are not patients in a public institution, be effective July 1, 1952.”
 
 ----------
 
@@ -105,5 +105,6 @@ For the purposes of this subchapter, the term “aid to the blind” means money
 [/us/usc/t42/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs306
 [/us/act/1950-08-28/ch809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-28%2Fch809
 [/us/stat/64/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F554
+[/us/usc/t42/s1206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1206
 
 

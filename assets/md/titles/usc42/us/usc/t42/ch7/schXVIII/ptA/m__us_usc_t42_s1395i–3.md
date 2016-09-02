@@ -1347,7 +1347,7 @@ See 2010 Amendment note below.
 
 >      The amendments made by clause (i) \[amending this section\] shall take effect as if included in the enactment of the Omnibus Budget Reconciliation Act of 1987 \[[Pub. L. 100–203][/us/pl/100/203]\], except that a State may not approve a training and competency evaluation program or a competency evaluation program offered by or in a skilled nursing facility which, pursuant to any Federal or State law within the 2-year period beginning on October 1, 1988—
 
->         “(aa) had its participation terminated under title XVIII of the Social Security Act \[this subchapter\] or under the State plan under title XIX of such Act \[subchapter XIX of this chapter\];
+>         “(aa) had its participation terminated under title XVIII of the Social Security Act \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\] or under the State plan under title XIX of such Act \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\];
 
 >         “(bb) was subject to a denial of payment under either such title;
 
@@ -1357,7 +1357,7 @@ See 2010 Amendment note below.
 
 >         “(ee) pursuant to State action, was closed or had its residents transferred.
 
->     “(II) Notwithstanding subclause (I) and subject to section 1819(f)(2)(B)(iii)(I) of the Social Security Act \[subsec. (f)(2)(B)(iii)(I) of this section\] (as amended by clause (i)), a State may approve a training and competency evaluation program or a competency evaluation program offered by or in a skilled nursing facility described in subclause (I) if, during the previous 2 years, item (aa), (bb), (cc), (dd), or (ee) of subclause (I) did not apply to the facility.”
+>     “(II) Notwithstanding subclause (I) and subject to section 1819(f)(2)(B)(iii)(I) of the Social Security Act \[[42 U.S.C. 1395i–3(f)(2)(B)(iii)(I)][/us/usc/t42/s1395i–3/f/2/B/iii/I]\] (as amended by clause (i)), a State may approve a training and competency evaluation program or a competency evaluation program offered by or in a skilled nursing facility described in subclause (I) if, during the previous 2 years, item (aa), (bb), (cc), (dd), or (ee) of subclause (I) did not apply to the facility.”
 
 [Pub. L. 101–508, title IV, § 4008(h)(1)(H)][/us/pl/101/508/s4008/h/1/H], Nov. 5, 1990, [104 Stat. 1388–48][/us/stat/104/1388-48], provided that: 
 
@@ -1405,13 +1405,13 @@ See 2010 Amendment note below.
 
 >     “(a) __New Requirements and Survey and Certification Process.—__ 
 
->     Except as otherwise specifically provided in section 1819 of the Social Security Act \[this section\], the amendments made by sections 4201 and 4202 \[enacting and amending this section and amending sections 1395x, 1395aa, 1395tt, and 1395yy of this title\] (relating to skilled nursing facility requirements and survey and certification requirements) shall apply to services furnished on or after October 1, 1990, without regard to whether regulations to implement such amendments are promulgated by such date.
+>     Except as otherwise specifically provided in section 1819 of the Social Security Act \[[42 U.S.C. 1395i–3][/us/usc/t42/s1395i–3]\], the amendments made by sections 4201 and 4202 \[enacting and amending this section and amending sections 1395x, 1395aa, 1395tt, and 1395yy of this title\] (relating to skilled nursing facility requirements and survey and certification requirements) shall apply to services furnished on or after October 1, 1990, without regard to whether regulations to implement such amendments are promulgated by such date.
 
 >     “(b) __Enforcement.—__ 
 
->         (1) Except as otherwise specifically provided in section 1819 of the Social Security Act \[this section\], the amendments made by section 4203 of this Act \[amending this section and [section 1395aa of this title][/us/usc/t42/s1395aa]\] apply January 1, 1988, without regard to whether regulations to implement such amendments are promulgated by such date.
+>         (1) Except as otherwise specifically provided in section 1819 of the Social Security Act \[[42 U.S.C. 1395i–3][/us/usc/t42/s1395i–3]\], the amendments made by section 4203 of this Act \[amending this section and [section 1395aa of this title][/us/usc/t42/s1395aa]\] apply January 1, 1988, without regard to whether regulations to implement such amendments are promulgated by such date.
 
->         “(2) In applying the amendments made by section 4203 of this Act for services furnished by a skilled nursing facility before October 1, 1990, any reference to a requirement of subsection (b), (c), or (d), of section 1819 of the Social Security Act is deemed a reference to the provisions of section 1861(j) of such Act \[[section 1395x(j) of this title][/us/usc/t42/s1395x/j]\].
+>         “(2) In applying the amendments made by section 4203 of this Act for services furnished by a skilled nursing facility before October 1, 1990, any reference to a requirement of subsection (b), (c), or (d), of section 1819 of the Social Security Act is deemed a reference to the provisions of section 1861(j) of such Act \[[42 U.S.C. 1395x(j)][/us/usc/t42/s1395x/j]\].
 
 >     “(c) __Waiver of Paperwork Reduction.—__ 
 
@@ -1573,9 +1573,9 @@ See 2010 Amendment note below.
 
 >     The Secretary of Health and Human Services shall provide for—
 
->         “(A) a study concerning the effectiveness and appropriateness of the current mechanisms for surveying and certifying skilled nursing facilities for compliance with the conditions and requirements of sections 1819 and 1861(j) of the Social Security Act \[this section and [section 1395x(j) of this title][/us/usc/t42/s1395x/j]\] and nursing facilities for compliance with the conditions of section 1919 of such Act \[[section 1396r of this title][/us/usc/t42/s1396r]\], and
+>         “(A) a study concerning the effectiveness and appropriateness of the current mechanisms for surveying and certifying skilled nursing facilities for compliance with the conditions and requirements of sections 1819 and 1861(j) of the Social Security Act \[[42 U.S.C. 1395i–3][/us/usc/t42/s1395i–3], 1395x(j)\] and nursing facilities for compliance with the conditions of section 1919 of such Act \[[42 U.S.C. 1396r][/us/usc/t42/s1396r]\], and
 
->         “(B) a study concerning the effectiveness and appropriateness of the current mechanisms for surveying and certifying renal dialysis facilities for compliance with the conditions and requirements of section 1881(b) of the Social Security Act \[[section 1395rr(b) of this title][/us/usc/t42/s1395rr/b]\].
+>         “(B) a study concerning the effectiveness and appropriateness of the current mechanisms for surveying and certifying renal dialysis facilities for compliance with the conditions and requirements of section 1881(b) of the Social Security Act \[[42 U.S.C. 1395rr(b)][/us/usc/t42/s1395rr/b]\].
 
 >     “(2) __Report.—__ 
 
@@ -1585,19 +1585,19 @@ See 2010 Amendment note below.
 
 [Pub. L. 101–508, title IV, § 4008(h)(2)(O)][/us/pl/101/508/s4008/h/2/O], Nov. 5, 1990, [104 Stat. 1388–50][/us/stat/104/1388-50], provided that: 
 
-> “Any regulations promulgated and applied by the Secretary of Health and Human Services after the date of the enactment of the Omnibus Budget Reconciliation Act of 1987 \[Dec. 22, 1987\] with respect to services described in clauses (ii), (iv), and (v) of section 1819(b)(4)(A) of the Social Security Act \[subsec. (b)(4)(A)(ii), (iv), and (v) of this section\] shall include requirements for providers of such services that are at least as strict as the requirements applicable to providers of such services prior to the enactment of the Omnibus Budget Reconciliation Act of 1987.”
+> “Any regulations promulgated and applied by the Secretary of Health and Human Services after the date of the enactment of the Omnibus Budget Reconciliation Act of 1987 \[Dec. 22, 1987\] with respect to services described in clauses (ii), (iv), and (v) of section 1819(b)(4)(A) of the Social Security Act \[[42 U.S.C. 1395i–3(b)(4)(A)(ii)][/us/usc/t42/s1395i–3/b/4/A/ii], (iv), and (v)\] shall include requirements for providers of such services that are at least as strict as the requirements applicable to providers of such services prior to the enactment of the Omnibus Budget Reconciliation Act of 1987.”
 
  __Nurse Aide Training and Competency Evaluation Programs; Publication of Proposed Regulations__ 
 
 [Pub. L. 101–239, title VI, § 6901(b)(2)][/us/pl/101/239/s6901/b/2], Dec. 19, 1989, [103 Stat. 2298][/us/stat/103/2298], provided that: 
 
-> “The Secretary of Health and Human Services shall issue proposed regulations to establish the requirements described in sections 1819(f)(2) and 1919(f)(2) of the Social Security Act \[subsec. (f)(2) of this section and [section 1396r(f)(2) of this title][/us/usc/t42/s1396r/f/2]\] by not later than 90 days after the date of the enactment of this Act \[Dec. 19, 1989\].”
+> “The Secretary of Health and Human Services shall issue proposed regulations to establish the requirements described in sections 1819(f)(2) and 1919(f)(2) of the Social Security Act \[[42 U.S.C. 1395i–3(f)(2)][/us/usc/t42/s1395i–3/f/2], 1396r(f)(2)\] by not later than 90 days after the date of the enactment of this Act \[Dec. 19, 1989\].”
 
  __Nurse Aide Training and Competency Evaluation; Satisfaction of Requirements; Waiver__ 
 
 [Pub. L. 101–239, title VI, § 6901(b)(4)(B)][/us/pl/101/239/s6901/b/4/B]–(D), Dec. 19, 1989, [103 Stat. 2299][/us/stat/103/2299], provided that:
 
->     “(B) A nurse aide shall be considered to satisfy the requirement of sections 1819(b)(5)(A) and 1919(b)(5)(A) of the Social Security Act \[subsec. (b)(5)(A) of this section and [section 1396r(b)(5)(A) of this title][/us/usc/t42/s1396r/b/5/A]\] (of having completed a training and competency evaluation program approved by a State under section 1819(e)(1)(A) or 1919(e)(1)(A) of such Act \[subsec. (e)(1)(A) of this section and [section 1396r(e)(1)(A) of this title][/us/usc/t42/s1396r/e/1/A]\]), if such aide would have satisfied such requirement as of July 1, 1989, if a number of hours (not less than 60 hours) were substituted for ‘75 hours’ in sections 1819(f)(2) and 1919(f)(2) of such Act \[subsec. (f)(2) of this section and [section 1396r(f)(2) of this title][/us/usc/t42/s1396r/f/2]\], respectively, and if such aide had received, before July 1, 1989, at least the difference in the number of such hours in supervised practical nurse aide training or in regular in-service nurse aide education.
+>     “(B) A nurse aide shall be considered to satisfy the requirement of sections 1819(b)(5)(A) and 1919(b)(5)(A) of the Social Security Act \[[42 U.S.C. 1395i–3(b)(5)(A)][/us/usc/t42/s1395i–3/b/5/A], 1396r(b)(5)(A)\] (of having completed a training and competency evaluation program approved by a State under section 1819(e)(1)(A) or 1919(e)(1)(A) of such Act \[[42 U.S.C. 1395i–3(e)(1)(A)][/us/usc/t42/s1395i–3/e/1/A], 1396r(e)(1)(A)\]), if such aide would have satisfied such requirement as of July 1, 1989, if a number of hours (not less than 60 hours) were substituted for ‘75 hours’ in sections 1819(f)(2) and 1919(f)(2) of such Act \[[42 U.S.C. 1395i–3(f)(2)][/us/usc/t42/s1395i–3/f/2], 1396r(f)(2)\], respectively, and if such aide had received, before July 1, 1989, at least the difference in the number of such hours in supervised practical nurse aide training or in regular in-service nurse aide education.
 
 >     “(C) A nurse aide shall be considered to satisfy the requirement of sections 1819(b)(5)(A) and 1919(b)(5)(A) of the Social Security Act (of having completed a training and competency evaluation program approved by a State under section 1819(e)(1)(A) or 1919(e)(1)(A) of such Act), if such aide was found competent (whether or not by the State), before July 1, 1989, after the completion of a course of nurse aide training of at least 100 hours duration.
 
@@ -1613,7 +1613,7 @@ See 2010 Amendment note below.
 
 [Pub. L. 100–203, title IV, § 4205][/us/pl/100/203/s4205], Dec. 22, 1987, [101 Stat. 1330–182][/us/stat/101/1330-182], provided that: 
 
-> “The Secretary of Health and Human Services shall report to the Congress annually on the extent to which skilled nursing facilities are complying with the requirements of subsections (b), (c), and (d) of section 1819 of the Social Security Act \[subsecs. (b), (c), and (d) of this section\] (as added by the amendments made by this part) and the number and type of enforcement actions taken by States and the Secretary under section 1819(h) of such Act (as added by section 4203 of this Act).”
+> “The Secretary of Health and Human Services shall report to the Congress annually on the extent to which skilled nursing facilities are complying with the requirements of subsections (b), (c), and (d) of section 1819 of the Social Security Act \[[42 U.S.C. 1395i–3(b)][/us/usc/t42/s1395i–3/b], (c), (d)\] (as added by the amendments made by this part) and the number and type of enforcement actions taken by States and the Secretary under section 1819(h) of such Act (as added by section 4203 of this Act).”
 
 ----------
 
@@ -1868,6 +1868,9 @@ See 2010 Amendment note below.
 [/us/pl/103/432/s106/d/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432%2Fs106%2Fd%2F6
 [/us/stat/108/4407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4407
 [/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
+[/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
+[/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
+[/us/usc/t42/s1395i–3/f/2/B/iii/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395i%E2%80%933%2Ff%2F2%2FB%2Fiii%2FI
 [/us/pl/101/508/s4008/h/1/H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs4008%2Fh%2F1%2FH
 [/us/stat/104/1388-48]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-48
 [/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
@@ -1900,6 +1903,8 @@ See 2010 Amendment note below.
 [/us/stat/102/805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F805
 [/us/pl/100/485/s608/d/27/K]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F485%2Fs608%2Fd%2F27%2FK
 [/us/stat/102/2423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2423
+[/us/usc/t42/s1395i–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395i%E2%80%933
+[/us/usc/t42/s1395i–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395i%E2%80%933
 [/us/usc/t42/s1395aa]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395aa
 [/us/usc/t42/s1395x/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395x%2Fj
 [/us/pl/111/148/s6103/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs6103%2Fd%2F1
@@ -1927,22 +1932,24 @@ See 2010 Amendment note below.
 [/us/stat/110/1321-211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1321-211
 [/us/pl/104/140/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F140%2Fs1%2Fa
 [/us/stat/110/1327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1327
-[/us/usc/t42/s1395x/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395x%2Fj
+[/us/usc/t42/s1395i–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395i%E2%80%933
 [/us/usc/t42/s1396r]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396r
 [/us/usc/t42/s1395rr/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395rr%2Fb
 [/us/pl/101/508/s4008/h/2/O]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs4008%2Fh%2F2%2FO
 [/us/stat/104/1388-50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-50
+[/us/usc/t42/s1395i–3/b/4/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395i%E2%80%933%2Fb%2F4%2FA%2Fii
 [/us/pl/101/239/s6901/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs6901%2Fb%2F2
 [/us/stat/103/2298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2298
-[/us/usc/t42/s1396r/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396r%2Ff%2F2
+[/us/usc/t42/s1395i–3/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395i%E2%80%933%2Ff%2F2
 [/us/pl/101/239/s6901/b/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs6901%2Fb%2F4%2FB
 [/us/stat/103/2299]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2299
-[/us/usc/t42/s1396r/b/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396r%2Fb%2F5%2FA
-[/us/usc/t42/s1396r/e/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396r%2Fe%2F1%2FA
-[/us/usc/t42/s1396r/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396r%2Ff%2F2
+[/us/usc/t42/s1395i–3/b/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395i%E2%80%933%2Fb%2F5%2FA
+[/us/usc/t42/s1395i–3/e/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395i%E2%80%933%2Fe%2F1%2FA
+[/us/usc/t42/s1395i–3/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395i%E2%80%933%2Ff%2F2
 [/us/pl/100/203/s4201/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs4201%2Fc
 [/us/stat/101/1330-174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-174
 [/us/pl/100/203/s4205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs4205
 [/us/stat/101/1330-182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-182
+[/us/usc/t42/s1395i–3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395i%E2%80%933%2Fb
 
 

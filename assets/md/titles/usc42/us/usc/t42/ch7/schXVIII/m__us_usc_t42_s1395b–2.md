@@ -75,7 +75,7 @@
 
 >     “(A) __Study.—__ 
 
->     The Comptroller General of the United States shall conduct a study to monitor the accuracy and consistency of information provided to individuals entitled to benefits under part A \[probably means part A of title XVIII of the Social Security Act which is classified to part A of this subchapter\] or enrolled under part B \[probably means part B of title XVIII of the Social Security Act which is classified to part B of this subchapter\], or both, through the toll-free telephone number 1–800–MEDICARE, including an assessment of whether the information provided is sufficient to answer questions of such individuals. In conducting the study, the Comptroller General shall examine the education and training of the individuals providing information through such number.
+>     The Comptroller General of the United States shall conduct a study to monitor the accuracy and consistency of information provided to individuals entitled to benefits under part A \[probably means part A of title XVIII of the Social Security Act which is classified to part A of this subchapter\] or enrolled under part B \[probably means part B of title XVIII of the Social Security Act, [42 U.S.C. 1395j][/us/usc/t42/s1395j] et seq.\], or both, through the toll-free telephone number 1–800–MEDICARE, including an assessment of whether the information provided is sufficient to answer questions of such individuals. In conducting the study, the Comptroller General shall examine the education and training of the individuals providing information through such number.
 
 >     “(B) __Report.—__ 
 
@@ -95,7 +95,7 @@
 
 [Pub. L. 101–234, title II, § 203(c)][/us/pl/101/234/s203/c], Dec. 13, 1989, [103 Stat. 1984][/us/stat/103/1984], provided that: 
 
-> “The Secretary of Health and Human Services shall provide, in the notice of medicare benefits provided under section 1804 of the Social Security Act \[this section\] for 1990, for a description of the changes in benefits under title XVIII of such Act \[this subchapter\] made by the amendments made by this Act \[see Tables for classification\].”
+> “The Secretary of Health and Human Services shall provide, in the notice of medicare benefits provided under section 1804 of the Social Security Act \[[42 U.S.C. 1395b–2][/us/usc/t42/s1395b–2]\] for 1990, for a description of the changes in benefits under title XVIII of such Act \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\] made by the amendments made by this Act \[see Tables for classification\].”
 
  __Benefits Counseling and Assistance Demonstration Project for Certain Medicare and Medicaid Beneficiaries__ 
 
@@ -133,6 +133,7 @@
 [/us/stat/102/748]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F748
 [/us/pl/108/173/s923/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs923%2Fd%2F2
 [/us/stat/117/2395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2395
+[/us/usc/t42/s1395j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395j
 [/us/pl/103/432/s171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432%2Fs171
 [/us/pl/103/432/s171/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432%2Fs171%2Fm
 [/us/usc/t42/s1395ss]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ss
@@ -140,6 +141,8 @@
 [/us/stat/104/1388-141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-141
 [/us/pl/101/234/s203/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F234%2Fs203%2Fc
 [/us/stat/103/1984]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1984
+[/us/usc/t42/s1395b–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395b%E2%80%932
+[/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
 [/us/pl/100/360/s424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360%2Fs424
 [/us/stat/102/812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F812
 [/us/pl/101/234/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F234%2Fs301%2Fa

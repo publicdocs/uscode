@@ -135,7 +135,7 @@ For purposes of this subchapter:
 
  __Effective Date of 1996 Amendment__ 
 
-[Section 2(b) of Pub. L. 104–182][/us/pl/104/182/s2/b] provided that: 
+[Pub. L. 104–182, § 2(b)][/us/pl/104/182/s2/b], Aug. 6, 1996, [110 Stat. 1614][/us/stat/110/1614], provided that: 
 
 > “Except as otherwise specified in this Act \[enacting sections 300g–7 to 300g–9, 300h–8, 300j–3c, and 300j–12 to 300j–18 of this title and [section 1263a of Title 33][/us/usc/t33/s1263a], Navigation and Navigable Waters, amending this section, sections 300g–1 to 300g–6, 300h, 300h–5 to 300h–7, 300i, 300i–1, 300j to 300j–2, 300j–4 to 300j–8, 300j–11, and 300j–21 to 300j–25 of this title, sections 4701 and 4721 of Title 16, Conservation, and [section 349 of Title 21][/us/usc/t21/s349], Food and Drugs, repealing [section 13551 of this title][/us/usc/t42/s13551], enacting provisions set out as notes under this section, sections 201, 300g–1, 300j–1, and 300j–12 of this title, [section 1281 of Title 33][/us/usc/t33/s1281], and section 45 of former Title 40, Public Buildings, Property, and Works, and amending provisions set out as a note under [section 201 of this title][/us/usc/t42/s201]\] or in the amendments made by this Act, this Act and the amendments made by this Act shall take effect on the date of enactment of this Act \[Aug. 6, 1996\].”
 
@@ -151,7 +151,7 @@ For purposes of this subchapter:
 
 [Pub. L. 104–182, § 2(c)][/us/pl/104/182/s2/c], Aug. 6, 1996, [110 Stat. 1614][/us/stat/110/1614], provided that: 
 
-> “Except for the provisions of section 302 \[[42 U.S.C. 300j–12][/us/usc/t42/s300j–12] note\] (relating to transfers of funds), nothing in this Act \[see Effective Date of 1996 Amendment note above\] or in any amendments made by this Act to title XIV of the Public Health Service Act \[this subchapter\] (commonly known as the ‘Safe Drinking Water Act’) or any other law shall be construed by the Administrator of the Environmental Protection Agency or the courts as affecting, modifying, expanding, changing, or altering—
+> “Except for the provisions of section 302 \[[42 U.S.C. 300j–12][/us/usc/t42/s300j–12] note\] (relating to transfers of funds), nothing in this Act \[see Effective Date of 1996 Amendment note above\] or in any amendments made by this Act to title XIV of the Public Health Service Act \[[42 U.S.C. 300f][/us/usc/t42/s300f] et seq.\] (commonly known as the ‘Safe Drinking Water Act’) or any other law shall be construed by the Administrator of the Environmental Protection Agency or the courts as affecting, modifying, expanding, changing, or altering—
 
 >     “(1) the provisions of the Federal Water Pollution Control Act \[[33 U.S.C. 1251][/us/usc/t33/s1251] et seq.\];
 
@@ -201,7 +201,7 @@ For purposes of this subchapter:
 
 > “The Comptroller General of the United States shall undertake a study to—
 
->     “(A) ascertain the numbers and locations of individuals and households relying for their residential water needs, including drinking, bathing, and cooking (or other similar uses) on irrigation water systems, mining water systems, industrial water systems, or other water systems covered by section 1401(4)(B) of the Safe Drinking Water Act \[par. (4)(B) of this section\] that are not public water systems subject to the Safe Drinking Water Act \[this subchapter\];
+>     “(A) ascertain the numbers and locations of individuals and households relying for their residential water needs, including drinking, bathing, and cooking (or other similar uses) on irrigation water systems, mining water systems, industrial water systems, or other water systems covered by section 1401(4)(B) of the Safe Drinking Water Act \[[42 U.S.C. 300f(4)(B)][/us/usc/t42/s300f/4/B]\] that are not public water systems subject to the Safe Drinking Water Act \[[42 U.S.C. 300f][/us/usc/t42/s300f] et seq.\];
 
 >     “(B) determine the sources and costs and affordability (to users and systems) of water used by such populations for their residential water needs; and
 
@@ -213,13 +213,13 @@ For purposes of this subchapter:
 
 [Pub. L. 95–190, § 2(e)][/us/pl/95/190/s2/e], Nov. 16, 1977, [91 Stat. 1393][/us/stat/91/1393], provided that: 
 
-> “Nothing in this Act \[see Short Title of 1977 Amendment note set out under [section 201 of this title][/us/usc/t42/s201]\] shall be construed to authorize the appropriation of any amount for research under title XIV of the Public Health Service Act \[this subchapter\] (relating to safe drinking water).”
+> “Nothing in this Act \[see Short Title of 1977 Amendment note set out under [section 201 of this title][/us/usc/t42/s201]\] shall be construed to authorize the appropriation of any amount for research under title XIV of the Public Health Service Act \[[42 U.S.C. 300f][/us/usc/t42/s300f] et seq.\] (relating to safe drinking water).”
 
  __Safe Drinking Water Amendments of 1977 as Not Affecting Authority of Administrator With Respect to Contaminants__ 
 
 [Pub. L. 95–190, § 3(e)(2)][/us/pl/95/190/s3/e/2], Nov. 16, 1977, [91 Stat. 1394][/us/stat/91/1394], provided that: 
 
-> “Nothing in this Act \[see Short Title of 1977 Amendment note set out under [section 201 of this title][/us/usc/t42/s201]\] shall be construed to alter or affect the Administrator’s authority or duty under title 14 of the Public Health Service Act \[this subchapter\] to promulgate regulations or take other action with respect to any contaminant.”
+> “Nothing in this Act \[see Short Title of 1977 Amendment note set out under [section 201 of this title][/us/usc/t42/s201]\] shall be construed to alter or affect the Administrator’s authority or duty under title 14 of the Public Health Service Act \[[42 U.S.C. 300f][/us/usc/t42/s300f] et seq.\] to promulgate regulations or take other action with respect to any contaminant.”
 
  __Rural Water Survey; Report to President and Congress; Authorization of Appropriations__ 
 
@@ -275,6 +275,7 @@ For purposes of this subchapter:
 [/us/pl/94/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F484
 [/us/pl/94/317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F317
 [/us/pl/104/182/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182%2Fs2%2Fb
+[/us/stat/110/1614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1614
 [/us/usc/t33/s1263a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1263a
 [/us/usc/t21/s349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs349
 [/us/usc/t42/s13551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13551
@@ -286,18 +287,23 @@ For purposes of this subchapter:
 [/us/pl/104/182/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182%2Fs2%2Fc
 [/us/stat/110/1614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1614
 [/us/usc/t42/s300j–12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300j%E2%80%9312
+[/us/usc/t42/s300f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300f
 [/us/usc/t33/s1251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1251
 [/us/pl/104/182/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182%2Fs3
 [/us/stat/110/1614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1614
 [/us/usc/t42/s300f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300f
 [/us/pl/104/182/s101/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182%2Fs101%2Fb%2F2
 [/us/stat/110/1617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1617
+[/us/usc/t42/s300f/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300f%2F4%2FB
+[/us/usc/t42/s300f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300f
 [/us/pl/95/190/s2/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190%2Fs2%2Fe
 [/us/stat/91/1393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1393
 [/us/usc/t42/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs201
+[/us/usc/t42/s300f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300f
 [/us/pl/95/190/s3/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190%2Fs3%2Fe%2F2
 [/us/stat/91/1394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1394
 [/us/usc/t42/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs201
+[/us/usc/t42/s300f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300f
 [/us/pl/93/523/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F523%2Fs3
 [/us/stat/88/1693]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1693
 [/us/pl/95/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190

@@ -73,10 +73,6 @@
 
 ([Pub. L. 90–351, title I, § 2010][/us/pl/90/351/s2010], formerly § 2005, as added [Pub. L. 103–322, title IV, § 40121(a)(3)][/us/pl/103/322/s40121/a/3], Sept. 13, 1994, [108 Stat. 1914][/us/stat/108/1914]; renumbered § 2010, [Pub. L. 107–273, div. A, title IV, § 402(2)][/us/pl/107/273/s402/2], Nov. 2, 2002, [116 Stat. 1789][/us/stat/116/1789]; amended [Pub. L. 108–405, title III, § 310(b)][/us/pl/108/405/s310/b], Oct. 30, 2004, [118 Stat. 2276][/us/stat/118/2276]; [Pub. L. 109–162, title I, § 101(f)][/us/pl/109/162/s101/f], Jan. 5, 2006, [119 Stat. 2974][/us/stat/119/2974]; [Pub. L. 109–271, § 2(j)][/us/pl/109/271/s2/j], Aug. 12, 2006, [120 Stat. 753][/us/stat/120/753]; [Pub. L. 113–4, title I, § 101(4)][/us/pl/113/4/s101/4], Mar. 7, 2013, [127 Stat. 69][/us/stat/127/69].)
 
- __Amendment of Section__ 
-
-For effective date of amendment by [Pub. L. 113–4][/us/pl/113/4], see Effective Date of 2013 Amendment note below.
-
  __References in Text__ 
 
     This subchapter, referred to in subsec. (a)(1), was in the original “this subchapter”, and was translated as reading “this part”, meaning part T of title I of [Pub. L. 90–351][/us/pl/90/351], to reflect the probable intent of Congress.
@@ -127,7 +123,6 @@ For effective date of amendment by [Pub. L. 113–4][/us/pl/113/4], see Effectiv
 [/us/stat/120/753]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F753
 [/us/pl/113/4/s101/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs101%2F4
 [/us/stat/127/69]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F69
-[/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
 [/us/pl/90/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351
 [/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
 [/us/pl/113/4/s101/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs101%2F4%2FA

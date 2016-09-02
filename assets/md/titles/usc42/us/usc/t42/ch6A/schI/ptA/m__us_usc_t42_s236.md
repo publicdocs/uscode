@@ -121,7 +121,7 @@
 
 >             “(A) Except as provided in subparagraph (B), in the case of any program making awards of grants, cooperative agreements, or contracts, if the program began operation prior to the date of the enactment of this Act \[July 10, 1992\] and the program is amended by this Act, awards made prior to October 1, 1992, shall continue to be subject to the terms and conditions upon which such awards were made, notwithstanding the amendments made by this Act.
 
->             “(B) Subparagraph (A) does not apply with respect to the amendments made by this Act to part B of title XIX of the Public Health Service Act \[section 300x et seq. of this title\]. Section 205(a) \[set out as a note under [section 300x of this title][/us/usc/t42/s300x]\] applies with respect to the program established in such part.”
+>             “(B) Subparagraph (A) does not apply with respect to the amendments made by this Act to part B of title XIX of the Public Health Service Act \[[42 U.S.C. 300x][/us/usc/t42/s300x] et seq.\]. Section 205(a) \[[42 U.S.C. 300x][/us/usc/t42/s300x] note\] applies with respect to the program established in such part.”
 
  __Termination of Reporting Requirements__ 
 
@@ -290,6 +290,7 @@
 [/us/usc/t2/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs21
 [/us/pl/102/321/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321%2Fs801
 [/us/stat/106/441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F441
+[/us/usc/t42/s300x]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300x
 [/us/usc/t42/s300x]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300x
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003
 [/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113

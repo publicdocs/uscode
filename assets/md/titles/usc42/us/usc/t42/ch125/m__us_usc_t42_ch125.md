@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 12001.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs12001" data-uslm-ref="/us/usc/t42/s12001">12001.</a>  </td>
 
     <td> Finding, purpose, and general authority.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 12002.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs12002" data-uslm-ref="/us/usc/t42/s12002">12002.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 12003.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs12003" data-uslm-ref="/us/usc/t42/s12003">12003.</a>  </td>
 
     <td> National goals and multi-year funding for Federal wind, photovoltaics, and solar thermal programs.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 12004.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs12004" data-uslm-ref="/us/usc/t42/s12004">12004.</a>  </td>
 
     <td> Energy efficiency authorizations.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 12005.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs12005" data-uslm-ref="/us/usc/t42/s12005">12005.</a>  </td>
 
     <td> Demonstration and commercial application projects.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 12006.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs12006" data-uslm-ref="/us/usc/t42/s12006">12006.</a>  </td>
 
     <td> Reports.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 12007.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs12007" data-uslm-ref="/us/usc/t42/s12007">12007.</a>  </td>
 
     <td> No antitrust immunity or defenses.  </td>
 

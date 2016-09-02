@@ -95,7 +95,7 @@
 
 [Pub. L. 108–199, div. E, title II, § 217][/us/pl/108/199/s217], Jan. 23, 2004, [118 Stat. 255][/us/stat/118/255], provided that: 
 
-> “Notwithstanding section 409B(c) of the Public Health Service Act \[subsec. (c) of this section\] regarding a limitation on the number of such grants, funds appropriated in this Act \[div. E of [Pub. L. 108–199][/us/pl/108/199], see Tables for classification\] and Acts in fiscal years thereafter may be expended by the Director of the National Institutes of Health to award Core Center Grants to encourage the development of innovative multidisciplinary research and provide training concerning Parkinson’s disease. Each center funded under such grants shall be designated as a Morris K. Udall Center for Research on Parkinson’s Disease.”
+> “Notwithstanding section 409B(c) of the Public Health Service Act \[[42 U.S.C. 284f(c)][/us/usc/t42/s284f/c]\] regarding a limitation on the number of such grants, funds appropriated in this Act \[div. E of [Pub. L. 108–199][/us/pl/108/199], see Tables for classification\] and Acts in fiscal years thereafter may be expended by the Director of the National Institutes of Health to award Core Center Grants to encourage the development of innovative multidisciplinary research and provide training concerning Parkinson’s disease. Each center funded under such grants shall be designated as a Morris K. Udall Center for Research on Parkinson’s Disease.”
 
     Similar provisions were contained in [Pub. L. 108–7, div. G, title II, § 218][/us/pl/108/7/s218], Feb. 20, 2003, [117 Stat. 326][/us/stat/117/326].
 
@@ -131,6 +131,7 @@
 [/us/usc/t42/s281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs281
 [/us/pl/108/199/s217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2Fs217
 [/us/stat/118/255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F255
+[/us/usc/t42/s284f/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs284f%2Fc
 [/us/pl/108/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199
 [/us/pl/108/7/s218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs218
 [/us/stat/117/326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F326

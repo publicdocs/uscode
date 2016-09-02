@@ -531,7 +531,7 @@
 
 >     “(2) __Limitation.—__ 
 
->     No benefit shall be payable under title II or XVI \[of the Social Security Act, subchapter II or XVI of this chapter\] on the basis of a request for reinstatement filed under section 223(i) or 1631(p) of the Social Security Act ([42 U.S.C. 423(i)][/us/usc/t42/s423/i], 1383(p)) before the effective date described in paragraph (1).”
+>     No benefit shall be payable under title II or XVI \[of the Social Security Act, [42 U.S.C. 401][/us/usc/t42/s401] et seq. or 1381 et seq.\] on the basis of a request for reinstatement filed under section 223(i) or 1631(p) of the Social Security Act ([42 U.S.C. 423(i)][/us/usc/t42/s423/i], 1383(p)) before the effective date described in paragraph (1).”
 
  __Effective Date of 1996 Amendment__ 
 
@@ -583,7 +583,7 @@
 
 >         “(A) determinations made by the Secretary on or after the date of the enactment of this Act \[Oct. 9, 1984\];
 
->         “(B) determinations with respect to which a final decision of the Secretary has not yet been made as of the date of the enactment of this Act \[Oct. 9, 1984\] and with respect to which a request for administrative review is made in conformity with the time limits, exhaustion requirements, and other provisions of section 205 of the Social Security Act \[[section 405 of this title][/us/usc/t42/s405]\] and regulations of the Secretary;
+>         “(B) determinations with respect to which a final decision of the Secretary has not yet been made as of the date of the enactment of this Act \[Oct. 9, 1984\] and with respect to which a request for administrative review is made in conformity with the time limits, exhaustion requirements, and other provisions of section 205 of the Social Security Act \[[42 U.S.C. 405][/us/usc/t42/s405]\] and regulations of the Secretary;
 
 >         “(C) determinations with respect to which a request for judicial review was pending on September 19, 1984, and which involve an individual litigant or a member of a class in a class action who is identified by name in such pending action on such date; and
 
@@ -593,7 +593,7 @@
 
 >     “(3)
 
->      In the case of a recipient of benefits under title II, XVI, or XVIII of the Social Security Act \[this subchapter or subchapter XVI or XVIII of this chapter\]—
+>      In the case of a recipient of benefits under title II, XVI, or XVIII of the Social Security Act \[[42 U.S.C. 401][/us/usc/t42/s401] et seq., 1381 et seq., or 1395 et seq.\]—
 
 >         “(A) who has been determined not to be entitled to such benefits on the basis of a finding that the physical or mental impairment on the basis of which such benefits were provided has ceased, does not exist, or is not disabling, and
 
@@ -601,11 +601,11 @@
 
 >         the court shall remand such case to the Secretary. The Secretary shall notify such individual by certified mail that he may request a review of the determination described in subparagraph (A) based on the provisions of this section and the provisions of the Social Security Act as amended by this section. Such notification shall specify that the individual must request such review within 120 days after the date on which such notification is received. If such request is made in a timely manner, the Secretary shall make a review of the determination described in subparagraph (A) in accordance with the provisions of this section and the provisions of the Social Security Act as amended by this section. The amendments made by this section shall apply with respect to such review, and the determination described in subparagraph (A) (and any redetermination resulting from such review) shall be subject to further administrative and judicial review, only if such request is made in a timely manner.
 
->     “(4) The decision by the Secretary on a case remanded by a court pursuant to this subsection shall be regarded as a new decision on the individual’s claim for benefits, which supersedes the final decision of the Secretary. The new decision shall be subject to further administrative review and to judicial review only in conformity with the time limits, exhaustion requirements, and other provisions of section 205 of the Social Security Act \[[section 405 of this title][/us/usc/t42/s405]\] and regulations issued by the Secretary in conformity with such section.
+>     “(4) The decision by the Secretary on a case remanded by a court pursuant to this subsection shall be regarded as a new decision on the individual’s claim for benefits, which supersedes the final decision of the Secretary. The new decision shall be subject to further administrative review and to judicial review only in conformity with the time limits, exhaustion requirements, and other provisions of section 205 of the Social Security Act \[[42 U.S.C. 405][/us/usc/t42/s405]\] and regulations issued by the Secretary in conformity with such section.
 
 >     “(5) No class in a class action relating to medical improvement may be certified after September 19, 1984, if the class action seeks judicial review of a decision terminating entitlement (or a period of disability) made by the Secretary of Health and Human Services prior to September 19, 1984.
 
->     “(6) For purposes of this subsection, the term ‘action relating to medical improvement’ means an action raising the issue of whether an individual who has had his entitlement to benefits under title II, XVI, or XVIII of the Social Security Act \[this subchapter or subchapter XVI or XVIII of this chapter\] based on disability terminated (or period of disability ended) should not have had such entitlement terminated (or period of disability ended) without consideration of whether there has been medical improvement in the condition of such individual (or another individual on whose disability such entitlement is based) since the time of a prior determination that the individual was under a disability.”
+>     “(6) For purposes of this subsection, the term ‘action relating to medical improvement’ means an action raising the issue of whether an individual who has had his entitlement to benefits under title II, XVI, or XVIII of the Social Security Act \[[42 U.S.C. 401][/us/usc/t42/s401] et seq., 1381 et seq., or 1395 et seq.\] based on disability terminated (or period of disability ended) should not have had such entitlement terminated (or period of disability ended) without consideration of whether there has been medical improvement in the condition of such individual (or another individual on whose disability such entitlement is based) since the time of a prior determination that the individual was under a disability.”
 
 [Pub. L. 98–460, § 3(a)(3)][/us/pl/98/460/s3/a/3], Oct. 9, 1984, [98 Stat. 1799][/us/stat/98/1799], provided that: 
 
@@ -655,7 +655,7 @@
 
 [Pub. L. 92–603, title I, § 116(e)][/us/pl/92/603/s116/e], Oct. 30, 1972, [86 Stat. 1350][/us/stat/86/1350], provided that: 
 
-> “The amendments made by this section \[amending this section and sections 402 and 416 of this title\] shall be effective with respect to applications for disability insurance benefits under section 223 of the Social Security Act \[this section\], applications for widow’s and widower’s insurance benefits based on disability under section 202 of such Act \[[section 402 of this title][/us/usc/t42/s402]\], and applications for disability determinations under section 216(i) of such Act \[[section 416(i) of this title][/us/usc/t42/s416/i]\], filed—
+> “The amendments made by this section \[amending this section and sections 402 and 416 of this title\] shall be effective with respect to applications for disability insurance benefits under section 223 of the Social Security Act \[[42 U.S.C. 423][/us/usc/t42/s423]\], applications for widow’s and widower’s insurance benefits based on disability under section 202 of such Act \[[42 U.S.C. 402][/us/usc/t42/s402]\], and applications for disability determinations under section 216(i) of such Act \[[42 U.S.C. 416(i)][/us/usc/t42/s416/i]\], filed—
 
 >     “(1) in or after the month in which this Act is enacted \[October 1972\], or
 
@@ -663,15 +663,15 @@
 
 >      before the month in which this Act is enacted, if—
 
->         “(A) notice of the final decision of the Secretary of Health, Education, and Welfare has not been given to the applicant before such month, or
+>         “(A) notice of the final decision of the Secretary of Health, Education, and Welfare \[now Health and Human Services\] has not been given to the applicant before such month, or
 
->         “(B) the notice referred to in subparagraph (A) has been so given before such month but a civil action with respect to such final decision is commenced under section 205(g) of the Social Security Act \[[section 405(g) of this title][/us/usc/t42/s405/g]\] (whether before, in, or after such month) and the decision in such civil action has not become final before such month;
+>         “(B) the notice referred to in subparagraph (A) has been so given before such month but a civil action with respect to such final decision is commenced under section 205(g) of the Social Security Act \[[42 U.S.C. 405(g)][/us/usc/t42/s405/g]\] (whether before, in, or after such month) and the decision in such civil action has not become final before such month;
 
->         except that no monthly benefits under title II of the Social Security Act \[this subchapter\] shall be payable or increased by reason of the amendments made by this section for any month before January 1973.”
+>         except that no monthly benefits under title II of the Social Security Act \[[42 U.S.C. 401][/us/usc/t42/s401] et seq.\] shall be payable or increased by reason of the amendments made by this section for any month before January 1973.”
 
 [Pub. L. 92–603, title I, § 117(c)][/us/pl/92/603/s117/c], Oct. 30, 1972, [86 Stat. 1351][/us/stat/86/1351], provided that: 
 
-> “The amendments made by this section \[amending this section and [section 416 of this title][/us/usc/t42/s416]\] shall be effective with respect to applications for disability insurance benefits under section 223 of the Social Security Act \[this section\], and for disability determinations under section 216(i) of such Act \[[section 416(i) of this title][/us/usc/t42/s416/i]\], filed—
+> “The amendments made by this section \[amending this section and [section 416 of this title][/us/usc/t42/s416]\] shall be effective with respect to applications for disability insurance benefits under section 223 of the Social Security Act \[[42 U.S.C. 423][/us/usc/t42/s423]\], and for disability determinations under section 216(i) of such Act \[[42 U.S.C. 416(i)][/us/usc/t42/s416/i]\], filed—
 
 >     “(1) in or after the month in which this Act is enacted, or
 
@@ -679,11 +679,11 @@
 
 >      before the month in which this Act is enacted if—
 
->         “(A) notice of the final decision of the Secretary of Health, Education, and Welfare has not been given to the applicant before such month; or
+>         “(A) notice of the final decision of the Secretary of Health, Education, and Welfare \[now Health and Human Services\] has not been given to the applicant before such month; or
 
->         “(B) the notice referred to in subparagraph (A) has been so given before such month but a civil action with respect to such final decision is commenced under section 205(g) of the Social Security Act \[[section 405(g) of this title][/us/usc/t42/s405/g]\] (whether before, in, or after such month) and the decision in such civil action has not become final before such month;
+>         “(B) the notice referred to in subparagraph (A) has been so given before such month but a civil action with respect to such final decision is commenced under section 205(g) of the Social Security Act \[[42 U.S.C. 405(g)][/us/usc/t42/s405/g]\] (whether before, in, or after such month) and the decision in such civil action has not become final before such month;
 
->         except that no monthly benefits under title II of the Social Security Act \[this subchapter\] shall be payable or increased by reason of the amendments made by this section for months before January 1973.”
+>         except that no monthly benefits under title II of the Social Security Act \[[42 U.S.C. 401][/us/usc/t42/s401] et seq.\] shall be payable or increased by reason of the amendments made by this section for months before January 1973.”
 
     Amendment by [section 118(a) of Pub. L. 92–603][/us/pl/92/603/s118/a] applicable in the case of deaths occurring after Dec. 31, 1969, with any applications with respect to an individual whose death occurred after Dec. 31, 1969, but before Oct. 30, 1972, to be deemed to have been filed in the month in which death occurred if filed in or within three months after Oct. 1972, see [section 118(c) of Pub. L. 92–603][/us/pl/92/603/s118/c], set out as a note under [section 416 of this title][/us/usc/t42/s416].
 
@@ -693,7 +693,7 @@
 
 [Pub. L. 90–248, title I, § 158(e)][/us/pl/90/248/s158/e], Jan. 2, 1968, [81 Stat. 869][/us/stat/81/869], provided that: 
 
-> “The amendments made by this section \[amending this section and sections 402, 416, 421, 422, and 425 of this title\] shall be effective with respect to applications for disability insurance benefits under section 223 of the Social Security Act \[this section\], and for disability determinations under section 216(i) of such Act \[[section 416(i) of this title][/us/usc/t42/s416/i]\], filed—
+> “The amendments made by this section \[amending this section and sections 402, 416, 421, 422, and 425 of this title\] shall be effective with respect to applications for disability insurance benefits under section 223 of the Social Security Act \[[42 U.S.C. 423][/us/usc/t42/s423]\], and for disability determinations under section 216(i) of such Act \[[42 U.S.C. 416(i)][/us/usc/t42/s416/i]\], filed—
 
 >     “(1) in or after the month in which this Act is enacted \[January 1968\], or
 
@@ -701,9 +701,9 @@
 
 >      before the month in which this Act is enacted if the applicant has not died before such month and if—
 
->         “(A) notice of the final decision of the Secretary of Health, Education, and Welfare has not been given to the applicant before such month; or
+>         “(A) notice of the final decision of the Secretary of Health, Education, and Welfare \[now Health and Human Services\] has not been given to the applicant before such month; or
 
->         “(B) the notice referred to in subparagraph (A) has been so given before such month but a civil action with respect to such final decision is commenced under section 205(g) of the Social Security Act \[[section 405(g) of this title][/us/usc/t42/s405/g]\] (whether before, in, or after such month) and the decision in such civil action has not become final before such month.”
+>         “(B) the notice referred to in subparagraph (A) has been so given before such month but a civil action with respect to such final decision is commenced under section 205(g) of the Social Security Act \[[42 U.S.C. 405(g)][/us/usc/t42/s405/g]\] (whether before, in, or after such month) and the decision in such civil action has not become final before such month.”
 
  __Effective Date of 1965 Amendment__ 
 
@@ -711,7 +711,7 @@
 
 [Pub. L. 89–97, title III, § 303(f)(1)][/us/pl/89/97/s303/f/1], July 30, 1965, [79 Stat. 368][/us/stat/79/368], provided that: 
 
-> “The amendments made by subsection (a) \[amending this section and [section 416 of this title][/us/usc/t42/s416]\], paragraphs (3) and (4) of subsection (b) \[amending this section\], and subsections (c) and (d) \[amending this section and [section 402 of this title][/us/usc/t42/s402]\], and the provisions of subparagraphs (B) and (E) of section 216(i)(2) of the Social Security Act \[[section 416(i)(2) of this title][/us/usc/t42/s416/i/2]\] (as amended by subsection (b)(1) of this section), shall be effective with respect to applications for disability insurance benefits under section 223 \[this section\], and for disability determinations under section 216(i), of the Social Security Act filed—
+> “The amendments made by subsection (a) \[amending this section and [section 416 of this title][/us/usc/t42/s416]\], paragraphs (3) and (4) of subsection (b) \[amending this section\], and subsections (c) and (d) \[amending this section and [section 402 of this title][/us/usc/t42/s402]\], and the provisions of subparagraphs (B) and (E) of section 216(i)(2) of the Social Security Act \[[42 U.S.C. 416(i)(2)][/us/usc/t42/s416/i/2]\] (as amended by subsection (b)(1) of this section), shall be effective with respect to applications for disability insurance benefits under section 223 \[[42 U.S.C. 423][/us/usc/t42/s423]\], and for disability determinations under section 216(i), of the Social Security Act filed—
 
 >     “(A) in or after the month in which this Act is enacted \[July 1965\], or
 
@@ -719,11 +719,11 @@
 
 >      before the month in which this Act is enacted, if the applicant has not died before such month and if—
 
->         “(i) notice of the final decision of the Secretary of Health, Education, and Welfare has not been given to the applicant before such month; or
+>         “(i) notice of the final decision of the Secretary of Health, Education, and Welfare \[now Health and Human Services\] has not been given to the applicant before such month; or
 
->         “(ii) the notice referred to in subparagraph (i) has been so given before such month but a civil action with respect to such final decision is commenced under section 205(g) of the Social Security Act \[[section 405(g) of this title][/us/usc/t42/s405/g]\] (whether before, in, or after such month) and the decision in such civil action has not become final before such month;
+>         “(ii) the notice referred to in subparagraph (i) has been so given before such month but a civil action with respect to such final decision is commenced under section 205(g) of the Social Security Act \[[42 U.S.C. 405(g)][/us/usc/t42/s405/g]\] (whether before, in, or after such month) and the decision in such civil action has not become final before such month;
 
->         except that no monthly insurance benefits under title II of the Social Security Act \[this subchapter\] shall be payable or increased by reason of the amendments made by subsections (a) and (b) \[amending this section and [section 416 of this title][/us/usc/t42/s416]\] for months before the second month following the month in which this Act is enacted \[July 1965\]. The preceding sentence shall also be applicable in the case of applications for monthly insurance benefits under title II of the Social Security Act based on the wages and self-employment income of an applicant with respect to whose application for disability insurance benefits under section 223 of such Act \[this section\] such preceding sentence is applicable.”
+>         except that no monthly insurance benefits under title II of the Social Security Act \[[42 U.S.C. 401][/us/usc/t42/s401] et seq.\] shall be payable or increased by reason of the amendments made by subsections (a) and (b) \[amending this section and [section 416 of this title][/us/usc/t42/s416]\] for months before the second month following the month in which this Act is enacted \[July 1965\]. The preceding sentence shall also be applicable in the case of applications for monthly insurance benefits under title II of the Social Security Act based on the wages and self-employment income of an applicant with respect to whose application for disability insurance benefits under section 223 of such Act \[[42 U.S.C. 423][/us/usc/t42/s423]\] such preceding sentence is applicable.”
 
     Amendment by section 304(m), (n) of [Pub. L. 89–97][/us/pl/89/97] applicable with respect to monthly insurance benefits under this subchapter for and after the second month following July 1965 but only on the basis of applications filed in or after July 1965, see section 304(o) of [Pub. L. 89–97][/us/pl/89/97], set out as a note under [section 402 of this title][/us/usc/t42/s402].
 
@@ -741,11 +741,11 @@
 
 [Pub. L. 86–778, title IV, § 401(c)][/us/pl/86/778/s401/c], Sept. 13, 1960, [74 Stat. 967][/us/stat/74/967], provided that: 
 
-> “The amendments made by this section \[amending this section\] shall apply only with respect to monthly benefits under sections 202 and 223 of the Social Security Act \[this section and [section 402 of this title][/us/usc/t42/s402]\] for months after the month following the month in which this Act is enacted \[September 1960\] which are based on the wages and self-employment income of an individual who did not attain the age of fifty in or prior to the month following the month in which this Act is enacted, but only where applications for such benefits are filed in or after the month in which this Act is enacted.”
+> “The amendments made by this section \[amending this section\] shall apply only with respect to monthly benefits under sections 202 and 223 of the Social Security Act \[[42 U.S.C. 402][/us/usc/t42/s402], 423\] for months after the month following the month in which this Act is enacted \[September 1960\] which are based on the wages and self-employment income of an individual who did not attain the age of fifty in or prior to the month following the month in which this Act is enacted, but only where applications for such benefits are filed in or after the month in which this Act is enacted.”
 
 [Pub. L. 86–778, title IV, § 402(f)][/us/pl/86/778/s402/f], Sept. 13, 1960, [74 Stat. 968][/us/stat/74/968], provided that: 
 
-> “The amendments made by subsections (a) and (b) \[amending this section\] shall apply only with respect to benefits under section 223 of the Social Security Act \[this section\] for the month in which this Act is enacted \[September 1960\] and subsequent months. The amendment made by subsection (c) \[amending this section\] shall apply only in the case of applications for benefits under such section 223 filed after the seventh month before the month in which this Act is enacted. The amendment made by subsection (d) \[amending this section\] shall apply only in the case of applications for benefits under such section 223 filed in or after the month in which this Act is enacted. The amendment made by subsection (e) \[amending [section 416 of this title][/us/usc/t42/s416]\] shall apply only in the case of individuals who become entitled to benefits under such section 223 in or after the month in which this Act is enacted.”
+> “The amendments made by subsections (a) and (b) \[amending this section\] shall apply only with respect to benefits under section 223 of the Social Security Act \[[42 U.S.C. 423][/us/usc/t42/s423]\] for the month in which this Act is enacted \[September 1960\] and subsequent months. The amendment made by subsection (c) \[amending this section\] shall apply only in the case of applications for benefits under such section 223 filed after the seventh month before the month in which this Act is enacted. The amendment made by subsection (d) \[amending this section\] shall apply only in the case of applications for benefits under such section 223 filed in or after the month in which this Act is enacted. The amendment made by subsection (e) \[amending [section 416 of this title][/us/usc/t42/s416]\] shall apply only in the case of individuals who become entitled to benefits under such section 223 in or after the month in which this Act is enacted.”
 
     Amendment by [section 403(b) of Pub. L. 86–778][/us/pl/86/778/s403/b] applicable only with respect to benefits under this section for months after September 1960, in the case of individuals who, without regard to such amendment, would have been entitled to such benefits for September 1960, or for any succeeding month, see [section 403(e) of Pub. L. 86–778][/us/pl/86/778/s403/e], set out as a note under [section 422 of this title][/us/usc/t42/s422].
 
@@ -759,7 +759,7 @@
 
 [Act Aug. 1, 1956, ch. 836][/us/act/1956-08-01/ch836], title I, § 103(d), [70 Stat. 818][/us/stat/70/818], provided that:
 
->     “(1) The amendment made by subsection (a) \[enacting this section and sections 424 and 425 of this title\] shall apply only with respect to monthly benefits under title II of the Social Security Act \[this subchapter\] for months after June 1957.
+>     “(1) The amendment made by subsection (a) \[enacting this section and sections 424 and 425 of this title\] shall apply only with respect to monthly benefits under title II of the Social Security Act \[[42 U.S.C. 401][/us/usc/t42/s401] et seq.\] for months after June 1957.
 
 >     “(2) For purposes of determining entitlement to a disability insurance benefit for any month after June 1957 and before December 1957, an application for disability insurance benefits filed by any individual after July 1957 and before January 1958 shall be deemed to have been filed during the first month after June 1957 for which such individual would (without regard to this paragraph) have been entitled to a disability insurance benefit had he filed application before the end of such month.”
 
@@ -767,7 +767,7 @@
 
 [Pub. L. 98–460, § 2(e)][/us/pl/98/460/s2/e], Oct. 9, 1984, [98 Stat. 1798][/us/stat/98/1798], provided that: 
 
-> “Any individual whose case is remanded to the Secretary pursuant to subsection (d) \[set out as a note above\] or whose request for a review is made in a timely manner pursuant to subsection (d), may elect, in accordance with section 223(g) or 1631(a)(7) of the Social Security Act \[subsec. (g) of this section or [section 1383(a)(7) of this title][/us/usc/t42/s1383/a/7]\], to have payments made beginning with the month in which he makes such election, and ending as under such section 223(g) or 1631(a)(7). Notwithstanding such section 223(g) or 1631(a)(7), such payments (if elected)—
+> “Any individual whose case is remanded to the Secretary pursuant to subsection (d) \[set out as a note above\] or whose request for a review is made in a timely manner pursuant to subsection (d), may elect, in accordance with section 223(g) or 1631(a)(7) of the Social Security Act \[[42 U.S.C. 423(g)][/us/usc/t42/s423/g]or 1383(a)(7)\], to have payments made beginning with the month in which he makes such election, and ending as under such section 223(g) or 1631(a)(7). Notwithstanding such section 223(g) or 1631(a)(7), such payments (if elected)—
 
 >     “(1) shall be made at least until an initial redetermination is made by the Secretary; and
 
@@ -789,7 +789,7 @@
 
 [Pub. L. 98–460, § 3(b)][/us/pl/98/460/s3/b], Oct. 9, 1984, [98 Stat. 1799][/us/stat/98/1799], provided that:
 
->     “(1) The Secretary of Health and Human Services shall appoint a Commission on the Evaluation of Pain (hereafter in this section referred to as the ‘Commission’) to conduct a study concerning the evaluation of pain in determining under titles II and XVI of the Social Security Act \[sections 401 et seq., 1381 et seq. of this title\] whether an individual is under a disability. Such study shall be conducted in consultation with the National Academy of Sciences.
+>     “(1) The Secretary of Health and Human Services shall appoint a Commission on the Evaluation of Pain (hereafter in this section referred to as the ‘Commission’) to conduct a study concerning the evaluation of pain in determining under titles II and XVI of the Social Security Act \[[42 U.S.C. 401][/us/usc/t42/s401] et seq., 1381 et seq.\] whether an individual is under a disability. Such study shall be conducted in consultation with the National Academy of Sciences.
 
 >     “(2) The Commission shall consist of at least twelve experts, including a significant representation from the field of medicine who are involved in the study of pain, and representation from the fields of law, administration of disability insurance programs, and other appropriate fields of expertise.
 
@@ -805,7 +805,7 @@
 
 [Pub. L. 98–460, § 7(c)][/us/pl/98/460/s7/c], Oct. 9, 1984, [98 Stat. 1804][/us/stat/98/1804], provided that:
 
->     “(1) The Secretary of Health and Human Services shall, as soon as practicable after the date of the enactment of this Act \[Oct. 9, 1984\], conduct a study concerning the effect which the enactment and continued operation of section 223(g) of the Social Security Act \[subsec. (g) of this section\] is having on expenditures from the Federal Old-Age and Survivors Insurance Trust Fund, the Federal Disability Insurance Trust Fund, the Federal Hospital Insurance Trust Fund, and the Federal Supplementary Medical Insurance Trust Fund, and the rate of appeals to administrative law judges of unfavorable determinations relating to disability or periods of disability.
+>     “(1) The Secretary of Health and Human Services shall, as soon as practicable after the date of the enactment of this Act \[Oct. 9, 1984\], conduct a study concerning the effect which the enactment and continued operation of section 223(g) of the Social Security Act \[[42 U.S.C. 423(g)][/us/usc/t42/s423/g]\] is having on expenditures from the Federal Old-Age and Survivors Insurance Trust Fund, the Federal Disability Insurance Trust Fund, the Federal Hospital Insurance Trust Fund, and the Federal Supplementary Medical Insurance Trust Fund, and the rate of appeals to administrative law judges of unfavorable determinations relating to disability or periods of disability.
 
 >     “(2) The Secretary shall submit the results of the study under paragraph (1), together with any recommendations, to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate not later than July 1, 1986.”
 
@@ -819,9 +819,9 @@
 
 >     “(a)
 
->      If an individual would (upon the timely filing of an application for a disability determination under section 216(i) of the Social Security Act \[[section 416(i) of this title][/us/usc/t42/s416/i]\]) and of an application for disability insurance benefits under section 223 of such Act \[this section\]) have been entitled to disability insurance benefits under such section 223 for a period which began after 1959 and ended prior to 1964, such individual shall, upon filing application for disability insurance benefits under such section 223 with respect to such period not later than 6 months after the date of enactment of this section \[Oct. 30, 1972\], be entitled, notwithstanding any other provision of title II of the Social Security Act \[this subchapter\], to receive in a lump sum as disability insurance benefits payable under section 223, an amount equal to the total amounts of disability insurance benefits which would have been payable to him for such period if he had timely filed such an application for a disability determination and such an application for disability insurance benefits with respect to such period; but only if—
+>      If an individual would (upon the timely filing of an application for a disability determination under section 216(i) of the Social Security Act \[[42 U.S.C. 416(i)][/us/usc/t42/s416/i]\]) and of an application for disability insurance benefits under section 223 of such Act \[[42 U.S.C. 423][/us/usc/t42/s423]\]) have been entitled to disability insurance benefits under such section 223 for a period which began after 1959 and ended prior to 1964, such individual shall, upon filing application for disability insurance benefits under such section 223 with respect to such period not later than 6 months after the date of enactment of this section \[Oct. 30, 1972\], be entitled, notwithstanding any other provision of title II of the Social Security Act \[[42 U.S.C. 401][/us/usc/t42/s401] et seq.\], to receive in a lump sum as disability insurance benefits payable under section 223, an amount equal to the total amounts of disability insurance benefits which would have been payable to him for such period if he had timely filed such an application for a disability determination and such an application for disability insurance benefits with respect to such period; but only if—
 
->         “(1) prior to the date of enactment of this section and after the date of enactment of the Social Security Amendments of 1967 \[Jan. 2, 1968\] such period was determined (under section 216(i) of the Social Security Act \[[section 416(i) of this title][/us/usc/t42/s416/i]\]) to be a period of disability as to such individual; and
+>         “(1) prior to the date of enactment of this section and after the date of enactment of the Social Security Amendments of 1967 \[Jan. 2, 1968\] such period was determined (under section 216(i) of the Social Security Act \[[42 U.S.C. 416(i)][/us/usc/t42/s416/i]\]) to be a period of disability as to such individual; and
 
 >         “(2) the application giving rise to the determination (under such section 216(i)) that such period is a period of disability as to such individual would not have been accepted as an application for such a determination except for the provisions of section 216(i)(2)(F).
 
@@ -1046,6 +1046,7 @@
 [/us/pl/106/170/s112/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170%2Fs112%2Fc
 [/us/stat/113/1886]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1886
 [/us/usc/t42/s1383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1383
+[/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
 [/us/usc/t42/s423/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs423%2Fi
 [/us/pl/104/121/s102/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F121%2Fs102%2Fb%2F2
 [/us/pl/104/121/s102/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F121%2Fs102%2Fc
@@ -1083,7 +1084,9 @@
 [/us/pl/98/460/s2/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F460%2Fs2%2Fd
 [/us/stat/98/1797]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1797
 [/us/usc/t42/s405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs405
+[/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
 [/us/usc/t42/s405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs405
+[/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
 [/us/pl/98/460/s3/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F460%2Fs3%2Fa%2F3
 [/us/stat/98/1799]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1799
 [/us/usc/t42/s1382c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1382c
@@ -1128,14 +1131,18 @@
 [/us/usc/t42/s414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs414
 [/us/pl/92/603/s116/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603%2Fs116%2Fe
 [/us/stat/86/1350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1350
+[/us/usc/t42/s423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs423
 [/us/usc/t42/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs402
 [/us/usc/t42/s416/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs416%2Fi
 [/us/usc/t42/s405/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs405%2Fg
+[/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
 [/us/pl/92/603/s117/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603%2Fs117%2Fc
 [/us/stat/86/1351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1351
 [/us/usc/t42/s416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs416
+[/us/usc/t42/s423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs423
 [/us/usc/t42/s416/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs416%2Fi
 [/us/usc/t42/s405/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs405%2Fg
+[/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
 [/us/pl/92/603/s118/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603%2Fs118%2Fa
 [/us/pl/92/603/s118/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603%2Fs118%2Fc
 [/us/usc/t42/s416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs416
@@ -1144,6 +1151,7 @@
 [/us/usc/t42/s416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs416
 [/us/pl/90/248/s158/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248%2Fs158%2Fe
 [/us/stat/81/869]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F869
+[/us/usc/t42/s423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs423
 [/us/usc/t42/s416/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs416%2Fi
 [/us/usc/t42/s405/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs405%2Fg
 [/us/pl/89/97/s302/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97%2Fs302%2Fe
@@ -1154,8 +1162,11 @@
 [/us/usc/t42/s416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs416
 [/us/usc/t42/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs402
 [/us/usc/t42/s416/i/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs416%2Fi%2F2
+[/us/usc/t42/s423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs423
 [/us/usc/t42/s405/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs405%2Fg
+[/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
 [/us/usc/t42/s416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs416
+[/us/usc/t42/s423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs423
 [/us/pl/89/97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97
 [/us/pl/89/97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97
 [/us/usc/t42/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs402
@@ -1177,6 +1188,7 @@
 [/us/usc/t42/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs402
 [/us/pl/86/778/s402/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F778%2Fs402%2Ff
 [/us/stat/74/968]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F968
+[/us/usc/t42/s423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs423
 [/us/usc/t42/s416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs416
 [/us/pl/86/778/s403/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F778%2Fs403%2Fb
 [/us/pl/86/778/s403/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F778%2Fs403%2Fe
@@ -1189,25 +1201,30 @@
 [/us/usc/t42/s416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs416
 [/us/act/1956-08-01/ch836]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-01%2Fch836
 [/us/stat/70/818]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F818
+[/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
 [/us/pl/98/460/s2/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F460%2Fs2%2Fe
 [/us/stat/98/1798]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1798
-[/us/usc/t42/s1383/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1383%2Fa%2F7
+[/us/usc/t42/s423/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs423%2Fg
 [/us/pl/98/460/s2/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F460%2Fs2%2Ff
 [/us/stat/98/1799]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1799
 [/us/pl/98/460/s2/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F460%2Fs2%2Fg
 [/us/stat/98/1799]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1799
 [/us/pl/98/460/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F460%2Fs3%2Fb
 [/us/stat/98/1799]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1799
+[/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/usc/t5/s5315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5315
 [/us/usc/t5/s5703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5703
 [/us/pl/98/460/s7/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F460%2Fs7%2Fc
 [/us/stat/98/1804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1804
+[/us/usc/t42/s423/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs423%2Fg
 [/us/pl/94/12/s702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F12%2Fs702
 [/us/usc/t42/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs402
 [/us/pl/92/603/s133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603%2Fs133
 [/us/stat/86/1361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1361
 [/us/usc/t42/s416/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs416%2Fi
+[/us/usc/t42/s423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs423
+[/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
 [/us/usc/t42/s416/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs416%2Fi
 [/us/pl/86/778/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F778%2Fs404
 [/us/usc/t42/s416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs416

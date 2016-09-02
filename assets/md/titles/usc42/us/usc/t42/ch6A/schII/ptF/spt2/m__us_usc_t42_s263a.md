@@ -457,7 +457,7 @@
 
 [Pub. L. 100–578, § 3][/us/pl/100/578/s3], Oct. 31, 1988, [102 Stat. 2914][/us/stat/102/2914], provided that: 
 
-> “Subsections (g)(1), (h), (i), (j), (k), (l), and (m) of section 353 of the Public Health Service Act \[this section\], as amended by section 101 \[probably means [section 2 of Pub. L. 100–578][/us/pl/100/578/s2]\], shall take effect January 1, 1989, except that any reference in such subsections to the standards established under subsection (f) shall be considered a reference to the standards established under subsection (d) of such section 353, as in effect on December 31, 1988. During the period beginning January 1, 1989, and ending December 31, 1989, subsections (a) through (d) and subsection (i) through (l) of such section 353 as in effect on December 31, 1988, shall continue to apply to clinical laboratories. The remaining subsections of such section 353, as so amended, shall take effect January 1, 1990, except that subsections (f)(1)(C) and (g)(2) shall take effect July 1, 1991, with respect to laboratories which were not subject to the requirements of such section 353 as in effect on December 31, 1988.”
+> “Subsections (g)(1), (h), (i), (j), (k), (l), and (m) of section 353 of the Public Health Service Act \[[42 U.S.C. 263a][/us/usc/t42/s263a]\], as amended by section 101 \[probably means [section 2 of Pub. L. 100–578][/us/pl/100/578/s2]\], shall take effect January 1, 1989, except that any reference in such subsections to the standards established under subsection (f) shall be considered a reference to the standards established under subsection (d) of such section 353, as in effect on December 31, 1988. During the period beginning January 1, 1989, and ending December 31, 1989, subsections (a) through (d) and subsection (i) through (l) of such section 353 as in effect on December 31, 1988, shall continue to apply to clinical laboratories. The remaining subsections of such section 353, as so amended, shall take effect January 1, 1990, except that subsections (f)(1)(C) and (g)(2) shall take effect July 1, 1991, with respect to laboratories which were not subject to the requirements of such section 353 as in effect on December 31, 1988.”
 
  __Effective Date__ 
 
@@ -504,6 +504,7 @@
 [/us/usc/t21/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs321
 [/us/pl/100/578/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F578%2Fs3
 [/us/stat/102/2914]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2914
+[/us/usc/t42/s263a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs263a
 [/us/pl/100/578/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F578%2Fs2
 [/us/pl/90/174/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F174%2Fs5%2Fb
 [/us/stat/81/539]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F539

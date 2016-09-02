@@ -79,13 +79,13 @@
 
 >     “(a) __In General.—__ 
 
->     The Secretary of Labor shall submit to the Congress, before December 31, 1994, a comprehensive report setting forth a proposal for revising the method of allocating grants among the States under section 302 of the Social Security Act \[this section\].
+>     The Secretary of Labor shall submit to the Congress, before December 31, 1994, a comprehensive report setting forth a proposal for revising the method of allocating grants among the States under section 302 of the Social Security Act \[[42 U.S.C. 502][/us/usc/t42/s502]\].
 
 >     “(b) __Specific Requirements.—__ 
 
 >     The report required by subsection (a) shall include an analysis of—
 
->         “(1) the use of unemployment insurance workload levels as the primary factor in allocating grants among the States under section 302 of the Social Security Act \[this section\],
+>         “(1) the use of unemployment insurance workload levels as the primary factor in allocating grants among the States under section 302 of the Social Security Act \[[42 U.S.C. 502][/us/usc/t42/s502]\],
 
 >         “(2) ways to ensure that each State receive not less than a minimum grant amount for each fiscal year,
 
@@ -101,7 +101,7 @@
 
 >     “(c) __Congressional Review Period.—__ 
 
->     The Secretary of Labor may not revise the method in effect on the date of the enactment of this Act \[Nov. 15, 1991\] for allocating grants among the States under section 302 of the Social Security Act \[this section\], until after the expiration of the 12-month period beginning on the date on which the report required by subsection (a) is submitted to the Congress.”
+>     The Secretary of Labor may not revise the method in effect on the date of the enactment of this Act \[Nov. 15, 1991\] for allocating grants among the States under section 302 of the Social Security Act \[[42 U.S.C. 502][/us/usc/t42/s502]\], until after the expiration of the 12-month period beginning on the date on which the report required by subsection (a) is submitted to the Congress.”
 
 ----------
 
@@ -152,5 +152,8 @@
 [/us/stat/105/1061]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1061
 [/us/pl/102/318/s533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F318%2Fs533
 [/us/stat/106/317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F317
+[/us/usc/t42/s502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs502
+[/us/usc/t42/s502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs502
+[/us/usc/t42/s502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs502
 
 

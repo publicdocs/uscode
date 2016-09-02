@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 4151.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs4151" data-uslm-ref="/us/usc/t42/s4151">4151.</a>  </td>
 
     <td> “Building” defined.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 4152.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs4152" data-uslm-ref="/us/usc/t42/s4152">4152.</a>  </td>
 
     <td> Standards for design, construction, and alteration of buildings; Administrator of General Services.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 4153.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs4153" data-uslm-ref="/us/usc/t42/s4153">4153.</a>  </td>
 
     <td> Standards for design, construction, and alteration of buildings; Secretary of Housing and Urban Development.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 4154.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs4154" data-uslm-ref="/us/usc/t42/s4154">4154.</a>  </td>
 
     <td> Standards for design, construction, and alteration of buildings; Secretary of Defense.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 4154a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs4154a" data-uslm-ref="/us/usc/t42/s4154a">4154a.</a>  </td>
 
     <td> Standards for design, construction, and alteration of buildings; United States Postal Service.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 4155.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs4155" data-uslm-ref="/us/usc/t42/s4155">4155.</a>  </td>
 
     <td> Effective date of standards.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 4156.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs4156" data-uslm-ref="/us/usc/t42/s4156">4156.</a>  </td>
 
     <td> Waiver and modification of standards.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 4157.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs4157" data-uslm-ref="/us/usc/t42/s4157">4157.</a>  </td>
 
     <td> Omitted.  </td>
 

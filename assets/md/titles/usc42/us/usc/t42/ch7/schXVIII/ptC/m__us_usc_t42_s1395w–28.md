@@ -357,7 +357,7 @@
 
 [Pub. L. 108–173, title II, § 231(f)(2)][/us/pl/108/173/s231/f/2], Dec. 8, 2003, [117 Stat. 2208][/us/stat/117/2208], provided that: 
 
-> “No later than 1 year after the date of the enactment of this Act \[Dec. 8, 2003\], the Secretary \[of Health and Human Services\] shall issue final regulations to establish requirements for special needs individuals under section 1859(b)(6)(B)(iii) of the Social Security Act \[subsec. (b)(6)(B)(iii) of this section\], as added by subsection (b).”
+> “No later than 1 year after the date of the enactment of this Act \[Dec. 8, 2003\], the Secretary \[of Health and Human Services\] shall issue final regulations to establish requirements for special needs individuals under section 1859(b)(6)(B)(iii) of the Social Security Act \[[42 U.S.C. 1395w–28(b)(6)(B)(iii)][/us/usc/t42/s1395w–28/b/6/B/iii]\], as added by subsection (b).”
 
  __Authorization To Operate; Resources for State Medicaid Agencies; Contracting Requirements__ 
 
@@ -367,7 +367,7 @@
 
 >     Notwithstanding subsection (f) of section 1859 of the Social Security Act ([42 U.S.C. 1395w–28][/us/usc/t42/s1395w–28]), during the period beginning on January 1, 2010, and ending on December 31, 2012, in the case of a specialized Medicare Advantage plan for special needs individuals described in subsection (b)(6)(B)(ii) of such section, as amended by this section, that does not meet the requirement described in subsection (f)(3)(D) of such section, the Secretary of Health and Human Services—
 
->         “(A) shall permit such plan to be offered under part C of title XVIII of such Act \[this part\]; and
+>         “(A) shall permit such plan to be offered under part C of title XVIII of such Act \[[42 U.S.C. 1395w–21][/us/usc/t42/s1395w–21] et seq.\]; and
 
 >         “(B) shall not permit an expansion of the service area of the plan under such part C.
 
@@ -389,7 +389,7 @@
 
 [Pub. L. 110–275, title I, § 164(h)][/us/pl/110/275/s164/h], July 15, 2008, [122 Stat. 2575][/us/stat/122/2575], provided that: 
 
-> “Nothing in the provisions of, or amendments made by, this section \[amending this section and sections 1395w–22 and 1395w–27 of this title and enacting provisions set out as notes under this section and sections 1395w–21, 1395w–22, and 1395w–27 of this title\] shall affect the benefits available under the Medicaid program under title XIX of the Social Security Act \[subchapter XIX of this chapter\] for special needs individuals described in section 1859(b)(6)(B)(ii) of such Act ([42 U.S.C. 1395w–28(b)(6)(B)(ii)][/us/usc/t42/s1395w–28/b/6/B/ii]).”
+> “Nothing in the provisions of, or amendments made by, this section \[amending this section and sections 1395w–22 and 1395w–27 of this title and enacting provisions set out as notes under this section and sections 1395w–21, 1395w–22, and 1395w–27 of this title\] shall affect the benefits available under the Medicaid program under title XIX of the Social Security Act \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\] for special needs individuals described in section 1859(b)(6)(B)(ii) of such Act ([42 U.S.C. 1395w–28(b)(6)(B)(ii)][/us/usc/t42/s1395w–28/b/6/B/ii]).”
 
  __Authority To Designate Other Plans as Specialized MA Plans__ 
 
@@ -470,11 +470,13 @@
 [/us/usc/t42/s1395w–21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%9321
 [/us/pl/108/173/s231/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs231%2Ff%2F2
 [/us/stat/117/2208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2208
+[/us/usc/t42/s1395w–28/b/6/B/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%9328%2Fb%2F6%2FB%2Fiii
 [/us/pl/110/275/s164/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F275%2Fs164%2Fc%2F2
 [/us/stat/122/2573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2573
 [/us/pl/111/148/s3205/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs3205%2Fd
 [/us/stat/124/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F458
 [/us/usc/t42/s1395w–28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%9328
+[/us/usc/t42/s1395w–21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%9321
 [/us/usc/t42/s1395w–28/b/6/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%9328%2Fb%2F6%2FB%2Fii
 [/us/usc/t42/s1395w–28/b/6/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%9328%2Fb%2F6%2FB%2Fii
 [/us/pl/110/275/s164/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F275%2Fs164%2Fe%2F2
@@ -482,6 +484,7 @@
 [/us/usc/t42/s1395w–28/b/6/B/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%9328%2Fb%2F6%2FB%2Fiii
 [/us/pl/110/275/s164/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F275%2Fs164%2Fh
 [/us/stat/122/2575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2575
+[/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
 [/us/usc/t42/s1395w–28/b/6/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%9328%2Fb%2F6%2FB%2Fii
 [/us/pl/108/173/s231/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs231%2Fd
 [/us/usc/t42/s1395w–21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%9321

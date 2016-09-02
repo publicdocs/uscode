@@ -165,7 +165,7 @@
 
 [Pub. L. 101–239, title VI, § 6109][/us/pl/101/239/s6109], Dec. 19, 1989, [103 Stat. 2213][/us/stat/103/2213], provided that: 
 
-> “In the case where more than the correct amount may have been paid to a physician or individual under part B of title XVIII of the Social Security Act \[part B of this subchapter\] with respect to services furnished during the period beginning on July 1, 1985, and ending on March 31, 1986, as a result of a carrier’s establishing statewide fees for certain procedure codes while the carrier was in the process of implementing the national common procedure coding system of the Health Care Financing Administration, the provisions of section 1870(c) of the Social Security Act \[subsec. (c) of this section\] shall apply, without the need for affirmative action by such a physician or individual, so as to prevent any recoupment, or other decrease in subsequent payments, to the physician or individual. The previous sentence shall apply to claims for items and services which were reopened by carriers on or after July 31, 1987.”
+> “In the case where more than the correct amount may have been paid to a physician or individual under part B of title XVIII of the Social Security Act \[[42 U.S.C. 1395j][/us/usc/t42/s1395j] et seq.\] with respect to services furnished during the period beginning on July 1, 1985, and ending on March 31, 1986, as a result of a carrier’s establishing statewide fees for certain procedure codes while the carrier was in the process of implementing the national common procedure coding system of the Health Care Financing Administration, the provisions of section 1870(c) of the Social Security Act \[[42 U.S.C. 1395gg(c)][/us/usc/t42/s1395gg/c]\] shall apply, without the need for affirmative action by such a physician or individual, so as to prevent any recoupment, or other decrease in subsequent payments, to the physician or individual. The previous sentence shall apply to claims for items and services which were reopened by carriers on or after July 31, 1987.”
 
 ----------
 
@@ -259,5 +259,7 @@
 [/us/stat/86/1456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1456
 [/us/pl/101/239/s6109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs6109
 [/us/stat/103/2213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2213
+[/us/usc/t42/s1395j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395j
+[/us/usc/t42/s1395gg/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395gg%2Fc
 
 

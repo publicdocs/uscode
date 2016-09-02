@@ -1269,11 +1269,11 @@ For the purposes of this subchapter—
 
 [Pub. L. 99–509, title IX, § 9001(d)][/us/pl/99/509/s9001/d], Oct. 21, 1986, [100 Stat. 1970][/us/stat/100/1970], provided that:
 
->     “(1) Except as provided in paragraphs (2) and (3), the amendments made by this section \[amending this section and [section 1395r of this title][/us/usc/t42/s1395r]\] shall apply with respect to cost-of-living increases determined under section 215(i) of the Social Security Act \[subsec. (i) of this section\] (as currently in effect, and as in effect in December 1978 and applied in certain cases under the provisions of such Act \[this chapter\] in effect after December 1978) in 1986 and subsequent years.
+>     “(1) Except as provided in paragraphs (2) and (3), the amendments made by this section \[amending this section and [section 1395r of this title][/us/usc/t42/s1395r]\] shall apply with respect to cost-of-living increases determined under section 215(i) of the Social Security Act \[[42 U.S.C. 415(i)][/us/usc/t42/s415/i]\] (as currently in effect, and as in effect in December 1978 and applied in certain cases under the provisions of such Act \[[42 U.S.C. 301][/us/usc/t42/s301] et seq.\] in effect after December 1978) in 1986 and subsequent years.
 
 >     “(2) The amendments made by paragraphs (1)(A) and (2)(B) of subsection (b) \[amending this section\] shall apply with respect to months after September 1986.
 
->     “(3) The amendment made by subsection (c) \[amending [section 1395r of this title][/us/usc/t42/s1395r]\] shall apply with respect to monthly premiums (under section 1839 of the Social Security Act \[[section 1395r of this title][/us/usc/t42/s1395r]\]) for months after December 1986.”
+>     “(3) The amendment made by subsection (c) \[amending [section 1395r of this title][/us/usc/t42/s1395r]\] shall apply with respect to monthly premiums (under section 1839 of the Social Security Act \[[42 U.S.C. 1395r][/us/usc/t42/s1395r]\]) for months after December 1986.”
 
 [Pub. L. 99–272, title XII, § 12115][/us/pl/99/272/s12115], Apr. 7, 1986, [100 Stat. 289][/us/stat/100/289], provided that: 
 
@@ -1291,11 +1291,11 @@ For the purposes of this subchapter—
 
 [Pub. L. 98–21, title I, § 111(b)(3)][/us/pl/98/21/s111/b/3], Apr. 20, 1983, [97 Stat. 72][/us/stat/97/72], provided that: 
 
-> “The amendments made by this subsection \[amending this section\] shall apply with respect to cost-of-living increases determined under section 2151(i) of the Social Security Act \[subsec. (i) of this section\] for years after 1983.”
+> “The amendments made by this subsection \[amending this section\] shall apply with respect to cost-of-living increases determined under section 215(i) of the Social Security Act \[[42 U.S.C. 415(i)][/us/usc/t42/s415/i]\] for years after 1983.”
 
 [Pub. L. 98–21, title I, § 112(e)][/us/pl/98/21/s112/e], Apr. 20, 1983, [97 Stat. 76][/us/stat/97/76], provided that: 
 
-> “The amendments made by the preceding provisions of this section \[amending this section\] shall apply with respect to monthly benefits under title II of the Social Security Act \[this subchapter\] for months after December 1983.”
+> “The amendments made by the preceding provisions of this section \[amending this section\] shall apply with respect to monthly benefits under title II of the Social Security Act \[[42 U.S.C. 401][/us/usc/t42/s401] et seq.\] for months after December 1983.”
 
  __Effective Date of 1981 Amendment__ 
 
@@ -1307,7 +1307,7 @@ For the purposes of this subchapter—
 
 >      Such amendments shall not apply—
 
->         “(A) in the case of an old-age insurance benefit, if the individual who is entitled to such benefit first became eligible (as defined in section 215(a)(3)(B) of the Social Security Act \[subsec. (a)(3)(B) of this section\]) for such benefit before January 1982,
+>         “(A) in the case of an old-age insurance benefit, if the individual who is entitled to such benefit first became eligible (as defined in section 215(a)(3)(B) of the Social Security Act \[[42 U.S.C. 415(a)(3)(B)][/us/usc/t42/s415/a/3/B]\]) for such benefit before January 1982,
 
 >         “(B) in the case of a disability insurance benefit, if the individual who is entitled to such benefit first became eligible (as so defined) for such benefit before January 1982, or attained age sixty-two before January 1982,
 
@@ -1315,7 +1315,7 @@ For the purposes of this subchapter—
 
 >         “(D) in the case of a survivors insurance benefit, if the individual on whose wages and self-employment income such benefit is based died before January 1982, or dies in or after January 1982 and at the time of his death is eligible (as so defined) for an old-age or disability insurance benefit with respect to which such amendments do not apply.
 
->     “(4) In the case of an individual who is a member of a religious order (within the meaning of section 3121(r)(2) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] \[[section 3121(r)(2) of Title 26][/us/usc/t26/s3121/r/2], Internal Revenue Code\]), or an autonomous subdivision of such order, whose members are required to take a vow of poverty, and which order or subdivision elected coverage under title II of the Social Security Act \[this subchapter\] before the date of the enactment of this Act \[Dec. 29, 1981\], or who would be such a member except that such individual is considered retired because of old age or total disability, paragraphs (2) and (3) shall apply, except that each reference therein to ‘December 1981’ or ‘January 1982’ shall be considered a reference to ‘December 1991’ or ‘January 1992’, respectively.”
+>     “(4) In the case of an individual who is a member of a religious order (within the meaning of section 3121(r)(2) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] \[[26 U.S.C. 3121(r)(2)][/us/usc/t26/s3121/r/2]\]), or an autonomous subdivision of such order, whose members are required to take a vow of poverty, and which order or subdivision elected coverage under title II of the Social Security Act \[[42 U.S.C. 401][/us/usc/t42/s401] et seq.\] before the date of the enactment of this Act \[Dec. 29, 1981\], or who would be such a member except that such individual is considered retired because of old age or total disability, paragraphs (2) and (3) shall apply, except that each reference therein to ‘December 1981’ or ‘January 1982’ shall be considered a reference to ‘December 1991’ or ‘January 1992’, respectively.”
 
     Amendment by section 2206(a), (b)(5)–(7) of [Pub. L. 97–35][/us/pl/97/35] applicable only with respect to initial calculations and adjustments of primary insurance amounts and benefit amounts which are attributable to periods after August 1981, see [section 2206(c) of Pub. L. 97–35][/us/pl/97/35/s2206/c], set out as a note under [section 402 of this title][/us/usc/t42/s402].
 
@@ -1323,7 +1323,7 @@ For the purposes of this subchapter—
 
 [Pub. L. 96–265, title I, § 102(c)][/us/pl/96/265/s102/c], June 9, 1980, [94 Stat. 443][/us/stat/94/443], provided that: 
 
-> “The amendments made by this section \[amending this section and [section 423 of this title][/us/usc/t42/s423]\] shall apply only with respect to monthly benefits payable on the basis of the wages and self-employment income of an individual who first becomes entitled to disability insurance benefits on or after July 1, 1980; except that the third sentence of section 215(b)(2)(A) of the Social Security Act \[subsec. (b)(2)(A) of this section\] (as added by such amendments) shall apply only with respect to monthly benefits payable for months beginning on or after July 1, 1981.”
+> “The amendments made by this section \[amending this section and [section 423 of this title][/us/usc/t42/s423]\] shall apply only with respect to monthly benefits payable on the basis of the wages and self-employment income of an individual who first becomes entitled to disability insurance benefits on or after July 1, 1980; except that the third sentence of section 215(b)(2)(A) of the Social Security Act \[[42 U.S.C. 415(b)(2)(A)][/us/usc/t42/s415/b/2/A]\] (as added by such amendments) shall apply only with respect to monthly benefits payable for months beginning on or after July 1, 1981.”
 
     For effective date of amendment by section 101(b)(3), (4) of [Pub. L. 96–265][/us/pl/96/265], see [section 101(c) of Pub. L. 96–265][/us/pl/96/265/s101/c], set out as a note under [section 403 of this title][/us/usc/t42/s403].
 
@@ -1341,7 +1341,7 @@ For the purposes of this subchapter—
 
 [Pub. L. 93–233, § 2(c)][/us/pl/93/233/s2/c], Dec. 31, 1973, [87 Stat. 952][/us/stat/87/952], provided that: 
 
-> “The amendment made by subsections (a) and (b) \[amending this section and sections 427 and 428 of this title and repealing [section 202(a)(4) of Pub. L. 92–336][/us/pl/92/336/s202/a/4], title II, July 1, 1972, [86 Stat. 416][/us/stat/86/416]\] shall apply with respect to monthly benefits under title II of the Social Security Act \[this subchapter\] for months after May 1974, and with respect to lump-sum death payments under section 202(i) of such Act \[[section 402(i) of this title][/us/usc/t42/s402/i]\] in the case of deaths occurring after such month.”
+> “The amendment made by subsections (a) and (b) \[amending this section and sections 427 and 428 of this title and repealing [section 202(a)(4) of Pub. L. 92–336][/us/pl/92/336/s202/a/4], title II, July 1, 1972, [86 Stat. 416][/us/stat/86/416]\] shall apply with respect to monthly benefits under title II of the Social Security Act \[[42 U.S.C. 401][/us/usc/t42/s401] et seq.\] for months after May 1974, and with respect to lump-sum death payments under section 202(i) of such Act \[[42 U.S.C. 402(i)][/us/usc/t42/s402/i]\] in the case of deaths occurring after such month.”
 
     Amendment by [section 5(a)(4) of Pub. L. 93–233][/us/pl/93/233/s5/a/4] applicable with respect to calendar years after 1973, see [section 5(e) of Pub. L. 93–233][/us/pl/93/233/s5/e], set out as a note under [section 409 of this title][/us/usc/t42/s409].
 
@@ -1351,7 +1351,7 @@ For the purposes of this subchapter—
 
 [Pub. L. 92–603, title I, § 101(g)][/us/pl/92/603/s101/g], Oct. 30, 1972, [86 Stat. 1335][/us/stat/86/1335], provided that: 
 
-> “The amendments made by this section \[amending this section and [section 403 of this title][/us/usc/t42/s403]\] shall apply with respect to monthly insurance benefits under title II of the Social Security Act \[this subchapter\] for months after December 1972 (without regard to when the insured individual became entitled to such benefits or when he died) and with respect to lump-sum death payments under such title in the case of deaths occurring after such month.”
+> “The amendments made by this section \[amending this section and [section 403 of this title][/us/usc/t42/s403]\] shall apply with respect to monthly insurance benefits under title II of the Social Security Act \[[42 U.S.C. 401][/us/usc/t42/s401] et seq.\] for months after December 1972 (without regard to when the insured individual became entitled to such benefits or when he died) and with respect to lump-sum death payments under such title in the case of deaths occurring after such month.”
 
     Amendment by [section 104(b) of Pub. L. 92–603][/us/pl/92/603/s104/b] applicable only in the case of a man who attains (or would attain) age 62 after Dec. 1974, with provision for the determination of the number of elapsed years for purposes of subsec. (b)(3) of this section in the case of a man who attains age 62 prior to 1975, see [section 104(j) of Pub. L. 92–603][/us/pl/92/603/s104/j], set out as a note under [section 414 of this title][/us/usc/t42/s414].
 
@@ -1359,7 +1359,7 @@ For the purposes of this subchapter—
 
 [Pub. L. 92–336, title II, § 201(i)][/us/pl/92/336/s201/i], July 1, 1972, [86 Stat. 412][/us/stat/86/412], provided that: 
 
-> “The amendments made by this section \[amending this section and [section 403 of this title][/us/usc/t42/s403]\] (other than the amendments made by subsections (g) and (h)) shall apply with respect to monthly benefits under title II of the Social Security Act \[this chapter\] for months after August 1972 and with respect to lump-sum death payments under such title in the case of deaths occurring after such month. The amendments made by subsection (g) \[amending sections 427 and 428 of this title\] shall apply with respect to monthly benefits under title II of such Act for months after August 1972. The amendments made by subsection (h)(1) \[amending [section 403 of this title][/us/usc/t42/s403]\] shall apply with respect to monthly benefits under title II of such Act for months after December 1971.”
+> “The amendments made by this section \[amending this section and [section 403 of this title][/us/usc/t42/s403]\] (other than the amendments made by subsections (g) and (h)) shall apply with respect to monthly benefits under title II of the Social Security Act \[[42 U.S.C. 401][/us/usc/t42/s401] et seq.\] for months after August 1972 and with respect to lump-sum death payments under such title in the case of deaths occurring after such month. The amendments made by subsection (g) \[amending sections 427 and 428 of this title\] shall apply with respect to monthly benefits under title II of such Act for months after August 1972. The amendments made by subsection (h)(1) \[amending [section 403 of this title][/us/usc/t42/s403]\] shall apply with respect to monthly benefits under title II of such Act for months after December 1971.”
 
     [Pub. L. 92–336, title II, § 202(a)(3)][/us/pl/92/336/s202/a/3], July 1, 1972, [86 Stat. 416][/us/stat/86/416], as amended by [Pub. L. 93–233, § 2(d)][/us/pl/93/233/s2/d], Dec. 31, 1973, [87 Stat. 952][/us/stat/87/952], provided that the amendment made by that section is effective June 1, 1974.
 
@@ -1369,7 +1369,7 @@ For the purposes of this subchapter—
 
 [Pub. L. 92–5, title II, § 201(e)][/us/pl/92/5/s201/e], Mar. 17, 1971, [85 Stat. 9][/us/stat/85/9], provided that: 
 
-> “The amendments made by this section \[amending this section and [section 403 of this title][/us/usc/t42/s403]\] shall apply with respect to monthly benefits under title II of the Social Security Act \[this subchapter\] for months after December 1970 and with respect to lump-sum death payments under such title in the case of deaths occurring in and after the month in which this Act is enacted \[March 1971\].”
+> “The amendments made by this section \[amending this section and [section 403 of this title][/us/usc/t42/s403]\] shall apply with respect to monthly benefits under title II of the Social Security Act \[[42 U.S.C. 401][/us/usc/t42/s401] et seq.\] for months after December 1970 and with respect to lump-sum death payments under such title in the case of deaths occurring in and after the month in which this Act is enacted \[March 1971\].”
 
     Amendment by [section 203(a)(4) of Pub. L. 92–5][/us/pl/92/5/s203/a/4] applicable only with respect to calendar years after 1971, see [section 203(c) of Pub. L. 92–5][/us/pl/92/5/s203/c], set out as a note under [section 409 of this title][/us/usc/t42/s409].
 
@@ -1377,13 +1377,13 @@ For the purposes of this subchapter—
 
 [Pub. L. 91–172, title X, § 1002(e)][/us/pl/91/172/s1002/e], Dec. 30, 1969, [83 Stat. 740][/us/stat/83/740], provided that: 
 
-> “The amendments made by this section \[amending this section and [section 403 of this title][/us/usc/t42/s403]\] shall apply with respect to monthly benefits under title II of the Social Security Act \[this subchapter\] for months after December 1969 and with respect to lump-sum death payments under such title in the case of deaths occurring after December 1969.”
+> “The amendments made by this section \[amending this section and [section 403 of this title][/us/usc/t42/s403]\] shall apply with respect to monthly benefits under title II of the Social Security Act \[[42 U.S.C. 401][/us/usc/t42/s401] et seq.\] for months after December 1969 and with respect to lump-sum death payments under such title in the case of deaths occurring after December 1969.”
 
  __Effective Date of 1968 Amendment__ 
 
 [Pub. L. 90–248, title I, § 101(e)][/us/pl/90/248/s101/e], Jan. 2, 1968, [81 Stat. 827][/us/stat/81/827], provided that: 
 
-> “The amendments made by this section \[amending this section and [section 403 of this title][/us/usc/t42/s403]\] shall apply with respect to monthly benefits under title II of the Social Security Act \[this subchapter\] for months after January 1968 and with respect to lump-sum death payments under such title in the case of deaths occurring after January 1968.”
+> “The amendments made by this section \[amending this section and [section 403 of this title][/us/usc/t42/s403]\] shall apply with respect to monthly benefits under title II of the Social Security Act \[[42 U.S.C. 401][/us/usc/t42/s401] et seq.\] for months after January 1968 and with respect to lump-sum death payments under such title in the case of deaths occurring after January 1968.”
 
     Amendment by [section 108(a)(4) of Pub. L. 90–248][/us/pl/90/248/s108/a/4] applicable only with respect to calendar years after 1967, see [section 108(c) of Pub. L. 90–248][/us/pl/90/248/s108/c], set out as a note under [section 409 of this title][/us/usc/t42/s409].
 
@@ -1391,7 +1391,7 @@ For the purposes of this subchapter—
 
 >     “(7)
 
->         (A) The amendments made by paragraphs (4) and (5) \[amending this section\] shall apply with respect to recomputations made under section 215(f)(2) of the Social Security Act \[subsec. (f)(2) of this section\] after the date of the enactment of this Act \[Jan. 2, 1968\].
+>         (A) The amendments made by paragraphs (4) and (5) \[amending this section\] shall apply with respect to recomputations made under section 215(f)(2) of the Social Security Act \[[42 U.S.C. 415(f)(2)][/us/usc/t42/s415/f/2]\] after the date of the enactment of this Act \[Jan. 2, 1968\].
 
 >         “(B) The amendments made by paragraph (6) \[amending this section\] shall apply with respect to individuals who die after the date of enactment of this Act \[Jan. 2, 1968\].
 
@@ -1401,21 +1401,21 @@ For the purposes of this subchapter—
 
 [Pub. L. 89–97, title III, § 301(d)][/us/pl/89/97/s301/d], July 30, 1965, [79 Stat. 364][/us/stat/79/364], provided that: 
 
-> “The amendments made by subsections (a), (b), and (c) of this section \[amending this section and [section 403 of this title][/us/usc/t42/s403]\] shall apply with respect to monthly benefits under title II of the Social Security Act \[this subchapter\] for months after December 1964 and with respect to lump-sum death payments under such title in the case of deaths occurring in or after the month in which this Act is enacted \[July 1965\].”
+> “The amendments made by subsections (a), (b), and (c) of this section \[amending this section and [section 403 of this title][/us/usc/t42/s403]\] shall apply with respect to monthly benefits under title II of the Social Security Act \[[42 U.S.C. 401][/us/usc/t42/s401] et seq.\] for months after December 1964 and with respect to lump-sum death payments under such title in the case of deaths occurring in or after the month in which this Act is enacted \[July 1965\].”
 
     [Pub. L. 89–97, title III, § 302(d)(2)][/us/pl/89/97/s302/d/2], July 30, 1965, [79 Stat. 365][/us/stat/79/365], provided that the amendment made by that section is effective Jan. 2, 1966.
 
 [Pub. L. 89–97, title III, § 302(f)(1)][/us/pl/89/97/s302/f/1]–(5), July 30, 1965, [79 Stat. 366][/us/stat/79/366], provided as follows:
 
->     “(1) The amendments made by subsection (c) \[amending this section\] shall apply only to individuals who become entitled to old-age insurance benefits under section 202(a) of the Social Security Act \[[section 402(a) of this title][/us/usc/t42/s402/a]\] after 1965.
+>     “(1) The amendments made by subsection (c) \[amending this section\] shall apply only to individuals who become entitled to old-age insurance benefits under section 202(a) of the Social Security Act \[[42 U.S.C. 402(a)][/us/usc/t42/s402/a]\] after 1965.
 
->     “(2) Any individual who would, upon filing an application prior to January 2, 1966, be entitled to a recomputation of his monthly benefit amount for purposes of title II of the Social Security Act \[this subchapter\] shall be deemed to have filed such application on the earliest date on which such application could have been filed, or on the day on which this Act is enacted \[July 30, 1965\], whichever is the later.
+>     “(2) Any individual who would, upon filing an application prior to January 2, 1966, be entitled to a recomputation of his monthly benefit amount for purposes of title II of the Social Security Act \[[42 U.S.C. 401][/us/usc/t42/s401] et seq.\] shall be deemed to have filed such application on the earliest date on which such application could have been filed, or on the day on which this Act is enacted \[July 30, 1965\], whichever is the later.
 
->     “(3) In the case of an individual who died after 1960 and prior to 1966 and who was entitled to old-age insurance benefits under section 202(a) of the Social Security Act \[[section 402(a) of this title][/us/usc/t42/s402/a]\] at the time of his death, the provisions of sections 215(f)(3)(B) and 215(f)(4) of such Act \[subsec. (f)(3)(B) and (f)(4) of this section\] as in effect before the enactment of this Act \[July 30, 1965\] shall apply.
+>     “(3) In the case of an individual who died after 1960 and prior to 1966 and who was entitled to old-age insurance benefits under section 202(a) of the Social Security Act \[[42 U.S.C. 402(a)][/us/usc/t42/s402/a]\] at the time of his death, the provisions of sections 215(f)(3)(B) and 215(f)(4) of such Act \[[42 U.S.C. 415(f)(3)(B)][/us/usc/t42/s415/f/3/B], (4)\] as in effect before the enactment of this Act \[July 30, 1965\] shall apply.
 
 >     “(4) In the case of a man who attains age 65 prior to 1966, or dies before such year, the provisions of section 215(f)(7) of the Social Security Act as in effect before the enactment of this Act \[July 30, 1965\] shall apply.
 
->     “(5) The amendments made by subsection (e) of this section \[amending [section 423 of this title][/us/usc/t42/s423]\] shall apply in the case of individuals who become entitled to disability insurance benefits under section 223 of the Social Security Act \[[section 423 of this title][/us/usc/t42/s423]\] after December 1965.”
+>     “(5) The amendments made by subsection (e) of this section \[amending [section 423 of this title][/us/usc/t42/s423]\] shall apply in the case of individuals who become entitled to disability insurance benefits under section 223 of the Social Security Act \[[42 U.S.C. 423][/us/usc/t42/s423]\] after December 1965.”
 
 [Pub. L. 89–97, title III, § 303(f)(2)][/us/pl/89/97/s303/f/2], July 30, 1965, [79 Stat. 368][/us/stat/79/368], provided that: 
 
@@ -1429,7 +1429,7 @@ For the purposes of this subchapter—
 
 [Pub. L. 87–64, title I, § 101(b)][/us/pl/87/64/s101/b], June 30, 1961, [75 Stat. 131][/us/stat/75/131], provided that: 
 
-> “The amendment made by subsection (a) \[amending this section\] shall apply only in the case of monthly insurance benefits under title II of the Social Security Act \[this subchapter\] for months beginning on or after the effective date of this title \[see note set out under [section 402 of this title][/us/usc/t42/s402]\], and in the case of lump-sum death payments under such title with respect to deaths on or after such effective date.”
+> “The amendment made by subsection (a) \[amending this section\] shall apply only in the case of monthly insurance benefits under title II of the Social Security Act \[[42 U.S.C. 401][/us/usc/t42/s401] et seq.\] for months beginning on or after the effective date of this title \[see note set out under [section 402 of this title][/us/usc/t42/s402]\], and in the case of lump-sum death payments under such title with respect to deaths on or after such effective date.”
 
     Amendment by section 102(d)(1), (2) of [Pub. L. 87–64][/us/pl/87/64] applicable with respect to monthly benefits for months beginning on or after Aug. 1, 1961, based on applications filed in or after March 1961, and with respect to lump-sum death payments under this subchapter in the case of deaths on or after Aug. 1, 1961, and amendment by [section 102(d)(3) of Pub. L. 87–64][/us/pl/87/64/s102/d/3] effective Aug. 1, 1961, see sections 102(f)(6), (7) and 109 of [Pub. L. 87–64][/us/pl/87/64], set out as notes under [section 402 of this title][/us/usc/t42/s402].
 
@@ -1451,7 +1451,7 @@ For the purposes of this subchapter—
 
 [Pub. L. 85–840, title I, § 101(g)][/us/pl/85/840/s101/g], Aug. 28, 1958, [72 Stat. 1018][/us/stat/72/1018], provided that: 
 
-> “The amendments made by this section \[amending this section and sections 402 and 403 of this title\] shall be applicable in the case of monthly benefits under title II of the Social Security Act \[this subchapter\], for months after December 1958, and in the case of the lump-sum death payments under such title, with respect to deaths occurring after such month.”
+> “The amendments made by this section \[amending this section and sections 402 and 403 of this title\] shall be applicable in the case of monthly benefits under title II of the Social Security Act \[[42 U.S.C. 401][/us/usc/t42/s401] et seq.\], for months after December 1958, and in the case of the lump-sum death payments under such title, with respect to deaths occurring after such month.”
 
     Amendment by [section 205(m) of Pub. L. 85–840][/us/pl/85/840/s205/m] applicable with respect to monthly benefits under this subchapter for August 1958 and succeeding months, see [section 207(a) of Pub. L. 85–840][/us/pl/85/840/s207/a], set out as a note under [section 416 of this title][/us/usc/t42/s416].
 
@@ -1459,41 +1459,41 @@ For the purposes of this subchapter—
 
 [Act Aug. 1, 1956, ch. 836][/us/act/1956-08-01/ch836], title I, § 109(b), [70 Stat. 830][/us/stat/70/830], provided that: 
 
-> “The amendment made by subsection (a) \[amending this section\] shall apply in the case of monthly benefits under section 202 of the Social Security Act \[[section 402 of this title][/us/usc/t42/s402]\], and the lump-sum death payment under such section, based on the wages and self-employment income of an individual—
+> “The amendment made by subsection (a) \[amending this section\] shall apply in the case of monthly benefits under section 202 of the Social Security Act \[[42 U.S.C. 402][/us/usc/t42/s402]\], and the lump-sum death payment under such section, based on the wages and self-employment income of an individual—
 
 >     “(1) who becomes entitled to benefits under subsection (a) of such section on the basis of an application filed on or after the date of enactment of this Act \[Aug. 1, 1956\]; or
 
->     “(2) who is (but for the provisions of subsection (f)(6) of section 215 of the Social Security Act \[subsec. (f)(6) of this section\]) entitled to a recomputation of his primary insurance amount under subsection (f)(2)(A) of such section 215 based on an application filed on or after the date of enactment of this Act \[Aug. 1, 1956\]; or
+>     “(2) who is (but for the provisions of subsection (f)(6) of section 215 of the Social Security Act \[[42 U.S.C. 415(f)(6)][/us/usc/t42/s415/f/6]\]) entitled to a recomputation of his primary insurance amount under subsection (f)(2)(A) of such section 215 based on an application filed on or after the date of enactment of this Act \[Aug. 1, 1956\]; or
 
->     “(3) who dies without becoming entitled to benefits under subsection (a) of such section 202 \[[section 402(a) of this title][/us/usc/t42/s402/a]\] and no individual was entitled to survivor’s benefits and no lump-sum death payment was payable under such section 202 on the basis of an application filed prior to such date of enactment \[Aug. 1, 1956\]; or
+>     “(3) who dies without becoming entitled to benefits under subsection (a) of such section 202 \[[42 U.S.C. 402(a)][/us/usc/t42/s402/a]\] and no individual was entitled to survivor’s benefits and no lump-sum death payment was payable under such section 202 on the basis of an application filed prior to such date of enactment \[Aug. 1, 1956\]; or
 
->     “(4) who dies on or after such date of enactment \[Aug. 1, 1956\] and whose survivors are (but for the provisions of subsection (f)(6) of such section 215 \[subsec. (f)(6) of this section\]) entitled to a recomputation of his primary insurance amount under subsection (f)(4)(A) of such section 215; or
+>     “(4) who dies on or after such date of enactment \[Aug. 1, 1956\] and whose survivors are (but for the provisions of subsection (f)(6) of such section 215 \[[42 U.S.C. 415(f)(6)][/us/usc/t42/s415/f/6]\]) entitled to a recomputation of his primary insurance amount under subsection (f)(4)(A) of such section 215; or
 
->     “(5) who dies prior to such date of enactment \[Aug. 1, 1956\] and (A) whose survivors are (but for the provisions of subsection (f)(6) of such section 215 \[subsec. (f)(6) of this section\]) entitled to a recomputation of his primary insurance amount under subsection (f)(4)(A) of such section 215, and (B) on the basis of whose wages and self-employment income no individual was entitled to survivor’s benefits under such section 202 \[[section 402 of this title][/us/usc/t42/s402]\], and no lump-sum death payment was payable under such section, on the basis of an application filed prior to such date of enactment and no individual was entitled to such a benefit, without the filing of an application for the month in which this Act is enacted \[August 1956\] or any month prior thereto.”
+>     “(5) who dies prior to such date of enactment \[Aug. 1, 1956\] and (A) whose survivors are (but for the provisions of subsection (f)(6) of such section 215 \[[42 U.S.C. 415(f)(6)][/us/usc/t42/s415/f/6]\]) entitled to a recomputation of his primary insurance amount under subsection (f)(4)(A) of such section 215, and (B) on the basis of whose wages and self-employment income no individual was entitled to survivor’s benefits under such section 202 \[[42 U.S.C. 402][/us/usc/t42/s402]\], and no lump-sum death payment was payable under such section, on the basis of an application filed prior to such date of enactment and no individual was entitled to such a benefit, without the filing of an application for the month in which this Act is enacted \[August 1956\] or any month prior thereto.”
 
 [Act Aug. 1, 1956, ch. 836][/us/act/1956-08-01/ch836], title I, § 115(d), [70 Stat. 833][/us/stat/70/833], provided that: 
 
-> “The amendments made by this section \[amending this section\] shall apply in the case of an individual (1) who becomes entitled (without the application of section 202(j)(1) of the Social Security Act \[[section 402(j)(1) of this title][/us/usc/t42/s402/j/1]\]) to benefits under section 202(a) of such Act \[[section 402(a) of this title][/us/usc/t42/s402/a]\] after the date of enactment of this Act \[Aug. 1, 1956\], or (2) who dies without becoming entitled to benefits under such section 202(a) and on the basis of whose wages and self-employment income an application for benefits or a lump-sum death payment under section 202 of such Act is filed after the date of enactment of this Act, or (3) who becomes entitled to benefits under section 223 of such Act \[[section 423 of this title][/us/usc/t42/s423]\], or (4) who files, after the date of enactment of this Act, an application for a disability determination which is accepted as an application for purposes of section 216(i) of such Act \[[section 416(i) of this title][/us/usc/t42/s416/i]\].”
+> “The amendments made by this section \[amending this section\] shall apply in the case of an individual (1) who becomes entitled (without the application of section 202(j)(1) of the Social Security Act \[[42 U.S.C. 402(j)(1)][/us/usc/t42/s402/j/1]\]) to benefits under section 202(a) of such Act \[[section 402(a) of this title][/us/usc/t42/s402/a]\] after the date of enactment of this Act \[Aug. 1, 1956\], or (2) who dies without becoming entitled to benefits under such section 202(a) and on the basis of whose wages and self-employment income an application for benefits or a lump-sum death payment under section 202 of such Act is filed after the date of enactment of this Act, or (3) who becomes entitled to benefits under section 223 of such Act \[[42 U.S.C. 423][/us/usc/t42/s423]\], or (4) who files, after the date of enactment of this Act, an application for a disability determination which is accepted as an application for purposes of section 216(i) of such Act \[[42 U.S.C. 416(i)][/us/usc/t42/s416/i]\].”
 
  __Effective Date of 1954 Amendment__ 
 
 [Act Sept. 1, 1954, ch. 1206][/us/act/1954-09-01/ch1206], title I, § 102(f), [68 Stat. 1070][/us/stat/68/1070], as amended by [Pub. L. 86–778, title II, § 303(k)][/us/pl/86/778/s303/k], Sept. 13, 1960, [74 Stat. 966][/us/stat/74/966]; [Pub. L. 89–97, title III][/us/pl/89/97] § 302(f)(7), July 30, 1965, [79 Stat. 366][/us/stat/79/366], provided that:
 
->     “(1) The amendments made by the preceding subsections \[amending this section and [section 403 of this title][/us/usc/t42/s403]\], other than subsection (b) and paragraphs (1), (2), (3), and (4) of subsection (e), shall (subject to the provisions of paragraph (2) and notwithstanding the provisions of section 215(f)(1) of the Social Security Act \[subsec. (f)(1) of this section\]) apply in the case of lump-sum death payments under section 202 of such Act \[[section 402 of this title][/us/usc/t42/s402]\] with respect to deaths occurring after, and in the case of monthly benefits under such section for months after, August 1954.
+>     “(1) The amendments made by the preceding subsections \[amending this section and [section 403 of this title][/us/usc/t42/s403]\], other than subsection (b) and paragraphs (1), (2), (3), and (4) of subsection (e), shall (subject to the provisions of paragraph (2) and notwithstanding the provisions of section 215(f)(1) of the Social Security Act \[[42 U.S.C. 415(f)(1)][/us/usc/t42/s415/f/1]\]) apply in the case of lump-sum death payments under section 202 of such Act \[[42 U.S.C. 402][/us/usc/t42/s402]\] with respect to deaths occurring after, and in the case of monthly benefits under such section for months after, August 1954.
 
 >     “(2)
 
->         (A) The amendment made by subsection (b)(2) \[amending this section\] shall be applicable only in the case of monthly benefits for months after August 1954, and the lump-sum death payment in the case of death after August 1954, based on the wages and self-employment income of an individual (i) who does not become eligible for benefits under section 202(a) of the Social Security Act \[[section 402(a) of this title][/us/usc/t42/s402/a]\] until after August 1954, or (ii) who dies after August 1954, and without becoming eligible for benefits under such section 202(a), or (iii) who is or has been entitled to have his primary insurance amount recomputed under section 215(f)(2) of the Social Security Act, as amended by subsection (e)(2) of this section, or under subsection (e)(5)(B) of this section \[set out as a note under this section\], or (iv) with respect to whom not less than six of the quarters elapsing after June 1953 are quarters of coverage (as defined in such Act), or (v) who files an application for a disability determination which is accepted as an application for purposes of section 216(i) of such Act \[[section 416(i) of this title][/us/usc/t42/s416/i]\], or (vi) who dies after August 1954, and whose survivors are (or would, but for the provisions of section 215(f)(6) of such Act, be) entitled to a recomputation of his primary insurance amount under section 215(f)(4)(A) of such Act, as amended by this Act. For purposes of the preceding sentence an individual shall be deemed eligible for benefits under section 202(a) of the Social Security Act for any month if he was, or would upon filing application therefor in such month have been, entitled to such benefits for such month.
+>         (A) The amendment made by subsection (b)(2) \[amending this section\] shall be applicable only in the case of monthly benefits for months after August 1954, and the lump-sum death payment in the case of death after August 1954, based on the wages and self-employment income of an individual (i) who does not become eligible for benefits under section 202(a) of the Social Security Act \[[42 U.S.C. 402(a)][/us/usc/t42/s402/a]\] until after August 1954, or (ii) who dies after August 1954, and without becoming eligible for benefits under such section 202(a), or (iii) who is or has been entitled to have his primary insurance amount recomputed under section 215(f)(2) of the Social Security Act, as amended by subsection (e)(2) of this section, or under subsection (e)(5)(B) of this section \[set out as a note under this section\], or (iv) with respect to whom not less than six of the quarters elapsing after June 1953 are quarters of coverage (as defined in such Act), or (v) who files an application for a disability determination which is accepted as an application for purposes of section 216(i) of such Act \[[42 U.S.C. 416(i)][/us/usc/t42/s416/i]\], or (vi) who dies after August 1954, and whose survivors are (or would, but for the provisions of section 215(f)(6) of such Act, be) entitled to a recomputation of his primary insurance amount under section 215(f)(4)(A) of such Act, as amended by this Act. For purposes of the preceding sentence an individual shall be deemed eligible for benefits under section 202(a) of the Social Security Act for any month if he was, or would upon filing application therefor in such month have been, entitled to such benefits for such month.
 
 >         “(B) __\[Repealed.__  __[__  __Pub. L. 89–97, title III, § 302(f)(7)__  __][/us/pl/89/97/s302/f/7]__  __,__  __July 30, 1965__  __,__  __[__  __79 Stat. 366__  __][/us/stat/79/366]__  __, eff.__  __Jan. 2, 1966__  __.\]__ 
 
->     “(3) The amendments made by subsections (b)(1), (e)(1), and (e)(3)(B) \[amending this section\] shall be applicable only in the case of monthly benefits based on the wages and self-employment income of an individual who does not become entitled to old-age insurance benefits under section 202(a) of the Social Security Act \[[section 402(a) of this title][/us/usc/t42/s402/a]\] until after August 1954, or who dies after August 1954 without becoming entitled to such benefits, or who files an application after August 1954 and is entitled to a recomputation under paragraph (2) or (4) of section 215(f) of the Social Security Act, as amended by this Act \[subsec. (f)(2) or (4) of this section\], or who is entitled to a recomputation under paragraph (2)(B) of this subsection, or who is entitled to a recomputation under paragraph (5) of subsection (e) \[set out as a note under this section\].
+>     “(3) The amendments made by subsections (b)(1), (e)(1), and (e)(3)(B) \[amending this section\] shall be applicable only in the case of monthly benefits based on the wages and self-employment income of an individual who does not become entitled to old-age insurance benefits under section 202(a) of the Social Security Act \[[42 U.S.C. 402(a)][/us/usc/t42/s402/a]\] until after August 1954, or who dies after August 1954 without becoming entitled to such benefits, or who files an application after August 1954 and is entitled to a recomputation under paragraph (2) or (4) of section 215(f) of the Social Security Act, as amended by this Act \[[42 U.S.C. 415(f)(2)][/us/usc/t42/s415/f/2], (4)\], or who is entitled to a recomputation under paragraph (2)(B) of this subsection, or who is entitled to a recomputation under paragraph (5) of subsection (e) \[set out as a note under this section\].
 
 >     “(4) The amendments made by subsection (e)(2) \[amending this section\] shall be applicable only in the case of applications for recomputation filed after 1954. The amendment to subsec. (f)(4) made by subsection (e)(4) shall be applicable only in the case of deaths after 1954.
 
 >     “(5) The amendments made by subparagraph (A) of subsection (e)(3) \[amending this section\] shall be applicable only in the case of applications for recomputation filed, or deaths occurring, after August 1954.
 
->     “(6) No increase in any benefit by reason of the amendments made by this section (other than subsection (e)) or by reason of subparagraph (B) of paragraph (2) of this subsection shall be regarded as a recomputation for purposes of section 215(f) of the Social Security Act \[subsec. (f) of this section\].”
+>     “(6) No increase in any benefit by reason of the amendments made by this section (other than subsection (e)) or by reason of subparagraph (B) of paragraph (2) of this subsection shall be regarded as a recomputation for purposes of section 215(f) of the Social Security Act \[[42 U.S.C. 415(f)][/us/usc/t42/s415/f]\].”
 
     Amendment by section 106(c) of act Sept. 1, 1954, applicable with respect to monthly benefits under this subchapter for months after June 1955, and with respect to lump-sum death payments under such subchapter in the case of deaths occurring after June 1955; but that no recomputation of benefits by reason of such amendments should be regarded as a recomputation for purposes of subsec. (f) of this section, see section 106(h) of act Sept. 1, 1954, set out as a note under [section 413 of this title][/us/usc/t42/s413].
 
@@ -1503,9 +1503,9 @@ For the purposes of this subchapter—
 
 [Act July 18, 1952, ch. 945, § 2(c)(1)][/us/act/1952-07-18/ch945/s2/c/1], (3), [66 Stat. 768][/us/stat/66/768], 769, provided that:
 
->     “(1) The amendments made by subsection (a) \[amending this section\] shall, subject to the provisions of paragraph (2) of this subsection and notwithstanding the provisions of section 215(f)(1) of the Social Security Act \[subsec. (f)(1) of this section\], apply in the case of lump-sum death payments under section 202 of such Act \[[section 402 of this title][/us/usc/t42/s402]\] with respect to deaths occurring after, and in the case of monthly benefits under such section for any month after, August 1952.
+>     “(1) The amendments made by subsection (a) \[amending this section\] shall, subject to the provisions of paragraph (2) of this subsection and notwithstanding the provisions of section 215(f)(1) of the Social Security Act \[[42 U.S.C. 415(f)(1)][/us/usc/t42/s415/f/1]\], apply in the case of lump-sum death payments under section 202 of such Act \[[42 U.S.C. 402][/us/usc/t42/s402]\] with respect to deaths occurring after, and in the case of monthly benefits under such section for any month after, August 1952.
 
->     “(3) The amendments made by subsection (b) \[amending this section and [section 403 of this title][/us/usc/t42/s403]\] shall (notwithstanding the provisions of section 215(f)(1) of the Social Security Act \[subsec. (f)(1) of this section\]) apply in the case of lump-sum death payments under section 202 of such Act \[[section 402 of this title][/us/usc/t42/s402]\] with respect to deaths occurring after August 1952, and in the case of monthly benefits under such section for months after August 1952.”
+>     “(3) The amendments made by subsection (b) \[amending this section and [section 403 of this title][/us/usc/t42/s403]\] shall (notwithstanding the provisions of section 215(f)(1) of the Social Security Act \[[42 U.S.C. 415(f)(1)][/us/usc/t42/s415/f/1]\]) apply in the case of lump-sum death payments under section 202 of such Act \[[42 U.S.C. 402][/us/usc/t42/s402]\] with respect to deaths occurring after August 1952, and in the case of monthly benefits under such section for months after August 1952.”
 
  __Savings Provision__ 
 
@@ -1513,7 +1513,7 @@ For the purposes of this subchapter—
 
 1958—[Pub. L. 85–840, title I, § 101(i)][/us/pl/85/840/s101/i], Aug. 28, 1958, [72 Stat. 1018][/us/stat/72/1018], provided that: 
 
-> “In the case of any individual to whom the provisions of subsection (b)(5) of section 215 of the Social Security Act \[subsec. (b)(5) of this section\], as amended by this Act, are applicable and on the basis of whose wages and self-employment income benefits are payable for months prior to January 1959, his primary insurance amount for purposes of benefits for such prior months shall, if based on an application for such benefits or for a recomputation of such amount, as the case may be, filed after December 1958, be determined under such section 215 \[this section\], as in effect prior to the enactment of this Act \[Aug. 28, 1958\], and, if such individual’s primary insurance amount as so determined is larger than the primary insurance amount determined for him under section 215 as amended by this Act, such larger primary insurance amount (increased to the next higher dollar if it is not a multiple of a dollar) shall, for months after December 1958, be his primary insurance amount for purposes of such section 215 (and of the other provisions) of the Social Security Act as amended by this Act in lieu of the amount determined without regard to this subsection.”
+> “In the case of any individual to whom the provisions of subsection (b)(5) of section 215 of the Social Security Act \[[42 U.S.C. 415(b)(5)][/us/usc/t42/s415/b/5]\], as amended by this Act, are applicable and on the basis of whose wages and self-employment income benefits are payable for months prior to January 1959, his primary insurance amount for purposes of benefits for such prior months shall, if based on an application for such benefits or for a recomputation of such amount, as the case may be, filed after December 1958, be determined under such section 215 \[[42 U.S.C. 415][/us/usc/t42/s415]\], as in effect prior to the enactment of this Act \[Aug. 28, 1958\], and, if such individual’s primary insurance amount as so determined is larger than the primary insurance amount determined for him under section 215 as amended by this Act, such larger primary insurance amount (increased to the next higher dollar if it is not a multiple of a dollar) shall, for months after December 1958, be his primary insurance amount for purposes of such section 215 (and of the other provisions) of the Social Security Act as amended by this Act in lieu of the amount determined without regard to this subsection.”
 
 1952—[Act July 18, 1952, ch. 945, § 2(d)][/us/act/1952-07-18/ch945/s2/d], [66 Stat. 769][/us/stat/66/769], provided that:
 
@@ -1521,19 +1521,19 @@ For the purposes of this subchapter—
 
 >      Where—
 
->         “(A) an individual was entitled (without the application of section 202(j)(1) of the Social Security Act \[[section 402(j)(1) of this title][/us/usc/t42/s402/j/1]\]) to an old-age insurance benefit under title II of such Act \[this subchapter\] for August 1952;
+>         “(A) an individual was entitled (without the application of section 202(j)(1) of the Social Security Act \[[42 U.S.C. 402(j)(1)][/us/usc/t42/s402/j/1]\]) to an old-age insurance benefit under title II of such Act \[[42 U.S.C. 401][/us/usc/t42/s401] et seq.\] for August 1952;
 
->         “(B) two or more other persons were entitled (without the application of such section 202(j)(1) \[[section 402(j)(1) of this title][/us/usc/t42/s402/j/1]\]) to monthly benefits under such title for such month on the basis of the wages and self-employment income of such individual; and
+>         “(B) two or more other persons were entitled (without the application of such section 202(j)(1) \[[42 U.S.C. 402(j)(1)][/us/usc/t42/s402/j/1]\]) to monthly benefits under such title for such month on the basis of the wages and self-employment income of such individual; and
 
->         “(C) the total of the benefits to which all persons are entitled under such title \[this subchapter\] on the basis of such individual’s wages and self-employment income for any subsequent month for which he is entitled to an old-age insurance benefit under such title, would (but for the provisions of this paragraph) be reduced by reason of the application of section 203(a) of the Social Security Act, as amended by this Act \[[section 403(a) of this title][/us/usc/t42/s403/a]\],
+>         “(C) the total of the benefits to which all persons are entitled under such title \[this subchapter\] on the basis of such individual’s wages and self-employment income for any subsequent month for which he is entitled to an old-age insurance benefit under such title, would (but for the provisions of this paragraph) be reduced by reason of the application of section 203(a) of the Social Security Act, as amended by this Act \[[42 U.S.C. 403(a)][/us/usc/t42/s403/a]\],
 
 >         then the total of benefits, referred to in clause (C), for such subsequent month shall be reduced to whichever of the following is the larger:
 
->         “(D) the amount determined pursuant to section 203(a) of the Social Security Act, as amended by this Act \[[section 403(a) of this title][/us/usc/t42/s403/a]\]; or
+>         “(D) the amount determined pursuant to section 203(a) of the Social Security Act, as amended by this Act \[[42 U.S.C. 403(a)][/us/usc/t42/s403/a]\]; or
 
 >         “(E) the amount determined pursuant to such section, as in effect prior to the enactment of this Act \[July 18, 1952\], for August 1952 plus the excess of (i) the amount of his old-age insurance benefit for August 1952 computed as if the amendments made by the preceding subsections of this section had been applicable in the case of such benefit for August 1952, over (ii) the amount of his old-age insurance benefit for August 1952.
 
->     “(2) No increase in any benefit by reason of the amendments made by this section or by reason of paragraph (2) of subsection (c) of this section shall be regarded as a recomputation for purposes of section 215(f) of the Social Security Act \[subsec. (f) of this section\].”
+>     “(2) No increase in any benefit by reason of the amendments made by this section or by reason of paragraph (2) of subsection (c) of this section shall be regarded as a recomputation for purposes of section 215(f) of the Social Security Act \[[42 U.S.C. 415(f)][/us/usc/t42/s415/f]\].”
 
  __Transfer of Functions__ 
 
@@ -1547,7 +1547,7 @@ For the purposes of this subchapter—
 
 [Pub. L. 98–604, § 1][/us/pl/98/604/s1], Oct. 30, 1984, [98 Stat. 3161][/us/stat/98/3161], provided:
 
->     “That (a) in determining whether the base quarter ending on September 30, 1984, is a cost-of-living computation quarter for the purposes of the cost-of-living increases under sections 215(i) and 1617 of the Social Security Act \[subsec. (i) of this section and [section 1382f of this title][/us/usc/t42/s1382f]\], the phrase ‘is 3 percent or more’ appearing in section 215(i)(1)(B) of such Act shall be deemed to read ‘is greater than zero’ (and the phrase ‘exceeds, by not less than 3 per centum, such Index’ appearing in section 215(i)(1)(B) of such Act as in effect in December 1978 shall be deemed to read ‘exceeds such Index’).
+>     “That (a) in determining whether the base quarter ending on September 30, 1984, is a cost-of-living computation quarter for the purposes of the cost-of-living increases under sections 215(i) and 1617 of the Social Security Act \[[42 U.S.C. 415(i)][/us/usc/t42/s415/i], 1382f\], the phrase ‘is 3 percent or more’ appearing in section 215(i)(1)(B) of such Act shall be deemed to read ‘is greater than zero’ (and the phrase ‘exceeds, by not less than 3 per centum, such Index’ appearing in section 215(i)(1)(B) of such Act as in effect in December 1978 shall be deemed to read ‘exceeds such Index’).
 
 >     “(b) For purposes of section 215(i) of such Act, the provisions of subsection (a) shall not constitute a ‘general benefit increase’.”
 
@@ -1555,13 +1555,13 @@ For the purposes of this subchapter—
 
 [Pub. L. 98–21, title I, § 111(d)][/us/pl/98/21/s111/d], Apr. 20, 1983, [97 Stat. 72][/us/stat/97/72], provided that: 
 
-> “Notwithstanding any provision to the contrary in section 215(i) of the Social Security Act \[subsec. (i) of this section\], the ‘base quarter’ (as defined in paragraph (1)(A)(i) of such section) in the calendar year 1983 shall be a ‘cost-of-living computation quarter’ within the meaning of paragraph (1)(B) of such section (and shall be deemed to have been determined by the Secretary of Health and Human Services to be a ‘cost-of-living computation quarter’ under paragraph (2)(A) of such section) for all of the purposes of such Act \[this chapter\] as amended by this section and by other provisions of this Act, without regard to the extent by which the Consumer Price Index has increased since the last prior cost-of-living computation quarter which was established under such paragraph (1)(B).”
+> “Notwithstanding any provision to the contrary in section 215(i) of the Social Security Act \[[42 U.S.C. 415(i)][/us/usc/t42/s415/i]\], the ‘base quarter’ (as defined in paragraph (1)(A)(i) of such section) in the calendar year 1983 shall be a ‘cost-of-living computation quarter’ within the meaning of paragraph (1)(B) of such section (and shall be deemed to have been determined by the Secretary of Health and Human Services to be a ‘cost-of-living computation quarter’ under paragraph (2)(A) of such section) for all of the purposes of such Act \[[42 U.S.C. 301][/us/usc/t42/s301] et seq.\] as amended by this section and by other provisions of this Act, without regard to the extent by which the Consumer Price Index has increased since the last prior cost-of-living computation quarter which was established under such paragraph (1)(B).”
 
  __Combined Balance in Trust Funds Used in Determining OASDI Fund Ratio With Respect to Calendar Year 1984__ 
 
 [Pub. L. 98–21, title I, § 112(f)][/us/pl/98/21/s112/f], Apr. 20, 1983, [97 Stat. 76][/us/stat/97/76], as amended by [Pub. L. 98–369, div. B, title VI, § 2662(b)][/us/pl/98/369/s2662/b], July 18, 1984, [98 Stat. 1159][/us/stat/98/1159], provided that: 
 
-> “Notwithstanding anything to the contrary in section 215(i)(1)(F) of the Social Security Act \[subsec. (i)(1)(F) of this section\] (as added by subsection (a)(4) of this section), the combined balance in the Trust Funds which is to be used in determining the ‘OASDI fund ratio’ with respect to the calendar year 1984 under such section shall be the estimated combined balance in such Funds as of the close of that year (rather than as of its beginning), including the taxes transferred under section 201(a) of such Act \[[section 401(a) of this title][/us/usc/t42/s401/a]\] on the first day of the year following that year.”
+> “Notwithstanding anything to the contrary in section 215(i)(1)(F) of the Social Security Act \[[42 U.S.C. 415(i)(1)(F)][/us/usc/t42/s415/i/1/F]\] (as added by subsection (a)(4) of this section), the combined balance in the Trust Funds which is to be used in determining the ‘OASDI fund ratio’ with respect to the calendar year 1984 under such section shall be the estimated combined balance in such Funds as of the close of that year (rather than as of its beginning), including the taxes transferred under section 201(a) of such Act \[[42 U.S.C. 401(a)][/us/usc/t42/s401/a]\] on the first day of the year following that year.”
 
  __Recalculation of Primary Insurance Amounts Applicable to Certain Beneficiaries__ 
 
@@ -1571,39 +1571,39 @@ For the purposes of this subchapter—
 
 [Pub. L. 93–233, § 3(i)][/us/pl/93/233/s3/i], Dec. 31, 1973, [87 Stat. 952][/us/stat/87/952], provided that: 
 
-> “For purposes of section 203(f)(8) \[[section 403(f)(8) of this title][/us/usc/t42/s403/f/8]\], so much of section 215(i)(1)(B) \[subsec. (i)(1)(B) of this section\] as follows the semicolon, and section 230(a) of the Social Security Act \[[section 430(a) of this title][/us/usc/t42/s430/a]\], the increase in benefits provided by section 2 of this Act \[amending this section and sections 427 and 428 of this title\] shall be considered an increase under section 215(i) of the Social Security Act.”
+> “For purposes of section 203(f)(8) \[[42 U.S.C. 403(f)(8)][/us/usc/t42/s403/f/8]\], so much of section 215(i)(1)(B) \[[42 U.S.C. 415(i)(1)(B)][/us/usc/t42/s415/i/1/B]\] as follows the semicolon, and section 230(a) of the Social Security Act \[[42 U.S.C. 430(a)][/us/usc/t42/s430/a]\], the increase in benefits provided by section 2 of this Act \[amending this section and sections 427 and 428 of this title\] shall be considered an increase under section 215(i) of the Social Security Act.”
 
  __Increase of Old-Age or Disability Insurance Benefits Following Increase in Primary Insurance Amount or Entitlement to Benefits on a Higher Amount__ 
 
 [Pub. L. 92–603, title I, § 101(f)][/us/pl/92/603/s101/f], Oct. 30, 1972, [86 Stat. 1334][/us/stat/86/1334], provided that: 
 
-> “Whenever an insured individual is entitled to benefits for a month which are based on a primary insurance amount under paragraph (1) or paragraph (3) of section 215(a) of the Social Security Act \[subsec. (a)(1) or (3) of this section\] and for the following month such primary insurance amount is increased or such individual becomes entitled to benefits on a higher primary insurance amount under a different paragraph of such section 215(a), such individual’s old-age or disability insurance benefit (beginning with the effective month of the increased primary insurance amount) shall be increased by an amount equal to the difference between the higher primary insurance amount and the primary insurance amount on which such benefit was based for the month prior to such effective month, after the application of section 202(q) of such Act \[[section 402(q) of this title][/us/usc/t42/s402/q]\] where applicable, to such difference.”
+> “Whenever an insured individual is entitled to benefits for a month which are based on a primary insurance amount under paragraph (1) or paragraph (3) of section 215(a) of the Social Security Act \[[42 U.S.C. 415(a)(1)][/us/usc/t42/s415/a/1], (3)\] and for the following month such primary insurance amount is increased or such individual becomes entitled to benefits on a higher primary insurance amount under a different paragraph of such section 215(a), such individual’s old-age or disability insurance benefit (beginning with the effective month of the increased primary insurance amount) shall be increased by an amount equal to the difference between the higher primary insurance amount and the primary insurance amount on which such benefit was based for the month prior to such effective month, after the application of section 202(q) of such Act \[[42 U.S.C. 402(q)][/us/usc/t42/s402/q]\] where applicable, to such difference.”
 
  __Table Modification and Extension; Effective Date; Publication in Federal Register__ 
 
-    [Pub. L. 93–66, title II, § 203(f)][/us/pl/93/66/s203/f], July 9, 1973, [87 Stat. 153][/us/stat/87/153], provided that effective June 1, 1974, the Secretary of Health, Education, and Welfare would prescribe and publish in the Federal Register all necessary modifications and extensions in the table formerly contained in subsec. (a) of this section.
+    [Pub. L. 93–66, title II, § 203(f)][/us/pl/93/66/s203/f], July 9, 1973, [87 Stat. 153][/us/stat/87/153], provided that effective June 1, 1974, the Secretary of Health, Education, and Welfare \[now Health and Human Services\] would prescribe and publish in the Federal Register all necessary modifications and extensions in the table formerly contained in subsec. (a) of this section.
 
  __Conversion of Disability Insurance Benefits to Old-Age Insurance Benefits__ 
 
 [Pub. L. 92–5, title II, § 201(f)][/us/pl/92/5/s201/f], Mar. 17, 1971, [85 Stat. 9][/us/stat/85/9], provided that: 
 
-> “If an individual was entitled to a disability insurance benefit under section 223 of the Social Security Act \[[section 423 of this title][/us/usc/t42/s423]\] for December 1970 on the basis of an application filed in or after the month in which this Act is enacted \[March 1971\], and became entitled to old-age insurance benefits under section 202(a) of such Act \[[section 402(a) of this title][/us/usc/t42/s402/a]\] for January 1971, then, for purposes of section 215(a)(4) of the Social Security Act \[subsec. (a)(4) of this section\] (if applicable), the amount in column IV of the table appearing in such section 215(c) \[probably means section 215(a) which is subsec. (a) of this section\] for such individual shall be the amount in such column on the line on which in column II appears his primary insurance amount (as determined under section 215(c) of such Act \[subsec. (c) of this section\]) instead of the amount in column IV equal to the primary insurance amount on which his disability insurance benefit is based.”
+> “If an individual was entitled to a disability insurance benefit under section 223 of the Social Security Act \[[42 U.S.C. 423][/us/usc/t42/s423]\] for December 1970 on the basis of an application filed in or after the month in which this Act is enacted \[March 1971\], and became entitled to old-age insurance benefits under section 202(a) of such Act \[[42 U.S.C. 402(a)][/us/usc/t42/s402/a]\] for January 1971, then, for purposes of section 215(a)(4) of the Social Security Act \[[42 U.S.C. 415(a)(4)][/us/usc/t42/s415/a/4]\] (if applicable), the amount in column IV of the table appearing in such section 215(c) \[probably means section 215(a) which is subsec. (a) of this section\] for such individual shall be the amount in such column on the line on which in column II appears his primary insurance amount (as determined under section 215(c) of such Act \[[42 U.S.C. 415(c)][/us/usc/t42/s415/c]\]) instead of the amount in column IV equal to the primary insurance amount on which his disability insurance benefit is based.”
 
 [Pub. L. 91–172, title X, § 1002(f)][/us/pl/91/172/s1002/f], Dec. 30, 1969, [83 Stat. 740][/us/stat/83/740], provided that: 
 
-> “If an individual was entitled to a disability insurance benefit under section 223 of the Social Security Act \[[section 423 of this title][/us/usc/t42/s423]\] for December 1969 and became entitled to old-age insurance benefits under section 202(a) of such Act \[[section 402(a) of this title][/us/usc/t42/s402/a]\] for January 1970, or he died in such month, then, for purposes of section 215(a)(4) of the Social Security Act \[subsec. (a)(4) of this section\] (if applicable), the amount in column IV of the table appearing in such section 215(a) for such individual shall be the amount in such column on the line on which in column II appears his primary insurance amount (as determined under section 215(c) of such Act) instead of the amount in column IV equal to the primary insurance amount on which his disability insurance benefit is based.”
+> “If an individual was entitled to a disability insurance benefit under section 223 of the Social Security Act \[[42 U.S.C. 423][/us/usc/t42/s423]\] for December 1969 and became entitled to old-age insurance benefits under section 202(a) of such Act \[[42 U.S.C. 402(a)][/us/usc/t42/s402/a]\] for January 1970, or he died in such month, then, for purposes of section 215(a)(4) of the Social Security Act \[[42 U.S.C. 415(a)(4)][/us/usc/t42/s415/a/4]\] (if applicable), the amount in column IV of the table appearing in such section 215(a) for such individual shall be the amount in such column on the line on which in column II appears his primary insurance amount (as determined under section 215(c) of such Act) instead of the amount in column IV equal to the primary insurance amount on which his disability insurance benefit is based.”
 
 [Pub. L. 90–248, title I, § 101(f)][/us/pl/90/248/s101/f], Jan. 2, 1968, [81 Stat. 827][/us/stat/81/827], provided that: 
 
-> “If an individual was entitled to a disability insurance benefit under section 223 of the Social Security Act \[[section 423 of this title][/us/usc/t42/s423]\] for the month of January 1968 and became entitled to old-age insurance benefits under section 202(a) of such Act \[[section 402(a) of this title][/us/usc/t42/s402/a]\] for the month of February 1968, or who died in such month, then, for purposes of section 215(a)(4) of the Social Security Act \[subsec. (a)(4) of this section\] (if applicable) the amount in column IV of the table appearing in such section 215(a) for such individual shall be the amount in such column on the line on which in column II appears his primary insurance amount (as determined under section 215(c) of such Act) instead of the amount in column IV equal to the primary insurance amount on which his disability insurance benefit is based.”
+> “If an individual was entitled to a disability insurance benefit under section 223 of the Social Security Act \[[42 U.S.C. 423][/us/usc/t42/s423]\] for the month of January 1968 and became entitled to old-age insurance benefits under section 202(a) of such Act \[[42 U.S.C. 402(a)][/us/usc/t42/s402/a]\] for the month of February 1968, or who died in such month, then, for purposes of section 215(a)(4) of the Social Security Act \[[42 U.S.C. 415(a)(4)][/us/usc/t42/s415/a/4]\] (if applicable) the amount in column IV of the table appearing in such section 215(a) for such individual shall be the amount in such column on the line on which in column II appears his primary insurance amount (as determined under section 215(c) of such Act) instead of the amount in column IV equal to the primary insurance amount on which his disability insurance benefit is based.”
 
 [Pub. L. 89–97, title III, § 301(e)][/us/pl/89/97/s301/e], July 30, 1965, [79 Stat. 364][/us/stat/79/364], provided that: 
 
-> “If an individual is entitled to a disability insurance benefit under section 223 of the Social Security Act \[[section 423 of this title][/us/usc/t42/s423]\] for December 1964 on the basis of an application filed after enactment of this Act \[July 30, 1965\] and is entitled to old-age insurance benefits under section 202(a) of such Act \[[section 402(a) of this title][/us/usc/t42/s402/a]\] for January 1965, then, for purposes of section 215(a)(4) of the Social Security Act \[subsec. (a)(4) of this section\] (if applicable) the amount in column IV of the table appearing in such section 215(a) for such individual shall be the amount in such column on the line on which in column II appears his primary insurance amount (as determined under section 215(c) of such Act) instead of the amount in column IV equal to his disability insurance benefit.”
+> “If an individual is entitled to a disability insurance benefit under section 223 of the Social Security Act \[[42 U.S.C. 423][/us/usc/t42/s423]\] for December 1964 on the basis of an application filed after enactment of this Act \[July 30, 1965\] and is entitled to old-age insurance benefits under section 202(a) of such Act \[[42 U.S.C. 402(a)][/us/usc/t42/s402/a]\] for January 1965, then, for purposes of section 215(a)(4) of the Social Security Act \[[42 U.S.C. 415(a)(4)][/us/usc/t42/s415/a/4]\] (if applicable) the amount in column IV of the table appearing in such section 215(a) for such individual shall be the amount in such column on the line on which in column II appears his primary insurance amount (as determined under section 215(c) of such Act) instead of the amount in column IV equal to his disability insurance benefit.”
 
 [Pub. L. 85–840, title I, § 101(h)][/us/pl/85/840/s101/h], Aug. 28, 1958, [72 Stat. 1018][/us/stat/72/1018], provided that: 
 
-> “If an individual was entitled to a disability insurance benefit under section 223 of the Social Security Act \[[section 423 of this title][/us/usc/t42/s423]\] for December 1958, and became entitled to old-age insurance benefits under section 202(a) of such Act \[[section 402(a) of this title][/us/usc/t42/s402/a]\], or died, in January 1959, then, for purposes of paragraph (4) of section 215(a) of the Social Security Act \[subsec. (a)(4) of this section\], as amended by this Act, the amount in column IV of the table appearing in such section 215(a) for such individual shall be the amount in such column on the line on which in column II appears his primary insurance amount (as determined under subsection (c) of such section 215) instead of the amount in column IV equal to his disability insurance benefit.”
+> “If an individual was entitled to a disability insurance benefit under section 223 of the Social Security Act \[[42 U.S.C. 423][/us/usc/t42/s423]\] for December 1958, and became entitled to old-age insurance benefits under section 202(a) of such Act \[[42 U.S.C. 402(a)][/us/usc/t42/s402/a]\], or died, in January 1959, then, for purposes of paragraph (4) of section 215(a) of the Social Security Act \[[42 U.S.C. 415(a)(4)][/us/usc/t42/s415/a/4]\], as amended by this Act, the amount in column IV of the table appearing in such section 215(a) for such individual shall be the amount in such column on the line on which in column II appears his primary insurance amount (as determined under subsection (c) of such section 215) instead of the amount in column IV equal to his disability insurance benefit.”
 
  __Computation of Primary Insurance Amount for Persons Entitled to Benefits After January 2 and Before February 1968__ 
 
@@ -1611,17 +1611,17 @@ For the purposes of this subchapter—
 
 > “In any case in which—
 
->     “(A) any person became entitled to a monthly benefit under section 202 or 223 of the Social Security Act \[section 402 or 423 of this title\] after the date of enactment of this Act \[Jan. 2, 1968\] and before February 1968, and
+>     “(A) any person became entitled to a monthly benefit under section 202 or 223 of the Social Security Act \[[42 U.S.C. 402][/us/usc/t42/s402] or 423\] after the date of enactment of this Act \[Jan. 2, 1968\] and before February 1968, and
 
->     “(B) the primary insurance amount on which the amount of such benefit is based was determined by applying section 215(d) of the Social Security Act \[subsec. (d) of this section\] as amended by this Act,
+>     “(B) the primary insurance amount on which the amount of such benefit is based was determined by applying section 215(d) of the Social Security Act \[[42 U.S.C. 415(d)][/us/usc/t42/s415/d]\] as amended by this Act,
 
->         such primary insurance amount shall, for purposes of section 215(c) of the Social Security Act \[subsec. (c) of this section\], as amended by this Act, be deemed to have been computed on the basis of the Social Security Act \[this chapter\] in effect prior to the enactment of this Act \[Jan. 2, 1968\].”
+>         such primary insurance amount shall, for purposes of section 215(c) of the Social Security Act \[[42 U.S.C. 415(c)][/us/usc/t42/s415/c]\], as amended by this Act, be deemed to have been computed on the basis of the Social Security Act \[[42 U.S.C. 301][/us/usc/t42/s301] et seq.\] in effect prior to the enactment of this Act \[Jan. 2, 1968\].”
 
  __Computation of Primary Insurance Amount for Certain Individuals Who Were Fully Insured and Had Attained Retirement Age Prior to 1961__ 
 
 [Pub. L. 86–778, title III, § 303(g)(1)][/us/pl/86/778/s303/g/1], Sept. 13, 1960, [74 Stat. 964][/us/stat/74/964], as amended by [Pub. L. 87–64, title I, § 103(d)][/us/pl/87/64/s103/d], June 30, 1961, [75 Stat. 138][/us/stat/75/138]; [Pub. L. 89–97, title III, § 302(f)(6)][/us/pl/89/97/s302/f/6], July 30, 1965, [79 Stat. 366][/us/stat/79/366]; [Pub. L. 90–248, title I, § 155(c)][/us/pl/90/248/s155/c], Jan. 2, 1968, [81 Stat. 866][/us/stat/81/866]; [Pub. L. 92–603, title I, § 104(h)][/us/pl/92/603/s104/h], Oct. 30, 1972, [86 Stat. 1341][/us/stat/86/1341], provided that: 
 
-> “In the case of any individual who both was fully insured and had attained retirement age prior to 1961 and (A) who becomes entitled to old-age insurance benefits after 1960, or (B) who dies after 1960 without being entitled to such benefits, then, notwithstanding the amendments made by the preceding subsections of this section \[amending this section and [section 423 of this title][/us/usc/t42/s423]\], or the amendments made by the Social Security Amendments of 1965, 1967, 1969, and 1972 (and by [Public Law 92–5][/us/pl/92/5]) \[see Tables for classification of [Pub. L. 89–97][/us/pl/89/97], July 30, 1965, [79 Stat. 286][/us/stat/79/286], [Pub. L. 90–248][/us/pl/90/248], Jan. 2, 1968, [81 Stat. 821][/us/stat/81/821], [Pub. L. 91–172, title X][/us/pl/91/172], Dec. 30, 1969, [83 Stat. 737][/us/stat/83/737], [Pub. L. 92–603][/us/pl/92/603], Oct. 30, 1972, [86 Stat. 1329][/us/stat/86/1329], [Pub. L. 92–5][/us/pl/92/5], Mar. 17, 1971, [85 Stat. 5][/us/stat/85/5]\] the Secretary shall also compute such individual’s primary insurance amount on the basis of such individual’s average monthly wage determined under the provisions of section 215 of the Social Security Act \[this section\] in effect prior to the enactment of this Act with a closing date determined under section 215(b)(3)(B) of such Act as then in effect, but only if such closing date would have been applicable to such computation had this section not been enacted. If the primary insurance amount resulting from the use of such an average monthly wage is higher than the primary insurance amount resulting from the use of an average monthly wage determined pursuant to the provisions of section 215 of the Social Security Act, as amended by the Social Security Amendments of 1960 \[[Pub. L. 86–778][/us/pl/86/778]\], or (if such individual becomes entitled to old-age insurance benefits after the date of enactment of the Social Security Amendments of 1972 \[Oct. 30, 1972\], or dies after such date without becoming so entitled) as amended by the Social Security Amendments of 1972 \[[Pub. L. 92–603][/us/pl/92/603]\], such higher primary insurance amount shall be the individual’s primary insurance amount for purposes of such section 215. The terms used in this subsection shall have the meaning assigned to them by title II of the Social Security Act \[this subchapter\]; except that the terms ‘fully insured’ and ‘retirement age’ shall have the meaning assigned to them by such title II as in effect on September 13, 1960.”
+> “In the case of any individual who both was fully insured and had attained retirement age prior to 1961 and (A) who becomes entitled to old-age insurance benefits after 1960, or (B) who dies after 1960 without being entitled to such benefits, then, notwithstanding the amendments made by the preceding subsections of this section \[amending this section and [section 423 of this title][/us/usc/t42/s423]\], or the amendments made by the Social Security Amendments of 1965, 1967, 1969, and 1972 (and by [Public Law 92–5][/us/pl/92/5]) \[see Tables for classification of [Pub. L. 89–97][/us/pl/89/97], July 30, 1965, [79 Stat. 286][/us/stat/79/286], [Pub. L. 90–248][/us/pl/90/248], Jan. 2, 1968, [81 Stat. 821][/us/stat/81/821], [Pub. L. 91–172, title X][/us/pl/91/172], Dec. 30, 1969, [83 Stat. 737][/us/stat/83/737], [Pub. L. 92–603][/us/pl/92/603], Oct. 30, 1972, [86 Stat. 1329][/us/stat/86/1329], [Pub. L. 92–5][/us/pl/92/5], Mar. 17, 1971, [85 Stat. 5][/us/stat/85/5]\] the Secretary shall also compute such individual’s primary insurance amount on the basis of such individual’s average monthly wage determined under the provisions of section 215 of the Social Security Act \[this section\] in effect prior to the enactment of this Act with a closing date determined under section 215(b)(3)(B) of such Act as then in effect, but only if such closing date would have been applicable to such computation had this section not been enacted. If the primary insurance amount resulting from the use of such an average monthly wage is higher than the primary insurance amount resulting from the use of an average monthly wage determined pursuant to the provisions of section 215 of the Social Security Act, as amended by the Social Security Amendments of 1960 \[[Pub. L. 86–778][/us/pl/86/778]\], or (if such individual becomes entitled to old-age insurance benefits after the date of enactment of the Social Security Amendments of 1972 \[Oct. 30, 1972\], or dies after such date without becoming so entitled) as amended by the Social Security Amendments of 1972 \[[Pub. L. 92–603][/us/pl/92/603]\], such higher primary insurance amount shall be the individual’s primary insurance amount for purposes of such section 215. The terms used in this subsection shall have the meaning assigned to them by title II of the Social Security Act \[[42 U.S.C. 401][/us/usc/t42/s401] et seq.\]; except that the terms ‘fully insured’ and ‘retirement age’ shall have the meaning assigned to them by such title II as in effect on September 13, 1960.”
 
  __Disregarding of Income of OASDI Recipients and Railroad Retirement Recipients in Determining Need for Public Assistance__ 
 
@@ -1631,11 +1631,11 @@ For the purposes of this subchapter—
 
 [Pub. L. 92–5, title II, § 201(g)][/us/pl/92/5/s201/g], Mar. 17, 1971, [85 Stat. 9][/us/stat/85/9], provided that: 
 
-> “Notwithstanding the provisions of sections 2(a)(10), 402(a)(7), 1002(a)(8), 1402(a)(8), and 1602(a)(13) and (14) of the Social Security Act \[sections 302(a)(10), 602(a)(7), 1202(a)(8), 1352(a)(8), and 1382(a)(13) and (14) of this title\] each State, in determining need for aid or assistance under a State plan approved under title I, X, XIV, or XVI, or part A of title IV, of such Act \[subchapter I, X, XIV, or XVI, or part A of subchapter IV of this chapter\], may disregard (and the plan may be deemed to require the State to disregard), in addition to any other amounts which the State is required or permitted to disregard in determining such need, any amount paid to an individual under title II of such Act \[subchapter II of this chapter\] (or under the Railroad Retirement Act of 1937 \[section 228a et seq. of Title 45, Railroads\] by reason of the first proviso in section 3(e) thereof \[[section 228c(e) of Title 45][/us/usc/t45/s228c/e]\]), in any month after the month in which this Act is enacted \[March 1971\], to the extent that (1) such payment is attributable to the increase in monthly benefits under the old-age, survivors, and disability insurance system for January, February, March, or April 1971 resulting from the enactment of this title, and (2) the amount of such increase is paid separately from the rest of the monthly benefit of such individual for January, February, March, or April 1971.”
+> “Notwithstanding the provisions of sections 2(a)(10), 402(a)(7), 1002(a)(8), 1402(a)(8), and 1602(a)(13) and (14) of the Social Security Act \[sections 302(a)(10), 602(a)(7), 1202(a)(8), 1352(a)(8), and 1382(a)(13) and (14) of this title\] each State, in determining need for aid or assistance under a State plan approved under title I, X, XIV, or XVI, or part A of title IV, of such Act \[[42 U.S.C. 301][/us/usc/t42/s301] et seq., 1201 et seq., 1351 et seq., 1381 et seq., or 601 et seq.\], may disregard (and the plan may be deemed to require the State to disregard), in addition to any other amounts which the State is required or permitted to disregard in determining such need, any amount paid to an individual under title II of such Act \[[42 U.S.C. 401][/us/usc/t42/s401] et seq.\] (or under the Railroad Retirement Act of 1937 \[[45 U.S.C. 228a][/us/usc/t45/s228a] et seq.\] by reason of the first proviso in section 3(e) thereof \[[45 U.S.C. 228c(e)][/us/usc/t45/s228c/e]\]), in any month after the month in which this Act is enacted \[March 1971\], to the extent that (1) such payment is attributable to the increase in monthly benefits under the old-age, survivors, and disability insurance system for January, February, March, or April 1971 resulting from the enactment of this title, and (2) the amount of such increase is paid separately from the rest of the monthly benefit of such individual for January, February, March, or April 1971.”
 
 [Pub. L. 91–172, title X, § 1006][/us/pl/91/172/s1006], Dec. 30, 1969, [83 Stat. 741][/us/stat/83/741], as amended by [Pub. L. 91–306, § 2(a)(1)][/us/pl/91/306/s2/a/1], July 6, 1970, [84 Stat. 407][/us/stat/84/407], provided that: 
 
-> “Notwithstanding the provisions of sections 2(a)(10), 402(a)(7), 1002(a)(8), 1402(a)(8), and 1602(a)(13) and (14) of the Social Security Act \[sections 302(a)(10), 602(a)(7), 1202(a)(8), 1352(a)(8), and 1382(a)(13) and (14) of this title\], each State, in determining need for aid or assistance under a State plan approved under title I, X, XIV, or XVI \[subchapters I, X, XIV, or XVI of this chapter\], or part A of title IV, of such Act \[part A of subchapter IV of this chapter\], shall disregard (and the plan shall be deemed to require the State to disregard), in addition to any other amounts which the State is required or permitted to disregard in determining such need, any amount paid to any individual (1) under title II of such Act \[this subchapter\] (or under the Railroad Retirement Act of 1937 \[section 228a et seq. of Title 45, Railroads\] by reason of the first proviso in section 3(e) thereof \[[section 228c(e) of Title 45][/us/usc/t45/s228c/e]\]), in any month after December 1969, to the extent that (a) such payment is attributable to the increase in monthly benefits under the old-age, survivors, and disability insurance system for January or February 1970 resulting from the enactment of this title, and (b) the amount of such increase is paid separately from the rest of the monthly benefit of such individual for January or February 1970; or (2) as annuity or pension under the Railroad Retirement Act of 1937 or the Railroad Retirement Act of 1935, if such amount is paid in a lump-sum to carry out any retroactive increase in annuities or pensions payable under the Railroad Retirement Act of 1937 or the Railroad Retirement Act of 1935 \[section 215 et seq. of Title 45\] brought about by reason of the enactment (after May 30, 1970 and prior to December 31, 1970) of any Act which increases, retroactively, the amount of such annuities or pensions.”
+> “Notwithstanding the provisions of sections 2(a)(10), 402(a)(7), 1002(a)(8), 1402(a)(8), and 1602(a)(13) and (14) of the Social Security Act \[[42 U.S.C. 302(a)(10)][/us/usc/t42/s302/a/10], 602(a)(7), 1202(a)(8), 1352(a)(8), and 1382(a)(13), (14)\], each State, in determining need for aid or assistance under a State plan approved under title I, X, XIV, or XVI \[[42 U.S.C. 301][/us/usc/t42/s301] et seq., 1201 et seq., 1351 et seq., or 1381 et seq.\], or part A of title IV, of such Act \[[2 U.S.C. 601][/us/usc/t2/s601] et seq.\], shall disregard (and the plan shall be deemed to require the State to disregard), in addition to any other amounts which the State is required or permitted to disregard in determining such need, any amount paid to any individual (1) under title II of such Act \[[42 U.S.C. 401][/us/usc/t42/s401] et seq.\] (or under the Railroad Retirement Act of 1937 \[[45 U.S.C. 228a][/us/usc/t45/s228a] et seq.\] by reason of the first proviso in section 3(e) thereof \[[45 U.S.C. 228c(e)][/us/usc/t45/s228c/e]\]), in any month after December 1969, to the extent that (a) such payment is attributable to the increase in monthly benefits under the old-age, survivors, and disability insurance system for January or February 1970 resulting from the enactment of this title, and (b) the amount of such increase is paid separately from the rest of the monthly benefit of such individual for January or February 1970; or (2) as annuity or pension under the Railroad Retirement Act of 1937 or the Railroad Retirement Act of 1935, if such amount is paid in a lump-sum to carry out any retroactive increase in annuities or pensions payable under the Railroad Retirement Act of 1937 or the Railroad Retirement Act of 1935 \[[45 U.S.C. 215][/us/usc/t45/s215] et seq.\] brought about by reason of the enactment (after May 30, 1970 and prior to December 31, 1970) of any Act which increases, retroactively, the amount of such annuities or pensions.”
 
  __Disregarding OASDI Benefit Increases and Child’s Insurance Benefit Payments Beyond Age 18 to the Extent Attributable to Retroactive Effective Date of 1965 Amendments__ 
 
@@ -1645,41 +1645,41 @@ For the purposes of this subchapter—
 
 [Pub. L. 86–778, title III, § 303(g)(2)][/us/pl/86/778/s303/g/2], Sept. 13, 1960, [74 Stat. 964][/us/stat/74/964], provided that: 
 
-> “Notwithstanding the amendments made by the preceding subsections of this section \[amending this section and [section 423 of this title][/us/usc/t42/s423]\], in the case of any individual who was entitled (without regard to the provisions of section 223(b) of the Social Security Act \[[section 423(b) of this title][/us/usc/t42/s423/b]\]) to a disability insurance benefit under such section 223 for the month before the month in which he became entitled to an old-age insurance benefit under section 202(a) of such Act \[[section 402(a) of this title][/us/usc/t42/s402/a]\], or in which he died, and such disability insurance benefit was based upon a primary insurance amount determined under the provisions of section 215 of the Social Security Act \[this section\] in effect prior to the enactment of this Act, the Secretary shall, in applying the provisions of such section 215(a) (except paragraph (4) thereof), for purposes of determining benefits payable under section 202 of such Act on the basis of such individual’s wages and self-employment income, determine such individual’s average monthly wage under the provisions of section 215 of the Social Security Act \[this section\] in effect prior to the enactment of this Act \[Sept. 13, 1960\]. The provisions of this paragraph shall not apply with respect to any such individual, entitled to such old-age insurance benefits, (i) who applies, after 1960, for a recomputation (to which he is entitled) of his primary insurance amount under section 215(f)(2) of such Act \[subsec. (f)(2) of this section\], or (ii) who dies after 1960 and meets the conditions for a recomputation of his primary insurance amount under section 215(f)(4) of such Act.”
+> “Notwithstanding the amendments made by the preceding subsections of this section \[amending this section and [section 423 of this title][/us/usc/t42/s423]\], in the case of any individual who was entitled (without regard to the provisions of section 223(b) of the Social Security Act \[[42 U.S.C. 423(b)][/us/usc/t42/s423/b]\]) to a disability insurance benefit under such section 223 for the month before the month in which he became entitled to an old-age insurance benefit under section 202(a) of such Act \[[42 U.S.C. 402(a)][/us/usc/t42/s402/a]\], or in which he died, and such disability insurance benefit was based upon a primary insurance amount determined under the provisions of section 215 of the Social Security Act \[[42 U.S.C. 415][/us/usc/t42/s415]\] in effect prior to the enactment of this Act, the Secretary shall, in applying the provisions of such section 215(a) (except paragraph (4) thereof), for purposes of determining benefits payable under section 202 of such Act on the basis of such individual’s wages and self-employment income, determine such individual’s average monthly wage under the provisions of section 215 of the Social Security Act in effect prior to the enactment of this Act \[Sept. 13, 1960\]. The provisions of this paragraph shall not apply with respect to any such individual, entitled to such old-age insurance benefits, (i) who applies, after 1960, for a recomputation (to which he is entitled) of his primary insurance amount under section 215(f)(2) of such Act \[[42 U.S.C. 415(f)(2)][/us/usc/t42/s415/f/2]\], or (ii) who dies after 1960 and meets the conditions for a recomputation of his primary insurance amount under section 215(f)(4) of such Act.”
 
  __Average Monthly Wage for Certain Individuals Entitled to Monthly Benefits or to Recomputation of Primary Insurance Amount for Months Prior to January 1961__ 
 
 [Pub. L. 86–778, title III, § 303(j)][/us/pl/86/778/s303/j], Sept. 13, 1960, [74 Stat. 966][/us/stat/74/966], provided that: 
 
-> “In the case of an individual whose average monthly wage is computed under the provisions of section 215(b) of the Social Security Act \[subsec. (b) of this section\], as amended by this Act, and—
+> “In the case of an individual whose average monthly wage is computed under the provisions of section 215(b) of the Social Security Act \[[42 U.S.C. 415(b)][/us/usc/t42/s415/b]\], as amended by this Act, and—
 
->     “(1) who is entitled, by reason of the provisions of section 202(j)(1) or section 223(b) of the Social Security Act \[section 402(j)(1) or 423(b) of this title\], to a monthly benefit for any month prior to January 1961, or
+>     “(1) who is entitled, by reason of the provisions of section 202(j)(1) or section 223(b) of the Social Security Act \[[42 U.S.C. 402(j)(1)][/us/usc/t42/s402/j/1] or 423(b)\], to a monthly benefit for any month prior to January 1961, or
 
->     “(2) who is (or would, but for the fact that such recomputation would not result in a higher primary insurance amount for such individual, be) entitled, by reason of section 215(f) of the Social Security Act \[subsec. (f) of this section\], to have his primary insurance amount recomputed effective for a month prior to January 1961,
+>     “(2) who is (or would, but for the fact that such recomputation would not result in a higher primary insurance amount for such individual, be) entitled, by reason of section 215(f) of the Social Security Act \[[42 U.S.C. 415(f)][/us/usc/t42/s415/f]\], to have his primary insurance amount recomputed effective for a month prior to January 1961,
 
->         his average monthly wage as determined under the provisions of such section 215(b) \[subsec. (b) of this section\] shall be his average monthly wage for the purposes of determining his primary insurance amount for such prior month.”
+>         his average monthly wage as determined under the provisions of such section 215(b) \[[42 U.S.C. 415(b)][/us/usc/t42/s415/b]\] shall be his average monthly wage for the purposes of determining his primary insurance amount for such prior month.”
 
  __Lag Recomputation Preserved for Certain Individuals Eligible or Dead Prior to September 1954__ 
 
 [Act Sept. 1, 1954, ch. 1206][/us/act/1954-09-01/ch1206], title I, § 102(e)(8), [68 Stat. 1070][/us/stat/68/1070], as amended by [Pub. L. 86–778, title III, § 304(c)][/us/pl/86/778/s304/c], Sept. 13, 1960, [74 Stat. 966][/us/stat/74/966], provided that: 
 
-> “In the case of an individual who became (without the application of section 202(j)(1) \[[section 402(j)(1) of this title][/us/usc/t42/s402/j/1]\]) entitled to old-age insurance benefits or died prior to September 1954, the provisions of section 215(f)(3) \[subsec. (f)(3) of this section\] as in effect prior to the enactment of this Act \[Sept. 1, 1954\] shall be applicable as though this Act had not been enacted but only if such individual files the application referred to in subparagraph (A) of such section prior to January 1961 or (if he dies without filing such application) his death occurred prior to January 1961.”
+> “In the case of an individual who became (without the application of section 202(j)(1) \[[42 U.S.C. 402(j)(1)][/us/usc/t42/s402/j/1]\]) entitled to old-age insurance benefits or died prior to September 1954, the provisions of section 215(f)(3) \[[42 U.S.C. 415(f)(3)][/us/usc/t42/s415/f/3]\] as in effect prior to the enactment of this Act \[Sept. 1, 1954\] shall be applicable as though this Act had not been enacted but only if such individual files the application referred to in subparagraph (A) of such section prior to January 1961 or (if he dies without filing such application) his death occurred prior to January 1961.”
 
  __Right to Recomputation Under Law Prior to Enactment of Act__  __September 1, 1954__ 
 
 [Act Sept. 1, 1954, ch. 1206][/us/act/1954-09-01/ch1206], title I, § 102(e)(5), [68 Stat. 1068][/us/stat/68/1068], as amended by [Pub. L. 86–778, title III, § 304(b)][/us/pl/86/778/s304/b], Sept. 13, 1960, [74 Stat. 966][/us/stat/74/966], provided that:
 
->     “(A) In the case of any individual who, upon filing application therefor before September 1954, would (but for the provisions of section 215(f)(6) of the Social Security Act \[subsec. (f)(6) of this section\]) have been entitled to a recomputation under subparagraph (A) or (B) of section 215(f)(2) of such Act as in effect prior to the enactment of this Act \[Sept. 1, 1954\], the Secretary shall recompute such individual’s primary insurance amount, but only if he files an application therefor or, in case he died before filing such application, an application for monthly benefits or a lump-sum death payment on the basis of his wages and self-employment income is filed. Such recomputation shall be made only as provided in subsection (a)(2) of section 215 of the Social Security Act, as amended by this Act, through the use of a primary insurance amount determined under subsection (d)(6) of such section in the same manner as for an individual to whom subsection (a)(1) of such section, as in effect prior to the enactment of this Act \[Sept. 1, 1954\], is applicable; and such recomputation shall take into account only such wages and self-employment income as would be taken into account under section 215(b) of the Social Security Act if the month in which the application for recomputation is filed, or if the individual died without filing the application for recomputation, the month in which he died, were deemed to be the month in which he became entitled to old-age insurance benefits. In the case of monthly benefits, such recomputation shall be effective for and after the month in which such application for recomputation is filed or, if the individual has died without filing the application, for and after the month in which the person filing the application for monthly survivor benefits becomes entitled to such benefits.
+>     “(A) In the case of any individual who, upon filing application therefor before September 1954, would (but for the provisions of section 215(f)(6) of the Social Security Act \[[42 U.S.C. 415(f)(6)][/us/usc/t42/s415/f/6]\]) have been entitled to a recomputation under subparagraph (A) or (B) of section 215(f)(2) of such Act as in effect prior to the enactment of this Act \[Sept. 1, 1954\], the Secretary shall recompute such individual’s primary insurance amount, but only if he files an application therefor or, in case he died before filing such application, an application for monthly benefits or a lump-sum death payment on the basis of his wages and self-employment income is filed. Such recomputation shall be made only as provided in subsection (a)(2) of section 215 of the Social Security Act, as amended by this Act, through the use of a primary insurance amount determined under subsection (d)(6) of such section in the same manner as for an individual to whom subsection (a)(1) of such section, as in effect prior to the enactment of this Act \[Sept. 1, 1954\], is applicable; and such recomputation shall take into account only such wages and self-employment income as would be taken into account under section 215(b) of the Social Security Act if the month in which the application for recomputation is filed, or if the individual died without filing the application for recomputation, the month in which he died, were deemed to be the month in which he became entitled to old-age insurance benefits. In the case of monthly benefits, such recomputation shall be effective for and after the month in which such application for recomputation is filed or, if the individual has died without filing the application, for and after the month in which the person filing the application for monthly survivor benefits becomes entitled to such benefits.
 
 >     “(B)
 
 >      In the case of—
 
->         “(i) any individual who is entitled to a recomputation under subparagraph (A) of section 215(f)(2) of the Social Security Act \[subsec. (f)(2)(A) of this section\] as in effect prior to the enactment of this Act \[Sept. 1, 1954\] on the basis of an application filed after August 1954, or who died after such month leaving any survivors entitled to a recomputation under section 215(f)(4) of the Social Security Act as in effect prior to the enactment of this Act on the basis of his wages and self-employment income, and whose sixth quarter of coverage after 1950 was acquired after August 1954 or with respect to whom the twelfth month referred to in such subparagraph (A) occurred after such month, and
+>         “(i) any individual who is entitled to a recomputation under subparagraph (A) of section 215(f)(2) of the Social Security Act \[[42 U.S.C. 415(f)(2)(A)][/us/usc/t42/s415/f/2/A]\] as in effect prior to the enactment of this Act \[Sept. 1, 1954\] on the basis of an application filed after August 1954, or who died after such month leaving any survivors entitled to a recomputation under section 215(f)(4) of the Social Security Act as in effect prior to the enactment of this Act on the basis of his wages and self-employment income, and whose sixth quarter of coverage after 1950 was acquired after August 1954 or with respect to whom the twelfth month referred to in such subparagraph (A) occurred after such month, and
 
->         “(ii) any individual who is entitled to a recomputation under section 215(f)(2)(B) of the Social Security Act \[subsec. (f)(2)(B) of this section\] as is in effect prior to the enactment of this Act \[Sept. 1, 1954\] on the basis of an application filed after August 1954, or who died after August 1954 leaving any survivors entitled to a recomputation under section 215(f)(4) of the Social Security Act as in effect prior to the enactment of this Act on the basis of his wages and self-employment income, and whose sixth quarter of coverage after 1950 was acquired after August 1954 or who did not attain the age of seventy-five prior to September 1954, the recomputation of his primary insurance amount shall be made in the manner provided in section 215 of the Social Security Act \[this section\], as amended by this Act, for computation of such amount, except that his closing date, for purposes of subsection (b) of such section 215, shall be determined as though he became entitled to old-age insurance benefits in the month in which he filed such application for or, if he has died, in the month in which he died. In the case of monthly benefits, such recomputation shall be effective for and after the month in which such application for recomputation is filed or, if the individual has died without filing the application, for and after the month in which the person filing the application for monthly survivors benefits becomes entitled to such benefits.
+>         “(ii) any individual who is entitled to a recomputation under section 215(f)(2)(B) of the Social Security Act \[[42 U.S.C. 415(f)(2)(B)][/us/usc/t42/s415/f/2/B]\] as is in effect prior to the enactment of this Act \[Sept. 1, 1954\] on the basis of an application filed after August 1954, or who died after August 1954 leaving any survivors entitled to a recomputation under section 215(f)(4) of the Social Security Act as in effect prior to the enactment of this Act on the basis of his wages and self-employment income, and whose sixth quarter of coverage after 1950 was acquired after August 1954 or who did not attain the age of seventy-five prior to September 1954, the recomputation of his primary insurance amount shall be made in the manner provided in section 215 of the Social Security Act \[[42 U.S.C. 415][/us/usc/t42/s415]\], as amended by this Act, for computation of such amount, except that his closing date, for purposes of subsection (b) of such section 215, shall be determined as though he became entitled to old-age insurance benefits in the month in which he filed such application for or, if he has died, in the month in which he died. In the case of monthly benefits, such recomputation shall be effective for and after the month in which such application for recomputation is filed or, if the individual has died without filing the application, for and after the month in which the person filing the application for monthly survivors benefits becomes entitled to such benefits.
 
->     “(C) An individual or, in case of his death, his survivors entitled to a lump-sum death payment or to monthly benefits under section 202 of the Social Security Act on the basis of his wages and self-employment income shall be entitled to a recomputation of his primary insurance amount under section 215(f)(2) or section 215(f)(4) of the Social Security Act \[subsec. (f)(2) or (4) of this section\] as in effect prior to the date of enactment of this Act \[Sept. 1, 1954\] only if (i) he had not less than six quarters of coverage in the period after 1950 and prior to January 1, 1955, and (ii) either the twelfth month referred to in subparagraph (A) of such section 215(f)(2) occurred prior to January 1, 1955, or he attained the age of 75 prior to 1955, and (iii) he meets the other conditions of entitlement to such a recomputation. No individual shall be entitled to a computation under subparagraph (A) or (B) of this paragraph if his primary insurance amount has previously been recomputed under either of such subparagraphs.
+>     “(C) An individual or, in case of his death, his survivors entitled to a lump-sum death payment or to monthly benefits under section 202 of the Social Security Act on the basis of his wages and self-employment income shall be entitled to a recomputation of his primary insurance amount under section 215(f)(2) or section 215(f)(4) of the Social Security Act \[[42 U.S.C. 415(f)(2)][/us/usc/t42/s415/f/2], (4)\] as in effect prior to the date of enactment of this Act \[Sept. 1, 1954\] only if (i) he had not less than six quarters of coverage in the period after 1950 and prior to January 1, 1955, and (ii) either the twelfth month referred to in subparagraph (A) of such section 215(f)(2) occurred prior to January 1, 1955, or he attained the age of 75 prior to 1955, and (iii) he meets the other conditions of entitlement to such a recomputation. No individual shall be entitled to a computation under subparagraph (A) or (B) of this paragraph if his primary insurance amount has previously been recomputed under either of such subparagraphs.
 
 >     “(D) Notwithstanding the provisions of subparagraphs (A), (B), and (C), the primary insurance amount of an individual shall not be recomputed under such provisions unless such individual files the application referred to in subparagraph (A) or (B) prior to January 1961 or, if he dies without filing such application, his death occurred prior to January 1961.”
 
@@ -1687,61 +1687,61 @@ For the purposes of this subchapter—
 
 [Pub. L. 86–778, title III, § 303(h)][/us/pl/86/778/s303/h], Sept. 13, 1960, [74 Stat. 965][/us/stat/74/965], provided that: 
 
-> “In any case where application for recomputation under section 215(f)(3) of the Social Security Act \[subsec. (f)(3) of this section\] is filed on or after the date of the enactment of this Act \[Sept. 13, 1960\] with respect to an individual for whom the last previous computation of the primary insurance amount was based on an application filed prior to 1961, or who died before 1961, the provisions of section 215 of such Act \[this section\] as in effect prior to the enactment of this Act shall apply except that—
+> “In any case where application for recomputation under section 215(f)(3) of the Social Security Act \[[42 U.S.C. 415(f)(3)][/us/usc/t42/s415/f/3]\] is filed on or after the date of the enactment of this Act \[Sept. 13, 1960\] with respect to an individual for whom the last previous computation of the primary insurance amount was based on an application filed prior to 1961, or who died before 1961, the provisions of section 215 of such Act \[[42 U.S.C. 415][/us/usc/t42/s415]\] as in effect prior to the enactment of this Act shall apply except that—
 
->     “(1) such recomputation shall be made as provided in section 215(a) of the Social Security Act \[subsec. (a) of this section\] (as in effect prior to the enactment of this Act) and as though such individual first became entitled to old-age insurance benefits in the month in which he filed his application for such recomputation or died without filing such an application, and his closing date for such purposes shall be as specified in such section 215(f)(3); and
+>     “(1) such recomputation shall be made as provided in section 215(a) of the Social Security Act \[[42 U.S.C. 415(a)][/us/usc/t42/s415/a]\] (as in effect prior to the enactment of this Act) and as though such individual first became entitled to old-age insurance benefits in the month in which he filed his application for such recomputation or died without filing such an application, and his closing date for such purposes shall be as specified in such section 215(f)(3); and
 
 >     “(2)
 
->      the provisions of section 215(b)(4) of the Social Security Act \[subsec. (b)(4) of this section\] (as in effect prior to the enactment of this Act) shall apply only if they were applicable to the last previous computation of such individual’s primary insurance amount, or would have been applicable to such computation if there had been taken into account—
+>      the provisions of section 215(b)(4) of the Social Security Act \[[42 U.S.C. 415(b)(4)][/us/usc/t42/s415/b/4]\] (as in effect prior to the enactment of this Act) shall apply only if they were applicable to the last previous computation of such individual’s primary insurance amount, or would have been applicable to such computation if there had been taken into account—
 
 >         “(A) his wages and self-employment income in the year in which he became entitled to old-age insurance benefits or filed application for the last previous recomputation of his primary insurance amount, where he is living at the time of the application for recomputation under this subsection, or
 
 >         “(B) his wages and self-employment income in the year in which he died without becoming entitled to old-age insurance benefits, or (if he was entitled to such benefits) the year in which application was filed for the last previous computation of his primary insurance amount or in which he died, whichever first occurred, where he has died at the time of the application for such recomputation.
 
->         If the primary insurance amount of an individual was recomputed under section 215(f)(3) of the Social Security Act \[subsec. (f)(3) of this section\] as in effect prior to the enactment of this Act, and such amount would have been larger if the recomputation had been made under such section as modified by this subsection, then the Secretary shall recompute such primary insurance amount under such section as so modified, but only if an application for such recomputation is filed on or after the date of the enactment of this Act \[Sept. 13, 1960\]. A recomputation under the preceding sentence shall be effective for and after the first month for which the last previous recomputation of such individual’s primary insurance amount under such section 215 \[this section\] was effective, but in no event for any month prior to the twenty-fourth month before the month in which the application for a recomputation is filed under the preceding sentence.”
+>         If the primary insurance amount of an individual was recomputed under section 215(f)(3) of the Social Security Act \[[42 U.S.C. 415(f)(3)][/us/usc/t42/s415/f/3]\] as in effect prior to the enactment of this Act, and such amount would have been larger if the recomputation had been made under such section as modified by this subsection, then the Secretary shall recompute such primary insurance amount under such section as so modified, but only if an application for such recomputation is filed on or after the date of the enactment of this Act \[Sept. 13, 1960\]. A recomputation under the preceding sentence shall be effective for and after the first month for which the last previous recomputation of such individual’s primary insurance amount under such section 215 \[[42 U.S.C. 415][/us/usc/t42/s415]\] was effective, but in no event for any month prior to the twenty-fourth month before the month in which the application for a recomputation is filed under the preceding sentence.”
 
  __Special Starting and Closing Dates for Certain Individuals for Computation of 1957 Benefit Amounts__ 
 
 [Act Aug. 1, 1956, ch. 836][/us/act/1956-08-01/ch836], title I, § 110, [70 Stat. 830][/us/stat/70/830], provided that: 
 
-> “In the case of an individual who died or became (without the application of section 202(j)(1) of the Social Security Act \[[section 402(j)(1) of this title][/us/usc/t42/s402/j/1]\]) entitled to old-age insurance benefits in 1957 and with respect to whom not less than six of the quarters elapsing after 1955 and prior to the quarter following the quarter in which he died or became entitled to old-age insurance benefits, whichever first occurred, are quarters of coverage, his primary insurance amount shall be computed under section 215(a)(1)(A) of such Act \[subsec. (a)(1)(A) of this section\], with a starting date of December 31, 1955, and a closing date of July 1, 1957, but only if it would result in a higher primary insurance amount. For the purposes of section 215(f)(3)(C) of such Act, the determination of an individual’s closing date under the preceding sentence shall be considered as a determination of the individual’s closing date under section 215(b)(3)(A) of such Act and the recomputation provided for by such section 215(f)(3)(C) shall be made using July 1, 1957, as the closing date, but only if it would result in a higher primary insurance amount. In any such computation on the basis of a July 1, 1957, closing date, the total of his wages and self-employment income after December 31, 1956, shall, if it is in excess of $2,100, be reduced to such amount.”
+> “In the case of an individual who died or became (without the application of section 202(j)(1) of the Social Security Act \[[42 U.S.C. 402(j)(1)][/us/usc/t42/s402/j/1]\]) entitled to old-age insurance benefits in 1957 and with respect to whom not less than six of the quarters elapsing after 1955 and prior to the quarter following the quarter in which he died or became entitled to old-age insurance benefits, whichever first occurred, are quarters of coverage, his primary insurance amount shall be computed under section 215(a)(1)(A) of such Act \[[42 U.S.C. 415(a)(1)(A)][/us/usc/t42/s415/a/1/A]\], with a starting date of December 31, 1955, and a closing date of July 1, 1957, but only if it would result in a higher primary insurance amount. For the purposes of section 215(f)(3)(C) of such Act, the determination of an individual’s closing date under the preceding sentence shall be considered as a determination of the individual’s closing date under section 215(b)(3)(A) of such Act and the recomputation provided for by such section 215(f)(3)(C) shall be made using July 1, 1957, as the closing date, but only if it would result in a higher primary insurance amount. In any such computation on the basis of a July 1, 1957, closing date, the total of his wages and self-employment income after December 31, 1956, shall, if it is in excess of $2,100, be reduced to such amount.”
 
  __Special Starting and Closing Dates for Certain Individuals for Computation of 1966 Benefit Amounts__ 
 
 [Act Sept. 1, 1954, ch. 1206][/us/act/1954-09-01/ch1206], title I, § 102(e)(6), [68 Stat. 1069][/us/stat/68/1069], provided that: 
 
-> “In the case of an individual who died or became (without the application of section 202(j)(1) of the Social Security Act \[[section 402(j)(1) of this title][/us/usc/t42/s402/j/1]\]) entitled to old-age insurance benefits in 1956 and with respect to whom not less than six of the quarters elapsing after 1954 and prior to the quarter following the quarter in which he died or became entitled to old-age insurance benefits, whichever first occurred, are quarters of coverage, his primary insurance amount shall be computed under section 215(a)(1)(A) of such Act, as amended by this Act \[subsec. (a)(1)(A) of this section\], with a starting date of December 31, 1954, and a closing date of July 1, 1956, but only if it would result in a higher primary insurance amount. For the purposes of section 215(f)(3)(C) of such Act, the determination of an individual’s closing date under the preceding sentence shall be considered as a determination of the individual’s closing date under section 215(b)(3)(A) of such Act, and the recomputation provided for by such section 215(f)(3)(C) shall be made using July 1, 1956, as the closing date, but only if it would result in a higher primary insurance amount. In any such computation on the basis of a July 1, 1956 closing date, the total of his wages and self-employment income after December 31, 1955, shall, if it is in excess of $2,100, be reduced to such amount.”
+> “In the case of an individual who died or became (without the application of section 202(j)(1) of the Social Security Act \[[42 U.S.C. 402(j)(1)][/us/usc/t42/s402/j/1]\]) entitled to old-age insurance benefits in 1956 and with respect to whom not less than six of the quarters elapsing after 1954 and prior to the quarter following the quarter in which he died or became entitled to old-age insurance benefits, whichever first occurred, are quarters of coverage, his primary insurance amount shall be computed under section 215(a)(1)(A) of such Act, as amended by this Act \[[42 U.S.C. 415(a)(1)(A)][/us/usc/t42/s415/a/1/A]\], with a starting date of December 31, 1954, and a closing date of July 1, 1956, but only if it would result in a higher primary insurance amount. For the purposes of section 215(f)(3)(C) of such Act, the determination of an individual’s closing date under the preceding sentence shall be considered as a determination of the individual’s closing date under section 215(b)(3)(A) of such Act, and the recomputation provided for by such section 215(f)(3)(C) shall be made using July 1, 1956, as the closing date, but only if it would result in a higher primary insurance amount. In any such computation on the basis of a July 1, 1956 closing date, the total of his wages and self-employment income after December 31, 1955, shall, if it is in excess of $2,100, be reduced to such amount.”
 
  __Study of Feasibility of Increasing Benefits__ 
 
-    [Act Sept. 1, 1954, ch. 1206][/us/act/1954-09-01/ch1206], title IV, § 404, [68 Stat. 1099][/us/stat/68/1099], authorized the Secretary of Health, Education, and Welfare to conduct a feasibility study with a view toward increasing the minimum old-age insurance benefit under this subchapter to $55, $60, or $75 per month and required him to report the results of his study to the Congress at the earliest practicable date.
+    [Act Sept. 1, 1954, ch. 1206][/us/act/1954-09-01/ch1206], title IV, § 404, [68 Stat. 1099][/us/stat/68/1099], authorized the Secretary of Health, Education, and Welfare \[now Health and Human Services\] to conduct a feasibility study with a view toward increasing the minimum old-age insurance benefit under this subchapter to $55, $60, or $75 per month and required him to report the results of his study to the Congress at the earliest practicable date.
 
  __Change of Wage Closing Date of Certain Individuals Dead or Eligible in 1952 to the First Way of the Quarter of Death or Entitlement__ 
 
 [Act July 18, 1952, ch. 945, § 6(c)][/us/act/1952-07-18/ch945/s6/c], [66 Stat. 777][/us/stat/66/777], provided that: 
 
-> “In the case of an individual who died or became (without the application of section 202(j)(1) of the Social Security Act \[[section 402(j)(1) of this title][/us/usc/t42/s402/j/1]\]) entitled to old-age insurance benefits in 1952 and with respect to whom not less than six of the quarters elapsing after 1950 and prior to the quarter following the quarter in which he died or became entitled to old-age insurance benefits, whichever first occurred, are quarters of coverage, his wage closing date shall be the first day of such quarter of death or entitlement instead of the day specified in section 215(b)(3) of such Act \[subsec. (b)(3) of this section\], but only if it would result in a higher primary insurance amount for such individual. The terms used in this paragraph shall have the same meaning as when used in title II of the Social Security Act \[this subchapter\].”
+> “In the case of an individual who died or became (without the application of section 202(j)(1) of the Social Security Act \[[42 U.S.C. 402(j)(1)][/us/usc/t42/s402/j/1]\]) entitled to old-age insurance benefits in 1952 and with respect to whom not less than six of the quarters elapsing after 1950 and prior to the quarter following the quarter in which he died or became entitled to old-age insurance benefits, whichever first occurred, are quarters of coverage, his wage closing date shall be the first day of such quarter of death or entitlement instead of the day specified in section 215(b)(3) of such Act \[[42 U.S.C. 415(b)(3)][/us/usc/t42/s415/b/3]\], but only if it would result in a higher primary insurance amount for such individual. The terms used in this paragraph shall have the same meaning as when used in title II of the Social Security Act \[[42 U.S.C. 401][/us/usc/t42/s401] et seq.\].”
 
  __Computation of Increased Benefits to Individuals Entitled Thereto for August 1952__ 
 
 [Act July 18, 1952, ch. 945, § 6(e)][/us/act/1952-07-18/ch945/s6/e], [66 Stat. 777][/us/stat/66/777], provided that: 
 
-> “In case the benefit of any individual for any month after August 1952 is computed under section 2(c)(2)(A) of this Act \[set out as a note under this section\] through use of a benefit (after the application of sections 203 and 215(g) of the Social Security Act \[[section 403 of this title][/us/usc/t42/s403] and subsec. (g) of this section\] as in effect prior to the enactment of this Act \[July 18, 1952\]) for August 1952 which could have been derived from either of two (and not more than two) primary insurance amounts, and such primary insurance amounts differ from each other by not more than $0.10, then the benefit of such individual for such month of August 1952 shall, for the purposes of the last sentence of such section 2(c)(2)(A) \[set out as a note under this section\], be deemed to have been derived from the larger of such two primary insurance amounts.”
+> “In case the benefit of any individual for any month after August 1952 is computed under section 2(c)(2)(A) of this Act \[set out as a note under this section\] through use of a benefit (after the application of sections 203 and 215(g) of the Social Security Act \[[42 U.S.C. 403][/us/usc/t42/s403], 415(g)\] as in effect prior to the enactment of this Act \[July 18, 1952\]) for August 1952 which could have been derived from either of two (and not more than two) primary insurance amounts, and such primary insurance amounts differ from each other by not more than $0.10, then the benefit of such individual for such month of August 1952 shall, for the purposes of the last sentence of such section 2(c)(2)(A) \[set out as a note under this section\], be deemed to have been derived from the larger of such two primary insurance amounts.”
 
  __Computation of Increased Benefits for Dependents and Survivors on Benefit Rolls for August 1952__ 
 
 [Act July 18, 1952, ch. 945, § 2(c)(2)][/us/act/1952-07-18/ch945/s2/c/2], [66 Stat. 768][/us/stat/66/768], as amended by act Sept. 1, 1954, § 102(g), eff. Sept. 1, 1954, provided that:
 
->     “(A) In the case of any individual who is (without the application of section 202(j)(1) of the Social Security Act) \[[section 402(j)(1) of this title][/us/usc/t42/s402/j/1]\] entitled to a monthly benefit under subsection (b), (c), (d), (e), (f), (g), or (h) of such section 202 for August 1952, whose benefit for such month is computed through use of a primary insurance amount determined under paragraph (1) or (2) of section 215(c) of such Act \[subsec. (c) of this section\], and who is entitled to such benefit for any succeeding month on the basis of the same wages and self-employment income, the amendments made by this section shall not (subject to the provisions of subparagraph (B) of this paragraph) apply for purposes of computing the amount of such benefit for such succeeding month. The amount of such benefit for such succeeding month shall instead be equal to the larger of (i) 112½ per centum of the amount of such benefit (after the application of sections 203(a) and 215(g) of the Social Security Act \[[section 403(a) of this title][/us/usc/t42/s403/a] and subsec. (g) of this section\] as in effect prior to the enactment of this Act \[July 18, 1952\]) for August 1952, increased, if it is not a multiple of $0.10, to the next higher multiple of $0.10, or (ii) the amount of such benefit (after the application of sections 203(a) and 215(g) of the Social Security Act as in effect prior to the enactment of this Act \[July 18, 1952\]) for August 1952, increased by an amount equal to the product obtained by multiplying $5 by the fraction applied to the primary insurance amount which was used in determining such benefit, and further increased, if such product is not a multiple of $0.10, to the next higher multiple of $0.10. The provisions of section 203(a) of the Social Security Act, as amended by this section (and, for purposes of such section 203(a), the provisions of section 215(c)(4) of the Social Security Act, as amended by this section), shall apply to such benefit as computed under the preceding sentence of this subparagraph, and the resulting amount, if not a multiple of $0.10, shall be increased to the next higher multiple of $0.10.
+>     “(A) In the case of any individual who is (without the application of section 202(j)(1) of the Social Security Act) \[[42 U.S.C. 402(j)(1)][/us/usc/t42/s402/j/1]\] entitled to a monthly benefit under subsection (b), (c), (d), (e), (f), (g), or (h) of such section 202 for August 1952, whose benefit for such month is computed through use of a primary insurance amount determined under paragraph (1) or (2) of section 215(c) of such Act \[[42 U.S.C. 415(c)][/us/usc/t42/s415/c]\], and who is entitled to such benefit for any succeeding month on the basis of the same wages and self-employment income, the amendments made by this section shall not (subject to the provisions of subparagraph (B) of this paragraph) apply for purposes of computing the amount of such benefit for such succeeding month. The amount of such benefit for such succeeding month shall instead be equal to the larger of (i) 112½ per centum of the amount of such benefit (after the application of sections 203(a) and 215(g) of the Social Security Act \[[42 U.S.C. 403(a)][/us/usc/t42/s403/a], 415(g)\] as in effect prior to the enactment of this Act \[July 18, 1952\]) for August 1952, increased, if it is not a multiple of $0.10, to the next higher multiple of $0.10, or (ii) the amount of such benefit (after the application of sections 203(a) and 215(g) of the Social Security Act as in effect prior to the enactment of this Act \[July 18, 1952\]) for August 1952, increased by an amount equal to the product obtained by multiplying $5 by the fraction applied to the primary insurance amount which was used in determining such benefit, and further increased, if such product is not a multiple of $0.10, to the next higher multiple of $0.10. The provisions of section 203(a) of the Social Security Act, as amended by this section (and, for purposes of such section 203(a), the provisions of section 215(c)(4) of the Social Security Act, as amended by this section), shall apply to such benefit as computed under the preceding sentence of this subparagraph, and the resulting amount, if not a multiple of $0.10, shall be increased to the next higher multiple of $0.10.
 
->     “(B) The provisions of subparagraph (A) shall cease to apply to the benefit of any individual under title II of the Social Security Act \[this subchapter\] for any month after August 1954.”
+>     “(B) The provisions of subparagraph (A) shall cease to apply to the benefit of any individual under title II of the Social Security Act \[[42 U.S.C. 401][/us/usc/t42/s401] et seq.\] for any month after August 1954.”
 
  __Determination of Primary Insurance Amount of Individuals Who Died After 1939 and Prior to 1951__ 
 
 [Pub. L. 86–778, title II, § 204(b)][/us/pl/86/778/s204/b], Sept. 13, 1960, [74 Stat. 948][/us/stat/74/948], provided that: 
 
-> “The primary insurance amount (for purposes of title II of the Social Security Act \[this subchapter\]) of any individual who died after 1939 and prior to 1951 shall be determined as provided in section 215(a)(2) of such Act \[subsec. (a)(2) of this section\].”
+> “The primary insurance amount (for purposes of title II of the Social Security Act \[[42 U.S.C. 401][/us/usc/t42/s401] et seq.\]) of any individual who died after 1939 and prior to 1951 shall be determined as provided in section 215(a)(2) of such Act \[[42 U.S.C. 415(a)(2)][/us/usc/t42/s415/a/2]\].”
 
  __Benefits in Certain Cases of Deaths Before September 1950__ 
 
@@ -1751,7 +1751,7 @@ For the purposes of this subchapter—
 
 [Pub. L. 86–778, title II, § 205(c)][/us/pl/86/778/s205/c], Sept. 13, 1960, [74 Stat. 949][/us/stat/74/949], provided that: 
 
-> “The primary insurance amount (for purposes of title II of the Social Security Act \[this subchapter\]) of any individual who died prior to 1940, and who had not less than six quarters of coverage (as defined in section 213 of such Act \[[section 413 of this title][/us/usc/t42/s413]\]), shall be computed under section 215(a)(2) of such Act \[subsec. (a)(2) of this section\].”
+> “The primary insurance amount (for purposes of title II of the Social Security Act \[[42 U.S.C. 401][/us/usc/t42/s401] et seq.\]) of any individual who died prior to 1940, and who had not less than six quarters of coverage (as defined in section 213 of such Act \[[42 U.S.C. 413][/us/usc/t42/s413]\]), shall be computed under section 215(a)(2) of such Act \[[42 U.S.C. 415(a)(2)][/us/usc/t42/s415/a/2]\].”
 
     \[[Section 205(c) of Pub. L. 86–778][/us/pl/86/778/s205/c] as applicable only in the case of monthly benefits under this subchapter for months after September 1960, on the basis of applications filed in or after such month, see [section 205(d) of Pub. L. 86–778][/us/pl/86/778/s205/d], set out as an Effective Date of 1960 Amendment note under [section 402 of this title][/us/usc/t42/s402].\]
 
@@ -2230,6 +2230,8 @@ For the purposes of this subchapter—
 [/us/pl/99/509/s9001/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs9001%2Fd
 [/us/stat/100/1970]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1970
 [/us/usc/t42/s1395r]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395r
+[/us/usc/t42/s415/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs415%2Fi
+[/us/usc/t42/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs301
 [/us/usc/t42/s1395r]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395r
 [/us/usc/t42/s1395r]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395r
 [/us/pl/99/272/s12115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs12115
@@ -2250,8 +2252,10 @@ For the purposes of this subchapter—
 [/us/usc/t42/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs402
 [/us/pl/98/21/s111/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21%2Fs111%2Fb%2F3
 [/us/stat/97/72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F72
+[/us/usc/t42/s415/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs415%2Fi
 [/us/pl/98/21/s112/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21%2Fs112%2Fe
 [/us/stat/97/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F76
+[/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
 [/us/pl/97/123/s2/j/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F123%2Fs2%2Fj%2F2
 [/us/stat/95/1661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1661
 [/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
@@ -2260,13 +2264,16 @@ For the purposes of this subchapter—
 [/us/usc/t42/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs402
 [/us/usc/t42/s1382k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1382k
 [/us/usc/t42/s1382k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1382k
+[/us/usc/t42/s415/a/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs415%2Fa%2F3%2FB
 [/us/usc/t26/s3121/r/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs3121%2Fr%2F2
+[/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/pl/97/35/s2206/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2206%2Fc
 [/us/usc/t42/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs402
 [/us/pl/96/265/s102/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F265%2Fs102%2Fc
 [/us/stat/94/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F443
 [/us/usc/t42/s423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs423
+[/us/usc/t42/s415/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs415%2Fb%2F2%2FA
 [/us/pl/96/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F265
 [/us/pl/96/265/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F265%2Fs101%2Fc
 [/us/usc/t42/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs403
@@ -2283,6 +2290,7 @@ For the purposes of this subchapter—
 [/us/stat/87/952]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F952
 [/us/pl/92/336/s202/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F336%2Fs202%2Fa%2F4
 [/us/stat/86/416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F416
+[/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
 [/us/usc/t42/s402/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs402%2Fi
 [/us/pl/93/233/s5/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F233%2Fs5%2Fa%2F4
 [/us/pl/93/233/s5/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F233%2Fs5%2Fe
@@ -2293,6 +2301,7 @@ For the purposes of this subchapter—
 [/us/pl/92/603/s101/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603%2Fs101%2Fg
 [/us/stat/86/1335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1335
 [/us/usc/t42/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs403
+[/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
 [/us/pl/92/603/s104/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603%2Fs104%2Fb
 [/us/pl/92/603/s104/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603%2Fs104%2Fj
 [/us/usc/t42/s414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs414
@@ -2303,6 +2312,7 @@ For the purposes of this subchapter—
 [/us/pl/92/336/s201/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F336%2Fs201%2Fi
 [/us/stat/86/412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F412
 [/us/usc/t42/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs403
+[/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
 [/us/usc/t42/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs403
 [/us/pl/92/336/s202/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F336%2Fs202%2Fa%2F3
 [/us/stat/86/416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F416
@@ -2314,29 +2324,36 @@ For the purposes of this subchapter—
 [/us/pl/92/5/s201/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F5%2Fs201%2Fe
 [/us/stat/85/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F9
 [/us/usc/t42/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs403
+[/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
 [/us/pl/92/5/s203/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F5%2Fs203%2Fa%2F4
 [/us/pl/92/5/s203/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F5%2Fs203%2Fc
 [/us/usc/t42/s409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs409
 [/us/pl/91/172/s1002/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs1002%2Fe
 [/us/stat/83/740]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F740
 [/us/usc/t42/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs403
+[/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
 [/us/pl/90/248/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248%2Fs101%2Fe
 [/us/stat/81/827]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F827
 [/us/usc/t42/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs403
+[/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
 [/us/pl/90/248/s108/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248%2Fs108%2Fa%2F4
 [/us/pl/90/248/s108/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248%2Fs108%2Fc
 [/us/usc/t42/s409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs409
 [/us/pl/90/248/s155/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248%2Fs155%2Fa%2F7
 [/us/stat/81/865]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F865
+[/us/usc/t42/s415/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs415%2Ff%2F2
 [/us/pl/89/97/s301/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97%2Fs301%2Fd
 [/us/stat/79/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F364
 [/us/usc/t42/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs403
+[/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
 [/us/pl/89/97/s302/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97%2Fs302%2Fd%2F2
 [/us/stat/79/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F365
 [/us/pl/89/97/s302/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97%2Fs302%2Ff%2F1
 [/us/stat/79/366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F366
 [/us/usc/t42/s402/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs402%2Fa
+[/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
 [/us/usc/t42/s402/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs402%2Fa
+[/us/usc/t42/s415/f/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs415%2Ff%2F3%2FB
 [/us/usc/t42/s423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs423
 [/us/usc/t42/s423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs423
 [/us/pl/89/97/s303/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97%2Fs303%2Ff%2F2
@@ -2349,6 +2366,7 @@ For the purposes of this subchapter—
 [/us/usc/t26/s3121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs3121
 [/us/pl/87/64/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F64%2Fs101%2Fb
 [/us/stat/75/131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F131
+[/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
 [/us/usc/t42/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs402
 [/us/pl/87/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F64
 [/us/pl/87/64/s102/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F64%2Fs102%2Fd%2F3
@@ -2373,13 +2391,17 @@ For the purposes of this subchapter—
 [/us/stat/74/964]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F964
 [/us/pl/85/840/s101/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F840%2Fs101%2Fg
 [/us/stat/72/1018]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1018
+[/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
 [/us/pl/85/840/s205/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F840%2Fs205%2Fm
 [/us/pl/85/840/s207/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F840%2Fs207%2Fa
 [/us/usc/t42/s416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs416
 [/us/act/1956-08-01/ch836]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-01%2Fch836
 [/us/stat/70/830]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F830
 [/us/usc/t42/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs402
+[/us/usc/t42/s415/f/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs415%2Ff%2F6
 [/us/usc/t42/s402/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs402%2Fa
+[/us/usc/t42/s415/f/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs415%2Ff%2F6
+[/us/usc/t42/s415/f/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs415%2Ff%2F6
 [/us/usc/t42/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs402
 [/us/act/1956-08-01/ch836]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-01%2Fch836
 [/us/stat/70/833]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F833
@@ -2394,30 +2416,39 @@ For the purposes of this subchapter—
 [/us/pl/89/97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97
 [/us/stat/79/366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F366
 [/us/usc/t42/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs403
+[/us/usc/t42/s415/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs415%2Ff%2F1
 [/us/usc/t42/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs402
 [/us/usc/t42/s402/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs402%2Fa
 [/us/usc/t42/s416/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs416%2Fi
 [/us/pl/89/97/s302/f/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97%2Fs302%2Ff%2F7
 [/us/stat/79/366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F366
 [/us/usc/t42/s402/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs402%2Fa
+[/us/usc/t42/s415/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs415%2Ff%2F2
+[/us/usc/t42/s415/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs415%2Ff
 [/us/usc/t42/s413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs413
 [/us/usc/t42/s413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs413
 [/us/act/1952-07-18/ch945/s2/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-18%2Fch945%2Fs2%2Fc%2F1
 [/us/stat/66/768]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F768
+[/us/usc/t42/s415/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs415%2Ff%2F1
 [/us/usc/t42/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs402
 [/us/usc/t42/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs403
+[/us/usc/t42/s415/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs415%2Ff%2F1
 [/us/usc/t42/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs402
 [/us/pl/86/778/s303/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F778%2Fs303%2Fi
 [/us/stat/74/965]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F965
 [/us/usc/t42/s402/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs402%2Fa
 [/us/pl/85/840/s101/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F840%2Fs101%2Fi
 [/us/stat/72/1018]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1018
+[/us/usc/t42/s415/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs415%2Fb%2F5
+[/us/usc/t42/s415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs415
 [/us/act/1952-07-18/ch945/s2/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-18%2Fch945%2Fs2%2Fd
 [/us/stat/66/769]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F769
 [/us/usc/t42/s402/j/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs402%2Fj%2F1
+[/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
 [/us/usc/t42/s402/j/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs402%2Fj%2F1
 [/us/usc/t42/s403/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs403%2Fa
 [/us/usc/t42/s403/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs403%2Fa
+[/us/usc/t42/s415/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs415%2Ff
 [/us/stat/80/1610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1610
 [/us/pl/96/88/s509/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs509%2Fb
 [/us/usc/t20/s3508/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs3508%2Fb
@@ -2427,13 +2458,16 @@ For the purposes of this subchapter—
 [/us/stat/107/1266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1266
 [/us/pl/98/604/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F604%2Fs1
 [/us/stat/98/3161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3161
-[/us/usc/t42/s1382f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1382f
+[/us/usc/t42/s415/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs415%2Fi
 [/us/pl/98/21/s111/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21%2Fs111%2Fd
 [/us/stat/97/72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F72
+[/us/usc/t42/s415/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs415%2Fi
+[/us/usc/t42/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs301
 [/us/pl/98/21/s112/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21%2Fs112%2Ff
 [/us/stat/97/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F76
 [/us/pl/98/369/s2662/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2662%2Fb
 [/us/stat/98/1159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1159
+[/us/usc/t42/s415/i/1/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs415%2Fi%2F1%2FF
 [/us/usc/t42/s401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401%2Fa
 [/us/pl/97/35/s2201/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2201%2Fe
 [/us/stat/95/832]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F832
@@ -2442,9 +2476,11 @@ For the purposes of this subchapter—
 [/us/pl/93/233/s3/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F233%2Fs3%2Fi
 [/us/stat/87/952]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F952
 [/us/usc/t42/s403/f/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs403%2Ff%2F8
+[/us/usc/t42/s415/i/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs415%2Fi%2F1%2FB
 [/us/usc/t42/s430/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs430%2Fa
 [/us/pl/92/603/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603%2Fs101%2Ff
 [/us/stat/86/1334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1334
+[/us/usc/t42/s415/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs415%2Fa%2F1
 [/us/usc/t42/s402/q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs402%2Fq
 [/us/pl/93/66/s203/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F66%2Fs203%2Ff
 [/us/stat/87/153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F153
@@ -2452,24 +2488,34 @@ For the purposes of this subchapter—
 [/us/stat/85/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F9
 [/us/usc/t42/s423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs423
 [/us/usc/t42/s402/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs402%2Fa
+[/us/usc/t42/s415/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs415%2Fa%2F4
+[/us/usc/t42/s415/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs415%2Fc
 [/us/pl/91/172/s1002/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs1002%2Ff
 [/us/stat/83/740]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F740
 [/us/usc/t42/s423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs423
 [/us/usc/t42/s402/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs402%2Fa
+[/us/usc/t42/s415/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs415%2Fa%2F4
 [/us/pl/90/248/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248%2Fs101%2Ff
 [/us/stat/81/827]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F827
 [/us/usc/t42/s423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs423
 [/us/usc/t42/s402/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs402%2Fa
+[/us/usc/t42/s415/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs415%2Fa%2F4
 [/us/pl/89/97/s301/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97%2Fs301%2Fe
 [/us/stat/79/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F364
 [/us/usc/t42/s423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs423
 [/us/usc/t42/s402/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs402%2Fa
+[/us/usc/t42/s415/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs415%2Fa%2F4
 [/us/pl/85/840/s101/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F840%2Fs101%2Fh
 [/us/stat/72/1018]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1018
 [/us/usc/t42/s423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs423
 [/us/usc/t42/s402/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs402%2Fa
+[/us/usc/t42/s415/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs415%2Fa%2F4
 [/us/pl/90/248/s155/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248%2Fs155%2Fa%2F8
 [/us/stat/81/865]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F865
+[/us/usc/t42/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs402
+[/us/usc/t42/s415/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs415%2Fd
+[/us/usc/t42/s415/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs415%2Fc
+[/us/usc/t42/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs301
 [/us/pl/86/778/s303/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F778%2Fs303%2Fg%2F1
 [/us/stat/74/964]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F964
 [/us/pl/87/64/s103/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F64%2Fs103%2Fd
@@ -2494,6 +2540,7 @@ For the purposes of this subchapter—
 [/us/stat/85/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F5
 [/us/pl/86/778]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F778
 [/us/pl/92/603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603
+[/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
 [/us/pl/91/172/s1007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs1007
 [/us/stat/83/742]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F742
 [/us/pl/91/306/s2/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F306%2Fs2%2Fb%2F1
@@ -2506,12 +2553,21 @@ For the purposes of this subchapter—
 [/us/stat/86/1484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1484
 [/us/pl/92/5/s201/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F5%2Fs201%2Fg
 [/us/stat/85/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F9
+[/us/usc/t42/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs301
+[/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
+[/us/usc/t45/s228a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft45%2Fs228a
 [/us/usc/t45/s228c/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft45%2Fs228c%2Fe
 [/us/pl/91/172/s1006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs1006
 [/us/stat/83/741]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F741
 [/us/pl/91/306/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F306%2Fs2%2Fa%2F1
 [/us/stat/84/407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F407
+[/us/usc/t42/s302/a/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs302%2Fa%2F10
+[/us/usc/t42/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs301
+[/us/usc/t2/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs601
+[/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
+[/us/usc/t45/s228a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft45%2Fs228a
 [/us/usc/t45/s228c/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft45%2Fs228c%2Fe
+[/us/usc/t45/s215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft45%2Fs215
 [/us/pl/89/97/s406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97%2Fs406
 [/us/stat/79/421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F421
 [/us/pl/89/97/s326/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97%2Fs326%2Fa
@@ -2521,39 +2577,65 @@ For the purposes of this subchapter—
 [/us/usc/t42/s423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs423
 [/us/usc/t42/s423/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs423%2Fb
 [/us/usc/t42/s402/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs402%2Fa
+[/us/usc/t42/s415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs415
+[/us/usc/t42/s415/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs415%2Ff%2F2
 [/us/pl/86/778/s303/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F778%2Fs303%2Fj
 [/us/stat/74/966]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F966
+[/us/usc/t42/s415/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs415%2Fb
+[/us/usc/t42/s402/j/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs402%2Fj%2F1
+[/us/usc/t42/s415/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs415%2Ff
+[/us/usc/t42/s415/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs415%2Fb
 [/us/act/1954-09-01/ch1206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-09-01%2Fch1206
 [/us/stat/68/1070]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F1070
 [/us/pl/86/778/s304/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F778%2Fs304%2Fc
 [/us/stat/74/966]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F966
 [/us/usc/t42/s402/j/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs402%2Fj%2F1
+[/us/usc/t42/s415/f/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs415%2Ff%2F3
 [/us/act/1954-09-01/ch1206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-09-01%2Fch1206
 [/us/stat/68/1068]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F1068
 [/us/pl/86/778/s304/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F778%2Fs304%2Fb
 [/us/stat/74/966]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F966
+[/us/usc/t42/s415/f/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs415%2Ff%2F6
+[/us/usc/t42/s415/f/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs415%2Ff%2F2%2FA
+[/us/usc/t42/s415/f/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs415%2Ff%2F2%2FB
+[/us/usc/t42/s415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs415
+[/us/usc/t42/s415/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs415%2Ff%2F2
 [/us/pl/86/778/s303/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F778%2Fs303%2Fh
 [/us/stat/74/965]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F965
+[/us/usc/t42/s415/f/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs415%2Ff%2F3
+[/us/usc/t42/s415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs415
+[/us/usc/t42/s415/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs415%2Fa
+[/us/usc/t42/s415/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs415%2Fb%2F4
+[/us/usc/t42/s415/f/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs415%2Ff%2F3
+[/us/usc/t42/s415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs415
 [/us/act/1956-08-01/ch836]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-01%2Fch836
 [/us/stat/70/830]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F830
 [/us/usc/t42/s402/j/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs402%2Fj%2F1
+[/us/usc/t42/s415/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs415%2Fa%2F1%2FA
 [/us/act/1954-09-01/ch1206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-09-01%2Fch1206
 [/us/stat/68/1069]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F1069
 [/us/usc/t42/s402/j/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs402%2Fj%2F1
+[/us/usc/t42/s415/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs415%2Fa%2F1%2FA
 [/us/act/1954-09-01/ch1206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-09-01%2Fch1206
 [/us/stat/68/1099]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F1099
 [/us/act/1952-07-18/ch945/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-18%2Fch945%2Fs6%2Fc
 [/us/stat/66/777]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F777
 [/us/usc/t42/s402/j/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs402%2Fj%2F1
+[/us/usc/t42/s415/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs415%2Fb%2F3
+[/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
 [/us/act/1952-07-18/ch945/s6/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-18%2Fch945%2Fs6%2Fe
 [/us/stat/66/777]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F777
 [/us/usc/t42/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs403
 [/us/act/1952-07-18/ch945/s2/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-18%2Fch945%2Fs2%2Fc%2F2
 [/us/stat/66/768]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F768
 [/us/usc/t42/s402/j/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs402%2Fj%2F1
+[/us/usc/t42/s415/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs415%2Fc
 [/us/usc/t42/s403/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs403%2Fa
+[/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
 [/us/pl/86/778/s204/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F778%2Fs204%2Fb
 [/us/stat/74/948]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F948
+[/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
+[/us/usc/t42/s415/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs415%2Fa%2F2
 [/us/act/1954-09-01/ch1206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-09-01%2Fch1206
 [/us/stat/68/1084]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F1084
 [/us/pl/86/778/s204/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F778%2Fs204%2Fc
@@ -2562,7 +2644,9 @@ For the purposes of this subchapter—
 [/us/usc/t42/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs402
 [/us/pl/86/778/s205/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F778%2Fs205%2Fc
 [/us/stat/74/949]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F949
+[/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
 [/us/usc/t42/s413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs413
+[/us/usc/t42/s415/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs415%2Fa%2F2
 [/us/pl/86/778/s205/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F778%2Fs205%2Fc
 [/us/pl/86/778/s205/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F778%2Fs205%2Fd
 [/us/usc/t42/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs402

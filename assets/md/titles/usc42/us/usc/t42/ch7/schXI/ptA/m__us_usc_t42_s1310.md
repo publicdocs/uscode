@@ -109,7 +109,7 @@
 
 [Pub. L. 106–170, title III, § 301(b)(2)][/us/pl/106/170/s301/b/2], Dec. 17, 1999, [113 Stat. 1902][/us/stat/113/1902], provided that: 
 
-> “With respect to any experiment or demonstration project being conducted under section 505(a) of the Social Security Disability Amendments of 1980 \[[Pub. L. 96–265][/us/pl/96/265], formerly set out above\] ([42 U.S.C. 1310][/us/usc/t42/s1310] note) as of the date of the enactment of this Act \[Dec. 17, 1999\], the authority to conduct such experiment or demonstration project (including the terms and conditions applicable to the experiment or demonstration project) shall be treated as if that authority (and such terms and conditions) had been established under section 234 of the Social Security Act \[[section 434 of this title][/us/usc/t42/s434]\], as added by subsection (a).”
+> “With respect to any experiment or demonstration project being conducted under section 505(a) of the Social Security Disability Amendments of 1980 \[[Pub. L. 96–265][/us/pl/96/265], formerly set out above\] ([42 U.S.C. 1310][/us/usc/t42/s1310] note) as of the date of the enactment of this Act \[Dec. 17, 1999\], the authority to conduct such experiment or demonstration project (including the terms and conditions applicable to the experiment or demonstration project) shall be treated as if that authority (and such terms and conditions) had been established under section 234 of the Social Security Act \[[42 U.S.C. 434][/us/usc/t42/s434]\], as added by subsection (a).”
 
 ----------
 

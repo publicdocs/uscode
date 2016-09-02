@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 10401.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs10401" data-uslm-ref="/us/usc/t42/s10401">10401.</a>  </td>
 
     <td> Short title; purpose.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 10402.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs10402" data-uslm-ref="/us/usc/t42/s10402">10402.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 10403.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs10403" data-uslm-ref="/us/usc/t42/s10403">10403.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 10404.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs10404" data-uslm-ref="/us/usc/t42/s10404">10404.</a>  </td>
 
     <td> Authority of Secretary.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 10405.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs10405" data-uslm-ref="/us/usc/t42/s10405">10405.</a>  </td>
 
     <td> Allotment of funds.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 10406.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs10406" data-uslm-ref="/us/usc/t42/s10406">10406.</a>  </td>
 
     <td> Formula grants to States.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 10407.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs10407" data-uslm-ref="/us/usc/t42/s10407">10407.</a>  </td>
 
     <td> State application.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 10408.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs10408" data-uslm-ref="/us/usc/t42/s10408">10408.</a>  </td>
 
     <td> Subgrants and uses of funds.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 10409.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs10409" data-uslm-ref="/us/usc/t42/s10409">10409.</a>  </td>
 
     <td> Grants for Indian tribes.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 10410.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs10410" data-uslm-ref="/us/usc/t42/s10410">10410.</a>  </td>
 
     <td> National resource centers and training and technical assistance centers.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 10411.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs10411" data-uslm-ref="/us/usc/t42/s10411">10411.</a>  </td>
 
     <td> Grants to State Domestic Violence Coalitions.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 10412.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs10412" data-uslm-ref="/us/usc/t42/s10412">10412.</a>  </td>
 
     <td> Specialized services for abused parents and their children.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 10413.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs10413" data-uslm-ref="/us/usc/t42/s10413">10413.</a>  </td>
 
     <td> National domestic violence hotline grant.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> 10414.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs10414" data-uslm-ref="/us/usc/t42/s10414">10414.</a>  </td>
 
     <td> Domestic Violence Prevention Enhancement and Leadership Through Alliances (DELTA).  </td>
 
@@ -137,7 +137,7 @@
 
   <tr>
 
-    <td> 10415 to 10419.   </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs10415" data-uslm-ref="/us/usc/t42/s10415">10415</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs10419" data-uslm-ref="/us/usc/t42/s10419">10419.</a>  </td>
 
     <td> Repealed or Omitted.  </td>
 
@@ -145,15 +145,15 @@
 
   <tr>
 
-    <td> 10420.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs10420" data-uslm-ref="/us/usc/t42/s10420">10420.</a>  </td>
 
-    <td> Safe havens for children.  </td>
+    <td> Grants to support families in the justice system.  </td>
 
   </tr>
 
   <tr>
 
-    <td> 10421.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs10421" data-uslm-ref="/us/usc/t42/s10421">10421.</a>  </td>
 
     <td> Omitted.  </td>
 

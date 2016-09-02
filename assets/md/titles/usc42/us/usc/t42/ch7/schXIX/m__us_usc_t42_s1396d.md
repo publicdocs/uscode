@@ -1409,7 +1409,7 @@ For purposes of this subchapter—
 
 [Pub. L. 103–66, title XIII, § 13631(g)(2)][/us/pl/103/66/s13631/g/2], Aug. 10, 1993, [107 Stat. 645][/us/stat/107/645], provided that: 
 
-> “The amendments made by subparagraphs (A) and (B) of paragraph (1) \[amending this section\] shall first apply 90 days after the date the schedule referred to in subparagraphs (A)(i) and subparagraph (B)(iii) of section 1905(r)(1) of the Social Security Act \[subsec. (r)(1)(B)(iii) of this section\] (as amended by such respective subparagraphs) is first established.”
+> “The amendments made by subparagraphs (A) and (B) of paragraph (1) \[amending this section\] shall first apply 90 days after the date the schedule referred to in subparagraphs \[sic\] (A)(i) and subparagraph (B)(iii) of section 1905(r)(1) of the Social Security Act \[[42 U.S.C. 1396d(r)(1)(A)(i)][/us/usc/t42/s1396d/r/1/A/i], (B)(iii)\] (as amended by such respective subparagraphs) is first established.”
 
  __Effective Date of 1990 Amendment__ 
 
@@ -1483,7 +1483,7 @@ For purposes of this subchapter—
 
 >     “(A) The amendments made by this subsection \[amending this section and [section 1396a of this title][/us/usc/t42/s1396a]\] shall apply to medical assistance furnished on or after October 1, 1988.
 
->     “(B) For purposes of section 1905(n)(2) of the Social Security Act \[[section 1396d(n)(2) of this title][/us/usc/t42/s1396d/n/2]\] (as amended by subsection (a) \[probably means “subsection (c)”\]) for medical assistance furnished during fiscal year 1989, any reference to ‘age of 7’ is deemed to be a reference to ‘age of 6’.”
+>     “(B) For purposes of section 1905(n)(2) of the Social Security Act \[[42 U.S.C. 1396d(n)(2)][/us/usc/t42/s1396d/n/2]\] (as amended by subsection (a) \[probably means “subsection (c)”\]) for medical assistance furnished during fiscal year 1989, any reference to ‘age of 7’ is deemed to be a reference to ‘age of 6’.”
 
 [Pub. L. 100–203, title IV, § 4103(b)][/us/pl/100/203/s4103/b], Dec. 22, 1987, [101 Stat. 1330–146][/us/stat/101/1330-146], provided that:
 
@@ -1509,7 +1509,7 @@ For purposes of this subchapter—
 
 [Pub. L. 99–272, title IX, § 9501(d)(1)][/us/pl/99/272/s9501/d/1], Apr. 7, 1986, [100 Stat. 202][/us/stat/100/202], provided that:
 
->     “(A) The amendments made by subsection (a) \[amending this section\] apply (except as provided under subparagraph (B)) to payments under title XIX of the Social Security Act \[this subchapter\] for calendar quarters beginning on or after the \[sic\] July 1, 1986, without regard to whether or not final regulations to carry out the amendments have been promulgated by that date.
+>     “(A) The amendments made by subsection (a) \[amending this section\] apply (except as provided under subparagraph (B)) to payments under title XIX of the Social Security Act \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\] for calendar quarters beginning on or after the \[sic\] July 1, 1986, without regard to whether or not final regulations to carry out the amendments have been promulgated by that date.
 
 >     “(B) In the case of a State plan for medical assistance under title XIX of the Social Security Act which the Secretary of Health and Human Services determines requires State legislation (other than legislation appropriating funds) in order for the plan to meet the additional requirement imposed by the amendments made by subsection (a), the State plan shall not be regarded as failing to comply with the requirements of such title solely on the basis of its failure to meet this additional requirement before the first day of the first calendar quarter beginning after the close of the first regular session of the State legislature that begins after the date of the enactment of this Act \[Apr. 7, 1986\].”
 
@@ -1563,7 +1563,7 @@ For purposes of this subchapter—
 
 [Pub. L. 92–603, title II, § 212(b)][/us/pl/92/603/s212/b], Oct. 30, 1972, [86 Stat. 1384][/us/stat/86/1384], provided that: 
 
-> “The provisions of subsection (e) of section 1905 of the Social Security Act \[subsec. (e) of this section\] (as added by subsection (a) of this section) shall be applicable in the case of services performed on or after the date of enactment of this Act \[Oct. 30, 1972\].”
+> “The provisions of subsection (e) of section 1905 of the Social Security Act \[[42 U.S.C. 1396d(e)][/us/usc/t42/s1396d/e]\] (as added by subsection (a) of this section) shall be applicable in the case of services performed on or after the date of enactment of this Act \[Oct. 30, 1972\].”
 
     Amendment by [section 247(b) of Pub. L. 92–603][/us/pl/92/603/s247/b] effective with respect to services furnished after Dec. 31, 1972, see [section 247(c) of Pub. L. 92–603][/us/pl/92/603/s247/c], set out as a note under [section 1395f of this title][/us/usc/t42/s1395f].
 
@@ -1587,7 +1587,7 @@ For purposes of this subchapter—
 
 [Pub. L. 108–357, title VII, § 712(a)(2)][/us/pl/108/357/s712/a/2], Oct. 22, 2004, [118 Stat. 1558][/us/stat/118/1558], provided that: 
 
-> “Nothing in subsections (a)(27) or (x) of section 1905 of the Social Security Act ([42 U.S.C. 1396d][/us/usc/t42/s1396d]), as added by paragraph (1), shall be construed as implying that a State medicaid program under title XIX of such Act \[this subchapter\] could not have treated, prior to the date of enactment of this Act \[Oct. 22, 2004\], any of the primary and secondary medical strategies and treatment and services described in such subsections as medical assistance under such program, including as early and periodic screening, diagnostic, and treatment services under section 1905(r) of such Act \[subsec. (r) of this section\].”
+> “Nothing in subsections (a)(27) or (x) of section 1905 of the Social Security Act ([42 U.S.C. 1396d][/us/usc/t42/s1396d]), as added by paragraph (1), shall be construed as implying that a State medicaid program under title XIX of such Act \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\] could not have treated, prior to the date of enactment of this Act \[Oct. 22, 2004\], any of the primary and secondary medical strategies and treatment and services described in such subsections as medical assistance under such program, including as early and periodic screening, diagnostic, and treatment services under section 1905(r) of such Act \[[42 U.S.C. 1396d(r)][/us/usc/t42/s1396d/r]\].”
 
  __Construction of 1999 Amendment__ 
 
@@ -1841,21 +1841,21 @@ For purposes of this subchapter—
 
 >     “(d) __Increase in Cap on Medicaid Payments to Territories.—__ 
 
->     Subject to subsections (f) and (g), with respect to entire fiscal years occurring during the recession adjustment period and with respect to fiscal years only a portion of which occurs during such period (and in proportion to the portion of the fiscal year that occurs during such period), the amounts otherwise determined for Puerto Rico, the Virgin Islands, Guam, the Northern Mariana Islands, and American Samoa under subsections (f) and (g) of section 1108 of the Social Security Act (42 6 \[42\] U.S.C. 1308) shall each be increased by 30 percent (or, in the case of an election under subsection (b)(2), 15 percent). In the case of such an election by a territory, subsection (a)(1) of such section shall be applied without regard to any increase in payment made to the territory under part E of title IV of such Act \[part E of subchapter IV of this chapter\] that is attributable to the increase in FMAP effected under subsection (b) for the territory.
+>     Subject to subsections (f) and (g), with respect to entire fiscal years occurring during the recession adjustment period and with respect to fiscal years only a portion of which occurs during such period (and in proportion to the portion of the fiscal year that occurs during such period), the amounts otherwise determined for Puerto Rico, the Virgin Islands, Guam, the Northern Mariana Islands, and American Samoa under subsections (f) and (g) of section 1108 of the Social Security Act (42 6 \[42\] U.S.C. 1308) shall each be increased by 30 percent (or, in the case of an election under subsection (b)(2), 15 percent). In the case of such an election by a territory, subsection (a)(1) of such section shall be applied without regard to any increase in payment made to the territory under part E of title IV of such Act \[[42 U.S.C. 670][/us/usc/t42/s670] et seq.\] that is attributable to the increase in FMAP effected under subsection (b) for the territory.
 
 >     “(e) __Scope of Application.—__ 
 
->     The increases in the FMAP for a State under this section shall apply for purposes of title XIX of the Social Security Act \[this subchapter\] and shall not apply with respect to—
+>     The increases in the FMAP for a State under this section shall apply for purposes of title XIX of the Social Security Act \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\] and shall not apply with respect to—
 
 >         “(1) disproportionate share hospital payments described in section 1923 of such Act ([42 U.S.C. 1396r–4][/us/usc/t42/s1396r–4]);
 
->         “(2) payments under title IV of such Act ([42 U.S.C. 601][/us/usc/t42/s601] et seq.) (except that the increases under subsections (a) and (b) shall apply to payments under part E of title IV of such Act ([42 U.S.C. 670][/us/usc/t42/s670] et seq.) and, for purposes of the application of this section to the District of Columbia, payments under such part shall be deemed to be made on the basis of the FMAP applied with respect to such District for purposes of title XIX \[this subchapter\] and as increased under subsection (b));
+>         “(2) payments under title IV of such Act ([42 U.S.C. 601][/us/usc/t42/s601] et seq.) (except that the increases under subsections (a) and (b) shall apply to payments under part E of title IV of such Act ([42 U.S.C. 670][/us/usc/t42/s670] et seq.) and, for purposes of the application of this section to the District of Columbia, payments under such part shall be deemed to be made on the basis of the FMAP applied with respect to such District for purposes of title XIX \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\] and as increased under subsection (b));
 
 >         “(3) payments under title XXI of such Act ([42 U.S.C. 1397aa][/us/usc/t42/s1397aa] et seq.);
 
->         “(4) any payments under title XIX of such Act \[this subchapter\] that are based on the enhanced FMAP described in section 2105(b) of such Act ([42 U.S.C. 1397ee(b)][/us/usc/t42/s1397ee/b]); or
+>         “(4) any payments under title XIX of such Act \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\] that are based on the enhanced FMAP described in section 2105(b) of such Act ([42 U.S.C. 1397ee(b)][/us/usc/t42/s1397ee/b]); or
 
->         “(5) any payments under title XIX of such Act \[this subchapter\] that are attributable to expenditures for medical assistance provided to individuals made eligible under a State plan under title XIX of the Social Security Act (including under any waiver under such title or under section 1115 of such Act ([42 U.S.C. 1315][/us/usc/t42/s1315])) because of income standards (expressed as a percentage of the poverty line) for eligibility for medical assistance that are higher than the income standards (as so expressed) for such eligibility as in effect on July 1, 2008, \[sic\] (including as such standards were proposed to be in effect under a State law enacted but not effective as of such date or a State plan amendment or waiver request under title XIX of such Act that was pending approval on such date).
+>         “(5) any payments under title XIX of such Act \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\] that are attributable to expenditures for medical assistance provided to individuals made eligible under a State plan under title XIX of the Social Security Act (including under any waiver under such title or under section 1115 of such Act ([42 U.S.C. 1315][/us/usc/t42/s1315])) because of income standards (expressed as a percentage of the poverty line) for eligibility for medical assistance that are higher than the income standards (as so expressed) for such eligibility as in effect on July 1, 2008, \[sic\] (including as such standards were proposed to be in effect under a State law enacted but not effective as of such date or a State plan amendment or waiver request under title XIX of such Act that was pending approval on such date).
 
 >         Notwithstanding paragraph (5), effective for payments made on or after January 1, 2010, the increases in the FMAP for a State under this section shall apply to payments under title XIX of such Act \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\] that are attributable to expenditures for medical assistance provided to nonpregnant childless adults made eligible under a State plan under such title (including under any waiver under such title or under section 1115 of such Act ([42 U.S.C. 1315][/us/usc/t42/s1315])) who would have been eligible for child health assistance or other health benefits under eligibility standards in effect as of December 31, 2009, of a waiver of the State child health plan under the \[sic\] title XXI of such Act \[[42 U.S.C. 1397aa][/us/usc/t42/s1397aa] et seq.\].
 
@@ -1865,11 +1865,11 @@ For purposes of this subchapter—
 
 >             “(A) __In general.—__ 
 
->             Subject to subparagraphs (B) and (C), a State is not eligible for an increase in its FMAP under subsection (a), (b), or (c), or an increase in a cap amount under subsection (d), if eligibility standards, methodologies, or procedures under its State plan under title XIX of the Social Security Act \[this subchapter\] (including any waiver under such title or under section 1115 of such Act ([42 U.S.C. 1315][/us/usc/t42/s1315])) are more restrictive than the eligibility standards, methodologies, or procedures, respectively, under such plan (or waiver) as in effect on July 1, 2008.
+>             Subject to subparagraphs (B) and (C), a State is not eligible for an increase in its FMAP under subsection (a), (b), or (c), or an increase in a cap amount under subsection (d), if eligibility standards, methodologies, or procedures under its State plan under title XIX of the Social Security Act \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\] (including any waiver under such title or under section 1115 of such Act ([42 U.S.C. 1315][/us/usc/t42/s1315])) are more restrictive than the eligibility standards, methodologies, or procedures, respectively, under such plan (or waiver) as in effect on July 1, 2008.
 
 >             “(B) __State reinstatement of eligibility permitted.—__ 
 
->             Subject to subparagraph (C), a State that has restricted eligibility standards, methodologies, or procedures under its State plan under title XIX of the Social Security Act \[this subchapter\] (including any waiver under such title or under section 1115 of such Act ([42 U.S.C. 1315][/us/usc/t42/s1315])) after July 1, 2008, is no longer ineligible under subparagraph (A) beginning with the first calendar quarter in which the State has reinstated eligibility standards, methodologies, or procedures that are no more restrictive than the eligibility standards, methodologies, or procedures, respectively, under such plan (or waiver) as in effect on July 1, 2008.
+>             Subject to subparagraph (C), a State that has restricted eligibility standards, methodologies, or procedures under its State plan under title XIX of the Social Security Act \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\] (including any waiver under such title or under section 1115 of such Act ([42 U.S.C. 1315][/us/usc/t42/s1315])) after July 1, 2008, is no longer ineligible under subparagraph (A) beginning with the first calendar quarter in which the State has reinstated eligibility standards, methodologies, or procedures that are no more restrictive than the eligibility standards, methodologies, or procedures, respectively, under such plan (or waiver) as in effect on July 1, 2008.
 
 >             “(C) __Special rules.—__ 
 
@@ -1885,7 +1885,7 @@ For purposes of this subchapter—
 
 >                 “(i) __In general.—__ 
 
->                 Subject to the succeeding provisions of this subparagraph, no State shall be eligible for an increased FMAP rate as provided under this section for any claim received by a State from a practitioner subject to the terms of section 1902(a)(37)(A) of the Social Security Act ([42 U.S.C. 1396a(a)(37)(A)][/us/usc/t42/s1396a/a/37/A]) for such days during any period in which that State has failed to pay claims in accordance with such section as applied under title XIX of such Act \[this subchapter\].
+>                 Subject to the succeeding provisions of this subparagraph, no State shall be eligible for an increased FMAP rate as provided under this section for any claim received by a State from a practitioner subject to the terms of section 1902(a)(37)(A) of the Social Security Act ([42 U.S.C. 1396a(a)(37)(A)][/us/usc/t42/s1396a/a/37/A]) for such days during any period in which that State has failed to pay claims in accordance with such section as applied under title XIX of such Act \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\].
 
 >                 “(ii) __Reporting requirement.—__ 
 
@@ -1903,7 +1903,7 @@ For purposes of this subchapter—
 
 >                 “(i) __In general.—__ 
 
->                 Subject to clause (ii), the provisions of subparagraph (A) shall apply with respect to a nursing facility or hospital, insofar as it is paid under title XIX of the Social Security Act \[this subchapter\] on the basis of submission of claims, in the same or similar manner (but within the same timeframe) as such provisions apply to practitioners described in such subparagraph.
+>                 Subject to clause (ii), the provisions of subparagraph (A) shall apply with respect to a nursing facility or hospital, insofar as it is paid under title XIX of the Social Security Act \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\] on the basis of submission of claims, in the same or similar manner (but within the same timeframe) as such provisions apply to practitioners described in such subparagraph.
 
 >                 “(ii) __Grace period.—__ 
 
@@ -1969,7 +1969,7 @@ For purposes of this subchapter—
 
 >     “(j) __Limitation on FMAP Change.—__ 
 
->     The increase in FMAP effected under section 614 of the Children’s Health Insurance Program Reauthorization Act of 2009 \[[section 614 of Pub. L. 111–3][/us/pl/111/3/s614], set out below\] shall not apply in the computation of the enhanced FMAP under title XXI or XIX of the Social Security Act \[subchapters XXI or XIX of this chapter\] for any period (notwithstanding subsection (i)).”
+>     The increase in FMAP effected under section 614 of the Children’s Health Insurance Program Reauthorization Act of 2009 \[[section 614 of Pub. L. 111–3][/us/pl/111/3/s614], set out below\] shall not apply in the computation of the enhanced FMAP under title XXI or XIX of the Social Security Act \[[42 U.S.C. 1397aa][/us/usc/t42/s1397aa] et seq., 1396 et seq.\] for any period (notwithstanding subsection (i)).”
 
  __State Authority Under Medicaid__ 
 
@@ -1985,7 +1985,7 @@ For purposes of this subchapter—
 
 >     “(a) __In General.—__ 
 
->     Only for purposes of computing the FMAP (as defined in subsection (e)) for a State for a fiscal year (beginning with fiscal year 2006) and applying the FMAP under title XIX of the Social Security Act \[this subchapter\], any significantly disproportionate employer pension or insurance fund contribution described in subsection (b) shall be disregarded in computing the per capita income of such State, but shall not be disregarded in computing the per capita income for the continental United States (and Alaska) and Hawaii.
+>     Only for purposes of computing the FMAP (as defined in subsection (e)) for a State for a fiscal year (beginning with fiscal year 2006) and applying the FMAP under title XIX of the Social Security Act \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\], any significantly disproportionate employer pension or insurance fund contribution described in subsection (b) shall be disregarded in computing the per capita income of such State, but shall not be disregarded in computing the per capita income for the continental United States (and Alaska) and Hawaii.
 
 >     “(b) __Significantly Disproportionate Employer Pension and Insurance Fund Contribution.—__ 
 
@@ -2023,13 +2023,13 @@ For purposes of this subchapter—
 
 [Pub. L. 106–554, § 1(a)(6)][/us/pl/106/554/s1/a/6] \[title VII, § 706\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–577, provided that: 
 
-> “Notwithstanding the first sentence of section 1905(b) of the Social Security Act ([42 U.S.C. 1396d(b)][/us/usc/t42/s1396d/b]), only with respect to each of fiscal years 2001 through 2005, for purposes of titles XIX and XXI of the Social Security Act \[this subchapter and subchapter XXI of this chapter\], the State percentage used to determine the Federal medical assistance percentage for Alaska shall be that percentage which bears the same ratio to 45 percent as the square of the adjusted per capita income of Alaska (determined by dividing the State’s 3-year average per capita income by 1.05) bears to the square of the per capita income of the 50 States.”
+> “Notwithstanding the first sentence of section 1905(b) of the Social Security Act ([42 U.S.C. 1396d(b)][/us/usc/t42/s1396d/b]), only with respect to each of fiscal years 2001 through 2005, for purposes of titles XIX and XXI of the Social Security Act \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq., 1397aa et seq.\], the State percentage used to determine the Federal medical assistance percentage for Alaska shall be that percentage which bears the same ratio to 45 percent as the square of the adjusted per capita income of Alaska (determined by dividing the State’s 3-year average per capita income by 1.05) bears to the square of the per capita income of the 50 States.”
 
 [Pub. L. 105–33, title IV, § 4725(a)][/us/pl/105/33/s4725/a], Aug. 5, 1997, [111 Stat. 518][/us/stat/111/518], provided that: 
 
 > “Notwithstanding the first sentence of section 1905(b) of the Social Security Act ([42 U.S.C. 1396d(b)][/us/usc/t42/s1396d/b]), the Federal medical assistance percentage determined under such sentence for Alaska shall be 59.8 percent but only with respect to—
 
->     “(1) items and services furnished under a State plan under title XIX \[this subchapter\] or under a State child health plan under title XXI of such Act \[subchapter XXI of this chapter\] during fiscal years 1998, 1999, and 2000;
+>     “(1) items and services furnished under a State plan under title XIX \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\] or under a State child health plan under title XXI of such Act \[[42 U.S.C. 1397aa][/us/usc/t42/s1397aa] et seq.\] during fiscal years 1998, 1999, and 2000;
 
 >     “(2) payments made on a capitation or other risk-basis under such titles for coverage occurring during such period; and
 
@@ -2043,7 +2043,7 @@ For purposes of this subchapter—
 
 >         “(1) __In general.—__ 
 
->         The Secretary of Health and Human Services, in consultation with Governors, directors of State medicaid programs, the American Academy of Actuaries, and representatives of appropriate provider and beneficiary organizations, shall conduct a study of the provision of early and periodic screening, diagnostic, and treatment services under the medicaid program under title XIX of the Social Security Act \[this subchapter\] in accordance with the requirements of section 1905(r) of such Act ([42 U.S.C. 1396d(r)][/us/usc/t42/s1396d/r]).
+>         The Secretary of Health and Human Services, in consultation with Governors, directors of State medicaid programs, the American Academy of Actuaries, and representatives of appropriate provider and beneficiary organizations, shall conduct a study of the provision of early and periodic screening, diagnostic, and treatment services under the medicaid program under title XIX of the Social Security Act \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\] in accordance with the requirements of section 1905(r) of such Act ([42 U.S.C. 1396d(r)][/us/usc/t42/s1396d/r]).
 
 >         “(2) __Required contents.—__ 
 
@@ -2063,11 +2063,11 @@ For purposes of this subchapter—
 
 >     “(a) __In General.—__ 
 
->         (1) If the Secretary of Health and Human Services makes a determination that a psychiatric facility has failed to comply with certification of need requirements for inpatient psychiatric hospital services for individuals under age 21 pursuant to section 1905(h) of the Social Security Act \[subsec. (h) of this section\], and such determination has not been subject to a final judicial decision, any disallowance or deferral of Federal financial participation under such Act \[this chapter\] based on such determination shall only apply to the period of time beginning with the first day of noncompliance and ending with the date by which the psychiatric facility develops documentation (using plan of care or utilization review procedures) of the need for inpatient care with respect to such individuals.
+>         (1) If the Secretary of Health and Human Services makes a determination that a psychiatric facility has failed to comply with certification of need requirements for inpatient psychiatric hospital services for individuals under age 21 pursuant to section 1905(h) of the Social Security Act \[[42 U.S.C. 1396d(h)][/us/usc/t42/s1396d/h]\], and such determination has not been subject to a final judicial decision, any disallowance or deferral of Federal financial participation under such Act \[[42 U.S.C. 301][/us/usc/t42/s301] et seq.\] based on such determination shall only apply to the period of time beginning with the first day of noncompliance and ending with the date by which the psychiatric facility develops documentation (using plan of care or utilization review procedures) of the need for inpatient care with respect to such individuals.
 
 >         “(2)
 
->          Any disallowance of Federal financial participation under title XIX of the Social Security Act \[this subchapter\] relating to the failure of a psychiatric facility to comply with certification of need requirements—
+>          Any disallowance of Federal financial participation under title XIX of the Social Security Act \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\] relating to the failure of a psychiatric facility to comply with certification of need requirements—
 
 >             “(A) shall not exceed 25 percent of the amount of Federal financial participation for the period described in paragraph (1); and
 
@@ -2081,19 +2081,19 @@ For purposes of this subchapter—
 
 [Pub. L. 100–360, title IV, § 411][/us/pl/100/360/s411](l)(3)(C)(i), formerly § 411(l)(3)(C), July 1, 1988, [102 Stat. 803][/us/stat/102/803], as redesignated by [Pub. L. 100–485, title VI, § 608(d)(27)(E)][/us/pl/100/485/s608/d/27/E], Oct. 13, 1988, [102 Stat. 2423][/us/stat/102/2423], provided that: 
 
-> “Effective as of the date of the enactment of this Act \[July 1, 1988\] and until the effective date of section 1919(c) of such Act \[[section 1396r(c) of this title][/us/usc/t42/s1396r/c], see Effective Date note set out under [section 1396r of this title][/us/usc/t42/s1396r]\], section 1905(c) of the Social Security Act \[subsec. (c) of this section\] is deemed to include the requirement described in section 1919(c)(3)(A) of such Act (as inserted by section 4211(a)(3) of OBRA).”
+> “Effective as of the date of the enactment of this Act \[July 1, 1988\] and until the effective date of section 1919(c) of such Act \[[42 U.S.C. 1396r(c)][/us/usc/t42/s1396r/c], see Effective Date note set out under [42 U.S.C. 1396r][/us/usc/t42/s1396r]\], section 1905(c) of the Social Security Act \[[42 U.S.C. 1396d(c)][/us/usc/t42/s1396d/c]\] is deemed to include the requirement described in section 1919(c)(3)(A) of such Act (as inserted by section 4211(a)(3) of OBRA).”
 
  __Regulations for Intermediate Care Facilities for Mentally Retarded__ 
 
 [Pub. L. 99–272, title IX, § 9514][/us/pl/99/272/s9514], Apr. 7, 1986, [100 Stat. 213][/us/stat/100/213], provided that: 
 
-> “The Secretary of Health and Human Services shall promulgate proposed regulations revising standards for intermediate care facilities for the mentally retarded under title XIX of the Social Security Act \[this subchapter\] within 60 days after the date of the enactment of this Act \[Apr. 7, 1986\].”
+> “The Secretary of Health and Human Services shall promulgate proposed regulations revising standards for intermediate care facilities for the mentally retarded under title XIX of the Social Security Act \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\] within 60 days after the date of the enactment of this Act \[Apr. 7, 1986\].”
 
  __Life Safety Code Recognition__ 
 
 [Pub. L. 99–272, title IX, § 9515][/us/pl/99/272/s9515], Apr. 7, 1986, [100 Stat. 213][/us/stat/100/213], provided that: 
 
-> “For purposes of section 1905(c) of the Social Security Act \[subsec. (c) of this section\], an intermediate care facility for the mentally retarded (as defined in section 1905(d) of such Act) which meets the requirements of the relevant sections of the 1985 edition of the Life Safety Code of the National Fire Protection Association shall be deemed to meet the fire safety requirements for intermediate care facilities for the mentally retarded until such time as the Secretary specifies a later edition of the Life Safety Code for purposes of such section, or the Secretary determines that more stringent standards are necessary to protect the safety of residents of such facilities.”
+> “For purposes of section 1905(c) of the Social Security Act \[[42 U.S.C. 1396d(c)][/us/usc/t42/s1396d/c]\], an intermediate care facility for the mentally retarded (as defined in section 1905(d) of such Act) which meets the requirements of the relevant sections of the 1985 edition of the Life Safety Code of the National Fire Protection Association shall be deemed to meet the fire safety requirements for intermediate care facilities for the mentally retarded until such time as the Secretary specifies a later edition of the Life Safety Code for purposes of such section, or the Secretary determines that more stringent standards are necessary to protect the safety of residents of such facilities.”
 
  __Study of Federal Medical Assistance Percentage Formula and of Adjustments of Target Amounts for Federal Medicaid Expenditures; Report to Congress__ 
 
@@ -2101,7 +2101,7 @@ For purposes of this subchapter—
 
  __Costs Charged to Personal Funds of Patients in Intermediate Care Facilities; Costs Included in Charges for Services; Regulations__ 
 
-    [Pub. L. 95–292, § 8(c)][/us/pl/95/292/s8/c], (d)(2), June 13, 1978, [92 Stat. 316][/us/stat/92/316], required the Secretary of Health, Education, and Welfare to issue regulations, within 90 days after enactment of [Pub. L. 95–292][/us/pl/95/292] but not later than July 1, 1978, defining those costs that may be charged to the personal funds of patients in intermediate care facilities who are individuals receiving medical assistance under a State plan approved under title XIX of the Social Security Act, and those costs that are to be included in the reasonable cost or reasonable charge for intermediate care facility services. See [section 1302 of this title][/us/usc/t42/s1302].
+    [Pub. L. 95–292, § 8(c)][/us/pl/95/292/s8/c], (d)(2), June 13, 1978, [92 Stat. 316][/us/stat/92/316], required the Secretary of Health, Education, and Welfare \[now Health and Human Services\] to issue regulations, within 90 days after enactment of [Pub. L. 95–292][/us/pl/95/292] but not later than July 1, 1978, defining those costs that may be charged to the personal funds of patients in intermediate care facilities who are individuals receiving medical assistance under a State plan approved under title XIX of the Social Security Act, and those costs that are to be included in the reasonable cost or reasonable charge for intermediate care facility services. See [section 1302 of this title][/us/usc/t42/s1302].
 
 ----------
 
@@ -2784,6 +2784,7 @@ For purposes of this subchapter—
 [/us/usc/t42/s1396a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396a
 [/us/pl/103/66/s13631/g/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13631%2Fg%2F2
 [/us/stat/107/645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F645
+[/us/usc/t42/s1396d/r/1/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396d%2Fr%2F1%2FA%2Fi
 [/us/pl/101/508/s4402/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs4402%2Fd%2F2
 [/us/pl/101/508/s4402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs4402
 [/us/pl/101/508/s4402/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs4402%2Fe
@@ -2902,6 +2903,7 @@ For purposes of this subchapter—
 [/us/usc/t42/s1396a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396a
 [/us/pl/99/272/s9501/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs9501%2Fd%2F1
 [/us/stat/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F202
+[/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
 [/us/pl/99/272/s9505/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs9505%2Fa
 [/us/pl/99/272/s9505/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs9505%2Fe
 [/us/usc/t42/s1396a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396a
@@ -2944,6 +2946,7 @@ For purposes of this subchapter—
 [/us/usc/t42/s1396a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396a
 [/us/pl/92/603/s212/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603%2Fs212%2Fb
 [/us/stat/86/1384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1384
+[/us/usc/t42/s1396d/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396d%2Fe
 [/us/pl/92/603/s247/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603%2Fs247%2Fb
 [/us/pl/92/603/s247/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603%2Fs247%2Fc
 [/us/usc/t42/s1395f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395f
@@ -2959,6 +2962,8 @@ For purposes of this subchapter—
 [/us/pl/108/357/s712/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs712%2Fa%2F2
 [/us/stat/118/1558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1558
 [/us/usc/t42/s1396d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396d
+[/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
+[/us/usc/t42/s1396d/r]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396d%2Fr
 [/us/pl/106/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170
 [/us/pl/106/169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F169
 [/us/pl/106/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170
@@ -2982,19 +2987,28 @@ For purposes of this subchapter—
 [/us/stat/124/2393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2393
 [/us/usc/t42/s1396d/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396d%2Fb
 [/us/usc/t42/s1396d/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396d%2Fb
+[/us/usc/t42/s670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs670
+[/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
 [/us/usc/t42/s1396r–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396r%E2%80%934
 [/us/usc/t42/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs601
 [/us/usc/t42/s670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs670
+[/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
 [/us/usc/t42/s1397aa]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1397aa
+[/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
 [/us/usc/t42/s1397ee/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1397ee%2Fb
+[/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
 [/us/usc/t42/s1315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1315
 [/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
 [/us/usc/t42/s1315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1315
 [/us/usc/t42/s1397aa]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1397aa
+[/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
 [/us/usc/t42/s1315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1315
+[/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
 [/us/usc/t42/s1315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1315
 [/us/usc/t42/s1315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1315
 [/us/usc/t42/s1396a/a/37/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396a%2Fa%2F37%2FA
+[/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
+[/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
 [/us/usc/t42/s1315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1315
 [/us/usc/t42/s1397ee/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1397ee%2Fa%2F1%2FB
 [/us/usc/t42/s1397dd]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1397dd
@@ -3005,6 +3019,7 @@ For purposes of this subchapter—
 [/us/usc/t42/s1301/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1301%2Fa%2F1
 [/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
 [/us/pl/111/3/s614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F3%2Fs614
+[/us/usc/t42/s1397aa]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1397aa
 [/us/pl/111/3/s115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F3%2Fs115
 [/us/stat/123/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F35
 [/us/usc/t42/s1396d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396d
@@ -3012,6 +3027,7 @@ For purposes of this subchapter—
 [/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
 [/us/pl/111/3/s614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F3%2Fs614
 [/us/stat/123/101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F101
+[/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
 [/us/usc/t42/s1396/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396%2Fd
 [/us/pl/111/3/s1/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F3%2Fs1%2Fc
 [/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
@@ -3024,26 +3040,36 @@ For purposes of this subchapter—
 [/us/pl/106/554/s1/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F6
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
 [/us/usc/t42/s1396d/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396d%2Fb
+[/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
 [/us/pl/105/33/s4725/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs4725%2Fa
 [/us/stat/111/518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F518
 [/us/usc/t42/s1396d/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396d%2Fb
+[/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
+[/us/usc/t42/s1397aa]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1397aa
 [/us/usc/t42/s1396r–4/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396r%E2%80%934%2Ff
 [/us/pl/105/33/s4744]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs4744
 [/us/stat/111/524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F524
+[/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
 [/us/usc/t42/s1396d/r]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396d%2Fr
 [/us/usc/t42/s1396u–1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396u%E2%80%931%2Fa
 [/us/pl/101/508/s4706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs4706
 [/us/stat/104/1388-173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-173
+[/us/usc/t42/s1396d/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396d%2Fh
+[/us/usc/t42/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs301
+[/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
 [/us/pl/100/360/s411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360%2Fs411
 [/us/stat/102/803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F803
 [/us/pl/100/485/s608/d/27/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F485%2Fs608%2Fd%2F27%2FE
 [/us/stat/102/2423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2423
 [/us/usc/t42/s1396r/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396r%2Fc
 [/us/usc/t42/s1396r]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396r
+[/us/usc/t42/s1396d/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396d%2Fc
 [/us/pl/99/272/s9514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs9514
 [/us/stat/100/213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F213
+[/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
 [/us/pl/99/272/s9515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs9515
 [/us/stat/100/213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F213
+[/us/usc/t42/s1396d/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396d%2Fc
 [/us/pl/97/35/s2165]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2165
 [/us/stat/95/806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F806
 [/us/pl/95/292/s8/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F292%2Fs8%2Fc

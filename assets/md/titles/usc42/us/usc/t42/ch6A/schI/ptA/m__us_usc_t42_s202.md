@@ -185,7 +185,7 @@
 
     By virtue of the authority vested in me by [Section 301 of Title 3][/us/usc/t3/s301] of the United States Code, and as President of the United States, it is ordered as follows:
 
-Section 1. The Secretary of Health and Human Services is hereby authorized and empowered, without the approval, ratification, or other action of the President, to perform the following-described functions vested in the President under the Public Health Service Act ([58 Stat. 682][/us/stat/58/682]), as amended \[this chapter\]:
+Section 1. The Secretary of Health and Human Services is hereby authorized and empowered, without the approval, ratification, or other action of the President, to perform the following-described functions vested in the President under the Public Health Service Act ([58 Stat. 682][/us/stat/58/682]), as amended \[[42 U.S.C. 201][/us/usc/t42/s201] et seq.\]:
 
     (a) The authority under Section 203 ([42 U.S.C. 204][/us/usc/t42/s204]): to appoint commissioned officers of the Reserve Corps.
 
@@ -241,6 +241,7 @@ Section 1. The Secretary of Health and Human Services is hereby authorized and e
 [/us/usc/t20/s3508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs3508
 [/us/usc/t3/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs301
 [/us/stat/58/682]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F58%2F682
+[/us/usc/t42/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs201
 [/us/usc/t42/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs204
 [/us/usc/t42/s207/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs207%2Fb
 [/us/usc/t42/s209/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs209%2Fa%2F2

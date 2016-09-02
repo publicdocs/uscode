@@ -29,10 +29,6 @@
 
 ([Pub. L. 101–647, title II, § 219][/us/pl/101/647/s219], formerly § 218, Nov. 29, 1990, [104 Stat. 4796][/us/stat/104/4796]; [Pub. L. 103–322, title IV, § 40156(a)(1)][/us/pl/103/322/s40156/a/1], Sept. 13, 1994, [108 Stat. 1922][/us/stat/108/1922]; [Pub. L. 106–386, div. B, title III, § 1302(a)][/us/pl/106/386/s1302/a], Oct. 28, 2000, [114 Stat. 1511][/us/stat/114/1511]; renumbered § 219 and amended [Pub. L. 109–162, title I, § 112(d)(1)][/us/pl/109/162/s112/d/1], (e), Jan. 5, 2006, [119 Stat. 2986][/us/stat/119/2986]; [Pub. L. 113–4, title I, § 106(3)][/us/pl/113/4/s106/3], Mar. 7, 2013, [127 Stat. 77][/us/stat/127/77].)
 
- __Amendment of Section__ 
-
-For effective date of amendment by [Pub. L. 113–4][/us/pl/113/4], see Effective Date of 2013 Amendment note below.
-
  __References in Text__ 
 
     The Juvenile Justice and Delinquency Prevention Act of 1974, referred to in subsec. (b), is [Pub. L. 93–415][/us/pl/93/415], Sept. 7, 1974, [88 Stat. 1109][/us/stat/88/1109], as amended. Title II of the Act is classified principally to subchapter II (§ 5611 et seq.) of chapter 72 of this title. For complete classification of this Act to the Code, see Tables.
@@ -85,7 +81,6 @@ For effective date of amendment by [Pub. L. 113–4][/us/pl/113/4], see Effectiv
 [/us/stat/119/2986]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2986
 [/us/pl/113/4/s106/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs106%2F3
 [/us/stat/127/77]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F77
-[/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
 [/us/pl/93/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F415
 [/us/stat/88/1109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1109
 [/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4

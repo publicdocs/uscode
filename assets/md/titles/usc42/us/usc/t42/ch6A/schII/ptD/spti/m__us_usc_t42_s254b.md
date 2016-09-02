@@ -1173,7 +1173,7 @@
 
 [Pub. L. 107–251, title V, § 501][/us/pl/107/251/s501], Oct. 26, 2002, [116 Stat. 1664][/us/stat/116/1664], as amended by [Pub. L. 108–163, § 2(n)(2)][/us/pl/108/163/s2/n/2], Dec. 6, 2003, [117 Stat. 2023][/us/stat/117/2023], provided that: 
 
-> “The Secretary of Health and Human Services shall conduct a study regarding the ability of the Department of Health and Human Services to provide for guarantees of solvency for managed care networks or plans involving health centers receiving funding under section 330 of the Public Health Service Act \[this section\]. The Secretary shall prepare and submit a report to the appropriate Committees of Congress regarding such ability not later than 2 years after the date of enactment of the Health Care Safety Net Amendments of 2002 \[Oct. 26, 2002\].”
+> “The Secretary of Health and Human Services shall conduct a study regarding the ability of the Department of Health and Human Services to provide for guarantees of solvency for managed care networks or plans involving health centers receiving funding under section 330 of the Public Health Service Act \[[42 U.S.C. 254b][/us/usc/t42/s254b]\]. The Secretary shall prepare and submit a report to the appropriate Committees of Congress regarding such ability not later than 2 years after the date of enactment of the Health Care Safety Net Amendments of 2002 \[Oct. 26, 2002\].”
 
  __Reference to Community, Migrant, Public Housing, or Homeless Health Center Considered Reference to Health Center__ 
 
@@ -1423,6 +1423,7 @@
 [/us/stat/116/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1664
 [/us/pl/108/163/s2/n/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F163%2Fs2%2Fn%2F2
 [/us/stat/117/2023]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2023
+[/us/usc/t42/s254b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs254b
 [/us/pl/104/299/s4/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F299%2Fs4%2Fc
 [/us/stat/110/3645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3645
 [/us/pl/104/299]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F299

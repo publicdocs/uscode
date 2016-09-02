@@ -71,7 +71,7 @@ In accordance with regulations prescribed by the Secretary—
 
 [Pub. L. 99–272, title X, § 10003(c)][/us/pl/99/272/s10003/c], Apr. 7, 1986, [100 Stat. 236][/us/stat/100/236], provided that: 
 
-> “At the time that the amendments made by this section \[enacting this subchapter\] apply to a group health plan (covered under section 2201 of the Public Health Service Act \[[section 300bb–1 of this title][/us/usc/t42/s300bb–1]\]), the plan shall notify each covered employee, and spouse of the employee (if any), who is covered under the plan at that time of the continuation coverage required under title XXII of such Act \[this subchapter\]. The notice furnished under this subsection is in lieu of notice that may otherwise be required under section 2206(1) of such Act \[par. (1) of this section\] with respect to such individuals.”
+> “At the time that the amendments made by this section \[enacting this subchapter\] apply to a group health plan (covered under section 2201 of the Public Health Service Act \[[42 U.S.C. 300bb–1][/us/usc/t42/s300bb–1]\]), the plan shall notify each covered employee, and spouse of the employee (if any), who is covered under the plan at that time of the continuation coverage required under title XXII of such Act \[[42 U.S.C. 300bb–1][/us/usc/t42/s300bb–1] et seq.\]. The notice furnished under this subsection is in lieu of notice that may otherwise be required under section 2206(1) of such Act \[[42 U.S.C. 300bb–6(1)][/us/usc/t42/s300bb–6/1]\] with respect to such individuals.”
 
 ----------
 
@@ -122,5 +122,7 @@ In accordance with regulations prescribed by the Secretary—
 [/us/pl/99/272/s10003/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs10003%2Fc
 [/us/stat/100/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F236
 [/us/usc/t42/s300bb–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300bb%E2%80%931
+[/us/usc/t42/s300bb–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300bb%E2%80%931
+[/us/usc/t42/s300bb–6/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300bb%E2%80%936%2F1
 
 

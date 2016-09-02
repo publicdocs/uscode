@@ -267,7 +267,7 @@
 
 >     “(1) The amendment made by subsection (a) \[amending this section\] shall apply to months beginning after the end of the 60-day period beginning on the date of enactment of this Act \[Dec. 22, 1987\].
 
->     “(2) The amendment made by subsection (a) shall not apply so as to include (for the purposes described in section 226(f) of the Social Security Act \[subsec. (f) of this section\]) monthly benefits paid for any month in a previous period (described in that section) that terminated before the end of the 60-day period described in paragraph (1).”
+>     “(2) The amendment made by subsection (a) shall not apply so as to include (for the purposes described in section 226(f) of the Social Security Act \[[42 U.S.C. 426(f)][/us/usc/t42/s426/f]\]) monthly benefits paid for any month in a previous period (described in that section) that terminated before the end of the 60-day period described in paragraph (1).”
 
     Amendment by [section 9010(e)(3) of Pub. L. 100–203][/us/pl/100/203/s9010/e/3] effective Jan. 1, 1988, and applicable with respect to individuals entitled to benefits under specific provisions of sections 402 and 423 of this title for any month after December 1987, and individuals entitled to benefits payable under specific provisions of sections 402 and 423 of this title for any month before January 1988 and with respect to whom the 15-month period described in the applicable provision amended by [section 9010 of Pub. L. 100–203][/us/pl/100/203/s9010] has not elapsed as of Jan. 1, 1988, see [section 9010(f) of Pub. L. 100–203][/us/pl/100/203/s9010/f], set out as a note under [section 402 of this title][/us/usc/t42/s402].
 
@@ -299,15 +299,15 @@
 
 >             “(A) __In general.—The amendments made by subsection (b) \[amending this section and sections 410, 426–1, and 1395c of this title\] are effective on and after__  __January 1, 1983__  __, and the amendments made by paragraph (2) of that subsection \[amending this section and__  __[__  __section 426–1 of this title__  __][/us/usc/t42/s426–1]__  __\] apply to remuneration (for medicare qualified Federal employment) paid after__  __December 31, 1982__  __.__ 
 
->             “(B) __Treatment of current disabilities.—For purposes of establishing entitlement to hospital insurance benefits under part A of title XVIII of the Social Security Act \[section 1395c et seq. of this title\] pursuant to the amendments made by subsection (b) or the provisions of subsection (d), no individual may be considered to be under a disability for any period before__  __January 1, 1983__  __.__ 
+>             “(B) __Treatment of current disabilities.—For purposes of establishing entitlement to hospital insurance benefits under part A of title XVIII of the Social Security Act \[__  __[__  __42 U.S.C. 1395c__  __][/us/usc/t42/s1395c]__  __et seq.\] pursuant to the amendments made by subsection (b) or the provisions of subsection (d), no individual may be considered to be under a disability for any period before__  __January 1, 1983__  __.__ 
 
 >     “(d) __Transitional Provisions.—__ 
 
->         “(1) __In general.—For purposes of sections 226, 226A, and 1811 of the Social Security Act \[this section and sections 426–1 and 1395c of this title\], in the case of any individual who performs service both during January 1983, and before__  __January 1, 1983__  __, which constitutes medicare qualified Federal employment (as defined in section 210(p) of such Act \[__  __[__  __section 410(p) of this title__  __][/us/usc/t42/s410/p]__  __\]), the individual’s medicare qualified Federal employment (as so defined) performed before__  __January 1, 1983__  __, for which remuneration was paid before such date, shall be considered to be ‘employment’ (as defined for purposes of title II of such Act \[this subchapter\]), but only for the purpose of providing the individual (or another person) with entitlement to hospital insurance benefits under part A of title XVIII of such Act \[section 1395c et seq. of this title\].__ 
+>         “(1) __In general.—For purposes of sections 226, 226A, and 1811 of the Social Security Act \[__  __[__  __42 U.S.C. 426__  __][/us/usc/t42/s426]__  __, 426–1, 1395c\], in the case of any individual who performs service both during January 1983, and before__  __January 1, 1983__  __, which constitutes medicare qualified Federal employment (as defined in section 210(p) of such Act \[__  __[__  __42 U.S.C. 410(p)__  __][/us/usc/t42/s410/p]__  __\]), the individual’s medicare qualified Federal employment (as so defined) performed before__  __January 1, 1983__  __, for which remuneration was paid before such date, shall be considered to be ‘employment’ (as defined for purposes of title II of such Act \[__  __[__  __42 U.S.C. 401__  __][/us/usc/t42/s401]__  __et seq.\]), but only for the purpose of providing the individual (or another person) with entitlement to hospital insurance benefits under part A of title XVIII of such Act \[__  __[__  __42 U.S.C. 1395c__  __][/us/usc/t42/s1395c]__  __et seq.\].__ 
 
 >         “(2) __Appropriations.—There are authorized to be appropriated to the Federal Hospital Insurance Trust Fund from time to time such sums as the Secretary of Health and Human Services deems necessary for any fiscal year, on account of—__ 
 
->             “(A) payments made or to be made during such fiscal year from such Trust Fund with respect to individuals who are entitled to benefits under title XVIII of the Social Security Act \[section 1395 et seq. of this title\] solely by reason of paragraph (1) of this subsection,
+>             “(A) payments made or to be made during such fiscal year from such Trust Fund with respect to individuals who are entitled to benefits under title XVIII of the Social Security Act \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\] solely by reason of paragraph (1) of this subsection,
 
 >             “(B) the additional administrative expenses resulting or expected to result therefrom, and
 
@@ -357,7 +357,7 @@
 
 [Pub. L. 93–58, § 4(a)][/us/pl/93/58/s4/a], July 6, 1973, [87 Stat. 142][/us/stat/87/142], provided that: 
 
-> “The provisions of this Act \[amending this section and sections 228c and 228e of Title 45, Railroads\], except the provisions of section 1, shall be effective as of the date the corresponding provisions of [Public Law 92–603][/us/pl/92/603] are effective as follows: clause (xi) \[[section 228c(e)(xi) of Title 45][/us/usc/t45/s228c/e/xi]\] effective with respect to services provided on and after July 1, 1973. The provisions of clauses (xi) and (xii), which are added by section 1 of this Act, shall be effective as follows: clause (xi) \[[section 228c(e)(xi) of Title 45][/us/usc/t45/s228c/e/xi]\] shall be effective with respect to calendar years after 1971 for annuities accruing after December 1972; and clause (xii) \[[section 228c(e)(xii) of Title 45][/us/usc/t45/s228c/e/xii] shall be effective as of the date the delayed retirement provision of [Public Law 92–603][/us/pl/92/603] is effective \[[section 402(w) of this title][/us/usc/t42/s402/w] applicable with respect to old-age insurance benefits payable under this subchapter for months beginning after 1972\].”
+> “The provisions of this Act \[amending this section and sections 228c and 228e of Title 45, Railroads\], except the provisions of section 1, shall be effective as of the date the corresponding provisions of [Public Law 92–603][/us/pl/92/603] are effective as follows: clause (xi) \[[45 U.S.C. 228c(e)(xi)][/us/usc/t45/s228c/e/xi]\] effective with respect to services provided on and after July 1, 1973. The provisions of clauses (xi) and (xii), which are added by section 1 of this Act, shall be effective as follows: clause (xi) \[[45 U.S.C. 228c(e)(xi)][/us/usc/t45/s228c/e/xi]\] shall be effective with respect to calendar years after 1971 for annuities accruing after December 1972; and clause (xii) \[[45 U.S.C. 228c(e)(xii)][/us/usc/t45/s228c/e/xii]\] shall be effective as of the date the delayed retirement provision of [Public Law 92–603][/us/pl/92/603] is effective \[[42 U.S.C. 402(w)][/us/usc/t42/s402/w] applicable with respect to old-age insurance benefits payable under this subchapter for months beginning after 1972\].”
 
  __Effective Date of 1972 Amendment__ 
 
@@ -371,7 +371,7 @@
 
 [Pub. L. 96–473, § 2(c)][/us/pl/96/473/s2/c], Oct. 19, 1980, [94 Stat. 2263][/us/stat/94/2263], provided that: 
 
-> “For purposes of section 226 of such Act \[this section\] as amended by subsection (a) of this section, an individual who filed an application for monthly insurance benefits under section 202 of such Act \[[section 402 of this title][/us/usc/t42/s402]\] prior to the effective date of the amendment made by subsection (a) \[see [section 2(c) of Pub. L. 96–473][/us/pl/96/473/s2/c], set out above as an Effective Date of 1980 Amendment note\] shall be deemed to have filed an application for hospital insurance benefits under part A of title XVIII of such Act \[part A of subchapter XVIII of this chapter\] at the time he applied for such benefits under section 202 regardless of the continuing status or effect of the application for benefits under section 202, if he would have been entitled to benefits under that section had such application remained in effect.”
+> “For purposes of section 226 of such Act \[[42 U.S.C. 426][/us/usc/t42/s426]\] as amended by subsection (a) of this section, an individual who filed an application for monthly insurance benefits under section 202 of such Act \[[42 U.S.C. 402][/us/usc/t42/s402]\] prior to the effective date of the amendment made by subsection (a) \[see [section 2(c) of Pub. L. 96–473][/us/pl/96/473/s2/c], set out above as an Effective Date of 1980 Amendment note\] shall be deemed to have filed an application for hospital insurance benefits under part A of title XVIII of such Act \[[42 U.S.C. 1395c][/us/usc/t42/s1395c] et seq.\] at the time he applied for such benefits under section 202 regardless of the continuing status or effect of the application for benefits under section 202, if he would have been entitled to benefits under that section had such application remained in effect.”
 
  __GAO Report__ 
 
@@ -395,7 +395,7 @@
 
 [Pub. L. 98–21, title III, § 309(q)(2)][/us/pl/98/21/s309/q/2], Apr. 20, 1983, [97 Stat. 117][/us/stat/97/117], provided that: 
 
-> “For purposes of determining entitlement to hospital insurance benefits under section 226(e)(3) of such Act \[subsec. (e)(3) of this section\], as amended by paragraph (1), an individual becoming entitled to such hospital insurance benefits as a result of the amendment made by such paragraph shall, upon furnishing proof of his or her disability within twelve months after the month in which this Act is enacted \[April 1983\], under such procedures as the Secretary of Health and Human Services may prescribe, be deemed to have been entitled to the widow’s or widower’s benefits referred to in such section 226(e)(3), as so amended, as of the time such individual would have been entitled to such widow’s or widower’s benefits if he or she had filed a timely application therefor.”
+> “For purposes of determining entitlement to hospital insurance benefits under section 226(e)(3) of such Act \[[42 U.S.C. 426(e)(3)][/us/usc/t42/s426/e/3]\], as amended by paragraph (1), an individual becoming entitled to such hospital insurance benefits as a result of the amendment made by such paragraph shall, upon furnishing proof of his or her disability within twelve months after the month in which this Act is enacted \[April 1983\], under such procedures as the Secretary of Health and Human Services may prescribe, be deemed to have been entitled to the widow’s or widower’s benefits referred to in such section 226(e)(3), as so amended, as of the time such individual would have been entitled to such widow’s or widower’s benefits if he or she had filed a timely application therefor.”
 
  __Special $50 Payment Under Tax Reduction Act of 1975__ 
 
@@ -405,7 +405,7 @@
 
 [Pub. L. 93–58, § 4(b)][/us/pl/93/58/s4/b], July 6, 1973, [87 Stat. 142][/us/stat/87/142], provided that: 
 
-> “Any child (1) whose entitlement to an annuity under section 5(c) of the Railroad Retirement Act \[[section 228e(c) of Title 45][/us/usc/t45/s228e/c], Railroads\] was terminated by reason of his adoption prior to the enactment of this Act \[July 6, 1973\], and (2) who, except for such adoption, would be entitled to an annuity under such section for a month after the month in which this Act is enacted \[July 1973\], may, upon filing application for an annuity under the Railroad Retirement Act \[section 228a et seq. of Title 45\] after the date of enactment of this Act \[July 6, 1973\], become reentitled to such annuity; except that no child shall, by reason of the enactment of this Act \[amending this section and sections 228c, 228e of Title 45\] become reentitled to such annuity for any month prior to the effective date of the relevant amendments made by this Act to section 5(l)(1)(ii) of the Railroad Retirement Act \[section 228e(l)(1)(ii)\].”
+> “Any child (1) whose entitlement to an annuity under section 5(c) of the Railroad Retirement Act \[[45 U.S.C. 228e(c)][/us/usc/t45/s228e/c]\] was terminated by reason of his adoption prior to the enactment of this Act \[July 6, 1973\], and (2) who, except for such adoption, would be entitled to an annuity under such section for a month after the month in which this Act is enacted \[July 1973\], may, upon filing application for an annuity under the Railroad Retirement Act \[[45 U.S.C. 228e][/us/usc/t45/s228e] et seq.\] after the date of enactment of this Act \[July 6, 1973\], become reentitled to such annuity; except that no child shall, by reason of the enactment of this Act \[amending this section and sections 228c, 228e of Title 45\] become reentitled to such annuity for any month prior to the effective date of the relevant amendments made by this Act to section 5(l)(1)(ii) of the Railroad Retirement Act \[[45 U.S.C. 228e][/us/usc/t45/s228e](l)(1)(ii)\].”
 
 ----------
 
@@ -600,6 +600,7 @@
 [/us/stat/101/1330-77]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-77
 [/us/pl/100/360/s411/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360%2Fs411%2Fe%2F2
 [/us/stat/102/775]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F775
+[/us/usc/t42/s426/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs426%2Ff
 [/us/pl/100/203/s9010/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs9010%2Fe%2F3
 [/us/pl/100/203/s9010]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs9010
 [/us/pl/100/203/s9010/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs9010%2Ff
@@ -625,7 +626,12 @@
 [/us/pl/97/448/s309/a/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F448%2Fs309%2Fa%2F10
 [/us/stat/96/2408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2408
 [/us/usc/t42/s426–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs426%E2%80%931
+[/us/usc/t42/s1395c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395c
+[/us/usc/t42/s426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs426
 [/us/usc/t42/s410/p]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs410%2Fp
+[/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
+[/us/usc/t42/s1395c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395c
+[/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
 [/us/pl/97/35/s2203/f/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2203%2Ff%2F3
 [/us/stat/95/837]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F837
 [/us/pl/97/248/s128/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs128%2Fc%2F2
@@ -668,18 +674,23 @@
 [/us/pl/96/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F473
 [/us/pl/96/473/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F473%2Fs2%2Fc
 [/us/stat/94/2263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2263
+[/us/usc/t42/s426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs426
 [/us/usc/t42/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs402
 [/us/pl/96/473/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F473%2Fs2%2Fc
+[/us/usc/t42/s1395c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395c
 [/us/pl/106/170/s202/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170%2Fs202%2Fc
 [/us/stat/113/1894]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1894
 [/us/usc/t42/s426/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs426%2Fb
 [/us/usc/t42/s430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs430
 [/us/pl/98/21/s309/q/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21%2Fs309%2Fq%2F2
 [/us/stat/97/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F117
+[/us/usc/t42/s426/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs426%2Fe%2F3
 [/us/pl/94/12/s702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F12%2Fs702
 [/us/usc/t42/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs402
 [/us/pl/93/58/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F58%2Fs4%2Fb
 [/us/stat/87/142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F142
 [/us/usc/t45/s228e/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft45%2Fs228e%2Fc
+[/us/usc/t45/s228e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft45%2Fs228e
+[/us/usc/t45/s228e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft45%2Fs228e
 
 

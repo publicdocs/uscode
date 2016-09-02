@@ -33,7 +33,7 @@ SUBCHAPTER I—SEX OFFENDER REGISTRATION AND NOTIFICATION  </td>
 
   <tr>
 
-    <td> 16901.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs16901" data-uslm-ref="/us/usc/t42/s16901">16901.</a>  </td>
 
     <td> Declaration of purpose.  </td>
 
@@ -41,7 +41,7 @@ SUBCHAPTER I—SEX OFFENDER REGISTRATION AND NOTIFICATION  </td>
 
   <tr>
 
-    <td> 16902.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs16902" data-uslm-ref="/us/usc/t42/s16902">16902.</a>  </td>
 
     <td> Establishment of program.  </td>
 
@@ -57,7 +57,7 @@ Part A—Sex Offender Registration and Notification  </td>
 
   <tr>
 
-    <td> 16911.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs16911" data-uslm-ref="/us/usc/t42/s16911">16911.</a>  </td>
 
     <td> Relevant definitions, including Amie Zyla expansion of sex offender definition and expanded inclusion of child predators.  </td>
 
@@ -65,7 +65,7 @@ Part A—Sex Offender Registration and Notification  </td>
 
   <tr>
 
-    <td> 16912.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs16912" data-uslm-ref="/us/usc/t42/s16912">16912.</a>  </td>
 
     <td> Registry requirements for jurisdictions.  </td>
 
@@ -73,7 +73,7 @@ Part A—Sex Offender Registration and Notification  </td>
 
   <tr>
 
-    <td> 16913.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs16913" data-uslm-ref="/us/usc/t42/s16913">16913.</a>  </td>
 
     <td> Registry requirements for sex offenders.  </td>
 
@@ -81,7 +81,7 @@ Part A—Sex Offender Registration and Notification  </td>
 
   <tr>
 
-    <td> 16914.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs16914" data-uslm-ref="/us/usc/t42/s16914">16914.</a>  </td>
 
     <td> Information required in registration.  </td>
 
@@ -89,7 +89,7 @@ Part A—Sex Offender Registration and Notification  </td>
 
   <tr>
 
-    <td> 16915.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs16915" data-uslm-ref="/us/usc/t42/s16915">16915.</a>  </td>
 
     <td> Duration of registration requirement.  </td>
 
@@ -97,7 +97,7 @@ Part A—Sex Offender Registration and Notification  </td>
 
   <tr>
 
-    <td> 16915a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs16915a" data-uslm-ref="/us/usc/t42/s16915a">16915a.</a>  </td>
 
     <td> Direction to the Attorney General.  </td>
 
@@ -105,7 +105,7 @@ Part A—Sex Offender Registration and Notification  </td>
 
   <tr>
 
-    <td> 16915b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs16915b" data-uslm-ref="/us/usc/t42/s16915b">16915b.</a>  </td>
 
     <td> Checking system for social networking websites.  </td>
 
@@ -113,7 +113,7 @@ Part A—Sex Offender Registration and Notification  </td>
 
   <tr>
 
-    <td> 16916.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs16916" data-uslm-ref="/us/usc/t42/s16916">16916.</a>  </td>
 
     <td> Periodic in person verification.  </td>
 
@@ -121,7 +121,7 @@ Part A—Sex Offender Registration and Notification  </td>
 
   <tr>
 
-    <td> 16917.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs16917" data-uslm-ref="/us/usc/t42/s16917">16917.</a>  </td>
 
     <td> Duty to notify sex offenders of registration requirements and to register.  </td>
 
@@ -129,7 +129,7 @@ Part A—Sex Offender Registration and Notification  </td>
 
   <tr>
 
-    <td> 16918.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs16918" data-uslm-ref="/us/usc/t42/s16918">16918.</a>  </td>
 
     <td> Public access to sex offender information through the Internet.  </td>
 
@@ -137,7 +137,7 @@ Part A—Sex Offender Registration and Notification  </td>
 
   <tr>
 
-    <td> 16919.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs16919" data-uslm-ref="/us/usc/t42/s16919">16919.</a>  </td>
 
     <td> National Sex Offender Registry.  </td>
 
@@ -145,7 +145,7 @@ Part A—Sex Offender Registration and Notification  </td>
 
   <tr>
 
-    <td> 16920.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs16920" data-uslm-ref="/us/usc/t42/s16920">16920.</a>  </td>
 
     <td> Dru Sjodin National Sex Offender Public Website.  </td>
 
@@ -153,7 +153,7 @@ Part A—Sex Offender Registration and Notification  </td>
 
   <tr>
 
-    <td> 16921.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs16921" data-uslm-ref="/us/usc/t42/s16921">16921.</a>  </td>
 
     <td> Megan Nicole Kanka and Alexandra Nicole Zapp Community Notification Program.  </td>
 
@@ -161,7 +161,7 @@ Part A—Sex Offender Registration and Notification  </td>
 
   <tr>
 
-    <td> 16922.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs16922" data-uslm-ref="/us/usc/t42/s16922">16922.</a>  </td>
 
     <td> Actions to be taken when sex offender fails to comply.  </td>
 
@@ -169,7 +169,7 @@ Part A—Sex Offender Registration and Notification  </td>
 
   <tr>
 
-    <td> 16923.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs16923" data-uslm-ref="/us/usc/t42/s16923">16923.</a>  </td>
 
     <td> Development and availability of registry management and website software.  </td>
 
@@ -177,7 +177,7 @@ Part A—Sex Offender Registration and Notification  </td>
 
   <tr>
 
-    <td> 16924.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs16924" data-uslm-ref="/us/usc/t42/s16924">16924.</a>  </td>
 
     <td> Period for implementation by jurisdictions.  </td>
 
@@ -185,7 +185,7 @@ Part A—Sex Offender Registration and Notification  </td>
 
   <tr>
 
-    <td> 16925.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs16925" data-uslm-ref="/us/usc/t42/s16925">16925.</a>  </td>
 
     <td> Failure of jurisdiction to comply.  </td>
 
@@ -193,7 +193,7 @@ Part A—Sex Offender Registration and Notification  </td>
 
   <tr>
 
-    <td> 16926.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs16926" data-uslm-ref="/us/usc/t42/s16926">16926.</a>  </td>
 
     <td> Sex Offender Management Assistance (SOMA) program.  </td>
 
@@ -201,7 +201,7 @@ Part A—Sex Offender Registration and Notification  </td>
 
   <tr>
 
-    <td> 16927.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs16927" data-uslm-ref="/us/usc/t42/s16927">16927.</a>  </td>
 
     <td> Election by Indian tribes.  </td>
 
@@ -209,7 +209,7 @@ Part A—Sex Offender Registration and Notification  </td>
 
   <tr>
 
-    <td> 16928.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs16928" data-uslm-ref="/us/usc/t42/s16928">16928.</a>  </td>
 
     <td> Registration of sex offenders entering the United States.  </td>
 
@@ -217,7 +217,7 @@ Part A—Sex Offender Registration and Notification  </td>
 
   <tr>
 
-    <td> 16929.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs16929" data-uslm-ref="/us/usc/t42/s16929">16929.</a>  </td>
 
     <td> Immunity for good faith conduct.  </td>
 
@@ -233,7 +233,7 @@ Part B—Improving Federal Criminal Law Enforcement To Ensure Sex Offender Compl
 
   <tr>
 
-    <td> 16941.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs16941" data-uslm-ref="/us/usc/t42/s16941">16941.</a>  </td>
 
     <td> Federal assistance with respect to violations of registration requirements.  </td>
 
@@ -241,7 +241,7 @@ Part B—Improving Federal Criminal Law Enforcement To Ensure Sex Offender Compl
 
   <tr>
 
-    <td> 16942.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs16942" data-uslm-ref="/us/usc/t42/s16942">16942.</a>  </td>
 
     <td> Project Safe Childhood.  </td>
 
@@ -249,7 +249,7 @@ Part B—Improving Federal Criminal Law Enforcement To Ensure Sex Offender Compl
 
   <tr>
 
-    <td> 16943.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs16943" data-uslm-ref="/us/usc/t42/s16943">16943.</a>  </td>
 
     <td> Federal assistance in identification and location of sex offenders relocated as a result of a major disaster.  </td>
 
@@ -257,7 +257,7 @@ Part B—Improving Federal Criminal Law Enforcement To Ensure Sex Offender Compl
 
   <tr>
 
-    <td> 16944.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs16944" data-uslm-ref="/us/usc/t42/s16944">16944.</a>  </td>
 
     <td> Expansion of training and technology efforts.  </td>
 
@@ -265,7 +265,7 @@ Part B—Improving Federal Criminal Law Enforcement To Ensure Sex Offender Compl
 
   <tr>
 
-    <td> 16945.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs16945" data-uslm-ref="/us/usc/t42/s16945">16945.</a>  </td>
 
     <td> Office of Sex Offender Sentencing, Monitoring, Apprehending, Registering, and Tracking.  </td>
 
@@ -281,7 +281,7 @@ Part C—Access to Information and Resources Needed To Ensure That Children Are 
 
   <tr>
 
-    <td> 16961.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs16961" data-uslm-ref="/us/usc/t42/s16961">16961.</a>  </td>
 
     <td> Access to national crime information databases.  </td>
 
@@ -289,7 +289,7 @@ Part C—Access to Information and Resources Needed To Ensure That Children Are 
 
   <tr>
 
-    <td> 16962.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs16962" data-uslm-ref="/us/usc/t42/s16962">16962.</a>  </td>
 
     <td> Schools SAFE Act.  </td>
 
@@ -305,7 +305,7 @@ SUBCHAPTER II—CIVIL COMMITMENT OF DANGEROUS SEX OFFENDERS  </td>
 
   <tr>
 
-    <td> 16971.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs16971" data-uslm-ref="/us/usc/t42/s16971">16971.</a>  </td>
 
     <td> Jimmy Ryce State civil commitment programs for sexually dangerous persons.  </td>
 
@@ -321,7 +321,7 @@ SUBCHAPTER III—GRANTS AND OTHER PROVISIONS  </td>
 
   <tr>
 
-    <td> 16981.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs16981" data-uslm-ref="/us/usc/t42/s16981">16981.</a>  </td>
 
     <td> Pilot program for monitoring sexual offenders.  </td>
 
@@ -329,7 +329,7 @@ SUBCHAPTER III—GRANTS AND OTHER PROVISIONS  </td>
 
   <tr>
 
-    <td> 16982.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs16982" data-uslm-ref="/us/usc/t42/s16982">16982.</a>  </td>
 
     <td> Assistance for prosecution of cases cleared through use of DNA backlog clearance funds.  </td>
 
@@ -337,7 +337,7 @@ SUBCHAPTER III—GRANTS AND OTHER PROVISIONS  </td>
 
   <tr>
 
-    <td> 16983.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs16983" data-uslm-ref="/us/usc/t42/s16983">16983.</a>  </td>
 
     <td> Grants to combat sexual abuse of children.  </td>
 
@@ -345,7 +345,7 @@ SUBCHAPTER III—GRANTS AND OTHER PROVISIONS  </td>
 
   <tr>
 
-    <td> 16984.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs16984" data-uslm-ref="/us/usc/t42/s16984">16984.</a>  </td>
 
     <td> Grants for fingerprinting programs for children.  </td>
 
@@ -353,7 +353,7 @@ SUBCHAPTER III—GRANTS AND OTHER PROVISIONS  </td>
 
   <tr>
 
-    <td> 16985.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs16985" data-uslm-ref="/us/usc/t42/s16985">16985.</a>  </td>
 
     <td> Grants for Rape, Abuse &amp; Incest National Network.  </td>
 
@@ -361,7 +361,7 @@ SUBCHAPTER III—GRANTS AND OTHER PROVISIONS  </td>
 
   <tr>
 
-    <td> 16986.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs16986" data-uslm-ref="/us/usc/t42/s16986">16986.</a>  </td>
 
     <td> Children’s safety online awareness campaigns.  </td>
 
@@ -369,7 +369,7 @@ SUBCHAPTER III—GRANTS AND OTHER PROVISIONS  </td>
 
   <tr>
 
-    <td> 16987.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs16987" data-uslm-ref="/us/usc/t42/s16987">16987.</a>  </td>
 
     <td> Grants for online child safety programs.  </td>
 
@@ -377,7 +377,7 @@ SUBCHAPTER III—GRANTS AND OTHER PROVISIONS  </td>
 
   <tr>
 
-    <td> 16988.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs16988" data-uslm-ref="/us/usc/t42/s16988">16988.</a>  </td>
 
     <td> Jessica Lunsford Address Verification Grant Program.  </td>
 
@@ -385,7 +385,7 @@ SUBCHAPTER III—GRANTS AND OTHER PROVISIONS  </td>
 
   <tr>
 
-    <td> 16989.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs16989" data-uslm-ref="/us/usc/t42/s16989">16989.</a>  </td>
 
     <td> Fugitive Safe Surrender.  </td>
 
@@ -393,7 +393,7 @@ SUBCHAPTER III—GRANTS AND OTHER PROVISIONS  </td>
 
   <tr>
 
-    <td> 16990.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs16990" data-uslm-ref="/us/usc/t42/s16990">16990.</a>  </td>
 
     <td> National registry of substantiated cases of child abuse.  </td>
 
@@ -401,7 +401,7 @@ SUBCHAPTER III—GRANTS AND OTHER PROVISIONS  </td>
 
   <tr>
 
-    <td> 16991.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs16991" data-uslm-ref="/us/usc/t42/s16991">16991.</a>  </td>
 
     <td> Annual report on enforcement of registration requirements.  </td>
 

@@ -25,11 +25,11 @@
 
 >     “(1) __Requirement.—__ 
 
->     The requirement of this paragraph, with respect to a group health plan for plan years beginning after the date of the enactment of this Act \[Aug. 10, 1993\], is that the group health plan not reduce its coverage of the costs of pediatric vaccines (as defined under section 1928(h)(6) of the Social Security Act \[[section 1396s(h)(6) of this title][/us/usc/t42/s1396s/h/6]\]) below the coverage it provided as of May 1, 1993.
+>     The requirement of this paragraph, with respect to a group health plan for plan years beginning after the date of the enactment of this Act \[Aug. 10, 1993\], is that the group health plan not reduce its coverage of the costs of pediatric vaccines (as defined under section 1928(h)(6) of the Social Security Act \[[42 U.S.C. 1396s(h)(6)][/us/usc/t42/s1396s/h/6]\]) below the coverage it provided as of May 1, 1993.
 
 >     “(2) __Enforcement.—__ 
 
->     For purposes of section 2207 of the Public Health Service Act \[this section\], the requirement of paragraph (1) is deemed a requirement of title XXII of such Act \[this subchapter\].”
+>     For purposes of section 2207 of the Public Health Service Act \[[42 U.S.C. 300bb–7][/us/usc/t42/s300bb–7]\], the requirement of paragraph (1) is deemed a requirement of title XXII of such Act \[[42 U.S.C. 300bb–1][/us/usc/t42/s300bb–1] et seq.\].”
 
 ----------
 
@@ -44,5 +44,7 @@
 [/us/pl/103/66/s13631/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13631%2Fd
 [/us/stat/107/643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F643
 [/us/usc/t42/s1396s/h/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396s%2Fh%2F6
+[/us/usc/t42/s300bb–7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300bb%E2%80%937
+[/us/usc/t42/s300bb–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300bb%E2%80%931
 
 

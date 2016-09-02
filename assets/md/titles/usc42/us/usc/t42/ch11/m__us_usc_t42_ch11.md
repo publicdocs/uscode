@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1651.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs1651" data-uslm-ref="/us/usc/t42/s1651">1651.</a>  </td>
 
     <td> Compensation authorized.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 1652.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs1652" data-uslm-ref="/us/usc/t42/s1652">1652.</a>  </td>
 
     <td> Computation of benefits; application to aliens and nonnationals.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 1653.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs1653" data-uslm-ref="/us/usc/t42/s1653">1653.</a>  </td>
 
     <td> Compensation districts; judicial proceedings.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 1654.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs1654" data-uslm-ref="/us/usc/t42/s1654">1654.</a>  </td>
 
     <td> Persons excluded from benefits.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 1655.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs1655" data-uslm-ref="/us/usc/t42/s1655">1655.</a>  </td>
 
     <td> Requirement for Department of Defense to adopt an acquisition strategy for Defense Base Act insurance.  </td>
 

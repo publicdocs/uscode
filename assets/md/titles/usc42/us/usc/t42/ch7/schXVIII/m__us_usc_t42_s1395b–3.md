@@ -193,7 +193,7 @@
 
 >         “(2) __Required use of funds.—__ 
 
->         Each grant awarded under this subsection shall be used to provide outreach to individuals regarding the benefits available under the Medicare prescription drug benefit under part D of title XVIII of the Social Security Act \[part D of this subchapter\] and under the Medicare Savings Program.
+>         Each grant awarded under this subsection shall be used to provide outreach to individuals regarding the benefits available under the Medicare prescription drug benefit under part D of title XVIII of the Social Security Act \[[42 U.S.C. 1395w–101][/us/usc/t42/s1395w–101] et seq.\] and under the Medicare Savings Program.
 
 >     “(d) __Coordination of Efforts To Inform Older Americans About Benefits Available Under Federal and State Programs.—__ 
 
@@ -223,7 +223,7 @@
 
 >     “(e) __Reprogramming Funds From Medicare, Medicaid, and SCHIP Extension Act of 2007.—__ 
 
->     The Secretary shall only use the $5,000,000 in funds allocated to make grants to States for Area Agencies on Aging and Aging Disability and Resource Centers for the period of fiscal years 2008 through 2009 under section 118 of the Medicare, Medicaid, and SCHIP Extension Act of 2007 ([Public Law 110–173][/us/pl/110/173]) \[[121 Stat. 2508][/us/stat/121/2508]\] for the sole purpose of providing outreach to individuals regarding the benefits available under the Medicare prescription drug benefit under part D of title XVIII of the Social Security Act \[part D of this subchapter\]. The Secretary shall republish the request for proposals issued on April 17, 2008, in order to comply with the preceding sentence.
+>     The Secretary shall only use the $5,000,000 in funds allocated to make grants to States for Area Agencies on Aging and Aging Disability and Resource Centers for the period of fiscal years 2008 through 2009 under section 118 of the Medicare, Medicaid, and SCHIP Extension Act of 2007 ([Public Law 110–173][/us/pl/110/173]) \[[121 Stat. 2508][/us/stat/121/2508]\] for the sole purpose of providing outreach to individuals regarding the benefits available under the Medicare prescription drug benefit under part D of title XVIII of the Social Security Act \[[42 U.S.C. 1395w–101][/us/usc/t42/s1395w–101] et seq.\]. The Secretary shall republish the request for proposals issued on April 17, 2008, in order to comply with the preceding sentence.
 
 >     “(f) __Medicare Savings Program Defined.—__ 
 
@@ -239,7 +239,7 @@
 
 >     “(a) __In General.—__ 
 
->     The Secretary \[of Health and Human Services\] shall establish a demonstration program (in this section referred to as the ‘demonstration program’) under which medicare specialists employed by the Department of Health and Human Services provide advice and assistance to individuals entitled to benefits under part A of title XVIII of the Social Security Act \[part A of this subchapter\], or enrolled under part B of such title \[part B of this subchapter\], or both, regarding the medicare program at the location of existing local offices of the Social Security Administration.
+>     The Secretary \[of Health and Human Services\] shall establish a demonstration program (in this section referred to as the ‘demonstration program’) under which medicare specialists employed by the Department of Health and Human Services provide advice and assistance to individuals entitled to benefits under part A of title XVIII of the Social Security Act \[[42 U.S.C. 1395c][/us/usc/t42/s1395c] et seq.\], or enrolled under part B of such title \[[42 U.S.C. 1395j][/us/usc/t42/s1395j] et seq.\], or both, regarding the medicare program at the location of existing local offices of the Social Security Administration.
 
 >     “(b) __Locations.—__ 
 
@@ -309,15 +309,19 @@
 [/us/usc/t42/s1395i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395i
 [/us/usc/t42/s1395t]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395t
 [/us/usc/t42/s1395w–23/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%9323%2Ff
+[/us/usc/t42/s1395w–101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%93101
 [/us/usc/t42/s3002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3002
 [/us/usc/t42/s1395i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395i
 [/us/usc/t42/s1395t]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395t
 [/us/usc/t42/s1395w–23/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%9323%2Ff
 [/us/pl/110/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F173
 [/us/stat/121/2508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2508
+[/us/usc/t42/s1395w–101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%93101
 [/us/usc/t42/s1396a/a/10/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396a%2Fa%2F10%2FE
 [/us/pl/108/173/s924]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs924
 [/us/stat/117/2395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2395
+[/us/usc/t42/s1395c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395c
+[/us/usc/t42/s1395j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395j
 [/us/pl/103/432/s154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432%2Fs154
 [/us/stat/108/4437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4437
 

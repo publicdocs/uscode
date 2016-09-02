@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1900.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs1900" data-uslm-ref="/us/usc/t42/s1900">1900.</a>  </td>
 
     <td> Interior Department programs.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 1900a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs1900a" data-uslm-ref="/us/usc/t42/s1900a">1900a.</a>  </td>
 
     <td> Rules and regulations.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 1900b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs1900b" data-uslm-ref="/us/usc/t42/s1900b">1900b.</a>  </td>
 
     <td> Amendment, modification, or repeal of authorizations for execution of contracts for research.  </td>
 

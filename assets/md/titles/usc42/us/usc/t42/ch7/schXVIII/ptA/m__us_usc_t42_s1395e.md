@@ -125,7 +125,7 @@
 
 [Pub. L. 99–509, title IX, § 9301(b)][/us/pl/99/509/s9301/b], Oct. 21, 1986, [100 Stat. 1982][/us/stat/100/1982], provided that: 
 
-> “The amendment made by subsection (a) \[amending this section\] shall apply to inpatient hospital services and post-hospital extended care services furnished on or after January 1, 1987, and to the monthly premium (under part A of title XVIII of the Social Security Act \[this part\]) for months beginning with January 1987.”
+> “The amendment made by subsection (a) \[amending this section\] shall apply to inpatient hospital services and post-hospital extended care services furnished on or after January 1, 1987, and to the monthly premium (under part A of title XVIII of the Social Security Act \[[42 U.S.C. 1395c][/us/usc/t42/s1395c] et seq.\]) for months beginning with January 1987.”
 
 [Pub. L. 99–272, title IX, § 9125(b)][/us/pl/99/272/s9125/b], Apr. 7, 1986, [100 Stat. 168][/us/stat/100/168], provided that: 
 
@@ -167,23 +167,23 @@
 
 >         “(2) __Exception for blood deduction.—__ 
 
->         The repeal of section 102(1) of MCCA \[amending this section\] (relating to deductibles and coinsurance under part A) shall not apply, but only insofar as such section amended paragraph (2) of section 1813(a) of the Social Security Act \[subsec. (a)(2) of this section\] (relating to a deduction for blood).
+>         The repeal of section 102(1) of MCCA \[amending this section\] (relating to deductibles and coinsurance under part A) shall not apply, but only insofar as such section amended paragraph (2) of section 1813(a) of the Social Security Act \[[42 U.S.C. 1395e(a)(2)][/us/usc/t42/s1395e/a/2]\] (relating to a deduction for blood).
 
 >     “(b) __Transition Provisions for Medicare Beneficiaries.—__ 
 
 >         “(1) __Inpatient hospital services and post-hospital extended care services.—__ 
 
->         In applying sections 1812 and 1813 of the Social Security Act \[[section 1395d of this title][/us/usc/t42/s1395d] and this section\], as restored by subsection (a)(1), with respect to inpatient hospital services and extended care services provided on or after January 1, 1990—
+>         In applying sections 1812 and 1813 of the Social Security Act \[[42 U.S.C. 1395d][/us/usc/t42/s1395d], 1395e\], as restored by subsection (a)(1), with respect to inpatient hospital services and extended care services provided on or after January 1, 1990—
 
 >             “(A) no day before January 1, 1990, shall be counted in determining the beginning (or period) of a spell of illness;
 
->             “(B) with respect to the limitation (other than the limitation under section 1812(c) of such Act \[[section 1395d(c) of this title][/us/usc/t42/s1395d/c]\]) on such services provided in a spell of illness, days of such services before January 1, 1990, shall not be counted, except that days of inpatient hospital services before January 1, 1989, which were applied with respect to an individual after receiving 90 days of services in a spell of illness (commonly known as ‘lifetime reserve days’) shall be counted;
+>             “(B) with respect to the limitation (other than the limitation under section 1812(c) of such Act \[[42 U.S.C. 1395d(c)][/us/usc/t42/s1395d/c]\]) on such services provided in a spell of illness, days of such services before January 1, 1990, shall not be counted, except that days of inpatient hospital services before January 1, 1989, which were applied with respect to an individual after receiving 90 days of services in a spell of illness (commonly known as ‘lifetime reserve days’) shall be counted;
 
 >             “(C) the limitation of coverage of extended care services to post-hospital extended care services shall not apply to an individual receiving such services from a skilled nursing facility during a continuous period beginning before (and including) January 1, 1990, until the end of the period of 30 consecutive days in which the individual is not provided inpatient hospital services or extended care services; and
 
 >             “(D)
 
->              the inpatient hospital deductible under section 1813(a)(1) of such Act \[subsec. (a)(1) of this section\] shall not apply—
+>              the inpatient hospital deductible under section 1813(a)(1) of such Act \[[42 U.S.C. 1395e(a)(1)][/us/usc/t42/s1395e/a/1]\] shall not apply—
 
 >                 “(i) in the case of an individual who is receiving inpatient hospital services during a continuous period beginning before (and including) January 1, 1990, with respect to the spell of illness beginning on such date, if such a deductible was imposed on the individual for a period of hospitalization during 1989;
 
@@ -193,7 +193,7 @@
 
 >         “(2) __Hospice care.—__ 
 
->         The restoration of section 1812(a)(4) of the Social Security Act \[[section 1395d(a)(4) of this title][/us/usc/t42/s1395d/a/4]\], effected by subsection (a)(1), shall not apply to hospice care provided during the subsequent period (described in such section as in effect on December 31, 1989) with respect to which an election has been made before January 1, 1990.”
+>         The restoration of section 1812(a)(4) of the Social Security Act \[[42 U.S.C. 1395d(a)(4)][/us/usc/t42/s1395d/a/4]\], effected by subsection (a)(1), shall not apply to hospice care provided during the subsequent period (described in such section as in effect on December 31, 1989) with respect to which an election has been made before January 1, 1990.”
 
     \[[Pub. L. 101–508, title IV, § 4008(m)(1)][/us/pl/101/508/s4008/m/1], Nov. 5, 1990, [104 Stat. 1388–53][/us/stat/104/1388-53], provided that amendment by that section to [section 101(b)(1)(B) of Pub. L. 101–234][/us/pl/101/234/s101/b/1/B], set out above, is effective as if included in enactment of Medicare Catastrophic Coverage Repeal Act of 1989, [Pub. L. 101–234][/us/pl/101/234].\]
 
@@ -201,7 +201,7 @@
 
 [Pub. L. 100–360, title I, § 104(b)][/us/pl/100/360/s104/b], July 1, 1988, [102 Stat. 688][/us/stat/102/688], as amended by [Pub. L. 100–485, title VI, § 608(d)(3)(B)][/us/pl/100/485/s608/d/3/B], Oct. 13, 1988, [102 Stat. 2413][/us/stat/102/2413]; [Pub. L. 101–234, title I, § 101(b)(3)][/us/pl/101/234/s101/b/3], Dec. 13, 1989, [103 Stat. 1980][/us/stat/103/1980], provided that: 
 
-> “In the case of an individual for whom a spell of illness (as defined in section 1861(a) of the Social Security Act \[[section 1395x(a) of this title][/us/usc/t42/s1395x/a]\], as in effect on December 31, 1988) began before January 1, 1989, and had not yet ended as of such date—
+> “In the case of an individual for whom a spell of illness (as defined in section 1861(a) of the Social Security Act \[[42 U.S.C. 1395x(a)][/us/usc/t42/s1395x/a]\], as in effect on December 31, 1988) began before January 1, 1989, and had not yet ended as of such date—
 
 >     “(1)
 
@@ -290,6 +290,7 @@
 [/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
 [/us/pl/99/509/s9301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs9301%2Fb
 [/us/stat/100/1982]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1982
+[/us/usc/t42/s1395c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395c
 [/us/pl/99/272/s9125/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs9125%2Fb
 [/us/stat/100/168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F168
 [/us/pl/97/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248
@@ -312,8 +313,10 @@
 [/us/pl/101/508/s4008/m/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs4008%2Fm%2F1
 [/us/stat/104/1388-53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-53
 [/us/pl/100/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360
+[/us/usc/t42/s1395e/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395e%2Fa%2F2
 [/us/usc/t42/s1395d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395d
 [/us/usc/t42/s1395d/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395d%2Fc
+[/us/usc/t42/s1395e/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395e%2Fa%2F1
 [/us/usc/t42/s1395d/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395d%2Fa%2F4
 [/us/pl/101/508/s4008/m/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs4008%2Fm%2F1
 [/us/stat/104/1388-53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-53

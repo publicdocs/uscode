@@ -113,7 +113,7 @@
 
 [Pub. L. 108–173, title IX, § 923(b)][/us/pl/108/173/s923/b], Dec. 8, 2003, [117 Stat. 2394][/us/stat/117/2394], provided that: 
 
-> “By not later than 1 year after the date of the enactment of this Act \[Dec. 8, 2003\], the Secretary \[of Health and Human Services\] shall appoint the Medicare Beneficiary Ombudsman under section 1808(c) of the Social Security Act \[subsec. (c) of this section\], as added by subsection (a).”
+> “By not later than 1 year after the date of the enactment of this Act \[Dec. 8, 2003\], the Secretary \[of Health and Human Services\] shall appoint the Medicare Beneficiary Ombudsman under section 1808(c) of the Social Security Act \[[42 U.S.C. 1395b–9(c)][/us/usc/t42/s1395b–9/c]\], as added by subsection (a).”
 
 ----------
 
@@ -133,5 +133,6 @@
 [/us/pl/108/173/s923/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs923%2Fa
 [/us/pl/108/173/s923/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs923%2Fb
 [/us/stat/117/2394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2394
+[/us/usc/t42/s1395b–9/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395b%E2%80%939%2Fc
 
 

@@ -175,11 +175,7 @@
 
                 (iv) does not propose prohibited activities, including mandatory services for victims.
 
-([Pub. L. 103–322, title IV, § 40299][/us/pl/103/322/s40299], as added [Pub. L. 108–21, title VI, § 611][/us/pl/108/21/s611], Apr. 30, 2003, [117 Stat. 693][/us/stat/117/693]; [Pub. L. 109–162, § 3(b)(4)][/us/pl/109/162/s3/b/4], title VI, § 602(a), title IX, § 906(e), formerly § 906(f), title XI, § 1135(e), Jan. 5, 2006, [119 Stat. 2971][/us/stat/119/2971], 3038, 3081, 3109, renumbered § 906(e), [Pub. L. 109–271, § 7(b)(2)(B)][/us/pl/109/271/s7/b/2/B], Aug. 12, 2006, [120 Stat. 764][/us/stat/120/764]; amended [Pub. L. 109–271][/us/pl/109/271], §§ 2(d), 7(c)(1), 8(b), Aug. 12, 2006, [120 Stat. 752][/us/stat/120/752], 764–766; [Pub. L. 113–4, title VI, § 602(2)][/us/pl/113/4/s602/2], Mar. 7, 2013, [127 Stat. 109][/us/stat/127/109].)
-
- __Amendment of Section__ 
-
-For effective date of amendment by [Pub. L. 113–4][/us/pl/113/4], see Effective Date of 2013 Amendment note below.
+([Pub. L. 103–322, title IV, § 40299][/us/pl/103/322/s40299], as added [Pub. L. 108–21, title VI, § 611][/us/pl/108/21/s611], Apr. 30, 2003, [117 Stat. 693][/us/stat/117/693]; amended [Pub. L. 109–162, § 3(b)(4)][/us/pl/109/162/s3/b/4], title VI, § 602(a), title IX, § 906(e), formerly § 906(f), title XI, § 1135(e), Jan. 5, 2006, [119 Stat. 2971][/us/stat/119/2971], 3038, 3081, 3109, renumbered § 906(e), [Pub. L. 109–271, § 7(b)(2)(B)][/us/pl/109/271/s7/b/2/B], Aug. 12, 2006, [120 Stat. 764][/us/stat/120/764]; [Pub. L. 109–271][/us/pl/109/271], §§ 2(d), 7(c)(1), 8(b), Aug. 12, 2006, [120 Stat. 752][/us/stat/120/752], 764–766; [Pub. L. 113–4, title VI, § 602(2)][/us/pl/113/4/s602/2], Mar. 7, 2013, [127 Stat. 109][/us/stat/127/109].)
 
  __Amendments__ 
 
@@ -262,7 +258,6 @@ For effective date of amendment by [Pub. L. 113–4][/us/pl/113/4], see Effectiv
 [/us/stat/120/752]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F752
 [/us/pl/113/4/s602/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs602%2F2
 [/us/stat/127/109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F109
-[/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
 [/us/pl/113/4/s602/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs602%2F2%2FA
 [/us/pl/113/4/s602/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs602%2F2%2FB
 [/us/pl/113/4/s602/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs602%2F2%2FC

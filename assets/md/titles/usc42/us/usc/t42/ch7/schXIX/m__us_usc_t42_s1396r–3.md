@@ -119,7 +119,7 @@
 
 >     “(1) The amendment made by this section \[enacting this section\] shall become effective on the date of the enactment of this Act \[Apr. 7, 1986\].
 
->     “(2) The Secretary of Health and Human Services shall issue a notice of proposed rulemaking with respect to section 1919 of the Social Security Act \[this section\] within 60 days after the date of the enactment of this Act, and shall allow a period of 30 days for comment thereon prior to promulgating final regulations implementing such section.”
+>     “(2) The Secretary of Health and Human Services shall issue a notice of proposed rulemaking with respect to section 1919 of the Social Security Act \[[42 U.S.C. 1396r–3][/us/usc/t42/s1396r–3]\] within 60 days after the date of the enactment of this Act, and shall allow a period of 30 days for comment thereon prior to promulgating final regulations implementing such section.”
 
  __Regulations__ 
 
@@ -168,6 +168,7 @@
 [/us/usc/t1/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft1%2Fs106
 [/us/pl/99/272/s9516/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs9516%2Fb
 [/us/stat/100/215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F215
+[/us/usc/t42/s1396r–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396r%E2%80%933
 [/us/pl/100/203/s4217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs4217
 [/us/stat/101/1330-220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-220
 [/us/pl/99/272/s9516/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs9516%2Fc

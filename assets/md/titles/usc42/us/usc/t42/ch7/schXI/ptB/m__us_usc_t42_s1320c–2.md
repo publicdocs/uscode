@@ -181,7 +181,7 @@
 
 [Pub. L. 100–203, title IV, § 4094(d)(2)][/us/pl/100/203/s4094/d/2], Dec. 22, 1987, [101 Stat. 1330–137][/us/stat/101/1330-137], provided that: 
 
-> “The amendment made by paragraph (1) \[amending this section\] shall apply to contracts under part B of title XI of the Social Security Act \[this part\] as of January 1, 1988.”
+> “The amendment made by paragraph (1) \[amending this section\] shall apply to contracts under part B of title XI of the Social Security Act \[[42 U.S.C. 1320c][/us/usc/t42/s1320c] et seq.\] as of January 1, 1988.”
 
  __Effective Date of 1986 Amendments__ 
 
@@ -223,7 +223,7 @@
 
 >     “(A) __In general.—__ 
 
->     In order to permit the Secretary of Health and Human Services an adequate time to complete contract renewal negotiations with utilization and quality control peer review \[now “quality improvement”\] organizations under part B of title XI of the Social Security Act \[this part\] and to provide for a staggered period of contract expiration dates, notwithstanding section 1153(c) of such Act \[subsec. (c) of this section\], the Secretary may provide for extensions of existing contracts, but the total of such extensions may not exceed 24 months for any contract.
+>     In order to permit the Secretary of Health and Human Services an adequate time to complete contract renewal negotiations with utilization and quality control peer review \[now “quality improvement”\] organizations under part B of title XI of the Social Security Act \[[42 U.S.C. 1320c][/us/usc/t42/s1320c] et seq.\] and to provide for a staggered period of contract expiration dates, notwithstanding section 1153(c) of such Act \[[42 U.S.C. 1320c–2(c)][/us/usc/t42/s1320c–2/c]\], the Secretary may provide for extensions of existing contracts, but the total of such extensions may not exceed 24 months for any contract.
 
 >     “(B) __Effective date.—__ 
 
@@ -318,6 +318,7 @@
 [/us/stat/101/1330-135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-135
 [/us/pl/100/203/s4094/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs4094%2Fd%2F2
 [/us/stat/101/1330-137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-137
+[/us/usc/t42/s1320c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320c
 [/us/pl/99/509/s9352/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs9352%2Fc%2F1
 [/us/stat/100/2044]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2044
 [/us/usc/t42/s1395h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395h
@@ -344,5 +345,7 @@
 [/us/stat/101/1330-134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-134
 [/us/pl/100/360/s411/j/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360%2Fs411%2Fj%2F1
 [/us/stat/102/790]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F790
+[/us/usc/t42/s1320c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320c
+[/us/usc/t42/s1320c–2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320c%E2%80%932%2Fc
 
 

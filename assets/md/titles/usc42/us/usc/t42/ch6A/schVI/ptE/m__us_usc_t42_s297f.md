@@ -25,9 +25,9 @@
 
 [Pub. L. 94–63, title IX, § 936(e)(2)][/us/pl/94/63/s936/e/2], (3), July 29, 1975, [89 Stat. 363][/us/stat/89/363], provided that:
 
->     “(2) The nurse training fund created within the Treasury by section 827(d)(1) of the Act \[[section 297f(d)(1) of this title][/us/usc/t42/s297f/d/1]\] shall remain available to the Secretary of Health, Education, and Welfare \[now Health and Human Services\] for the purpose of meeting his responsibilities respecting participations in obligations acquired under section 827 of the Act \[this section\]. The Secretary shall continue to deposit in such fund all amounts received by him as interest payments or repayments of principal on loans under such section 27\[827\]. If at any time the Secretary determines the moneys in the funds exceed the present and any reasonable prospective further requirements of such fund, such excess may be transferred to the general fund of the Treasury.
+>     “(2) The nurse training fund created within the Treasury by section 827(d)(1) of the Act \[[42 U.S.C. 297f(d)(1)][/us/usc/t42/s297f/d/1]\] shall remain available to the Secretary of Health, Education, and Welfare \[now Health and Human Services\] for the purpose of meeting his responsibilities respecting participations in obligations acquired under section 827 of the Act \[[42 U.S.C. 297f][/us/usc/t42/s297f]\]. The Secretary shall continue to deposit in such fund all amounts received by him as interest payments or repayments of principal on loans under such section 27\[827\]. If at any time the Secretary determines the moneys in the funds exceed the present and any reasonable prospective further requirements of such fund, such excess may be transferred to the general fund of the Treasury.
 
->     “(3) There are authorized to be appropriated without fiscal year limitation such sums as may be necessary to enable the Secretary to make payments under agreements entered into under section 827(b) of the Act \[[section 297f(b) of this title][/us/usc/t42/s297f/b]\] before the date of the enactment of this Act \[July 29, 1975\].”
+>     “(3) There are authorized to be appropriated without fiscal year limitation such sums as may be necessary to enable the Secretary to make payments under agreements entered into under section 827(b) of the Act \[[42 U.S.C. 297f(b)][/us/usc/t42/s297f/b]\] before the date of the enactment of this Act \[July 29, 1975\].”
 
  __Conversion of Federal Capital Contribution to a Loan Under Section 297f of This Title__ 
 
@@ -58,6 +58,7 @@
 [/us/pl/94/63/s936/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F63%2Fs936%2Fe%2F2
 [/us/stat/89/363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F363
 [/us/usc/t42/s297f/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs297f%2Fd%2F1
+[/us/usc/t42/s297f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs297f
 [/us/usc/t42/s297f/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs297f%2Fb
 [/us/pl/89/751/s6/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F751%2Fs6%2Fe%2F2
 [/us/stat/80/1236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1236

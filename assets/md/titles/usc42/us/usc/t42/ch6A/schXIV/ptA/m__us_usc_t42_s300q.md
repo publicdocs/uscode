@@ -77,7 +77,7 @@
 
 [Pub. L. 96–79, title II, § 204][/us/pl/96/79/s204], Oct. 4, 1979, [93 Stat. 636][/us/stat/93/636], provided that: 
 
-> “The amendments made by this title \[enacting sections 300s, 300s–1, and 300s–6, amending this section and sections 201, 300q–2, 300r, 300s–1a, 300s–3, and 300s–5, and repealing sections 300o to 300o–3, 300p to 300p–3, 300q–1, and 300s of this title\] shall take effect October 1, 1979, except that the amendments made by section 201(b) \[amending this section and [section 300q–2 of this title][/us/usc/t42/s300q–2]\] respecting the payment of an interest subsidy for a loan or loan guarantee made under part A of title XVI of the Public Health Service Act \[this part\] shall apply only with respect to loans and loan guarantees made after October 1, 1979, and with respect to loans and loan guarantees made under such part before such date the Secretary shall continue to pay the interest subsidy authorized for such loans and loan guarantees before such date.”
+> “The amendments made by this title \[enacting sections 300s, 300s–1, and 300s–6, amending this section and sections 201, 300q–2, 300r, 300s–1a, 300s–3, and 300s–5, and repealing sections 300o to 300o–3, 300p to 300p–3, 300q–1, and 300s of this title\] shall take effect October 1, 1979, except that the amendments made by section 201(b) \[amending this section and [section 300q–2 of this title][/us/usc/t42/s300q–2]\] respecting the payment of an interest subsidy for a loan or loan guarantee made under part A of title XVI of the Public Health Service Act \[[42 U.S.C. 300q][/us/usc/t42/s300q] et seq.\] shall apply only with respect to loans and loan guarantees made after October 1, 1979, and with respect to loans and loan guarantees made under such part before such date the Secretary shall continue to pay the interest subsidy authorized for such loans and loan guarantees before such date.”
 
 ----------
 
@@ -108,5 +108,6 @@
 [/us/pl/96/79/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F79%2Fs204
 [/us/stat/93/636]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F636
 [/us/usc/t42/s300q–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300q%E2%80%932
+[/us/usc/t42/s300q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300q
 
 

@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 4541.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs4541" data-uslm-ref="/us/usc/t42/s4541">4541.</a>  </td>
 
     <td> Congressional findings and declaration of purpose.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 4542.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs4542" data-uslm-ref="/us/usc/t42/s4542">4542.</a>  </td>
 
     <td> Congressional declaration for utilization of programs under other Federal laws in fields of health and social services.  </td>
 
@@ -49,7 +49,9 @@ SUBCHAPTER I—NATIONAL INSTITUTE ON, AND INTERAGENCY COMMITTEE ON FEDERAL ACTIV
 
   <tr>
 
-    <td> 4551 to 4553. Repealed or Transferred.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs4551" data-uslm-ref="/us/usc/t42/s4551">4551</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs4553" data-uslm-ref="/us/usc/t42/s4553">4553.</a>  </td>
+
+    <td> Repealed or Transferred.  </td>
 
   </tr>
 
@@ -63,7 +65,7 @@ SUBCHAPTER II—ALCOHOL ABUSE AND ALCOHOLISM PREVENTION, TREATMENT, AND REHABILI
 
   <tr>
 
-    <td> 4561.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs4561" data-uslm-ref="/us/usc/t42/s4561">4561.</a>  </td>
 
     <td> Transferred.  </td>
 
@@ -87,7 +89,9 @@ Part A—Technical Assistance  </td>
 
   <tr>
 
-    <td> 4571 to 4574. Repealed or Transferred.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs4571" data-uslm-ref="/us/usc/t42/s4571">4571</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs4574" data-uslm-ref="/us/usc/t42/s4574">4574.</a>  </td>
+
+    <td> Repealed or Transferred.  </td>
 
   </tr>
 
@@ -101,7 +105,7 @@ Part B—Implementation and Project Grants and Contracts  </td>
 
   <tr>
 
-    <td> 4576.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs4576" data-uslm-ref="/us/usc/t42/s4576">4576.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -109,7 +113,7 @@ Part B—Implementation and Project Grants and Contracts  </td>
 
   <tr>
 
-    <td> 4577.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs4577" data-uslm-ref="/us/usc/t42/s4577">4577.</a>  </td>
 
     <td> Grants and contracts for demonstration of new and more effective drug and alcohol abuse prevention, treatment, and rehabilitation programs.  </td>
 
@@ -117,7 +121,7 @@ Part B—Implementation and Project Grants and Contracts  </td>
 
   <tr>
 
-    <td> 4578.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs4578" data-uslm-ref="/us/usc/t42/s4578">4578.</a>  </td>
 
     <td> Authorizations of appropriations.  </td>
 
@@ -133,7 +137,9 @@ Part C—Admission to Hospitals and Outpatient Facilities; Confidentiality of Re
 
   <tr>
 
-    <td> 4581, 4582. Transferred.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs4581" data-uslm-ref="/us/usc/t42/s4581">4581</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs4582" data-uslm-ref="/us/usc/t42/s4582">4582.</a>  </td>
+
+    <td> Transferred.  </td>
 
   </tr>
 
@@ -147,7 +153,9 @@ SUBCHAPTER IV—RESEARCH  </td>
 
   <tr>
 
-    <td> 4585 to 4588. Repealed or Transferred.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs4585" data-uslm-ref="/us/usc/t42/s4585">4585</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs4588" data-uslm-ref="/us/usc/t42/s4588">4588.</a>  </td>
+
+    <td> Repealed or Transferred.  </td>
 
   </tr>
 
@@ -161,7 +169,7 @@ SUBCHAPTER V—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 4591.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs4591" data-uslm-ref="/us/usc/t42/s4591">4591.</a>  </td>
 
     <td> Separability.  </td>
 
@@ -169,7 +177,7 @@ SUBCHAPTER V—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 4592.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs4592" data-uslm-ref="/us/usc/t42/s4592">4592.</a>  </td>
 
     <td> Recordkeeping for audit.  </td>
 
@@ -177,7 +185,7 @@ SUBCHAPTER V—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 4593.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs4593" data-uslm-ref="/us/usc/t42/s4593">4593.</a>  </td>
 
     <td> Payments.  </td>
 
@@ -185,7 +193,7 @@ SUBCHAPTER V—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 4594.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs4594" data-uslm-ref="/us/usc/t42/s4594">4594.</a>  </td>
 
     <td> Contract authority in appropriation Acts.  </td>
 

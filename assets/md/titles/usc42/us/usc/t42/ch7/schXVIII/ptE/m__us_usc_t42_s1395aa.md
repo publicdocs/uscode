@@ -207,13 +207,13 @@
 
 [Pub. L. 103–432, title I, § 160(a)(2)][/us/pl/103/432/s160/a/2], Oct. 31, 1994, [108 Stat. 4443][/us/stat/108/4443], provided that: 
 
-> “An agreement made by the Secretary of Health and Human Services with a State under section 1864(a) of the Social Security Act \[subsec. (a) of this section\] may include an agreement that the services of the State health agency or other appropriate State agency (or the appropriate local agencies) will be utilized by the Secretary for the purpose of determining whether a laboratory meets the requirements of section 353 of the Public Health Service Act \[[section 263a of this title][/us/usc/t42/s263a]\].”
+> “An agreement made by the Secretary of Health and Human Services with a State under section 1864(a) of the Social Security Act \[[42 U.S.C. 1395aa(a)][/us/usc/t42/s1395aa/a]\] may include an agreement that the services of the State health agency or other appropriate State agency (or the appropriate local agencies) will be utilized by the Secretary for the purpose of determining whether a laboratory meets the requirements of section 353 of the Public Health Service Act \[[42 U.S.C. 263a][/us/usc/t42/s263a]\].”
 
  __Nurse Aid Training and Competency Evaluation, Failure by State To Meet Guidelines__ 
 
 [Pub. L. 101–508, title IV, § 4008(h)(1)(A)][/us/pl/101/508/s4008/h/1/A], Nov. 5, 1990, [104 Stat. 1388–46][/us/stat/104/1388-46], provided that: 
 
-> “The Secretary of Health and Human Services may not refuse to enter into an agreement or cancel an existing agreement with a State under section 1864 of the Social Security Act \[this section\] on the basis that the State failed to meet the requirement of section 1819(e)(1)(A) of such Act \[[section 1395i–3(e)(1)(A) of this title][/us/usc/t42/s1395i–3/e/1/A]\] before the effective date of guidelines, issued by the Secretary, establishing requirements under section 1819(f)(2)(A) of such Act, if the State demonstrates to the satisfaction of the Secretary that it has made a good faith effort to meet such requirement before such effective date.”
+> “The Secretary of Health and Human Services may not refuse to enter into an agreement or cancel an existing agreement with a State under section 1864 of the Social Security Act \[[42 U.S.C. 1395aa][/us/usc/t42/s1395aa]\] on the basis that the State failed to meet the requirement of section 1819(e)(1)(A) of such Act \[[42 U.S.C. 1395i–3(e)(1)(A)][/us/usc/t42/s1395i–3/e/1/A]\] before the effective date of guidelines, issued by the Secretary, establishing requirements under section 1819(f)(2)(A) of such Act, if the State demonstrates to the satisfaction of the Secretary that it has made a good faith effort to meet such requirement before such effective date.”
 
 ----------
 
@@ -445,9 +445,11 @@
 [/us/stat/81/904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F904
 [/us/pl/103/432/s160/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432%2Fs160%2Fa%2F2
 [/us/stat/108/4443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4443
+[/us/usc/t42/s1395aa/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395aa%2Fa
 [/us/usc/t42/s263a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs263a
 [/us/pl/101/508/s4008/h/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs4008%2Fh%2F1%2FA
 [/us/stat/104/1388-46]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-46
+[/us/usc/t42/s1395aa]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395aa
 [/us/usc/t42/s1395i–3/e/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395i%E2%80%933%2Fe%2F1%2FA
 
 

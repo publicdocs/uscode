@@ -119,7 +119,7 @@
 
 > “The additional $50,000,000 made available to the States for the fiscal year 1988 pursuant to the amendments made by subsection (a) \[amending this section\] shall—
 
->     “(A) be used only for the purpose of providing additional services under title XX of the Social Security Act \[this subchapter\]; and
+>     “(A) be used only for the purpose of providing additional services under title XX of the Social Security Act \[[42 U.S.C. 1397][/us/usc/t42/s1397] et seq.\]; and
 
 >     “(B) be expended only to supplement the level of any funds that would, in the absence of the additional funds appropriated pursuant to such amendments, be available from other sources (including any amounts available under title XX of the Social Security Act without regard to such amendments) for services in accordance with such title, and shall in no case supplant such funds from other sources or reduce the level thereof.”
 
@@ -129,13 +129,13 @@
 
 >     “(a)
 
->         (1) Notwithstanding any provision of title XX of the Social Security Act \[this subchapter\], the amount applicable under section 2003(c)(3) of such Act \[subsec. (c)(3) of this section\] shall be $2,725,000,000 for fiscal year 1985. Of such amount, $25,000,000 shall be allotted and used in accordance with this section.
+>         (1) Notwithstanding any provision of title XX of the Social Security Act \[[42 U.S.C. 1397][/us/usc/t42/s1397] et seq.\], the amount applicable under section 2003(c)(3) of such Act \[[42 U.S.C. 1397b(c)(3)][/us/usc/t42/s1397b/c/3]\] shall be $2,725,000,000 for fiscal year 1985. Of such amount, $25,000,000 shall be allotted and used in accordance with this section.
 
 >         “(2) In addition to any other amounts appropriated under this resolution \[[Pub. L. 98–473][/us/pl/98/473]\] or any Act, there are hereby appropriated $25,000,000 for fiscal year 1985, for carrying out title XX of the Social Security Act, to be used in accordance with the provisions of this section.
 
 >         “(3) Amounts appropriated under this section shall remain available until September 30, 1985, without regard to section 102 of this resolution.
 
->         “(4) Except as otherwise provided in this section, each State’s allotment of the additional amounts authorized and appropriated under this section shall be the same proportion of $25,000,000 as such State’s proportional allotment of other title XX funds for fiscal year 1985, as determined under section 2003 of the Social Security Act \[this section\].
+>         “(4) Except as otherwise provided in this section, each State’s allotment of the additional amounts authorized and appropriated under this section shall be the same proportion of $25,000,000 as such State’s proportional allotment of other title XX funds for fiscal year 1985, as determined under section 2003 of the Social Security Act \[[42 U.S.C. 1397b][/us/usc/t42/s1397b]\].
 
 >     “(b)
 
@@ -143,15 +143,15 @@
 
 >         “(1) be used only for the purpose of providing training and retraining (including training in the prevention of child abuse in child care settings) to providers of licensed or registered child care services, operators and staffs (including those receiving in-service training) of facilities where licensed or registered child care services are provided, State licensing and enforcement officials, and parents;
 
->         “(2) be expended only to supplement the level of any funds that would, in the absence of the additional funds appropriated under this section, be available from other sources (including any amounts available under title XX of the Social Security Act \[this subchapter\] without regard to this section) for the purpose specified in paragraph (1), and shall in no case supplant such funds from other sources or reduce the level thereof; and
+>         “(2) be expended only to supplement the level of any funds that would, in the absence of the additional funds appropriated under this section, be available from other sources (including any amounts available under title XX of the Social Security Act \[[42 U.S.C. 1397][/us/usc/t42/s1397] et seq.\] without regard to this section) for the purpose specified in paragraph (1), and shall in no case supplant such funds from other sources or reduce the level thereof; and
 
->         “(3) be separately accounted for in the reports and audits provided for in section 2006 of the Social Security Act \[[section 1397e of this title][/us/usc/t42/s1397e]\].
+>         “(3) be separately accounted for in the reports and audits provided for in section 2006 of the Social Security Act \[[42 U.S.C. 1397e][/us/usc/t42/s1397e]\].
 
 >     “(c)
 
 >         (1)
 
->          In order to provide guidance and assistance to the States in utilizing funds allocated pursuant to title XX of the Social Security Act \[this subchapter\], not later than 3 months after the date of enactment of this section \[Oct. 12, 1984\], the Secretary shall draft and distribute to the States for their consideration, a Model Child Care Standards Act containing—
+>          In order to provide guidance and assistance to the States in utilizing funds allocated pursuant to title XX of the Social Security Act \[[42 U.S.C. 1397][/us/usc/t42/s1397] et seq.\], not later than 3 months after the date of enactment of this section \[Oct. 12, 1984\], the Secretary shall draft and distribute to the States for their consideration, a Model Child Care Standards Act containing—
 
 >             “(A)
 
@@ -183,7 +183,7 @@
 
 >             “(B) In the case of any State not meeting the requirements of subparagraph (A) by September 30, 1985, such State’s allotment for fiscal year 1986 or 1987 shall be reduced in the aggregate by an amount equal to one-half of the amount by which such State’s allotment under such title was increased for fiscal year 1985 as a result of subsection (a).
 
->     “(d) The determination and promulgation required by section 2003(b) of the Social Security Act \[subsec. (b) of this section\] with respect to the fiscal year 1985 (to take into account the preceding provisions of this section) shall be made as soon as possible after the date of the enactment of this Act \[Oct. 12, 1984\].”
+>     “(d) The determination and promulgation required by section 2003(b) of the Social Security Act \[[42 U.S.C. 1397b(b)][/us/usc/t42/s1397b/b]\] with respect to the fiscal year 1985 (to take into account the preceding provisions of this section) shall be made as soon as possible after the date of the enactment of this Act \[Oct. 12, 1984\].”
 
 ----------
 
@@ -259,13 +259,20 @@
 [/us/usc/t42/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1301
 [/us/pl/100/203/s9134/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs9134%2Fb
 [/us/stat/101/1330-315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-315
+[/us/usc/t42/s1397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1397
 [/us/pl/98/473/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs401
 [/us/stat/98/2195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2195
+[/us/usc/t42/s1397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1397
+[/us/usc/t42/s1397b/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1397b%2Fc%2F3
 [/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
+[/us/usc/t42/s1397b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1397b
+[/us/usc/t42/s1397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1397
 [/us/usc/t42/s1397e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1397e
+[/us/usc/t42/s1397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1397
 [/us/pl/92/544]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F544
 [/us/stat/86/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F115
 [/us/stat/86/1115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1115
 [/us/usc/t28/s534]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs534
+[/us/usc/t42/s1397b/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1397b%2Fb
 
 

@@ -195,7 +195,7 @@
 
 >     “(1) __Study.—__ 
 
->     The Administrator for Health Care Policy and Research shall provide for a study that, with respect to the provision of ultrasound under the medicare and medicaid programs under titles XVIII and XIX of the Social Security Act \[subchapters XVIII and XIX of this chapter\], compares differences in quality between ultrasound furnished by individuals who are credentialed by private entities or organizations and ultrasound furnished by those who are not so credentialed. Such study shall examine and evaluate differences in error rates, resulting complications, and patient outcomes as a result of the differences in credentialing. In designing the study, the Administrator shall consult with organizations nationally recognized for their expertise in ultrasound.
+>     The Administrator for Health Care Policy and Research shall provide for a study that, with respect to the provision of ultrasound under the medicare and medicaid programs under titles XVIII and XIX of the Social Security Act \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq., 1396 et seq.\], compares differences in quality between ultrasound furnished by individuals who are credentialed by private entities or organizations and ultrasound furnished by those who are not so credentialed. Such study shall examine and evaluate differences in error rates, resulting complications, and patient outcomes as a result of the differences in credentialing. In designing the study, the Administrator shall consult with organizations nationally recognized for their expertise in ultrasound.
 
 >     “(2) __Report.—__ 
 
@@ -205,7 +205,7 @@
 
 [Pub. L. 101–239, title VI, § 6103(b)(2)][/us/pl/101/239/s6103/b/2], Dec. 19, 1989, [103 Stat. 2198][/us/stat/103/2198], provided that: 
 
-> “Not later than 1 year after the date of the enactment of this Act \[Dec. 19, 1989\], the Secretary of Health and Human Services shall report to the Congress on the feasibility of linking research-related data described in section 1142(d) of the Social Security Act \[subsec. (d) of this section\] (as added by paragraph (1) of this subsection) with similar data collected or maintained by non-Federal entities and by Federal agencies other than the Department of Health and Human Services (including the Departments of Defense and Veterans Affairs and the Office of Personnel Management).”
+> “Not later than 1 year after the date of the enactment of this Act \[Dec. 19, 1989\], the Secretary of Health and Human Services shall report to the Congress on the feasibility of linking research-related data described in section 1142(d) of the Social Security Act \[[42 U.S.C. 1320b–12(d)][/us/usc/t42/s1320b–12/d]\] (as added by paragraph (1) of this subsection) with similar data collected or maintained by non-Federal entities and by Federal agencies other than the Department of Health and Human Services (including the Departments of Defense and Veterans Affairs and the Office of Personnel Management).”
 
 ----------
 
@@ -237,7 +237,9 @@
 [/us/pl/106/129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F129
 [/us/pl/106/113/s1000/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F6
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
+[/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
 [/us/pl/101/239/s6103/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs6103%2Fb%2F2
 [/us/stat/103/2198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2198
+[/us/usc/t42/s1320b–12/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320b%E2%80%9312%2Fd
 
 

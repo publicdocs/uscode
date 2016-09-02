@@ -265,11 +265,11 @@
 
 [Pub. L. 97–35, title XXI, § 2192(b)][/us/pl/97/35/s2192/b], Aug. 13, 1981, [95 Stat. 826][/us/stat/95/826], provided that:
 
->     “(1) The Secretary of Health and Human Services shall, no later than October 1, 1984, report to the Congress on the activities of States receiving allotments under title V of the Social Security Act \[this subchapter\] (as amended by this section) and include in such report any recommendations for appropriate changes in legislation.
+>     “(1) The Secretary of Health and Human Services shall, no later than October 1, 1984, report to the Congress on the activities of States receiving allotments under title V of the Social Security Act \[[42 U.S.C. 701][/us/usc/t42/s701] et seq.\] (as amended by this section) and include in such report any recommendations for appropriate changes in legislation.
 
 >     “(2)
 
->      The Secretary of Health and Human Services, in consultation with the Comptroller General, shall examine alternative formulas, for the allotment of funds to States under section 502(b) of the Social Security Act \[[section 702(b) of this title][/us/usc/t42/s702/b]\] (as amended by this section) which might be used as a substitute for the method of allotting funds described in such section, which provide for the equitable distribution of such funds to States (as defined for purposes of such section), and which take into account—
+>      The Secretary of Health and Human Services, in consultation with the Comptroller General, shall examine alternative formulas, for the allotment of funds to States under section 502(b) of the Social Security Act \[[42 U.S.C. 702(b)][/us/usc/t42/s702/b]\] (as amended by this section) which might be used as a substitute for the method of allotting funds described in such section, which provide for the equitable distribution of such funds to States (as defined for purposes of such section), and which take into account—
 
 >         “(A) the populations of the States,
 
@@ -347,6 +347,7 @@
 [/us/usc/t42/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs701
 [/us/pl/97/35/s2192/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2192%2Fb
 [/us/stat/95/826]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F826
+[/us/usc/t42/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs701
 [/us/usc/t42/s702/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs702%2Fb
 
 

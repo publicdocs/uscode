@@ -199,10 +199,6 @@
 
 ([Pub. L. 90–351, title I, § 2007][/us/pl/90/351/s2007], formerly § 2002, as added [Pub. L. 103–322, title IV, § 40121(a)(3)][/us/pl/103/322/s40121/a/3], Sept. 13, 1994, [108 Stat. 1911][/us/stat/108/1911]; amended [Pub. L. 106–386, div. B, title I][/us/pl/106/386], §§ 1102(a)(2), 1103(b)(2), Oct. 28, 2000, [114 Stat. 1494][/us/stat/114/1494], 1496; renumbered § 2007 and amended [Pub. L. 107–273, div. A, title IV, § 402(1)][/us/pl/107/273/s402/1], (2), Nov. 2, 2002, [116 Stat. 1789][/us/stat/116/1789]; [Pub. L. 108–405, title III, § 310(b)][/us/pl/108/405/s310/b], (c), Oct. 30, 2004, [118 Stat. 2276][/us/stat/118/2276]; [Pub. L. 109–162, title I, § 101(c)][/us/pl/109/162/s101/c]–(e), title IX, § 906(b), title XI, § 1134(a), Jan. 5, 2006, [119 Stat. 2973][/us/stat/119/2973], 2974, 3081, 3108; [Pub. L. 109–271][/us/pl/109/271], §§ 2(d), (f)(1), (g), (l), 7(a)(2), 8(b), Aug. 12, 2006, [120 Stat. 752][/us/stat/120/752], 754, 763, 766; [Pub. L. 113–4, title I, § 101(3)][/us/pl/113/4/s101/3], Mar. 7, 2013, [127 Stat. 66][/us/stat/127/66].)
 
- __Amendment of Section__ 
-
-For effective date of amendment by [Pub. L. 113–4][/us/pl/113/4], see Effective Date of 2013 Amendment note below.
-
  __References in Text__ 
 
     This subchapter, referred to in the second subsec. (c)(4), the second place it appears, and in subsec. (f), was in the original “this subtitle”, and was translated as reading “this part”, meaning part T of title I of [Pub. L. 90–351][/us/pl/90/351], to reflect the probable intent of Congress. Title I of [Pub. L. 90–351][/us/pl/90/351] does not contain subtitles.
@@ -355,7 +351,6 @@ For effective date of amendment by [Pub. L. 113–4][/us/pl/113/4], see Effectiv
 [/us/stat/120/752]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F752
 [/us/pl/113/4/s101/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs101%2F3
 [/us/stat/127/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F66
-[/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
 [/us/pl/90/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351
 [/us/pl/90/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351
 [/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4

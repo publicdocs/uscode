@@ -165,7 +165,7 @@
 
 [Pub. L. 106–554, § 1(a)(6)][/us/pl/106/554/s1/a/6] \[title IX, § 911(b)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–584, provided that: 
 
-> “The Comptroller General of the United States shall conduct a study of the impact of section 1144 of the Social Security Act \[this section\] (as added by subsection (a)(1)) on the enrollment of individuals for medicare cost-sharing under the medicaid program. Not later than 18 months after the date that the Commissioner of Social Security first conducts outreach under section 1144 of such Act, the Comptroller General shall submit to Congress a report on such study. The report shall include such recommendations for legislative changes as the Comptroller General deems appropriate.”
+> “The Comptroller General of the United States shall conduct a study of the impact of section 1144 of the Social Security Act \[[42 U.S.C. 1320b–14][/us/usc/t42/s1320b–14]\] (as added by subsection (a)(1)) on the enrollment of individuals for medicare cost-sharing under the medicaid program. Not later than 18 months after the date that the Commissioner of Social Security first conducts outreach under section 1144 of such Act, the Comptroller General shall submit to Congress a report on such study. The report shall include such recommendations for legislative changes as the Comptroller General deems appropriate.”
 
 ----------
 
@@ -219,5 +219,6 @@
 [/us/usc/t42/s1396d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396d
 [/us/pl/106/554/s1/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F6
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
+[/us/usc/t42/s1320b–14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320b%E2%80%9314
 
 

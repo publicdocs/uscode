@@ -1213,7 +1213,7 @@
 
 [Pub. L. 104–121, title I, § 105(a)(5)][/us/pl/104/121/s105/a/5], Mar. 29, 1996, [110 Stat. 853][/us/stat/110/853], as amended by [Pub. L. 106–170, title IV, § 401(a)][/us/pl/106/170/s401/a], (b), Dec. 17, 1999, [113 Stat. 1906][/us/stat/113/1906], provided that:
 
->     “(A) The amendments made by paragraphs (1) and (4) \[amending sections 423 and 425 of this title\] shall apply to any individual who applies for, or whose claim is finally adjudicated with respect to, benefits under title II of the Social Security Act \[this subchapter\] based on disability on or after the date of the enactment of this Act \[Mar. 29, 1996\], and, in the case of any individual who has applied for, and whose claim has been finally adjudicated with respect to, such benefits before such date of enactment, such amendments shall apply only with respect to such benefits for months beginning on or after January 1, 1997.
+>     “(A) The amendments made by paragraphs (1) and (4) \[amending sections 423 and 425 of this title\] shall apply to any individual who applies for, or whose claim is finally adjudicated with respect to, benefits under title II of the Social Security Act \[[42 U.S.C. 401][/us/usc/t42/s401] et seq.\] based on disability on or after the date of the enactment of this Act \[Mar. 29, 1996\], and, in the case of any individual who has applied for, and whose claim has been finally adjudicated with respect to, such benefits before such date of enactment, such amendments shall apply only with respect to such benefits for months beginning on or after January 1, 1997.
 
 >     “(B)
 
@@ -1233,7 +1233,7 @@
 
 >         “(ii) there is pending, with respect to such claim, a readjudication by the Commissioner of Social Security pursuant to relief in a class action or implementation by the Commissioner of a court remand order.
 
->     “(E) Notwithstanding the provisions of this paragraph, with respect to any individual for whom the Commissioner of Social Security does not perform the entitlement redetermination before the date prescribed in subparagraph (C), the Commissioner shall perform such entitlement redetermination in lieu of a continuing disability review whenever the Commissioner determines that the individual’s entitlement is subject to redetermination based on the preceding provisions of this paragraph, and the provisions of section 223(f) \[[section 423(f) of this title][/us/usc/t42/s423/f]\] shall not apply to such redetermination.”
+>     “(E) Notwithstanding the provisions of this paragraph, with respect to any individual for whom the Commissioner of Social Security does not perform the entitlement redetermination before the date prescribed in subparagraph (C), the Commissioner shall perform such entitlement redetermination in lieu of a continuing disability review whenever the Commissioner determines that the individual’s entitlement is subject to redetermination based on the preceding provisions of this paragraph, and the provisions of section 223(f) \[[42 U.S.C. 423(f)][/us/usc/t42/s423/f]\] shall not apply to such redetermination.”
 
 \[[Pub. L. 106–170, title IV, § 401(c)][/us/pl/106/170/s401/c], Dec. 17, 1999, [113 Stat. 1907][/us/stat/113/1907], provided that: 
 
@@ -1249,17 +1249,19 @@
 
 >     “(i) __General rule.—__ 
 
->     Except as provided in clause (ii), the amendments made by this paragraph \[amending this section\] shall apply with respect to benefits paid in months beginning after 180 days after the date of the enactment of this Act \[Aug. 15, 1994\].”
+>     Except as provided in clause (ii), the amendments made by this paragraph \[amending this section\] shall apply with respect to benefits paid in months beginning after 180 days after the date of the enactment of this Act \[Aug. 15, 1994\].
 
-    “(ii) Treatment of current beneficiaries.—In any case in which—
+>     “(ii) __Treatment of current beneficiaries.—__ 
 
-    “(I) an individual is entitled to benefits based on disability (as defined in section 205(j)(7) of the Social Security Act \[subsec. (j)(7) of this section\], as amended by this section),
+>     In any case in which—
 
-    “(II) the determination of disability was made by the Secretary of Health and Human Services during or before the 180-day period following the date of the enactment of this Act, and
+>         “(I) an individual is entitled to benefits based on disability (as defined in section 205(j)(7) of the Social Security Act \[[42 U.S.C. 405(j)(7)][/us/usc/t42/s405/j/7]\], as amended by this section),
 
-    “(III) alcoholism or drug addiction is a contributing factor material to the Secretary’s determination that the individual is under a disability,
+>         “(II) the determination of disability was made by the Secretary of Health and Human Services during or before the 180-day period following the date of the enactment of this Act, and
 
-    the amendments made by this paragraph shall apply with respect to benefits paid in months after the month in which such individual is notified by the Secretary in writing that alcoholism or drug addiction is a contributing factor material to the Secretary’s determination and that the Secretary is therefore required to make a certification of payment of such individual’s benefits to a representative payee.”
+>         “(III) alcoholism or drug addiction is a contributing factor material to the Secretary’s determination that the individual is under a disability,
+
+>         the amendments made by this paragraph shall apply with respect to benefits paid in months after the month in which such individual is notified by the Secretary in writing that alcoholism or drug addiction is a contributing factor material to the Secretary’s determination and that the Secretary is therefore required to make a certification of payment of such individual’s benefits to a representative payee.”
 
     [Pub. L. 103–296, title II, § 201(a)(2)(B)(iii)][/us/pl/103/296/s201/a/2/B/iii], Aug. 15, 1994, [108 Stat. 1493][/us/stat/108/1493], provided that the amendment made by that section is effective July 1, 1994.
 
@@ -1293,9 +1295,9 @@
 
 >     The amendments made by paragraphs (1) and (2) \[amending this section and [section 1383 of this title][/us/usc/t42/s1383]\] shall take effect July 1, 1991, and shall apply only with respect to—
 
->         “(i) certifications of payment of benefits under title II of the Social Security Act \[this subchapter\] to representative payees made on or after such date; and
+>         “(i) certifications of payment of benefits under title II of the Social Security Act \[[42 U.S.C. 401][/us/usc/t42/s401] et seq.\] to representative payees made on or after such date; and
 
->         “(ii) provisions for payment of benefits under title XVI of such Act \[subchapter XVI of this chapter\] to representative payees made on or after such date.
+>         “(ii) provisions for payment of benefits under title XVI of such Act \[[42 U.S.C. 1381][/us/usc/t42/s1381] et seq.\] to representative payees made on or after such date.
 
 >     “(B) __Compensation of representative payees.—__ 
 
@@ -1303,7 +1305,7 @@
 
 [Pub. L. 101–508, title V, § 5105(b)(1)(B)][/us/pl/101/508/s5105/b/1/B], Nov. 5, 1990, [104 Stat. 1388–263][/us/stat/104/1388-263], provided that: 
 
-> “The amendments made by subparagraph (A) \[amending this section\] shall take effect October 1, 1992, and the Secretary of Health and Human Services shall take such actions as are necessary to ensure that the requirements of section 205(j)(3)(E) of the Social Security Act \[subsec. (j)(3)(E) of this section\] (as amended by subparagraph (A) of this paragraph) are satisfied as of such date.”
+> “The amendments made by subparagraph (A) \[amending this section\] shall take effect October 1, 1992, and the Secretary of Health and Human Services shall take such actions as are necessary to ensure that the requirements of section 205(j)(3)(E) of the Social Security Act \[[42 U.S.C. 405(j)(3)(E)][/us/usc/t42/s405/j/3/E]\] (as amended by subparagraph (A) of this paragraph) are satisfied as of such date.”
 
 [Pub. L. 101–508, title V, § 5105(d)(2)][/us/pl/101/508/s5105/d/2], Nov. 5, 1990, [104 Stat. 1388–266][/us/stat/104/1388-266], provided that: 
 
@@ -1361,7 +1363,7 @@
 
 [Pub. L. 97–455, § 4(b)][/us/pl/97/455/s4/b], Jan. 12, 1983, [96 Stat. 2500][/us/stat/96/2500], provided that: 
 
-> “The amendments made by subsection (a) \[amending this section\] shall apply with respect to reconsiderations (of findings described in section 205(b)(2)(B) of the Social Security Act \[subsec. (b)(2)(B) of this section\]) which are requested on or after such date as the Secretary of Health and Human Services may specify, but in any event not later than January 1, 1984.”
+> “The amendments made by subsection (a) \[amending this section\] shall apply with respect to reconsiderations (of findings described in section 205(b)(2)(B) of the Social Security Act \[[42 U.S.C. 405(b)(2)(B)][/us/usc/t42/s405/b/2/B]\]) which are requested on or after such date as the Secretary of Health and Human Services may specify, but in any event not later than January 1, 1984.”
 
  __Effective Date of 1980 Amendment__ 
 
@@ -1387,7 +1389,7 @@
 
 [Pub. L. 93–445, title III, § 302(b)][/us/pl/93/445/s302/b], Jan. 2, 1976, [89 Stat. 1136][/us/stat/89/1136], provided that: 
 
-> “The amendment made by this section \[amending this section\] shall apply only with respect to benefits payable to individuals who first become entitled to benefits under title II of the Social Security Act \[this subchapter\] after 1974.”
+> “The amendment made by this section \[amending this section\] shall apply only with respect to benefits payable to individuals who first become entitled to benefits under title II of the Social Security Act \[[42 U.S.C. 401][/us/usc/t42/s401] et seq.\] after 1974.”
 
     Amendment by [section 303 of Pub. L. 93–445][/us/pl/93/445/s303] effective Jan. 1, 1975, see [section 603 of Pub. L. 93–445][/us/pl/93/445/s603], set out as a note under [section 402 of this title][/us/usc/t42/s402].
 
@@ -1399,7 +1401,7 @@
 
 [Pub. L. 90–248, title I, § 171(b)][/us/pl/90/248/s171/b], Jan. 2, 1968, [81 Stat. 877][/us/stat/81/877], provided that: 
 
-> “The amendment made by subsection (a) of this section \[amending this section\] shall be effective with respect to written requests filed under section 205(q) of the Social Security Act \[subsec. (q) of this section\] after June 30, 1968.”
+> “The amendment made by subsection (a) of this section \[amending this section\] shall be effective with respect to written requests filed under section 205(q) of the Social Security Act \[[42 U.S.C. 405(q)][/us/usc/t42/s405/q]\] after June 30, 1968.”
 
  __Effective Date of 1965 Amendment__ 
 
@@ -1425,23 +1427,23 @@
 
 [Act Aug. 1, 1956, ch. 836][/us/act/1956-08-01/ch836], title I, § 111(b), [70 Stat. 831][/us/stat/70/831], provided that: 
 
-> “The amendment made by subsection (a) \[amending this section\] shall be effective upon enactment \[Aug. 1, 1956\]; except that the period of time prescribed by the Secretary pursuant to the third sentence of section 205(b) of the Social Security Act \[subsec. (b) of this section\], as amended by subsection (a) of this section, with respect to decisions notice of which has been mailed by him to any individual prior to the enactment of this Act may not terminate for such individual less than six months after the date of enactment of this Act.”
+> “The amendment made by subsection (a) \[amending this section\] shall be effective upon enactment \[Aug. 1, 1956\]; except that the period of time prescribed by the Secretary pursuant to the third sentence of section 205(b) of the Social Security Act \[[42 U.S.C. 405(b)][/us/usc/t42/s405/b]\], as amended by subsection (a) of this section, with respect to decisions notice of which has been mailed by him to any individual prior to the enactment of this Act may not terminate for such individual less than six months after the date of enactment of this Act.”
 
  __Effective Date of 1954 Amendment__ 
 
 [Act Sept. 1, 1954, ch. 1206][/us/act/1954-09-01/ch1206], title I, § 101(n), [68 Stat. 1061][/us/stat/68/1061], provided that: 
 
-> “The amendment made by paragraph (3) of subsection (g) \[amending [section 411 of this title][/us/usc/t42/s411]\] shall be applicable only with respect to taxable years beginning after 1950. The amendments made by paragraphs (1), (2), and (4) of such subsection \[amending [section 411 of this title][/us/usc/t42/s411]\] and by subsection (d) \[amending [section 411 of this title][/us/usc/t42/s411]\] shall, except for purposes of section 203 of the Social Security Act \[[section 403 of this title][/us/usc/t42/s403]\], be applicable only with respect to taxable years ending after 1954. The amendments made by paragraphs (1), (2), and (3) of subsection (a) \[amending [section 409 of this title][/us/usc/t42/s409]\] shall be applicable only with respect to remuneration paid after 1954. The amendments made by paragraphs (4), (5), and (6) of subsection (a) \[amending sections 410 and 418 of this title\] shall be applicable only with respect to services (whether performed after 1954 or prior to 1955) for which the remuneration is paid after 1954. The amendment made by paragraph (3) of subsection (c) \[amending this section\] shall become effective January 1, 1955. The other amendments made by this section (other than the amendments made by subsections (h), (i), (j) and (m)\[)\] \[amending [section 410 of this title][/us/usc/t42/s410]\] shall be applicable only with respect to services performed after 1954. For purposes of section 203 of the Social Security Act \[[section 403 of this title][/us/usc/t42/s403]\], the amendments made by paragraphs (1), (2), and (4) of subsection (g) \[amending [section 411 of this title][/us/usc/t42/s411]\] and by subsection (d) \[amending [section 411 of this title][/us/usc/t42/s411]\] shall be effective with respect to net earnings from self-employment derived after 1954. The amount of net earnings from self-employment derived during any taxable year ending in, and not with the close of, 1955 shall be credited equally to the calendar quarter in which such taxable year ends and to each of the three or fewer preceding quarters any part of which is in such taxable year; and, for purposes of the preceding sentence of this subsection, net earnings from self-employment so credited to calendar quarters in 1955 shall be deemed to have been derived after 1954.”
+> “The amendment made by paragraph (3) of subsection (g) \[amending [section 411 of this title][/us/usc/t42/s411]\] shall be applicable only with respect to taxable years beginning after 1950. The amendments made by paragraphs (1), (2), and (4) of such subsection \[amending [section 411 of this title][/us/usc/t42/s411]\] and by subsection (d) \[amending [section 411 of this title][/us/usc/t42/s411]\] shall, except for purposes of section 203 of the Social Security Act \[[section 403 of this title][/us/usc/t42/s403]\], be applicable only with respect to taxable years ending after 1954. The amendments made by paragraphs (1), (2), and (3) of subsection (a) \[amending [section 409 of this title][/us/usc/t42/s409]\] shall be applicable only with respect to remuneration paid after 1954. The amendments made by paragraphs (4), (5), and (6) of subsection (a) \[amending sections 410 and 418 of this title\] shall be applicable only with respect to services (whether performed after 1954 or prior to 1955) for which the remuneration is paid after 1954. The amendment made by paragraph (3) of subsection (c) \[amending this section\] shall become effective January 1, 1955. The other amendments made by this section (other than the amendments made by subsections (h), (i), (j) and (m)\[)\] \[amending [section 410 of this title][/us/usc/t42/s410]\] shall be applicable only with respect to services performed after 1954. For purposes of section 203 of the Social Security Act \[[42 U.S.C. 403][/us/usc/t42/s403]\], the amendments made by paragraphs (1), (2), and (4) of subsection (g) \[amending [section 411 of this title][/us/usc/t42/s411]\] and by subsection (d) \[amending [section 411 of this title][/us/usc/t42/s411]\] shall be effective with respect to net earnings from self-employment derived after 1954. The amount of net earnings from self-employment derived during any taxable year ending in, and not with the close of, 1955 shall be credited equally to the calendar quarter in which such taxable year ends and to each of the three or fewer preceding quarters any part of which is in such taxable year; and, for purposes of the preceding sentence of this subsection, net earnings from self-employment so credited to calendar quarters in 1955 shall be deemed to have been derived after 1954.”
 
  __Effective Date of 1950 Amendment__ 
 
 [Act Aug. 28, 1950, ch. 809][/us/act/1950-08-28/ch809], title I, § 108(d), [64 Stat. 521][/us/stat/64/521], provided that: 
 
-> “The amendments made by subsections (a) and (c) of this section \[amending this section\] shall take effect on September 1, 1950. The amendment made by subsection (b) of this section \[amending this section\] shall take effect January 1, 1951, except that, effective on September 1, 1950, the husband or former wife divorced of an individual shall be treated the same as a parent of such individual, and the legal representative of an individual or his estate shall be treated the same as the individual, for purposes of section 205(c) of the Social Security Act \[subsec. (c) of this section\] as in effect prior to the enactment of this Act \[Aug. 28, 1950\].”
+> “The amendments made by subsections (a) and (c) of this section \[amending this section\] shall take effect on September 1, 1950. The amendment made by subsection (b) of this section \[amending this section\] shall take effect January 1, 1951, except that, effective on September 1, 1950, the husband or former wife divorced of an individual shall be treated the same as a parent of such individual, and the legal representative of an individual or his estate shall be treated the same as the individual, for purposes of section 205(c) of the Social Security Act \[[42 U.S.C. 405(c)][/us/usc/t42/s405/c]\] as in effect prior to the enactment of this Act \[Aug. 28, 1950\].”
 
 [Act Aug. 28, 1950, ch. 809][/us/act/1950-08-28/ch809], title I, § 101(b)(2), [64 Stat. 488][/us/stat/64/488], provided that: 
 
-> “Section 205(m) of the Social Security Act \[subsec. (m) of this section\] is repealed effective with respect to monthly payments under section 202 of the Social Security Act \[this section\], as amended by this Act, for months after August 1950.”
+> “Section 205(m) of the Social Security Act \[[42 U.S.C. 405(m)][/us/usc/t42/s405/m]\] is repealed effective with respect to monthly payments under section 202 of the Social Security Act \[[42 U.S.C. 402][/us/usc/t42/s402]\], as amended by this Act, for months after August 1950.”
 
  __Effective Date of 1939 Amendment__ 
 
@@ -1563,7 +1565,7 @@
 
 [Pub. L. 103–296, title II, § 201(a)(1)(C)][/us/pl/103/296/s201/a/1/C], Aug. 15, 1994, [108 Stat. 1491][/us/stat/108/1491], provided that: 
 
-> “In the case of an individual who, as of 180 days after the date of the enactment of this Act \[Aug. 15, 1994\], has been determined to be under a disability, if alcoholism or drug addiction is a contributing factor material to the determination of the Secretary of Health and Human Services that the individual is under a disability, the Secretary may, notwithstanding clauses (i) and (ii) of section 205(j)(2)(D) of the Social Security Act \[subsec. (j)(2)(D) of this section\], make direct payment of benefits to such individual during the 90-day period commencing with the date on which such individual is provided the notice described in subparagraph (D)(ii) of this paragraph \[set out above\], until such time during such period as the selection of a representative payee is made pursuant to section 205(j) of such Act \[subsec. (j) of this section\].”
+> “In the case of an individual who, as of 180 days after the date of the enactment of this Act \[Aug. 15, 1994\], has been determined to be under a disability, if alcoholism or drug addiction is a contributing factor material to the determination of the Secretary of Health and Human Services that the individual is under a disability, the Secretary may, notwithstanding clauses (i) and (ii) of section 205(j)(2)(D) of the Social Security Act \[[42 U.S.C. 405(j)(2)(D)][/us/usc/t42/s405/j/2/D]\], make direct payment of benefits to such individual during the 90-day period commencing with the date on which such individual is provided the notice described in subparagraph (D)(ii) of this paragraph \[set out above\], until such time during such period as the selection of a representative payee is made pursuant to section 205(j) of such Act \[[42 U.S.C. 405(j)][/us/usc/t42/s405/j]\].”
 
  __Study Regarding Feasibility, Cost, and Equity of Requiring Representative Payees for All Disability Beneficiaries Suffering From Alcoholism or Drug Addiction__ 
 
@@ -1573,7 +1575,7 @@
 
 [Pub. L. 103–296, title II, § 206(g)][/us/pl/103/296/s206/g], Aug. 15, 1994, [108 Stat. 1516][/us/stat/108/1516], as amended by [Pub. L. 103–296, title I, § 108(b)(10)(B)][/us/pl/103/296/s108/b/10/B], Aug. 15, 1994, [108 Stat. 1483][/us/stat/108/1483], provided that: 
 
-> “The Commissioner of Social Security shall annually submit to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate a report on the extent to which the Commissioner has exercised his authority to review cases of entitlement to monthly insurance benefits under title II of the Social Security Act \[this subchapter\] and supplemental security income cases under title XVI of such Act \[subchapter XVI of this chapter\], and the extent to which the cases reviewed were those that involved a high likelihood or probability of fraud.”
+> “The Commissioner of Social Security shall annually submit to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate a report on the extent to which the Commissioner has exercised his authority to review cases of entitlement to monthly insurance benefits under title II of the Social Security Act \[[42 U.S.C. 401][/us/usc/t42/s401] et seq.\] and supplemental security income cases under title XVI of such Act \[[42 U.S.C. 1381][/us/usc/t42/s1381] et seq.\], and the extent to which the cases reviewed were those that involved a high likelihood or probability of fraud.”
 
  __Report on Feasibility of Obtaining Ready Access to Certain Criminal Fraud Records__ 
 
@@ -1603,7 +1605,7 @@
 
 [Pub. L. 97–455, § 5][/us/pl/97/455/s5], Jan. 12, 1983, [96 Stat. 2500][/us/stat/96/2500], provided that: 
 
-> “The Secretary of Health and Human Services shall take such steps as may be necessary or appropriate to assure public understanding of the importance the Congress attaches to the face-to-face reconsiderations provided for in section 205(b)(2) of the Social Security Act \[subsec. (b)(2) of this section\] (as added by section 4 of this Act). For this purpose the Secretary shall—
+> “The Secretary of Health and Human Services shall take such steps as may be necessary or appropriate to assure public understanding of the importance the Congress attaches to the face-to-face reconsiderations provided for in section 205(b)(2) of the Social Security Act \[[42 U.S.C. 405(b)(2)][/us/usc/t42/s405/b/2]\] (as added by section 4 of this Act). For this purpose the Secretary shall—
 
 >     “(1) provide for the establishment and implementation of procedures for the conduct of such reconsiderations in a manner which assures that beneficiaries will receive reasonable notice and information with respect to the time and place of reconsideration and the opportunities afforded to introduce evidence and be represented by counsel; and
 
@@ -1613,11 +1615,11 @@
 
 [Pub. L. 89–97, title III, § 331(c)][/us/pl/89/97/s331/c], July 30, 1965, [79 Stat. 402][/us/stat/79/402], provided that: 
 
-> “Notwithstanding any provision of section 205(c)(5)(F) of the Social Security Act \[subsec. (c)(5)(F) of this section\], the Secretary of Health, Education, and Welfare may conform, before April 16, 1970, his records to tax returns or statements of earnings which constitute self-employment income solely by reason of the filing of a certificate which is effective under section 1402(e)(5) of such Code \[[section 1402(e)(5) of Title 26][/us/usc/t26/s1402/e/5], Internal Revenue Code\].”
+> “Notwithstanding any provision of section 205(c)(5)(F) of the Social Security Act \[[42 U.S.C. 405(c)(5)(F)][/us/usc/t42/s405/c/5/F]\], the Secretary of Health, Education, and Welfare \[now Health and Human Services\] may conform, before April 16, 1970, his records to tax returns or statements of earnings which constitute self-employment income solely by reason of the filing of a certificate which is effective under section 1402(e)(5) of such Code \[[section 1402(e)(5) of Title 26][/us/usc/t26/s1402/e/5], Internal Revenue Code\].”
 
 [Pub. L. 86–778, title I, § 101(e)][/us/pl/86/778/s101/e], Sept. 13, 1960, [74 Stat. 928][/us/stat/74/928], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that: 
 
-> “The provisions of section 205(c)(5)(F) of the Social Security Act \[subsec. (c)(5)(F) of this section\], insofar as they prohibit inclusion in the records of the Secretary of Health, Education, and Welfare of self-employment income for a taxable year when the return or statement including such income is filed after the time limitation following such taxable year, shall not be applicable to earnings which are derived in any taxable year ending before 1960 and which constitute self-employment income solely by reason of the filing of a certificate which is effective under section 1402(e)(3)(B) or (5) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] \[section 1402(e)(3)(B) or (5) of Title 26\].”
+> “The provisions of section 205(c)(5)(F) of the Social Security Act \[[42 U.S.C. 405(c)(5)(F)][/us/usc/t42/s405/c/5/F]\], insofar as they prohibit inclusion in the records of the Secretary of Health, Education, and Welfare \[now Health and Human Services\] of self-employment income for a taxable year when the return or statement including such income is filed after the time limitation following such taxable year, shall not be applicable to earnings which are derived in any taxable year ending before 1960 and which constitute self-employment income solely by reason of the filing of a certificate which is effective under section 1402(e)(3)(B) or (5) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] \[section 1402(e)(3)(B) or (5) of Title 26\].”
 
 ----------
 
@@ -2105,6 +2107,7 @@
 [/us/stat/110/853]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F853
 [/us/pl/106/170/s401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170%2Fs401%2Fa
 [/us/stat/113/1906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1906
+[/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
 [/us/usc/t42/s422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs422
 [/us/usc/t42/s423/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs423%2Ff
 [/us/pl/106/170/s401/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170%2Fs401%2Fc
@@ -2117,6 +2120,7 @@
 [/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
 [/us/pl/103/296/s201/a/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs201%2Fa%2F1%2FD
 [/us/stat/108/1491]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1491
+[/us/usc/t42/s405/j/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs405%2Fj%2F7
 [/us/pl/103/296/s201/a/2/B/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs201%2Fa%2F2%2FB%2Fiii
 [/us/stat/108/1493]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1493
 [/us/pl/103/296/s201/a/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs201%2Fa%2F2%2FD
@@ -2139,9 +2143,12 @@
 [/us/pl/101/508/s5105/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs5105%2Fa%2F5
 [/us/stat/104/1388-262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-262
 [/us/usc/t42/s1383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1383
+[/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
+[/us/usc/t42/s1381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1381
 [/us/usc/t42/s1383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1383
 [/us/pl/101/508/s5105/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs5105%2Fb%2F1%2FB
 [/us/stat/104/1388-263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-263
+[/us/usc/t42/s405/j/3/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs405%2Fj%2F3%2FE
 [/us/pl/101/508/s5105/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs5105%2Fd%2F2
 [/us/stat/104/1388-266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-266
 [/us/usc/t42/s1383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1383
@@ -2185,6 +2192,7 @@
 [/us/stat/97/137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F137
 [/us/pl/97/455/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F455%2Fs4%2Fb
 [/us/stat/96/2500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2500
+[/us/usc/t42/s405/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs405%2Fb%2F2%2FB
 [/us/pl/96/265/s305/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F265%2Fs305%2Fc
 [/us/stat/94/457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F457
 [/us/usc/t42/s1383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1383
@@ -2201,6 +2209,7 @@
 [/us/usc/t42/s1383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1383
 [/us/pl/93/445/s302/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F445%2Fs302%2Fb
 [/us/stat/89/1136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F1136
+[/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
 [/us/pl/93/445/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F445%2Fs303
 [/us/pl/93/445/s603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F445%2Fs603
 [/us/usc/t42/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs402
@@ -2209,6 +2218,7 @@
 [/us/usc/t18/s6001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs6001
 [/us/pl/90/248/s171/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248%2Fs171%2Fb
 [/us/stat/81/877]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F877
+[/us/usc/t42/s405/q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs405%2Fq
 [/us/pl/89/97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97
 [/us/usc/t42/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs402
 [/us/pl/89/97/s308/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97%2Fs308%2Fe
@@ -2228,6 +2238,7 @@
 [/us/stat/70/887]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F887
 [/us/act/1956-08-01/ch836]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-01%2Fch836
 [/us/stat/70/831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F831
+[/us/usc/t42/s405/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs405%2Fb
 [/us/act/1954-09-01/ch1206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-09-01%2Fch1206
 [/us/stat/68/1061]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F1061
 [/us/usc/t42/s411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs411
@@ -2241,8 +2252,11 @@
 [/us/usc/t42/s411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs411
 [/us/act/1950-08-28/ch809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-28%2Fch809
 [/us/stat/64/521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F521
+[/us/usc/t42/s405/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs405%2Fc
 [/us/act/1950-08-28/ch809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-28%2Fch809
 [/us/stat/64/488]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F488
+[/us/usc/t42/s405/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs405%2Fm
+[/us/usc/t42/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs402
 [/us/act/1939-08-10/ch666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-08-10%2Fch666
 [/us/stat/53/1362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F1362
 [/us/pl/87/293/s202/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F293%2Fs202%2Fb%2F3
@@ -2260,6 +2274,8 @@
 [/us/stat/110/2176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2176
 [/us/pl/103/296/s201/a/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs201%2Fa%2F1%2FC
 [/us/stat/108/1491]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1491
+[/us/usc/t42/s405/j/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs405%2Fj%2F2%2FD
+[/us/usc/t42/s405/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs405%2Fj
 [/us/pl/103/296/s201/a/1/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs201%2Fa%2F1%2FE
 [/us/stat/108/1491]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1491
 [/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
@@ -2267,6 +2283,8 @@
 [/us/stat/108/1516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1516
 [/us/pl/103/296/s108/b/10/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs108%2Fb%2F10%2FB
 [/us/stat/108/1483]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1483
+[/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
+[/us/usc/t42/s1381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1381
 [/us/pl/101/508/s5105/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs5105%2Fa%2F2%2FB
 [/us/stat/104/1388-260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-260
 [/us/usc/t18/s495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs495
@@ -2290,12 +2308,15 @@
 [/us/stat/100/3373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3373
 [/us/pl/97/455/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F455%2Fs5
 [/us/stat/96/2500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2500
+[/us/usc/t42/s405/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs405%2Fb%2F2
 [/us/pl/89/97/s331/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97%2Fs331%2Fc
 [/us/stat/79/402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F402
+[/us/usc/t42/s405/c/5/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs405%2Fc%2F5%2FF
 [/us/usc/t26/s1402/e/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1402%2Fe%2F5
 [/us/pl/86/778/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F778%2Fs101%2Fe
 [/us/stat/74/928]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F928
 [/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
+[/us/usc/t42/s405/c/5/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs405%2Fc%2F5%2FF
 
 

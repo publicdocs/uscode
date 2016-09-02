@@ -125,11 +125,11 @@
 
 [Pub. L. 94–63, title IX, § 905][/us/pl/94/63/s905], July 29, 1975, [89 Stat. 355][/us/stat/89/355], provided that: 
 
-> “Except as may otherwise be specifically provided, the amendments made by this part \[part B (§§ 905–937) of title IX of [Pub. L. 94–63][/us/pl/94/63], enacting sections 296j to 296m of this title, amending sections 296, 296a, 296d, 296e, 297 to 297c, 297e, and 297j of this title, repealing sections 296d, 296g, 296i, 297f, and 298c–7 of this title, and enacting provisions set out as notes under sections 296, 296a, 296d, 296e, 296m, 297, 297b, and 297f of this title\] shall take effect July 1, 1975. The amendments made by this part to provisions of title VIII of the Public Health Service Act \[this subchapter\] (hereinafter in this part referred to as the ‘Act’) are made to such provisions as amended by part A of this title \[amending sections 296, 296d, 296e, 296g, 296i, 297j, and 298c–7 of this title\].”
+> “Except as may otherwise be specifically provided, the amendments made by this part \[part B (§§ 905–937) of title IX of [Pub. L. 94–63][/us/pl/94/63], enacting sections 296j to 296m of this title, amending sections 296, 296a, 296d, 296e, 297 to 297c, 297e, and 297j of this title, repealing sections 296d, 296g, 296i, 297f, and 298c–7 of this title, and enacting provisions set out as notes under sections 296, 296a, 296d, 296e, 296m, 297, 297b, and 297f of this title\] shall take effect July 1, 1975. The amendments made by this part to provisions of title VIII of the Public Health Service Act \[[42 U.S.C. 296][/us/usc/t42/s296] et seq.\] (hereinafter in this part referred to as the ‘Act’) are made to such provisions as amended by part A of this title \[amending sections 296, 296d, 296e, 296g, 296i, 297j, and 298c–7 of this title\].”
 
 [Pub. L. 94–63, title IX, § 942][/us/pl/94/63/s942], July 29, 1975, [89 Stat. 367][/us/stat/89/367], provided that: 
 
-> “The amendments made by section 941 \[enacting [section 298b–3 of this title][/us/usc/t42/s298b–3], amending sections 296a to 296d, 296f, 297a to 297e, 297g to 297k, 298, and 298b of this title, and repealing [section 298c–8 of this title][/us/usc/t42/s298c–8]\] shall take effect July 1, 1975. Except as otherwise specifically provided, the amendments made by section 941 to provisions of title VIII of the Act \[this subchapter\] are made to such provisions as in effect July 1, 1975, and as amended by part B of this title \[see note set out above\].”
+> “The amendments made by section 941 \[enacting [section 298b–3 of this title][/us/usc/t42/s298b–3], amending sections 296a to 296d, 296f, 297a to 297e, 297g to 297k, 298, and 298b of this title, and repealing [section 298c–8 of this title][/us/usc/t42/s298c–8]\] shall take effect July 1, 1975. Except as otherwise specifically provided, the amendments made by section 941 to provisions of title VIII of the Act \[[42 U.S.C. 296][/us/usc/t42/s296] et seq.\] are made to such provisions as in effect July 1, 1975, and as amended by part B of this title \[see note set out above\].”
 
  __Effective Date of 1968 Amendment__ 
 
@@ -205,10 +205,12 @@
 [/us/pl/94/63/s905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F63%2Fs905
 [/us/stat/89/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F355
 [/us/pl/94/63]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F63
+[/us/usc/t42/s296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs296
 [/us/pl/94/63/s942]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F63%2Fs942
 [/us/stat/89/367]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F367
 [/us/usc/t42/s298b–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs298b%E2%80%933
 [/us/usc/t42/s298c–8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs298c%E2%80%938
+[/us/usc/t42/s296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs296
 [/us/pl/90/490/s222/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F490%2Fs222%2Fc%2F2
 [/us/pl/90/490/s222/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F490%2Fs222%2Fi
 [/us/usc/t42/s297b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs297b

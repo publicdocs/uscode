@@ -247,65 +247,65 @@
 
 >         “(2)
 
->             (A) in the case of such grants, contracts, or payments under consolidated State programs (as defined in subsection (c)(2)(C)) to a State (or entities in the State), the date the State is first entitled to an allotment under title V of the Social Security Act \[this subchapter\] (as amended by this subtitle), or
+>             (A) in the case of such grants, contracts, or payments under consolidated State programs (as defined in subsection (c)(2)(C)) to a State (or entities in the State), the date the State is first entitled to an allotment under title V of the Social Security Act \[[42 U.S.C. 701][/us/usc/t42/s701] et seq.\] (as amended by this subtitle), or
 
 >             “(B) in the case of grants and contracts under consolidated Federal programs (as defined in subsection (c)(2)(B)), October 1, 1981, or such later date (before October 1, 1982) as the Secretary determines to be appropriate.
 
 >     “(b)
 
->         (1) The Secretary of Health and Human Services (hereinafter in this section referred to as the ‘Secretary’) may not provide for any allotment to a State under title V of the Social Security Act \[this subchapter\] (as amended by this subtitle) for a calendar quarter in fiscal year 1982 unless the State has notified the Secretary, at least 30 days (or 15 days in the case of the first calendar quarter of the fiscal year) before the beginning of the calendar quarter, that the State requests an allotment for that calendar quarter (and subsequent calendar quarters).
+>         (1) The Secretary of Health and Human Services (hereinafter in this section referred to as the ‘Secretary’) may not provide for any allotment to a State under title V of the Social Security Act \[[42 U.S.C. 701][/us/usc/t42/s701] et seq.\] (as amended by this subtitle) for a calendar quarter in fiscal year 1982 unless the State has notified the Secretary, at least 30 days (or 15 days in the case of the first calendar quarter of the fiscal year) before the beginning of the calendar quarter, that the State requests an allotment for that calendar quarter (and subsequent calendar quarters).
 
 >         “(2)
 
 >             (A) Any grants or contracts entered into under the authorities of the consolidated State programs (as defined in subsection (c)(2)(C)) after the date of the enactment of this subtitle \[Aug. 13, 1981\] shall permit the termination of such grant or contract upon three months notice by the State in which the grantee or contractor is located.
 
->             “(B) The Secretary shall not make or renew any grants or contracts under the provisions of the consolidated State programs (as defined in subsection (c)(2)(C)) to a State (or an entity in the State) after the date the State becomes entitled to an allotment of funds under title V of the Social Security Act \[this subchapter\] (as amended by this subtitle).
+>             “(B) The Secretary shall not make or renew any grants or contracts under the provisions of the consolidated State programs (as defined in subsection (c)(2)(C)) to a State (or an entity in the State) after the date the State becomes entitled to an allotment of funds under title V of the Social Security Act (as amended by this subtitle).
 
 >         “(3)
 
->             (A) In the case of funds appropriated for fiscal year 1982 for consolidated health programs (as defined in subsection (c)(2)(A)), such funds shall (notwithstanding any other provision of law) be available for use under title V of the Social Security Act (as amended by this subtitle) \[this subchapter\], subject to subparagraphs (B) and (C).
+>             (A) In the case of funds appropriated for fiscal year 1982 for consolidated health programs (as defined in subsection (c)(2)(A)), such funds shall (notwithstanding any other provision of law) be available for use under title V of the Social Security Act (as amended by this subtitle), subject to subparagraphs (B) and (C).
 
 >             “(B)
 
 >              Notwithstanding any other provision of law—
 
->                 “(i) the amount that may be made available for expenditures for the consolidated Federal programs for fiscal year 1982 and for projects and programs under section 502(a) of the Social Security Act \[[section 702(a) of this title][/us/usc/t42/s702/a]\] (as amended by this subtitle) may not exceed the amount provided for projects and programs under such section 502(a) for that fiscal year, and
+>                 “(i) the amount that may be made available for expenditures for the consolidated Federal programs for fiscal year 1982 and for projects and programs under section 502(a) of the Social Security Act \[[42 U.S.C. 702(a)][/us/usc/t42/s702/a]\] (as amended by this subtitle) may not exceed the amount provided for projects and programs under such section 502(a) for that fiscal year, and
 
->                 “(ii) the amount that may be made available to a State (or entities in the State) for carrying out the consolidated State programs for fiscal year 1982 and for allotments to the State under section 502(b) of the Social Security Act \[[section 702(b) of this title][/us/usc/t42/s702/b]\] (as amended by this subtitle) may not exceed the amount which is allotted to the State for that fiscal year under such section (without regard to paragraphs (3) and (4) thereof).
+>                 “(ii) the amount that may be made available to a State (or entities in the State) for carrying out the consolidated State programs for fiscal year 1982 and for allotments to the State under section 502(b) of the Social Security Act \[[42 U.S.C. 702(b)][/us/usc/t42/s702/b]\] (as amended by this subtitle) may not exceed the amount which is allotted to the State for that fiscal year under such section (without regard to paragraphs (3) and (4) thereof).
 
 >             “(C)
 
 >              For fiscal year 1982, the Secretary shall reduce the amount which would otherwise be available—
 
->                 “(i) for expenditures by the Secretary under section 502(a) of the Social Security Act \[[section 702(a) of this title][/us/usc/t42/s702/a]\] (as amended by this subtitle) by the amounts which the Secretary determines or estimates are payable for consolidated Federal programs (as defined in subsection (c)(2)(B)) from funds for fiscal year 1982, and
+>                 “(i) for expenditures by the Secretary under section 502(a) of the Social Security Act \[[42 U.S.C. 702(a)][/us/usc/t42/s702/a]\] (as amended by this subtitle) by the amounts which the Secretary determines or estimates are payable for consolidated Federal programs (as defined in subsection (c)(2)(B)) from funds for fiscal year 1982, and
 
->                 “(ii) for allotment to each of the States under section 502(b) of such Act \[[section 702(b) of this title][/us/usc/t42/s702/b]\] (as so amended) by the amounts which the Secretary determines or estimates are payable to that State (or entities in the State) under the consolidated State programs (as defined in subsection (c)(2)(C)) from funds for fiscal year 1982.
+>                 “(ii) for allotment to each of the States under section 502(b) of such Act \[[42 U.S.C. 702(b)][/us/usc/t42/s702/b]\] (as so amended) by the amounts which the Secretary determines or estimates are payable to that State (or entities in the State) under the consolidated State programs (as defined in subsection (c)(2)(C)) from funds for fiscal year 1982.
 
 >     “(c)
 
 >      For purposes of this section:
 
->         “(1) The term ‘State’ has the meaning given such term for purposes of title V of the Social Security Act \[this subchapter\].
+>         “(1) The term ‘State’ has the meaning given such term for purposes of title V of the Social Security Act \[[42 U.S.C. 701][/us/usc/t42/s701] et seq.\].
 
 >         “(2)
 
->             (A) The term ‘consolidated health programs’ has the meaning given such term in section 501(b) of the Social Security Act \[subsec. (b) of this section\] (as amended by this subtitle).
+>             (A) The term ‘consolidated health programs’ has the meaning given such term in section 501(b) of the Social Security Act \[[42 U.S.C. 701(b)][/us/usc/t42/s701/b]\] (as amended by this subtitle).
 
 >             “(B)
 
 >              The term ‘consolidated Federal programs’ means the consolidated health programs—
 
->                 “(i) of special projects grants under sections 503 and 504 \[sections 703 and 704 of this title\], and training grants under section 511 \[[section 711 of this title][/us/usc/t42/s711]\], of the Social Security Act,
+>                 “(i) of special projects grants under sections 503 and 504 \[[42 U.S.C. 703][/us/usc/t42/s703], 704\], and training grants under section 511 \[[42 U.S.C. 711][/us/usc/t42/s711]\], of the Social Security Act,
 
->                 “(ii) of grants and contracts for genetic disease projects and programs under section 1101 of the Public Health Service Act \[[section 300b of this title][/us/usc/t42/s300b]\], and
+>                 “(ii) of grants and contracts for genetic disease projects and programs under section 1101 of the Public Health Service Act \[former [42 U.S.C. 300b][/us/usc/t42/s300b]\], and
 
->                 “(iii) of grants or contracts for comprehensive hemophilia diagnostic and treatment centers under section 1131 of the Public Health Service Act \[[section 300c–21 of this title][/us/usc/t42/s300c–21]\],
+>                 “(iii) of grants or contracts for comprehensive hemophilia diagnostic and treatment centers under section 1131 of the Public Health Service Act \[former [42 U.S.C. 300c–21][/us/usc/t42/s300c–21]\],
 
 >                 as such sections are in effect before the date of the enactment of this subtitle \[Aug. 13, 1981\].
 
 >             “(C) The term ‘consolidated State programs’ means the consolidated health programs, other than the consolidated Federal programs.
 
->     “(d) The provisions of chapter 2 of subtitle C of title XVII of this Act \[sections 1741–1745 of [Pub. L. 97–35][/us/pl/97/35], which were repealed and reenacted as section 7301–7305 of Title 31, Money and Finance, by [Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 877][/us/stat/96/877]\] shall not apply to this subtitle (or the programs under the amendments made by this title \[probably should be subtitle\]) and, specifically, section 1745 of this Act \[set out as a note under [section 1243 of Title 31][/us/usc/t31/s1243]\] shall not apply to financial and compliance audits conducted under section 506(b) of the Social Security Act \[[section 706(b) of this title][/us/usc/t42/s706/b]\] (as amended by this subtitle).”
+>     “(d) The provisions of chapter 2 of subtitle C of title XVII of this Act \[sections 1741–1745 of [Pub. L. 97–35][/us/pl/97/35], which were repealed and reenacted as section 7301–7305 of Title 31, Money and Finance, by [Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 877][/us/stat/96/877]\] shall not apply to this subtitle (or the programs under the amendments made by this title \[probably should be subtitle\]) and, specifically, section 1745 of this Act \[set out as a note under [section 1243 of Title 31][/us/usc/t31/s1243]\] shall not apply to financial and compliance audits conducted under section 506(b) of the Social Security Act \[[42 U.S.C. 706(b)][/us/usc/t42/s706/b]\] (as amended by this subtitle).”
 
  __Development of Model Applications for Maternal and Child Assistance Programs__ 
 
@@ -321,7 +321,7 @@
 
 >     “(2) any death record for the infant, and
 
->     “(3) information on any claims submitted under title XIX of the Social Security Act \[subchapter XIX of this chapter\] for health care furnished to the infant or with respect to the birth of the infant.”
+>     “(3) information on any claims submitted under title XIX of the Social Security Act \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\] for health care furnished to the infant or with respect to the birth of the infant.”
 
  __Demonstration Project on Health Insurance for Medically Uninsurable Children__ 
 
@@ -343,7 +343,7 @@
 
 >         “(3) __Availability and distribution.—__ 
 
->         The Secretary shall make the handbook available to pregnant women and families with young children, and shall provide copies of the handbook to maternal and child health programs (including maternal and child health clinics supported through either title V or title XIX of the Social Security Act \[this subchapter and subchapter XIX of this chapter\], community and migrant health centers under sections 329 and 330 of the Public Health Service Act \[former sections 254b and 254c of this title\], the grant program for the homeless under section 340 of the Public Health Service Act \[former [section 256 of this title][/us/usc/t42/s256]\], the ‘WIC’ program under section 17 of the Child Nutrition Act of 1966 \[[section 1786 of this title][/us/usc/t42/s1786]\], and the head start program under the Head Start Act \[section 9831 et seq. of this title\]) that serve high-risk women. The Secretary shall coordinate the distribution of the handbook with State maternal and child health departments, State and local public health clinics, private providers of obstetric and pediatric care, and community groups where applicable. The Secretary shall make efforts to involve private entities in the distribution of the handbook under this paragraph.
+>         The Secretary shall make the handbook available to pregnant women and families with young children, and shall provide copies of the handbook to maternal and child health programs (including maternal and child health clinics supported through either title V or title XIX of the Social Security Act \[[42 U.S.C. 701][/us/usc/t42/s701] et seq., 1396 et seq.\], community and migrant health centers under sections 329 and 330 of the Public Health Service Act \[former [42 U.S.C. 254b][/us/usc/t42/s254b], 254c\], the grant program for the homeless under section 340 of the Public Health Service Act \[former [42 U.S.C. 256][/us/usc/t42/s256]\], the ‘WIC’ program under section 17 of the Child Nutrition Act of 1966 \[[42 U.S.C. 1786][/us/usc/t42/s1786]\], and the head start program under the Head Start Act \[[42 U.S.C. 9831][/us/usc/t42/s9831] et seq.\]) that serve high-risk women. The Secretary shall coordinate the distribution of the handbook with State maternal and child health departments, State and local public health clinics, private providers of obstetric and pediatric care, and community groups where applicable. The Secretary shall make efforts to involve private entities in the distribution of the handbook under this paragraph.
 
 >     “(b) __Authorization of Appropriations.—__ 
 
@@ -485,10 +485,15 @@
 [/us/stat/95/828]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F828
 [/us/usc/t42/s706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs706
 [/us/usc/t42/s1382d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1382d
+[/us/usc/t42/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs701
+[/us/usc/t42/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs701
 [/us/usc/t42/s702/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs702%2Fa
 [/us/usc/t42/s702/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs702%2Fb
 [/us/usc/t42/s702/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs702%2Fa
 [/us/usc/t42/s702/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs702%2Fb
+[/us/usc/t42/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs701
+[/us/usc/t42/s701/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs701%2Fb
+[/us/usc/t42/s703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs703
 [/us/usc/t42/s711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs711
 [/us/usc/t42/s300b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300b
 [/us/usc/t42/s300c–21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300c%E2%80%9321
@@ -501,12 +506,16 @@
 [/us/stat/103/2281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2281
 [/us/pl/101/239/s6507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs6507
 [/us/stat/103/2282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2282
+[/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
 [/us/pl/101/239/s6508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs6508
 [/us/stat/103/2283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2283
 [/us/pl/101/239/s6509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs6509
 [/us/stat/103/2284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2284
+[/us/usc/t42/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs701
+[/us/usc/t42/s254b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs254b
 [/us/usc/t42/s256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs256
 [/us/usc/t42/s1786]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1786
+[/us/usc/t42/s9831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9831
 [/us/pl/104/299/s4/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F299%2Fs4%2Fc
 [/us/usc/t42/s254b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs254b
 

@@ -171,7 +171,7 @@
 
 [Pub. L. 109–288, § 3(e)(3)][/us/pl/109/288/s3/e/3], Sept. 28, 2006, [120 Stat. 1236][/us/stat/120/1236], provided that: 
 
-> “The amendments made by this subsection \[amending this section\] take effect on the date of enactment of this Act \[Sept. 28, 2006\]. Each State with an approved plan under subpart 1 or 2 of part B of title IV of the Social Security Act \[subpart 1 or 2 of this part\] shall make its initial submission of the forms required under section 432(a)(8)(B) of the Social Security Act \[subsec. (a)(8)(B) of this section\] to the Secretary of Health and Human Services by June 30, 2007, and the Secretary of Health and Human Services shall submit the first compilation required under section 432(c) of the Social Security Act \[subsec. (c) of this section\] by September 30, 2007.”
+> “The amendments made by this subsection \[amending this section\] take effect on the date of enactment of this Act \[Sept. 28, 2006\]. Each State with an approved plan under subpart 1 or 2 of part B of title IV of the Social Security Act \[[42 U.S.C. 620][/us/usc/t42/s620] et seq., 629 et seq.\] shall make its initial submission of the forms required under section 432(a)(8)(B) of the Social Security Act \[[42 U.S.C. 629b(a)(8)(B)][/us/usc/t42/s629b/a/8/B]\] to the Secretary of Health and Human Services by June 30, 2007, and the Secretary of Health and Human Services shall submit the first compilation required under section 432(c) of the Social Security Act \[[42 U.S.C. 629b(c)][/us/usc/t42/s629b/c]\] by September 30, 2007.”
 
     Amendment by [Pub. L. 109–288][/us/pl/109/288] effective Oct. 1, 2006, except as otherwise provided, and applicable to payments under this part and part E of this subchapter for calendar quarters beginning on or after such date, without regard to whether implementing regulations have been promulgated, and with delay permitted if State legislation is required to meet additional requirements, see section 12(a), (b) of [Pub. L. 109–288][/us/pl/109/288], set out as a note under [section 621 of this title][/us/usc/t42/s621].
 
@@ -221,6 +221,9 @@
 [/us/usc/t42/s622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs622
 [/us/pl/109/288/s3/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F288%2Fs3%2Fe%2F3
 [/us/stat/120/1236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1236
+[/us/usc/t42/s620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs620
+[/us/usc/t42/s629b/a/8/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs629b%2Fa%2F8%2FB
+[/us/usc/t42/s629b/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs629b%2Fc
 [/us/pl/109/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F288
 [/us/pl/109/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F288
 [/us/usc/t42/s621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs621

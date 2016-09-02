@@ -25,7 +25,7 @@
 
             (A) the period ending on the date on which the next session of the State or Indian tribal legislature ends; or
 
-            (B) 2 years of September 13, 1994 or, in the case of the condition set forth in subsection  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “section”. </sup></sup>  3796hh(c)(4) of this title, <sup>\[2\]</sup>  <sup><sup> 2 See References in Text note below. </sup></sup>  the expiration of the 2-year period beginning on October 28, 2000;
+            (B) 2 years of September 13, 1994 or, in the case of the condition set forth in subsection  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “section”. </sup></sup>  3796hh(c)(4)  <sup>\[2\]</sup>  <sup><sup> 2 See References in Text note below. </sup></sup>  of this title, the expiration of the 2-year period beginning on October 28, 2000;
 
         (2) describes plans to further the purposes stated in [section 3796hh(a) of this title][/us/usc/t42/s3796hh/a];
 
@@ -51,13 +51,9 @@
 
 ([Pub. L. 90–351, title I, § 2102][/us/pl/90/351/s2102], as added [Pub. L. 103–322, title IV, § 40231(a)(3)][/us/pl/103/322/s40231/a/3], Sept. 13, 1994, [108 Stat. 1933][/us/stat/108/1933]; amended [Pub. L. 106–386, div. B, title I, § 1101(a)(3)][/us/pl/106/386/s1101/a/3], (b)(3), Oct. 28, 2000, [114 Stat. 1492][/us/stat/114/1492], 1493; [Pub. L. 109–162, title I, § 102(c)][/us/pl/109/162/s102/c], Jan. 5, 2006, [119 Stat. 2977][/us/stat/119/2977]; [Pub. L. 113–4, title I, § 102(a)(2)][/us/pl/113/4/s102/a/2], Mar. 7, 2013, [127 Stat. 72][/us/stat/127/72].)
 
- __Amendment of Section__ 
-
-For effective date of amendment by [Pub. L. 113–4][/us/pl/113/4], see Effective Date of 2013 Amendment note below.
-
  __References in Text__ 
 
-    Sub[section 3796hh(c)(4) of this title][/us/usc/t42/s3796hh/c/4], referred to in subsec. (a)(1)(B), which probably should be a reference to “[section 3796hh(c)(4) of this title][/us/usc/t42/s3796hh/c/4]”, was redesignated [section 3796hh(c)(1)(D) of this title][/us/usc/t42/s3796hh/c/1/D] by [Pub. L. 113–4, title I, § 102(a)(1)(B)(vi)][/us/pl/113/4/s102/a/1/B/vi], Mar. 7, 2013, [127 Stat. 72][/us/stat/127/72].
+    [Section 3796hh(c)(4) of this title][/us/usc/t42/s3796hh/c/4], referred to in subsec. (a)(1)(B), was redesignated [section 3796hh(c)(1)(D) of this title][/us/usc/t42/s3796hh/c/1/D] by [Pub. L. 113–4, title I, § 102(a)(1)(B)(vi)][/us/pl/113/4/s102/a/1/B/vi], Mar. 7, 2013, [127 Stat. 72][/us/stat/127/72].
 
  __Amendments__ 
 
@@ -104,8 +100,6 @@ For effective date of amendment by [Pub. L. 113–4][/us/pl/113/4], see Effectiv
 [/us/stat/119/2977]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2977
 [/us/pl/113/4/s102/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs102%2Fa%2F2
 [/us/stat/127/72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F72
-[/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
-[/us/usc/t42/s3796hh/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3796hh%2Fc%2F4
 [/us/usc/t42/s3796hh/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3796hh%2Fc%2F4
 [/us/usc/t42/s3796hh/c/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3796hh%2Fc%2F1%2FD
 [/us/pl/113/4/s102/a/1/B/vi]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs102%2Fa%2F1%2FB%2Fvi

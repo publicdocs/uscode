@@ -367,41 +367,41 @@
 
 >     “(1) __Use of repayment plans.—__ 
 
->     Section 1893(f)(1) of the Social Security Act \[subsec. (f)(1) of this section\], as added by subsection (a), shall apply to requests for repayment plans made after the date of the enactment of this Act \[Dec. 8, 2003\].
+>     Section 1893(f)(1) of the Social Security Act \[[42 U.S.C. 1395ddd(f)(1)][/us/usc/t42/s1395ddd/f/1]\], as added by subsection (a), shall apply to requests for repayment plans made after the date of the enactment of this Act \[Dec. 8, 2003\].
 
 >     “(2) __Limitation on recoupment.—__ 
 
->     Section 1893(f)(2) of the Social Security Act \[subsec. (f)(2) of this section\], as added by subsection (a), shall apply to actions taken after the date of the enactment of this Act.
+>     Section 1893(f)(2) of the Social Security Act \[[42 U.S.C. 1395ddd(f)(2)][/us/usc/t42/s1395ddd/f/2]\], as added by subsection (a), shall apply to actions taken after the date of the enactment of this Act.
 
 >     “(3) __Use of extrapolation.—__ 
 
->     Section 1893(f)(3) of the Social Security Act \[subsec. (f)(3) of this section\], as added by subsection (a), shall apply to statistically valid random samples initiated after the date that is 1 year after the date of the enactment of this Act.
+>     Section 1893(f)(3) of the Social Security Act \[[42 U.S.C. 1395ddd(f)(3)][/us/usc/t42/s1395ddd/f/3]\], as added by subsection (a), shall apply to statistically valid random samples initiated after the date that is 1 year after the date of the enactment of this Act.
 
 >     “(4) __Provision of supporting documentation.—__ 
 
->     Section 1893(f)(4) of the Social Security Act \[subsec. (f)(4) of this section\], as added by subsection (a), shall take effect on the date of the enactment of this Act.
+>     Section 1893(f)(4) of the Social Security Act \[[42 U.S.C. 1395ddd(f)(4)][/us/usc/t42/s1395ddd/f/4]\], as added by subsection (a), shall take effect on the date of the enactment of this Act.
 
 >     “(5) __Consent settlement.—__ 
 
->     Section 1893(f)(5) of the Social Security Act \[subsec. (f)(5) of this section\], as added by subsection (a), shall apply to consent settlements entered into after the date of the enactment of this Act.
+>     Section 1893(f)(5) of the Social Security Act \[[42 U.S.C. 1395ddd(f)(5)][/us/usc/t42/s1395ddd/f/5]\], as added by subsection (a), shall apply to consent settlements entered into after the date of the enactment of this Act.
 
 >     “(6) __Notice of overutilization.—__ 
 
->     Not later than 1 year after the date of the enactment of this Act, the Secretary \[of Health and Human Services\] shall first establish the process for notice of overutilization of billing codes under section 1893A(f)(6) \[1893(f)(6)\] of the Social Security Act \[probably means subsec. (f)(6) of this section\], as added by subsection (a).
+>     Not later than 1 year after the date of the enactment of this Act, the Secretary \[of Health and Human Services\] shall first establish the process for notice of overutilization of billing codes under section 1893A(f)(6) \[1893(f)(6)\] of the Social Security Act \[probably means [42 U.S.C. 1395ddd(f)(6)][/us/usc/t42/s1395ddd/f/6]\], as added by subsection (a).
 
 >     “(7) __Payment audits.—__ 
 
->     Section 1893A(f)(7) \[1893(f)(7)\] of the Social Security Act \[probably means subsec. (f)(7) of this section\], as added by subsection (a), shall apply to audits initiated after the date of the enactment of this Act.
+>     Section 1893A(f)(7) \[1893(f)(7)\] of the Social Security Act \[probably means [42 U.S.C. 1395ddd(f)(7)][/us/usc/t42/s1395ddd/f/7]\], as added by subsection (a), shall apply to audits initiated after the date of the enactment of this Act.
 
 >     “(8) __Standard for abnormal billing patterns.—__ 
 
->     Not later than 1 year after the date of the enactment of this Act, the Secretary shall first establish a standard methodology for selection of sample claims for abnormal billing patterns under section 1893(f)(8) of the Social Security Act \[subsec. (f)(8) of this section\], as added by subsection (a).”
+>     Not later than 1 year after the date of the enactment of this Act, the Secretary shall first establish a standard methodology for selection of sample claims for abnormal billing patterns under section 1893(f)(8) of the Social Security Act \[[42 U.S.C. 1395ddd(f)(8)][/us/usc/t42/s1395ddd/f/8]\], as added by subsection (a).”
 
  __Access to Coordination of Benefits Contractor Database__ 
 
 [Pub. L. 109–432, div. B, title III, § 302(b)][/us/pl/109/432/s302/b], Dec. 20, 2006, [120 Stat. 2992][/us/stat/120/2992], provided that: 
 
-> “The Secretary of Health and Human Services shall provide for access by recovery audit contractors conducting audit and recovery activities under section 1893(h) of the Social Security Act \[subsec. (h) of this section\], as added by subsection (a), to the database of the Coordination of Benefits Contractor of the Centers for Medicare & Medicaid Services with respect to the audit and recovery periods described in paragraph (4) of such section 1893(h).”
+> “The Secretary of Health and Human Services shall provide for access by recovery audit contractors conducting audit and recovery activities under section 1893(h) of the Social Security Act \[[42 U.S.C. 1395ddd(h)][/us/usc/t42/s1395ddd/h]\], as added by subsection (a), to the database of the Coordination of Benefits Contractor of the Centers for Medicare & Medicaid Services with respect to the audit and recovery periods described in paragraph (4) of such section 1893(h).”
 
 ----------
 
@@ -455,7 +455,16 @@
 [/us/pl/108/173/s935/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs935%2Fa
 [/us/pl/108/173/s935/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs935%2Fb
 [/us/stat/117/2411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2411
+[/us/usc/t42/s1395ddd/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ddd%2Ff%2F1
+[/us/usc/t42/s1395ddd/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ddd%2Ff%2F2
+[/us/usc/t42/s1395ddd/f/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ddd%2Ff%2F3
+[/us/usc/t42/s1395ddd/f/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ddd%2Ff%2F4
+[/us/usc/t42/s1395ddd/f/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ddd%2Ff%2F5
+[/us/usc/t42/s1395ddd/f/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ddd%2Ff%2F6
+[/us/usc/t42/s1395ddd/f/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ddd%2Ff%2F7
+[/us/usc/t42/s1395ddd/f/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ddd%2Ff%2F8
 [/us/pl/109/432/s302/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs302%2Fb
 [/us/stat/120/2992]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2992
+[/us/usc/t42/s1395ddd/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ddd%2Fh
 
 

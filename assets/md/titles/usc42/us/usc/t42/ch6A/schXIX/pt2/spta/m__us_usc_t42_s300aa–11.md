@@ -225,7 +225,7 @@
 
 [Pub. L. 106–310, div. A, title XVII, § 1701(b)][/us/pl/106/310/s1701/b], Oct. 17, 2000, [114 Stat. 1151][/us/stat/114/1151], provided that: 
 
-> “The amendment made by subsection (a) \[amending this section\] takes effect upon the date of the enactment of this Act \[Oct. 17, 2000\], including with respect to petitions under section 2111 of the Public Health Service Act \[this section\] that are pending on such date.”
+> “The amendment made by subsection (a) \[amending this section\] takes effect upon the date of the enactment of this Act \[Oct. 17, 2000\], including with respect to petitions under section 2111 of the Public Health Service Act \[[42 U.S.C. 300aa–11][/us/usc/t42/s300aa–11]\] that are pending on such date.”
 
  __Effective Date of 1992 Amendment__ 
 
@@ -335,6 +335,7 @@
 [/us/usc/t28/s171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs171
 [/us/pl/106/310/s1701/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs1701%2Fb
 [/us/stat/114/1151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1151
+[/us/usc/t42/s300aa–11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300aa%E2%80%9311
 [/us/pl/102/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572
 [/us/pl/102/572/s911]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2Fs911
 [/us/usc/t28/s171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs171

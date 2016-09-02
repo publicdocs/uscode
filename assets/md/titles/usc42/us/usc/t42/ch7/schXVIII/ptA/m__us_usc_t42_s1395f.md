@@ -861,7 +861,7 @@
 
 [Pub. L. 93–233, § 18][/us/pl/93/233/s18](z–3)(2), Dec. 31, 1973, [87 Stat. 974][/us/stat/87/974], provided that: 
 
-> “The amendments made by subsection (k) \[amending this section and [section 1395y of this title][/us/usc/t42/s1395y]\] shall be effective with respect to admissions subject to the provisions of section 1814(a)(2) of the Social Security Act \[subsec. (a)(2) of this section\] which occur after December 31, 1972.”
+> “The amendments made by subsection (k) \[amending this section and [section 1395y of this title][/us/usc/t42/s1395y]\] shall be effective with respect to admissions subject to the provisions of section 1814(a)(2) of the Social Security Act \[[42 U.S.C. 1395f(a)(2)][/us/usc/t42/s1395f/a/2]\] which occur after December 31, 1972.”
 
  __Effective Date of 1972 Amendment__ 
 
@@ -921,9 +921,9 @@
 
 > “In order to provide for the timely implementation of the amendments made by this Act \[probably means [section 122 of Pub. L. 97–248][/us/pl/97/248/s122], which amended this section and sections 1395c to 1395e, 1395h, and 1395x to 1395cc of this title and [section 231f of Title 45][/us/usc/t45/s231f], Railroads, and enacted provisions set out as notes under this section and sections 1395b–1 and 1395c of this title\], the Secretary of Health and Human Services shall, not later than September 1, 1983, promulgate such final regulations as may be necessary to set forth—
 
->     “(A) a description of the care included in ‘hospice care’ and the standards for qualification of a ‘hospice program’, under section 1861(dd) of the Social Security Act \[[section 1395x(dd) of this title][/us/usc/t42/s1395x/dd]\], and
+>     “(A) a description of the care included in ‘hospice care’ and the standards for qualification of a ‘hospice program’, under section 1861(dd) of the Social Security Act \[[42 U.S.C. 1395x(dd)][/us/usc/t42/s1395x/dd]\], and
 
->     “(B) the standards for payment for hospice care under part A of title XVIII of such Act \[this part\], pursuant to section 1814(i) of such Act \[subsec. (i) of this section\].”
+>     “(B) the standards for payment for hospice care under part A of title XVIII of such Act \[[42 U.S.C. 1395c][/us/usc/t42/s1395c] et seq.\], pursuant to section 1814(i) of such Act \[[42 U.S.C. 1395f(i)][/us/usc/t42/s1395f/i]\].”
 
  __Application of 2010 Amendment__ 
 
@@ -945,7 +945,7 @@
 
 >     “(1) __In general.—__ 
 
->     The Comptroller General of the United States shall conduct an evaluation of the effect of the amendment \[amending this section and [section 1395n of this title][/us/usc/t42/s1395n]\] on the cost of and access to home health services under the medicare program under title XVIII of the Social Security Act \[this subchapter\].
+>     The Comptroller General of the United States shall conduct an evaluation of the effect of the amendment \[amending this section and [section 1395n of this title][/us/usc/t42/s1395n]\] on the cost of and access to home health services under the medicare program under title XVIII of the Social Security Act \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\].
 
 >     “(2) __Report.—__ 
 
@@ -957,7 +957,7 @@
 
 >     “(1) __Study.—__ 
 
->     The Secretary of Health and Human Services shall conduct a study to examine the appropriateness of the certification regarding terminal illness of an individual under section 1814(a)(7) of the Social Security Act ([42 U.S.C. 1395f(a)(7)][/us/usc/t42/s1395f/a/7]) that is required in order for such individual to receive hospice benefits under the medicare program under title XVIII of such Act \[this subchapter\]. In conducting such study, the Secretary shall take into account the effect of the amendment made by subsection (a) \[amending this section\].
+>     The Secretary of Health and Human Services shall conduct a study to examine the appropriateness of the certification regarding terminal illness of an individual under section 1814(a)(7) of the Social Security Act ([42 U.S.C. 1395f(a)(7)][/us/usc/t42/s1395f/a/7]) that is required in order for such individual to receive hospice benefits under the medicare program under title XVIII of such Act \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\]. In conducting such study, the Secretary shall take into account the effect of the amendment made by subsection (a) \[amending this section\].
 
 >     “(2) __Report.—__ 
 
@@ -1003,7 +1003,7 @@
 
 [Pub. L. 100–203, title IV, § 4008(c)][/us/pl/100/203/s4008/c], Dec. 22, 1987, [101 Stat. 1330–55][/us/stat/101/1330-55], as amended by [Pub. L. 100–647, title VIII, § 8402][/us/pl/100/647/s8402], Nov. 10, 1987, [102 Stat. 3798][/us/stat/102/3798]; [Pub. L. 101–239, title VI, § 6023(a)][/us/pl/101/239/s6023/a], Dec. 19, 1989, [103 Stat. 2167][/us/stat/103/2167]; [Pub. L. 112–96, title III, § 3201(d)][/us/pl/112/96/s3201/d], Feb. 22, 2012, [126 Stat. 192][/us/stat/126/192], provided that: 
 
-> “In making payments to hospitals under title XVIII of the Social Security Act \[this subchapter\], the Secretary of Health and Human Services shall not make any change in the policy in effect on August 1, 1987, with respect to payment under title XVIII of the Social Security Act to providers of service for reasonable costs relating to unrecovered costs associated with unpaid deductible and coinsurance amounts incurred under such title (including criteria for what constitutes a reasonable collection effort, including criteria for indigency determination procedures, for record keeping, and for determining whether to refer a claim to an external collection agency). The Secretary may not require a hospital to change its bad debt collection policy if a fiscal intermediary, in accordance with the rules in effect as of August 1, 1987, with respect to criteria for indigency determination procedures, record keeping, and determining whether to refer a claim to an external collection agency, has accepted such policy before that date, and the Secretary may not collect from the hospital on the basis of an expectation of a change in the hospital’s collection policy. Effective for cost reporting periods beginning on or after October 1, 2012, the provisions of the previous two sentences shall not apply.”
+> “In making payments to hospitals under title XVIII of the Social Security Act \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\], the Secretary of Health and Human Services shall not make any change in the policy in effect on August 1, 1987, with respect to payment under title XVIII of the Social Security Act to providers of service for reasonable costs relating to unrecovered costs associated with unpaid deductible and coinsurance amounts incurred under such title (including criteria for what constitutes a reasonable collection effort, including criteria for indigency determination procedures, for record keeping, and for determining whether to refer a claim to an external collection agency). The Secretary may not require a hospital to change its bad debt collection policy if a fiscal intermediary, in accordance with the rules in effect as of August 1, 1987, with respect to criteria for indigency determination procedures, record keeping, and determining whether to refer a claim to an external collection agency, has accepted such policy before that date, and the Secretary may not collect from the hospital on the basis of an expectation of a change in the hospital’s collection policy. Effective for cost reporting periods beginning on or after October 1, 2012, the provisions of the previous two sentences shall not apply.”
 
 \[[Pub. L. 101–239, title VI, § 6023(b)][/us/pl/101/239/s6023/b], Dec. 19, 1989, [103 Stat. 2167][/us/stat/103/2167], provided that: 
 
@@ -1017,19 +1017,19 @@
 
 [Pub. L. 98–369, div. B, title III, § 2308(a)][/us/pl/98/369/s2308/a], July 18, 1984, [98 Stat. 1074][/us/stat/98/1074], provided that: 
 
-> “The Secretary of Health and Human Services shall issue regulations which require, for purposes of title XVIII of the Social Security Act \[this subchapter\], that providers of services calculate and report the lesser-of-cost-or-charges determinations separately with respect to payments for services under part A and services under part B of such title (other than clinical diagnostic laboratory tests paid under section 1833(h) \[section 1395l(h) of this title\]), and that payment under such title be based upon such separate determinations. Such regulations shall apply to cost reporting periods beginning on or after October 1, 1984.”
+> “The Secretary of Health and Human Services shall issue regulations which require, for purposes of title XVIII of the Social Security Act \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\], that providers of services calculate and report the lesser-of-cost-or-charges determinations separately with respect to payments for services under part A and services under part B of such title (other than clinical diagnostic laboratory tests paid under section 1833(h) \[[42 U.S.C. 1395][/us/usc/t42/s1395]l(h)\]), and that payment under such title be based upon such separate determinations. Such regulations shall apply to cost reporting periods beginning on or after October 1, 1984.”
 
  __Determination of Nominal Charges for Applying Nominality Test__ 
 
 [Pub. L. 98–369, div. B, title III, § 2308(b)(1)][/us/pl/98/369/s2308/b/1], July 18, 1984, [98 Stat. 1074][/us/stat/98/1074], provided that: 
 
-> “For purposes of applying the nominality test under sections 1814(b)(2) \[subsec. (b)(2) of this section\] and 1833(a)(2)(B)(ii) \[section 1395l(a)(2)(B)(ii) of this title\] of the Social Security Act, the Secretary shall, in addition to those rules for establishing nominality which the Secretary determines to be appropriate, provide that charges representing 60 percent or less of costs shall be considered nominal. The charges used in making such determinations shall be the charges actually billed to charge-paying patients who are not entitled to benefits under either part of such title \[sections 1395c et seq., 1395j et seq. of this title\]. Such determination shall be made separately with respect to payments for services under part A and services under part B of such title (other than clinical diagnostic laboratory tests paid under section 1833(h)), or on the basis of inpatient and outpatient services, except that the determination need not be made separately for home health services if the Secretary finds that such separation is not appropriate.”
+> “For purposes of applying the nominality test under sections 1814(b)(2) \[[42 U.S.C. 1395f(b)(2)][/us/usc/t42/s1395f/b/2]\] and 1833(a)(2)(B)(ii) \[[42 U.S.C. 1395][/us/usc/t42/s1395]l(a)(2)(B)(ii)\] of the Social Security Act, the Secretary shall, in addition to those rules for establishing nominality which the Secretary determines to be appropriate, provide that charges representing 60 percent or less of costs shall be considered nominal. The charges used in making such determinations shall be the charges actually billed to charge-paying patients who are not entitled to benefits under either part of such title \[[42 U.S.C. 1395c][/us/usc/t42/s1395c] et seq., 1395j et seq.\]. Such determination shall be made separately with respect to payments for services under part A and services under part B of such title (other than clinical diagnostic laboratory tests paid under section 1833(h)), or on the basis of inpatient and outpatient services, except that the determination need not be made separately for home health services if the Secretary finds that such separation is not appropriate.”
 
  __Study and Report Relating to the Reimbursement Method and Benefit Structure for Hospice Care; Supervision of Report by Comptroller General__ 
 
 [Pub. L. 97–248, title I, § 122(j)][/us/pl/97/248/s122/j], formerly § 122(i), Sept. 3, 1982, [96 Stat. 363][/us/stat/96/363], as redesignated by [Pub. L. 97–448, title III, § 309(a)(6)][/us/pl/97/448/s309/a/6], Jan. 12, 1983, [96 Stat. 2408][/us/stat/96/2408], provided that:
 
->     “(1) The Secretary of Health and Human Services shall conduct a study and, prior to January 1, 1986, report to the Congress on whether or not the reimbursement method and benefit structure (including copayments) for hospice care under title XVIII of the Social Security Act \[this subchapter\] are fair and equitable and promote the most efficient provision of hospice care. Such report shall include the feasibility and advisability of providing for prospective reimbursement for hospice care, an evaluation of the inclusion of payment for outpatient drugs, an evaluation of the need to alter the method of reimbursement for nutritional, dietary, and bereavement counseling as hospice care, and any recommendations for legislative changes in the hospice care reimbursement or benefit structure.
+>     “(1) The Secretary of Health and Human Services shall conduct a study and, prior to January 1, 1986, report to the Congress on whether or not the reimbursement method and benefit structure (including copayments) for hospice care under title XVIII of the Social Security Act \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\] are fair and equitable and promote the most efficient provision of hospice care. Such report shall include the feasibility and advisability of providing for prospective reimbursement for hospice care, an evaluation of the inclusion of payment for outpatient drugs, an evaluation of the need to alter the method of reimbursement for nutritional, dietary, and bereavement counseling as hospice care, and any recommendations for legislative changes in the hospice care reimbursement or benefit structure.
 
 >     “(2) The Comptroller General shall monitor and evaluate the study and the preparation of the report under paragraph (1).”
 
@@ -1037,13 +1037,13 @@
 
 [Pub. L. 97–248, title I, § 122(k)][/us/pl/97/248/s122/k], formerly § 122(j), Sept. 3, 1982, [96 Stat. 363][/us/stat/96/363], as redesignated and amended by [Pub. L. 97–448, title III, § 309(a)(6)][/us/pl/97/448/s309/a/6], (7), Jan. 12, 1983, [96 Stat. 2408][/us/stat/96/2408], provided that: 
 
-> “The Secretary of Health and Human Services shall grant waivers of the limitations imposed by section 1814(i)(2) of the Social Security Act \[subsec. (i)(2) of this section\] (relating to the cap amount), section 1861(dd)(1)(G) of such Act \[[section 1395x(dd)(1)(G) of this title][/us/usc/t42/s1395x/dd/1/G]\] (relating to the limitations on the frequency and number of respite care days), and section 1861(dd)(2)(A)(iii) of such Act \[[section 1395x(dd)(2)(A)(iii) of this title][/us/usc/t42/s1395x/dd/2/A/iii]\] (relating to the aggregate limit on the number of days of inpatient care), as may be necessary to allow any institution which commenced operations as a hospice prior to January 1, 1975, to participate until October 1, 1986, in a viable manner as a hospice program under title XVIII of the Social Security Act \[this subchapter\].”
+> “The Secretary of Health and Human Services shall grant waivers of the limitations imposed by section 1814(i)(2) of the Social Security Act \[[42 U.S.C. 1395f(i)(2)][/us/usc/t42/s1395f/i/2]\] (relating to the cap amount), section 1861(dd)(1)(G) of such Act \[[42 U.S.C. 1395x(dd)(1)(G)][/us/usc/t42/s1395x/dd/1/G]\] (relating to the limitations on the frequency and number of respite care days), and section 1861(dd)(2)(A)(iii) of such Act \[[42 U.S.C. 1395x(dd)(2)(A)(iii)][/us/usc/t42/s1395x/dd/2/A/iii]\] (relating to the aggregate limit on the number of days of inpatient care), as may be necessary to allow any institution which commenced operations as a hospice prior to January 1, 1975, to participate until October 1, 1986, in a viable manner as a hospice program under title XVIII of the Social Security Act \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\].”
 
  __Medicare Payment Basis for Services Provided by Agencies and Providers; Effective Date__ 
 
 [Pub. L. 93–233, § 16][/us/pl/93/233/s16], Dec. 31, 1973, [87 Stat. 967][/us/stat/87/967], provided that: 
 
-> “In the administration of titles V, XVIII, and XIX of the Social Security Act \[subchapters V, XVIII, and XIX of this chapter\], the amount payable under such title to any provider of services on account of services provided by such hospital, skilled nursing facility, or home health agency shall be determined (for any period with respect to which the amendments made by [section 233 of Public Law 92–603][/us/pl/92/603/s233] \[this section and sections 706, 709, 1395l, and 1396b of this title\] would, except for the provisions of this section, be applicable) in like manner as if the date contained in the first and second sentences of subsection (f) of such section 233 \[set out as an Effective Date of 1972 Amendment note above\] were December 31, 1973, rather than December 31, 1972.”
+> “In the administration of titles V, XVIII, and XIX of the Social Security Act \[[42 U.S.C. 701][/us/usc/t42/s701] et seq., 1395 et seq., 1396 et seq.\], the amount payable under such title to any provider of services on account of services provided by such hospital, skilled nursing facility, or home health agency shall be determined (for any period with respect to which the amendments made by [section 233 of Public Law 92–603][/us/pl/92/603/s233] \[this section and sections 706, 709, 1395l, and 1396b of this title\] would, except for the provisions of this section, be applicable) in like manner as if the date contained in the first and second sentences of subsection (f) of such section 233 \[set out as an Effective Date of 1972 Amendment note above\] were December 31, 1973, rather than December 31, 1972.”
 
 ----------
 
@@ -1491,6 +1491,7 @@
 [/us/pl/93/233/s18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F233%2Fs18
 [/us/stat/87/974]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F974
 [/us/usc/t42/s1395y]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395y
+[/us/usc/t42/s1395f/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395f%2Fa%2F2
 [/us/pl/92/603/s211/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603%2Fs211%2Fd
 [/us/stat/86/1384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1384
 [/us/pl/92/603/s226/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603%2Fs226%2Fc%2F1
@@ -1533,6 +1534,8 @@
 [/us/pl/97/248/s122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs122
 [/us/usc/t45/s231f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft45%2Fs231f
 [/us/usc/t42/s1395x/dd]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395x%2Fdd
+[/us/usc/t42/s1395c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395c
+[/us/usc/t42/s1395f/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395f%2Fi
 [/us/pl/111/148/s6405/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs6405%2Fc
 [/us/stat/124/768]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F768
 [/us/usc/t42/s1395m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395m
@@ -1555,9 +1558,11 @@
 [/us/pl/106/554/s1/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F6
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
 [/us/usc/t42/s1395n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395n
+[/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
 [/us/pl/106/554/s1/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F6
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
 [/us/usc/t42/s1395f/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395f%2Fa%2F7
+[/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
 [/us/pl/106/554/s1/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F6
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
 [/us/pl/106/113/s1000/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F6
@@ -1578,6 +1583,7 @@
 [/us/stat/103/2167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2167
 [/us/pl/112/96/s3201/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96%2Fs3201%2Fd
 [/us/stat/126/192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F192
+[/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
 [/us/pl/101/239/s6023/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs6023%2Fb
 [/us/stat/103/2167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2167
 [/us/pl/100/203/s4008/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs4008%2Fc
@@ -1589,20 +1595,29 @@
 [/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
 [/us/pl/98/369/s2308/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2308%2Fa
 [/us/stat/98/1074]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1074
+[/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
+[/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
 [/us/pl/98/369/s2308/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2308%2Fb%2F1
 [/us/stat/98/1074]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1074
+[/us/usc/t42/s1395f/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395f%2Fb%2F2
+[/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
+[/us/usc/t42/s1395c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395c
 [/us/pl/97/248/s122/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs122%2Fj
 [/us/stat/96/363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F363
 [/us/pl/97/448/s309/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F448%2Fs309%2Fa%2F6
 [/us/stat/96/2408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2408
+[/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
 [/us/pl/97/248/s122/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs122%2Fk
 [/us/stat/96/363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F363
 [/us/pl/97/448/s309/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F448%2Fs309%2Fa%2F6
 [/us/stat/96/2408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2408
+[/us/usc/t42/s1395f/i/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395f%2Fi%2F2
 [/us/usc/t42/s1395x/dd/1/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395x%2Fdd%2F1%2FG
 [/us/usc/t42/s1395x/dd/2/A/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395x%2Fdd%2F2%2FA%2Fiii
+[/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
 [/us/pl/93/233/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F233%2Fs16
 [/us/stat/87/967]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F967
+[/us/usc/t42/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs701
 [/us/pl/92/603/s233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603%2Fs233
 
 

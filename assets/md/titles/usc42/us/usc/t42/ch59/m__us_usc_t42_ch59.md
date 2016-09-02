@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 4501.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs4501" data-uslm-ref="/us/usc/t42/s4501">4501.</a>  </td>
 
     <td> Congressional statement of purpose.  </td>
 
@@ -41,7 +41,7 @@ Part A—Development of a National Urban Policy  </td>
 
   <tr>
 
-    <td> 4502.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs4502" data-uslm-ref="/us/usc/t42/s4502">4502.</a>  </td>
 
     <td> Congressional findings and declaration of policy.  </td>
 
@@ -49,7 +49,7 @@ Part A—Development of a National Urban Policy  </td>
 
   <tr>
 
-    <td> 4503.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs4503" data-uslm-ref="/us/usc/t42/s4503">4503.</a>  </td>
 
     <td> National Urban Policy Report.  </td>
 
@@ -65,7 +65,7 @@ Part B—Development of New Communities  </td>
 
   <tr>
 
-    <td> 4511 to 4524.   </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs4511" data-uslm-ref="/us/usc/t42/s4511">4511</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs4524" data-uslm-ref="/us/usc/t42/s4524">4524.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -73,7 +73,7 @@ Part B—Development of New Communities  </td>
 
   <tr>
 
-    <td> 4525.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs4525" data-uslm-ref="/us/usc/t42/s4525">4525.</a>  </td>
 
     <td> Real property taxation.  </td>
 
@@ -81,7 +81,7 @@ Part B—Development of New Communities  </td>
 
   <tr>
 
-    <td> 4526.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs4526" data-uslm-ref="/us/usc/t42/s4526">4526.</a>  </td>
 
     <td> Audit by Government Accountability Office.  </td>
 
@@ -89,7 +89,7 @@ Part B—Development of New Communities  </td>
 
   <tr>
 
-    <td> 4527.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs4527" data-uslm-ref="/us/usc/t42/s4527">4527.</a>  </td>
 
     <td> General powers of Secretary.  </td>
 
@@ -97,7 +97,7 @@ Part B—Development of New Communities  </td>
 
   <tr>
 
-    <td> 4528 to 4532.   </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs4528" data-uslm-ref="/us/usc/t42/s4528">4528</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs4532" data-uslm-ref="/us/usc/t42/s4532">4532.</a>  </td>
 
     <td> Repealed.  </td>
 

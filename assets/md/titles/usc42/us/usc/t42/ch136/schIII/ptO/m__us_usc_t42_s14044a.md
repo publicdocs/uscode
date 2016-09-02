@@ -65,11 +65,9 @@
 
                  is not younger than 18 years of age nor older than 20 years of age;
 
-                    (ii)
+                    (ii) before the individual reached 18 years of age, was described in subparagraph (A); and
 
-                     before the individual reached 18 years of age, was described in subparagraph (A); and
-
-                        (iii) was receiving shelter or services as a minor victim of sex trafficking.
+                (iii) was receiving shelter or services as a minor victim of sex trafficking.
 
         (5) __Qualified nongovernmental organization__ 
 

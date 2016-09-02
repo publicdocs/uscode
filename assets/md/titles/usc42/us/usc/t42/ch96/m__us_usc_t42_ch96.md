@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 8801.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs8801" data-uslm-ref="/us/usc/t42/s8801">8801.</a>  </td>
 
     <td> Congressional findings.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 8802.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs8802" data-uslm-ref="/us/usc/t42/s8802">8802.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 8803.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs8803" data-uslm-ref="/us/usc/t42/s8803">8803.</a>  </td>
 
     <td> Funding.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 8804.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs8804" data-uslm-ref="/us/usc/t42/s8804">8804.</a>  </td>
 
     <td> Coordination with other authorities and programs.  </td>
 
@@ -65,7 +65,7 @@ SUBCHAPTER I—GENERAL BIOMASS ENERGY DEVELOPMENT  </td>
 
   <tr>
 
-    <td> 8811.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs8811" data-uslm-ref="/us/usc/t42/s8811">8811.</a>  </td>
 
     <td> Biomass energy development plans.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER I—GENERAL BIOMASS ENERGY DEVELOPMENT  </td>
 
   <tr>
 
-    <td> 8812.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs8812" data-uslm-ref="/us/usc/t42/s8812">8812.</a>  </td>
 
     <td> Program responsibility and administration and effect on other programs.  </td>
 
@@ -81,7 +81,7 @@ SUBCHAPTER I—GENERAL BIOMASS ENERGY DEVELOPMENT  </td>
 
   <tr>
 
-    <td> 8813.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs8813" data-uslm-ref="/us/usc/t42/s8813">8813.</a>  </td>
 
     <td> Insured loans.  </td>
 
@@ -89,7 +89,7 @@ SUBCHAPTER I—GENERAL BIOMASS ENERGY DEVELOPMENT  </td>
 
   <tr>
 
-    <td> 8814.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs8814" data-uslm-ref="/us/usc/t42/s8814">8814.</a>  </td>
 
     <td> Loan guarantees.  </td>
 
@@ -97,7 +97,7 @@ SUBCHAPTER I—GENERAL BIOMASS ENERGY DEVELOPMENT  </td>
 
   <tr>
 
-    <td> 8815.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs8815" data-uslm-ref="/us/usc/t42/s8815">8815.</a>  </td>
 
     <td> Price guarantees.  </td>
 
@@ -105,7 +105,7 @@ SUBCHAPTER I—GENERAL BIOMASS ENERGY DEVELOPMENT  </td>
 
   <tr>
 
-    <td> 8816.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs8816" data-uslm-ref="/us/usc/t42/s8816">8816.</a>  </td>
 
     <td> Purchase agreements.  </td>
 
@@ -113,7 +113,7 @@ SUBCHAPTER I—GENERAL BIOMASS ENERGY DEVELOPMENT  </td>
 
   <tr>
 
-    <td> 8817.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs8817" data-uslm-ref="/us/usc/t42/s8817">8817.</a>  </td>
 
     <td> General requirements regarding financial assistance.  </td>
 
@@ -121,7 +121,7 @@ SUBCHAPTER I—GENERAL BIOMASS ENERGY DEVELOPMENT  </td>
 
   <tr>
 
-    <td> 8818.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs8818" data-uslm-ref="/us/usc/t42/s8818">8818.</a>  </td>
 
     <td> Reports.  </td>
 
@@ -129,7 +129,7 @@ SUBCHAPTER I—GENERAL BIOMASS ENERGY DEVELOPMENT  </td>
 
   <tr>
 
-    <td> 8819.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs8819" data-uslm-ref="/us/usc/t42/s8819">8819.</a>  </td>
 
     <td> Review; reorganization.  </td>
 
@@ -137,7 +137,7 @@ SUBCHAPTER I—GENERAL BIOMASS ENERGY DEVELOPMENT  </td>
 
   <tr>
 
-    <td> 8820.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs8820" data-uslm-ref="/us/usc/t42/s8820">8820.</a>  </td>
 
     <td> Office of Alcohol Fuels.  </td>
 
@@ -145,7 +145,7 @@ SUBCHAPTER I—GENERAL BIOMASS ENERGY DEVELOPMENT  </td>
 
   <tr>
 
-    <td> 8821.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs8821" data-uslm-ref="/us/usc/t42/s8821">8821.</a>  </td>
 
     <td> Termination of authorities; modification of terms and conditions of conditional commitments for loan guarantees.  </td>
 
@@ -161,7 +161,7 @@ SUBCHAPTER II—MUNICIPAL WASTE BIOMASS ENERGY  </td>
 
   <tr>
 
-    <td> 8831.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs8831" data-uslm-ref="/us/usc/t42/s8831">8831.</a>  </td>
 
     <td> Municipal waste energy development plan.  </td>
 
@@ -169,7 +169,7 @@ SUBCHAPTER II—MUNICIPAL WASTE BIOMASS ENERGY  </td>
 
   <tr>
 
-    <td> 8832.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs8832" data-uslm-ref="/us/usc/t42/s8832">8832.</a>  </td>
 
     <td> Construction loans.  </td>
 
@@ -177,7 +177,7 @@ SUBCHAPTER II—MUNICIPAL WASTE BIOMASS ENERGY  </td>
 
   <tr>
 
-    <td> 8833.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs8833" data-uslm-ref="/us/usc/t42/s8833">8833.</a>  </td>
 
     <td> Guaranteed construction loans.  </td>
 
@@ -185,7 +185,7 @@ SUBCHAPTER II—MUNICIPAL WASTE BIOMASS ENERGY  </td>
 
   <tr>
 
-    <td> 8834.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs8834" data-uslm-ref="/us/usc/t42/s8834">8834.</a>  </td>
 
     <td> Price support loans and price guarantees.  </td>
 
@@ -193,7 +193,7 @@ SUBCHAPTER II—MUNICIPAL WASTE BIOMASS ENERGY  </td>
 
   <tr>
 
-    <td> 8835.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs8835" data-uslm-ref="/us/usc/t42/s8835">8835.</a>  </td>
 
     <td> General requirements regarding financial assistance.  </td>
 
@@ -201,7 +201,7 @@ SUBCHAPTER II—MUNICIPAL WASTE BIOMASS ENERGY  </td>
 
   <tr>
 
-    <td> 8836.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs8836" data-uslm-ref="/us/usc/t42/s8836">8836.</a>  </td>
 
     <td> Financial assistance program administration.  </td>
 
@@ -209,7 +209,7 @@ SUBCHAPTER II—MUNICIPAL WASTE BIOMASS ENERGY  </td>
 
   <tr>
 
-    <td> 8837.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs8837" data-uslm-ref="/us/usc/t42/s8837">8837.</a>  </td>
 
     <td> Commercialization demonstration program pursuant to Federal nonnuclear energy research and development.  </td>
 
@@ -217,7 +217,7 @@ SUBCHAPTER II—MUNICIPAL WASTE BIOMASS ENERGY  </td>
 
   <tr>
 
-    <td> 8838.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs8838" data-uslm-ref="/us/usc/t42/s8838">8838.</a>  </td>
 
     <td> Jurisdiction of Department of Energy and Environmental Protection Agency.  </td>
 
@@ -225,7 +225,7 @@ SUBCHAPTER II—MUNICIPAL WASTE BIOMASS ENERGY  </td>
 
   <tr>
 
-    <td> 8839.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs8839" data-uslm-ref="/us/usc/t42/s8839">8839.</a>  </td>
 
     <td> Office of Energy from Municipal Waste.  </td>
 
@@ -233,7 +233,7 @@ SUBCHAPTER II—MUNICIPAL WASTE BIOMASS ENERGY  </td>
 
   <tr>
 
-    <td> 8840.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs8840" data-uslm-ref="/us/usc/t42/s8840">8840.</a>  </td>
 
     <td> Termination of authorities.  </td>
 
@@ -249,7 +249,7 @@ SUBCHAPTER III—RURAL, AGRICULTURAL, AND FORESTRY BIOMASS ENERGY  </td>
 
   <tr>
 
-    <td> 8851.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs8851" data-uslm-ref="/us/usc/t42/s8851">8851.</a>  </td>
 
     <td> Model demonstration biomass energy facilities; establishment, public inspection, etc.; authorization of appropriations.  </td>
 
@@ -257,7 +257,7 @@ SUBCHAPTER III—RURAL, AGRICULTURAL, AND FORESTRY BIOMASS ENERGY  </td>
 
   <tr>
 
-    <td> 8852.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs8852" data-uslm-ref="/us/usc/t42/s8852">8852.</a>  </td>
 
     <td> Coordination of research and extension activities; consultative requirements.  </td>
 
@@ -265,7 +265,7 @@ SUBCHAPTER III—RURAL, AGRICULTURAL, AND FORESTRY BIOMASS ENERGY  </td>
 
   <tr>
 
-    <td> 8853.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs8853" data-uslm-ref="/us/usc/t42/s8853">8853.</a>  </td>
 
     <td> Lending for energy production and conservation projects by production credit associations, Federal land banks, and banks for cooperatives.  </td>
 
@@ -273,7 +273,7 @@ SUBCHAPTER III—RURAL, AGRICULTURAL, AND FORESTRY BIOMASS ENERGY  </td>
 
   <tr>
 
-    <td> 8854.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs8854" data-uslm-ref="/us/usc/t42/s8854">8854.</a>  </td>
 
     <td> Utilization of National Forest System in wood energy development projects.  </td>
 
@@ -281,7 +281,7 @@ SUBCHAPTER III—RURAL, AGRICULTURAL, AND FORESTRY BIOMASS ENERGY  </td>
 
   <tr>
 
-    <td> 8855.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs8855" data-uslm-ref="/us/usc/t42/s8855">8855.</a>  </td>
 
     <td> Forest Service leases and permits.  </td>
 
@@ -297,7 +297,7 @@ SUBCHAPTER IV—MISCELLANEOUS BIOMASS PROVISIONS  </td>
 
   <tr>
 
-    <td> 8871.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs8871" data-uslm-ref="/us/usc/t42/s8871">8871.</a>  </td>
 
     <td> Use of gasohol in Federal motor vehicles.  </td>
 

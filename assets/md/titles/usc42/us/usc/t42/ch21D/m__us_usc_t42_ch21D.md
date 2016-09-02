@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 2000dd.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2000dd" data-uslm-ref="/us/usc/t42/s2000dd">2000dd.</a>  </td>
 
     <td> Prohibition on cruel, inhuman, or degrading treatment or punishment of persons under custody or control of the United States Government.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 2000dd–0.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2000dd%E2%80%930" data-uslm-ref="/us/usc/t42/s2000dd–0">2000dd–0.</a>  </td>
 
     <td> Additional prohibition on cruel, inhuman, or degrading treatment or punishment.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 2000dd–1.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2000dd%E2%80%931" data-uslm-ref="/us/usc/t42/s2000dd–1">2000dd–1.</a>  </td>
 
     <td> Protection of United States Government personnel engaged in authorized interrogations.  </td>
 

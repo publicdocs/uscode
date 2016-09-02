@@ -2227,7 +2227,7 @@
 
 [Pub. L. 103–66, title XIII, § 13621(a)(2)][/us/pl/103/66/s13621/a/2], Aug. 10, 1993, [107 Stat. 629][/us/stat/107/629], provided that: 
 
-> “The amendments made by this subsection \[amending this section\] shall apply to payments to States under section 1903(a) of the Social Security Act \[[section 1396b(a) of this title][/us/usc/t42/s1396b/a]\] for payments to hospitals made under State plans after—
+> “The amendments made by this subsection \[amending this section\] shall apply to payments to States under section 1903(a) of the Social Security Act \[[42 U.S.C. 1396b(a)][/us/usc/t42/s1396b/a]\] for payments to hospitals made under State plans after—
 
 >     “(A) the end of the State fiscal year that ends during 1994, or
 
@@ -2239,7 +2239,7 @@
 
 >     “(A) __In general.—__ 
 
->     Except as provided in subparagraph (B), the amendments made by this subsection \[amending this section\] shall apply to payments to States under section 1903(a) of the Social Security Act \[[section 1396b(a) of this title][/us/usc/t42/s1396b/a]\] for payments to hospitals made under State plans after—
+>     Except as provided in subparagraph (B), the amendments made by this subsection \[amending this section\] shall apply to payments to States under section 1903(a) of the Social Security Act \[[42 U.S.C. 1396b(a)][/us/usc/t42/s1396b/a]\] for payments to hospitals made under State plans after—
 
 >         “(i) the end of the State fiscal year that ends during 1994, or
 
@@ -2283,7 +2283,7 @@
 
 >         “(A) ‘September 30, 2002’ were substituted for ‘July 1, 1997’ each place it appears;
 
->         “(B) ‘hospitals owned or operated by a State (as defined for purposes of title XIX of such Act \[this subchapter\]), or by an instrumentality or a unit of government within a State (as so defined)’ were substituted for ‘the State of California’;
+>         “(B) ‘hospitals owned or operated by a State (as defined for purposes of title XIX of such Act \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\]), or by an instrumentality or a unit of government within a State (as so defined)’ were substituted for ‘the State of California’;
 
 >         “(C) paragraph (3) were redesignated as paragraph (4);
 
@@ -2305,13 +2305,13 @@
 
 >     “(1) __In general.—__ 
 
->     Beginning with fiscal year 2002, notwithstanding section 1923(f) of the Social Security Act ([42 U.S.C. 1396r–4(f)][/us/usc/t42/s1396r–4/f]) and subject to paragraph (3), with respect to a State, payment adjustments made under title XIX of the Social Security Act ([42 U.S.C. 1396][/us/usc/t42/s1396] et seq.) \[this subchapter\] to a hospital described in paragraph (2) shall be made without regard to the DSH allotment limitation for the State determined under section 1923(f) of that Act ([42 U.S.C. 1396r–4(f)][/us/usc/t42/s1396r–4/f]).
+>     Beginning with fiscal year 2002, notwithstanding section 1923(f) of the Social Security Act ([42 U.S.C. 1396r–4(f)][/us/usc/t42/s1396r–4/f]) and subject to paragraph (3), with respect to a State, payment adjustments made under title XIX of the Social Security Act ([42 U.S.C. 1396][/us/usc/t42/s1396] et seq.) to a hospital described in paragraph (2) shall be made without regard to the DSH allotment limitation for the State determined under section 1923(f) of that Act ([42 U.S.C. 1396r–4(f)][/us/usc/t42/s1396r–4/f]).
 
 >     “(2) __Hospital described.—__ 
 
 >     A hospital is described in this paragraph if the hospital—
 
->         “(A) is owned or operated by a State (as defined for purposes of title XIX of the Social Security Act \[this subchapter\]), or by an instrumentality or a unit of government within a State (as so defined);
+>         “(A) is owned or operated by a State (as defined for purposes of title XIX of the Social Security Act \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\]), or by an instrumentality or a unit of government within a State (as so defined);
 
 >         “(B)
 
@@ -2319,7 +2319,7 @@
 
 >             “(i) is in existence and operating as a hospital described in subparagraph (A); and
 
->             “(ii) is not receiving disproportionate share hospital payments from the State in which it is located under title XIX of such Act \[this subchapter\]; and
+>             “(ii) is not receiving disproportionate share hospital payments from the State in which it is located under title XIX of such Act \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\]; and
 
 >         “(C) has a low-income utilization rate (as defined in section 1923(b)(3) of the Social Security Act ([42 U.S.C. 1396r–4(b)(3)][/us/usc/t42/s1396r–4/b/3])) in excess of 65 percent.
 
@@ -2353,7 +2353,7 @@
 
 [Pub. L. 105–277, div. A, § 101(f)][/us/pl/105/277/s101/f] \[title VII, § 702\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–389, provided that: 
 
-> “The amount of the DSH allotment for the State of Minnesota for fiscal year 1999, specified in the table under section 1923(f)(2) of the Social Security Act \[subsection (f)(2) of this section\] (as amended by [section 4721(a)(1) of Public Law 105–33][/us/pl/105/33/s4721/a/1]) is deemed to be $33,000,000.”
+> “The amount of the DSH allotment for the State of Minnesota for fiscal year 1999, specified in the table under section 1923(f)(2) of the Social Security Act \[[42 U.S.C. 1396r–4(f)(2)][/us/usc/t42/s1396r–4/f/2]\] (as amended by [section 4721(a)(1) of Public Law 105–33][/us/pl/105/33/s4721/a/1]) is deemed to be $33,000,000.”
 
     Similar provisions were contained in the following prior appropriations act:
 
@@ -2361,7 +2361,7 @@
 
 [Pub. L. 105–277, div. A, § 101(f)][/us/pl/105/277/s101/f] \[title VII, § 703\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–389, provided that: 
 
-> “The amount of the DSH allotment for the State of New Mexico for fiscal year 1999, specified in the table under section 1923(f)(2) of the Social Security Act \[subsection (f)(2) of this section\] (as amended by [section 4721(a)(1) of Public Law 105–33][/us/pl/105/33/s4721/a/1]) is deemed to be $9,000,000.”
+> “The amount of the DSH allotment for the State of New Mexico for fiscal year 1999, specified in the table under section 1923(f)(2) of the Social Security Act \[[42 U.S.C. 1396r–4(f)(2)][/us/usc/t42/s1396r–4/f/2]\] (as amended by [section 4721(a)(1) of Public Law 105–33][/us/pl/105/33/s4721/a/1]) is deemed to be $9,000,000.”
 
 [Pub. L. 105–277, div. A, § 101(f)][/us/pl/105/277/s101/f] \[title VII, § 704\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–389, provided that: 
 
@@ -2646,6 +2646,7 @@
 [/us/stat/111/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F514
 [/us/pl/106/113/s1000/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F6
 [/us/stat/113/1501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1501
+[/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
 [/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
 [/us/stat/111/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F514
 [/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
@@ -2656,17 +2657,21 @@
 [/us/usc/t42/s1396r–4/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396r%E2%80%934%2Ff
 [/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
 [/us/usc/t42/s1396r–4/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396r%E2%80%934%2Ff
+[/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
+[/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
 [/us/usc/t42/s1396r–4/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396r%E2%80%934%2Fb%2F3
 [/us/pl/106/554/s1/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F6
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
 [/us/usc/t42/s1396r–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396r%E2%80%934
 [/us/pl/105/277/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Ff
 [/us/stat/112/2681-337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-337
+[/us/usc/t42/s1396r–4/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396r%E2%80%934%2Ff%2F2
 [/us/pl/105/33/s4721/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs4721%2Fa%2F1
 [/us/pl/105/78/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F78%2Fs601
 [/us/stat/111/1519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1519
 [/us/pl/105/277/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Ff
 [/us/stat/112/2681-337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-337
+[/us/usc/t42/s1396r–4/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396r%E2%80%934%2Ff%2F2
 [/us/pl/105/33/s4721/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs4721%2Fa%2F1
 [/us/pl/105/277/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Ff
 [/us/stat/112/2681-337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-337

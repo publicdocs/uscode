@@ -719,7 +719,7 @@
 
 [Pub. L. 103–66, title XIII, § 13611(e)][/us/pl/103/66/s13611/e], Aug. 10, 1993, [107 Stat. 627][/us/stat/107/627], provided that:
 
->     “(1) The amendments made by this section \[amending this section and sections 1396a and 1396r–5 of this title\] shall apply, except as provided in this subsection, to payments under title XIX of the Social Security Act \[this subchapter\] for calendar quarters beginning on or after October 1, 1993, without regard to whether or not final regulations to carry out such amendments have been promulgated by such date.
+>     “(1) The amendments made by this section \[amending this section and sections 1396a and 1396r–5 of this title\] shall apply, except as provided in this subsection, to payments under title XIX of the Social Security Act \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\] for calendar quarters beginning on or after October 1, 1993, without regard to whether or not final regulations to carry out such amendments have been promulgated by such date.
 
 >     “(2)
 
@@ -731,13 +731,13 @@
 
 >         “(C) with respect to trusts established on or before the date of the enactment of this Act.
 
->     “(3) In the case of a State plan for medical assistance under title XIX of the Social Security Act \[this subchapter\] which the Secretary of Health and Human Services determines requires State legislation (other than legislation appropriating funds) in order for the plan to meet the additional requirements imposed by the amendment made by subsection (b) \[amending this section\], the State plan shall not be regarded as failing to comply with the requirements imposed by such amendment solely on the basis of its failure to meet these additional requirements before the first day of the first calendar quarter beginning after the close of the first regular session of the State legislature that begins after the date of the enactment of this Act \[Aug. 10, 1993\]. For purposes of the preceding sentence, in the case of a State that has a 2-year legislative session, each year of such session shall be deemed to be a separate regular session of the State legislature.”
+>     “(3) In the case of a State plan for medical assistance under title XIX of the Social Security Act \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\] which the Secretary of Health and Human Services determines requires State legislation (other than legislation appropriating funds) in order for the plan to meet the additional requirements imposed by the amendment made by subsection (b) \[amending this section\], the State plan shall not be regarded as failing to comply with the requirements imposed by such amendment solely on the basis of its failure to meet these additional requirements before the first day of the first calendar quarter beginning after the close of the first regular session of the State legislature that begins after the date of the enactment of this Act \[Aug. 10, 1993\]. For purposes of the preceding sentence, in the case of a State that has a 2-year legislative session, each year of such session shall be deemed to be a separate regular session of the State legislature.”
 
 [Pub. L. 103–66, title XIII, § 13612(d)][/us/pl/103/66/s13612/d], Aug. 10, 1993, [107 Stat. 628][/us/stat/107/628], provided that:
 
 >     “(1)
 
->         (A) Except as provided in subparagraph (B), the amendments made by this section \[amending this section\] shall apply to payments under title XIX of the Social Security Act \[this subchapter\] for calendar quarters beginning on or after October 1, 1993, without regard to whether or not final regulations to carry out such amendments have been promulgated by such date.
+>         (A) Except as provided in subparagraph (B), the amendments made by this section \[amending this section\] shall apply to payments under title XIX of the Social Security Act \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\] for calendar quarters beginning on or after October 1, 1993, without regard to whether or not final regulations to carry out such amendments have been promulgated by such date.
 
 >         “(B) In the case of a State plan for medical assistance under title XIX of the Social Security Act which the Secretary of Health and Human Services determines requires State legislation (other than legislation appropriating funds) in order for the plan to meet the additional requirements imposed by the amendments made by this section, the State plan shall not be regarded as failing to comply with the requirements imposed by such amendments solely on the basis of its failure to meet these additional requirements before the first day of the first calendar quarter beginning after the close of the first regular session of the State legislature that begins after the date of the enactment of this Act \[Aug. 10, 1993\]. For purposes of the preceding sentence, in the case of a State that has a 2-year legislative session, each year of such session shall be deemed to be a separate regular session of the State legislature.
 
@@ -767,7 +767,7 @@
 
 [Pub. L. 97–248, title I, § 132(d)][/us/pl/97/248/s132/d], Sept. 3, 1982, [96 Stat. 373][/us/stat/96/373], provided that: 
 
-> “The amendments made by this section \[enacting this section and amending [section 1396a of this title][/us/usc/t42/s1396a]\] shall become effective on the date of the enactment of this Act \[Sept. 3, 1982\], but the provisions of section 1917(c)(2)(B) of the Social Security Act \[subsec. (c)(2)(B) of this section\] shall not apply with respect to a transfer of assets which took place prior to such date of enactment.”
+> “The amendments made by this section \[enacting this section and amending [section 1396a of this title][/us/usc/t42/s1396a]\] shall become effective on the date of the enactment of this Act \[Sept. 3, 1982\], but the provisions of section 1917(c)(2)(B) of the Social Security Act \[[42 U.S.C. 1396p(c)(2)(B)][/us/usc/t42/s1396p/c/2/B]\] shall not apply with respect to a transfer of assets which took place prior to such date of enactment.”
 
  __Availability of Hardship Waivers__ 
 
@@ -805,7 +805,7 @@
 
 >         “(2) __State reporting requirements.—__ 
 
->         Nothing in clauses (iii)(VI) and (v) of section 1917(b)(1)(C) of the Social Security Act \[subsec. (b)(1)(C)(iii)(VI), (v) of this section\] (as added by paragraph (1)) shall be construed as prohibiting a State from requiring an issuer of a long-term care insurance policy sold in the State (regardless of whether the policy is issued under a qualified State long-term care insurance partnership under section 1917(b)(1)(C)(iii) of such Act) to require the issuer to report information or data to the State that is in addition to the information or data required under such clauses.
+>         Nothing in clauses (iii)(VI) and (v) of section 1917(b)(1)(C) of the Social Security Act \[[42 U.S.C. 1396p(b)(1)(C)(iii)(VI)][/us/usc/t42/s1396p/b/1/C/iii/VI], (v)\] (as added by paragraph (1)) shall be construed as prohibiting a State from requiring an issuer of a long-term care insurance policy sold in the State (regardless of whether the policy is issued under a qualified State long-term care insurance partnership under section 1917(b)(1)(C)(iii) of such Act) to require the issuer to report information or data to the State that is in addition to the information or data required under such clauses.
 
 >         “(3) __Effective date.—__ 
 
@@ -988,8 +988,11 @@
 [/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
 [/us/pl/103/66/s13611/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13611%2Fe
 [/us/stat/107/627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F627
+[/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
+[/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
 [/us/pl/103/66/s13612/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13612%2Fd
 [/us/stat/107/628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F628
+[/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
 [/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
 [/us/pl/101/239/s6411/e/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs6411%2Fe%2F4
 [/us/usc/t42/s1396a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396a
@@ -1018,6 +1021,7 @@
 [/us/pl/97/248/s132/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs132%2Fd
 [/us/stat/96/373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F373
 [/us/usc/t42/s1396a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396a
+[/us/usc/t42/s1396p/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396p%2Fc%2F2%2FB
 [/us/pl/109/171/s6011/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2Fs6011%2Fd
 [/us/stat/120/62]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F62
 [/us/usc/t42/s1396p/c/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396p%2Fc%2F2%2FD
@@ -1027,6 +1031,7 @@
 [/us/stat/124/847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F847
 [/us/pl/112/240/s642/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs642%2Fb%2F3
 [/us/stat/126/2358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2358
+[/us/usc/t42/s1396p/b/1/C/iii/VI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396p%2Fb%2F1%2FC%2Fiii%2FVI
 [/us/usc/t42/s1396p/b/1/C/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396p%2Fb%2F1%2FC%2Fii
 
 

@@ -1231,11 +1231,11 @@ See 2012 Amendment note below.
 
 [Pub. L. 108–173, title VII, § 731(a)(2)][/us/pl/108/173/s731/a/2], Dec. 8, 2003, [117 Stat. 2351][/us/stat/117/2351], provided that: 
 
-> “The amendments made by paragraph (1) \[amending this section\] shall apply to national coverage determinations as of January 1, 2004, and section 1862(l)(5) of the Social Security Act \[subsec. (l)(5) of this section\], as added by such paragraph, shall apply to local coverage determinations made on or after July 1, 2004.”
+> “The amendments made by paragraph (1) \[amending this section\] shall apply to national coverage determinations as of January 1, 2004, and section 1862(l)(5) of the Social Security Act \[[42 U.S.C. 1395y][/us/usc/t42/s1395y](l)(5)\], as added by such paragraph, shall apply to local coverage determinations made on or after July 1, 2004.”
 
 [Pub. L. 108–173, title VII, § 731(b)(2)][/us/pl/108/173/s731/b/2], Dec. 8, 2003, [117 Stat. 2351][/us/stat/117/2351], provided that: 
 
-> “The amendment made by paragraph (1) \[amending this section\] shall apply to routine costs incurred on and after January 1, 2005, and, as of such date, section 411.15(o) of title 42, Code of Federal Regulations, is superseded to the extent inconsistent with section 1862(m) of the Social Security Act \[subsec. (m) of this section\], as added by such paragraph.”
+> “The amendment made by paragraph (1) \[amending this section\] shall apply to routine costs incurred on and after January 1, 2005, and, as of such date, section 411.15(o) of title 42, Code of Federal Regulations, is superseded to the extent inconsistent with section 1862(m) of the Social Security Act \[[42 U.S.C. 1395y(m)][/us/usc/t42/s1395y/m]\], as added by such paragraph.”
 
 [Pub. L. 108–173, title IX, § 944(a)(2)][/us/pl/108/173/s944/a/2], Dec. 8, 2003, [117 Stat. 2423][/us/stat/117/2423], provided that: 
 
@@ -1513,7 +1513,7 @@ See 2012 Amendment note below.
 
 [Pub. L. 110–173, title I, § 111(b)][/us/pl/110/173/s111/b], Dec. 29, 2007, [121 Stat. 2499][/us/stat/121/2499], provided that: 
 
-> “Nothing in the amendments made by this section \[amending this section\] shall be construed to limit the authority of the Secretary of Health and Human Services to collect information to carry out Medicare secondary payer provisions under title XVIII of the Social Security Act \[this subchapter\], including under parts C and D of such title.”
+> “Nothing in the amendments made by this section \[amending this section\] shall be construed to limit the authority of the Secretary of Health and Human Services to collect information to carry out Medicare secondary payer provisions under title XVIII of the Social Security Act \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\], including under parts C and D of such title.”
 
  __Construction of 2003 Amendment__ 
 
@@ -1533,35 +1533,35 @@ See 2012 Amendment note below.
 
 >     “(a) __In General.—__ 
 
->     The Secretary \[of Health and Human Services\] shall not require a hospital (including a critical access hospital) to ask questions (or obtain information) relating to the application of section 1862(b) of the Social Security Act \[subsec. (b) of this section\] (relating to medicare secondary payor provisions) in the case of reference laboratory services described in subsection (b), if the Secretary does not impose such requirement in the case of such services furnished by an independent laboratory.
+>     The Secretary \[of Health and Human Services\] shall not require a hospital (including a critical access hospital) to ask questions (or obtain information) relating to the application of section 1862(b) of the Social Security Act \[[42 U.S.C. 1395y(b)][/us/usc/t42/s1395y/b]\] (relating to medicare secondary payor provisions) in the case of reference laboratory services described in subsection (b), if the Secretary does not impose such requirement in the case of such services furnished by an independent laboratory.
 
 >     “(b) __Reference Laboratory Services Described.—__ 
 
->     Reference laboratory services described in this subsection are clinical laboratory diagnostic tests (or the interpretation of such tests, or both) furnished without a face-to-face encounter between the individual entitled to benefits under part A \[probably means part A of title XVIII of the Social Security Act which is classified to part A of this subchapter\] or enrolled under part B \[probably means part B of title XVIII of the Social Security Act which is classified to part B of this subchapter\], or both, and the hospital involved and in which the hospital submits a claim only for such test or interpretation.”
+>     Reference laboratory services described in this subsection are clinical laboratory diagnostic tests (or the interpretation of such tests, or both) furnished without a face-to-face encounter between the individual entitled to benefits under part A \[probably means part A of title XVIII of the Social Security Act which is classified to part A of this subchapter\] or enrolled under part B \[probably means part B of title XVIII of the Social Security Act which is classified to [42 U.S.C. 1395j][/us/usc/t42/s1395j] et seq.\], or both, and the hospital involved and in which the hospital submits a claim only for such test or interpretation.”
 
  __Annual Publication of List of National Coverage Determinations__ 
 
 [Pub. L. 108–173, title IX, § 953(b)][/us/pl/108/173/s953/b], Dec. 8, 2003, [117 Stat. 2428][/us/stat/117/2428], provided that: 
 
-> “The Secretary \[of Health and Human Services\] shall provide, in an appropriate annual publication available to the public, a list of national coverage determinations made under title XVIII of the Social Security Act \[this subchapter\] in the previous year and information on how to get more information with respect to such determinations.”
+> “The Secretary \[of Health and Human Services\] shall provide, in an appropriate annual publication available to the public, a list of national coverage determinations made under title XVIII of the Social Security Act \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\] in the previous year and information on how to get more information with respect to such determinations.”
 
  __Notification to Physicians of Excessive Home Health Visits__ 
 
 [Pub. L. 105–33, title IV, § 4614(b)][/us/pl/105/33/s4614/b], Aug. 5, 1997, [111 Stat. 474][/us/stat/111/474], provided that: 
 
-> “The Secretary of Health and Human Services may establish a process for notifying a physician in cases in which the number of home health visits, furnished under title XVIII of the Social Security Act \[this subchapter\] pursuant to a prescription or certification of the physician, significantly exceeds such threshold (or thresholds) as the Secretary specifies. The Secretary may adjust such threshold to reflect demonstrated differences in the need for home health services among different beneficiaries.”
+> “The Secretary of Health and Human Services may establish a process for notifying a physician in cases in which the number of home health visits, furnished under title XVIII of the Social Security Act \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\] pursuant to a prescription or certification of the physician, significantly exceeds such threshold (or thresholds) as the Secretary specifies. The Secretary may adjust such threshold to reflect demonstrated differences in the need for home health services among different beneficiaries.”
 
  __Distribution of Questionnaire by Contractor__ 
 
 [Pub. L. 103–432, title I, § 151(a)(1)(B)][/us/pl/103/432/s151/a/1/B], Oct. 31, 1994, [108 Stat. 4433][/us/stat/108/4433], provided that: 
 
-> “The Secretary of Health and Human Services shall enter into an agreement with an entity not later than 60 days after the date of the enactment of the Social Security Act Amendments of 1994 \[Oct. 31, 1994\], to distribute the questionnaire described in section 1862(b)(5)(D) of the Social Security Act \[subsec. (b)(5)(D) of this section\] (as added by subparagraph (A)).”
+> “The Secretary of Health and Human Services shall enter into an agreement with an entity not later than 60 days after the date of the enactment of the Social Security Act Amendments of 1994 \[Oct. 31, 1994\], to distribute the questionnaire described in section 1862(b)(5)(D) of the Social Security Act \[[42 U.S.C. 1395y(b)(5)(D)][/us/usc/t42/s1395y/b/5/D]\] (as added by subparagraph (A)).”
 
  __Retroactive Exemption for Certain Situations Involving Religious Orders__ 
 
 [Pub. L. 103–66, title XIII, § 13561(f)][/us/pl/103/66/s13561/f], Aug. 10, 1993, [107 Stat. 595][/us/stat/107/595], provided that: 
 
-> “Section 1862(b)(1)(D) of the Social Security Act \[subsec. (b)(1)(D) of this section\] applies, with respect to items and services furnished before October 1, 1989, to any claims that the Secretary of Health and Human Services had not identified as of that date as subject to the provisions of section 1862(b) of such Act.”
+> “Section 1862(b)(1)(D) of the Social Security Act \[[42 U.S.C. 1395y(b)(1)(D)][/us/usc/t42/s1395y/b/1/D]\] applies, with respect to items and services furnished before October 1, 1989, to any claims that the Secretary of Health and Human Services had not identified as of that date as subject to the provisions of section 1862(b) of such Act.”
 
  __GAO Study of Extension of Secondary Payer Period__ 
 
@@ -1573,7 +1573,7 @@ See 2012 Amendment note below.
 
 > “The Commissioner of Social Security shall first—
 
->     “(i) transmit to the Secretary of the Treasury information under paragraph (5)(A)(i) of section 1862(b) of the Social Security Act \[subsec. (b)(5)(A)(i) of this section\] (as inserted by subparagraph (A)), and
+>     “(i) transmit to the Secretary of the Treasury information under paragraph (5)(A)(i) of section 1862(b) of the Social Security Act \[[42 U.S.C. 1395y(b)(5)(A)(i)][/us/usc/t42/s1395y/b/5/A/i]\] (as inserted by subparagraph (A)), and
 
 >     “(ii) request from the Secretary disclosure of information described in section 6013(l)(12)(A) of the Internal Revenue Code of 1986 \[[26 U.S.C. 6013][/us/usc/t26/s6013](l)(12)(A)\],
 
@@ -1583,7 +1583,7 @@ See 2012 Amendment note below.
 
 [Pub. L. 100–203, title IV, § 4009(b)][/us/pl/100/203/s4009/b], Dec. 22, 1987, [101 Stat. 1330–57][/us/stat/101/1330-57], provided that: 
 
-> “For purposes of determining whether a pediatric hospital that performs pediatric heart transplants meets the criteria established by the Secretary of Health and Human Services for facilities in which the heart transplants performed will be considered to meet the requirement of section 1862(a)(1)(A) of the Social Security Act \[subsec. (a)(1)(A) of this section\], the Secretary shall treat such a hospital as meeting such criteria if—
+> “For purposes of determining whether a pediatric hospital that performs pediatric heart transplants meets the criteria established by the Secretary of Health and Human Services for facilities in which the heart transplants performed will be considered to meet the requirement of section 1862(a)(1)(A) of the Social Security Act \[[42 U.S.C. 1395y(a)(1)(A)][/us/usc/t42/s1395y/a/1/A]\], the Secretary shall treat such a hospital as meeting such criteria if—
 
 >     “(1) the hospital’s pediatric heart transplant program is operated jointly by the hospital and another facility that meets such criteria,
 
@@ -1603,7 +1603,7 @@ See 2012 Amendment note below.
 
 >     “(1) __In general.—__ 
 
->     The Secretary of Health and Human Services shall, for purposes of determining whether payments to a hospice program should be denied pursuant to section 1862(a)(1)(C) of the Social Security Act \[subsec. (a)(1)(C) of this section\], apply (under section 1879(a) of such Act \[[section 1395pp(a) of this title][/us/usc/t42/s1395pp/a]\]) a presumption of compliance of 2.5 percent (based on the number of days of hospice care billed) in a manner substantially similar to that provided to home health agencies under policies in effect as of July 1, 1985.
+>     The Secretary of Health and Human Services shall, for purposes of determining whether payments to a hospice program should be denied pursuant to section 1862(a)(1)(C) of the Social Security Act \[[42 U.S.C. 1395y(a)(1)(C)][/us/usc/t42/s1395y/a/1/C]\], apply (under section 1879(a) of such Act \[[42 U.S.C. 1395pp(a)][/us/usc/t42/s1395pp/a]\]) a presumption of compliance of 2.5 percent (based on the number of days of hospice care billed) in a manner substantially similar to that provided to home health agencies under policies in effect as of July 1, 1985.
 
 >     “(2) __Effective date.—__ 
 
@@ -1623,13 +1623,13 @@ See 2012 Amendment note below.
 
 [Pub. L. 99–272, title IX, § 9126(c)][/us/pl/99/272/s9126/c], Apr. 7, 1986, [100 Stat. 170][/us/stat/100/170], as amended by [Pub. L. 100–360, title IV, § 426(b)][/us/pl/100/360/s426/b], July 1, 1988, [102 Stat. 814][/us/stat/102/814]; [Pub. L. 101–508, title IV, § 4008(a)(1)][/us/pl/101/508/s4008/a/1], Nov. 5, 1990, [104 Stat. 1388–44][/us/stat/104/1388-44], provided that: 
 
-> “The Secretary of Health and Human Services shall, for purposes of determining whether payments to a skilled nursing facility should be denied pursuant to section 1862(a)(1)(A) of the Social Security Act \[subsec. (a)(1)(A) of this section\], apply the same presumption of compliance (5 percent) as in effect under regulations as of July 1, 1985. Such presumption shall apply for the period beginning with the first month beginning after the date of the enactment of this Act \[Apr. 7, 1986\] and ending on December 31, 1995.”
+> “The Secretary of Health and Human Services shall, for purposes of determining whether payments to a skilled nursing facility should be denied pursuant to section 1862(a)(1)(A) of the Social Security Act \[[42 U.S.C. 1395y(a)(1)(A)][/us/usc/t42/s1395y/a/1/A]\], apply the same presumption of compliance (5 percent) as in effect under regulations as of July 1, 1985. Such presumption shall apply for the period beginning with the first month beginning after the date of the enactment of this Act \[Apr. 7, 1986\] and ending on December 31, 1995.”
 
  __Home Health Waiver of Liability__ 
 
 [Pub. L. 99–272, title IX, § 9205][/us/pl/99/272/s9205], Apr. 7, 1986, [100 Stat. 178][/us/stat/100/178], as amended by [Pub. L. 100–360, title IV, § 426(d)][/us/pl/100/360/s426/d], July 1, 1988, [102 Stat. 814][/us/stat/102/814]; [Pub. L. 103–432, title I, § 158(b)(1)][/us/pl/103/432/s158/b/1], Oct. 31, 1994, [108 Stat. 4442][/us/stat/108/4442], provided that: 
 
-> “The Secretary of Health and Human Services shall, for purposes of determining whether payments to a home health agency should be denied pursuant to section 1862(a)(1)(A) of the Social Security Act \[subsec. (a)(1)(A) of this section\], apply a presumption of compliance (2.5 percent) in the same manner as under the regulations in effect as of July 1, 1985. Such presumption shall apply until December 31, 1995.”
+> “The Secretary of Health and Human Services shall, for purposes of determining whether payments to a home health agency should be denied pursuant to section 1862(a)(1)(A) of the Social Security Act \[[42 U.S.C. 1395y(a)(1)(A)][/us/usc/t42/s1395y/a/1/A]\], apply a presumption of compliance (2.5 percent) in the same manner as under the regulations in effect as of July 1, 1985. Such presumption shall apply until December 31, 1995.”
 
 \[[Pub. L. 103–432, title I, § 158(b)(2)][/us/pl/103/432/s158/b/2], Oct. 31, 1994, [108 Stat. 4443][/us/stat/108/4443], provided that: 
 
@@ -1651,13 +1651,13 @@ See 2012 Amendment note below.
 
 [Pub. L. 98–369, div. B, title III, § 2325][/us/pl/98/369/s2325], July 18, 1984, [98 Stat. 1087][/us/stat/98/1087], provided that: 
 
-> “The Secretary shall provide, pursuant to section 1862(a) of the Social Security Act \[subsec. (a) of this section\], that payment will not be made under part B of title XVIII of such Act \[part B of this subchapter\] for a physician’s debridement of mycotic toenails to the extent such debridement is performed for a patient more frequently than once every 60 days, unless the medical necessity for more frequent treatment is documented by the billing physician.”
+> “The Secretary shall provide, pursuant to section 1862(a) of the Social Security Act \[[42 U.S.C. 1395y(a)][/us/usc/t42/s1395y/a]\], that payment will not be made under part B of title XVIII of such Act \[[42 U.S.C. 1395j][/us/usc/t42/s1395j] et seq.\] for a physician’s debridement of mycotic toenails to the extent such debridement is performed for a patient more frequently than once every 60 days, unless the medical necessity for more frequent treatment is documented by the billing physician.”
 
  __Interim Waiver in Certain Cases of Billing Rule for Items and Services Other Than Physicians’ Services__ 
 
 [Pub. L. 98–21, title VI, § 602(k)][/us/pl/98/21/s602/k], Apr. 20, 1983, [97 Stat. 165][/us/stat/97/165], as amended by [Pub. L. 99–272, title IX, § 9112(a)][/us/pl/99/272/s9112/a], Apr. 7, 1986, [100 Stat. 163][/us/stat/100/163], provided that:
 
->     “(1) The Secretary of Health and Human Services may, for any cost reporting period beginning prior to October 1, 1986, waive the requirements of sections 1862(a)(14) and 1866(a)(1)(H) of the Social Security Act \[subsec. (a)(14) of this section and [section 1395cc(a)(1)(H) of this title][/us/usc/t42/s1395cc/a/1/H]\] in the case of a hospital which has followed a practice, since prior to October 1, 1982, of allowing direct billing under part B of title XVIII of such Act \[part B of this subchapter\] for services (other than physicians’ services) so extensively, that immediate compliance with those requirements would threaten the stability of patient care. Any such waiver shall provide that such billing may continue to be made under part B of such title but that the payments to such hospital under part A of such title \[part A of this subchapter\] shall be reduced by the amount of the billings for such services under part B of such title. If such a waiver is granted, at the end of the waiver period the Secretary may provide for such methods of payments under part A as is appropriate, given the organizational structure of the institution.
+>     “(1) The Secretary of Health and Human Services may, for any cost reporting period beginning prior to October 1, 1986, waive the requirements of sections 1862(a)(14) and 1866(a)(1)(H) of the Social Security Act \[[42 U.S.C. 1395y(a)(14)][/us/usc/t42/s1395y/a/14], 1395cc(a)(1)(H)\] in the case of a hospital which has followed a practice, since prior to October 1, 1982, of allowing direct billing under part B of title XVIII of such Act \[[42 U.S.C. 1395j][/us/usc/t42/s1395j] et seq.\] for services (other than physicians’ services) so extensively, that immediate compliance with those requirements would threaten the stability of patient care. Any such waiver shall provide that such billing may continue to be made under part B of such title but that the payments to such hospital under part A of such title \[[42 U.S.C. 1395c][/us/usc/t42/s1395c] et seq.\] shall be reduced by the amount of the billings for such services under part B of such title. If such a waiver is granted, at the end of the waiver period the Secretary may provide for such methods of payments under part A as is appropriate, given the organizational structure of the institution.
 
 >     “(2) In the case of a hospital which is receiving payments pursuant to a waiver under paragraph (1), payment of the adjustment for indirect costs of approved educational activities shall be made as if the hospital were receiving under part A of title XVIII of the Social Security Act all the payments which are made under part B of such title solely by reason of such waiver.
 
@@ -1679,7 +1679,7 @@ See 2012 Amendment note below.
 
 [Pub. L. 97–248, title I, § 115(b)][/us/pl/97/248/s115/b], Sept. 3, 1982, [96 Stat. 353][/us/stat/96/353], provided that: 
 
-> “No provision of law limiting the use of funds for purposes of enforcing or implementing section 1862(c) \[subsec. (c) of this section\] or section 1903(i)(5) \[[section 1396b(i)(5) of this title][/us/usc/t42/s1396b/i/5]\] of the Social Security Act, section 2103 of the Omnibus Budget Reconciliation Act of 1981 \[[section 2103 of Pub. L. 97–35][/us/pl/97/35/s2103], amending sections 1395y and 1396b of this title and enacting provisions set out as notes under sections 1395y and 1396b of this title\], or any rule or regulation issued pursuant to any such section (including any provision contained in, or incorporated by reference into, any appropriation Act or resolution making continuing appropriations) shall apply to any period after September 30, 1982, unless such provision of law is enacted after the date of the enactment of this Act \[Sept. 3, 1982\] and specifically states that such provision is to supersede this section.”
+> “No provision of law limiting the use of funds for purposes of enforcing or implementing section 1862(c) \[[42 U.S.C. 1395y(c)][/us/usc/t42/s1395y/c]\] or section 1903(i)(5) \[[42 U.S.C. 1396b(i)(5)][/us/usc/t42/s1396b/i/5]\] of the Social Security Act, section 2103 of the Omnibus Budget Reconciliation Act of 1981 \[[section 2103 of Pub. L. 97–35][/us/pl/97/35/s2103], amending sections 1395y and 1396b of this title and enacting provisions set out as notes under sections 1395y and 1396b of this title\], or any rule or regulation issued pursuant to any such section (including any provision contained in, or incorporated by reference into, any appropriation Act or resolution making continuing appropriations) shall apply to any period after September 30, 1982, unless such provision of law is enacted after the date of the enactment of this Act \[Sept. 3, 1982\] and specifically states that such provision is to supersede this section.”
 
  __Establishment and Implementation of Guidelines__ 
 
@@ -1687,7 +1687,7 @@ See 2012 Amendment note below.
 
  __Report to Congressional Committees on Implementation of Certification Requirements Relating to Modification of Health Benefits Plan or Program; Failure To Submit Report__ 
 
-    [Pub. L. 93–480, § 4(b)][/us/pl/93/480/s4/b], Oct. 26, 1974, [88 Stat. 1454][/us/stat/88/1454], provided that the Civil Service Commission and the Secretary of Health, Education, and Welfare submit a report on or before Mar. 1, 1975, on the steps which have been taken, and the steps which are planned, to enable the Secretary to make the determination and certification referred to in former subsec. (c) of this section and that if such report is not submitted by Mar. 1, 1975, the date specified in former subsec. (c) shall be deemed to be July 1, 1975, rather than Jan. 1, 1976.
+    [Pub. L. 93–480, § 4(b)][/us/pl/93/480/s4/b], Oct. 26, 1974, [88 Stat. 1454][/us/stat/88/1454], provided that the Civil Service Commission and the Secretary of Health, Education, and Welfare \[now Health and Human Services\] submit a report on or before Mar. 1, 1975, on the steps which have been taken, and the steps which are planned, to enable the Secretary to make the determination and certification referred to in former subsec. (c) of this section and that if such report is not submitted by Mar. 1, 1975, the date specified in former subsec. (c) shall be deemed to be July 1, 1975, rather than Jan. 1, 1976.
 
 ----------
 
@@ -2190,8 +2190,10 @@ See 2012 Amendment note below.
 [/us/usc/t42/s1395x]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395x
 [/us/pl/108/173/s731/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs731%2Fa%2F2
 [/us/stat/117/2351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2351
+[/us/usc/t42/s1395y]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395y
 [/us/pl/108/173/s731/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs731%2Fb%2F2
 [/us/stat/117/2351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2351
+[/us/usc/t42/s1395y/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395y%2Fm
 [/us/pl/108/173/s944/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs944%2Fa%2F2
 [/us/stat/117/2423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2423
 [/us/pl/108/173/s948/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs948%2Fa
@@ -2447,6 +2449,7 @@ See 2012 Amendment note below.
 [/us/usc/t42/s1395rr]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395rr
 [/us/pl/110/173/s111/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F173%2Fs111%2Fb
 [/us/stat/121/2499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2499
+[/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
 [/us/pl/108/173/s731/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs731%2Fb%2F3
 [/us/stat/117/2351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2351
 [/us/pl/108/173/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs303
@@ -2458,23 +2461,31 @@ See 2012 Amendment note below.
 [/us/usc/t42/s1395u]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395u
 [/us/pl/108/173/s943]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs943
 [/us/stat/117/2422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2422
+[/us/usc/t42/s1395y/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395y%2Fb
+[/us/usc/t42/s1395j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395j
 [/us/pl/108/173/s953/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs953%2Fb
 [/us/stat/117/2428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2428
+[/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
 [/us/pl/105/33/s4614/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs4614%2Fb
 [/us/stat/111/474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F474
+[/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
 [/us/pl/103/432/s151/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432%2Fs151%2Fa%2F1%2FB
 [/us/stat/108/4433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4433
+[/us/usc/t42/s1395y/b/5/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395y%2Fb%2F5%2FD
 [/us/pl/103/66/s13561/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13561%2Ff
 [/us/stat/107/595]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F595
+[/us/usc/t42/s1395y/b/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395y%2Fb%2F1%2FD
 [/us/pl/101/508/s4203/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs4203%2Fc%2F2
 [/us/stat/104/1388-108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-108
 [/us/pl/103/432/s151/c/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432%2Fs151%2Fc%2F7
 [/us/stat/108/4436]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4436
 [/us/pl/101/239/s6202/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs6202%2Fa%2F2%2FB
 [/us/stat/103/2229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2229
+[/us/usc/t42/s1395y/b/5/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395y%2Fb%2F5%2FA%2Fi
 [/us/usc/t26/s6013]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6013
 [/us/pl/100/203/s4009/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs4009%2Fb
 [/us/stat/101/1330-57]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-57
+[/us/usc/t42/s1395y/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395y%2Fa%2F1%2FA
 [/us/pl/99/514/s1895/b/16/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1895%2Fb%2F16%2FC
 [/us/stat/100/2934]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2934
 [/us/usc/t42/s1395y/a/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395y%2Fa%2F15
@@ -2484,6 +2495,7 @@ See 2012 Amendment note below.
 [/us/stat/102/814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F814
 [/us/pl/101/508/s4008/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs4008%2Fa%2F2
 [/us/stat/104/1388-44]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-44
+[/us/usc/t42/s1395y/a/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395y%2Fa%2F1%2FC
 [/us/usc/t42/s1395pp/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395pp%2Fa
 [/us/pl/101/508/s4008/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs4008%2Fa%2F3
 [/us/stat/104/1388-44]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-44
@@ -2498,12 +2510,14 @@ See 2012 Amendment note below.
 [/us/stat/102/814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F814
 [/us/pl/101/508/s4008/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs4008%2Fa%2F1
 [/us/stat/104/1388-44]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-44
+[/us/usc/t42/s1395y/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395y%2Fa%2F1%2FA
 [/us/pl/99/272/s9205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs9205
 [/us/stat/100/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F178
 [/us/pl/100/360/s426/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360%2Fs426%2Fd
 [/us/stat/102/814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F814
 [/us/pl/103/432/s158/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432%2Fs158%2Fb%2F1
 [/us/stat/108/4442]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4442
+[/us/usc/t42/s1395y/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395y%2Fa%2F1%2FA
 [/us/pl/103/432/s158/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432%2Fs158%2Fb%2F2
 [/us/stat/108/4443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4443
 [/us/pl/99/272/s9205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs9205
@@ -2514,15 +2528,20 @@ See 2012 Amendment note below.
 [/us/stat/98/1069]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1069
 [/us/pl/98/369/s2325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2325
 [/us/stat/98/1087]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1087
+[/us/usc/t42/s1395y/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395y%2Fa
+[/us/usc/t42/s1395j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395j
 [/us/pl/98/21/s602/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21%2Fs602%2Fk
 [/us/stat/97/165]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F165
 [/us/pl/99/272/s9112/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs9112%2Fa
 [/us/stat/100/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F163
-[/us/usc/t42/s1395cc/a/1/H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395cc%2Fa%2F1%2FH
+[/us/usc/t42/s1395y/a/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395y%2Fa%2F14
+[/us/usc/t42/s1395j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395j
+[/us/usc/t42/s1395c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395c
 [/us/pl/99/272/s9112/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs9112%2Fb
 [/us/stat/100/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F163
 [/us/pl/97/248/s115/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs115%2Fb
 [/us/stat/96/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F353
+[/us/usc/t42/s1395y/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395y%2Fc
 [/us/usc/t42/s1396b/i/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396b%2Fi%2F5
 [/us/pl/97/35/s2103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2103
 [/us/pl/97/35/s2152/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2152%2Fb

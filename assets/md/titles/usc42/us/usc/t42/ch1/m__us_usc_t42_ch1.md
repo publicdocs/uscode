@@ -33,7 +33,7 @@ SUBCHAPTER I—GENERALLY  </td>
 
   <tr>
 
-    <td> 1 to 25e.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs1" data-uslm-ref="/us/usc/t42/s1">1</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs25e" data-uslm-ref="/us/usc/t42/s25e">25e.</a>  </td>
 
     <td> Repealed or Omitted.  </td>
 
@@ -41,7 +41,7 @@ SUBCHAPTER I—GENERALLY  </td>
 
   <tr>
 
-    <td> 26.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs26" data-uslm-ref="/us/usc/t42/s26">26.</a>  </td>
 
     <td> Isolation of civilians for protection of military, air and naval forces.  </td>
 
@@ -49,7 +49,7 @@ SUBCHAPTER I—GENERALLY  </td>
 
   <tr>
 
-    <td> 27.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs27" data-uslm-ref="/us/usc/t42/s27">27.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER I—GENERALLY  </td>
 
   <tr>
 
-    <td> 28 to 46.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs28" data-uslm-ref="/us/usc/t42/s28">28</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs46" data-uslm-ref="/us/usc/t42/s46">46.</a>  </td>
 
     <td> Repealed or Omitted.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER II—PAY  </td>
 
   <tr>
 
-    <td> 61 to 70a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs61" data-uslm-ref="/us/usc/t42/s61">61</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs70a" data-uslm-ref="/us/usc/t42/s70a">70a.</a>  </td>
 
     <td> Omitted or Repealed.  </td>
 

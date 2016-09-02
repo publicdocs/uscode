@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 17601.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs17601" data-uslm-ref="/us/usc/t42/s17601">17601.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -41,7 +41,7 @@ SUBCHAPTER I—NATIONAL STRATEGY FOR CHILD EXPLOITATION PREVENTION AND INTERDICT
 
   <tr>
 
-    <td> 17611.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs17611" data-uslm-ref="/us/usc/t42/s17611">17611.</a>  </td>
 
     <td> Establishment of National Strategy for Child Exploitation Prevention and Interdiction.  </td>
 
@@ -49,7 +49,7 @@ SUBCHAPTER I—NATIONAL STRATEGY FOR CHILD EXPLOITATION PREVENTION AND INTERDICT
 
   <tr>
 
-    <td> 17612.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs17612" data-uslm-ref="/us/usc/t42/s17612">17612.</a>  </td>
 
     <td> Establishment of National ICAC Task Force Program.  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER I—NATIONAL STRATEGY FOR CHILD EXPLOITATION PREVENTION AND INTERDICT
 
   <tr>
 
-    <td> 17613.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs17613" data-uslm-ref="/us/usc/t42/s17613">17613.</a>  </td>
 
     <td> Purpose of ICAC task forces.  </td>
 
@@ -65,7 +65,7 @@ SUBCHAPTER I—NATIONAL STRATEGY FOR CHILD EXPLOITATION PREVENTION AND INTERDICT
 
   <tr>
 
-    <td> 17614.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs17614" data-uslm-ref="/us/usc/t42/s17614">17614.</a>  </td>
 
     <td> Duties and functions of task forces.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER I—NATIONAL STRATEGY FOR CHILD EXPLOITATION PREVENTION AND INTERDICT
 
   <tr>
 
-    <td> 17615.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs17615" data-uslm-ref="/us/usc/t42/s17615">17615.</a>  </td>
 
     <td> National Internet Crimes Against Children Data System.  </td>
 
@@ -81,7 +81,7 @@ SUBCHAPTER I—NATIONAL STRATEGY FOR CHILD EXPLOITATION PREVENTION AND INTERDICT
 
   <tr>
 
-    <td> 17616.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs17616" data-uslm-ref="/us/usc/t42/s17616">17616.</a>  </td>
 
     <td> ICAC grant program.  </td>
 
@@ -89,7 +89,7 @@ SUBCHAPTER I—NATIONAL STRATEGY FOR CHILD EXPLOITATION PREVENTION AND INTERDICT
 
   <tr>
 
-    <td> 17617.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs17617" data-uslm-ref="/us/usc/t42/s17617">17617.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 
@@ -105,7 +105,7 @@ SUBCHAPTER II—ADDITIONAL MEASURES TO COMBAT CHILD EXPLOITATION  </td>
 
   <tr>
 
-    <td> 17631.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs17631" data-uslm-ref="/us/usc/t42/s17631">17631.</a>  </td>
 
     <td> Additional regional computer forensic labs.  </td>
 

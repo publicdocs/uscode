@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 11701.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs11701" data-uslm-ref="/us/usc/t42/s11701">11701.</a>  </td>
 
     <td> Findings.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 11702.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs11702" data-uslm-ref="/us/usc/t42/s11702">11702.</a>  </td>
 
     <td> Declaration of policy.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 11703.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs11703" data-uslm-ref="/us/usc/t42/s11703">11703.</a>  </td>
 
     <td> Comprehensive health care master plan for Native Hawaiians.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 11704.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs11704" data-uslm-ref="/us/usc/t42/s11704">11704.</a>  </td>
 
     <td> Functions of Papa Ola Lokahi.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 11705.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs11705" data-uslm-ref="/us/usc/t42/s11705">11705.</a>  </td>
 
     <td> Native Hawaiian health care systems.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 11706.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs11706" data-uslm-ref="/us/usc/t42/s11706">11706.</a>  </td>
 
     <td> Administrative grant for Papa Ola Lokahi.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 11707.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs11707" data-uslm-ref="/us/usc/t42/s11707">11707.</a>  </td>
 
     <td> Administration of grants and contracts.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 11708.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs11708" data-uslm-ref="/us/usc/t42/s11708">11708.</a>  </td>
 
     <td> Assignment of personnel.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 11709.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs11709" data-uslm-ref="/us/usc/t42/s11709">11709.</a>  </td>
 
     <td> Native Hawaiian health scholarships.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 11710.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs11710" data-uslm-ref="/us/usc/t42/s11710">11710.</a>  </td>
 
     <td> Report.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 11711.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs11711" data-uslm-ref="/us/usc/t42/s11711">11711.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 11712.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs11712" data-uslm-ref="/us/usc/t42/s11712">11712.</a>  </td>
 
     <td> Rule of construction.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 11713.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs11713" data-uslm-ref="/us/usc/t42/s11713">11713.</a>  </td>
 
     <td> Compliance with Budget Act.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> 11714.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs11714" data-uslm-ref="/us/usc/t42/s11714">11714.</a>  </td>
 
     <td> Severability.  </td>
 

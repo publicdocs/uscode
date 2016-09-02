@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 2641.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2641" data-uslm-ref="/us/usc/t42/s2641">2641.</a>  </td>
 
     <td> Congressional declaration of purpose.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 2642.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2642" data-uslm-ref="/us/usc/t42/s2642">2642.</a>  </td>
 
     <td> Acceleration of public works.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 2643.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2643" data-uslm-ref="/us/usc/t42/s2643">2643.</a>  </td>
 
     <td> Increase of State or local expenditures.  </td>
 

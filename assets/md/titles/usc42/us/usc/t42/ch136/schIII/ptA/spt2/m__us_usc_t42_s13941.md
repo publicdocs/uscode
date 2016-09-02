@@ -35,10 +35,6 @@
 
 ([Pub. L. 103–322, title IV, § 40152][/us/pl/103/322/s40152], Sept. 13, 1994, [108 Stat. 1920][/us/stat/108/1920]; [Pub. L. 109–162, title I, § 108][/us/pl/109/162/s108], title XI, § 1167, Jan. 5, 2006, [119 Stat. 2984][/us/stat/119/2984], 3121; [Pub. L. 109–271, § 2(a)][/us/pl/109/271/s2/a], (b), Aug. 12, 2006, [120 Stat. 751][/us/stat/120/751], 752; [Pub. L. 113–4, title I, § 105][/us/pl/113/4/s105], Mar. 7, 2013, [127 Stat. 77][/us/stat/127/77].)
 
- __Amendment of Section__ 
-
-For effective date of amendment by [Pub. L. 113–4][/us/pl/113/4], see Effective Date of 2013 Amendment note below.
-
  __Amendments__ 
 
     2013—Subsec. (c). [Pub. L. 113–4][/us/pl/113/4] substituted “$5,000,000 for each of fiscal years 2014 through 2018.” for “$5,000,000 for each of fiscal years 2007 through 2011.”
@@ -68,7 +64,6 @@ For effective date of amendment by [Pub. L. 113–4][/us/pl/113/4], see Effectiv
 [/us/stat/120/751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F751
 [/us/pl/113/4/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs105
 [/us/stat/127/77]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F77
-[/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
 [/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
 [/us/pl/109/271/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F271%2Fs2%2Fb
 [/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162

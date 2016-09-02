@@ -197,13 +197,13 @@
 
 [Pub. L. 96–499, title IX, § 947(e)][/us/pl/96/499/s947/e], Dec. 5, 1980, [94 Stat. 2643][/us/stat/94/2643], provided that: 
 
-> “The coverage period under part B of title XVIII of the Social Security Act \[this part\] of an individual whose coverage period attributable to a State agreement under section 1843 of such Act \[this section\] is terminated and who has filed notice before the end of the third calendar month beginning after the date of the enactment of this Act \[Dec. 5, 1980\] that he no longer wishes to participate in the insurance program established by part B of title XVIII shall terminate on the earlier of (1) the day specified in section 1838 \[[section 1395q of this title][/us/usc/t42/s1395q]\] without the amendments made by this section, or (2) (unless the individual files notice before the day specified in this clause that he wishes his coverage period to terminate as provided in clause (1)) the day on which his coverage period would terminate if the individual filed notice in the fourth calendar month beginning after the date of the enactment of this Act.”
+> “The coverage period under part B of title XVIII of the Social Security Act \[[42 U.S.C. 1395j][/us/usc/t42/s1395j] et seq.\] of an individual whose coverage period attributable to a State agreement under section 1843 of such Act \[[42 U.S.C. 1395v][/us/usc/t42/s1395v]\] is terminated and who has filed notice before the end of the third calendar month beginning after the date of the enactment of this Act \[Dec. 5, 1980\] that he no longer wishes to participate in the insurance program established by part B of title XVIII shall terminate on the earlier of (1) the day specified in section 1838 \[[42 U.S.C. 1395q][/us/usc/t42/s1395q]\] without the amendments made by this section, or (2) (unless the individual files notice before the day specified in this clause that he wishes his coverage period to terminate as provided in clause (1)) the day on which his coverage period would terminate if the individual filed notice in the fourth calendar month beginning after the date of the enactment of this Act.”
 
  __District of Columbia; Agreement of Commissioner With Secretary for Supplementary Medical Insurance__ 
 
 [Pub. L. 90–227, § 2][/us/pl/90/227/s2], Dec. 27, 1967, [81 Stat. 745][/us/stat/81/745], provided that: 
 
-> “The Commissioner \[now Mayor of District of Columbia\] may enter into an agreement (and any modifications of such agreement) with the Secretary under section 1843 of the Social Security Act \[this section\] pursuant to which (1) eligible individuals (as defined in section 1836 of the Social Security Act) \[section 1395o of this title\] who are eligible to receive medical assistance under the District of Columbia’s plan for medical assistance approved under title XIX of the Social Security Act \[subchapter XIX of this chapter\] will be enrolled in the supplementary medical insurance program established under part B of title XVIII of the Social Security Act \[this part\], and (2) provisions will be made for payment of the monthly premiums of such individuals for such program.”
+> “The Commissioner \[now Mayor of District of Columbia\] may enter into an agreement (and any modifications of such agreement) with the Secretary under section 1843 of the Social Security Act \[[42 U.S.C. 1395v][/us/usc/t42/s1395v]\] pursuant to which (1) eligible individuals (as defined in section 1836 of the Social Security Act) \[[42 U.S.C. 1395][/us/usc/t42/s1395]o\] who are eligible to receive medical assistance under the District of Columbia’s plan for medical assistance approved under title XIX of the Social Security Act \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\] will be enrolled in the supplementary medical insurance program established under part B of title XVIII of the Social Security Act \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\], and (2) provisions will be made for payment of the monthly premiums of such individuals for such program.”
 
 ----------
 
@@ -317,8 +317,14 @@
 [/us/stat/87/974]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F974
 [/us/pl/96/499/s947/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F499%2Fs947%2Fe
 [/us/stat/94/2643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2643
+[/us/usc/t42/s1395j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395j
+[/us/usc/t42/s1395v]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395v
 [/us/usc/t42/s1395q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395q
 [/us/pl/90/227/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F227%2Fs2
 [/us/stat/81/745]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F745
+[/us/usc/t42/s1395v]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395v
+[/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
+[/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
+[/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
 
 

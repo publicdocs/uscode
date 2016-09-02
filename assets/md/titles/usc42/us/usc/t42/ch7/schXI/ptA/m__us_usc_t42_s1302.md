@@ -59,7 +59,7 @@
 
 [Pub. L. 98–473, title II, § 1212][/us/pl/98/473/s1212], Oct. 12, 1984, [98 Stat. 2165][/us/stat/98/2165], provided that:
 
->     “(a) The Secretary of the Treasury shall take such steps as may be necessary to provide that all checks issued for payment of benefits under title II of the Social Security Act \[subchapter II of this chapter\], and the envelopes in which such checks are mailed, contain a printed notice that the commission of forgery in conjunction with the cashing or attempted cashing of such checks constitutes a violation of Federal law. Such notice shall also state the maximum penalties for forgery under the applicable provisions of title 18 of the United States Code.
+>     “(a) The Secretary of the Treasury shall take such steps as may be necessary to provide that all checks issued for payment of benefits under title II of the Social Security Act \[[42 U.S.C. 401][/us/usc/t42/s401] et seq.\], and the envelopes in which such checks are mailed, contain a printed notice that the commission of forgery in conjunction with the cashing or attempted cashing of such checks constitutes a violation of Federal law. Such notice shall also state the maximum penalties for forgery under the applicable provisions of title 18 of the United States Code.
 
 >     “(b) Subsection (a) shall apply with respect to checks issued for months after the ninth month after the date of the enactment of this Act \[Oct. 12, 1984\].”
 
@@ -98,5 +98,6 @@
 [/us/stat/102/2583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2583
 [/us/pl/98/473/s1212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs1212
 [/us/stat/98/2165]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2165
+[/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
 
 

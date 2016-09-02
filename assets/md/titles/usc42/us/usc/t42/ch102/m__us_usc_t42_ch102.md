@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 9401.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs9401" data-uslm-ref="/us/usc/t42/s9401">9401.</a>  </td>
 
     <td> Congressional statement of findings.  </td>
 
@@ -41,7 +41,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 9411.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs9411" data-uslm-ref="/us/usc/t42/s9411">9411.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -49,7 +49,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 9412.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs9412" data-uslm-ref="/us/usc/t42/s9412">9412.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -57,7 +57,9 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 9421 to 9423. Repealed.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs9421" data-uslm-ref="/us/usc/t42/s9421">9421</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs9423" data-uslm-ref="/us/usc/t42/s9423">9423.</a>  </td>
+
+    <td> Repealed.  </td>
 
   </tr>
 
@@ -71,7 +73,9 @@ SUBCHAPTER II—GRANT PROGRAMS  </td>
 
   <tr>
 
-    <td> 9431 to 9438. Repealed.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs9431" data-uslm-ref="/us/usc/t42/s9431">9431</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs9438" data-uslm-ref="/us/usc/t42/s9438">9438.</a>  </td>
+
+    <td> Repealed.  </td>
 
   </tr>
 
@@ -93,7 +97,9 @@ Part A—State Mental Health Service Programs  </td>
 
   <tr>
 
-    <td> 9451, 9452. Repealed.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs9451" data-uslm-ref="/us/usc/t42/s9451">9451</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs9452" data-uslm-ref="/us/usc/t42/s9452">9452.</a>  </td>
+
+    <td> Repealed.  </td>
 
   </tr>
 
@@ -107,7 +113,9 @@ Part B—Applications and Related Provisions  </td>
 
   <tr>
 
-    <td> 9461 to 9465. Repealed.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs9461" data-uslm-ref="/us/usc/t42/s9461">9461</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs9465" data-uslm-ref="/us/usc/t42/s9465">9465.</a>  </td>
+
+    <td> Repealed.  </td>
 
   </tr>
 
@@ -121,7 +129,9 @@ Part C—Performance  </td>
 
   <tr>
 
-    <td> 9471 to 9473. Repealed.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs9471" data-uslm-ref="/us/usc/t42/s9471">9471</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs9473" data-uslm-ref="/us/usc/t42/s9473">9473.</a>  </td>
+
+    <td> Repealed.  </td>
 
   </tr>
 
@@ -135,7 +145,7 @@ Part D—Enforcement  </td>
 
   <tr>
 
-    <td> 9481.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs9481" data-uslm-ref="/us/usc/t42/s9481">9481.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -151,7 +161,9 @@ Part E—Miscellaneous  </td>
 
   <tr>
 
-    <td> 9491 to 9493. Repealed.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs9491" data-uslm-ref="/us/usc/t42/s9491">9491</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs9493" data-uslm-ref="/us/usc/t42/s9493">9493.</a>  </td>
+
+    <td> Repealed.  </td>
 
   </tr>
 
@@ -165,7 +177,7 @@ SUBCHAPTER IV—MENTAL HEALTH RIGHTS AND ADVOCACY  </td>
 
   <tr>
 
-    <td> 9501.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs9501" data-uslm-ref="/us/usc/t42/s9501">9501.</a>  </td>
 
     <td> Bill of Rights.  </td>
 
@@ -173,7 +185,7 @@ SUBCHAPTER IV—MENTAL HEALTH RIGHTS AND ADVOCACY  </td>
 
   <tr>
 
-    <td> 9502.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs9502" data-uslm-ref="/us/usc/t42/s9502">9502.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -189,7 +201,7 @@ SUBCHAPTER V—SEX OFFENSE PREVENTION AND CONTROL  </td>
 
   <tr>
 
-    <td> 9511.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs9511" data-uslm-ref="/us/usc/t42/s9511">9511.</a>  </td>
 
     <td> Grants for sex offense prevention and control.  </td>
 
@@ -197,7 +209,7 @@ SUBCHAPTER V—SEX OFFENSE PREVENTION AND CONTROL  </td>
 
   <tr>
 
-    <td> 9512.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs9512" data-uslm-ref="/us/usc/t42/s9512">9512.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -213,7 +225,7 @@ SUBCHAPTER VI—MISCELLANEOUS  </td>
 
   <tr>
 
-    <td> 9521.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs9521" data-uslm-ref="/us/usc/t42/s9521">9521.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -221,7 +233,7 @@ SUBCHAPTER VI—MISCELLANEOUS  </td>
 
   <tr>
 
-    <td> 9522.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs9522" data-uslm-ref="/us/usc/t42/s9522">9522.</a>  </td>
 
     <td> Report on shelter and basic living needs of chronically mentally ill individuals.  </td>
 
@@ -229,7 +241,7 @@ SUBCHAPTER VI—MISCELLANEOUS  </td>
 
   <tr>
 
-    <td> 9523.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs9523" data-uslm-ref="/us/usc/t42/s9523">9523.</a>  </td>
 
     <td> Repealed.  </td>
 

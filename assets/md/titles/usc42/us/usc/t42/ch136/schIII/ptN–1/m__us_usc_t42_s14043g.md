@@ -221,10 +221,6 @@
 
 ([Pub. L. 103–322, title IV, § 41601][/us/pl/103/322/s41601], as added [Pub. L. 109–271, § 3(b)][/us/pl/109/271/s3/b], Aug. 12, 2006, [120 Stat. 754][/us/stat/120/754]; amended [Pub. L. 113–4, title II, § 201][/us/pl/113/4/s201], Mar. 7, 2013, [127 Stat. 80][/us/stat/127/80].)
 
- __Amendment of Section__ 
-
-For effective date of amendment by [Pub. L. 113–4][/us/pl/113/4], see Effective Date of 2013 Amendment note below.
-
  __Amendments__ 
 
     2013—Subsec. (b)(1). [Pub. L. 113–4, § 201(a)(1)][/us/pl/113/4/s201/a/1], substituted “other nongovernmental or tribal programs and projects to assist individuals who have been victimized by sexual assault, without regard to the age of the individual.” for “other programs and projects to assist those victimized by sexual assault.”
@@ -255,7 +251,6 @@ For effective date of amendment by [Pub. L. 113–4][/us/pl/113/4], see Effectiv
 [/us/stat/120/754]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F754
 [/us/pl/113/4/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs201
 [/us/stat/127/80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F80
-[/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
 [/us/pl/113/4/s201/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs201%2Fa%2F1
 [/us/pl/113/4/s201/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs201%2Fa%2F2%2FA
 [/us/pl/113/4/s201/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs201%2Fa%2F2%2FB

@@ -183,11 +183,11 @@
 
 >     “(1) __In general.—__ 
 
->     Not later than 1 year after the date of enactment of this Act \[Feb. 4, 2009\], the Secretary \[of Health and Human Services\] shall specify a standardized format for States to use for reporting the information required under section 2108(e) of the Social Security Act \[subsec. (e) of this section\], as added by subsection (a)(2).
+>     Not later than 1 year after the date of enactment of this Act \[Feb. 4, 2009\], the Secretary \[of Health and Human Services\] shall specify a standardized format for States to use for reporting the information required under section 2108(e) of the Social Security Act \[[42 U.S.C. 1397hh(e)][/us/usc/t42/s1397hh/e]\], as added by subsection (a)(2).
 
 >     “(2) __Transition period for states.—__ 
 
->     Each State that is required to submit a report under subsection (a) of section 2108 of the Social Security Act \[subsec. (a) of this section\] that includes the information required under subsection (e) of such section may use up to 3 reporting periods to transition to the reporting of such information in accordance with the standardized format specified by the Secretary under paragraph (1).”
+>     Each State that is required to submit a report under subsection (a) of section 2108 of the Social Security Act \[[42 U.S.C. 1397hh(a)][/us/usc/t42/s1397hh/a]\] that includes the information required under subsection (e) of such section may use up to 3 reporting periods to transition to the reporting of such information in accordance with the standardized format specified by the Secretary under paragraph (1).”
 
 ----------
 
@@ -228,5 +228,7 @@
 [/us/usc/t42/s1396a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396a
 [/us/pl/111/3/s402/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F3%2Fs402%2Fb
 [/us/stat/123/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F83
+[/us/usc/t42/s1397hh/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1397hh%2Fe
+[/us/usc/t42/s1397hh/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1397hh%2Fa
 
 

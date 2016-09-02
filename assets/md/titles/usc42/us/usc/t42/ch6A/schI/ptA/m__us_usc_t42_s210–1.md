@@ -69,7 +69,7 @@ Subsection (d) of this section was repealed by [Pub. L. 87–649, § 14b][/us/
 
 [Act Aug. 9, 1950, ch. 654, § 5][/us/act/1950-08-09/ch654/s5], [64 Stat. 427][/us/stat/64/427], provided that: 
 
-> “Except insofar as the provisions of this Act \[enacting this section, amending [section 210 of this title][/us/usc/t42/s210], and enacting provisions set out as notes under this section and [section 210 of this title][/us/usc/t42/s210]\] are inconsistent therewith, leave regulations adopted prior to the enactment of this Act \[Aug. 9, 1950\], pursuant to the Public Health Service Act \[this chapter\], shall remain in effect until repealed, amended, or superseded.”
+> “Except insofar as the provisions of this Act \[enacting this section, amending [section 210 of this title][/us/usc/t42/s210], and enacting provisions set out as notes under this section and [section 210 of this title][/us/usc/t42/s210]\] are inconsistent therewith, leave regulations adopted prior to the enactment of this Act \[Aug. 9, 1950\], pursuant to the Public Health Service Act \[[42 U.S.C. 201][/us/usc/t42/s201] et seq.\], shall remain in effect until repealed, amended, or superseded.”
 
 ----------
 
@@ -110,5 +110,6 @@ Subsection (d) of this section was repealed by [Pub. L. 87–649, § 14b][/us/
 [/us/stat/64/427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F427
 [/us/usc/t42/s210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs210
 [/us/usc/t42/s210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs210
+[/us/usc/t42/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs201
 
 

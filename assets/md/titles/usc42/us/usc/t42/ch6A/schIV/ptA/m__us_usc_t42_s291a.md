@@ -65,7 +65,7 @@ In order to assist the States in carrying out the purposes of [section 291 of th
 
 [Pub. L. 91–296, title I, § 101(b)][/us/pl/91/296/s101/b], June 30, 1970, [84 Stat. 337][/us/stat/84/337], provided that: 
 
-> “The amendments made by subsection (a) \[amending this section\] shall take effect with respect to appropriations made under such section 601 \[this section\] for fiscal years beginning after June 30, 1970.”
+> “The amendments made by subsection (a) \[amending this section\] shall take effect with respect to appropriations made under such section 601 \[[42 U.S.C. 291a][/us/usc/t42/s291a]\] for fiscal years beginning after June 30, 1970.”
 
     [Pub. L. 91–296, title I, § 102(a)][/us/pl/91/296/s102/a], June 30, 1970, [84 Stat. 337][/us/stat/84/337], provided that the amendment made by that section is effective with respect to appropriations made under this section for fiscal years beginning after June 30, 1970.
 
@@ -126,6 +126,7 @@ In order to assist the States in carrying out the purposes of [section 291 of th
 [/us/pl/90/574/s402/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F574%2Fs402%2Fa%2F2
 [/us/pl/91/296/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F296%2Fs101%2Fb
 [/us/stat/84/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F337
+[/us/usc/t42/s291a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs291a
 [/us/pl/91/296/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F296%2Fs102%2Fa
 [/us/stat/84/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F337
 

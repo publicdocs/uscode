@@ -183,7 +183,7 @@
 
 [Pub. L. 107–188, title I, § 144(b)][/us/pl/107/188/s144/b], June 12, 2002, [116 Stat. 630][/us/stat/116/630], provided that: 
 
-> “The amendment made by subsection (a) \[amending this section\] applies to any public health emergency under section 319(a) of the Public Health Service Act \[subsec. (a) of this section\], including any such emergency that was in effect as of the day before the date of the enactment of this Act \[June 12, 2002\]. In the case of such an emergency that was in effect as of such day, the 90-day period described in such section with respect to the termination of the emergency is deemed to begin on such date of enactment.”
+> “The amendment made by subsection (a) \[amending this section\] applies to any public health emergency under section 319(a) of the Public Health Service Act \[[42 U.S.C. 247d(a)][/us/usc/t42/s247d/a]\], including any such emergency that was in effect as of the day before the date of the enactment of this Act \[June 12, 2002\]. In the case of such an emergency that was in effect as of such day, the 90-day period described in such section with respect to the termination of the emergency is deemed to begin on such date of enactment.”
 
 ----------
 
@@ -226,5 +226,6 @@
 [/us/pl/107/188/s141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2Fs141
 [/us/pl/107/188/s144/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2Fs144%2Fb
 [/us/stat/116/630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F630
+[/us/usc/t42/s247d/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs247d%2Fa
 
 

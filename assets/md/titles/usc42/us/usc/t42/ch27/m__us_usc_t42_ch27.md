@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 2491 to 2494.   </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2491" data-uslm-ref="/us/usc/t42/s2491">2491</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2494" data-uslm-ref="/us/usc/t42/s2494">2494.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 2495.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2495" data-uslm-ref="/us/usc/t42/s2495">2495.</a>  </td>
 
     <td> National Advisory Committee on Education of the Deaf.  </td>
 

@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 8001.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs8001" data-uslm-ref="/us/usc/t42/s8001">8001.</a>  </td>
 
     <td> Congressional findings.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 8002.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs8002" data-uslm-ref="/us/usc/t42/s8002">8002.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 8003.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs8003" data-uslm-ref="/us/usc/t42/s8003">8003.</a>  </td>
 
     <td> Contracts to provide congregate services programs.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 8004.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs8004" data-uslm-ref="/us/usc/t42/s8004">8004.</a>  </td>
 
     <td> Congregate services program.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 8005.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs8005" data-uslm-ref="/us/usc/t42/s8005">8005.</a>  </td>
 
     <td> Eligibility for services.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 8006.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs8006" data-uslm-ref="/us/usc/t42/s8006">8006.</a>  </td>
 
     <td> Application procedure for assistance.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 8007.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs8007" data-uslm-ref="/us/usc/t42/s8007">8007.</a>  </td>
 
     <td> Evaluation of applications and programs.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 8008.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs8008" data-uslm-ref="/us/usc/t42/s8008">8008.</a>  </td>
 
     <td> Funding procedures.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 8009.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs8009" data-uslm-ref="/us/usc/t42/s8009">8009.</a>  </td>
 
     <td> Miscellaneous provisions.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 8010.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs8010" data-uslm-ref="/us/usc/t42/s8010">8010.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 8011.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs8011" data-uslm-ref="/us/usc/t42/s8011">8011.</a>  </td>
 
     <td> Revised congregate housing services program.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 8012.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs8012" data-uslm-ref="/us/usc/t42/s8012">8012.</a>  </td>
 
     <td> Hope for elderly independence.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 8013.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs8013" data-uslm-ref="/us/usc/t42/s8013">8013.</a>  </td>
 
     <td> Supportive housing for persons with disabilities.  </td>
 

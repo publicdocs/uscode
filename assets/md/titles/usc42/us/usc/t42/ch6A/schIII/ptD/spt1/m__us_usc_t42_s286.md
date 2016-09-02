@@ -119,7 +119,7 @@
 
 [Pub. L. 103–43, title XIV, § 1401(c)(2)][/us/pl/103/43/s1401/c/2], June 10, 1993, [107 Stat. 170][/us/stat/107/170], provided that: 
 
-> “With respect to the authority established for the National Library of Medicine in section 465(b)(6) of the Public Health Service Act, as added by subsection (a) of this section \[subsec. (b)(6) of this section\], such authority shall be effective as if the authority had been established on December 22, 1987.”
+> “With respect to the authority established for the National Library of Medicine in section 465(b)(6) of the Public Health Service Act, as added by subsection (a) of this section \[[42 U.S.C. 286(b)(6)][/us/usc/t42/s286/b/6]\], such authority shall be effective as if the authority had been established on December 22, 1987.”
 
 ----------
 
@@ -171,5 +171,6 @@
 [/us/usc/t42/s300aa–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300aa%E2%80%931
 [/us/pl/103/43/s1401/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs1401%2Fc%2F2
 [/us/stat/107/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F170
+[/us/usc/t42/s286/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs286%2Fb%2F6
 
 

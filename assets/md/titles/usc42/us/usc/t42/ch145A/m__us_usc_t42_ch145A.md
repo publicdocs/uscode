@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 15231.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs15231" data-uslm-ref="/us/usc/t42/s15231">15231.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -41,7 +41,7 @@ SUBCHAPTER I—FEDERAL LAW ENFORCEMENT CONGRESSIONAL BADGE OF BRAVERY  </td>
 
   <tr>
 
-    <td> 15241.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs15241" data-uslm-ref="/us/usc/t42/s15241">15241.</a>  </td>
 
     <td> Authorization of a Badge.  </td>
 
@@ -49,7 +49,7 @@ SUBCHAPTER I—FEDERAL LAW ENFORCEMENT CONGRESSIONAL BADGE OF BRAVERY  </td>
 
   <tr>
 
-    <td> 15242.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs15242" data-uslm-ref="/us/usc/t42/s15242">15242.</a>  </td>
 
     <td> Nominations.  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER I—FEDERAL LAW ENFORCEMENT CONGRESSIONAL BADGE OF BRAVERY  </td>
 
   <tr>
 
-    <td> 15243.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs15243" data-uslm-ref="/us/usc/t42/s15243">15243.</a>  </td>
 
     <td> Federal Law Enforcement Congressional Badge of Bravery Board.  </td>
 
@@ -65,7 +65,7 @@ SUBCHAPTER I—FEDERAL LAW ENFORCEMENT CONGRESSIONAL BADGE OF BRAVERY  </td>
 
   <tr>
 
-    <td> 15244.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs15244" data-uslm-ref="/us/usc/t42/s15244">15244.</a>  </td>
 
     <td> Presentation of Federal Law Enforcement Badges.  </td>
 
@@ -81,7 +81,7 @@ SUBCHAPTER II—STATE AND LOCAL LAW ENFORCEMENT CONGRESSIONAL BADGE OF BRAVERY  
 
   <tr>
 
-    <td> 15251.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs15251" data-uslm-ref="/us/usc/t42/s15251">15251.</a>  </td>
 
     <td> Authorization of a Badge.  </td>
 
@@ -89,7 +89,7 @@ SUBCHAPTER II—STATE AND LOCAL LAW ENFORCEMENT CONGRESSIONAL BADGE OF BRAVERY  
 
   <tr>
 
-    <td> 15252.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs15252" data-uslm-ref="/us/usc/t42/s15252">15252.</a>  </td>
 
     <td> Nominations.  </td>
 
@@ -97,7 +97,7 @@ SUBCHAPTER II—STATE AND LOCAL LAW ENFORCEMENT CONGRESSIONAL BADGE OF BRAVERY  
 
   <tr>
 
-    <td> 15253.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs15253" data-uslm-ref="/us/usc/t42/s15253">15253.</a>  </td>
 
     <td> State and Local Law Enforcement Congressional Badge of Bravery Board.  </td>
 
@@ -105,7 +105,7 @@ SUBCHAPTER II—STATE AND LOCAL LAW ENFORCEMENT CONGRESSIONAL BADGE OF BRAVERY  
 
   <tr>
 
-    <td> 15254.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs15254" data-uslm-ref="/us/usc/t42/s15254">15254.</a>  </td>
 
     <td> Presentation of State and Local Law Enforcement Badges.  </td>
 
@@ -121,7 +121,7 @@ SUBCHAPTER III—CONGRESSIONAL BADGE OF BRAVERY OFFICE  </td>
 
   <tr>
 
-    <td> 15261.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs15261" data-uslm-ref="/us/usc/t42/s15261">15261.</a>  </td>
 
     <td> Congressional Badge of Bravery Office.  </td>
 

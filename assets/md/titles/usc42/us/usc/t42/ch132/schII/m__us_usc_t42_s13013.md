@@ -69,10 +69,6 @@
 
 ([Pub. L. 101–647, title II, § 217][/us/pl/101/647/s217], Nov. 29, 1990, [104 Stat. 4794][/us/stat/104/4794]; [Pub. L. 107–273, div. C, title II, § 12221(b)(1)(C)][/us/pl/107/273/s12221/b/1/C], Nov. 2, 2002, [116 Stat. 1894][/us/stat/116/1894]; [Pub. L. 109–162, title I, § 112(c)][/us/pl/109/162/s112/c], Jan. 5, 2006, [119 Stat. 2986][/us/stat/119/2986]; [Pub. L. 113–4, title I, § 106(2)][/us/pl/113/4/s106/2], Mar. 7, 2013, [127 Stat. 77][/us/stat/127/77].)
 
- __Amendment of Section__ 
-
-For effective date of amendment by [Pub. L. 113–4][/us/pl/113/4], see Effective Date of 2013 Amendment note below.
-
  __Amendments__ 
 
     2013—Subsec. (c)(2)(A). [Pub. L. 113–4, § 106(2)(A)][/us/pl/113/4/s106/2/A], substituted “Standards for Programs” for “Code of Ethics”.
@@ -112,7 +108,6 @@ For effective date of amendment by [Pub. L. 113–4][/us/pl/113/4], see Effectiv
 [/us/stat/119/2986]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2986
 [/us/pl/113/4/s106/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs106%2F2
 [/us/stat/127/77]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F77
-[/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
 [/us/pl/113/4/s106/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs106%2F2%2FA
 [/us/pl/113/4/s106/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs106%2F2%2FB
 [/us/pl/109/162/s112/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs112%2Fc%2F1

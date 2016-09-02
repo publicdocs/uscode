@@ -69,17 +69,17 @@
 
 [Pub. L. 89–97, title II, § 222(c)][/us/pl/89/97/s222/c], July 30, 1965, [79 Stat. 360][/us/stat/79/360], provided that: 
 
-> “The amendments made by this section \[amending this section and [section 1385 of this title][/us/usc/t42/s1385]\] shall apply in the case of expenditures under a State plan approved under title I or XVI of the Social Security Act \[subchapter I or XVI of this chapter\] with respect to care and services provided under such plan after June 1965.”
+> “The amendments made by this section \[amending this section and [section 1385 of this title][/us/usc/t42/s1385]\] shall apply in the case of expenditures under a State plan approved under title I or XVI of the Social Security Act \[[42 U.S.C. 301][/us/usc/t42/s301] et seq., 1381 et seq.\] with respect to care and services provided under such plan after June 1965.”
 
 [Pub. L. 89–97, title IV, § 402(e)][/us/pl/89/97/s402/e], July 30, 1965, [79 Stat. 418][/us/stat/79/418], provided that: 
 
-> “The amendments made by this section \[amending this section and sections 1206, 1355, and 1385 of this title\] shall apply in the case of expenditures made after December 31, 1965, under a State plan approved under title I, X, XIV or XVI of the Social Security Act \[subchapter I, X, XIV, or XVI of this chapter\].”
+> “The amendments made by this section \[amending this section and sections 1206, 1355, and 1385 of this title\] shall apply in the case of expenditures made after December 31, 1965, under a State plan approved under title I, X, XIV or XVI of the Social Security Act \[[42 U.S.C. 301][/us/usc/t42/s301] et seq., 1201 et seq., 1351 et seq., 1381 et seq.\].”
 
  __Effective Date of 1962 Amendment__ 
 
 [Pub. L. 87–543, title I, § 156(e)][/us/pl/87/543/s156/e], July 25, 1962, [76 Stat. 207][/us/stat/76/207], provided that: 
 
-> “The amendments made by this section \[amending this section and sections 606, 1206, and 1355 of this title\] shall apply in the case of applications made after September 30, 1962, under a State plan approved under title I, IV, X, or XIV of the Social Security Act \[subchapter I, IV, X, or XIV of this chapter\].”
+> “The amendments made by this section \[amending this section and sections 606, 1206, and 1355 of this title\] shall apply in the case of applications made after September 30, 1962, under a State plan approved under title I, IV, X, or XIV of the Social Security Act \[[42 U.S.C. 301][/us/usc/t42/s301] et seq., 601 et seq., 1201 et seq., 1351 et seq.\].”
 
  __Effective Date of 1960 Amendment__ 
 
@@ -135,10 +135,13 @@
 [/us/pl/89/97/s222/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97%2Fs222%2Fc
 [/us/stat/79/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F360
 [/us/usc/t42/s1385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1385
+[/us/usc/t42/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs301
 [/us/pl/89/97/s402/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97%2Fs402%2Fe
 [/us/stat/79/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F418
+[/us/usc/t42/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs301
 [/us/pl/87/543/s156/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F543%2Fs156%2Fe
 [/us/stat/76/207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F207
+[/us/usc/t42/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs301
 [/us/pl/86/778]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F778
 [/us/pl/86/778/s604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F778%2Fs604
 [/us/usc/t42/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs301

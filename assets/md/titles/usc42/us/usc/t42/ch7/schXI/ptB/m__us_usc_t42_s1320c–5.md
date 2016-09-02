@@ -127,7 +127,7 @@
 
 [Pub. L. 100–203, title IV, § 4095(b)][/us/pl/100/203/s4095/b], Dec. 22, 1987, [101 Stat. 1330–138][/us/stat/101/1330-138], provided that: 
 
-> “The amendment made by subsection (a) \[amending this section\] shall apply to determinations made by the Secretary of Health and Human Services under section 1156(b) of the Social Security Act \[subsec. (b) of this section\] on or after the date of the enactment of this Act \[Dec. 22, 1987\].”
+> “The amendment made by subsection (a) \[amending this section\] shall apply to determinations made by the Secretary of Health and Human Services under section 1156(b) of the Social Security Act \[[42 U.S.C. 1320c–5(b)][/us/usc/t42/s1320c–5/b]\] on or after the date of the enactment of this Act \[Dec. 22, 1987\].”
 
     Amendment by [Pub. L. 100–93][/us/pl/100/93] effective at end of fourteen-day period beginning Aug. 18, 1987, and inapplicable to administrative proceedings commenced before end of such period, see [section 15(a) of Pub. L. 100–93][/us/pl/100/93/s15/a], set out as a note under [section 1320a–7 of this title][/us/usc/t42/s1320a–7].
 
@@ -135,7 +135,7 @@
 
 [Pub. L. 100–203, title IV, § 4094(e)][/us/pl/100/203/s4094/e], Dec. 22, 1987, [101 Stat. 1330–138][/us/stat/101/1330-138], as amended by [Pub. L. 100–360, title IV, § 411(j)(3)(C)][/us/pl/100/360/s411/j/3/C], as added by [Pub. L. 100–485, title VI, § 608(d)(25)(A)][/us/pl/100/485/s608/d/25/A], Oct. 13, 1988, [102 Stat. 2421][/us/stat/102/2421], provided that: 
 
-> “The Secretary of Health and Human Services shall enter into agreements with entities submitting applications under this subsection (in such form as the Secretary may provide) to establish demonstration projects to examine the feasibility of requiring instruction and oversight of rural physicians, in lieu of imposing sanctions, through use of video communication between rural hospitals and teaching hospitals under this title \[probably means title XI of the Social Security Act which is classified to this subchapter\]. Under such demonstration projects, the Secretary may provide for payments to physicians consulted via video communication systems. No funds may be expended under the demonstration projects for the acquisition of capital items including computer hardware.”
+> “The Secretary of Health and Human Services shall enter into agreements with entities submitting applications under this subsection (in such form as the Secretary may provide) to establish demonstration projects to examine the feasibility of requiring instruction and oversight of rural physicians, in lieu of imposing sanctions, through use of video communication between rural hospitals and teaching hospitals under this title \[probably means title XI of the Social Security Act, [42 U.S.C. 1301][/us/usc/t42/s1301] et seq.\]. Under such demonstration projects, the Secretary may provide for payments to physicians consulted via video communication systems. No funds may be expended under the demonstration projects for the acquisition of capital items including computer hardware.”
 
  __Preexclusion Hearings; Transition for Current Cases and Redetermination in Certain Cases__ 
 
@@ -145,7 +145,7 @@
 
 >     In the case of a practitioner or person—
 
->         “(1) for whom a notice of determination under section 1156(b) of the Social Security Act \[subsec. (b) of this section\] has been provided within 365 days before the date of the enactment of this Act \[Dec. 22, 1987\],
+>         “(1) for whom a notice of determination under section 1156(b) of the Social Security Act \[[42 U.S.C. 1320c–5(b)][/us/usc/t42/s1320c–5/b]\] has been provided within 365 days before the date of the enactment of this Act \[Dec. 22, 1987\],
 
 >         “(2) who has not exhausted the administrative remedies available under section 1156(b)(4) of such Act for review of the determination, and
 
@@ -155,7 +155,7 @@
 
 >     “(d) __Redeterminations in Certain Cases.—__ 
 
->     If, in hearing under subsection (c), the judge does not determine, by a preponderance of the evidence, that the provider or practitioner will pose a serious risk to individuals entitled to benefits under title XVIII of the Social Security Act \[subchapter XVIII of this chapter\] if permitted to continue or resume furnishing such services, the Secretary shall not effect the exclusion (or shall suspend the exclusion, if previously effected) under paragraph (2) of section 1156(b) of such Act \[subsec. (b) of this section\] until the provider or practitioner has been provided an administrative hearing thereon under paragraph (4) of such section, notwithstanding any failure by the provider or practitioner to request the hearing on a timely basis.”
+>     If, in hearing under subsection (c), the judge does not determine, by a preponderance of the evidence, that the provider or practitioner will pose a serious risk to individuals entitled to benefits under title XVIII of the Social Security Act \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\] if permitted to continue or resume furnishing such services, the Secretary shall not effect the exclusion (or shall suspend the exclusion, if previously effected) under paragraph (2) of section 1156(b) of such Act \[[42 U.S.C. 1320c–5(b)(2)][/us/usc/t42/s1320c–5/b/2]\] until the provider or practitioner has been provided an administrative hearing thereon under paragraph (4) of such section, notwithstanding any failure by the provider or practitioner to request the hearing on a timely basis.”
 
 ----------
 
@@ -241,6 +241,7 @@
 [/us/usc/t1/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft1%2Fs106
 [/us/pl/100/203/s4095/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs4095%2Fb
 [/us/stat/101/1330-138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-138
+[/us/usc/t42/s1320c–5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320c%E2%80%935%2Fb
 [/us/pl/100/93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F93
 [/us/pl/100/93/s15/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F93%2Fs15%2Fa
 [/us/usc/t42/s1320a–7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320a%E2%80%937
@@ -249,7 +250,11 @@
 [/us/pl/100/360/s411/j/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360%2Fs411%2Fj%2F3%2FC
 [/us/pl/100/485/s608/d/25/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F485%2Fs608%2Fd%2F25%2FA
 [/us/stat/102/2421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2421
+[/us/usc/t42/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1301
 [/us/pl/100/203/s4095/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs4095%2Fc
 [/us/stat/101/1330-138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-138
+[/us/usc/t42/s1320c–5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320c%E2%80%935%2Fb
+[/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
+[/us/usc/t42/s1320c–5/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320c%E2%80%935%2Fb%2F2
 
 

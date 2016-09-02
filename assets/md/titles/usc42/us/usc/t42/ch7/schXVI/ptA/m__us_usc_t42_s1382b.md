@@ -447,7 +447,7 @@ For repeal of amendment by [section 3(e) of Pub. L. 111–255][/us/pl/111/255/s3
 
 [Pub. L. 96–611, § 5(c)][/us/pl/96/611/s5/c], Dec. 28, 1980, [94 Stat. 3568][/us/stat/94/3568], provided that: 
 
-> “The amendment made by subsection (a) \[amending this section\] shall be effective with respect to applications for benefits under title XVI of the Social Security Act \[this subchapter\] filed on or after the first day of the first month which begins at least 60 days after the date of enactment of this Act \[Dec. 28, 1980\].”
+> “The amendment made by subsection (a) \[amending this section\] shall be effective with respect to applications for benefits under title XVI of the Social Security Act \[[42 U.S.C. 1381][/us/usc/t42/s1381] et seq.\] filed on or after the first day of the first month which begins at least 60 days after the date of enactment of this Act \[Dec. 28, 1980\].”
 
  __Effective Date of 1977 Amendment__ 
 
@@ -661,6 +661,7 @@ For repeal of amendment by [section 3(e) of Pub. L. 111–255][/us/pl/111/255/s3
 [/us/stat/96/407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F407
 [/us/pl/96/611/s5/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F611%2Fs5%2Fc
 [/us/stat/94/3568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3568
+[/us/usc/t42/s1381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1381
 [/us/pl/95/171/s9/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F171%2Fs9%2Fb
 [/us/stat/91/1356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1356
 [/us/pl/92/603/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603%2Fs301

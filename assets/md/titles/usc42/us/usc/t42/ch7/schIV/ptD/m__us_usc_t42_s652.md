@@ -561,7 +561,7 @@
 
 [Pub. L. 104–208, div. A, title I, § 101(e)][/us/pl/104/208/s101/e] \[title II, § 215\], Sept. 30, 1996, [110 Stat. 3009–233][/us/stat/110/3009-233], 3009–255, as amended by [Pub. L. 105–33, title V, § 5556(c)][/us/pl/105/33/s5556/c], Aug. 5, 1997, [111 Stat. 637][/us/stat/111/637], provided in part that: 
 
-> “Amounts available under such sections 452(j) \[subsec. (j) of this section\] and 453(o) \[section 653(o) of this title\] shall be calculated as though the amendments made by this section were effective October 1, 1995.”
+> “Amounts available under such sections 452(j) \[[42 U.S.C. 652(j)][/us/usc/t42/s652/j]\] and 453(o) \[[42 U.S.C. 653][/us/usc/t42/s653](o)\] shall be calculated as though the amendments made by this section were effective October 1, 1995.”
 
     Amendment by section 108(c)(2)–(9) of [Pub. L. 104–193][/us/pl/104/193] effective July 1, 1997, with transition rules relating to State options to accelerate such date, rules relating to claims, actions, and proceedings commenced before such date, rules relating to closing out of accounts for terminated or substantially modified programs and continuance in office of Assistant Secretary for Family Support, and provisions relating to termination of entitlement under AFDC program, see [section 116 of Pub. L. 104–193][/us/pl/104/193/s116], as amended, set out as an Effective Date note under [section 601 of this title][/us/usc/t42/s601].
 
@@ -645,7 +645,7 @@
 
 [Pub. L. 96–265, title IV, § 405(e)][/us/pl/96/265/s405/e], June 9, 1980, [94 Stat. 465][/us/stat/94/465], provided that: 
 
-> “The amendments made by this section \[amending this section and sections 654 and 655 of this title\] shall take effect on July 1, 1981, and shall be effective only with respect to expenditures, referred to in section 455(a)(3) of the Social Security Act \[[section 655(a)(3) of this title][/us/usc/t42/s655/a/3]\] (as amended by this Act), made on or after such date.”
+> “The amendments made by this section \[amending this section and sections 654 and 655 of this title\] shall take effect on July 1, 1981, and shall be effective only with respect to expenditures, referred to in section 455(a)(3) of the Social Security Act \[[42 U.S.C. 655(a)(3)][/us/usc/t42/s655/a/3]\] (as amended by this Act), made on or after such date.”
 
  __Effective Date of 1977 Amendment__ 
 
@@ -663,19 +663,19 @@
 
 [Pub. L. 100–485, title I, § 111(f)(3)][/us/pl/100/485/s111/f/3], Oct. 13, 1988, [102 Stat. 2350][/us/stat/102/2350], provided that: 
 
-> “The Secretary of Health and Human Services shall collect the data necessary to implement the requirements of section 452(g) of the Social Security Act \[subsec. (g) of this section\] (as added by subsection (a) of this section) and may, in carrying out the requirement of determining a State’s paternity establishment percentage for the fiscal year 1988, compute such percentage on the basis of data collected with respect to the last quarter of such fiscal year (or, if such data are not available, the first quarter of the fiscal year 1989) if the Secretary determines that data for the full year are not available.”
+> “The Secretary of Health and Human Services shall collect the data necessary to implement the requirements of section 452(g) of the Social Security Act \[[42 U.S.C. 652(g)][/us/usc/t42/s652/g]\] (as added by subsection (a) of this section) and may, in carrying out the requirement of determining a State’s paternity establishment percentage for the fiscal year 1988, compute such percentage on the basis of data collected with respect to the last quarter of such fiscal year (or, if such data are not available, the first quarter of the fiscal year 1989) if the Secretary determines that data for the full year are not available.”
 
  __Requests for Child Support Assistance; Advisory Committee; Promulgation of Regulations__ 
 
 [Pub. L. 100–485, title I, § 121(b)][/us/pl/100/485/s121/b], Oct. 13, 1988, [102 Stat. 2351][/us/stat/102/2351], provided that:
 
->     “(1) Not later than 60 days after the date of the enactment of this Act \[Oct. 13, 1988\], the Secretary of Health and Human Services shall establish an advisory committee. The committee shall include representatives of organizations representing State governors, State welfare administrators, and State directors of programs under part D of title IV of the Social Security Act \[this part\]. The Secretary shall consult with the advisory committee before issuing any regulations with respect to the standards required by the amendment made by subsection (a) \[amending this section\] (including regulations regarding what constitutes an adequate response on the part of a State to the request of an individual, State, or jurisdiction).
+>     “(1) Not later than 60 days after the date of the enactment of this Act \[Oct. 13, 1988\], the Secretary of Health and Human Services shall establish an advisory committee. The committee shall include representatives of organizations representing State governors, State welfare administrators, and State directors of programs under part D of title IV of the Social Security Act \[[42 U.S.C. 651][/us/usc/t42/s651] et seq.\]. The Secretary shall consult with the advisory committee before issuing any regulations with respect to the standards required by the amendment made by subsection (a) \[amending this section\] (including regulations regarding what constitutes an adequate response on the part of a State to the request of an individual, State, or jurisdiction).
 
 >     “(2) Not later than 180 days after the date of the enactment of this Act, the Secretary of Health and Human Services shall issue a notice of proposed rulemaking with respect to the standards required by the amendment made by subsection (a), and, after allowing not less than 60 days for public comment, shall issue final regulations not later than the first day of the 10th month beginning after such date of enactment.”
 
  __Supplemental Report To Be Submitted to Congress Not Later Than__  __June 30, 1977__ 
 
-    [Pub. L. 95–30, title V, § 504(c)][/us/pl/95/30/s504/c], May 23, 1977, [91 Stat. 164][/us/stat/91/164], directed Secretary of Health, Education, and Welfare to submit to Congress, not later than June 30, 1977, a special supplementary report with respect to activities undertaken pursuant to this part.
+    [Pub. L. 95–30, title V, § 504(c)][/us/pl/95/30/s504/c], May 23, 1977, [91 Stat. 164][/us/stat/91/164], directed the Secretary of Health, Education, and Welfare to submit to Congress, not later than June 30, 1977, a special supplementary report with respect to activities undertaken pursuant to part D of title IV of the Social Security Act \[[42 U.S.C. 651][/us/usc/t42/s651] et seq.\].
 
 ----------
 
@@ -927,6 +927,8 @@
 [/us/stat/110/3009-233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-233
 [/us/pl/105/33/s5556/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs5556%2Fc
 [/us/stat/111/637]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F637
+[/us/usc/t42/s652/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs652%2Fj
+[/us/usc/t42/s653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs653
 [/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
 [/us/pl/104/193/s116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs116
 [/us/usc/t42/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs601
@@ -985,9 +987,12 @@
 [/us/stat/102/2351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2351
 [/us/pl/100/485/s111/f/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F485%2Fs111%2Ff%2F3
 [/us/stat/102/2350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2350
+[/us/usc/t42/s652/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs652%2Fg
 [/us/pl/100/485/s121/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F485%2Fs121%2Fb
 [/us/stat/102/2351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2351
+[/us/usc/t42/s651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs651
 [/us/pl/95/30/s504/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F30%2Fs504%2Fc
 [/us/stat/91/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F164
+[/us/usc/t42/s651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs651
 
 

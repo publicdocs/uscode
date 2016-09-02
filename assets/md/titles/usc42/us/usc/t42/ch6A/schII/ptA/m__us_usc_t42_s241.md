@@ -221,7 +221,7 @@
 
 [Pub. L. 99–117, § 10][/us/pl/99/117/s10], Oct. 7, 1985, [99 Stat. 494][/us/stat/99/494], provided that: 
 
-> “In any fiscal year beginning after September 30, 1981, from funds appropriated for carrying out section 301 of the Public Health Service Act \[this section\] with respect to mental health, the Secretary of Health and Human Services may provide, by contract or otherwise, for the continuing care of psychiatric patients who were under active and continuous treatment at the National Institute on Drug Abuse Clinical Research Center on the date such Clinical Research Center ceased operations.”
+> “In any fiscal year beginning after September 30, 1981, from funds appropriated for carrying out section 301 of the Public Health Service Act \[[42 U.S.C. 241][/us/usc/t42/s241]\] with respect to mental health, the Secretary of Health and Human Services may provide, by contract or otherwise, for the continuing care of psychiatric patients who were under active and continuous treatment at the National Institute on Drug Abuse Clinical Research Center on the date such Clinical Research Center ceased operations.”
 
  __Analysis of Thyroid Cancer; Creation and Publication of Radioepidemiological Tables__ 
 
@@ -229,7 +229,7 @@
 
 >     “(a)
 
->      In carrying out section 301 of the Public Health Service Act \[this section\], the Secretary of Health and Human Services shall—
+>      In carrying out section 301 of the Public Health Service Act \[[42 U.S.C. 241][/us/usc/t42/s241]\], the Secretary of Health and Human Services shall—
 
 >         “(1) conduct scientific research and prepare analyses necessary to develop valid and credible assessments of the risks of thyroid cancer that are associated with thyroid doses of Iodine 131;
 
@@ -447,10 +447,12 @@
 [/us/stat/102/3147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3147
 [/us/pl/99/117/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F117%2Fs10
 [/us/stat/99/494]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F494
+[/us/usc/t42/s241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs241
 [/us/pl/97/414/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F414%2Fs7
 [/us/stat/96/2059]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2059
 [/us/pl/109/482/s104/b/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2Fs104%2Fb%2F3%2FA
 [/us/stat/120/3694]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3694
+[/us/usc/t42/s241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs241
 [/us/pl/93/641/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F641%2Fs6
 [/us/stat/88/2275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2275
 [/us/usc/t42/s217a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs217a

@@ -501,7 +501,7 @@
 
 [Pub. L. 106–170, title IV, § 402(c)(4)][/us/pl/106/170/s402/c/4], Dec. 17, 1999, [113 Stat. 1909][/us/stat/113/1909], provided that: 
 
-> “The amendments made by this subsection \[amending this section\] shall take effect as if included in the enactment of section 203(a) of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 ([Public Law 104–193][/us/pl/104/193]; [110 Stat. 2186][/us/stat/110/2186]). The reference to section 202(x)(1)(A)(ii) of the Social Security Act \[[section 402(x)(1)(A)(ii) of this title][/us/usc/t42/s402/x/1/A/ii]\] in section 1611(e)(1)(I)(i) of the Social Security Act \[subsec. (e)(1)(I)(i) of this section\], as amended by paragraph (2) of this subsection, shall be deemed a reference to such section 202(x)(1)(A)(ii) of such Act as amended by subsection (b)(1)(C) of this section.”
+> “The amendments made by this subsection \[amending this section\] shall take effect as if included in the enactment of section 203(a) of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 ([Public Law 104–193][/us/pl/104/193]; [110 Stat. 2186][/us/stat/110/2186]). The reference to section 202(x)(1)(A)(ii) of the Social Security Act \[[42 U.S.C. 402(x)(1)(A)(ii)][/us/usc/t42/s402/x/1/A/ii]\] in section 1611(e)(1)(I)(i) of the Social Security Act \[[42 U.S.C. 1382(e)(1)(I)(i)][/us/usc/t42/s1382/e/1/I/i] \], as amended by paragraph (2) of this subsection, shall be deemed a reference to such section 202(x)(1)(A)(ii) of such Act as amended by subsection (b)(1)(C) of this section.”
 
     Amendment by [section 207(c) of Pub. L. 106–169][/us/pl/106/169/s207/c] applicable to statements and representations made on or after Dec. 14, 1999, see [section 207(e) of Pub. L. 106–169][/us/pl/106/169/s207/e], set out as a note under [section 402 of this title][/us/usc/t42/s402].
 
@@ -529,11 +529,11 @@
 
 >     “(1) __In general.—__ 
 
->     The amendments made by this section \[amending this section and sections 1382c and 1383 of this title\] shall apply to applications for benefits under title XVI of the Social Security Act \[this subchapter\] filed on or after the date of the enactment of this Act \[Aug. 22, 1996\], without regard to whether regulations have been issued to implement such amendments.
+>     The amendments made by this section \[amending this section and sections 1382c and 1383 of this title\] shall apply to applications for benefits under title XVI of the Social Security Act \[[42 U.S.C. 1381][/us/usc/t42/s1381] et seq.\] filed on or after the date of the enactment of this Act \[Aug. 22, 1996\], without regard to whether regulations have been issued to implement such amendments.
 
 >     “(2) __Benefits under title xvi.—__ 
 
->     For purposes of this subsection, the term ‘benefits under title XVI of the Social Security Act’ includes supplementary payments pursuant to an agreement for Federal administration under section 1616(a) of the Social Security Act \[[section 1382e(a) of this title][/us/usc/t42/s1382e/a]\], and payments pursuant to an agreement entered into under [section 212(b) of Public Law 93–66][/us/pl/93/66/s212/b] \[set out below\].”
+>     For purposes of this subsection, the term ‘benefits under title XVI of the Social Security Act’ includes supplementary payments pursuant to an agreement for Federal administration under section 1616(a) of the Social Security Act \[[42 U.S.C. 1382e(a)][/us/usc/t42/s1382e/a]\], and payments pursuant to an agreement entered into under [section 212(b) of Public Law 93–66][/us/pl/93/66/s212/b] \[set out below\].”
 
 [Pub. L. 104–193, title II, § 214(b)][/us/pl/104/193/s214/b], Aug. 22, 1996, [110 Stat. 2196][/us/stat/110/2196], provided that: 
 
@@ -541,7 +541,7 @@
 
 [Pub. L. 104–121, title I, § 105(b)(5)][/us/pl/104/121/s105/b/5], Mar. 29, 1996, [110 Stat. 854][/us/stat/110/854], as amended by [Pub. L. 105–33, title V, § 5525(a)][/us/pl/105/33/s5525/a], (b), Aug. 5, 1997, [111 Stat. 624][/us/stat/111/624], provided that:
 
->     “(A) The amendments made by paragraphs (1) and (4) \[amending this section and sections 1382c and 1383c of this title\] shall apply to any individual who applies for, or whose claim is finally adjudicated with respect to, supplemental security income benefits under title XVI of the Social Security Act \[this subchapter\] based on disability on or after the date of the enactment of this Act \[Mar. 29, 1996\], and, in the case of any individual who has applied for, and whose claim has been finally adjudicated with respect to, such benefits before such date of enactment, such amendments shall apply only with respect to such benefits for months beginning on or after January 1, 1997.
+>     “(A) The amendments made by paragraphs (1) and (4) \[amending this section and sections 1382c and 1383c of this title\] shall apply to any individual who applies for, or whose claim is finally adjudicated with respect to, supplemental security income benefits under title XVI of the Social Security Act \[[42 U.S.C. 1381][/us/usc/t42/s1381] et seq.\] based on disability on or after the date of the enactment of this Act \[Mar. 29, 1996\], and, in the case of any individual who has applied for, and whose claim has been finally adjudicated with respect to, such benefits before such date of enactment, such amendments shall apply only with respect to such benefits for months beginning on or after January 1, 1997.
 
 >     “(B)
 
@@ -551,19 +551,19 @@
 
 >         “(ii) whose eligibility for benefits is based upon an eligibility redetermination made pursuant to subparagraph (C).
 
->     “(C) Within 90 days after the date of the enactment of this Act \[Mar. 29, 1996\], the Commissioner of Social Security shall notify each individual who is eligible for supplemental security income benefits under title XVI of the Social Security Act \[this subchapter\] for the month in which this Act is enacted and whose eligibility for such benefits would terminate by reason of the amendments made by this subsection \[enacting [section 1383e of this title][/us/usc/t42/s1383e] and amending this section and sections 1382c, 1383, and 1383c of this title\]. If such an individual reapplies for supplemental security income benefits under title XVI of such Act (as amended by this Act) within 120 days after the date of the enactment of this Act, the Commissioner of Social Security shall, not later than January 1, 1997, complete the eligibility redetermination (including a new medical determination) with respect to such individual pursuant to the procedures of such title.
+>     “(C) Within 90 days after the date of the enactment of this Act \[Mar. 29, 1996\], the Commissioner of Social Security shall notify each individual who is eligible for supplemental security income benefits under title XVI of the Social Security Act \[[42 U.S.C. 1381][/us/usc/t42/s1381] et seq.\] for the month in which this Act is enacted and whose eligibility for such benefits would terminate by reason of the amendments made by this subsection \[enacting [section 1383e of this title][/us/usc/t42/s1383e] and amending this section and sections 1382c, 1383, and 1383c of this title\]. If such an individual reapplies for supplemental security income benefits under title XVI of such Act (as amended by this Act) within 120 days after the date of the enactment of this Act, the Commissioner of Social Security shall, not later than January 1, 1997, complete the eligibility redetermination (including a new medical determination) with respect to such individual pursuant to the procedures of such title.
 
 >     “(D)
 
->      For purposes of this paragraph, an individual’s claim, with respect to supplemental security income benefits under title XVI of the Social Security Act \[this subchapter\] based on disability, which has been denied in whole before the date of the enactment of this Act \[Mar. 29, 1996\], may not be considered to be finally adjudicated before such date if, on or after such date—
+>      For purposes of this paragraph, an individual’s claim, with respect to supplemental security income benefits under title XVI of the Social Security Act \[[42 U.S.C. 1381][/us/usc/t42/s1381] et seq.\] based on disability, which has been denied in whole before the date of the enactment of this Act \[Mar. 29, 1996\], may not be considered to be finally adjudicated before such date if, on or after such date—
 
 >         “(i) there is pending a request for either administrative or judicial review with respect to such claim, or
 
 >         “(ii) there is pending, with respect to such claim, a readjudication by the Commissioner of Social Security pursuant to relief in a class action or implementation by the Commissioner of a court remand order.
 
->     “(E) Notwithstanding the provisions of this paragraph, with respect to any individual for whom the Commissioner does not perform the eligibility redetermination before the date prescribed in subparagraph (C), the Commissioner shall perform such eligibility redetermination in lieu of a continuing disability review whenever the Commissioner determines that the individual’s eligibility is subject to redetermination based on the preceding provisions of this paragraph, and the provisions of section 1614(a)(4) of the Social Security Act \[[section 1382c(a)(4) of this title][/us/usc/t42/s1382c/a/4]\] shall not apply to such redetermination.
+>     “(E) Notwithstanding the provisions of this paragraph, with respect to any individual for whom the Commissioner does not perform the eligibility redetermination before the date prescribed in subparagraph (C), the Commissioner shall perform such eligibility redetermination in lieu of a continuing disability review whenever the Commissioner determines that the individual’s eligibility is subject to redetermination based on the preceding provisions of this paragraph, and the provisions of section 1614(a)(4) of the Social Security Act \[[42 U.S.C. 1382c(a)(4)][/us/usc/t42/s1382c/a/4]\] shall not apply to such redetermination.
 
->     “(F) For purposes of this paragraph, the phrase ‘supplemental security income benefits under title XVI of the Social Security Act’ includes supplementary payments pursuant to an agreement for Federal administration under section 1616(a) of the Social Security Act \[[section 1382e(a) of this title][/us/usc/t42/s1382e/a]\] and payments pursuant to an agreement entered into under [section 212(b) of Public Law 93–66][/us/pl/93/66/s212/b] \[set out below\].”
+>     “(F) For purposes of this paragraph, the phrase ‘supplemental security income benefits under title XVI of the Social Security Act’ includes supplementary payments pursuant to an agreement for Federal administration under section 1616(a) of the Social Security Act \[[42 U.S.C. 1382e(a)][/us/usc/t42/s1382e/a]\] and payments pursuant to an agreement entered into under [section 212(b) of Public Law 93–66][/us/pl/93/66/s212/b] \[set out below\].”
 
     \[Amendment by [Pub. L. 105–33][/us/pl/105/33] to [section 105(b)(5) of Pub. L. 104–121][/us/pl/104/121/s105/b/5], set out above, effective as if included in the enactment of [section 105 of Pub. L. 104–121][/us/pl/104/121/s105], see [section 5528(c)(1) of Pub. L. 105–33][/us/pl/105/33/s5528/c/1], set out as an Effective Date of 1997 Amendment note under [section 903 of this title][/us/usc/t42/s903].\]
 
@@ -575,13 +575,13 @@
 
 >     “(C) __Sunset of 36-month rule.—__ 
 
->     Section 1611(e)(3)(A)(v) of the Social Security Act \[subsec. (e)(3)(A)(v) of this section\] (added by subparagraph (A) of this paragraph) shall cease to be effective with respect to benefits for months after September 2004.
+>     Section 1611(e)(3)(A)(v) of the Social Security Act \[[42 U.S.C. 1382(e)(3)(A)(v)][/us/usc/t42/s1382/e/3/A/v]\] (added by subparagraph (A) of this paragraph) shall cease to be effective with respect to benefits for months after September 2004.
 
 >     “(E) __Effective date.—__ 
 
 >         “(i) __In general.—__ 
 
->         Except as otherwise provided in this paragraph \[amending this section and [section 1383c of this title][/us/usc/t42/s1383c] and enacting provisions set out as notes below\], the amendments made by this paragraph shall apply with respect to supplemental security income benefits under title XVI of the Social Security Act \[this subchapter\] by reason of disability which are otherwise payable in months beginning after 180 days after the date of the enactment of this Act \[Aug. 15, 1994\]. The Secretary of Health and Human Services shall issue regulations necessary to carry out the amendments made by this paragraph not later than 180 days after such date of enactment.
+>         Except as otherwise provided in this paragraph \[amending this section and [section 1383c of this title][/us/usc/t42/s1383c] and enacting provisions set out as notes below\], the amendments made by this paragraph shall apply with respect to supplemental security income benefits under title XVI of the Social Security Act \[[42 U.S.C. 1381][/us/usc/t42/s1381] et seq.\] by reason of disability which are otherwise payable in months beginning after 180 days after the date of the enactment of this Act \[Aug. 15, 1994\]. The Secretary of Health and Human Services shall issue regulations necessary to carry out the amendments made by this paragraph not later than 180 days after such date of enactment.
 
 >         “(ii) __Referral and monitoring agencies.—__ 
 
@@ -589,7 +589,7 @@
 
 >         “(iii) __Termination after 36 months.—__ 
 
->         Clause (v) of section 1611(e)(3)(A) of the Social Security Act \[subsec. (e)(3)(A) of this section\] (added by the amendment made by subparagraph (A) of this paragraph) shall apply with respect to supplemental security income benefits under title XVI of the Social Security Act \[this subchapter\] by reason of disability for months beginning after 180 days after the date of the enactment of this Act \[Aug. 15, 1994\].”
+>         Clause (v) of section 1611(e)(3)(A) of the Social Security Act \[[42 U.S.C. 1382(e)(3)(A)][/us/usc/t42/s1382/e/3/A]\] (added by the amendment made by subparagraph (A) of this paragraph) shall apply with respect to supplemental security income benefits under title XVI of the Social Security Act \[[42 U.S.C. 1381][/us/usc/t42/s1381] et seq.\] by reason of disability for months beginning after 180 days after the date of the enactment of this Act \[Aug. 15, 1994\].”
 
 [Pub. L. 103–296, title II, § 204(b)][/us/pl/103/296/s204/b], Aug. 15, 1994, [108 Stat. 1509][/us/stat/108/1509], provided that: 
 
@@ -627,7 +627,7 @@
 
 >     “(1) The amendment made by subsection (a) \[amending this section\] shall become effective January 1, 1988.
 
->     “(2) In the application of section 1611(e)(1)(D) of the Social Security Act \[subsec. (e)(1)(D) of this section\] on and after the effective date of such amendment, months before January 1988 in which a person was an eligible individual or eligible spouse by reason of such section shall not be taken into account.”
+>     “(2) In the application of section 1611(e)(1)(D) of the Social Security Act \[[42 U.S.C. 1382(e)(1)(D)][/us/usc/t42/s1382/e/1/D]\] on and after the effective date of such amendment, months before January 1988 in which a person was an eligible individual or eligible spouse by reason of such section shall not be taken into account.”
 
 [Pub. L. 100–203, title IX, § 9115(c)][/us/pl/100/203/s9115/c], Dec. 22, 1987, [101 Stat. 1330–305][/us/stat/101/1330-305], provided that: 
 
@@ -713,7 +713,7 @@
 
 >     “(a) __In General.—__ 
 
->     The Commissioner of Social Security shall conduct a study of the reasons why family farmers with resources of less than $100,000 are denied supplemental security income benefits under title XVI of the Social Security Act \[this subchapter\], including whether the deeming process unduly burdens and discriminates against family farmers who do not institutionalize a disabled dependent, and shall determine the number of such farmers who have been denied such benefits during each of the preceding 10 years.
+>     The Commissioner of Social Security shall conduct a study of the reasons why family farmers with resources of less than $100,000 are denied supplemental security income benefits under title XVI of the Social Security Act \[[42 U.S.C. 1381][/us/usc/t42/s1381] et seq.\], including whether the deeming process unduly burdens and discriminates against family farmers who do not institutionalize a disabled dependent, and shall determine the number of such farmers who have been denied such benefits during each of the preceding 10 years.
 
 >     “(b) __Report to the Congress.—__ 
 
@@ -727,9 +727,9 @@
 
 >     The Commissioner of Social Security shall conduct a study of the desirability, feasibility, and cost of—
 
->         “(A) establishing a system under which Federal, State, and local courts would furnish to the Commissioner such information respecting court orders by which individuals are confined in jails, prisons, or other public penal, correctional, or medical facilities as the Commissioner may require for the purpose of carrying out section 1611(e)(1) of the Social Security Act \[subsec. (e)(1) of this section\]; and
+>         “(A) establishing a system under which Federal, State, and local courts would furnish to the Commissioner such information respecting court orders by which individuals are confined in jails, prisons, or other public penal, correctional, or medical facilities as the Commissioner may require for the purpose of carrying out section 1611(e)(1) of the Social Security Act \[[42 U.S.C. 1382(e)(1)][/us/usc/t42/s1382/e/1]\]; and
 
->         “(B) requiring that State and local jails, prisons, and other institutions that enter into agreements with the Commissioner under section 1611(e)(1)(I) of the Social Security Act \[subsec. (e)(1)(I) of this section\] furnish the information required by such agreements to the Commissioner by means of an electronic or other sophisticated data exchange system.
+>         “(B) requiring that State and local jails, prisons, and other institutions that enter into agreements with the Commissioner under section 1611(e)(1)(I) of the Social Security Act \[[42 U.S.C. 1382(e)(1)(I)][/us/usc/t42/s1382/e/1/I]\] furnish the information required by such agreements to the Commissioner by means of an electronic or other sophisticated data exchange system.
 
 >     “(2) __Report.—__ 
 
@@ -739,7 +739,7 @@
 
 [Pub. L. 104–193, title II, § 203(c)][/us/pl/104/193/s203/c], Aug. 22, 1996, [110 Stat. 2187][/us/stat/110/2187], provided that: 
 
-> “Not later than October 1, 1998, the Commissioner of Social Security shall provide to the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives a list of the institutions that are and are not providing information to the Commissioner under section 1611(e)(1)(I) of the Social Security Act (as added by this section) \[subsec. (e)(1)(I) of this section\].”
+> “Not later than October 1, 1998, the Commissioner of Social Security shall provide to the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives a list of the institutions that are and are not providing information to the Commissioner under section 1611(e)(1)(I) of the Social Security Act (as added by this section) \[[42 U.S.C. 1382(e)(1)(I)][/us/usc/t42/s1382/e/1/I]\].”
 
  __Study by General Accounting Office__ 
 
@@ -753,7 +753,7 @@
 
 [Pub. L. 103–296, title II, § 201(b)(3)(F)][/us/pl/103/296/s201/b/3/F], Aug. 15, 1994, [108 Stat. 1505][/us/stat/108/1505], provided that: 
 
-> “In any case in which an individual is eligible for supplemental security income benefits under title XVI of the Social Security Act \[this subchapter\] by reason of disability, the determination of disability was made by the Secretary of Health and Human Services during or before the 180-day period following the date of the enactment of this Act \[Aug. 15, 1994\], and alcoholism or drug addiction is a contributing factor material to the Secretary’s determination that the individual is disabled, for purposes of section 1611(e)(3)(A)(v) of the Social Security Act \[subsec. (e)(3)(A)(v) of this section\] (added by the amendment made by subparagraph (A) of this paragraph)—
+> “In any case in which an individual is eligible for supplemental security income benefits under title XVI of the Social Security Act \[[42 U.S.C. 1381][/us/usc/t42/s1381] et seq.\] by reason of disability, the determination of disability was made by the Secretary of Health and Human Services during or before the 180-day period following the date of the enactment of this Act \[Aug. 15, 1994\], and alcoholism or drug addiction is a contributing factor material to the Secretary’s determination that the individual is disabled, for purposes of section 1611(e)(3)(A)(v) of the Social Security Act \[[42 U.S.C. 1382(e)(3)(A)(v)][/us/usc/t42/s1382/e/3/A/v]\] (added by the amendment made by subparagraph (A) of this paragraph)—
 
 >     “(i) the first month of such eligibility beginning after 180 days after the date of the enactment of this Act shall be treated as the individual’s first month of such eligibility; and
 
@@ -773,7 +773,7 @@
 
 >     “(a) __Temporary Annual Minimum Number of Reviews.—__ 
 
->     During each year of the 3-year period that begins on October 1, 1995, the Secretary of Health and Human Services shall apply section 221(i) of the Social Security Act \[[section 421(i) of this title][/us/usc/t42/s421/i]\] in making disability determinations under title XVI of such Act \[this subchapter\] with respect to at least 100,000 recipients of supplemental security income benefits under such title.
+>     During each year of the 3-year period that begins on October 1, 1995, the Secretary of Health and Human Services shall apply section 221(i) of the Social Security Act \[[42 U.S.C. 421(i)][/us/usc/t42/s421/i]\] in making disability determinations under title XVI of such Act \[[42 U.S.C. 1381][/us/usc/t42/s1381] et seq.\] with respect to at least 100,000 recipients of supplemental security income benefits under such title.
 
 >     “(b) __Report to the Congress.—__ 
 
@@ -783,13 +783,13 @@
 
 [Pub. L. 98–21, title IV, § 405][/us/pl/98/21/s405], Apr. 20, 1983, [97 Stat. 140][/us/stat/97/140], provided that: 
 
-> “Prior to July 1, 1984, the Secretary of Health and Human Services shall notify all elderly recipients of benefits under title II of the Social Security Act \[subchapter II of this chapter\] who may be eligible for supplemental security income benefits under title XVI of such Act \[this subchapter\] of the availability of the supplemental security income program, and shall encourage such recipients to contact the Social Security district office. Such notification shall also be made to all recipients prior to attainment of age 65, with the notification made with respect to eligibility for supplementary medical insurance.”
+> “Prior to July 1, 1984, the Secretary of Health and Human Services shall notify all elderly recipients of benefits under title II of the Social Security Act \[[42 U.S.C. 401][/us/usc/t42/s401] et seq.\] who may be eligible for supplemental security income benefits under title XVI of such Act \[[42 U.S.C. 1381][/us/usc/t42/s1381] et seq.\] of the availability of the supplemental security income program, and shall encourage such recipients to contact the Social Security district office. Such notification shall also be made to all recipients prior to attainment of age 65, with the notification made with respect to eligibility for supplementary medical insurance.”
 
  __Assistance Paid Under Certain Housing Acts Not Considered in Determining Eligibility for Benefits Under This Subchapter; Effective Date__ 
 
 [Pub. L. 94–375, § 2(h)][/us/pl/94/375/s2/h], Aug. 3, 1976, [90 Stat. 1068][/us/stat/90/1068], provided that: 
 
-> “Notwithstanding any other provision of law, the value of any assistance paid with respect to a dwelling unit under the United States Housing Act of 1937 \[section 1437 et seq. of this title\], the National Housing Act \[section 1701 et seq. of Title 12, Banks and Banking\], section 101 of the Housing and Urban Development Act of 1965 \[[section 1701s of Title 12][/us/usc/t12/s1701s] and sections 1451 and 1465 of this title\], or title V of the Housing Act of 1949 \[section 1471 et seq. of this title\] may not be considered as income or a resource for the purpose of determining the eligibility of, or the amount of the benefits payable to, any person living in such unit for assistance under title XVI of the Social Security Act \[this subchapter\]. This subsection shall become effective on October 1, 1976.”
+> “Notwithstanding any other provision of law, the value of any assistance paid with respect to a dwelling unit under the United States Housing Act of 1937 \[section 1437 et seq. of this title\], the National Housing Act \[section 1701 et seq. of Title 12, Banks and Banking\], section 101 of the Housing and Urban Development Act of 1965 \[[section 1701s of Title 12][/us/usc/t12/s1701s] and sections 1451 and 1465 of this title\], or title V of the Housing Act of 1949 \[section 1471 et seq. of this title\] may not be considered as income or a resource for the purpose of determining the eligibility of, or the amount of the benefits payable to, any person living in such unit for assistance under title XVI of the Social Security Act \[[42 U.S.C. 1381][/us/usc/t42/s1381] et seq.\]. This subsection shall become effective on October 1, 1976.”
 
  __Special $50 Payment Under Tax Reduction Act of 1975__ 
 
@@ -797,7 +797,7 @@
 
  __Adjustment of Individual’s Monthly Supplemental Security Income Payments; Regulations; Limitations__ 
 
-    [Pub. L. 93–335, § 2(b)(2)][/us/pl/93/335/s2/b/2], July 8, 1974, [88 Stat. 291][/us/stat/88/291], authorized the Secretary of Health, Education, and Welfare to prescribe regulations for the adjustment of an individual’s monthly supplemental security income payment in accordance with any increase to which such individual might be entitled under the amendment made by subsection (a) of this section \[amending [section 212(a)(3)(B)(i) of Pub. L. 93–66][/us/pl/93/66/s212/a/3/B/i], set out below\]; provided that such adjustment in monthly payment, together with the remittance of any prior unpaid increments to which such individual might be entitled under such amendment, was to be made no later than the first day of the first month beginning more than sixty days after July 8, 1974.
+    [Pub. L. 93–335, § 2(b)(2)][/us/pl/93/335/s2/b/2], July 8, 1974, [88 Stat. 291][/us/stat/88/291], authorized the Secretary of Health, Education, and Welfare \[now Health and Human Services\] to prescribe regulations for the adjustment of an individual’s monthly supplemental security income payment in accordance with any increase to which such individual might be entitled under the amendment made by subsection (a) of this section \[amending [section 212(a)(3)(B)(i) of Pub. L. 93–66][/us/pl/93/66/s212/a/3/B/i], set out below\]; provided that such adjustment in monthly payment, together with the remittance of any prior unpaid increments to which such individual might be entitled under such amendment, was to be made no later than the first day of the first month beginning more than sixty days after July 8, 1974.
 
  __Medicaid Eligibility for Individuals Receiving Mandatory State Supplementary Payments; Effective Date__ 
 
@@ -811,11 +811,11 @@
 
 >         (1)
 
->          In determining (for purposes of title XVI of the Social Security Act \[this subchapter\], as in effect after December 1973) the eligibility for and the amount of the supplemental security income benefit payable to any qualified individual (as defined in subsection (b)), with respect to any period for which such individual has in his home an essential person (as defined in subsection (c))—
+>          In determining (for purposes of title XVI of the Social Security Act \[[42 U.S.C. 1381][/us/usc/t42/s1381] et seq.\], as in effect after December 1973) the eligibility for and the amount of the supplemental security income benefit payable to any qualified individual (as defined in subsection (b)), with respect to any period for which such individual has in his home an essential person (as defined in subsection (c))—
 
->             “(A) the dollar amounts specified in subsection (a)(1)(A) and (2)(A), and subsection (b)(1) and (2), of section 1611 of such Act \[this section\], shall each be increased by $876 for each such essential person, and
+>             “(A) the dollar amounts specified in subsection (a)(1)(A) and (2)(A), and subsection (b)(1) and (2), of section 1611 of such Act \[[42 U.S.C. 1382][/us/usc/t42/s1382]\], shall each be increased by $876 for each such essential person, and
 
->             “(B) the income and resources of such individual shall (for purposes of such title XVI \[this subchapter\]) be deemed to include the income and resources of such essential person;
+>             “(B) the income and resources of such individual shall (for purposes of such title XVI \[[42 U.S.C. 1381][/us/usc/t42/s1381] et seq.\]) be deemed to include the income and resources of such essential person;
 
 >             except that the provisions of this subsection shall not, in the case of any individual, be applicable for any period which begins in or after the first month that such individual—
 
@@ -823,17 +823,17 @@
 
 >              does not but would (except for the provisions of subparagraph (B)) meet—
 
->                 “(i) the criteria established with respect to income in section 1611(a) of such Act \[subsec. (a) of this section\], or
+>                 “(i) the criteria established with respect to income in section 1611(a) of such Act \[[42 U.S.C. 1382(a)][/us/usc/t42/s1382/a]\], or
 
->                 “(ii) the criteria established with respect to resources by such section 1611(a) \[subsec. (a) of this section\] (or, if applicable, by section 1611(g) of such Act \[subsec. (g) of this section\]).
+>                 “(ii) the criteria established with respect to resources by such section 1611(a) \[[42 U.S.C. 1382(a)][/us/usc/t42/s1382/a]\] (or, if applicable, by section 1611(g) of such Act \[[42 U.S.C. 1382(g)][/us/usc/t42/s1382/g]\]).
 
->         “(2) The provisions of section 1611(g) of the Social Security Act \[subsec. (g) of this section\] (as in effect after December 1973) shall, in the case of any qualified individual (as defined in subsection (b)), be applied so as to include, in the resources of such individual, the resources of any person (described in subsection (b)(2)) whose needs were taken into account in determining the need of such individual for the aid or assistance referred to in subsection (b)(1).
+>         “(2) The provisions of section 1611(g) of the Social Security Act \[[42 U.S.C. 1382(g)][/us/usc/t42/s1382/g]\] (as in effect after December 1973) shall, in the case of any qualified individual (as defined in subsection (b)), be applied so as to include, in the resources of such individual, the resources of any person (described in subsection (b)(2)) whose needs were taken into account in determining the need of such individual for the aid or assistance referred to in subsection (b)(1).
 
 >     “(b)
 
 >      For purposes of this section, an individual shall be a ‘qualified individual’ only if—
 
->         “(1) for the month of December 1973 such individual was a recipient of aid or assistance under a State plan approved under title I, X, XIV, or XVI of the Social Security Act \[subchapter I, X, XIV, or XVI of this chapter\], and
+>         “(1) for the month of December 1973 such individual was a recipient of aid or assistance under a State plan approved under title I, X, XIV, or XVI of the Social Security Act \[[42 U.S.C. 301][/us/usc/t42/s301] et seq., 1201 et seq., 1351 et seq., 1381 et seq.\], and
 
 >         “(2)
 
@@ -851,9 +851,9 @@
 
 >         “(2) lives in the home of such individual,
 
->         “(3) is not eligible (in his or her own right) for supplemental security income benefits under title XVI of the Social Security Act \[this subchapter\] (as in effect after December 1973), and
+>         “(3) is not eligible (in his or her own right) for supplemental security income benefits under title XVI of the Social Security Act \[[42 U.S.C. 1381][/us/usc/t42/s1381] et seq.\] (as in effect after December 1973), and
 
->         “(4) is not the eligible spouse (as that term is used in such title XVI \[this subchapter\]) of such individual or any other individual.
+>         “(4) is not the eligible spouse (as that term is used in such title XVI \[[42 U.S.C. 1381][/us/usc/t42/s1381] et seq.\]) of such individual or any other individual.
 
 >         If for any month after December 1973 any person fails to meet the criteria specified in paragraph (2), (3), or (4) of the preceding sentence, such person shall not, for such month or any month thereafter be considered to be an essential person.”
 
@@ -865,15 +865,15 @@
 
 >     “(a)
 
->         (1) In order for any State (other than the Commonwealth of Puerto Rico, Guam, or the Virgin Islands) to be eligible for payments pursuant to title XIX \[subchapter XIX of this chapter\], with respect to expenditures for any quarter beginning after December 1973, such State must have in effect an agreement with the Commissioner of Social Security (hereinafter in this section referred to as the ‘Commissioner of Social Security’) whereby the State will provide to individuals residing in the State supplementary payments as required under paragraph (2).
+>         (1) In order for any State (other than the Commonwealth of Puerto Rico, Guam, or the Virgin Islands) to be eligible for payments pursuant to title XIX \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\], with respect to expenditures for any quarter beginning after December 1973, such State must have in effect an agreement with the Commissioner of Social Security (hereinafter in this section referred to as the ‘Commissioner of Social Security’) whereby the State will provide to individuals residing in the State supplementary payments as required under paragraph (2).
 
 >         “(2)
 
 >          Any agreement entered into by a State pursuant to paragraph (1) shall provide that each individual who—
 
->             “(A) is an aged, blind, or disabled individual (within the meaning of section 1614(a) of the Social Security Act \[[section 1382c(a) of this title][/us/usc/t42/s1382c/a]\], as enacted by section 301 of the Social Security Amendments of 1972), and
+>             “(A) is an aged, blind, or disabled individual (within the meaning of section 1614(a) of the Social Security Act \[[42 U.S.C. 1382c(a)][/us/usc/t42/s1382c/a]\], as enacted by section 301 of the Social Security Amendments of 1972), and
 
->             “(B) for the month of December 1973 was a recipient of (and was eligible to receive) aid or assistance (in the form of money payments) under a State plan of such State (approved under title I, X, XIV, or XVI, of the Social Security Act \[subchapter I, X, XIV, or XVI of this chapter\])
+>             “(B) for the month of December 1973 was a recipient of (and was eligible to receive) aid or assistance (in the form of money payments) under a State plan of such State (approved under title I, X, XIV, or XVI, of the Social Security Act \[[42 U.S.C. 301][/us/usc/t42/s301] et seq., 1201 et seq., 1351 et seq., 1381 et seq.\])
 
 >             shall be entitled to receive, from the State, the supplementary payment described in paragraph (3) for each month, beginning with January 1974, and ending with whichever of the following first occurs:
 
@@ -881,7 +881,7 @@
 
 >             “(D) the first month in which such individual ceases to meet the condition specified in subparagraph (A);
 
->             except that no individual shall be entitled to receive such supplementary payment for any month, if, for such month, such individual was ineligible to receive supplemental income benefits under title XVI of the Social Security Act \[this chapter\] by reason of the provisions of section 1611(e)(1)(A), (2), or (3) \[subsec. (e)(1)(A), (2), or (3) of this section\], 1611(f) \[subsec. (f) of this section\], or 1615(c) of such Act \[[section 1382d(c) of this title][/us/usc/t42/s1382d/c]\].
+>             except that no individual shall be entitled to receive such supplementary payment for any month, if, for such month, such individual was ineligible to receive supplemental income benefits under title XVI of the Social Security Act \[[42 U.S.C. 1381][/us/usc/t42/s1381] et seq.\] by reason of the provisions of section 1611(e)(1)(A), (2), or (3) \[[42 U.S.C. 1382(e)(1)(A)][/us/usc/t42/s1382/e/1/A], (2), (3)\], 1611(f) \[[42 U.S.C. 1382(f)][/us/usc/t42/s1382/f]\], or 1615(c) of such Act \[[42 U.S.C. 1382d(c)][/us/usc/t42/s1382d/c] of this title\].
 
 >         “(3)
 
@@ -891,7 +891,7 @@
 
 >              For purposes of subparagraph (A), an individual’s ‘December 1973 income’ means an amount equal to the aggregate of—
 
->                 “(i) the amount of the aid or assistance (in the form of money payments) which such individual would have received (including any part of such amount which is attributable to meeting the needs of any other person whose presence in such individual’s home is essential to such individual’s well-being) for the month of December 1973 under a plan (approved under title I, X, XIV, or XVI, of the Social Security Act \[subchapter I, X, XIV, or XVI of this chapter\]) of the State entering into an agreement under this subsection, if the terms and conditions of such plan (relating to eligibility for and amount of such aid or assistance payable thereunder) were, for the month of December 1973, the same as those in effect, under such plan, for the month of June 1973, together with the bonus value of food stamps for January 1972, as defined in [section 401(b)(3) of Public Law 92–603][/us/pl/92/603/s401/b/3] \[set out as a note under [section 1382e of this title][/us/usc/t42/s1382e]\], if, for such month, such individual resides in a State which provides State supplementary payments (I) of the type described in section 1616(a) of the Social Security Act \[[section 1382e(a) of this title][/us/usc/t42/s1382e/a]\], and (II) the level of which has been found by the Commissioner of Social Security pursuant to [section 8 of Public Law 93–233][/us/pl/93/233/s8] \[set out as notes under [section 1382e of this title][/us/usc/t42/s1382e] and sections 612c, 1431 and 2012 of Title 7, Agriculture\] to have been specifically increased so as to include the bonus value of food stamps, and
+>                 “(i) the amount of the aid or assistance (in the form of money payments) which such individual would have received (including any part of such amount which is attributable to meeting the needs of any other person whose presence in such individual’s home is essential to such individual’s well-being) for the month of December 1973 under a plan (approved under title I, X, XIV, or XVI, of the Social Security Act \[[42 U.S.C. 301][/us/usc/t42/s301] et seq., 1201 et seq., 1351 et seq., 1381 et seq.\]) of the State entering into an agreement under this subsection, if the terms and conditions of such plan (relating to eligibility for and amount of such aid or assistance payable thereunder) were, for the month of December 1973, the same as those in effect, under such plan, for the month of June 1973, together with the bonus value of food stamps for January 1972, as defined in [section 401(b)(3) of Public Law 92–603][/us/pl/92/603/s401/b/3] \[set out as a note under [section 1382e of this title][/us/usc/t42/s1382e]\], if, for such month, such individual resides in a State which provides State supplementary payments (I) of the type described in section 1616(a) of the Social Security Act \[[42 U.S.C. 1382e(a)][/us/usc/t42/s1382e/a]\], and (II) the level of which has been found by the Commissioner of Social Security pursuant to [section 8 of Public Law 93–233][/us/pl/93/233/s8] \[set out as notes under [section 1382e of this title][/us/usc/t42/s1382e] and sections 612c, 1431 and 2012 of Title 7, Agriculture\] to have been specifically increased so as to include the bonus value of food stamps, and
 
 >                 “(ii) the amount of the income of such individual (other than the aid or assistance described in clause (i)) received by such individual in December 1973, minus any such income which did not result, but which if properly reported would have resulted in a reduction in the amount of such aid or assistance.
 
@@ -899,7 +899,7 @@
 
 >              For purposes of subparagraph (A), the amount of an individual’s ‘title XVI benefit plus other income’ for any month means an amount equal to the aggregate of—
 
->                 “(i) the amount (if any) of the supplemental security income benefit to which such individual is entitled for such month under title XVI of the Social Security Act \[this subchapter\], and
+>                 “(i) the amount (if any) of the supplemental security income benefit to which such individual is entitled for such month under title XVI of the Social Security Act \[[42 U.S.C. 1381][/us/usc/t42/s1381] et seq.\], and
 
 >                 “(ii) the amount of any income of such individual for such month (other than income in the form of a benefit described in clause (i)).
 
@@ -915,17 +915,17 @@
 
 >             “(E)
 
->                 (i) In the case of an individual who, for December 1973 lived as a member of a family unit other members of which received aid (in the form of money payments) under a State plan of a State approved under part A of title IV of the Social Security Act \[part A of subchapter IV of this chapter\], such State at its option, may (subject to clause (ii)) reduce such individual’s December 1973 income (as determined under subparagraph (B)) to such extent as may be necessary to cause the supplementary payment (referred to in paragraph (2)) payable to such individual for January 1974 or any month thereafter to be reduced to a level designed to assure that the total income of such individual (and of the members of such family unit) for any month after December 1973 does not exceed the total income of such individual (and of the members of such family unit) for December 1973.
+>                 (i) In the case of an individual who, for December 1973 lived as a member of a family unit other members of which received aid (in the form of money payments) under a State plan of a State approved under part A of title IV of the Social Security Act \[[42 U.S.C. 601][/us/usc/t42/s601] et seq.\], such State at its option, may (subject to clause (ii)) reduce such individual’s December 1973 income (as determined under subparagraph (B)) to such extent as may be necessary to cause the supplementary payment (referred to in paragraph (2)) payable to such individual for January 1974 or any month thereafter to be reduced to a level designed to assure that the total income of such individual (and of the members of such family unit) for any month after December 1973 does not exceed the total income of such individual (and of the members of such family unit) for December 1973.
 
->                 “(ii) The amount of the reduction (under clause (i)) of any individual’s December 1973 income shall not be in an amount which would cause the supplementary payment (referred to in paragraph (2)) payable to such individual to be reduced below the amount of such supplementary payment which would be payable to such individual if he had, for the month of December 1973 not lived in a family, members of which were receiving aid under part A of title IV of the Social Security Act \[part A of subchapter IV of this chapter\], and had had no income for such month other than that received as aid or assistance under a State plan approved under title I, X, XIV, or XVI of the Social Security Act \[subchapter I, X, XIV, or XVI of this chapter\].
+>                 “(ii) The amount of the reduction (under clause (i)) of any individual’s December 1973 income shall not be in an amount which would cause the supplementary payment (referred to in paragraph (2)) payable to such individual to be reduced below the amount of such supplementary payment which would be payable to such individual if he had, for the month of December 1973 not lived in a family, members of which were receiving aid under part A of title IV of the Social Security Act \[[42 U.S.C. 601][/us/usc/t42/s601] et seq.\], and had had no income for such month other than that received as aid or assistance under a State plan approved under title I, X, XIV, or XVI of the Social Security Act \[[42 U.S.C. 301][/us/usc/t42/s301] et seq., 1201 et seq., 1351 et seq., 1381 et seq.\].
 
->         “(4) Any State having an agreement with the Commissioner of Social Security under paragraph (1) may, at its option, include individuals receiving benefits under section 1619 of the Social Security Act \[[section 1382h of this title][/us/usc/t42/s1382h]\], or who would be eligible to receive such benefits but for their income, under the agreement as though they are aged, blind, or disabled individuals as specified in paragraph (2)(A).
+>         “(4) Any State having an agreement with the Commissioner of Social Security under paragraph (1) may, at its option, include individuals receiving benefits under section 1619 of the Social Security Act \[[42 U.S.C. 1382h][/us/usc/t42/s1382h]\], or who would be eligible to receive such benefits but for their income, under the agreement as though they are aged, blind, or disabled individuals as specified in paragraph (2)(A).
 
 >     “(b)
 
 >         (1) Any State having an agreement with the Commissioner of Social Security under subsection (a) may enter into an administration agreement with the Commissioner of Social Security whereby the Commissioner of Social Security will, on behalf of such State, make the supplementary payments required under the agreement entered into under subsection (a).
 
->         “(2) Any such administration agreement between the Commissioner of Social Security and a State entered into under this subsection shall provide that the State will (A) certify to the Commissioner of Social Security the names of each individual who, for December 1973, was a recipient of aid or assistance (in the form of money payments) under a plan of such State approved under title I, X, XIV, or XVI of the Social Security Act \[subchapter I, X, XIV, or XVI of this chapter\], together with the amount of such assistance payable to each such individual and the amount of such individual’s December 1973 income (as defined in subsection (a)(3)(B)), and (B) provide the Commissioner of Social Security with such additional data at such times as the Commissioner of Social Security may reasonably require in order properly, economically, and efficiently to carry out such administration agreement.
+>         “(2) Any such administration agreement between the Commissioner of Social Security and a State entered into under this subsection shall provide that the State will (A) certify to the Commissioner of Social Security the names of each individual who, for December 1973, was a recipient of aid or assistance (in the form of money payments) under a plan of such State approved under title I, X, XIV, or XVI of the Social Security Act \[[42 U.S.C. 301][/us/usc/t42/s301] et seq., 1201 et seq., 1351 et seq., 1381 et seq.\], together with the amount of such assistance payable to each such individual and the amount of such individual’s December 1973 income (as defined in subsection (a)(3)(B)), and (B) provide the Commissioner of Social Security with such additional data at such times as the Commissioner of Social Security may reasonably require in order properly, economically, and efficiently to carry out such administration agreement.
 
 >         “(3)
 
@@ -985,13 +985,13 @@
 
 >                 (i) The first $5 of each administration fee assessed pursuant to subparagraph (B), upon collection, shall be deposited in the general fund of the Treasury of the United States as miscellaneous receipts.
 
->                 “(ii) The portion of each administration fee in excess of $5, and 100 percent of each additional services fee charged pursuant to subparagraph (C), upon collection for fiscal year 1998 and each subsequent fiscal year, shall be credited to a special fund established in the Treasury of the United States for State supplementary payment fees. The amounts so credited, to the extent and in the amounts provided in advance in appropriations Acts, shall be available to defray expenses incurred in carrying out this section and title XVI of the Social Security Act \[this subchapter\] and related laws.
+>                 “(ii) The portion of each administration fee in excess of $5, and 100 percent of each additional services fee charged pursuant to subparagraph (C), upon collection for fiscal year 1998 and each subsequent fiscal year, shall be credited to a special fund established in the Treasury of the United States for State supplementary payment fees. The amounts so credited, to the extent and in the amounts provided in advance in appropriations Acts, shall be available to defray expenses incurred in carrying out this section and title XVI of the Social Security Act \[[42 U.S.C. 1381][/us/usc/t42/s1381] et seq.\] and related laws.
 
 >             “(E)
 
 >                 (i)
 
->                  Any State which has entered into an agreement with the Commissioner of Social Security under this section shall remit the payments and fees required under this paragraph with respect to monthly benefits paid to individuals under title XVI of the Social Security Act \[this subchapter\] no later than—
+>                  Any State which has entered into an agreement with the Commissioner of Social Security under this section shall remit the payments and fees required under this paragraph with respect to monthly benefits paid to individuals under title XVI of the Social Security Act \[[42 U.S.C. 1381][/us/usc/t42/s1381] et seq.\] no later than—
 
 >                     “(I) the business day preceding the date that the Commissioner pays such monthly benefits; or
 
@@ -999,23 +999,23 @@
 
 >                 “(ii) The Cash Management Improvement Act of 1990 \[see Short Title of 1990 Amendment note set out under [section 6501 of Title 31][/us/usc/t31/s6501], Money and Finance\] shall not apply to any payments or fees required under this paragraph that are paid by a State before the date required by clause (i).
 
->                 “(iii) Notwithstanding clause (i), the Commissioner may make supplementary payments on behalf of a State with funds appropriated for payment of supplemental security income benefits under title XVI of the Social Security Act \[this subchapter\], and subsequently to be reimbursed for such payments by the State at such times as the Commissioner and State may agree. Such authority may be exercised only if extraordinary circumstances affecting a State’s ability to make payment when required by clause (i) are determined by the Commissioner to exist.
+>                 “(iii) Notwithstanding clause (i), the Commissioner may make supplementary payments on behalf of a State with funds appropriated for payment of supplemental security income benefits under title XVI of the Social Security Act \[[42 U.S.C. 1381][/us/usc/t42/s1381] et seq.\], and subsequently to be reimbursed for such payments by the State at such times as the Commissioner and State may agree. Such authority may be exercised only if extraordinary circumstances affecting a State’s ability to make payment when required by clause (i) are determined by the Commissioner to exist.
 
 >     “(c)
 
->         (1) Supplementary payments made pursuant to an agreement entered into under subsection (a) shall be excluded under section 1612(b)(6) of the Social Security Act \[[section 1382a(b)(6) of this title][/us/usc/t42/s1382a/b/6]\] (as in effect after December 1973) in determining income of individuals for purposes of title XVI of such Act \[this subchapter\] (as so in effect).
+>         (1) Supplementary payments made pursuant to an agreement entered into under subsection (a) shall be excluded under section 1612(b)(6) of the Social Security Act \[[42 U.S.C. 1382a(b)(6)][/us/usc/t42/s1382a/b/6]\] (as in effect after December 1973) in determining income of individuals for purposes of title XVI of such Act \[[42 U.S.C. 1381][/us/usc/t42/s1381] et seq.\] (as so in effect).
 
->         “(2) Supplementary payments made by the Commissioner of Social Security (pursuant to an administration agreement entered into under subsection (b)) shall, for purposes of section 401 of the Social Security Amendments of 1972 \[set out as a note under [section 1382e of this title][/us/usc/t42/s1382e]\], be considered to be payments made under an agreement entered into under section 1616 of the Social Security Act \[[section 1382e of this title][/us/usc/t42/s1382e]\] (as enacted by section 301 of the Social Security Amendments of 1972); except that nothing in this paragraph shall be construed to waive, with respect to the payments so made by the Commissioner of Social Security, the provisions of subsection (b) of such section 401 \[set out as a note under [section 1382e of this title][/us/usc/t42/s1382e]\].
+>         “(2) Supplementary payments made by the Commissioner of Social Security (pursuant to an administration agreement entered into under subsection (b)) shall, for purposes of section 401 of the Social Security Amendments of 1972 \[set out as a note under [section 1382e of this title][/us/usc/t42/s1382e]\], be considered to be payments made under an agreement entered into under section 1616 of the Social Security Act \[[42 U.S.C. 1382e][/us/usc/t42/s1382e]\] (as enacted by section 301 of the Social Security Amendments of 1972); except that nothing in this paragraph shall be construed to waive, with respect to the payments so made by the Commissioner of Social Security, the provisions of subsection (b) of such section 401 \[set out as a note under [section 1382e of this title][/us/usc/t42/s1382e]\].
 
 >     “(d)
 
->      For purposes of subsection (a)(1), a State shall be deemed to have entered into an agreement under subsection (a) of this section if such State has entered into an agreement with the Commissioner of Social Security under section 1616 of the Social Security Act \[[section 1382e of this title][/us/usc/t42/s1382e]\] under which—
+>      For purposes of subsection (a)(1), a State shall be deemed to have entered into an agreement under subsection (a) of this section if such State has entered into an agreement with the Commissioner of Social Security under section 1616 of the Social Security Act \[[42 U.S.C. 1382e][/us/usc/t42/s1382e]\] under which—
 
 >         “(1) individuals, other than individuals described in subsection (a)(2)(A) and (B), are entitled to receive supplementary payments, and
 
 >         “(2) supplementary benefits are payable, to individuals described in subsection (a)(2)(A) and (B) at a level and under terms and conditions which meet the minimum requirements specified in subsection (a).
 
->     “(e) Except as the Commissioner of Social Security may by regulations otherwise provide, the provisions of title XVI of the Social Security Act \[this subchapter\] (as enacted by section 301 of the Social Security Amendments of 1972), including the provisions of part B of such title \[part B of this subchapter\], relating to the terms and conditions under which the benefits authorized by such title \[this subchapter\] are payable shall, where not inconsistent with the purposes of this section, be applicable to the payments made under an agreement under subsection (b) of this section; and the authority conferred upon the Commissioner of Social Security by such title \[this subchapter\] may, where appropriate, be exercised by him in the administration of this section.
+>     “(e) Except as the Commissioner of Social Security may by regulations otherwise provide, the provisions of title XVI of the Social Security Act \[[42 U.S.C. 1381][/us/usc/t42/s1381] et seq.\] (as enacted by section 301 of the Social Security Amendments of 1972), including the provisions of part B of such title \[[42 U.S.C. 1383][/us/usc/t42/s1383] et seq.\], relating to the terms and conditions under which the benefits authorized by such title \[[42 U.S.C. 1381][/us/usc/t42/s1381] et seq.\] are payable shall, where not inconsistent with the purposes of this section, be applicable to the payments made under an agreement under subsection (b) of this section; and the authority conferred upon the Commissioner of Social Security by such title \[[42 U.S.C. 1381][/us/usc/t42/s1381] et seq.\] may, where appropriate, be exercised by him in the administration of this section.
 
 >     “(f)
 
@@ -1023,7 +1023,7 @@
 
 >         “(1) the Constitution of which contains provisions which make it impossible for such State to enter into and commence carrying out (on January 1, 1974) an agreement referred to in subsection (a), and
 
->         “(2) the Attorney General (or other appropriate State official) of which has, prior to July 1, 1973, made a finding that the State Constitution of such State contains limitations which prevent such State from making supplemental payments of the type described in section 1616 of the Social Security Act \[[section 1382e of this title][/us/usc/t42/s1382e]\].”
+>         “(2) the Attorney General (or other appropriate State official) of which has, prior to July 1, 1973, made a finding that the State Constitution of such State contains limitations which prevent such State from making supplemental payments of the type described in section 1616 of the Social Security Act \[[42 U.S.C. 1382e][/us/usc/t42/s1382e]\].”
 
     \[For effective date of amendment to [section 212 of Pub. L. 93–66][/us/pl/93/66/s212], set out above, by [Pub. L. 106–170][/us/pl/106/170], see [section 410(b) of Pub. L. 106–170][/us/pl/106/170/s410/b], set out as an Effective Date of 1999 Amendment note under [section 1382e of this title][/us/usc/t42/s1382e].\]
 
@@ -1039,7 +1039,7 @@
 
  __Puerto Rico, Guam, and Virgin Islands__ 
 
-Enactment of section 1602 of the Social Security Act \[this section\] by [Pub. L. 92–603][/us/pl/92/603], eff. Jan. 1, 1974, was not applicable to Puerto Rico, Guam, and the Virgin Islands. See [section 303(b) of Pub. L. 92–603][/us/pl/92/603/s303/b], set out as a note under [section 301 of this title][/us/usc/t42/s301]. Therefore, as to Puerto Rico, Guam, and the Virgin Islands, section 1602 of the Social Security Act \[this section\] as it existed prior to reenactment by [Pub. L. 92–603][/us/pl/92/603], and as amended, continues to apply and reads as follows:
+Enactment of section 1602 of the Social Security Act by [Pub. L. 92–603][/us/pl/92/603], eff. Jan. 1, 1974 \[[42 U.S.C. 1381a][/us/usc/t42/s1381a]\], was not applicable to Puerto Rico, Guam, and the Virgin Islands. See [section 303(b) of Pub. L. 92–603][/us/pl/92/603/s303/b], set out as a note under [section 301 of this title][/us/usc/t42/s301]. Therefore, as to Puerto Rico, Guam, and the Virgin Islands, section 1602 of the Social Security Act as it existed prior to reenactment by [Pub. L. 92–603][/us/pl/92/603] \[former [42 U.S.C. 1382][/us/usc/t42/s1382]\], and as amended, continues to apply and reads as follows:
 
     § 1382. State plans for aid to aged, blind, or disabled
 
@@ -1347,6 +1347,7 @@ Enactment of section 1602 of the Social Security Act \[this section\] by [Pub. L
 [/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
 [/us/stat/110/2186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2186
 [/us/usc/t42/s402/x/1/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs402%2Fx%2F1%2FA%2Fii
+[/us/usc/t42/s1382/e/1/I/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1382%2Fe%2F1%2FI%2Fi
 [/us/pl/106/169/s207/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F169%2Fs207%2Fc
 [/us/pl/106/169/s207/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F169%2Fs207%2Fe
 [/us/usc/t42/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs402
@@ -1365,6 +1366,7 @@ Enactment of section 1602 of the Social Security Act \[this section\] by [Pub. L
 [/us/stat/110/2187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2187
 [/us/pl/104/193/s204/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs204%2Fd
 [/us/stat/110/2188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2188
+[/us/usc/t42/s1381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1381
 [/us/usc/t42/s1382e/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1382e%2Fa
 [/us/pl/93/66/s212/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F66%2Fs212%2Fb
 [/us/pl/104/193/s214/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs214%2Fb
@@ -1373,9 +1375,12 @@ Enactment of section 1602 of the Social Security Act \[this section\] by [Pub. L
 [/us/stat/110/854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F854
 [/us/pl/105/33/s5525/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs5525%2Fa
 [/us/stat/111/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F624
+[/us/usc/t42/s1381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1381
 [/us/usc/t42/s1383e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1383e
 [/us/usc/t42/s1383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1383
+[/us/usc/t42/s1381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1381
 [/us/usc/t42/s1383e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1383e
+[/us/usc/t42/s1381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1381
 [/us/usc/t42/s1382c/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1382c%2Fa%2F4
 [/us/usc/t42/s1382e/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1382e%2Fa
 [/us/pl/93/66/s212/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F66%2Fs212%2Fb
@@ -1389,7 +1394,11 @@ Enactment of section 1602 of the Social Security Act \[this section\] by [Pub. L
 [/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
 [/us/pl/103/296/s201/b/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs201%2Fb%2F3%2FC
 [/us/stat/108/1504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1504
+[/us/usc/t42/s1382/e/3/A/v]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1382%2Fe%2F3%2FA%2Fv
 [/us/usc/t42/s1383c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1383c
+[/us/usc/t42/s1381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1381
+[/us/usc/t42/s1382/e/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1382%2Fe%2F3%2FA
+[/us/usc/t42/s1381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1381
 [/us/pl/103/296/s204/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs204%2Fb
 [/us/stat/108/1509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1509
 [/us/pl/103/66/s13735/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13735%2Fb
@@ -1409,6 +1418,7 @@ Enactment of section 1602 of the Social Security Act \[this section\] by [Pub. L
 [/us/stat/101/1330-302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-302
 [/us/pl/100/203/s9113/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs9113%2Fb
 [/us/stat/101/1330-304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-304
+[/us/usc/t42/s1382/e/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1382%2Fe%2F1%2FD
 [/us/pl/100/203/s9115/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs9115%2Fc
 [/us/stat/101/1330-305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-305
 [/us/usc/t42/s1396a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396a
@@ -1462,10 +1472,14 @@ Enactment of section 1602 of the Social Security Act \[this section\] by [Pub. L
 [/us/usc/t42/s1396a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396a
 [/us/pl/106/169/s261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F169%2Fs261
 [/us/stat/113/1856]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1856
+[/us/usc/t42/s1381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1381
 [/us/pl/104/193/s203/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs203%2Fb
 [/us/stat/110/2187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2187
+[/us/usc/t42/s1382/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1382%2Fe%2F1
+[/us/usc/t42/s1382/e/1/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1382%2Fe%2F1%2FI
 [/us/pl/104/193/s203/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs203%2Fc
 [/us/stat/110/2187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2187
+[/us/usc/t42/s1382/e/1/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1382%2Fe%2F1%2FI
 [/us/pl/104/193/s232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs232
 [/us/stat/110/2198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2198
 [/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
@@ -1475,6 +1489,8 @@ Enactment of section 1602 of the Social Security Act \[this section\] by [Pub. L
 [/us/stat/111/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F625
 [/us/pl/103/296/s201/b/3/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs201%2Fb%2F3%2FF
 [/us/stat/108/1505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1505
+[/us/usc/t42/s1381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1381
+[/us/usc/t42/s1382/e/3/A/v]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1382%2Fe%2F3%2FA%2Fv
 [/us/usc/t42/s1383c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1383c
 [/us/pl/103/296/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs202
 [/us/stat/108/1506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1506
@@ -1486,11 +1502,15 @@ Enactment of section 1602 of the Social Security Act \[this section\] by [Pub. L
 [/us/pl/103/296/s208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs208
 [/us/stat/108/1516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1516
 [/us/usc/t42/s421/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs421%2Fi
+[/us/usc/t42/s1381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1381
 [/us/pl/98/21/s405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21%2Fs405
 [/us/stat/97/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F140
+[/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
+[/us/usc/t42/s1381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1381
 [/us/pl/94/375/s2/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F375%2Fs2%2Fh
 [/us/stat/90/1068]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1068
 [/us/usc/t12/s1701s]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1701s
+[/us/usc/t42/s1381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1381
 [/us/pl/94/12/s702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F12%2Fs702
 [/us/usc/t42/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs402
 [/us/pl/93/335/s2/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F335%2Fs2%2Fb%2F2
@@ -1502,6 +1522,16 @@ Enactment of section 1602 of the Social Security Act \[this section\] by [Pub. L
 [/us/stat/87/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F154
 [/us/pl/93/233/s4/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F233%2Fs4%2Fa%2F2
 [/us/stat/87/953]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F953
+[/us/usc/t42/s1381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1381
+[/us/usc/t42/s1382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1382
+[/us/usc/t42/s1381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1381
+[/us/usc/t42/s1382/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1382%2Fa
+[/us/usc/t42/s1382/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1382%2Fa
+[/us/usc/t42/s1382/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1382%2Fg
+[/us/usc/t42/s1382/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1382%2Fg
+[/us/usc/t42/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs301
+[/us/usc/t42/s1381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1381
+[/us/usc/t42/s1381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1381
 [/us/pl/93/66/s211/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F66%2Fs211%2Fa%2F1%2FA
 [/us/pl/93/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F233
 [/us/pl/93/233/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F233%2Fs4%2Fb
@@ -1521,20 +1551,39 @@ Enactment of section 1602 of the Social Security Act \[this section\] by [Pub. L
 [/us/stat/111/1518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1518
 [/us/pl/106/170/s410/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170%2Fs410%2Fa%2F2
 [/us/stat/113/1916]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1916
+[/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
 [/us/usc/t42/s1382c/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1382c%2Fa
+[/us/usc/t42/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs301
+[/us/usc/t42/s1381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1381
+[/us/usc/t42/s1382/e/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1382%2Fe%2F1%2FA
+[/us/usc/t42/s1382/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1382%2Ff
 [/us/usc/t42/s1382d/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1382d%2Fc
+[/us/usc/t42/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs301
 [/us/pl/92/603/s401/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603%2Fs401%2Fb%2F3
 [/us/usc/t42/s1382e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1382e
 [/us/usc/t42/s1382e/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1382e%2Fa
 [/us/pl/93/233/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F233%2Fs8
 [/us/usc/t42/s1382e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1382e
+[/us/usc/t42/s1381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1381
+[/us/usc/t42/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs601
+[/us/usc/t42/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs601
+[/us/usc/t42/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs301
 [/us/usc/t42/s1382h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1382h
+[/us/usc/t42/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs301
+[/us/usc/t42/s1381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1381
+[/us/usc/t42/s1381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1381
 [/us/usc/t31/s6501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs6501
+[/us/usc/t42/s1381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1381
 [/us/usc/t42/s1382a/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1382a%2Fb%2F6
+[/us/usc/t42/s1381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1381
 [/us/usc/t42/s1382e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1382e
 [/us/usc/t42/s1382e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1382e
 [/us/usc/t42/s1382e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1382e
 [/us/usc/t42/s1382e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1382e
+[/us/usc/t42/s1381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1381
+[/us/usc/t42/s1383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1383
+[/us/usc/t42/s1381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1381
+[/us/usc/t42/s1381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1381
 [/us/usc/t42/s1382e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1382e
 [/us/pl/93/66/s212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F66%2Fs212
 [/us/pl/106/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170
@@ -1554,9 +1603,11 @@ Enactment of section 1602 of the Social Security Act \[this section\] by [Pub. L
 [/us/usc/t42/s1382h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1382h
 [/us/usc/t48/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1801
 [/us/pl/92/603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603
+[/us/usc/t42/s1381a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1381a
 [/us/pl/92/603/s303/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603%2Fs303%2Fb
 [/us/usc/t42/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs301
 [/us/pl/92/603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603
+[/us/usc/t42/s1382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1382
 [/us/usc/t42/s1320b–7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320b%E2%80%937
 [/us/usc/t42/s1202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1202%2Fb
 [/us/usc/t42/s1383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1383

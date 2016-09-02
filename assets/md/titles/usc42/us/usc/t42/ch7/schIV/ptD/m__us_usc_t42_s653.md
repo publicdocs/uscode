@@ -67,11 +67,9 @@
 
                 (i) upon receipt of information from the Secretary, the court determines whether disclosure to any other person of that information could be harmful to the parent or the child; and
 
-                (ii)
+                (ii) if the court determines that disclosure of such information to any other person could be harmful, the court and its agents shall not make any such disclosure.
 
-                 if the court determines that disclosure of such information to any other person could be harmful, the court and its agents shall not make any such disclosure.
-
-                    (3) Information received or transmitted pursuant to this section shall be subject to the safeguard provisions contained in [section 654(26) of this title][/us/usc/t42/s654/26].
+        (3) Information received or transmitted pursuant to this section shall be subject to the safeguard provisions contained in [section 654(26) of this title][/us/usc/t42/s654/26].
 
     (c) __“Authorized person” defined__ 
 
@@ -755,7 +753,7 @@
 
 [Pub. L. 105–200, title IV, § 402(d)][/us/pl/105/200/s402/d], July 16, 1998, [112 Stat. 669][/us/stat/112/669], provided that: 
 
-> “Within 3 years after the date of the enactment of this Act \[July 16, 1998\], the Secretary of Health and Human Services shall submit to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate a report on the accuracy of the data maintained by the National Directory of New Hires pursuant to section 453(i) of the Social Security Act \[subsec. (i) of this section\], and the effectiveness of the procedures designed to provide for the security of such data.”
+> “Within 3 years after the date of the enactment of this Act \[July 16, 1998\], the Secretary of Health and Human Services shall submit to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate a report on the accuracy of the data maintained by the National Directory of New Hires pursuant to section 453(i) of the Social Security Act \[[42 U.S.C. 653(i)][/us/usc/t42/s653/i]\], and the effectiveness of the procedures designed to provide for the security of such data.”
 
  __Coordination Between Secretaries Relating to Amendments by__  __[__  __Pub. L. 105–34__  __][/us/pl/105/34]__ 
 
@@ -987,6 +985,7 @@
 [/us/stat/112/669]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F669
 [/us/pl/105/200/s402/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F200%2Fs402%2Fd
 [/us/stat/112/669]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F669
+[/us/usc/t42/s653/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs653%2Fi
 [/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
 [/us/pl/105/34/s1090/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1090%2Fa%2F3
 [/us/stat/111/961]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F961

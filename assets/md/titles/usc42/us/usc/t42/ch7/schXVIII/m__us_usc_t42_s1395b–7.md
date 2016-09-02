@@ -69,11 +69,11 @@
 
 >     “(A) __Statement by secretary.—__ 
 
->     Paragraph (1) of section 1806(a) of the Social Security Act \[subsec. (a)(1) of this section\], as added by paragraph (1), and the repeal made by paragraph (2) \[amending [section 1395b–5 of this title][/us/usc/t42/s1395b–5]\] shall take effect on the date of the enactment of this Act \[Aug. 5, 1997\].
+>     Paragraph (1) of section 1806(a) of the Social Security Act \[[42 U.S.C. 1395b–7(a)(1)][/us/usc/t42/s1395b–7/a/1]\], as added by paragraph (1), and the repeal made by paragraph (2) \[amending [section 1395b–5 of this title][/us/usc/t42/s1395b–5]\] shall take effect on the date of the enactment of this Act \[Aug. 5, 1997\].
 
 >     “(B) __Itemized statement.—__ 
 
->     Paragraph (2) of section 1806(a) and section 1806(b) of the Social Security Act \[subsecs. (a)(2) and (b) of this section\], as so added, shall take effect not later than January 1, 1999.”
+>     Paragraph (2) of section 1806(a) and section 1806(b) of the Social Security Act \[[42 U.S.C. 1395b–7(a)(2)][/us/usc/t42/s1395b–7/a/2], (b)\], as so added, shall take effect not later than January 1, 1999.”
 
  __Inclusion of Additional Information in Notices to Beneficiaries About Skilled Nursing Facility Benefits__ 
 
@@ -81,7 +81,7 @@
 
 >     “(a) __In General.—__ 
 
->     The Secretary \[of Health and Human Services\] shall provide that in medicare beneficiary notices provided (under section 1806(a) of the Social Security Act, [42 U.S.C. 1395b–7(a)][/us/usc/t42/s1395b–7/a]) with respect to the provision of post-hospital extended care services under part A of title XVIII of the Social Security Act \[part A of this subchapter\], there shall be included information on the number of days of coverage of such services remaining under such part for the medicare beneficiary and spell of illness involved.
+>     The Secretary \[of Health and Human Services\] shall provide that in medicare beneficiary notices provided (under section 1806(a) of the Social Security Act, [42 U.S.C. 1395b–7(a)][/us/usc/t42/s1395b–7/a]) with respect to the provision of post-hospital extended care services under part A of title XVIII of the Social Security Act \[[42 U.S.C. 1395c][/us/usc/t42/s1395c] et seq.\], there shall be included information on the number of days of coverage of such services remaining under such part for the medicare beneficiary and spell of illness involved.
 
 >     “(b) __Effective Date.—__ 
 
@@ -100,9 +100,12 @@
 [/us/stat/111/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F385
 [/us/pl/105/33/s4311/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs4311%2Fb%2F3
 [/us/stat/111/386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F386
+[/us/usc/t42/s1395b–7/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395b%E2%80%937%2Fa%2F1
 [/us/usc/t42/s1395b–5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395b%E2%80%935
+[/us/usc/t42/s1395b–7/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395b%E2%80%937%2Fa%2F2
 [/us/pl/108/173/s925]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs925
 [/us/stat/117/2396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2396
 [/us/usc/t42/s1395b–7/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395b%E2%80%937%2Fa
+[/us/usc/t42/s1395c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395c
 
 

@@ -31,7 +31,7 @@
 
 [Pub. L. 102–408, title I, § 103][/us/pl/102/408/s103], Oct. 13, 1992, [106 Stat. 2069][/us/stat/106/2069], provided that: 
 
-> “The amendment made by section 102 \[enacting this subchapter\] takes effect on the date of the enactment of this Act \[Oct. 13, 1992\], except that section 708 of the Public Health Service Act \[[section 292g of this title][/us/usc/t42/s292g]\], as added by section 102 of this Act, takes effect January 1, 1993. Until such date, section 732(c) of the Public Health Service Act \[former [section 294e(c) of this title][/us/usc/t42/s294e/c]\], as in effect on the day before the date of the enactment of this Act, continues in effect in lieu of such section 708.”
+> “The amendment made by section 102 \[enacting this subchapter\] takes effect on the date of the enactment of this Act \[Oct. 13, 1992\], except that section 708 of the Public Health Service Act \[[42 U.S.C. 292g][/us/usc/t42/s292g]\], as added by section 102 of this Act, takes effect January 1, 1993. Until such date, section 732(c) of the Public Health Service Act \[former [42 U.S.C. 294e(c)][/us/usc/t42/s294e/c]\], as in effect on the day before the date of the enactment of this Act, continues in effect in lieu of such section 708.”
 
  __Study on Effectiveness of Health Professions Programs__ 
 

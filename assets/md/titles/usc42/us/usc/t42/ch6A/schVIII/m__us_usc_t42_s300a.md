@@ -43,7 +43,7 @@
 
  __Study of State Delivery of Services; Report to Congress__ 
 
-    [Pub. L. 97–35, title IX, § 931(c)][/us/pl/97/35/s931/c], Aug. 13, 1981, [95 Stat. 570][/us/stat/95/570], directed Secretary of Health and Human Services to conduct a study of possible ways of State delivery of services for which assistance is authorized by title X of the Public Health Service Act \[this subchapter\] and to report to Congress on results of such study 18 months after Aug. 13, 1981.
+    [Pub. L. 97–35, title IX, § 931(c)][/us/pl/97/35/s931/c], Aug. 13, 1981, [95 Stat. 570][/us/stat/95/570], directed Secretary of Health and Human Services to conduct a study of possible ways of State delivery of services for which assistance is authorized by title X of the Public Health Service Act \[[42 U.S.C. 300][/us/usc/t42/s300] et seq.\] and to report to Congress on results of such study 18 months after Aug. 13, 1981.
 
 ----------
 
@@ -61,5 +61,6 @@
 [/us/usc/t48/s1681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1681
 [/us/pl/97/35/s931/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs931%2Fc
 [/us/stat/95/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F570
+[/us/usc/t42/s300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300
 
 

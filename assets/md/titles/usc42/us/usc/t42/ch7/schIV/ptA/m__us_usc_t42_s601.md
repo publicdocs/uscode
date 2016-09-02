@@ -57,11 +57,11 @@
 
 >         “(2) __Delayed effective date for certain provisions.—__ 
 
->         Notwithstanding any other provision of this section (but subject to subsection (b)(1)(A)(ii)), paragraphs (2), (3), (4), (5), (8), and (10) of section 409(a) and section 411(a) of the Social Security Act \[sections 609(a) and 611(a) of this title\] (as added by the amendments made by section 103(a) of this Act) shall not take effect with respect to a State until, and shall apply only with respect to conduct that occurs on or after, the later of—
+>         Notwithstanding any other provision of this section (but subject to subsection (b)(1)(A)(ii)), paragraphs (2), (3), (4), (5), (8), and (10) of section 409(a) and section 411(a) of the Social Security Act \[[42 U.S.C. 609(a)][/us/usc/t42/s609/a], 611(a)\] (as added by the amendments made by section 103(a) of this Act) shall not take effect with respect to a State until, and shall apply only with respect to conduct that occurs on or after, the later of—
 
 >             “(A) July 1, 1997; or
 
->             “(B) the date that is 6 months after the date the Secretary of Health and Human Services receives from the State a plan described in section 402(a) of the Social Security Act \[[section 602(a) of this title][/us/usc/t42/s602/a]\] (as added by such amendment).
+>             “(B) the date that is 6 months after the date the Secretary of Health and Human Services receives from the State a plan described in section 402(a) of the Social Security Act \[[42 U.S.C. 602(a)][/us/usc/t42/s602/a]\] (as added by such amendment).
 
 >         “(3) __Grants to outlying areas.—__ 
 
@@ -73,11 +73,11 @@
 
 >         “(5) __Definitions applicable to new child care entitlement.—__ 
 
->         Sections 403(a)(1)(C), 403(a)(1)(D), and 419(4) of the Social Security Act \[sections 603(a)(1)(C), (D) and 619(4) of this title\], as added by the amendments made by section 103(a) of this Act, shall take effect on October 1, 1996.
+>         Sections 403(a)(1)(C), 403(a)(1)(D), and 419(4) of the Social Security Act \[[42 U.S.C. 603(a)(1)(C)][/us/usc/t42/s603/a/1/C], (D), 619(4)\], as added by the amendments made by section 103(a) of this Act, shall take effect on October 1, 1996.
 
 >         “(6) __Research, evaluations, and national studies.—__ 
 
->         Section 413 of the Social Security Act \[[section 613 of this title][/us/usc/t42/s613]\], as added by the amendment made by section 103(a) of this Act, shall take effect on the date of the enactment of this Act \[Aug. 22, 1996\].
+>         Section 413 of the Social Security Act \[[42 U.S.C. 613][/us/usc/t42/s613]\], as added by the amendment made by section 103(a) of this Act, shall take effect on the date of the enactment of this Act \[Aug. 22, 1996\].
 
 >     “(b) __Transition Rules.—__ 
 
@@ -87,15 +87,15 @@
 
 >             “(A) __In general.—__ 
 
->             If the Secretary of Health and Human Services receives from a State a plan described in section 402(a) of the Social Security Act \[[section 602(a) of this title][/us/usc/t42/s602/a]\] (as added by the amendment made by section 103(a)(1) of this Act), then—
+>             If the Secretary of Health and Human Services receives from a State a plan described in section 402(a) of the Social Security Act \[[42 U.S.C. 602(a)][/us/usc/t42/s602/a]\] (as added by the amendment made by section 103(a)(1) of this Act), then—
 
 >                 “(i) on and after the date of such receipt—         “(I) except as provided in clause (ii), this title and the amendments made by this title (other than by section 103(c) of this Act \[amending sections 602 and 603 of this title\]) shall apply with respect to the State; and
 
->                          “(II) the State shall be considered an eligible State for purposes of part A of title IV of the Social Security Act \[this part\] (as in effect pursuant to the amendments made by such section 103(a)); and
+>                          “(II) the State shall be considered an eligible State for purposes of part A of title IV of the Social Security Act \[[42 U.S.C. 601][/us/usc/t42/s601] et seq.\] (as in effect pursuant to the amendments made by such section 103(a)); and
 
->                 “(ii) during the period that begins on the date of such receipt and ends on the later of June 30, 1997, or the day before the date described in subsection (a)(2)(B) of this section, there shall remain in effect with respect to the State—         “(I) section 403(h) of the Social Security Act \[[section 603(h) of this title][/us/usc/t42/s603/h]\] (as in effect on September 30, 1995); and
+>                 “(ii) during the period that begins on the date of such receipt and ends on the later of June 30, 1997, or the day before the date described in subsection (a)(2)(B) of this section, there shall remain in effect with respect to the State—         “(I) section 403(h) of the Social Security Act \[[42 U.S.C. 603(h)][/us/usc/t42/s603/h]\] (as in effect on September 30, 1995); and
 
->                          “(II) all State reporting requirements under parts A and F of title IV of the Social Security Act \[this part and part F of this subchapter\] (as in effect on September 30, 1995), modified by the Secretary as appropriate, taking into account the State program under part A of title IV of the Social Security Act (as in effect pursuant to the amendments made by such section 103(a)).
+>                          “(II) all State reporting requirements under parts A and F of title IV of the Social Security Act \[[42 U.S.C. 601][/us/usc/t42/s601] et seq., 681 et seq.\] (as in effect on September 30, 1995), modified by the Secretary as appropriate, taking into account the State program under part A of title IV of the Social Security Act (as in effect pursuant to the amendments made by such section 103(a)).
 
 >             “(B) __Limitations on federal obligations.—__ 
 
@@ -105,15 +105,15 @@
 
 >                 “(ii) __Under temporary family assistance program.—__ 
 
->                 Notwithstanding section 403(a)(1) of the Social Security Act \[[section 603(a)(1) of this title][/us/usc/t42/s603/a/1]\] (as in effect pursuant to the amendments made by section 103(a) of this Act), the total obligations of the Federal Government to a State under such section 403(a)(1)—
+>                 Notwithstanding section 403(a)(1) of the Social Security Act \[[42 U.S.C. 603(a)(1)][/us/usc/t42/s603/a/1]\] (as in effect pursuant to the amendments made by section 103(a) of this Act), the total obligations of the Federal Government to a State under such section 403(a)(1)—
 
 >                      “(I) for fiscal year 1996, shall be an amount equal to—
 
 >                     “(aa) the State family assistance grant; multiplied by
 
->                     “(bb) 1⁄366 of the number of days during the period that begins on the date the Secretary of Health and Human Services first receives from the State a plan described in section 402(a) of the Social Security Act \[[section 602(a) of this title][/us/usc/t42/s602/a]\] (as added by the amendment made by section 103(a)(1) of this Act) and ends on September 30, 1996; and         “(II) for fiscal year 1997, shall be an amount equal to the lesser of—
+>                     “(bb) 1⁄366 of the number of days during the period that begins on the date the Secretary of Health and Human Services first receives from the State a plan described in section 402(a) of the Social Security Act \[[42 U.S.C. 602(a)][/us/usc/t42/s602/a]\] (as added by the amendment made by section 103(a)(1) of this Act) and ends on September 30, 1996; and         “(II) for fiscal year 1997, shall be an amount equal to the lesser of—
 
->                     “(aa) the amount (if any) by which the sum of the State family assistance grant and the amount, if any, that the State would have been eligible to be paid under the Contingency Fund for State Welfare Programs established under section 403(b) of the Social Security Act \[[section 603(b) of this title][/us/usc/t42/s603/b]\] (as amended by section 103(a)(1) of this Act), during the period beginning on October 1, 1996, and ending on the date the Secretary of Health and Human Services first receives from the State a plan described in section 402(a) of the Social Security Act \[[section 602(a) of this title][/us/usc/t42/s602/a]\] (as so amended) if, with respect to such State, the effective date of this Act \[title\] under subsection (a)(1) were August 22, 1996, exceeds the total obligations of the Federal Government to the State under part A of title IV of the Social Security Act \[this part\] (as in effect on September 30, 1995) with respect to expenditures in fiscal year 1997; or
+>                     “(aa) the amount (if any) by which the sum of the State family assistance grant and the amount, if any, that the State would have been eligible to be paid under the Contingency Fund for State Welfare Programs established under section 403(b) of the Social Security Act \[[42 U.S.C. 603(b)][/us/usc/t42/s603/b]\] (as amended by section 103(a)(1) of this Act), during the period beginning on October 1, 1996, and ending on the date the Secretary of Health and Human Services first receives from the State a plan described in section 402(a) of the Social Security Act \[[42 U.S.C. 602(a)][/us/usc/t42/s602/a]\] (as so amended) if, with respect to such State, the effective date of this Act \[title\] under subsection (a)(1) were August 22, 1996, exceeds the total obligations of the Federal Government to the State under part A of title IV of the Social Security Act \[[42 U.S.C. 601][/us/usc/t42/s601] et seq.\] (as in effect on September 30, 1995) with respect to expenditures in fiscal year 1997; or
 
 >                     “(bb) the sum of the State family assistance grant, multiplied by 1⁄365 of the number of days during the period that begins on October 1, 1996, or the date the Secretary of Health and Human Services first receives from the State a plan described in section 402(a) of the Social Security Act (as added by the amendment made by section 103(a)(1) of this Act), whichever is later, and ends on September 30, 1997, and the amount, if any, that the State would have been eligible to be paid under the Contingency Fund for State Welfare Programs established under section 403(b) of the Social Security Act (as amended by section 103(a)(1) of this Act), during the period beginning on October 1, 1996, and ending on the date the Secretary of Health and Human Services first receives from the State a plan described in section 402(a) of the Social Security Act (as so amended) if, with respect to such State, the effective date of this Act \[title\] under subsection (a)(1) were August 22, 1996.
 
@@ -143,7 +143,7 @@
 
 >                 “(iii) __State family assistance grant.—__ 
 
->                 The term ‘State family assistance grant’ means the State family assistance grant (as defined in section 403(a)(1)(B) of the Social Security Act \[[section 603(a)(1)(B) of this title][/us/usc/t42/s603/a/1/B]\], as added by the amendment made by section 103(a)(1) of this Act).
+>                 The term ‘State family assistance grant’ means the State family assistance grant (as defined in section 403(a)(1)(B) of the Social Security Act \[[42 U.S.C. 603(a)(1)(B)][/us/usc/t42/s603/a/1/B]\], as added by the amendment made by section 103(a)(1) of this Act).
 
 >         “(2) __Claims, actions, and proceedings.—__ 
 
@@ -155,7 +155,7 @@
 
 >         “(3) __Closing out account for those programs terminated or substantially modified by this title.—__ 
 
->         In closing out accounts, Federal and State officials may use scientifically acceptable statistical sampling techniques. Claims made with respect to State expenditures under a State plan approved under part A of title IV of the Social Security Act \[this part\] (as in effect on September 30, 1995) with respect to assistance or services provided on or before September 30, 1995, shall be treated as claims with respect to expenditures during fiscal year 1995 for purposes of reimbursement even if payment was made by a State on or after October 1, 1995. Each State shall complete the filing of all claims under the State plan (as so in effect) within 2 years after the date of the enactment of this Act \[Aug. 22, 1996\]. The head of each Federal department shall—
+>         In closing out accounts, Federal and State officials may use scientifically acceptable statistical sampling techniques. Claims made with respect to State expenditures under a State plan approved under part A of title IV of the Social Security Act \[[42 U.S.C. 601][/us/usc/t42/s601] et seq.\] (as in effect on September 30, 1995) with respect to assistance or services provided on or before September 30, 1995, shall be treated as claims with respect to expenditures during fiscal year 1995 for purposes of reimbursement even if payment was made by a State on or after October 1, 1995. Each State shall complete the filing of all claims under the State plan (as so in effect) within 2 years after the date of the enactment of this Act \[Aug. 22, 1996\]. The head of each Federal department shall—
 
 >             “(A) use the single audit procedure to review and resolve any claims in connection with the close out of programs under such State plans; and
 
@@ -171,13 +171,13 @@
 
 >              except as otherwise provided by law—
 
->                 “(i) continue to perform the functions of the Assistant Secretary for Family Support under section 417 of the Social Security Act \[[section 617 of this title][/us/usc/t42/s617]\] (as in effect before such effective date); and
+>                 “(i) continue to perform the functions of the Assistant Secretary for Family Support under section 417 of the Social Security Act \[[42 U.S.C. 617][/us/usc/t42/s617]\] (as in effect before such effective date); and
 
->                 “(ii) have the powers and duties of the Assistant Secretary for Family Support under section 416 of the Social Security Act \[[section 616 of this title][/us/usc/t42/s616]\] (as in effect pursuant to the amendment made by section 103(a)(1) of this Act).
+>                 “(ii) have the powers and duties of the Assistant Secretary for Family Support under section 416 of the Social Security Act \[[42 U.S.C. 616][/us/usc/t42/s616]\] (as in effect pursuant to the amendment made by section 103(a)(1) of this Act).
 
 >     “(c) __Termination of Entitlement Under AFDC Program.—__ 
 
->     Effective October 1, 1996, no individual or family shall be entitled to any benefits or services under any State plan approved under part A or F of title IV of the Social Security Act \[this part or part F of this subchapter\] (as in effect on September 30, 1995).”
+>     Effective October 1, 1996, no individual or family shall be entitled to any benefits or services under any State plan approved under part A or F of title IV of the Social Security Act \[[42 U.S.C. 601][/us/usc/t42/s601] et seq. or 681 et seq.\] (as in effect on September 30, 1995).”
 
  __Congressional Findings__ 
 
@@ -281,7 +281,7 @@
 
 >         “(M) Of those youth held for criminal offenses within the State juvenile justice system, only 29.8 percent lived primarily in a home with both parents. In contrast to these incarcerated youth, 73.9 percent of the 62,800,000 children in the Nation’s resident population were living with both parents.
 
->     “(10) Therefore, in light of this demonstration of the crisis in our Nation, it is the sense of the Congress that prevention of out-of-wedlock pregnancy and reduction in out-of-wedlock birth are very important Government interests and the policy contained in part A of title IV of the Social Security Act \[this part\] (as amended by section 103(a) of this Act) is intended to address the crisis.”
+>     “(10) Therefore, in light of this demonstration of the crisis in our Nation, it is the sense of the Congress that prevention of out-of-wedlock pregnancy and reduction in out-of-wedlock birth are very important Government interests and the policy contained in part A of title IV of the Social Security Act \[[42 U.S.C. 601][/us/usc/t42/s601] et seq.\] (as amended by section 103(a) of this Act) is intended to address the crisis.”
 
     \[References to the food stamp program established under the Food and Nutrition Act of 2008 considered to refer to the supplemental nutrition assistance program established under that Act, see [section 4002(c) of Pub. L. 110–246][/us/pl/110/246/s4002/c], set out as a note under [section 2012 of Title 7][/us/usc/t7/s2012], Agriculture.\]
 
@@ -297,7 +297,7 @@
 
 >     The provisions of law specified in this subsection are the following:
 
->         “(1) Part A of title IV of the Social Security Act \[this part\] (relating to block grants for temporary assistance for needy families).
+>         “(1) Part A of title IV of the Social Security Act \[[42 U.S.C. 601][/us/usc/t42/s601] et seq.\] (relating to block grants for temporary assistance for needy families).
 
 >         “(2) The Child Care and Development Block Grant Act of 1990 \[[42 U.S.C. 9858][/us/usc/t42/s9858] et seq.\] (relating to block grants for child care).”
 
@@ -338,24 +338,33 @@
 [/us/stat/110/4002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F4002
 [/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
 [/us/stat/111/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F620
+[/us/usc/t42/s609/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs609%2Fa
 [/us/usc/t42/s602/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs602%2Fa
 [/us/usc/t42/s1308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1308
+[/us/usc/t42/s603/a/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs603%2Fa%2F1%2FC
 [/us/usc/t42/s613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs613
 [/us/usc/t42/s602/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs602%2Fa
+[/us/usc/t42/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs601
 [/us/usc/t42/s603/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs603%2Fh
+[/us/usc/t42/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs601
 [/us/usc/t42/s603/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs603%2Fa%2F1
 [/us/usc/t42/s602/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs602%2Fa
 [/us/usc/t42/s603/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs603%2Fb
 [/us/usc/t42/s602/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs602%2Fa
+[/us/usc/t42/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs601
 [/us/usc/t42/s603/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs603%2Fa%2F1%2FB
+[/us/usc/t42/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs601
 [/us/usc/t42/s617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs617
 [/us/usc/t42/s616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs616
+[/us/usc/t42/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs601
 [/us/pl/104/193/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs101
 [/us/stat/110/2110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2110
+[/us/usc/t42/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs601
 [/us/pl/110/246/s4002/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4002%2Fc
 [/us/usc/t7/s2012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2012
 [/us/pl/104/193/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs901
 [/us/stat/110/2347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2347
+[/us/usc/t42/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs601
 [/us/usc/t42/s9858]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9858
 
 

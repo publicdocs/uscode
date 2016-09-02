@@ -33,7 +33,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 11201.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs11201" data-uslm-ref="/us/usc/t42/s11201">11201.</a>  </td>
 
     <td> Findings.  </td>
 
@@ -49,7 +49,9 @@ SUBCHAPTER II—COUNCIL ON ALZHEIMER’S DISEASE  </td>
 
   <tr>
 
-    <td> 11211, 11212. Repealed.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs11211" data-uslm-ref="/us/usc/t42/s11211">11211</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs11212" data-uslm-ref="/us/usc/t42/s11212">11212.</a>  </td>
+
+    <td> Repealed.  </td>
 
   </tr>
 
@@ -63,7 +65,9 @@ SUBCHAPTER III—ADVISORY PANEL ON ALZHEIMER’S DISEASE  </td>
 
   <tr>
 
-    <td> 11221 to 11223. Omitted.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs11221" data-uslm-ref="/us/usc/t42/s11221">11221</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs11223" data-uslm-ref="/us/usc/t42/s11223">11223.</a>  </td>
+
+    <td> Omitted.  </td>
 
   </tr>
 
@@ -77,7 +81,7 @@ SUBCHAPTER III–A—NATIONAL ALZHEIMER’S PROJECT  </td>
 
   <tr>
 
-    <td> 11225.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs11225" data-uslm-ref="/us/usc/t42/s11225">11225.</a>  </td>
 
     <td> The National Alzheimer’s Project.  </td>
 
@@ -93,15 +97,17 @@ SUBCHAPTER IV—RESEARCH RELATING TO SERVICES FOR INDIVIDUALS WITH ALZHEIMER’S
 
   <tr>
 
-    <td> 11231, 11232. Repealed or   </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs11231" data-uslm-ref="/us/usc/t42/s11231">11231</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs11232" data-uslm-ref="/us/usc/t42/s11232">11232.</a>  </td>
 
-    <td> Transferred.  </td>
+    <td> Repealed or Transferred.  </td>
 
   </tr>
 
   <tr>
 
-    <td> 11241 to 11243. Repealed or Transferred.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs11241" data-uslm-ref="/us/usc/t42/s11241">11241</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs11243" data-uslm-ref="/us/usc/t42/s11243">11243.</a>  </td>
+
+    <td> Repealed or Transferred.  </td>
 
   </tr>
 
@@ -115,7 +121,7 @@ Part 1—Responsibilities of National Institute of Mental Health  </td>
 
   <tr>
 
-    <td> 11251.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs11251" data-uslm-ref="/us/usc/t42/s11251">11251.</a>  </td>
 
     <td> Research program and plan.  </td>
 
@@ -123,7 +129,7 @@ Part 1—Responsibilities of National Institute of Mental Health  </td>
 
   <tr>
 
-    <td> 11252.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs11252" data-uslm-ref="/us/usc/t42/s11252">11252.</a>  </td>
 
     <td> Dissemination.  </td>
 
@@ -131,7 +137,7 @@ Part 1—Responsibilities of National Institute of Mental Health  </td>
 
   <tr>
 
-    <td> 11253.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs11253" data-uslm-ref="/us/usc/t42/s11253">11253.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 
@@ -147,7 +153,7 @@ Part 2—Responsibilities of Agency for Healthcare Research and Quality  </td>
 
   <tr>
 
-    <td> 11261.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs11261" data-uslm-ref="/us/usc/t42/s11261">11261.</a>  </td>
 
     <td> Research program.  </td>
 
@@ -155,7 +161,7 @@ Part 2—Responsibilities of Agency for Healthcare Research and Quality  </td>
 
   <tr>
 
-    <td> 11262.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs11262" data-uslm-ref="/us/usc/t42/s11262">11262.</a>  </td>
 
     <td> Dissemination.  </td>
 
@@ -163,7 +169,7 @@ Part 2—Responsibilities of Agency for Healthcare Research and Quality  </td>
 
   <tr>
 
-    <td> 11263.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs11263" data-uslm-ref="/us/usc/t42/s11263">11263.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 
@@ -179,7 +185,7 @@ Part 3—Responsibilities of the Centers for Medicare &amp; Medicaid Services  <
 
   <tr>
 
-    <td> 11271.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs11271" data-uslm-ref="/us/usc/t42/s11271">11271.</a>  </td>
 
     <td> Research program and plan.  </td>
 
@@ -187,7 +193,7 @@ Part 3—Responsibilities of the Centers for Medicare &amp; Medicaid Services  <
 
   <tr>
 
-    <td> 11272.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs11272" data-uslm-ref="/us/usc/t42/s11272">11272.</a>  </td>
 
     <td> Dissemination.  </td>
 
@@ -195,7 +201,7 @@ Part 3—Responsibilities of the Centers for Medicare &amp; Medicaid Services  <
 
   <tr>
 
-    <td> 11273.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs11273" data-uslm-ref="/us/usc/t42/s11273">11273.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 
@@ -203,7 +209,9 @@ Part 3—Responsibilities of the Centers for Medicare &amp; Medicaid Services  <
 
   <tr>
 
-    <td> 11281 to 11283. Repealed or Transferred.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs11281" data-uslm-ref="/us/usc/t42/s11281">11281</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs11283" data-uslm-ref="/us/usc/t42/s11283">11283.</a>  </td>
+
+    <td> Repealed or Transferred.  </td>
 
   </tr>
 
@@ -217,7 +225,7 @@ SUBCHAPTER V—EDUCATIONAL ACTIVITIES  </td>
 
   <tr>
 
-    <td> 11291.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs11291" data-uslm-ref="/us/usc/t42/s11291">11291.</a>  </td>
 
     <td> Providing information for personnel of Social Security Administration.  </td>
 
@@ -225,7 +233,7 @@ SUBCHAPTER V—EDUCATIONAL ACTIVITIES  </td>
 
   <tr>
 
-    <td> 11292.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs11292" data-uslm-ref="/us/usc/t42/s11292">11292.</a>  </td>
 
     <td> Education of public, individuals with Alzheimer’s disease and their families, and health and long-term care providers.  </td>
 
@@ -233,7 +241,7 @@ SUBCHAPTER V—EDUCATIONAL ACTIVITIES  </td>
 
   <tr>
 
-    <td> 11293.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs11293" data-uslm-ref="/us/usc/t42/s11293">11293.</a>  </td>
 
     <td> Education programs for safety and transportation personnel.  </td>
 
@@ -241,7 +249,7 @@ SUBCHAPTER V—EDUCATIONAL ACTIVITIES  </td>
 
   <tr>
 
-    <td> 11294.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs11294" data-uslm-ref="/us/usc/t42/s11294">11294.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 

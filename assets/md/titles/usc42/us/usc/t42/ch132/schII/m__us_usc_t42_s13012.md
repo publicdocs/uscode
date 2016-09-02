@@ -19,10 +19,6 @@
 
 ([Pub. L. 101–647, title II, § 216][/us/pl/101/647/s216], Nov. 29, 1990, [104 Stat. 4794][/us/stat/104/4794]; [Pub. L. 103–322, title IV, § 40156(a)(2)][/us/pl/103/322/s40156/a/2], Sept. 13, 1994, [108 Stat. 1923][/us/stat/108/1923]; [Pub. L. 109–162, title I, § 112(b)][/us/pl/109/162/s112/b], Jan. 5, 2006, [119 Stat. 2986][/us/stat/119/2986]; [Pub. L. 113–4, title I, § 106(1)][/us/pl/113/4/s106/1], Mar. 7, 2013, [127 Stat. 77][/us/stat/127/77].)
 
- __Amendment of Section__ 
-
-For effective date of amendment by [Pub. L. 113–4][/us/pl/113/4], see Effective Date of 2013 Amendment note below.
-
  __Amendments__ 
 
     2013—[Pub. L. 113–4][/us/pl/113/4] substituted “January 1, 2015” for “January 1, 2010”.
@@ -50,7 +46,6 @@ For effective date of amendment by [Pub. L. 113–4][/us/pl/113/4], see Effectiv
 [/us/stat/119/2986]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2986
 [/us/pl/113/4/s106/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs106%2F1
 [/us/stat/127/77]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F77
-[/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
 [/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
 [/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
 [/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322

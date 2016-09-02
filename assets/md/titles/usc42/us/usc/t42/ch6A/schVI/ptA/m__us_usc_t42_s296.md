@@ -133,21 +133,21 @@ As used in this subchapter:
 
 >     “(b) __Hiring Differences Among Certain Private Entities.—__ 
 
->     The Comptroller General of the United States shall conduct a study to determine differences in the hiring of nurses by nonprofit private entities as compared to the hiring of nurses by private entities that are not nonprofit. In carrying out the study, the Comptroller General shall determine the effect of the inclusion of private entities that are not nonprofit in the program under section 846 of the Public Health Service Act \[[section 297n of this title][/us/usc/t42/s297n]\]. Not later than 4 years after the date of the enactment of this Act \[Aug. 1, 2002\], the Comptroller General shall submit to the Congress a report describing the findings of the study.
+>     The Comptroller General of the United States shall conduct a study to determine differences in the hiring of nurses by nonprofit private entities as compared to the hiring of nurses by private entities that are not nonprofit. In carrying out the study, the Comptroller General shall determine the effect of the inclusion of private entities that are not nonprofit in the program under section 846 of the Public Health Service Act \[[42 U.S.C. 297n][/us/usc/t42/s297n]\]. Not later than 4 years after the date of the enactment of this Act \[Aug. 1, 2002\], the Comptroller General shall submit to the Congress a report describing the findings of the study.
 
 >     “(c) __Nursing Scholarships.—__ 
 
->     The Comptroller General of the United States shall conduct an evaluation of whether the program carried out under section 846(d) of the Public Health Service Act \[[section 297n(d) of this title][/us/usc/t42/s297n/d]\] has demonstrably increased the number of applicants to schools of nursing and, not later than 4 years after the date of the enactment of this Act \[Aug. 1, 2002\], submit a report to the Congress on the results of such evaluation.”
+>     The Comptroller General of the United States shall conduct an evaluation of whether the program carried out under section 846(d) of the Public Health Service Act \[[42 U.S.C. 297n(d)][/us/usc/t42/s297n/d]\] has demonstrably increased the number of applicants to schools of nursing and, not later than 4 years after the date of the enactment of this Act \[Aug. 1, 2002\], submit a report to the Congress on the results of such evaluation.”
 
  __Purpose__ 
 
 [Pub. L. 105–392, title I, § 122][/us/pl/105/392/s122], Nov. 13, 1998, [112 Stat. 3562][/us/stat/112/3562], provided that: 
 
-> “It is the purpose of this subtitle \[subtitle B (§§ 121–124) of title I of [Pub. L. 105–392][/us/pl/105/392], see Short Title of 1998 Amendment note set out under [section 201 of this title][/us/usc/t42/s201]\] to restructure the nurse education authorities of title VIII of the Public Health Service Act \[this subchapter\] to permit a comprehensive, flexible, and effective approach to Federal support for nursing workforce development.”
+> “It is the purpose of this subtitle \[subtitle B (§§ 121–124) of title I of [Pub. L. 105–392][/us/pl/105/392], see Short Title of 1998 Amendment note set out under [section 201 of this title][/us/usc/t42/s201]\] to restructure the nurse education authorities of title VIII of the Public Health Service Act \[[42 U.S.C. 296][/us/usc/t42/s296] et seq.\] to permit a comprehensive, flexible, and effective approach to Federal support for nursing workforce development.”
 
  __Information Respecting Supply and Distribution of and Requirements for Nurses; Determination Procedures; Surveys and Collection of Dates; Annual Report to Congress on Determinations, Etc.; Review by Office of Management and Budget of Report Prior to Submission__ 
 
-[Section 951 of Pub. L. 94–63][/us/pl/94/63/s951], as amended by [Pub. L. 95–623, § 12(h)][/us/pl/95/623/s12/h], Nov. 9, 1978, [92 Stat. 3457][/us/stat/92/3457], provided that:
+[Pub. L. 94–63, title IX, § 951][/us/pl/94/63/s951], [89 Stat. 367][/us/stat/89/367], as amended by [Pub. L. 95–623, § 12(h)][/us/pl/95/623/s12/h], Nov. 9, 1978, [92 Stat. 3457][/us/stat/92/3457], provided that:
 
 >     “(a)
 
@@ -247,7 +247,9 @@ As used in this subchapter:
 [/us/stat/112/3562]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3562
 [/us/pl/105/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392
 [/us/usc/t42/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs201
+[/us/usc/t42/s296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs296
 [/us/pl/94/63/s951]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F63%2Fs951
+[/us/stat/89/367]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F367
 [/us/pl/95/623/s12/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F623%2Fs12%2Fh
 [/us/stat/92/3457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3457
 

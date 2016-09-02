@@ -97,7 +97,7 @@
 
 [Pub. L. 106–169, title II, § 207(d)][/us/pl/106/169/s207/d], Dec. 14, 1999, [113 Stat. 1838][/us/stat/113/1838], provided that: 
 
-> “Within 6 months after the date of the enactment of this Act \[Dec. 14, 1999\], the Commissioner of Social Security shall develop regulations that prescribe the administrative process for making determinations under section 1129A of the Social Security Act \[this section\] (including when the applicable period in subsection (c) of such section shall commence), and shall provide guidance on the exercise of discretion as to whether the penalty should be imposed in particular cases.”
+> “Within 6 months after the date of the enactment of this Act \[Dec. 14, 1999\], the Commissioner of Social Security shall develop regulations that prescribe the administrative process for making determinations under section 1129A of the Social Security Act \[[42 U.S.C. 1320a–8a][/us/usc/t42/s1320a–8a]\] (including when the applicable period in subsection (c) of such section shall commence), and shall provide guidance on the exercise of discretion as to whether the penalty should be imposed in particular cases.”
 
 ----------
 
@@ -129,5 +129,6 @@
 [/us/usc/t42/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs402
 [/us/pl/106/169/s207/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F169%2Fs207%2Fd
 [/us/stat/113/1838]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1838
+[/us/usc/t42/s1320a–8a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320a%E2%80%938a
 
 

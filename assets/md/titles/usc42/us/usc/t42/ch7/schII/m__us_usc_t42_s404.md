@@ -157,7 +157,7 @@
 
 [Pub. L. 108–203, title II, § 210(c)][/us/pl/108/203/s210/c], Mar. 2, 2004, [118 Stat. 517][/us/stat/118/517], provided that: 
 
-> “The amendments and repeal made by this section \[amending this section and sections 1008, 1320b–17, and 1383 of this title and repealing [section 1320b–18 of this title][/us/usc/t42/s1320b–18]\] shall take effect on the date of enactment of this Act \[Mar. 2, 2004\], and shall be effective with respect to overpayments under titles II, VIII, and XVI of the Social Security Act \[subchapters II, VIII, and XVI of this chapter\] that are outstanding on or after such date.”
+> “The amendments and repeal made by this section \[amending this section and sections 1008, 1320b–17, and 1383 of this title and repealing [section 1320b–18 of this title][/us/usc/t42/s1320b–18]\] shall take effect on the date of enactment of this Act \[Mar. 2, 2004\], and shall be effective with respect to overpayments under titles II, VIII, and XVI of the Social Security Act \[[42 U.S.C. 401][/us/usc/t42/s401] et seq., 1001 et seq., and 1381 et seq.\] that are outstanding on or after such date.”
 
  __Effective Date of 1999 Amendment__ 
 
@@ -201,7 +201,7 @@
 
 [Pub. L. 90–248, title I, § 153(b)][/us/pl/90/248/s153/b], Jan. 2, 1968, [81 Stat. 861][/us/stat/81/861], provided that: 
 
-> “The amendment made by this section \[amending this section\] shall apply with respect to benefits under title II of the Social Security Act \[this subchapter\] if the individual to whom such benefits were paid would have been entitled to such benefits in or after the month in which this Act was enacted \[January 1968\] if the report mentioned in the amendment made by subsection (a) of this section had been correct (but without regard to the provisions of section 202(j)(1) of such Act \[[section 402(j)(1) of this title][/us/usc/t42/s402/j/1]\]).”
+> “The amendment made by this section \[amending this section\] shall apply with respect to benefits under title II of the Social Security Act \[this subchapter\] if the individual to whom such benefits were paid would have been entitled to such benefits in or after the month in which this Act was enacted \[January 1968\] if the report mentioned in the amendment made by subsection (a) of this section had been correct (but without regard to the provisions of section 202(j)(1) of such Act \[[42 U.S.C. 402(j)(1)][/us/usc/t42/s402/j/1]\]).”
 
  __Effective Date of 1939 Amendment__ 
 
@@ -288,6 +288,7 @@
 [/us/pl/108/203/s210/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F203%2Fs210%2Fc
 [/us/stat/118/517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F517
 [/us/usc/t42/s1320b–18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320b%E2%80%9318
+[/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
 [/us/pl/106/169/s201/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F169%2Fs201%2Fc
 [/us/stat/113/1831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1831
 [/us/usc/t42/s1383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1383

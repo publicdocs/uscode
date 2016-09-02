@@ -33,7 +33,7 @@ SUBCHAPTER I—PUBLIC AND ASSISTED HOUSING DRUG ELIMINATION  </td>
 
   <tr>
 
-    <td> 11901.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs11901" data-uslm-ref="/us/usc/t42/s11901">11901.</a>  </td>
 
     <td> Congressional findings.  </td>
 
@@ -41,7 +41,7 @@ SUBCHAPTER I—PUBLIC AND ASSISTED HOUSING DRUG ELIMINATION  </td>
 
   <tr>
 
-    <td> 11902.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs11902" data-uslm-ref="/us/usc/t42/s11902">11902.</a>  </td>
 
     <td> Authority to make grants.  </td>
 
@@ -49,7 +49,7 @@ SUBCHAPTER I—PUBLIC AND ASSISTED HOUSING DRUG ELIMINATION  </td>
 
   <tr>
 
-    <td> 11903.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs11903" data-uslm-ref="/us/usc/t42/s11903">11903.</a>  </td>
 
     <td> Eligible activities.  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER I—PUBLIC AND ASSISTED HOUSING DRUG ELIMINATION  </td>
 
   <tr>
 
-    <td> 11903a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs11903a" data-uslm-ref="/us/usc/t42/s11903a">11903a.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -65,7 +65,7 @@ SUBCHAPTER I—PUBLIC AND ASSISTED HOUSING DRUG ELIMINATION  </td>
 
   <tr>
 
-    <td> 11904.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs11904" data-uslm-ref="/us/usc/t42/s11904">11904.</a>  </td>
 
     <td> Applications.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER I—PUBLIC AND ASSISTED HOUSING DRUG ELIMINATION  </td>
 
   <tr>
 
-    <td> 11905.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs11905" data-uslm-ref="/us/usc/t42/s11905">11905.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -81,7 +81,7 @@ SUBCHAPTER I—PUBLIC AND ASSISTED HOUSING DRUG ELIMINATION  </td>
 
   <tr>
 
-    <td> 11906.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs11906" data-uslm-ref="/us/usc/t42/s11906">11906.</a>  </td>
 
     <td> Reports.  </td>
 
@@ -89,7 +89,7 @@ SUBCHAPTER I—PUBLIC AND ASSISTED HOUSING DRUG ELIMINATION  </td>
 
   <tr>
 
-    <td> 11907.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs11907" data-uslm-ref="/us/usc/t42/s11907">11907.</a>  </td>
 
     <td> Monitoring.  </td>
 
@@ -97,7 +97,7 @@ SUBCHAPTER I—PUBLIC AND ASSISTED HOUSING DRUG ELIMINATION  </td>
 
   <tr>
 
-    <td> 11908.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs11908" data-uslm-ref="/us/usc/t42/s11908">11908.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 
@@ -105,7 +105,7 @@ SUBCHAPTER I—PUBLIC AND ASSISTED HOUSING DRUG ELIMINATION  </td>
 
   <tr>
 
-    <td> 11909.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs11909" data-uslm-ref="/us/usc/t42/s11909">11909.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -121,7 +121,7 @@ SUBCHAPTER II—DRUG-FREE PUBLIC HOUSING  </td>
 
   <tr>
 
-    <td> 11921.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs11921" data-uslm-ref="/us/usc/t42/s11921">11921.</a>  </td>
 
     <td> Statement of purpose.  </td>
 
@@ -129,7 +129,7 @@ SUBCHAPTER II—DRUG-FREE PUBLIC HOUSING  </td>
 
   <tr>
 
-    <td> 11922.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs11922" data-uslm-ref="/us/usc/t42/s11922">11922.</a>  </td>
 
     <td> Clearinghouse on drug abuse in public housing.  </td>
 
@@ -137,7 +137,7 @@ SUBCHAPTER II—DRUG-FREE PUBLIC HOUSING  </td>
 
   <tr>
 
-    <td> 11923.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs11923" data-uslm-ref="/us/usc/t42/s11923">11923.</a>  </td>
 
     <td> Regional training program on drug abuse in public housing.  </td>
 
@@ -145,7 +145,7 @@ SUBCHAPTER II—DRUG-FREE PUBLIC HOUSING  </td>
 
   <tr>
 
-    <td> 11924.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs11924" data-uslm-ref="/us/usc/t42/s11924">11924.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -153,7 +153,7 @@ SUBCHAPTER II—DRUG-FREE PUBLIC HOUSING  </td>
 
   <tr>
 
-    <td> 11925.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs11925" data-uslm-ref="/us/usc/t42/s11925">11925.</a>  </td>
 
     <td> Regulations.  </td>
 

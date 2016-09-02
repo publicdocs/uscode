@@ -59,10 +59,6 @@
 
 ([Pub. L. 103–322, title IV, § 41501][/us/pl/103/322/s41501], as added [Pub. L. 109–162, title VII, § 701][/us/pl/109/162/s701], Jan. 5, 2006, [119 Stat. 3052][/us/stat/119/3052]; amended [Pub. L. 113–4, title VII, § 701][/us/pl/113/4/s701], Mar. 7, 2013, [127 Stat. 110][/us/stat/127/110].)
 
- __Amendment of Section__ 
-
-For effective date of amendment by [Pub. L. 113–4][/us/pl/113/4], see Effective Date of 2013 Amendment note below.
-
  __Amendments__ 
 
     2013—Subsec. (e). [Pub. L. 113–4][/us/pl/113/4] substituted “fiscal years 2014 through 2018” for “fiscal years 2007 through 2011”.
@@ -83,7 +79,6 @@ For effective date of amendment by [Pub. L. 113–4][/us/pl/113/4], see Effectiv
 [/us/stat/119/3052]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3052
 [/us/pl/113/4/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs701
 [/us/stat/127/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F110
-[/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
 [/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
 [/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
 [/us/pl/113/4/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs4

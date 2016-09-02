@@ -33,7 +33,7 @@ SUBCHAPTER I—GENERAL PROGRAM  </td>
 
   <tr>
 
-    <td> 5101.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs5101" data-uslm-ref="/us/usc/t42/s5101">5101.</a>  </td>
 
     <td> Office on Child Abuse and Neglect.  </td>
 
@@ -41,7 +41,7 @@ SUBCHAPTER I—GENERAL PROGRAM  </td>
 
   <tr>
 
-    <td> 5102.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs5102" data-uslm-ref="/us/usc/t42/s5102">5102.</a>  </td>
 
     <td> Advisory board on child abuse and neglect.  </td>
 
@@ -49,7 +49,7 @@ SUBCHAPTER I—GENERAL PROGRAM  </td>
 
   <tr>
 
-    <td> 5103.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs5103" data-uslm-ref="/us/usc/t42/s5103">5103.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER I—GENERAL PROGRAM  </td>
 
   <tr>
 
-    <td> 5104.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs5104" data-uslm-ref="/us/usc/t42/s5104">5104.</a>  </td>
 
     <td> National clearinghouse for information relating to child abuse.  </td>
 
@@ -65,7 +65,7 @@ SUBCHAPTER I—GENERAL PROGRAM  </td>
 
   <tr>
 
-    <td> 5105.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs5105" data-uslm-ref="/us/usc/t42/s5105">5105.</a>  </td>
 
     <td> Research and assistance activities.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER I—GENERAL PROGRAM  </td>
 
   <tr>
 
-    <td> 5106.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs5106" data-uslm-ref="/us/usc/t42/s5106">5106.</a>  </td>
 
     <td> Grants to States, Indian tribes or tribal organizations, and public or private agencies and organizations.  </td>
 
@@ -81,7 +81,7 @@ SUBCHAPTER I—GENERAL PROGRAM  </td>
 
   <tr>
 
-    <td> 5106a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs5106a" data-uslm-ref="/us/usc/t42/s5106a">5106a.</a>  </td>
 
     <td> Grants to States for child abuse or neglect prevention and treatment programs.  </td>
 
@@ -89,7 +89,7 @@ SUBCHAPTER I—GENERAL PROGRAM  </td>
 
   <tr>
 
-    <td> 5106a–1, 5106b.   </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs5106a%E2%80%931" data-uslm-ref="/us/usc/t42/s5106a–1">5106a–1</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs5106b" data-uslm-ref="/us/usc/t42/s5106b">5106b.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -97,7 +97,7 @@ SUBCHAPTER I—GENERAL PROGRAM  </td>
 
   <tr>
 
-    <td> 5106c.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs5106c" data-uslm-ref="/us/usc/t42/s5106c">5106c.</a>  </td>
 
     <td> Grants to States for programs relating to investigation and prosecution of child abuse and neglect cases.  </td>
 
@@ -105,7 +105,7 @@ SUBCHAPTER I—GENERAL PROGRAM  </td>
 
   <tr>
 
-    <td> 5106d.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs5106d" data-uslm-ref="/us/usc/t42/s5106d">5106d.</a>  </td>
 
     <td> Miscellaneous requirements relating to assistance.  </td>
 
@@ -113,7 +113,7 @@ SUBCHAPTER I—GENERAL PROGRAM  </td>
 
   <tr>
 
-    <td> 5106e.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs5106e" data-uslm-ref="/us/usc/t42/s5106e">5106e.</a>  </td>
 
     <td> Coordination of child abuse and neglect programs.  </td>
 
@@ -121,7 +121,7 @@ SUBCHAPTER I—GENERAL PROGRAM  </td>
 
   <tr>
 
-    <td> 5106f.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs5106f" data-uslm-ref="/us/usc/t42/s5106f">5106f.</a>  </td>
 
     <td> Reports.  </td>
 
@@ -129,7 +129,7 @@ SUBCHAPTER I—GENERAL PROGRAM  </td>
 
   <tr>
 
-    <td> 5106f–1.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs5106f%E2%80%931" data-uslm-ref="/us/usc/t42/s5106f–1">5106f–1.</a>  </td>
 
     <td> Report concerning voluntary reporting system.  </td>
 
@@ -137,7 +137,7 @@ SUBCHAPTER I—GENERAL PROGRAM  </td>
 
   <tr>
 
-    <td> 5106g.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs5106g" data-uslm-ref="/us/usc/t42/s5106g">5106g.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -145,7 +145,7 @@ SUBCHAPTER I—GENERAL PROGRAM  </td>
 
   <tr>
 
-    <td> 5106h.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs5106h" data-uslm-ref="/us/usc/t42/s5106h">5106h.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 
@@ -153,7 +153,7 @@ SUBCHAPTER I—GENERAL PROGRAM  </td>
 
   <tr>
 
-    <td> 5106i.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs5106i" data-uslm-ref="/us/usc/t42/s5106i">5106i.</a>  </td>
 
     <td> Rule of construction.  </td>
 
@@ -161,7 +161,7 @@ SUBCHAPTER I—GENERAL PROGRAM  </td>
 
   <tr>
 
-    <td> 5107.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs5107" data-uslm-ref="/us/usc/t42/s5107">5107.</a>  </td>
 
     <td> Discretionary programs; authorization of appropriations.  </td>
 
@@ -177,7 +177,7 @@ SUBCHAPTER II—ADOPTION OPPORTUNITIES  </td>
 
   <tr>
 
-    <td> 5111.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs5111" data-uslm-ref="/us/usc/t42/s5111">5111.</a>  </td>
 
     <td> Congressional findings and declaration of purpose.  </td>
 
@@ -185,7 +185,7 @@ SUBCHAPTER II—ADOPTION OPPORTUNITIES  </td>
 
   <tr>
 
-    <td> 5112.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs5112" data-uslm-ref="/us/usc/t42/s5112">5112.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -193,7 +193,7 @@ SUBCHAPTER II—ADOPTION OPPORTUNITIES  </td>
 
   <tr>
 
-    <td> 5113.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs5113" data-uslm-ref="/us/usc/t42/s5113">5113.</a>  </td>
 
     <td> Information and services.  </td>
 
@@ -201,7 +201,7 @@ SUBCHAPTER II—ADOPTION OPPORTUNITIES  </td>
 
   <tr>
 
-    <td> 5114.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs5114" data-uslm-ref="/us/usc/t42/s5114">5114.</a>  </td>
 
     <td> Study and report of unlicensed or unregulated adoption placements.  </td>
 
@@ -209,7 +209,7 @@ SUBCHAPTER II—ADOPTION OPPORTUNITIES  </td>
 
   <tr>
 
-    <td> 5115.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs5115" data-uslm-ref="/us/usc/t42/s5115">5115.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 
@@ -217,7 +217,7 @@ SUBCHAPTER II—ADOPTION OPPORTUNITIES  </td>
 
   <tr>
 
-    <td> 5115a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs5115a" data-uslm-ref="/us/usc/t42/s5115a">5115a.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -233,7 +233,7 @@ SUBCHAPTER III—COMMUNITY–BASED GRANTS FOR THE PREVENTION OF CHILD ABUSE AND 
 
   <tr>
 
-    <td> 5116.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs5116" data-uslm-ref="/us/usc/t42/s5116">5116.</a>  </td>
 
     <td> Purpose and authority.  </td>
 
@@ -241,7 +241,7 @@ SUBCHAPTER III—COMMUNITY–BASED GRANTS FOR THE PREVENTION OF CHILD ABUSE AND 
 
   <tr>
 
-    <td> 5116a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs5116a" data-uslm-ref="/us/usc/t42/s5116a">5116a.</a>  </td>
 
     <td> Eligibility.  </td>
 
@@ -249,7 +249,7 @@ SUBCHAPTER III—COMMUNITY–BASED GRANTS FOR THE PREVENTION OF CHILD ABUSE AND 
 
   <tr>
 
-    <td> 5116b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs5116b" data-uslm-ref="/us/usc/t42/s5116b">5116b.</a>  </td>
 
     <td> Amount of grant.  </td>
 
@@ -257,7 +257,7 @@ SUBCHAPTER III—COMMUNITY–BASED GRANTS FOR THE PREVENTION OF CHILD ABUSE AND 
 
   <tr>
 
-    <td> 5116c.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs5116c" data-uslm-ref="/us/usc/t42/s5116c">5116c.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -265,7 +265,7 @@ SUBCHAPTER III—COMMUNITY–BASED GRANTS FOR THE PREVENTION OF CHILD ABUSE AND 
 
   <tr>
 
-    <td> 5116d.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs5116d" data-uslm-ref="/us/usc/t42/s5116d">5116d.</a>  </td>
 
     <td> Application.  </td>
 
@@ -273,7 +273,7 @@ SUBCHAPTER III—COMMUNITY–BASED GRANTS FOR THE PREVENTION OF CHILD ABUSE AND 
 
   <tr>
 
-    <td> 5116e.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs5116e" data-uslm-ref="/us/usc/t42/s5116e">5116e.</a>  </td>
 
     <td> Local program requirements.  </td>
 
@@ -281,7 +281,7 @@ SUBCHAPTER III—COMMUNITY–BASED GRANTS FOR THE PREVENTION OF CHILD ABUSE AND 
 
   <tr>
 
-    <td> 5116f.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs5116f" data-uslm-ref="/us/usc/t42/s5116f">5116f.</a>  </td>
 
     <td> Performance measures.  </td>
 
@@ -289,7 +289,7 @@ SUBCHAPTER III—COMMUNITY–BASED GRANTS FOR THE PREVENTION OF CHILD ABUSE AND 
 
   <tr>
 
-    <td> 5116g.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs5116g" data-uslm-ref="/us/usc/t42/s5116g">5116g.</a>  </td>
 
     <td> National network for community-based family resource programs.  </td>
 
@@ -297,7 +297,7 @@ SUBCHAPTER III—COMMUNITY–BASED GRANTS FOR THE PREVENTION OF CHILD ABUSE AND 
 
   <tr>
 
-    <td> 5116h.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs5116h" data-uslm-ref="/us/usc/t42/s5116h">5116h.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -305,7 +305,7 @@ SUBCHAPTER III—COMMUNITY–BASED GRANTS FOR THE PREVENTION OF CHILD ABUSE AND 
 
   <tr>
 
-    <td> 5116i.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs5116i" data-uslm-ref="/us/usc/t42/s5116i">5116i.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 
@@ -321,7 +321,9 @@ SUBCHAPTER IV—TEMPORARY CHILD CARE FOR CHILDREN WITH DISABILITIES AND CRISIS N
 
   <tr>
 
-    <td> 5117 to 5117d. Repealed.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs5117" data-uslm-ref="/us/usc/t42/s5117">5117</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs5117d" data-uslm-ref="/us/usc/t42/s5117d">5117d.</a>  </td>
+
+    <td> Repealed.  </td>
 
   </tr>
 
@@ -335,7 +337,7 @@ SUBCHAPTER IV–A—ABANDONED INFANTS ASSISTANCE  </td>
 
   <tr>
 
-    <td> 5117aa.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs5117aa" data-uslm-ref="/us/usc/t42/s5117aa">5117aa.</a>  </td>
 
     <td> Findings.  </td>
 
@@ -351,15 +353,17 @@ Part A—Projects Regarding Abandonment of Infants and Young Children in Hospita
 
   <tr>
 
-    <td> 5117aa–11. Establishment of local projects.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs5117aa%E2%80%9311" data-uslm-ref="/us/usc/t42/s5117aa–11">5117aa–11.</a>  </td>
 
-    <td>   </td>
+    <td> Establishment of local projects.  </td>
 
   </tr>
 
   <tr>
 
-    <td> 5117aa–12. Evaluations, study, and reports by Secretary.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs5117aa%E2%80%9312" data-uslm-ref="/us/usc/t42/s5117aa–12">5117aa–12.</a>  </td>
+
+    <td> Evaluations, study, and reports by Secretary.  </td>
 
   </tr>
 
@@ -373,15 +377,17 @@ Part B—General Provisions  </td>
 
   <tr>
 
-    <td> 5117aa–21. Definitions.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs5117aa%E2%80%9321" data-uslm-ref="/us/usc/t42/s5117aa–21">5117aa–21.</a>  </td>
 
-    <td>   </td>
+    <td> Definitions.  </td>
 
   </tr>
 
   <tr>
 
-    <td> 5117aa–22. Authorization of appropriations.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs5117aa%E2%80%9322" data-uslm-ref="/us/usc/t42/s5117aa–22">5117aa–22.</a>  </td>
+
+    <td> Authorization of appropriations.  </td>
 
   </tr>
 
@@ -395,7 +401,9 @@ SUBCHAPTER V—CERTAIN PREVENTIVE SERVICES REGARDING CHILDREN OF HOMELESS FAMILI
 
   <tr>
 
-    <td> 5118 to 5118e. Repealed.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs5118" data-uslm-ref="/us/usc/t42/s5118">5118</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs5118e" data-uslm-ref="/us/usc/t42/s5118e">5118e.</a>  </td>
+
+    <td> Repealed.  </td>
 
   </tr>
 
@@ -409,7 +417,7 @@ SUBCHAPTER VI—CHILD ABUSE CRIME INFORMATION AND BACKGROUND CHECKS  </td>
 
   <tr>
 
-    <td> 5119.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs5119" data-uslm-ref="/us/usc/t42/s5119">5119.</a>  </td>
 
     <td> Reporting child abuse crime information.  </td>
 
@@ -417,7 +425,7 @@ SUBCHAPTER VI—CHILD ABUSE CRIME INFORMATION AND BACKGROUND CHECKS  </td>
 
   <tr>
 
-    <td> 5119a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs5119a" data-uslm-ref="/us/usc/t42/s5119a">5119a.</a>  </td>
 
     <td> Background checks.  </td>
 
@@ -425,7 +433,7 @@ SUBCHAPTER VI—CHILD ABUSE CRIME INFORMATION AND BACKGROUND CHECKS  </td>
 
   <tr>
 
-    <td> 5119b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs5119b" data-uslm-ref="/us/usc/t42/s5119b">5119b.</a>  </td>
 
     <td> Funding for improvement of child abuse crime information.  </td>
 
@@ -433,7 +441,7 @@ SUBCHAPTER VI—CHILD ABUSE CRIME INFORMATION AND BACKGROUND CHECKS  </td>
 
   <tr>
 
-    <td> 5119c.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs5119c" data-uslm-ref="/us/usc/t42/s5119c">5119c.</a>  </td>
 
     <td> Definitions.  </td>
 

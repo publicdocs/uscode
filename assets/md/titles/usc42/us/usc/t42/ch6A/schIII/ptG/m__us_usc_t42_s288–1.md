@@ -43,7 +43,7 @@
 
 [Pub. L. 103–43, title XVI, § 1611(b)][/us/pl/103/43/s1611/b], June 10, 1993, [107 Stat. 182][/us/stat/107/182], provided that: 
 
-> “The amendment made by subsection (a) \[amending this section\] does not apply to any agreement entered into under section 487A of the Public Health Service Act \[this section\] before the date of the enactment of this Act \[June 10, 1993\]. Each such agreement continues to be subject to the terms of the agreement in effect on the day before such date.”
+> “The amendment made by subsection (a) \[amending this section\] does not apply to any agreement entered into under section 487A of the Public Health Service Act \[[42 U.S.C. 288–1][/us/usc/t42/s288–1]\] before the date of the enactment of this Act \[June 10, 1993\]. Each such agreement continues to be subject to the terms of the agreement in effect on the day before such date.”
 
 ----------
 
@@ -70,5 +70,6 @@
 [/us/usc/t42/s281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs281
 [/us/pl/103/43/s1611/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs1611%2Fb
 [/us/stat/107/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F182
+[/us/usc/t42/s288–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs288%E2%80%931
 
 

@@ -23,15 +23,15 @@
 
     Section 801, [act Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title VI, § 601, as added Oct. 30, 1972, [Pub. L. 92–603, title III, § 302][/us/pl/92/603/s302], [86 Stat. 1478][/us/stat/86/1478], authorized appropriations for encouraging States to furnish rehabilitation to needy individuals 65 years of age or older, and the blind or disabled.
 
-    Another prior section 801, acts [Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title VI, § 601, [49 Stat. 634][/us/stat/49/634]; [Aug. 10, 1939, ch. 666][/us/act/1939-08-10/ch666], title V, § 509, [53 Stat. 1381][/us/stat/53/1381], which provided appropriations for the purpose of assisting States and subdivisions in maintaining adequate public health services, was repealed by [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XIII, § 1313, [58 Stat. 714][/us/stat/58/714]. See [section 246 of this title][/us/usc/t42/s246].
+    Another prior section 801, acts [Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title VI, § 601, [49 Stat. 634][/us/stat/49/634]; [Aug. 10, 1939, ch. 666][/us/act/1939-08-10/ch666], title V, § 509, [53 Stat. 1381][/us/stat/53/1381], which provided appropriations for the purpose of assisting States and subdivisions in maintaining adequate public health services, was repealed by [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XIII, § 1313, formerly title VI, § 611, [58 Stat. 719][/us/stat/58/719]. See [section 246 of this title][/us/usc/t42/s246].
 
     Section 802, [act Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title VI, § 602, as added Oct. 30, 1972, [Pub. L. 92–603, title III, § 302][/us/pl/92/603/s302], [86 Stat. 1479][/us/stat/86/1479], set out the necessary provisions for State plans for services to the aged, blind, or disabled.
 
-    Another prior section 802, [act Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title VI, § 602, [49 Stat. 634][/us/stat/49/634], which provided for allotments to States by Surgeon General, was repealed by [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XIII, § 1313, [58 Stat. 714][/us/stat/58/714]. See [section 246 of this title][/us/usc/t42/s246].
+    Another prior section 802, [act Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title VI, § 602, [49 Stat. 634][/us/stat/49/634], which provided for allotments to States by Surgeon General, was repealed by [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XIII, § 1313, formerly title VI, § 611, [58 Stat. 719][/us/stat/58/719]. See [section 246 of this title][/us/usc/t42/s246].
 
     Section 803, [act Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title VI, § 603, as added Oct. 30, 1972, [Pub. L. 92–603, title III, § 302][/us/pl/92/603/s302], [86 Stat. 1481][/us/stat/86/1481], provided for payments to States under approved plans for services to the aged, blind, or disabled.
 
-    Another prior section 803, [act Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title VI, § 603, [49 Stat. 635][/us/stat/49/635], which provided for allotments to States by appropriations for investigation of diseases by Public Health Service, was repealed by [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XIII, § 1313, [58 Stat. 714][/us/stat/58/714]. See [section 246 of this title][/us/usc/t42/s246].
+    Another prior section 803, [act Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title VI, § 603, [49 Stat. 635][/us/stat/49/635], which provided for allotments to States by appropriations for investigation of diseases by Public Health Service, was repealed by [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XIII, § 1313, formerly title VI, § 611, [58 Stat. 719][/us/stat/58/719]. See [section 246 of this title][/us/usc/t42/s246].
 
     Section 804, [act Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title VI, § 604, as added Oct. 30, 1972, [Pub. L. 92–603, title III, § 302][/us/pl/92/603/s302], [86 Stat. 1484][/us/stat/86/1484], provided for notification to States and termination of payments in case of noncompliance with laws or State plan.
 
@@ -68,7 +68,7 @@
 [/us/act/1939-08-10/ch666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-08-10%2Fch666
 [/us/stat/53/1381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F1381
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/stat/58/714]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F58%2F714
+[/us/stat/58/719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F58%2F719
 [/us/usc/t42/s246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs246
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/pl/92/603/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603%2Fs302
@@ -76,7 +76,7 @@
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/634]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F634
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/stat/58/714]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F58%2F714
+[/us/stat/58/719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F58%2F719
 [/us/usc/t42/s246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs246
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/pl/92/603/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603%2Fs302
@@ -84,7 +84,7 @@
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/635]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F635
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/stat/58/714]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F58%2F714
+[/us/stat/58/719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F58%2F719
 [/us/usc/t42/s246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs246
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/pl/92/603/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603%2Fs302

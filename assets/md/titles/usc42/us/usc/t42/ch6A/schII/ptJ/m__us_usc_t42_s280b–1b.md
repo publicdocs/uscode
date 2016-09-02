@@ -67,10 +67,6 @@
 
 ([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 393A, formerly § 393B, as added [Pub. L. 106–386, div. B, title IV, § 1401(a)][/us/pl/106/386/s1401/a], Oct. 28, 2000, [114 Stat. 1512][/us/stat/114/1512]; amended [Pub. L. 109–162, title III, § 302][/us/pl/109/162/s302], Jan. 5, 2006, [119 Stat. 3004][/us/stat/119/3004]; renumbered § 393C, [Pub. L. 110–202, § 2(1)][/us/pl/110/202/s2/1], Apr. 23, 2008, [122 Stat. 697][/us/stat/122/697]; renumbered § 393A, [Pub. L. 110–206, § 2(1)][/us/pl/110/206/s2/1], Apr. 28, 2008, [122 Stat. 714][/us/stat/122/714]; [Pub. L. 113–4, title III, § 301][/us/pl/113/4/s301], Mar. 7, 2013, [127 Stat. 84][/us/stat/127/84].)
 
- __Amendment of Section__ 
-
-For effective date of amendment by [Pub. L. 113–4][/us/pl/113/4], see Effective Date of 2013 Amendment note below.
-
  __Codification__ 
 
     Section was formerly classified to [section 280b–1c of this title][/us/usc/t42/s280b–1c]. [Pub. L. 110–206][/us/pl/110/206], which directed the renumbering of “the section 393B ([42 U.S.C. 280b–1c][/us/usc/t42/s280b–1c])” of act July 1, 1944, “relating to the use of allotments for rape prevention education” as section 393A and the transfer of that section so as to appear after section 393 of that Act, was executed by renumbering section 393C of that Act as 393A and transferring the renumbered provisions to this section, to reflect the probable intent of Congress and the renumbering of section 393B as 393C by [section 2(1) of Pub. L. 110–202][/us/pl/110/202/s2/1].
@@ -114,7 +110,6 @@ For effective date of amendment by [Pub. L. 113–4][/us/pl/113/4], see Effectiv
 [/us/stat/122/714]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F714
 [/us/pl/113/4/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs301
 [/us/stat/127/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F84
-[/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
 [/us/usc/t42/s280b–1c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs280b%E2%80%931c
 [/us/pl/110/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F206
 [/us/usc/t42/s280b–1c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs280b%E2%80%931c

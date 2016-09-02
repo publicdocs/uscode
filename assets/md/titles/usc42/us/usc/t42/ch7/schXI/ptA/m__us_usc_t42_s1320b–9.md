@@ -81,7 +81,7 @@
 
 [Pub. L. 103–432, title II, § 264(d)][/us/pl/103/432/s264/d], Oct. 31, 1994, [108 Stat. 4468][/us/stat/108/4468], provided that: 
 
-> “Section 5057 of OBRA–1990 \[[Pub. L. 101–508][/us/pl/101/508], amending this section\], and the amendment made by such section, are hereby repealed, and section 1139(d) of the Social Security Act \[subsec. (d) of this section\] shall be applied and administered as if such section 5057 had never been enacted.”
+> “Section 5057 of OBRA–1990 \[[Pub. L. 101–508][/us/pl/101/508], amending this section\], and the amendment made by such section, are hereby repealed, and section 1139(d) of the Social Security Act \[[42 U.S.C. 1320b–9(d)][/us/usc/t42/s1320b–9/d]\] shall be applied and administered as if such section 5057 had never been enacted.”
 
 ----------
 
@@ -134,5 +134,6 @@
 [/us/pl/103/432/s264/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432%2Fs264%2Fd
 [/us/stat/108/4468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4468
 [/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/usc/t42/s1320b–9/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320b%E2%80%939%2Fd
 
 

@@ -383,7 +383,7 @@ A prior section 300gg, [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], ti
 
 >             “(ii) __Special rule for certain periods.—__ 
 
->             The Secretary of Health and Human Services, consistent with section 104 \[set out as a note under [section 300gg–92 of this title][/us/usc/t42/s300gg–92]\], shall provide for a process whereby individuals who need to establish creditable coverage for periods before July 1, 1996, and who would have such coverage credited but for clause (i) may be given credit for creditable coverage for such periods through the presentation of documents or other means.
+>             The Secretary of Health and Human Services, consistent with section 104 \[[42 U.S.C. 300gg–92][/us/usc/t42/s300gg–92] note\], shall provide for a process whereby individuals who need to establish creditable coverage for periods before July 1, 1996, and who would have such coverage credited but for clause (i) may be given credit for creditable coverage for such periods through the presentation of documents or other means.
 
 >         “(B) __Certifications, etc.—__ 
 
@@ -419,7 +419,7 @@ A prior section 300gg, [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], ti
 
 >     “(4) __Timely regulations.—__ 
 
->     The Secretary of Health and Human Services, consistent with section 104 \[set out as a note under [section 300gg–92 of this title][/us/usc/t42/s300gg–92]\], shall first issue by not later than April 1, 1997, such regulations as may be necessary to carry out the amendments made by this section \[enacting this section and sections 300gg–1, 300gg–11 to 300gg–13, 300gg–21 to 300gg–23, 300gg–91, and 300gg–92 of this title and amending sections 300e and 300bb–8 of this title\] and section 111 \[enacting sections 300gg–41 to 300gg–44 and 300gg–61 to 300gg–63 of this title\].
+>     The Secretary of Health and Human Services, consistent with section 104 \[[42 U.S.C. 300gg–92][/us/usc/t42/s300gg–92] note\], shall first issue by not later than April 1, 1997, such regulations as may be necessary to carry out the amendments made by this section \[enacting this section and sections 300gg–1, 300gg–11 to 300gg–13, 300gg–21 to 300gg–23, 300gg–91, and 300gg–92 of this title and amending sections 300e and 300bb–8 of this title\] and section 111 \[enacting sections 300gg–41 to 300gg–44 and 300gg–61 to 300gg–63 of this title\].
 
 >     “(5) __Limitation on actions.—__ 
 

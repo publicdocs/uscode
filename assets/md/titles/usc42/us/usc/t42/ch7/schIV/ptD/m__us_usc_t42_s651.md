@@ -41,13 +41,13 @@
 
 >     “(a) Except as otherwise specifically provided in the preceding sections of this chapter \[sections 2331–2335 of [Pub. L. 97–35][/us/pl/97/35]\] or in subsection (b), the provisions of this chapter and the amendments and repeals made by this chapter \[amending this section, sections 652, 653, 654, 657, and 664 of this title, and sections 6305 and 6402 of Title 26, Internal Revenue Code\] shall become effective on October 1, 1981.
 
->     “(b) If a State agency administering a plan approved under part D of title IV of the Social Security Act \[this part\] demonstrates, to the satisfaction of the Secretary of Health and Human Services, that it cannot, by reason of State law, comply with the requirements of an amendment made by this chapter to which the effective date specified in subsection (a) applies, the Secretary may prescribe that, in the case of such State, the amendment will become effective beginning with the first month beginning after the close of the first session of such State’s legislature ending on or after October 1, 1981. For purposes of the preceding sentence, the term ‘session of a State’s legislature’ includes any regular, special, budget, or other session of a State legislature.”
+>     “(b) If a State agency administering a plan approved under part D of title IV of the Social Security Act \[[42 U.S.C. 651][/us/usc/t42/s651] et seq.\] demonstrates, to the satisfaction of the Secretary of Health and Human Services, that it cannot, by reason of State law, comply with the requirements of an amendment made by this chapter to which the effective date specified in subsection (a) applies, the Secretary may prescribe that, in the case of such State, the amendment will become effective beginning with the first month beginning after the close of the first session of such State’s legislature ending on or after October 1, 1981. For purposes of the preceding sentence, the term ‘session of a State’s legislature’ includes any regular, special, budget, or other session of a State legislature.”
 
  __Effective Date__ 
 
 [Pub. L. 93–647, § 101(f)][/us/pl/93/647/s101/f], Jan. 4, 1975, [88 Stat. 2361][/us/stat/88/2361], as amended by [Pub. L. 94–46, § 2][/us/pl/94/46/s2], June 30, 1975, [89 Stat. 245][/us/stat/89/245], provided that: 
 
-> “The amendments made by this section \[enacting this part and [section 6305 of Title 26][/us/usc/t26/s6305], Internal Revenue Code, amending sections 602, 603, 604, 606, and 1306 of this title, repealing [section 610 of this title][/us/usc/t42/s610], and enacting provisions set out as notes under this section and [section 602 of this title][/us/usc/t42/s602]\] shall become effective on August 1, 1975, except that section 459 of the Social Security Act \[[section 659 of this title][/us/usc/t42/s659]\], as added by subsection (a) of this section shall become effective on January 1, 1975, and subsection (e) of this section \[enacting provisions set out as a note under this section\] shall become effective upon the date of the enactment of this Act \[Jan. 4, 1975\].”
+> “The amendments made by this section \[enacting this part and [section 6305 of Title 26][/us/usc/t26/s6305], Internal Revenue Code, amending sections 602, 603, 604, 606, and 1306 of this title, repealing [section 610 of this title][/us/usc/t42/s610], and enacting provisions set out as notes under this section and [section 602 of this title][/us/usc/t42/s602]\] shall become effective on August 1, 1975, except that section 459 of the Social Security Act \[[42 U.S.C. 659][/us/usc/t42/s659]\], as added by subsection (a) of this section shall become effective on January 1, 1975, and subsection (e) of this section \[enacting provisions set out as a note under this section\] shall become effective upon the date of the enactment of this Act \[Jan. 4, 1975\].”
 
  __Short Title__ 
 
@@ -65,7 +65,7 @@
 
 [Pub. L. 93–647, § 101(e)][/us/pl/93/647/s101/e], Jan. 4, 1975, [88 Stat. 2361][/us/stat/88/2361], provided that: 
 
-> “There are authorized to be appropriated to the Secretary of Health, Education, and Welfare such sums as may be necessary to plan and prepare for the implementation of the program established by this section \[this part and [section 6305 of Title 26][/us/usc/t26/s6305], Internal Revenue Code\].”
+> “There are authorized to be appropriated to the Secretary of Health, Education, and Welfare \[now Health and Human Services\] such sums as may be necessary to plan and prepare for the implementation of the program established by this section \[enacting this part and [section 6305 of Title 26][/us/usc/t26/s6305], Internal Revenue Code\].”
 
 ----------
 
@@ -96,6 +96,7 @@
 [/us/pl/97/35/s2336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2336
 [/us/stat/95/864]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F864
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
+[/us/usc/t42/s651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs651
 [/us/pl/93/647/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F647%2Fs101%2Ff
 [/us/stat/88/2361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2361
 [/us/pl/94/46/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F46%2Fs2

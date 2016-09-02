@@ -33,7 +33,7 @@ SUBCHAPTER I—COMPENSATION, REIMBURSEMENT, ETC., BY SECRETARY OF LABOR  </td>
 
   <tr>
 
-    <td> 1701.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs1701" data-uslm-ref="/us/usc/t42/s1701">1701.</a>  </td>
 
     <td> Compensation for injury or death resulting from war-risk hazard.  </td>
 
@@ -41,7 +41,7 @@ SUBCHAPTER I—COMPENSATION, REIMBURSEMENT, ETC., BY SECRETARY OF LABOR  </td>
 
   <tr>
 
-    <td> 1702.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs1702" data-uslm-ref="/us/usc/t42/s1702">1702.</a>  </td>
 
     <td> Application of Longshore and Harbor Workers’ Compensation Act.  </td>
 
@@ -49,7 +49,7 @@ SUBCHAPTER I—COMPENSATION, REIMBURSEMENT, ETC., BY SECRETARY OF LABOR  </td>
 
   <tr>
 
-    <td> 1703.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs1703" data-uslm-ref="/us/usc/t42/s1703">1703.</a>  </td>
 
     <td> “Contractor with the United States” defined.  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER I—COMPENSATION, REIMBURSEMENT, ETC., BY SECRETARY OF LABOR  </td>
 
   <tr>
 
-    <td> 1704.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs1704" data-uslm-ref="/us/usc/t42/s1704">1704.</a>  </td>
 
     <td> Reimbursement.  </td>
 
@@ -65,7 +65,7 @@ SUBCHAPTER I—COMPENSATION, REIMBURSEMENT, ETC., BY SECRETARY OF LABOR  </td>
 
   <tr>
 
-    <td> 1705.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs1705" data-uslm-ref="/us/usc/t42/s1705">1705.</a>  </td>
 
     <td> Receipt of workmen’s compensation benefits.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER I—COMPENSATION, REIMBURSEMENT, ETC., BY SECRETARY OF LABOR  </td>
 
   <tr>
 
-    <td> 1706.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs1706" data-uslm-ref="/us/usc/t42/s1706">1706.</a>  </td>
 
     <td> Administration.  </td>
 
@@ -89,7 +89,7 @@ SUBCHAPTER II—MISCELLANEOUS PROVISIONS  </td>
 
   <tr>
 
-    <td> 1711.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs1711" data-uslm-ref="/us/usc/t42/s1711">1711.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -97,7 +97,7 @@ SUBCHAPTER II—MISCELLANEOUS PROVISIONS  </td>
 
   <tr>
 
-    <td> 1712.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs1712" data-uslm-ref="/us/usc/t42/s1712">1712.</a>  </td>
 
     <td> Disqualification from benefits.  </td>
 
@@ -105,7 +105,7 @@ SUBCHAPTER II—MISCELLANEOUS PROVISIONS  </td>
 
   <tr>
 
-    <td> 1713.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs1713" data-uslm-ref="/us/usc/t42/s1713">1713.</a>  </td>
 
     <td> Fraud; penalties.  </td>
 
@@ -113,7 +113,7 @@ SUBCHAPTER II—MISCELLANEOUS PROVISIONS  </td>
 
   <tr>
 
-    <td> 1714.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs1714" data-uslm-ref="/us/usc/t42/s1714">1714.</a>  </td>
 
     <td> Legal services.  </td>
 
@@ -121,7 +121,7 @@ SUBCHAPTER II—MISCELLANEOUS PROVISIONS  </td>
 
   <tr>
 
-    <td> 1715.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs1715" data-uslm-ref="/us/usc/t42/s1715">1715.</a>  </td>
 
     <td> Finality of Secretary’s decisions.  </td>
 
@@ -129,7 +129,7 @@ SUBCHAPTER II—MISCELLANEOUS PROVISIONS  </td>
 
   <tr>
 
-    <td> 1716.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs1716" data-uslm-ref="/us/usc/t42/s1716">1716.</a>  </td>
 
     <td> Presumption of death or detention.  </td>
 
@@ -137,7 +137,7 @@ SUBCHAPTER II—MISCELLANEOUS PROVISIONS  </td>
 
   <tr>
 
-    <td> 1717.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs1717" data-uslm-ref="/us/usc/t42/s1717">1717.</a>  </td>
 
     <td> Assignment of benefits; execution, levy, etc., against benefits.  </td>
 

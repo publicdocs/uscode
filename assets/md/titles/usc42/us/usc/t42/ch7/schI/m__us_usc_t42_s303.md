@@ -163,17 +163,17 @@
 
 >         “(2)
 
->          Notwithstanding the provisions of section 2004 of the Social Security Act, as amended by this Act \[[section 1397c of this title][/us/usc/t42/s1397c]\], the first services program year of each State shall begin on October 1, 1975, and end with the close of, at the option of the State—
+>          Notwithstanding the provisions of section 2004 of the Social Security Act \[[42 U.S.C. 1397c][/us/usc/t42/s1397c]\], as amended by this Act, the first services program year of each State shall begin on October 1, 1975, and end with the close of, at the option of the State—
 
 >             “(A) the day in the twelve-month period beginning October 1, 1975, or
 
 >             “(B) the day in the twelve-month period beginning October 1, 1976,
 
->             which is the last day of the twelve-month period established by the State as its services program year under that section. Notwithstanding the provisions of subsection (b) of section 2003 of the Social Security Act, as amended by this Act \[[section 1397b(b) of this title][/us/usc/t42/s1397b/b]\], the aggregate expenditures required by that subsection with respect to the first services program year of each State shall be the amount which bears the same ratio to the amount that would otherwise be required under that subsection as the number of months in the State’s first services program year bears to twelve.
+>             which is the last day of the twelve-month period established by the State as its services program year under that section. Notwithstanding the provisions of subsection (b) of section 2003 of the Social Security Act \[[42 U.S.C. 1397b(b)][/us/usc/t42/s1397b/b]\], as amended by this Act, the aggregate expenditures required by that subsection with respect to the first services program year of each State shall be the amount which bears the same ratio to the amount that would otherwise be required under that subsection as the number of months in the State’s first services program year bears to twelve.
 
->         “(3) Notwithstanding paragraph (1) of this subsection or section 3(f) \[set out as a note under [section 1397a of this title][/us/usc/t42/s1397a]\], payments under title IV \[subchapter IV of this chapter\] or section 2002(a)(1) of the Social Security Act \[[section 1397a(a)(1) of this title][/us/usc/t42/s1397a/a/1]\] with respect to expenditures made prior to October 1, 1978, in connection with the provision of child day care services in day care centers and group day care homes, in the case of children between the ages of six weeks and six years, may be made without regard to the requirements relating to staffing standards which are imposed by or under section 2002(a)(9)(A)(ii) of such Act \[[section 1397a(a)(9)(A)(ii) of this title][/us/usc/t42/s1397a/a/9/A/ii]\], so long as the staffing standards actually being applied in the provision of the services involved (A) comply with applicable State law (as in effect at the time the services are provided), (B) are no lower than the corresponding staffing standards which were imposed or required by applicable State law on September 15, 1975, and (C) are no lower, in the case of any day care center or group day care home, than the corresponding standards actually being applied in such center or home on September 15, 1975.
+>         “(3) Notwithstanding paragraph (1) of this subsection or section 3(f) \[set out as a note under [section 1397a of this title][/us/usc/t42/s1397a]\], payments under title IV \[[42 U.S.C. 601][/us/usc/t42/s601] et seq.\] or section 2002(a)(1) of the Social Security Act \[[42 U.S.C. 1397a(a)(1)][/us/usc/t42/s1397a/a/1]\] with respect to expenditures made prior to October 1, 1978, in connection with the provision of child day care services in day care centers and group day care homes, in the case of children between the ages of six weeks and six years, may be made without regard to the requirements relating to staffing standards which are imposed by or under section 2002(a)(9)(A)(ii) of such Act \[[42 U.S.C. 1397a(a)(9)(A)(ii)][/us/usc/t42/s1397a/a/9/A/ii]\], so long as the staffing standards actually being applied in the provision of the services involved (A) comply with applicable State law (as in effect at the time the services are provided), (B) are no lower than the corresponding staffing standards which were imposed or required by applicable State law on September 15, 1975, and (C) are no lower, in the case of any day care center or group day care home, than the corresponding standards actually being applied in such center or home on September 15, 1975.
 
->     “(b) The amendments made by section 3 of this Act \[amending this section and sections 602, 603, 606, 622, 1203, 1308, 1315, 1316, 1320b note, and 1383 note of this title, repealing sections 801 to 805 and 1320b of this title, and enacting provisions set out as notes under section 1320b and 1397a of this title\] shall be effective with respect to payments under sections 403 and 603 of the Social Security Act \[sections 603 and 803 of this title\] for quarters commencing after September 30, 1975, except that the amendments made by section 3(a) \[amending sections 602, 603, 606, and 623 of this title\] shall not be effective with respect to the Commonwealth of Puerto Rico, the Virgin Islands, or Guam.”
+>     “(b) The amendments made by section 3 of this Act \[amending this section and sections 602, 603, 606, 622, 1203, 1308, 1315, 1316, 1320b note, and 1383 note of this title, repealing sections 801 to 805 and 1320b of this title, and enacting provisions set out as notes under section 1320b and 1397a of this title\] shall be effective with respect to payments under sections 403 and 603 of the Social Security Act \[[42 U.S.C. 603][/us/usc/t42/s603], 803\] for quarters commencing after September 30, 1975, except that the amendments made by section 3(a) \[amending sections 602, 603, 606, and 623 of this title\] shall not be effective with respect to the Commonwealth of Puerto Rico, the Virgin Islands, or Guam.”
 
  __Effective Date of 1972 Amendment__ 
 
@@ -193,27 +193,27 @@
 
 [Pub. L. 89–97, title IV, § 401(f)][/us/pl/89/97/s401/f], July 30, 1965, [79 Stat. 415][/us/stat/79/415], provided that: 
 
-> “The amendments made by this section \[amending this section and sections 603, 1203, 1353, and 1383 of this title\] shall apply in the case of expenditures made after December 31, 1965, under a State plan approved under title I, IV, X, XIV, or XVI of the Social Security Act \[subchapter I, IV, X, XIV, or XVI of this chapter\].”
+> “The amendments made by this section \[amending this section and sections 603, 1203, 1353, and 1383 of this title\] shall apply in the case of expenditures made after December 31, 1965, under a State plan approved under title I, IV, X, XIV, or XVI of the Social Security Act \[[42 U.S.C. 301][/us/usc/t42/s301] et seq., 601 et seq., 1201 et seq., 1351 et seq., 1381 et seq.\].”
 
  __Effective Date of 1962 Amendment__ 
 
 [Pub. L. 87–543, title II, § 202(d)][/us/pl/87/543/s202/d], July 25, 1962, [76 Stat. 208][/us/stat/76/208], provided that: 
 
-> “The amendments made by sections 109 and 132 (other than subsections (d) and (e) thereof) \[amending this section and sections 606, 1203, and 1353 of this title\] shall be applicable in the case of expenditures, under a State plan approved under title I, IV, X, or XIV of the Social Security Act \[subchapter I, IV, X, or XIV of this chapter\], as the case may be, made after September 30, 1962.”
+> “The amendments made by sections 109 and 132 (other than subsections (d) and (e) thereof) \[amending this section and sections 606, 1203, and 1353 of this title\] shall be applicable in the case of expenditures, under a State plan approved under title I, IV, X, or XIV of the Social Security Act \[[42 U.S.C. 301][/us/usc/t42/s301] et seq., 601 et seq., 1201 et seq., 1351 et seq.\], as the case may be, made after September 30, 1962.”
 
 [Pub. L. 87–543, title II, § 202(f)][/us/pl/87/543/s202/f], July 25, 1962, [76 Stat. 208][/us/stat/76/208], provided that: 
 
-> “The amendments made by section 101(a) \[amending this section and sections 603, 1203, and 1353 of this title\] shall be applicable in the case of expenditures, under a State plan approved under title I, IV, X, or XIV of the Social Security Act \[subchapter I, IV, X, or XIV of this chapter\], as the case may be, made after August 31, 1962. The amendments made by section 101(b) \[amending this section and sections 603, 608, 609, 1203, and 1353 of this title\] shall be applicable in the case of expenditures, under a State plan approved under title I, IV, X, or XIV of the Social Security Act, as the case may be, made after June 30, 1963.”
+> “The amendments made by section 101(a) \[amending this section and sections 603, 1203, and 1353 of this title\] shall be applicable in the case of expenditures, under a State plan approved under title I, IV, X, or XIV of the Social Security Act \[[42 U.S.C. 301][/us/usc/t42/s301] et seq., 601 et seq., 1201 et seq., 1351 et seq.\], as the case may be, made after August 31, 1962. The amendments made by section 101(b) \[amending this section and sections 603, 608, 609, 1203, and 1353 of this title\] shall be applicable in the case of expenditures, under a State plan approved under title I, IV, X, or XIV of the Social Security Act, as the case may be, made after June 30, 1963.”
 
  __Effective Date of 1961 Amendment__ 
 
 [Pub. L. 87–64, title III, § 303(e)][/us/pl/87/64/s303/e], June 30, 1961, [75 Stat. 143][/us/stat/75/143], as amended by [Pub. L. 87–543, title I, § 132(e)][/us/pl/87/543/s132/e], July 25, 1962, [76 Stat. 196][/us/stat/76/196], provided that: 
 
-> “The amendments made by subsections (a), (b), and (c) of this section \[amending this section and sections 1203 and 1353 of this title\] shall apply only in the case of expenditures made after September 30, 1961, and before October 1, 1962, under a State plan approved under title I, X, or XIV, as the case may be, of the Social Security Act \[subchapter I, X, or XIV of this chapter\].”
+> “The amendments made by subsections (a), (b), and (c) of this section \[amending this section and sections 1203 and 1353 of this title\] shall apply only in the case of expenditures made after September 30, 1961, and before October 1, 1962, under a State plan approved under title I, X, or XIV, as the case may be, of the Social Security Act \[[42 U.S.C. 301][/us/usc/t42/s301] et seq., 1201 et seq., 1351 et seq.\].”
 
 [Pub. L. 87–31, § 5(c)][/us/pl/87/31/s5/c], May 8, 1961, [75 Stat. 77][/us/stat/75/77], provided that: 
 
-> “The amendments made by subsections (a) and (b) \[amending this section\] shall apply in the case of expenditures made after June 30, 1961, under a State plan approved under title I of the Social Security Act \[this subchapter\].”
+> “The amendments made by subsections (a) and (b) \[amending this section\] shall apply in the case of expenditures made after June 30, 1961, under a State plan approved under title I of the Social Security Act \[[42 U.S.C. 301][/us/usc/t42/s301] et seq.\].”
 
  __Effective Date of 1960 Amendment__ 
 
@@ -225,11 +225,11 @@
 
 > “Notwithstanding the provisions of sections 305 and 345 of the Social Security Amendments of 1956, as amended \[set out as notes below\], the amendments made by sections 501, 502, 503, 504, 505, and 506 \[amending this section and sections 603, 1203, 1301, and 1353 of this title\] shall be effective—
 
->     “(1) in the case of money payments, under a State plan approved under title I, IV, X, or XIV of the Social Security Act \[subchapter I, IV, X, or XIV of this chapter\], for months after September 1958, and
+>     “(1) in the case of money payments, under a State plan approved under title I, IV, X, or XIV of the Social Security Act \[[42 U.S.C. 301][/us/usc/t42/s301] et seq., 601 et seq., 1201 et seq., 1351 et seq.\], for months after September 1958, and
 
 >     “(2) in the case of assistance in the form of medical or any other type of remedial care, under such a plan, with respect to expenditures made after September 1958.
 
->         The amendment made by section 506 \[amending [section 1301 of this title][/us/usc/t42/s1301]\] shall also become effective, for purposes of title V of the Social Security Act \[subchapter V of this chapter\], for fiscal years ending after June 30, 1959. The amendments made by section 507 \[amending [section 1308 of this title][/us/usc/t42/s1308]\] shall be effective for fiscal years ending after June 30, 1958. The amendment made by section 508 \[amending [section 1304 of this title][/us/usc/t42/s1304]\] shall be effective for fiscal years ending after June 30, 1959. The amendment made by section 510 shall become effective October 1, 1958.”
+>         The amendment made by section 506 \[amending [section 1301 of this title][/us/usc/t42/s1301]\] shall also become effective, for purposes of title V of the Social Security Act \[[42 U.S.C. 701][/us/usc/t42/s701] et seq.\], for fiscal years ending after June 30, 1959. The amendments made by section 507 \[amending [section 1308 of this title][/us/usc/t42/s1308]\] shall be effective for fiscal years ending after June 30, 1958. The amendment made by section 508 \[amending [section 1304 of this title][/us/usc/t42/s1304]\] shall be effective for fiscal years ending after June 30, 1959. The amendment made by section 510 shall become effective October 1, 1958.”
 
  __Effective and Termination Date of 1956 Amendment__ 
 
@@ -243,7 +243,7 @@
 
 >     “(a) Except as provided in subsection (b), the amendments made by this part \[part I (§§ 301–305) of title III of act Aug. 1, 1956, amending this section and sections 603, 1203, and 1353 of this title\] shall become effective July 1, 1957.
 
->     “(b) The amendments made by any section of this part shall not apply to any State (as defined in section 1101 of the Social Security Act \[[section 1301 of this title][/us/usc/t42/s1301]\] for purposes of title I thereof \[subchapter I of this chapter\]) for any fiscal year for which there is in effect an election by it not to have the amendments made by such section apply to it. Any such election shall be in effect for a fiscal year only if notice of the election has been filed with the Secretary of Health, Education, and Welfare at some time prior to May 16 of the preceding fiscal year, except that any such election shall be in effect for the fiscal year beginning July 1, 1957, if notice of the election is filed with the Secretary prior to August 1, 1957. An election by a State under this subsection shall continue in effect until the close of any fiscal year designated in a notice of termination of such election which is filed with the Secretary of Health, Education, and Welfare prior to May 16 of such year. Elections hereunder shall be made, and notices thereof and notices of termination shall be filed, on such form or forms and in such manner as the Secretary of Health, Education, and Welfare may prescribe.”
+>     “(b) The amendments made by any section of this part shall not apply to any State (as defined in section 1101 of the Social Security Act \[[42 U.S.C. 1301][/us/usc/t42/s1301]\] for purposes of title I thereof \[[42 U.S.C. 301][/us/usc/t42/s301] et seq.\]) for any fiscal year for which there is in effect an election by it not to have the amendments made by such section apply to it. Any such election shall be in effect for a fiscal year only if notice of the election has been filed with the Secretary of Health, Education, and Welfare \[now Health and Human Services\] at some time prior to May 16 of the preceding fiscal year, except that any such election shall be in effect for the fiscal year beginning July 1, 1957, if notice of the election is filed with the Secretary prior to August 1, 1957. An election by a State under this subsection shall continue in effect until the close of any fiscal year designated in a notice of termination of such election which is filed with the Secretary of Health, Education, and Welfare \[now Health and Human Services\] prior to May 16 of such year. Elections hereunder shall be made, and notices thereof and notices of termination shall be filed, on such form or forms and in such manner as the Secretary of Health, Education, and Welfare \[now Health and Human Services\] may prescribe.”
 
  __Effective and Termination Date of 1952 Amendment__ 
 
@@ -399,8 +399,10 @@
 [/us/usc/t42/s1397c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1397c
 [/us/usc/t42/s1397b/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1397b%2Fb
 [/us/usc/t42/s1397a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1397a
+[/us/usc/t42/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs601
 [/us/usc/t42/s1397a/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1397a%2Fa%2F1
 [/us/usc/t42/s1397a/a/9/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1397a%2Fa%2F9%2FA%2Fii
+[/us/usc/t42/s603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs603
 [/us/pl/92/512/s301/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F512%2Fs301%2Fe
 [/us/stat/86/947]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F947
 [/us/usc/t42/s1320b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320b
@@ -411,22 +413,29 @@
 [/us/usc/t42/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs302
 [/us/pl/89/97/s401/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97%2Fs401%2Ff
 [/us/stat/79/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F415
+[/us/usc/t42/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs301
 [/us/pl/87/543/s202/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F543%2Fs202%2Fd
 [/us/stat/76/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F208
+[/us/usc/t42/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs301
 [/us/pl/87/543/s202/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F543%2Fs202%2Ff
 [/us/stat/76/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F208
+[/us/usc/t42/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs301
 [/us/pl/87/64/s303/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F64%2Fs303%2Fe
 [/us/stat/75/143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F143
 [/us/pl/87/543/s132/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F543%2Fs132%2Fe
 [/us/stat/76/196]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F196
+[/us/usc/t42/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs301
 [/us/pl/87/31/s5/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F31%2Fs5%2Fc
 [/us/stat/75/77]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F77
+[/us/usc/t42/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs301
 [/us/pl/86/778]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F778
 [/us/pl/86/778/s604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F778%2Fs604
 [/us/usc/t42/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs301
 [/us/pl/85/840/s512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F840%2Fs512
 [/us/stat/72/1052]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1052
+[/us/usc/t42/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs301
 [/us/usc/t42/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1301
+[/us/usc/t42/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs701
 [/us/usc/t42/s1308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1308
 [/us/usc/t42/s1304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1304
 [/us/act/1956-08-01/ch836]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-01%2Fch836
@@ -436,6 +445,7 @@
 [/us/pl/85/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F110
 [/us/stat/71/308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F71%2F308
 [/us/usc/t42/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1301
+[/us/usc/t42/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs301
 [/us/act/1952-07-18/ch945/s8/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-18%2Fch945%2Fs8%2Fe
 [/us/stat/66/780]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F780
 [/us/act/1954-09-01/ch1206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-09-01%2Fch1206

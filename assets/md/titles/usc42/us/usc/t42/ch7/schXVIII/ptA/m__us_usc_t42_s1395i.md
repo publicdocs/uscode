@@ -603,7 +603,7 @@
 
 >         “(3) __Part d spending.—__ 
 
->         Expenditures, including trends in expenditures, under part D of title XVIII of the Social Security Act \[part D of this subchapter\], as added by section 101.
+>         Expenditures, including trends in expenditures, under part D of title XVIII of the Social Security Act \[[42 U.S.C. 1395w–101][/us/usc/t42/s1395w–101] et seq.\], as added by section 101.
 
 >         “(4) __Combined medicare trust fund analysis.—__ 
 
@@ -643,7 +643,7 @@
 
 >             “(C) __State transfers.—__ 
 
->             The State share of amounts paid to the Federal Government by a State under section 1843 of the Social Security Act ([42 U.S.C. 1395v][/us/usc/t42/s1395v]) or pursuant to section 1935(c) of such Act \[[section 1396u–5(c) of this title][/us/usc/t42/s1396u–5/c]\].
+>             The State share of amounts paid to the Federal Government by a State under section 1843 of the Social Security Act ([42 U.S.C. 1395v][/us/usc/t42/s1395v]) or pursuant to section 1935(c) of such Act \[[42 U.S.C. 1396u–5(c)][/us/usc/t42/s1396u–5/c]\].
 
 >             “(D) __Premiums.—__ 
 
@@ -659,9 +659,9 @@
 
 >                 “(iii) __Part d.—__ 
 
->                 Monthly beneficiary premiums paid under part D of title XVIII of such Act \[part D of this subchapter\], as added by section 101, and MA monthly prescription drug beneficiary premiums paid under part C of such title \[part C of this subchapter\] insofar as they are attributable to basic prescription drug coverage.
+>                 Monthly beneficiary premiums paid under part D of title XVIII of such Act \[[42 U.S.C. 1395w–101][/us/usc/t42/s1395w–101] et seq.\], as added by section 101, and MA monthly prescription drug beneficiary premiums paid under part C of such title \[[42 U.S.C. 1395w–21][/us/usc/t42/s1395w–21] et seq.\] insofar as they are attributable to basic prescription drug coverage.
 
->             Premiums under clauses (ii) and (iii) shall be determined without regard to any reduction in such premiums attributable to a beneficiary rebate under section 1854(b)(1)(C) of such title \[[section 1395w–24(b)(1)(C) of this title][/us/usc/t42/s1395w–24/b/1/C]\], as amended by section 222(b)(1), and premiums under clause (iii) are deemed to include any amounts paid under section 1860D–13(b) of such title \[[section 1395w–113(b) of this title][/us/usc/t42/s1395w–113/b]\], as added by section 101.
+>             Premiums under clauses (ii) and (iii) shall be determined without regard to any reduction in such premiums attributable to a beneficiary rebate under section 1854(b)(1)(C) of such title \[[42 U.S.C. 1395w–24(b)(1)(C)][/us/usc/t42/s1395w–24/b/1/C]\], as amended by section 222(b)(1), and premiums under clause (iii) are deemed to include any amounts paid under section 1860D–13(b) of such title \[[42 U.S.C. 1395w–113(b)][/us/usc/t42/s1395w–113/b]\], as added by section 101.
 
 >             “(E) __Gifts.—__ 
 
@@ -671,9 +671,9 @@
 
 >         The term ‘total medicare outlays’ means total outlays from the medicare trust funds and shall—
 
->             “(A) include payments made to plans under part C of title XVIII of the Social Security Act \[part C of this subchapter\] that are attributable to any rebates under section 1854(b)(1)(C) of such Act ([42 U.S.C. 1395w–24(b)(1)(C)][/us/usc/t42/s1395w–24/b/1/C]), as amended by section 222(b)(1);
+>             “(A) include payments made to plans under part C of title XVIII of the Social Security Act \[[42 U.S.C. 1395w–21][/us/usc/t42/s1395w–21] et seq.\] that are attributable to any rebates under section 1854(b)(1)(C) of such Act ([42 U.S.C. 1395w–24(b)(1)(C)][/us/usc/t42/s1395w–24/b/1/C]), as amended by section 222(b)(1);
 
->             “(B) include administrative expenditures made in carrying out title XVIII of such Act \[this subchapter\] and Federal outlays under section 1935(b) of such Act \[[section 1396u–5(b) of this title][/us/usc/t42/s1396u–5/b]\], as added by section 103(a)(2); and
+>             “(B) include administrative expenditures made in carrying out title XVIII of such Act \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\] and Federal outlays under section 1935(b) of such Act \[[42 U.S.C. 1396u–5(b)][/us/usc/t42/s1396u–5/b]\], as added by section 103(a)(2); and
 
 >             “(C) offset outlays by the amount of fraud and abuse collections insofar as they are applied or deposited into a medicare trust fund.
 
@@ -707,7 +707,7 @@
 
 >     “(1) __In general.—__ 
 
->     After the payment of the costs of asset forfeiture has been made and after all restoration payments (if any) have been made, and notwithstanding any other provision of law, the Secretary of the Treasury shall deposit into the Federal Hospital Insurance Trust Fund pursuant to section 1817(k)(2)(C) of the Social Security Act \[subsec. (k)(2)(C) of this section\], as added by section 301(b), an amount equal to the net amount realized from the forfeiture of property by reason of a Federal health care offense pursuant to [section 982(a)(6) of title 18][/us/usc/t18/s982/a/6], United States Code.
+>     After the payment of the costs of asset forfeiture has been made and after all restoration payments (if any) have been made, and notwithstanding any other provision of law, the Secretary of the Treasury shall deposit into the Federal Hospital Insurance Trust Fund pursuant to section 1817(k)(2)(C) of the Social Security Act \[[42 U.S.C. 1395i(k)(2)(C)][/us/usc/t42/s1395i/k/2/C]\], as added by section 301(b), an amount equal to the net amount realized from the forfeiture of property by reason of a Federal health care offense pursuant to [section 982(a)(6) of title 18][/us/usc/t18/s982/a/6], United States Code.
 
 >     “(2) __Costs of asset forfeiture.—__ 
 
@@ -921,6 +921,7 @@
 [/us/usc/t42/s1395t]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395t
 [/us/usc/t31/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105
 [/us/usc/t31/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105
+[/us/usc/t42/s1395w–101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%93101
 [/us/usc/t42/s1395i/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395i%2Fa
 [/us/usc/t45/s231f/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft45%2Fs231f%2Fc%2F2
 [/us/pl/98/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21
@@ -930,10 +931,14 @@
 [/us/usc/t42/s1396u–5/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396u%E2%80%935%2Fc
 [/us/usc/t42/s1395i–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395i%E2%80%932
 [/us/usc/t42/s1395r]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395r
+[/us/usc/t42/s1395w–101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%93101
+[/us/usc/t42/s1395w–21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%9321
 [/us/usc/t42/s1395w–24/b/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%9324%2Fb%2F1%2FC
 [/us/usc/t42/s1395w–113/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%93113%2Fb
 [/us/usc/t42/s401/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401%2Fi
+[/us/usc/t42/s1395w–21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%9321
 [/us/usc/t42/s1395w–24/b/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%9324%2Fb%2F1%2FC
+[/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
 [/us/usc/t42/s1396u–5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396u%E2%80%935%2Fb
 [/us/usc/t42/s1395i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395i
 [/us/usc/t42/s1395t]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395t
@@ -945,6 +950,7 @@
 [/us/usc/t18/s1347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1347
 [/us/pl/104/191/s249/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2Fs249%2Fc
 [/us/stat/110/2020]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2020
+[/us/usc/t42/s1395i/k/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395i%2Fk%2F2%2FC
 [/us/usc/t18/s982/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs982%2Fa%2F6
 [/us/usc/t29/s1002/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1002%2F1
 [/us/pl/98/21/s154/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21%2Fs154%2Fd

@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 15601.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs15601" data-uslm-ref="/us/usc/t42/s15601">15601.</a>  </td>
 
     <td> Findings.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 15602.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs15602" data-uslm-ref="/us/usc/t42/s15602">15602.</a>  </td>
 
     <td> Purposes.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 15603.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs15603" data-uslm-ref="/us/usc/t42/s15603">15603.</a>  </td>
 
     <td> National prison rape statistics, data, and research.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 15604.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs15604" data-uslm-ref="/us/usc/t42/s15604">15604.</a>  </td>
 
     <td> Prison rape prevention and prosecution.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 15605.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs15605" data-uslm-ref="/us/usc/t42/s15605">15605.</a>  </td>
 
     <td> Grants to protect inmates and safeguard communities.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 15606.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs15606" data-uslm-ref="/us/usc/t42/s15606">15606.</a>  </td>
 
     <td> National Prison Rape Elimination Commission.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 15607.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs15607" data-uslm-ref="/us/usc/t42/s15607">15607.</a>  </td>
 
     <td> Adoption and effect of national standards.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 15608.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs15608" data-uslm-ref="/us/usc/t42/s15608">15608.</a>  </td>
 
     <td> Requirement that accreditation organizations adopt accreditation standards.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 15609.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs15609" data-uslm-ref="/us/usc/t42/s15609">15609.</a>  </td>
 
     <td> Definitions.  </td>
 

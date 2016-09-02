@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 2000ff.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2000ff" data-uslm-ref="/us/usc/t42/s2000ff">2000ff.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 2000ff–1.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2000ff%E2%80%931" data-uslm-ref="/us/usc/t42/s2000ff–1">2000ff–1.</a>  </td>
 
     <td> Employer practices.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 2000ff–2.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2000ff%E2%80%932" data-uslm-ref="/us/usc/t42/s2000ff–2">2000ff–2.</a>  </td>
 
     <td> Employment agency practices.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 2000ff–3.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2000ff%E2%80%933" data-uslm-ref="/us/usc/t42/s2000ff–3">2000ff–3.</a>  </td>
 
     <td> Labor organization practices.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 2000ff–4.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2000ff%E2%80%934" data-uslm-ref="/us/usc/t42/s2000ff–4">2000ff–4.</a>  </td>
 
     <td> Training programs.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 2000ff–5.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2000ff%E2%80%935" data-uslm-ref="/us/usc/t42/s2000ff–5">2000ff–5.</a>  </td>
 
     <td> Confidentiality of genetic information.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 2000ff–6.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2000ff%E2%80%936" data-uslm-ref="/us/usc/t42/s2000ff–6">2000ff–6.</a>  </td>
 
     <td> Remedies and enforcement.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 2000ff–7.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2000ff%E2%80%937" data-uslm-ref="/us/usc/t42/s2000ff–7">2000ff–7.</a>  </td>
 
     <td> Disparate impact.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 2000ff–8.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2000ff%E2%80%938" data-uslm-ref="/us/usc/t42/s2000ff–8">2000ff–8.</a>  </td>
 
     <td> Construction.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 2000ff–9.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2000ff%E2%80%939" data-uslm-ref="/us/usc/t42/s2000ff–9">2000ff–9.</a>  </td>
 
     <td> Medical information that is not genetic information.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 2000ff–10.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2000ff%E2%80%9310" data-uslm-ref="/us/usc/t42/s2000ff–10">2000ff–10.</a>  </td>
 
     <td> Regulations.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 2000ff–11.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2000ff%E2%80%9311" data-uslm-ref="/us/usc/t42/s2000ff–11">2000ff–11.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 

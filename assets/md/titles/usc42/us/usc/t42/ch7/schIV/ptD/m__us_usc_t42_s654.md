@@ -551,7 +551,7 @@ A State plan for child and spousal support must—
 
 >     Except as otherwise specifically provided (but subject to subsections (b) and (c))—
 
->         “(1) the provisions of this title \[see Tables for classification\] requiring the enactment or amendment of State laws under section 466 of the Social Security Act \[[section 666 of this title][/us/usc/t42/s666]\], or revision of State plans under section 454 of such Act \[this section\], shall be effective with respect to periods beginning on and after October 1, 1996; and
+>         “(1) the provisions of this title \[see Tables for classification\] requiring the enactment or amendment of State laws under section 466 of the Social Security Act \[[42 U.S.C. 666][/us/usc/t42/s666]\], or revision of State plans under section 454 of such Act \[this section\], shall be effective with respect to periods beginning on and after October 1, 1996; and
 
 >         “(2) all other provisions of this title shall become effective upon the date of the enactment of this Act \[Aug. 22, 1996\].
 
@@ -599,9 +599,9 @@ A State plan for child and spousal support must—
 
 >     “(1) Except as provided in paragraphs (2) and (3), the amendments made by this section \[enacting [section 666 of this title][/us/usc/t42/s666] and amending this section\] shall become effective on October 1, 1985.
 
->     “(2) Section 454(21) of the Social Security Act \[par. 21 of this section\] (as added by subsection (d) of this section), and section 466(e) of such Act \[[section 666(e) of this title][/us/usc/t42/s666/e]\] (as added by subsection (b) of this section), shall be effective with respect to support owed for any month beginning after the date of the enactment of this Act \[Aug. 16, 1984\].
+>     “(2) Section 454(21) of the Social Security Act \[[42 U.S.C. 654(21)][/us/usc/t42/s654/21]\] (as added by subsection (d) of this section), and section 466(e) of such Act \[[42 U.S.C. 666(e)][/us/usc/t42/s666/e]\] (as added by subsection (b) of this section), shall be effective with respect to support owed for any month beginning after the date of the enactment of this Act \[Aug. 16, 1984\].
 
->     “(3) In the case of a State with respect to which the Secretary of Health and Human Services has determined that State legislation is required in order to conform the State plan approved under part D of title IV of the Social Security Act \[this part\] to the requirements imposed by any amendment made by this section, the State plan shall not be regarded as failing to comply with the requirements of such part solely by reason of its failure to meet the requirements imposed by such amendment prior to the beginning of the fourth month beginning after the end of the first session of the State legislature which ends on or after October 1, 1985. For purposes of the preceding sentence, the term ‘session’ means a regular, special, budget, or other session of a State legislature.”
+>     “(3) In the case of a State with respect to which the Secretary of Health and Human Services has determined that State legislation is required in order to conform the State plan approved under part D of title IV of the Social Security Act \[[42 U.S.C. 651][/us/usc/t42/s651] et seq.\] to the requirements imposed by any amendment made by this section, the State plan shall not be regarded as failing to comply with the requirements of such part solely by reason of its failure to meet the requirements imposed by such amendment prior to the beginning of the fourth month beginning after the end of the first session of the State legislature which ends on or after October 1, 1985. For purposes of the preceding sentence, the term ‘session’ means a regular, special, budget, or other session of a State legislature.”
 
 [Pub. L. 98–378, § 5(c)(1)][/us/pl/98/378/s5/c/1], Aug. 16, 1984, [98 Stat. 1314][/us/stat/98/1314], provided that: 
 
@@ -661,21 +661,21 @@ A State plan for child and spousal support must—
 
 [Pub. L. 109–171, title VII, § 7311][/us/pl/109/171/s7311], Feb. 8, 2006, [120 Stat. 148][/us/stat/120/148], provided that: 
 
-> “In the case of a State plan under part D of title IV of the Social Security Act \[this part\] which the Secretary determines requires State legislation in order for the plan to meet the additional requirements imposed by the amendments made by this subtitle \[subtitle C (§§ 7301–7311) of title VII of [Pub. L. 109–171][/us/pl/109/171], amending this section, sections 608, 652, 653, 655, 657, 664, and 666 of this title, [section 6402 of Title 26][/us/usc/t26/s6402], Internal Revenue Code, and provisions set out as a note under [section 1169 of Title 29][/us/usc/t29/s1169], Labor\], the effective date of the amendments imposing the additional requirements shall be 3 months after the first day of the first calendar quarter beginning after the close of the first regular session of the State legislature that begins after the date of the enactment of this Act \[Feb. 8, 2006\]. For purposes of the preceding sentence, in the case of a State that has a 2-year legislative session, each year of the session shall be considered to be a separate regular session of the State legislature.”
+> “In the case of a State plan under part D of title IV of the Social Security Act \[[42 U.S.C. 651][/us/usc/t42/s651] et seq.\] which the Secretary determines requires State legislation in order for the plan to meet the additional requirements imposed by the amendments made by this subtitle \[subtitle C (§§ 7301–7311) of title VII of [Pub. L. 109–171][/us/pl/109/171], amending this section, sections 608, 652, 653, 655, 657, 664, and 666 of this title, [section 6402 of Title 26][/us/usc/t26/s6402], Internal Revenue Code, and provisions set out as a note under [section 1169 of Title 29][/us/usc/t29/s1169], Labor\], the effective date of the amendments imposing the additional requirements shall be 3 months after the first day of the first calendar quarter beginning after the close of the first regular session of the State legislature that begins after the date of the enactment of this Act \[Feb. 8, 2006\]. For purposes of the preceding sentence, in the case of a State that has a 2-year legislative session, each year of the session shall be considered to be a separate regular session of the State legislature.”
 
  __State Commissions on Child Support__ 
 
 [Pub. L. 98–378, § 15][/us/pl/98/378/s15], Aug. 16, 1984, [98 Stat. 1320][/us/stat/98/1320], provided that:
 
->     “(a) As a condition of the State’s eligibility for Federal payments under part A or D of title IV of the Social Security Act \[part A of this subchapter or this part\] for quarters beginning more than 30 days after the date of the enactment of this Act \[Aug. 16, 1984\] and ending prior to October 1, 1985, the Governor of each State, on or before December 1, 1984, shall (subject to subsection (f)) appoint a State Commission on Child Support.
+>     “(a) As a condition of the State’s eligibility for Federal payments under part A or D of title IV of the Social Security Act \[[42 U.S.C. 601][/us/usc/t42/s601] et seq., 651 et seq.\] for quarters beginning more than 30 days after the date of the enactment of this Act \[Aug. 16, 1984\] and ending prior to October 1, 1985, the Governor of each State, on or before December 1, 1984, shall (subject to subsection (f)) appoint a State Commission on Child Support.
 
->     “(b) Each State Commission appointed under subsection (a) shall be composed of members appropriately representing all aspects of the child support system, including custodial and non-custodial parents, the agency or organizational unit administering the State’s plan under part D of such title IV \[this part\], the State judiciary, the executive and legislative branches of the State government, child welfare and social services agencies, and others.
+>     “(b) Each State Commission appointed under subsection (a) shall be composed of members appropriately representing all aspects of the child support system, including custodial and non-custodial parents, the agency or organizational unit administering the State’s plan under part D of such title IV \[[42 U.S.C. 651][/us/usc/t42/s651] et seq.\], the State judiciary, the executive and legislative branches of the State government, child welfare and social services agencies, and others.
 
->     “(c) It shall be the function of each State Commission to examine, investigate, and study the operation of the State’s child support system for the primary purpose of determining the extent to which such system has been successful in securing support and parental involvement both for children who are eligible for aid under a State plan approved under part A of title IV of such Act \[part A of this subchapter\] and for children who are not eligible for such aid, giving particular attention to such specific problems (among others) as visitation, the establishment of appropriate objective standards for support, the enforcement of interstate obligations, the availability, cost, and effectiveness of services both to children who are eligible for such aid and to children who are not, and the need for additional State or Federal legislation to obtain support for all children.
+>     “(c) It shall be the function of each State Commission to examine, investigate, and study the operation of the State’s child support system for the primary purpose of determining the extent to which such system has been successful in securing support and parental involvement both for children who are eligible for aid under a State plan approved under part A of title IV of such Act \[[42 U.S.C. 601][/us/usc/t42/s601] et seq.\] and for children who are not eligible for such aid, giving particular attention to such specific problems (among others) as visitation, the establishment of appropriate objective standards for support, the enforcement of interstate obligations, the availability, cost, and effectiveness of services both to children who are eligible for such aid and to children who are not, and the need for additional State or Federal legislation to obtain support for all children.
 
 >     “(d) Each State Commission shall submit to the Governor of the State and make available to the public, no later than October 1, 1985, a full and complete report of its findings and recommendations resulting from the examination, investigation, and study under this section. The Governor shall transmit such report to the Secretary of Health and Human Services along with the Governor’s comments thereon.
 
->     “(e) None of the costs incurred in the establishment and operation of a State Commission under this section, or incurred by such a Commission in carrying out its functions under subsections (c) and (d), shall be considered as expenditures qualifying for Federal payments under part A or D of title IV of the Social Security Act \[part A of this subchapter or this part\] or be otherwise payable or reimbursable by the United States or any agency thereof.
+>     “(e) None of the costs incurred in the establishment and operation of a State Commission under this section, or incurred by such a Commission in carrying out its functions under subsections (c) and (d), shall be considered as expenditures qualifying for Federal payments under part A or D of title IV of the Social Security Act \[[42 U.S.C. 601][/us/usc/t42/s601] et seq., 651 et seq.\] or be otherwise payable or reimbursable by the United States or any agency thereof.
 
 >     “(f)
 
@@ -693,7 +693,7 @@ A State plan for child and spousal support must—
 
 [Pub. L. 97–248, title I, § 176][/us/pl/97/248/s176], Sept. 3, 1982, [96 Stat. 403][/us/stat/96/403], provided that: 
 
-> “In the case of a State with respect to which the Secretary of Health and Human Services has determined that State legislation is required in order to conform the State plan approved under part D of title IV of the Social Security Act \[this part\] to the requirements imposed by any amendment made by this subtitle \[sub­title E (§§ 171–176) of title I of [Pub. L. 97–248][/us/pl/97/248], see Tables for classification\], the State plan shall not be regarded as failing to comply with the requirements of such part solely by reason of its failure to meet the requirements imposed by such amendment prior to the end of the first session of the State legislature which begins after October 1, 1982, or which began prior to October 1, 1982, and remained in session for at least twenty-five calendar days after such date. For purposes of the preceding sentence, the term ‘session’ means a regular, special, budget, or other session of a State legislature.”
+> “In the case of a State with respect to which the Secretary of Health and Human Services has determined that State legislation is required in order to conform the State plan approved under part D of title IV of the Social Security Act \[[42 U.S.C. 651][/us/usc/t42/s651] et seq.\] to the requirements imposed by any amendment made by this subtitle \[subtitle E (§§ 171–176) of title I of [Pub. L. 97–248][/us/pl/97/248], see Tables for classification\], the State plan shall not be regarded as failing to comply with the requirements of such part solely by reason of its failure to meet the requirements imposed by such amendment prior to the end of the first session of the State legislature which begins after October 1, 1982, or which began prior to October 1, 1982, and remained in session for at least twenty-five calendar days after such date. For purposes of the preceding sentence, the term ‘session’ means a regular, special, budget, or other session of a State legislature.”
 
 ----------
 
@@ -993,7 +993,9 @@ A State plan for child and spousal support must—
 [/us/pl/98/378/s3/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F378%2Fs3%2Fg
 [/us/stat/98/1311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1311
 [/us/usc/t42/s666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs666
+[/us/usc/t42/s654/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs654%2F21
 [/us/usc/t42/s666/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs666%2Fe
+[/us/usc/t42/s651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs651
 [/us/pl/98/378/s5/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F378%2Fs5%2Fc%2F1
 [/us/stat/98/1314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1314
 [/us/usc/t42/s658]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs658
@@ -1035,13 +1037,19 @@ A State plan for child and spousal support must—
 [/us/stat/89/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F437
 [/us/pl/109/171/s7311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2Fs7311
 [/us/stat/120/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F148
+[/us/usc/t42/s651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs651
 [/us/pl/109/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171
 [/us/usc/t26/s6402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6402
 [/us/usc/t29/s1169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1169
 [/us/pl/98/378/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F378%2Fs15
 [/us/stat/98/1320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1320
+[/us/usc/t42/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs601
+[/us/usc/t42/s651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs651
+[/us/usc/t42/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs601
+[/us/usc/t42/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs601
 [/us/pl/97/248/s176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs176
 [/us/stat/96/403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F403
+[/us/usc/t42/s651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs651
 [/us/pl/97/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248
 
 

@@ -1013,7 +1013,7 @@
 
 >         Each consortium that receives a grant or contract under this section shall—
 
->             “(A) coordinate with the National Institutes of Health’s pediatric device contact point or office, designated under section 402(b)(23) of the Public Health Service Act \[subsec. (b)(23) of this section\], as added by section 304(a) of this Act; and
+>             “(A) coordinate with the National Institutes of Health’s pediatric device contact point or office, designated under section 402(b)(23) of the Public Health Service Act \[[42 U.S.C. 282(b)(23)][/us/usc/t42/s282/b/23]\], as added by section 304(a) of this Act; and
 
 >             “(B) provide to the National Institutes of Health any identified pediatric device needs that the consortium lacks sufficient capacity to address or those needs in which the consortium has been unable to stimulate manufacturer interest.
 
@@ -1033,7 +1033,7 @@
 
 [Pub. L. 110–85, title VIII, § 801(c)][/us/pl/110/85/s801/c], Sept. 27, 2007, [121 Stat. 921][/us/stat/121/921], provided that: 
 
-> “Not later than 12 months after the date of the enactment of this Act \[Sept. 27, 2007\], the Secretary of Health and Human Services shall issue guidance on how the requirements of section 402(j) of the Public Health Service Act \[subsec. (j) of this section\], as added by this section, apply to a pediatric postmarket surveillance described in paragraph (1)(A)(ii)(II) of such section 402(j) that is not a clinical trial.”
+> “Not later than 12 months after the date of the enactment of this Act \[Sept. 27, 2007\], the Secretary of Health and Human Services shall issue guidance on how the requirements of section 402(j) of the Public Health Service Act \[[42 U.S.C. 282(j)][/us/usc/t42/s282/j]\], as added by this section, apply to a pediatric postmarket surveillance described in paragraph (1)(A)(ii)(II) of such section 402(j) that is not a clinical trial.”
 
  __Preemption__ 
 
@@ -1041,7 +1041,7 @@
 
 >     “(1) __In general.—__ 
 
->     Upon the expansion of the registry and results data bank under section 402(j)(3)(D) of the Public Health Service Act \[subsec. (j)(3)(D) of this section\], as added by this section, no State or political subdivision of a State may establish or continue in effect any requirement for the registration of clinical trials or for the inclusion of information relating to the results of clinical trials in a database.
+>     Upon the expansion of the registry and results data bank under section 402(j)(3)(D) of the Public Health Service Act \[[42 U.S.C. 282(j)(3)(D)][/us/usc/t42/s282/j/3/D]\], as added by this section, no State or political subdivision of a State may establish or continue in effect any requirement for the registration of clinical trials or for the inclusion of information relating to the results of clinical trials in a database.
 
 >     “(2) __Rule of construction.—__ 
 
@@ -1241,10 +1241,13 @@
 [/us/stat/121/863]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F863
 [/us/pl/112/144/s620/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs620%2Fa
 [/us/stat/126/1064]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1064
+[/us/usc/t42/s282/b/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs282%2Fb%2F23
 [/us/pl/110/85/s801/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2Fs801%2Fc
 [/us/stat/121/921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F921
+[/us/usc/t42/s282/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs282%2Fj
 [/us/pl/110/85/s801/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2Fs801%2Fd
 [/us/stat/121/922]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F922
+[/us/usc/t42/s282/j/3/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs282%2Fj%2F3%2FD
 [/us/usc/t21/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs301
 [/us/pl/105/115/s113/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2Fs113%2Fb
 [/us/stat/111/2312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2312

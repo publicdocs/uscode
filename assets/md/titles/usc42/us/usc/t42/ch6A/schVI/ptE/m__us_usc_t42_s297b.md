@@ -223,13 +223,13 @@
 
 [Pub. L. 90–490, title II, § 222(i)][/us/pl/90/490/s222/i], Aug. 16, 1968, [82 Stat. 785][/us/stat/82/785], provided that: 
 
-> “The amendments made by subsection (b)(1) and (2) \[amending this section\] shall apply with respect to all loans made after June 30, 1969, and with respect to loans made from a student loan fund established under an agreement pursuant to section 822 \[[section 297a of this title][/us/usc/t42/s297a]\], before July 1, 1969, to the extent agreed to by the school which made the loans and the Secretary (but then only for years beginning after June 30, 1968). The amendments made by subsection (b)(4) \[amending this section\] and subsection (c) \[amending this section and [section 297a of this title][/us/usc/t42/s297a]\] shall apply with respect to loans made after June 30, 1969. The amendment made by subsection (h) \[enacting [section 297h of this title][/us/usc/t42/s297h]\] shall apply with respect to appropriations for fiscal years beginning after June 30, 1969. The amendment made by subsection (b)(3) \[amending this section\] shall apply with respect to service, specified in section 823(b)(3) of such Act \[subsec. (b)(3) of this section\] performed during academic years beginning after the enactment of this Act, whether the loan was made before or after such enactment \[Aug. 16, 1968\].”
+> “The amendments made by subsection (b)(1) and (2) \[amending this section\] shall apply with respect to all loans made after June 30, 1969, and with respect to loans made from a student loan fund established under an agreement pursuant to section 822 \[now 835\] \[[42 U.S.C. 297a][/us/usc/t42/s297a]\], before July 1, 1969, to the extent agreed to by the school which made the loans and the Secretary (but then only for years beginning after June 30, 1968). The amendments made by subsection (b)(4) \[amending this section\] and subsection (c) \[amending this section and [section 297a of this title][/us/usc/t42/s297a]\] shall apply with respect to loans made after June 30, 1969. The amendment made by subsection (h) \[enacting [section 297h of this title][/us/usc/t42/s297h]\] shall apply with respect to appropriations for fiscal years beginning after June 30, 1969. The amendment made by subsection (b)(3) \[amending this section\] shall apply with respect to service, specified in section 823(b)(3) \[now 836(b)(3)\] of such Act \[[42 U.S.C. 297b(b)(3)][/us/usc/t42/s297b/b/3]\] performed during academic years beginning after the enactment of this Act, whether the loan was made before or after such enactment \[Aug. 16, 1968\].”
 
  __Construction of 1992 Amendment__ 
 
 [Pub. L. 102–408, title II, § 211(b)][/us/pl/102/408/s211/b], Oct. 13, 1992, [106 Stat. 2079][/us/stat/106/2079], provided that: 
 
-> “With respect to section 836(h) of the Public Health Service Act \[former subsec. (h) of this section\], as in effect prior to the date of the enactment of this Act \[Oct. 13, 1992\], any agreement entered into under such section that is in effect on the day before such date remains in effect in accordance with the terms of the agreement, notwithstanding the amendment made by subsection (a) of this section \[enacting [section 297n of this title][/us/usc/t42/s297n], amending this section, and repealing [section 297c–1 of this title][/us/usc/t42/s297c–1]\].”
+> “With respect to section 836(h) of the Public Health Service Act \[former [42 U.S.C. 297b(h)][/us/usc/t42/s297b/h]\], as in effect prior to the date of the enactment of this Act \[Oct. 13, 1992\], any agreement entered into under such section that is in effect on the day before such date remains in effect in accordance with the terms of the agreement, notwithstanding the amendment made by subsection (a) of this section \[enacting [section 297n of this title][/us/usc/t42/s297n], amending this section, and repealing [section 297c–1 of this title][/us/usc/t42/s297c–1]\].”
 
 ----------
 
@@ -347,8 +347,10 @@
 [/us/usc/t42/s297a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs297a
 [/us/usc/t42/s297a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs297a
 [/us/usc/t42/s297h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs297h
+[/us/usc/t42/s297b/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs297b%2Fb%2F3
 [/us/pl/102/408/s211/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F408%2Fs211%2Fb
 [/us/stat/106/2079]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2079
+[/us/usc/t42/s297b/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs297b%2Fh
 [/us/usc/t42/s297n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs297n
 [/us/usc/t42/s297c–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs297c%E2%80%931
 

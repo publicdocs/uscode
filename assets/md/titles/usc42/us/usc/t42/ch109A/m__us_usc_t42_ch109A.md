@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 10341.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs10341" data-uslm-ref="/us/usc/t42/s10341">10341.</a>  </td>
 
     <td> Findings.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 10342.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs10342" data-uslm-ref="/us/usc/t42/s10342">10342.</a>  </td>
 
     <td> Research program.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 10343.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs10343" data-uslm-ref="/us/usc/t42/s10343">10343.</a>  </td>
 
     <td> Goals of research program.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 10344.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs10344" data-uslm-ref="/us/usc/t42/s10344">10344.</a>  </td>
 
     <td> Coordination with other research.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 10345.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs10345" data-uslm-ref="/us/usc/t42/s10345">10345.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 

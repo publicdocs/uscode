@@ -175,7 +175,7 @@
 
 [Pub. L. 92–603, title II, § 213(b)][/us/pl/92/603/s213/b], Oct. 30, 1972, [86 Stat. 1386][/us/stat/86/1386], provided that: 
 
-> “The amendments made by this section \[enacting this section\] shall be effective with respect to claims under part A or part B of title XVIII of the Social Security Act \[part A or part B of this subchapter\], filed with respect to items or services furnished after the date of the enactment of this Act \[Oct. 30, 1972\].”
+> “The amendments made by this section \[enacting this section\] shall be effective with respect to claims under part A or part B of title XVIII of the Social Security Act \[[42 U.S.C. 1395c][/us/usc/t42/s1395c] et seq., 1395j et seq.\], filed with respect to items or services furnished after the date of the enactment of this Act \[Oct. 30, 1972\].”
 
  __Provisions Relating to Advance Beneficiary Notices; Report on Prior Determination Process__ 
 
@@ -191,11 +191,11 @@
 
 >     “(3) __GAO report on use of advance beneficiary notices.—__ 
 
->     Not later than 18 months after the date on which section 1869(h) of the Social Security Act \[[section 1395ff(h) of this title][/us/usc/t42/s1395ff/h]\] (as added by subsection (a)) takes effect, the Comptroller General of the United States shall submit to Congress a report on the use of advance beneficiary notices under title XVIII of such Act \[this subchapter\]. Such report shall include information concerning the providers of services and other persons that have provided such notices and the response of beneficiaries to such notices.
+>     Not later than 18 months after the date on which section 1869(h) of the Social Security Act \[[42 U.S.C. 1395ff(h)][/us/usc/t42/s1395ff/h]\] (as added by subsection (a)) takes effect, the Comptroller General of the United States shall submit to Congress a report on the use of advance beneficiary notices under title XVIII of such Act \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\]. Such report shall include information concerning the providers of services and other persons that have provided such notices and the response of beneficiaries to such notices.
 
 >     “(4) __GAO report on use of prior determination process.—__ 
 
->     Not later than 36 months after the date on which section 1869(h) of the Social Security Act \[[section 1395ff(h) of this title][/us/usc/t42/s1395ff/h]\] (as added by subsection (a)) takes effect, the Comptroller General of the United States shall submit to Congress a report on the use of the prior determination process under such section. Such report shall include—
+>     Not later than 36 months after the date on which section 1869(h) of the Social Security Act \[[42 U.S.C. 1395ff(h)][/us/usc/t42/s1395ff/h]\] (as added by subsection (a)) takes effect, the Comptroller General of the United States shall submit to Congress a report on the use of the prior determination process under such section. Such report shall include—
 
 >         “(A)
 
@@ -217,7 +217,7 @@
 
 >     “(5) __Advance beneficiary notice defined.—__ 
 
->     In this subsection, the term ‘advance beneficiary notice’ means a written notice provided under section 1879(a) of the Social Security Act ([42 U.S.C. 1395pp(a)][/us/usc/t42/s1395pp/a]) to an individual entitled to benefits under part A or enrolled under part B of title XVIII of such Act \[part A and part B of this subchapter\] before items or services are furnished under such part in cases where a provider of services or other person that would furnish the item or service believes that payment will not be made for some or all of such items or services under such title \[this subchapter\].”
+>     In this subsection, the term ‘advance beneficiary notice’ means a written notice provided under section 1879(a) of the Social Security Act ([42 U.S.C. 1395pp(a)][/us/usc/t42/s1395pp/a]) to an individual entitled to benefits under part A or enrolled under part B of title XVIII of such Act \[[42 U.S.C. 1395c][/us/usc/t42/s1395c] et seq., 1395j et seq.\] before items or services are furnished under such part in cases where a provider of services or other person that would furnish the item or service believes that payment will not be made for some or all of such items or services under such title \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\].”
 
  __Reports to Congress on Denials of Bills for Payment__ 
 
@@ -308,11 +308,15 @@
 [/us/stat/94/2648]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2648
 [/us/pl/92/603/s213/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603%2Fs213%2Fb
 [/us/stat/86/1386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1386
+[/us/usc/t42/s1395c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395c
 [/us/pl/108/173/s938/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs938%2Fc
 [/us/stat/117/2415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2415
 [/us/usc/t42/s1395ff/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ff%2Fh
+[/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
 [/us/usc/t42/s1395ff/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ff%2Fh
 [/us/usc/t42/s1395pp/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395pp%2Fa
+[/us/usc/t42/s1395c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395c
+[/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
 [/us/pl/99/509/s9305/g/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs9305%2Fg%2F2
 [/us/stat/100/1992]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1992
 

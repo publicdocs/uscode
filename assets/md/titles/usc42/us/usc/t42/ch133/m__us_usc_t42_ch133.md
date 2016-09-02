@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 13101.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs13101" data-uslm-ref="/us/usc/t42/s13101">13101.</a>  </td>
 
     <td> Findings and policy.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 13102.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs13102" data-uslm-ref="/us/usc/t42/s13102">13102.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 13103.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs13103" data-uslm-ref="/us/usc/t42/s13103">13103.</a>  </td>
 
     <td> EPA activities.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 13104.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs13104" data-uslm-ref="/us/usc/t42/s13104">13104.</a>  </td>
 
     <td> Grants to States for State technical assistance programs.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 13105.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs13105" data-uslm-ref="/us/usc/t42/s13105">13105.</a>  </td>
 
     <td> Source Reduction Clearinghouse.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 13106.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs13106" data-uslm-ref="/us/usc/t42/s13106">13106.</a>  </td>
 
     <td> Source reduction and recycling data collection.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 13107.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs13107" data-uslm-ref="/us/usc/t42/s13107">13107.</a>  </td>
 
     <td> EPA report.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 13108.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs13108" data-uslm-ref="/us/usc/t42/s13108">13108.</a>  </td>
 
     <td> Savings provisions.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 13109.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs13109" data-uslm-ref="/us/usc/t42/s13109">13109.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 

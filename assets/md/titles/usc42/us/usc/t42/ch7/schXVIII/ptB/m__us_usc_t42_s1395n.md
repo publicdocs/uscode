@@ -277,7 +277,7 @@
 
 >     “(c) __Direct Access Defined.—__ 
 
->     The term ‘direct access’ means, with respect to outpatient physical therapy services and physical therapy services furnished as comprehensive outpatient rehabilitation facility services, coverage of and payment for such services in accordance with the provisions of title XVIII of the Social Security Act \[this subchapter\], except that sections 1835(a)(2), 1861(p), and 1861(cc) of such Act ([42 U.S.C. 1395n(a)(2)][/us/usc/t42/s1395n/a/2], 1395x(p), and 1395x(cc), respectively) shall be applied—
+>     The term ‘direct access’ means, with respect to outpatient physical therapy services and physical therapy services furnished as comprehensive outpatient rehabilitation facility services, coverage of and payment for such services in accordance with the provisions of title XVIII of the Social Security Act \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\], except that sections 1835(a)(2), 1861(p), and 1861(cc) of such Act ([42 U.S.C. 1395n(a)(2)][/us/usc/t42/s1395n/a/2], 1395x(p), and 1395x(cc), respectively) shall be applied—
 
 >         “(1)
 
@@ -529,6 +529,7 @@
 [/us/usc/t42/s1395f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395f
 [/us/pl/108/173/s647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs647
 [/us/stat/117/2326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2326
+[/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
 [/us/usc/t42/s1395n/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395n%2Fa%2F2
 [/us/pl/100/203/s4027]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs4027
 [/us/stat/101/1330-75]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-75

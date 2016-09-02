@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 17501.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs17501" data-uslm-ref="/us/usc/t42/s17501">17501.</a>  </td>
 
     <td> Purposes; findings.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 17502.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs17502" data-uslm-ref="/us/usc/t42/s17502">17502.</a>  </td>
 
     <td> Definition of Indian Tribe.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 17503.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs17503" data-uslm-ref="/us/usc/t42/s17503">17503.</a>  </td>
 
     <td> Submission of reports to Congress.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 17504.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs17504" data-uslm-ref="/us/usc/t42/s17504">17504.</a>  </td>
 
     <td> Rule of construction.  </td>
 
@@ -65,7 +65,7 @@ SUBCHAPTER I—NEW AND INNOVATIVE PROGRAMS TO IMPROVE OFFENDER REENTRY SERVICES 
 
   <tr>
 
-    <td> 17511.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs17511" data-uslm-ref="/us/usc/t42/s17511">17511.</a>  </td>
 
     <td> Technology careers training demonstration grants.  </td>
 
@@ -89,7 +89,7 @@ Part A—Drug Treatment  </td>
 
   <tr>
 
-    <td> 17521.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs17521" data-uslm-ref="/us/usc/t42/s17521">17521.</a>  </td>
 
     <td> Offender reentry substance abuse and criminal justice collaboration program.  </td>
 
@@ -105,7 +105,7 @@ Part B—Mentoring  </td>
 
   <tr>
 
-    <td> 17531.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs17531" data-uslm-ref="/us/usc/t42/s17531">17531.</a>  </td>
 
     <td> Mentoring grants to nonprofit organizations.  </td>
 
@@ -113,7 +113,7 @@ Part B—Mentoring  </td>
 
   <tr>
 
-    <td> 17532.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs17532" data-uslm-ref="/us/usc/t42/s17532">17532.</a>  </td>
 
     <td> Responsible reintegration of offenders.  </td>
 
@@ -121,7 +121,7 @@ Part B—Mentoring  </td>
 
   <tr>
 
-    <td> 17533.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs17533" data-uslm-ref="/us/usc/t42/s17533">17533.</a>  </td>
 
     <td> Bureau of Prisons policy on mentoring contacts.  </td>
 
@@ -129,7 +129,7 @@ Part B—Mentoring  </td>
 
   <tr>
 
-    <td> 17534.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs17534" data-uslm-ref="/us/usc/t42/s17534">17534.</a>  </td>
 
     <td> Bureau of Prisons policy on chapel library materials.  </td>
 
@@ -153,7 +153,7 @@ subpart 1—improving federal offender reentry  </td>
 
   <tr>
 
-    <td> 17541.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs17541" data-uslm-ref="/us/usc/t42/s17541">17541.</a>  </td>
 
     <td> Federal prisoner reentry initiative.  </td>
 
@@ -169,7 +169,7 @@ subpart 2—reentry research  </td>
 
   <tr>
 
-    <td> 17551.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs17551" data-uslm-ref="/us/usc/t42/s17551">17551.</a>  </td>
 
     <td> Offender reentry research.  </td>
 
@@ -177,7 +177,7 @@ subpart 2—reentry research  </td>
 
   <tr>
 
-    <td> 17552.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs17552" data-uslm-ref="/us/usc/t42/s17552">17552.</a>  </td>
 
     <td> Grants to study parole or post-incarceration supervision violations and revocations.  </td>
 
@@ -185,7 +185,7 @@ subpart 2—reentry research  </td>
 
   <tr>
 
-    <td> 17553.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs17553" data-uslm-ref="/us/usc/t42/s17553">17553.</a>  </td>
 
     <td> Addressing the needs of children of incarcerated parents.  </td>
 
@@ -193,7 +193,7 @@ subpart 2—reentry research  </td>
 
   <tr>
 
-    <td> 17554.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs17554" data-uslm-ref="/us/usc/t42/s17554">17554.</a>  </td>
 
     <td> Study of effectiveness of depot naltrexone for heroin addiction.  </td>
 
@@ -201,7 +201,7 @@ subpart 2—reentry research  </td>
 
   <tr>
 
-    <td> 17555.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs17555" data-uslm-ref="/us/usc/t42/s17555">17555.</a>  </td>
 
     <td> Authorization of appropriations for research.  </td>
 

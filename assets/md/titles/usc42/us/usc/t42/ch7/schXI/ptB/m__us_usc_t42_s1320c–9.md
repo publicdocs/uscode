@@ -125,7 +125,7 @@
 
 [Pub. L. 96–499, title IX, § 928][/us/pl/96/499/s928], Dec. 5, 1980, [94 Stat. 2630][/us/stat/94/2630], provided that: 
 
-> “No Professional Standards Review Organization designated (conditionally or otherwise) under part B of title XI of the Social Security Act \[this part\] shall be required to make available any records pursuant to a request made under [section 552 of title 5][/us/usc/t5/s552], United States Code, until the later of (1) one year after the date of entry of a final court order requiring that such records be made available, or (2) the last date of the Congress during which the court order was entered.”
+> “No Professional Standards Review Organization designated (conditionally or otherwise) under part B of title XI of the Social Security Act \[[42 U.S.C. 1320c][/us/usc/t42/s1320c] et seq.\] shall be required to make available any records pursuant to a request made under [section 552 of title 5][/us/usc/t5/s552], United States Code, until the later of (1) one year after the date of entry of a final court order requiring that such records be made available, or (2) the last date of the Congress during which the court order was entered.”
 
 ----------
 
@@ -201,6 +201,7 @@
 [/us/stat/100/2047]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2047
 [/us/pl/96/499/s928]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F499%2Fs928
 [/us/stat/94/2630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2630
+[/us/usc/t42/s1320c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320c
 [/us/usc/t5/s552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552
 
 

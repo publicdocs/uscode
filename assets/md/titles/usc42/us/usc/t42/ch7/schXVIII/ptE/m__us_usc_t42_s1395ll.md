@@ -115,7 +115,7 @@
 
 >     “(b) __Report.—__ 
 
->     Not later than the date that is 18 months after the date of enactment of this Act \[Dec. 8, 2003\], the Institute shall submit to the Secretary and appropriate committees of jurisdiction of the Senate and House of Representatives a report on the evaluation conducted under subsection (a)(1) describing the findings of such evaluation and recommendations for an overall strategy and approach for aligning payment with performance, including options for updating performance measures, in the original medicare fee-for-service program under parts A and B of title XVIII of the Social Security Act \[parts A and B of this subchapter\], the Medicare Advantage program under part C of such title \[part C of this subchapter\], and any other programs under such title XVIII \[this subchapter\].
+>     Not later than the date that is 18 months after the date of enactment of this Act \[Dec. 8, 2003\], the Institute shall submit to the Secretary and appropriate committees of jurisdiction of the Senate and House of Representatives a report on the evaluation conducted under subsection (a)(1) describing the findings of such evaluation and recommendations for an overall strategy and approach for aligning payment with performance, including options for updating performance measures, in the original medicare fee-for-service program under parts A and B of title XVIII of the Social Security Act \[[42 U.S.C. 1395c][/us/usc/t42/s1395c] et seq., 1395j et seq.\], the Medicare Advantage program under part C of such title \[[42 U.S.C. 1395w–21][/us/usc/t42/s1395w–21] et seq.\], and any other programs under such title XVIII \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\].
 
 >     “(c) __Authorization of Appropriations.—__ 
 
@@ -129,7 +129,7 @@
 
 >     The Comptroller General of the United States shall conduct a study on access of medicare beneficiaries to physicians’ services under the medicare program. The study shall include—
 
->         “(1) an assessment of the use by beneficiaries of such services through an analysis of claims submitted by physicians for such services under part B of the medicare program \[part B of this subchapter\];
+>         “(1) an assessment of the use by beneficiaries of such services through an analysis of claims submitted by physicians for such services under part B of the medicare program \[[42 U.S.C. 1395j][/us/usc/t42/s1395j] et seq.\];
 
 >         “(2) an examination of changes in the use by beneficiaries of physicians’ services over time; and
 
@@ -139,7 +139,7 @@
 
 >     Not later than 18 months after the date of the enactment of this Act \[Dec. 8, 2003\], the Comptroller General shall submit to Congress a report on the study conducted under subsection (a). The report shall include a determination whether—
 
->         “(1) data from claims submitted by physicians under part B of the medicare program \[part B of this subchapter\] indicate potential access problems for medicare beneficiaries in certain geographic areas; and
+>         “(1) data from claims submitted by physicians under part B of the medicare program \[[42 U.S.C. 1395j][/us/usc/t42/s1395j] et seq.\] indicate potential access problems for medicare beneficiaries in certain geographic areas; and
 
 >         “(2) access by medicare beneficiaries to physicians’ services may have improved, remained constant, or deteriorated over time.”
 
@@ -171,7 +171,7 @@
 
 >         “(1) __Study.—__ 
 
->         The Comptroller General of the United States shall conduct a study on the post-payment audit process under the medicare program under title XVIII of the Social Security Act \[this subchapter\] as such process applies to physicians, including the proper level of resources that the Health Care Financing Administration should devote to educating physicians regarding—
+>         The Comptroller General of the United States shall conduct a study on the post-payment audit process under the medicare program under title XVIII of the Social Security Act \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\] as such process applies to physicians, including the proper level of resources that the Health Care Financing Administration should devote to educating physicians regarding—
 
 >             “(A) coding and billing;
 
@@ -187,7 +187,7 @@
 
 >         “(1) __Study.—__ 
 
->         The Comptroller General of the United States shall conduct a study on the aggregate effects of regulatory, audit, oversight, and paperwork burdens on physicians and other health care providers participating in the medicare program under title XVIII of the Social Security Act \[this subchapter\].
+>         The Comptroller General of the United States shall conduct a study on the aggregate effects of regulatory, audit, oversight, and paperwork burdens on physicians and other health care providers participating in the medicare program under title XVIII of the Social Security Act \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\].
 
 >         “(2) __Report.—__ 
 
@@ -211,7 +211,7 @@
 
 >         “(A)
 
->          The various methods for accurately estimating the economic impact on expenditures for physicians’ services under the original medicare fee-for-service program under parts A and B of title XVIII of the Social Security Act ([42 U.S.C. 1395][/us/usc/t42/s1395] et seq.) \[parts A and B of this subchapter\] resulting from—
+>          The various methods for accurately estimating the economic impact on expenditures for physicians’ services under the original medicare fee-for-service program under parts A and B of title XVIII of the Social Security Act ([42 U.S.C. 1395][/us/usc/t42/s1395] et seq.) \[[42 U.S.C. 1395c][/us/usc/t42/s1395c] et seq., 1395j et seq.\] resulting from—
 
 >             “(i) improvements in medical capabilities;
 
@@ -255,7 +255,7 @@
 
  __Legislative Recommendations Regarding Reimbursement for Optometrists’ Services__ 
 
-    [Pub. L. 96–499, title IX, § 937(b)][/us/pl/96/499/s937/b], Dec. 5, 1980, [94 Stat. 2640][/us/stat/94/2640], provided that the Secretary of Health and Human Services submit to the Congress by Jan. 1, 1982, legislative recommendations with respect to reimbursement under title XVIII of the Social Security Act \[this subchapter\] for services furnished by optometrists in connection with cataracts and such other services which they are legally authorized to perform.
+    [Pub. L. 96–499, title IX, § 937(b)][/us/pl/96/499/s937/b], Dec. 5, 1980, [94 Stat. 2640][/us/stat/94/2640], provided that the Secretary of Health and Human Services submit to the Congress by Jan. 1, 1982, legislative recommendations with respect to reimbursement under title XVIII of the Social Security Act \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\] for services furnished by optometrists in connection with cataracts and such other services which they are legally authorized to perform.
 
  __Demonstration Projects, Studies, and Reports: Nutritional Therapy, Second Opinion Cost-Sharing, Services of Registered Dietitians, Services of Clinical Social Workers, Orthopedic Shoes, Respiratory Therapy Services, and Foot Conditions; Grants, Payments, and Expenditures__ 
 
@@ -267,7 +267,7 @@
 
  __Report to Congress With Respect to Urban or Rural Comprehensive Mental Health Centers and Centers for Treatment of Alcoholism and Drug Abuse; Submission No Later Than__  __June 13, 1978__ 
 
-    [Pub. L. 95–210, § 4][/us/pl/95/210/s4], Dec. 13, 1977, [91 Stat. 1490][/us/stat/91/1490], directed Secretary of Health, Education, and Welfare to submit to Congress, no later than six months after Dec. 13, 1977, a report on the advantages and disadvantages of extending coverage under this subchapter to urban or rural comprehensive mental health centers and to centers for treatment of alcoholism and drug abuse.
+    [Pub. L. 95–210, § 4][/us/pl/95/210/s4], Dec. 13, 1977, [91 Stat. 1490][/us/stat/91/1490], directed Secretary of Health, Education, and Welfare \[now Health and Human Services\] to submit to Congress, no later than six months after Dec. 13, 1977, a report on the advantages and disadvantages of extending coverage under this subchapter to urban or rural comprehensive mental health centers and to centers for treatment of alcoholism and drug abuse.
 
  __Study and Review by Comptroller General of Administrative Structure for Processing Medicare Claims; Report to Congress__ 
 
@@ -275,7 +275,7 @@
 
  __Report by Secretary of Health, Education, and Welfare on Delivery of Home Health and Other In-Home Services; Contents; Consultation Requirements; Submission to Congress__ 
 
-    [Pub. L. 95–142, § 18][/us/pl/95/142/s18], Oct. 25, 1977, [91 Stat. 1202][/us/stat/91/1202], directed Secretary of Health, Education, and Welfare, not later than one year after Oct. 25, 1977, to submit to appropriate committees of Congress a report analyzing, evaluating, and making recommendations with respect to all aspects of delivery of home health and other in-home services authorized to be provided under subchapters XVIII, XIX, and XX of this chapter.
+    [Pub. L. 95–142, § 18][/us/pl/95/142/s18], Oct. 25, 1977, [91 Stat. 1202][/us/stat/91/1202], directed Secretary of Health, Education, and Welfare \[now Health and Human Services\], not later than one year after Oct. 25, 1977, to submit to appropriate committees of Congress a report analyzing, evaluating, and making recommendations with respect to all aspects of delivery of home health and other in-home services authorized to be provided under subchapters XVIII, XIX, and XX of this chapter.
 
 ----------
 
@@ -345,15 +345,23 @@
 [/us/stat/117/2213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2213
 [/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
 [/us/usc/t42/s1395b–6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395b%E2%80%936
+[/us/usc/t42/s1395c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395c
+[/us/usc/t42/s1395w–21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%9321
+[/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
 [/us/pl/108/173/s604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs604
 [/us/stat/117/2301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2301
+[/us/usc/t42/s1395j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395j
+[/us/usc/t42/s1395j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395j
 [/us/pl/106/554/s1/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F6
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
 [/us/pl/106/554/s1/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F6
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
+[/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
+[/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
 [/us/pl/106/113/s1000/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F6
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
 [/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
+[/us/usc/t42/s1395c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395c
 [/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
 [/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
 [/us/pl/100/360/s208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360%2Fs208
@@ -374,6 +382,7 @@
 [/us/stat/95/796]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F796
 [/us/pl/96/499/s937/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F499%2Fs937%2Fb
 [/us/stat/94/2640]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2640
+[/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
 [/us/pl/96/499/s958]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F499%2Fs958
 [/us/stat/94/2648]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2648
 [/us/usc/t42/s1395i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395i

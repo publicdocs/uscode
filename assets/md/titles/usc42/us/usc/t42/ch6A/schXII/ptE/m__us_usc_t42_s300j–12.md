@@ -311,7 +311,7 @@
 
 [Pub. L. 105–276, title III][/us/pl/105/276], Oct. 21, 1998, [112 Stat. 2498][/us/stat/112/2498], provided in part: 
 
-> “That, consistent with section 1452(g) of the Safe Drinking Water Act ([42 U.S.C. 300j–12(g)][/us/usc/t42/s300j–12/g]), section 302 of the Safe Drinking Water Act Amendments of 1996 ([Public Law 104–182][/us/pl/104/182]) \[set out as a note below\] and the accompanying joint explanatory statement of the committee of conference (H. Rept. No. 104–741 to accompany S. 1316, the Safe Drinking Water Act Amendments of 1996), and notwithstanding any other provision of law, beginning in fiscal year 1999 and thereafter, States may combine the assets of State Revolving Funds (SRFs) established under section 1452 of the Safe Drinking Water Act, as amended, and title VI of the Federal Water Pollution Control Act \[[33 U.S.C. 1381][/us/usc/t33/s1381] et seq.\], as amended, as security for bond issues to enhance the lending capacity of one or both SRFs, but not to acquire the state match for either program, provided that revenues from the bonds are allocated to the purposes of the Safe Drinking Water Act \[this subchapter\] and the Federal Water Pollution Control Act \[[33 U.S.C. 1251][/us/usc/t33/s1251] et seq.\] in the same portion as the funds are used as security for the bonds”.
+> “That, consistent with section 1452(g) of the Safe Drinking Water Act ([42 U.S.C. 300j–12(g)][/us/usc/t42/s300j–12/g]), section 302 of the Safe Drinking Water Act Amendments of 1996 ([Public Law 104–182][/us/pl/104/182]) \[set out as a note below\] and the accompanying joint explanatory statement of the committee of conference (H. Rept. No. 104–741 to accompany S. 1316, the Safe Drinking Water Act Amendments of 1996), and notwithstanding any other provision of law, beginning in fiscal year 1999 and thereafter, States may combine the assets of State Revolving Funds (SRFs) established under section 1452 of the Safe Drinking Water Act, as amended, and title VI of the Federal Water Pollution Control Act \[[33 U.S.C. 1381][/us/usc/t33/s1381] et seq.\], as amended, as security for bond issues to enhance the lending capacity of one or both SRFs, but not to acquire the state match for either program, provided that revenues from the bonds are allocated to the purposes of the Safe Drinking Water Act \[[42 U.S.C. 300f][/us/usc/t42/s300f] et seq.\] and the Federal Water Pollution Control Act \[[33 U.S.C. 1251][/us/usc/t33/s1251] et seq.\] in the same portion as the funds are used as security for the bonds”.
 
  __Transfer of Funds__ 
 
@@ -337,7 +337,7 @@ Similar provisions were contained in the following prior appropriation acts:
 
 >     “(a) __In General.—__ 
 
->     Notwithstanding any other provision of law, at any time after the date 1 year after a State establishes a State loan fund pursuant to section 1452 of the Safe Drinking Water Act \[this section\] but prior to fiscal year 2002, a Governor of the State may—
+>     Notwithstanding any other provision of law, at any time after the date 1 year after a State establishes a State loan fund pursuant to section 1452 of the Safe Drinking Water Act \[[42 U.S.C. 300j–12][/us/usc/t42/s300j–12]\] but prior to fiscal year 2002, a Governor of the State may—
 
 >         “(1) reserve up to 33 percent of a capitalization grant made pursuant to such section 1452 and add the funds reserved to any funds provided to the State pursuant to section 601 of the Federal Water Pollution Control Act ([33 U.S.C. 1381][/us/usc/t33/s1381]); and
 
@@ -400,6 +400,7 @@ Similar provisions were contained in the following prior appropriation acts:
 [/us/usc/t42/s300j–12/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300j%E2%80%9312%2Fg
 [/us/pl/104/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182
 [/us/usc/t33/s1381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1381
+[/us/usc/t42/s300f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300f
 [/us/usc/t33/s1251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1251
 [/us/pl/112/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74
 [/us/stat/125/1018]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1018
@@ -417,6 +418,7 @@ Similar provisions were contained in the following prior appropriation acts:
 [/us/stat/115/685]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F685
 [/us/pl/104/182/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182%2Fs302
 [/us/stat/110/1683]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1683
+[/us/usc/t42/s300j–12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300j%E2%80%9312
 [/us/usc/t33/s1381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1381
 [/us/usc/t33/s1381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1381
 [/us/usc/t33/s1251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1251

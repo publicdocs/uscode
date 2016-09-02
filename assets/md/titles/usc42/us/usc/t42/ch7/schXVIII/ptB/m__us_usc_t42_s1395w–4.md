@@ -2921,7 +2921,7 @@
 
 [Pub. L. 108–173, title VI, § 611(e)][/us/pl/108/173/s611/e], Dec. 8, 2003, [117 Stat. 2304][/us/stat/117/2304], provided that: 
 
-> “The amendments made by this section \[amending this section and sections 1395x and 1395y of this title\] shall apply to services furnished on or after January 1, 2005, but only for individuals whose coverage period under part B \[probably means part B of title XVIII of the Social Security Act, which is classified to this part\] begins on or after such date.”
+> “The amendments made by this section \[amending this section and sections 1395x and 1395y of this title\] shall apply to services furnished on or after January 1, 2005, but only for individuals whose coverage period under part B \[probably means part B of title XVIII of the Social Security Act, [42 U.S.C. 1395j][/us/usc/t42/s1395j] et seq.\] begins on or after such date.”
 
  __Effective Date of 2000 Amendment__ 
 
@@ -2975,7 +2975,7 @@
 
 > “The amendments made by this section \[amending this section\] shall apply to services furnished on or after January 1, 1994; except that amendment made by subsection (a)(2) shall not apply—
 
->     “(1) to volume performance standard rates of increase established under section 1848(f) of the Social Security Act \[subsec. (f) of this section\] for fiscal years before fiscal year 1994, and
+>     “(1) to volume performance standard rates of increase established under section 1848(f) of the Social Security Act \[[42 U.S.C. 1395w–4(f)][/us/usc/t42/s1395w–4/f]\] for fiscal years before fiscal year 1994, and
 
 >     “(2) to adjustment in updates in the conversion factors for physicians’ services under section 1848(d)(3)(B) of such Act for physicians’ services to be furnished in calendar years before 1996.”
 
@@ -3003,7 +3003,7 @@
 
 [Pub. L. 101–508, title IV, § 4107(a)(2)][/us/pl/101/508/s4107/a/2], Nov. 5, 1990, [104 Stat. 1388–62][/us/stat/104/1388-62], as amended by [Pub. L. 103–432, title I, § 126(d)(2)][/us/pl/103/432/s126/d/2], Oct. 31, 1994, [108 Stat. 4415][/us/stat/108/4415], provided that: 
 
-> “Section 1848(i)(2) of the Social Security Act \[subsec. (i)(2) of this section\], as added by the amendment made by paragraph (1), shall apply to services furnished in 1991 in the same manner as it applies to services furnished after 1991. In applying the previous sentence, the prevailing charge shall be substituted for the fee schedule amount. In applying section 1848(g)(2)(D) of the Social Security Act for services of an assistant-at-surgery furnished during 1991, the recognized payment amount shall not exceed the maximum amount specified under section 1848(i)(2)(A) of such Act (as applied under this paragraph in such year).”
+> “Section 1848(i)(2) of the Social Security Act \[[42 U.S.C. 1395w–4(i)(2)][/us/usc/t42/s1395w–4/i/2]\], as added by the amendment made by paragraph (1), shall apply to services furnished in 1991 in the same manner as it applies to services furnished after 1991. In applying the previous sentence, the prevailing charge shall be substituted for the fee schedule amount. In applying section 1848(g)(2)(D) of the Social Security Act for services of an assistant-at-surgery furnished during 1991, the recognized payment amount shall not exceed the maximum amount specified under section 1848(i)(2)(A) of such Act (as applied under this paragraph in such year).”
 
 [Pub. L. 101–508, title IV, § 4107(c)][/us/pl/101/508/s4107/c], Nov. 5, 1990, [104 Stat. 1388–63][/us/stat/104/1388-63], as amended by [Pub. L. 103–432, title I, § 126(d)(1)][/us/pl/103/432/s126/d/1], Oct. 31, 1994, [108 Stat. 4415][/us/stat/108/4415], provided that: 
 
@@ -3011,7 +3011,7 @@
 
 [Pub. L. 101–508, title IV, § 4109(b)][/us/pl/101/508/s4109/b], Nov. 5, 1990, [104 Stat. 1388–63][/us/stat/104/1388-63], provided that: 
 
-> “The amendment made by subsection (a) \[amending this section\] shall apply to services furnished on or after January 1, 1992. In applying section 1848(d)(1)(B) of the Social Security Act \[subsec. (d)(1)(B) of this section\] (in computing the initial budget-neutral conversion factor for 1991), the Secretary shall compute such factor assuming that section 1848(b)(3) of such Act (as added by the amendment made by subsection (a)) had applied to physicians’ services furnished during 1991.”
+> “The amendment made by subsection (a) \[amending this section\] shall apply to services furnished on or after January 1, 1992. In applying section 1848(d)(1)(B) of the Social Security Act \[[42 U.S.C. 1395w–4(d)(1)(B)][/us/usc/t42/s1395w–4/d/1/B]\] (in computing the initial budget-neutral conversion factor for 1991), the Secretary shall compute such factor assuming that section 1848(b)(3) of such Act (as added by the amendment made by subsection (a)) had applied to physicians’ services furnished during 1991.”
 
  __Transfer of Functions__ 
 
@@ -3051,7 +3051,7 @@
 
 [Pub. L. 110–275, title I, § 131(b)(4)(B)][/us/pl/110/275/s131/b/4/B], July 15, 2008, [122 Stat. 2525][/us/stat/122/2525], provided that: 
 
-> “Nothing in the amendment made by subparagraph (A) \[amending this section\] shall be construed to change the way in which billing for audiology services (as defined in section 1861(ll)(2) of the Social Security Act ([42 U.S.C. 1395x][/us/usc/t42/s1395x](ll)(2))) occurs under title XVIII of such Act \[this subchapter\] as of July 1, 2008.”
+> “Nothing in the amendment made by subparagraph (A) \[amending this section\] shall be construed to change the way in which billing for audiology services (as defined in section 1861(ll)(2) of the Social Security Act ([42 U.S.C. 1395x][/us/usc/t42/s1395x](ll)(2))) occurs under title XVIII of such Act \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\] as of July 1, 2008.”
 
  __No Effect on Incentive Payments for 2007 or 2008__ 
 
@@ -3115,7 +3115,7 @@
 
 >     “(C) __Exemption from budget neutrality under physician fee schedule.—__ 
 
->     If the Secretary modifies such payment policy pursuant to subparagraph (B), any increased expenditures under title XVIII of the Social Security Act \[this subchapter\] resulting from such modification shall be treated as additional expenditures attributable to subparagraph (H) of section 1848(c)(2) of the Social Security Act ([42 U.S.C. 1395w–4(c)(2)][/us/usc/t42/s1395w–4/c/2]), as added by paragraph (1)(B), for purposes of applying the exemption to budget neutrality under subparagraph (B)(iv) of such section, as added by paragraph (1)(A).”
+>     If the Secretary modifies such payment policy pursuant to subparagraph (B), any increased expenditures under title XVIII of the Social Security Act \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\] resulting from such modification shall be treated as additional expenditures attributable to subparagraph (H) of section 1848(c)(2) of the Social Security Act ([42 U.S.C. 1395w–4(c)(2)][/us/usc/t42/s1395w–4/c/2]), as added by paragraph (1)(B), for purposes of applying the exemption to budget neutrality under subparagraph (B)(iv) of such section, as added by paragraph (1)(A).”
 
  __Transitional Adjustment__ 
 
@@ -3139,7 +3139,7 @@
 
 >     “(A) __Review.—__ 
 
->     The Medicare Payment Advisory Commission shall review the payment changes made under this section \[enacting sections 1395w–3a and 1395w–3b of this title, amending this section and sections 1395l, 1395u, 1395x, 1395y, and 1396r–8 of this title, enacting provisions set out as notes under this section and sections 1395u, 1395w–3a, and 1395w–3b of this title, and repealing provisions set out as a note under [section 1395u of this title][/us/usc/t42/s1395u]\] insofar as they affect payment under part B of title XVIII of the Social Security Act \[this part\]—
+>     The Medicare Payment Advisory Commission shall review the payment changes made under this section \[enacting sections 1395w–3a and 1395w–3b of this title, amending this section and sections 1395l, 1395u, 1395x, 1395y, and 1396r–8 of this title, enacting provisions set out as notes under this section and sections 1395u, 1395w–3a, and 1395w–3b of this title, and repealing provisions set out as a note under [section 1395u of this title][/us/usc/t42/s1395u]\] insofar as they affect payment under part B of title XVIII of the Social Security Act \[[42 U.S.C. 1395j][/us/usc/t42/s1395j] et seq.\]—
 
 >         “(i) for items and services furnished by oncologists; and
 
@@ -3173,7 +3173,7 @@
 
 [Pub. L. 108–173, title III, § 303(g)(3)][/us/pl/108/173/s303/g/3], Dec. 8, 2003, [117 Stat. 2253][/us/stat/117/2253], provided that: 
 
-> “There shall be no administrative or judicial review under section 1869 \[probably means section 1869 of the Social Security Act, which is classified to [section 1395ff of this title][/us/usc/t42/s1395ff]\], section 1878 \[probably means section 1878 of the Social Security Act, which is classified to section 1395oo of this title\], or otherwise, of determinations of payment amounts, methods, or adjustments under paragraphs (2) through (4) of subsection (a) \[enacting provisions set out as notes under this section\].”
+> “There shall be no administrative or judicial review under section 1869 \[probably means section 1869 of the Social Security Act, [42 U.S.C. 1395ff][/us/usc/t42/s1395ff]\], section 1878 \[probably means section 1878 of the Social Security Act, [42 U.S.C. 1395][/us/usc/t42/s1395]oo\], or otherwise, of determinations of payment amounts, methods, or adjustments under paragraphs (2) through (4) of subsection (a) \[enacting provisions set out as notes under this section\].”
 
  __Application of 2003 Amendment to Physician Specialties__ 
 
@@ -3197,7 +3197,7 @@
 
 >         “(D)
 
->          an evaluation of the effect of the adjustment to the physician work geographic index under section 1848(e)(1)(E) of the Social Security Act \[subsection (e)(1)(E) of this section\], as added by section 412, on physician location and retention in areas affected by such adjustment, taking into account—
+>          an evaluation of the effect of the adjustment to the physician work geographic index under section 1848(e)(1)(E) of the Social Security Act \[[42 U.S.C. 1395w–4(e)(1)(E)][/us/usc/t42/s1395w–4/e/1/E]\], as added by section 412, on physician location and retention in areas affected by such adjustment, taking into account—
 
 >             “(i) differences in recruitment costs and retention rates for physicians, including specialists, between large urban areas and other areas; and
 
@@ -3259,7 +3259,7 @@
 
 >     “(b) __Volume of Physicians’ Services.—__ 
 
->     Not later than 1 year after the date of the enactment of this Act \[Dec. 8, 2003\], the Medicare Payment Advisory Commission shall submit to Congress a report on the extent to which increases in the volume of physicians’ services under part B \[this part\] of the medicare program are a result of care that improves the health and well-being of medicare beneficiaries. The study shall include the following:
+>     Not later than 1 year after the date of the enactment of this Act \[Dec. 8, 2003\], the Medicare Payment Advisory Commission shall submit to Congress a report on the extent to which increases in the volume of physicians’ services under part B \[[42 U.S.C. 1395j][/us/usc/t42/s1395j] et seq.\] of the medicare program are a result of care that improves the health and well-being of medicare beneficiaries. The study shall include the following:
 
 >         “(1) An analysis of recent and historic growth in the components that the Secretary \[of Health and Human Services\] includes under the sustainable growth rate (under section 1848(f) of the Social Security Act ([42 U.S.C. 1395w–4(f)][/us/usc/t42/s1395w–4/f])).
 
@@ -3289,7 +3289,7 @@
 
 [Pub. L. 108–173, title IX, § 953(a)(2)][/us/pl/108/173/s953/a/2], Dec. 8, 2003, [117 Stat. 2428][/us/stat/117/2428], provided that: 
 
-> “Not later than 12 months after the date of the enactment of this Act \[Dec. 8, 2003\], the Comptroller General shall submit to Congress a report on all aspects of physician compensation for services furnished under title XVIII of the Social Security Act \[this subchapter\], and how those aspects interact and the effect on appropriate compensation for physician services. Such report shall review alternatives for the physician fee schedule under section 1848 of such title ([42 U.S.C. 1395w–4][/us/usc/t42/s1395w–4]).”
+> “Not later than 12 months after the date of the enactment of this Act \[Dec. 8, 2003\], the Comptroller General shall submit to Congress a report on all aspects of physician compensation for services furnished under title XVIII of the Social Security Act \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\], and how those aspects interact and the effect on appropriate compensation for physician services. Such report shall review alternatives for the physician fee schedule under section 1848 of such title ([42 U.S.C. 1395w–4][/us/usc/t42/s1395w–4]).”
 
  __Treatment of Certain Physician Pathology Services Under Medicare__ 
 
@@ -3311,13 +3311,13 @@
 
 >         The term ‘fee-for-service medicare beneficiary’ means an individual who—
 
->             “(A) is entitled to benefits under part A, or enrolled under part B, or both, of such title \[part A or part B of this subchapter\]; and
+>             “(A) is entitled to benefits under part A, or enrolled under part B, or both, of such title \[[42 U.S.C. 1395c][/us/usc/t42/s1395c] et seq., 1395j et seq.\]; and
 
 >             “(B)
 
 >              is not enrolled in any of the following:
 
->                 “(i) A Medicare+Choice plan under part C of such title \[part C of this subchapter\].
+>                 “(i) A Medicare+Choice plan under part C of such title \[[42 U.S.C. 1395w–21][/us/usc/t42/s1395w–21] et seq.\].
 
 >                 “(ii) A plan offered by an eligible organization under section 1876 of such Act ([42 U.S.C. 1395mm][/us/usc/t42/s1395mm]).
 
@@ -3367,7 +3367,7 @@
 
 [Pub. L. 105–33, title IV, § 4105(a)(3)][/us/pl/105/33/s4105/a/3], Aug. 5, 1997, [111 Stat. 367][/us/stat/111/367], provided that: 
 
-> “In establishing payment amounts under section 1848 of the Social Security Act \[this section\] for physicians’ services consisting of diabetes outpatient self-management training services, the Secretary of Health and Human Services shall consult with appropriate organizations, including such organizations representing individuals or medicare beneficiaries with diabetes.”
+> “In establishing payment amounts under section 1848 of the Social Security Act \[[42 U.S.C. 1395w–4][/us/usc/t42/s1395w–4]\] for physicians’ services consisting of diabetes outpatient self-management training services, the Secretary of Health and Human Services shall consult with appropriate organizations, including such organizations representing individuals or medicare beneficiaries with diabetes.”
 
  __Development of Resource-Based Practice Expense Relative Value Units__ 
 
@@ -3395,7 +3395,7 @@
 
 [Pub. L. 103–432, title I, § 121(b)(3)][/us/pl/103/432/s121/b/3], Oct. 31, 1994, [108 Stat. 4409][/us/stat/108/4409], provided that: 
 
-> “In implementing the amendment made by paragraph (1)(C) \[amending this section\], the provisions of clauses (ii)(II) and (iii) of section 1848(c)(2)(B) of the Social Security Act \[subsec. (c)(2)(B)(ii)(II), (iii) of this section\] shall apply in the same manner as they apply to adjustments under clause (ii)(I) of such section.”
+> “In implementing the amendment made by paragraph (1)(C) \[amending this section\], the provisions of clauses (ii)(II) and (iii) of section 1848(c)(2)(B) of the Social Security Act \[[42 U.S.C. 1395w–4(c)(2)(B)(ii)(II)][/us/usc/t42/s1395w–4/c/2/B/ii/II], (iii)\] shall apply in the same manner as they apply to adjustments under clause (ii)(I) of such section.”
 
  __Report on Review Process__ 
 
@@ -3405,7 +3405,7 @@
 
 [Pub. L. 103–432, title I, § 124(a)][/us/pl/103/432/s124/a], Oct. 31, 1994, [108 Stat. 4413][/us/stat/108/4413], provided that: 
 
-> “The Secretary of Health and Human Services shall fully develop, by not later than July 1, 1995, relative values for the full range of pediatric physicians’ services which are consistent with the relative values developed for other physicians’ services under section 1848(c) of the Social Security Act \[subsec. (c) of this section\]. In developing such values, the Secretary shall conduct such refinements as may be necessary to produce appropriate estimates for such relative values.”
+> “The Secretary of Health and Human Services shall fully develop, by not later than July 1, 1995, relative values for the full range of pediatric physicians’ services which are consistent with the relative values developed for other physicians’ services under section 1848(c) of the Social Security Act \[[42 U.S.C. 1395w–4(c)][/us/usc/t42/s1395w–4/c]\]. In developing such values, the Secretary shall conduct such refinements as may be necessary to produce appropriate estimates for such relative values.”
 
  __Budget Neutrality Adjustment__ 
 
@@ -3413,29 +3413,29 @@
 
 [Pub. L. 103–66, title XIII, § 13518(b)][/us/pl/103/66/s13518/b], Aug. 10, 1993, [107 Stat. 586][/us/stat/107/586], provided that: 
 
-> “Notwithstanding any other provision of law, the Secretary of Health and Human Services shall implement the amendment made by subsection (a) \[amending this section\] in a manner to assure that such amendment will result in expenditures under part B of title XVIII of the Social Security Act \[this part\] in 1995 for services described in such amendment that shall be equal to the amount of expenditures for such services that would have been made if such amendment had not been made.”
+> “Notwithstanding any other provision of law, the Secretary of Health and Human Services shall implement the amendment made by subsection (a) \[amending this section\] in a manner to assure that such amendment will result in expenditures under part B of title XVIII of the Social Security Act \[[42 U.S.C. 1395j][/us/usc/t42/s1395j] et seq.\] in 1995 for services described in such amendment that shall be equal to the amount of expenditures for such services that would have been made if such amendment had not been made.”
 
  __Ancillary Policies; Adjustment for Independent Laboratories Furnishing Physician Pathology Services__ 
 
 [Pub. L. 101–508, title IV, § 4104(c)][/us/pl/101/508/s4104/c], Nov. 5, 1990, [104 Stat. 1388–59][/us/stat/104/1388-59], provided: 
 
-> “The Secretary of Health and Human Services, in establishing ancillary policies under section 1848(c)(3) of the Social Security Act \[subsec. (c)(3) of this section\], shall consider an appropriate adjustment to reflect the technical component of furnishing physician pathology services through a laboratory that is independent of a hospital and separate from an attending or consulting physician’s office.”
+> “The Secretary of Health and Human Services, in establishing ancillary policies under section 1848(c)(3) of the Social Security Act \[[42 U.S.C. 1395w–4(c)(3)][/us/usc/t42/s1395w–4/c/3]\], shall consider an appropriate adjustment to reflect the technical component of furnishing physician pathology services through a laboratory that is independent of a hospital and separate from an attending or consulting physician’s office.”
 
  __Computation of Conversion Factor for 1992__ 
 
 [Pub. L. 101–508, title IV, § 4105(b)(2)][/us/pl/101/508/s4105/b/2], Nov. 5, 1990, [104 Stat. 1388–60][/us/stat/104/1388-60], as amended by [Pub. L. 103–432, title I, § 126(g)(2)(A)(i)][/us/pl/103/432/s126/g/2/A/i], Oct. 31, 1994, [108 Stat. 4415][/us/stat/108/4415], provided that: 
 
-> “In computing the conversion factor under section 1848(d)(1)(B) of the Social Security Act for 1992 \[subsec. (d)(1)(B) of this section\], the Secretary of Health and Human Services shall determine the estimated aggregate amount of payments under part B of title XVIII of such Act \[this part\] for physicians’ services in 1991 assuming that the amendment made by this subsection \[amending [section 1395u of this title][/us/usc/t42/s1395u]\] did not apply.”
+> “In computing the conversion factor under section 1848(d)(1)(B) of the Social Security Act for 1992 \[[42 U.S.C. 1395w–4(d)(1)(B)][/us/usc/t42/s1395w–4/d/1/B]\], the Secretary of Health and Human Services shall determine the estimated aggregate amount of payments under part B of title XVIII of such Act \[[42 U.S.C. 1395j][/us/usc/t42/s1395j] et seq.\] for physicians’ services in 1991 assuming that the amendment made by this subsection \[amending [section 1395u of this title][/us/usc/t42/s1395u]\] did not apply.”
 
 [Pub. L. 101–508, title IV, § 4106(c)][/us/pl/101/508/s4106/c], Nov. 5, 1990, [104 Stat. 1388–62][/us/stat/104/1388-62], as amended by [Pub. L. 103–432, title I, § 126(g)(3)][/us/pl/103/432/s126/g/3], Oct. 31, 1994, [108 Stat. 4416][/us/stat/108/4416], provided that: 
 
-> “In computing the conversion factor under section 1848(d)(1)(B) of the Social Security Act \[subsec. (d)(1)(B) of this section\] for 1992, the Secretary of Health and Human Services shall determine the estimated aggregate amount of payments under part B \[this part\] for physicians’ services in 1991 assuming that the amendments made by this section \[amending this section, [section 1395u of this title][/us/usc/t42/s1395u], and provisions set out as a note under [section 1395u of this title][/us/usc/t42/s1395u]\] (notwithstanding subsection (d) \[set out as an Effective Date of 1990 Amendment note under [section 1395u of this title][/us/usc/t42/s1395u]\]) applied to all services furnished during such year.”
+> “In computing the conversion factor under section 1848(d)(1)(B) of the Social Security Act \[[42 U.S.C. 1395w–4(d)(1)(B)][/us/usc/t42/s1395w–4/d/1/B]\] for 1992, the Secretary of Health and Human Services shall determine the estimated aggregate amount of payments under part B \[[42 U.S.C. 1395j][/us/usc/t42/s1395j] et seq.\] for physicians’ services in 1991 assuming that the amendments made by this section \[amending this section, [section 1395u of this title][/us/usc/t42/s1395u], and provisions set out as a note under [section 1395u of this title][/us/usc/t42/s1395u]\] (notwithstanding subsection (d) \[set out as an Effective Date of 1990 Amendment note under [section 1395u of this title][/us/usc/t42/s1395u]\]) applied to all services furnished during such year.”
 
  __Publication of Performance Standard Rates__ 
 
 [Pub. L. 101–508, title IV, § 4105(d)][/us/pl/101/508/s4105/d], Nov. 5, 1990, [104 Stat. 1388–60][/us/stat/104/1388-60], as amended by [Pub. L. 103–432, title I, § 126(g)(2)(C)][/us/pl/103/432/s126/g/2/C], Oct. 31, 1994, [108 Stat. 4416][/us/stat/108/4416], provided that: 
 
-> “Not later than 45 days after the date of the enactment of this Act \[Nov. 5, 1990\], the Secretary of Health and Human Services, based on the most recent data available, shall estimate and publish in the Federal Register the performance standard rates of increase specified in section 1848(f)(2)(C) of the Social Security Act \[subsec. (f)(2)(C) of this section\] for fiscal year 1991.”
+> “Not later than 45 days after the date of the enactment of this Act \[Nov. 5, 1990\], the Secretary of Health and Human Services, based on the most recent data available, shall estimate and publish in the Federal Register the performance standard rates of increase specified in section 1848(f)(2)(C) of the Social Security Act \[[42 U.S.C. 1395w–4(f)(2)(C)][/us/usc/t42/s1395w–4/f/2/C]\] for fiscal year 1991.”
 
  __Study of Regional Variations in Impact of Medicare Physician Payment Reform__ 
 
@@ -3447,7 +3447,7 @@
 
 >         “(1) factors that may explain geographic variations in Medicare reasonable charges for physicians’ services that are not attributable to variations in physician practice costs (including the supply of physicians in an area and area variations in the mix of services furnished);
 
->         “(2) the extent to which the geographic practice cost indices applied under the fee schedule established under section 1848 of the Social Security Act \[this section\] accurately reflect variations in practice costs and malpractice costs (and alternative sources of information upon which to base such indices);
+>         “(2) the extent to which the geographic practice cost indices applied under the fee schedule established under section 1848 of the Social Security Act \[[42 U.S.C. 1395w–4][/us/usc/t42/s1395w–4]\] accurately reflect variations in practice costs and malpractice costs (and alternative sources of information upon which to base such indices);
 
 >         “(3) the impact of the transition to a national, resource-based fee schedule for physicians’ services under Medicare on access to physicians’ services in areas that experience a disproportionately large reduction in payments for physicians’ services under the fee schedule by reason of such variations; and
 
@@ -3477,7 +3477,7 @@
 
 [Pub. L. 101–239, title VI, § 6102(e)(11)][/us/pl/101/239/s6102/e/11], Dec. 19, 1989, [103 Stat. 2188][/us/stat/103/2188], as amended by [Pub. L. 101–508, title IV, § 4118(f)(2)(E)][/us/pl/101/508/s4118/f/2/E], Nov. 5, 1990, [104 Stat. 1388–70][/us/stat/104/1388-70], provided that: 
 
-> “By September 1, 1990, the Secretary of Health and Human Services shall develop a Model Fee Schedule, using the methodology set forth in section 1848 of the Social Security Act \[this section\]. The Model Fee Schedule shall include as many services as the Secretary of Health and Human Services concludes can be assigned valid relative values. The Secretary of Health and Human Services shall submit the Model Fee Schedule to the appropriate committees of Congress and make it generally available to the public.”
+> “By September 1, 1990, the Secretary of Health and Human Services shall develop a Model Fee Schedule, using the methodology set forth in section 1848 of the Social Security Act \[[42 U.S.C. 1395w–4][/us/usc/t42/s1395w–4]\]. The Model Fee Schedule shall include as many services as the Secretary of Health and Human Services concludes can be assigned valid relative values. The Secretary of Health and Human Services shall submit the Model Fee Schedule to the appropriate committees of Congress and make it generally available to the public.”
 
 ----------
 
@@ -3995,6 +3995,7 @@
 [/us/stat/117/2301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2301
 [/us/pl/108/173/s611/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs611%2Fe
 [/us/stat/117/2304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2304
+[/us/usc/t42/s1395j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395j
 [/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/usc/t42/s1395m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395m
@@ -4037,6 +4038,7 @@
 [/us/usc/t42/s1395m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395m
 [/us/pl/103/66/s13511/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13511%2Fb
 [/us/stat/107/581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F581
+[/us/usc/t42/s1395w–4/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%934%2Ff
 [/us/pl/103/66/s13514/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13514%2Fd
 [/us/stat/107/583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F583
 [/us/pl/103/66/s13515/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13515%2Fa%2F1
@@ -4058,12 +4060,14 @@
 [/us/stat/104/1388-62]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-62
 [/us/pl/103/432/s126/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432%2Fs126%2Fd%2F2
 [/us/stat/108/4415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4415
+[/us/usc/t42/s1395w–4/i/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%934%2Fi%2F2
 [/us/pl/101/508/s4107/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs4107%2Fc
 [/us/stat/104/1388-63]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-63
 [/us/pl/103/432/s126/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432%2Fs126%2Fd%2F1
 [/us/stat/108/4415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4415
 [/us/pl/101/508/s4109/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs4109%2Fb
 [/us/stat/104/1388-63]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-63
+[/us/usc/t42/s1395w–4/d/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%934%2Fd%2F1%2FB
 [/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
 [/us/usc/t42/s1395b–6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395b%E2%80%936
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003
@@ -4085,6 +4089,7 @@
 [/us/pl/110/275/s131/b/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F275%2Fs131%2Fb%2F4%2FB
 [/us/stat/122/2525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2525
 [/us/usc/t42/s1395x]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395x
+[/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
 [/us/pl/110/275/s131/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F275%2Fs131%2Fb%2F6
 [/us/stat/122/2526]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2526
 [/us/usc/t42/s1395w–4/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%934%2Fm
@@ -4111,6 +4116,7 @@
 [/us/pl/108/173/s303/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs303%2Fa%2F3
 [/us/stat/117/2236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2236
 [/us/usc/t42/s1395w–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%934
+[/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
 [/us/usc/t42/s1395w–4/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%934%2Fc%2F2
 [/us/pl/108/173/s303/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs303%2Fa%2F4
 [/us/stat/117/2237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2237
@@ -4120,10 +4126,12 @@
 [/us/pl/108/173/s303/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs303%2Fa%2F5
 [/us/stat/117/2237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2237
 [/us/usc/t42/s1395u]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395u
+[/us/usc/t42/s1395j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395j
 [/us/usc/t42/s1395w–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%934
 [/us/pl/108/173/s303/g/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs303%2Fg%2F3
 [/us/stat/117/2253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2253
 [/us/usc/t42/s1395ff]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ff
+[/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
 [/us/pl/108/173/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs303
 [/us/pl/108/173/s303/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs303%2Fj
 [/us/usc/t42/s1395u]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395u
@@ -4134,6 +4142,7 @@
 [/us/pl/108/173/s413/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs413%2Fc
 [/us/stat/117/2277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2277
 [/us/usc/t42/s1395w–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%934
+[/us/usc/t42/s1395w–4/e/1/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%934%2Fe%2F1%2FE
 [/us/pl/109/171/s5104/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2Fs5104%2Fb
 [/us/stat/120/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F41
 [/us/usc/t42/s1395w–4/f/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%934%2Ff%2F2%2FD
@@ -4146,12 +4155,14 @@
 [/us/pl/108/173/s606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs606
 [/us/stat/117/2302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2302
 [/us/usc/t42/s1395w–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%934
+[/us/usc/t42/s1395j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395j
 [/us/usc/t42/s1395w–4/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%934%2Ff
 [/us/pl/108/173/s644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs644
 [/us/stat/117/2323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2323
 [/us/usc/t42/s1395w–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%934
 [/us/pl/108/173/s953/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs953%2Fa%2F2
 [/us/stat/117/2428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2428
+[/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
 [/us/usc/t42/s1395w–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%934
 [/us/pl/106/554/s1/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F6
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
@@ -4175,6 +4186,8 @@
 [/us/usc/t42/s1395ww/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww%2Fd
 [/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
 [/us/usc/t42/s1395u]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395u
+[/us/usc/t42/s1395c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395c
+[/us/usc/t42/s1395w–21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%9321
 [/us/usc/t42/s1395mm]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395mm
 [/us/usc/t42/s1395eee]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395eee
 [/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
@@ -4189,6 +4202,7 @@
 [/us/usc/t42/s1395w–4/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%934%2Fc
 [/us/pl/105/33/s4105/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs4105%2Fa%2F3
 [/us/stat/111/367]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F367
+[/us/usc/t42/s1395w–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%934
 [/us/pl/105/33/s4505/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs4505%2Fd
 [/us/stat/111/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F435
 [/us/pl/111/148/s3134/b/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs3134%2Fb%2F1%2FC
@@ -4200,27 +4214,35 @@
 [/us/stat/108/4408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4408
 [/us/pl/103/432/s121/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432%2Fs121%2Fb%2F3
 [/us/stat/108/4409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4409
+[/us/usc/t42/s1395w–4/c/2/B/ii/II]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%934%2Fc%2F2%2FB%2Fii%2FII
 [/us/pl/103/432/s122/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432%2Fs122%2Fc
 [/us/stat/108/4409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4409
 [/us/pl/103/432/s124/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432%2Fs124%2Fa
 [/us/stat/108/4413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4413
+[/us/usc/t42/s1395w–4/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%934%2Fc
 [/us/usc/t42/s1395u]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395u
 [/us/pl/103/66/s13515/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13515%2Fa
 [/us/pl/103/66/s13515/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13515%2Fb
 [/us/usc/t42/s1395u]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395u
 [/us/pl/103/66/s13518/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13518%2Fb
 [/us/stat/107/586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F586
+[/us/usc/t42/s1395j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395j
 [/us/pl/101/508/s4104/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs4104%2Fc
 [/us/stat/104/1388-59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-59
+[/us/usc/t42/s1395w–4/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%934%2Fc%2F3
 [/us/pl/101/508/s4105/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs4105%2Fb%2F2
 [/us/stat/104/1388-60]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-60
 [/us/pl/103/432/s126/g/2/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432%2Fs126%2Fg%2F2%2FA%2Fi
 [/us/stat/108/4415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4415
+[/us/usc/t42/s1395w–4/d/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%934%2Fd%2F1%2FB
+[/us/usc/t42/s1395j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395j
 [/us/usc/t42/s1395u]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395u
 [/us/pl/101/508/s4106/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs4106%2Fc
 [/us/stat/104/1388-62]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-62
 [/us/pl/103/432/s126/g/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432%2Fs126%2Fg%2F3
 [/us/stat/108/4416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4416
+[/us/usc/t42/s1395w–4/d/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%934%2Fd%2F1%2FB
+[/us/usc/t42/s1395j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395j
 [/us/usc/t42/s1395u]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395u
 [/us/usc/t42/s1395u]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395u
 [/us/usc/t42/s1395u]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395u
@@ -4228,8 +4250,10 @@
 [/us/stat/104/1388-60]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-60
 [/us/pl/103/432/s126/g/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432%2Fs126%2Fg%2F2%2FC
 [/us/stat/108/4416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4416
+[/us/usc/t42/s1395w–4/f/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%934%2Ff%2F2%2FC
 [/us/pl/101/508/s4115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs4115
 [/us/stat/104/1388-65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-65
+[/us/usc/t42/s1395w–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%934
 [/us/pl/101/508/s4117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs4117
 [/us/stat/104/1388-65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-65
 [/us/pl/103/432/s126/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432%2Fs126%2Ff
@@ -4249,5 +4273,6 @@
 [/us/stat/103/2188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2188
 [/us/pl/101/508/s4118/f/2/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs4118%2Ff%2F2%2FE
 [/us/stat/104/1388-70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-70
+[/us/usc/t42/s1395w–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%934
 
 

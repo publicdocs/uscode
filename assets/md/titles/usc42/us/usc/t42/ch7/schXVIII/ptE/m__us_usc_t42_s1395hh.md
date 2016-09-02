@@ -181,7 +181,7 @@
 
 >     “(1) __Study.—__ 
 
->     The Comptroller General of the United States shall conduct a study to determine the feasibility and appropriateness of establishing in the Secretary \[of Health and Human Services\] authority to provide legally binding advisory opinions on appropriate interpretation and application of regulations to carry out the medicare program under title XVIII of the Social Security Act \[this subchapter\]. Such study shall examine the appropriate timeframe for issuing such advisory opinions, as well as the need for additional staff and funding to provide such opinions.
+>     The Comptroller General of the United States shall conduct a study to determine the feasibility and appropriateness of establishing in the Secretary \[of Health and Human Services\] authority to provide legally binding advisory opinions on appropriate interpretation and application of regulations to carry out the medicare program under title XVIII of the Social Security Act \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\]. Such study shall examine the appropriate timeframe for issuing such advisory opinions, as well as the need for additional staff and funding to provide such opinions.
 
 >     “(2) __Report.—__ 
 
@@ -240,5 +240,6 @@
 [/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
 [/us/pl/108/173/s904/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs904%2Fa
 [/us/stat/117/2377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2377
+[/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
 
 

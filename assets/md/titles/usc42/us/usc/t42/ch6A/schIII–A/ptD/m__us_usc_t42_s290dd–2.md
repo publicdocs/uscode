@@ -103,7 +103,7 @@
 
  __Report of Administrator of Veterans’ Affairs to Congressional Committees; Publication in Federal Register__ 
 
-    [Pub. L. 93–282, title I, § 121(b)][/us/pl/93/282/s121/b], May 14, 1974, [88 Stat. 131][/us/stat/88/131], which directed Administrator of Veterans’ Affairs to submit to appropriate committees of House of Representatives and Senate a full report (1) on regulations (including guidelines, policies, and procedures thereunder) he had prescribed pursuant to section 321(b)(2) of Comprehensive Alcohol Abuse and Alcoholism Prevention, Treatment, and Rehabilitation Act of 1970 \[former subsec. (b)(2) of this section\], (2) explaining bases for any inconsistency between such regulations and regulations of Secretary under section 321(b)(1) of such Act \[subsec. (b)(1) of this section\], (3) on extent, substance, and results of his consultations with Secretary respecting prescribing and implementation of Administrator’s regulations, and (4) containing such recommendations for legislation and administrative actions as he determined were necessary and desirable, with Administrator to submit report not later than sixty days after effective date of regulations prescribed by Secretary under such section 321(b)(1) \[subsec. (b)(1) of this section\], and to publish such report in Federal Register, was characterized by [section 111(c)(5) of Pub. L. 94–581][/us/pl/94/581/s111/c/5] as having been superseded by section 4134 \[now 7334\] of Title 38, Veterans’ Benefits.
+    [Pub. L. 93–282, title I, § 121(b)][/us/pl/93/282/s121/b], May 14, 1974, [88 Stat. 131][/us/stat/88/131], which directed Administrator of Veterans’ Affairs to submit to appropriate committees of House of Representatives and Senate a full report (1) on regulations (including guidelines, policies, and procedures thereunder) he had prescribed pursuant to section 321(b)(2) of Comprehensive Alcohol Abuse and Alcoholism Prevention, Treatment, and Rehabilitation Act of 1970 \[former [42 U.S.C. 290dd–2(b)(2)][/us/usc/t42/s290dd–2/b/2]\], (2) explaining bases for any inconsistency between such regulations and regulations of Secretary under section 321(b)(1) of such Act \[[42 U.S.C. 290dd–2(b)(1)][/us/usc/t42/s290dd–2/b/1]\], (3) on extent, substance, and results of his consultations with Secretary respecting prescribing and implementation of Administrator’s regulations, and (4) containing such recommendations for legislation and administrative actions as he determined were necessary and desirable, with Administrator to submit report not later than sixty days after effective date of regulations prescribed by Secretary under such section 321(b)(1) \[[42 U.S.C. 290dd–2(b)(1)][/us/usc/t42/s290dd–2/b/1]\], and to publish such report in Federal Register, was characterized by [section 111(c)(5) of Pub. L. 94–581][/us/pl/94/581/s111/c/5] as having been superseded by section 4134 \[now 7334\] of Title 38, Veterans’ Benefits.
 
 ----------
 
@@ -154,6 +154,9 @@
 [/us/usc/t38/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs111
 [/us/pl/93/282/s121/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F282%2Fs121%2Fb
 [/us/stat/88/131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F131
+[/us/usc/t42/s290dd–2/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs290dd%E2%80%932%2Fb%2F2
+[/us/usc/t42/s290dd–2/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs290dd%E2%80%932%2Fb%2F1
+[/us/usc/t42/s290dd–2/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs290dd%E2%80%932%2Fb%2F1
 [/us/pl/94/581/s111/c/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F581%2Fs111%2Fc%2F5
 
 

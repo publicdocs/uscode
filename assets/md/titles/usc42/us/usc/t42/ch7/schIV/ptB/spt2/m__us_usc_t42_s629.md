@@ -61,7 +61,7 @@ The purpose of this program is to enable States to develop and establish, or exp
 
 >     “(b) __Delay Permitted if State Legislation Required.—__ 
 
->     In the case of a State plan under subpart 2 of part B or part E of the Social Security Act \[probably means subpart 2 of part B or part E of title IV of the Social Security Act (this subpart and part E of this subchapter)\] that the Secretary of Health and Human Services determines requires State legislation (other than legislation appropriating funds) in order for the plan to meet the additional requirements imposed by the amendments specified in subsection (a) of this section, the State plan shall not be regarded as failing to comply with the requirements of such part solely on the basis of the failure of the plan to meet the additional requirements before the first day of the first calendar quarter beginning after the close of the first regular session of the State legislature that begins after the date of the enactment of this Act \[Jan. 17, 2001\]. For purposes of the preceding sentence, in the case of a State that has a 2-year legislative session, each year of the session shall be deemed to be a separate regular session of the State legislature.”
+>     In the case of a State plan under subpart 2 of part B or part E of the Social Security Act \[probably means subpart 2 of part B or part E of title IV of the Social Security Act ([42 U.S.C. 629][/us/usc/t42/s629] et seq., 670 et seq.)\] that the Secretary of Health and Human Services determines requires State legislation (other than legislation appropriating funds) in order for the plan to meet the additional requirements imposed by the amendments specified in subsection (a) of this section, the State plan shall not be regarded as failing to comply with the requirements of such part solely on the basis of the failure of the plan to meet the additional requirements before the first day of the first calendar quarter beginning after the close of the first regular session of the State legislature that begins after the date of the enactment of this Act \[Jan. 17, 2001\]. For purposes of the preceding sentence, in the case of a State that has a 2-year legislative session, each year of the session shall be deemed to be a separate regular session of the State legislature.”
 
  __Effective Date of 1997 Amendment__ 
 
@@ -103,6 +103,7 @@ The purpose of this program is to enable States to develop and establish, or exp
 [/us/usc/t42/s621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs621
 [/us/pl/107/133/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F133%2Fs301
 [/us/stat/115/2425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F2425
+[/us/usc/t42/s629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs629
 [/us/pl/105/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F89
 [/us/pl/105/89/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F89%2Fs501
 [/us/usc/t42/s622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs622

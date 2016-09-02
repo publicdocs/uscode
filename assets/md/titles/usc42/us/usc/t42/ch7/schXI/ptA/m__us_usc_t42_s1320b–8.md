@@ -137,7 +137,7 @@
 
 [Pub. L. 103–432, title I, § 155(a)(3)][/us/pl/103/432/s155/a/3], Oct. 31, 1994, [108 Stat. 4439][/us/stat/108/4439], provided that: 
 
-> “The amendments made by paragraph (1) \[amending this section\] shall apply to hospitals and rural primary care hospitals participating in the programs under titles XVIII and XIX of the Social Security Act \[subchapters XVIII and XIX of this chapter\] beginning January 1, 1996.”
+> “The amendments made by paragraph (1) \[amending this section\] shall apply to hospitals and rural primary care hospitals participating in the programs under titles XVIII and XIX of the Social Security Act \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq., 1396 et seq.\] beginning January 1, 1996.”
 
  __Effective Date of 1988 Amendment__ 
 
@@ -147,9 +147,9 @@
 
 [Pub. L. 99–509, title IX, § 9318(b)][/us/pl/99/509/s9318/b], Oct. 21, 1986, [100 Stat. 2010][/us/stat/100/2010], as amended by [Pub. L. 100–119, title I, § 107(c)][/us/pl/100/119/s107/c], Sept. 29, 1987, [101 Stat. 784][/us/stat/101/784]; [Pub. L. 100–203, title IV, § 4009(g)(1)][/us/pl/100/203/s4009/g/1], Dec. 22, 1987, [101 Stat. 1330–58][/us/stat/101/1330-58], provided that:
 
->     “(1) Section 1138(a) of the Social Security Act \[subsec. (a) of this section\] shall apply to hospitals participating in the programs under titles XVIII and XIX of such Act \[subchapters XVIII and XIX of this chapter\] as of November 21, 1987.”
+>     “(1) Section 1138(a) of the Social Security Act \[[42 U.S.C. 1320b–8(a)][/us/usc/t42/s1320b–8/a]\] shall apply to hospitals participating in the programs under titles XVIII and XIX of such Act \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq., 1396 et seq.\] as of November 21, 1987.”
 
-    “(2) Section 1138(b) of such Act \[subsec. (b) of this section\] shall apply to costs of organs procured on or after March 31, 1988.”
+    “(2) Section 1138(b) of such Act \[[42 U.S.C. 1320b–8(b)][/us/usc/t42/s1320b–8/b]\] shall apply to costs of organs procured on or after March 31, 1988.”
 
 \[[Pub. L. 100–203, title IV, § 4009(g)(2)][/us/pl/100/203/s4009/g/2], Dec. 22, 1987, [101 Stat. 1330–58][/us/stat/101/1330-58], provided that: 
 
@@ -161,7 +161,7 @@
 
 [Pub. L. 103–432, title I, § 155(a)(2)][/us/pl/103/432/s155/a/2], Oct. 31, 1994, [108 Stat. 4439][/us/stat/108/4439], provided that: 
 
-> “Any hospital or rural primary care hospital which has an agreement (as defined in section 1138(a)(3)(A) of the Social Security Act \[subsec. (a)(3)(A) of this section\]) with an organ procurement agency other than such hospital’s designated organ procurement agency (as defined in section 1138(a)(3)(B) of such Act) on the date of the enactment of this section \[Oct. 31, 1994\] shall, if such hospital desires to continue such agreement on and after the effective date of the amendments made by paragraph (1) \[see Effective Date of 1994 Amendment note above\], submit an application to the Secretary for a waiver under section 1138(a)(2) of such Act not later than January 1, 1996, and such agreement may continue in effect pending the Secretary’s determination with respect to such application.”
+> “Any hospital or rural primary care hospital which has an agreement (as defined in section 1138(a)(3)(A) of the Social Security Act \[[42 U.S.C. 1320b–8(a)(3)(A)][/us/usc/t42/s1320b–8/a/3/A]\]) with an organ procurement agency other than such hospital’s designated organ procurement agency (as defined in section 1138(a)(3)(B) of such Act) on the date of the enactment of this section \[Oct. 31, 1994\] shall, if such hospital desires to continue such agreement on and after the effective date of the amendments made by paragraph (1) \[see Effective Date of 1994 Amendment note above\], submit an application to the Secretary for a waiver under section 1138(a)(2) of such Act not later than January 1, 1996, and such agreement may continue in effect pending the Secretary’s determination with respect to such application.”
 
 ----------
 
@@ -209,6 +209,7 @@
 [/us/usc/t42/s1395f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395f
 [/us/pl/103/432/s155/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432%2Fs155%2Fa%2F3
 [/us/stat/108/4439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4439
+[/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
 [/us/pl/100/360/s411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360%2Fs411
 [/us/pl/100/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360
 [/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
@@ -221,10 +222,14 @@
 [/us/stat/101/784]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F784
 [/us/pl/100/203/s4009/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs4009%2Fg%2F1
 [/us/stat/101/1330-58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-58
+[/us/usc/t42/s1320b–8/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320b%E2%80%938%2Fa
+[/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
+[/us/usc/t42/s1320b–8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320b%E2%80%938%2Fb
 [/us/pl/100/203/s4009/g/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs4009%2Fg%2F2
 [/us/stat/101/1330-58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-58
 [/us/pl/99/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509
 [/us/pl/103/432/s155/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432%2Fs155%2Fa%2F2
 [/us/stat/108/4439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4439
+[/us/usc/t42/s1320b–8/a/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320b%E2%80%938%2Fa%2F3%2FA
 
 

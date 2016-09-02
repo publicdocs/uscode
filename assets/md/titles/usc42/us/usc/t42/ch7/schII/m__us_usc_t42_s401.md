@@ -535,7 +535,7 @@
 
 >     “(2) __Treatment of outstanding obligations.—__ 
 
->     Not later than 60 days after the date of the enactment of this Act, the Secretary of the Treasury shall issue to the Federal Old-Age and Survivors Insurance Trust Fund or the Federal Disability Insurance Trust Fund, as applicable, a paper instrument, in the form of a bond, note, or certificate of indebtedness, for each obligation which has been issued to the Trust Fund under section 201(d) of the Social Security Act \[subsec. (d) of this section\] and which is outstanding as of such date. Each such document shall set forth the principal amount, date of maturity, and interest rate of the obligation, and shall state on its face that the obligation shall be incontestable in the hands of the Trust Fund to which it was issued, that the obligation is supported by the full faith and credit of the United States, and that the United States is pledged to the payment of the obligation with respect to both principal and interest.”
+>     Not later than 60 days after the date of the enactment of this Act, the Secretary of the Treasury shall issue to the Federal Old-Age and Survivors Insurance Trust Fund or the Federal Disability Insurance Trust Fund, as applicable, a paper instrument, in the form of a bond, note, or certificate of indebtedness, for each obligation which has been issued to the Trust Fund under section 201(d) of the Social Security Act \[[42 U.S.C. 401(d)][/us/usc/t42/s401/d]\] and which is outstanding as of such date. Each such document shall set forth the principal amount, date of maturity, and interest rate of the obligation, and shall state on its face that the obligation shall be incontestable in the hands of the Trust Fund to which it was issued, that the obligation is supported by the full faith and credit of the United States, and that the United States is pledged to the payment of the obligation with respect to both principal and interest.”
 
 [Pub. L. 103–296, title III, § 321(c)(1)(A)(ii)][/us/pl/103/296/s321/c/1/A/ii], Aug. 15, 1994, [108 Stat. 1537][/us/stat/108/1537], provided that: 
 
@@ -595,7 +595,7 @@
 
 [Pub. L. 98–21, title I, § 152(b)][/us/pl/98/21/s152/b], Apr. 20, 1983, [97 Stat. 105][/us/stat/97/105], provided that: 
 
-> “The amendment made by subsection (a) \[amending this section\] shall apply with respect to all checks for benefits under title II of the Social Security Act \[this subchapter\] which are issued on or after the first day of the twenty-fourth month following the month in which this Act is enacted \[April 1983\].”
+> “The amendment made by subsection (a) \[amending this section\] shall apply with respect to all checks for benefits under title II of the Social Security Act \[[42 U.S.C. 401][/us/usc/t42/s401] et seq.\] which are issued on or after the first day of the twenty-fourth month following the month in which this Act is enacted \[April 1983\].”
 
 [Pub. L. 98–21, title I, § 154(e)][/us/pl/98/21/s154/e], Apr. 20, 1983, [97 Stat. 107][/us/stat/97/107], provided that: 
 
@@ -651,7 +651,7 @@
 
 >     “(1) The preceding provisions of this section \[amending this section and sections 402, 403, 405, 408 to 411, 413, 415, 416, 418, 423, 429, 430, and 432 of this title, and enacting provisions set out as notes under this section and sections 402 and 430 of this title\] shall be construed only as technical and clerical corrections and as reflecting the original intent of the provisions amended thereby.
 
->     “(2) Any reference in title II of the Social Security Act \[this subchapter\] to the Internal Revenue Code of 1986 \[[26 U.S.C. 1][/us/usc/t26/s1] et seq.\] shall be construed to include a reference to the Internal Revenue Code of 1954 to the extent necessary to carry out the provisions of paragraph (1).”
+>     “(2) Any reference in title II of the Social Security Act \[[42 U.S.C. 401][/us/usc/t42/s401] et seq.\] to the Internal Revenue Code of 1986 \[[26 U.S.C. 1][/us/usc/t26/s1] et seq.\] shall be construed to include a reference to the Internal Revenue Code of 1954 to the extent necessary to carry out the provisions of paragraph (1).”
 
  __Protection of Social Security__ 
 
@@ -685,7 +685,7 @@
 
 >     “(a) __In General.—__ 
 
->     Nothing in this Act \[see Tables for classification\] (or an amendment made by this Act) shall be construed to alter or amend title II of the Social Security Act \[this subchapter\] (or any regulation promulgated under that Act \[this chapter\]).
+>     Nothing in this Act \[see Tables for classification\] (or an amendment made by this Act) shall be construed to alter or amend title II of the Social Security Act \[[42 U.S.C. 401][/us/usc/t42/s401] et seq.\] (or any regulation promulgated under that Act \[[42 U.S.C. 301][/us/usc/t42/s301] et seq.\]).
 
 >     “(b) __Transfers.—__ 
 
@@ -703,7 +703,7 @@
 
 >     “(a) __In General.—__ 
 
->     Nothing in this Act \[see Short Title of 2002 Amendment note set out under [section 1 of Title 26][/us/usc/t26/s1], Internal Revenue Code\] (or an amendment made by this Act) shall be construed to alter or amend title II of the Social Security Act \[this subchapter\] (or any regulation promulgated under that Act \[this chapter\]).
+>     Nothing in this Act \[see Short Title of 2002 Amendment note set out under [section 1 of Title 26][/us/usc/t26/s1], Internal Revenue Code\] (or an amendment made by this Act) shall be construed to alter or amend title II of the Social Security Act \[[42 U.S.C. 401][/us/usc/t42/s401] et seq.\] (or any regulation promulgated under that Act \[[42 U.S.C. 301][/us/usc/t42/s301] et seq.\]).
 
 >     “(b) __Transfers.—__ 
 
@@ -725,7 +725,7 @@
 
 >     “(1) __In general.—__ 
 
->     The Commissioner of Social Security shall ensure that funds made available for continuing disability reviews (as defined in section 201(g)(1)(A) of the Social Security Act \[subsec. (g)(1)(A) of this section\]) are used, to the greatest extent practicable, to maximize the combined savings in the old-age, survivors, and disability insurance, supplemental security income, Medicare, and medicaid programs, except that the amounts appropriated pursuant to the authorization and discretionary spending allowance provisions in section 211(d)(2)(5) of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 \[probably means [section 211(d)(5) of Pub. L. 104–193][/us/pl/104/193/s211/d/5], which amended sections 665e and 901 of Title 2, The Congress, enacted provisions set out as a note under [section 1382c of this title][/us/usc/t42/s1382c], and amended this note\] shall be used only for continuing disability reviews and redeterminations under title XVI of the Social Security Act \[subchapter XVI of this chapter\].
+>     The Commissioner of Social Security shall ensure that funds made available for continuing disability reviews (as defined in section 201(g)(1)(A) of the Social Security Act \[[42 U.S.C. 401(g)(1)(A)][/us/usc/t42/s401/g/1/A]\]) are used, to the greatest extent practicable, to maximize the combined savings in the old-age, survivors, and disability insurance, supplemental security income, Medicare, and medicaid programs, except that the amounts appropriated pursuant to the authorization and discretionary spending allowance provisions in section 211(d)(2)(5) of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 \[probably means [section 211(d)(5) of Pub. L. 104–193][/us/pl/104/193/s211/d/5], which amended sections 665e and 901 of Title 2, The Congress, enacted provisions set out as a note under [section 1382c of this title][/us/usc/t42/s1382c], and amended this note\] shall be used only for continuing disability reviews and redeterminations under title XVI of the Social Security Act \[[42 U.S.C. 1381][/us/usc/t42/s1381] et seq.\].
 
 >     “(2) __Report.—__ 
 
@@ -767,7 +767,7 @@
 
 >         “(B) __Hospital insurance trust fund.—__ 
 
->         The term ‘hospital insurance trust fund’ means the fund established pursuant to section 1817 of the Social Security Act \[[section 1395i of this title][/us/usc/t42/s1395i]\].
+>         The term ‘hospital insurance trust fund’ means the fund established pursuant to section 1817 of the Social Security Act \[[42 U.S.C. 1395i][/us/usc/t42/s1395i]\].
 
 >         “(C) __Social security benefits.—__ 
 
@@ -787,9 +787,9 @@
 
 [Pub. L. 98–21, title I, § 152(c)][/us/pl/98/21/s152/c], Apr. 20, 1983, [97 Stat. 105][/us/stat/97/105], provided that:
 
->     “(1) The Secretary of the Treasury shall transfer from the general fund of the Treasury to the Federal Old-Age and Survivors Insurance Trust Fund and to the Federal Disability Insurance Trust Fund, in the month following the month in which this Act is enacted \[April 1983\] and in each of the succeeding 30 months, such sums as may be necessary to reimburse such Trust Funds in the total amount of all checks (including interest thereof) which he and the Secretary of Health and Human Services jointly determine to be unnegotiated benefit checks, to the extent provided in advance in appropriation Acts. After any amounts authorized by this subsection have been transferred to a Trust Fund with respect to any benefit check, the provisions of paragraphs (3) and (4) of section 201(m) of the Social Security Act \[subsec. (m)(3), (4) of this section\] (as added by subsection (a) of this section) shall be applicable to such check.
+>     “(1) The Secretary of the Treasury shall transfer from the general fund of the Treasury to the Federal Old-Age and Survivors Insurance Trust Fund and to the Federal Disability Insurance Trust Fund, in the month following the month in which this Act is enacted \[April 1983\] and in each of the succeeding 30 months, such sums as may be necessary to reimburse such Trust Funds in the total amount of all checks (including interest thereof) which he and the Secretary of Health and Human Services jointly determine to be unnegotiated benefit checks, to the extent provided in advance in appropriation Acts. After any amounts authorized by this subsection have been transferred to a Trust Fund with respect to any benefit check, the provisions of paragraphs (3) and (4) of section 201(m) of the Social Security Act \[[42 U.S.C. 401(m)(3)][/us/usc/t42/s401/m/3], (4)\] (as added by subsection (a) of this section) shall be applicable to such check.
 
->     “(2) As used in paragraph (1), the term ‘unnegotiated benefit checks’ means checks for benefits under title II of the Social Security Act \[this subchapter\] which are issued prior to the twenty-fourth month following the month in which this Act is enacted \[April 1983\], which remain unnegotiated after the sixth month following the date on which they were issued, and with respect to which no transfers have previously been made in accordance with the first sentence of such paragraph.”
+>     “(2) As used in paragraph (1), the term ‘unnegotiated benefit checks’ means checks for benefits under title II of the Social Security Act \[[42 U.S.C. 401][/us/usc/t42/s401] et seq.\] which are issued prior to the twenty-fourth month following the month in which this Act is enacted \[April 1983\], which remain unnegotiated after the sixth month following the date on which they were issued, and with respect to which no transfers have previously been made in accordance with the first sentence of such paragraph.”
 
  __Study of Float Period of Monthly Insurance Benefit Checks__ 
 
@@ -811,19 +811,19 @@
 
 [Pub. L. 94–202, § 8(e)][/us/pl/94/202/s8/e], Jan. 2, 1976, [89 Stat. 1139][/us/stat/89/1139], provided that: 
 
-> “Any persons the Board of Trustees finds necessary to employ to assist it in performing its functions under section 201(g)(4) of the Social Security Act \[subsec. (g)(4) of this section\] may be appointed without regard to the civil service or classification laws, shall be compensated, while so employed at rates fixed by the Board of Trustees, but not exceeding $100 per day, and, while away from their homes or regular places of business, they may be allowed traveling expenses, including per diem in lieu of subsistence, as authorized by law for persons in the Government service employed intermittently.”
+> “Any persons the Board of Trustees finds necessary to employ to assist it in performing its functions under section 201(g)(4) of the Social Security Act \[[42 U.S.C. 401(g)(4)][/us/usc/t42/s401/g/4]\] may be appointed without regard to the civil service or classification laws, shall be compensated, while so employed at rates fixed by the Board of Trustees, but not exceeding $100 per day, and, while away from their homes or regular places of business, they may be allowed traveling expenses, including per diem in lieu of subsistence, as authorized by law for persons in the Government service employed intermittently.”
 
  __Method of Determining Costs Prescribed by the Board of Trustees Certification and Transfer of Funds__ 
 
 [Pub. L. 94–202, § 8(f)][/us/pl/94/202/s8/f], Jan. 2, 1976, [89 Stat. 1139][/us/stat/89/1139], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that: 
 
-> “The Secretary shall not make any estimates pursuant to section 201(g)(1)(A)(ii) of the Social Security Act \[subsec. (g)(1)(A)(ii) of this section\] before the Board of Trustees prescribes the method of determining costs as provided in section 201(g)(4) of such Act \[subsec. (g)(4) of this section\]. The determinations pursuant to section 201(g)(1)(B) of the Social Security Act \[subsec. (g)(1)(B) of this section\] with respect to the carrying out of the functions of the Department of Health, Education, and Welfare \[now Health and Human Services\] specified in section 232 of such Act \[[section 432 of this title][/us/usc/t42/s432]\], which relate to the administration of provisions of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (other than those referred to in clause (i) of the first sentence of section 201(g)(1)(A) of the Social Security Act \[subsec. (g)(1)(A) of this section\]), during fiscal years ending before the Board of Trustees prescribes the method of making such determinations, shall be made after the Board of Trustees has prescribed such method. The Secretary of Health, Education, and Welfare \[now Health and Human Services\] shall certify to the Managing Trustee the amounts that should be transferred from the general fund in the Treasury to the Trust Funds (as referred to in section 201(g)(1)(A) of the Social Security Act \[subsec. (g)(1)(A) of this section\]) to insure that the general fund in the Treasury bears its proper share of the costs of carrying out such functions in such fiscal years. The Managing Trustee is authorized and directed to transfer any such amounts in accordance with any certification so made.”
+> “The Secretary shall not make any estimates pursuant to section 201(g)(1)(A)(ii) of the Social Security Act \[[42 U.S.C. 401(g)(1)(A)(ii)][/us/usc/t42/s401/g/1/A/ii]\] before the Board of Trustees prescribes the method of determining costs as provided in section 201(g)(4) of such Act \[[42 U.S.C. 401(g)(4)][/us/usc/t42/s401/g/4]\]. The determinations pursuant to section 201(g)(1)(B) of the Social Security Act \[[42 U.S.C. 401(g)(1)(B)][/us/usc/t42/s401/g/1/B]\] with respect to the carrying out of the functions of the Department of Health, Education, and Welfare \[now Health and Human Services\] specified in section 232 of such Act \[[42 U.S.C. 432][/us/usc/t42/s432]\], which relate to the administration of provisions of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (other than those referred to in clause (i) of the first sentence of section 201(g)(1)(A) of the Social Security Act \[[42 U.S.C. 401(g)(1)(A)][/us/usc/t42/s401/g/1/A]\]), during fiscal years ending before the Board of Trustees prescribes the method of making such determinations, shall be made after the Board of Trustees has prescribed such method. The Secretary of Health, Education, and Welfare \[now Health and Human Services\] shall certify to the Managing Trustee the amounts that should be transferred from the general fund in the Treasury to the Trust Funds (as referred to in section 201(g)(1)(A) of the Social Security Act \[[42 U.S.C. 401(g)(1)(A)][/us/usc/t42/s401/g/1/A]\]) to insure that the general fund in the Treasury bears its proper share of the costs of carrying out such functions in such fiscal years. The Managing Trustee is authorized and directed to transfer any such amounts in accordance with any certification so made.”
 
  __Advances From Trust Funds for Administrative Expenses__ 
 
 [Pub. L. 92–603, title III, § 305(b)][/us/pl/92/603/s305/b], Oct. 30, 1972, [86 Stat. 1485][/us/stat/86/1485], provided that:
 
->     “(1) Sums appropriated pursuant to section 1601 of the Social Security Act \[[section 1381 of this title][/us/usc/t42/s1381]\] shall be utilized from time to time, in amounts certified under the second sentence of section 201(g)(1)(A) of such Act \[subsec. (g)(1)(A) of this section\], to repay the Trust Funds for expenditures made from such Funds in any fiscal year under section 201(g)(1)(A) of such Act (as amended by subsection (a) of this section) \[amending subsec. (g)(1)(A) of this section\] on account of the costs of administration of title XVI of such Act \[subchapter XVI of this chapter\] (as added by section 301 of this Act).
+>     “(1) Sums appropriated pursuant to section 1601 of the Social Security Act \[[42 U.S.C. 1381][/us/usc/t42/s1381]\] shall be utilized from time to time, in amounts certified under the second sentence of section 201(g)(1)(A) of such Act \[[42 U.S.C. 401(g)(1)(A)][/us/usc/t42/s401/g/1/A]\], to repay the Trust Funds for expenditures made from such Funds in any fiscal year under section 201(g)(1)(A) of such Act (as amended by subsection (a) of this section) on account of the costs of administration of title XVI of such Act \[[42 U.S.C. 1381][/us/usc/t42/s1381] et seq.\] (as added by section 301 of this Act).
 
 >     “(2)
 
@@ -837,7 +837,7 @@
 
 >         in order to place each such Fund in the same position (at the end of such fiscal year) as it would have been in if such excess expenditures had not been made, the amendments made by subsection (a) shall cease to be effective at the close of the fiscal year following such fiscal year.
 
->     “(3) As used in this subsection, the term ‘Trust Funds’ has the meaning given it in section 201(g)(1)(A) of the Social Security Act \[subsec. (g)(1)(A) of this section\].”
+>     “(3) As used in this subsection, the term ‘Trust Funds’ has the meaning given it in section 201(g)(1)(A) of the Social Security Act \[[42 U.S.C. 401(g)(1)(A)][/us/usc/t42/s401/g/1/A]\].”
 
  __Advances From Trust Funds for Administrative Purposes; Fiscal Year Transition Period of__  __July 1, 1976__  __, Through__  __September 30, 1976__  __, Deemed Fiscal Year__ 
 
@@ -847,7 +847,7 @@
 
 [Pub. L. 92–603, title I, § 132(g)][/us/pl/92/603/s132/g], Oct. 30, 1972, [86 Stat. 1361][/us/stat/86/1361], provided that: 
 
-> “For the purpose of Federal income, estate, and gift taxes, any gift or bequest to the Federal Old-Age and Survivors Insurance Trust Fund, the Federal Disability Insurance Trust Fund, the Federal Hospital Insurance Trust Fund, or the Federal Supplementary Medical Insurance Trust Fund, or to the Department of Health, Education, and Welfare \[now Health and Human Services\], or any part or officer thereof, for the benefit of any of such Funds or any activity financed through any of such Funds, which is accepted by the Managing Trustee of such Trust Funds under the authority of section 201(i) of the Social Security Act \[subsec. (i) of this section\], shall be considered as a gift or bequest to or for the use of the United States and as made for exclusively public purposes.”
+> “For the purpose of Federal income, estate, and gift taxes, any gift or bequest to the Federal Old-Age and Survivors Insurance Trust Fund, the Federal Disability Insurance Trust Fund, the Federal Hospital Insurance Trust Fund, or the Federal Supplementary Medical Insurance Trust Fund, or to the Department of Health, Education, and Welfare \[now Health and Human Services\], or any part or officer thereof, for the benefit of any of such Funds or any activity financed through any of such Funds, which is accepted by the Managing Trustee of such Trust Funds under the authority of section 201(i) of the Social Security Act \[[42 U.S.C. 401(i)][/us/usc/t42/s401/i]\], shall be considered as a gift or bequest to or for the use of the United States and as made for exclusively public purposes.”
 
  __Taxes on Services Rendered by Employees of International Organizations Prior to__  __Jan. 1, 1946__ 
 
@@ -1104,6 +1104,7 @@
 [/us/pl/95/452/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F452%2Fs11
 [/us/pl/103/296/s301/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs301%2Fc
 [/us/stat/108/1518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1518
+[/us/usc/t42/s401/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401%2Fd
 [/us/pl/103/296/s321/c/1/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs321%2Fc%2F1%2FA%2Fii
 [/us/stat/108/1537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1537
 [/us/pl/103/296/s321/c/1/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs321%2Fc%2F1%2FB%2Fii
@@ -1135,6 +1136,7 @@
 [/us/stat/97/99]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F99
 [/us/pl/98/21/s152/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21%2Fs152%2Fb
 [/us/stat/97/105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F105
+[/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
 [/us/pl/98/21/s154/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21%2Fs154%2Fe
 [/us/stat/97/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F107
 [/us/pl/98/21/s341/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21%2Fs341%2Fd
@@ -1160,6 +1162,7 @@
 [/us/stat/53/1362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F1362
 [/us/pl/103/296/s321/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs321%2Fd
 [/us/stat/108/1538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1538
+[/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
 [/us/pl/110/234/s15361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs15361
 [/us/stat/122/1527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1527
@@ -1174,11 +1177,15 @@
 [/us/pl/107/147/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147%2Fs501
 [/us/stat/116/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F58
 [/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
+[/us/usc/t42/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs301
+[/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
 [/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
 [/us/pl/107/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F134
 [/us/pl/107/134/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F134%2Fs301
 [/us/stat/115/2444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F2444
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
+[/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
+[/us/usc/t42/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs301
 [/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
 [/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
 [/us/pl/106/170/s303/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170%2Fs303%2Fb
@@ -1190,8 +1197,10 @@
 [/us/stat/110/850]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F850
 [/us/pl/104/193/s211/d/5/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs211%2Fd%2F5%2FD
 [/us/stat/110/2192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2192
+[/us/usc/t42/s401/g/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401%2Fg%2F1%2FA
 [/us/pl/104/193/s211/d/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs211%2Fd%2F5
 [/us/usc/t42/s1382c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1382c
+[/us/usc/t42/s1381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1381
 [/us/pl/101/234/s202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F234%2Fs202%2Fa
 [/us/stat/103/1981]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1981
 [/us/pl/100/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360
@@ -1214,6 +1223,8 @@
 [/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113
 [/us/pl/98/21/s152/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21%2Fs152%2Fc
 [/us/stat/97/105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F105
+[/us/usc/t42/s401/m/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401%2Fm%2F3
+[/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
 [/us/pl/98/21/s153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21%2Fs153
 [/us/stat/97/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F106
 [/us/pl/98/21/s154/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21%2Fs154%2Fd
@@ -1225,20 +1236,30 @@
 [/us/stat/94/460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F460
 [/us/pl/94/202/s8/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F202%2Fs8%2Fe
 [/us/stat/89/1139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F1139
+[/us/usc/t42/s401/g/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401%2Fg%2F4
 [/us/pl/94/202/s8/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F202%2Fs8%2Ff
 [/us/stat/89/1139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F1139
 [/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
+[/us/usc/t42/s401/g/1/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401%2Fg%2F1%2FA%2Fii
+[/us/usc/t42/s401/g/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401%2Fg%2F4
+[/us/usc/t42/s401/g/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401%2Fg%2F1%2FB
 [/us/usc/t42/s432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs432
+[/us/usc/t42/s401/g/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401%2Fg%2F1%2FA
+[/us/usc/t42/s401/g/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401%2Fg%2F1%2FA
 [/us/pl/92/603/s305/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603%2Fs305%2Fb
 [/us/stat/86/1485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1485
 [/us/usc/t42/s1381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1381
+[/us/usc/t42/s401/g/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401%2Fg%2F1%2FA
+[/us/usc/t42/s1381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1381
+[/us/usc/t42/s401/g/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401%2Fg%2F1%2FA
 [/us/pl/92/603/s305/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603%2Fs305%2Fb
 [/us/pl/94/274/s201/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F274%2Fs201%2F11
 [/us/stat/90/390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F390
 [/us/usc/t7/s343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs343
 [/us/pl/92/603/s132/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603%2Fs132%2Fg
 [/us/stat/86/1361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1361
+[/us/usc/t42/s401/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401%2Fi
 [/us/act/1945-12-29/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-12-29%2Fch652
 [/us/stat/59/671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F59%2F671
 

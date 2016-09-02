@@ -167,7 +167,7 @@
 
 [Pub. L. 106–170, title IV, § 410(b)][/us/pl/106/170/s410/b], Dec. 17, 1999, [113 Stat. 1917][/us/stat/113/1917], as amended by [Pub. L. 106–554, § 1(a)(1)][/us/pl/106/554/s1/a/1] \[title V, § 515\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–72, provided that: 
 
-> “The amendments made by subsection (a) \[amending this section and provisions set out as a note under [section 1382 of this title][/us/usc/t42/s1382]\] shall apply to payments and fees arising under an agreement between a State and the Commissioner of Social Security under section 1616 of the Social Security Act ([42 U.S.C. 1382e][/us/usc/t42/s1382e]) or under section 212 of Public Law 93-66 ([42 U.S.C. 1382][/us/usc/t42/s1382] note) with respect to monthly benefits paid to individuals under title XVI of the Social Security Act \[this subchapter\] for months after September 2001 (October 2001 in the case of a State with a fiscal year that coincides with the Federal fiscal year), without regard to whether the agreement has been modified to reflect such amendments or the Commissioner has promulgated regulations implementing such amendments.”
+> “The amendments made by subsection (a) \[amending this section and provisions set out as a note under [section 1382 of this title][/us/usc/t42/s1382]\] shall apply to payments and fees arising under an agreement between a State and the Commissioner of Social Security under section 1616 of the Social Security Act ([42 U.S.C. 1382e][/us/usc/t42/s1382e]) or under section 212 of Public Law 93-66 ([42 U.S.C. 1382][/us/usc/t42/s1382] note) with respect to monthly benefits paid to individuals under title XVI of the Social Security Act \[[42 U.S.C. 1381][/us/usc/t42/s1381] et seq.\] for months after September 2001 (October 2001 in the case of a State with a fiscal year that coincides with the Federal fiscal year), without regard to whether the agreement has been modified to reflect such amendments or the Commissioner has promulgated regulations implementing such amendments.”
 
  __Effective Date of 1994 Amendment__ 
 
@@ -177,7 +177,7 @@
 
 [Pub. L. 103–66, title XIII, § 13731(b)][/us/pl/103/66/s13731/b], Aug. 10, 1993, [107 Stat. 661][/us/stat/107/661], provided that: 
 
-> “The amendments made by this section \[amending this section and provisions set out as a note under [section 1382 of this title][/us/usc/t42/s1382]\] shall apply to supplementary payments made pursuant to section 1616(a) of the Social Security Act \[subsec. (a) of this section\] or [section 212(a) of Public Law 93–66][/us/pl/93/66/s212/a] \[set out as a note under [section 1382 of this title][/us/usc/t42/s1382]\] for any calendar month beginning after September 30, 1993, and to services furnished after such date, regardless of whether regulations to implement such amendments have been promulgated by such date, or whether any agreement entered into under such section 1616(a) or such section 212(a) has been modified.”
+> “The amendments made by this section \[amending this section and provisions set out as a note under [section 1382 of this title][/us/usc/t42/s1382]\] shall apply to supplementary payments made pursuant to section 1616(a) of the Social Security Act \[[42 U.S.C. 1382e(a)][/us/usc/t42/s1382e/a]\] or [section 212(a) of Public Law 93–66][/us/pl/93/66/s212/a] \[set out as a note under [section 1382 of this title][/us/usc/t42/s1382]\] for any calendar month beginning after September 30, 1993, and to services furnished after such date, regardless of whether regulations to implement such amendments have been promulgated by such date, or whether any agreement entered into under such section 1616(a) or such section 212(a) has been modified.”
 
  __Effective Date of 1981 Amendment__ 
 
@@ -201,29 +201,29 @@
 
 [Pub. L. 105–78, title V, § 516(b)(2)][/us/pl/105/78/s516/b/2], Nov. 13, 1997, [111 Stat. 1519][/us/stat/111/1519], provided that: 
 
-> “From amounts credited pursuant to section 1616(d)(4)(B) of the Social Security Act \[subsec. (d)(4)(B) of this section\] and [section 212(b)(3)(D)(ii) of Public Law 93–66][/us/pl/93/66/s212/b/3/D/ii] \[set out as a note under [section 1382 of this title][/us/usc/t42/s1382]\] to the special fund established in the Treasury of the United States for State supplementary payment fees, there is authorized to be appropriated an amount not to exceed $35,000,000 for fiscal year 1998, and such sums as may be necessary for each fiscal year thereafter, for administrative expenses in carrying out the supplemental security income program under title XVI of the Social Security Act \[this subchapter\] and related laws.”
+> “From amounts credited pursuant to section 1616(d)(4)(B) of the Social Security Act \[[42 U.S.C. 1382e(d)(4)(B)][/us/usc/t42/s1382e/d/4/B]\] and [section 212(b)(3)(D)(ii) of Public Law 93–66][/us/pl/93/66/s212/b/3/D/ii] \[set out as a note under [section 1382 of this title][/us/usc/t42/s1382]\] to the special fund established in the Treasury of the United States for State supplementary payment fees, there is authorized to be appropriated an amount not to exceed $35,000,000 for fiscal year 1998, and such sums as may be necessary for each fiscal year thereafter, for administrative expenses in carrying out the supplemental security income program under title XVI of the Social Security Act \[[42 U.S.C. 1381][/us/usc/t42/s1381] et seq.\] and related laws.”
 
 [Pub. L. 105–33, title V, § 5102(b)(2)][/us/pl/105/33/s5102/b/2], Aug. 5, 1997, [111 Stat. 597][/us/stat/111/597], provided that: 
 
-> “From amounts credited pursuant to section 1616(d)(4)(B) of the Social Security Act \[subsec. (d)(4)(B) of this section\] and [section 212(b)(3)(D)(ii) of Public Law 93–66][/us/pl/93/66/s212/b/3/D/ii] \[set out as a note under [section 1382 of this title][/us/usc/t42/s1382]\] to the special fund established in the Treasury of the United States for State supplementary payment fees, there is authorized to be appropriated an amount not to exceed $35,000,000 for fiscal year 1998, and such sums as may be necessary for each fiscal year thereafter.”
+> “From amounts credited pursuant to section 1616(d)(4)(B) of the Social Security Act \[[42 U.S.C. 1382e(d)(4)(B)][/us/usc/t42/s1382e/d/4/B]\] and [section 212(b)(3)(D)(ii) of Public Law 93–66][/us/pl/93/66/s212/b/3/D/ii] \[set out as a note under [section 1382 of this title][/us/usc/t42/s1382]\] to the special fund established in the Treasury of the United States for State supplementary payment fees, there is authorized to be appropriated an amount not to exceed $35,000,000 for fiscal year 1998, and such sums as may be necessary for each fiscal year thereafter.”
 
  __Period Within Which California May Make Cash Payments in Lieu of Food Stamps to Recipients of Supplemental Security Income Benefits__ 
 
 [Pub. L. 95–458, § 5(b)][/us/pl/95/458/s5/b], Oct. 14, 1978, [92 Stat. 1261][/us/stat/92/1261], provided that: 
 
-> “No additional cash payment under title XVI of the Social Security Act \[this subchapter\] may be made pursuant to the third sentence of [section 8(d) of Public Law 93–233][/us/pl/93/233/s8/d] (as added by subsection (a) of this section) \[amending a note under this section\] for any month beginning before October 1, 1978, or ending after September 30, 1979.”
+> “No additional cash payment under title XVI of the Social Security Act \[[42 U.S.C. 1381][/us/usc/t42/s1381] et seq.\] may be made pursuant to the third sentence of [section 8(d) of Public Law 93–233][/us/pl/93/233/s8/d] (as added by subsection (a) of this section) \[amending a note under this section\] for any month beginning before October 1, 1978, or ending after September 30, 1979.”
 
  __Eligibility of Supplemental Security Income Recipients for Food Stamps__ 
 
 [Pub. L. 93–233, § 8(c)][/us/pl/93/233/s8/c], Dec. 31, 1973, [87 Stat. 957][/us/stat/87/957], as amended by [Pub. L. 95–113, title XIII, § 1302(a)(3)][/us/pl/95/113/s1302/a/3], Sept. 29, 1977, [91 Stat. 979][/us/stat/91/979], provided that: 
 
-> “For purposes of section 6(g) of the Food Stamp Act of 1977 \[now the Food and Nutrition Act of 2008\] \[[section 2015(g) of Title 7][/us/usc/t7/s2015/g], Agriculture\] and subsections (b)(3) \[set out as a note under [section 612c of Title 7][/us/usc/t7/s612c]\] and (f) \[set out below\] of this section, the level of State supplementary payment under section 1616(a) \[subsec. (a) of this section\] shall be found by the Secretary to have been specifically increased so as to include the bonus value of food stamps (1) only if, prior to October 1, 1973, the State has entered into an agreement with the Secretary or taken other positive steps which demonstrate its intention to provide supplementary payments under section 1616(a) \[subsec. (a) of this section\] at a level which is at least equal to the maximum level which can be determined under section 401(b)(1) of the Social Security Amendments of 1972 \[set out as a note under this section\] and which is such that the limitation on State fiscal liability under section 401 \[set out as a note under this section\] does result in a reduction in the amount which would otherwise be payable to the Secretary by the State, and (2) only with respect to such months as the State may, at its option, elect.”
+> “For purposes of section 6(g) of the Food Stamp Act of 1977 \[now the Food and Nutrition Act of 2008\] \[[section 2015(g) of Title 7][/us/usc/t7/s2015/g], Agriculture\] and subsections (b)(3) \[set out as a note under [section 612c of Title 7][/us/usc/t7/s612c]\] and (f) \[set out below\] of this section, the level of State supplementary payment under section 1616(a) \[[42 U.S.C. 1382e(a)][/us/usc/t42/s1382e/a]\] shall be found by the Secretary to have been specifically increased so as to include the bonus value of food stamps (1) only if, prior to October 1, 1973, the State has entered into an agreement with the Secretary or taken other positive steps which demonstrate its intention to provide supplementary payments under section 1616(a) \[[42 U.S.C. 1382e(a)][/us/usc/t42/s1382e/a]\] at a level which is at least equal to the maximum level which can be determined under section 401(b)(1) of the Social Security Amendments of 1972 \[set out as a note under this section\] and which is such that the limitation on State fiscal liability under section 401 \[set out as a note under this section\] does result in a reduction in the amount which would otherwise be payable to the Secretary by the State, and (2) only with respect to such months as the State may, at its option, elect.”
 
     \[[Pub. L. 95–113, title XIII, § 1302(b)][/us/pl/95/113/s1302/b], Sept. 29, 1977, [91 Stat. 979][/us/stat/91/979], provided that the amendment of [section 8(c) of Pub. L. 93–233][/us/pl/93/233/s8/c] by [section 1302(a)(3) of Pub. L. 95–113][/us/pl/95/113/s1302/a/3] is effective Oct. 1, 1977.\]
 
 [Pub. L. 93–233, § 8(d)][/us/pl/93/233/s8/d], Dec. 31, 1973, [87 Stat. 957][/us/stat/87/957], as added by [Pub. L. 94–379, § 1(a)][/us/pl/94/379/s1/a], Aug. 10, 1976, [90 Stat. 1111][/us/stat/90/1111], and amended by [Pub. L. 95–458, § 5(a)][/us/pl/95/458/s5/a], Oct. 14, 1978, [92 Stat. 1260][/us/stat/92/1260]; [Pub. L. 97–18, § 2][/us/pl/97/18/s2], June 30, 1981, [95 Stat. 102][/us/stat/95/102]; [Pub. L. 97–35, title XXIII, § 2342(a)][/us/pl/97/35/s2342/a], Aug. 13, 1981, [95 Stat. 866][/us/stat/95/866], provided that: 
 
-> “Upon the request of a State, the Secretary shall find, for purposes of the provisions specified in subsection (c) \[set out above\], that the level of such State’s supplementary payments of the type described in section 1616(a) of the Social Security Act \[subsec. (a) of this section\] has been specifically increased for any month so as to include the bonus value of food stamps (and that such State meets the applicable requirements of subsection (c)(1)) if—
+> “Upon the request of a State, the Secretary shall find, for purposes of the provisions specified in subsection (c) \[set out above\], that the level of such State’s supplementary payments of the type described in section 1616(a) of the Social Security Act \[[42 U.S.C. 1382e(a)][/us/usc/t42/s1382e/a]\] has been specifically increased for any month so as to include the bonus value of food stamps (and that such State meets the applicable requirements of subsection (c)(1)) if—
 
 >     “(1) the Secretary has found (under this subsection or subsection (c), as in effect in December 1980) that such State’s supplementary payments in December 1980 were increased to include the bonus value of food stamps; and
 
@@ -241,7 +241,7 @@
 
 [Pub. L. 93–233, § 8(f)][/us/pl/93/233/s8/f], formerly § 8(e), Dec. 31, 1973, [87 Stat. 957][/us/stat/87/957], as amended by [Pub. L. 93–335, § 1(b)][/us/pl/93/335/s1/b], July 8, 1974, [88 Stat. 291][/us/stat/88/291]; [Pub. L. 94–44, § 3(b)][/us/pl/94/44/s3/b], June 28, 1975, [89 Stat. 235][/us/stat/89/235]; [Pub. L. 94–365, § 2(2)][/us/pl/94/365/s2/2], July 14, 1976, [90 Stat. 990][/us/stat/90/990], and renumbered § 8(f) and amended by [Pub. L. 94–379, § 1(a)][/us/pl/94/379/s1/a], (b), Aug. 10, 1976, [90 Stat. 1111][/us/stat/90/1111]; [Pub. L. 95–59, § 3(2)][/us/pl/95/59/s3/2], June 30, 1977, [91 Stat. 255][/us/stat/91/255]; [Pub. L. 95–113, title XIII, § 1302(a)(4)][/us/pl/95/113/s1302/a/4], Sept. 29, 1977, [91 Stat. 979][/us/stat/91/979], provided that: 
 
-> “The amendment made by subsection (e) \[set out above\] shall not be effective in any State which provides supplementary payments of the type described in section 1616(a) of the Social Security Act \[subsec. (a) of this section\] the level of which has been found by the Secretary to have been specifically increased so as to include the bonus value of food stamps.”
+> “The amendment made by subsection (e) \[set out above\] shall not be effective in any State which provides supplementary payments of the type described in section 1616(a) of the Social Security Act \[[42 U.S.C. 1382e(a)][/us/usc/t42/s1382e/a]\] the level of which has been found by the Secretary to have been specifically increased so as to include the bonus value of food stamps.”
 
     \[Amendment of section 8(e) \[now § 8(f)\] of [Pub. L. 93–233][/us/pl/93/233] by [section 1(b) of Pub. L. 93–335][/us/pl/93/335/s1/b], effective July 1, 1974, see [section 1(c) of Pub. L. 93–335][/us/pl/93/335/s1/c], set out as a note below.\]
 
@@ -269,7 +269,7 @@
 
 >     “(a)
 
->         (1) The amount payable to the Secretary by a State for any fiscal year, other than fiscal year 1974, pursuant to its agreement or agreements under section 1616 of the Social Security Act \[this section\] shall not exceed the non-Federal share of expenditures as aid or assistance for quarters in the calendar year 1972 under the plans of the State approved under titles I, X, XIV, and XVI of the Social Security Act \[subchapters I, X, XIV, and XVI of this chapter\] (as defined in subsection (c) of this section), and the amount payable for fiscal year 1974 pursuant to such agreement or agreements shall not exceed one-half of the non-Federal share of such expenditures.
+>         (1) The amount payable to the Secretary by a State for any fiscal year, other than fiscal year 1974, pursuant to its agreement or agreements under section 1616 of the Social Security Act \[this section\] shall not exceed the non-Federal share of expenditures as aid or assistance for quarters in the calendar year 1972 under the plans of the State approved under titles I, X, XIV, and XVI of the Social Security Act \[[42 U.S.C. 301][/us/usc/t42/s301] et seq., 1201 et seq., 1351 et seq., 1381 et seq.\] (as defined in subsection (c) of this section), and the amount payable for fiscal year 1974 pursuant to such agreement or agreements shall not exceed one-half of the non-Federal share of such expenditures.
 
 >         “(2)
 
@@ -277,21 +277,21 @@
 
 >             “(A) the adjusted payment level under the appropriate approved plan of such State as in effect for January 1972 (as defined in subsection (b) of this section), and
 
->             “(B) the benefits under title XVI of the Social Security Act \[this subchapter\] (subject to the second sentence of this paragraph), plus income not excluded under section 1612(b) of such Act \[[section 1382a(b) of this title][/us/usc/t42/s1382a/b]\] in determining such benefits, paid to such individual in such fiscal year,
+>             “(B) the benefits under title XVI of the Social Security Act \[[42 U.S.C. 1381][/us/usc/t42/s1381] et seq.\] (subject to the second sentence of this paragraph), plus income not excluded under section 1612(b) of such Act \[[42 U.S.C. 1382a(b)][/us/usc/t42/s1382a/b]\] in determining such benefits, paid to such individual in such fiscal year,
 
->             and shall not apply with respect to supplementary payments to any individual who (i) is not required by section 1616 of such Act \[this section\] to be included in any such agreement administered by the Secretary and (ii) would have been ineligible (for reasons other than income) for payments under the appropriate approved State plan as in effect for January 1972. In determining the difference between the level specified in subparagraph (A) and the benefits and income described in subparagraph (B) there shall be excluded any part of any such benefit which results from (and would not be payable but for) any cost-of-living increase in such benefits under section 1617 of such Act \[[section 1382f of this title][/us/usc/t42/s1382f]\] (or any general increase enacted by law in the dollar amounts referred to in such section) becoming effective after June 30, 1977.
+>             and shall not apply with respect to supplementary payments to any individual who (i) is not required by section 1616 of such Act \[[42 U.S.C. 1382e][/us/usc/t42/s1382e]\] to be included in any such agreement administered by the Secretary and (ii) would have been ineligible (for reasons other than income) for payments under the appropriate approved State plan as in effect for January 1972. In determining the difference between the level specified in subparagraph (A) and the benefits and income described in subparagraph (B) there shall be excluded any part of any such benefit which results from (and would not be payable but for) any cost-of-living increase in such benefits under section 1617 of such Act \[[42 U.S.C. 1382f][/us/usc/t42/s1382f]\] (or any general increase enacted by law in the dollar amounts referred to in such section) becoming effective after June 30, 1977.
 
 >     “(b)
 
 >         (1)
 
->          For purposes of subsection (a), the term ‘adjusted payment level under the appropriate approved plan of a State as in effect for January 1972’ means the amount of the money payment which an individual with no other income would have received under the plan of such State approved under title I, X, XIV, or XVI of the Social Security Act \[subchapters I, X, XIV, or XVI of this chapter\], as may be appropriate, and in effect for January 1972; except that the State may, at its option, increase such payment level with respect to any such plan by an amount which does not exceed the sum of—
+>          For purposes of subsection (a), the term ‘adjusted payment level under the appropriate approved plan of a State as in effect for January 1972’ means the amount of the money payment which an individual with no other income would have received under the plan of such State approved under title I, X, XIV, or XVI of the Social Security Act \[[42 U.S.C. 301][/us/usc/t42/s301] et seq., 1201 et seq., 1351 et seq., 1381 et seq.\], as may be appropriate, and in effect for January 1972; except that the State may, at its option, increase such payment level with respect to any such plan by an amount which does not exceed the sum of—
 
 >             “(A) a payment level modification (as defined in paragraph (2) of this subsection) with respect to such plan, and
 
 >             “(B) the bonus value of food stamps \[probably should be “benefits”\] in such State for January 1972 (as defined in paragraph (3) of this subsection).
 
->         “(2) For purposes of paragraph (1), the term ‘payment level modification’ with respect to any State plan means that amount by which a State which for January 1972 made money payments under such plan to individuals with no other income which were less than 100 per centum of its standard of need could have increased such money payments without increasing (if it reduced its standard of need under such plan so that such increased money payments equaled 100 per centum of such standard of need) the non-Federal share of expenditures as aid or assistance for quarters in calendar year 1972 under the plans of such State approved under titles I, X, XIV, and XVI of the Social Security Act \[subchapters I, X, XIV, and XVI of this chapter\].
+>         “(2) For purposes of paragraph (1), the term ‘payment level modification’ with respect to any State plan means that amount by which a State which for January 1972 made money payments under such plan to individuals with no other income which were less than 100 per centum of its standard of need could have increased such money payments without increasing (if it reduced its standard of need under such plan so that such increased money payments equaled 100 per centum of such standard of need) the non-Federal share of expenditures as aid or assistance for quarters in calendar year 1972 under the plans of such State approved under titles I, X, XIV, and XVI of the Social Security Act \[[42 U.S.C. 301][/us/usc/t42/s301] et seq., 1201 et seq., 1351 et seq., 1381 et seq.\].
 
 >         “(3)
 
@@ -305,11 +305,11 @@
 
 >     “(c)
 
->      For purposes of this section, the term ‘non-Federal share of expenditures as aid or assistance for quarters in the calendar year 1972 under the plans of a State approved under titles I, X, XIV, and XVI of the Social Security Act’ \[subchapters I, X, XIV, and XVI of this chapter\] means the difference between—
+>      For purposes of this section, the term ‘non-Federal share of expenditures as aid or assistance for quarters in the calendar year 1972 under the plans of a State approved under titles I, X, XIV, and XVI of the Social Security Act’ \[[42 U.S.C. 301][/us/usc/t42/s301] et seq., 1201 et seq., 1351 et seq., 1381 et seq.\] means the difference between—
 
->         “(1) the total expenditures in such quarters under such plans for aid or assistance (excluding expenditures authorized under section 1119 of such Act \[[section 1319 of this title][/us/usc/t42/s1319]\] for repairing the home of an individual who was receiving aid or assistance under one of such plans (as such section was in effect prior to the enactment of this Act)), and
+>         “(1) the total expenditures in such quarters under such plans for aid or assistance (excluding expenditures authorized under section 1119 of such Act \[[42 U.S.C. 1319][/us/usc/t42/s1319]\] for repairing the home of an individual who was receiving aid or assistance under one of such plans (as such section was in effect prior to the enactment of this Act)), and
 
->         “(2) the total of the amounts determined under sections 3, 1003, 1403, and 1603 of the Social Security Act \[sections 303, 1203, 1353, and 1383 note of this title\], under section 1118 of such Act \[[section 1318 of this title][/us/usc/t42/s1318]\], and under [section 9 of the Act of April 19, 1950][/us/act/1950-04-19/s9] \[[section 639 of Title 25][/us/usc/t25/s639], Indians\], for such State with respect to such expenditures in such quarters.
+>         “(2) the total of the amounts determined under sections 3, 1003, 1403, and 1603 of the Social Security Act \[[42 U.S.C. 303][/us/usc/t42/s303], 1203, 1353; 1383 note\], under section 1118 of such Act \[[42 U.S.C. 1318][/us/usc/t42/s1318]\], and under [section 9 of the Act of April 19, 1950][/us/act/1950-04-19/s9] \[[25 U.S.C. 639][/us/usc/t25/s639]\], for such State with respect to such expenditures in such quarters.
 
 >     “(d) In addition to the amount which a State must pay to the Secretary for the fiscal year 1983 or the fiscal year 1984, as determined under subsection (a), the State shall also pay, for the fiscal year 1983, 60 percent of the further amount that would be payable but for the limit specified in subsection (a), and, for the fiscal year 1984, 80 percent of such further amount. For each fiscal year thereafter, the limit prescribed in subsection (a) shall be inapplicable and a State shall pay to the Secretary the full amount of any supplementary payments he makes on behalf of such State.”
 
@@ -329,19 +329,19 @@
 
 [Pub. L. 92–603, title IV, § 402][/us/pl/92/603/s402], Oct. 30, 1972, [86 Stat. 1487][/us/stat/86/1487], as amended by [Pub. L. 93–233, § 18(i)][/us/pl/93/233/s18/i], Dec. 31, 1973, [87 Stat. 970][/us/stat/87/970], provided that: 
 
-> “In order for a State to be eligible for any payments pursuant to title IV, V, XVI, or XIX of the Social Security Act \[subchapter IV, V, XVI, or XIX of this chapter\] with respect to expenditures for the third and fourth quarters in the fiscal year ending June 30, 1974, and any quarter in the fiscal year ending June 30, 1975, and for the purpose of providing an orderly transition from State to Federal administration of the Supplemental Security Income Program, such State shall enter into an agreement with the Secretary of Health, Education, and Welfare under which the State agencies responsible for administering or for supervising the administration of the plans approved under titles I, X, XIV, and XVI of the Social Security Act \[subchapters I, X, XIV, and XVI of this chapter\] will, on behalf of the Secretary, administer all or such part or parts of the program established by section 301 of this Act \[enacting this subchapter\], during such portion of the third and fourth quarters of the fiscal year ending June 30, 1974, and any quarter of the fiscal year ending June 30, 1975, as may be provided in such agreement.”
+> “In order for a State to be eligible for any payments pursuant to title IV, V, XVI, or XIX of the Social Security Act \[[42 U.S.C. 601][/us/usc/t42/s601] et seq., 701 et seq., 1381 et seq., 1396 et seq.\] with respect to expenditures for the third and fourth quarters in the fiscal year ending June 30, 1974, and any quarter in the fiscal year ending June 30, 1975, and for the purpose of providing an orderly transition from State to Federal administration of the Supplemental Security Income Program, such State shall enter into an agreement with the Secretary of Health, Education, and Welfare \[now Health and Human Services\] under which the State agencies responsible for administering or for supervising the administration of the plans approved under titles I, X, XIV, and XVI of the Social Security Act \[[42 U.S.C. 301][/us/usc/t42/s301] et seq., 1201 et seq., 1351 et seq., 1381 et seq.\] will, on behalf of the Secretary, administer all or such part or parts of the program established by section 301 of this Act \[enacting this subchapter\], during such portion of the third and fourth quarters of the fiscal year ending June 30, 1974, and any quarter of the fiscal year ending June 30, 1975, as may be provided in such agreement.”
 
  __Election of Payments Under Combined State Plan Rather Than Separate Plans__ 
 
 [Pub. L. 87–543, § 141(b)][/us/pl/87/543/s141/b], July 25, 1962, [76 Stat. 205][/us/stat/76/205], provided that: 
 
-> “No payment may be made to a State under title I, X, or XIV of the Social Security Act \[subchapter I, X, or XIV of this chapter\] for any period for which such State receives any payments under title XVI of such Act or any period thereafter.”
+> “No payment may be made to a State under title I, X, or XIV of the Social Security Act \[[42 U.S.C. 301][/us/usc/t42/s301] et seq., 1201 et seq., 1351 et seq.\] for any period for which such State receives any payments under title XVI of such Act or any period thereafter.”
 
  __Overpayment or Underpayment Adjustments__ 
 
 [Pub. L. 87–543, § 141(f)][/us/pl/87/543/s141/f], July 25, 1962, [76 Stat. 205][/us/stat/76/205], provided that: 
 
-> “In the case of any State which has a State plan approved under title XVI of the Social Security Act \[this subchapter\], any overpayment or underpayment which the Secretary determines was made to such State under section 3, 1003, or 1403 of such Act \[section 303, 1203, or 1353 of this title\] with respect to a period before the approval of the plan under such title XVI, and with respect to which adjustment has not been already made under subsection (b) of such section 3, 1003, or 1403 \[section 303(b), 1203, or 1353 of this title\], shall, for purposes of section 1603(b) of such Act \[[section 1383(b) of this title][/us/usc/t42/s1383/b] prior to its omission on Oct. 30, 1972\], be considered an overpayment or underpayment (as the case may be) made under section 1603 of such Act \[[section 1383 of this title][/us/usc/t42/s1383] as it existed prior to Oct. 30, 1972\].”
+> “In the case of any State which has a State plan approved under title XVI of the Social Security Act \[[42 U.S.C. 1381][/us/usc/t42/s1381] et seq.\], any overpayment or underpayment which the Secretary determines was made to such State under section 3, 1003, or 1403 of such Act \[[42 U.S.C. 303][/us/usc/t42/s303], 1203, 1353\] with respect to a period before the approval of the plan under such title XVI, and with respect to which adjustment has not been already made under subsection (b) of such section 3, 1003, or 1403, shall, for purposes of section 1603(b) of such Act \[[42 U.S.C. 1383(b)][/us/usc/t42/s1383/b] prior to its omission on Oct. 30, 1972\], be considered an overpayment or underpayment (as the case may be) made under section 1603 of such Act \[[42 U.S.C. 1383][/us/usc/t42/s1383] as it existed prior to Oct. 30, 1972\].”
 
 ----------
 
@@ -404,12 +404,14 @@
 [/us/usc/t42/s1382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1382
 [/us/usc/t42/s1382e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1382e
 [/us/usc/t42/s1382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1382
+[/us/usc/t42/s1381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1381
 [/us/pl/103/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296
 [/us/pl/103/296/s110/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs110%2Fa
 [/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
 [/us/pl/103/66/s13731/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13731%2Fb
 [/us/stat/107/661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F661
 [/us/usc/t42/s1382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1382
+[/us/usc/t42/s1382e/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1382e%2Fa
 [/us/pl/93/66/s212/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F66%2Fs212%2Fa
 [/us/usc/t42/s1382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1382
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
@@ -427,14 +429,18 @@
 [/us/stat/86/1465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1465
 [/us/pl/105/78/s516/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F78%2Fs516%2Fb%2F2
 [/us/stat/111/1519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1519
+[/us/usc/t42/s1382e/d/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1382e%2Fd%2F4%2FB
 [/us/pl/93/66/s212/b/3/D/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F66%2Fs212%2Fb%2F3%2FD%2Fii
 [/us/usc/t42/s1382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1382
+[/us/usc/t42/s1381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1381
 [/us/pl/105/33/s5102/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs5102%2Fb%2F2
 [/us/stat/111/597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F597
+[/us/usc/t42/s1382e/d/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1382e%2Fd%2F4%2FB
 [/us/pl/93/66/s212/b/3/D/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F66%2Fs212%2Fb%2F3%2FD%2Fii
 [/us/usc/t42/s1382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1382
 [/us/pl/95/458/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F458%2Fs5%2Fb
 [/us/stat/92/1261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1261
+[/us/usc/t42/s1381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1381
 [/us/pl/93/233/s8/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F233%2Fs8%2Fd
 [/us/pl/93/233/s8/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F233%2Fs8%2Fc
 [/us/stat/87/957]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F957
@@ -442,6 +448,8 @@
 [/us/stat/91/979]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F979
 [/us/usc/t7/s2015/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2015%2Fg
 [/us/usc/t7/s612c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs612c
+[/us/usc/t42/s1382e/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1382e%2Fa
+[/us/usc/t42/s1382e/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1382e%2Fa
 [/us/pl/95/113/s1302/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs1302%2Fb
 [/us/stat/91/979]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F979
 [/us/pl/93/233/s8/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F233%2Fs8%2Fc
@@ -456,6 +464,7 @@
 [/us/stat/95/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F102
 [/us/pl/97/35/s2342/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2342%2Fa
 [/us/stat/95/866]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F866
+[/us/usc/t42/s1382e/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1382e%2Fa
 [/us/usc/t42/s1382g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1382g
 [/us/pl/97/18/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F18%2Fs2
 [/us/stat/95/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F102
@@ -483,6 +492,7 @@
 [/us/stat/91/255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F255
 [/us/pl/95/113/s1302/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs1302%2Fa%2F4
 [/us/stat/91/979]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F979
+[/us/usc/t42/s1382e/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1382e%2Fa
 [/us/pl/93/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F233
 [/us/pl/93/335/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F335%2Fs1%2Fb
 [/us/pl/93/335/s1/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F335%2Fs1%2Fc
@@ -519,10 +529,17 @@
 [/us/stat/122/1109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1109
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
+[/us/usc/t42/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs301
+[/us/usc/t42/s1381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1381
 [/us/usc/t42/s1382a/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1382a%2Fb
+[/us/usc/t42/s1382e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1382e
 [/us/usc/t42/s1382f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1382f
+[/us/usc/t42/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs301
+[/us/usc/t42/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs301
 [/us/usc/t7/s2011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2011
+[/us/usc/t42/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs301
 [/us/usc/t42/s1319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1319
+[/us/usc/t42/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs303
 [/us/usc/t42/s1318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1318
 [/us/act/1950-04-19/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-04-19%2Fs9
 [/us/usc/t25/s639]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs639
@@ -545,10 +562,15 @@
 [/us/stat/86/1487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1487
 [/us/pl/93/233/s18/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F233%2Fs18%2Fi
 [/us/stat/87/970]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F970
+[/us/usc/t42/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs601
+[/us/usc/t42/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs301
 [/us/pl/87/543/s141/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F543%2Fs141%2Fb
 [/us/stat/76/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F205
+[/us/usc/t42/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs301
 [/us/pl/87/543/s141/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F543%2Fs141%2Ff
 [/us/stat/76/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F205
+[/us/usc/t42/s1381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1381
+[/us/usc/t42/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs303
 [/us/usc/t42/s1383/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1383%2Fb
 [/us/usc/t42/s1383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1383
 

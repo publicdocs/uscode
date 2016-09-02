@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 11501.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs11501" data-uslm-ref="/us/usc/t42/s11501">11501.</a>  </td>
 
     <td> Designation of enterprise zones.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 11502.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs11502" data-uslm-ref="/us/usc/t42/s11502">11502.</a>  </td>
 
     <td> Evaluation and reporting requirements.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 11503.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs11503" data-uslm-ref="/us/usc/t42/s11503">11503.</a>  </td>
 
     <td> Interaction with other Federal programs.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 11504.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs11504" data-uslm-ref="/us/usc/t42/s11504">11504.</a>  </td>
 
     <td> Waiver or modification of housing and community development rules in enterprise zones.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 11505.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs11505" data-uslm-ref="/us/usc/t42/s11505">11505.</a>  </td>
 
     <td> Coordination with CDBG and UDAG programs.  </td>
 

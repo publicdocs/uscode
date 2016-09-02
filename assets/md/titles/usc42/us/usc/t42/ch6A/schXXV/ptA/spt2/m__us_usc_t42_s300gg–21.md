@@ -195,7 +195,7 @@
 
 [Pub. L. 110–233, title I, § 106][/us/pl/110/233/s106], May 21, 2008, [122 Stat. 905][/us/stat/122/905], provided that: 
 
-> “Except as provided in section 105(b)(1) \[set out as a note under [section 1320d–9 of this title][/us/usc/t42/s1320d–9]\], the Secretary of Health and Human Services, the Secretary of Labor, and the Secretary of the Treasury shall ensure, through the execution of an interagency memorandum of understanding among such Secretaries, that—
+> “Except as provided in section 105(b)(1) \[[42 U.S.C. 1320d–9][/us/usc/t42/s1320d–9] note\], the Secretary of Health and Human Services, the Secretary of Labor, and the Secretary of the Treasury shall ensure, through the execution of an interagency memorandum of understanding among such Secretaries, that—
 
 >     “(1) regulations, rulings, and interpretations issued by such Secretaries relating to the same matter over which two or more such Secretaries have responsibility under this title \[enacting sections 300gg–53 and 1320d–9 of this title and [section 9834 of Title 26][/us/usc/t26/s9834], Internal Revenue Code, amending this section, sections 300gg–1, 300gg–22, 300gg–61, 300gg–91, and 1395ss of this title, sections 9802 and 9832 of Title 26, and sections 1132, 1182, and 1191b of Title 29, Labor, and enacting provisions set out as notes under this section, sections 1320d–9 and 1395ss of this title, [section 9802 of Title 26][/us/usc/t26/s9802], and [section 1132 of Title 29][/us/usc/t29/s1132]\] (and the amendments made by this title) are administered so as to have the same effect at all times; and
 

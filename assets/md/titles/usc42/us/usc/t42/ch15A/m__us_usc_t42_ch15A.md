@@ -33,7 +33,7 @@ SUBCHAPTER I—PROTECTION OF UNITED STATES PROPERTY  </td>
 
   <tr>
 
-    <td> 1856.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs1856" data-uslm-ref="/us/usc/t42/s1856">1856.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -41,7 +41,7 @@ SUBCHAPTER I—PROTECTION OF UNITED STATES PROPERTY  </td>
 
   <tr>
 
-    <td> 1856a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs1856a" data-uslm-ref="/us/usc/t42/s1856a">1856a.</a>  </td>
 
     <td> Authority to enter into reciprocal agreement; waiver of claims; reimbursement; ratification of prior agreements.  </td>
 
@@ -49,7 +49,7 @@ SUBCHAPTER I—PROTECTION OF UNITED STATES PROPERTY  </td>
 
   <tr>
 
-    <td> 1856a–1.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs1856a%E2%80%931" data-uslm-ref="/us/usc/t42/s1856a–1">1856a–1.</a>  </td>
 
     <td> Authority to enter into contracts with State and local governmental entities.  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER I—PROTECTION OF UNITED STATES PROPERTY  </td>
 
   <tr>
 
-    <td> 1856b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs1856b" data-uslm-ref="/us/usc/t42/s1856b">1856b.</a>  </td>
 
     <td> Emergency assistance.  </td>
 
@@ -65,7 +65,7 @@ SUBCHAPTER I—PROTECTION OF UNITED STATES PROPERTY  </td>
 
   <tr>
 
-    <td> 1856c.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs1856c" data-uslm-ref="/us/usc/t42/s1856c">1856c.</a>  </td>
 
     <td> Service in line of duty.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER I—PROTECTION OF UNITED STATES PROPERTY  </td>
 
   <tr>
 
-    <td> 1856d.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs1856d" data-uslm-ref="/us/usc/t42/s1856d">1856d.</a>  </td>
 
     <td> Funds.  </td>
 
@@ -89,7 +89,7 @@ SUBCHAPTER II—WILDFIRE SUPPRESSION WITH FOREIGN FIRE ORGANIZATION  </td>
 
   <tr>
 
-    <td> 1856m.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs1856m" data-uslm-ref="/us/usc/t42/s1856m">1856m.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -97,7 +97,7 @@ SUBCHAPTER II—WILDFIRE SUPPRESSION WITH FOREIGN FIRE ORGANIZATION  </td>
 
   <tr>
 
-    <td> 1856n.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs1856n" data-uslm-ref="/us/usc/t42/s1856n">1856n.</a>  </td>
 
     <td> Implementation.  </td>
 
@@ -105,7 +105,7 @@ SUBCHAPTER II—WILDFIRE SUPPRESSION WITH FOREIGN FIRE ORGANIZATION  </td>
 
   <tr>
 
-    <td> 1856n–1.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs1856n%E2%80%931" data-uslm-ref="/us/usc/t42/s1856n–1">1856n–1.</a>  </td>
 
     <td> Reciprocal agreements with liability coverage.  </td>
 
@@ -113,7 +113,7 @@ SUBCHAPTER II—WILDFIRE SUPPRESSION WITH FOREIGN FIRE ORGANIZATION  </td>
 
   <tr>
 
-    <td> 1856o.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs1856" data-uslm-ref="/us/usc/t42/s1856">1856</a>o.  </td>
 
     <td> Funds.  </td>
 
@@ -121,7 +121,7 @@ SUBCHAPTER II—WILDFIRE SUPPRESSION WITH FOREIGN FIRE ORGANIZATION  </td>
 
   <tr>
 
-    <td> 1856p.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs1856p" data-uslm-ref="/us/usc/t42/s1856p">1856p.</a>  </td>
 
     <td> Repealed.  </td>
 

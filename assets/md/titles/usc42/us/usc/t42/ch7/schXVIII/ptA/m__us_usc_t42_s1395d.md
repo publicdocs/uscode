@@ -265,7 +265,7 @@
 
 >     “(2) __Elimination of post-hospital requirement for extended care services.—__ 
 
->     The amendments made by this subtitle, insofar as they eliminate the requirement (under section 1812(a)(2) of the Social Security Act \[subsec. (a)(2) of this section\]) that extended care services are only covered under title XVIII of such Act \[this subchapter\] if they are post-hospital extended care services, shall only apply to extended care services furnished pursuant to an admission to a skilled nursing facility occurring on or after January 1, 1989.”
+>     The amendments made by this subtitle, insofar as they eliminate the requirement (under section 1812(a)(2) of the Social Security Act \[[42 U.S.C. 1395d(a)(2)][/us/usc/t42/s1395d/a/2]\]) that extended care services are only covered under title XVIII of such Act \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\] if they are post-hospital extended care services, shall only apply to extended care services furnished pursuant to an admission to a skilled nursing facility occurring on or after January 1, 1989.”
 
  __Effective Date of 1983 Amendment__ 
 
@@ -365,9 +365,9 @@
 
 >     Under the demonstration project—
 
->         “(1) the hospice program shall comply with otherwise applicable requirements, except that it shall not be required to offer services outside of the home or to meet the requirements of section 1861(dd)(2)(A)(iii) of the Social Security Act \[[section 1395x(dd)(2)(A)(iii) of this title][/us/usc/t42/s1395x/dd/2/A/iii]\]; and
+>         “(1) the hospice program shall comply with otherwise applicable requirements, except that it shall not be required to offer services outside of the home or to meet the requirements of section 1861(dd)(2)(A)(iii) of the Social Security Act \[[42 U.S.C. 1395x(dd)(2)(A)(iii)][/us/usc/t42/s1395x/dd/2/A/iii]\]; and
 
->         “(2) payments for hospice care shall be made at the rates otherwise applicable to such care under title XVIII of such Act \[this subchapter\].
+>         “(2) payments for hospice care shall be made at the rates otherwise applicable to such care under title XVIII of such Act \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\].
 
 >         The Secretary may require the program to comply with such additional quality assurance standards for its provision of services in its facility as the Secretary deems appropriate.
 
@@ -391,7 +391,7 @@
 
 >     “(a) __In General.—__ 
 
->     The Medicare Payment Advisory Commission shall conduct a study to examine the factors affecting the use of hospice benefits under the medicare program under title XVIII of the Social Security Act \[this subchapter\], including a delay in the time (relative to death) of entry into a hospice program, and differences in such use between urban and rural hospice programs and based upon the presenting condition of the patient.
+>     The Medicare Payment Advisory Commission shall conduct a study to examine the factors affecting the use of hospice benefits under the medicare program under title XVIII of the Social Security Act \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\], including a delay in the time (relative to death) of entry into a hospice program, and differences in such use between urban and rural hospice programs and based upon the presenting condition of the patient.
 
 >     “(b) __Report.—__ 
 
@@ -403,7 +403,7 @@
 
 >     “(1) __In general.—__ 
 
->     Notwithstanding any provision of title XVIII of the Social Security Act \[this subchapter\], the Secretary of Health and Human Services shall establish a transition for the aggregate amount of expenditures that are transferred from part A, to part B, of title XVIII of the Social Security Act \[this part and part B of this subchapter\], as a result of the amendments made by this section \[amending this section and sections 1395u, 1395x, and 1395ff of this title\], during each of the years during the period beginning with 1998 and ending with 2002 according to this subsection. Under the transition for each such year, the Secretary shall effect such transfer, between the trust funds under such parts, as will result in only the proportion (specified in paragraph (2)) of such aggregate expenditures for the year being transferred from such part A to such part B.
+>     Notwithstanding any provision of title XVIII of the Social Security Act \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\], the Secretary of Health and Human Services shall establish a transition for the aggregate amount of expenditures that are transferred from part A, to part B, of title XVIII of the Social Security Act \[[42 U.S.C. 1395c][/us/usc/t42/s1395c] et seq., 1395j et seq.\], as a result of the amendments made by this section \[amending this section and sections 1395u, 1395x, and 1395ff of this title\], during each of the years during the period beginning with 1998 and ending with 2002 according to this subsection. Under the transition for each such year, the Secretary shall effect such transfer, between the trust funds under such parts, as will result in only the proportion (specified in paragraph (2)) of such aggregate expenditures for the year being transferred from such part A to such part B.
 
 >     “(2) __Proportion specified.—__ 
 
@@ -559,6 +559,8 @@
 [/us/pl/100/485/s608/d/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F485%2Fs608%2Fd%2F3%2FA
 [/us/stat/102/2413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2413
 [/us/pl/100/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360
+[/us/usc/t42/s1395d/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395d%2Fa%2F2
+[/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
 [/us/pl/97/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F448
 [/us/pl/97/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248
 [/us/pl/97/448/s309/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F448%2Fs309%2Fc%2F2
@@ -600,13 +602,17 @@
 [/us/stat/117/2271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2271
 [/us/usc/t42/s1395x/dd]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395x%2Fdd
 [/us/usc/t42/s1395x/dd/2/A/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395x%2Fdd%2F2%2FA%2Fiii
+[/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
 [/us/pl/108/173/s953/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs953%2Fd
 [/us/stat/117/2428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2428
 [/us/usc/t42/s1395d/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395d%2Fa%2F1
 [/us/pl/106/554/s1/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F6
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
+[/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
 [/us/pl/105/33/s4611/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs4611%2Fe
 [/us/stat/111/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F473
+[/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
+[/us/usc/t42/s1395c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395c
 [/us/usc/t42/s1395r]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395r
 [/us/usc/t42/s1395w]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w
 [/us/pl/100/360/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360%2Fs101

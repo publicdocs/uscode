@@ -1013,7 +1013,7 @@
 
 [Pub. L. 109–171, title VI, § 6086(c)][/us/pl/109/171/s6086/c], Feb. 8, 2006, [120 Stat. 127][/us/stat/120/127], provided that: 
 
-> “The amendments made by subsections (a) and (b) \[amending this section\] take effect on January 1, 2007, and apply to expenditures for medical assistance for home and community-based services provided in accordance with section 1915(i) of the Social Security Act \[subsec. (i) of this section\] (as added by subsections (a) and (b) \[probably means subsec. (a)\]) on or after that date.”
+> “The amendments made by subsections (a) and (b) \[amending this section\] take effect on January 1, 2007, and apply to expenditures for medical assistance for home and community-based services provided in accordance with section 1915(i) of the Social Security Act \[[42 U.S.C. 1396n(i)][/us/usc/t42/s1396n/i]\] (as added by subsections (a) and (b) \[probably means subsec. (a)\]) on or after that date.”
 
 [Pub. L. 109–171, title VI, § 6087(b)][/us/pl/109/171/s6087/b], Feb. 8, 2006, [120 Stat. 130][/us/stat/120/130], provided that: 
 
@@ -1057,7 +1057,7 @@
 
 [Pub. L. 101–508, title IV, § 4742(c)(2)][/us/pl/101/508/s4742/c/2], Nov. 5, 1990, [104 Stat. 1388–198][/us/stat/104/1388-198], provided that: 
 
-> “The amendment made by paragraph (1) \[amending this section\] shall apply as if included in the enactment of the Omnibus Budget Reconciliation Act of 1981 \[[Pub. L. 97–35][/us/pl/97/35]\], but shall only apply to facilities the participation of which under a State plan under title XIX of the Social Security Act \[this subchapter\] is terminated on or after the date of the enactment of this Act \[Nov. 5, 1990\].”
+> “The amendment made by paragraph (1) \[amending this section\] shall apply as if included in the enactment of the Omnibus Budget Reconciliation Act of 1981 \[[Pub. L. 97–35][/us/pl/97/35]\], but shall only apply to facilities the participation of which under a State plan under title XIX of the Social Security Act \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\] is terminated on or after the date of the enactment of this Act \[Nov. 5, 1990\].”
 
 [Pub. L. 101–508, title IV, § 4742(d)(2)][/us/pl/101/508/s4742/d/2], Nov. 5, 1990, [104 Stat. 1388–198][/us/stat/104/1388-198], provided that: 
 
@@ -1129,7 +1129,7 @@
 
 >     “(1) __Habilitation services.—__ 
 
->     The amendment made by subsection (a) \[amending this section\] shall be effective for services furnished on or after the date of the enactment of this Act \[Apr. 7, 1986\] to individuals eligible for services under a waiver granted under section 1915(c) of the Social Security Act \[subsec. (c) of this section\], without regard to whether such individuals were receiving institutional services before their participation in the waiver.
+>     The amendment made by subsection (a) \[amending this section\] shall be effective for services furnished on or after the date of the enactment of this Act \[Apr. 7, 1986\] to individuals eligible for services under a waiver granted under section 1915(c) of the Social Security Act \[[42 U.S.C. 1396n(c)][/us/usc/t42/s1396n/c]\], without regard to whether such individuals were receiving institutional services before their participation in the waiver.
 
 >     “(2) __Hospitalized patients.—__ 
 
@@ -1223,7 +1223,7 @@
 
 >     The Secretary shall—
 
->         “(A) use the indicators and measures developed under paragraph (1) to assess such home and community-based services, the outcomes associated with the receipt of such services (particularly with respect to the health and welfare of the recipient of the services), and the overall system for providing home and community-based services under the Medicaid program under title XIX of the Social Security Act \[this subchapter\]; and
+>         “(A) use the indicators and measures developed under paragraph (1) to assess such home and community-based services, the outcomes associated with the receipt of such services (particularly with respect to the health and welfare of the recipient of the services), and the overall system for providing home and community-based services under the Medicaid program under title XIX of the Social Security Act \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\]; and
 
 >         “(B) make publicly available the best practices identified through such assessment and a comparative analyses of the system features of each State.
 
@@ -1235,17 +1235,17 @@
 
 [Pub. L. 101–508, title IV, § 4742(e)][/us/pl/101/508/s4742/e], Nov. 5, 1990, [104 Stat. 1388–198][/us/stat/104/1388-198], provided that: 
 
-> “In the case of a waiver under section 1915(c) of the Social Security Act \[subsec. (c) of this section\] for individuals with mental retardation or a related condition in a State, the Secretary of Health and Human Services shall permit the State to adjust the estimate of average per capita expenditures submitted under paragraph (2)(D) of such section, with respect to such expenditures made on or after January 1, 1989, to take into account increases in expenditures for, or utilization of, intermediate care facilities for the mentally retarded resulting from implementation of section 1919(e)(7)(A) of such Act \[[section 1396r(e)(7)(A) of this title][/us/usc/t42/s1396r/e/7/A]\].”
+> “In the case of a waiver under section 1915(c) of the Social Security Act \[[42 U.S.C. 1396n(c)][/us/usc/t42/s1396n/c]\] for individuals with mental retardation or a related condition in a State, the Secretary of Health and Human Services shall permit the State to adjust the estimate of average per capita expenditures submitted under paragraph (2)(D) of such section, with respect to such expenditures made on or after January 1, 1989, to take into account increases in expenditures for, or utilization of, intermediate care facilities for the mentally retarded resulting from implementation of section 1919(e)(7)(A) of such Act \[[42 U.S.C. 1396r(e)(7)(A)][/us/usc/t42/s1396r/e/7/A]\].”
 
  __Extensions of Waivers Under Subsection (c)__ 
 
 [Pub. L. 100–203, title IV, § 4102(c)][/us/pl/100/203/s4102/c], Dec. 22, 1987, [101 Stat. 1330–146][/us/stat/101/1330-146], provided that: 
 
-> “In the case of a State which, as of December 1, 1987, has a waiver approved with respect to elderly individuals under section 1915(c) of the Social Security Act \[subsec. (c) of this section\], which waiver is scheduled to expire before July 1, 1988, if the State notifies the Secretary of Health and Human Services of the State’s intention to file an application for a waiver under section 1915(d) of such Act (as amended by subsection (a) of this section), the Secretary shall extend approval of the State’s waiver, under section 1915(c) of such Act, on the same terms and conditions through September 30, 1988.”
+> “In the case of a State which, as of December 1, 1987, has a waiver approved with respect to elderly individuals under section 1915(c) of the Social Security Act \[[42 U.S.C. 1396n(c)][/us/usc/t42/s1396n/c]\], which waiver is scheduled to expire before July 1, 1988, if the State notifies the Secretary of Health and Human Services of the State’s intention to file an application for a waiver under section 1915(d) of such Act (as amended by subsection (a) of this section), the Secretary shall extend approval of the State’s waiver, under section 1915(c) of such Act, on the same terms and conditions through September 30, 1988.”
 
 [Pub. L. 99–272, title IX, § 9502(f)][/us/pl/99/272/s9502/f], Apr. 7, 1986, [100 Stat. 204][/us/stat/100/204], provided that: 
 
-> “The Secretary of Health and Human Services shall extend, upon request of the State, any waiver under section 1915(c) of the Social Security Act \[subsec. (c) of this section\] which expires on or after September 30, 1985, and before September 30, 1986. Such extension shall be for a period of not less than one year nor more than five years, subject to section 1915(e)(1) of such Act.”
+> “The Secretary of Health and Human Services shall extend, upon request of the State, any waiver under section 1915(c) of the Social Security Act \[[42 U.S.C. 1396n(c)][/us/usc/t42/s1396n/c]\] which expires on or after September 30, 1985, and before September 30, 1986. Such extension shall be for a period of not less than one year nor more than five years, subject to section 1915(e)(1) of such Act.”
 
 ----------
 
@@ -1504,6 +1504,7 @@
 [/us/stat/120/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F95
 [/us/pl/109/171/s6086/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2Fs6086%2Fc
 [/us/stat/120/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F127
+[/us/usc/t42/s1396n/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396n%2Fi
 [/us/pl/109/171/s6087/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2Fs6087%2Fb
 [/us/stat/120/130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F130
 [/us/pl/107/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F121
@@ -1540,6 +1541,7 @@
 [/us/pl/101/508/s4742/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs4742%2Fc%2F2
 [/us/stat/104/1388-198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-198
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
+[/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
 [/us/pl/101/508/s4742/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs4742%2Fd%2F2
 [/us/stat/104/1388-198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-198
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
@@ -1606,6 +1608,7 @@
 [/us/stat/100/2069]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2069
 [/us/pl/100/203/s4118/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs4118%2Fj
 [/us/stat/101/1330-156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-156
+[/us/usc/t42/s1396n/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396n%2Fc
 [/us/pl/99/272/s9508/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs9508%2Fb
 [/us/stat/100/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F211
 [/us/pl/99/509/s9435/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs9435%2Fd%2F1
@@ -1632,12 +1635,16 @@
 [/us/stat/124/301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F301
 [/us/pl/109/171/s6086/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2Fs6086%2Fb
 [/us/stat/120/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F127
+[/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
 [/us/pl/101/508/s4742/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs4742%2Fe
 [/us/stat/104/1388-198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-198
+[/us/usc/t42/s1396n/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396n%2Fc
 [/us/usc/t42/s1396r/e/7/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396r%2Fe%2F7%2FA
 [/us/pl/100/203/s4102/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs4102%2Fc
 [/us/stat/101/1330-146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-146
+[/us/usc/t42/s1396n/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396n%2Fc
 [/us/pl/99/272/s9502/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs9502%2Ff
 [/us/stat/100/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F204
+[/us/usc/t42/s1396n/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396n%2Fc
 
 

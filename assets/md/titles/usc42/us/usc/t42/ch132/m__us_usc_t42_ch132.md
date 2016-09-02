@@ -33,7 +33,7 @@ SUBCHAPTER I—IMPROVING INVESTIGATION AND PROSECUTION OF CHILD ABUSE CASES  </t
 
   <tr>
 
-    <td> 13001.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs13001" data-uslm-ref="/us/usc/t42/s13001">13001.</a>  </td>
 
     <td> Findings.  </td>
 
@@ -41,7 +41,7 @@ SUBCHAPTER I—IMPROVING INVESTIGATION AND PROSECUTION OF CHILD ABUSE CASES  </t
 
   <tr>
 
-    <td> 13001a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs13001a" data-uslm-ref="/us/usc/t42/s13001a">13001a.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -49,7 +49,7 @@ SUBCHAPTER I—IMPROVING INVESTIGATION AND PROSECUTION OF CHILD ABUSE CASES  </t
 
   <tr>
 
-    <td> 13001b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs13001b" data-uslm-ref="/us/usc/t42/s13001b">13001b.</a>  </td>
 
     <td> Regional children’s advocacy centers.  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER I—IMPROVING INVESTIGATION AND PROSECUTION OF CHILD ABUSE CASES  </t
 
   <tr>
 
-    <td> 13002.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs13002" data-uslm-ref="/us/usc/t42/s13002">13002.</a>  </td>
 
     <td> Local children’s advocacy centers.  </td>
 
@@ -65,7 +65,7 @@ SUBCHAPTER I—IMPROVING INVESTIGATION AND PROSECUTION OF CHILD ABUSE CASES  </t
 
   <tr>
 
-    <td> 13003.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs13003" data-uslm-ref="/us/usc/t42/s13003">13003.</a>  </td>
 
     <td> Grants for specialized technical assistance and training programs.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER I—IMPROVING INVESTIGATION AND PROSECUTION OF CHILD ABUSE CASES  </t
 
   <tr>
 
-    <td> 13004.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs13004" data-uslm-ref="/us/usc/t42/s13004">13004.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 
@@ -89,7 +89,7 @@ SUBCHAPTER II—COURT-APPOINTED SPECIAL ADVOCATE PROGRAM  </td>
 
   <tr>
 
-    <td> 13011.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs13011" data-uslm-ref="/us/usc/t42/s13011">13011.</a>  </td>
 
     <td> Findings.  </td>
 
@@ -97,7 +97,7 @@ SUBCHAPTER II—COURT-APPOINTED SPECIAL ADVOCATE PROGRAM  </td>
 
   <tr>
 
-    <td> 13012.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs13012" data-uslm-ref="/us/usc/t42/s13012">13012.</a>  </td>
 
     <td> Purpose.  </td>
 
@@ -105,7 +105,7 @@ SUBCHAPTER II—COURT-APPOINTED SPECIAL ADVOCATE PROGRAM  </td>
 
   <tr>
 
-    <td> 13013.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs13013" data-uslm-ref="/us/usc/t42/s13013">13013.</a>  </td>
 
     <td> Strengthening of court-appointed special advocate program.  </td>
 
@@ -113,7 +113,7 @@ SUBCHAPTER II—COURT-APPOINTED SPECIAL ADVOCATE PROGRAM  </td>
 
   <tr>
 
-    <td> 13013a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs13013a" data-uslm-ref="/us/usc/t42/s13013a">13013a.</a>  </td>
 
     <td> Report.  </td>
 
@@ -121,7 +121,7 @@ SUBCHAPTER II—COURT-APPOINTED SPECIAL ADVOCATE PROGRAM  </td>
 
   <tr>
 
-    <td> 13014.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs13014" data-uslm-ref="/us/usc/t42/s13014">13014.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 
@@ -137,7 +137,7 @@ SUBCHAPTER III—CHILD ABUSE TRAINING PROGRAMS FOR JUDICIAL PERSONNEL AND PRACTI
 
   <tr>
 
-    <td> 13021.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs13021" data-uslm-ref="/us/usc/t42/s13021">13021.</a>  </td>
 
     <td> Findings and purpose.  </td>
 
@@ -145,7 +145,7 @@ SUBCHAPTER III—CHILD ABUSE TRAINING PROGRAMS FOR JUDICIAL PERSONNEL AND PRACTI
 
   <tr>
 
-    <td> 13022.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs13022" data-uslm-ref="/us/usc/t42/s13022">13022.</a>  </td>
 
     <td> Grants for juvenile and family court personnel.  </td>
 
@@ -153,7 +153,7 @@ SUBCHAPTER III—CHILD ABUSE TRAINING PROGRAMS FOR JUDICIAL PERSONNEL AND PRACTI
 
   <tr>
 
-    <td> 13023.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs13023" data-uslm-ref="/us/usc/t42/s13023">13023.</a>  </td>
 
     <td> Specialized technical assistance and training programs.  </td>
 
@@ -161,7 +161,7 @@ SUBCHAPTER III—CHILD ABUSE TRAINING PROGRAMS FOR JUDICIAL PERSONNEL AND PRACTI
 
   <tr>
 
-    <td> 13024.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs13024" data-uslm-ref="/us/usc/t42/s13024">13024.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 
@@ -177,7 +177,7 @@ SUBCHAPTER IV—REPORTING REQUIREMENTS  </td>
 
   <tr>
 
-    <td> 13031.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs13031" data-uslm-ref="/us/usc/t42/s13031">13031.</a>  </td>
 
     <td> Child abuse reporting.  </td>
 
@@ -185,7 +185,7 @@ SUBCHAPTER IV—REPORTING REQUIREMENTS  </td>
 
   <tr>
 
-    <td> 13032.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs13032" data-uslm-ref="/us/usc/t42/s13032">13032.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -201,7 +201,7 @@ SUBCHAPTER V—CHILD CARE WORKER EMPLOYEE BACKGROUND CHECKS  </td>
 
   <tr>
 
-    <td> 13041.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs13041" data-uslm-ref="/us/usc/t42/s13041">13041.</a>  </td>
 
     <td> Requirement for background checks.  </td>
 
@@ -217,7 +217,7 @@ SUBCHAPTER VI—TREATMENT FOR JUVENILE OFFENDERS WHO ARE VICTIMS OF CHILD ABUSE 
 
   <tr>
 
-    <td> 13051 to 13055.   </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs13051" data-uslm-ref="/us/usc/t42/s13051">13051</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs13055" data-uslm-ref="/us/usc/t42/s13055">13055.</a>  </td>
 
     <td> Repealed.  </td>
 

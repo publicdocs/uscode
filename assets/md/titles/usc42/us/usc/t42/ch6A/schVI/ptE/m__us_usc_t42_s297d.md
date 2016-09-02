@@ -77,7 +77,7 @@
 
 [Pub. L. 100–607, title VII, § 713(h)(2)][/us/pl/100/607/s713/h/2], Nov. 4, 1988, [102 Stat. 3161][/us/stat/102/3161], provided that: 
 
-> “Except as provided in [Public Law 100–436][/us/pl/100/436] \[Sept. 20, 1988, [102 Stat. 1680][/us/stat/102/1680], see Tables for classification\], the amendment made by paragraph (1) \[amending this section\] shall take effect as if such amendment had been effective on September 30, 1988, and as if section 843 of the Public Health Service Act, as added by [section 715 of this title][/us/usc/t42/s715] \[[section 297j of this title][/us/usc/t42/s297j]\], had been effective on such date.”
+> “Except as provided in [Public Law 100–436][/us/pl/100/436] \[Sept. 20, 1988, [102 Stat. 1680][/us/stat/102/1680], see Tables for classification\], the amendment made by paragraph (1) \[amending this section\] shall take effect as if such amendment had been effective on September 30, 1988, and as if section 843 of the Public Health Service Act \[[42 U.S.C. 297j][/us/usc/t42/s297j]\], as added by [section 715 of this title][/us/usc/t42/s715], had been effective on such date.”
 
  __Effective Date of 1985 Amendment__ 
 
@@ -91,13 +91,13 @@
 
 [Pub. L. 89–751, § 6(e)(1)][/us/pl/89/751/s6/e/1], Nov. 3, 1966, [80 Stat. 1236][/us/stat/80/1236], provided that: 
 
-> “The amendments made by this section \[amending this section and sections 297c, 297e, and 297f of this title\] shall be effective in the case of payments to student loan funds made after the enactment of this Act \[Nov. 3, 1966\], except in the case of payments pursuant to commitments (made prior to enactment of this Act) to make loans under section 827 of the Public Health Service Act \[[section 297f of this title][/us/usc/t42/s297f]\] as in effect prior to the enactment of this Act.”
+> “The amendments made by this section \[amending this section and sections 297c, 297e, and 297f of this title\] shall be effective in the case of payments to student loan funds made after the enactment of this Act \[Nov. 3, 1966\], except in the case of payments pursuant to commitments (made prior to enactment of this Act) to make loans under section 827 of the Public Health Service Act \[[42 U.S.C. 297f][/us/usc/t42/s297f]\] as in effect prior to the enactment of this Act.”
 
  __Applicability of Reorg. Plan No. 3 of 1966__ 
 
 [Pub. L. 89–751, § 9][/us/pl/89/751/s9], Nov. 3, 1966, [80 Stat. 1240][/us/stat/80/1240], provided that: 
 
-> “The amendments made by this Act \[enacting former sections 295h to 295h–5 and 298c to 298c–8 of this title and amending this section, former sections 292b, 294d, 294n to 294p, 296, and 297c, section 297e, former section 297f, and [section 298 of this title][/us/usc/t42/s298], and [section 1717 of Title 12][/us/usc/t12/s1717], Banks and Banking\] shall be subject to the provisions of Reorganization Plan Numbered 3 of 1966 \[set out as a note under [section 202 of this title][/us/usc/t42/s202]\].”
+> “The amendments made by this Act \[enacting former sections 295h to 295h–5 and 298c to 298c–8 of this title and amending this section, former sections 292b, 294d, 294n to 294p, 296, and 297c, section 297e, former section 297f, and [section 298 of this title][/us/usc/t42/s298], and [section 1717 of Title 12][/us/usc/t12/s1717], Banks and Banking\] shall be subject to the provisions of Reorganization Plan Numbered 3 of 1966 \[[42 U.S.C. 202][/us/usc/t42/s202] note\].”
 
 ----------
 
@@ -153,8 +153,8 @@
 [/us/stat/102/3161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3161
 [/us/pl/100/436]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F436
 [/us/stat/102/1680]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1680
-[/us/usc/t42/s715]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs715
 [/us/usc/t42/s297j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs297j
+[/us/usc/t42/s715]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs715
 [/us/pl/99/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F92
 [/us/pl/99/92/s10/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F92%2Fs10%2Fa
 [/us/usc/t42/s297a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs297a

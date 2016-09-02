@@ -45,10 +45,6 @@
 
 ([Pub. L. 90–351, title I, § 2015][/us/pl/90/351/s2015], formerly § 2007, as added [Pub. L. 109–162, title IX, § 906(a)][/us/pl/109/162/s906/a], Jan. 5, 2006, [119 Stat. 3080][/us/stat/119/3080]; renumbered § 2015 and amended [Pub. L. 109–271, § 7(a)(1)(A)][/us/pl/109/271/s7/a/1/A], (C), (3), Aug. 12, 2006, [120 Stat. 763][/us/stat/120/763]; [Pub. L. 113–4, title IX, § 901][/us/pl/113/4/s901], Mar. 7, 2013, [127 Stat. 118][/us/stat/127/118].)
 
- __Amendment of Section__ 
-
-For effective date of amendment by [Pub. L. 113–4][/us/pl/113/4], see Effective Date of 2013 Amendment note below.
-
  __Amendments__ 
 
     2013—Subsec. (a)(2). [Pub. L. 113–4, § 901(1)][/us/pl/113/4/s901/1], inserted “sex trafficking,” after “sexual assault,”.
@@ -177,7 +173,6 @@ For effective date of amendment by [Pub. L. 113–4][/us/pl/113/4], see Effectiv
 [/us/stat/120/763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F763
 [/us/pl/113/4/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs901
 [/us/stat/127/118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F118
-[/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
 [/us/pl/113/4/s901/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs901%2F1
 [/us/pl/113/4/s901/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs901%2F2
 [/us/pl/113/4/s901/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs901%2F3

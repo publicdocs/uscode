@@ -349,7 +349,7 @@
 
 [Pub. L. 111–5, div. B, title II, § 2104][/us/pl/111/5/s2104], Feb. 17, 2009, [123 Stat. 449][/us/stat/123/449], provided that: 
 
-> “During the period that begins on October 1, 2008, and ends on September 30, 2010, section 455(a)(1) of the Social Security Act ([42 U.S.C. 655(a)(1)][/us/usc/t42/s655/a/1]) shall be applied and administered as if the phrase ‘from amounts paid to the State under section 458 \[[section 658a of this title][/us/usc/t42/s658a]\] or’ does not appear in such section.”
+> “During the period that begins on October 1, 2008, and ends on September 30, 2010, section 455(a)(1) of the Social Security Act ([42 U.S.C. 655(a)(1)][/us/usc/t42/s655/a/1]) shall be applied and administered as if the phrase ‘from amounts paid to the State under section 458 \[[42 U.S.C. 658a][/us/usc/t42/s658a]\] or’ does not appear in such section.”
 
  __Temporary Limitation on Payments Under Special Federal Matching Rate__ 
 
@@ -357,7 +357,7 @@
 
 >     “(A) __In general.—__ 
 
->     The Secretary of Health and Human Services may not pay more than $400,000,000 in the aggregate under section 455(a)(3)(B) of the Social Security Act \[subsec. (a)(3)(B) of this section\] for fiscal years 1996 through 2001.
+>     The Secretary of Health and Human Services may not pay more than $400,000,000 in the aggregate under section 455(a)(3)(B) of the Social Security Act \[[42 U.S.C. 655(a)(3)(B)][/us/usc/t42/s655/a/3/B]\] for fiscal years 1996 through 2001.
 
 >     “(B) __Allocation of limitation among states.—__ 
 
@@ -365,9 +365,9 @@
 
 >     “(C) __Allocation formula.—__ 
 
->     The regulations referred to in subparagraph (B) shall prescribe a formula for allocating the amount specified in subparagraph (A) among States with plans approved under part D of title IV of the Social Security Act \[this part\], and among systems that have been approved by the Secretary to receive enhanced funding pursuant to the Family Support Act of 1988 ([Public Law 100–485][/us/pl/100/485]; [102 Stat. 2343][/us/stat/102/2343]) for the purpose of developing a system that meets the requirements of sections 454(16) (as in effect on and after September 30, 1995) and 454A \[probably means sections 454(16) and 454A of the Social Security Act which are classified to sections 654(16) and 654a, respectively, of this title\], including systems that have received funding for such purpose pursuant to a waiver under section 1115(a) \[probably means section 1115(a) of the Social Security Act which is classified to [section 1315(a) of this title][/us/usc/t42/s1315/a]\], which shall take into account—
+>     The regulations referred to in subparagraph (B) shall prescribe a formula for allocating the amount specified in subparagraph (A) among States with plans approved under part D of title IV of the Social Security Act \[[42 U.S.C. 651][/us/usc/t42/s651] et seq.\], and among systems that have been approved by the Secretary to receive enhanced funding pursuant to the Family Support Act of 1988 ([Public Law 100–485][/us/pl/100/485]; [102 Stat. 2343][/us/stat/102/2343]) for the purpose of developing a system that meets the requirements of sections 454(16) (as in effect on and after September 30, 1995) and 454A \[probably means sections 454(16) and 454A of the Social Security Act which are classified to sections 654(16) and 654a, respectively, of this title\], including systems that have received funding for such purpose pursuant to a waiver under section 1115(a) \[probably means section 1115(a) of the Social Security Act which is classified to [section 1315(a) of this title][/us/usc/t42/s1315/a]\], which shall take into account—
 
->         “(i) the relative size of such State and system caseloads under part D of title IV of the Social Security Act \[this part\]; and
+>         “(i) the relative size of such State and system caseloads under part D of title IV of the Social Security Act \[[42 U.S.C. 651][/us/usc/t42/s651] et seq.\]; and
 
 >         “(ii) the level of automation needed to meet the automated data processing requirements of such part.”
 
@@ -588,9 +588,12 @@
 [/us/stat/110/2236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2236
 [/us/pl/105/33/s5555/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs5555%2Fb
 [/us/stat/111/637]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F637
+[/us/usc/t42/s655/a/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs655%2Fa%2F3%2FB
+[/us/usc/t42/s651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs651
 [/us/pl/100/485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F485
 [/us/stat/102/2343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2343
 [/us/usc/t42/s1315/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1315%2Fa
+[/us/usc/t42/s651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs651
 [/us/pl/94/88/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F88%2Fs206
 [/us/stat/89/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F435
 [/us/pl/93/647/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F647%2Fs101

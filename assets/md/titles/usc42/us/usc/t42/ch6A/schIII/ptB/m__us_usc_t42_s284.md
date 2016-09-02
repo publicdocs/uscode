@@ -143,11 +143,11 @@
 
 >     “(b) __Report.—__ 
 
->     As part of the biennial report under section 403 of the Public Health Service Act \[[section 283 of this title][/us/usc/t42/s283]\], the Director of NIH shall provide an evaluation and comparison of outcomes and effectiveness of training programs under subsection (a).
+>     As part of the biennial report under section 403 of the Public Health Service Act \[[42 U.S.C. 283][/us/usc/t42/s283]\], the Director of NIH shall provide an evaluation and comparison of outcomes and effectiveness of training programs under subsection (a).
 
 >     “(c) __Definition.—__ 
 
->     For purposes of this section, the term ‘Director of NIH’ has the meaning given such term in section 401 of the Public Health Service Act \[[section 281 of this title][/us/usc/t42/s281]\].”
+>     For purposes of this section, the term ‘Director of NIH’ has the meaning given such term in section 401 of the Public Health Service Act \[[42 U.S.C. 281][/us/usc/t42/s281]\].”
 
 ----------
 

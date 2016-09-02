@@ -107,7 +107,7 @@
 
 > “The amendments made by paragraphs (1), (2), and (3) \[enacting this section and amending sections 1320a–7 and 1320a–7b of this title\] shall apply with respect to items or services furnished on or after—
 
->     “(A) January 1, 1993, in the case of items or services furnished by a provider who, on or before the date of the enactment of this Act \[Nov. 5, 1990\], has furnished items or services for which payment may be made under part B of title XVIII of the Social Security Act \[part B of subchapter XVIII of this chapter\]; or
+>     “(A) January 1, 1993, in the case of items or services furnished by a provider who, on or before the date of the enactment of this Act \[Nov. 5, 1990\], has furnished items or services for which payment may be made under part B of title XVIII of the Social Security Act \[[42 U.S.C. 1395j][/us/usc/t42/s1395j] et seq.\]; or
 
 >     “(B) January 1, 1992, in the case of items or services furnished by any other provider.”
 
@@ -151,6 +151,7 @@
 [/us/stat/104/1388-102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-102
 [/us/pl/103/432/s147/f/7/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432%2Fs147%2Ff%2F7%2FA%2Fii
 [/us/stat/108/4432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4432
+[/us/usc/t42/s1395j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395j
 [/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
 [/us/pl/105/33/s4313/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs4313%2Fd
 [/us/usc/t42/s1320a–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320a%E2%80%933

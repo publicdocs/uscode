@@ -47,11 +47,11 @@
 
 >         (1) The amendment made by subsection (a) \[enacting this section\] shall be effective only in the case of claims filed on account of expenditures made in calendar quarters commencing on or after October 1, 1979.
 
->         “(2) In the case of claims filed prior to the date of enactment of this Act \[June 17, 1980\] on account of expenditures described in section 1132 of the Social Security Act \[this section\] made in calendar quarters commencing prior to October 1, 1979, there shall be no time limit for the payment of such claims.
+>         “(2) In the case of claims filed prior to the date of enactment of this Act \[June 17, 1980\] on account of expenditures described in section 1132 of the Social Security Act \[[42 U.S.C. 1320b–2][/us/usc/t42/s1320b–2]\] made in calendar quarters commencing prior to October 1, 1979, there shall be no time limit for the payment of such claims.
 
 >         “(3) In the case of such expenditures made in calendar quarters commencing prior to October 1, 1979, for which no claim has been filed on or before the date of enactment of this Act, payment shall not be made under this Act on account of any such expenditure unless claim therefor is filed (in such form and manner as the Secretary shall by regulation prescribe) prior to January 1, 1981.
 
->         “(4) The provisions of this subsection shall not be applied so as to deny payment with respect to any expenditure involving adjustments to prior year costs or court-ordered retroactive payments or audit exceptions. The Secretary may waive the requirements of paragraph (3) in the same manner as under section 1132(b) of the Social Security Act \[subsec. (b)(3) of this section\].
+>         “(4) The provisions of this subsection shall not be applied so as to deny payment with respect to any expenditure involving adjustments to prior year costs or court-ordered retroactive payments or audit exceptions. The Secretary may waive the requirements of paragraph (3) in the same manner as under section 1132(b) of the Social Security Act \[[42 U.S.C. 1320b–2(b)][/us/usc/t42/s1320b–2/b]\].
 
 >     “(c) Notwithstanding any other provision of law, there shall be no time limit for the filing or payment of such claims except as provided in this section, unless such other provision of law, in imposing such a time limitation, specifically exempts such filing or payment from the provisions of this section.”
 
@@ -73,5 +73,7 @@
 [/us/usc/t42/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs701
 [/us/pl/96/272/s306/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F272%2Fs306%2Fb
 [/us/stat/94/530]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F530
+[/us/usc/t42/s1320b–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320b%E2%80%932
+[/us/usc/t42/s1320b–2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320b%E2%80%932%2Fb
 
 

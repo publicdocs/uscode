@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch136/schIII/ptK/m__us_usc_t42_s14043c–3.md) | [Next](./../../../../../..//us/usc/t42/ch136/schIII/ptL/m__us_usc_t42_s14043d.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch136%2FschIII%2FptL)
+[Previous](./../../../../../..//us/usc/t42/ch136/schIII/ptK/m__us_usc_t42_s14043c–1 to 14043c–3.md) | [Next](./../../../../../..//us/usc/t42/ch136/schIII/ptL/m__us_usc_t42_s14043d.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch136%2FschIII%2FptL)
 
 #### Part L—Strengthening America’s Families by Preventing Violence Against Women and Children
 
@@ -21,7 +21,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch136/schIII/ptK/m__us_usc_t42_s14043c–3.md) | [Next](./../../../../../..//us/usc/t42/ch136/schIII/ptL/m__us_usc_t42_s14043d.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch136%2FschIII%2FptL)
+[Previous](./../../../../../..//us/usc/t42/ch136/schIII/ptK/m__us_usc_t42_s14043c–1 to 14043c–3.md) | [Next](./../../../../../..//us/usc/t42/ch136/schIII/ptL/m__us_usc_t42_s14043d.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch136%2FschIII%2FptL)
 
 ----------
 ----------

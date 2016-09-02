@@ -49,7 +49,7 @@
 
 [Pub. L. 98–21, title III, § 335(c)][/us/pl/98/21/s335/c], Apr. 20, 1983, [97 Stat. 130][/us/stat/97/130], provided that: 
 
-> “The amendments made by subsection (a) \[amending this section\] shall apply only with respect to benefits payable or rights existing under the Social Security Act \[this chapter\] on or after the date of the enactment of this Act \[Apr. 20, 1983\].”
+> “The amendments made by subsection (a) \[amending this section\] shall apply only with respect to benefits payable or rights existing under the Social Security Act \[[42 U.S.C. 301][/us/usc/t42/s301] et seq.\] on or after the date of the enactment of this Act \[Apr. 20, 1983\].”
 
  __Effective Date of 1939 Amendment__ 
 
@@ -75,6 +75,7 @@
 [/us/usc/t42/s408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs408
 [/us/pl/98/21/s335/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21%2Fs335%2Fc
 [/us/stat/97/130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F130
+[/us/usc/t42/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs301
 [/us/act/1939-08-10/ch666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-08-10%2Fch666
 [/us/stat/53/1362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F1362
 

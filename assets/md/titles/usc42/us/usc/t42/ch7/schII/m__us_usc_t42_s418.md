@@ -575,7 +575,7 @@
 
 [Pub. L. 98–21, title I, § 103(b)][/us/pl/98/21/s103/b], Apr. 20, 1983, [97 Stat. 72][/us/stat/97/72], provided that: 
 
-> “The amendment made by subsection (a) \[amending this section\] shall apply to any agreement in effect under section 218 of the Social Security Act \[this section\] on the date of the enactment of this Act \[Apr. 20, 1983\], without regard to whether a notice of termination is in effect on such date, and to any agreement or modification thereof which may become effective under such section 218 after that date.”
+> “The amendment made by subsection (a) \[amending this section\] shall apply to any agreement in effect under section 218 of the Social Security Act \[[42 U.S.C. 418][/us/usc/t42/s418]\] on the date of the enactment of this Act \[Apr. 20, 1983\], without regard to whether a notice of termination is in effect on such date, and to any agreement or modification thereof which may become effective under such section 218 after that date.”
 
 [Pub. L. 98–21, title III, § 325(b)][/us/pl/98/21/s325/b], Apr. 20, 1983, [97 Stat. 126][/us/stat/97/126], provided that: 
 
@@ -589,7 +589,7 @@
 
 [Pub. L. 96–265, title V, § 503(b)][/us/pl/96/265/s503/b], June 9, 1980, [94 Stat. 471][/us/stat/94/471], provided that: 
 
-> “The amendment made by subsection (a) \[amending this section\] shall be effective with respect to the payment of taxes (referred to in section 218(e)(1)(A) of the Social Security Act \[subsec. (e)(1)(A) of this section\], as amended by subsection (a)) on account of wages paid on or after July 1, 1980.”
+> “The amendment made by subsection (a) \[amending this section\] shall be effective with respect to the payment of taxes (referred to in section 218(e)(1)(A) of the Social Security Act \[[42 U.S.C. 418(e)(1)(A)][/us/usc/t42/s418/e/1/A]\], as amended by subsection (a)) on account of wages paid on or after July 1, 1980.”
 
  __Effective Date of 1977 Amendment__ 
 
@@ -607,7 +607,7 @@
 
 [Pub. L. 90–248, title I, § 120(c)][/us/pl/90/248/s120/c], Jan. 2, 1968, [81 Stat. 843][/us/stat/81/843], provided that: 
 
-> “The amendment made by this section \[amending this section\] shall apply in the case of any State with respect to modifications of such State agreement under section 218 of the Social Security Act \[this section\] made after the date of enactment of this Act \[Jan. 2, 1968\].”
+> “The amendment made by this section \[amending this section\] shall apply in the case of any State with respect to modifications of such State agreement under section 218 of the Social Security Act \[[42 U.S.C. 418][/us/usc/t42/s418]\] made after the date of enactment of this Act \[Jan. 2, 1968\].”
 
  __Effective Date of 1961 Amendment__ 
 
@@ -617,17 +617,17 @@
 
 [Pub. L. 86–778, title I, § 102(b)(2)][/us/pl/86/778/s102/b/2], Sept. 13, 1960, [74 Stat. 929][/us/stat/74/929], provided that: 
 
-> “The amendment made by paragraph (1) \[amending this section\] shall apply in the case of transfers of positions (as described therein) which occur on or after the date of enactment of this Act \[Sept. 13, 1960\]. Such amendment shall also apply in the case of such transfers in any State which occurred prior to such date, but only upon request of the Governor (or other official designated by him for the purpose) filed with the Secretary of Health, Education, and Welfare before July 1, 1961; and, in the case of any such request, such amendment shall apply only with respect to wages paid on and after the date on which such request is filed.”
+> “The amendment made by paragraph (1) \[amending this section\] shall apply in the case of transfers of positions (as described therein) which occur on or after the date of enactment of this Act \[Sept. 13, 1960\]. Such amendment shall also apply in the case of such transfers in any State which occurred prior to such date, but only upon request of the Governor (or other official designated by him for the purpose) filed with the Secretary of Health, Education, and Welfare \[now Health and Human Services\] before July 1, 1961; and, in the case of any such request, such amendment shall apply only with respect to wages paid on and after the date on which such request is filed.”
 
 [Pub. L. 86–778, title I, § 102(c)(3)][/us/pl/86/778/s102/c/3], Sept. 13, 1960, [74 Stat. 929][/us/stat/74/929], provided that: 
 
-> “The amendment made by paragraph (1) \[amending this section\] shall apply in the case of any agreement or modification of an agreement under section 218 of the Social Security Act \[this section\] which is agreed to on or after January 1, 1960; except that in the case of any such agreement or modification agreed to before January 1, 1961, the effective date specified therein shall not be earlier than December 31, 1955. The amendment made by paragraph (2) \[amending this section\] shall apply in the case of any such agreement or modification which is agreed to on or after the date of the enactment of this Act \[Sept. 13, 1960\].”
+> “The amendment made by paragraph (1) \[amending this section\] shall apply in the case of any agreement or modification of an agreement under section 218 of the Social Security Act \[[42 U.S.C. 418][/us/usc/t42/s418]\] which is agreed to on or after January 1, 1960; except that in the case of any such agreement or modification agreed to before January 1, 1961, the effective date specified therein shall not be earlier than December 31, 1955. The amendment made by paragraph (2) \[amending this section\] shall apply in the case of any such agreement or modification which is agreed to on or after the date of the enactment of this Act \[Sept. 13, 1960\].”
 
 [Pub. L. 86–778, title I, § 102(f)(3)][/us/pl/86/778/s102/f/3], Sept. 13, 1960, [74 Stat. 934][/us/stat/74/934], provided that:
 
 >     “(A) The amendments made by paragraphs (1) and (2) \[amending this section and [section 405 of this title][/us/usc/t42/s405]\] shall become effective on the first day of the second calendar year following the year in which this Act is enacted \[1960\].
 
->     “(B) In any case in which the Secretary of Health, Education, and Welfare has notified a State prior to the beginning of such second calendar year that there is an amount due by such State, that such State’s claim for a credit or refund of an overpayment is disallowed, or that such State has been allowed a credit or refund of an overpayment, under an agreement pursuant to section 218 of the Social Security Act \[this section\], then the Secretary shall be deemed to have made an assessment of such amount due as provided in section 218(q) of such Act or notified the State of such allowance or disallowance, as the case may be, on the first day of such second calendar year. In such a case the 90-day limitation in section 218(s) of such Act shall not be applicable with respect to the assessment so deemed to have been made or the notification of allowance or disallowance so deemed to have been given the State. However, the preceding sentences of this subparagraph shall not apply if the Secretary makes an assessment of such amount due or notifies the State of such allowance or disallowance on or after the first day of the second calendar year following the year in which this Act is enacted \[1960\] and within the period specified in section 218(q) of the Social Security Act or the period specified in section 218(r) of such Act, as the case may be.”
+>     “(B) In any case in which the Secretary of Health, Education, and Welfare \[now Health and Human Services\] has notified a State prior to the beginning of such second calendar year that there is an amount due by such State, that such State’s claim for a credit or refund of an overpayment is disallowed, or that such State has been allowed a credit or refund of an overpayment, under an agreement pursuant to section 218 of the Social Security Act \[[42 U.S.C. 418][/us/usc/t42/s418]\], then the Secretary shall be deemed to have made an assessment of such amount due as provided in section 218(q) of such Act or notified the State of such allowance or disallowance, as the case may be, on the first day of such second calendar year. In such a case the 90-day limitation in section 218(s) of such Act shall not be applicable with respect to the assessment so deemed to have been made or the notification of allowance or disallowance so deemed to have been given the State. However, the preceding sentences of this subparagraph shall not apply if the Secretary makes an assessment of such amount due or notifies the State of such allowance or disallowance on or after the first day of the second calendar year following the year in which this Act is enacted \[1960\] and within the period specified in section 218(q) of the Social Security Act or the period specified in section 218(r) of such Act, as the case may be.”
 
     Amendments by [section 103(i) of Pub. L. 86–778][/us/pl/86/778/s103/i] applicable only with respect to service performed after 1960, and amendment by [section 103(j)(2)(G) of Pub. L. 86–778][/us/pl/86/778/s103/j/2/G] effective on Sept. 13, 1960, see [section 103(v)(1) of Pub. L. 86–778][/us/pl/86/778/s103/v/1], set out as a note under [section 402 of this title][/us/usc/t42/s402].
 
@@ -635,7 +635,7 @@
 
 [Pub. L. 85–840, title III, § 315(c)(2)][/us/pl/85/840/s315/c/2], Aug. 28, 1958, [72 Stat. 1040][/us/stat/72/1040], provided that: 
 
-> “The amendment made by this subsection \[amending this section\] shall apply in the case of any agreement, or modification of an agreement, under section 218 of the Social Security Act \[this section\], which is executed after the date of enactment of this Act \[Aug. 28, 1958\].”
+> “The amendment made by this subsection \[amending this section\] shall apply in the case of any agreement, or modification of an agreement, under section 218 of the Social Security Act \[[42 U.S.C. 418][/us/usc/t42/s418]\], which is executed after the date of enactment of this Act \[Aug. 28, 1958\].”
 
  __Effective Date of 1954 Amendment__ 
 
@@ -649,7 +649,7 @@
 
 [Act Sept. 1, 1954, ch. 1206][/us/act/1954-09-01/ch1206], title I, § 101(i)(3), [68 Stat. 1059][/us/stat/68/1059],, provided that: 
 
-> “In the case of any coverage group to which the amendment made by paragraph (1) \[amending this section\] is applicable, any agreement or modification of an agreement agreed to prior to January 1, 1956, may, notwithstanding section 218(f) of the Social Security Act \[subsec. (f) of this section\], be made effective with respect to services performed by employees as members of such coverage group after any effective date specified therein, but in no case may such effective date be earlier than December 31, 1950.”
+> “In the case of any coverage group to which the amendment made by paragraph (1) \[amending this section\] is applicable, any agreement or modification of an agreement agreed to prior to January 1, 1956, may, notwithstanding section 218(f) of the Social Security Act \[[42 U.S.C. 418(f)][/us/usc/t42/s418/f]\], be made effective with respect to services performed by employees as members of such coverage group after any effective date specified therein, but in no case may such effective date be earlier than December 31, 1950.”
 
     [Act Sept. 1, 1954, ch. 1206][/us/act/1954-09-01/ch1206], title I, § 101(j), [68 Stat. 1059][/us/stat/68/1059], provided that the amendment made by that section is effective as of January 1, 1951.
 
@@ -659,7 +659,7 @@
 
 [Act Aug. 15, 1953, ch. 504, § 2][/us/act/1953-08-15/ch504/s2], [67 Stat. 588][/us/stat/67/588], provided that: 
 
-> “For the purposes of section 418(f) of the Social Security Act (relating to effective date of agreements) \[subsec. (f) of this section\], the amendment made by the first section of this Act \[amending this section\] shall take effect as of January 1, 1951.”
+> “For the purposes of section 418(f) of the Social Security Act (relating to effective date of agreements) \[[42 U.S.C. 418(f)][/us/usc/t42/s418/f]\], the amendment made by the first section of this Act \[amending this section\] shall take effect as of January 1, 1951.”
 
  __Exemption for Students Employed by State Schools, Colleges, or Universities__ 
 
@@ -667,7 +667,7 @@
 
 >     “(a) __In General.—__ 
 
->     Notwithstanding section 218 of the Social Security Act \[this section\], any agreement with a State (or any modification thereof) entered into pursuant to such section may, at the option of such State, be modified at any time on or after January 1, 1999, and on or before March 31, 1999, so as to exclude service performed in the employ of a school, college, or university if such service is performed by a student who is enrolled and is regularly attending classes at such school, college, or university.
+>     Notwithstanding section 218 of the Social Security Act \[[42 U.S.C. 418][/us/usc/t42/s418]\], any agreement with a State (or any modification thereof) entered into pursuant to such section may, at the option of such State, be modified at any time on or after January 1, 1999, and on or before March 31, 1999, so as to exclude service performed in the employ of a school, college, or university if such service is performed by a student who is enrolled and is regularly attending classes at such school, college, or university.
 
 >     “(b) __Effective Date of Modification.—__ 
 
@@ -681,7 +681,7 @@
 
 [Pub. L. 98–21, title I, § 123(b)(4)][/us/pl/98/21/s123/b/4], Apr. 20, 1983, [97 Stat. 89][/us/stat/97/89], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that: 
 
-> “For purposes of subsection (h) of section 218 of the Social Security Act \[subsec. (h) of this section\] (relating to deposits in social security trust funds of amounts received under section 218 agreements), amounts allowed as a credit pursuant to subsection (d) of section 3510 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] \[[26 U.S.C. 3510(d)][/us/usc/t26/s3510/d]\] (relating to credit for remuneration paid during 1984 which is covered under an agreement under section 218 of the Social Security Act) shall be treated as amounts received under such an agreement.”
+> “For purposes of subsection (h) of section 218 of the Social Security Act \[[42 U.S.C. 418(h)][/us/usc/t42/s418/h]\] (relating to deposits in social security trust funds of amounts received under section 218 agreements), amounts allowed as a credit pursuant to subsection (d) of section 3510 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] \[[26 U.S.C. 3510(d)][/us/usc/t26/s3510/d]\] (relating to credit for remuneration paid during 1984 which is covered under an agreement under section 218 of the Social Security Act) shall be treated as amounts received under such an agreement.”
 
  __Modification of Agreement With State of Iowa To Provide Coverage for Certain Policemen and Firemen__ 
 
@@ -689,7 +689,7 @@
 
 >     “(a) __In General.—__ 
 
->     Notwithstanding subsection (d)(5)(A) of section 218 of the Social Security Act \[subsec. (d)(5)(A) of this section\] and the references thereto in subsections (d)(1) and (d)(3) of such section 218, the agreement with the State of Iowa heretofore entered into pursuant to such section 218 may, at any time prior to January 1, 1989, be modified pursuant to subsection (c)(4) of such section 218 so as to apply to services performed in policemen’s or firemen’s positions required to be covered by a retirement system pursuant to section 410.1 of the Iowa Code as in effect on July 1, 1953, if the State of Iowa has at any time prior to the date of the enactment of this Act \[Dec. 22, 1987\] paid to the Secretary of the Treasury, with respect to any of the services performed in such positions, the sums prescribed pursuant to subsection (e)(1) of such section 218 (as in effect on December 31, 1986, with respect to payments due with respect to wages paid on or before such date).
+>     Notwithstanding subsection (d)(5)(A) of section 218 of the Social Security Act \[[42 U.S.C. 418(d)(5)(A)][/us/usc/t42/s418/d/5/A]\] and the references thereto in subsections (d)(1) and (d)(3) of such section 218, the agreement with the State of Iowa heretofore entered into pursuant to such section 218 may, at any time prior to January 1, 1989, be modified pursuant to subsection (c)(4) of such section 218 so as to apply to services performed in policemen’s or firemen’s positions required to be covered by a retirement system pursuant to section 410.1 of the Iowa Code as in effect on July 1, 1953, if the State of Iowa has at any time prior to the date of the enactment of this Act \[Dec. 22, 1987\] paid to the Secretary of the Treasury, with respect to any of the services performed in such positions, the sums prescribed pursuant to subsection (e)(1) of such section 218 (as in effect on December 31, 1986, with respect to payments due with respect to wages paid on or before such date).
 
 >     “(b) __Service To Be Covered.—__ 
 
@@ -709,7 +709,7 @@
 
 [Pub. L. 99–272, title XII, § 12114][/us/pl/99/272/s12114], Apr. 7, 1986, [100 Stat. 289][/us/stat/100/289], provided that: 
 
-> “Notwithstanding any provision of section 218 of the Social Security Act \[this section\], the Secretary of Health and Human Services shall, upon the request of the Governor of Connecticut, modify the agreement under such section between the Secretary and the State of Connecticut to provide that service performed after the date of the enactment of this Act \[Apr. 7, 1986\] by members of the Division of the State Police within the Connecticut Department of Public Safety, who are hired on or after May 8, 1984, and who are members of the tier II plan of the Connecticut State Employees Retirement System, shall be covered under such agreement.”
+> “Notwithstanding any provision of section 218 of the Social Security Act \[[42 U.S.C. 418][/us/usc/t42/s418]\], the Secretary of Health and Human Services shall, upon the request of the Governor of Connecticut, modify the agreement under such section between the Secretary and the State of Connecticut to provide that service performed after the date of the enactment of this Act \[Apr. 7, 1986\] by members of the Division of the State Police within the Connecticut Department of Public Safety, who are hired on or after May 8, 1984, and who are members of the tier II plan of the Connecticut State Employees Retirement System, shall be covered under such agreement.”
 
  __Modification of Agreement With State of Illinois To Provide Coverage for Certain Policemen and Firemen__ 
 
@@ -719,13 +719,13 @@
 
 [Pub. L. 94–202, § 8(k)][/us/pl/94/202/s8/k], Jan. 2, 1976, [89 Stat. 1140][/us/stat/89/1140], provided that: 
 
-> “Notwithstanding the provisions of section 218(i) of the Social Security Act \[subsec. (i) of this section\], nothing contained in the amendments made by the preceding provisions of this section \[enacting [section 432 of this title][/us/usc/t42/s432] and amending sections 401, 403, 424a, and 430 of this title and [section 6103 of Title 26][/us/usc/t26/s6103], Internal Revenue Code, and enacting provisions set out as notes under sections 401 and 432 of this title\] shall be construed to authorize or require the Secretary, in promulgating regulations or amendments thereto under such section 218(i), substantially to modify the procedures, as in effect on December 1, 1975, for the reporting by States to the Secretary of the wages of individuals covered by social security pursuant to Federal-State agreements entered into pursuant to section 218 of the Social Security Act \[this section\].”
+> “Notwithstanding the provisions of section 218(i) of the Social Security Act \[[42 U.S.C. 418(i)][/us/usc/t42/s418/i]\], nothing contained in the amendments made by the preceding provisions of this section \[enacting [section 432 of this title][/us/usc/t42/s432] and amending sections 401, 403, 424a, and 430 of this title and [section 6103 of Title 26][/us/usc/t26/s6103], Internal Revenue Code, and enacting provisions set out as notes under sections 401 and 432 of this title\] shall be construed to authorize or require the Secretary, in promulgating regulations or amendments thereto under such section 218(i), substantially to modify the procedures, as in effect on December 1, 1975, for the reporting by States to the Secretary of the wages of individuals covered by social security pursuant to Federal-State agreements entered into pursuant to section 218 of the Social Security Act \[[42 U.S.C. 418][/us/usc/t42/s418]\].”
 
  __Modification of Agreement With State of West Virginia With Respect to Certain Policemen and Firemen__ 
 
 [Pub. L. 94–202, § 6][/us/pl/94/202/s6], Jan. 2, 1976, [89 Stat. 1136][/us/stat/89/1136], provided that:
 
->     “(a) Notwithstanding the provisions of subsection (d)(5)(A) of section 218 of the Social Security Act \[subsec. (d)(5)(A) of this section\] and the references thereto in subsections (d)(1) and (d)(3) of such section 218, the agreement with the State of West Virginia heretofore entered into pursuant to such section 218 \[this section\] may, at any time prior to 1977, be modified pursuant to subsection (c)(4) of such section 218 so as to apply to services performed in policemen’s or firemen’s positions covered by a retirement system on the date of the enactment of this Act \[Jan. 2, 1976\] by individuals as employees of any class III or class IV municipal corporation (as defined in or under the laws of the State) if the State of West Virginia has at any time prior to the date of the enactment of this Act paid to the Secretary of the Treasury, with respect to any of the services performed in such positions by individuals as employees of such municipal corporation, the sums prescribed pursuant to subsection (e)(1) of such section 218. For purposes of this subsection, a retirement system which covers positions of policemen or firemen, or both, and other positions, shall, if the State of West Virginia so desires, be deemed to be a separate retirement system with respect to the positions of such policemen or firemen, or both, as the case may be.
+>     “(a) Notwithstanding the provisions of subsection (d)(5)(A) of section 218 of the Social Security Act \[[42 U.S.C. 418(d)(5)(A)][/us/usc/t42/s418/d/5/A]\] and the references thereto in subsections (d)(1) and (d)(3) of such section 218, the agreement with the State of West Virginia heretofore entered into pursuant to such section 218 \[[42 U.S.C. 418][/us/usc/t42/s418]\] may, at any time prior to 1977, be modified pursuant to subsection (c)(4) of such section 218 so as to apply to services performed in policemen’s or firemen’s positions covered by a retirement system on the date of the enactment of this Act \[Jan. 2, 1976\] by individuals as employees of any class III or class IV municipal corporation (as defined in or under the laws of the State) if the State of West Virginia has at any time prior to the date of the enactment of this Act paid to the Secretary of the Treasury, with respect to any of the services performed in such positions by individuals as employees of such municipal corporation, the sums prescribed pursuant to subsection (e)(1) of such section 218. For purposes of this subsection, a retirement system which covers positions of policemen or firemen, or both, and other positions, shall, if the State of West Virginia so desires, be deemed to be a separate retirement system with respect to the positions of such policemen or firemen, or both, as the case may be.
 
 >     “(b)
 
@@ -739,11 +739,11 @@
 
 >             “(A) no refund of the sums so paid has been obtained, or
 
->             “(B) a refund of part or all of the sums so paid has been obtained but the State of West Virginia repays to the Secretary of the Treasury the amount of such refund within ninety days after the date that the modification is agreed to by the State and the Secretary of Health, Education, and Welfare.”
+>             “(B) a refund of part or all of the sums so paid has been obtained but the State of West Virginia repays to the Secretary of the Treasury the amount of such refund within ninety days after the date that the modification is agreed to by the State and the Secretary of Health, Education, and Welfare \[now Health and Human Services\].”
 
 [Pub. L. 92–603, title I, § 143][/us/pl/92/603/s143], Oct. 30, 1972, [86 Stat. 1369][/us/stat/86/1369], provided that:
 
->     “(a) Notwithstanding the provisions of subsection (d)(5)(A) of section 218 of the Social Security Act \[subsec. (d)(5)(A) of this section\] and the references thereto in subsections (d)(1) and (d)(3) of such section 218 the agreement with the State of West Virginia heretofore entered into pursuant to such section 218 \[this section\] may, at any time prior to 1974, be modified pursuant to subsection (c)(4) of such section 218 so as to apply to services performed in policemen’s or firemen’s positions covered by a retirement system on the date of the enactment of this Act \[Oct. 30, 1972\] by individuals as employees of any class III or class IV municipal corporation (as defined in or under the laws of the State) if the State of West Virginia has at any time prior to the date of the enactment of this Act paid to the Secretary of the Treasury, with respect to any of the services performed in such positions by individuals as employees of such municipal corporation, the sums prescribed pursuant to subsection (e)(1) of such section 218. For purposes of this subsection, a retirement system which covers positions of policemen or firemen, or both, and other positions, shall, if the State of West Virginia so desires, be deemed to be a separate retirement system with respect to the positions of such policemen or firemen, or both, as the case may be.
+>     “(a) Notwithstanding the provisions of subsection (d)(5)(A) of section 218 of the Social Security Act \[subsec. (d)(5)(A) of this section\] and the references thereto in subsections (d)(1) and (d)(3) of such section 218 the agreement with the State of West Virginia heretofore entered into pursuant to such section 218 \[[42 U.S.C. 418][/us/usc/t42/s418]\] may, at any time prior to 1974, be modified pursuant to subsection (c)(4) of such section 218 so as to apply to services performed in policemen’s or firemen’s positions covered by a retirement system on the date of the enactment of this Act \[Oct. 30, 1972\] by individuals as employees of any class III or class IV municipal corporation (as defined in or under the laws of the State) if the State of West Virginia has at any time prior to the date of the enactment of this Act paid to the Secretary of the Treasury, with respect to any of the services performed in such positions by individuals as employees of such municipal corporation, the sums prescribed pursuant to subsection (e)(1) of such section 218. For purposes of this subsection, a retirement system which covers positions of policemen or firemen, or both, and other positions, shall, if the State of West Virginia so desires, be deemed to be a separate retirement system with respect to the positions of such policemen or firemen, or both, as the case may be.
 
 >     “(b)
 
@@ -757,19 +757,19 @@
 
 >             “(A) no refund of the sums so paid has been obtained, or
 
->             “(B) a refund of part or all of the sums so paid has been obtained but the State of West Virginia repays to the Secretary of the Treasury the amount of such refund within ninety days after the date that the modification is agreed to by the State and the Secretary of Health, Education, and Welfare.”
+>             “(B) a refund of part or all of the sums so paid has been obtained but the State of West Virginia repays to the Secretary of the Treasury the amount of such refund within ninety days after the date that the modification is agreed to by the State and the Secretary of Health, Education, and Welfare \[now Health and Human Services\].”
 
  __Modification of Existing Agreement With State of New Mexico To Cover Certain Hospital Employees__ 
 
 [Pub. L. 92–603, title I, § 127][/us/pl/92/603/s127], Oct. 30, 1972, [86 Stat. 1358][/us/stat/86/1358], provided that: 
 
-> “Notwithstanding any provisions of section 218 of the Social Security Act \[this section\], the Agreement with the State of New Mexico heretofore entered into pursuant to such section may at the option of such State be modified at any time prior to the first day of the fourth month after the month in which this Act is enacted \[October 1972\], so as to apply to the services of employees of a hospital which is an integral part of a political subdivision to which an agreement under this section has not been made applicable, as a separate coverage group within the meaning of section 218(b)(5) of such Act \[subsec. (b)(5) of this section\], but only if such hospital has prior to 1966 withdrawn from a retirement system which had been applicable to the employees of such hospital.”
+> “Notwithstanding any provisions of section 218 of the Social Security Act \[[42 U.S.C. 418][/us/usc/t42/s418]\], the Agreement with the State of New Mexico heretofore entered into pursuant to such section may at the option of such State be modified at any time prior to the first day of the fourth month after the month in which this Act is enacted \[October 1972\], so as to apply to the services of employees of a hospital which is an integral part of a political subdivision to which an agreement under this section has not been made applicable, as a separate coverage group within the meaning of section 218(b)(5) of such Act \[[42 U.S.C. 418(b)(5)][/us/usc/t42/s418/b/5]\], but only if such hospital has prior to 1966 withdrawn from a retirement system which had been applicable to the employees of such hospital.”
 
  __Modification of Agreement With State of Louisiana With Respect to Voter Registrars__ 
 
 [Pub. L. 92–603, title I, § 139][/us/pl/92/603/s139], Oct. 30, 1972, [86 Stat. 1366][/us/stat/86/1366], provided that:
 
->     “(a) Notwithstanding the provisions of section 218(g)(1) of the Social Security Act \[subsec. (g)(1) of this section\], the Secretary may, under such conditions as he deems appropriate, permit the State of Louisiana to modify its agreement entered into under section 218 of such Act \[this section\] so as to terminate the coverage of all employees who are in positions under the Registrars of Voters Employees’ Retirement System, effective after December 1975, but only if such State files with him notice of termination on or before December 31, 1973.
+>     “(a) Notwithstanding the provisions of section 218(g)(1) of the Social Security Act \[[42 U.S.C. 418(g)(1)][/us/usc/t42/s418/g/1]\], the Secretary may, under such conditions as he deems appropriate, permit the State of Louisiana to modify its agreement entered into under section 218 of such Act \[[42 U.S.C. 418][/us/usc/t42/s418]\] so as to terminate the coverage of all employees who are in positions under the Registrars of Voters Employees’ Retirement System, effective after December 1975, but only if such State files with him notice of termination on or before December 31, 1973.
 
 >     “(b) If the coverage of such employees in positions under such retirement system is terminated pursuant to subsection (a), coverage cannot later be extended to employees in positions under such retirement system.”
 
@@ -779,7 +779,7 @@
 
 >     “(a)
 
->      Notwithstanding any provision of section 218 of the Social Security Act \[this section\], the agreement with any State (or any modification thereof) entered into pursuant to such section may, at the option of such State, be modified at any time prior to January 1, 1974, so as to exclude either or both of the following;
+>      Notwithstanding any provision of section 218 of the Social Security Act \[[42 U.S.C. 418][/us/usc/t42/s418]\], the agreement with any State (or any modification thereof) entered into pursuant to such section may, at the option of such State, be modified at any time prior to January 1, 1974, so as to exclude either or both of the following;
 
 >         “(1) service in any class or classes of part-time positions; or
 
@@ -787,13 +787,13 @@
 
 >     “(b) Any modification of such agreement pursuant to this section shall be effective with respect to services performed after the end of the calendar quarter following the calendar quarter in which such agreement is modified.
 
->     “(c) If any such modification terminates coverage with respect to service in any class or classes of part-time positions in any coverage group, the Secretary of Health, Education, and Welfare and the State may not thereafter modify such agreement so as to again make the agreement applicable to service in such positions in such coverage group; if such modification terminates coverage with respect to service performed in the employ of a school, college, or university, by a student who is enrolled and regularly attending classes at such school, college, or university, the Secretary of Health, Education, and Welfare and the State may not thereafter modify such agreement so as to again make the agreement applicable to such service performed in the employ of such school, college, or university.”
+>     “(c) If any such modification terminates coverage with respect to service in any class or classes of part-time positions in any coverage group, the Secretary of Health, Education, and Welfare \[now Health and Human Services\] and the State may not thereafter modify such agreement so as to again make the agreement applicable to service in such positions in such coverage group; if such modification terminates coverage with respect to service performed in the employ of a school, college, or university, by a student who is enrolled and regularly attending classes at such school, college, or university, the Secretary of Health, Education, and Welfare \[now Health and Human Services\] and the State may not thereafter modify such agreement so as to again make the agreement applicable to such service performed in the employ of such school, college, or university.”
 
  __Modification of Agreement With State of Massachusetts With Respect to Employees of the Massachusetts Turnpike Authority__ 
 
 [Pub. L. 90–248, title I, § 124][/us/pl/90/248/s124], Jan. 2, 1968, [81 Stat. 845][/us/stat/81/845], provided that:
 
->     “(a) Notwithstanding the provisions of section 218(g)(1) of the Social Security Act \[subsec. (g)(1) of this section\] the Secretary may, under such conditions as he deems appropriate, permit the State of Massachusetts to modify its agreement entered into under section 218 of such Act \[this section\] so as to terminate the coverage of the employees of the Massachusetts Turnpike Authority effective at the end of any calendar quarter within the two years next following the date on which such agreement is so modified.
+>     “(a) Notwithstanding the provisions of section 218(g)(1) of the Social Security Act \[[42 U.S.C. 418(g)(1)][/us/usc/t42/s418/g/1]\] the Secretary may, under such conditions as he deems appropriate, permit the State of Massachusetts to modify its agreement entered into under section 218 of such Act \[[42 U.S.C. 418][/us/usc/t42/s418]\] so as to terminate the coverage of the employees of the Massachusetts Turnpike Authority effective at the end of any calendar quarter within the two years next following the date on which such agreement is so modified.
 
 >     “(b) If the coverage of employees of the Massachusetts Turnpike Authority is terminated pursuant to subsection (a), coverage cannot later be extended to the employees of such Authority.”
 
@@ -801,57 +801,57 @@
 
 [Pub. L. 89–97, title III, § 338][/us/pl/89/97/s338], July 30, 1965, [79 Stat. 409][/us/stat/79/409], provided that: 
 
-> “Notwithstanding any provision of section 218 of the Social Security Act \[this section\], the agreements with the States of North Dakota and Iowa entered into pursuant to such section may, at the option of the State, be modified so as to exclude service performed in any calendar quarter in the employ of a school, college, or university if such service is performed by a student who is enrolled and is regularly attending classes at such school, college, or university and if the remuneration for such service is less than $50. Any modification of either of such agreements pursuant to this Act shall be effective with respect to services performed after an effective date specified in such modification, except that such date shall not be earlier than the date of enactment of this Act \[July 30, 1965\].”
+> “Notwithstanding any provision of section 218 of the Social Security Act \[[42 U.S.C. 418][/us/usc/t42/s418]\], the agreements with the States of North Dakota and Iowa entered into pursuant to such section may, at the option of the State, be modified so as to exclude service performed in any calendar quarter in the employ of a school, college, or university if such service is performed by a student who is enrolled and is regularly attending classes at such school, college, or university and if the remuneration for such service is less than $50. Any modification of either of such agreements pursuant to this Act shall be effective with respect to services performed after an effective date specified in such modification, except that such date shall not be earlier than the date of enactment of this Act \[July 30, 1965\].”
 
  __Modification of Agreement With State of Nebraska for Exclusion of Services Performed by Justices of the Peace and Constables__ 
 
 [Pub. L. 86–778, title I, § 102(i)][/us/pl/86/778/s102/i], Sept. 13, 1960, [74 Stat. 935][/us/stat/74/935], provided that: 
 
-> “Notwithstanding any provision of section 218 of the Social Security Act \[this section\], the agreement with the State of Nebraska entered into pursuant to such section may, at the option of such State, be modified so as to exclude services performed within such State by individuals as justices of the peace or constables, if such individuals are compensated for such services on a fee basis. Any modification of such agreement pursuant to this subsection shall be effective with respect to services performed after an effective date specified in such modification, except that such date shall not be earlier than the date of enactment of this Act \[Sept. 13, 1960\].”
+> “Notwithstanding any provision of section 218 of the Social Security Act \[[42 U.S.C. 418][/us/usc/t42/s418]\], the agreement with the State of Nebraska entered into pursuant to such section may, at the option of such State, be modified so as to exclude services performed within such State by individuals as justices of the peace or constables, if such individuals are compensated for such services on a fee basis. Any modification of such agreement pursuant to this subsection shall be effective with respect to services performed after an effective date specified in such modification, except that such date shall not be earlier than the date of enactment of this Act \[Sept. 13, 1960\].”
 
  __Modification of Existing Agreement With State of California Prior to February 1966__ 
 
 [Pub. L. 86–778, title I, § 102(k)][/us/pl/86/778/s102/k], Sept. 13, 1960, [74 Stat. 935][/us/stat/74/935], as amended by [Pub. L. 89–97, title III, § 318][/us/pl/89/97/s318], July 30, 1965, [79 Stat. 390][/us/stat/79/390]; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
->     “(1) Notwithstanding any provision of section 218 of the Social Security Act \[this section\], the agreement with the State of California heretofore entered into pursuant to such section may at the option of such State be modified, at any time prior to 1962, pursuant to subsection (c)(4) of such section 218 \[subsec. (c)(4) of this section\], so as to apply to services performed by any individual who, on or after January 1, 1957, and on or before December 31, 1959, was employed by such State (or any political subdivision thereof) in any hospital employee’s position which, on September 1, 1954, was covered by a retirement system, but which, prior to 1960, was removed from coverage by such retirement system if, prior to July 1, 1960, there have been paid in good faith to the Secretary of the Treasury, with respect to any of the services performed by such individual in any such position, amounts equivalent to the sum of the taxes which would have been imposed by sections 3101 and 3111 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] \[sections 3101 and 3111 of Title 26, Internal Revenue Code\] if such services had constituted employment for purposes of chapter 21 of such Code \[section 3101 et seq. of Title 26\] at the time they were performed. Notwithstanding the provisions of subsection (f) of such section 218 such modification shall be effective with respect to (1) all services performed by such individual in any such position on or after January 1, 1960, and (2) all such services, performed before such date, with respect to which amounts equivalent to such taxes have, prior to the date of enactment of this subsection \[Sept. 13, 1960\], been paid.
+>     “(1) Notwithstanding any provision of section 218 of the Social Security Act \[[42 U.S.C. 418][/us/usc/t42/s418]\], the agreement with the State of California heretofore entered into pursuant to such section may at the option of such State be modified, at any time prior to 1962, pursuant to subsection (c)(4) of such section 218 \[[42 U.S.C. 418(c)(4)][/us/usc/t42/s418/c/4]\], so as to apply to services performed by any individual who, on or after January 1, 1957, and on or before December 31, 1959, was employed by such State (or any political subdivision thereof) in any hospital employee’s position which, on September 1, 1954, was covered by a retirement system, but which, prior to 1960, was removed from coverage by such retirement system if, prior to July 1, 1960, there have been paid in good faith to the Secretary of the Treasury, with respect to any of the services performed by such individual in any such position, amounts equivalent to the sum of the taxes which would have been imposed by sections 3101 and 3111 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] \[[26 U.S.C. 3101][/us/usc/t26/s3101], 3111\] if such services had constituted employment for purposes of chapter 21 of such Code \[[26 U.S.C. 3101][/us/usc/t26/s3101] et seq.\] at the time they were performed. Notwithstanding the provisions of subsection (f) of such section 218 such modification shall be effective with respect to (1) all services performed by such individual in any such position on or after January 1, 1960, and (2) all such services, performed before such date, with respect to which amounts equivalent to such taxes have, prior to the date of enactment of this subsection \[Sept. 13, 1960\], been paid.
 
->     “(2) Such agreement, as modified pursuant to paragraph (1), may at the option of such State be further modified, at any time prior to the seventh month after the month \[July 1965\] in which this paragraph is enacted, so as to apply to services performed for any hospital affected by such earlier modification by any individual who after December 31, 1959, is or was employed by such State (or any political subdivision thereof) in any position described in paragraph (1). Such modification shall be effective with respect to (A) all services performed by such individual in any such position on or after January 1, 1962, and (B) all such services, performed before such date, with respect to which amounts equivalent to the sum of the taxes which would have been imposed by sections 3101 and 3111 of the Internal Revenue Code of 1986 \[sections 3101 and 3111 of Title 26\] if such services had constituted employment for purposes of chapter 21 of such Code at the time they were performed have, prior to the date of the enactment of this paragraph \[July 30, 1965\], been paid.”
+>     “(2) Such agreement, as modified pursuant to paragraph (1), may at the option of such State be further modified, at any time prior to the seventh month after the month \[July 1965\] in which this paragraph is enacted, so as to apply to services performed for any hospital affected by such earlier modification by any individual who after December 31, 1959, is or was employed by such State (or any political subdivision thereof) in any position described in paragraph (1). Such modification shall be effective with respect to (A) all services performed by such individual in any such position on or after January 1, 1962, and (B) all such services, performed before such date, with respect to which amounts equivalent to the sum of the taxes which would have been imposed by sections 3101 and 3111 of the Internal Revenue Code of 1986 \[[26 U.S.C. 3101][/us/usc/t26/s3101], 3111\] if such services had constituted employment for purposes of chapter 21 of such Code at the time they were performed have, prior to the date of the enactment of this paragraph \[July 30, 1965\], been paid.”
 
  __Modification of Existing Agreement With State of Oklahoma Prior to 1962__ 
 
 [Pub. L. 86–284, § 3][/us/pl/86/284/s3], Sept. 16, 1959, [73 Stat. 566][/us/stat/73/566], provided that: 
 
-> “Notwithstanding the provisions of subsection (d)(5)(A) of section 218 of the Social Security Act \[subsec. (d)(5)(A) of this section\] and the references thereto in subsections (d)(1) and (d)(3) of such section 218, the agreement with the State of Oklahoma heretofore entered into pursuant to such section 218 \[this section\] may, at any time prior to 1962, be modified pursuant to subsection (c)(4) of such section 218 so as to apply to services performed by any individual employed by such State (or any political subdivision thereof) in any policeman’s position covered by a retirement system in effect on the date of enactment of this Act \[Sept. 16, 1959\] if (1) in the case of an individual performing such services on such date, such individual is ineligible to become a member of such retirement system, or, in the case of an individual who prior to such date has ceased to perform such services, such individual was, on the last day he did perform such services, ineligible to become a member of such retirement system, and (2) such State has, prior to 1959, paid to the Secretary of the Treasury, with respect to any of the services performed by such individual in any such position, the sums prescribed pursuant to subsection (e)(1) of such section 218. Notwithstanding the provisions of subsection (f) of such section 218, such modification shall be effective with respect to (i) all services performed by such individual in any such position on or after the date of enactment of this Act, and (ii) all such services, performed before such date, with respect to which such State has paid to the Secretary of the Treasury the sums prescribed pursuant to subsection (e) of such section 218, at the time or times established pursuant to such subsection.”
+> “Notwithstanding the provisions of subsection (d)(5)(A) of section 218 of the Social Security Act \[[42 U.S.C. 418(d)(5)(A)][/us/usc/t42/s418/d/5/A]\] and the references thereto in subsections (d)(1) and (d)(3) of such section 218, the agreement with the State of Oklahoma heretofore entered into pursuant to such section 218 \[[42 U.S.C. 418][/us/usc/t42/s418]\] may, at any time prior to 1962, be modified pursuant to subsection (c)(4) of such section 218 so as to apply to services performed by any individual employed by such State (or any political subdivision thereof) in any policeman’s position covered by a retirement system in effect on the date of enactment of this Act \[Sept. 16, 1959\] if (1) in the case of an individual performing such services on such date, such individual is ineligible to become a member of such retirement system, or, in the case of an individual who prior to such date has ceased to perform such services, such individual was, on the last day he did perform such services, ineligible to become a member of such retirement system, and (2) such State has, prior to 1959, paid to the Secretary of the Treasury, with respect to any of the services performed by such individual in any such position, the sums prescribed pursuant to subsection (e)(1) of such section 218. Notwithstanding the provisions of subsection (f) of such section 218, such modification shall be effective with respect to (i) all services performed by such individual in any such position on or after the date of enactment of this Act, and (ii) all such services, performed before such date, with respect to which such State has paid to the Secretary of the Treasury the sums prescribed pursuant to subsection (e) of such section 218, at the time or times established pursuant to such subsection.”
 
  __Modification of Existing Agreement With State of Maine Prior to__  __July 1, 1967__ 
 
 [Pub. L. 85–840, title III, § 316][/us/pl/85/840/s316], Aug. 28, 1958, [72 Stat. 1040][/us/stat/72/1040], as amended by [Pub. L. 86–778, title I, § 102(j)][/us/pl/86/778/s102/j], Sept. 13, 1960, [74 Stat. 935][/us/stat/74/935]; [Pub. L. 88–350, § 1][/us/pl/88/350/s1], July 2, 1964, [78 Stat. 240][/us/stat/78/240]; [Pub. L. 89–97, title III, § 337][/us/pl/89/97/s337], July 30, 1965, [79 Stat. 409][/us/stat/79/409], eff. July 1, 1965, provided that: 
 
-> “For the purposes of any modification which might be made after the date of enactment of this Act \[Aug. 28, 1958\] and prior to July 1, 1967, by the State of Maine of its existing agreement made under section 218 of the Social Security Act \[this section\], any retirement system of such State which covers positions of teachers and positions of other employees shall, if such State so desires, be deemed (notwithstanding the provisions of subsection (d) of such section) to consist of a separate retirement system with respect to the positions of such teachers and a separate retirement system with respect to the positions of such other employees; and for the purposes of this sentence, the term ‘teacher’ shall mean any teacher, principal, supervisor, school nurse, school dietitian, school secretary or superintendent employed in any public school, including teachers in unorganized territory.”
+> “For the purposes of any modification which might be made after the date of enactment of this Act \[Aug. 28, 1958\] and prior to July 1, 1967, by the State of Maine of its existing agreement made under section 218 of the Social Security Act \[[42 U.S.C. 418][/us/usc/t42/s418]\], any retirement system of such State which covers positions of teachers and positions of other employees shall, if such State so desires, be deemed (notwithstanding the provisions of subsection (d) of such section) to consist of a separate retirement system with respect to the positions of such teachers and a separate retirement system with respect to the positions of such other employees; and for the purposes of this sentence, the term ‘teacher’ shall mean any teacher, principal, supervisor, school nurse, school dietitian, school secretary or superintendent employed in any public school, including teachers in unorganized territory.”
 
  __Modification of Existing Agreements With States of California, Connecticut, Minnesota, or Rhode Island Prior to 1960__ 
 
 [Pub. L. 85–227, § 2][/us/pl/85/227/s2], Aug. 30, 1957, [71 Stat. 512][/us/stat/71/512], provided that: 
 
-> “Notwithstanding subsection (f) of section 218 of the Social Security Act \[subsec. (f) of this section\], any modification of the agreement with the State of California, Connecticut, Minnesota, or Rhode Island under such section which makes such agreement applicable to services performed in positions covered by a separate retirement system created pursuant to the fourth sentence of subsection (d)(6) of such section (and consisting of the positions of members who desire coverage under the agreement) may, if such modification is agreed to prior to 1960, be made effective with respect to services performed in such positions after an effective date specified in such modification, except that in no case may such date be earlier than December 31, 1955.”
+> “Notwithstanding subsection (f) of section 218 of the Social Security Act \[[42 U.S.C. 418(f)][/us/usc/t42/s418/f]\], any modification of the agreement with the State of California, Connecticut, Minnesota, or Rhode Island under such section which makes such agreement applicable to services performed in positions covered by a separate retirement system created pursuant to the fourth sentence of subsection (d)(6) of such section (and consisting of the positions of members who desire coverage under the agreement) may, if such modification is agreed to prior to 1960, be made effective with respect to services performed in such positions after an effective date specified in such modification, except that in no case may such date be earlier than December 31, 1955.”
 
  __Modification of Existing Agreements With States of Florida, Nevada, New Mexico, Minnesota, Oklahoma, Pennsylvania, Texas, Washington, or Hawaii Prior to__  __July 1, 1962__ 
 
 [Act Aug. 1, 1956, ch. 836][/us/act/1956-08-01/ch836], title I, § 104(f), [70 Stat. 826][/us/stat/70/826], as amended by [Pub. L. 86–284, § 1][/us/pl/86/284/s1], provided that: 
 
-> “Notwithstanding the provisions of subsection (d) of section 218 of the Social Security Act \[subsection (d) of this section\], any agreement under such section entered into prior to the date of enactment of this Act \[Aug. 1, 1956\] by the State of Florida, Nevada, New Mexico, Minnesota, Oklahoma, Pennsylvania, Texas, Washington, or the Territory of Hawaii shall if the State or Territory concerned so requests, be modified prior to July 1, 1962, so as to apply to services performed by employees of the respective public school districts of such State or Territory who, on the date such agreement is made applicable to such services, are not in positions the incumbents of which are required by State or Territorial law or regulation to have valid State or Territorial teachers’ or administrators’ certificates in order to receive pay for their services. The provisions of this subsection shall not apply to services of any such employees to which any such agreement applies without regard to this subsection.”
+> “Notwithstanding the provisions of subsection (d) of section 218 of the Social Security Act \[[42 U.S.C. 418(d)][/us/usc/t42/s418/d]\], any agreement under such section entered into prior to the date of enactment of this Act \[Aug. 1, 1956\] by the State of Florida, Nevada, New Mexico, Minnesota, Oklahoma, Pennsylvania, Texas, Washington, or the Territory of Hawaii shall if the State or Territory concerned so requests, be modified prior to July 1, 1962, so as to apply to services performed by employees of the respective public school districts of such State or Territory who, on the date such agreement is made applicable to such services, are not in positions the incumbents of which are required by State or Territorial law or regulation to have valid State or Territorial teachers’ or administrators’ certificates in order to receive pay for their services. The provisions of this subsection shall not apply to services of any such employees to which any such agreement applies without regard to this subsection.”
 
  __Modification of Existing Agreement With State of Arizona Prior to__  __January 1, 1956__ 
 
 [Act Sept. 1, 1954, ch. 1206][/us/act/1954-09-01/ch1206], title I, § 101(k), [68 Stat. 1060][/us/stat/68/1060], provided that: 
 
-> “If, prior to January 1, 1956, the agreement with the State of Arizona entered into pursuant to section 218 of the Social Security Act \[this section\] is modified pursuant to subsection (d)(3) of such section so as to apply to service performed by employees in positions covered by the Arizona Teachers’ Retirement System the modification may, notwithstanding section 218(f) of the Social Security Act, be made effective with respect to service performed in such positions after an effective date specified in the modification, but in no case may such effective date be earlier than December 31, 1950. For the purposes of any such modification, all employees in positions covered by the Arizona Teachers’ Retirement System shall be deemed, notwithstanding the provisions of section 218(d)(6) of such Act, to constitute a separate coverage group.”
+> “If, prior to January 1, 1956, the agreement with the State of Arizona entered into pursuant to section 218 of the Social Security Act \[[42 U.S.C. 418][/us/usc/t42/s418]\] is modified pursuant to subsection (d)(3) of such section so as to apply to service performed by employees in positions covered by the Arizona Teachers’ Retirement System the modification may, notwithstanding section 218(f) of the Social Security Act, be made effective with respect to service performed in such positions after an effective date specified in the modification, but in no case may such effective date be earlier than December 31, 1950. For the purposes of any such modification, all employees in positions covered by the Arizona Teachers’ Retirement System shall be deemed, notwithstanding the provisions of section 218(d)(6) of such Act, to constitute a separate coverage group.”
 
  __Extension of Coverage to Service in Firemen’s Position__ 
 
 [Pub. L. 90–248, title I, § 120(b)][/us/pl/90/248/s120/b], Jan. 2, 1968, [81 Stat. 842][/us/stat/81/842], provided that: 
 
-> “Nothing in the amendments made by subsection (a) \[amending this section\] shall authorize the extension of the insurance system established by title II of the Social Security Act \[this subchapter\] under the provisions of section 218(d)(6)(C) of such Act \[subsec. (d)(6)(C) of this section\] to service in any fireman’s position.”
+> “Nothing in the amendments made by subsection (a) \[amending this section\] shall authorize the extension of the insurance system established by title II of the Social Security Act \[[42 U.S.C. 401][/us/usc/t42/s401] et seq.\] under the provisions of section 218(d)(6)(C) of such Act \[[42 U.S.C. 418(d)(6)(C)][/us/usc/t42/s418/d/6/C]\] to service in any fireman’s position.”
 
  __Validation of Coverage for Certain Firemen in the State of Nebraska__ 
 
@@ -861,35 +861,35 @@
 
 >     “(1) an individual has performed services prior to the enactment of this Act \[Jan. 2, 1968\] in the employ of a political subdivision of the State of Nebraska in a fireman’s position, and
 
->     “(2) amounts, equivalent to the sum of the taxes which would have been imposed by sections 3101 and 3111 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] \[sections 3101 and 3111 of Title 26, Internal Revenue Code\] had such services constituted employment for purposes of section 21 of such Code \[[section 21 of Title 26][/us/usc/t26/s21]\] at the time they were performed, were timely paid in good faith to the Secretary of the Treasury, and
+>     “(2) amounts, equivalent to the sum of the taxes which would have been imposed by sections 3101 and 3111 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] \[[26 U.S.C. 3101][/us/usc/t26/s3101], 3111\] had such services constituted employment for purposes of section 21 of such Code \[[26 U.S.C. 21][/us/usc/t26/s21]\] at the time they were performed, were timely paid in good faith to the Secretary of the Treasury, and
 
 >     “(3) no refunds of such amounts paid in lieu of taxes have been obtained,
 
->         the amount of the remuneration for such services with respect to which such amounts have been paid shall be deemed to constitute remuneration for employment as defined in section 209 of the Social Security Act \[[section 409 of this title][/us/usc/t42/s409]\].”
+>         the amount of the remuneration for such services with respect to which such amounts have been paid shall be deemed to constitute remuneration for employment as defined in section 209 of the Social Security Act \[[42 U.S.C. 409][/us/usc/t42/s409]\].”
 
  __Validation of Coverage for Certain Employees of an Integral Unit of a Political Subdivision of Alaska__ 
 
 [Pub. L. 89–97, title III, § 342][/us/pl/89/97/s342], July 30, 1965, [79 Stat. 412][/us/stat/79/412], provided that: 
 
-> “For purposes of the agreement under section 218 of the Social Security Act \[this section\] entered into by the State of Alaska, or its predecessor the Territory of Alaska, where employees of an integral unit of a political subdivision of the State or Territory of Alaska have in good faith been included under the State or Territory’s agreement as a coverage group on the basis that such integral unit of a political subdivision was a political subdivision, then such unit of the political subdivision shall, for purposes of section 218(b)(2) of such Act, be deemed to be a political subdivision, and employees performing services within such unit shall be deemed to be a coverage group, effective with the effective date specified in such agreement or modification of such agreement with respect to such coverage group and ending with the last day of the year in which this Act is enacted \[1965\].”
+> “For purposes of the agreement under section 218 of the Social Security Act \[[42 U.S.C. 418][/us/usc/t42/s418]\] entered into by the State of Alaska, or its predecessor the Territory of Alaska, where employees of an integral unit of a political subdivision of the State or Territory of Alaska have in good faith been included under the State or Territory’s agreement as a coverage group on the basis that such integral unit of a political subdivision was a political subdivision, then such unit of the political subdivision shall, for purposes of section 218(b)(2) of such Act, be deemed to be a political subdivision, and employees performing services within such unit shall be deemed to be a coverage group, effective with the effective date specified in such agreement or modification of such agreement with respect to such coverage group and ending with the last day of the year in which this Act is enacted \[1965\].”
 
  __Validation of Coverage for District Engineering Aides of Soil and Water Conservation Districts of Oklahoma__ 
 
 [Pub. L. 88–650, § 3][/us/pl/88/650/s3], Oct. 13, 1964, [78 Stat. 1077][/us/stat/78/1077], provided that: 
 
-> “For purposes of the agreement under section 218 of the Social Security Act \[this section\] entered into by the State of Oklahoma, remuneration paid to district engineering aides of soil and water conservation districts of the State of Oklahoma which was reported by the State as amounts paid to such aides as employees of the State for services performed by them during the period beginning January 1, 1951, and ending with the close of June 30, 1962, shall be deemed to have been paid to such aides for services performed by them in the employ of the State.”
+> “For purposes of the agreement under section 218 of the Social Security Act \[[42 U.S.C. 418][/us/usc/t42/s418]\] entered into by the State of Oklahoma, remuneration paid to district engineering aides of soil and water conservation districts of the State of Oklahoma which was reported by the State as amounts paid to such aides as employees of the State for services performed by them during the period beginning January 1, 1951, and ending with the close of June 30, 1962, shall be deemed to have been paid to such aides for services performed by them in the employ of the State.”
 
  __Validation of Coverage for Certain Employees of an Integral Unit of a Political Subdivision of Arkansas__ 
 
 [Pub. L. 87–878, § 1][/us/pl/87/878/s1], Oct. 24, 1962, [76 Stat. 1202][/us/stat/76/1202], provided: 
 
-> “That, for purposes of the agreement under section 218 of the Social Security Act \[this section\] entered into by the State of Arkansas, where employees of an integral unit of a political subdivision of the State of Arkansas have in good faith been included under the State’s agreement as a coverage group on the basis that such integral unit of a political subdivision was a political subdivision, then such unit of the political subdivision shall, for purposes of section 218(b)(2) of such Act, be deemed to be a political subdivision, and employees performing services within such unit shall be deemed to be a coverage group, effective with the effective date specified in such agreement or modification of such agreement with respect to such coverage group and ending with the last day of the year in which this Act is enacted \[1962\].”
+> “That, for purposes of the agreement under section 218 of the Social Security Act \[[42 U.S.C. 418][/us/usc/t42/s418]\] entered into by the State of Arkansas, where employees of an integral unit of a political subdivision of the State of Arkansas have in good faith been included under the State’s agreement as a coverage group on the basis that such integral unit of a political subdivision was a political subdivision, then such unit of the political subdivision shall, for purposes of section 218(b)(2) of such Act, be deemed to be a political subdivision, and employees performing services within such unit shall be deemed to be a coverage group, effective with the effective date specified in such agreement or modification of such agreement with respect to such coverage group and ending with the last day of the year in which this Act is enacted \[1962\].”
 
  __Validation of Coverage for Certain Mississippi Teachers__ 
 
 [Pub. L. 86–778, title I, § 102(h)][/us/pl/86/778/s102/h], Sept. 13, 1960, [74 Stat. 934][/us/stat/74/934], provided that: 
 
-> “For purposes of the agreement under section 218 of the Social Security Act \[this section\] entered into by the State of Mississippi, services of teachers in such State performed after February 28, 1951, and prior to October 1, 1959, shall be deemed to have been performed by such teachers as employees of the State. The term ‘teacher’ as used in the preceding sentence means—
+> “For purposes of the agreement under section 218 of the Social Security Act \[[42 U.S.C. 418][/us/usc/t42/s418]\] entered into by the State of Mississippi, services of teachers in such State performed after February 28, 1951, and prior to October 1, 1959, shall be deemed to have been performed by such teachers as employees of the State. The term ‘teacher’ as used in the preceding sentence means—
 
 >     “(1) any individual who is licensed to serve in the capacity of teacher, librarian, registrar, supervisor, principal, or superintendent and who is principally engaged in the public elementary or secondary school system of the State in any one or more of such capacities;
 
@@ -903,13 +903,13 @@
 
 >     “(1)
 
->      In the case of any services performed prior to 1955 to which an agreement under section 218 of the Social Security Act \[this section\] was made applicable, deductions which—
+>      In the case of any services performed prior to 1955 to which an agreement under section 218 of the Social Security Act \[[42 U.S.C. 418][/us/usc/t42/s418]\] was made applicable, deductions which—
 
 >         “(A) were not imposed under section 203 of such Act \[[section 403 of this title][/us/usc/t42/s403]\] with respect to such services performed prior to the date the agreement was agreed to or, if the original agreement was not applicable to such services, performed prior to the date the modification making such agreement applicable to such services was agreed to, and
 
 >         “(B) would have been imposed under such section 203 had such agreement, or modification, as the case may be, been agreed to on the date it became effective,
 
->         shall be deemed to have been imposed, but only for purposes of section 215(f)(2)(A) or section 215(f)(4)(A) of such Act \[section 415(f)(2)(A) or [section 415(f)(4)(A) of this title][/us/usc/t42/s415/f/4/A]\] as in effect prior to the enactment of this Act \[Sept. 1, 1954\]. An individual with respect to whose services the preceding sentence is applicable, or in the case of his death, his survivors entitled to monthly benefits under section 202 of the Social Security Act \[[section 402 of this title][/us/usc/t42/s402]\] on the basis of his wages and self-employment income, shall be entitled to a recomputation of his primary insurance amount under such section 215(f)(2)(A) or section 215(f)(4)(A), as the case may be, if the conditions specified therein are met and if, with respect to a recomputation under such section 215(f)(2)(A), such individual files the application referred to in such section after August 1954 and prior to January 1956 or, with respect to a recomputation under such section 215(f)(4)(A), such individual died prior to January 1956 and any of such survivors entitled to monthly benefits files an application, in addition to the application filed for such monthly benefits, for a recomputation under such section 215(f)(4)(A).
+>         shall be deemed to have been imposed, but only for purposes of section 215(f)(2)(A) or section 215(f)(4)(A) of such Act \[[42 U.S.C. 415(f)(2)(A)][/us/usc/t42/s415/f/2/A], (4)(A)\] as in effect prior to the enactment of this Act \[Sept. 1, 1954\]. An individual with respect to whose services the preceding sentence is applicable, or in the case of his death, his survivors entitled to monthly benefits under section 202 of the Social Security Act \[[42 U.S.C. 402][/us/usc/t42/s402]\] on the basis of his wages and self-employment income, shall be entitled to a recomputation of his primary insurance amount under such section 215(f)(2)(A) or section 215(f)(4)(A), as the case may be, if the conditions specified therein are met and if, with respect to a recomputation under such section 215(f)(2)(A), such individual files the application referred to in such section after August 1954 and prior to January 1956 or, with respect to a recomputation under such section 215(f)(4)(A), such individual died prior to January 1956 and any of such survivors entitled to monthly benefits files an application, in addition to the application filed for such monthly benefits, for a recomputation under such section 215(f)(4)(A).
 
 >     “(2)
 
@@ -917,7 +917,7 @@
 
 >         “(A) the month following the last month for which deductions are deemed, pursuant to paragraph (1) of this subsection, to have been made; or
 
->         “(B) the first month after the month determined under subparagraph (A) (and prior to September 1954) in which his benefits under section 202(a) of the Social Security Act \[[section 402(a) of this title][/us/usc/t42/s402/a]\] were no longer subject to deductions under section 203(b) of such Act \[[section 403(b) of this title][/us/usc/t42/s403/b]\]; or
+>         “(B) the first month after the month determined under subparagraph (A) (and prior to September 1954) in which his benefits under section 202(a) of the Social Security Act \[[42 U.S.C. 402(a)][/us/usc/t42/s402/a]\] were no longer subject to deductions under section 203(b) of such Act \[[42 U.S.C. 403(b)][/us/usc/t42/s403/b]\]; or
 
 >         “(C) the first month after the last month (and prior to September 1954) in which his benefits under section 202(a) of the Social Security Act were subject to deductions under section 203(b) of such Act; or
 
@@ -1166,12 +1166,14 @@
 [/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
 [/us/pl/98/21/s103/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21%2Fs103%2Fb
 [/us/stat/97/72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F72
+[/us/usc/t42/s418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs418
 [/us/pl/98/21/s325/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21%2Fs325%2Fb
 [/us/stat/97/126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F126
 [/us/pl/98/21/s342/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21%2Fs342%2Fb
 [/us/stat/97/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F136
 [/us/pl/96/265/s503/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F265%2Fs503%2Fb
 [/us/stat/94/471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F471
+[/us/usc/t42/s418/e/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs418%2Fe%2F1%2FA
 [/us/pl/95/216/s353/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F216%2Fs353%2Fg
 [/us/stat/91/1555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1555
 [/us/pl/90/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F486
@@ -1181,6 +1183,7 @@
 [/us/stat/81/840]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F840
 [/us/pl/90/248/s120/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248%2Fs120%2Fc
 [/us/stat/81/843]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F843
+[/us/usc/t42/s418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs418
 [/us/pl/87/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F64
 [/us/pl/87/64/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F64%2Fs109
 [/us/usc/t42/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs402
@@ -1188,15 +1191,18 @@
 [/us/stat/74/929]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F929
 [/us/pl/86/778/s102/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F778%2Fs102%2Fc%2F3
 [/us/stat/74/929]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F929
+[/us/usc/t42/s418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs418
 [/us/pl/86/778/s102/f/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F778%2Fs102%2Ff%2F3
 [/us/stat/74/934]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F934
 [/us/usc/t42/s405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs405
+[/us/usc/t42/s418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs418
 [/us/pl/86/778/s103/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F778%2Fs103%2Fi
 [/us/pl/86/778/s103/j/2/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F778%2Fs103%2Fj%2F2%2FG
 [/us/pl/86/778/s103/v/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F778%2Fs103%2Fv%2F1
 [/us/usc/t42/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs402
 [/us/pl/85/840/s315/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F840%2Fs315%2Fc%2F2
 [/us/stat/72/1040]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1040
+[/us/usc/t42/s418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs418
 [/us/act/1954-09-01/ch1206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-09-01%2Fch1206
 [/us/stat/68/1059]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F1059
 [/us/act/1954-09-01/ch1206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-09-01%2Fch1206
@@ -1205,52 +1211,79 @@
 [/us/stat/68/1059]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F1059
 [/us/act/1954-09-01/ch1206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-09-01%2Fch1206
 [/us/stat/68/1059]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F1059
+[/us/usc/t42/s418/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs418%2Ff
 [/us/act/1954-09-01/ch1206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-09-01%2Fch1206
 [/us/stat/68/1059]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F1059
 [/us/usc/t42/s405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs405
 [/us/act/1953-08-15/ch504/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-08-15%2Fch504%2Fs2
 [/us/stat/67/588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F588
+[/us/usc/t42/s418/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs418%2Ff
 [/us/pl/105/277/s2023]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs2023
 [/us/stat/112/2681-904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-904
+[/us/usc/t42/s418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs418
 [/us/pl/98/21/s123/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21%2Fs123%2Fb%2F4
 [/us/stat/97/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F89
 [/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
+[/us/usc/t42/s418/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs418%2Fh
 [/us/usc/t26/s3510/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs3510%2Fd
 [/us/pl/100/203/s9008]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs9008
 [/us/stat/101/1330-292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-292
+[/us/usc/t42/s418/d/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs418%2Fd%2F5%2FA
 [/us/pl/99/272/s12114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs12114
 [/us/stat/100/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F289
+[/us/usc/t42/s418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs418
 [/us/pl/95/216/s318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F216%2Fs318
 [/us/stat/91/1540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1540
 [/us/pl/94/202/s8/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F202%2Fs8%2Fk
 [/us/stat/89/1140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F1140
+[/us/usc/t42/s418/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs418%2Fi
 [/us/usc/t42/s432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs432
 [/us/usc/t26/s6103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6103
+[/us/usc/t42/s418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs418
 [/us/pl/94/202/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F202%2Fs6
 [/us/stat/89/1136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F1136
+[/us/usc/t42/s418/d/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs418%2Fd%2F5%2FA
+[/us/usc/t42/s418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs418
 [/us/pl/92/603/s143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603%2Fs143
 [/us/stat/86/1369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1369
+[/us/usc/t42/s418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs418
 [/us/pl/92/603/s127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603%2Fs127
 [/us/stat/86/1358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1358
+[/us/usc/t42/s418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs418
+[/us/usc/t42/s418/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs418%2Fb%2F5
 [/us/pl/92/603/s139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603%2Fs139
 [/us/stat/86/1366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1366
+[/us/usc/t42/s418/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs418%2Fg%2F1
+[/us/usc/t42/s418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs418
 [/us/pl/92/603/s141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603%2Fs141
 [/us/stat/86/1366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1366
+[/us/usc/t42/s418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs418
 [/us/pl/90/248/s124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248%2Fs124
 [/us/stat/81/845]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F845
+[/us/usc/t42/s418/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs418%2Fg%2F1
+[/us/usc/t42/s418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs418
 [/us/pl/89/97/s338]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97%2Fs338
 [/us/stat/79/409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F409
+[/us/usc/t42/s418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs418
 [/us/pl/86/778/s102/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F778%2Fs102%2Fi
 [/us/stat/74/935]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F935
+[/us/usc/t42/s418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs418
 [/us/pl/86/778/s102/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F778%2Fs102%2Fk
 [/us/stat/74/935]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F935
 [/us/pl/89/97/s318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97%2Fs318
 [/us/stat/79/390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F390
 [/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
+[/us/usc/t42/s418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs418
+[/us/usc/t42/s418/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs418%2Fc%2F4
+[/us/usc/t26/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs3101
+[/us/usc/t26/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs3101
+[/us/usc/t26/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs3101
 [/us/pl/86/284/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F284%2Fs3
 [/us/stat/73/566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F566
+[/us/usc/t42/s418/d/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs418%2Fd%2F5%2FA
+[/us/usc/t42/s418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs418
 [/us/pl/85/840/s316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F840%2Fs316
 [/us/stat/72/1040]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1040
 [/us/pl/86/778/s102/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F778%2Fs102%2Fj
@@ -1259,33 +1292,45 @@
 [/us/stat/78/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F240
 [/us/pl/89/97/s337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97%2Fs337
 [/us/stat/79/409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F409
+[/us/usc/t42/s418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs418
 [/us/pl/85/227/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F227%2Fs2
 [/us/stat/71/512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F71%2F512
+[/us/usc/t42/s418/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs418%2Ff
 [/us/act/1956-08-01/ch836]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-01%2Fch836
 [/us/stat/70/826]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F826
 [/us/pl/86/284/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F284%2Fs1
+[/us/usc/t42/s418/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs418%2Fd
 [/us/act/1954-09-01/ch1206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-09-01%2Fch1206
 [/us/stat/68/1060]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F1060
+[/us/usc/t42/s418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs418
 [/us/pl/90/248/s120/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248%2Fs120%2Fb
 [/us/stat/81/842]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F842
+[/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
+[/us/usc/t42/s418/d/6/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs418%2Fd%2F6%2FC
 [/us/pl/90/248/s119/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248%2Fs119%2Fb
 [/us/stat/81/842]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F842
 [/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
+[/us/usc/t26/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs3101
 [/us/usc/t26/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs21
 [/us/usc/t42/s409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs409
 [/us/pl/89/97/s342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97%2Fs342
 [/us/stat/79/412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F412
+[/us/usc/t42/s418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs418
 [/us/pl/88/650/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F650%2Fs3
 [/us/stat/78/1077]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F1077
+[/us/usc/t42/s418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs418
 [/us/pl/87/878/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F878%2Fs1
 [/us/stat/76/1202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F1202
+[/us/usc/t42/s418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs418
 [/us/pl/86/778/s102/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F778%2Fs102%2Fh
 [/us/stat/74/934]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F934
+[/us/usc/t42/s418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs418
 [/us/act/1954-09-01/ch1206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-09-01%2Fch1206
 [/us/stat/68/1060]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F1060
+[/us/usc/t42/s418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs418
 [/us/usc/t42/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs403
-[/us/usc/t42/s415/f/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs415%2Ff%2F4%2FA
+[/us/usc/t42/s415/f/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs415%2Ff%2F2%2FA
 [/us/usc/t42/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs402
 [/us/usc/t42/s402/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs402%2Fa
 [/us/usc/t42/s403/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs403%2Fb

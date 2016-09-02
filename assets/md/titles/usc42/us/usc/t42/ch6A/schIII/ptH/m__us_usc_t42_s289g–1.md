@@ -129,25 +129,25 @@
 
 >     “(a) __In General.—__ 
 
->     Except as provided in subsection (c), no official of the executive branch may impose a policy that the Department of Health and Human Services is prohibited from conducting or supporting any research on the transplantation of human fetal tissue for therapeutic purposes. Such research shall be carried out in accordance with section 498A of the Public Health Service Act \[this section\] (as added by section 111 of this Act), without regard to any such policy that may have been in effect prior to the date of the enactment of this Act \[June 10, 1993\].
+>     Except as provided in subsection (c), no official of the executive branch may impose a policy that the Department of Health and Human Services is prohibited from conducting or supporting any research on the transplantation of human fetal tissue for therapeutic purposes. Such research shall be carried out in accordance with section 498A of the Public Health Service Act \[[42 U.S.C. 289g–1][/us/usc/t42/s289g–1]\] (as added by section 111 of this Act), without regard to any such policy that may have been in effect prior to the date of the enactment of this Act \[June 10, 1993\].
 
 >     “(b) __Prohibition Against Withholding of Funds in Cases of Technical and Scientific Merit.—__ 
 
 >         “(1) __In general.—__ 
 
->         Subject to subsection (b)(2) of section 492A of the Public Health Service Act \[[section 289a–1(b)(2) of this title][/us/usc/t42/s289a–1/b/2]\] (as added by section 101 of this Act), in the case of any proposal for research on the transplantation of human fetal tissue for therapeutic purposes, the Secretary of Health and Human Services may not withhold funds for the research if—
+>         Subject to subsection (b)(2) of section 492A of the Public Health Service Act \[[42 U.S.C. 289a–1(b)(2)][/us/usc/t42/s289a–1/b/2]\] (as added by section 101 of this Act), in the case of any proposal for research on the transplantation of human fetal tissue for therapeutic purposes, the Secretary of Health and Human Services may not withhold funds for the research if—
 
 >             “(A) the research has been approved for purposes of subsection (a) of such section 492A;
 
->             “(B) the research will be carried out in accordance with section 498A of such Act \[this section\] (as added by section 111 of this Act); and
+>             “(B) the research will be carried out in accordance with section 498A of such Act \[[42 U.S.C. 289g–1][/us/usc/t42/s289g–1]\] (as added by section 111 of this Act); and
 
->             “(C) there are reasonable assurances that the research will not utilize any human fetal tissue that has been obtained in violation of section 498B(a) of such Act \[[section 289g–2(a) of this title][/us/usc/t42/s289g–2/a]\] (as added by section 112 of this Act).
+>             “(C) there are reasonable assurances that the research will not utilize any human fetal tissue that has been obtained in violation of section 498B(a) of such Act \[[42 U.S.C. 289g–2(a)][/us/usc/t42/s289g–2/a]\] (as added by section 112 of this Act).
 
 >         “(2) __Standing approval regarding ethical status.—__ 
 
 >         In the case of any proposal for research on the transplantation of human fetal tissue for therapeutic purposes, the issuance in December 1988 of the Report of the Human Fetal Tissue Transplantation Research Panel shall be deemed to be a report—
 
->             “(A) issued by an ethics advisory board pursuant to section 492A(b)(5)(B)(ii) of the Public Health Service Act (as added by section 101 of this Act); and
+>             “(A) issued by an ethics advisory board pursuant to section 492A(b)(5)(B)(ii) of the Public Health Service Act \[[42 U.S.C. 289a–1(b)(5)(B)(ii)][/us/usc/t42/s289a–1/b/5/B/ii]\] (as added by section 101 of this Act); and
 
 >             “(B) finding, on a basis that is neither arbitrary nor capricious, that the nature of the research is such that it is not unethical to conduct or support the research.
 
@@ -157,7 +157,7 @@
 
 >     “(d) __Definition.—__ 
 
->     For purposes of this section, the term ‘human fetal tissue’ has the meaning given such term in section 498A(f) of the Public Health Service Act \[subsec. (f) of this section\] (as added by section 111 of this Act).”
+>     For purposes of this section, the term ‘human fetal tissue’ has the meaning given such term in section 498A(f) of the Public Health Service Act \[[42 U.S.C. 289g–1(f)][/us/usc/t42/s289g–1/f]\] (as added by section 111 of this Act).”
 
  __Report by General Accounting Office on Adequacy of Requirements__ 
 
@@ -177,8 +177,12 @@
 [/us/usc/t2/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs21
 [/us/pl/103/43/s113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs113
 [/us/stat/107/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F132
+[/us/usc/t42/s289g–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs289g%E2%80%931
 [/us/usc/t42/s289a–1/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs289a%E2%80%931%2Fb%2F2
+[/us/usc/t42/s289g–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs289g%E2%80%931
 [/us/usc/t42/s289g–2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs289g%E2%80%932%2Fa
+[/us/usc/t42/s289a–1/b/5/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs289a%E2%80%931%2Fb%2F5%2FB%2Fii
+[/us/usc/t42/s289g–1/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs289g%E2%80%931%2Ff
 [/us/pl/103/43/s114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs114
 [/us/stat/107/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F132
 [/us/usc/t42/s289g–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs289g%E2%80%932

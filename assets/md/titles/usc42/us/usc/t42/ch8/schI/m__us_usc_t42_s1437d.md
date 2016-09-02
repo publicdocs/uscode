@@ -147,11 +147,13 @@
 
              Any other factors as the Secretary deems appropriate which shall not exceed the seven factors in the statute, plus an additional five.
 
-                (I)  <sup>\[3\]</sup>  <sup><sup> 3 Another subpar. (I) is set out before subpar. (J). </sup></sup>  The Secretary shall:    (1) administer the system of evaluating public housing agencies flexibly to ensure that such agencies are not penalized as result of circumstances beyond their control;
+                (I)  <sup>\[3\]</sup>  <sup><sup> 3 Another subpar. (I) is set out before subpar. (J). </sup></sup>  The Secretary shall:
 
-                    (2) reflect in the weights assigned to the various indicators the differences in the difficulty of managing individual projects that result from their physical condition and their neighborhood environment; and
+        (1) administer the system of evaluating public housing agencies flexibly to ensure that such agencies are not penalized as result of circumstances beyond their control;
 
-                    (3) determine a public housing agency’s status as “troubled with respect to the program under section 1437l  <sup>\[4\]</sup>  <sup><sup> 4 See References in Text note below. </sup></sup>  of this title” based upon factors solely related to its ability to carry out that program.
+        (2) reflect in the weights assigned to the various indicators the differences in the difficulty of managing individual projects that result from their physical condition and their neighborhood environment; and
+
+        (3) determine a public housing agency’s status as “troubled with respect to the program under section 1437l  <sup>\[4\]</sup>  <sup><sup> 4 See References in Text note below. </sup></sup>  of this title” based upon factors solely related to its ability to carry out that program.
 
         (2)
 
@@ -379,11 +381,9 @@
 
          provide that it shall be cause for immediate termination of the tenancy of a public housing tenant if such tenant—
 
-            (A)
+            (A) is fleeing to avoid prosecution, or custody or confinement after conviction, under the laws of the place from which the individual flees, for a crime, or attempt to commit a crime, which is a felony under the laws of the place from which the individual flees, or which, in the case of the State of New Jersey, is a high misdemeanor under the laws of such State; or
 
-             is fleeing to avoid prosecution, or custody or confinement after conviction, under the laws of the place from which the individual flees, for a crime, or attempt to commit a crime, which is a felony under the laws of the place from which the individual flees, or which, in the case of the State of New Jersey, is a high misdemeanor under the laws of such State; or
-
-                (2)  <sup>\[9\]</sup>  <sup><sup> 9 So in original. Probably should be “(B)”. </sup></sup>  is violating a condition of probation or parole imposed under Federal or State law.
+        (2)  <sup>\[9\]</sup>  <sup><sup> 9 So in original. Probably should be “(B)”. </sup></sup>  is violating a condition of probation or parole imposed under Federal or State law.
 
         For purposes of paragraph (5), <sup>\[10\]</sup>  <sup><sup> 10 See References in Text note below. </sup></sup>  the term “drug-related criminal activity” means the illegal manufacture, sale, distribution, use, or possession with intent to manufacture, sell, distribute, or use, of a controlled substance (as defined in [section 802 of title 21][/us/usc/t21/s802]).
 

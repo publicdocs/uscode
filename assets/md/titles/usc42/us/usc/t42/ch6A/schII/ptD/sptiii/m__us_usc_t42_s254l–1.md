@@ -293,7 +293,7 @@
 
 [Pub. L. 101–597, title II, § 202(g)(2)][/us/pl/101/597/s202/g/2], Nov. 16, 1990, [104 Stat. 3026][/us/stat/104/3026], provided that: 
 
-> “The amendment made by paragraph (1) \[amending this section\] shall apply only with respect to contracts under section 338B of the Public Health Service Act \[this section\] (relating to service in the National Health Service Corps) that are entered into on or after the effective date of this Act \[Nov. 16, 1990\].”
+> “The amendment made by paragraph (1) \[amending this section\] shall apply only with respect to contracts under section 338B of the Public Health Service Act \[[42 U.S.C. 254][/us/usc/t42/s254]l–1\] (relating to service in the National Health Service Corps) that are entered into on or after the effective date of this Act \[Nov. 16, 1990\].”
 
  __Regulations__ 
 
@@ -369,6 +369,7 @@
 [/us/usc/t42/s233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs233
 [/us/pl/101/597/s202/g/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F597%2Fs202%2Fg%2F2
 [/us/stat/104/3026]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3026
+[/us/usc/t42/s254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs254
 [/us/pl/100/177/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F177%2Fs205
 [/us/stat/101/1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1003
 [/us/usc/t42/s254q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs254q

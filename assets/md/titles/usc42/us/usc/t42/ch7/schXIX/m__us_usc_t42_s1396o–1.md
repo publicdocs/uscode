@@ -303,7 +303,7 @@
 
 [Pub. L. 109–432, div. B, title IV, § 405(a)(6)][/us/pl/109/432/s405/a/6], Dec. 20, 2006, [120 Stat. 2998][/us/stat/120/2998], provided that: 
 
-> “The amendments made by this subsection \[amending this section\] shall take effect as if included in the amendments made by sections \[sic\] 6041(a) of the Deficit Reduction Act of 2005 \[[Pub. L. 109–171][/us/pl/109/171]\], except that insofar as such amendments are to, or relate to, subsection (c) or (e) of section 1916A of the Social Security Act \[this section\], such amendments shall take effect as if included in the amendments made by section 6042 or 6043, respectively, of the Deficit Reduction Act of 2005 \[[Pub. L. 109–171][/us/pl/109/171]\].”
+> “The amendments made by this subsection \[amending this section\] shall take effect as if included in the amendments made by sections \[sic\] 6041(a) of the Deficit Reduction Act of 2005 \[[Pub. L. 109–171][/us/pl/109/171]\], except that insofar as such amendments are to, or relate to, subsection (c) or (e) of section 1916A of the Social Security Act \[[42 U.S.C. 1396o–1][/us/usc/t42/s1396o–1]\], such amendments shall take effect as if included in the amendments made by section 6042 or 6043, respectively, of the Deficit Reduction Act of 2005 \[[Pub. L. 109–171][/us/pl/109/171]\].”
 
 [Pub. L. 109–171, title VI, § 6042(b)][/us/pl/109/171/s6042/b], Feb. 8, 2006, [120 Stat. 86][/us/stat/120/86], provided that: 
 
@@ -378,6 +378,7 @@
 [/us/pl/109/432/s405/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs405%2Fa%2F6
 [/us/stat/120/2998]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2998
 [/us/pl/109/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171
+[/us/usc/t42/s1396o–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396o%E2%80%931
 [/us/pl/109/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171
 [/us/pl/109/171/s6042/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2Fs6042%2Fb
 [/us/stat/120/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F86

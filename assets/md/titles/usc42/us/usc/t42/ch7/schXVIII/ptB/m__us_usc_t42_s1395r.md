@@ -561,9 +561,9 @@
 
 > “The amendments made by this section \[amending this section and sections 1395i–2, 1395v, 1395w, and 1395mm of this title\] shall apply to premiums for months beginning with January 1984, and for months after June 1983 and before January 1984—
 
->     “(1) the monthly premiums under part A and under part B of title XVIII of the Social Security Act \[parts A and B of this subchapter\] for individuals enrolled under each respective part shall be the monthly premium under that part for the month of June 1983, and
+>     “(1) the monthly premiums under part A and under part B of title XVIII of the Social Security Act \[[42 U.S.C. 1395c][/us/usc/t42/s1395c] et seq., 1395j et seq.\] for individuals enrolled under each respective part shall be the monthly premium under that part for the month of June 1983, and
 
->     “(2) the amount of the Government contributions under section 1844(a)(1) of such Act \[[section 1395w(a)(1) of this title][/us/usc/t42/s1395w/a/1]\] shall be computed on the basis of the actuarially adequate rate which would have been in effect under part B of title XVIII of such Act for such months without regard to the amendments made by this section, but using the amount of the premium in effect for the month of June 1983.”
+>     “(2) the amount of the Government contributions under section 1844(a)(1) of such Act \[[42 U.S.C. 1395w(a)(1)][/us/usc/t42/s1395w/a/1]\] shall be computed on the basis of the actuarially adequate rate which would have been in effect under part B of title XVIII of such Act for such months without regard to the amendments made by this section, but using the amount of the premium in effect for the month of June 1983.”
 
     Amendment by [Pub. L. 97–448][/us/pl/97/448] effective as if originally included as a part of this section as this section was amended by the Tax Equity and Fiscal Responsibility Act of 1982, [Pub. L. 97–248][/us/pl/97/248], see [section 309(c)(2) of Pub. L. 97–448][/us/pl/97/448/s309/c/2], set out as a note under [section 426–1 of this title][/us/usc/t42/s426–1].
 
@@ -583,7 +583,7 @@
 
 [Pub. L. 94–182, title I, § 104(b)][/us/pl/94/182/s104/b], Dec. 31, 1975, [89 Stat. 1052][/us/stat/89/1052], provided that: 
 
-> “The amendments made by subsection (a) \[amending this section\] shall apply with respect to determinations made under section 1839(c)(3) of the Social Security Act \[subsec. (c)(3) of this section\] after the date of the enactment of this Act \[Dec. 31, 1975\].”
+> “The amendments made by subsection (a) \[amending this section\] shall apply with respect to determinations made under section 1839(c)(3) of the Social Security Act \[[42 U.S.C. 1395r(c)(3)][/us/usc/t42/s1395r/c/3]\] after the date of the enactment of this Act \[Dec. 31, 1975\].”
 
  __Effective Date of 1968 Amendment__ 
 
@@ -593,23 +593,23 @@
 
 [Pub. L. 108–173, title II, § 241(c)][/us/pl/108/173/s241/c], Dec. 8, 2003, [117 Stat. 2221][/us/stat/117/2221], provided that: 
 
-> “Nothing in this part \[probably should be this section, enacting former [section 1395w–29 of this title][/us/usc/t42/s1395w–29] and amending this section and sections 1395w and 1395w–23 of this title\] (or the amendments made by this part) shall be construed as changing the entitlement to defined benefits under parts A and B of title XVIII of the Social Security Act \[parts A and B of this subchapter\].”
+> “Nothing in this part \[probably should be this section, enacting former [section 1395w–29 of this title][/us/usc/t42/s1395w–29] and amending this section and sections 1395w and 1395w–23 of this title\] (or the amendments made by this part) shall be construed as changing the entitlement to defined benefits under parts A and B of title XVIII of the Social Security Act \[[42 U.S.C. 1395c][/us/usc/t42/s1395c] et seq., 1395j et seq.\].”
 
  __Determination of Premium Amounts by Secretary__ 
 
 [Pub. L. 90–97, § 2][/us/pl/90/97/s2], Sept. 30, 1967, [81 Stat. 249][/us/stat/81/249], provided that: 
 
-> “Notwithstanding the provisions of section 1839(a) and (b) of the Social Security Act \[subsecs. (a) and (b) of this section\]—
+> “Notwithstanding the provisions of section 1839(a) and (b) of the Social Security Act \[[42 U.S.C. 1395r(a)][/us/usc/t42/s1395r/a], (b)\]—
 
->     “(1) the dollar amount applicable for premiums under part B of title XVIII of such Act \[this part\] for each month before April 1968 shall be $3, and
+>     “(1) the dollar amount applicable for premiums under part B of title XVIII of such Act \[[42 U.S.C. 1395j][/us/usc/t42/s1395j] et seq.\] for each month before April 1968 shall be $3, and
 
->     “(2) the Secretary of Health, Education, and Welfare may determine and promulgate such dollar amount for months after March 1968 and before January 1970 at any time on or before December 31, 1967.”
+>     “(2) the Secretary of Health, Education, and Welfare \[now Health and Human Services\] may determine and promulgate such dollar amount for months after March 1968 and before January 1970 at any time on or before December 31, 1967.”
 
  __Persons Enrolling Before__  __April 1, 1968__  __, Who Did Not Enroll During Their Initial Enrollment Period__ 
 
 [Pub. L. 90–97, § 3(b)][/us/pl/90/97/s3/b], Sept. 30, 1967, [81 Stat. 250][/us/stat/81/250], provided that: 
 
-> “In the case of any individual who did not enroll in the insurance program established under part B of title XVIII of the Social Security Act \[this part\] in his initial enrollment period, but does so enroll before April 1, 1968, the enrollment period in which he so enrolls shall, for purposes of section 1839(c) of such Act \[subsec. (c) of this section\], be deemed to have closed on December 31, 1967.”
+> “In the case of any individual who did not enroll in the insurance program established under part B of title XVIII of the Social Security Act \[[42 U.S.C. 1395j][/us/usc/t42/s1395j] et seq.\] in his initial enrollment period, but does so enroll before April 1, 1968, the enrollment period in which he so enrolls shall, for purposes of section 1839(c) of such Act \[[42 U.S.C. 1395r(c)][/us/usc/t42/s1395r/c]\], be deemed to have closed on December 31, 1967.”
 
 ----------
 
@@ -871,6 +871,7 @@
 [/us/stat/98/1093]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1093
 [/us/pl/98/21/s606/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21%2Fs606%2Fc
 [/us/stat/97/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F171
+[/us/usc/t42/s1395c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395c
 [/us/usc/t42/s1395w/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%2Fa%2F1
 [/us/pl/97/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F448
 [/us/pl/97/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248
@@ -887,15 +888,21 @@
 [/us/usc/t42/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs402
 [/us/pl/94/182/s104/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F182%2Fs104%2Fb
 [/us/stat/89/1052]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F1052
+[/us/usc/t42/s1395r/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395r%2Fc%2F3
 [/us/pl/90/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248
 [/us/pl/90/248/s145/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248%2Fs145%2Fe
 [/us/usc/t42/s1395p]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395p
 [/us/pl/108/173/s241/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs241%2Fc
 [/us/stat/117/2221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2221
 [/us/usc/t42/s1395w–29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%9329
+[/us/usc/t42/s1395c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395c
 [/us/pl/90/97/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F97%2Fs2
 [/us/stat/81/249]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F249
+[/us/usc/t42/s1395r/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395r%2Fa
+[/us/usc/t42/s1395j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395j
 [/us/pl/90/97/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F97%2Fs3%2Fb
 [/us/stat/81/250]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F250
+[/us/usc/t42/s1395j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395j
+[/us/usc/t42/s1395r/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395r%2Fc
 
 

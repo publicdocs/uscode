@@ -167,13 +167,13 @@
 
 >     “(1) The amendment made by subsection (a)(1) \[amending this section\] shall be effective as though it had been included or reflected in the amendment made by section 2208(a)(3) of the Omnibus Budget Reconciliation Act of 1981 \[[Pub. L. 97–35][/us/pl/97/35], amending this section\].
 
->     “(2) The amendment made by subsection (a)(2) \[amending this section\] shall apply only with respect to monthly benefits payable on the basis of the wages and self-employment income of individuals who become disabled (within the meaning of section 223(d) of the Social Security Act \[[section 423(d) of this title][/us/usc/t42/s423/d]\]) after the month in which this Act is enacted \[April 1986\].”
+>     “(2) The amendment made by subsection (a)(2) \[amending this section\] shall apply only with respect to monthly benefits payable on the basis of the wages and self-employment income of individuals who become disabled (within the meaning of section 223(d) of the Social Security Act \[[42 U.S.C. 423(d)][/us/usc/t42/s423/d]\]) after the month in which this Act is enacted \[April 1986\].”
 
  __Effective Date of 1981 Amendment__ 
 
 [Pub. L. 97–35, title XXII, § 2208(b)][/us/pl/97/35/s2208/b], Aug. 13, 1981, [95 Stat. 840][/us/stat/95/840], provided that: 
 
-> “The amendments made by subsection (a) \[amending this section\] shall be effective with respect to individuals who first become entitled to benefits under section 223(a) of the Social Security Act \[[section 423(a) of this title][/us/usc/t42/s423/a]\] for months beginning after the month in which this Act is enacted \[August 1981\], but only in the case of an individual who became disabled within the meaning of section 223(d) of such Act after the sixth month preceding the month in which this Act is enacted.”
+> “The amendments made by subsection (a) \[amending this section\] shall be effective with respect to individuals who first become entitled to benefits under section 223(a) of the Social Security Act \[[42 U.S.C. 423(a)][/us/usc/t42/s423/a]\] for months beginning after the month in which this Act is enacted \[August 1981\], but only in the case of an individual who became disabled within the meaning of section 223(d) of such Act after the sixth month preceding the month in which this Act is enacted.”
 
  __Effective Date of 1977 Amendment__ 
 
@@ -187,15 +187,15 @@
 
 [Pub. L. 92–603, title I, § 119(c)][/us/pl/92/603/s119/c], Oct. 30, 1972, [86 Stat. 1352][/us/stat/86/1352], provided that: 
 
-> “The amendments made by subsections (a) and (b) \[amending this section\] shall apply with respect to monthly benefits under title II of the Social Security Act \[this subchapter\] for months after December 1972.”
+> “The amendments made by subsections (a) and (b) \[amending this section\] shall apply with respect to monthly benefits under title II of the Social Security Act \[[42 U.S.C. 401][/us/usc/t42/s401] et seq.\] for months after December 1972.”
 
  __Effective Date of 1968 Amendments; Determination of Average Current Earnings Upon Redetermination of Benefits Subject to Reduction__ 
 
 [Pub. L. 90–248, title I, § 159(b)][/us/pl/90/248/s159/b], Jan. 2, 1968, [81 Stat. 869][/us/stat/81/869], provided that:
 
->     “(1) The amendments made by subsection (a) \[amending this section\] shall apply only with respect to monthly benefits under title II of the Social Security Act \[this subchapter\] for months after January 1968.
+>     “(1) The amendments made by subsection (a) \[amending this section\] shall apply only with respect to monthly benefits under title II of the Social Security Act \[[42 U.S.C. 401][/us/usc/t42/s401] et seq.\] for months after January 1968.
 
->     “(2) For purposes of any redetermination which is made under section 224(f) of the Social Security Act \[subsec. (f) of this section\] in the case of benefits subject to reduction under section 224 of such Act, where such reduction as first computed was effective with respect to benefits for the month in which this Act is enacted \[January 1968\] or a prior month, the amendments made by subsection (a) of this section \[amending subsec. (a) of this section\] shall also be deemed to have applied in the initial determination of the ‘average current earnings’ of the individual whose wages and self-employment income are involved.”
+>     “(2) For purposes of any redetermination which is made under section 224(f) of the Social Security Act \[[42 U.S.C. 424a(f)][/us/usc/t42/s424a/f]\] in the case of benefits subject to reduction under section 224 of such Act, where such reduction as first computed was effective with respect to benefits for the month in which this Act is enacted \[January 1968\] or a prior month, the amendments made by subsection (a) of this section \[amending subsec. (a) of this section\] shall also be deemed to have applied in the initial determination of the ‘average current earnings’ of the individual whose wages and self-employment income are involved.”
 
  __Effective Date__ 
 
@@ -317,8 +317,11 @@
 [/us/usc/t42/s418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs418
 [/us/pl/92/603/s119/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603%2Fs119%2Fc
 [/us/stat/86/1352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1352
+[/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
 [/us/pl/90/248/s159/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248%2Fs159%2Fb
 [/us/stat/81/869]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F869
+[/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
+[/us/usc/t42/s424a/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs424a%2Ff
 [/us/pl/89/97/s335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97%2Fs335
 [/us/stat/79/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F406
 [/us/usc/t42/s423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs423

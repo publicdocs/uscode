@@ -363,7 +363,7 @@
 
 [Pub. L. 109–482, title I, § 102(g)][/us/pl/109/482/s102/g], Jan. 15, 2007, [120 Stat. 3685][/us/stat/120/3685], provided that: 
 
-> “This Act \[see Tables for classification\] and the amendments made by this Act may not be construed as affecting the authorities of the national research institutes and national centers that were in effect under the Public Health Service Act \[this chapter\] on the day before the date of the enactment of this Act \[Jan. 15, 2007\], subject to the authorities of the Secretary of Health and Human Services and the Director of NIH under section 401 of the Public Health Service Act \[this section\] (as amended by section 101 of this Act). For purposes of the preceding sentence, the terms ‘national research institute’, ‘national center’, and ‘Director of NIH’ have the meanings given such terms in such section 401.”
+> “This Act \[see Tables for classification\] and the amendments made by this Act may not be construed as affecting the authorities of the national research institutes and national centers that were in effect under the Public Health Service Act \[[42 U.S.C. 201][/us/usc/t42/s201] et seq.\] on the day before the date of the enactment of this Act \[Jan. 15, 2007\], subject to the authorities of the Secretary of Health and Human Services and the Director of NIH under section 401 of the Public Health Service Act \[[42 U.S.C. 281][/us/usc/t42/s281]\] (as amended by section 101 of this Act). For purposes of the preceding sentence, the terms ‘national research institute’, ‘national center’, and ‘Director of NIH’ have the meanings given such terms in such section 401.”
 
  __Study of the Use of Centers of Excellence at the National Institutes of Health__ 
 
@@ -371,15 +371,15 @@
 
  __Report on Medical Uses of Biological Agents in Development of Defenses Against Biological Warfare__ 
 
-    [Section 1904 of Pub. L. 103–43][/us/pl/103/43/s1904] directed Secretary of Health and Human Services, in consultation with Secretary of Defense and with heads of other appropriate executive agencies, to report to Congress, not later than 12 months after June 10, 1993, on the appropriateness and impact of the National Institutes of Health assuming responsibility for the conduct of all Federal research, development, testing, and evaluation functions relating to medical countermeasures against biowarfare threat agents.
+    [Pub. L. 103–43, title XIX, § 1904][/us/pl/103/43/s1904], June 10, 1993, [107 Stat. 203][/us/stat/107/203], directed Secretary of Health and Human Services, in consultation with Secretary of Defense and with heads of other appropriate executive agencies, to report to Congress, not later than 12 months after June 10, 1993, on the appropriateness and impact of the National Institutes of Health assuming responsibility for the conduct of all Federal research, development, testing, and evaluation functions relating to medical countermeasures against biowarfare threat agents.
 
  __Research on Lupus Erythematosus__ 
 
-    [Section 5 of Pub. L. 99–158][/us/pl/99/158/s5], as amended by [Pub. L. 102–531, title III, § 312(f)][/us/pl/102/531/s312/f], Oct. 27, 1992, [106 Stat. 3506][/us/stat/106/3506], directed Secretary of Health and Human Resources to establish a Lupus Erythematosus Coordinating Committee to plan, develop, coordinate, and implement comprehensive Federal initiatives in research on Lupus Erythematosus, provided for composition of committee and meetings, and directed Committee to prepare a report for Congress on its activities, to be submitted not later than 18 months after Nov. 20, 1985, with Committee to terminate one month after the report was submitted.
+    [Pub. L. 99–158, § 5][/us/pl/99/158/s5], Nov. 20, 1985, [99 Stat. 880][/us/stat/99/880], as amended by [Pub. L. 102–531, title III, § 312(f)][/us/pl/102/531/s312/f], Oct. 27, 1992, [106 Stat. 3506][/us/stat/106/3506], directed Secretary of Health and Human Resources to establish a Lupus Erythematosus Coordinating Committee to plan, develop, coordinate, and implement comprehensive Federal initiatives in research on Lupus Erythematosus, provided for composition of committee and meetings, and directed Committee to prepare a report for Congress on its activities, to be submitted not later than 18 months after Nov. 20, 1985, with Committee to terminate one month after the report was submitted.
 
  __Interagency Committee on Learning Disabilities__ 
 
-    [Section 9 of Pub. L. 99–158][/us/pl/99/158/s9] directed Director of the National Institutes of Health, not later than 90 days after Nov. 20, 1985, to establish an Interagency Committee on Learning Disabilities to review and assess Federal research priorities, activities, and findings regarding learning disabilities (including central nervous system dysfunction in children), provided for composition of the Committee, directed Committee to report to Congress on its activities not later than 18 months after Nov. 20, 1985, and provided that the Committee terminate 90 days after submission of the report.
+    [Pub. L. 99–158, § 9][/us/pl/99/158/s9], Nov. 20, 1985, [99 Stat. 882][/us/stat/99/882], directed Director of the National Institutes of Health, not later than 90 days after Nov. 20, 1985, to establish an Interagency Committee on Learning Disabilities to review and assess Federal research priorities, activities, and findings regarding learning disabilities (including central nervous system dysfunction in children), provided for composition of the Committee, directed Committee to report to Congress on its activities not later than 18 months after Nov. 20, 1985, and provided that the Committee terminate 90 days after submission of the report.
 
 ----------
 
@@ -456,12 +456,17 @@
 [/us/usc/t42/s285m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs285m
 [/us/pl/109/482/s102/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2Fs102%2Fg
 [/us/stat/120/3685]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3685
+[/us/usc/t42/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs201
+[/us/usc/t42/s281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs281
 [/us/pl/107/84/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F84%2Fs7
 [/us/stat/115/829]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F829
 [/us/pl/103/43/s1904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs1904
+[/us/stat/107/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F203
 [/us/pl/99/158/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F158%2Fs5
+[/us/stat/99/880]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F880
 [/us/pl/102/531/s312/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F531%2Fs312%2Ff
 [/us/stat/106/3506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3506
 [/us/pl/99/158/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F158%2Fs9
+[/us/stat/99/882]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F882
 
 

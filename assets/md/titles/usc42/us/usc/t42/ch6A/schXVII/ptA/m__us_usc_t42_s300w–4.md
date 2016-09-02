@@ -175,7 +175,7 @@
 
 [Pub. L. 102–531, title I, § 103(b)][/us/pl/102/531/s103/b], Oct. 27, 1992, [106 Stat. 3473][/us/stat/106/3473], provided that: 
 
-> “With respect to compliance with the requirement established in subsection (c)(2) of section 1905 of the Public Health Service Act \[subsec. (c)(2) of this section\] (as amended by subsection (a) of this section), a State is deemed, notwithstanding such section, to be in compliance with such requirement if the State establishes an advisory committee in accordance with subsection (d) of such section not later than 180 days after the date of the enactment of this Act \[Oct. 27, 1992\].”
+> “With respect to compliance with the requirement established in subsection (c)(2) of section 1905 of the Public Health Service Act \[[42 U.S.C. 300w–4(c)(2)][/us/usc/t42/s300w–4/c/2]\] (as amended by subsection (a) of this section), a State is deemed, notwithstanding such section, to be in compliance with such requirement if the State establishes an advisory committee in accordance with subsection (d) of such section not later than 180 days after the date of the enactment of this Act \[Oct. 27, 1992\].”
 
 ----------
 
@@ -230,5 +230,6 @@
 [/us/usc/t18/s2241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2241
 [/us/pl/102/531/s103/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F531%2Fs103%2Fb
 [/us/stat/106/3473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3473
+[/us/usc/t42/s300w–4/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300w%E2%80%934%2Fc%2F2
 
 

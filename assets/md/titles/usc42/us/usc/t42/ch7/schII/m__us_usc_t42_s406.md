@@ -235,13 +235,13 @@
 
 [Pub. L. 108–203, title III, § 301(b)][/us/pl/108/203/s301/b], Mar. 2, 2004, [118 Stat. 519][/us/stat/118/519], provided that: 
 
-> “The amendments made by this section \[amending this section\] shall apply with respect to fees for representation of claimants which are first required to be certified or paid under section 206 of the Social Security Act \[this section\] on or after the first day of the first month that begins after 180 days after the date of the enactment of this Act \[Mar. 2, 2004\].”
+> “The amendments made by this section \[amending this section\] shall apply with respect to fees for representation of claimants which are first required to be certified or paid under section 206 of the Social Security Act \[[42 U.S.C. 406][/us/usc/t42/s406]\] on or after the first day of the first month that begins after 180 days after the date of the enactment of this Act \[Mar. 2, 2004\].”
 
  __Effective Date of 1999 Amendment__ 
 
 [Pub. L. 106–170, title IV, § 406(d)][/us/pl/106/170/s406/d], Dec. 17, 1999, [113 Stat. 1913][/us/stat/113/1913], provided that: 
 
-> “The amendments made by this section \[amending this section and enacting provisions set out as a note under this section\] shall apply in the case of any attorney with respect to whom a fee for services is required to be certified for payment from a claimant’s past-due benefits pursuant to subsection (a)(4) or (b)(1) of section 206 of the Social Security Act \[this section\] after the later of—
+> “The amendments made by this section \[amending this section and enacting provisions set out as a note under this section\] shall apply in the case of any attorney with respect to whom a fee for services is required to be certified for payment from a claimant’s past-due benefits pursuant to subsection (a)(4) or (b)(1) of section 206 of the Social Security Act \[[42 U.S.C. 406][/us/usc/t42/s406]\] after the later of—
 
 >     “(1) December 31, 1999, or
 
@@ -277,7 +277,7 @@
 
 >     “(a) __In General.—__ 
 
->     The Commissioner of Social Security (hereafter in this section referred to as the ‘Commissioner’) shall develop and carry out a nationwide demonstration project under this section with respect to agents and other persons, other than attorneys, who represent claimants under titles II and XVI of the Social Security Act \[subchapters II and XVI of this chapter\] before the Commissioner. The demonstration project shall be designed to determine the potential results of extending to such representatives the fee withholding procedures and assessment procedures that apply under sections 206 and section \[sic\] 1631(d)(2) of such Act \[sections 406 and 1383(d)(2) of this title\] to attorneys seeking direct payment out of past due benefits under such titles and shall include an analysis of the effect of such extension on claimants and program administration.
+>     The Commissioner of Social Security (hereafter in this section referred to as the ‘Commissioner’) shall develop and carry out a nationwide demonstration project under this section with respect to agents and other persons, other than attorneys, who represent claimants under titles II and XVI of the Social Security Act \[[42 U.S.C. 401][/us/usc/t42/s401] et seq., 1381 et seq.\] before the Commissioner. The demonstration project shall be designed to determine the potential results of extending to such representatives the fee withholding procedures and assessment procedures that apply under sections 206 and section \[sic\] 1631(d)(2) of such Act \[[42 U.S.C. 406][/us/usc/t42/s406], 1383(d)(2)\] to attorneys seeking direct payment out of past due benefits under such titles and shall include an analysis of the effect of such extension on claimants and program administration.
 
 >     “(b) __Standards for Inclusion in Demonstration Project.—__ 
 
@@ -285,7 +285,7 @@
 
 >         “(1) The representative has been awarded a bachelor’s degree from an accredited institution of higher education, or has been determined by the Commissioner to have equivalent qualifications derived from training and work experience.
 
->         “(2) The representative has passed an examination, written and administered by the Commissioner, which tests knowledge of the relevant provisions of the Social Security Act \[this chapter\] and the most recent developments in agency and court decisions affecting titles II and XVI of such Act \[subchapters II and XVI of this chapter\].
+>         “(2) The representative has passed an examination, written and administered by the Commissioner, which tests knowledge of the relevant provisions of the Social Security Act \[[42 U.S.C. 301][/us/usc/t42/s301] et seq.\] and the most recent developments in agency and court decisions affecting titles II and XVI of such Act \[[42 U.S.C. 401][/us/usc/t42/s401] et seq., 1381 et seq.\].
 
 >         “(3) The representative has secured professional liability insurance, or equivalent insurance, which the Commissioner has determined to be adequate to protect claimants in the event of malpractice by the representative.
 
@@ -309,7 +309,7 @@
 
 >     “(d) __Notice to Congress and Applicability of Fee Withholding Procedures.—__ 
 
->     Not later than 1 year after the date of enactment of this Act \[Mar. 2, 2004\], the Commissioner shall complete such actions as are necessary to fully implement the requirements for full operation of the demonstration project and shall submit to each House of Congress a written notice of the completion of such actions \[Such notices submitted Feb. 28, 2005.\]. The applicability under this section to non-attorney representatives of the fee withholding procedures and assessment procedures under sections 206 and 1631(d)(2) of the Social Security Act \[sections 406 and 1383(d)(2) of this title\] shall be effective with respect to fees for representation of claimants in the case of claims for benefits with respect to which the agreement for representation is entered into by such non-attorney representatives during the period beginning with the date of the submission of such notice by the Commissioner to Congress and ending with the termination date of the demonstration project.
+>     Not later than 1 year after the date of enactment of this Act \[Mar. 2, 2004\], the Commissioner shall complete such actions as are necessary to fully implement the requirements for full operation of the demonstration project and shall submit to each House of Congress a written notice of the completion of such actions \[Such notices submitted Feb. 28, 2005.\]. The applicability under this section to non-attorney representatives of the fee withholding procedures and assessment procedures under sections 206 and 1631(d)(2) of the Social Security Act \[[42 U.S.C. 406][/us/usc/t42/s406], 1383(d)(2)\] shall be effective with respect to fees for representation of claimants in the case of claims for benefits with respect to which the agreement for representation is entered into by such non-attorney representatives during the period beginning with the date of the submission of such notice by the Commissioner to Congress and ending with the termination date of the demonstration project.
 
 >     “(e) __Reports by the Commissioner; Termination.—__ 
 
@@ -411,8 +411,10 @@
 [/us/usc/t42/s1383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1383
 [/us/pl/108/203/s301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F203%2Fs301%2Fb
 [/us/stat/118/519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F519
+[/us/usc/t42/s406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs406
 [/us/pl/106/170/s406/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170%2Fs406%2Fd
 [/us/stat/113/1913]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1913
+[/us/usc/t42/s406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs406
 [/us/pl/103/296/s107/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs107%2Fa%2F4
 [/us/pl/103/296/s110/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs110%2Fa
 [/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
@@ -435,6 +437,11 @@
 [/us/stat/118/521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F521
 [/us/pl/111/142/s3/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F142%2Fs3%2Fb%2F2
 [/us/stat/124/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F39
+[/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
+[/us/usc/t42/s406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs406
+[/us/usc/t42/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs301
+[/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
+[/us/usc/t42/s406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs406
 [/us/pl/108/203/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F203%2Fs304
 [/us/stat/118/523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F523
 [/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401

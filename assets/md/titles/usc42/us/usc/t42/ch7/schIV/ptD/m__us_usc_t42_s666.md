@@ -859,7 +859,7 @@
 
 >     “(1) Except as provided in paragraph (2), the amendment made by subsection (a) \[amending this section\] shall become effective on the date of the enactment of this Act \[Oct. 21, 1986\].
 
->     “(2) In the case of a State with respect to which the Secretary of Health and Human Services has determined that State legislation is required in order to conform the State plan approved under part D of title IV of the Social Security Act \[this part\] to the requirements imposed by the amendment made by subsection (a) \[amending this section\], the State plan shall not be regarded as failing to comply with the requirements of such part solely by reason of its failure to meet the requirements imposed by such amendment prior to the beginning of the fourth month beginning after the end of the first session of the State legislature which ends on or after the date of the enactment of this Act \[Oct. 21, 1986\]. For purposes of the preceding sentence, the term ‘session’ means a regular, special, budget, or other session of a State legislature.”
+>     “(2) In the case of a State with respect to which the Secretary of Health and Human Services has determined that State legislation is required in order to conform the State plan approved under part D of title IV of the Social Security Act \[[42 U.S.C. 651][/us/usc/t42/s651] et seq.\] to the requirements imposed by the amendment made by subsection (a) \[amending this section\], the State plan shall not be regarded as failing to comply with the requirements of such part solely by reason of its failure to meet the requirements imposed by such amendment prior to the beginning of the fourth month beginning after the end of the first session of the State legislature which ends on or after the date of the enactment of this Act \[Oct. 21, 1986\]. For purposes of the preceding sentence, the term ‘session’ means a regular, special, budget, or other session of a State legislature.”
 
  __Effective Date__ 
 
@@ -1089,6 +1089,7 @@
 [/us/usc/t42/s652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs652
 [/us/pl/99/509/s9103/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs9103%2Fb
 [/us/stat/100/1973]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1973
+[/us/usc/t42/s651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs651
 [/us/pl/98/378/s3/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F378%2Fs3%2Fg
 [/us/usc/t42/s654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs654
 [/us/pl/100/485/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F485%2Fs101%2Fc

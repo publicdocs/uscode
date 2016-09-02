@@ -373,7 +373,7 @@
 
 >     “(B) __Report.—__ 
 
->     Not later than January 1, 2006, the Secretary shall submit to Congress a report on the study conducted under paragraph (1), and shall include recommendations on whether such sales to large volume purchasers should be excluded from the computation of a manufacturer’s average sales price under section 1847A of the Social Security Act \[this section\], as added by paragraph (1).”
+>     Not later than January 1, 2006, the Secretary shall submit to Congress a report on the study conducted under paragraph (1), and shall include recommendations on whether such sales to large volume purchasers should be excluded from the computation of a manufacturer’s average sales price under section 1847A of the Social Security Act \[[42 U.S.C. 1395w–3a][/us/usc/t42/s1395w–3a]\], as added by paragraph (1).”
 
  __Inspector General Report on Adequacy of Reimbursement Rate Under Average Sales Price Methodology__ 
 
@@ -381,11 +381,11 @@
 
 >     “(A) __Study.—__ 
 
->     The Inspector General of the Department of Health and Human Services shall conduct a study on the ability of physician practices in the specialties of hematology, hematology/oncology, and medical oncology of different sizes, especially particularly large practices, to obtain drugs and biologicals for the treatment of cancer patients at 106 percent of the average sales price for the drugs and biologicals. In conducting the study, the Inspector General shall conduct an audit of a representative sample of such practices to determine the adequacy of reimbursement under section 1847A of the Social Security Act \[this section\], as added by paragraph (1).
+>     The Inspector General of the Department of Health and Human Services shall conduct a study on the ability of physician practices in the specialties of hematology, hematology/oncology, and medical oncology of different sizes, especially particularly large practices, to obtain drugs and biologicals for the treatment of cancer patients at 106 percent of the average sales price for the drugs and biologicals. In conducting the study, the Inspector General shall conduct an audit of a representative sample of such practices to determine the adequacy of reimbursement under section 1847A of the Social Security Act \[[42 U.S.C. 1395w–3a][/us/usc/t42/s1395w–3a]\], as added by paragraph (1).
 
 >     “(B) __Report.—__ 
 
->     Not later October 1, 2005, the Inspector General shall submit to Congress a report on the study conducted under subparagraph (A), and shall include recommendations on the adequacy of reimbursement for such drugs and biologicals under such section 1847A \[this section\].”
+>     Not later October 1, 2005, the Inspector General shall submit to Congress a report on the study conducted under subparagraph (A), and shall include recommendations on the adequacy of reimbursement for such drugs and biologicals under such section 1847A \[[42 U.S.C. 1395w–3a][/us/usc/t42/s1395w–3a]\].”
 
  __Application of 2003 Amendment to Physician Specialties__ 
 
@@ -438,8 +438,11 @@
 [/us/stat/124/440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F440
 [/us/pl/108/173/s303/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs303%2Fc%2F2
 [/us/stat/117/2245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2245
+[/us/usc/t42/s1395w–3a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%933a
 [/us/pl/108/173/s303/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs303%2Fc%2F3
 [/us/stat/117/2245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2245
+[/us/usc/t42/s1395w–3a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%933a
+[/us/usc/t42/s1395w–3a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%933a
 [/us/pl/108/173/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs303
 [/us/pl/108/173/s303/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs303%2Fj
 [/us/usc/t42/s1395u]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395u

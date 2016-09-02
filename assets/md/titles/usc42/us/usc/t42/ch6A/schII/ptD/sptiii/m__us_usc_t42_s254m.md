@@ -147,7 +147,7 @@
 
 [Pub. L. 97–35, title XXVII, § 2709(h)][/us/pl/97/35/s2709/h], Aug. 13, 1981, [95 Stat. 912][/us/stat/95/912], provided that: 
 
-> “The amendments made by paragraphs (2), (3), and (5)(B) of subsection (c) \[amending this section\] shall apply with respect to contracts entered into under the National Health Service Corps scholarship program under subpart III of part C of title VII of the Public Health Service Act \[section 294r et seq. of this title\] after the date of the enactment of this Act \[Aug. 13, 1981\]. An individual who before such date has entered into such a contract and who has not begun the period of obligated service required under such contract shall be given the opportunity to revise such contract to permit the individual to serve such period as a member of the National Health Service Corps who is not an employee of the United States.”
+> “The amendments made by paragraphs (2), (3), and (5)(B) of subsection (c) \[amending this section\] shall apply with respect to contracts entered into under the National Health Service Corps scholarship program under subpart III of part C of title VII of the Public Health Service Act \[[42 U.S.C. 294r][/us/usc/t42/s294r] et seq.\] after the date of the enactment of this Act \[Aug. 13, 1981\]. An individual who before such date has entered into such a contract and who has not begun the period of obligated service required under such contract shall be given the opportunity to revise such contract to permit the individual to serve such period as a member of the National Health Service Corps who is not an employee of the United States.”
 
  __Effective Date__ 
 
@@ -161,7 +161,7 @@
 
 [Pub. L. 100–446, title II][/us/pl/100/446], Sept. 27, 1988, [102 Stat. 1816][/us/stat/102/1816], provided that: 
 
-> “the Secretary of Health and Human Services may authorize special retention pay under paragraph (4) of [37 U.S.C. 302(a)][/us/usc/t37/s302/a] to any regular or reserve officer for the period during which the officer is obligated under section 338B \[now 338C\] of the Public Health Service Act \[this section\] and assigned and providing direct health services or serving the officer’s obligation as a specialist”.
+> “the Secretary of Health and Human Services may authorize special retention pay under paragraph (4) of [37 U.S.C. 302(a)][/us/usc/t37/s302/a] to any regular or reserve officer for the period during which the officer is obligated under section 338B \[now 338C\] of the Public Health Service Act \[[42 U.S.C. 254m][/us/usc/t42/s254m]\] and assigned and providing direct health services or serving the officer’s obligation as a specialist”.
 
 Similar provisions were contained in the following prior appropriation acts:
 
@@ -237,11 +237,13 @@ Similar provisions were contained in the following prior appropriation acts:
 [/us/pl/95/626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F626
 [/us/pl/97/35/s2709/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2709%2Fh
 [/us/stat/95/912]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F912
+[/us/usc/t42/s294r]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs294r
 [/us/pl/94/484/s408/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F484%2Fs408%2Fb%2F1
 [/us/pl/94/484/s408/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F484%2Fs408%2Fb%2F2
 [/us/pl/100/446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F446
 [/us/stat/102/1816]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1816
 [/us/usc/t37/s302/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs302%2Fa
+[/us/usc/t42/s254m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs254m
 [/us/pl/100/202/s101/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202%2Fs101%2Fg
 [/us/stat/101/1329-213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1329-213
 [/us/pl/99/500/s101/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500%2Fs101%2Fh

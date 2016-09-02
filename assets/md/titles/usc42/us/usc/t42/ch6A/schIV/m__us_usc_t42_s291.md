@@ -37,17 +37,17 @@ The purpose of this subchapter is—
 
 > “The amendment made by subsection (a) \[enacting this section and sections 291a to 291j, 291k to 291m, 291n, and 291o of this title\] shall become effective upon the date of enactment of this Act \[Aug. 18, 1964\], except that—
 
->     “(1) all applications approved by the Surgeon General under title VI of the Public Health Service Act \[this subchapter\] prior to such date, and allotments of sums appropriated prior to such date, shall be governed by the provisions of such title VI in effect prior to such date;
+>     “(1) all applications approved by the Surgeon General under title VI of the Public Health Service Act \[[42 U.S.C. 291][/us/usc/t42/s291] et seq.\] prior to such date, and allotments of sums appropriated prior to such date, shall be governed by the provisions of such title VI in effect prior to such date;
 
 >     “(2) allotment percentages promulgated by the Surgeon General under such title VI during 1962 shall continue to be effective for purposes of such title as amended by this Act for the fiscal year ending June 30, 1965;
 
 >     “(3) the terms of members of the Federal Hospital Council who are serving on such Council prior to such date shall expire on the date they would have expired had this Act not been enacted;
 
->     “(4) the provisions of the fourth sentence of section 636(a) of the Public Health Service Act \[former [section 291n of this title][/us/usc/t42/s291n]\], as in effect prior to the enactment of this Act, shall apply in lieu of the fourth sentence of section 624(a) of the Public Health Service Act \[[section 291n(a) of this title][/us/usc/t42/s291n/a]\], as amended by this Act, in the case of any project for construction of a facility or for acquisition of equipment with respect to which a grant for any part thereof or for planning such construction or equipment was made prior to the enactment of this Act;
+>     “(4) the provisions of the fourth sentence of section 636(a) of the Public Health Service Act \[former [42 U.S.C. 291n(a)][/us/usc/t42/s291n/a]\], as in effect prior to the enactment of this Act, shall apply in lieu of the fourth sentence of section 624(a) of the Public Health Service Act \[former [42 U.S.C. 291n(a)][/us/usc/t42/s291n/a]\], as amended by this Act, in the case of any project for construction of a facility or for acquisition of equipment with respect to which a grant for any part thereof or for planning such construction or equipment was made prior to the enactment of this Act;
 
->     “(5) no application with respect to a project for modernization of any facility in any State may be approved by the Surgeon General, for purposes of receiving funds from an allotment under section 602(a)(2) of the Public Health Service Act, as amended by this Act \[[section 291b(a)(2) of this title][/us/usc/t42/s291b/a/2]\], before July 1, 1965, or before such State has had a State plan approved by the Surgeon General as meeting the requirements of section 604(a)(4)(E) \[[section 291d(a)(4)(E) of this title][/us/usc/t42/s291d/a/4/E]\] as well as the other requirements of section 604 of such Act as so amended \[[section 291d of this title][/us/usc/t42/s291d]\];
+>     “(5) no application with respect to a project for modernization of any facility in any State may be approved by the Surgeon General, for purposes of receiving funds from an allotment under section 602(a)(2) of the Public Health Service Act, as amended by this Act \[[42 U.S.C. 291b(a)(2)][/us/usc/t42/s291b/a/2]\], before July 1, 1965, or before such State has had a State plan approved by the Surgeon General as meeting the requirements of section 604(a)(4)(E) \[[42 U.S.C. 291d(a)(4)(E)][/us/usc/t42/s291d/a/4/E]\] as well as the other requirements of section 604 of such Act as so amended \[[42 U.S.C. 291d][/us/usc/t42/s291d]\];
 
->     “(6) the provisions of clause (b) of section 609 of the Public Health Service Act \[[section 291i of this title][/us/usc/t42/s291i]\], as amended by this Act, shall apply with respect to any project whether it was approved, and whether the event specified in such clause occurred, before, on, or after the date of enactment of this Act \[June 30, 1970\], except that it shall not apply in the case of any project with respect to which recovery under title VI of such Act \[this subchapter\] has been made prior to the enactment of this paragraph.”
+>     “(6) the provisions of clause (b) of section 609 of the Public Health Service Act \[[42 U.S.C. 291i][/us/usc/t42/s291i]\], as amended by this Act, shall apply with respect to any project whether it was approved, and whether the event specified in such clause occurred, before, on, or after the date of enactment of this Act \[June 30, 1970\], except that it shall not apply in the case of any project with respect to which recovery under title VI of such Act \[[42 U.S.C. 291][/us/usc/t42/s291] et seq.\] has been made prior to the enactment of this paragraph.”
 
 ----------
 
@@ -74,11 +74,13 @@ The purpose of this subchapter is—
 [/us/pl/88/443/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F443%2Fs3%2Fb
 [/us/pl/91/296/s120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F296%2Fs120
 [/us/stat/84/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F343
-[/us/usc/t42/s291n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs291n
+[/us/usc/t42/s291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs291
+[/us/usc/t42/s291n/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs291n%2Fa
 [/us/usc/t42/s291n/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs291n%2Fa
 [/us/usc/t42/s291b/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs291b%2Fa%2F2
 [/us/usc/t42/s291d/a/4/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs291d%2Fa%2F4%2FE
 [/us/usc/t42/s291d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs291d
 [/us/usc/t42/s291i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs291i
+[/us/usc/t42/s291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs291
 
 

@@ -317,17 +317,15 @@
 
 >     “(1) __Effective dates.—__ 
 
->         “(A) __Subsections__ 
+>         “(A) __Subsections (a) and (b).—__ 
 
->             (a) __and (b).—__ 
+>             “(i) __In general.—__ 
 
->         “(i) __In general.—__ 
+>             The provisions of, and amendments made by, subsections (a) \[amending this section\] and (b) \[[110 Stat. 2189][/us/stat/110/2189]\] of this section shall apply to any individual who applies for, or whose claim is finally adjudicated with respect to, benefits under title XVI of the Social Security Act \[[42 U.S.C. 1381][/us/usc/t42/s1381] et seq.\] on or after the date of the enactment of this Act \[Aug. 22, 1996\], without regard to whether regulations have been issued to implement such provisions and amendments.
 
->         The provisions of, and amendments made by, subsections (a) \[amending this section\] and (b) \[[110 Stat. 2189][/us/stat/110/2189]\] of this section shall apply to any individual who applies for, or whose claim is finally adjudicated with respect to, benefits under title XVI of the Social Security Act \[this subchapter\] on or after the date of the enactment of this Act \[Aug. 22, 1996\], without regard to whether regulations have been issued to implement such provisions and amendments.
+>             “(ii) __Determination of final adjudication.—__ 
 
->         “(ii) __Determination of final adjudication.—__ 
-
->         For purposes of clause (i), no individual’s claim with respect to such benefits may be considered to be finally adjudicated before such date of enactment if, on or after such date, there is pending a request for either administrative or judicial review with respect to such claim that has been denied in whole, or there is pending, with respect to such claim, readjudication by the Commissioner of Social Security pursuant to relief in a class action or implementation by the Commissioner of a court remand order.
+>             For purposes of clause (i), no individual’s claim with respect to such benefits may be considered to be finally adjudicated before such date of enactment if, on or after such date, there is pending a request for either administrative or judicial review with respect to such claim that has been denied in whole, or there is pending, with respect to such claim, readjudication by the Commissioner of Social Security pursuant to relief in a class action or implementation by the Commissioner of a court remand order.
 
 >         “(B) __Subsection (c).—__ 
 
@@ -337,7 +335,7 @@
 
 >         “(A) __Eligibility redeterminations.—__ 
 
->         During the period beginning on the date of the enactment of this Act \[Aug. 22, 1996\] and ending on the date which is 18 months after such date of enactment, the Commissioner of Social Security shall redetermine the eligibility of any individual under age 18 who is eligible for supplemental security income benefits by reason of disability under title XVI of the Social Security Act \[this subchapter\] as of the date of the enactment of this Act and whose eligibility for such benefits may terminate by reason of the provisions of, or amendments made by, subsections (a) and (b) of this section. Any redetermination required by the preceding sentence that is not performed before the end of the period described in the preceding sentence shall be performed as soon as is practicable thereafter. With respect to any redetermination under this subparagraph—
+>         During the period beginning on the date of the enactment of this Act \[Aug. 22, 1996\] and ending on the date which is 18 months after such date of enactment, the Commissioner of Social Security shall redetermine the eligibility of any individual under age 18 who is eligible for supplemental security income benefits by reason of disability under title XVI of the Social Security Act \[[42 U.S.C. 1381][/us/usc/t42/s1381] et seq.\] as of the date of the enactment of this Act and whose eligibility for such benefits may terminate by reason of the provisions of, or amendments made by, subsections (a) and (b) of this section. Any redetermination required by the preceding sentence that is not performed before the end of the period described in the preceding sentence shall be performed as soon as is practicable thereafter. With respect to any redetermination under this subparagraph—
 
 >             “(i) section 1614(a)(4) of the Social Security Act ([42 U.S.C. 1382c(a)(4)][/us/usc/t42/s1382c/a/4]) shall not apply;
 
@@ -361,13 +359,13 @@
 
 >     “(4) __Regulations.—__ 
 
->     Notwithstanding any other provision of law, the Commissioner of Social Security shall submit for review to the committees of jurisdiction in the Congress any final regulation pertaining to the eligibility of individuals under age 18 for benefits under title XVI of the Social Security Act \[this subchapter\] at least 45 days before the effective date of such regulation. The submission under this paragraph shall include supporting documentation providing a cost analysis, workload impact, and projections as to how the regulation will effect the future number of recipients under such title.
+>     Notwithstanding any other provision of law, the Commissioner of Social Security shall submit for review to the committees of jurisdiction in the Congress any final regulation pertaining to the eligibility of individuals under age 18 for benefits under title XVI of the Social Security Act \[[42 U.S.C. 1381][/us/usc/t42/s1381] et seq.\] at least 45 days before the effective date of such regulation. The submission under this paragraph shall include supporting documentation providing a cost analysis, workload impact, and projections as to how the regulation will effect the future number of recipients under such title.
 
 >     “(5) __Cap adjustment for ssi administrative work required by welfare reform.—__ 
 
 >         “(A) __Authorization.—__ 
 
->         For the additional costs of continuing disability reviews and redeterminations under title XVI of the Social Security Act, there is hereby authorized to be appropriated to the Social Security Administration, in addition to amounts authorized under section 201(g)(1)(A) of the Social Security Act \[[section 401(g)(1)(A) of this title][/us/usc/t42/s401/g/1/A]\], $150,000,000 in fiscal year 1997 and $100,000,000 in fiscal year 1998.
+>         For the additional costs of continuing disability reviews and redeterminations under title XVI of the Social Security Act, there is hereby authorized to be appropriated to the Social Security Administration, in addition to amounts authorized under section 201(g)(1)(A) of the Social Security Act \[[42 U.S.C. 401(g)(1)(A)][/us/usc/t42/s401/g/1/A]\], $150,000,000 in fiscal year 1997 and $100,000,000 in fiscal year 1998.
 
 >         “(B) __Cap adjustment.—__ 
 
@@ -383,7 +381,7 @@
 
 >     “(6) __Benefits under title xvi.—__ 
 
->     For purposes of this subsection, the term ‘benefits under title XVI of the Social Security Act’ includes supplementary payments pursuant to an agreement for Federal administration under section 1616(a) of the Social Security Act \[[section 1382e(a) of this title][/us/usc/t42/s1382e/a]\], and payments pursuant to an agreement entered into under [section 212(b) of Public Law 93–66][/us/pl/93/66/s212/b] \[set out as a note under [section 1382 of this title][/us/usc/t42/s1382]\].”
+>     For purposes of this subsection, the term ‘benefits under title XVI of the Social Security Act’ includes supplementary payments pursuant to an agreement for Federal administration under section 1616(a) of the Social Security Act \[[42 U.S.C. 1382e(a)][/us/usc/t42/s1382e/a]\], and payments pursuant to an agreement entered into under [section 212(b) of Public Law 93–66][/us/pl/93/66/s212/b] \[set out as a note under [section 1382 of this title][/us/usc/t42/s1382]\].”
 
 [Pub. L. 104–193, title II, § 212(d)][/us/pl/104/193/s212/d], Aug. 22, 1996, [110 Stat. 2194][/us/stat/110/2194], provided that: 
 
@@ -600,11 +598,14 @@
 [/us/pl/105/33/s5101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs5101
 [/us/stat/111/595]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F595
 [/us/stat/110/2189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2189
+[/us/usc/t42/s1381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1381
+[/us/usc/t42/s1381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1381
 [/us/usc/t42/s1382c/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1382c%2Fa%2F4
 [/us/pl/103/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296
 [/us/usc/t42/s1382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1382
 [/us/stat/110/2189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2189
 [/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
+[/us/usc/t42/s1381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1381
 [/us/usc/t42/s401/g/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401%2Fg%2F1%2FA
 [/us/usc/t2/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs901
 [/us/usc/t2/s665e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs665e

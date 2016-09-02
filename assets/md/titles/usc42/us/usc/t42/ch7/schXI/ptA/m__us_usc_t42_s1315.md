@@ -249,7 +249,7 @@
 
 >     “(a) __Demonstration Projects To Test the Effect of Early Childhood Development Programs.—__ 
 
->         (1) In order to test the effect of in-home early childhood development programs and pre-school center-based development programs (emphasizing the use of volunteers and including academic credit for student volunteers) on families receiving aid under State plans approved under section 402 of the Social Security Act \[[section 602 of this title][/us/usc/t42/s602]\] and participating in the job opportunities and basic skills training program under part F of title IV of such Act \[part F of subchapter IV of this chapter\], up to 10 States may undertake and carry out demonstration projects utilizing such development programs to enhance the cognitive skills and linguistic ability of children under the age of 5, to improve the communications skills of such children, and to develop their ability to read, write, and speak the English language effectively. Such projects may include parents along with their eligible children in family-centered education programs that assist children directly in achieving the goals stated in the preceding sentence and also help parents contribute to the proper development and education of their young children. Demonstration projects under this subsection shall meet such conditions and requirements as the Secretary of Health and Human Services (in this section referred to as the ‘Secretary’) shall prescribe, and no such project shall be conducted for a period of more than 3 years.
+>         (1) In order to test the effect of in-home early childhood development programs and pre-school center-based development programs (emphasizing the use of volunteers and including academic credit for student volunteers) on families receiving aid under State plans approved under section 402 of the Social Security Act \[[42 U.S.C. 602][/us/usc/t42/s602]\] and participating in the job opportunities and basic skills training program under part F of title IV of such Act \[former [42 U.S.C. 681–687][/us/usc/t42/s681–687]\], up to 10 States may undertake and carry out demonstration projects utilizing such development programs to enhance the cognitive skills and linguistic ability of children under the age of 5, to improve the communications skills of such children, and to develop their ability to read, write, and speak the English language effectively. Such projects may include parents along with their eligible children in family-centered education programs that assist children directly in achieving the goals stated in the preceding sentence and also help parents contribute to the proper development and education of their young children. Demonstration projects under this subsection shall meet such conditions and requirements as the Secretary of Health and Human Services (in this section referred to as the ‘Secretary’) shall prescribe, and no such project shall be conducted for a period of more than 3 years.
 
 >         “(2) The Secretary shall consider all applications received from States desiring to conduct demonstration projects under this subsection, shall approve up to 10 applications involving projects which appear likely to contribute significantly to the achievement of the purpose of this subsection, and shall make grants to the States whose applications are approved to assist them in carrying out such projects.
 
@@ -259,11 +259,11 @@
 
 >     “(b) __State Demonstration Projects To Encourage Innovative Education and Training Programs for Children.—__ 
 
->     In order to encourage States to develop innovative education and training programs for children receiving aid under State plans approved under section 402 of the Social Security Act \[[section 602 of this title][/us/usc/t42/s602]\], any State may establish and conduct one or more demonstration projects, targeted to such children, designed to test financial incentives and interdisciplinary approaches to reducing school dropouts, encouraging skill development, and avoiding welfare dependence; and the Secretary may make grants to States to assist in financing such projects. Demonstration projects under this subsection shall meet such conditions and requirements as the Secretary shall prescribe, and no such project shall be conducted for a period of less than one year or more than 5 years.
+>     In order to encourage States to develop innovative education and training programs for children receiving aid under State plans approved under section 402 of the Social Security Act \[[42 U.S.C. 602][/us/usc/t42/s602]\], any State may establish and conduct one or more demonstration projects, targeted to such children, designed to test financial incentives and interdisciplinary approaches to reducing school dropouts, encouraging skill development, and avoiding welfare dependence; and the Secretary may make grants to States to assist in financing such projects. Demonstration projects under this subsection shall meet such conditions and requirements as the Secretary shall prescribe, and no such project shall be conducted for a period of less than one year or more than 5 years.
 
 >     “(c) __Demonstrations To Ensure Long Term Family Self-Sufficiency Through Community-Based Services.—__ 
 
->     Any State, using funds made available to it from appropriations made pursuant to subsection (d) in conjunction with its other resources, may conduct demonstrations to test more effective methods of providing coordination and services to ensure long term family self-sufficiency through community-based comprehensive family support services involving a partnership between the State agency administering or supervising the administrating of the State’s plan under section 402 of the Social Security Act \[[section 602 of this title][/us/usc/t42/s602]\] and community-based organizations having experience and demonstrated effectiveness in providing services.
+>     Any State, using funds made available to it from appropriations made pursuant to subsection (d) in conjunction with its other resources, may conduct demonstrations to test more effective methods of providing coordination and services to ensure long term family self-sufficiency through community-based comprehensive family support services involving a partnership between the State agency administering or supervising the administrating of the State’s plan under section 402 of the Social Security Act \[[42 U.S.C. 602][/us/usc/t42/s602]\] and community-based organizations having experience and demonstrated effectiveness in providing services.
 
 >     “(d) __Authorization of Appropriations.—__ 
 
@@ -399,9 +399,9 @@
 
 >     “(a)
 
->      If any State (other than the Commonwealth of Puerto Rico, the Virgin Islands, or Guam) has any experimental, pilot, or demonstration project (referred to in section 1115 of the Social Security Act \[this section\])—
+>      If any State (other than the Commonwealth of Puerto Rico, the Virgin Islands, or Guam) has any experimental, pilot, or demonstration project (referred to in section 1115 of the Social Security Act \[[42 U.S.C. 1315][/us/usc/t42/s1315]\])—
 
->         “(1) which (prior to October 1, 1973) has been approved by the Secretary of Health, Education, and Welfare \[now Health and Human Services\] (hereinafter in this section referred to as the ‘Secretary’), for a period which ends on or after December 31, 1973, as being a project with respect to which the authority conferred upon him by subsection (a) or (b) of such section 1115 \[subsec. (a) or (b) of this section\] will be exercised, and
+>         “(1) which (prior to October 1, 1973) has been approved by the Secretary of Health, Education, and Welfare \[now Health and Human Services\] (hereinafter in this section referred to as the ‘Secretary’), for a period which ends on or after December 31, 1973, as being a project with respect to which the authority conferred upon him by subsection (a) or (b) of such section 1115 \[[42 U.S.C. 1315(a)][/us/usc/t42/s1315/a], (b)\] will be exercised, and
 
 >         “(2) with respect to the costs of which Federal financial participation would (except for the provisions of this section) be denied or reduced on account of the enactment of section 301 of the Social Security Amendments of 1972 \[enacting subchapter XVI of this chapter\],
 
@@ -409,7 +409,7 @@
 
 >         “(3) such section 301 \[enacting subchapter XVI of this chapter\] had not been enacted, and
 
->         “(4) such State (for the month of January 1974 and any month thereafter) continued to have in effect the State plan (approved under title XVI \[subchapter XVI of this chapter\]) which was in effect for the month of October 1973, or the State plans (approved under titles I, X, and XIV of the Social Security Act \[subchapters I, X, and XIV of this chapter\]) which were in effect for such month, as the case may be.
+>         “(4) such State (for the month of January 1974 and any month thereafter) continued to have in effect the State plan (approved under title XVI \[[42 U.S.C. 1381][/us/usc/t42/s1381] et seq.\]) which was in effect for the month of October 1973, or the State plans (approved under titles I, X, and XIV of the Social Security Act \[[42 U.S.C. 301][/us/usc/t42/s301] et seq., 1201 et seq., 1351 et seq.\]) which were in effect for such month, as the case may be.
 
 >     “(b)
 
@@ -423,11 +423,11 @@
 
 >     “(c)
 
->      In the case of any State which has entered into an agreement with the Secretary under section 1616 of the Social Security Act \[[section 1382e of this title][/us/usc/t42/s1382e]\] (or which is deemed, under [section 212(d) of Public Law 93–66][/us/pl/93/66/s212/d] \[set out as a note under [section 1382 of this title][/us/usc/t42/s1382]\], to have entered into such an agreement), then, of the costs of any project of such State with respect to which there is (solely by reason of the provisions of subsection (a)) Federal financial participation, the non-Federal share thereof shall—
+>      In the case of any State which has entered into an agreement with the Secretary under section 1616 of the Social Security Act \[[42 U.S.C. 1382e][/us/usc/t42/s1382e]\] (or which is deemed, under [section 212(d) of Public Law 93–66][/us/pl/93/66/s212/d] \[set out as a note under [section 1382 of this title][/us/usc/t42/s1382]\], to have entered into such an agreement), then, of the costs of any project of such State with respect to which there is (solely by reason of the provisions of subsection (a)) Federal financial participation, the non-Federal share thereof shall—
 
 >         “(1) be paid, from time to time, to such State by the Secretary, and
 
->         “(2) shall, for purposes of section 1616(d) of the Social Security Act \[[section 1382e(d) of this title][/us/usc/t42/s1382e/d]\] and section 401 of the Social Security Amendments of 1972 \[set out as a note under [section 1382e of this title][/us/usc/t42/s1382e]\] be treated in like manner as if such non-Federal share were supplementary payments made by the Secretary on behalf of such State pursuant to such agreement.”
+>         “(2) shall, for purposes of section 1616(d) of the Social Security Act \[[42 U.S.C. 1382e(d)][/us/usc/t42/s1382e/d]\] and section 401 of the Social Security Amendments of 1972 \[set out as a note under [section 1382e of this title][/us/usc/t42/s1382e]\] be treated in like manner as if such non-Federal share were supplementary payments made by the Secretary on behalf of such State pursuant to such agreement.”
 
 ----------
 
@@ -547,6 +547,7 @@
 [/us/pl/103/432/s262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432%2Fs262
 [/us/stat/108/4467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4467
 [/us/usc/t42/s602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs602
+[/us/usc/t42/s681–687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs681%E2%80%93687
 [/us/usc/t42/s602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs602
 [/us/usc/t42/s602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs602
 [/us/pl/100/485/s502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F485%2Fs502
@@ -558,6 +559,10 @@
 [/us/stat/102/2405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2405
 [/us/pl/93/233/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F233%2Fs11
 [/us/stat/87/958]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F958
+[/us/usc/t42/s1315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1315
+[/us/usc/t42/s1315/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1315%2Fa
+[/us/usc/t42/s1381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1381
+[/us/usc/t42/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs301
 [/us/usc/t42/s1382e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1382e
 [/us/pl/93/66/s212/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F66%2Fs212%2Fd
 [/us/usc/t42/s1382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1382

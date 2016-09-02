@@ -131,11 +131,11 @@
 
 >      analyses regarding—
 
->         “(A) the fiscal impact of such contracts on total Federal expenditures under title XVIII of the Social Security Act \[this subchapter\] and on out-of-pocket expenditures by medicare beneficiaries for health services under such title; and
+>         “(A) the fiscal impact of such contracts on total Federal expenditures under title XVIII of the Social Security Act \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\] and on out-of-pocket expenditures by medicare beneficiaries for health services under such title; and
 
 >         “(B) the quality of the health services provided under such contracts; and
 
->     “(2) recommendations as to whether medicare beneficiaries should continue to be able to enter private contracts under section 1802(b) of such Act \[subsec. (b) of this section\] (as added by subsection (a)) and if so, what legislative changes, if any should be made to improve such contracts.”
+>     “(2) recommendations as to whether medicare beneficiaries should continue to be able to enter private contracts under section 1802(b) of such Act \[[42 U.S.C. 1395a(b)][/us/usc/t42/s1395a/b]\] (as added by subsection (a)) and if so, what legislative changes, if any should be made to improve such contracts.”
 
 ----------
 
@@ -165,5 +165,7 @@
 [/us/pl/105/33/s4507/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs4507%2Fb
 [/us/stat/111/441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F441
 [/us/usc/t42/s1395y]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395y
+[/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
+[/us/usc/t42/s1395a/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395a%2Fb
 
 

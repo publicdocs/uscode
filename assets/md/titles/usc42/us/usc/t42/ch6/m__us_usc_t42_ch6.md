@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 191.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs191" data-uslm-ref="/us/usc/t42/s191">191.</a>  </td>
 
     <td> Bureau established.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 192.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs192" data-uslm-ref="/us/usc/t42/s192">192.</a>  </td>
 
     <td> Chief of bureau; investigations and reports.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 193.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs193" data-uslm-ref="/us/usc/t42/s193">193.</a>  </td>
 
     <td> Assistant chief.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 194.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs194" data-uslm-ref="/us/usc/t42/s194">194.</a>  </td>
 
     <td> Quarters for bureau.  </td>
 

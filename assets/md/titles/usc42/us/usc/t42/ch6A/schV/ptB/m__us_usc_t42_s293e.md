@@ -79,7 +79,7 @@
 
 >     “(b) __Participants.—__ 
 
->     The Secretary shall include in the national conference convened under subsection (a) advocacy groups and educational entities as described in section 741 of the Public Health Service Act \[this section\] (as added by section 401), tribal health programs, health centers under section 330 of such Act \[[section 254b of this title][/us/usc/t42/s254b]\], and other interested parties.
+>     The Secretary shall include in the national conference convened under subsection (a) advocacy groups and educational entities as described in section 741 of the Public Health Service Act \[[42 U.S.C. 293e][/us/usc/t42/s293e]\] (as added by section 401), tribal health programs, health centers under section 330 of such Act \[[42 U.S.C. 254b][/us/usc/t42/s254b]\], and other interested parties.
 
 >     “(c) __Issues.—__ 
 
@@ -178,6 +178,7 @@
 [/us/pl/111/148/s5307/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs5307%2Fa%2F2
 [/us/pl/106/525/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F525%2Fs402
 [/us/stat/114/2509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2509
+[/us/usc/t42/s293e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs293e
 [/us/usc/t42/s254b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs254b
 
 

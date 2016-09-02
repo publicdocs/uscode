@@ -33,7 +33,7 @@ SUBCHAPTER I—MAINTENANCE AND OPERATION  </td>
 
   <tr>
 
-    <td> 2001.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2001" data-uslm-ref="/us/usc/t42/s2001">2001.</a>  </td>
 
     <td> Hospitals and health facilities transferred to Public Health Service; restriction on closing hospitals.  </td>
 
@@ -41,7 +41,7 @@ SUBCHAPTER I—MAINTENANCE AND OPERATION  </td>
 
   <tr>
 
-    <td> 2002.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2002" data-uslm-ref="/us/usc/t42/s2002">2002.</a>  </td>
 
     <td> Transfer of hospitals and facilities to State or private institutions; conditions and restrictions; failure to meet requirements.  </td>
 
@@ -49,7 +49,7 @@ SUBCHAPTER I—MAINTENANCE AND OPERATION  </td>
 
   <tr>
 
-    <td> 2003.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2003" data-uslm-ref="/us/usc/t42/s2003">2003.</a>  </td>
 
     <td> Regulations.  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER I—MAINTENANCE AND OPERATION  </td>
 
   <tr>
 
-    <td> 2004.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2004" data-uslm-ref="/us/usc/t42/s2004">2004.</a>  </td>
 
     <td> Transfer of personnel, property, records, monies.  </td>
 
@@ -65,7 +65,7 @@ SUBCHAPTER I—MAINTENANCE AND OPERATION  </td>
 
   <tr>
 
-    <td> 2004a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2004a" data-uslm-ref="/us/usc/t42/s2004a">2004a.</a>  </td>
 
     <td> Sanitation facilities.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER I—MAINTENANCE AND OPERATION  </td>
 
   <tr>
 
-    <td> 2004b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2004b" data-uslm-ref="/us/usc/t42/s2004b">2004b.</a>  </td>
 
     <td> Implementation of education, hospital and health facility, etc., contracts and grants by Public Health Service personnel; request for detail of personnel.  </td>
 
@@ -89,7 +89,7 @@ SUBCHAPTER II—CONSTRUCTION OF HEALTH FACILITIES AND COMMUNITY HOSPITALS  </td>
 
   <tr>
 
-    <td> 2005.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2005" data-uslm-ref="/us/usc/t42/s2005">2005.</a>  </td>
 
     <td> Financial assistance by Surgeon General.  </td>
 
@@ -97,7 +97,7 @@ SUBCHAPTER II—CONSTRUCTION OF HEALTH FACILITIES AND COMMUNITY HOSPITALS  </td>
 
   <tr>
 
-    <td> 2005a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2005a" data-uslm-ref="/us/usc/t42/s2005a">2005a.</a>  </td>
 
     <td> Amount of assistance; determination of costs.  </td>
 
@@ -105,7 +105,7 @@ SUBCHAPTER II—CONSTRUCTION OF HEALTH FACILITIES AND COMMUNITY HOSPITALS  </td>
 
   <tr>
 
-    <td> 2005b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2005b" data-uslm-ref="/us/usc/t42/s2005b">2005b.</a>  </td>
 
     <td> Conditions of assistance.  </td>
 
@@ -113,7 +113,7 @@ SUBCHAPTER II—CONSTRUCTION OF HEALTH FACILITIES AND COMMUNITY HOSPITALS  </td>
 
   <tr>
 
-    <td> 2005c.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2005c" data-uslm-ref="/us/usc/t42/s2005c">2005c.</a>  </td>
 
     <td> Payments.  </td>
 
@@ -121,7 +121,7 @@ SUBCHAPTER II—CONSTRUCTION OF HEALTH FACILITIES AND COMMUNITY HOSPITALS  </td>
 
   <tr>
 
-    <td> 2005d.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2005d" data-uslm-ref="/us/usc/t42/s2005d">2005d.</a>  </td>
 
     <td> Eligibility of assisted project for aid under other acts; excluded costs.  </td>
 
@@ -129,7 +129,7 @@ SUBCHAPTER II—CONSTRUCTION OF HEALTH FACILITIES AND COMMUNITY HOSPITALS  </td>
 
   <tr>
 
-    <td> 2005e.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2005e" data-uslm-ref="/us/usc/t42/s2005e">2005e.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -137,7 +137,7 @@ SUBCHAPTER II—CONSTRUCTION OF HEALTH FACILITIES AND COMMUNITY HOSPITALS  </td>
 
   <tr>
 
-    <td> 2005f.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2005f" data-uslm-ref="/us/usc/t42/s2005f">2005f.</a>  </td>
 
     <td> Supervision or control of assisted hospitals.  </td>
 

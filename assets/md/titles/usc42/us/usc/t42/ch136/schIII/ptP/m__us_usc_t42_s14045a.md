@@ -31,7 +31,7 @@
 
             (C) [Section 13971 of this title][/us/usc/t42/s13971] (Rural Domestic Violence, Dating Violence, Sexual Assault, Stalking, and Child Abuse Enforcement Assistance).
 
-            (D) [Section 14041a of this title][/us/usc/t42/s14041a] (Enhanced Training and Services to End Violence Against Women Later in Life)  <sup>\[3\]</sup>  <sup><sup> 3 So in original. Probably should be “Enhanced Training and Services to End Violence Against and Abuse of Women Later in Life”. </sup></sup> .
+            (D) [Section 14041a of this title][/us/usc/t42/s14041a] (Enhanced Training and Services to End Violence Against Women Later in Life). <sup>\[3\]</sup>  <sup><sup> 3 So in original. Probably should be “(Enhanced Training and Services to End Violence Against and Abuse of Women Later in Life).”. </sup></sup> 
 
             (E) [Section 3796gg–7 of this title][/us/usc/t42/s3796gg–7] (Education, Training, and Enhanced Services to End Violence Against and Abuse of Women with Disabilities).
 
@@ -99,10 +99,6 @@
 
 ([Pub. L. 109–162, title I, § 121][/us/pl/109/162/s121], Jan. 5, 2006, [119 Stat. 2991][/us/stat/119/2991]; [Pub. L. 109–271][/us/pl/109/271], §§ 1(c)(3), 2(k), Aug. 12, 2006, [120 Stat. 751][/us/stat/120/751], 753; [Pub. L. 113–4, title I, § 109][/us/pl/113/4/s109], Mar. 7, 2013, [127 Stat. 80][/us/stat/127/80].)
 
- __Amendment of Section__ 
-
-For effective date of amendment by [Pub. L. 113–4][/us/pl/113/4], see Effective Date of 2013 Amendment note below.
-
  __References in Text__ 
 
     [Section 3796gg–6 of this title][/us/usc/t42/s3796gg–6], referred to in subsec. (a)(2)(B), was in the original “Section 14201 of division B of the Victims of Trafficking and Violence Protection Act of 2000 ([42 U.S.C. 3796gg–6][/us/usc/t42/s3796gg–6])”, which was translated as meaning “Section 1201 of division B of the Victims of Trafficking and Violence Protection Act of 2000 ([42 U.S.C. 3796gg–6][/us/usc/t42/s3796gg–6])” to reflect the probable intent of Congress.
@@ -115,7 +111,7 @@ For effective date of amendment by [Pub. L. 113–4][/us/pl/113/4], see Effectiv
 
  __Amendments__ 
 
-    2013—[Pub. L. 113–4, § 109(1)][/us/pl/113/4/s109/1]–(3), struck out “and linguistically” after “culturally” wherever appearing and struck out “and linguistic” after “cultural” in two places.
+    2013—[Pub. L. 113–4, § 109(1)][/us/pl/113/4/s109/1]–(3), struck out “and linguistically” after “culturally” in section catchline and wherever appearing in text and struck out “and linguistic” after “cultural” in subsecs. (b)(2) and (f).
 
     Subsec. (a)(2). [Pub. L. 113–4, § 109(4)][/us/pl/113/4/s109/4], added par. (2) and struck out former par. (2) which related to covered programs.
 
@@ -154,7 +150,6 @@ For effective date of amendment by [Pub. L. 113–4][/us/pl/113/4], see Effectiv
 [/us/stat/120/751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F751
 [/us/pl/113/4/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs109
 [/us/stat/127/80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F80
-[/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
 [/us/usc/t42/s3796gg–6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3796gg%E2%80%936
 [/us/usc/t42/s3796gg–6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3796gg%E2%80%936
 [/us/usc/t42/s3796gg–6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3796gg%E2%80%936

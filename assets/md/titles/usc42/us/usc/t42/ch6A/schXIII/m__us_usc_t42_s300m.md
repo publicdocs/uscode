@@ -187,7 +187,7 @@
 
 [Pub. L. 103–183, title I, § 101(c)(2)][/us/pl/103/183/s101/c/2], Dec. 14, 1993, [107 Stat. 2228][/us/stat/107/2228], provided that: 
 
-> “With respect to the screening procedure for breast cancer known as a mammography, the requirements in effect on the day before the date of the enactment of this Act \[Dec. 14, 1993\] under section 1503(c) of the Public Health Service Act \[subsec. (c) of this section\] remain in effect (for an individual or facility conducting such procedures pursuant to a grant to a State under section 1501 of such Act \[[section 300k of this title][/us/usc/t42/s300k]\]) until there is in effect for the facility a certificate (or provisional certificate) issued under section 354 of such Act \[[section 263b of this title][/us/usc/t42/s263b]\].”
+> “With respect to the screening procedure for breast cancer known as a mammography, the requirements in effect on the day before the date of the enactment of this Act \[Dec. 14, 1993\] under section 1503(c) of the Public Health Service Act \[[42 U.S.C. 300m(c)][/us/usc/t42/s300m/c]\] remain in effect (for an individual or facility conducting such procedures pursuant to a grant to a State under section 1501 of such Act \[[42 U.S.C. 300k][/us/usc/t42/s300k]\]) until there is in effect for the facility a certificate (or provisional certificate) issued under section 354 of such Act \[[42 U.S.C. 263b][/us/usc/t42/s263b]\].”
 
 ----------
 
@@ -313,6 +313,7 @@
 [/us/pl/103/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F183
 [/us/pl/103/183/s101/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F183%2Fs101%2Fc%2F2
 [/us/stat/107/2228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2228
+[/us/usc/t42/s300m/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300m%2Fc
 [/us/usc/t42/s300k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300k
 [/us/usc/t42/s263b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs263b
 

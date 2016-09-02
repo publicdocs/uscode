@@ -73,11 +73,11 @@
 
 [Pub. L. 99–660, title VIII, § 803(c)][/us/pl/99/660/s803/c], Nov. 14, 1986, [100 Stat. 3800][/us/stat/100/3800], provided that: 
 
-> “The amendments made by this section \[amending this section and sections 300e–6, 300e–8, and 300e–16 of this title and repealing sections 300e–2 and 300e–3 of this title\] do not apply to any grant made or contract entered into under title XIII of the Public Health Service Act \[this subchapter\] before October 1, 1985.”
+> “The amendments made by this section \[amending this section and sections 300e–6, 300e–8, and 300e–16 of this title and repealing sections 300e–2 and 300e–3 of this title\] do not apply to any grant made or contract entered into under title XIII of the Public Health Service Act \[[42 U.S.C. 300e][/us/usc/t42/s300e] et seq.\] before October 1, 1985.”
 
 [Pub. L. 99–660, title VIII, § 805(c)][/us/pl/99/660/s805/c], Nov. 14, 1986, [100 Stat. 3800][/us/stat/100/3800], provided that: 
 
-> “The amendments made by this section \[amending this section and repealing [section 300e–4a of this title][/us/usc/t42/s300e–4a]\] do not apply to any loan or loan guarantee made under section 1305A of the Public Health Service Act \[former [section 300e–4a of this title][/us/usc/t42/s300e–4a]\] before October 1, 1985.”
+> “The amendments made by this section \[amending this section and repealing [section 300e–4a of this title][/us/usc/t42/s300e–4a]\] do not apply to any loan or loan guarantee made under section 1305A of the Public Health Service Act \[former [42 U.S.C. 300e–4a][/us/usc/t42/s300e–4a]\] before October 1, 1985.”
 
     Amendment by [Pub. L. 99–660][/us/pl/99/660] effective Oct. 1, 1985, see [section 815(a) of Pub. L. 99–660][/us/pl/99/660/s815/a], set out as an Effective and Termination Dates of 1986 Amendment note under [section 300e–1 of this title][/us/usc/t42/s300e–1].
 
@@ -118,6 +118,7 @@
 [/us/pl/94/460/s117/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F460%2Fs117%2Fb%2F6
 [/us/pl/99/660/s803/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660%2Fs803%2Fc
 [/us/stat/100/3800]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3800
+[/us/usc/t42/s300e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300e
 [/us/pl/99/660/s805/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660%2Fs805%2Fc
 [/us/stat/100/3800]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3800
 [/us/usc/t42/s300e–4a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300e%E2%80%934a

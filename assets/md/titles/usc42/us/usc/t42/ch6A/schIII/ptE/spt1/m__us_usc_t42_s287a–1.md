@@ -101,7 +101,7 @@
 
 >     The purposes of this Act \[see Short Title of 2002 Amendments note set out under [section 201 of this title][/us/usc/t42/s201]\] are to—
 
->         “(1) amend the Public Health Service Act \[this chapter\] to establish an Office of Rare Diseases at the National Institutes of Health; and
+>         “(1) amend the Public Health Service Act \[[42 U.S.C. 201][/us/usc/t42/s201] et seq.\] to establish an Office of Rare Diseases at the National Institutes of Health; and
 
 >         “(2) increase the national investment in the development of diagnostics and treatments for patients with rare diseases and disorders.”
 
@@ -139,6 +139,7 @@
 [/us/stat/116/1988]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1988
 [/us/pl/97/414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F414
 [/us/usc/t21/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs301
+[/us/usc/t42/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs201
 [/us/usc/t42/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs201
 
 

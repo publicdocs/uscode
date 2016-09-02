@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 15201.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs15201" data-uslm-ref="/us/usc/t42/s15201">15201.</a>  </td>
 
     <td> Authorization of Medal.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 15202.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs15202" data-uslm-ref="/us/usc/t42/s15202">15202.</a>  </td>
 
     <td> Medal of Valor Board.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 15203.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs15203" data-uslm-ref="/us/usc/t42/s15203">15203.</a>  </td>
 
     <td> Board personnel matters.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 15204.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs15204" data-uslm-ref="/us/usc/t42/s15204">15204.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 15205.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs15205" data-uslm-ref="/us/usc/t42/s15205">15205.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 15206.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs15206" data-uslm-ref="/us/usc/t42/s15206">15206.</a>  </td>
 
     <td> National Medal of Valor Office.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 15207.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs15207" data-uslm-ref="/us/usc/t42/s15207">15207.</a>  </td>
 
     <td> Consultation requirement.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 15208.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs15208" data-uslm-ref="/us/usc/t42/s15208">15208.</a>  </td>
 
     <td> Law enforcement tribute acts.  </td>
 

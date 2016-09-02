@@ -1769,7 +1769,7 @@
 
 >     “(b) __Reentry Into Program Permitted for Medicare+Choice Programs.—__ 
 
->     A Medicare+Choice organization that provided notice to the Secretary of Health and Human Services before the date of the enactment of this Act \[Dec. 21, 2000\] that it was terminating its contract under part C of title XVIII of the Social Security Act \[this part\] or was reducing the service area of a Medicare+Choice plan offered under such part shall be permitted to continue participation under such part, or to maintain the service area of such plan, for 2001 if it submits the Secretary with the information described in section 1854(a)(1) of the Social Security Act ([42 U.S.C. 1395w–24(a)(1)][/us/usc/t42/s1395w–24/a/1]) within 2 weeks after the date revised rates are announced by the Secretary under subsection (a).
+>     A Medicare+Choice organization that provided notice to the Secretary of Health and Human Services before the date of the enactment of this Act \[Dec. 21, 2000\] that it was terminating its contract under part C of title XVIII of the Social Security Act \[[42 U.S.C. 1395w–21][/us/usc/t42/s1395w–21] et seq.\] or was reducing the service area of a Medicare+Choice plan offered under such part shall be permitted to continue participation under such part, or to maintain the service area of such plan, for 2001 if it submits the Secretary with the information described in section 1854(a)(1) of the Social Security Act ([42 U.S.C. 1395w–24(a)(1)][/us/usc/t42/s1395w–24/a/1]) within 2 weeks after the date revised rates are announced by the Secretary under subsection (a).
 
 >     “(c) __Revised Submission of Proposed Premiums and Related Information.—__ 
 
@@ -2356,6 +2356,7 @@
 [/us/pl/106/554/s1/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F6
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
 [/us/usc/t42/s1395w–23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%9323
+[/us/usc/t42/s1395w–21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%9321
 [/us/usc/t42/s1395w–24/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%9324%2Fa%2F1
 [/us/usc/t42/s1395w–23/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%9323%2Fc
 [/us/usc/t42/s1395w–24/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%9324%2Fa%2F1

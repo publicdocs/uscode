@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 11101.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs11101" data-uslm-ref="/us/usc/t42/s11101">11101.</a>  </td>
 
     <td> Findings.  </td>
 
@@ -41,7 +41,7 @@ SUBCHAPTER I—PROMOTION OF PROFESSIONAL REVIEW ACTIVITIES  </td>
 
   <tr>
 
-    <td> 11111.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs11111" data-uslm-ref="/us/usc/t42/s11111">11111.</a>  </td>
 
     <td> Professional review.  </td>
 
@@ -49,7 +49,7 @@ SUBCHAPTER I—PROMOTION OF PROFESSIONAL REVIEW ACTIVITIES  </td>
 
   <tr>
 
-    <td> 11112.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs11112" data-uslm-ref="/us/usc/t42/s11112">11112.</a>  </td>
 
     <td> Standards for professional review actions.  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER I—PROMOTION OF PROFESSIONAL REVIEW ACTIVITIES  </td>
 
   <tr>
 
-    <td> 11113.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs11113" data-uslm-ref="/us/usc/t42/s11113">11113.</a>  </td>
 
     <td> Payment of reasonable attorneys’ fees and costs in defense of suit.  </td>
 
@@ -65,7 +65,7 @@ SUBCHAPTER I—PROMOTION OF PROFESSIONAL REVIEW ACTIVITIES  </td>
 
   <tr>
 
-    <td> 11114.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs11114" data-uslm-ref="/us/usc/t42/s11114">11114.</a>  </td>
 
     <td> Guidelines of Secretary.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER I—PROMOTION OF PROFESSIONAL REVIEW ACTIVITIES  </td>
 
   <tr>
 
-    <td> 11115.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs11115" data-uslm-ref="/us/usc/t42/s11115">11115.</a>  </td>
 
     <td> Construction.  </td>
 
@@ -89,7 +89,7 @@ SUBCHAPTER II—REPORTING OF INFORMATION  </td>
 
   <tr>
 
-    <td> 11131.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs11131" data-uslm-ref="/us/usc/t42/s11131">11131.</a>  </td>
 
     <td> Requiring reports on medical malpractice payments.  </td>
 
@@ -97,7 +97,7 @@ SUBCHAPTER II—REPORTING OF INFORMATION  </td>
 
   <tr>
 
-    <td> 11132.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs11132" data-uslm-ref="/us/usc/t42/s11132">11132.</a>  </td>
 
     <td> Reporting of sanctions taken by Boards of Medical Examiners.  </td>
 
@@ -105,7 +105,7 @@ SUBCHAPTER II—REPORTING OF INFORMATION  </td>
 
   <tr>
 
-    <td> 11133.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs11133" data-uslm-ref="/us/usc/t42/s11133">11133.</a>  </td>
 
     <td> Reporting of certain professional review actions taken by health care entities.  </td>
 
@@ -113,7 +113,7 @@ SUBCHAPTER II—REPORTING OF INFORMATION  </td>
 
   <tr>
 
-    <td> 11134.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs11134" data-uslm-ref="/us/usc/t42/s11134">11134.</a>  </td>
 
     <td> Form of reporting.  </td>
 
@@ -121,7 +121,7 @@ SUBCHAPTER II—REPORTING OF INFORMATION  </td>
 
   <tr>
 
-    <td> 11135.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs11135" data-uslm-ref="/us/usc/t42/s11135">11135.</a>  </td>
 
     <td> Duty of hospitals to obtain information.  </td>
 
@@ -129,7 +129,7 @@ SUBCHAPTER II—REPORTING OF INFORMATION  </td>
 
   <tr>
 
-    <td> 11136.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs11136" data-uslm-ref="/us/usc/t42/s11136">11136.</a>  </td>
 
     <td> Disclosure and correction of information.  </td>
 
@@ -137,7 +137,7 @@ SUBCHAPTER II—REPORTING OF INFORMATION  </td>
 
   <tr>
 
-    <td> 11137.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs11137" data-uslm-ref="/us/usc/t42/s11137">11137.</a>  </td>
 
     <td> Miscellaneous provisions.  </td>
 
@@ -153,7 +153,7 @@ SUBCHAPTER III—DEFINITIONS AND REPORTS  </td>
 
   <tr>
 
-    <td> 11151.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs11151" data-uslm-ref="/us/usc/t42/s11151">11151.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -161,7 +161,7 @@ SUBCHAPTER III—DEFINITIONS AND REPORTS  </td>
 
   <tr>
 
-    <td> 11152.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs11152" data-uslm-ref="/us/usc/t42/s11152">11152.</a>  </td>
 
     <td> Reports and memoranda of understanding.  </td>
 

@@ -469,7 +469,7 @@
 
 >     “(c) __Effective Date.—__ 
 
->     The amendment made by subsection (a) \[amending this section\] shall, with respect to a State, apply to certifications for payments (under section 302(a) of the Social Security Act \[[section 502(a) of this title][/us/usc/t42/s502/a]\]) in rate years beginning after the end of the 26-week period beginning on the first day of the first regularly scheduled session of the State legislature beginning on or after the date of the enactment of this Act \[Aug. 9, 2004\].
+>     The amendment made by subsection (a) \[amending this section\] shall, with respect to a State, apply to certifications for payments (under section 302(a) of the Social Security Act \[[42 U.S.C. 502(a)][/us/usc/t42/s502/a]\]) in rate years beginning after the end of the 26-week period beginning on the first day of the first regularly scheduled session of the State legislature beginning on or after the date of the enactment of this Act \[Aug. 9, 2004\].
 
 >     “(d) __Definitions.—__ 
 
@@ -539,7 +539,7 @@
 
 [Pub. L. 97–35, title XXIII, § 2335(c)][/us/pl/97/35/s2335/c], Aug. 13, 1981, [95 Stat. 864][/us/stat/95/864], provided that: 
 
-> “The amendments made by this section \[amending this section and [section 654 of this title][/us/usc/t42/s654]\] shall take effect on the date of the enactment of this Act \[Aug. 13, 1981\], except that such amendments shall not be requirements under section 454 or 303 of the Social Security Act \[section 654 or 503 of this title\] before October 1, 1982.”
+> “The amendments made by this section \[amending this section and [section 654 of this title][/us/usc/t42/s654]\] shall take effect on the date of the enactment of this Act \[Aug. 13, 1981\], except that such amendments shall not be requirements under section 454 or 303 of the Social Security Act \[[42 U.S.C. 654][/us/usc/t42/s654] or 503 \] before October 1, 1982.”
 
  __Effective Date of 1980 Amendment__ 
 
@@ -824,6 +824,7 @@
 [/us/usc/t42/s652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs652
 [/us/pl/97/35/s2335/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2335%2Fc
 [/us/stat/95/864]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F864
+[/us/usc/t42/s654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs654
 [/us/usc/t42/s654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs654
 [/us/pl/96/265/s408/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F265%2Fs408%2Fb%2F3
 [/us/stat/94/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F469

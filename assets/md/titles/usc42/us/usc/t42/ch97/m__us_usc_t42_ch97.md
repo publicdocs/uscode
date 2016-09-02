@@ -33,7 +33,7 @@ SUBCHAPTER I—ACID PRECIPITATION  </td>
 
   <tr>
 
-    <td> 8901.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs8901" data-uslm-ref="/us/usc/t42/s8901">8901.</a>  </td>
 
     <td> Introductory provisions.  </td>
 
@@ -41,7 +41,7 @@ SUBCHAPTER I—ACID PRECIPITATION  </td>
 
   <tr>
 
-    <td> 8902.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs8902" data-uslm-ref="/us/usc/t42/s8902">8902.</a>  </td>
 
     <td> Comprehensive ten-year program.  </td>
 
@@ -49,7 +49,7 @@ SUBCHAPTER I—ACID PRECIPITATION  </td>
 
   <tr>
 
-    <td> 8903.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs8903" data-uslm-ref="/us/usc/t42/s8903">8903.</a>  </td>
 
     <td> Comprehensive research plan.  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER I—ACID PRECIPITATION  </td>
 
   <tr>
 
-    <td> 8904.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs8904" data-uslm-ref="/us/usc/t42/s8904">8904.</a>  </td>
 
     <td> Implementation of comprehensive plan; new or existing regulatory authorities, etc., not granted or modified.  </td>
 
@@ -65,7 +65,7 @@ SUBCHAPTER I—ACID PRECIPITATION  </td>
 
   <tr>
 
-    <td> 8905.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs8905" data-uslm-ref="/us/usc/t42/s8905">8905.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER I—ACID PRECIPITATION  </td>
 
   <tr>
 
-    <td> 8906.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs8906" data-uslm-ref="/us/usc/t42/s8906">8906.</a>  </td>
 
     <td> Updated data base on acid content in precipitation; new monitoring site not required.  </td>
 
@@ -89,7 +89,7 @@ SUBCHAPTER II—CARBON DIOXIDE  </td>
 
   <tr>
 
-    <td> 8911.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs8911" data-uslm-ref="/us/usc/t42/s8911">8911.</a>  </td>
 
     <td> Comprehensive study of projected impact on atmospheric levels of fossil fuel combustion, etc.  </td>
 
@@ -97,7 +97,7 @@ SUBCHAPTER II—CARBON DIOXIDE  </td>
 
   <tr>
 
-    <td> 8912.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs8912" data-uslm-ref="/us/usc/t42/s8912">8912.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 

@@ -641,7 +641,7 @@
 
 [Pub. L. 104–73, § 5(c)][/us/pl/104/73/s5/c], Dec. 26, 1995, [109 Stat. 779][/us/stat/109/779], provided that: 
 
-> “If, on the day before the date of the enactment of this Act \[Dec. 26, 1995\], an entity was deemed to be an employee of the Public Health Service for purposes of section 224(g) of the Public Health Service Act \[subsec. (g) of this section\], the condition under paragraph (1)(D) of such section (as added by subsection (a) of this section) that an application be approved with respect to the entity does not apply until the expiration of the 180-day period beginning on such date.”
+> “If, on the day before the date of the enactment of this Act \[Dec. 26, 1995\], an entity was deemed to be an employee of the Public Health Service for purposes of section 224(g) of the Public Health Service Act \[[42 U.S.C. 233(g)][/us/usc/t42/s233/g]\], the condition under paragraph (1)(D) of such section (as added by subsection (a) of this section) that an application be approved with respect to the entity does not apply until the expiration of the 180-day period beginning on such date.”
 
  __Effective Date of 1992 Amendment__ 
 
@@ -663,7 +663,7 @@
 
 >         “(1) the Secretary’s estimate of the aggregate amounts that such entities (together with the officers, employees, and contractors of such entities who are subject to section 224(g) of such Act) would have directly or indirectly paid to obtain medical malpractice liability insurance coverage had section 224(g) of the Public Health Service Act not been enacted into law, with
 
->         “(2) the aggregate amounts by which the grants received by such entities under the Public Health Service Act \[this chapter\] were reduced as a result of the enactment of section 224(k)(2) of such Act \[[42 U.S.C. 233(k)(2)][/us/usc/t42/s233/k/2]\].”
+>         “(2) the aggregate amounts by which the grants received by such entities under the Public Health Service Act \[[42 U.S.C. 201][/us/usc/t42/s201] et seq.\] were reduced as a result of the enactment of section 224(k)(2) of such Act \[[42 U.S.C. 233(k)(2)][/us/usc/t42/s233/k/2]\].”
 
 ----------
 
@@ -771,11 +771,13 @@
 [/us/stat/110/3009-233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-233
 [/us/pl/104/73/s5/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F73%2Fs5%2Fc
 [/us/stat/109/779]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F779
+[/us/usc/t42/s233/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs233%2Fg
 [/us/pl/102/501/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F501%2Fs6
 [/us/stat/106/3272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3272
 [/us/pl/102/501/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F501%2Fs5
 [/us/stat/106/3271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3271
 [/us/usc/t42/s233/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs233%2Fg
+[/us/usc/t42/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs201
 [/us/usc/t42/s233/k/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs233%2Fk%2F2
 
 

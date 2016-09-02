@@ -1545,23 +1545,25 @@ For purposes of this subchapter—
 
                     The term “ultrasound screening for abdominal aortic aneurysm” means—
 
-            (1) a procedure using sound waves (or such other procedures using alternative technologies, of commensurate accuracy and cost, that the Secretary may specify) provided for the early detection of abdominal aortic aneurysm; and
+    (1) a procedure using sound waves (or such other procedures using alternative technologies, of commensurate accuracy and cost, that the Secretary may specify) provided for the early detection of abdominal aortic aneurysm; and
 
-            (2)
+    (2)
 
-             includes a physician’s interpretation of the results of the procedure.
+     includes a physician’s interpretation of the results of the procedure.
 
-                (ccc) __Long-term care hospital__ 
+        (ccc) __Long-term care hospital__ 
 
-                     The term “long-term care hospital” means a hospital which—
+             The term “long-term care hospital” means a hospital which—
 
-            (1) is primarily engaged in providing inpatient services, by or under the supervision of a physician, to Medicare beneficiaries whose medically complex conditions require a long hospital stay and programs of care provided by a long-term care hospital;
+    (1) is primarily engaged in providing inpatient services, by or under the supervision of a physician, to Medicare beneficiaries whose medically complex conditions require a long hospital stay and programs of care provided by a long-term care hospital;
 
-            (2) has an average inpatient length of stay (as determined by the Secretary) of greater than 25 days, or meets the requirements of clause (II) of [section 1395ww(d)(1)(B)(iv) of this title][/us/usc/t42/s1395ww/d/1/B/iv];
+    (2) has an average inpatient length of stay (as determined by the Secretary) of greater than 25 days, or meets the requirements of clause (II) of [section 1395ww(d)(1)(B)(iv) of this title][/us/usc/t42/s1395ww/d/1/B/iv];
 
-            (3) satisfies the requirements of subsection (e); and
+    (3) satisfies the requirements of subsection (e); and
 
-            (4) meets the following facility criteria:
+    (4)
+
+     meets the following facility criteria:
 
         (A) the institution has a patient review process, documented in the patient medical record, that screens patients prior to admission for appropriateness of admission to a long-term care hospital, validates within 48 hours of admission that patients meet admission criteria for long-term care hospitals, regularly evaluates patients throughout their stay for continuation of care in a long-term care hospital, and assesses the available discharge options when patients no longer meet such continued stay criteria;
 
@@ -3485,9 +3487,9 @@ For purposes of this subchapter—
 
 [Pub. L. 98–369, div. B, title III, § 2314(c)(1)][/us/pl/98/369/s2314/c/1], (2), July 18, 1984, [98 Stat. 1079][/us/stat/98/1079], provided that:
 
->     “(1) Clause (i) of section 1861(v)(1)(O) of the Social Security Act \[subsec. (v)(1)(O)(i) of this section\] shall not apply to changes of ownership of assets pursuant to an enforceable agreement entered into before the date of the enactment of this Act \[July 18, 1984\].
+>     “(1) Clause (i) of section 1861(v)(1)(O) of the Social Security Act \[[42 U.S.C. 1395x(v)(1)(O)(i)][/us/usc/t42/s1395x/v/1/O/i]\] shall not apply to changes of ownership of assets pursuant to an enforceable agreement entered into before the date of the enactment of this Act \[July 18, 1984\].
 
->     “(2) Clause (iii) of section 1861(v)(1)(O) of such Act \[subsec. (v)(1)(O)(iii) of this section\] shall apply to costs incurred on or after the date of the enactment of this Act.”
+>     “(2) Clause (iii) of section 1861(v)(1)(O) of such Act \[[42 U.S.C. 1395x(v)(1)(O)(iii)][/us/usc/t42/s1395x/v/1/O/iii]\] shall apply to costs incurred on or after the date of the enactment of this Act.”
 
 [Pub. L. 98–369, div. B, title III, § 2318(c)][/us/pl/98/369/s2318/c], July 18, 1984, [98 Stat. 1082][/us/stat/98/1082], provided that: 
 
@@ -3539,7 +3541,7 @@ For purposes of this subchapter—
 
 [Pub. L. 97–248, title I, § 103(b)][/us/pl/97/248/s103/b], Sept. 3, 1982, [96 Stat. 336][/us/stat/96/336], provided that: 
 
-> “The amendment made by subsection (a) \[amending this section\] shall be effective with respect to cost reporting periods ending after September 30, 1982, but in the case of any cost reporting period beginning before October 1, 1982, any reduction in payments under title XVIII of the Social Security Act \[this subchapter\] to a hospital or skilled nursing facility resulting from such amendment shall be imposed only in proportion to the part of the period which occurs after September 30, 1982.”
+> “The amendment made by subsection (a) \[amending this section\] shall be effective with respect to cost reporting periods ending after September 30, 1982, but in the case of any cost reporting period beginning before October 1, 1982, any reduction in payments under title XVIII of the Social Security Act \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\] to a hospital or skilled nursing facility resulting from such amendment shall be imposed only in proportion to the part of the period which occurs after September 30, 1982.”
 
 [Pub. L. 97–248, title I, § 105(b)][/us/pl/97/248/s105/b], Sept. 3, 1982, [96 Stat. 337][/us/stat/96/337], provided that: 
 
@@ -3547,7 +3549,7 @@ For purposes of this subchapter—
 
 [Pub. L. 97–248, title I, § 106(b)][/us/pl/97/248/s106/b], Sept. 3, 1982, [96 Stat. 337][/us/stat/96/337], provided that: 
 
-> “The amendment made by subsection (a) \[amending this section\] shall be effective with respect to any costs incurred under title XVIII of the Social Security Act \[this subchapter\], except that it shall not apply to costs which have been allowed prior to the date of the enactment of this Act \[Sept. 3, 1982\] pursuant to the final court order affirmed by a United States Court of Appeals.”
+> “The amendment made by subsection (a) \[amending this section\] shall be effective with respect to any costs incurred under title XVIII of the Social Security Act \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\], except that it shall not apply to costs which have been allowed prior to the date of the enactment of this Act \[Sept. 3, 1982\] pursuant to the final court order affirmed by a United States Court of Appeals.”
 
 [Pub. L. 97–248, title I, § 107(b)][/us/pl/97/248/s107/b], Sept. 3, 1982, [96 Stat. 337][/us/stat/96/337], provided that: 
 
@@ -3565,7 +3567,7 @@ For purposes of this subchapter—
 
 >     “(1) Any amendment to the Omnibus Budget Reconciliaton \[Reconciliation\] Act of 1981 \[[Pub. L. 97–35][/us/pl/97/35]\] made by this section \[amending provisions set out as notes under sections 426 and 1395x of this title\] shall be effective as if it had been originally included in the provision of the Omnibus Budget Reconciliation Act of 1981 to which such amendment relates.
 
->     “(2) Except as otherwise provided in this section, any amendment to the Social Security Act \[this chapter\] or the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] \[Title 26, Internal Revenue Code\] made by this section (other than subsection (d)) \[amending this section and sections 1395y, 1395cc, and 1395uu of this title and [section 162 of Title 26][/us/usc/t26/s162]\] shall be effective as if it had been originally included as a part of that provision of the Social Security Act or Internal Revenue Code of 1986 to which it relates, as such provision of such Act or Code was amended by the Omnibus Budget Reconciliaton \[Reconciliation\] Act of 1981 \[[Pub. L. 97–35][/us/pl/97/35]\].
+>     “(2) Except as otherwise provided in this section, any amendment to the Social Security Act \[[42 U.S.C. 301][/us/usc/t42/s301] et seq.\] or the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] \[Title 26, Internal Revenue Code\] made by this section (other than subsection (d)) \[amending this section and sections 1395y, 1395cc, and 1395uu of this title and [section 162 of Title 26][/us/usc/t26/s162]\] shall be effective as if it had been originally included as a part of that provision of the Social Security Act or Internal Revenue Code of 1986 to which it relates, as such provision of such Act or Code was amended by the Omnibus Budget Reconciliaton \[Reconciliation\] Act of 1981 \[[Pub. L. 97–35][/us/pl/97/35]\].
 
 >     “(3) The amendments made by subsection (d) \[amending this section and sections 1395u, 1395bb, 1395cc, and 1395gg of this title\] shall take effect upon enactment \[Sept. 3, 1982\].”
 
@@ -3629,7 +3631,7 @@ For purposes of this subchapter—
 
 [Pub. L. 96–499, title IX, § 948(c)(1)][/us/pl/96/499/s948/c/1], Dec. 5, 1980, [94 Stat. 2644][/us/stat/94/2644], provided that: 
 
-> “The amendments made by subsection (a) \[amending this section and [section 1395k of this title][/us/usc/t42/s1395k]\] shall apply with respect to cost accounting periods beginning on or after October 1, 1978. A hospital’s election under section 1861(b)(7)(A) of the Social Security Act \[subsec. (b)(7)(A) of this section\] (as administered in accordance with [section 15 of Public Law 93–233][/us/pl/93/233/s15]) as of September 30, 1978, shall constitute such hospital’s election under such section (as amended by subsection (a)(1)) on and after October 1, 1978, until otherwise provided by the hospital.”
+> “The amendments made by subsection (a) \[amending this section and [section 1395k of this title][/us/usc/t42/s1395k]\] shall apply with respect to cost accounting periods beginning on or after October 1, 1978. A hospital’s election under section 1861(b)(7)(A) of the Social Security Act \[[42 U.S.C. 1395x(b)(7)(A)][/us/usc/t42/s1395x/b/7/A]\] (as administered in accordance with [section 15 of Public Law 93–233][/us/pl/93/233/s15]) as of September 30, 1978, shall constitute such hospital’s election under such section (as amended by subsection (a)(1)) on and after October 1, 1978, until otherwise provided by the hospital.”
 
 [Pub. L. 96–499, title IX, § 951(c)][/us/pl/96/499/s951/c], Dec. 5, 1980, [94 Stat. 2646][/us/stat/94/2646], provided that: 
 
@@ -3691,7 +3693,7 @@ For purposes of this subchapter—
 
 >     “(2) The amendments made by subsection (b) \[amending this section and [section 1395n of this title][/us/usc/t42/s1395n]\] shall apply with respect to services furnished on or after the date of enactment of this Act \[Oct. 30, 1972\].
 
->     “(3) The amendments made by subsection (c) \[amending this section\] shall be effective with respect to accounting periods beginning after the month in which there are promulgated, by the Secretary of Health, Education, and Welfare, final regulations implementing the provisions of section 1861(v)(5) of the Social Security Act \[subsec. (v)(5) of this section\].”
+>     “(3) The amendments made by subsection (c) \[amending this section\] shall be effective with respect to accounting periods beginning after the month in which there are promulgated, by the Secretary of Health, Education, and Welfare \[now Health and Human Services\], final regulations implementing the provisions of section 1861(v)(5) of the Social Security Act \[[42 U.S.C. 1395x(v)(5)][/us/usc/t42/s1395x/v/5]\].”
 
 [Pub. L. 92–603, title II, § 252(b)][/us/pl/92/603/s252/b], Oct. 31, 1972, [86 Stat. 1446][/us/stat/86/1446], provided that: 
 
@@ -3747,7 +3749,7 @@ For purposes of this subchapter—
 
 [Pub. L. 108–173, title I, § 101(e)(1)][/us/pl/108/173/s101/e/1], Dec. 8, 2003, [117 Stat. 2150][/us/stat/117/2150], provided that: 
 
-> “Any reference in law (in effect before the date of the enactment of this Act \[Dec. 8, 2003\]) to part D of title XVIII of the Social Security Act \[part D of this subchapter\] is deemed a reference to part E of such title \[this part\] (as in effect after such date).”
+> “Any reference in law (in effect before the date of the enactment of this Act \[Dec. 8, 2003\]) to part D of title XVIII of the Social Security Act \[[42 U.S.C. 1395w–101][/us/usc/t42/s1395w–101] et seq.\] is deemed a reference to part E of such title \[[42 U.S.C. 1395x][/us/usc/t42/s1395x] et seq.\] (as in effect after such date).”
 
  __Application of 2003 Amendment to Physician Specialties__ 
 
@@ -3809,7 +3811,7 @@ For purposes of this subchapter—
 
 >     “(a) __Study.—__ 
 
->     The Medicare Payment Advisory Commission (in this section referred to as the ‘Commission’) shall conduct a study on the feasibility and advisability of providing for payment under part B of title XVIII of the Social Security Act \[part B of this subchapter\] for surgical first assisting services furnished by a certified registered nurse first assistant to medicare beneficiaries.
+>     The Medicare Payment Advisory Commission (in this section referred to as the ‘Commission’) shall conduct a study on the feasibility and advisability of providing for payment under part B of title XVIII of the Social Security Act \[[42 U.S.C. 1395j][/us/usc/t42/s1395j] et seq.\] for surgical first assisting services furnished by a certified registered nurse first assistant to medicare beneficiaries.
 
 >     “(b) __Report.—__ 
 
@@ -3975,7 +3977,7 @@ For purposes of this subchapter—
 
 >     “(a) __Demonstration Project.—__ 
 
->     Not later than 180 days after the date of the enactment of this Act \[Dec. 8, 2003\], the Secretary \[of Health and Human Services\] shall conduct a 2-year demonstration project under part B of title XVIII of the Social Security Act \[part B of this subchapter\] under which medicare beneficiaries with chronic conditions described in subsection (b) are deemed to be homebound for purposes of receiving home health services under the medicare program.
+>     Not later than 180 days after the date of the enactment of this Act \[Dec. 8, 2003\], the Secretary \[of Health and Human Services\] shall conduct a 2-year demonstration project under part B of title XVIII of the Social Security Act \[[42 U.S.C. 1395j][/us/usc/t42/s1395j] et seq.\] under which medicare beneficiaries with chronic conditions described in subsection (b) are deemed to be homebound for purposes of receiving home health services under the medicare program.
 
 >     “(b) __Medicare Beneficiary Described.—__ 
 
@@ -4027,7 +4029,7 @@ For purposes of this subchapter—
 
 >     “(h) __Construction.—__ 
 
->     Nothing in this section shall be construed as waiving any applicable civil monetary penalty, criminal penalty, or other remedy available to the Secretary under title XI or title XVIII of the Social Security Act \[this subchapter and subchapter XI of this chapter\] for acts prohibited under such titles, including penalties for false certifications for purposes of receipt of items or services under the medicare program.
+>     Nothing in this section shall be construed as waiving any applicable civil monetary penalty, criminal penalty, or other remedy available to the Secretary under title XI or title XVIII of the Social Security Act \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq., 1301 et seq.\] for acts prohibited under such titles, including penalties for false certifications for purposes of receipt of items or services under the medicare program.
 
 >     “(i) __Authorization of Appropriations.—__ 
 
@@ -4039,7 +4041,7 @@ For purposes of this subchapter—
 
 >         “(1) __Medicare beneficiary.—__ 
 
->         The term ‘medicare beneficiary’ means an individual who is enrolled under part B of title XVIII of the Social Security Act \[part B of this subchapter\].
+>         The term ‘medicare beneficiary’ means an individual who is enrolled under part B of title XVIII of the Social Security Act \[[42 U.S.C. 1395j][/us/usc/t42/s1395j] et seq.\].
 
 >         “(2) __Home health services.—__ 
 
@@ -4067,11 +4069,11 @@ For purposes of this subchapter—
 
 >         “(A) __Per beneficiary limits.—__ 
 
->         In effecting the amendments made by subsection (a) \[amending this section\] for cost reporting periods beginning in fiscal year 1999, the ‘median’ referred to in section 1861(v)(1)(L)(vi)(I) of the Social Security Act \[subsec. (v)(1)(L)(vi)(I) of this section\] for such periods shall be the national standardized per beneficiary limitation specified in Table 3C published in the Federal Register on August 11, 1998 (63 FR 42926) and the ‘standardized regional average of such costs’ referred to in section 1861(v)(1)(L)(v)(I) of such Act \[subsec. (v)(1)(L)(v)(I) of this section\] for a census division shall be the sum of the labor and nonlabor components of the standardized per beneficiary limitation for that census division specified in Table 3B published in the Federal Register on that date (63 FR 42926) (or in Table 3D as so published with respect to Puerto Rico and Guam), and adjusted to reflect variations in wages among different geographic areas as specified in Tables 4a and 4b published in the Federal Register on that date (63 FR 42926–42933).
+>         In effecting the amendments made by subsection (a) \[amending this section\] for cost reporting periods beginning in fiscal year 1999, the ‘median’ referred to in section 1861(v)(1)(L)(vi)(I) of the Social Security Act \[[42 U.S.C. 1395x(v)(1)(L)(vi)(I)][/us/usc/t42/s1395x/v/1/L/vi/I]\] for such periods shall be the national standardized per beneficiary limitation specified in Table 3C published in the Federal Register on August 11, 1998 (63 FR 42926) and the ‘standardized regional average of such costs’ referred to in section 1861(v)(1)(L)(v)(I) of such Act \[[42 U.S.C. 1395x(v)(1)(L)(v)(I)][/us/usc/t42/s1395x/v/1/L/v/I]\] for a census division shall be the sum of the labor and nonlabor components of the standardized per beneficiary limitation for that census division specified in Table 3B published in the Federal Register on that date (63 FR 42926) (or in Table 3D as so published with respect to Puerto Rico and Guam), and adjusted to reflect variations in wages among different geographic areas as specified in Tables 4a and 4b published in the Federal Register on that date (63 FR 42926–42933).
 
 >         “(B) __Per visit limits.—__ 
 
->         In effecting the amendments made by subsection (b) \[amending this section\] for cost reporting periods beginning in fiscal year 1999, the limits determined under section 1861(v)(1)(L)(i)(V) of such Act \[subsec. (v)(1)(L)(i)(V) of this section\] for cost reporting periods beginning during such fiscal year shall be equal to the per visit limits as specified in Table 3A published in the Federal Register on August 11, 1998 (63 FR 42925) and as subsequently corrected, multiplied by 106⁄105, and adjusted to reflect variations in wages among different geographic areas as specified in Tables 4a and 4b published in the Federal Register on August 11, 1998 (63 FR 42926–42933).”
+>         In effecting the amendments made by subsection (b) \[amending this section\] for cost reporting periods beginning in fiscal year 1999, the limits determined under section 1861(v)(1)(L)(i)(V) of such Act \[[42 U.S.C. 1395x(v)(1)(L)(i)(V)][/us/usc/t42/s1395x/v/1/L/i/V]\] for cost reporting periods beginning during such fiscal year shall be equal to the per visit limits as specified in Table 3A published in the Federal Register on August 11, 1998 (63 FR 42925) and as subsequently corrected, multiplied by 106⁄105, and adjusted to reflect variations in wages among different geographic areas as specified in Tables 4a and 4b published in the Federal Register on August 11, 1998 (63 FR 42926–42933).”
 
  __Study on Expansion of Medical Nutrition Therapy Services Benefit__ 
 
@@ -4085,7 +4087,7 @@ For purposes of this subchapter—
 
 >     “(a) __Study.—__ 
 
->     The Secretary of Health and Human Services shall request the National Academy of Sciences, and as appropriate in conjunction with the United States Preventive Services Task Force, to conduct a study on the addition of coverage of routine thyroid screening using a thyroid stimulating hormone test as a preventive benefit provided to medicare beneficiaries under title XVIII of the Social Security Act \[this subchapter\] for some or all medicare beneficiaries. In conducting the study, the Academy shall consider the short-term and long-term benefits, and costs to the medicare program, of such addition.
+>     The Secretary of Health and Human Services shall request the National Academy of Sciences, and as appropriate in conjunction with the United States Preventive Services Task Force, to conduct a study on the addition of coverage of routine thyroid screening using a thyroid stimulating hormone test as a preventive benefit provided to medicare beneficiaries under title XVIII of the Social Security Act \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\] for some or all medicare beneficiaries. In conducting the study, the Academy shall consider the short-term and long-term benefits, and costs to the medicare program, of such addition.
 
 >     “(b) __Report.—__ 
 
@@ -4097,7 +4099,7 @@ For purposes of this subchapter—
 
 >     “(a) __Study.—__ 
 
->     The Comptroller General of the United States shall conduct a study on the effect on the medicare program under title XVIII of the Social Security Act \[this subchapter\] and on medicare beneficiaries of coverage under the program of surgical first assisting services of certified registered nurse first assistants. The Comptroller General shall consider the following when conducting the study:
+>     The Comptroller General of the United States shall conduct a study on the effect on the medicare program under title XVIII of the Social Security Act \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\] and on medicare beneficiaries of coverage under the program of surgical first assisting services of certified registered nurse first assistants. The Comptroller General shall consider the following when conducting the study:
 
 >         “(1) Any impact on the quality of care furnished to medicare beneficiaries by reason of such coverage.
 
@@ -4117,7 +4119,7 @@ For purposes of this subchapter—
 
 >         “(1) __In general.—__ 
 
->         The Medicare Payment Advisory Commission shall conduct a study to determine the appropriateness of providing coverage under the medicare program under title XVIII of the Social Security Act \[this subchapter\] for services provided by a—
+>         The Medicare Payment Advisory Commission shall conduct a study to determine the appropriateness of providing coverage under the medicare program under title XVIII of the Social Security Act \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\] for services provided by a—
 
 >             “(A) surgical technologist;
 
@@ -4159,11 +4161,11 @@ For purposes of this subchapter—
 
 >         “(3) __Consultation.—__ 
 
->         In developing an assessment instrument under paragraph (1), the Secretary shall consult with the Medicare Payment Advisory Commission, the Agency for Healthcare Research and Quality, and qualified organizations representing providers of services and suppliers under title XVIII \[this subchapter\].
+>         In developing an assessment instrument under paragraph (1), the Secretary shall consult with the Medicare Payment Advisory Commission, the Agency for Healthcare Research and Quality, and qualified organizations representing providers of services and suppliers under title XVIII \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\].
 
 >     “(b) __Description of Services.—__ 
 
->     For purposes of subsection (a), items and services described in this subsection are those items and services furnished to individuals entitled to benefits under part A, or enrolled under part B, or both of title XVIII of the Social Security Act \[part A or part B of this subchapter\] for which payment is made under such title \[this subchapter\], and include the following:
+>     For purposes of subsection (a), items and services described in this subsection are those items and services furnished to individuals entitled to benefits under part A, or enrolled under part B, or both of title XVIII of the Social Security Act \[[42 U.S.C. 1395c][/us/usc/t42/s1395c] et seq., 1395j et seq.\] for which payment is made under such title \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\], and include the following:
 
 >         “(1) Inpatient and outpatient hospital services.
 
@@ -4185,7 +4187,7 @@ For purposes of this subchapter—
 
 [Pub. L. 105–33, title IV, § 4002(f)(1)][/us/pl/105/33/s4002/f/1], Aug. 5, 1997, [111 Stat. 329][/us/stat/111/329], provided that: 
 
-> “Any reference in law (in effect before the date of the enactment of this Act \[Aug. 5, 1997\]) to part C of title XVIII of the Social Security Act \[part C of this subchapter\] is deemed a reference to part D of such title \[this part\] (as in effect after such date).”
+> “Any reference in law (in effect before the date of the enactment of this Act \[Aug. 5, 1997\]) to part C of title XVIII of the Social Security Act \[[42 U.S.C. 1395w–21][/us/usc/t42/s1395w–21] et seq.\] is deemed a reference to part D of such title \[[42 U.S.C. 1395w–101][/us/usc/t42/s1395w–101] et seq.\] (as in effect after such date).”
 
  __Deadline for Publication of Determination on Coverage of Screening Barium Enema__ 
 
@@ -4225,7 +4227,7 @@ For purposes of this subchapter—
 
 [Pub. L. 105–33, title IV, § 4513(c)][/us/pl/105/33/s4513/c], Aug. 5, 1997, [111 Stat. 444][/us/stat/111/444], provided that: 
 
-> “The Secretary of Health and Human Services shall develop and implement utilization guidelines relating to the coverage of chiropractic services under part B of title XVIII of the Social Security Act \[part B of this subchapter\] in cases in which a subluxation has not been demonstrated by X-ray to exist.”
+> “The Secretary of Health and Human Services shall develop and implement utilization guidelines relating to the coverage of chiropractic services under part B of title XVIII of the Social Security Act \[[42 U.S.C. 1395j][/us/usc/t42/s1395j] et seq.\] in cases in which a subluxation has not been demonstrated by X-ray to exist.”
 
  __Authorizing Payment for Paramedic Intercept Service Providers in Rural Communities__ 
 
@@ -4249,7 +4251,7 @@ For purposes of this subchapter—
 
 >      The entity supplying the ALS intercept services—
 
->         “(A) is certified as qualified to provide such services under the medicare program under title XVIII of the Social Security Act \[this subchapter\], and
+>         “(A) is certified as qualified to provide such services under the medicare program under title XVIII of the Social Security Act \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\], and
 
 >         “(B) bills all recipients who receive ALS intercept services from the entity, regardless of whether or not such recipients are medicare beneficiaries.
 
@@ -4289,7 +4291,7 @@ For purposes of this subchapter—
 
 [Pub. L. 103–66, title XIII, § 13564(a)(1)][/us/pl/103/66/s13564/a/1], Aug. 10, 1993, [107 Stat. 607][/us/stat/107/607], provided that: 
 
-> “The Secretary of Health and Human Services shall not provide for any change in the per visit cost limits for home health services under section 1861(v)(1)(L) of such Act \[subsec. (v)(1)(L) of this section\] for cost reporting periods beginning on or after July 1, 1994, and before July 1, 1996, except as may be necessary to take into account the amendment made by subsection (b)(1) \[amending this section\]. The effect of the preceding sentence shall not be considered by the Secretary in making adjustments pursuant to section 1861(v)(1)(L)(ii) of such Act to the payment limits for such services during such cost reporting periods.”
+> “The Secretary of Health and Human Services shall not provide for any change in the per visit cost limits for home health services under section 1861(v)(1)(L) of such Act \[[42 U.S.C. 1395x(v)(1)(L)][/us/usc/t42/s1395x/v/1/L]\] for cost reporting periods beginning on or after July 1, 1994, and before July 1, 1996, except as may be necessary to take into account the amendment made by subsection (b)(1) \[amending this section\]. The effect of the preceding sentence shall not be considered by the Secretary in making adjustments pursuant to section 1861(v)(1)(L)(ii) of such Act to the payment limits for such services during such cost reporting periods.”
 
  __Study and Report on Effects of Coverage of Osteoporosis Drugs__ 
 
@@ -4309,7 +4311,7 @@ For purposes of this subchapter—
 
 [Pub. L. 101–508, title IV, § 4207(d)(2)][/us/pl/101/508/s4207/d/2], formerly § 4027(d)(2), Nov. 5, 1990, [104 Stat. 1388–120][/us/stat/104/1388-120], as renumbered by [Pub. L. 103–432, title I, § 160(d)(4)][/us/pl/103/432/s160/d/4], Oct. 31, 1994, [108 Stat. 4444][/us/stat/108/4444], provided that: 
 
-> “In updating the wage index for establishing limits under section 1861(v)(1)(L)(iii) of the Social Security Act \[subsec. (v)(1)(L)(iii) of this section\], the Secretary shall ensure that aggregate payments to home health agencies under title XVIII of such Act \[this subchapter\] will be no greater or lesser than such payments would have been without regard to such update.”
+> “In updating the wage index for establishing limits under section 1861(v)(1)(L)(iii) of the Social Security Act \[[42 U.S.C. 1395x(v)(1)(L)(iii)][/us/usc/t42/s1395x/v/1/L/iii]\], the Secretary shall ensure that aggregate payments to home health agencies under title XVIII of such Act \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\] will be no greater or lesser than such payments would have been without regard to such update.”
 
  __Transition Provisions for Determining Reasonable Costs for Home Health Agency Services__ 
 
@@ -4325,7 +4327,7 @@ For purposes of this subchapter—
 
 [Pub. L. 101–239, title VI, § 6205(a)(1)(A)][/us/pl/101/239/s6205/a/1/A], Dec. 19, 1989, [103 Stat. 2243][/us/stat/103/2243], provided that: 
 
-> “The reasonable costs incurred by a hospital in training students of a hospital-based nursing school shall be allowable as reasonable costs under title XVIII of the Social Security Act \[this subchapter\] and reimbursed under such title on the same basis as if they were allowable direct costs of a hospital-operated educational program (other than an approved graduate medical education program) if, before June 15, 1989, and thereafter, the hospital demonstrates that for each year, it incurs at least 50 percent of the costs of training nursing students at such school, the nursing school and the hospital share some common board members, and all instruction is provided at the hospital or, if in another building, a building on the immediate grounds of the hospital.”
+> “The reasonable costs incurred by a hospital in training students of a hospital-based nursing school shall be allowable as reasonable costs under title XVIII of the Social Security Act \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\] and reimbursed under such title on the same basis as if they were allowable direct costs of a hospital-operated educational program (other than an approved graduate medical education program) if, before June 15, 1989, and thereafter, the hospital demonstrates that for each year, it incurs at least 50 percent of the costs of training nursing students at such school, the nursing school and the hospital share some common board members, and all instruction is provided at the hospital or, if in another building, a building on the immediate grounds of the hospital.”
 
 \[[Pub. L. 101–239, title VI, § 6205(a)(2)][/us/pl/101/239/s6205/a/2], Dec. 19, 1989, [103 Stat. 2243][/us/stat/103/2243], provided that: 
 
@@ -4341,13 +4343,13 @@ For purposes of this subchapter—
 
 [Pub. L. 101–239, title VI, § 6213(f)][/us/pl/101/239/s6213/f], Dec. 19, 1989, [103 Stat. 2251][/us/stat/103/2251], provided that: 
 
-> “The Secretary of Health and Human Services shall not deny certification of a facility as a rural health clinic under section 1861(aa)(2) of the Social Security Act \[subsec. (aa)(2) of this section\] if the facility is located on an island and would otherwise be qualified to be certified as such a facility but for the requirement that the services of a physician assistant or nurse practitioner be provided in the facility.”
+> “The Secretary of Health and Human Services shall not deny certification of a facility as a rural health clinic under section 1861(aa)(2) of the Social Security Act \[[42 U.S.C. 1395x(aa)(2)][/us/usc/t42/s1395x/aa/2]\] if the facility is located on an island and would otherwise be qualified to be certified as such a facility but for the requirement that the services of a physician assistant or nurse practitioner be provided in the facility.”
 
  __Continued Use of Home Health Wage Index in Effect Prior to__  __July 1, 1989__  __, Until After__  __July 1, 1991__ 
 
 [Pub. L. 101–239, title VI, § 6222][/us/pl/101/239/s6222], Dec. 19, 1989, [103 Stat. 2256][/us/stat/103/2256], provided that: 
 
-> “Notwithstanding the requirement of section 1861(v)(1)(L)(iii) of the Social Security Act \[subsec. (v)(1)(L)(iii) of this section\], the Secretary of Health and Human Services shall, in determining the limits of reasonable costs under title XVIII of the Social Security Act \[this subchapter\] with respect to services furnished by home health agencies, continue to utilize the wage index that was in effect for cost reporting periods beginning before July 1, 1989, until cost reporting periods beginning on or after July 1, 1991.”
+> “Notwithstanding the requirement of section 1861(v)(1)(L)(iii) of the Social Security Act \[[42 U.S.C. 1395x(v)(1)(L)(iii)][/us/usc/t42/s1395x/v/1/L/iii]\], the Secretary of Health and Human Services shall, in determining the limits of reasonable costs under title XVIII of the Social Security Act \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\] with respect to services furnished by home health agencies, continue to utilize the wage index that was in effect for cost reporting periods beginning before July 1, 1989, until cost reporting periods beginning on or after July 1, 1991.”
 
  __Payment for Medical Escort or Medical Attendant on Commercial Airliner Allowed__ 
 
@@ -4355,7 +4357,7 @@ For purposes of this subchapter—
 
 >     “(a) __In General.—__ 
 
->     The Secretary of Health and Human Services shall provide that in cases where (as of the date of the enactment of this Act \[Nov. 10, 1988\]) transportation on a commercial airliner is covered under section 1861(s)(7) of the Social Security Act \[subsec. (s)(7) of this section\], the Secretary shall also provide for payment for medically necessary services of a medical escort or medical attendant.
+>     The Secretary of Health and Human Services shall provide that in cases where (as of the date of the enactment of this Act \[Nov. 10, 1988\]) transportation on a commercial airliner is covered under section 1861(s)(7) of the Social Security Act \[[42 U.S.C. 1395x(s)(7)][/us/usc/t42/s1395x/s/7]\], the Secretary shall also provide for payment for medically necessary services of a medical escort or medical attendant.
 
 >     “(b) __Effective Period.—__ 
 
@@ -4365,19 +4367,19 @@ For purposes of this subchapter—
 
 [Pub. L. 100–360, title IV, § 411][/us/pl/100/360/s411](l)(2)(E), July 1, 1988, [102 Stat. 802][/us/stat/102/802], provided that: 
 
-> “Effective as of the date of the enactment of this Act \[July 1, 1988\] and until the effective date of section 1819(c) of such Act \[see Effective Date note set out under [section 1395i–3 of this title][/us/usc/t42/s1395i–3]\], section 1861(j) of the Social Security Act \[subsec. (j) of this section\] is deemed to include the requirement described in section 1819(c)(3)(A) of such Act \[[section 1395i–3(c)(3)(A) of this title][/us/usc/t42/s1395i–3/c/3/A]\] (as added by section 4201(a)(3) of OBRA).”
+> “Effective as of the date of the enactment of this Act \[July 1, 1988\] and until the effective date of section 1819(c) of such Act \[see Effective Date note set out under [section 1395i–3 of this title][/us/usc/t42/s1395i–3]\], section 1861(j) of the Social Security Act \[[42 U.S.C. 1395x(j)][/us/usc/t42/s1395x/j]\] is deemed to include the requirement described in section 1819(c)(3)(A) of such Act \[[42 U.S.C. 1395i–3(c)(3)(A)][/us/usc/t42/s1395i–3/c/3/A]\] (as added by section 4201(a)(3) of OBRA).”
 
  __Moratorium on Prior Authorization for Home Health and Post-Hospital Extended Care Services__ 
 
 [Pub. L. 100–203, title IV, § 4039(e)][/us/pl/100/203/s4039/e], Dec. 22, 1987, [101 Stat. 1330–82][/us/stat/101/1330-82], provided that: 
 
-> “The Secretary of Health and Human Services shall not implement any voluntary or mandatory program of prior authorization for home health services, extended care services, or post-hospital extended care services under part A or B of title XVIII of the Social Security Act \[part A or B of this subchapter\] at any time prior to six months after the date on which the Congress receives the report required under section 9305(k)(4) of the Omnibus Budget Reconciliation Act of 1986 \[[section 9305(k)(4) of Pub. L. 99–509][/us/pl/99/509/s9305/k/4], set out below\].”
+> “The Secretary of Health and Human Services shall not implement any voluntary or mandatory program of prior authorization for home health services, extended care services, or post-hospital extended care services under part A or B of title XVIII of the Social Security Act \[[42 U.S.C. 1395c][/us/usc/t42/s1395c] et seq., 1395j et seq.\] at any time prior to six months after the date on which the Congress receives the report required under section 9305(k)(4) of the Omnibus Budget Reconciliation Act of 1986 \[[section 9305(k)(4) of Pub. L. 99–509][/us/pl/99/509/s9305/k/4], set out below\].”
 
  __Delay in Publishing Regulations With Respect To Deeming Status of Entities__ 
 
 [Pub. L. 100–203, title IV, § 4039(f)][/us/pl/100/203/s4039/f], Dec. 22, 1987, [101 Stat. 1330–82][/us/stat/101/1330-82], provided that: 
 
-> “The Secretary of Health and Human Services (in this subsection referred to as the ‘Secretary’) shall not deem any entity to be a provider of services (as defined in section 1861(u) of the Social Security Act \[subsec. (u) of this section\]) for purposes of title XVIII of such Act \[this subchapter\]—
+> “The Secretary of Health and Human Services (in this subsection referred to as the ‘Secretary’) shall not deem any entity to be a provider of services (as defined in section 1861(u) of the Social Security Act \[[42 U.S.C. 1395x(u)][/us/usc/t42/s1395x/u]\]) for purposes of title XVIII of such Act \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\]—
 
 >     “(1) on any date prior to 6 months after the date on which the Secretary has published a proposed rule with respect to the deeming of the entity, and
 
@@ -4395,7 +4397,7 @@ For purposes of this subchapter—
 
 [Pub. L. 99–509, title IX, § 9315(b)][/us/pl/99/509/s9315/b], Oct. 21, 1986, [100 Stat. 2006][/us/stat/100/2006], provided that: 
 
-> “In establishing limitations under section 1861(v)(1)(L) of the Social Security Act \[subsec. (v)(1)(L) of this section\] on payment for home health services for cost reporting periods beginning on or after July 1, 1986, the Secretary of Health and Human Services shall—
+> “In establishing limitations under section 1861(v)(1)(L) of the Social Security Act \[[42 U.S.C. 1395x(v)(1)(L)][/us/usc/t42/s1395x/v/1/L]\] on payment for home health services for cost reporting periods beginning on or after July 1, 1986, the Secretary of Health and Human Services shall—
 
 >     “(1) base such limitations on the most recent data available, which data may be for cost reporting periods beginning no earlier than October 1, 1983; and
 
@@ -4419,7 +4421,7 @@ For purposes of this subchapter—
 
 [Pub. L. 98–369, div. B, title III, § 2319(d)][/us/pl/98/369/s2319/d], July 18, 1984, [98 Stat. 1083][/us/stat/98/1083], provided that: 
 
-> “Notwithstanding limits on the cost of skilled nursing facilities which may have been issued under section 1861(v) of the Social Security Act \[subsec. (v) of this section\] prior to the date of the enactment of this Act \[July 18, 1984\], in the case of cost reporting periods beginning on or after October 1, 1982, and prior to July 1, 1984, the cost limits for routine services for urban and rural hospital-based skilled nursing facilities shall be 112 percent of the mean of the respective routine costs for urban and rural hospital-based skilled nursing facilities.”
+> “Notwithstanding limits on the cost of skilled nursing facilities which may have been issued under section 1861(v) of the Social Security Act \[[42 U.S.C. 1395x(v)][/us/usc/t42/s1395x/v]\] prior to the date of the enactment of this Act \[July 18, 1984\], in the case of cost reporting periods beginning on or after October 1, 1982, and prior to July 1, 1984, the cost limits for routine services for urban and rural hospital-based skilled nursing facilities shall be 112 percent of the mean of the respective routine costs for urban and rural hospital-based skilled nursing facilities.”
 
  __Study and Report Relating to Requirements That Core Services Be Furnished Directly by Hospices__ 
 
@@ -4435,7 +4437,7 @@ For purposes of this subchapter—
 
 [Pub. L. 97–248, title I, § 111][/us/pl/97/248/s111], Sept. 3, 1982, [96 Stat. 340][/us/stat/96/340], provided that:
 
->     “(a) The Secretary of Health and Human Services shall, pursuant to section 1861(v)(2) of the Social Security Act \[subsec. (v)(2) of this section\], not allow as a reasonable cost the estimated amount by which the costs incurred by a hospital or skilled nursing facility for nonmedically necessary private accommodations for medicare beneficiaries exceeds the costs which would have been incurred by such hospital or facility for semiprivate accommodations.
+>     “(a) The Secretary of Health and Human Services shall, pursuant to section 1861(v)(2) of the Social Security Act \[[42 U.S.C. 1395x(v)(2)][/us/usc/t42/s1395x/v/2]\], not allow as a reasonable cost the estimated amount by which the costs incurred by a hospital or skilled nursing facility for nonmedically necessary private accommodations for medicare beneficiaries exceeds the costs which would have been incurred by such hospital or facility for semiprivate accommodations.
 
 >     “(b) The Secretary of Health and Human Services shall first issue such final regulations (whether on an interim or other basis) as may be necessary to implement subsection (a) by October 1, 1982. If such regulations are promulgated on an interim final basis, the Secretary shall take such steps as may be necessary to provide opportunity for public comment, and appropriate revision based thereon, so as to provide that such regulations are not on an interim basis later than January 31, 1983.”
 
@@ -4443,17 +4445,17 @@ For purposes of this subchapter—
 
 [Pub. L. 96–499, title IX, § 952(b)][/us/pl/96/499/s952/b], as added by [Pub. L. 97–248, title I, § 127(2)][/us/pl/97/248/s127/2], Sept. 3, 1982, [96 Stat. 366][/us/stat/96/366], provided that: 
 
-> “Unless the Secretary of Health and Human Services first publishes final regulations prescribing the criteria and procedures described in the last sentence of section 1861(v)(1)(I) of the Social Security Act \[subsec. (v)(1)(I) of this section\] by January 1, 1983, after providing a period of not less than 60 days for public comment on proposed regulations, the amendment made by subsection (a) \[amending this section\] shall only apply to books, documents, and records relating to services furnished (pursuant to contract or subcontract) on or after the date on which final regulations of the Secretary are first published.”
+> “Unless the Secretary of Health and Human Services first publishes final regulations prescribing the criteria and procedures described in the last sentence of section 1861(v)(1)(I) of the Social Security Act \[[42 U.S.C. 1395x(v)(1)(I)][/us/usc/t42/s1395x/v/1/I]\] by January 1, 1983, after providing a period of not less than 60 days for public comment on proposed regulations, the amendment made by subsection (a) \[amending this section\] shall only apply to books, documents, and records relating to services furnished (pursuant to contract or subcontract) on or after the date on which final regulations of the Secretary are first published.”
 
  __Compliance With the Life Safety Code or State Fire and Safety Code__ 
 
 [Pub. L. 96–499, title IX, § 915(b)][/us/pl/96/499/s915/b], Dec. 5, 1980, [94 Stat. 2623][/us/stat/94/2623], provided that: 
 
-> “Any institution (or part of an institution) which complied with the requirements of section 1861(j)(13) of the Social Security Act \[subsec. (j)(13) of this section\] on the day before the date of the enactment of this Act \[Dec. 5, 1980\] shall, so long as such compliance is maintained (either by meeting the applicable provisions of the Life Safety Code (21st edition, 1967, or 23d edition, 1973), with or without waivers of specific provisions, or by meeting the applicable provisions of a fire and safety code imposed by State law as provided for in such section 1861(j)(13)), be considered (for purposes of titles XVIII or XIX of such Act \[this subchapter or subchapter XIX of this chapter\]) to be in compliance with the requirements of such section 1861(j)(13), as it is amended by subsection (a) of this section.”
+> “Any institution (or part of an institution) which complied with the requirements of section 1861(j)(13) of the Social Security Act \[[42 U.S.C. 1395x(j)(13)][/us/usc/t42/s1395x/j/13]\] on the day before the date of the enactment of this Act \[Dec. 5, 1980\] shall, so long as such compliance is maintained (either by meeting the applicable provisions of the Life Safety Code (21st edition, 1967, or 23d edition, 1973), with or without waivers of specific provisions, or by meeting the applicable provisions of a fire and safety code imposed by State law as provided for in such section 1861(j)(13)), be considered (for purposes of titles XVIII or XIX of such Act \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq., 1396 et seq.\]) to be in compliance with the requirements of such section 1861(j)(13), as it is amended by subsection (a) of this section.”
 
 [Pub. L. 94–182, title I, § 106(c)][/us/pl/94/182/s106/c], Dec. 31, 1975, [89 Stat. 1052][/us/stat/89/1052], provided that: 
 
-> “Any institution (or part of an institution) which complied with the requirements of section 1861(j)(13) of the Social Security Act \[subsec. (j)(13) of this section\] on the day preceding the first day referred to in subsection (b) \[enacting provisions set out as a note under this section\] shall, so long as such compliance is maintained (either by meeting the applicable provisions of the Life Safety Code (21st edition, 1967), with or without waivers of specific provisions, or by meeting the applicable provisions of a fire and safety code imposed by State law as provided for in such section 1861(j)(13)), be considered (for purposes of titles XVIII and XIX of such Act) \[subchapters XVIII and XIX of this chapter\] to be in compliance with the requirements of such section 1861(j)(13), as it is amended by subsection (a) of this section.”
+> “Any institution (or part of an institution) which complied with the requirements of section 1861(j)(13) of the Social Security Act \[[42 U.S.C. 1395x(j)(13)][/us/usc/t42/s1395x/j/13]\] on the day preceding the first day referred to in subsection (b) \[enacting provisions set out as a note under this section\] shall, so long as such compliance is maintained (either by meeting the applicable provisions of the Life Safety Code (21st edition, 1967), with or without waivers of specific provisions, or by meeting the applicable provisions of a fire and safety code imposed by State law as provided for in such section 1861(j)(13)), be considered (for purposes of titles XVIII and XIX of such Act) \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq., 1396 et seq.\] to be in compliance with the requirements of such section 1861(j)(13), as it is amended by subsection (a) of this section.”
 
  __Private, Nonprofit Health Care Clinics Qualifying, as of__  __July 1, 1977__  __, as Rural Health Clinics__ 
 
@@ -4463,19 +4465,19 @@ For purposes of this subchapter—
 
 >     “(1) on July 1, 1977, was operating and located in an area which on that date (A) was not an urbanized area (as defined by the Bureau of the Census) and (B) had a supply of physicians insufficient to meet the needs of the area (as determined by the Secretary), and
 
->     “(2) meets the definition of a rural health clinic under section 1861(aa)(2) \[subsec. (aa)(2) of this section\] or section 1905(l) of the Social Security Act \[section 1396d(l) of this title\], except for clause (i) of section 1861(aa)(2) \[subsec. (aa)(2) of this section\],
+>     “(2) meets the definition of a rural health clinic under section 1861(aa)(2) \[[42 U.S.C. 1395x(aa)(2)][/us/usc/t42/s1395x/aa/2]\] or section 1905(l) of the Social Security Act \[[42 U.S.C. 1396d][/us/usc/t42/s1396d](l)\], except for clause (i) of section 1861(aa)(2) \[[42 U.S.C. 1395x(aa)(2)][/us/usc/t42/s1395x/aa/2]\],
 
->         shall be considered, for the purposes of title XVIII or XIX, respectively, of the Social Security Act \[this subchapter or subchapter XIX of this chapter\], as satisfying the definition of a rural health clinic under such section.”
+>         shall be considered, for the purposes of title XVIII or XIX, respectively, of the Social Security Act \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq., 1396 et seq.\], as satisfying the definition of a rural health clinic under such section.”
 
  __Promulgation of Regulations Defining Costs Chargeable to Personal Funds of Patients in Skilled Nursing Facilities; Date of Issuance__ 
 
 [Pub. L. 95–142, § 21(b)][/us/pl/95/142/s21/b], Oct. 25, 1977, [91 Stat. 1207][/us/stat/91/1207], provided that: 
 
-> “The Secretary of Health, Education, and Welfare \[now Health and Human Services\] shall, by regulation, define those costs which may be charged to the personal funds of patients in skilled nursing facilities who are individuals receiving benefits under the provisions of title XVIII \[this subchapter\], or under a State plan approved under the provisions of title XIX \[subchapter XIX of this chapter\], of the Social Security Act, and those costs which are to be included in the reasonable cost or reasonable charge for extended care services as determined under the provisions of title XVIII, or for skilled nursing and intermediate care facility services as determined under the provisions of title XIX, of such Act.”
+> “The Secretary of Health, Education, and Welfare \[now Health and Human Services\] shall, by regulation, define those costs which may be charged to the personal funds of patients in skilled nursing facilities who are individuals receiving benefits under the provisions of title XVIII \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\], or under a State plan approved under the provisions of title XIX \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\], of the Social Security Act, and those costs which are to be included in the reasonable cost or reasonable charge for extended care services as determined under the provisions of title XVIII, or for skilled nursing and intermediate care facility services as determined under the provisions of title XIX, of such Act.”
 
 \[[Pub. L. 95–142, § 21(c)(2)][/us/pl/95/142/s21/c/2], Oct. 25, 1977, [91 Stat. 1208][/us/stat/91/1208], provided that: 
 
-> “The Secretary of Health, Education, and Welfare shall issue the regulations required under subsection (b) \[set out above\] within ninety days after the date of enactment of this Act \[Oct. 25, 1977\].”
+> “The Secretary of Health, Education, and Welfare \[now Health and Human Services\] shall issue the regulations required under subsection (b) \[set out above\] within ninety days after the date of enactment of this Act \[Oct. 25, 1977\].”
 
 \]
 
@@ -4485,21 +4487,21 @@ For purposes of this subchapter—
 
  __Payment for Service of Physicians Rendered in a Teaching Hospital for Accounting Periods Beginning After__  __June 30, 1975__  __, and Prior to__  __October 1, 1978__  __; Studies, Reports, etc.; Effective Dates__ 
 
-    [Pub. L. 93–233, § 15(a)(1)][/us/pl/93/233/s15/a/1], (b)–(d), Dec. 31, 1973, [87 Stat. 965][/us/stat/87/965], as amended by [Pub. L. 93–368, § 7][/us/pl/93/368/s7], Aug. 7, 1974, [88 Stat. 422][/us/stat/88/422]; [Pub. L. 94–368, § 1][/us/pl/94/368/s1], July 16, 1976, [90 Stat. 997][/us/stat/90/997]; [Pub. L. 95–292, § 7][/us/pl/95/292/s7], June 13, 1978, [92 Stat. 316][/us/stat/92/316], provided that for the cost accounting periods beginning after June 30, 1975, and prior to October 1, 1978, subsec. (b) of this section will be administered as if paragraph (7) of subsec. (b) read as follows: “(7) a physician where the hospital has a teaching program approved as specified in paragraph (6), if (A) the hospital elects to receive any payment due under this title \[this subchapter\] for reasonable costs of such services, and (B) all physicians in such hospital agree not to bill charges for professional services rendered in such hospital to individuals covered under the insurance program established by this title \[this subchapter\]”, provided for studies with respect to methods of reimbursement for physicians’ services under subchapters XVIII and XIX of this chapter in hospitals which have a teaching program and a determination as to how and to what extent such funds are utilized, and provided that a final report be submitted to the Secretary of Health, Education, and Welfare, the Committee on Finance of the Senate, and the Committee on Ways and Means of the House of Representatives not later than Mar. 1, 1976.
+    [Pub. L. 93–233, § 15(a)(1)][/us/pl/93/233/s15/a/1], (b)–(d), Dec. 31, 1973, [87 Stat. 965][/us/stat/87/965], as amended by [Pub. L. 93–368, § 7][/us/pl/93/368/s7], Aug. 7, 1974, [88 Stat. 422][/us/stat/88/422]; [Pub. L. 94–368, § 1][/us/pl/94/368/s1], July 16, 1976, [90 Stat. 997][/us/stat/90/997]; [Pub. L. 95–292, § 7][/us/pl/95/292/s7], June 13, 1978, [92 Stat. 316][/us/stat/92/316], provided that for the cost accounting periods beginning after June 30, 1975, and prior to October 1, 1978, subsec. (b) of this section will be administered as if paragraph (7) of subsec. (b) read as follows: “(7) a physician where the hospital has a teaching program approved as specified in paragraph (6), if (A) the hospital elects to receive any payment due under this title \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\] for reasonable costs of such services, and (B) all physicians in such hospital agree not to bill charges for professional services rendered in such hospital to individuals covered under the insurance program established by this title \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\]”, provided for studies with respect to methods of reimbursement for physicians’ services under subchapters XVIII and XIX of this chapter in hospitals which have a teaching program and a determination as to how and to what extent such funds are utilized, and provided that a final report be submitted to the Secretary of Health, Education, and Welfare \[now Health and Human Services\], the Committee on Finance of the Senate, and the Committee on Ways and Means of the House of Representatives not later than Mar. 1, 1976.
 
  __Physical Therapy Services Requirements; Effective Date Postponement__ 
 
 [Pub. L. 93–233, § 17(a)][/us/pl/93/233/s17/a], Dec. 31, 1973, [87 Stat. 967][/us/stat/87/967], provided that: 
 
-> “In the administration of title XVIII of the Social Security Act \[this subchapter\], the amount payable thereunder with respect to physical therapy and other services referred to in section 1861(v)(5)(A) of such Act \[subsec. (v)(5)(A) of this section\] (as added by section 151(c) \[251(c)\] of the Social Security Amendments of 1972) shall be determined (for the period with respect to which the amendment made by such section 151(c) \[251(c)\] would, except for the provisions of this section, be applicable) in like manner as if the ‘December 31, 1972’, which appears in such subsection (d)(3) of such section 151 \[251(d)(3), set out as Effective Date of 1972 Amendment note above\], read ‘the month in which there are promulgated, by the Secretary of Health, Education, and Welfare \[now Health and Human Services\], final regulations implementing the provisions of section 1861(v)(5) of the Social Security Act \[subsec. (v)(5) of this section\]’.”
+> “In the administration of title XVIII of the Social Security Act \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\], the amount payable thereunder with respect to physical therapy and other services referred to in section 1861(v)(5)(A) of such Act \[[42 U.S.C. 1395x(v)(5)(A)][/us/usc/t42/s1395x/v/5/A]\] (as added by section 151(c) \[251(c)\] of the Social Security Amendments of 1972) shall be determined (for the period with respect to which the amendment made by such section 151(c) \[251(c)\] would, except for the provisions of this section, be applicable) in like manner as if the ‘December 31, 1972’, which appears in such subsection (d)(3) of such section 151 \[251(d)(3), set out as Effective Date of 1972 Amendment note above\], read ‘the month in which there are promulgated, by the Secretary of Health, Education, and Welfare \[now Health and Human Services\], final regulations implementing the provisions of section 1861(v)(5) of the Social Security Act \[[42 U.S.C. 1395x(v)(5)][/us/usc/t42/s1395x/v/5]\]’.”
 
  __Payment for Durable Medical Equipment__ 
 
 [Pub. L. 92–603, title II, § 245(a)][/us/pl/92/603/s245/a]–(c), Oct. 30, 1972, [86 Stat. 1423][/us/stat/86/1423], provided that:
 
->     “(a) The Secretary is authorized to conduct reimbursement experiments designed to eliminate unreasonable expenses resulting from prolonged rentals of durable medical equipment described in section 1861(s)(6) of the Social Security Act \[subsec. (s)(6) of this section\].
+>     “(a) The Secretary is authorized to conduct reimbursement experiments designed to eliminate unreasonable expenses resulting from prolonged rentals of durable medical equipment described in section 1861(s)(6) of the Social Security Act \[[42 U.S.C. 1395x(s)(6)][/us/usc/t42/s1395x/s/6]\].
 
->     “(b) Such experiment may be conducted in one or more geographic areas, as the Secretary deems appropriate, and may, pursuant to agreements with suppliers, provide for reimbursement for such equipment on a lump-sum basis whenever it is determined (in accordance with guidelines established by the Secretary) that a lump-sum payment would be more economical than the anticipated period of rental payments. Such experiments may also provide for incentives to beneficiaries (including waiver of the 20 percent coinsurance amount applicable under section 1833 of the Social Security Act \[section 1395l of this title\]) to purchase used equipment whenever the purchase price is at least 25 percent less than the reasonable charge for new equipment.
+>     “(b) Such experiment may be conducted in one or more geographic areas, as the Secretary deems appropriate, and may, pursuant to agreements with suppliers, provide for reimbursement for such equipment on a lump-sum basis whenever it is determined (in accordance with guidelines established by the Secretary) that a lump-sum payment would be more economical than the anticipated period of rental payments. Such experiments may also provide for incentives to beneficiaries (including waiver of the 20 percent coinsurance amount applicable under section 1833 of the Social Security Act \[[42 U.S.C. 1395][/us/usc/t42/s1395]l\]) to purchase used equipment whenever the purchase price is at least 25 percent less than the reasonable charge for new equipment.
 
 >     “(c) The Secretary is authorized, at such time as he deems appropriate, to implement on a nationwide basis any such reimbursement procedures which he finds to be workable, desirable and economical and which are consistent with the purposes of this section.”
 
@@ -5731,6 +5733,8 @@ For purposes of this subchapter—
 [/us/usc/t42/s1395f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395f
 [/us/pl/98/369/s2314/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2314%2Fc%2F1
 [/us/stat/98/1079]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1079
+[/us/usc/t42/s1395x/v/1/O/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395x%2Fv%2F1%2FO%2Fi
+[/us/usc/t42/s1395x/v/1/O/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395x%2Fv%2F1%2FO%2Fiii
 [/us/pl/98/369/s2318/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2318%2Fc
 [/us/stat/98/1082]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1082
 [/us/pl/98/369/s2319/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2319%2Fa
@@ -5778,10 +5782,12 @@ For purposes of this subchapter—
 [/us/stat/97/169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F169
 [/us/pl/97/248/s103/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs103%2Fb
 [/us/stat/96/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F336
+[/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
 [/us/pl/97/248/s105/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs105%2Fb
 [/us/stat/96/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F337
 [/us/pl/97/248/s106/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs106%2Fb
 [/us/stat/96/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F337
+[/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
 [/us/pl/97/248/s107/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs107%2Fb
 [/us/stat/96/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F337
 [/us/pl/97/248/s109/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs109%2Fb%2F2
@@ -5797,6 +5803,7 @@ For purposes of this subchapter—
 [/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
+[/us/usc/t42/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs301
 [/us/usc/t26/s162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs162
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/pl/97/248/s148/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs148%2Fb
@@ -5845,6 +5852,7 @@ For purposes of this subchapter—
 [/us/pl/96/499/s948/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F499%2Fs948%2Fc%2F1
 [/us/stat/94/2644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2644
 [/us/usc/t42/s1395k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395k
+[/us/usc/t42/s1395x/b/7/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395x%2Fb%2F7%2FA
 [/us/pl/93/233/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F233%2Fs15
 [/us/pl/96/499/s951/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F499%2Fs951%2Fc
 [/us/stat/94/2646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2646
@@ -5888,6 +5896,7 @@ For purposes of this subchapter—
 [/us/pl/93/233/s17/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F233%2Fs17%2Fa
 [/us/stat/87/967]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F967
 [/us/usc/t42/s1395n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395n
+[/us/usc/t42/s1395x/v/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395x%2Fv%2F5
 [/us/pl/92/603/s252/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603%2Fs252%2Fb
 [/us/stat/86/1446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1446
 [/us/pl/92/603/s256/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603%2Fs256%2Fb
@@ -5929,6 +5938,8 @@ For purposes of this subchapter—
 [/us/usc/t42/s1395rr]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395rr
 [/us/pl/108/173/s101/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs101%2Fe%2F1
 [/us/stat/117/2150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2150
+[/us/usc/t42/s1395w–101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%93101
+[/us/usc/t42/s1395x]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395x
 [/us/pl/108/173/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs303
 [/us/pl/108/173/s303/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs303%2Fj
 [/us/usc/t42/s1395u]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395u
@@ -5942,6 +5953,7 @@ For purposes of this subchapter—
 [/us/usc/t42/s1395x]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395x
 [/us/pl/108/173/s643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs643
 [/us/stat/117/2322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2322
+[/us/usc/t42/s1395j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395j
 [/us/pl/108/173/s645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs645
 [/us/stat/117/2323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2323
 [/us/pl/108/173/s651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs651
@@ -5952,26 +5964,40 @@ For purposes of this subchapter—
 [/us/usc/t42/s1395t]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395t
 [/us/pl/108/173/s702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs702
 [/us/stat/117/2335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2335
+[/us/usc/t42/s1395j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395j
+[/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
 [/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
 [/us/usc/t42/s1395t]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395t
+[/us/usc/t42/s1395j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395j
 [/us/usc/t42/s1395x/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395x%2Fm
 [/us/pl/108/173/s926/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs926%2Fa
 [/us/stat/117/2396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2396
 [/us/pl/105/277/s5101/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs5101%2Fi
 [/us/stat/112/2681-916]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-916
 [/us/usc/t42/s1395fff]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395fff
+[/us/usc/t42/s1395x/v/1/L/vi/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395x%2Fv%2F1%2FL%2Fvi%2FI
+[/us/usc/t42/s1395x/v/1/L/v/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395x%2Fv%2F1%2FL%2Fv%2FI
+[/us/usc/t42/s1395x/v/1/L/i/V]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395x%2Fv%2F1%2FL%2Fi%2FV
 [/us/pl/106/554/s1/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F6
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
 [/us/pl/106/554/s1/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F6
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
+[/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
 [/us/pl/106/554/s1/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F6
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
+[/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
 [/us/pl/106/554/s1/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F6
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
+[/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
 [/us/pl/106/554/s1/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F6
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
+[/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
+[/us/usc/t42/s1395c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395c
+[/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
 [/us/pl/105/33/s4002/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs4002%2Ff%2F1
 [/us/stat/111/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F329
+[/us/usc/t42/s1395w–21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%9321
+[/us/usc/t42/s1395w–101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%93101
 [/us/pl/105/33/s4104/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs4104%2Fa%2F2
 [/us/stat/111/363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F363
 [/us/usc/t42/s1395x/pp]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395x%2Fpp
@@ -5983,11 +6009,13 @@ For purposes of this subchapter—
 [/us/stat/111/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F369
 [/us/pl/105/33/s4513/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs4513%2Fc
 [/us/stat/111/444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F444
+[/us/usc/t42/s1395j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395j
 [/us/pl/105/33/s4531/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs4531%2Fc
 [/us/stat/111/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F452
 [/us/pl/106/113/s1000/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F6
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
 [/us/usc/t42/s1395x/s/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395x%2Fs%2F7
+[/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
 [/us/pl/106/113/s1000/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F6
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
 [/us/pl/105/33/s4531/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs4531%2Fc
@@ -6001,6 +6029,7 @@ For purposes of this subchapter—
 [/us/usc/t42/s1395x/s/2/J]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395x%2Fs%2F2%2FJ
 [/us/pl/103/66/s13564/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13564%2Fa%2F1
 [/us/stat/107/607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F607
+[/us/usc/t42/s1395x/v/1/L]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395x%2Fv%2F1%2FL
 [/us/pl/101/508/s4156/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs4156%2Fb
 [/us/stat/104/1388-88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-88
 [/us/pl/101/508/s4161/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs4161%2Fb%2F3
@@ -6015,6 +6044,8 @@ For purposes of this subchapter—
 [/us/stat/104/1388-120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-120
 [/us/pl/103/432/s160/d/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432%2Fs160%2Fd%2F4
 [/us/stat/108/4444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4444
+[/us/usc/t42/s1395x/v/1/L/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395x%2Fv%2F1%2FL%2Fiii
+[/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
 [/us/pl/101/508/s4207/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs4207%2Fd%2F3
 [/us/stat/104/1388-121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-121
 [/us/pl/103/432/s160/d/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432%2Fs160%2Fd%2F4
@@ -6023,6 +6054,7 @@ For purposes of this subchapter—
 [/us/stat/103/2167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2167
 [/us/pl/101/239/s6205/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs6205%2Fa%2F1%2FA
 [/us/stat/103/2243]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2243
+[/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
 [/us/pl/101/239/s6205/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs6205%2Fa%2F2
 [/us/stat/103/2243]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2243
 [/us/usc/t42/s1395ww]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww
@@ -6030,25 +6062,34 @@ For purposes of this subchapter—
 [/us/stat/103/2251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2251
 [/us/pl/101/239/s6213/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs6213%2Ff
 [/us/stat/103/2251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2251
+[/us/usc/t42/s1395x/aa/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395x%2Faa%2F2
 [/us/pl/101/239/s6222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs6222
 [/us/stat/103/2256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2256
+[/us/usc/t42/s1395x/v/1/L/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395x%2Fv%2F1%2FL%2Fiii
+[/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
 [/us/pl/100/647/s8427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs8427
 [/us/stat/102/3803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3803
+[/us/usc/t42/s1395x/s/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395x%2Fs%2F7
 [/us/pl/100/360/s411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360%2Fs411
 [/us/stat/102/802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F802
 [/us/usc/t42/s1395i–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395i%E2%80%933
+[/us/usc/t42/s1395x/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395x%2Fj
 [/us/usc/t42/s1395i–3/c/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395i%E2%80%933%2Fc%2F3%2FA
 [/us/pl/100/203/s4039/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs4039%2Fe
 [/us/stat/101/1330-82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-82
+[/us/usc/t42/s1395c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395c
 [/us/pl/99/509/s9305/k/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs9305%2Fk%2F4
 [/us/pl/100/203/s4039/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs4039%2Ff
 [/us/stat/101/1330-82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-82
+[/us/usc/t42/s1395x/u]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395x%2Fu
+[/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
 [/us/pl/99/509/s9305/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs9305%2Fh
 [/us/stat/100/1993]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1993
 [/us/pl/99/509/s9305/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs9305%2Fk
 [/us/stat/100/1994]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1994
 [/us/pl/99/509/s9315/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs9315%2Fb
 [/us/stat/100/2006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2006
+[/us/usc/t42/s1395x/v/1/L]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395x%2Fv%2F1%2FL
 [/us/pl/99/509/s9315/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs9315%2Fc
 [/us/stat/100/2006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2006
 [/us/pl/99/509/s9338/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs9338%2Fd
@@ -6061,6 +6102,7 @@ For purposes of this subchapter—
 [/us/stat/100/2035]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2035
 [/us/pl/98/369/s2319/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2319%2Fd
 [/us/stat/98/1083]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1083
+[/us/usc/t42/s1395x/v]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395x%2Fv
 [/us/pl/98/369/s2343/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2343%2Fd
 [/us/stat/98/1095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1095
 [/us/pl/97/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248
@@ -6072,17 +6114,29 @@ For purposes of this subchapter—
 [/us/pl/87/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F21
 [/us/pl/97/248/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs111
 [/us/stat/96/340]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F340
+[/us/usc/t42/s1395x/v/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395x%2Fv%2F2
 [/us/pl/96/499/s952/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F499%2Fs952%2Fb
 [/us/pl/97/248/s127/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs127%2F2
 [/us/stat/96/366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F366
+[/us/usc/t42/s1395x/v/1/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395x%2Fv%2F1%2FI
 [/us/pl/96/499/s915/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F499%2Fs915%2Fb
 [/us/stat/94/2623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2623
+[/us/usc/t42/s1395x/j/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395x%2Fj%2F13
+[/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
 [/us/pl/94/182/s106/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F182%2Fs106%2Fc
 [/us/stat/89/1052]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F1052
+[/us/usc/t42/s1395x/j/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395x%2Fj%2F13
+[/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
 [/us/pl/95/210/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F210%2Fs1%2Fe
 [/us/stat/91/1487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1487
+[/us/usc/t42/s1395x/aa/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395x%2Faa%2F2
+[/us/usc/t42/s1396d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396d
+[/us/usc/t42/s1395x/aa/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395x%2Faa%2F2
+[/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
 [/us/pl/95/142/s21/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F142%2Fs21%2Fb
 [/us/stat/91/1207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1207
+[/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
+[/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
 [/us/pl/95/142/s21/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F142%2Fs21%2Fc%2F2
 [/us/stat/91/1208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1208
 [/us/pl/94/63/s602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F63%2Fs602
@@ -6101,10 +6155,17 @@ For purposes of this subchapter—
 [/us/stat/90/997]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F997
 [/us/pl/95/292/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F292%2Fs7
 [/us/stat/92/316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F316
+[/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
+[/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
 [/us/pl/93/233/s17/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F233%2Fs17%2Fa
 [/us/stat/87/967]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F967
+[/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
+[/us/usc/t42/s1395x/v/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395x%2Fv%2F5%2FA
+[/us/usc/t42/s1395x/v/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395x%2Fv%2F5
 [/us/pl/92/603/s245/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603%2Fs245%2Fa
 [/us/stat/86/1423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1423
+[/us/usc/t42/s1395x/s/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395x%2Fs%2F6
+[/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
 [/us/usc/t42/s1395x]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395x
 [/us/usc/t42/s1395cc]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395cc
 

@@ -413,7 +413,7 @@
 
 >         “(2) __Adjustment in case of overutilization of substitute adult day-care services to ensure budget neutrality.—__ 
 
->         The Secretary shall monitor the expenditures under the demonstration project and under title XVIII of the Social Security Act \[this subchapter\] for home health services. If the Secretary estimates that the total expenditures under the demonstration project and under such title XVIII for home health services for a period determined by the Secretary exceed expenditures that would have been made under such title XVIII for home health services for such period if the demonstration project had not been conducted, the Secretary shall adjust the rate of payment to medical adult day-care facilities under paragraph (1) in order to eliminate such excess.
+>         The Secretary shall monitor the expenditures under the demonstration project and under title XVIII of the Social Security Act \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\] for home health services. If the Secretary estimates that the total expenditures under the demonstration project and under such title XVIII for home health services for a period determined by the Secretary exceed expenditures that would have been made under such title XVIII for home health services for such period if the demonstration project had not been conducted, the Secretary shall adjust the rate of payment to medical adult day-care facilities under paragraph (1) in order to eliminate such excess.
 
 >     “(c) __Demonstration Project Sites.—__ 
 
@@ -433,7 +433,7 @@
 
 >     “(g) __Waiver Authority.—__ 
 
->     The Secretary may waive such requirements of title XVIII of the Social Security Act \[this subchapter\] as may be necessary for the purposes of carrying out the demonstration project, other than waiving the requirement that an individual be homebound in order to be eligible for benefits for home health services.
+>     The Secretary may waive such requirements of title XVIII of the Social Security Act \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\] as may be necessary for the purposes of carrying out the demonstration project, other than waiving the requirement that an individual be homebound in order to be eligible for benefits for home health services.
 
 >     “(h) __Evaluation and Report.—__ 
 
@@ -467,7 +467,7 @@
 
 >         The term ‘medical adult day-care services’ means—
 
->             “(A) home health service items and services described in paragraphs (1) through (7) of section 1861(m) \[probably means section 1861(m) of the Social Security Act which is classified to [section 1395x(m) of this title][/us/usc/t42/s1395x/m]\] furnished in a medical adult day-care facility;
+>             “(A) home health service items and services described in paragraphs (1) through (7) of section 1861(m) \[probably means section 1861(m) of the Social Security Act, [42 U.S.C. 1395x(m)][/us/usc/t42/s1395x/m]\] furnished in a medical adult day-care facility;
 
 >             “(B)
 
@@ -481,7 +481,7 @@
 
 >         “(4) __Medicare beneficiary.—__ 
 
->         The term ‘medicare beneficiary’ means an individual entitled to benefits under part A of this title \[probably means part A of title XVIII of the Social Security Act which is classified to part A of this subchapter\], enrolled under part B of this title \[probably means part B of title XVIII of the Social Security Act which is classified to part B of this subchapter\], or both.”
+>         The term ‘medicare beneficiary’ means an individual entitled to benefits under part A of this title \[probably means part A of title XVIII of the Social Security Act, [42 U.S.C. 1395c][/us/usc/t42/s1395c] et seq.\], enrolled under part B of this title \[probably means part B of title XVIII of the Social Security Act, [42 U.S.C. 1395j][/us/usc/t42/s1395j] et seq.\], or both.”
 
  __Temporary Suspension of Oasis Requirement for Collection of Data on Non-Medicare and Non-Medicaid Patients__ 
 
@@ -489,7 +489,7 @@
 
 >     “(a) __In General.—__ 
 
->     During the period described in subsection (b), the Secretary \[of Health and Human Services\] may not require, under section 4602(e) of the Balanced Budget Act of 1997 ([Public Law 105–33][/us/pl/105/33]; [111 Stat. 467][/us/stat/111/467]) \[set out as a note under this section\] or otherwise under OASIS, a home health agency to gather or submit information that relates to an individual who is not eligible for benefits under either title XVIII or title XIX of the Social Security Act \[this subchapter and subchapter XIX of this chapter\] (such information in this section referred to as ‘non-medicare/medicaid OASIS information’).
+>     During the period described in subsection (b), the Secretary \[of Health and Human Services\] may not require, under section 4602(e) of the Balanced Budget Act of 1997 ([Public Law 105–33][/us/pl/105/33]; [111 Stat. 467][/us/stat/111/467]) \[set out as a note under this section\] or otherwise under OASIS, a home health agency to gather or submit information that relates to an individual who is not eligible for benefits under either title XVIII or title XIX of the Social Security Act \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq., 1396 et seq.\] (such information in this section referred to as ‘non-medicare/medicaid OASIS information’).
 
 >     “(b) __Period of Suspension.—__ 
 
@@ -563,13 +563,13 @@
 
 >         “(2) is not receiving payments pursuant to section 405.371 of title 42, Code of Federal Regulations;
 
->         “(3) is excluded from the medicare program under title XI of the Social Security Act \[subchapter XI of this chapter\];
+>         “(3) is excluded from the medicare program under title XI of the Social Security Act \[[42 U.S.C. 1301][/us/usc/t42/s1301] et seq.\];
 
 >         “(4) no longer has a provider agreement under section 1866 of such Act ([42 U.S.C. 1395cc][/us/usc/t42/s1395cc]);
 
 >         “(5) is no longer in business; or
 
->         “(6) is subject to a court order providing for the withholding of medicare payments under title XVIII of such Act \[this subchapter\].”
+>         “(6) is subject to a court order providing for the withholding of medicare payments under title XVIII of such Act \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\].”
 
  __Temporary Increase for Home Health Services Furnished in a Rural Area__ 
 
@@ -671,7 +671,7 @@
 
 [Pub. L. 106–113, div. B, § 1000(a)(6)][/us/pl/106/113/s1000/a/6] \[title III, § 302(c)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–360, as amended by [Pub. L. 106–554, § 1(a)(6)][/us/pl/106/554/s1/a/6] \[title V, § 501(b)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–529, provided that: 
 
-> “Not later than April 1, 2002, the Comptroller General of the United States shall submit to Congress a report analyzing the need for the 15 percent reduction under subsection (b)(3)(A)(ii) of such section \[subsec. (b)(3)(A)(ii) of this section\], or for any reduction, in the computation of the base payment amounts under the prospective payment system for home health services established under such section.”
+> “Not later than April 1, 2002, the Comptroller General of the United States shall submit to Congress a report analyzing the need for the 15 percent reduction under subsection (b)(3)(A)(ii) of such section \[[42 U.S.C. 1395fff(b)(3)(A)(ii)][/us/usc/t42/s1395fff/b/3/A/ii]\], or for any reduction, in the computation of the base payment amounts under the prospective payment system for home health services established under such section.”
 
  __Study and Report to Congress Regarding Exemption of Rural Agencies and Populations From Inclusion in Home Health Prospective Payment System__ 
 
@@ -707,7 +707,7 @@
 
 >     “(a) __Estimate.—__ 
 
->     Not later than October 1, 1997, the Secretary of Health and Human Services shall submit to the Committees on Commerce and Ways and Means of the House of Representatives and the Committee on Finance of the Senate a report that includes an estimate of the outlays that will be made under parts A and B of title XVIII of the Social Security Act \[parts A and B of this subchapter\] for the provision of home health services during each of fiscal years 1998 through 2002.
+>     Not later than October 1, 1997, the Secretary of Health and Human Services shall submit to the Committees on Commerce and Ways and Means of the House of Representatives and the Committee on Finance of the Senate a report that includes an estimate of the outlays that will be made under parts A and B of title XVIII of the Social Security Act \[[42 U.S.C. 1395c][/us/usc/t42/s1395c] et seq., 1395j et seq.\] for the provision of home health services during each of fiscal years 1998 through 2002.
 
 >     “(b) __Annual Report.—__ 
 
@@ -819,12 +819,17 @@
 [/us/pl/108/173/s703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs703
 [/us/stat/117/2336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2336
 [/us/usc/t42/s1395fff]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395fff
+[/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
+[/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
 [/us/usc/t42/s1395x]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395x
 [/us/usc/t42/s1395x/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395x%2Fm
+[/us/usc/t42/s1395c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395c
+[/us/usc/t42/s1395j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395j
 [/us/pl/108/173/s704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs704
 [/us/stat/117/2338]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2338
 [/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
 [/us/stat/111/467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F467
+[/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
 [/us/pl/108/173/s705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs705
 [/us/stat/117/2339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2339
 [/us/usc/t42/s1395fff]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395fff
@@ -839,7 +844,9 @@
 [/us/usc/t42/s1395fff]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395fff
 [/us/usc/t42/s1395g/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395g%2Fe%2F2
 [/us/usc/t42/s1395fff/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395fff%2Fb
+[/us/usc/t42/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1301
 [/us/usc/t42/s1395cc]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395cc
+[/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
 [/us/pl/106/554/s1/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F6
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
 [/us/usc/t42/s1395ww/d/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww%2Fd%2F2%2FD
@@ -859,6 +866,7 @@
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
 [/us/pl/106/554/s1/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F6
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
+[/us/usc/t42/s1395fff/b/3/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395fff%2Fb%2F3%2FA%2Fii
 [/us/pl/106/113/s1000/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F6
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
 [/us/usc/t42/s1395fff]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395fff
@@ -876,5 +884,6 @@
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
 [/us/pl/105/33/s4616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs4616
 [/us/stat/111/475]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F475
+[/us/usc/t42/s1395c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395c
 
 

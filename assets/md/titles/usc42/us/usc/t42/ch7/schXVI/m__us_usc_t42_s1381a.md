@@ -21,7 +21,7 @@
 
  __Prior Provisions__ 
 
-    A prior section 1602 of [act Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XVI, as added July 25, 1962, [Pub. L. 87–543, title I, § 141(a)][/us/pl/87/543/s141/a], [76 Stat. 198][/us/stat/76/198]; amended Oct. 13, 1964, [Pub. L. 88–650, § 5(b)][/us/pl/88/650/s5/b], [78 Stat. 1078][/us/stat/78/1078]; July 30, 1965, [Pub. L. 89–97, title II, § 221(d)(3)][/us/pl/89/97/s221/d/3], title IV, § 403(e), [79 Stat. 358][/us/stat/79/358], 418; Jan. 2, 1968, [Pub. L. 90–248, title II][/us/pl/90/248], §§ 210(a)(5), 213(a)(4), 241(d), [81 Stat. 896][/us/stat/81/896], 898, 917, formerly classified to [section 1382 of this title][/us/usc/t42/s1382], set forth the required contents of State plans for aid to the aged, blind, or disabled, and for medical assistance for the aged, prior to the general amendment of title XVI of the Social Security Act by [Pub. L. 92–603, § 301][/us/pl/92/603/s301].
+    A prior section 1602 of [act Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XVI, as added July 25, 1962, [Pub. L. 87–543, title I, § 141(a)][/us/pl/87/543/s141/a], [76 Stat. 198][/us/stat/76/198]; amended Oct. 13, 1964, [Pub. L. 88–650, § 5(b)][/us/pl/88/650/s5/b], [78 Stat. 1078][/us/stat/78/1078]; July 30, 1965, [Pub. L. 89–97, title II, § 221(d)(3)][/us/pl/89/97/s221/d/3], title IV, § 403(e), [79 Stat. 358][/us/stat/79/358], 418; Jan. 2, 1968, [Pub. L. 90–248, title II][/us/pl/90/248], §§ 210(a)(5), 213(a)(4), 241(d), [81 Stat. 896][/us/stat/81/896], 898, 917, formerly classified to [section 1382 of this title][/us/usc/t42/s1382], set forth the required contents of State plans for aid to the aged, blind, or disabled, and for medical assistance for the aged, prior to the general amendment of title XVI of the Social Security Act by [Pub. L. 92–603, § 301][/us/pl/92/603/s301]. Text of former section 1602 of act Aug. 14, 1935, is set out under [section 1382 of this title][/us/usc/t42/s1382].
 
  __Amendments__ 
 
@@ -74,6 +74,7 @@
 [/us/stat/81/896]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F896
 [/us/usc/t42/s1382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1382
 [/us/pl/92/603/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603%2Fs301
+[/us/usc/t42/s1382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1382
 [/us/pl/103/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
 [/us/pl/103/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296

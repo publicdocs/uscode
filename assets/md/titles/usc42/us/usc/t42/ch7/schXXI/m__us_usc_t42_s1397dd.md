@@ -1077,7 +1077,7 @@
 
 [Pub. L. 106–554, § 1(a)(6)][/us/pl/106/554/s1/a/6] \[title VIII, § 802(c)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–581, provided that: 
 
-> “Notwithstanding any other provision of law, all amounts appropriated under title XXI \[of the Social Security Act, this subchapter\] and allotted to a State pursuant to subsection (b) or (c) of section 2104 of the Social Security Act ([42 U.S.C. 1397dd][/us/usc/t42/s1397dd]) for fiscal years 1998 through 2000 (including any amounts that, but for this provision, would be considered to have expired) and not expended in providing child health assistance or related services for which payment may be made pursuant to subparagraph (C) or (D) of section 2105(a)(1) of such Act ([42 U.S.C. 1397ee(a)(1)][/us/usc/t42/s1397ee/a/1]) (as amended by subsection (a)), shall be available to reimburse the Grants to States for Medicaid account in an amount equal to the total payments made to such State under section 1903(a) of such Act ([42 U.S.C. 1396b(a)][/us/usc/t42/s1396b/a]) for expenditures in such years for medical assistance described in subparagraphs (A) and (B) of section 2105(a)(1) of such Act ([42 U.S.C. 1397ee(a)(1)][/us/usc/t42/s1397ee/a/1]) (as so amended).”
+> “Notwithstanding any other provision of law, all amounts appropriated under title XXI \[of the Social Security Act, [42 U.S.C. 1397aa][/us/usc/t42/s1397aa] et seq.\] and allotted to a State pursuant to subsection (b) or (c) of section 2104 of the Social Security Act ([42 U.S.C. 1397dd][/us/usc/t42/s1397dd]) for fiscal years 1998 through 2000 (including any amounts that, but for this provision, would be considered to have expired) and not expended in providing child health assistance or related services for which payment may be made pursuant to subparagraph (C) or (D) of section 2105(a)(1) of such Act ([42 U.S.C. 1397ee(a)(1)][/us/usc/t42/s1397ee/a/1]) (as amended by subsection (a)), shall be available to reimburse the Grants to States for Medicaid account in an amount equal to the total payments made to such State under section 1903(a) of such Act ([42 U.S.C. 1396b(a)][/us/usc/t42/s1396b/a]) for expenditures in such years for medical assistance described in subparagraphs (A) and (B) of section 2105(a)(1) of such Act ([42 U.S.C. 1397ee(a)(1)][/us/usc/t42/s1397ee/a/1]) (as so amended).”
 
  __Determination of Number of Children and State Cost Factors for Fiscal Years 1998 and 1999__ 
 
@@ -1256,6 +1256,7 @@
 [/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
 [/us/pl/106/554/s1/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F6
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
+[/us/usc/t42/s1397aa]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1397aa
 [/us/usc/t42/s1397dd]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1397dd
 [/us/usc/t42/s1397ee/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1397ee%2Fa%2F1
 [/us/usc/t42/s1396b/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396b%2Fa

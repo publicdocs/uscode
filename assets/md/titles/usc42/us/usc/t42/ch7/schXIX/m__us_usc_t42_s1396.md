@@ -311,11 +311,11 @@
 
 >     “(b) __Exception for State Legislation.—__ 
 
->     In the case of a State plan under title XIX \[this subchapter\] or State child health plan under \[title\] XXI \[subchapter XXI of this chapter\] of the Social Security Act, which the Secretary of Health and Human Services determines requires State legislation in order for the respective plan to meet one or more additional requirements imposed by amendments made by this Act, the respective plan shall not be regarded as failing to comply with the requirements of such title solely on the basis of its failure to meet such an additional requirement before the first day of the first calendar quarter beginning after the close of the first regular session of the State legislature that begins after the date of enactment of this Act \[Feb. 4, 2009\]. For purposes of the previous sentence, in the case of a State that has a 2-year legislative session, each year of the session shall be considered to be a separate regular session of the State legislature.
+>     In the case of a State plan under title XIX \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\] or State child health plan under \[title\] XXI \[[42 U.S.C. 1397aa][/us/usc/t42/s1397aa] et seq.\] of the Social Security Act, which the Secretary of Health and Human Services determines requires State legislation in order for the respective plan to meet one or more additional requirements imposed by amendments made by this Act, the respective plan shall not be regarded as failing to comply with the requirements of such title solely on the basis of its failure to meet such an additional requirement before the first day of the first calendar quarter beginning after the close of the first regular session of the State legislature that begins after the date of enactment of this Act \[Feb. 4, 2009\]. For purposes of the previous sentence, in the case of a State that has a 2-year legislative session, each year of the session shall be considered to be a separate regular session of the State legislature.
 
 >     “(c) __Coordination of CHIP Funding for Fiscal Year 2009.—__ 
 
->     Notwithstanding any other provision of law, insofar as funds have been appropriated under section 2104(a)(11), 2104(k), or 2104(l) of the Social Security Act \[section 1397dd(a)(11), (k), (l) of this title\], as amended by [section 201 of Public Law 110–173][/us/pl/110/173/s201], to provide allotments to States under CHIP for fiscal year 2009—
+>     Notwithstanding any other provision of law, insofar as funds have been appropriated under section 2104(a)(11), 2104(k), or 2104(l) of the Social Security Act \[[42 U.S.C. 1397dd(a)(11)][/us/usc/t42/s1397dd/a/11], (k), (l)\], as amended by [section 201 of Public Law 110–173][/us/pl/110/173/s201], to provide allotments to States under CHIP for fiscal year 2009—
 
 >         “(1) any amounts that are so appropriated that are not so allotted and obligated before April 1, 2009 are rescinded; and
 
@@ -327,13 +327,13 @@
 
 >         “(1) such amendments are effective as of such date whether or not regulations implementing such amendments have been issued; and
 
->         “(2) Federal financial participation for medical assistance or child health assistance furnished under title XIX or XXI, respectively, of the Social Security Act \[this subchapter and subchapter XXI of this chapter\] on or after such date by a State in good faith reliance on such amendments before the date of promulgation of final regulations, if any, to carry out such amendments (or before the date of guidance, if any, regarding the implementation of such amendments) shall not be denied on the basis of the State’s failure to comply with such regulations or guidance.”
+>         “(2) Federal financial participation for medical assistance or child health assistance furnished under title XIX or XXI, respectively, of the Social Security Act \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq., 1397aa et seq.\] on or after such date by a State in good faith reliance on such amendments before the date of promulgation of final regulations, if any, to carry out such amendments (or before the date of guidance, if any, regarding the implementation of such amendments) shall not be denied on the basis of the State’s failure to comply with such regulations or guidance.”
 
  __Purpose__ 
 
 [Pub. L. 111–3, § 2][/us/pl/111/3/s2], Feb. 4, 2009, [123 Stat. 10][/us/stat/123/10], provided that: 
 
-> “It is the purpose of this Act \[see Effective Date note above\] to provide dependable and stable funding for children’s health insurance under titles XXI and XIX of the Social Security Act \[subchapter XXI and this subchapter, respectively\] in order to enroll all six million uninsured children who are eligible, but not enrolled, for coverage today through such titles.”
+> “It is the purpose of this Act \[see Effective Date note above\] to provide dependable and stable funding for children’s health insurance under titles XXI and XIX of the Social Security Act \[[42 U.S.C. 1397aa][/us/usc/t42/s1397aa] et seq., 1396 et seq.\] in order to enroll all six million uninsured children who are eligible, but not enrolled, for coverage today through such titles.”
 
  __Model of Interstate Coordinated Enrollment and Coverage Process__ 
 
@@ -361,7 +361,7 @@
 
 [Pub. L. 111–3, title V, § 506(b)][/us/pl/111/3/s506/b], Feb. 4, 2009, [123 Stat. 95][/us/stat/123/95], provided that: 
 
-> “Not later than January 1, 2010, the Comptroller General of the United States shall appoint the initial members of the Medicaid and CHIP Payment and Access Commission established under section 1900 of the Social Security Act \[this section\] (as added by subsection (a)).”
+> “Not later than January 1, 2010, the Comptroller General of the United States shall appoint the initial members of the Medicaid and CHIP Payment and Access Commission established under section 1900 of the Social Security Act \[[42 U.S.C. 1396][/us/usc/t42/s1396]\] (as added by subsection (a)).”
 
  __Annual Report__ 
 
@@ -373,7 +373,7 @@
 
 [Pub. L. 111–3, title VI, § 605][/us/pl/111/3/s605], Feb. 4, 2009, [123 Stat. 100][/us/stat/123/100], as amended by [Pub. L. 111–148, title II, § 2102(a)(2)][/us/pl/111/148/s2102/a/2], Mar. 23, 2010, [124 Stat. 288][/us/stat/124/288], provided that: 
 
-> “Nothing in this Act \[see Effective Date note above\] allows Federal payment for individuals who are not lawfully residing in the United States. Titles XI, XIX, and XXI of the Social Security Act \[subchapters XI, XIX, and XXI of this chapter\] provide for the disallowance of Federal financial participation for erroneous expenditures under Medicaid and under CHIP, respectively.”
+> “Nothing in this Act \[see Effective Date note above\] allows Federal payment for individuals who are not lawfully residing in the United States. Titles XI, XIX, and XXI of the Social Security Act \[[42 U.S.C. 1301][/us/usc/t42/s1301] et seq., 1396 et seq., 1397aa et seq.\] provide for the disallowance of Federal financial participation for erroneous expenditures under Medicaid and under CHIP, respectively.”
 
  __Definitions__ 
 
@@ -457,23 +457,30 @@
 [/us/usc/t19/s1514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1514
 [/us/usc/t29/s1181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1181
 [/us/usc/t42/s1397gg]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1397gg
+[/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
+[/us/usc/t42/s1397aa]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1397aa
+[/us/usc/t42/s1397dd/a/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1397dd%2Fa%2F11
 [/us/pl/110/173/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F173%2Fs201
 [/us/usc/t26/s9801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs9801
 [/us/usc/t42/s1397gg]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1397gg
+[/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
 [/us/pl/111/3/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F3%2Fs2
 [/us/stat/123/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F10
+[/us/usc/t42/s1397aa]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1397aa
 [/us/pl/111/3/s213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F3%2Fs213
 [/us/stat/123/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F56
 [/us/pl/111/3/s501/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F3%2Fs501%2Ff
 [/us/stat/123/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F88
 [/us/pl/111/3/s506/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F3%2Fs506%2Fb
 [/us/stat/123/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F95
+[/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
 [/us/pl/111/3/s506/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F3%2Fs506%2Fc
 [/us/stat/123/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F95
 [/us/pl/111/3/s605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F3%2Fs605
 [/us/stat/123/100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F100
 [/us/pl/111/148/s2102/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs2102%2Fa%2F2
 [/us/stat/124/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F288
+[/us/usc/t42/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1301
 [/us/pl/111/3/s1/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F3%2Fs1%2Fc
 [/us/stat/123/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F8
 [/us/usc/t42/s1397aa]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1397aa

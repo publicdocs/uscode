@@ -41,7 +41,7 @@ Part A—Unlawful Acts  </td>
 
   <tr>
 
-    <td> 2000aa.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2000aa" data-uslm-ref="/us/usc/t42/s2000aa">2000aa.</a>  </td>
 
     <td> Searches and seizures by government officers and employees in connection with investigation or prosecution of criminal offenses.  </td>
 
@@ -57,7 +57,7 @@ Part B—Remedies, Exceptions, and Definitions  </td>
 
   <tr>
 
-    <td> 2000aa–5.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2000aa%E2%80%935" data-uslm-ref="/us/usc/t42/s2000aa–5">2000aa–5.</a>  </td>
 
     <td> Border and customs searches.  </td>
 
@@ -65,7 +65,7 @@ Part B—Remedies, Exceptions, and Definitions  </td>
 
   <tr>
 
-    <td> 2000aa–6.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2000aa%E2%80%936" data-uslm-ref="/us/usc/t42/s2000aa–6">2000aa–6.</a>  </td>
 
     <td> Civil actions by aggrieved persons.  </td>
 
@@ -73,7 +73,7 @@ Part B—Remedies, Exceptions, and Definitions  </td>
 
   <tr>
 
-    <td> 2000aa–7.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2000aa%E2%80%937" data-uslm-ref="/us/usc/t42/s2000aa–7">2000aa–7.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -89,7 +89,7 @@ SUBCHAPTER II—ATTORNEY GENERAL GUIDELINES  </td>
 
   <tr>
 
-    <td> 2000aa–11.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2000aa%E2%80%9311" data-uslm-ref="/us/usc/t42/s2000aa–11">2000aa–11.</a>  </td>
 
     <td> Guidelines for Federal officers and employees.  </td>
 
@@ -97,7 +97,7 @@ SUBCHAPTER II—ATTORNEY GENERAL GUIDELINES  </td>
 
   <tr>
 
-    <td> 2000aa–12.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2000aa%E2%80%9312" data-uslm-ref="/us/usc/t42/s2000aa–12">2000aa–12.</a>  </td>
 
     <td> Binding nature of guidelines; disciplinary actions for violations; legal proceedings for non-compliance prohibited.  </td>
 

@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 4371.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs4371" data-uslm-ref="/us/usc/t42/s4371">4371.</a>  </td>
 
     <td> Congressional findings, declarations, and purposes.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 4372.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs4372" data-uslm-ref="/us/usc/t42/s4372">4372.</a>  </td>
 
     <td> Office of Environmental Quality.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 4373.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs4373" data-uslm-ref="/us/usc/t42/s4373">4373.</a>  </td>
 
     <td> Referral of Environmental Quality Reports to standing committees having jurisdiction.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 4374.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs4374" data-uslm-ref="/us/usc/t42/s4374">4374.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 4375.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs4375" data-uslm-ref="/us/usc/t42/s4375">4375.</a>  </td>
 
     <td> Office of Environmental Quality Management Fund.  </td>
 

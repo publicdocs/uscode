@@ -255,7 +255,7 @@
 
 [Pub. L. 91–515, title II, § 260(c)(2)][/us/pl/91/515/s260/c/2], Oct. 30, 1970, [84 Stat. 1306][/us/stat/84/1306], provided that: 
 
-> “The amendment made by paragraph (1) \[amending this section\] shall be effective with respect to grants under section 314(c) of the Public Health Service Act \[subsec. (e) of this section\] which are made after the date of enactment of this Act \[Oct. 30, 1970.\]”
+> “The amendment made by paragraph (1) \[amending this section\] shall be effective with respect to grants under section 314(c) of the Public Health Service Act \[[42 U.S.C. 246(e)][/us/usc/t42/s246/e]\] which are made after the date of enactment of this Act \[Oct. 30, 1970.\]”
 
     [Pub. L. 91–296, title IV, § 401(b)(1)][/us/pl/91/296/s401/b/1], June 30, 1970, [84 Stat. 352][/us/stat/84/352], provided that the amendment made by that section is effective with respect to appropriations for fiscal years beginning after June 30, 1970.
 
@@ -269,7 +269,7 @@
 
 [Pub. L. 89–749, § 6][/us/pl/89/749/s6], Nov. 3, 1966, [80 Stat. 1190][/us/stat/80/1190], provided in part that: 
 
-> “The amendments made by section 3 \[amending this section\] shall become effective as of July 1, 1966, except that the provisions of section 314 of the Public Health Service Act \[this section\] as in effect prior to the enactment of this Act shall be effective until July 1, 1967, in lieu of the provisions of subsections (d) and (e), and the provisions of subsections (g) insofar as they relate to such subsections (d) and (e), of section 314 of the Public Health Service Act \[this section\] as amended by this Act.”
+> “The amendments made by section 3 \[amending this section\] shall become effective as of July 1, 1966, except that the provisions of section 314 of the Public Health Service Act \[[42 U.S.C. 246][/us/usc/t42/s246]\] as in effect prior to the enactment of this Act shall be effective until July 1, 1967, in lieu of the provisions of subsections (d) and (e), and the provisions of subsections (g) insofar as they relate to such subsections (d) and (e), of section 314 of the Public Health Service Act as amended by this Act.”
 
  __Effective Date of 1962 Amendment__ 
 
@@ -347,7 +347,7 @@
 
 [Pub. L. 89–749, § 7][/us/pl/89/749/s7], Nov. 3, 1966, [80 Stat. 1190][/us/stat/80/1190], provided that: 
 
-> “The provisions enacted by this Act \[amending this section and sections 242g and 243 of this title\] shall be subject to the provisions of Reorganization Plan No. 3 of 1966 \[set out as a note under [section 202 of this title][/us/usc/t42/s202]\].”
+> “The provisions enacted by this Act \[amending this section and sections 242g and 243 of this title\] shall be subject to the provisions of Reorganization Plan No. 3 of 1966 \[[42 U.S.C. 202][/us/usc/t42/s202] note\].”
 
 ----------
 
@@ -508,6 +508,7 @@
 [/us/usc/t5/s3371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3371
 [/us/pl/91/515/s260/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F515%2Fs260%2Fc%2F2
 [/us/stat/84/1306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1306
+[/us/usc/t42/s246/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs246%2Fe
 [/us/pl/91/296/s401/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F296%2Fs401%2Fb%2F1
 [/us/stat/84/352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F352
 [/us/pl/90/174/s2/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F174%2Fs2%2Fd%2F2
@@ -518,6 +519,7 @@
 [/us/usc/t42/s242b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs242b
 [/us/pl/89/749/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F749%2Fs6
 [/us/stat/80/1190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1190
+[/us/usc/t42/s246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs246
 [/us/pl/87/688/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F688%2Fs4%2Fb
 [/us/stat/76/587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F587
 [/us/pl/85/544/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F544%2Fs2

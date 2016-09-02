@@ -33,7 +33,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 11301.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs11301" data-uslm-ref="/us/usc/t42/s11301">11301.</a>  </td>
 
     <td> Findings and purpose.  </td>
 
@@ -41,7 +41,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 11302.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs11302" data-uslm-ref="/us/usc/t42/s11302">11302.</a>  </td>
 
     <td> General definition of homeless individual.  </td>
 
@@ -49,7 +49,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 11303.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs11303" data-uslm-ref="/us/usc/t42/s11303">11303.</a>  </td>
 
     <td> Funding availability and limitations.  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 11304.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs11304" data-uslm-ref="/us/usc/t42/s11304">11304.</a>  </td>
 
     <td> Evaluation by Comptroller General.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER II—UNITED STATES INTERAGENCY COUNCIL ON HOMELESSNESS  </td>
 
   <tr>
 
-    <td> 11311.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs11311" data-uslm-ref="/us/usc/t42/s11311">11311.</a>  </td>
 
     <td> Establishment.  </td>
 
@@ -81,7 +81,7 @@ SUBCHAPTER II—UNITED STATES INTERAGENCY COUNCIL ON HOMELESSNESS  </td>
 
   <tr>
 
-    <td> 11312.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs11312" data-uslm-ref="/us/usc/t42/s11312">11312.</a>  </td>
 
     <td> Membership.  </td>
 
@@ -89,7 +89,7 @@ SUBCHAPTER II—UNITED STATES INTERAGENCY COUNCIL ON HOMELESSNESS  </td>
 
   <tr>
 
-    <td> 11313.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs11313" data-uslm-ref="/us/usc/t42/s11313">11313.</a>  </td>
 
     <td> Functions.  </td>
 
@@ -97,7 +97,7 @@ SUBCHAPTER II—UNITED STATES INTERAGENCY COUNCIL ON HOMELESSNESS  </td>
 
   <tr>
 
-    <td> 11314.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs11314" data-uslm-ref="/us/usc/t42/s11314">11314.</a>  </td>
 
     <td> Director and staff.  </td>
 
@@ -105,7 +105,7 @@ SUBCHAPTER II—UNITED STATES INTERAGENCY COUNCIL ON HOMELESSNESS  </td>
 
   <tr>
 
-    <td> 11315.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs11315" data-uslm-ref="/us/usc/t42/s11315">11315.</a>  </td>
 
     <td> Powers.  </td>
 
@@ -113,7 +113,7 @@ SUBCHAPTER II—UNITED STATES INTERAGENCY COUNCIL ON HOMELESSNESS  </td>
 
   <tr>
 
-    <td> 11316.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs11316" data-uslm-ref="/us/usc/t42/s11316">11316.</a>  </td>
 
     <td> Transfer of functions.  </td>
 
@@ -121,7 +121,7 @@ SUBCHAPTER II—UNITED STATES INTERAGENCY COUNCIL ON HOMELESSNESS  </td>
 
   <tr>
 
-    <td> 11317.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs11317" data-uslm-ref="/us/usc/t42/s11317">11317.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -129,7 +129,7 @@ SUBCHAPTER II—UNITED STATES INTERAGENCY COUNCIL ON HOMELESSNESS  </td>
 
   <tr>
 
-    <td> 11318.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs11318" data-uslm-ref="/us/usc/t42/s11318">11318.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 
@@ -137,7 +137,7 @@ SUBCHAPTER II—UNITED STATES INTERAGENCY COUNCIL ON HOMELESSNESS  </td>
 
   <tr>
 
-    <td> 11319.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs11319" data-uslm-ref="/us/usc/t42/s11319">11319.</a>  </td>
 
     <td> Termination.  </td>
 
@@ -145,7 +145,7 @@ SUBCHAPTER II—UNITED STATES INTERAGENCY COUNCIL ON HOMELESSNESS  </td>
 
   <tr>
 
-    <td> 11320.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs11320" data-uslm-ref="/us/usc/t42/s11320">11320.</a>  </td>
 
     <td> Encouragement of State involvement.  </td>
 
@@ -169,7 +169,7 @@ Part A—Administrative Provisions  </td>
 
   <tr>
 
-    <td> 11331.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs11331" data-uslm-ref="/us/usc/t42/s11331">11331.</a>  </td>
 
     <td> Emergency Food and Shelter Program National Board.  </td>
 
@@ -177,7 +177,7 @@ Part A—Administrative Provisions  </td>
 
   <tr>
 
-    <td> 11332.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs11332" data-uslm-ref="/us/usc/t42/s11332">11332.</a>  </td>
 
     <td> Local boards.  </td>
 
@@ -185,7 +185,7 @@ Part A—Administrative Provisions  </td>
 
   <tr>
 
-    <td> 11333.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs11333" data-uslm-ref="/us/usc/t42/s11333">11333.</a>  </td>
 
     <td> Role of Federal Emergency Management Agency.  </td>
 
@@ -193,7 +193,7 @@ Part A—Administrative Provisions  </td>
 
   <tr>
 
-    <td> 11334.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs11334" data-uslm-ref="/us/usc/t42/s11334">11334.</a>  </td>
 
     <td> Records and audit of National Board and recipients of assistance.  </td>
 
@@ -201,7 +201,7 @@ Part A—Administrative Provisions  </td>
 
   <tr>
 
-    <td> 11335.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs11335" data-uslm-ref="/us/usc/t42/s11335">11335.</a>  </td>
 
     <td> Annual report.  </td>
 
@@ -217,7 +217,7 @@ Part B—Emergency Food and Shelter Grants  </td>
 
   <tr>
 
-    <td> 11341.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs11341" data-uslm-ref="/us/usc/t42/s11341">11341.</a>  </td>
 
     <td> Grants by Director.  </td>
 
@@ -225,7 +225,7 @@ Part B—Emergency Food and Shelter Grants  </td>
 
   <tr>
 
-    <td> 11342.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs11342" data-uslm-ref="/us/usc/t42/s11342">11342.</a>  </td>
 
     <td> Retention of interest earned.  </td>
 
@@ -233,7 +233,7 @@ Part B—Emergency Food and Shelter Grants  </td>
 
   <tr>
 
-    <td> 11343.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs11343" data-uslm-ref="/us/usc/t42/s11343">11343.</a>  </td>
 
     <td> Purposes of grants.  </td>
 
@@ -241,7 +241,7 @@ Part B—Emergency Food and Shelter Grants  </td>
 
   <tr>
 
-    <td> 11344.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs11344" data-uslm-ref="/us/usc/t42/s11344">11344.</a>  </td>
 
     <td> Limitation on certain costs.  </td>
 
@@ -249,7 +249,7 @@ Part B—Emergency Food and Shelter Grants  </td>
 
   <tr>
 
-    <td> 11345.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs11345" data-uslm-ref="/us/usc/t42/s11345">11345.</a>  </td>
 
     <td> Disbursement of funds.  </td>
 
@@ -257,7 +257,7 @@ Part B—Emergency Food and Shelter Grants  </td>
 
   <tr>
 
-    <td> 11346.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs11346" data-uslm-ref="/us/usc/t42/s11346">11346.</a>  </td>
 
     <td> Program guidelines.  </td>
 
@@ -273,7 +273,7 @@ Part C—General Provisions  </td>
 
   <tr>
 
-    <td> 11351.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs11351" data-uslm-ref="/us/usc/t42/s11351">11351.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -281,7 +281,7 @@ Part C—General Provisions  </td>
 
   <tr>
 
-    <td> 11352.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs11352" data-uslm-ref="/us/usc/t42/s11352">11352.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 
@@ -305,7 +305,7 @@ Part A—General Provisions  </td>
 
   <tr>
 
-    <td> 11360.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs11360" data-uslm-ref="/us/usc/t42/s11360">11360.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -313,7 +313,7 @@ Part A—General Provisions  </td>
 
   <tr>
 
-    <td> 11360a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs11360a" data-uslm-ref="/us/usc/t42/s11360a">11360a.</a>  </td>
 
     <td> Collaborative applicants.  </td>
 
@@ -321,7 +321,7 @@ Part A—General Provisions  </td>
 
   <tr>
 
-    <td> 11361.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs11361" data-uslm-ref="/us/usc/t42/s11361">11361.</a>  </td>
 
     <td> Housing affordability strategy.  </td>
 
@@ -329,7 +329,7 @@ Part A—General Provisions  </td>
 
   <tr>
 
-    <td> 11361a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs11361a" data-uslm-ref="/us/usc/t42/s11361a">11361a.</a>  </td>
 
     <td> Preventing involuntary family separation.  </td>
 
@@ -337,7 +337,7 @@ Part A—General Provisions  </td>
 
   <tr>
 
-    <td> 11361b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs11361b" data-uslm-ref="/us/usc/t42/s11361b">11361b.</a>  </td>
 
     <td> Technical assistance.  </td>
 
@@ -345,7 +345,7 @@ Part A—General Provisions  </td>
 
   <tr>
 
-    <td> 11362.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs11362" data-uslm-ref="/us/usc/t42/s11362">11362.</a>  </td>
 
     <td> Discharge coordination policy.  </td>
 
@@ -353,7 +353,7 @@ Part A—General Provisions  </td>
 
   <tr>
 
-    <td> 11363.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs11363" data-uslm-ref="/us/usc/t42/s11363">11363.</a>  </td>
 
     <td> Protection of personally identifying information by victim service providers.  </td>
 
@@ -361,7 +361,7 @@ Part A—General Provisions  </td>
 
   <tr>
 
-    <td> 11364.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs11364" data-uslm-ref="/us/usc/t42/s11364">11364.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 
@@ -377,7 +377,7 @@ Part B—Emergency Solutions Grants Program  </td>
 
   <tr>
 
-    <td> 11371.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs11371" data-uslm-ref="/us/usc/t42/s11371">11371.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -385,7 +385,7 @@ Part B—Emergency Solutions Grants Program  </td>
 
   <tr>
 
-    <td> 11372.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs11372" data-uslm-ref="/us/usc/t42/s11372">11372.</a>  </td>
 
     <td> Grant assistance.  </td>
 
@@ -393,7 +393,7 @@ Part B—Emergency Solutions Grants Program  </td>
 
   <tr>
 
-    <td> 11372a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs11372a" data-uslm-ref="/us/usc/t42/s11372a">11372a.</a>  </td>
 
     <td> Amount and allocation of assistance.  </td>
 
@@ -401,7 +401,7 @@ Part B—Emergency Solutions Grants Program  </td>
 
   <tr>
 
-    <td> 11373.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs11373" data-uslm-ref="/us/usc/t42/s11373">11373.</a>  </td>
 
     <td> Allocation and distribution of assistance.  </td>
 
@@ -409,7 +409,7 @@ Part B—Emergency Solutions Grants Program  </td>
 
   <tr>
 
-    <td> 11374.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs11374" data-uslm-ref="/us/usc/t42/s11374">11374.</a>  </td>
 
     <td> Eligible activities.  </td>
 
@@ -417,7 +417,7 @@ Part B—Emergency Solutions Grants Program  </td>
 
   <tr>
 
-    <td> 11375.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs11375" data-uslm-ref="/us/usc/t42/s11375">11375.</a>  </td>
 
     <td> Responsibilities of recipients.  </td>
 
@@ -425,7 +425,7 @@ Part B—Emergency Solutions Grants Program  </td>
 
   <tr>
 
-    <td> 11376.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs11376" data-uslm-ref="/us/usc/t42/s11376">11376.</a>  </td>
 
     <td> Administrative provisions.  </td>
 
@@ -433,7 +433,7 @@ Part B—Emergency Solutions Grants Program  </td>
 
   <tr>
 
-    <td> 11377.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs11377" data-uslm-ref="/us/usc/t42/s11377">11377.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -441,7 +441,7 @@ Part B—Emergency Solutions Grants Program  </td>
 
   <tr>
 
-    <td> 11378.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs11378" data-uslm-ref="/us/usc/t42/s11378">11378.</a>  </td>
 
     <td> Administrative costs.  </td>
 
@@ -457,7 +457,7 @@ Part C—Continuum of Care Program  </td>
 
   <tr>
 
-    <td> 11381.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs11381" data-uslm-ref="/us/usc/t42/s11381">11381.</a>  </td>
 
     <td> Purposes.  </td>
 
@@ -465,7 +465,7 @@ Part C—Continuum of Care Program  </td>
 
   <tr>
 
-    <td> 11382.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs11382" data-uslm-ref="/us/usc/t42/s11382">11382.</a>  </td>
 
     <td> Continuum of care applications and grants.  </td>
 
@@ -473,7 +473,7 @@ Part C—Continuum of Care Program  </td>
 
   <tr>
 
-    <td> 11383.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs11383" data-uslm-ref="/us/usc/t42/s11383">11383.</a>  </td>
 
     <td> Eligible activities.  </td>
 
@@ -481,7 +481,7 @@ Part C—Continuum of Care Program  </td>
 
   <tr>
 
-    <td> 11384.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs11384" data-uslm-ref="/us/usc/t42/s11384">11384.</a>  </td>
 
     <td> Incentives for high-performing communities.  </td>
 
@@ -489,7 +489,7 @@ Part C—Continuum of Care Program  </td>
 
   <tr>
 
-    <td> 11385.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs11385" data-uslm-ref="/us/usc/t42/s11385">11385.</a>  </td>
 
     <td> Supportive services.  </td>
 
@@ -497,7 +497,7 @@ Part C—Continuum of Care Program  </td>
 
   <tr>
 
-    <td> 11386.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs11386" data-uslm-ref="/us/usc/t42/s11386">11386.</a>  </td>
 
     <td> Program requirements.  </td>
 
@@ -505,7 +505,7 @@ Part C—Continuum of Care Program  </td>
 
   <tr>
 
-    <td> 11386a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs11386a" data-uslm-ref="/us/usc/t42/s11386a">11386a.</a>  </td>
 
     <td> Selection criteria.  </td>
 
@@ -513,7 +513,7 @@ Part C—Continuum of Care Program  </td>
 
   <tr>
 
-    <td> 11386b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs11386b" data-uslm-ref="/us/usc/t42/s11386b">11386b.</a>  </td>
 
     <td> Allocation of amounts and incentives for specific eligible activities.  </td>
 
@@ -521,7 +521,7 @@ Part C—Continuum of Care Program  </td>
 
   <tr>
 
-    <td> 11386c.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs11386c" data-uslm-ref="/us/usc/t42/s11386c">11386c.</a>  </td>
 
     <td> Renewal funding and terms of assistance for permanent housing.  </td>
 
@@ -529,7 +529,7 @@ Part C—Continuum of Care Program  </td>
 
   <tr>
 
-    <td> 11386d.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs11386d" data-uslm-ref="/us/usc/t42/s11386d">11386d.</a>  </td>
 
     <td> Matching funding.  </td>
 
@@ -537,7 +537,7 @@ Part C—Continuum of Care Program  </td>
 
   <tr>
 
-    <td> 11386e.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs11386e" data-uslm-ref="/us/usc/t42/s11386e">11386e.</a>  </td>
 
     <td> Appeal procedure.  </td>
 
@@ -545,7 +545,7 @@ Part C—Continuum of Care Program  </td>
 
   <tr>
 
-    <td> 11387.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs11387" data-uslm-ref="/us/usc/t42/s11387">11387.</a>  </td>
 
     <td> Regulations.  </td>
 
@@ -553,7 +553,7 @@ Part C—Continuum of Care Program  </td>
 
   <tr>
 
-    <td> 11388.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs11388" data-uslm-ref="/us/usc/t42/s11388">11388.</a>  </td>
 
     <td> Reports to Congress.  </td>
 
@@ -561,7 +561,7 @@ Part C—Continuum of Care Program  </td>
 
   <tr>
 
-    <td> 11389.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs11389" data-uslm-ref="/us/usc/t42/s11389">11389.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -577,7 +577,7 @@ Part D—Rural Housing Stability Assistance Program  </td>
 
   <tr>
 
-    <td> 11408.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs11408" data-uslm-ref="/us/usc/t42/s11408">11408.</a>  </td>
 
     <td> Rural housing stability grant program.  </td>
 
@@ -585,7 +585,7 @@ Part D—Rural Housing Stability Assistance Program  </td>
 
   <tr>
 
-    <td> 11408a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs11408a" data-uslm-ref="/us/usc/t42/s11408a">11408a.</a>  </td>
 
     <td> Use of FMHA inventory for transitional housing for homeless persons and for turnkey housing.  </td>
 
@@ -601,7 +601,7 @@ SUBCHAPTER V—IDENTIFICATION AND USE OF SURPLUS FEDERAL PROPERTY  </td>
 
   <tr>
 
-    <td> 11411.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs11411" data-uslm-ref="/us/usc/t42/s11411">11411.</a>  </td>
 
     <td> Use of unutilized and underutilized public buildings and real property to assist the homeless.  </td>
 
@@ -609,7 +609,7 @@ SUBCHAPTER V—IDENTIFICATION AND USE OF SURPLUS FEDERAL PROPERTY  </td>
 
   <tr>
 
-    <td> 11412.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs11412" data-uslm-ref="/us/usc/t42/s11412">11412.</a>  </td>
 
     <td> Making surplus personal property available to nonprofit agencies.  </td>
 
@@ -633,7 +633,7 @@ Part A—Adult Education for Homeless  </td>
 
   <tr>
 
-    <td> 11421.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs11421" data-uslm-ref="/us/usc/t42/s11421">11421.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -649,7 +649,7 @@ Part B—Education for Homeless Children and Youths  </td>
 
   <tr>
 
-    <td> 11431.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs11431" data-uslm-ref="/us/usc/t42/s11431">11431.</a>  </td>
 
     <td> Statement of policy.  </td>
 
@@ -657,7 +657,7 @@ Part B—Education for Homeless Children and Youths  </td>
 
   <tr>
 
-    <td> 11432.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs11432" data-uslm-ref="/us/usc/t42/s11432">11432.</a>  </td>
 
     <td> Grants for State and local activities for the education of homeless children and youths.  </td>
 
@@ -665,7 +665,7 @@ Part B—Education for Homeless Children and Youths  </td>
 
   <tr>
 
-    <td> 11433.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs11433" data-uslm-ref="/us/usc/t42/s11433">11433.</a>  </td>
 
     <td> Local educational agency subgrants for the education of homeless children and youths.  </td>
 
@@ -673,7 +673,7 @@ Part B—Education for Homeless Children and Youths  </td>
 
   <tr>
 
-    <td> 11434.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs11434" data-uslm-ref="/us/usc/t42/s11434">11434.</a>  </td>
 
     <td> Secretarial responsibilities.  </td>
 
@@ -681,7 +681,7 @@ Part B—Education for Homeless Children and Youths  </td>
 
   <tr>
 
-    <td> 11434a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs11434a" data-uslm-ref="/us/usc/t42/s11434a">11434a.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -689,7 +689,7 @@ Part B—Education for Homeless Children and Youths  </td>
 
   <tr>
 
-    <td> 11435.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs11435" data-uslm-ref="/us/usc/t42/s11435">11435.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 
@@ -705,7 +705,7 @@ Part C—Job Training for Homeless  </td>
 
   <tr>
 
-    <td> 11441 to 11450.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs11441" data-uslm-ref="/us/usc/t42/s11441">11441</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs11450" data-uslm-ref="/us/usc/t42/s11450">11450.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -721,7 +721,7 @@ Part D—Emergency Community Services Homeless Grant Program  </td>
 
   <tr>
 
-    <td> 11461 to 11466.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs11461" data-uslm-ref="/us/usc/t42/s11461">11461</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs11466" data-uslm-ref="/us/usc/t42/s11466">11466.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -737,7 +737,7 @@ Part E—Miscellaneous Provisions  </td>
 
   <tr>
 
-    <td> 11471, 11472.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs11471" data-uslm-ref="/us/usc/t42/s11471">11471</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs11472" data-uslm-ref="/us/usc/t42/s11472">11472.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -753,7 +753,7 @@ Part F—Family Support Centers  </td>
 
   <tr>
 
-    <td> 11481 to 11489.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs11481" data-uslm-ref="/us/usc/t42/s11481">11481</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs11489" data-uslm-ref="/us/usc/t42/s11489">11489.</a>  </td>
 
     <td> Repealed.  </td>
 

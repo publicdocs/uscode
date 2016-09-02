@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 5901.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs5901" data-uslm-ref="/us/usc/t42/s5901">5901.</a>  </td>
 
     <td> Congressional statement of findings.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 5902.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs5902" data-uslm-ref="/us/usc/t42/s5902">5902.</a>  </td>
 
     <td> Congressional declaration of policy and purpose; implementation and administration of program by Secretary of Energy.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 5903.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs5903" data-uslm-ref="/us/usc/t42/s5903">5903.</a>  </td>
 
     <td> Duties and authorities of the Secretary.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 5903a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs5903a" data-uslm-ref="/us/usc/t42/s5903a">5903a.</a>  </td>
 
     <td> Nonduplication of programs, projects, and research facilities.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 5903b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs5903b" data-uslm-ref="/us/usc/t42/s5903b">5903b.</a>  </td>
 
     <td> Environmental and safety research, development, and demonstration program.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 5903c.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs5903c" data-uslm-ref="/us/usc/t42/s5903c">5903c.</a>  </td>
 
     <td> Moneys received by Secretary from fossil energy activity; payment into Treasury; reports to House and Senate Committees.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 5903d.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs5903d" data-uslm-ref="/us/usc/t42/s5903d">5903d.</a>  </td>
 
     <td> Clean coal technology projects; proposals, implementation, funding, etc.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 5904.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs5904" data-uslm-ref="/us/usc/t42/s5904">5904.</a>  </td>
 
     <td> Research, development, and demonstration program governing principles.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 5905.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs5905" data-uslm-ref="/us/usc/t42/s5905">5905.</a>  </td>
 
     <td> Comprehensive planning and programming.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 5906.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs5906" data-uslm-ref="/us/usc/t42/s5906">5906.</a>  </td>
 
     <td> Federal assistance and participation in programs.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 5907.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs5907" data-uslm-ref="/us/usc/t42/s5907">5907.</a>  </td>
 
     <td> Demonstration projects.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 5907a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs5907a" data-uslm-ref="/us/usc/t42/s5907a">5907a.</a>  </td>
 
     <td> Small grant program.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 5908.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs5908" data-uslm-ref="/us/usc/t42/s5908">5908.</a>  </td>
 
     <td> Patents and inventions.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> 5909.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs5909" data-uslm-ref="/us/usc/t42/s5909">5909.</a>  </td>
 
     <td> Relationship to antitrust laws.  </td>
 
@@ -137,7 +137,7 @@
 
   <tr>
 
-    <td> 5910.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs5910" data-uslm-ref="/us/usc/t42/s5910">5910.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -145,7 +145,7 @@
 
   <tr>
 
-    <td> 5911.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs5911" data-uslm-ref="/us/usc/t42/s5911">5911.</a>  </td>
 
     <td> Acquisition of essential materials.  </td>
 
@@ -153,7 +153,7 @@
 
   <tr>
 
-    <td> 5912.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs5912" data-uslm-ref="/us/usc/t42/s5912">5912.</a>  </td>
 
     <td> Water resource assessments.  </td>
 
@@ -161,7 +161,7 @@
 
   <tr>
 
-    <td> 5913.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs5913" data-uslm-ref="/us/usc/t42/s5913">5913.</a>  </td>
 
     <td> Evaluation by National Institute of Standards and Technology of energy-related inventions prior to awarding of grants by Secretary; promulgation of regulations.  </td>
 
@@ -169,7 +169,7 @@
 
   <tr>
 
-    <td> 5914.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs5914" data-uslm-ref="/us/usc/t42/s5914">5914.</a>  </td>
 
     <td> Omitted.  </td>
 
@@ -177,7 +177,7 @@
 
   <tr>
 
-    <td> 5915.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs5915" data-uslm-ref="/us/usc/t42/s5915">5915.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 
@@ -185,7 +185,7 @@
 
   <tr>
 
-    <td> 5915a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs5915a" data-uslm-ref="/us/usc/t42/s5915a">5915a.</a>  </td>
 
     <td> Expiration of initial authorization to construct fossil energy demonstration plants.  </td>
 
@@ -193,7 +193,7 @@
 
   <tr>
 
-    <td> 5916.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs5916" data-uslm-ref="/us/usc/t42/s5916">5916.</a>  </td>
 
     <td> Central source of nonnuclear energy information.  </td>
 
@@ -201,7 +201,7 @@
 
   <tr>
 
-    <td> 5917 to 5920.   </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs5917" data-uslm-ref="/us/usc/t42/s5917">5917</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs5920" data-uslm-ref="/us/usc/t42/s5920">5920.</a>  </td>
 
     <td> Repealed.  </td>
 

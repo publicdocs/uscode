@@ -381,15 +381,15 @@
 
 >     “(1)
 
->         (A) The amendments made by this section \[enacting this section and amending sections 1382, 1382b, 1396a, 1396p, 1396r, and 1396s of this title\] apply (except as provided in this subsection) to payments under title XIX of the Social Security Act \[this subchapter\] for calendar quarters beginning on or after September 30, 1989, without regard to whether or not final regulations to carry out such amendments have been promulgated by such date.
+>         (A) The amendments made by this section \[enacting this section and amending sections 1382, 1382b, 1396a, 1396p, 1396r, and 1396s of this title\] apply (except as provided in this subsection) to payments under title XIX of the Social Security Act \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\] for calendar quarters beginning on or after September 30, 1989, without regard to whether or not final regulations to carry out such amendments have been promulgated by such date.
 
->         “(B) Section 1924 of the Social Security Act \[this section\] (as inserted by subsection (a)) shall only apply to institutionalized individuals who begin continuous periods of institutionalization on or after September 30, 1989, except that subsections (b) and (d) of such section (and so much of subsection (e) of such section as relates to such other subsections) shall apply as of such date to individuals institutionalized on or after such date.
+>         “(B) Section 1924 of the Social Security Act \[[42 U.S.C. 1396r–5][/us/usc/t42/s1396r–5]\] (as inserted by subsection (a)) shall only apply to institutionalized individuals who begin continuous periods of institutionalization on or after September 30, 1989, except that subsections (b) and (d) of such section (and so much of subsection (e) of such section as relates to such other subsections) shall apply as of such date to individuals institutionalized on or after such date.
 
 >     “(2)
 
->         (A) The amendment made by subsection (b) \[amending [section 1396p of this title][/us/usc/t42/s1396p]\] and section 1902(a)(51)(B) of the Social Security Act \[[section 1396a(a)(51)(B) of this title][/us/usc/t42/s1396a/a/51/B]\], apply (except as provided in paragraph (5)) to payments under title XIX of the Social Security Act for calendar quarters beginning on or after July 1, 1988, or the date of the enactment of this Act \[July 1, 1988\], without regard to whether or not final regulations to carry out such amendments have been promulgated by such date.
+>         (A) The amendment made by subsection (b) \[amending [section 1396p of this title][/us/usc/t42/s1396p]\] and section 1902(a)(51)(B) of the Social Security Act \[[42 U.S.C. 1396a(a)(51)(B)][/us/usc/t42/s1396a/a/51/B]\], apply (except as provided in paragraph (5)) to payments under title XIX of the Social Security Act for calendar quarters beginning on or after July 1, 1988, or the date of the enactment of this Act \[July 1, 1988\], without regard to whether or not final regulations to carry out such amendments have been promulgated by such date.
 
->         “(B) Section 1917(c) of the Social Security Act \[[section 1396p(c) of this title][/us/usc/t42/s1396p/c]\], as amended by subsection (b) of this section, shall apply to resources disposed of on or after July 1, 1988, except that such section shall not apply with respect to inter-spousal transfers occurring before October 1, 1989.
+>         “(B) Section 1917(c) of the Social Security Act \[[42 U.S.C. 1396p(c)][/us/usc/t42/s1396p/c]\], as amended by subsection (b) of this section, shall apply to resources disposed of on or after July 1, 1988, except that such section shall not apply with respect to inter-spousal transfers occurring before October 1, 1989.
 
 >         “(C) Notwithstanding subparagraphs (A) and (B), a State may continue to apply the policies contained in the State plan as of June 30, 1988, with respect to resources disposed of before July 1, 1988, and the laws and policies established by the State as of June 30, 1988, or provided for before July 1, 1988, shall continue to apply through September 30, 1989, (and may, at a State’s option continue after such date) to inter-spousal transfers occurring before October 1, 1989.
 
@@ -507,6 +507,8 @@
 [/us/stat/102/763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F763
 [/us/pl/100/485/s608/d/16/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F485%2Fs608%2Fd%2F16%2FD
 [/us/stat/102/2418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2418
+[/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
+[/us/usc/t42/s1396r–5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396r%E2%80%935
 [/us/usc/t42/s1396p]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396p
 [/us/usc/t42/s1396a/a/51/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396a%2Fa%2F51%2FB
 [/us/usc/t42/s1396p/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396p%2Fc

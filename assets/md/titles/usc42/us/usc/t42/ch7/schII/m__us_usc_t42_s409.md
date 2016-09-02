@@ -599,7 +599,7 @@
 
 [Pub. L. 85–786, § 2][/us/pl/85/786/s2], Aug. 27, 1958, [72 Stat. 938][/us/stat/72/938], provided that: 
 
-> “The amendment made by section 1 \[amending this section\] shall be applicable to remuneration paid after the enactment of this Act \[Aug. 27, 1958\], except that, in the case of any coverage group which is included under the agreement of a State under section 218 of the Social Security Act \[[section 418 of this title][/us/usc/t42/s418]\], the amendment made by section 1 shall also be applicable to remuneration for any member of such coverage group with respect to services performed after the effective date, specified in such agreement, for such coverage group, if such State has paid or agrees, prior to January 1, 1959, to pay, prior to such date, the amounts which under section 218(e) \[[section 418(e) of this title][/us/usc/t42/s418/e]\] would have been payable with respect to remuneration of all members of such coverage group had the amendment made by section 1 been in effect on and after January 1, 1951. Failure by a State to make such payments prior to January 1, 1959, shall be treated the same as failure to make payments when due under section 218(e).”
+> “The amendment made by section 1 \[amending this section\] shall be applicable to remuneration paid after the enactment of this Act \[Aug. 27, 1958\], except that, in the case of any coverage group which is included under the agreement of a State under section 218 of the Social Security Act \[[42 U.S.C. 418][/us/usc/t42/s418]\], the amendment made by section 1 shall also be applicable to remuneration for any member of such coverage group with respect to services performed after the effective date, specified in such agreement, for such coverage group, if such State has paid or agrees, prior to January 1, 1959, to pay, prior to such date, the amounts which under section 218(e) \[[42 U.S.C. 418(e)][/us/usc/t42/s418/e]\] would have been payable with respect to remuneration of all members of such coverage group had the amendment made by section 1 been in effect on and after January 1, 1951. Failure by a State to make such payments prior to January 1, 1959, shall be treated the same as failure to make payments when due under section 218(e).”
 
  __Effective Date of 1956 Amendment__ 
 
@@ -617,7 +617,7 @@
 
 [Act Aug. 28, 1950, ch. 809][/us/act/1950-08-28/ch809], title I, § 104(b), [64 Stat. 512][/us/stat/64/512], provided that: 
 
-> “The amendment made by subsection (a) \[amending this section\] shall take effect January 1, 1951, except that sections 214, 215, and 216 of the Social Security Act \[sections 414 to 416 of this title\] shall be applicable (1) in the case of monthly benefits for months after August 1950, and (2) in the case of lump-sum death payments with respect to deaths after August 1950.”
+> “The amendment made by subsection (a) \[amending this section\] shall take effect January 1, 1951, except that sections 214, 215, and 216 of the Social Security Act \[[42 U.S.C. 414][/us/usc/t42/s414] to 416\] shall be applicable (1) in the case of monthly benefits for months after August 1950, and (2) in the case of lump-sum death payments with respect to deaths after August 1950.”
 
  __Effective Date of 1948 Amendment__ 
 
@@ -667,13 +667,13 @@
 
 >     “(1) an individual has been employed at any time prior to 1951 by organizations enumerated in the first sentence of section 101(12) of the Internal Revenue Code \[1939\].
 
->     “(2) the service performed by such individual during the time he was so employed constituted agricultural labor as defined in section 209(l) of the Social Security Act \[former subsec. (l) of this section\] and section 1426(h) of the Internal Revenue Code \[1939\], as in effect prior to the enactment of this Act \[Aug. 28, 1950\], and such service would, but for the provisions of such sections, have constituted employment for the purposes of title II of the Social Security Act \[this subchapter\] and subchapter A of chapter 9 of such Code \[1939\].
+>     “(2) the service performed by such individual during the time he was so employed constituted agricultural labor as defined in section 209(l) of the Social Security Act \[former subsec. (l) of this section\] and section 1426(h) of the Internal Revenue Code \[1939\], as in effect prior to the enactment of this Act \[Aug. 28, 1950\], and such service would, but for the provisions of such sections, have constituted employment for the purposes of title II of the Social Security Act \[[42 U.S.C. 401][/us/usc/t42/s401] et seq.\] and subchapter A of chapter 9 of such Code \[1939\].
 
 >     “(3) the taxes imposed by sections 1400 and 1410 of the Internal Revenue Code \[1939\] have been paid with respect to any part of the remuneration paid to such individual by such organization for such service and the payment of such taxes by such organization has been made in good faith upon the assumption that such service did not constitute agricultural labor as so defined, and
 
 >     “(4) no refund of such taxes has been obtained,
 
->         the amount of such remuneration with respect to which such taxes have been paid shall be deemed to constitute remuneration for employment as defined in section 209(b) of the Social Security Act \[former subsec. (b) of this section\] as in effect prior to the enactment of this Act \[Aug. 28, 1950\] (but it shall not constitute wages for purposes of deductions under section 203 of such Act \[[section 403 of this title][/us/usc/t42/s403]\] for months for which benefits under title II of such Act \[this subchapter\] have been certified and paid prior to the enactment of this act.”
+>         the amount of such remuneration with respect to which such taxes have been paid shall be deemed to constitute remuneration for employment as defined in section 209(b) of the Social Security Act \[former subsec. (b) of this section\] as in effect prior to the enactment of this Act \[Aug. 28, 1950\] (but it shall not constitute wages for purposes of deductions under section 203 of such Act \[[42 U.S.C. 403][/us/usc/t42/s403]\] for months for which benefits under title II of such Act \[[42 U.S.C. 401][/us/usc/t42/s401] et seq.\] have been certified and paid prior to the enactment of this act.”
 
  __Refunds or Credits for Overpayments__ 
 
@@ -1094,6 +1094,7 @@
 [/us/usc/t42/s405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs405
 [/us/act/1950-08-28/ch809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-28%2Fch809
 [/us/stat/64/512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F512
+[/us/usc/t42/s414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs414
 [/us/act/1948-04-20/ch222/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-04-20%2Fch222%2Fs1%2Fb
 [/us/stat/62/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F195
 [/us/act/1946-08-10/ch951]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-10%2Fch951
@@ -1128,7 +1129,9 @@
 [/us/usc/t26/s3121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs3121
 [/us/act/1950-08-28/ch809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-28%2Fch809
 [/us/stat/64/523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F523
+[/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
 [/us/usc/t42/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs403
+[/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
 [/us/act/1948-04-20/ch222/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-04-20%2Fch222%2Fs3
 [/us/stat/62/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F195
 

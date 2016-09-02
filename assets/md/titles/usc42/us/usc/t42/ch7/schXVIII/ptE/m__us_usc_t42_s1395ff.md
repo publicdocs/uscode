@@ -841,7 +841,7 @@
 
 >     “(3) __Transition.—__ 
 
->     During the period in which the amendment made by subsection (a) \[amending this section\] has become effective but contracts are not provided under section 1874A of the Social Security Act \[[section 1395kk–1 of this title][/us/usc/t42/s1395kk–1]\] with medicare administrative contractors, any reference in section 1869(g) \[probably should be 1869(h)\] of such Act \[subsec. (h) of this section\] (as added by such amendment) to such a contractor is deemed a reference to a fiscal intermediary or carrier with an agreement under section 1816, or contract under section 1842, respectively, of such Act \[sections 1395h and 1395u of this title\].
+>     During the period in which the amendment made by subsection (a) \[amending this section\] has become effective but contracts are not provided under section 1874A of the Social Security Act \[[42 U.S.C. 1395kk–1][/us/usc/t42/s1395kk–1]\] with medicare administrative contractors, any reference in section 1869(g) \[probably should be 1869(h)\] of such Act \[[42 U.S.C. 1395ff(h)][/us/usc/t42/s1395ff/h]\] (as added by such amendment) to such a contractor is deemed a reference to a fiscal intermediary or carrier with an agreement under section 1816, or contract under section 1842, respectively, of such Act \[[42 U.S.C. 1395h][/us/usc/t42/s1395h], 1395u\].
 
 >     “(4) __Limitation on application to sgr.—__ 
 
@@ -891,15 +891,15 @@
 
 [Pub. L. 92–603, title II, § 299O(b)][/us/pl/92/603/s299O/b], Oct. 30, 1972, [86 Stat. 1465][/us/stat/86/1465], provided that:
 
->     “(1) The provisions of subparagraphs (A) and (B) of section 1869(b)(1) of the Social Security Act \[subsec. (b)(1)(A), (B) of this section\], as amended by subsection (a) of this section, shall be effective on the date of enactment of this Act \[Oct. 30, 1972\].
+>     “(1) The provisions of subparagraphs (A) and (B) of section 1869(b)(1) of the Social Security Act \[[42 U.S.C. 1395ff(b)(1)(A)][/us/usc/t42/s1395ff/b/1/A], (B)\], as amended by subsection (a) of this section, shall be effective on the date of enactment of this Act \[Oct. 30, 1972\].
 
 >     “(2)
 
->      The provisions of paragraph (2) and subparagraph (C) of paragraph (1) of section 1869(b) of the Social Security Act \[subsec. (b)(1)(C) and (b)(2) of this section\], as amended by subsection (a) of this section, shall be effective with respect to any claims under part A of title XVIII of such Act \[part A of this subchapter\], filed—
+>      The provisions of paragraph (2) and subparagraph (C) of paragraph (1) of section 1869(b) of the Social Security Act \[[42 U.S.C. 1395ff(b)(2)][/us/usc/t42/s1395ff/b/2], (b)(1)(C)\], as amended by subsection (a) of this section, shall be effective with respect to any claims under part A of title XVIII of such Act \[[42 U.S.C. 1395c][/us/usc/t42/s1395c] et seq.\], filed—
 
 >         “(A) in or after the month in which this Act is enacted \[Oct. 1972\], or
 
->         “(B) before the month in which this Act is enacted \[Oct. 1972\], but only if a civil action with respect to a final decision of the Secretary of Health, Education, and Welfare on such claim has not been commenced under such section 1869(b) \[subsec. (b) of this section\] before such month.”
+>         “(B) before the month in which this Act is enacted \[Oct. 1972\], but only if a civil action with respect to a final decision of the Secretary of Health, Education, and Welfare \[now Health and Human Services\] on such claim has not been commenced under such section 1869(b) \[[42 U.S.C. 1395ff(b)][/us/usc/t42/s1395ff/b]\] before such month.”
 
  __Transfer of Responsibility for Medicare Appeals__ 
 
@@ -909,7 +909,7 @@
 
 >         “(1) __In general.—__ 
 
->         Not later than April 1, 2004, the Commissioner of Social Security and the Secretary \[of Health and Human Services\] shall develop and transmit to Congress and the Comptroller General of the United States a plan under which the functions of administrative law judges responsible for hearing cases under title XVIII of the Social Security Act \[this subchapter\] (and related provisions in title XI of such Act \[subchapter XI of this chapter\]) are transferred from the responsibility of the Commissioner and the Social Security Administration to the Secretary and the Department of Health and Human Services.
+>         Not later than April 1, 2004, the Commissioner of Social Security and the Secretary \[of Health and Human Services\] shall develop and transmit to Congress and the Comptroller General of the United States a plan under which the functions of administrative law judges responsible for hearing cases under title XVIII of the Social Security Act \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\] (and related provisions in title XI of such Act \[[42 U.S.C. 1301][/us/usc/t42/s1301] et seq.\]) are transferred from the responsibility of the Commissioner and the Social Security Administration to the Secretary and the Department of Health and Human Services.
 
 >         “(2) __Contents.—__ 
 
@@ -961,7 +961,7 @@
 
 >             “(K) __Performance standards.—__ 
 
->             The appropriateness of establishing performance standards for administrative law judges with respect to timelines for decisions in cases under title XVIII of the Social Security Act \[this subchapter\] taking into account requirements under subsection (b)(2) for the independence of such judges and consistent with the applicable provisions of title 5, United States Code\[,\] relating to impartiality.
+>             The appropriateness of establishing performance standards for administrative law judges with respect to timelines for decisions in cases under title XVIII of the Social Security Act \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\] taking into account requirements under subsection (b)(2) for the independence of such judges and consistent with the applicable provisions of title 5, United States Code\[,\] relating to impartiality.
 
 >             “(L) __Shared resources.—__ 
 
@@ -969,7 +969,7 @@
 
 >             “(M) __Training.—__ 
 
->             The training that should be provided to administrative law judges with respect to laws and regulations under title XVIII of the Social Security Act \[this subchapter\].
+>             The training that should be provided to administrative law judges with respect to laws and regulations under title XVIII of the Social Security Act \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\].
 
 >         “(3) __Additional information.—__ 
 
@@ -1019,7 +1019,7 @@
 
 [Pub. L. 108–173, title IX, § 933(d)(5)][/us/pl/108/173/s933/d/5], Dec. 8, 2003, [117 Stat. 2406][/us/stat/117/2406], provided that: 
 
-> “In applying section 1869(g) of the Social Security Act \[subsec. (g) of this section\] (as added by paragraph (2)), any reference to a medicare administrative contractor shall be deemed to include a reference to a fiscal intermediary under section 1816 of the Social Security Act ([42 U.S.C. 1395h][/us/usc/t42/s1395h]) and a carrier under section 1842 of such Act ([42 U.S.C. 1395u][/us/usc/t42/s1395u]).”
+> “In applying section 1869(g) of the Social Security Act \[[42 U.S.C. 1395ff(g)][/us/usc/t42/s1395ff/g]\] (as added by paragraph (2)), any reference to a medicare administrative contractor shall be deemed to include a reference to a fiscal intermediary under section 1816 of the Social Security Act ([42 U.S.C. 1395h][/us/usc/t42/s1395h]) and a carrier under section 1842 of such Act ([42 U.S.C. 1395u][/us/usc/t42/s1395u]).”
 
  __Process for Correction of Minor Errors and Omissions Without Pursuing Appeals Process__ 
 
@@ -1027,7 +1027,7 @@
 
 >     “(a) __Claims.—__ 
 
->     The Secretary \[of Health and Human Services\] shall develop, in consultation with appropriate medicare contractors (as defined in section 1889(g) of the Social Security Act \[[section 1395zz(g) of this title][/us/usc/t42/s1395zz/g]\], as inserted by section 301(a)(1) \[probably should be 921(f)(1)\]) and representatives of providers of services and suppliers, a process whereby, in the case of minor errors or omissions (as defined by the Secretary) that are detected in the submission of claims under the programs under title XVIII of such Act \[this subchapter\], a provider of services or supplier is given an opportunity to correct such an error or omission without the need to initiate an appeal. Such process shall include the ability to resubmit corrected claims.
+>     The Secretary \[of Health and Human Services\] shall develop, in consultation with appropriate medicare contractors (as defined in section 1889(g) of the Social Security Act \[[42 U.S.C. 1395zz(g)][/us/usc/t42/s1395zz/g]\], as inserted by section 301(a)(1) \[probably should be 921(f)(1)\]) and representatives of providers of services and suppliers, a process whereby, in the case of minor errors or omissions (as defined by the Secretary) that are detected in the submission of claims under the programs under title XVIII of such Act \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\], a provider of services or supplier is given an opportunity to correct such an error or omission without the need to initiate an appeal. Such process shall include the ability to resubmit corrected claims.
 
 >     “(b) __Deadline.—__ 
 
@@ -1043,11 +1043,11 @@
 
 >     “(a) __Maintaining Current System for Hearings and Appeals.—__ 
 
->     Any hearing conducted under section 1869(b)(1) of the Social Security Act \[subsec. (b)(1) of this section\] prior to the earliest of the date on which the Secretary of Health and Human Services submits the report required to be submitted by the Secretary under subsection (b)(1) or September 1 shall be conducted by Administrative Law Judges of the Office of Hearings and Appeals of the Social Security Administration in the same manner as are hearings conducted under section 205(b)(1) of such Act \[[section 405(b)(1) of this title][/us/usc/t42/s405/b/1]\].
+>     Any hearing conducted under section 1869(b)(1) of the Social Security Act \[[42 U.S.C. 1395ff(b)(1)][/us/usc/t42/s1395ff/b/1]\] prior to the earliest of the date on which the Secretary of Health and Human Services submits the report required to be submitted by the Secretary under subsection (b)(1) or September 1 shall be conducted by Administrative Law Judges of the Office of Hearings and Appeals of the Social Security Administration in the same manner as are hearings conducted under section 205(b)(1) of such Act \[[42 U.S.C. 405(b)(1)][/us/usc/t42/s405/b/1]\].
 
 >     “(b) __Study and Report on Use of Telephone Hearings.—__ 
 
->         “(1) The Secretary of Health and Human Services and the Comptroller General of the United States shall each conduct a study on holding hearings under section 1869(b)(1) of the Social Security Act \[subsec. (b)(1) of this section\] by telephone and shall each report the results of the study not later than 6 months after the date of enactment of this Act \[Dec. 22, 1987\].
+>         “(1) The Secretary of Health and Human Services and the Comptroller General of the United States shall each conduct a study on holding hearings under section 1869(b)(1) of the Social Security Act \[[42 U.S.C. 1395ff(b)(1)][/us/usc/t42/s1395ff/b/1]\] by telephone and shall each report the results of the study not later than 6 months after the date of enactment of this Act \[Dec. 22, 1987\].
 
 >         “(2) The studies under paragraph (1) shall focus on whether telephone hearings allow for a full and fair evidentiary hearing, in general, or with respect to any particular category of claims and shall examine the possible improvements to the hearing process (such as cost-effectiveness, convenience to the claimant, and reduction in time under the process) resulting from the use of such hearings as compared to the adoption of other changes to the process (such as expansions in staff and resources).”
 
@@ -1174,6 +1174,8 @@
 [/us/pl/108/173/s938/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs938%2Fb
 [/us/stat/117/2415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2415
 [/us/usc/t42/s1395kk–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395kk%E2%80%931
+[/us/usc/t42/s1395ff/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ff%2Fh
+[/us/usc/t42/s1395h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395h
 [/us/usc/t42/s1395w–4/f/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%934%2Ff%2F2%2FD
 [/us/pl/108/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173
 [/us/pl/106/554/s1/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F6
@@ -1205,23 +1207,35 @@
 [/us/usc/t42/s1320a–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320a%E2%80%931
 [/us/pl/92/603/s299O/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603%2Fs299O%2Fb
 [/us/stat/86/1465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1465
+[/us/usc/t42/s1395ff/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ff%2Fb%2F1%2FA
+[/us/usc/t42/s1395ff/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ff%2Fb%2F2
+[/us/usc/t42/s1395c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395c
+[/us/usc/t42/s1395ff/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ff%2Fb
 [/us/pl/108/173/s931/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs931%2Fa
 [/us/stat/117/2396-2398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2396-2398
+[/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
+[/us/usc/t42/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1301
+[/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
+[/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
 [/us/usc/t42/s1395ff]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ff
 [/us/usc/t42/s1395ff]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ff
 [/us/usc/t42/s1395i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395i
 [/us/usc/t42/s1395t]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395t
 [/us/pl/108/173/s933/d/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs933%2Fd%2F5
 [/us/stat/117/2406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2406
+[/us/usc/t42/s1395ff/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ff%2Fg
 [/us/usc/t42/s1395h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395h
 [/us/usc/t42/s1395u]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395u
 [/us/pl/108/173/s937]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs937
 [/us/stat/117/2412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2412
 [/us/usc/t42/s1395zz/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395zz%2Fg
+[/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
 [/us/pl/101/508/s4113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs4113
 [/us/stat/104/1388-64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-64
 [/us/pl/100/203/s4037]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs4037
 [/us/stat/101/1330-80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-80
+[/us/usc/t42/s1395ff/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ff%2Fb%2F1
 [/us/usc/t42/s405/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs405%2Fb%2F1
+[/us/usc/t42/s1395ff/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ff%2Fb%2F1
 
 

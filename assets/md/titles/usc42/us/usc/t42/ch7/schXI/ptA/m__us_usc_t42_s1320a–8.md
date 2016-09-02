@@ -247,7 +247,7 @@
 
 >     As soon as practicable after the date of the enactment of this Act \[Dec. 14, 1999\], the Commissioner of Social Security, in consultation with the Inspector General of the Social Security Administration and the Attorney General, shall conduct a study of possible measures to improve—
 
->         “(1) prevention of fraud on the part of individuals entitled to disability benefits under section 223 of the Social Security Act \[[section 423 of this title][/us/usc/t42/s423]\] or benefits under section 202 of such Act \[[section 402 of this title][/us/usc/t42/s402]\] based on the beneficiary’s disability, individuals eligible for supplemental security income benefits under title XVI of such Act \[subchapter XVI of this chapter\], and applicants for any such benefits; and
+>         “(1) prevention of fraud on the part of individuals entitled to disability benefits under section 223 of the Social Security Act \[[42 U.S.C. 423][/us/usc/t42/s423]\] or benefits under section 202 of such Act \[[42 U.S.C. 402][/us/usc/t42/s402]\] based on the beneficiary’s disability, individuals eligible for supplemental security income benefits under title XVI of such Act \[[42 U.S.C. 1381][/us/usc/t42/s1381] et seq.\], and applicants for any such benefits; and
 
 >         “(2) timely processing of reported income changes by individuals receiving such benefits.
 
@@ -338,5 +338,6 @@
 [/us/stat/113/1842]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1842
 [/us/usc/t42/s423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs423
 [/us/usc/t42/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs402
+[/us/usc/t42/s1381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1381
 
 

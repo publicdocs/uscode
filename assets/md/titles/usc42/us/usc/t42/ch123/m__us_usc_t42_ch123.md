@@ -33,7 +33,7 @@ SUBCHAPTER I—DRUG EDUCATION AND PREVENTION RELATING TO YOUTH GANGS  </td>
 
   <tr>
 
-    <td> 11801.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs11801" data-uslm-ref="/us/usc/t42/s11801">11801.</a>  </td>
 
     <td> Establishment of drug abuse education and prevention program relating to youth gangs.  </td>
 
@@ -41,7 +41,7 @@ SUBCHAPTER I—DRUG EDUCATION AND PREVENTION RELATING TO YOUTH GANGS  </td>
 
   <tr>
 
-    <td> 11802.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs11802" data-uslm-ref="/us/usc/t42/s11802">11802.</a>  </td>
 
     <td> Application for grants and contracts.  </td>
 
@@ -49,7 +49,7 @@ SUBCHAPTER I—DRUG EDUCATION AND PREVENTION RELATING TO YOUTH GANGS  </td>
 
   <tr>
 
-    <td> 11803.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs11803" data-uslm-ref="/us/usc/t42/s11803">11803.</a>  </td>
 
     <td> Approval of applications.  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER I—DRUG EDUCATION AND PREVENTION RELATING TO YOUTH GANGS  </td>
 
   <tr>
 
-    <td> 11804.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs11804" data-uslm-ref="/us/usc/t42/s11804">11804.</a>  </td>
 
     <td> Coordination with juvenile justice programs.  </td>
 
@@ -65,7 +65,7 @@ SUBCHAPTER I—DRUG EDUCATION AND PREVENTION RELATING TO YOUTH GANGS  </td>
 
   <tr>
 
-    <td> 11805.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs11805" data-uslm-ref="/us/usc/t42/s11805">11805.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER I—DRUG EDUCATION AND PREVENTION RELATING TO YOUTH GANGS  </td>
 
   <tr>
 
-    <td> 11806.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs11806" data-uslm-ref="/us/usc/t42/s11806">11806.</a>  </td>
 
     <td> Annual report.  </td>
 
@@ -89,7 +89,7 @@ SUBCHAPTER II—PROGRAM FOR RUNAWAY AND HOMELESS YOUTH  </td>
 
   <tr>
 
-    <td> 11821.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs11821" data-uslm-ref="/us/usc/t42/s11821">11821.</a>  </td>
 
     <td> Establishment of program.  </td>
 
@@ -97,7 +97,7 @@ SUBCHAPTER II—PROGRAM FOR RUNAWAY AND HOMELESS YOUTH  </td>
 
   <tr>
 
-    <td> 11822.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs11822" data-uslm-ref="/us/usc/t42/s11822">11822.</a>  </td>
 
     <td> Annual report.  </td>
 
@@ -105,7 +105,7 @@ SUBCHAPTER II—PROGRAM FOR RUNAWAY AND HOMELESS YOUTH  </td>
 
   <tr>
 
-    <td> 11823.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs11823" data-uslm-ref="/us/usc/t42/s11823">11823.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 
@@ -113,7 +113,7 @@ SUBCHAPTER II—PROGRAM FOR RUNAWAY AND HOMELESS YOUTH  </td>
 
   <tr>
 
-    <td> 11824.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs11824" data-uslm-ref="/us/usc/t42/s11824">11824.</a>  </td>
 
     <td> Applications.  </td>
 
@@ -121,7 +121,7 @@ SUBCHAPTER II—PROGRAM FOR RUNAWAY AND HOMELESS YOUTH  </td>
 
   <tr>
 
-    <td> 11825.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs11825" data-uslm-ref="/us/usc/t42/s11825">11825.</a>  </td>
 
     <td> Review of applications.  </td>
 
@@ -137,7 +137,7 @@ SUBCHAPTER III—COMMUNITY PROGRAM  </td>
 
   <tr>
 
-    <td> 11841.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs11841" data-uslm-ref="/us/usc/t42/s11841">11841.</a>  </td>
 
     <td> Community youth activity program.  </td>
 
@@ -145,7 +145,7 @@ SUBCHAPTER III—COMMUNITY PROGRAM  </td>
 
   <tr>
 
-    <td> 11842.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs11842" data-uslm-ref="/us/usc/t42/s11842">11842.</a>  </td>
 
     <td> Evaluation of drug abuse education and prevention efforts.  </td>
 
@@ -161,7 +161,7 @@ SUBCHAPTER IV—MISCELLANEOUS  </td>
 
   <tr>
 
-    <td> 11851.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs11851" data-uslm-ref="/us/usc/t42/s11851">11851.</a>  </td>
 
     <td> Definitions.  </td>
 

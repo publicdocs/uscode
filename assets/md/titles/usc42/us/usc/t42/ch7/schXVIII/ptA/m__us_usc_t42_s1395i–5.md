@@ -153,7 +153,7 @@
 
 [Pub. L. 105–33, title IV, § 4454(d)][/us/pl/105/33/s4454/d], Aug. 5, 1997, [111 Stat. 431][/us/stat/111/431], provided that: 
 
-> “The amendments made by this section \[enacting this section and amending sections 1320a–1, 1320c–11, 1395x, 1396a, and 1396g of this title\] shall take effect on the date of the enactment of this Act \[Aug. 5, 1997\] and shall apply to items and services furnished on or after such date. By not later than July 1, 1998, the Secretary of Health and Human Services shall first issue regulations to carry out such amendments. Such regulations may be issued so they are effective on an interim basis pending notice and opportunity for public comment. For periods before the effective date of such regulations, such regulations shall recognize elections entered into in good faith in order to comply with the requirements of section 1821(b) of the Social Security Act \[subsec. (b) of this section\].”
+> “The amendments made by this section \[enacting this section and amending sections 1320a–1, 1320c–11, 1395x, 1396a, and 1396g of this title\] shall take effect on the date of the enactment of this Act \[Aug. 5, 1997\] and shall apply to items and services furnished on or after such date. By not later than July 1, 1998, the Secretary of Health and Human Services shall first issue regulations to carry out such amendments. Such regulations may be issued so they are effective on an interim basis pending notice and opportunity for public comment. For periods before the effective date of such regulations, such regulations shall recognize elections entered into in good faith in order to comply with the requirements of section 1821(b) of the Social Security Act \[[42 U.S.C. 1395i–5(b)][/us/usc/t42/s1395i–5/b]\].”
 
 ----------
 
@@ -172,5 +172,6 @@
 [/us/pl/108/173/s706/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs706%2Fa%2F2
 [/us/pl/105/33/s4454/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs4454%2Fd
 [/us/stat/111/431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F431
+[/us/usc/t42/s1395i–5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395i%E2%80%935%2Fb
 
 

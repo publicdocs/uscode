@@ -493,19 +493,19 @@
 
 >     “(b) __Mandatory Minimum Exclusions Apply Prospectively.—__ 
 
->     Section 1128(c)(3)(B) of the Social Security Act \[subsec. (c)(3)(B) of this section\] (as amended by this Act), which requires an exclusion of not less than five years in the case of certain exclusions, shall not apply to exclusions based on convictions occurring before the date of the enactment of this Act \[Aug. 18, 1987\].
+>     Section 1128(c)(3)(B) of the Social Security Act \[[42 U.S.C. 1320a–7(c)(3)(B)][/us/usc/t42/s1320a–7/c/3/B]\] (as amended by this Act), which requires an exclusion of not less than five years in the case of certain exclusions, shall not apply to exclusions based on convictions occurring before the date of the enactment of this Act \[Aug. 18, 1987\].
 
 >     “(c) __Effective Date for Changes in Medicaid Law.—__ 
 
->         (1) The amendments made by sections 5 and 8(f) \[enacting [section 1396r–2 of this title][/us/usc/t42/s1396r–2] and amending sections 1396a and 1396s of this title\] apply (except as provided under paragraph (2)) to payments under title XIX of the Social Security Act \[subchapter XIX of this chapter\] for calendar quarters beginning more than thirty days after the date of the enactment of this Act \[Aug. 18, 1987\], without regard to whether or not final regulations to carry out such amendment have been published by such date.
+>         (1) The amendments made by sections 5 and 8(f) \[enacting [section 1396r–2 of this title][/us/usc/t42/s1396r–2] and amending sections 1396a and 1396s of this title\] apply (except as provided under paragraph (2)) to payments under title XIX of the Social Security Act \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\] for calendar quarters beginning more than thirty days after the date of the enactment of this Act \[Aug. 18, 1987\], without regard to whether or not final regulations to carry out such amendment have been published by such date.
 
 >         “(2) In the case of a State plan for medical assistance under title XIX of the Social Security Act which the Secretary of Health and Human Services determines requires State legislation (other than legislation appropriating funds) in order for the plan to meet the additional requirements imposed by the amendments made by this Act, the State plan shall not be regarded as failing to comply with the requirements of such title solely on the basis of its failure to meet these additional requirements before the first day of the first calendar quarter beginning after the close of the first regular session of the State legislature that begins after the date of the enactment of this Act.
 
->         “(3) Subsection (j) of section 1128A of the Social Security Act \[[section 1320a–7a(j) of this title][/us/usc/t42/s1320a–7a/j]\] (as added by section 3(f) of this Act) takes effect on the date of the enactment of this Act.
+>         “(3) Subsection (j) of section 1128A of the Social Security Act \[[42 U.S.C. 1320a–7a(j)][/us/usc/t42/s1320a–7a/j]\] (as added by section 3(f) of this Act) takes effect on the date of the enactment of this Act.
 
 >     “(d) __Physician Misrepresentations.—__ 
 
->     Clauses (ii) and (iii) of section 1128A(a)(1)(C) of the Social Security Act \[section 1320a–7a(a)(1)(C)(ii), (iii) of this title\], as amended by section 3(a)(1) of this Act, apply to claims presented for services performed on or after the effective date specified in subsection (a), without regard to the date the misrepresentation of fact was made.
+>     Clauses (ii) and (iii) of section 1128A(a)(1)(C) of the Social Security Act \[[42 U.S.C. 1320a–7a(a)(1)(C)(ii)][/us/usc/t42/s1320a–7a/a/1/C/ii], (iii)\], as amended by section 3(a)(1) of this Act, apply to claims presented for services performed on or after the effective date specified in subsection (a), without regard to the date the misrepresentation of fact was made.
 
 >     “(e) __Clarification of Medicaid Moratorium.—__ 
 
@@ -513,7 +513,7 @@
 
 >     “(f) __Treatment of Certain Denials of Payment.—__ 
 
->     For purposes of section 1128(b)(8)(B)(iii) of the Social Security Act \[subsec. (b)(8)(B)(iii) of this section\] (as amended by section 2 of this Act), a person shall be considered to have been excluded from participation under a program under title XVIII \[subchapter XVIII of this chapter\] if payment to the person has been denied under section 1862(d) of the Social Security Act \[[section 1395y(d) of this title][/us/usc/t42/s1395y/d]\], as in effect before the effective date specified in subsection (a).”
+>     For purposes of section 1128(b)(8)(B)(iii) of the Social Security Act \[[42 U.S.C. 1320a–7(b)(8)(B)(iii)][/us/usc/t42/s1320a–7/b/8/B/iii]\] (as amended by section 2 of this Act), a person shall be considered to have been excluded from participation under a program under title XVIII \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\] if payment to the person has been denied under section 1862(d) of the Social Security Act \[[42 U.S.C. 1395y(d)][/us/usc/t42/s1395y/d]\], as in effect before the effective date specified in subsection (a).”
 
  __Effective Date of 1986 Amendment__ 
 
@@ -521,9 +521,9 @@
 
 > “The provisions—
 
->     “(A) of paragraphs (1), (2), and (3) of section 1128(f) of the Social Security Act \[subsec. (f)(1)–(3) of this section\] (as added by the amendment made by subsection (c)) shall apply to judgments entered, findings made, and pleas entered, before, on, or after the date of the enactment of this Act \[Oct. 21, 1986\], and
+>     “(A) of paragraphs (1), (2), and (3) of section 1128(f) of the Social Security Act \[[42 U.S.C. 1320a–7(f)(1)][/us/usc/t42/s1320a–7/f/1]–(3)\] (as added by the amendment made by subsection (c)) shall apply to judgments entered, findings made, and pleas entered, before, on, or after the date of the enactment of this Act \[Oct. 21, 1986\], and
 
->     “(B) of paragraph (4) of such section \[subsec. (f)(4) of this section\] shall apply to participation in a program entered into on or after the date of the enactment of this Act.”
+>     “(B) of paragraph (4) of such section \[[42 U.S.C. 1320a–7(f)(4)][/us/usc/t42/s1320a–7/f/4]\] shall apply to participation in a program entered into on or after the date of the enactment of this Act.”
 
  __Effective Date of 1984 Amendment__ 
 
@@ -710,13 +710,20 @@
 [/us/usc/t42/s1395nn]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395nn
 [/us/usc/t42/s1320a–7b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320a%E2%80%937b
 [/us/usc/t42/s1396a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396a
+[/us/usc/t42/s1320a–7/c/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320a%E2%80%937%2Fc%2F3%2FB
 [/us/usc/t42/s1396r–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396r%E2%80%932
+[/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
 [/us/usc/t42/s1320a–7a/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320a%E2%80%937a%2Fj
+[/us/usc/t42/s1320a–7a/a/1/C/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320a%E2%80%937a%2Fa%2F1%2FC%2Fii
 [/us/usc/t42/s1396a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396a
 [/us/usc/t42/s1396a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396a
+[/us/usc/t42/s1320a–7/b/8/B/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320a%E2%80%937%2Fb%2F8%2FB%2Fiii
+[/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
 [/us/usc/t42/s1395y/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395y%2Fd
 [/us/pl/99/509/s9317/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs9317%2Fd%2F3
 [/us/stat/100/2009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2009
+[/us/usc/t42/s1320a–7/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320a%E2%80%937%2Ff%2F1
+[/us/usc/t42/s1320a–7/f/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320a%E2%80%937%2Ff%2F4
 [/us/pl/98/369/s2333/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2333%2Fc
 [/us/stat/98/1089]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1089
 [/us/pl/97/35/s2353/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2353%2Fk

@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 14401.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs14401" data-uslm-ref="/us/usc/t42/s14401">14401.</a>  </td>
 
     <td> Findings and purpose.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 14402.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs14402" data-uslm-ref="/us/usc/t42/s14402">14402.</a>  </td>
 
     <td> Restriction on use of Federal funds under health care programs.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 14403.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs14403" data-uslm-ref="/us/usc/t42/s14403">14403.</a>  </td>
 
     <td> Restriction on use of Federal funds under certain grant programs.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 14404.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs14404" data-uslm-ref="/us/usc/t42/s14404">14404.</a>  </td>
 
     <td> Restriction on use of Federal funds by advocacy programs.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 14405.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs14405" data-uslm-ref="/us/usc/t42/s14405">14405.</a>  </td>
 
     <td> Restriction on use of other Federal funds.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 14406.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs14406" data-uslm-ref="/us/usc/t42/s14406">14406.</a>  </td>
 
     <td> Clarification with respect to advance directives.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 14407.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs14407" data-uslm-ref="/us/usc/t42/s14407">14407.</a>  </td>
 
     <td> Application to District of Columbia.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 14408.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs14408" data-uslm-ref="/us/usc/t42/s14408">14408.</a>  </td>
 
     <td> Relation to other laws.  </td>
 

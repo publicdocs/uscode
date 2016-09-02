@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 2000bb.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2000bb" data-uslm-ref="/us/usc/t42/s2000bb">2000bb.</a>  </td>
 
     <td> Congressional findings and declaration of purposes.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 2000bb–1.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2000bb%E2%80%931" data-uslm-ref="/us/usc/t42/s2000bb–1">2000bb–1.</a>  </td>
 
     <td> Free exercise of religion protected.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 2000bb–2.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2000bb%E2%80%932" data-uslm-ref="/us/usc/t42/s2000bb–2">2000bb–2.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 2000bb–3.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2000bb%E2%80%933" data-uslm-ref="/us/usc/t42/s2000bb–3">2000bb–3.</a>  </td>
 
     <td> Applicability.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 2000bb–4.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2000bb%E2%80%934" data-uslm-ref="/us/usc/t42/s2000bb–4">2000bb–4.</a>  </td>
 
     <td> Establishment clause unaffected.  </td>
 

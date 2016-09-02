@@ -1575,13 +1575,11 @@ Similar provisions were contained in the following prior appropriation acts:
 
 >                 “(iv) arranging transportation and accompanying applicants to necessary examinations, if needed; and
 
->                 “(v)
+>                 “(v) providing for the tracking and monitoring of all claims for benefits by individuals under the project.
 
->                  providing for the tracking and monitoring of all claims for benefits by individuals under the project.
+>         “(2) If the Secretary determines that an application by a State for an SSI Outreach Team Project under this section which proposes a membership and functions for such Team different from those prescribed in paragraph (1) but which is expected to be as effective, the Secretary may waive the requirements of such paragraph.
 
->                     “(2) If the Secretary determines that an application by a State for an SSI Outreach Team Project under this section which proposes a membership and functions for such Team different from those prescribed in paragraph (1) but which is expected to be as effective, the Secretary may waive the requirements of such paragraph.
-
->             \[(d) Repealed. [Pub. L. 104–66, title I, § 1061(e)][/us/pl/104/66/s1061/e], Dec. 21, 1995, [109 Stat. 720][/us/stat/109/720].\]
+>         \[(d) Repealed. [Pub. L. 104–66, title I, § 1061(e)][/us/pl/104/66/s1061/e], Dec. 21, 1995, [109 Stat. 720][/us/stat/109/720].\]
 
 >     “(e) __Authorization of Appropriations.—__ 
 
@@ -1625,7 +1623,7 @@ Similar provisions were contained in the following prior appropriation acts:
 
  __Puerto Rico, Guam, and Virgin Islands__ 
 
-Enactment of section 1603 of the Social Security Act \[this section\] by [Pub. L. 92–603][/us/pl/92/603], eff. Jan. 1, 1974, was not applicable to Puerto Rico, Guam, and the Virgin Islands. See [section 303(b) of Pub. L. 92–603][/us/pl/92/603/s303/b], set out as a note under [section 301 of this title][/us/usc/t42/s301]. Therefore, as to Puerto Rico, Guam, and the Virgin Islands, section 1603 of the Social Security Act \[this section\] as it existed prior to reenactment by [Pub. L. 92–603][/us/pl/92/603], and as amended, continues to apply and reads as follows:
+As enacted by [Pub. L. 92–603, title XVI][/us/pl/92/603] of the Social Security Act, which did not contain a section 1603, was not applicable to Puerto Rico, Guam, and the Virgin Islands. See [section 303(b) of Pub. L. 92–603][/us/pl/92/603/s303/b], set out as a note under [section 301 of this title][/us/usc/t42/s301]. Therefore, as to Puerto Rico, Guam, and the Virgin Islands, section 1603 of the Social Security Act as it existed prior to the enactment of [Pub. L. 92–603][/us/pl/92/603] \[former [42 U.S.C. 1383][/us/usc/t42/s1383]\], and as amended, continues to apply and reads as follows:
 
     § 1383. Payments to States; quarterly expenditures to exceed average of total expenditures for each quarter of fiscal year ending June 30, 1965
 
@@ -1667,7 +1665,7 @@ Enactment of section 1603 of the Social Security Act \[this section\] by [Pub. L
 
 >      Notwithstanding any other provision of law, the Secretary of Health, Education, and Welfare \[now Health and Human Services\] is authorized and directed to pay to each State an amount equal to the amount expended by such State for erroneous supplementary payments to aged, blind, or disabled individuals whenever, and to the extent to which, the Secretary through an audit by the Department of Health, Education, and Welfare \[now Health and Human Services\] which has been reviewed and concurred in by the Inspector General of such department determines that—
 
->         “(1) such amount was paid by such State as a supplementary payment during the calendar year 1974 pursuant to an agreement between the State and the Secretary required by section 212 of the Act entitled ‘An Act to extend the Renegotiation Act of 1951 for one year, and for other purposes’, approved July 9, 1973, \[set out as a note under [section 1382 of this title][/us/usc/t42/s1382]\], or such amount was paid by such State as an optional State supplementation, as defined in section 1616 of the Social Security Act \[[section 1382 of this title][/us/usc/t42/s1382]\], during the calendar year 1974,
+>         “(1) such amount was paid by such State as a supplementary payment during the calendar year 1974 pursuant to an agreement between the State and the Secretary required by section 212 of the Act entitled ‘An Act to extend the Renegotiation Act of 1951 for one year, and for other purposes’, approved July 9, 1973, \[set out as a note under [section 1382 of this title][/us/usc/t42/s1382]\], or such amount was paid by such State as an optional State supplementation, as defined in section 1616 of the Social Security Act \[[42 U.S.C. 1382][/us/usc/t42/s1382]\], during the calendar year 1974,
 
 >         “(2) the erroneous payments were the result of good faith reliance by such State upon erroneous or incomplete information supplied by the Department of Health, Education, and Welfare \[now Health and Human Services\], through the State data exchange, or good faith reliance upon incorrect supplemental security income benefit payments made by such department, and
 
@@ -2404,6 +2402,7 @@ Enactment of section 1603 of the Social Security Act \[this section\] by [Pub. L
 [/us/pl/92/603/s303/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603%2Fs303%2Fb
 [/us/usc/t42/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs301
 [/us/pl/92/603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603
+[/us/usc/t42/s1383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1383
 [/us/pl/97/35/s2184/d/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2184%2Fd%2F5%2FA
 [/us/stat/95/818]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F818
 [/us/pl/97/35/s2184/d/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2184%2Fd%2F5%2FA

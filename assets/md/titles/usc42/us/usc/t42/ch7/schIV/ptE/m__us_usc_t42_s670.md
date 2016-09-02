@@ -375,7 +375,7 @@
 
  __Study of Foster Care and Adoption Assistance Programs; Report to Congress Not Later Than__  __October 1, 1983__ 
 
-    [Pub. L. 96–272, title I, § 101(b)][/us/pl/96/272/s101/b], June 17, 1980, [94 Stat. 513][/us/stat/94/513], directed Secretary of Health, Education, and Welfare to conduct a study of programs of foster care and adoption assistance established under part IV–E of the Social Security Act (this part) and submit to Congress, not later than Oct. 1, 1983, a full and complete report thereon, together with his recommendations as to (A) whether such part IV–E should be continued, and if so, (B) the changes (if any) which should be made in such part IV–E.
+    [Pub. L. 96–272, title I, § 101(b)][/us/pl/96/272/s101/b], June 17, 1980, [94 Stat. 513][/us/stat/94/513], directed the Secretary of Health, Education, and Welfare to conduct a study of programs of foster care and adoption assistance established under part IV–E of the Social Security Act ([42 U.S.C. 670][/us/usc/t42/s670] et seq.) and submit to Congress, not later than Oct. 1, 1983, a full and complete report thereon, together with his recommendations as to (A) whether such part IV–E should be continued, and if so, (B) the changes (if any) which should be made in such part IV–E.
 
 ----------
 
@@ -444,5 +444,6 @@
 [/us/stat/124/3513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3513
 [/us/pl/96/272/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F272%2Fs101%2Fb
 [/us/stat/94/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F513
+[/us/usc/t42/s670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs670
 
 

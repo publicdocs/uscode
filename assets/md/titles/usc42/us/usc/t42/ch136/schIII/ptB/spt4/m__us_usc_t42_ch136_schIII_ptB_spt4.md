@@ -15,10 +15,6 @@
 
 ##### subpart 4—transitional housing assistance grants for victims of domestic violence, dating violence, sexual assault, or stalking
 
- __Amendment of Subpart Heading__ 
-
-[Pub. L. 113–4, § 4][/us/pl/113/4/s4], Mar. 7, 2013, [127 Stat. 64][/us/stat/127/64], provided that amendment by section 602(1) not effective until the beginning of the fiscal year following Mar. 7, 2013. See 2013 Amendment note below.
-
  __Codification__ 
 
     This subpart was, in the original, chapter 11 of subtitle B of title IV of [Pub. L. 103–322][/us/pl/103/322], and has been designated as subpart 4 of this part for purposes of codification. Another chapter 11 of subtitle B of title IV of [Pub. L. 103–322][/us/pl/103/322] was designated subpart 3a of this part.
@@ -34,8 +30,6 @@
 ----------
 ----------
 
-[/us/pl/113/4/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs4
-[/us/stat/127/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F64
 [/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
 [/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
 [/us/pl/113/4/s602/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs602%2F1

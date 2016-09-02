@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1975.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs1975" data-uslm-ref="/us/usc/t42/s1975">1975.</a>  </td>
 
     <td> Establishment of Commission.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 1975a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs1975a" data-uslm-ref="/us/usc/t42/s1975a">1975a.</a>  </td>
 
     <td> Duties of Commission.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 1975b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs1975b" data-uslm-ref="/us/usc/t42/s1975b">1975b.</a>  </td>
 
     <td> Administrative provisions.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 1975c.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs1975c" data-uslm-ref="/us/usc/t42/s1975c">1975c.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 1975d.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs1975d" data-uslm-ref="/us/usc/t42/s1975d">1975d.</a>  </td>
 
     <td> Termination.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 1975e, 1975f.   </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs1975e" data-uslm-ref="/us/usc/t42/s1975e">1975e</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs1975f" data-uslm-ref="/us/usc/t42/s1975f">1975f.</a>  </td>
 
     <td> Omitted.  </td>
 

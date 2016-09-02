@@ -2489,7 +2489,7 @@
 
 [Pub. L. 106–113, div. B, § 1000(a)(6)][/us/pl/106/113/s1000/a/6] \[title IV, § 403(d)(2)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–371, as amended by [Pub. L. 106–554, § 1(a)(6)][/us/pl/106/554/s1/a/6] \[title II, § 201(b)(2)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–481, provided that: 
 
-> “Paragraphs (1) through (3) of section 1834(g) of the Social Security Act \[subsec. (g) of this section\] (as amended by paragraph (1)) apply for cost reporting periods beginning on or after October 1, 2000.”
+> “Paragraphs (1) through (3) of section 1834(g) of the Social Security Act \[[42 U.S.C. 1395m(g)(1)][/us/usc/t42/s1395m/g/1]–(3)\] (as amended by paragraph (1)) apply for cost reporting periods beginning on or after October 1, 2000.”
 
  __Effective Date of 1997 Amendment__ 
 
@@ -2945,7 +2945,7 @@
 
 [Pub. L. 108–173, title IV, § 414(c)(2)][/us/pl/108/173/s414/c/2], Dec. 8, 2003, [117 Stat. 2280][/us/stat/117/2280], provided that: 
 
-> “In order to promptly implement section 1834(l)(12) of the Social Security Act \[subsec. (l)(12) of this section\], as added by paragraph (1), the Secretary \[of Health and Human Services\] may use data furnished by the Comptroller General of the United States.”
+> “In order to promptly implement section 1834(l)(12) of the Social Security Act \[[42 U.S.C. 1395m][/us/usc/t42/s1395m](l)(12)\], as added by paragraph (1), the Secretary \[of Health and Human Services\] may use data furnished by the Comptroller General of the United States.”
 
  __Implementation of 2003 Amendment__ 
 
@@ -3075,7 +3075,7 @@
 
 >     The Secretary of Health and Human Services shall conduct a study to identify—
 
->         “(A) settings and sites for the provision of telehealth services that are in addition to those permitted under section 1834(m) of the Social Security Act \[subsec. (m) of this section\], as added by subsection (b);
+>         “(A) settings and sites for the provision of telehealth services that are in addition to those permitted under section 1834(m) of the Social Security Act \[[42 U.S.C. 1395m(m)][/us/usc/t42/s1395m/m]\], as added by subsection (b);
 
 >         “(B) practitioners that may be reimbursed under such section for furnishing telehealth services that are in addition to the practitioners that may be reimbursed for such services under such section; and
 
@@ -3089,7 +3089,7 @@
 
 [Pub. L. 106–554, § 1(a)(6)][/us/pl/106/554/s1/a/6] \[title IV, § 423(a)(2)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–518, provided that: 
 
-> “Notwithstanding the amendment made by paragraph (1) \[amending this section\], for purposes of making payments for ambulance services under part B of title XVIII of the Social Security Act \[this part\], for services furnished during 2001, the ‘percentage increase in the consumer price index’ specified in section 1834(l)(3)(B) of such Act ([42 U.S.C. 1395m][/us/usc/t42/s1395m](l)(3)(B))—
+> “Notwithstanding the amendment made by paragraph (1) \[amending this section\], for purposes of making payments for ambulance services under part B of title XVIII of the Social Security Act \[[42 U.S.C. 1395j][/us/usc/t42/s1395j] et seq.\], for services furnished during 2001, the ‘percentage increase in the consumer price index’ specified in section 1834(l)(3)(B) of such Act ([42 U.S.C. 1395m][/us/usc/t42/s1395m](l)(3)(B))—
 
 >     “(A) for services furnished on or after January 1, 2001, and before July 1, 2001, shall be the percentage increase for 2001 as determined under the provisions of law in effect on the day before the date of the enactment of this Act \[Dec. 21, 2000\]; and
 
@@ -3115,7 +3115,7 @@
 
 [Pub. L. 106–554, § 1(a)(6)][/us/pl/106/554/s1/a/6] \[title IV, § 428(b)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–522, provided that: 
 
-> “The provisions of section 1834(h)(1)(G) \[subsec. (h)(1)(G) of this section\] as added by subsection (a) shall supersede any rule that as of the date of the enactment of this Act \[Dec. 21, 2000\] may have applied a 5-year replacement rule with regard to prosthetic devices.”
+> “The provisions of section 1834(h)(1)(G) \[[42 U.S.C. 1395m(h)(1)(G)][/us/usc/t42/s1395m/h/1/G]\] as added by subsection (a) shall supersede any rule that as of the date of the enactment of this Act \[Dec. 21, 2000\] may have applied a 5-year replacement rule with regard to prosthetic devices.”
 
  __GAO Study and Report on Costs of Emergency and Medical Transportation Services__ 
 
@@ -3127,7 +3127,7 @@
 
 >     “(b) __Report.—__ 
 
->     Not later than 18 months after the date of the enactment of this Act \[Dec. 21, 2000\], the Comptroller General shall submit to Congress a report on the study conducted under subsection (a), together with recommendations for any changes in methodology or payment level necessary to fairly compensate suppliers of emergency and medical transportation services and to ensure the access of beneficiaries under the medicare program under title XVIII of the Social Security Act \[this subchapter\].”
+>     Not later than 18 months after the date of the enactment of this Act \[Dec. 21, 2000\], the Comptroller General shall submit to Congress a report on the study conducted under subsection (a), together with recommendations for any changes in methodology or payment level necessary to fairly compensate suppliers of emergency and medical transportation services and to ensure the access of beneficiaries under the medicare program under title XVIII of the Social Security Act \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\].”
 
  __Treatment of Temporary Payment Increases After Calendar Year 2001__ 
 
@@ -3177,7 +3177,7 @@
 
 >     The Secretary of Health and Human Services shall establish up to 3 demonstration projects under which, at the request of a unit of local government, the Secretary enters into a contract with the unit of local government under which—
 
->         “(1) the unit of local government furnishes (or arranges for the furnishing of) ambulance services for which payment may be made under part B of title XVIII of the Social Security Act \[this part\] for individuals residing in the unit of local government who are enrolled under such part, except that the unit of local government may not enter into the contract unless the contract covers at least 80 percent of the individuals residing in the unit of local government who are enrolled under such part but not in a Medicare+Choice plan;
+>         “(1) the unit of local government furnishes (or arranges for the furnishing of) ambulance services for which payment may be made under part B of title XVIII of the Social Security Act \[[42 U.S.C. 1395j][/us/usc/t42/s1395j] et seq.\] for individuals residing in the unit of local government who are enrolled under such part, except that the unit of local government may not enter into the contract unless the contract covers at least 80 percent of the individuals residing in the unit of local government who are enrolled under such part but not in a Medicare+Choice plan;
 
 >         “(2) any individual or entity furnishing ambulance services under the contract meets the requirements otherwise applicable to individuals and entities furnishing such services under such part; and
 
@@ -3199,7 +3199,7 @@
 
 >         In this subsection, the term ‘capitated payment rate’ means, with respect to a demonstration project—
 
->             “(A) in its first year, a rate established for the project by the Secretary, using the most current available data, in a manner that ensures that aggregate payments under the project will not exceed the aggregate payment that would have been made for ambulance services under part B of title XVIII of the Social Security Act \[this part\] in the local area of government’s jurisdiction; and
+>             “(A) in its first year, a rate established for the project by the Secretary, using the most current available data, in a manner that ensures that aggregate payments under the project will not exceed the aggregate payment that would have been made for ambulance services under part B of title XVIII of the Social Security Act \[[42 U.S.C. 1395j][/us/usc/t42/s1395j] et seq.\] in the local area of government’s jurisdiction; and
 
 >             “(B) in a subsequent year, the capitated payment rate established for the previous year increased by an appropriate inflation adjustment factor.
 
@@ -3215,7 +3215,7 @@
 
 >     “(d) __Contract Payments in Lieu of Other Benefits.—__ 
 
->     Payments under a contract to a unit of local government under this section shall be instead of the amounts which (in the absence of the contract) would otherwise be payable under part B of title XVIII of the Social Security Act \[this part\] for the services covered under the contract which are furnished to individuals who reside in the unit of local government.
+>     Payments under a contract to a unit of local government under this section shall be instead of the amounts which (in the absence of the contract) would otherwise be payable under part B of title XVIII of the Social Security Act \[[42 U.S.C. 1395j][/us/usc/t42/s1395j] et seq.\] for the services covered under the contract which are furnished to individuals who reside in the unit of local government.
 
 >     “(e) __Report on Effects of Capitated Contracts.—__ 
 
@@ -3235,13 +3235,13 @@
 
 [Pub. L. 105–33, title IV, § 4551(b)][/us/pl/105/33/s4551/b], Aug. 5, 1997, [111 Stat. 458][/us/stat/111/458], provided that: 
 
-> “In determining the amount of payment under part B of title XVIII of the Social Security Act \[this part\] with respect to parenteral and enteral nutrients, supplies, and equipment during each of the years 1998 through 2002, the charges determined to be reasonable with respect to such nutrients, supplies, and equipment may not exceed the charges determined to be reasonable with respect to such nutrients, supplies, and equipment during 1995.”
+> “In determining the amount of payment under part B of title XVIII of the Social Security Act \[[42 U.S.C. 1395j][/us/usc/t42/s1395j] et seq.\] with respect to parenteral and enteral nutrients, supplies, and equipment during each of the years 1998 through 2002, the charges determined to be reasonable with respect to such nutrients, supplies, and equipment may not exceed the charges determined to be reasonable with respect to such nutrients, supplies, and equipment during 1995.”
 
  __Service Standards for Providers of Oxygen and Oxygen Equipment__ 
 
 [Pub. L. 105–33, title IV, § 4552(c)][/us/pl/105/33/s4552/c], Aug. 5, 1997, [111 Stat. 459][/us/stat/111/459], provided that: 
 
-> “The Secretary shall as soon as practicable establish service standards for persons seeking payment under part B of title XVIII of the Social Security Act \[this part\] for the providing of oxygen and oxygen equipment to beneficiaries within their homes.”
+> “The Secretary shall as soon as practicable establish service standards for persons seeking payment under part B of title XVIII of the Social Security Act \[[42 U.S.C. 1395j][/us/usc/t42/s1395j] et seq.\] for the providing of oxygen and oxygen equipment to beneficiaries within their homes.”
 
  __Access to Home Oxygen Equipment__ 
 
@@ -3261,7 +3261,7 @@
 
 >     “(1) __In general.—__ 
 
->     The Secretary of Health and Human Services, in consultation with representatives of suppliers of durable medical equipment under part B of the medicare program \[this part\] and individuals entitled to benefits under such program on the basis of disability, shall conduct a study of the effects of the methodology for determining payments for items of such equipment under such part on the ability of such individuals to obtain items of such equipment, including customized items.
+>     The Secretary of Health and Human Services, in consultation with representatives of suppliers of durable medical equipment under part B of the medicare program \[[42 U.S.C. 1395j][/us/usc/t42/s1395j] et seq.\] and individuals entitled to benefits under such program on the basis of disability, shall conduct a study of the effects of the methodology for determining payments for items of such equipment under such part on the ability of such individuals to obtain items of such equipment, including customized items.
 
 >     “(2) __Report.—__ 
 
@@ -3277,7 +3277,7 @@
 
 >     “(1) __In general.—__ 
 
->     In accordance with section 1834(a)(10)(B) of the Social Security Act \[subsec. (a)(10)(B) of this section\] (as amended by subsection (a)), the Secretary of Health and Human Services shall determine whether the payment amounts for the items described in paragraph (2) are not inherently reasonable, and shall adjust such amounts in accordance with such section if the amounts are not inherently reasonable.
+>     In accordance with section 1834(a)(10)(B) of the Social Security Act \[[42 U.S.C. 1395m(a)(10)(B)][/us/usc/t42/s1395m/a/10/B]\] (as amended by subsection (a)), the Secretary of Health and Human Services shall determine whether the payment amounts for the items described in paragraph (2) are not inherently reasonable, and shall adjust such amounts in accordance with such section if the amounts are not inherently reasonable.
 
 >     “(2) __Items described.—__ 
 
@@ -3289,7 +3289,7 @@
 
 >     “(1) __In general.—__ 
 
->     In applying part B of title XVIII of the Social Security Act \[this part\], the prevailing charge for physicians’ services, furnished during 1991, which are radiology services may not exceed the fee schedule amount established under section 1834(b) of such Act \[subsec. (b) of this section\] with respect to such services.
+>     In applying part B of title XVIII of the Social Security Act \[[42 U.S.C. 1395j][/us/usc/t42/s1395j] et seq.\], the prevailing charge for physicians’ services, furnished during 1991, which are radiology services may not exceed the fee schedule amount established under section 1834(b) of such Act \[[42 U.S.C. 1395m(b)][/us/usc/t42/s1395m/b]\] with respect to such services.
 
 >     “(2) __Exception.—__ 
 
@@ -3299,9 +3299,9 @@
 
 [Pub. L. 101–508, title IV, § 4102(e)][/us/pl/101/508/s4102/e], Nov. 5, 1990, [104 Stat. 1388–57][/us/stat/104/1388-57], provided that: 
 
-> “For radiologist services furnished during 1991 for which payment is made under section 1834(b) of the Social Security Act \[subsec. (b) of this section\]—
+> “For radiologist services furnished during 1991 for which payment is made under section 1834(b) of the Social Security Act \[[42 U.S.C. 1395m(b)][/us/usc/t42/s1395m/b]\]—
 
->     “(1) a carrier may not make any adjustment, under section 1842(b)(3)(B) of such Act \[[section 1395u(b)(3)(B) of this title][/us/usc/t42/s1395u/b/3/B]\], in the payment amount for the service under section 1834(b) on the basis that the payment amount is higher than the charge applicable, for a comparable service and under comparable circumstances, to the policyholders and subscribers of the carrier,
+>     “(1) a carrier may not make any adjustment, under section 1842(b)(3)(B) of such Act \[[42 U.S.C. 1395u(b)(3)(B)][/us/usc/t42/s1395u/b/3/B]\], in the payment amount for the service under section 1834(b) on the basis that the payment amount is higher than the charge applicable, for a comparable service and under comparable circumstances, to the policyholders and subscribers of the carrier,
 
 >     “(2) no payment adjustment may be made under section 1842(b)(8) of such Act, and
 
@@ -3315,13 +3315,13 @@
 
 [Pub. L. 101–239, title VI, § 6105(b)][/us/pl/101/239/s6105/b], Dec. 19, 1989, [103 Stat. 2210][/us/stat/103/2210], as amended by [Pub. L. 101–508, title IV, § 4102(g)(1)][/us/pl/101/508/s4102/g/1], Nov. 5, 1990, [104 Stat. 1388–57][/us/stat/104/1388-57], provided that: 
 
-> “In applying section 1834(b) of the Social Security Act \[subsec. (b) of this section\] with respect to nuclear medicine services furnished by a physician for whom nuclear medicine services account for at least 80 percent of the total amount of charges made under part B of title XVIII of the Social Security Act \[this part\] beginning April 1, 1990, and ending December 31, 1991, there shall be substituted for the fee schedule otherwise applicable a fee schedule based ⅓ on the fee schedule computed under such section (without regard to this subsection) and ⅔ on 101 percent of the 1988 prevailing charge for such services.”
+> “In applying section 1834(b) of the Social Security Act \[[42 U.S.C. 1395m(b)][/us/usc/t42/s1395m/b]\] with respect to nuclear medicine services furnished by a physician for whom nuclear medicine services account for at least 80 percent of the total amount of charges made under part B of title XVIII of the Social Security Act \[[42 U.S.C. 1395j][/us/usc/t42/s1395j] et seq.\] beginning April 1, 1990, and ending December 31, 1991, there shall be substituted for the fee schedule otherwise applicable a fee schedule based ⅓ on the fee schedule computed under such section (without regard to this subsection) and ⅔ on 101 percent of the 1988 prevailing charge for such services.”
 
  __Special Rule for Interventional Radiologists; “Split Billing”__ 
 
 [Pub. L. 101–239, title VI, § 6105(c)][/us/pl/101/239/s6105/c], Dec. 19, 1989, [103 Stat. 2210][/us/stat/103/2210], as amended by [Pub. L. 101–508, title IV, § 4102(h)][/us/pl/101/508/s4102/h], Nov. 5, 1990, [104 Stat. 1388–58][/us/stat/104/1388-58], provided that: 
 
-> “In applying section 1834(b) of the Social Security Act \[subsec. (b) of this section\] to radiologist services furnished in 1990 or 1991, the exception for ‘split billing’ set forth at section 5262J of the Medicare Carriers Manual shall apply to services furnished in 1990 or 1991 in the same manner and to the same extent as the exception applied to services furnished in 1989.”
+> “In applying section 1834(b) of the Social Security Act \[[42 U.S.C. 1395m(b)][/us/usc/t42/s1395m/b]\] to radiologist services furnished in 1990 or 1991, the exception for ‘split billing’ set forth at section 5262J of the Medicare Carriers Manual shall apply to services furnished in 1990 or 1991 in the same manner and to the same extent as the exception applied to services furnished in 1989.”
 
  __Rental Payments for Enteral and Parenteral Pumps__ 
 
@@ -3329,7 +3329,7 @@
 
 >     “(1) __In general.—__ 
 
->     Except as provided in paragraph (2), the amount of any monthly rental payment under part B of title XVIII of the Social Security Act \[this part\] for an enteral or parenteral pump furnished on or after April 1, 1990, shall be determined in accordance with the methodology under which monthly rental payments for such pumps were determined during 1989.
+>     Except as provided in paragraph (2), the amount of any monthly rental payment under part B of title XVIII of the Social Security Act \[[42 U.S.C. 1395j][/us/usc/t42/s1395j] et seq.\] for an enteral or parenteral pump furnished on or after April 1, 1990, shall be determined in accordance with the methodology under which monthly rental payments for such pumps were determined during 1989.
 
 >     “(2) __Cap on Rental Payments, Servicing, and Repairs.—__ 
 
@@ -3343,7 +3343,7 @@
 
 [Pub. L. 101–239, title VI, § 6112(d)(2)][/us/pl/101/239/s6112/d/2], Dec. 19, 1989, [103 Stat. 2215][/us/stat/103/2215], provided that: 
 
-> “The Secretary of Health and Human Services shall by regulation specify criteria to be used by carriers in making determinations on a case-by-case basis as whether to classify power-driven wheelchairs as a customized item (as described in section 1834(a)(4) of the Social Security Act \[subsec. (a)(4) of this section\]) for purposes of reimbursement under title XVIII of such Act \[this subchapter\].”
+> “The Secretary of Health and Human Services shall by regulation specify criteria to be used by carriers in making determinations on a case-by-case basis as whether to classify power-driven wheelchairs as a customized item (as described in section 1834(a)(4) of the Social Security Act \[[42 U.S.C. 1395m(a)(4)][/us/usc/t42/s1395m/a/4]\]) for purposes of reimbursement under title XVIII of such Act \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\].”
 
  __Study of Payment for Portable X-Ray Services__ 
 
@@ -3377,15 +3377,15 @@
 
 [Pub. L. 100–203, title IV, § 4062(c)][/us/pl/100/203/s4062/c], Dec. 22, 1987, [101 Stat. 1330–107][/us/stat/101/1330-107], as amended by [Pub. L. 100–360, title IV, § 411(g)(1)(C)][/us/pl/100/360/s411/g/1/C], July 1, 1988, [102 Stat. 782][/us/stat/102/782], provided that:
 
->     “(1) The Secretary of Health and Human Services shall monitor the impact of the amendments made by this section \[enacting this section, amending sections 1395f, 1395k, 1395l, and 1395cc of this title, and repealing [section 1395zz of this title][/us/usc/t42/s1395zz]\] on the availability of covered items and shall evaluate the appropriateness of the volume adjustment for oxygen and oxygen equipment under section 1834(a)(5)(C) of the Social Security Act \[subsec. (a)(5)(C) of this section\] (as amended by subsection (b) of this section). The Secretary shall report to Congress, by not later than January 1, 1991, on such impact and on the evaluation and shall include in such report recommendations for changes in payment methodology for covered items under section 1834(a) of such Act.
+>     “(1) The Secretary of Health and Human Services shall monitor the impact of the amendments made by this section \[enacting this section, amending sections 1395f, 1395k, 1395l, and 1395cc of this title, and repealing [section 1395zz of this title][/us/usc/t42/s1395zz]\] on the availability of covered items and shall evaluate the appropriateness of the volume adjustment for oxygen and oxygen equipment under section 1834(a)(5)(C) of the Social Security Act \[[42 U.S.C. 1395m(a)(5)(C)][/us/usc/t42/s1395m/a/5/C]\] (as amended by subsection (b) of this section). The Secretary shall report to Congress, by not later than January 1, 1991, on such impact and on the evaluation and shall include in such report recommendations for changes in payment methodology for covered items under section 1834(a) of such Act.
 
->     “(2) Before January 1, 1991, the Secretary may not conduct any demonstration project respecting alternative methods of payment for covered items under title XVIII of the Social Security Act \[this subchapter\].
+>     “(2) Before January 1, 1991, the Secretary may not conduct any demonstration project respecting alternative methods of payment for covered items under title XVIII of the Social Security Act \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\].
 
->     “(3) In this subsection, the term ‘covered item’ has the meaning given such term in section 1834(a)(13) of the Social Security Act \[subsec. (a)(13) of this section\] (as amended by subsection (b) of this section).
+>     “(3) In this subsection, the term ‘covered item’ has the meaning given such term in section 1834(a)(13) of the Social Security Act \[[42 U.S.C. 1395m(a)(13)][/us/usc/t42/s1395m/a/13]\] (as amended by subsection (b) of this section).
 
->     “(4) The Secretary shall, upon written request and payment of a reasonable copying fee which the Secretary may establish, provide the data and information used in determining the payment amounts for covered items under section 1834(a) of the Social Security Act \[subsec. (a) of this section\], but only in a form which does not permit identification of individual suppliers.
+>     “(4) The Secretary shall, upon written request and payment of a reasonable copying fee which the Secretary may establish, provide the data and information used in determining the payment amounts for covered items under section 1834(a) of the Social Security Act \[[42 U.S.C. 1395m(a)][/us/usc/t42/s1395m/a]\], but only in a form which does not permit identification of individual suppliers.
 
->     “(5) The Comptroller General shall conduct a study on the appropriateness of the level of payments allowed for covered items under the medicare program, and shall report to Congress on the results of such study (including recommendations on the transition to regional or national rates) by not later than January 1, 1991. Entities furnishing such items which fail to provide the Comptroller General with reasonable access to necessary records to carry out the study under this paragraph are subject to exclusion from the medicare program under section 1128(a) of the Social Security Act \[[section 1320a–7(a) of this title][/us/usc/t42/s1320a–7/a]\].”
+>     “(5) The Comptroller General shall conduct a study on the appropriateness of the level of payments allowed for covered items under the medicare program, and shall report to Congress on the results of such study (including recommendations on the transition to regional or national rates) by not later than January 1, 1991. Entities furnishing such items which fail to provide the Comptroller General with reasonable access to necessary records to carry out the study under this paragraph are subject to exclusion from the medicare program under section 1128(a) of the Social Security Act \[[42 U.S.C. 1320a–7(a)][/us/usc/t42/s1320a–7/a]\].”
 
 ----------
 
@@ -3973,6 +3973,7 @@
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
 [/us/pl/106/554/s1/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F6
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
+[/us/usc/t42/s1395m/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395m%2Fg%2F1
 [/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
 [/us/pl/105/33/s4101/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs4101%2Fd
 [/us/pl/105/33/s4104/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs4104%2Fb%2F1
@@ -4154,6 +4155,7 @@
 [/us/usc/t21/s360/a/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360%2Fa%2F1%2FC
 [/us/pl/108/173/s414/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs414%2Fc%2F2
 [/us/stat/117/2280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2280
+[/us/usc/t42/s1395m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395m
 [/us/pl/108/173/s414/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs414%2Fe
 [/us/stat/117/2280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2280
 [/us/usc/t42/s1395x]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395x
@@ -4186,8 +4188,10 @@
 [/us/usc/t42/s1395m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395m
 [/us/pl/106/554/s1/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F6
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
+[/us/usc/t42/s1395m/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395m%2Fm
 [/us/pl/106/554/s1/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F6
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
+[/us/usc/t42/s1395j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395j
 [/us/usc/t42/s1395m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395m
 [/us/pl/106/554/s1/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F6
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
@@ -4198,8 +4202,10 @@
 [/us/usc/t42/s1395m/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395m%2Fh
 [/us/pl/106/554/s1/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F6
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
+[/us/usc/t42/s1395m/h/1/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395m%2Fh%2F1%2FG
 [/us/pl/106/554/s1/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F6
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
+[/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
 [/us/pl/106/554/s1/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F6
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
 [/us/usc/t42/s1395rr]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395rr
@@ -4212,6 +4218,9 @@
 [/us/stat/111/453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F453
 [/us/pl/106/113/s1000/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F6
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
+[/us/usc/t42/s1395j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395j
+[/us/usc/t42/s1395j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395j
+[/us/usc/t42/s1395j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395j
 [/us/pl/108/173/s201/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs201%2Fb
 [/us/usc/t42/s1395w–21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%9321
 [/us/pl/106/113/s1000/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F6
@@ -4220,23 +4229,30 @@
 [/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
 [/us/pl/105/33/s4551/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs4551%2Fb
 [/us/stat/111/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F458
+[/us/usc/t42/s1395j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395j
 [/us/pl/105/33/s4552/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs4552%2Fc
 [/us/stat/111/459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F459
+[/us/usc/t42/s1395j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395j
 [/us/pl/105/33/s4552/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs4552%2Fd
 [/us/stat/111/459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F459
 [/us/usc/t42/s1320c–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320c%E2%80%933
 [/us/pl/103/432/s131/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432%2Fs131%2Fb
 [/us/stat/108/4419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4419
+[/us/usc/t42/s1395j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395j
 [/us/pl/103/432/s131/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432%2Fs131%2Fc
 [/us/stat/108/4419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4419
 [/us/pl/103/432/s134/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432%2Fs134%2Fb
 [/us/stat/108/4422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4422
+[/us/usc/t42/s1395m/a/10/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395m%2Fa%2F10%2FB
 [/us/pl/101/508/s4102/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs4102%2Fc
 [/us/stat/104/1388-57]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-57
 [/us/pl/103/432/s126/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432%2Fs126%2Fb%2F3
 [/us/stat/108/4415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4415
+[/us/usc/t42/s1395j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395j
+[/us/usc/t42/s1395m/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395m%2Fb
 [/us/pl/101/508/s4102/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs4102%2Fe
 [/us/stat/104/1388-57]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-57
+[/us/usc/t42/s1395m/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395m%2Fb
 [/us/usc/t42/s1395u/b/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395u%2Fb%2F3%2FB
 [/us/pl/101/508/s4153/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs4153%2Fc
 [/us/stat/104/1388-84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-84
@@ -4246,14 +4262,20 @@
 [/us/stat/103/2210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2210
 [/us/pl/101/508/s4102/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs4102%2Fg%2F1
 [/us/stat/104/1388-57]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-57
+[/us/usc/t42/s1395m/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395m%2Fb
+[/us/usc/t42/s1395j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395j
 [/us/pl/101/239/s6105/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs6105%2Fc
 [/us/stat/103/2210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2210
 [/us/pl/101/508/s4102/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs4102%2Fh
 [/us/stat/104/1388-58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-58
+[/us/usc/t42/s1395m/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395m%2Fb
 [/us/pl/101/239/s6112/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs6112%2Fb
 [/us/stat/103/2215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2215
+[/us/usc/t42/s1395j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395j
 [/us/pl/101/239/s6112/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs6112%2Fd%2F2
 [/us/stat/103/2215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2215
+[/us/usc/t42/s1395m/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395m%2Fa%2F4
+[/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
 [/us/pl/101/239/s6134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs6134
 [/us/stat/103/2222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2222
 [/us/pl/101/239/s6139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs6139
@@ -4286,6 +4308,10 @@
 [/us/pl/100/360/s411/g/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360%2Fs411%2Fg%2F1%2FC
 [/us/stat/102/782]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F782
 [/us/usc/t42/s1395zz]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395zz
+[/us/usc/t42/s1395m/a/5/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395m%2Fa%2F5%2FC
+[/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
+[/us/usc/t42/s1395m/a/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395m%2Fa%2F13
+[/us/usc/t42/s1395m/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395m%2Fa
 [/us/usc/t42/s1320a–7/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320a%E2%80%937%2Fa
 
 

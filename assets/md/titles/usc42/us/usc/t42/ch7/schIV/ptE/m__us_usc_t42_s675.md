@@ -325,7 +325,7 @@ As used in this part or part B of this subchapter:
 
 [Pub. L. 96–272, title I, § 101(a)(4)(A)][/us/pl/96/272/s101/a/4/A], June 17, 1980, [94 Stat. 512][/us/stat/94/512], provided that: 
 
-> “Clause (B) of the first sentence of section 475(3) of the Social Security Act \[par. (3)(B) of this section\] (as added by subsection (a) of this section) shall be effective with respect to adoption assistance agreements entered into on or after October 1, 1983.”
+> “Clause (B) of the first sentence of section 475(3) of the Social Security Act \[[42 U.S.C. 675(3)(B)][/us/usc/t42/s675/3/B]\] (as added by subsection (a) of this section) shall be effective with respect to adoption assistance agreements entered into on or after October 1, 1983.”
 
     Amendment by [section 102(a)(4) of Pub. L. 96–272][/us/pl/96/272/s102/a/4] effective only with respect to expenditures made after Sept. 30, 1979, see [section 102(c) of Pub. L. 96–272][/us/pl/96/272/s102/c], as amended, set out as a note under [section 672 of this title][/us/usc/t42/s672].
 
@@ -341,9 +341,9 @@ As used in this part or part B of this subchapter:
 
 >     “(1) __New foster children.—__ 
 
->     In the case of a child who enters foster care (within the meaning of section 475(5)(F) of the Social Security Act \[par. (5)(F) of this section\]) under the responsibility of a State after the date of the enactment of this Act \[Nov. 19, 1997\]—
+>     In the case of a child who enters foster care (within the meaning of section 475(5)(F) of the Social Security Act \[[42 U.S.C. 675(5)(F)][/us/usc/t42/s675/5/F]\]) under the responsibility of a State after the date of the enactment of this Act \[Nov. 19, 1997\]—
 
->         “(A) if the State comes into compliance with the amendments made by subsection (a) of this section \[amending this section\] before the child has been in such foster care for 15 of the most recent 22 months, the State shall comply with section 475(5)(E) of the Social Security Act \[par. (5)(E) of this section\] with respect to the child when the child has been in such foster care for 15 of the most recent 22 months; and
+>         “(A) if the State comes into compliance with the amendments made by subsection (a) of this section \[amending this section\] before the child has been in such foster care for 15 of the most recent 22 months, the State shall comply with section 475(5)(E) of the Social Security Act \[[42 U.S.C. 675(5)(E)][/us/usc/t42/s675/5/E]\] with respect to the child when the child has been in such foster care for 15 of the most recent 22 months; and
 
 >         “(B) if the State comes into such compliance after the child has been in such foster care for 15 of the most recent 22 months, the State shall comply with such section 475(5)(E) with respect to the child not later than 3 months after the end of the first regular session of the State legislature that begins after such date of enactment.
 
@@ -351,7 +351,7 @@ As used in this part or part B of this subchapter:
 
 >     In the case of children in foster care under the responsibility of the State on the date of the enactment of this Act, the State shall—
 
->         “(A) not later than 6 months after the end of the first regular session of the State legislature that begins after such date of enactment, comply with section 475(5)(E) of the Social Security Act with respect to not less than ⅓ of such children as the State shall select, giving priority to children for whom the permanency plan (within the meaning of part E of title IV of the Social Security Act \[this part\]) is adoption and children who have been in foster care for the greatest length of time;
+>         “(A) not later than 6 months after the end of the first regular session of the State legislature that begins after such date of enactment, comply with section 475(5)(E) of the Social Security Act with respect to not less than ⅓ of such children as the State shall select, giving priority to children for whom the permanency plan (within the meaning of part E of title IV of the Social Security Act \[[42 U.S.C. 670][/us/usc/t42/s670] et seq.\]) is adoption and children who have been in foster care for the greatest length of time;
 
 >         “(B) not later than 12 months after the end of such first regular session, comply with such section 475(5)(E) with respect to not less than ⅔ of such children as the State shall select; and
 
@@ -363,7 +363,7 @@ As used in this part or part B of this subchapter:
 
 >     “(4) __Requirements treated as state plan requirements.—__ 
 
->     For purposes of part E of title IV of the Social Security Act, the requirements of this subsection shall be treated as State plan requirements imposed by section 471(a) of such Act \[[section 671(a) of this title][/us/usc/t42/s671/a]\].”
+>     For purposes of part E of title IV of the Social Security Act, the requirements of this subsection shall be treated as State plan requirements imposed by section 471(a) of such Act \[[42 U.S.C. 671(a)][/us/usc/t42/s671/a]\].”
 
 ----------
 
@@ -499,6 +499,7 @@ As used in this part or part B of this subchapter:
 [/us/usc/t42/s673]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs673
 [/us/pl/96/272/s101/a/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F272%2Fs101%2Fa%2F4%2FA
 [/us/stat/94/512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F512
+[/us/usc/t42/s675/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs675%2F3%2FB
 [/us/pl/96/272/s102/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F272%2Fs102%2Fa%2F4
 [/us/pl/96/272/s102/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F272%2Fs102%2Fc
 [/us/usc/t42/s672]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs672
@@ -507,6 +508,9 @@ As used in this part or part B of this subchapter:
 [/us/usc/t42/s670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs670
 [/us/pl/105/89/s103/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F89%2Fs103%2Fc
 [/us/stat/111/2119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2119
+[/us/usc/t42/s675/5/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs675%2F5%2FF
+[/us/usc/t42/s675/5/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs675%2F5%2FE
+[/us/usc/t42/s670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs670
 [/us/usc/t42/s671/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs671%2Fa
 
 

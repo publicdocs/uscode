@@ -377,7 +377,7 @@
 
 [Pub. L. 108–173, title III, § 303(d)(2)][/us/pl/108/173/s303/d/2], Dec. 8, 2003, [117 Stat. 2252][/us/stat/117/2252], provided that: 
 
-> “Not later than July 1, 2008, the Secretary \[of Health and Human Services\] shall submit to Congress a report on the program conducted under section 1847B of the Social Security Act \[this section\], as added by paragraph (1). Such report shall include information on savings, reductions in cost-sharing, access to competitively biddable drugs and biologicals, the range of choices of contractors available to physicians, the satisfaction of physicians and of individuals enrolled under this part \[probably means part B of title XVIII of the Social Security Act, which is classified to this part\], and information comparing prices for drugs and biologicals under such section and section 1847A of such Act \[[section 1395w–3a of this title][/us/usc/t42/s1395w–3a]\], as added by subsection (c).”
+> “Not later than July 1, 2008, the Secretary \[of Health and Human Services\] shall submit to Congress a report on the program conducted under section 1847B of the Social Security Act \[[42 U.S.C. 1395w–3b][/us/usc/t42/s1395w–3b]\], as added by paragraph (1). Such report shall include information on savings, reductions in cost-sharing, access to competitively biddable drugs and biologicals, the range of choices of contractors available to physicians, the satisfaction of physicians and of individuals enrolled under this part \[probably means part B of title XVIII of the Social Security Act, [42 U.S.C. 1395j][/us/usc/t42/s1395j] et seq.\], and information comparing prices for drugs and biologicals under such section and section 1847A of such Act \[[42 U.S.C. 1395w–3a][/us/usc/t42/s1395w–3a]\], as added by subsection (c).”
 
  __Application of 2003 Amendment to Physician Specialties__ 
 
@@ -424,6 +424,8 @@
 [/us/usc/t42/s1395w–3b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%933b
 [/us/pl/108/173/s303/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs303%2Fd%2F2
 [/us/stat/117/2252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2252
+[/us/usc/t42/s1395w–3b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%933b
+[/us/usc/t42/s1395j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395j
 [/us/usc/t42/s1395w–3a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%933a
 [/us/pl/108/173/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs303
 [/us/pl/108/173/s303/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs303%2Fj

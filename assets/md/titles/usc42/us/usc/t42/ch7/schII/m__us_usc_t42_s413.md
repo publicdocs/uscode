@@ -159,9 +159,9 @@
 
 > “The amendments made by this subsection \[amending this section and provisions set out as a note below\] shall apply only with respect to individuals who—
 
->     “(A) make application for benefits under section 202 of the Social Security Act \[[section 402 of this title][/us/usc/t42/s402]\] after the 18-month period following the month in which this Act is enacted \[November 1990\], and
+>     “(A) make application for benefits under section 202 of the Social Security Act \[[42 U.S.C. 402][/us/usc/t42/s402]\] after the 18-month period following the month in which this Act is enacted \[November 1990\], and
 
->     “(B) are not entitled to benefits under section 227 or 228 of such Act \[section 427 or 428 of this title\] for the month in which such application is made.”
+>     “(B) are not entitled to benefits under section 227 or 228 of such Act \[[42 U.S.C. 427][/us/usc/t42/s427] or 428\] for the month in which such application is made.”
 
  __Effective Date of 1989 Amendment__ 
 
@@ -199,7 +199,7 @@
 
 [Pub. L. 90–248, title I, § 155(b)(2)][/us/pl/90/248/s155/b/2], Jan. 2, 1968, [81 Stat. 866][/us/stat/81/866], as amended by [Pub. L. 101–508, title V, § 5117(c)(2)][/us/pl/101/508/s5117/c/2], Nov. 5, 1990, [104 Stat. 1388–278][/us/stat/104/1388-278], provided that: 
 
-> “The amendment made by paragraph (1) \[amending this section\] shall apply only in the case of an individual who applies for benefits under section 202(a) of the Social Security Act \[[section 402(a) of this title][/us/usc/t42/s402/a]\] after the date of the enactment of this Act \[Jan. 2, 1968\], or who dies without being entitled to benefits under section 202(a) or 223 of the Social Security Act \[section 402(a) or 423 of this title\].”
+> “The amendment made by paragraph (1) \[amending this section\] shall apply only in the case of an individual who applies for benefits under section 202(a) of the Social Security Act \[[42 U.S.C. 402(a)][/us/usc/t42/s402/a]\] after the date of the enactment of this Act \[Jan. 2, 1968\], or who dies without being entitled to benefits under section 202(a) or 223 of the Social Security Act \[[42 U.S.C. 402(a)][/us/usc/t42/s402/a] or 423\].”
 
  __Effective Date of 1965 Amendment__ 
 
@@ -207,7 +207,7 @@
 
  __Effective Date of 1961 Amendment__ 
 
-    Amendment by [Pub. L. 87–64][/us/pl/87/64] applicable with respect to monthly benefits for months beginning on or after August 1, 1961 based on applications filed in or after March 1961, and with respect to lump-sum death payments under this subchapter in the case of deaths on or after August 1, 1961, see sections 102(f) and 109 of [Pub. L. 87–64][/us/pl/87/64], set out as notes under [section 402 of this title][/us/usc/t42/s402].
+    Amendment by [Pub. L. 87–64][/us/pl/87/64] applicable with respect to monthly benefits for months beginning on or after August 1, 1961 based on applications filed in or after March 1961, and with respect to lump-sum death payments under title II of the Social Security Act ([42 U.S.C. 401][/us/usc/t42/s401] et seq.) in the case of deaths on or after August 1, 1961, see sections 102(f) and 109 of [Pub. L. 87–64][/us/pl/87/64], set out as notes under [section 402 of this title][/us/usc/t42/s402].
 
  __Effective Date of 1960 Amendment__ 
 
@@ -215,41 +215,41 @@
 
 >     “(1)
 
->      Except as provided in paragraph (2), the amendment made by subsection (a) \[amending this section\] shall apply only in the case of monthly benefits under title II of the Social Security Act \[this subchapter\], and the lump-sum death payment under section 202 of such Act \[[section 402 of this title][/us/usc/t42/s402]\], based on the wages and self-employment income of an individual—
+>      Except as provided in paragraph (2), the amendment made by subsection (a) \[amending this section\] shall apply only in the case of monthly benefits under title II of the Social Security Act \[[42 U.S.C. 401][/us/usc/t42/s401] et seq.\], and the lump-sum death payment under section 202 of such Act \[[42 U.S.C. 402][/us/usc/t42/s402]\], based on the wages and self-employment income of an individual—
 
->         “(A) who becomes entitled to benefits under section 202(a) or 223 of such Act \[section 402(a) or 423 of this title\] on the basis of an application filed in or after the month in which this Act is enacted \[September 1960\]; or
+>         “(A) who becomes entitled to benefits under section 202(a) or 223 of such Act \[[42 U.S.C. 402(a)][/us/usc/t42/s402/a] or 423\] on the basis of an application filed in or after the month in which this Act is enacted \[September 1960\]; or
 
->         “(B) who is (or would, but for the provisions of section 215(f)(6) of the Social Security Act \[[section 415(f)(6) of this title][/us/usc/t42/s415/f/6]\], be) entitled to a recomputation of his primary insurance amount under section 215(f)(2)(A) of such Act on the basis of an application filed in or after the month in which this Act is enacted \[September 1960\]; or
+>         “(B) who is (or would, but for the provisions of section 215(f)(6) of the Social Security Act \[[42 U.S.C. 415(f)(6)][/us/usc/t42/s415/f/6]\], be) entitled to a recomputation of his primary insurance amount under section 215(f)(2)(A) of such Act on the basis of an application filed in or after the month in which this Act is enacted \[September 1960\]; or
 
->         “(C) who dies without becoming entitled to benefits under section 202(a) or 223 of the Social Security Act \[section 402(a) or 423 of this title\], and (unless he dies a currently insured individual but not a fully insured individual (as those terms are defined in section 214 of such Act \[[section 414 of this title][/us/usc/t42/s414]\])) without leaving any individual entitled (on the basis of his wages and self-employment income) to survivor’s benefits or a lump-sum death payment under section 202 of such Act \[[section 402 of this title][/us/usc/t42/s402]\] on the basis of an application filed prior to the month in which this Act is enacted \[September 1960\]; or
+>         “(C) who dies without becoming entitled to benefits under section 202(a) or 223 of the Social Security Act \[[42 U.S.C. 402(a)][/us/usc/t42/s402/a] or 423\], and (unless he dies a currently insured individual but not a fully insured individual (as those terms are defined in section 214 of such Act \[[42 U.S.C. 414][/us/usc/t42/s414]\])) without leaving any individual entitled (on the basis of his wages and self-employment income) to survivor’s benefits or a lump-sum death payment under section 202 of such Act \[[42 U.S.C. 402][/us/usc/t42/s402]\] on the basis of an application filed prior to the month in which this Act is enacted \[September 1960\]; or
 
->         “(D) who dies in or after the month in which this Act is enacted \[September 1960\] and whose survivors are (or would, but for the provisions of section 215(f)(6) of the Social Security Act \[[section 415(f)(6) of this title][/us/usc/t42/s415/f/6]\], be) entitled to a recomputation of his primary insurance amount under section 215(f)(4)(A) of such Act; or
+>         “(D) who dies in or after the month in which this Act is enacted \[September 1960\] and whose survivors are (or would, but for the provisions of section 215(f)(6) of the Social Security Act \[[42 U.S.C. 415(f)(6)][/us/usc/t42/s415/f/6]\], be) entitled to a recomputation of his primary insurance amount under section 215(f)(4)(A) of such Act; or
 
->         “(E) who dies prior to the month in which this Act is enacted \[September 1960\] and (i) whose survivors are (or would, but for the provisions of section 215(f)(6) of the Social Security Act, be) entitled to a recomputation of his primary insurance amount under section 215(f)(4)(A) of such Act \[[section 415(f)(4)(A) of this title][/us/usc/t42/s415/f/4/A]\], and (ii) on the basis of whose wages and self-employment income no individual was entitled to survivor’s benefits or a lump-sum death payment under section 202 of such Act \[[section 402 of this title][/us/usc/t42/s402]\] on the basis of an application filed prior to the month in which this Act is enacted \[September 1960\] (and no individual was entitled to such a benefit, without the filing of an application, for any month prior to the month in which this Act is enacted \[September 1960\]); or
+>         “(E) who dies prior to the month in which this Act is enacted \[September 1960\] and (i) whose survivors are (or would, but for the provisions of section 215(f)(6) of the Social Security Act, be) entitled to a recomputation of his primary insurance amount under section 215(f)(4)(A) of such Act \[[42 U.S.C. 415(f)(4)(A)][/us/usc/t42/s415/f/4/A]\], and (ii) on the basis of whose wages and self-employment income no individual was entitled to survivor’s benefits or a lump-sum death payment under section 202 of such Act \[[42 U.S.C. 402][/us/usc/t42/s402]\] on the basis of an application filed prior to the month in which this Act is enacted \[September 1960\] (and no individual was entitled to such a benefit, without the filing of an application, for any month prior to the month in which this Act is enacted \[September 1960\]); or
 
 >         “(F) who files an application for a recomputation under section 102(f)(2)(B) of the Social Security Amendments of 1954 \[set out as a note under [section 415 of this title][/us/usc/t42/s415]\] in or after the month in which this Act is enacted \[September 1960\] and is (or would, but for the fact that such recomputation would not result in a higher primary insurance amount, be) entitled to have his primary insurance amount recomputed under such subparagraph; or
 
 >         “(G) who dies and whose survivors are (or would, but for the fact that such recomputation would not result in a higher primary insurance amount for such individual, be) entitled, on the basis of an application filed in or after the month in which this Act \[September 1960\] is enacted, to have his primary insurance amount recomputed under section 102(f)(2)(B) of the Social Security Amendments of 1954 \[set out as a note under [section 415 of this title][/us/usc/t42/s415]\].
 
->     “(2) The amendment made by subsection (a) \[amending this section\] shall also be applicable in the case of applications for disability determination under section 216(i) of the Social Security Act \[[section 416(i) of this title][/us/usc/t42/s416/i]\] filed in or after the month in which this Act is enacted \[September 1960\].
+>     “(2) The amendment made by subsection (a) \[amending this section\] shall also be applicable in the case of applications for disability determination under section 216(i) of the Social Security Act \[[42 U.S.C. 416(i)][/us/usc/t42/s416/i]\] filed in or after the month in which this Act is enacted \[September 1960\].
 
->     “(3) Notwithstanding any other provisions of this subsection, in the case of any individual who would not be a fully insured individual under section 214(a) of the Social Security Act \[[section 414(a) of this title][/us/usc/t42/s414/a]\] except for the enactment of this section, no benefits shall be payable on the basis of his wages and self-employment income for any month prior to the month in which this Act is enacted \[September 1960\].”
+>     “(3) Notwithstanding any other provisions of this subsection, in the case of any individual who would not be a fully insured individual under section 214(a) of the Social Security Act \[[42 U.S.C. 414(a)][/us/usc/t42/s414/a]\] except for the enactment of this section, no benefits shall be payable on the basis of his wages and self-employment income for any month prior to the month in which this Act is enacted \[September 1960\].”
 
 [Pub. L. 86–442, § 3][/us/pl/86/442/s3], Apr. 22, 1960, [74 Stat. 82][/us/stat/74/82], provided in part that: 
 
-> “This amendment \[amending this section\] shall be applicable in the case of monthly benefits under title II of the Social Security Act \[this subchapter\] for months after June 1957, and in the case of the lump-sum death payments under such title, with respect to deaths occurring after such month; the requirements for filing applications for such benefits and payments within certain time limits, as prescribed in sections 202(i) and 202(j) of such title \[sections 402(i) and 402(j) of this title\], shall not apply if an application is filed within the one-year period beginning with the first day of the month after the month in which this Act is enacted \[April 1960\].”
+> “This amendment \[amending this section\] shall be applicable in the case of monthly benefits under title II of the Social Security Act \[[42 U.S.C. 401][/us/usc/t42/s401] et seq.\] for months after June 1957, and in the case of the lump-sum death payments under such title, with respect to deaths occurring after such month; the requirements for filing applications for such benefits and payments within certain time limits, as prescribed in sections 202(i) and 202(j) of such title \[[42 U.S.C. 402(i)][/us/usc/t42/s402/i], (j)\], shall not apply if an application is filed within the one-year period beginning with the first day of the month after the month in which this Act is enacted \[April 1960\].”
 
  __Effective Date of 1954 Amendment__ 
 
 [Act Sept. 1, 1954, ch. 1206][/us/act/1954-09-01/ch1206], title I, § 106(h), [68 Stat. 1083][/us/stat/68/1083], provided that: 
 
-> “Notwithstanding the provisions of section 215(f)(1) of the Social Security Act \[[section 415(f) of this title][/us/usc/t42/s415/f]\], the amendments made by subsections (a), (b), (c), (d), (e), and (f) of this section \[amending this section and sections 414 to 417 of this title and [section 228e of Title 45][/us/usc/t45/s228e], Railroads\] shall apply with respect to monthly benefits under title II of the Social Security Act \[subchapter II of this chapter\] for months after June 1955, and with respect to lump-sum death payments under such title in the case of deaths occurring after June 1955; but no recomputation of benefits by reason of such amendments shall be regarded as a recomputation for purposes of section 215(f) of the Social Security Act \[[section 415(f) of this title][/us/usc/t42/s415/f]\].”
+> “Notwithstanding the provisions of section 215(f)(1) of the Social Security Act \[[42 U.S.C. 415(f)(1)][/us/usc/t42/s415/f/1]\], the amendments made by subsections (a), (b), (c), (d), (e), and (f) of this section \[amending this section and sections 414 to 417 of this title and [section 228e of Title 45][/us/usc/t45/s228e], Railroads\] shall apply with respect to monthly benefits under title II of the Social Security Act \[[42 U.S.C. 401][/us/usc/t42/s401] et seq.\] for months after June 1955, and with respect to lump-sum death payments under such title in the case of deaths occurring after June 1955; but no recomputation of benefits by reason of such amendments shall be regarded as a recomputation for purposes of section 215(f) of the Social Security Act \[[42 U.S.C. 415(f)][/us/usc/t42/s415/f]\].”
 
  __Effective and Termination Date of 1952 Amendment__ 
 
 [Act July 18, 1952, ch. 945, § 3(f)][/us/act/1952-07-18/ch945/s3/f], [66 Stat. 773][/us/stat/66/773], provided that: 
 
-> “Notwithstanding the provisions of section 215(f)(1) of the Social Security Act \[[section 415(f)(1) of this title][/us/usc/t42/s415/f/1]\], the amendments made by subsections (a), (b), (c), and (d) of this section \[amending this section and sections 414 to 416, 420, and 421 of this title\] shall apply to monthly benefits under title II of the Social Security Act \[subchapter II of this chapter\] for months after June 1953, and to lump-sum death payments under such title in the case of deaths occurring after June 1953; but no recomputation of benefits by reason of such amendments shall be regarded as a recomputation for purposes of section 215(f) of the Social Security Act \[[section 415(f) of this title][/us/usc/t42/s415/f]\].”
+> “Notwithstanding the provisions of section 215(f)(1) of the Social Security Act \[[42 U.S.C. 415(f)(1)][/us/usc/t42/s415/f/1]\], the amendments made by subsections (a), (b), (c), and (d) of this section \[amending this section and sections 414 to 416, 420, and 421 of this title\] shall apply to monthly benefits under title II of the Social Security Act \[[42 U.S.C. 401][/us/usc/t42/s401] et seq.\] for months after June 1953, and to lump-sum death payments under such title in the case of deaths occurring after June 1953; but no recomputation of benefits by reason of such amendments shall be regarded as a recomputation for purposes of section 215(f) of the Social Security Act \[[42 U.S.C. 415(f)][/us/usc/t42/s415/f]\].”
 
 [Act July 18, 1952, ch. 945, § 3(g)][/us/act/1952-07-18/ch945/s3/g], [66 Stat. 773][/us/stat/66/773], provided that: 
 
@@ -353,6 +353,7 @@
 [/us/pl/101/508/s5117/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs5117%2Fc%2F3
 [/us/stat/104/1388-278]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-278
 [/us/usc/t42/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs402
+[/us/usc/t42/s427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs427
 [/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
 [/us/pl/101/239/s10208/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs10208%2Fc
 [/us/usc/t42/s430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs430
@@ -386,17 +387,22 @@
 [/us/pl/101/508/s5117/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs5117%2Fc%2F2
 [/us/stat/104/1388-278]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-278
 [/us/usc/t42/s402/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs402%2Fa
+[/us/usc/t42/s402/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs402%2Fa
 [/us/pl/89/97/s320/a/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97%2Fs320%2Fa%2F3%2FA
 [/us/pl/89/97/s320/a/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97%2Fs320%2Fa%2F3%2FB
 [/us/pl/89/97/s320/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97%2Fs320%2Fc
 [/us/usc/t26/s3121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs3121
 [/us/pl/87/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F64
+[/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
 [/us/pl/87/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F64
 [/us/usc/t42/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs402
 [/us/pl/86/778/s206/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F778%2Fs206%2Fb
 [/us/stat/74/949]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F949
+[/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
 [/us/usc/t42/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs402
+[/us/usc/t42/s402/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs402%2Fa
 [/us/usc/t42/s415/f/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs415%2Ff%2F6
+[/us/usc/t42/s402/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs402%2Fa
 [/us/usc/t42/s414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs414
 [/us/usc/t42/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs402
 [/us/usc/t42/s415/f/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs415%2Ff%2F6
@@ -408,14 +414,18 @@
 [/us/usc/t42/s414/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs414%2Fa
 [/us/pl/86/442/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F442%2Fs3
 [/us/stat/74/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F82
+[/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
+[/us/usc/t42/s402/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs402%2Fi
 [/us/act/1954-09-01/ch1206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-09-01%2Fch1206
 [/us/stat/68/1083]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F1083
-[/us/usc/t42/s415/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs415%2Ff
+[/us/usc/t42/s415/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs415%2Ff%2F1
 [/us/usc/t45/s228e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft45%2Fs228e
+[/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
 [/us/usc/t42/s415/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs415%2Ff
 [/us/act/1952-07-18/ch945/s3/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-18%2Fch945%2Fs3%2Ff
 [/us/stat/66/773]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F773
 [/us/usc/t42/s415/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs415%2Ff%2F1
+[/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
 [/us/usc/t42/s415/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs415%2Ff
 [/us/act/1952-07-18/ch945/s3/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-18%2Fch945%2Fs3%2Fg
 [/us/stat/66/773]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F773

@@ -29,7 +29,7 @@
 
 [Pub. L. 99–660, title III, § 323][/us/pl/99/660/s323], Nov. 14, 1986, [100 Stat. 3784][/us/stat/100/3784], as amended by [Pub. L. 100–203, title IV, § 4302(a)][/us/pl/100/203/s4302/a], Dec. 22, 1987, [101 Stat. 1330–221][/us/stat/101/1330-221]; [Pub. L. 102–168, title II, § 201(a)][/us/pl/102/168/s201/a], Nov. 26, 1991, [105 Stat. 1102][/us/stat/105/1102], provided that: 
 
-> “Subtitle 1 of title XXI of the Public Health Service Act \[part 1 of this subchapter ([42 U.S.C. 300aa–1][/us/usc/t42/s300aa–1] to 300aa–6)\] shall take effect on the date of the enactment of this Act \[Nov. 14, 1986\] and parts A and B of subtitle 2 of such title \[subparts A and B of part 2 of this subchapter ([42 U.S.C. 300aa–10][/us/usc/t42/s300aa–10] to 300aa–23)\] shall take effect on October 1, 1988 and parts C and D of such title \[subparts C and D of part 2 of this subchapter ([42 U.S.C. 300aa–25][/us/usc/t42/s300aa–25] to 300aa–33)\] and this title \[probably means provisions of title III of [Pub. L. 99–660][/us/pl/99/660] other than those that enacted this subchapter and redesignated former sections 300aa to 300aa–15 of this title as sections 300cc to 300cc–15 of this title; these other provisions amended sections 218, 242c, 262, 286, and 289f of this title and enacted provisions set out as notes under sections 201, 300aa–1, and 300aa–4 of this title\] shall take effect on the date of the enactment of the Vaccine Compensation Amendments of 1987 \[Dec. 22, 1987\].”
+> “Subtitle 1 of title XXI of the Public Health Service Act \[[42 U.S.C. 300aa–1][/us/usc/t42/s300aa–1] et seq.\] shall take effect on the date of the enactment of this Act \[Nov. 14, 1986\] and parts A and B of subtitle 2 of such title \[[42 U.S.C. 300aa–10][/us/usc/t42/s300aa–10] et seq., 300aa–21 et seq.\] shall take effect on October 1, 1988 and parts C and D of such title \[[42 U.S.C. 300aa–25][/us/usc/t42/s300aa–25] et seq., 300aa–31 et seq.\] and this title \[probably means provisions of title III of [Pub. L. 99–660][/us/pl/99/660] other than those that enacted this subchapter and redesignated former sections 300aa to 300aa–15 of this title as sections 300cc to 300cc–15 of this title; these other provisions amended sections 218, 242c, 262, 286, and 289f of this title and enacted provisions set out as notes under sections 201, 300aa–1, and 300aa–4 of this title\] shall take effect on the date of the enactment of the Vaccine Compensation Amendments of 1987 \[Dec. 22, 1987\].”
 
  __Severability__ 
 
@@ -37,11 +37,11 @@
 
 >     “(a) __In General.—__ 
 
->     Except as provided in subsection (b), if any provision \[of\] part A or B of subtitle 2 of title XXI of the Public Health Service Act \[subparts A and B of part 2 of this subchapter\], as added by section 311(a), or the application of such a provision to any person or circumstance is held invalid by reason of a violation of the Constitution, both such parts shall be considered invalid.
+>     Except as provided in subsection (b), if any provision \[of\] part A or B of subtitle 2 of title XXI of the Public Health Service Act \[[42 U.S.C. 300aa–10][/us/usc/t42/s300aa–10] et seq., 300aa–21 et seq.\], as added by section 311(a), or the application of such a provision to any person or circumstance is held invalid by reason of a violation of the Constitution, both such parts shall be considered invalid.
 
 >     “(b) __Special Rule.—__ 
 
->     If any amendment made by section 6601 of the Omnibus Budget Reconciliation Act of 1989 \[[Pub. L. 101–239][/us/pl/101/239], amending sections 300aa–10 to 300aa–17, 300aa–21, 300aa–23, 300aa–26, and 300aa–27 of this title\] to title XXI of the Public Health Service Act \[this subchapter\] or the application of such a provision to any person or circumstance is held invalid by reason of the Constitution, subsection (a) shall not apply and such title XXI of the Public Health Service Act without such amendment shall continue in effect.”
+>     If any amendment made by section 6601 of the Omnibus Budget Reconciliation Act of 1989 \[[Pub. L. 101–239][/us/pl/101/239], amending sections 300aa–10 to 300aa–17, 300aa–21, 300aa–23, 300aa–26, and 300aa–27 of this title\] to title XXI of the Public Health Service Act \[[42 U.S.C. 300aa–1][/us/usc/t42/s300aa–1] et seq.\] or the application of such a provision to any person or circumstance is held invalid by reason of the Constitution, subsection (a) shall not apply and such title XXI of the Public Health Service Act without such amendment shall continue in effect.”
 
     \[Amendment by [section 5(g)(1) of Pub. L. 101–502][/us/pl/101/502/s5/g/1] to [section 322(a) of Pub. L. 99–660][/us/pl/99/660/s322/a], set out above, effective Nov. 14, 1986, see [section 5(h) of Pub. L. 101–502][/us/pl/101/502/s5/h], set out as an Effective Date of 1990 Amendment note under [section 300aa–11 of this title][/us/usc/t42/s300aa–11].\]
 
@@ -61,9 +61,9 @@
 
 >         “(1)
 
->          Not later than 3 years after the effective date of this title \[see Effective Date note above\], the Secretary shall, after consultation with the Advisory Commission on Childhood Vaccines established under section 2119 of the Public Health Service Act \[[section 300aa–19 of this title][/us/usc/t42/s300aa–19]\]—
+>          Not later than 3 years after the effective date of this title \[see Effective Date note above\], the Secretary shall, after consultation with the Advisory Commission on Childhood Vaccines established under section 2119 of the Public Health Service Act \[[42 U.S.C. 300aa–19][/us/usc/t42/s300aa–19]\]—
 
->             “(A) arrange for a broad study of the risks (other than the risks considered under section 102 \[[21 U.S.C. 382][/us/usc/t21/s382]\]) to children associated with each vaccine set forth in the Vaccine Injury Table under section 2114 of such Act \[[section 300aa–14 of this title][/us/usc/t42/s300aa–14]\], and
+>             “(A) arrange for a broad study of the risks (other than the risks considered under section 102 \[[21 U.S.C. 382][/us/usc/t21/s382]\]) to children associated with each vaccine set forth in the Vaccine Injury Table under section 2114 of such Act \[[42 U.S.C. 300aa–14][/us/usc/t42/s300aa–14]\], and
 
 >             “(B)
 
@@ -81,7 +81,7 @@
 
 >             “(B) If the Institute of Medicine is unwilling to conduct such study under such an arrangement, the Secretary shall enter into a similar arrangement with other appropriate nonprofit private groups or associations under which such groups or associations will conduct such study.
 
->             “(C) The Institute of Medicine or other group or association conducting the study required by paragraph (1) shall conduct such studies in consultation with the Advisory Commission on Childhood Vaccines established under section 2119 of the Public Health Service Act \[[section 300aa–19 of this title][/us/usc/t42/s300aa–19]\].
+>             “(C) The Institute of Medicine or other group or association conducting the study required by paragraph (1) shall conduct such studies in consultation with the Advisory Commission on Childhood Vaccines established under section 2119 of the Public Health Service Act \[[42 U.S.C. 300aa–19][/us/usc/t42/s300aa–19]\].
 
 >     “(b) __Revision of Guidelines.—__ 
 
@@ -119,7 +119,7 @@
 
 > “On June 30, 1987, and on June 30 of each second year thereafter, the Secretary of Health and Human Services shall submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Labor and Human Resources \[now Committee on Health, Education, Labor, and Pensions\] of the Senate—
 
->     “(1) an assessment of the impact of the amendments made by this title \[enacting this subchapter, amending sections 218, 242c, 262, 286, and 289f of this title, redesignating former sections 300aa to 300aa–15 of this title as sections 300cc to 300cc–15 of this title, and enacting provisions set out as notes under this section and sections 201 and 300aa–1 of this title\] on the supply of vaccines listed in the Vaccine Injury Table under section 2114 of the Public Health Service Act \[[section 300aa–14 of this title][/us/usc/t42/s300aa–14]\], and
+>     “(1) an assessment of the impact of the amendments made by this title \[enacting this subchapter, amending sections 218, 242c, 262, 286, and 289f of this title, redesignating former sections 300aa to 300aa–15 of this title as sections 300cc to 300cc–15 of this title, and enacting provisions set out as notes under this section and sections 201 and 300aa–1 of this title\] on the supply of vaccines listed in the Vaccine Injury Table under section 2114 of the Public Health Service Act \[[42 U.S.C. 300aa–14][/us/usc/t42/s300aa–14]\], and
 
 >     “(2) an assessment of the ability of the administrators of vaccines (including public clinics and private administrators) to provide such vaccines to children.”
 
@@ -157,7 +157,9 @@
 [/us/stat/103/2293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2293
 [/us/pl/101/502/s5/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F502%2Fs5%2Fg%2F1
 [/us/stat/104/1288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1288
+[/us/usc/t42/s300aa–10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300aa%E2%80%9310
 [/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
+[/us/usc/t42/s300aa–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300aa%E2%80%931
 [/us/pl/101/502/s5/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F502%2Fs5%2Fg%2F1
 [/us/pl/99/660/s322/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660%2Fs322%2Fa
 [/us/pl/101/502/s5/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F502%2Fs5%2Fh

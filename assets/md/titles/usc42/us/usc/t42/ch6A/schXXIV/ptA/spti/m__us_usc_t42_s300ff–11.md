@@ -99,7 +99,7 @@
 
 >     “(b) __Exception.—__ 
 
->     The amendments made by sections 3(a), 5, 6, and 7 of this Act to sections 2601(c), 2601(d), 2603(a), 2618(b), 2626, 2677, and 2691 of the Public Health Service Act \[sections 300ff–11(c), (d), 300ff–13(a), 300ff–28(b), 300ff–34, 300ff–77, and 300ff–101 of this title\], shall become effective on the date of enactment of this Act \[May 20, 1996\].”
+>     The amendments made by sections 3(a), 5, 6, and 7 of this Act to sections 2601(c), 2601(d), 2603(a), 2618(b), 2626, 2677, and 2691 of the Public Health Service Act \[[42 U.S.C. 300ff–11(c)][/us/usc/t42/s300ff–11/c], (d), 300ff–13(a), 300ff–28(b), 300ff–34, 300ff–77, 300ff–101\] shall become effective on the date of enactment of this Act \[May 20, 1996\].”
 
  __Studies by Institute of Medicine__ 
 
@@ -160,6 +160,7 @@
 [/us/usc/t42/s294n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs294n
 [/us/usc/t42/s300ff–111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300ff%E2%80%93111
 [/us/usc/t5/s4103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs4103
+[/us/usc/t42/s300ff–11/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300ff%E2%80%9311%2Fc
 [/us/pl/106/345/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F345%2Fs501
 [/us/stat/114/1352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1352
 [/us/pl/101/381/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F381%2Fs403

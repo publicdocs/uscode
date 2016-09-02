@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 3931.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs3931" data-uslm-ref="/us/usc/t42/s3931">3931.</a>  </td>
 
     <td> Congressional statement of purpose.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 3932.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs3932" data-uslm-ref="/us/usc/t42/s3932">3932.</a>  </td>
 
     <td> Creation of corporations.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 3933.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs3933" data-uslm-ref="/us/usc/t42/s3933">3933.</a>  </td>
 
     <td> Organization of corporation.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 3934.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs3934" data-uslm-ref="/us/usc/t42/s3934">3934.</a>  </td>
 
     <td> Board of Directors; membership; appointment; term.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 3935.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs3935" data-uslm-ref="/us/usc/t42/s3935">3935.</a>  </td>
 
     <td> Financing the corporation.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 3936.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs3936" data-uslm-ref="/us/usc/t42/s3936">3936.</a>  </td>
 
     <td> Purposes and powers of corporation.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 3937.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs3937" data-uslm-ref="/us/usc/t42/s3937">3937.</a>  </td>
 
     <td> National housing partnership.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 3938.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs3938" data-uslm-ref="/us/usc/t42/s3938">3938.</a>  </td>
 
     <td> Annual report of corporation; audit of accounts.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 3939.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs3939" data-uslm-ref="/us/usc/t42/s3939">3939.</a>  </td>
 
     <td> Applicability of antitrust laws.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 3940.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs3940" data-uslm-ref="/us/usc/t42/s3940">3940.</a>  </td>
 
     <td> Reservation of right to repeal, alter, or amend chapter.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 3941.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs3941" data-uslm-ref="/us/usc/t42/s3941">3941.</a>  </td>
 
     <td> State or local taxation or regulation; access to judicial process.  </td>
 

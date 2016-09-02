@@ -163,7 +163,7 @@
 
 >     “(2) __Application of certification rules.—__ 
 
->     The provisions of section 102(d)(2) \[102(c)(2)\] of this Act \[set out as a note under [section 300gg of this title][/us/usc/t42/s300gg]\] shall apply to section 2743 of the Public Health Service Act \[[42 U.S.C. 300gg–43][/us/usc/t42/s300gg–43]\] in the same manner as it applies to section 2701(e) \[now 2704(e)\] of such Act \[[42 U.S.C. 300gg–3(e)][/us/usc/t42/s300gg–3/e]\].”
+>     The provisions of section 102(d)(2) \[102(c)(2)\] of this Act \[[42 U.S.C. 300gg][/us/usc/t42/s300gg] note\] shall apply to section 2743 of the Public Health Service Act \[[42 U.S.C. 300gg–43][/us/usc/t42/s300gg–43]\] in the same manner as it applies to section 2701(e) \[now 2704(e)\] of such Act \[[42 U.S.C. 300gg–3(e)][/us/usc/t42/s300gg–3/e]\].”
 
 ----------
 

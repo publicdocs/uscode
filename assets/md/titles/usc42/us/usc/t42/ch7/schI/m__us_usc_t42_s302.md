@@ -119,13 +119,13 @@
 
 [Pub. L. 90–248, title II, § 210(b)][/us/pl/90/248/s210/b], Jan. 2, 1968, [81 Stat. 896][/us/stat/81/896], provided that: 
 
-> “Each of the amendments made by subsection (a) \[amending this section and sections 602, 1202, 1352, 1382, and 1396a of this title\] shall become effective July 1, 1969, or, if earlier (with respect to a State’s plan approved under title \[subchapter\] I, X, XIV, XVI, or XIX, or part A of title IV \[of this chapter\]) on the date as of which the modification of the State plan to comply with such amendment is approved.”
+> “Each of the amendments made by subsection (a) \[amending this section and sections 602, 1202, 1352, 1382, and 1396a of this title\] shall become effective July 1, 1969, or, if earlier (with respect to a State’s plan approved under title I, X, XIV, XVI, or XIX, or part A of title IV \[[42 U.S.C. 301][/us/usc/t42/s301] et seq., 1201 et seq., 1351 et seq., 1381 et seq., 1396 et seq., 601 et seq.\]) on the date as of which the modification of the State plan to comply with such amendment is approved.”
 
  __Effective Date of 1965 Amendment__ 
 
 [Pub. L. 89–97, title II, § 221(e)][/us/pl/89/97/s221/e], July 30, 1965, [79 Stat. 359][/us/stat/79/359], provided that: 
 
-> “The amendments made by this section \[amending this section and sections 303, 306, 1206, 1355, 1382, 1383, and 1385 of this title\] shall apply in the case of expenditures made after December 31, 1965, under a State plan approved under title I, X, XIV, or XVI of the Social Security Act \[subchapter I, X, XIV, or XVI of this chapter\].”
+> “The amendments made by this section \[amending this section and sections 303, 306, 1206, 1355, 1382, 1383, and 1385 of this title\] shall apply in the case of expenditures made after December 31, 1965, under a State plan approved under title I, X, XIV, or XVI of the Social Security Act \[[42 U.S.C. 301][/us/usc/t42/s301] et seq., 1201 et seq., 1351 et seq., 1381 et seq.\].”
 
     [Pub. L. 89–97, title IV, § 403(a)][/us/pl/89/97/s403/a], July 30, 1965, [79 Stat. 418][/us/stat/79/418], provided that the amendment made by that section is effective Oct. 1, 1965.
 
@@ -163,7 +163,7 @@
 
 [Pub. L. 92–603, title III, § 306][/us/pl/92/603/s306], Oct. 30, 1972, [86 Stat. 1485][/us/stat/86/1485], provided that: 
 
-> “In addition to the requirements imposed by law as a condition of approval of a State plan to provide aid or assistance in the form of money payments to individuals under title I, X, XIV, or XVI of the Social Security Act \[subchapter I, X, XIV, or XVI of this chapter\], there is hereby imposed the requirement (and the plan shall be deemed to require) that, in the case of any individual receiving aid or assistance for any month after October 1972, or, at the option of the State, September 1972, and before January 1974 who also receives in such month a monthly insurance benefit under title II of such Act \[subchapter II of this chapter\] which was increased as a result of the enactment of [Public Law 92–336][/us/pl/92/336], the sum of the aid or assistance received by him for such month, plus the monthly insurance benefit received by him in such month (not including any part of such benefit which is disregarded under such plan), shall exceed the sum of the aid or assistance which would have been received by him for such month under such plan as in effect for October 1972, plus the monthly insurance benefit which would have been received by him in such month, by an amount equal to $4 or (if less) to such increase in his monthly insurance benefit under such title II (whether such excess is brought about by disregarding a portion of such monthly insurance benefit or otherwise).”
+> “In addition to the requirements imposed by law as a condition of approval of a State plan to provide aid or assistance in the form of money payments to individuals under title I, X, XIV, or XVI of the Social Security Act \[[42 U.S.C. 301][/us/usc/t42/s301] et seq., 1201 et seq., 1351 et seq., 1381 et seq.\], there is hereby imposed the requirement (and the plan shall be deemed to require) that, in the case of any individual receiving aid or assistance for any month after October 1972, or, at the option of the State, September 1972, and before January 1974 who also receives in such month a monthly insurance benefit under title II of such Act \[[42 U.S.C. 401][/us/usc/t42/s401] et seq.\] which was increased as a result of the enactment of [Public Law 92–336][/us/pl/92/336], the sum of the aid or assistance received by him for such month, plus the monthly insurance benefit received by him in such month (not including any part of such benefit which is disregarded under such plan), shall exceed the sum of the aid or assistance which would have been received by him for such month under such plan as in effect for October 1972, plus the monthly insurance benefit which would have been received by him in such month, by an amount equal to $4 or (if less) to such increase in his monthly insurance benefit under such title II (whether such excess is brought about by disregarding a portion of such monthly insurance benefit or otherwise).”
 
 ----------
 
@@ -220,8 +220,10 @@
 [/us/usc/t42/s1320b–7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320b%E2%80%937
 [/us/pl/90/248/s210/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248%2Fs210%2Fb
 [/us/stat/81/896]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F896
+[/us/usc/t42/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs301
 [/us/pl/89/97/s221/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97%2Fs221%2Fe
 [/us/stat/79/359]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F359
+[/us/usc/t42/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs301
 [/us/pl/89/97/s403/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97%2Fs403%2Fa
 [/us/stat/79/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F418
 [/us/pl/87/543/s202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F543%2Fs202%2Fa
@@ -239,6 +241,8 @@
 [/us/usc/t42/s4728/a/3/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4728%2Fa%2F3%2FD
 [/us/pl/92/603/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603%2Fs306
 [/us/stat/86/1485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1485
+[/us/usc/t42/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs301
+[/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
 [/us/pl/92/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F336
 
 

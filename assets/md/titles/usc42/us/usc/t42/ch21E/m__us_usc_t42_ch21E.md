@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 2000ee.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2000ee" data-uslm-ref="/us/usc/t42/s2000ee">2000ee.</a>  </td>
 
     <td> Privacy and Civil Liberties Oversight Board.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 2000ee–1.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2000ee%E2%80%931" data-uslm-ref="/us/usc/t42/s2000ee–1">2000ee–1.</a>  </td>
 
     <td> Privacy and civil liberties officers.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 2000ee–2.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2000ee%E2%80%932" data-uslm-ref="/us/usc/t42/s2000ee–2">2000ee–2.</a>  </td>
 
     <td> Privacy and data protection policies and procedures.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 2000ee–3.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2000ee%E2%80%933" data-uslm-ref="/us/usc/t42/s2000ee–3">2000ee–3.</a>  </td>
 
     <td> Federal agency data mining reporting.  </td>
 

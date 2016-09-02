@@ -261,13 +261,13 @@
 
 [Pub. L. 85–840, title III, § 314(c)(1)][/us/pl/85/840/s314/c/1], Aug. 28, 1958, [72 Stat. 1037][/us/stat/72/1037], provided that: 
 
-> “The amendment made by subsection (a) \[amending this section\] shall apply only with respect to (A) monthly benefits under sections 202 and 223 of the Social Security Act \[sections 402 and 423 of this title\] for months after the month in which this Act is enacted \[August 1958\], (B) lump-sum death payments under such section 202 in the case of deaths occurring after the month in which this Act is enacted, and (C) periods of disability under section 216(i) \[[section 416(i) of this title][/us/usc/t42/s416/i]\] in the case of applications for a disability determination filed after the month in which this Act is enacted.”
+> “The amendment made by subsection (a) \[amending this section\] shall apply only with respect to (A) monthly benefits under sections 202 and 223 of the Social Security Act \[[42 U.S.C. 402][/us/usc/t42/s402], 423\] for months after the month in which this Act is enacted \[August 1958\], (B) lump-sum death payments under such section 202 in the case of deaths occurring after the month in which this Act is enacted, and (C) periods of disability under section 216(i) \[[42 U.S.C. 416(i)][/us/usc/t42/s416/i]\] in the case of applications for a disability determination filed after the month in which this Act is enacted.”
 
  __Effective Date of 1956 Amendment__ 
 
 [Act Aug. 1, 1956, ch. 837][/us/act/1956-08-01/ch837], title IV, § 404(d), [70 Stat. 874][/us/stat/70/874], provided that: 
 
-> “Except for the last sentence of section 217(e)(1) of the Social Security Act \[subsec. (e)(1) of this section\] as amended by subsection (a) of this section, the amendments made by such subsection (a) \[amending this section\] shall be effective as though they had been enacted on March 31, 1956. Such last sentence of section 217(e)(1) of the Social Security Act shall become effective January 1, 1957.”
+> “Except for the last sentence of section 217(e)(1) of the Social Security Act \[[42 U.S.C. 417(e)(1)][/us/usc/t42/s417/e/1]\] as amended by subsection (a) of this section, the amendments made by such subsection (a) \[amending this section\] shall be effective as though they had been enacted on March 31, 1956. Such last sentence of section 217(e)(1) of the Social Security Act shall become effective January 1, 1957.”
 
     Amendment by section 406 of act Aug. 1, 1956, effective Jan. 1, 1957, see [act Aug. 1, 1956, ch. 837][/us/act/1956-08-01/ch837], title VI, § 603(a), [70 Stat. 887][/us/stat/70/887].
 
@@ -279,13 +279,13 @@
 
 [Act of July 18, 1952, ch. 945, § 5(c)][/us/act/1952-07-18/ch945/s5/c], [66 Stat. 775][/us/stat/66/775], as amended by [Pub. L. 86–778, title III, § 304(d)][/us/pl/86/778/s304/d], Sept. 13, 1960, [74 Stat. 966][/us/stat/74/966], provided that:
 
->     “(1) The amendments made by subsections (a) and (b) \[amending this section and [section 405 of this title][/us/usc/t42/s405]\] shall apply with respect to monthly benefits under section 202 of the Social Security Act \[[section 402 of this title][/us/usc/t42/s402]\] for months after August 1952, and with respect to lump-sum death payments in the case of deaths occurring after August 1952, except that, in the case of any individual who is entitled, on the basis of the wages and self-employment income of any individual to whom section 217(e) of the Social Security Act \[subsec. (e) of this section\] applies, to monthly benefits under such section 202 for August 1952, such amendments shall apply (A) only if an application for recomputation by reason of such amendments is filed by such individual, or any other individual, entitled to benefits under such section 202 on the basis of such wages and self-employment income, and (B) only with respect to such benefits for months after whichever of the following is the later: August 1952 of the seventh month before the month in which such application was filed. Recomputations of benefits as required to carry out the provisions of this paragraph shall be made notwithstanding the provisions of section 215(f)(1) of the Social Security Act \[[section 415(f)(1) of this title][/us/usc/t42/s415/f/1]\]; but no such recomputation shall be regarded as a recomputation for purposes of section 215(f) of such act. Notwithstanding the preceding provisions of this paragraph, the primary insurance amount of an individual shall not be recomputed under such provisions unless such individual files the application referred to in clause (A) of the first sentence of this paragraph prior to January 1961 or, if he dies without filing such application, his death occurred prior to January 1961.
+>     “(1) The amendments made by subsections (a) and (b) \[amending this section and [section 405 of this title][/us/usc/t42/s405]\] shall apply with respect to monthly benefits under section 202 of the Social Security Act \[[42 U.S.C. 402][/us/usc/t42/s402]\] for months after August 1952, and with respect to lump-sum death payments in the case of deaths occurring after August 1952, except that, in the case of any individual who is entitled, on the basis of the wages and self-employment income of any individual to whom section 217(e) of the Social Security Act \[[42 U.S.C. 417(e)][/us/usc/t42/s417/e]\] applies, to monthly benefits under such section 202 for August 1952, such amendments shall apply (A) only if an application for recomputation by reason of such amendments is filed by such individual, or any other individual, entitled to benefits under such section 202 on the basis of such wages and self-employment income, and (B) only with respect to such benefits for months after whichever of the following is the later: August 1952 of the seventh month before the month in which such application was filed. Recomputations of benefits as required to carry out the provisions of this paragraph shall be made notwithstanding the provisions of section 215(f)(1) of the Social Security Act \[[42 U.S.C. 415(f)(1)][/us/usc/t42/s415/f/1]\]; but no such recomputation shall be regarded as a recomputation for purposes of section 215(f) of such act. Notwithstanding the preceding provisions of this paragraph, the primary insurance amount of an individual shall not be recomputed under such provisions unless such individual files the application referred to in clause (A) of the first sentence of this paragraph prior to January 1961 or, if he dies without filing such application, his death occurred prior to January 1961.
 
->     “(2) In the case of any veteran (as defined in section 217(e)(4) of the Social Security Act \[subsec. (e)(4) of this section\]) who died prior to September 1952, the requirement in subsections (f) and (h) of section 202 of the Social Security Act that proof of support be filed within two years of the date of such death shall not apply if such proof is filed prior to September 1954.”
+>     “(2) In the case of any veteran (as defined in section 217(e)(4) of the Social Security Act \[[42 U.S.C. 417(e)(4)][/us/usc/t42/s417/e/4]\]) who died prior to September 1952, the requirement in subsections (f) and (h) of section 202 of the Social Security Act that proof of support be filed within two years of the date of such death shall not apply if such proof is filed prior to September 1954.”
 
 [Act July 18, 1952, ch. 945, § 5(d)(2)][/us/act/1952-07-18/ch945/s5/d/2], [66 Stat. 775][/us/stat/66/775], provided that: 
 
-> “The amendment made by paragraph (1) of this subsection \[amending this section\] shall apply only in the case of applications for benefits under section 202 of the Social Security Act \[[section 402 of this title][/us/usc/t42/s402]\] filed after August 1952.”
+> “The amendment made by paragraph (1) of this subsection \[amending this section\] shall apply only in the case of applications for benefits under section 202 of the Social Security Act \[[42 U.S.C. 402][/us/usc/t42/s402]\] filed after August 1952.”
 
  __Effective Date__ 
 
@@ -303,13 +303,13 @@
 
 > “In the case of any individual—
 
->     “(A) who is a World War II veteran (as defined in section 217(d)(2) of the Social Security Act \[subsec. (d)(2) of this section\]) wholly or partly by reason of service described in section 217(h)(1)(A) of such Act; and
+>     “(A) who is a World War II veteran (as defined in section 217(d)(2) of the Social Security Act \[[42 U.S.C. 417(d)(2)][/us/usc/t42/s417/d/2]\]) wholly or partly by reason of service described in section 217(h)(1)(A) of such Act; and
 
->     “(B) who (i) became entitled to old-age insurance benefits under section 202(a) of the Social Security Act \[[section 402(a) of this title][/us/usc/t42/s402/a]\] or to disability insurance benefits under section 223 of such Act \[[section 423 of this title][/us/usc/t42/s423]\] prior to the first day of the month following the month in which this Act is enacted \[August 1958\], or (i) died prior to such first day, and whose widow, former wife divorced, widower, child, or parent is entitled for the month in which this Act is enacted, on the basis of his wages and self-employment income, to a monthly benefit under section 202 of such Act; and
+>     “(B) who (i) became entitled to old-age insurance benefits under section 202(a) of the Social Security Act \[[42 U.S.C. 402(a)][/us/usc/t42/s402/a]\] or to disability insurance benefits under section 223 of such Act \[[42 U.S.C. 423][/us/usc/t42/s423]\] prior to the first day of the month following the month in which this Act is enacted \[August 1958\], or (i) died prior to such first day, and whose widow, former wife divorced, widower, child, or parent is entitled for the month in which this Act is enacted, on the basis of his wages and self-employment income, to a monthly benefit under section 202 of such Act; and
 
->     “(C) any part of whose service described in section 217(h)(1)(A) of the Social Security Act was not included in the computation of his primary insurance amount under section 215 of such Act \[[section 415 of this title][/us/usc/t42/s415]\] but would have been included in such computation if the amendment made by subsection (a) of this section had been effective prior to the date of such computation,
+>     “(C) any part of whose service described in section 217(h)(1)(A) of the Social Security Act was not included in the computation of his primary insurance amount under section 215 of such Act \[[42 U.S.C. 415][/us/usc/t42/s415]\] but would have been included in such computation if the amendment made by subsection (a) of this section had been effective prior to the date of such computation,
 
->         the Secretary of Health, Education, and Welfare \[now Health and Human Services\] shall, notwithstanding the provisions of section 215(f)(1) of the Social Security Act, recompute the primary insurance amount of such individual upon the filing of an application, after the month in which this Act is enacted \[Aug. 1958\], by him or (if he has died without filing such an application) by any person entitled to monthly benefits under section 202 of the Social Security Act on the basis of his wages and self-employment income. Such recomputation shall be made only in the manner provided in title II of the Social Security Act \[this subchapter\] as in effect at the time of the last previous computation or recomputation of such individual’s primary insurance amount, and as though application therefor was filed in the month in which application for such last previous computation or recomputation was filed. No recomputation made under this subsection shall be regarded as a recomputation under section 215(f) of the Social Security Act. Any such recomputation shall be effective for and after the twelfth month before the month in which the application is filed, but in no case for the month in which this Act is enacted or any prior month.”
+>         the Secretary of Health, Education, and Welfare \[now Health and Human Services\] shall, notwithstanding the provisions of section 215(f)(1) of the Social Security Act, recompute the primary insurance amount of such individual upon the filing of an application, after the month in which this Act is enacted \[Aug. 1958\], by him or (if he has died without filing such an application) by any person entitled to monthly benefits under section 202 of the Social Security Act on the basis of his wages and self-employment income. Such recomputation shall be made only in the manner provided in title II of the Social Security Act \[[42 U.S.C. 401][/us/usc/t42/s401] et seq.\] as in effect at the time of the last previous computation or recomputation of such individual’s primary insurance amount, and as though application therefor was filed in the month in which application for such last previous computation or recomputation was filed. No recomputation made under this subsection shall be regarded as a recomputation under section 215(f) of the Social Security Act. Any such recomputation shall be effective for and after the twelfth month before the month in which the application is filed, but in no case for the month in which this Act is enacted or any prior month.”
 
  __Recomputation of Social Security Benefits of Widows and Children Who Waive Right to Annuity Under Civil Service Retirement Act__ 
 
@@ -317,15 +317,15 @@
 
 > “In the case of any deceased individual—
 
->     “(1) who is a World War II veteran (as defined in section 217(d)(2) of the Social Security Act \[subsec. (d)(2) of this section\]) or a veteran (as defined in section 217(e)(4) of such Act); and
+>     “(1) who is a World War II veteran (as defined in section 217(d)(2) of the Social Security Act \[[42 U.S.C. 417(d)(2)][/us/usc/t42/s417/d/2]\]) or a veteran (as defined in section 217(e)(4) of such Act); and
 
 >     “(2) whose widow or child is entitled under the Civil Service Retirement Act of May 29, 1930, as amended \[see section 8301 et seq. of Title 5, Government Organization and Employees\], to an annuity in the computation of which his active military or naval service after September 15, 1940, and before January 1, 1957, was included; and
 
->     “(3) whose widow or child is entitled under section 202 of the Social Security Act \[[section 402 of this title][/us/usc/t42/s402]\], on the basis of his wages and self-employment income, to a monthly benefit in the computation of which such active military or naval service was excluded (under clause (B) of subsection (a)(1) or (e)(1) of section 217 of such Act) solely by reason of the annuity described in the preceding paragraph; and
+>     “(3) whose widow or child is entitled under section 202 of the Social Security Act \[[42 U.S.C. 402][/us/usc/t42/s402]\], on the basis of his wages and self-employment income, to a monthly benefit in the computation of which such active military or naval service was excluded (under clause (B) of subsection (a)(1) or (e)(1) of section 217 of such Act) solely by reason of the annuity described in the preceding paragraph; and
 
 >     “(4) whose widow or child is entitled by reason of section 217(f) of the Social Security Act to have such active military or naval service included in the computation of such monthly benefit,
 
->         the Secretary of Health, Education, and Welfare \[now Health and Human Services\] shall, notwithstanding the provisions of section 215(f)(1) of the Social Security Act \[[section 415(f)(1) of this title][/us/usc/t42/s415/f/1]\], recompute the primary insurance amount of such individual upon the filing of an application, after December 1956, by or on behalf of such widow or child. Such recomputation shall be made only in the manner provided in title II of the Social Security Act \[this subchapter\] as in effect at the time of such individual’s death, and as though application therefor was filed in the month in which he died. No recomputation made under this subsection shall be regarded as a recomputation under section 215(f) of the Social Security Act. Any such recomputation shall be effective for and after the twelfth month before the month in which the application is filed, but in no case for any month before the first month with respect to which such widow or child is entitled by reason of section 217(f) of the Social Security Act to have such active military or naval service included in the computation of such monthly benefits. The terms used in this subsection shall have the same meaning as when used in title II of the Social Security Act \[this subchapter\].”
+>         the Secretary of Health, Education, and Welfare \[now Health and Human Services\] shall, notwithstanding the provisions of section 215(f)(1) of the Social Security Act \[[42 U.S.C. 415(f)(1)][/us/usc/t42/s415/f/1]\], recompute the primary insurance amount of such individual upon the filing of an application, after December 1956, by or on behalf of such widow or child. Such recomputation shall be made only in the manner provided in title II of the Social Security Act \[[42 U.S.C. 401][/us/usc/t42/s401] et seq.\] as in effect at the time of such individual’s death, and as though application therefor was filed in the month in which he died. No recomputation made under this subsection shall be regarded as a recomputation under section 215(f) of the Social Security Act. Any such recomputation shall be effective for and after the twelfth month before the month in which the application is filed, but in no case for any month before the first month with respect to which such widow or child is entitled by reason of section 217(f) of the Social Security Act to have such active military or naval service included in the computation of such monthly benefits. The terms used in this subsection shall have the same meaning as when used in title II of the Social Security Act.”
 
 ----------
 
@@ -482,9 +482,11 @@
 [/us/pl/85/857/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F857%2Fs2
 [/us/pl/85/840/s314/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F840%2Fs314%2Fc%2F1
 [/us/stat/72/1037]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1037
+[/us/usc/t42/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs402
 [/us/usc/t42/s416/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs416%2Fi
 [/us/act/1956-08-01/ch837]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-01%2Fch837
 [/us/stat/70/874]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F874
+[/us/usc/t42/s417/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs417%2Fe%2F1
 [/us/act/1956-08-01/ch837]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-01%2Fch837
 [/us/stat/70/887]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F887
 [/us/usc/t42/s415/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs415%2Ff
@@ -495,7 +497,9 @@
 [/us/stat/74/966]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F966
 [/us/usc/t42/s405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs405
 [/us/usc/t42/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs402
+[/us/usc/t42/s417/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs417%2Fe
 [/us/usc/t42/s415/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs415%2Ff%2F1
+[/us/usc/t42/s417/e/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs417%2Fe%2F4
 [/us/act/1952-07-18/ch945/s5/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-18%2Fch945%2Fs5%2Fd%2F2
 [/us/stat/66/775]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F775
 [/us/usc/t42/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs402
@@ -509,12 +513,16 @@
 [/us/usc/t49/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs108
 [/us/pl/85/840/s314/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F840%2Fs314%2Fc%2F2
 [/us/stat/72/1037]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1037
+[/us/usc/t42/s417/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs417%2Fd%2F2
 [/us/usc/t42/s402/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs402%2Fa
 [/us/usc/t42/s423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs423
 [/us/usc/t42/s415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs415
+[/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
 [/us/act/1956-08-01/ch837]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-01%2Fch837
 [/us/stat/70/874]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F874
+[/us/usc/t42/s417/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs417%2Fd%2F2
 [/us/usc/t42/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs402
 [/us/usc/t42/s415/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs415%2Ff%2F1
+[/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
 
 

@@ -63,13 +63,13 @@
 
 [Pub. L. 98–369, div. B, § 2615(b)][/us/pl/98/369/s2615/b], July 18, 1984, [98 Stat. 1133][/us/stat/98/1133], provided that: 
 
-> “The amendment made by this section \[amending this section\] shall apply for purposes of reducing retroactive benefits under title II of the Social Security Act \[subchapter II of this chapter\] or retroactive supplemental security income benefits payable beginning with the seventh month following the month in which this Act is enacted \[July 1984\]; except that in the case of retroactive title II benefits other than those which result from a determination of entitlement following an application for benefits under title II or from a reinstatement of benefits under title II following a period of suspension or termination of such benefits, it shall apply when the Secretary of Health and Human Services determines that it is administratively feasible.”
+> “The amendment made by this section \[amending this section\] shall apply for purposes of reducing retroactive benefits under title II of the Social Security Act \[[42 U.S.C. 401][/us/usc/t42/s401] et seq.\] or retroactive supplemental security income benefits payable beginning with the seventh month following the month in which this Act is enacted \[July 1984\]; except that in the case of retroactive title II benefits other than those which result from a determination of entitlement following an application for benefits under title II or from a reinstatement of benefits under title II following a period of suspension or termination of such benefits, it shall apply when the Secretary of Health and Human Services determines that it is administratively feasible.”
 
  __Effective Date__ 
 
 [Pub. L. 96–265, title V, § 501(d)][/us/pl/96/265/s501/d], June 9, 1980, [94 Stat. 470][/us/stat/94/470], provided that: 
 
-> “The amendments made by this section \[enacting this section and amending sections 404 and 1383 of this title\] shall be applicable in the case of payments of monthly insurance benefits under title II of the Social Security Act \[subchapter II of this chapter\] entitlement for which is determined on or after the first day of the thirteenth month which begins after the date of the enactment of this Act \[June 9, 1980\].”
+> “The amendments made by this section \[enacting this section and amending sections 404 and 1383 of this title\] shall be applicable in the case of payments of monthly insurance benefits under title II of the Social Security Act \[[42 U.S.C. 401][/us/usc/t42/s401] et seq.\] entitlement for which is determined on or after the first day of the thirteenth month which begins after the date of the enactment of this Act \[June 9, 1980\].”
 
 ----------
 
@@ -111,7 +111,9 @@
 [/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
 [/us/pl/98/369/s2615/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2615%2Fb
 [/us/stat/98/1133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1133
+[/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
 [/us/pl/96/265/s501/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F265%2Fs501%2Fd
 [/us/stat/94/470]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F470
+[/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
 
 

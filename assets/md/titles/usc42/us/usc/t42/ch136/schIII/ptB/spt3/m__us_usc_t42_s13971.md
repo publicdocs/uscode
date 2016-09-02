@@ -113,10 +113,6 @@
 
 ([Pub. L. 103–322, title IV, § 40295][/us/pl/103/322/s40295], Sept. 13, 1994, [108 Stat. 1940][/us/stat/108/1940]; [Pub. L. 106–386, div. B, title I][/us/pl/106/386], §§ 1105, 1109(d), title V, § 1512(c), Oct. 28, 2000, [114 Stat. 1497][/us/stat/114/1497], 1503, 1533; [Pub. L. 109–162, title II, § 203][/us/pl/109/162/s203], title IX, § 906(d), Jan. 5, 2006, [119 Stat. 2998][/us/stat/119/2998], 3081; [Pub. L. 109–271, § 7(b)(1)][/us/pl/109/271/s7/b/1], (2)(A), Aug. 12, 2006, [120 Stat. 764][/us/stat/120/764]; [Pub. L. 113–4, title II, § 202][/us/pl/113/4/s202], Mar. 7, 2013, [127 Stat. 81][/us/stat/127/81].)
 
- __Amendment of Section__ 
-
-For effective date of amendment by [Pub. L. 113–4][/us/pl/113/4], see Effective Date of 2013 Amendment note below.
-
  __References in Text__ 
 
     The Omnibus Crime Control and Safe Streets Act of 1968, referred to in subsec. (e)(2), is [Pub. L. 90–351][/us/pl/90/351], June 19, 1968, [82 Stat. 197][/us/stat/82/197], as amended. Part Q of title I of the Act is classified generally to subchapter XII–E (§ 3796dd et seq.) of chapter 46 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 3711 of this title][/us/usc/t42/s3711] and Tables.
@@ -182,7 +178,6 @@ For effective date of amendment by [Pub. L. 113–4][/us/pl/113/4], see Effectiv
 [/us/stat/120/764]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F764
 [/us/pl/113/4/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs202
 [/us/stat/127/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F81
-[/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
 [/us/pl/90/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351
 [/us/stat/82/197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F197
 [/us/usc/t42/s3711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3711

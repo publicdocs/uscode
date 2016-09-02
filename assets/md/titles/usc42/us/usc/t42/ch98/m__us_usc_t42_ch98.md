@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 9001.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs9001" data-uslm-ref="/us/usc/t42/s9001">9001.</a>  </td>
 
     <td> Congressional findings and declaration of purpose.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 9002.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs9002" data-uslm-ref="/us/usc/t42/s9002">9002.</a>  </td>
 
     <td> Comprehensive program management plan.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 9003.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs9003" data-uslm-ref="/us/usc/t42/s9003">9003.</a>  </td>
 
     <td> Research and development.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 9004.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs9004" data-uslm-ref="/us/usc/t42/s9004">9004.</a>  </td>
 
     <td> Pilot and demonstration plants.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 9005.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs9005" data-uslm-ref="/us/usc/t42/s9005">9005.</a>  </td>
 
     <td> Technology application.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 9006.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs9006" data-uslm-ref="/us/usc/t42/s9006">9006.</a>  </td>
 
     <td> Program selection criteria.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 9007.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs9007" data-uslm-ref="/us/usc/t42/s9007">9007.</a>  </td>
 
     <td> Technical Panel of Energy Research Advisory Board.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 9008.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs9008" data-uslm-ref="/us/usc/t42/s9008">9008.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 9009.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs9009" data-uslm-ref="/us/usc/t42/s9009">9009.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 

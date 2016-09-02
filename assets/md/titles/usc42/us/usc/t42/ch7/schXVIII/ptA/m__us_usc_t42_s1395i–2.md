@@ -299,13 +299,13 @@
 
 [Pub. L. 105–33, title IV, § 4453(b)][/us/pl/105/33/s4453/b], Aug. 5, 1997, [111 Stat. 426][/us/stat/111/426], provided that: 
 
-> “The amendments made by subsection (a) \[amending this section\] shall apply to premiums for months beginning with January 1998, and months before such month may be taken into account for purposes of meeting the requirement of section 1818(d)(5)(B)(iii) of the Social Security Act \[subsec. (d)(5)(B)(iii) of this section\], as added by subsection (a).”
+> “The amendments made by subsection (a) \[amending this section\] shall apply to premiums for months beginning with January 1998, and months before such month may be taken into account for purposes of meeting the requirement of section 1818(d)(5)(B)(iii) of the Social Security Act \[[42 U.S.C. 1395i–2(d)(5)(B)(iii)][/us/usc/t42/s1395i–2/d/5/B/iii]\], as added by subsection (a).”
 
  __Effective Date of 1993 Amendment__ 
 
 [Pub. L. 103–66, title XIII, § 13508(b)][/us/pl/103/66/s13508/b], Aug. 10, 1993, [107 Stat. 580][/us/stat/107/580], provided that: 
 
-> “The amendments made by this section \[amending this section\] shall apply to monthly premiums under section 1818 of the Social Security Act \[this section\] for months beginning with January 1, 1994.”
+> “The amendments made by this section \[amending this section\] shall apply to monthly premiums under section 1818 of the Social Security Act \[[42 U.S.C. 1395i–2][/us/usc/t42/s1395i–2]\] for months beginning with January 1, 1994.”
 
  __Effective Date of 1990 Amendment__ 
 
@@ -355,9 +355,9 @@
 
 >      Any individual who—
 
->         “(1) was entitled to medical, surgical, and dental treatment and hospitalization under section 322(a) of the Public Health Service Act \[[section 249(a) of this title][/us/usc/t42/s249/a]\] (as in effect on September 30, 1981), including such entitlement on the basis of continuing medical care under 42 C.F.R. § 32.17, at any time during the period beginning on March 10, 1981, and ending on October 1, 1981, and
+>         “(1) was entitled to medical, surgical, and dental treatment and hospitalization under section 322(a) of the Public Health Service Act \[[42 U.S.C. 249(a)][/us/usc/t42/s249/a]\] (as in effect on September 30, 1981), including such entitlement on the basis of continuing medical care under 42 C.F.R. § 32.17, at any time during the period beginning on March 10, 1981, and ending on October 1, 1981, and
 
->         “(2) as of September 30, 1981, was eligible under section 1818(a) or section 1836 of the Social Security Act \[this section or section 1395o of this title\] to enroll in the insurance program established by part A or part B, respectively, of title XVIII of that Act \[this subchapter\] (hereinafter in this section referred to as the ‘respective program’),
+>         “(2) as of September 30, 1981, was eligible under section 1818(a) or section 1836 of the Social Security Act \[[42 U.S.C. 1395i–2(a)][/us/usc/t42/s1395i–2/a], 1395o\] to enroll in the insurance program established by part A or part B, respectively, of title XVIII of that Act \[[42 U.S.C. 1395c][/us/usc/t42/s1395c] et seq., 1395j et seq.\] (hereinafter in this section referred to as the ‘respective program’),
 
 >         may enroll (if not otherwise enrolled) in the respective program during the period beginning on the first day of the first month beginning at least 20 days after the date of the enactment of this Act \[Sept. 3, 1982\] and ending on December 31, 1982.
 
@@ -375,7 +375,7 @@
 
 >     “(c)
 
->         (1) For purposes of section 1839(d) of the Social Security Act \[[section 1395r(d) of this title][/us/usc/t42/s1395r/d]\] with respect to the monthly premium for months after September 1981, if an individual described in subsection (a) has enrolled in the insurance program under part B of title XVIII of the Social Security Act \[part B of this subchapter\] at any time before the end of the enrollment period described in subsection (a), any month (before the end of that enrollment period) in which he was not enrolled in that program shall not be treated as a month in which he could have been enrolled in the program.
+>         (1) For purposes of section 1839(d) of the Social Security Act \[[42 U.S.C. 1395r(d)][/us/usc/t42/s1395r/d]\] with respect to the monthly premium for months after September 1981, if an individual described in subsection (a) has enrolled in the insurance program under part B of title XVIII of the Social Security Act \[[42 U.S.C. 1395j][/us/usc/t42/s1395j] et seq.\] at any time before the end of the enrollment period described in subsection (a), any month (before the end of that enrollment period) in which he was not enrolled in that program shall not be treated as a month in which he could have been enrolled in the program.
 
 >         “(2)
 
@@ -401,7 +401,7 @@
 
 >         “(2)
 
->          An individual may establish that the individual was entitled at a date to medical, surgical, and dental treatment and hospitalization under section 322(a) of the Public Health Service Act \[[section 249(a) of this title][/us/usc/t42/s249/a]\] (as in effect before October 1, 1981) by providing—
+>          An individual may establish that the individual was entitled at a date to medical, surgical, and dental treatment and hospitalization under section 322(a) of the Public Health Service Act \[[42 U.S.C. 249(a)][/us/usc/t42/s249/a]\] (as in effect before October 1, 1981) by providing—
 
 >             “(A) documentation relating to the status under which the individual was provided care in (or under arrangements with) a Public Health Service facility on that date,
 
@@ -499,8 +499,10 @@
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
 [/us/pl/105/33/s4453/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs4453%2Fb
 [/us/stat/111/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F426
+[/us/usc/t42/s1395i–2/d/5/B/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395i%E2%80%932%2Fd%2F5%2FB%2Fiii
 [/us/pl/103/66/s13508/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13508%2Fb
 [/us/stat/107/580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F580
+[/us/usc/t42/s1395i–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395i%E2%80%932
 [/us/pl/101/508/s4008/g/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs4008%2Fg%2F2
 [/us/stat/104/1388-46]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-46
 [/us/pl/101/239/s6012/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs6012%2Fa%2F1
@@ -537,7 +539,10 @@
 [/us/pl/97/248/s125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs125
 [/us/stat/96/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F365
 [/us/usc/t42/s249/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs249%2Fa
+[/us/usc/t42/s1395i–2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395i%E2%80%932%2Fa
+[/us/usc/t42/s1395c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395c
 [/us/usc/t42/s1395r/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395r%2Fd
+[/us/usc/t42/s1395j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395j
 [/us/usc/t42/s249/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs249%2Fa
 
 

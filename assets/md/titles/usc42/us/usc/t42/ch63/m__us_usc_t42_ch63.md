@@ -33,7 +33,7 @@ SUBCHAPTER I—GRANTS FOR DETECTION AND TREATMENT OF LEAD-BASED PAINT POISONING 
 
   <tr>
 
-    <td> 4801.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs4801" data-uslm-ref="/us/usc/t42/s4801">4801.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -49,7 +49,7 @@ SUBCHAPTER II—GRANTS FOR ELIMINATION OF LEAD-BASED PAINT POISONING  </td>
 
   <tr>
 
-    <td> 4811.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs4811" data-uslm-ref="/us/usc/t42/s4811">4811.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -65,7 +65,7 @@ SUBCHAPTER III—FEDERAL DEMONSTRATION AND RESEARCH PROGRAM: FEDERAL HOUSING ADM
 
   <tr>
 
-    <td> 4821.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs4821" data-uslm-ref="/us/usc/t42/s4821">4821.</a>  </td>
 
     <td> Development of program; consultation; nature of program; safe level of lead; report to Congress.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER III—FEDERAL DEMONSTRATION AND RESEARCH PROGRAM: FEDERAL HOUSING ADM
 
   <tr>
 
-    <td> 4822.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs4822" data-uslm-ref="/us/usc/t42/s4822">4822.</a>  </td>
 
     <td> Requirements for housing receiving Federal assistance.  </td>
 
@@ -89,7 +89,7 @@ SUBCHAPTER IV—PROHIBITION AGAINST FUTURE USE OF LEAD-BASED PAINT  </td>
 
   <tr>
 
-    <td> 4831.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs4831" data-uslm-ref="/us/usc/t42/s4831">4831.</a>  </td>
 
     <td> Use of lead-based paint.  </td>
 
@@ -105,7 +105,7 @@ SUBCHAPTER V—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 4841.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs4841" data-uslm-ref="/us/usc/t42/s4841">4841.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -113,7 +113,7 @@ SUBCHAPTER V—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 4842.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs4842" data-uslm-ref="/us/usc/t42/s4842">4842.</a>  </td>
 
     <td> Consultation by Secretary with other departments and agencies.  </td>
 
@@ -121,7 +121,7 @@ SUBCHAPTER V—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 4843.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs4843" data-uslm-ref="/us/usc/t42/s4843">4843.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 
@@ -129,7 +129,7 @@ SUBCHAPTER V—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 4844, 4845.   </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs4844" data-uslm-ref="/us/usc/t42/s4844">4844</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs4845" data-uslm-ref="/us/usc/t42/s4845">4845.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -137,7 +137,7 @@ SUBCHAPTER V—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 4846.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs4846" data-uslm-ref="/us/usc/t42/s4846">4846.</a>  </td>
 
     <td> State laws superseded, and null and void.  </td>
 

@@ -149,9 +149,9 @@
 
 >     “(a) This Act and the amendments made by this Act \[enacting sections 286a to 286g and 289l of this title, amending this section and sections 241, 282, 283, and 284 of this title, and enacting provisions set out as notes under sections 281 and 286 of this title\] shall take effect sixty days after the date of enactment of this Act \[Dec. 23, 1971\] or on such prior date after the date of enactment of this Act as the President shall prescribe and publish in the Federal Register.
 
->     “(b) The first sentence of section 454 of the Public Health Service Act \[section 289l of this title\] (added by section 5 of this Act) shall apply only with respect to appointments made after the effective date of this Act (as prescribed by subsection (a)).
+>     “(b) The first sentence of section 454 of the Public Health Service Act \[former [42 U.S.C. 289][/us/usc/t42/s289]l\] (added by section 5 of this Act) shall apply only with respect to appointments made after the effective date of this Act (as prescribed by subsection (a)).
 
->     “(c) Notwithstanding the provisions of subsection (a), members of the National Cancer Advisory Board (authorized under section 410B of the Public Health Service Act, as added by this Act) \[[section 286f of this title][/us/usc/t42/s286f]\] may be appointed, in the manner provided for in such section, at any time after the date of enactment of this Act \[Dec. 23, 1971\]. Such officers shall be compensated from the date they first take office, at the rates provided for in such section 410B \[[section 286f of this title][/us/usc/t42/s286f]\].”
+>     “(c) Notwithstanding the provisions of subsection (a), members of the National Cancer Advisory Board (authorized under section 410B of the Public Health Service Act, as added by this Act) \[former [42 U.S.C. 286f][/us/usc/t42/s286f]\] may be appointed, in the manner provided for in such section, at any time after the date of enactment of this Act \[Dec. 23, 1971\]. Such officers shall be compensated from the date they first take office, at the rates provided for in such section 410B.”
 
  __Effective Date of 1950 Amendment__ 
 
@@ -177,7 +177,7 @@
 
 [Pub. L. 99–158, § 3(a)(1)][/us/pl/99/158/s3/a/1], Nov. 20, 1985, [99 Stat. 878][/us/stat/99/878], provided that: 
 
-> “The National Advisory Health Council established under section 217 \[this section\] is terminated.”
+> “The National Advisory Health Council established under section 217 \[[42 U.S.C. 218][/us/usc/t42/s218]\] is terminated.”
 
  __Termination of Advisory Committees__ 
 
@@ -295,7 +295,7 @@
 [/us/usc/t42/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs201
 [/us/pl/92/218/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F218%2Fs7
 [/us/stat/85/785]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F785
-[/us/usc/t42/s286f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs286f
+[/us/usc/t42/s289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs289
 [/us/usc/t42/s286f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs286f
 [/us/act/1950-08-15/ch714/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-15%2Fch714%2Fs3%2Fa
 [/us/stat/64/446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F446
@@ -312,6 +312,7 @@
 [/us/stat/64/446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F446
 [/us/pl/99/158/s3/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F158%2Fs3%2Fa%2F1
 [/us/stat/99/878]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F878
+[/us/usc/t42/s218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs218
 [/us/pl/93/641/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F641%2Fs6
 [/us/stat/88/2275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2275
 [/us/usc/t42/s217a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs217a

@@ -883,15 +883,15 @@
 
 >     “(1) __Enrollment process.—__ 
 
->     The Secretary \[of Health and Human Services\] shall provide for the establishment of the enrollment process under section 1866(j)(1) of the Social Security Act \[subsec. (j)(1) of this section\], as added by subsection (a)(2), within 6 months after the date of the enactment of this Act \[Dec. 8, 2003\].
+>     The Secretary \[of Health and Human Services\] shall provide for the establishment of the enrollment process under section 1866(j)(1) of the Social Security Act \[[42 U.S.C. 1395cc(j)(1)][/us/usc/t42/s1395cc/j/1]\], as added by subsection (a)(2), within 6 months after the date of the enactment of this Act \[Dec. 8, 2003\].
 
 >     “(2) __Consultation.—__ 
 
->     Section 1866(j)(1)(C) of the Social Security Act \[subsec. (j)(1)(C) of this section\], as added by subsection (a)(2), shall apply with respect to changes in provider enrollment forms made on or after January 1, 2004.
+>     Section 1866(j)(1)(C) of the Social Security Act \[[42 U.S.C. 1395cc(j)(1)(C)][/us/usc/t42/s1395cc/j/1/C]\], as added by subsection (a)(2), shall apply with respect to changes in provider enrollment forms made on or after January 1, 2004.
 
 >     “(3) __Hearing rights.—__ 
 
->     Section 1866(j)(2) of the Social Security Act \[former subsec. (j)(2), now subsec. (j)(8), of this section\], as added by subsection (a)(2), shall apply to denials occurring on or after such date (not later than 1 year after the date of the enactment of this Act \[Dec. 8, 2003\]) as the Secretary specifies.”
+>     Section 1866(j)(2) \[now 1866(j)(8)\] of the Social Security Act \[[42 U.S.C. 1395cc(j)(8)][/us/usc/t42/s1395cc/j/8]\], as added by subsection (a)(2), shall apply to denials occurring on or after such date (not later than 1 year after the date of the enactment of this Act \[Dec. 8, 2003\]) as the Secretary specifies.”
 
 [Pub. L. 108–173, title IX, § 947(b)][/us/pl/108/173/s947/b], Dec. 8, 2003, [117 Stat. 2425][/us/stat/117/2425], provided that: 
 
@@ -1007,13 +1007,13 @@
 
 [Pub. L. 99–509, title IX, § 9305(b)(2)][/us/pl/99/509/s9305/b/2], Oct. 21, 1986, [100 Stat. 1989][/us/stat/100/1989], provided that: 
 
-> “The Secretary of Health and Human Services shall first prescribe the language required under section 1866(a)(1)(M) of the Social Security Act \[subsec. (a)(1)(M) of this section\] not later than six months after the date of the enactment of this Act \[Oct. 21, 1986\]. The requirement of such section shall apply to admissions to hospitals occurring on such date (not later than 60 days after the date such language is first prescribed) as the Secretary shall provide.”
+> “The Secretary of Health and Human Services shall first prescribe the language required under section 1866(a)(1)(M) of the Social Security Act \[[42 U.S.C. 1395cc(a)(1)(M)][/us/usc/t42/s1395cc/a/1/M]\] not later than six months after the date of the enactment of this Act \[Oct. 21, 1986\]. The requirement of such section shall apply to admissions to hospitals occurring on such date (not later than 60 days after the date such language is first prescribed) as the Secretary shall provide.”
 
     Amendment by [section 9320(h)(2) of Pub. L. 99–509][/us/pl/99/509/s9320/h/2] applicable to services furnished on or after Jan. 1, 1989, with exceptions for hospitals located in rural areas which meet certain requirements related to certified registered nurse anesthetists, see section 9320(i), (k) of [Pub. L. 99–509][/us/pl/99/509], as amended, set out as notes under [section 1395k of this title][/us/usc/t42/s1395k].
 
 [Pub. L. 99–509, title IX, § 9332(e)(2)][/us/pl/99/509/s9332/e/2], Oct. 21, 1986, [100 Stat. 2025][/us/stat/100/2025], provided that: 
 
-> “The amendment made by paragraph (1) \[amending this section\] shall apply to agreements under section 1866(a) of the Social Security Act \[subsec. (a) of this section\] as of October 1, 1987.”
+> “The amendment made by paragraph (1) \[amending this section\] shall apply to agreements under section 1866(a) of the Social Security Act \[[42 U.S.C. 1395cc(a)][/us/usc/t42/s1395cc/a]\] as of October 1, 1987.”
 
     Amendment by [section 9337(c)(2) of Pub. L. 99–509][/us/pl/99/509/s9337/c/2] applicable to expenses incurred for outpatient occupational therapy services furnished on or after July 1, 1987, see [section 9337(e) of Pub. L. 99–509][/us/pl/99/509/s9337/e], set out as a note under [section 1395k of this title][/us/usc/t42/s1395k].
 
@@ -1089,9 +1089,9 @@
 
 [Pub. L. 95–210, § 2(f)][/us/pl/95/210/s2/f], Dec. 13, 1977, [91 Stat. 1489][/us/stat/91/1489], provided that:
 
->     “(1) The amendments made by this section \[amending this section and sections 1396a, 1396d, and 1396i of this title\] shall (except as otherwise provided in paragraph (2)) apply to medical assistance provided, under a State plan approved under title XIX of the Social Security Act \[subchapter XIX of this chapter\], on and after the first day of the first calendar quarter that begins more than six months after the date of enactment of this Act \[Dec. 13, 1977\].
+>     “(1) The amendments made by this section \[amending this section and sections 1396a, 1396d, and 1396i of this title\] shall (except as otherwise provided in paragraph (2)) apply to medical assistance provided, under a State plan approved under title XIX of the Social Security Act \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\], on and after the first day of the first calendar quarter that begins more than six months after the date of enactment of this Act \[Dec. 13, 1977\].
 
->     “(2) In the case of a State plan for medical assistance under title XIX of the Social Security Act \[subchapter XIX of this chapter\] which the Secretary determines requires State legislation in order for the plan to meet the additional requirements imposed by the amendments made by this section, the State plan shall not be regarded as failing to comply with the requirements of such title \[subchapter\] solely on the basis of its failure to meet these additional requirements before the first day of the first calendar quarter beginning after the close of the first regular session of the State legislature that begins after the date of enactment of this Act \[Dec. 13, 1977\].”
+>     “(2) In the case of a State plan for medical assistance under title XIX of the Social Security Act \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\] which the Secretary determines requires State legislation in order for the plan to meet the additional requirements imposed by the amendments made by this section, the State plan shall not be regarded as failing to comply with the requirements of such title \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\] solely on the basis of its failure to meet these additional requirements before the first day of the first calendar quarter beginning after the close of the first regular session of the State legislature that begins after the date of enactment of this Act \[Dec. 13, 1977\].”
 
     Amendment by [section 3(b) of Pub. L. 95–142][/us/pl/95/142/s3/b] effective Oct. 25, 1977, see [section 3(e) of Pub. L. 95–142][/us/pl/95/142/s3/e], set out as an Effective Date note under [section 1320a–3 of this title][/us/usc/t42/s1320a–3].
 
@@ -1111,7 +1111,7 @@
 
 [Pub. L. 92–603, title II, § 249A(e)][/us/pl/92/603/s249A/e], Oct. 30, 1972, [86 Stat. 1427][/us/stat/86/1427], provided that: 
 
-> “The provisions of this section \[enacting [section 1396 of this title][/us/usc/t42/s1396] and amending this section\] shall be effective with respect to agreements filed with the Secretary under section 1866 of the Social Security Act \[this section\] by skilled nursing facilities (as defined in section 1861(j) of such Act \[[section 1395x(j) of this title][/us/usc/t42/s1395x/j]\]) before, on, or after the date of enactment of this Act \[Oct. 30, 1972\], but accepted by him on or after such date.”
+> “The provisions of this section \[enacting [section 1396 of this title][/us/usc/t42/s1396] and amending this section\] shall be effective with respect to agreements filed with the Secretary under section 1866 of the Social Security Act \[[42 U.S.C. 1395cc][/us/usc/t42/s1395cc]\] by skilled nursing facilities (as defined in section 1861(j) of such Act \[[42 U.S.C. 1395x(j)][/us/usc/t42/s1395x/j]\]) before, on, or after the date of enactment of this Act \[Oct. 30, 1972\], but accepted by him on or after such date.”
 
     Amendment by [section 281(c) of Pub. L. 92–603][/us/pl/92/603/s281/c] applicable in the case of notices sent to individuals after 1968, see [section 281(g) of Pub. L. 92–603][/us/pl/92/603/s281/g], set out as a note under [section 1395gg of this title][/us/usc/t42/s1395gg].
 
@@ -1189,7 +1189,7 @@
 
 [Pub. L. 99–576, title II, § 233(c)][/us/pl/99/576/s233/c], Oct. 28, 1986, [100 Stat. 3265][/us/stat/100/3265], provided that:
 
->     “(1) The Secretary of Health and Human Services shall periodically submit to the Congress a report on the number of hospitals that have terminated or failed to renew an agreement under section 1866 of the Social Security Act \[this section\] as a result of the additional conditions imposed under the amendments made by subsection (a) \[amending this section\].
+>     “(1) The Secretary of Health and Human Services shall periodically submit to the Congress a report on the number of hospitals that have terminated or failed to renew an agreement under section 1866 of the Social Security Act \[[42 U.S.C. 1395cc][/us/usc/t42/s1395cc]\] as a result of the additional conditions imposed under the amendments made by subsection (a) \[amending this section\].
 
 >     “(2) Not later than October 1, 1987, the Administrator of Veterans’ Affairs shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report regarding implementation of this section \[amending this section\]. Thereafter, the Administrator shall notify such committees if any hospital terminates or fails to renew an agreement described in paragraph (1) for the reasons described in that paragraph.”
 
@@ -1197,7 +1197,7 @@
 
 [Pub. L. 99–272, title IX, § 9122(d)][/us/pl/99/272/s9122/d], Apr. 7, 1986, [100 Stat. 167][/us/stat/100/167], provided that: 
 
-> “The Secretary of Health and Human Services shall report to Congress periodically on the number of hospitals that have terminated or failed to renew an agreement under section 1866 of the Social Security Act \[this section\] as a result of the additional conditions imposed under the amendments made by subsection (a) \[amending this section\].”
+> “The Secretary of Health and Human Services shall report to Congress periodically on the number of hospitals that have terminated or failed to renew an agreement under section 1866 of the Social Security Act \[[42 U.S.C. 1395cc][/us/usc/t42/s1395cc]\] as a result of the additional conditions imposed under the amendments made by subsection (a) \[amending this section\].”
 
     \[For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which item 7 on page 96 identifies a report on “Hospitals that have terminated or failed to renew an agreement under section 1866 of Social Security Act as a result of the additional conditions imposed” authorized by [42 U.S.C. 1395cc][/us/usc/t42/s1395cc] note), see [section 3003 of Pub. L. 104–66][/us/pl/104/66/s3003], as amended, set out as a note under [section 1113 of Title 31][/us/usc/t31/s1113], Money and Finance.\]
 
@@ -1215,15 +1215,15 @@
 
 [Pub. L. 97–248, title I, § 119][/us/pl/97/248/s119], Sept. 3, 1982, [96 Stat. 355][/us/stat/96/355], provided that:
 
->     “(a) The Secretary of Health and Human Services shall undertake an initiative to improve medical review by intermediaries and carriers under title XVIII of the Social Security Act \[this subchapter\] and to encourage similar review efforts by private insurers and other private entities. The initiative shall include the development of specific standards for measuring the performance of such intermediaries and carriers with respect to the identification and reduction of unnecessary utilization of health services.
+>     “(a) The Secretary of Health and Human Services shall undertake an initiative to improve medical review by intermediaries and carriers under title XVIII of the Social Security Act \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\] and to encourage similar review efforts by private insurers and other private entities. The initiative shall include the development of specific standards for measuring the performance of such intermediaries and carriers with respect to the identification and reduction of unnecessary utilization of health services.
 
->     “(b) Where such review activity results in the denial of payment to providers of services under title XVIII of the Social Security Act \[this subchapter\], such providers shall be prohibited, in accordance with sections 1866 and 1879 of such title \[this section and [section 1395pp of this title][/us/usc/t42/s1395pp]\], from collecting any payments from beneficiaries unless otherwise provided under such title.”
+>     “(b) Where such review activity results in the denial of payment to providers of services under title XVIII of the Social Security Act \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\], such providers shall be prohibited, in accordance with sections 1866 and 1879 of such title \[[42 U.S.C. 1395cc][/us/usc/t42/s1395cc], 1395pp\], from collecting any payments from beneficiaries unless otherwise provided under such title.”
 
  __Agreements Filed and Accepted Prior to__  __Oct. 30, 1972__  __, Deemed To Be for Specified Term Ending__  __Dec. 31, 1973__ 
 
 [Pub. L. 92–603, title II, § 249A(f)][/us/pl/92/603/s249A/f], Oct. 30, 1972, [86 Stat. 1427][/us/stat/86/1427], provided that: 
 
-> “Notwithstanding any other provision of law, any agreement, filed by a skilled nursing facility (as defined in section 1861(j) of the Social Security Act \[[section 1395x(j) of this title][/us/usc/t42/s1395x/j]\]) with the Secretary under section 1866 of such Act \[this section\] and accepted by him prior to the date of enactment of this Act \[Oct. 30, 1972\], which was in effect on such date shall be deemed to be for a specified term ending on December 31, 1973.”
+> “Notwithstanding any other provision of law, any agreement, filed by a skilled nursing facility (as defined in section 1861(j) of the Social Security Act \[[42 U.S.C. 1395x(j)][/us/usc/t42/s1395x/j]\]) with the Secretary under section 1866 of such Act \[[42 U.S.C. 1395cc][/us/usc/t42/s1395cc]\] and accepted by him prior to the date of enactment of this Act \[Oct. 30, 1972\], which was in effect on such date shall be deemed to be for a specified term ending on December 31, 1973.”
 
 ----------
 
@@ -1658,6 +1658,9 @@
 [/us/usc/t42/s1395i–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395i%E2%80%933
 [/us/pl/108/173/s936/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs936%2Fb
 [/us/stat/117/2412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2412
+[/us/usc/t42/s1395cc/j/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395cc%2Fj%2F1
+[/us/usc/t42/s1395cc/j/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395cc%2Fj%2F1%2FC
+[/us/usc/t42/s1395cc/j/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395cc%2Fj%2F8
 [/us/pl/108/173/s947/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs947%2Fb
 [/us/stat/117/2425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2425
 [/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
@@ -1781,11 +1784,13 @@
 [/us/usc/t26/s162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs162
 [/us/pl/99/509/s9305/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs9305%2Fb%2F2
 [/us/stat/100/1989]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1989
+[/us/usc/t42/s1395cc/a/1/M]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395cc%2Fa%2F1%2FM
 [/us/pl/99/509/s9320/h/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs9320%2Fh%2F2
 [/us/pl/99/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509
 [/us/usc/t42/s1395k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395k
 [/us/pl/99/509/s9332/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs9332%2Fe%2F2
 [/us/stat/100/2025]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2025
+[/us/usc/t42/s1395cc/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395cc%2Fa
 [/us/pl/99/509/s9337/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs9337%2Fc%2F2
 [/us/pl/99/509/s9337/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs9337%2Fe
 [/us/usc/t42/s1395k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395k
@@ -1867,6 +1872,9 @@
 [/us/usc/t42/s426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs426
 [/us/pl/95/210/s2/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F210%2Fs2%2Ff
 [/us/stat/91/1489]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1489
+[/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
+[/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
+[/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
 [/us/pl/95/142/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F142%2Fs3%2Fb
 [/us/pl/95/142/s3/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F142%2Fs3%2Fe
 [/us/usc/t42/s1320a–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320a%E2%80%933
@@ -1887,6 +1895,7 @@
 [/us/pl/92/603/s249A/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603%2Fs249A%2Fe
 [/us/stat/86/1427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1427
 [/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
+[/us/usc/t42/s1395cc]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395cc
 [/us/usc/t42/s1395x/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395x%2Fj
 [/us/pl/92/603/s281/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603%2Fs281%2Fc
 [/us/pl/92/603/s281/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603%2Fs281%2Fg
@@ -1919,10 +1928,12 @@
 [/us/pl/99/576/s233/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576%2Fs233%2Fc
 [/us/stat/100/3265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3265
 [/us/usc/t42/s1395cc]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395cc
+[/us/usc/t42/s1395cc]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395cc
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003
 [/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113
 [/us/pl/99/272/s9122/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs9122%2Fd
 [/us/stat/100/167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F167
+[/us/usc/t42/s1395cc]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395cc
 [/us/usc/t42/s1395cc]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395cc
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003
 [/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113
@@ -1935,9 +1946,12 @@
 [/us/usc/t42/s1395y]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395y
 [/us/pl/97/248/s119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs119
 [/us/stat/96/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F355
-[/us/usc/t42/s1395pp]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395pp
+[/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
+[/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
+[/us/usc/t42/s1395cc]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395cc
 [/us/pl/92/603/s249A/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603%2Fs249A%2Ff
 [/us/stat/86/1427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1427
 [/us/usc/t42/s1395x/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395x%2Fj
+[/us/usc/t42/s1395cc]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395cc
 
 

@@ -2923,7 +2923,7 @@
 
 [Pub. L. 106–113, div. B, § 1000(a)(6)][/us/pl/106/113/s1000/a/6] \[title II, § 204(c)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–345, provided that: 
 
-> “The amendments made by this section \[amending this section\] apply as if included in the enactment of BBA \[the Balanced Budget Act of 1997, [Pub. L. 105–33][/us/pl/105/33]\] and shall only apply to procedures performed for which payment is made on the basis of the prospective payment system under section 1833(t) of the Social Security Act \[subsec. (t) of this section\].”
+> “The amendments made by this section \[amending this section\] apply as if included in the enactment of BBA \[the Balanced Budget Act of 1997, [Pub. L. 105–33][/us/pl/105/33]\] and shall only apply to procedures performed for which payment is made on the basis of the prospective payment system under section 1833(t) of the Social Security Act \[[42 U.S.C. 1395][/us/usc/t42/s1395]l(t)\].”
 
     Amendment by section 1000(a)(6) \[title III, § 321(g)(2), (k)(2)\] of [Pub. L. 106–113][/us/pl/106/113] effective as if included in the enactment of the Balanced Budget Act of 1997, [Pub. L. 105–33][/us/pl/105/33], except as otherwise provided, see section 1000(a)(6) \[title III, § 321(m)\] of [Pub. L. 106–113][/us/pl/106/113], set out as a note under [section 1395d of this title][/us/usc/t42/s1395d].
 
@@ -2987,7 +2987,7 @@
 
 [Pub. L. 105–33, title IV, § 4541(e)][/us/pl/105/33/s4541/e], Aug. 5, 1997, [111 Stat. 457][/us/stat/111/457], provided that:
 
->     “(1) The amendments made by subsections (a)(1), (a)(2), and (b) \[amending this section and sections 1395m and 1395y of this title\] apply to services furnished on or after January 1, 1998, including portions of cost reporting periods occurring on or after such date, except that section 1834(k) of the Social Security Act \[[section 1395m(k) of this title][/us/usc/t42/s1395m/k]\] (as added by subsection (a)(2)) shall not apply to services described in section 1833(a)(8)(B) of such Act \[subsec. (a)(8)(B) of this section\] (as added by subsection (a)(1)) that are furnished during 1998.
+>     “(1) The amendments made by subsections (a)(1), (a)(2), and (b) \[amending this section and sections 1395m and 1395y of this title\] apply to services furnished on or after January 1, 1998, including portions of cost reporting periods occurring on or after such date, except that section 1834(k) of the Social Security Act \[[42 U.S.C. 1395m(k)][/us/usc/t42/s1395m/k]\] (as added by subsection (a)(2)) shall not apply to services described in section 1833(a)(8)(B) of such Act \[42 U.S.C. (a)(8)(B)\] (as added by subsection (a)(1)) that are furnished during 1998.
 
 >     “(2) The amendments made by subsections (a)(3) and (c) \[amending this section and [section 1395cc of this title][/us/usc/t42/s1395cc]\] apply to services furnished on or after January 1, 1999.
 
@@ -3065,7 +3065,7 @@
 
 [Pub. L. 101–508, title IV, § 4206(e)(2)][/us/pl/101/508/s4206/e/2], Nov. 5, 1990, [104 Stat. 1388–117][/us/stat/104/1388-117], provided that: 
 
-> “The amendments made by subsection (b) \[amending this section and [section 1395mm of this title][/us/usc/t42/s1395mm]\] shall apply to contracts under section 1876 of the Social Security Act \[[section 1395mm of this title][/us/usc/t42/s1395mm]\] and payments under section 1833(a)(1)(A) of such Act \[subsec. (a)(1)(A) of this section\] as of first day of the first month beginning more than 1 year after the date of the enactment of this Act \[Nov. 5, 1990\].”
+> “The amendments made by subsection (b) \[amending this section and [section 1395mm of this title][/us/usc/t42/s1395mm]\] shall apply to contracts under section 1876 of the Social Security Act \[[42 U.S.C. 1395mm][/us/usc/t42/s1395mm]\] and payments under section 1833(a)(1)(A) of such Act \[[42 U.S.C. 1395][/us/usc/t42/s1395]l(a)(1)(A)\] as of first day of the first month beginning more than 1 year after the date of the enactment of this Act \[Nov. 5, 1990\].”
 
  __Effective Date of 1989 Amendment__ 
 
@@ -3093,7 +3093,7 @@
 
 >     “(1) The amendments made by this section \[amending this section and [section 1395x of this title][/us/usc/t42/s1395x]\] shall apply with respect to therapeutic shoes and inserts furnished on or after July 1, 1989.
 
->     “(2) In applying the amendments made by this section, the increase under subparagraph (C) of section 1833(o)(2) of the Social Security Act \[subsec. (o)(2)(C) of this section\] shall apply to the dollar amounts specified under subparagraph (A) of such section (as amended by this section) in the same manner as the increase would have applied to the dollar amounts specified under subparagraph (A) of such section (as in effect before the date of the enactment of this Act \[Dec. 19, 1989\]).”
+>     “(2) In applying the amendments made by this section, the increase under subparagraph (C) of section 1833(o)(2) of the Social Security Act \[[42 U.S.C. 1395][/us/usc/t42/s1395]l(o)(2)(C)\] shall apply to the dollar amounts specified under subparagraph (A) of such section (as amended by this section) in the same manner as the increase would have applied to the dollar amounts specified under subparagraph (A) of such section (as in effect before the date of the enactment of this Act \[Dec. 19, 1989\]).”
 
 [Pub. L. 101–239, title VI, § 6133(b)][/us/pl/101/239/s6133/b], Dec. 19, 1989, [103 Stat. 2222][/us/stat/103/2222], provided that: 
 
@@ -3127,7 +3127,7 @@
 
 [Pub. L. 100–203, title IV, § 4043(c)][/us/pl/100/203/s4043/c], Dec. 22, 1987, [101 Stat. 1330–86][/us/stat/101/1330-86], provided that: 
 
-> “The amendments made by this \[sic\] subsection (a) \[amending this section\] shall apply with respect to services furnished in a rural area (as defined in section 1886(d)(2)(D) of the Social Security Act \[[section 1395ww(d)(2)(D) of this title][/us/usc/t42/s1395ww/d/2/D]\]) on or after January 1, 1989, and to other services furnished on or after January 1, 1991.”
+> “The amendments made by this \[sic\] subsection (a) \[amending this section\] shall apply with respect to services furnished in a rural area (as defined in section 1886(d)(2)(D) of the Social Security Act \[[42 U.S.C. 1395ww(d)(2)(D)][/us/usc/t42/s1395ww/d/2/D]\]) on or after January 1, 1989, and to other services furnished on or after January 1, 1991.”
 
     Amendment by [section 4045(c)(2)(A) of Pub. L. 100–203][/us/pl/100/203/s4045/c/2/A] applicable to items and services furnished on or after Apr. 1, 1988, see [section 4045(d) of Pub. L. 100–203][/us/pl/100/203/s4045/d], set out as a note under [section 1395u of this title][/us/usc/t42/s1395u].
 
@@ -3165,7 +3165,7 @@
 
 [Pub. L. 100–203, title IV, § 4070(c)(1)][/us/pl/100/203/s4070/c/1], Dec. 22, 1987, [101 Stat. 1330–115][/us/stat/101/1330-115], provided that: 
 
-> “The amendment made by subsection (a)(1) \[amending this section\] shall apply with respect to calendar years beginning with 1988; except that with respect to 1988, any reference in section 1833(c) of the Social Security Act \[subsec. (c) of this section\], as amended by subsection (a), to ‘$1375.00’ is deemed a reference to ‘$562.50’. The amendment made by subsection (a)(2) \[amending this section\] shall apply to services furnished on or after January 1, 1989.”
+> “The amendment made by subsection (a)(1) \[amending this section\] shall apply with respect to calendar years beginning with 1988; except that with respect to 1988, any reference in section 1833(c) of the Social Security Act \[[42 U.S.C. 1395][/us/usc/t42/s1395]l(c)\], as amended by subsection (a), to ‘$1375.00’ is deemed a reference to ‘$562.50’. The amendment made by subsection (a)(2) \[amending this section\] shall apply to services furnished on or after January 1, 1989.”
 
     For effective date of amendment by [section 4072(b) of Pub. L. 100–203][/us/pl/100/203/s4072/b], see [section 4072(e) of Pub. L. 100–203][/us/pl/100/203/s4072/e], set out as a note under [section 1395x of this title][/us/usc/t42/s1395x].
 
@@ -3231,7 +3231,7 @@
 
 >     “(2) The amendments made by subsection (g)(2) \[amending [section 1396b of this title][/us/usc/t42/s1396b]\] shall apply to payments for calendar quarters beginning on or after October 1, 1984.
 
->     “(3) The amendments made by this section shall not apply to clinical diagnostic laboratory tests furnished to inpatients of a provider operating under a waiver granted pursuant to section 602(k) of the Social Security Amendments of 1983 \[[section 602(k) of Pub. L. 98–21][/us/pl/98/21/s602/k], set out as a note under [section 1395y of this title][/us/usc/t42/s1395y]\]. Payment for such services shall be made under part B of title XVIII of the Social Security Act \[this part\] at 80 percent (or 100 percent in the case of such tests for which payment is made on the basis of an assignment described in section 1842(b)(3)(B)(ii) of the Social Security Act \[[section 1395u(b)(3)(B)(ii) of this title][/us/usc/t42/s1395u/b/3/B/ii]\] or under the procedure described in section 1870(f)(1) of such Act \[[section 1395gg(f)(1) of this title][/us/usc/t42/s1395gg/f/1]\]) of the reasonable charge for such service. The deductible under section 1833(b) of such Act \[subsec. (b) of this section\] shall not apply to such tests if payment is made on the basis of such an assignment or procedure.”
+>     “(3) The amendments made by this section shall not apply to clinical diagnostic laboratory tests furnished to inpatients of a provider operating under a waiver granted pursuant to section 602(k) of the Social Security Amendments of 1983 \[[section 602(k) of Pub. L. 98–21][/us/pl/98/21/s602/k], set out as a note under [section 1395y of this title][/us/usc/t42/s1395y]\]. Payment for such services shall be made under part B of title XVIII of the Social Security Act \[[42 U.S.C. 1395j][/us/usc/t42/s1395j] et seq.\] at 80 percent (or 100 percent in the case of such tests for which payment is made on the basis of an assignment described in section 1842(b)(3)(B)(ii) of the Social Security Act \[[42 U.S.C. 1395u(b)(3)(B)(ii)][/us/usc/t42/s1395u/b/3/B/ii]\] or under the procedure described in section 1870(f)(1) of such Act \[[42 U.S.C. 1395gg(f)(1)][/us/usc/t42/s1395gg/f/1]\]) of the reasonable charge for such service. The deductible under section 1833(b) of such Act \[[42 U.S.C. 1395][/us/usc/t42/s1395]l(b)\] shall not apply to such tests if payment is made on the basis of such an assignment or procedure.”
 
 [Pub. L. 98–369, div. B, title III, § 2305(e)][/us/pl/98/369/s2305/e], July 18, 1984, [98 Stat. 1070][/us/stat/98/1070], provided that: 
 
@@ -3301,7 +3301,7 @@
 
 [Pub. L. 92–603, title II, § 204(c)][/us/pl/92/603/s204/c], Oct. 30, 1972, [86 Stat. 1377][/us/stat/86/1377], provided that: 
 
-> “The amendments made by this section \[amending this section and [section 1395n of this title][/us/usc/t42/s1395n]\] shall be effective with respect to calendar years after 1972 (except that, for purposes of applying clause (1) of the first sentence of section 1833(b) of the Social Security Act \[subsec. (b) of this section\], such amendments shall be deemed to have taken effect on January 1, 1972).”
+> “The amendments made by this section \[amending this section and [section 1395n of this title][/us/usc/t42/s1395n]\] shall be effective with respect to calendar years after 1972 (except that, for purposes of applying clause (1) of the first sentence of section 1833(b) of the Social Security Act \[[42 U.S.C. 1395][/us/usc/t42/s1395]l(b)\], such amendments shall be deemed to have taken effect on January 1, 1972).”
 
     Amendment by [section 211(c)(4) of Pub. L. 92–603][/us/pl/92/603/s211/c/4] applicable to services furnished with respect to admissions occurring after Dec. 31, 1972, see [section 211(d) of Pub. L. 92–603][/us/pl/92/603/s211/d], set out as a note under [section 1395f of this title][/us/usc/t42/s1395f].
 
@@ -3333,13 +3333,13 @@
 
 [Pub. L. 110–275, title I, § 101(a)(4)][/us/pl/110/275/s101/a/4], July 15, 2008, [122 Stat. 2497][/us/stat/122/2497], provided that: 
 
-> “Nothing in the provisions of, or amendments made by, this subsection \[amending this section and sections 1395x and 1395y of this title\] shall be construed to provide coverage under title XVIII of the Social Security Act \[this subchapter\] of items and services for the treatment of a medical condition that is not otherwise covered under such title.”
+> “Nothing in the provisions of, or amendments made by, this subsection \[amending this section and sections 1395x and 1395y of this title\] shall be construed to provide coverage under title XVIII of the Social Security Act \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\] of items and services for the treatment of a medical condition that is not otherwise covered under such title.”
 
  __Construction Regarding Limiting Increases in Cost-Sharing__ 
 
 [Pub. L. 106–554, § 1(a)(6)][/us/pl/106/554/s1/a/6] \[title I, § 111(b)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–473, provided that: 
 
-> “Nothing in this Act \[H.R. 5661, as enacted by [section 1(a)(6) of Pub. L. 106–554][/us/pl/106/554/s1/a/6], see Tables for classification\] or the Social Security Act \[this chapter\] shall be construed as preventing a hospital from waiving the amount of any coinsurance for outpatient hospital services under the medicare program under title XVIII of the Social Security Act \[this subchapter\] that may have been increased as a result of the implementation of the prospective payment system under section 1833(t) of the Social Security Act ([42 U.S.C. 1395][/us/usc/t42/s1395]l(t)).”
+> “Nothing in this Act \[H.R. 5661, as enacted by [section 1(a)(6) of Pub. L. 106–554][/us/pl/106/554/s1/a/6], see Tables for classification\] or the Social Security Act \[this chapter\] shall be construed as preventing a hospital from waiving the amount of any coinsurance for outpatient hospital services under the medicare program under title XVIII of the Social Security Act \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\] that may have been increased as a result of the implementation of the prospective payment system under section 1833(t) of the Social Security Act ([42 U.S.C. 1395][/us/usc/t42/s1395]l(t)).”
 
  __Medicare Patient IVIG Access Demonstration Project__ 
 
@@ -3487,7 +3487,7 @@
 
 [Pub. L. 110–275, title I, § 139(b)][/us/pl/110/275/s139/b], July 15, 2008, [122 Stat. 2541][/us/stat/122/2541], provided that: 
 
-> “With respect to items and services furnished on or after January 1, 2010, the Secretary of Health and Human Services shall make appropriate adjustments to payments under the Medicare program under title XVIII of the Social Security Act \[this subchapter\] for teaching certified registered nurse anesthetists to implement a policy with respect to teaching certified registered nurse anesthetists that—
+> “With respect to items and services furnished on or after January 1, 2010, the Secretary of Health and Human Services shall make appropriate adjustments to payments under the Medicare program under title XVIII of the Social Security Act \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\] for teaching certified registered nurse anesthetists to implement a policy with respect to teaching certified registered nurse anesthetists that—
 
 >     “(1) is consistent with the adjustments made by the special rule for teaching anesthesiologists under section 1848(a)(6) of the Social Security Act \[[42 U.S.C. 1395w–4(a)(6)][/us/usc/t42/s1395w–4/a/6]\], as added by subsection (a); and
 
@@ -3501,13 +3501,13 @@
 
 [Pub. L. 109–171, title V, § 5107(a)(2)][/us/pl/109/171/s5107/a/2], Feb. 8, 2006, [120 Stat. 42][/us/stat/120/42], provided that: 
 
-> “The Secretary of Health and Human Services shall waive such provisions of law and regulation (including those described in [section 110(c) of Public Law 108–173][/us/pl/108/173/s110/c] \[set out as a note under [section 1395w–101 of this title][/us/usc/t42/s1395w–101]\]) as are necessary to implement the amendments made by paragraph (1) \[amending this section\] on a timely basis and, notwithstanding any other provision of law, may implement such amendments by program instruction or otherwise. There shall be no administrative or judicial review under section 1869 or section 1878 of the Social Security Act ([42 U.S.C. 1395ff][/us/usc/t42/s1395ff] and 1395oo), or otherwise of the process (including the establishment of the process) under section 1833(g)(5) of such Act \[subsec. (g)(5) of this section\], as added by paragraph (1).”
+> “The Secretary of Health and Human Services shall waive such provisions of law and regulation (including those described in [section 110(c) of Public Law 108–173][/us/pl/108/173/s110/c] \[set out as a note under [section 1395w–101 of this title][/us/usc/t42/s1395w–101]\]) as are necessary to implement the amendments made by paragraph (1) \[amending this section\] on a timely basis and, notwithstanding any other provision of law, may implement such amendments by program instruction or otherwise. There shall be no administrative or judicial review under section 1869 or section 1878 of the Social Security Act ([42 U.S.C. 1395ff][/us/usc/t42/s1395ff] and 1395oo), or otherwise of the process (including the establishment of the process) under section 1833(g)(5) of such Act \[[42 U.S.C. 1395][/us/usc/t42/s1395]l(g)(5)\], as added by paragraph (1).”
 
  __Implementation of Clinically Appropriate Code Edits In Order To Identify and Eliminate Improper Payments for Therapy Services__ 
 
 [Pub. L. 109–171, title V, § 5107(b)][/us/pl/109/171/s5107/b], Feb. 8, 2006, [120 Stat. 43][/us/stat/120/43], provided that: 
 
-> “By not later than July 1, 2006, the Secretary of Health and Human Services shall implement clinically appropriate code edits with respect to payments under part B of title XVIII of the Social Security Act \[this part\] for physical therapy services, occupational therapy services, and speech-language pathology services in order to identify and eliminate improper payments for such services, including edits of clinically illogical combinations of procedure codes and other edits to control inappropriate billings.”
+> “By not later than July 1, 2006, the Secretary of Health and Human Services shall implement clinically appropriate code edits with respect to payments under part B of title XVIII of the Social Security Act \[[42 U.S.C. 1395j][/us/usc/t42/s1395j] et seq.\] for physical therapy services, occupational therapy services, and speech-language pathology services in order to identify and eliminate improper payments for such services, including edits of clinically illogical combinations of procedure codes and other edits to control inappropriate billings.”
 
  __Application of 2003 Amendment to Physician Specialties__ 
 
@@ -3533,7 +3533,7 @@
 
 >     “(a) __In General.—__ 
 
->     Notwithstanding subsections (a), (b), and (h) of section 1833 of the Social Security Act ([42 U.S.C. 1395][/us/usc/t42/s1395]l) and section 1834(d)(1) of such Act ([42 U.S.C. 1395m(d)(1)][/us/usc/t42/s1395m/d/1]), in the case of a clinical diagnostic laboratory test covered under part B of title XVIII of such Act \[this part\] that is furnished during a cost reporting period described in subsection (b) by a hospital with fewer than 50 beds that is located in a qualified rural area (identified under paragraph (12)(B)(iii) of section 1834(l) of the Social Security Act ([42 U.S.C. 1395m][/us/usc/t42/s1395m](l)), as added by section 414(c)) as part of outpatient services of the hospital, the amount of payment for such test shall be 100 percent of the reasonable costs of the hospital in furnishing such test.
+>     Notwithstanding subsections (a), (b), and (h) of section 1833 of the Social Security Act ([42 U.S.C. 1395][/us/usc/t42/s1395]l) and section 1834(d)(1) of such Act ([42 U.S.C. 1395m(d)(1)][/us/usc/t42/s1395m/d/1]), in the case of a clinical diagnostic laboratory test covered under part B of title XVIII of such Act \[[42 U.S.C. 1395j][/us/usc/t42/s1395j] et seq.\] that is furnished during a cost reporting period described in subsection (b) by a hospital with fewer than 50 beds that is located in a qualified rural area (identified under paragraph (12)(B)(iii) of section 1834(l) of the Social Security Act ([42 U.S.C. 1395m][/us/usc/t42/s1395m](l)), as added by section 414(c)) as part of outpatient services of the hospital, the amount of payment for such test shall be 100 percent of the reasonable costs of the hospital in furnishing such test.
 
 >     “(b) __Application.—__ 
 
@@ -3549,13 +3549,13 @@
 
 [Pub. L. 108–173, title VI, § 621(b)(3)][/us/pl/108/173/s621/b/3], Dec. 8, 2003, [117 Stat. 2311][/us/stat/117/2311], provided that: 
 
-> “The Comptroller General of the United States shall conduct a study to determine appropriate payment amounts under section 1833(t)(16)(C) of the Social Security Act \[subsec. (t)(16)(C) of this section\], as added by paragraph (1), for devices of brachytherapy. Not later than January 1, 2005, the Comptroller General shall submit to Congress and the Secretary \[of Health and Human Services\] a report on the study conducted under this paragraph, and shall include specific recommendations for appropriate payments for such devices.”
+> “The Comptroller General of the United States shall conduct a study to determine appropriate payment amounts under section 1833(t)(16)(C) of the Social Security Act \[[42 U.S.C. 1395][/us/usc/t42/s1395]l(t)(16)(C)\], as added by paragraph (1), for devices of brachytherapy. Not later than January 1, 2005, the Comptroller General shall submit to Congress and the Secretary \[of Health and Human Services\] a report on the study conducted under this paragraph, and shall include specific recommendations for appropriate payments for such devices.”
 
  __Moratorium on Physical Therapy Services Caps in 2003__ 
 
 [Pub. L. 108–173, title VI, § 624(a)(2)][/us/pl/108/173/s624/a/2], Dec. 8, 2003, [117 Stat. 2317][/us/stat/117/2317], provided that: 
 
-> “For the period beginning on the date of the enactment of this Act \[Dec. 8, 2003\] and ending of \[sic\] December 31, 2003, the Secretary \[of Health and Human Services\] shall not apply the provisions of paragraphs (1), (2), and (3) of section 1833(g) \[subsec. (g) of this section\] to expenses incurred with respect to services described in such paragraphs during such period. Nothing in the preceding sentence shall be construed as affecting the application of such paragraphs by the Secretary before the date of the enactment of this Act.”
+> “For the period beginning on the date of the enactment of this Act \[Dec. 8, 2003\] and ending of \[sic\] December 31, 2003, the Secretary \[of Health and Human Services\] shall not apply the provisions of paragraphs (1), (2), and (3) of section 1833(g) \[[42 U.S.C. 1395][/us/usc/t42/s1395]l(g)\] to expenses incurred with respect to services described in such paragraphs during such period. Nothing in the preceding sentence shall be construed as affecting the application of such paragraphs by the Secretary before the date of the enactment of this Act.”
 
  __Prompt Submission of Overdue Reports on Payment and Utilization of Outpatient Therapy Services__ 
 
@@ -3605,7 +3605,7 @@
 
 >     “(a) __Demonstration Project.—__ 
 
->     The Secretary \[of Health and Human Services\] shall conduct a demonstration project under part B of title XVIII of the Social Security Act \[this part\] under which payment is made for drugs or biologicals that are prescribed as replacements for drugs and biologicals described in section 1861(s)(2)(A) or 1861(s)(2)(Q) of such Act ([42 U.S.C. 1395x(s)(2)(A)][/us/usc/t42/s1395x/s/2/A], 1395x(s)(2)(Q)), or both, for which payment is made under such part. Such project shall provide for cost-sharing applicable with respect to such drugs or biologicals in the same manner as cost-sharing applies with respect to part D \[part D of this subchapter\] drugs under standard prescription drug coverage (as defined in section 1860D–2(b) of the Social Security Act \[[section 1395w–102(b) of this title][/us/usc/t42/s1395w–102/b]\], as added by section 101(a)).
+>     The Secretary \[of Health and Human Services\] shall conduct a demonstration project under part B of title XVIII of the Social Security Act \[[42 U.S.C. 1395j][/us/usc/t42/s1395j] et seq.\] under which payment is made for drugs or biologicals that are prescribed as replacements for drugs and biologicals described in section 1861(s)(2)(A) or 1861(s)(2)(Q) of such Act ([42 U.S.C. 1395x(s)(2)(A)][/us/usc/t42/s1395x/s/2/A], 1395x(s)(2)(Q)), or both, for which payment is made under such part. Such project shall provide for cost-sharing applicable with respect to such drugs or biologicals in the same manner as cost-sharing applies with respect to part D \[part D of this subchapter\] drugs under standard prescription drug coverage (as defined in section 1860D–2(b) of the Social Security Act \[[42 U.S.C. 1395w–102(b)][/us/usc/t42/s1395w–102/b]\], as added by section 101(a)).
 
 >     “(b) __Demonstration Project Sites.—__ 
 
@@ -3643,7 +3643,7 @@
 
 >     “(b) __Medicare Payment.—__ 
 
->     Not earlier than October 1, 2004, the Secretary shall pay for the routine costs as well as transplantation and appropriate related items and services (as described in subsection (c)) in the case of medicare beneficiaries who are participating in a clinical trial described in subsection (a) as if such transplantation were covered under title XVIII of such Act \[this subchapter\] and as would be paid under part A or part B of such title \[part A of this subchapter or this part\] for such beneficiary.
+>     Not earlier than October 1, 2004, the Secretary shall pay for the routine costs as well as transplantation and appropriate related items and services (as described in subsection (c)) in the case of medicare beneficiaries who are participating in a clinical trial described in subsection (a) as if such transplantation were covered under title XVIII of such Act \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\] and as would be paid under part A or part B of such title \[[42 U.S.C. 1395c][/us/usc/t42/s1395c] et seq., 1395j et seq.\] for such beneficiary.
 
 >     “(c) __Scope of Payment.—__ 
 
@@ -3653,21 +3653,21 @@
 
 >         “(2) The term ‘transplantation and appropriate related items and services’ means items and services related to the acquisition and delivery of the pancreatic islet cell transplantation, notwithstanding any national noncoverage determination contained in the Centers for Medicare & Medicaid Services Coverage Issues Manual.
 
->         “(3) The term ‘medicare beneficiary’ means an individual who is entitled to benefits under part A of title XVIII of the Social Security Act \[part A of this subchapter\], or enrolled under part B of such title \[this part\], or both.
+>         “(3) The term ‘medicare beneficiary’ means an individual who is entitled to benefits under part A of title XVIII of the Social Security Act \[[42 U.S.C. 1395c][/us/usc/t42/s1395c] et seq.\], or enrolled under part B of such title \[[42 U.S.C. 1395j][/us/usc/t42/s1395j] et seq.\], or both.
 
 >     “(d) __Construction.—__ 
 
 >     The provisions of this section shall not be construed—
 
->         “(1) to permit payment for partial pancreatic tissue or islet cell transplantation under title XVIII of the Social Security Act \[this subchapter\] other than payment as described in subsection (b); or
+>         “(1) to permit payment for partial pancreatic tissue or islet cell transplantation under title XVIII of the Social Security Act \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\] other than payment as described in subsection (b); or
 
 >         “(2)
 
 >          as authorizing or requiring coverage or payment conveying—
 
->             “(A) benefits under part A of such title \[part A of this subchapter\] to a beneficiary not entitled to such part A; or
+>             “(A) benefits under part A of such title \[[42 U.S.C. 1395c][/us/usc/t42/s1395c] et seq.\] to a beneficiary not entitled to such part A; or
 
->             “(B) benefits under part B of such title \[this part\] to a beneficiary not enrolled in such part B.”
+>             “(B) benefits under part B of such title \[[42 U.S.C. 1395j][/us/usc/t42/s1395j] et seq.\] to a beneficiary not enrolled in such part B.”
 
  __GAO Study of Reduction in Medigap Premium Levels Resulting From Reductions in Coinsurance__ 
 
@@ -3681,7 +3681,7 @@
 
 >     “(a) __Study.—__ 
 
->     The Medicare Payment Advisory Commission shall conduct a study on the effect of low patient and procedure volume on the financial status of low-volume, isolated rural health care providers participating in the medicare program under title XVIII of the Social Security Act \[this subchapter\].
+>     The Medicare Payment Advisory Commission shall conduct a study on the effect of low patient and procedure volume on the financial status of low-volume, isolated rural health care providers participating in the medicare program under title XVIII of the Social Security Act \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\].
 
 >     “(b) __Report.—__ 
 
@@ -3723,11 +3723,11 @@
 
 >     “(1) __In general.—__ 
 
->     In the case of a medical device provided as part of a service (or group of services) furnished during the period before initial categories are implemented under subparagraph (B)(i) of section 1833(t)(6) of the Social Security Act \[subsec. (t)(6)(B)(i) of this section\] (as amended by subsection (a)), payment shall be made for such device under such section in accordance with the provisions in effect before the date of the enactment of this Act \[Dec. 21, 2000\]. In addition, beginning on the date that is 30 days after the date of the enactment of this Act, payment shall be made for such a device that is not included in a program memorandum described in such subparagraph if the Secretary of Health and Human Services determines that the device (including a device that would have been included in such program memoranda but for the requirement of subparagraph (A)(iv)(I) of that section) is likely to be described by such an initial category.
+>     In the case of a medical device provided as part of a service (or group of services) furnished during the period before initial categories are implemented under subparagraph (B)(i) of section 1833(t)(6) of the Social Security Act \[[42 U.S.C. 1395][/us/usc/t42/s1395]l(t)(6)(B)(i)\] (as amended by subsection (a)), payment shall be made for such device under such section in accordance with the provisions in effect before the date of the enactment of this Act \[Dec. 21, 2000\]. In addition, beginning on the date that is 30 days after the date of the enactment of this Act, payment shall be made for such a device that is not included in a program memorandum described in such subparagraph if the Secretary of Health and Human Services determines that the device (including a device that would have been included in such program memoranda but for the requirement of subparagraph (A)(iv)(I) of that section) is likely to be described by such an initial category.
 
 >     “(2) __Application of current process.—__ 
 
->     Notwithstanding any other provision of law, the Secretary shall continue to accept applications with respect to medical devices under the process established pursuant to paragraph (6) of section 1833(t) of the Social Security Act \[subsec. (t)(6) of this section\] (as in effect on the day before the date of the enactment of this Act \[Dec. 21, 2000\]) through December 1, 2000, and any device—
+>     Notwithstanding any other provision of law, the Secretary shall continue to accept applications with respect to medical devices under the process established pursuant to paragraph (6) of section 1833(t) of the Social Security Act \[[42 U.S.C. 1395][/us/usc/t42/s1395]l(t)(6)\] (as in effect on the day before the date of the enactment of this Act \[Dec. 21, 2000\]) through December 1, 2000, and any device—
 
 >         “(A) with respect to which an application was submitted (pursuant to such process) on or before such date; and
 
@@ -3763,7 +3763,7 @@
 
 >     “(a) __Study.—__ 
 
->     The Medicare Payment Advisory Commission shall conduct a study on the appropriateness of the current payment rates under the medicare program under title XVIII of the Social Security Act \[this subchapter\] for services provided by a—
+>     The Medicare Payment Advisory Commission shall conduct a study on the appropriateness of the current payment rates under the medicare program under title XVIII of the Social Security Act \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\] for services provided by a—
 
 >         “(1) certified nurse-midwife (as defined in subsection (gg)(2) of section 1861 of such Act ([42 U.S.C. 1395x][/us/usc/t42/s1395x]));
 
@@ -3785,7 +3785,7 @@
 
 >     “(a) __Study.—__ 
 
->     The Medicare Payment Advisory Commission shall conduct a study on the barriers to coverage and payment for outpatient interventional pain medicine procedures under the medicare program under title XVIII of the Social Security Act \[this subchapter\]. Such study shall examine—
+>     The Medicare Payment Advisory Commission shall conduct a study on the barriers to coverage and payment for outpatient interventional pain medicine procedures under the medicare program under title XVIII of the Social Security Act \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\]. Such study shall examine—
 
 >         “(1) the specific barriers imposed under the medicare program on the provision of pain management procedures in hospital outpatient departments, ambulatory surgery centers, and physicians’ offices; and
 
@@ -3799,19 +3799,19 @@
 
 [Pub. L. 106–554, § 1(a)(6)][/us/pl/106/554/s1/a/6] \[title V, § 531(b)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–547, provided that: 
 
-> “Not later than 1 year after the date of the enactment of this Act \[Dec. 21, 2000\], the Secretary of Health and Human Services shall establish procedures for coding and payment determinations for the categories of new clinical diagnostic laboratory tests and new durable medical equipment under part B of title XVIII of the Social Security Act \[this part\] that permit public consultation in a manner consistent with the procedures established for implementing coding modifications for ICD–9–CM.”
+> “Not later than 1 year after the date of the enactment of this Act \[Dec. 21, 2000\], the Secretary of Health and Human Services shall establish procedures for coding and payment determinations for the categories of new clinical diagnostic laboratory tests and new durable medical equipment under part B of title XVIII of the Social Security Act \[[42 U.S.C. 1395j][/us/usc/t42/s1395j] et seq.\] that permit public consultation in a manner consistent with the procedures established for implementing coding modifications for ICD–9–CM.”
 
  __Report on Procedures Used for Advanced, Improved Technologies__ 
 
 [Pub. L. 106–554, § 1(a)(6)][/us/pl/106/554/s1/a/6] \[title V, § 531(c)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–547, provided that: 
 
-> “Not later than 1 year after the date of the enactment of this Act \[Dec. 21, 2000\], the Secretary of Health and Human Services shall submit to Congress a report that identifies the specific procedures used by the Secretary under part B of title XVIII of the Social Security Act \[this part\] to adjust payments for clinical diagnostic laboratory tests and durable medical equipment which are classified to existing codes where, because of an advance in technology with respect to the test or equipment, there has been a significant increase or decrease in the resources used in the test or in the manufacture of the equipment, and there has been a significant improvement in the performance of the test or equipment. The report shall include such recommendations for changes in law as may be necessary to assure fair and appropriate payment levels under such part for such improved tests and equipment as reflects increased costs necessary to produce improved results.”
+> “Not later than 1 year after the date of the enactment of this Act \[Dec. 21, 2000\], the Secretary of Health and Human Services shall submit to Congress a report that identifies the specific procedures used by the Secretary under part B of title XVIII of the Social Security Act \[[42 U.S.C. 1395j][/us/usc/t42/s1395j] et seq.\] to adjust payments for clinical diagnostic laboratory tests and durable medical equipment which are classified to existing codes where, because of an advance in technology with respect to the test or equipment, there has been a significant increase or decrease in the resources used in the test or in the manufacture of the equipment, and there has been a significant improvement in the performance of the test or equipment. The report shall include such recommendations for changes in law as may be necessary to assure fair and appropriate payment levels under such part for such improved tests and equipment as reflects increased costs necessary to produce improved results.”
 
  __Congressional Intention Regarding Base Amounts in Applying HOPD PPS__ 
 
 [Pub. L. 106–113, div. B, § 1000(a)(6)][/us/pl/106/113/s1000/a/6] \[title II, § 201(l)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–341, provided that: 
 
-> “With respect to determining the amount of copayments described in paragraph (3)(A)(ii) of section 1833(t) of the Social Security Act \[subsec. (t) of this section\], as added by section 4523(a) of BBA \[the Balanced Budget Act of 1997, [Pub. L. 105–33][/us/pl/105/33]\], Congress finds that such amount should be determined without regard to such section, in a budget neutral manner with respect to aggregate payments to hospitals, and that the Secretary of Health and Human Services has the authority to determine such amount without regard to such section.”
+> “With respect to determining the amount of copayments described in paragraph (3)(A)(ii) of section 1833(t) of the Social Security Act \[[42 U.S.C. 1395][/us/usc/t42/s1395]l(t)(3)(A)(ii)\], as added by section 4523(a) of BBA \[the Balanced Budget Act of 1997, [Pub. L. 105–33][/us/pl/105/33]\], Congress finds that such amount should be determined without regard to such section, in a budget neutral manner with respect to aggregate payments to hospitals, and that the Secretary of Health and Human Services has the authority to determine such amount without regard to such section.”
 
  __Study and Report to Congress Regarding Special Treatment of Rural and Cancer Hospitals in Prospective Payment System for Hospital Outpatient Department Services__ 
 
@@ -3865,7 +3865,7 @@
 
 >     “(b) __Report to Congress.—__ 
 
->     The Comptroller General shall submit to Congress a report on the study conducted under subsection (a). The report shall include recommendations regarding practice expense adjustments to the payment methodology under part B of title XVIII of the Social Security Act \[this part\], including the development and inclusion of adequate work units to assure the adequacy of payment amounts for safe outpatient cancer therapy services. The study shall also include an estimate of the cost of implementing such recommendations.”
+>     The Comptroller General shall submit to Congress a report on the study conducted under subsection (a). The report shall include recommendations regarding practice expense adjustments to the payment methodology under part B of title XVIII of the Social Security Act \[[42 U.S.C. 1395j][/us/usc/t42/s1395j] et seq.\], including the development and inclusion of adequate work units to assure the adequacy of payment amounts for safe outpatient cancer therapy services. The study shall also include an estimate of the cost of implementing such recommendations.”
 
  __Focused Medical Reviews of Claims During Moratorium Period__ 
 
@@ -3883,7 +3883,7 @@
 
 >         The Secretary of Health and Human Services shall conduct a study which compares—
 
->             “(i) utilization patterns (including nationwide patterns, and patterns by region, types of settings, and diagnosis or condition) of outpatient physical therapy services, outpatient occupational therapy services, and speech-language pathology services that are covered under the medicare program under title XVIII of the Social Security Act ([42 U.S.C. 1395][/us/usc/t42/s1395]) \[this subchapter\] and provided on or after January 1, 2000; with
+>             “(i) utilization patterns (including nationwide patterns, and patterns by region, types of settings, and diagnosis or condition) of outpatient physical therapy services, outpatient occupational therapy services, and speech-language pathology services that are covered under the medicare program under title XVIII of the Social Security Act ([42 U.S.C. 1395][/us/usc/t42/s1395]) \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\] and provided on or after January 1, 2000; with
 
 >             “(ii) such patterns for such services that were provided in 1998 and 1999.
 
@@ -3913,7 +3913,7 @@
 
 >     “(1) __In general.—__ 
 
->     The Medicare Payment Advisory Commission shall conduct a study on the cost-effectiveness and efficacy of covering under the medicare program under title XVIII of the Social Security Act \[this subchapter\] services of a post-surgical recovery care center (that provides an intermediate level of recovery care following surgery). In conducting such study, the Commission shall consider data on these centers gathered in demonstration projects.
+>     The Medicare Payment Advisory Commission shall conduct a study on the cost-effectiveness and efficacy of covering under the medicare program under title XVIII of the Social Security Act \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\] services of a post-surgical recovery care center (that provides an intermediate level of recovery care following surgery). In conducting such study, the Commission shall consider data on these centers gathered in demonstration projects.
 
 >     “(2) __Report.—__ 
 
@@ -3971,9 +3971,9 @@
 
 > “Not later than January 1, 2001, the Secretary of Health and Human Services shall submit to Congress a report that includes recommendations on—
 
->     “(A) the establishment of a mechanism for assuring appropriate utilization of outpatient physical therapy services, outpatient occupational therapy services, and speech-language pathology services that are covered under the medicare program under title XVIII of the Social Security Act ([42 U.S.C. 1395][/us/usc/t42/s1395]) \[this subchapter\]; and
+>     “(A) the establishment of a mechanism for assuring appropriate utilization of outpatient physical therapy services, outpatient occupational therapy services, and speech-language pathology services that are covered under the medicare program under title XVIII of the Social Security Act ([42 U.S.C. 1395][/us/usc/t42/s1395]) \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\]; and
 
->     “(B) the establishment of an alternative payment policy for such services based on classification of individuals by diagnostic category, functional status, prior use of services (in both inpatient and outpatient settings), and such other criteria as the Secretary determines appropriate, in place of the uniform dollar limitations specified in section 1833(g) of such Act \[subsec. (g) of this section\], as amended by paragraph (1).
+>     “(B) the establishment of an alternative payment policy for such services based on classification of individuals by diagnostic category, functional status, prior use of services (in both inpatient and outpatient settings), and such other criteria as the Secretary determines appropriate, in place of the uniform dollar limitations specified in section 1833(g) of such Act \[[42 U.S.C. 1395][/us/usc/t42/s1395]l(g) \], as amended by paragraph (1).
 
 >         The recommendations shall include how such a mechanism or policy might be implemented in a budget-neutral manner.”
 
@@ -3989,7 +3989,7 @@
 
 >     “(1) __In general.—__ 
 
->     The Secretary shall request the Institute of Medicine of the National Academy of Sciences to conduct a study of payments under part B of title XVIII of the Social Security Act \[this part\] for clinical laboratory tests. The study shall include a review of the adequacy of the current methodology and recommendations regarding alternative payment systems. The study shall also analyze and discuss the relationship between such payment systems and access to high quality laboratory tests for medicare beneficiaries, including availability and access to new testing methodologies.
+>     The Secretary shall request the Institute of Medicine of the National Academy of Sciences to conduct a study of payments under part B of title XVIII of the Social Security Act \[[42 U.S.C. 1395j][/us/usc/t42/s1395j] et seq.\] for clinical laboratory tests. The study shall include a review of the adequacy of the current methodology and recommendations regarding alternative payment systems. The study shall also analyze and discuss the relationship between such payment systems and access to high quality laboratory tests for medicare beneficiaries, including availability and access to new testing methodologies.
 
 >     “(2) __Report to congress.—__ 
 
@@ -4001,7 +4001,7 @@
 
 >     “(1) __Establishment of process for review of amounts.—__ 
 
->     Not later than 1 year after the date of the enactment of this Act \[Oct. 31, 1994\], the Secretary of Health and Human Services (in this subsection referred to as the ‘Secretary’) shall develop and implement a process under which interested parties may request review by the Secretary of the appropriateness of the reimbursement amount provided under section 1833(i)(2)(A)(iii) of the Social Security Act \[subsec. (i)(2)(A)(iii) of this section\] with respect to a class of new technology intraocular lenses. For purposes of the preceding sentence, an intraocular lens may not be treated as a new technology lens unless it has been approved by the Food and Drug Administration.
+>     Not later than 1 year after the date of the enactment of this Act \[Oct. 31, 1994\], the Secretary of Health and Human Services (in this subsection referred to as the ‘Secretary’) shall develop and implement a process under which interested parties may request review by the Secretary of the appropriateness of the reimbursement amount provided under section 1833(i)(2)(A)(iii) of the Social Security Act \[[42 U.S.C. 1395][/us/usc/t42/s1395]l(i)(2)(A)(iii)\] with respect to a class of new technology intraocular lenses. For purposes of the preceding sentence, an intraocular lens may not be treated as a new technology lens unless it has been approved by the Food and Drug Administration.
 
 >     “(2) __Factors considered.—__ 
 
@@ -4027,17 +4027,17 @@
 
 [Pub. L. 103–66, title XIII, § 13531][/us/pl/103/66/s13531], Aug. 10, 1993, [107 Stat. 586][/us/stat/107/586], provided that: 
 
-> “The Secretary of Health and Human Services shall not provide for any inflation update in the payment amounts under subparagraphs (A) and (B) of section 1833(i)(2) of the Social Security Act \[subsec. (i)(2)(A) and (B) of this section\] for fiscal year 1994 or for fiscal year 1995.”
+> “The Secretary of Health and Human Services shall not provide for any inflation update in the payment amounts under subparagraphs (A) and (B) of section 1833(i)(2) of the Social Security Act \[[42 U.S.C. 1395][/us/usc/t42/s1395]l(i)(2)(A), (B)\] for fiscal year 1994 or for fiscal year 1995.”
 
  __Freeze in Allowance for Intraocular Lenses__ 
 
 [Pub. L. 103–66, title XIII, § 13533][/us/pl/103/66/s13533], Aug. 10, 1993, [107 Stat. 587][/us/stat/107/587], provided that: 
 
-> “Notwithstanding section 1833(i)(2)(A)(iii) of the Social Security Act \[subsec. (i)(2)(A)(iii) of this section\], the amount of payment determined under such section for an intraocular lens inserted subsequent to or during cataract surgery in an ambulatory surgical center on or after January 1, 1994, and before January 1, 1999, shall be equal to $150.”
+> “Notwithstanding section 1833(i)(2)(A)(iii) of the Social Security Act \[[42 U.S.C. 1395][/us/usc/t42/s1395]l(i)(2)(A)(iii)\], the amount of payment determined under such section for an intraocular lens inserted subsequent to or during cataract surgery in an ambulatory surgical center on or after January 1, 1994, and before January 1, 1999, shall be equal to $150.”
 
 [Pub. L. 101–508, title IV, § 4151(c)(3)][/us/pl/101/508/s4151/c/3], Nov. 5, 1990, [104 Stat. 1388–73][/us/stat/104/1388-73], as amended by [Pub. L. 103–432, title I, § 141(d)][/us/pl/103/432/s141/d], Oct. 31, 1994, [108 Stat. 4426][/us/stat/108/4426], provided that: 
 
-> “Notwithstanding section 1833(i)(2)(A)(iii) of the Social Security Act \[subsec. (i)(2)(A)(iii) of this section\], the amount of payment determined under such section for an intraocular lens inserted during or subsequent to cataract surgery furnished to an individual in an ambulatory surgical center on or after the date of the enactment of this Act \[Nov. 5, 1990\] and on or before December 31, 1992, shall be equal to $200.”
+> “Notwithstanding section 1833(i)(2)(A)(iii) of the Social Security Act \[[42 U.S.C. 1395][/us/usc/t42/s1395]l(i)(2)(A)(iii)\], the amount of payment determined under such section for an intraocular lens inserted during or subsequent to cataract surgery furnished to an individual in an ambulatory surgical center on or after the date of the enactment of this Act \[Nov. 5, 1990\] and on or before December 31, 1992, shall be equal to $200.”
 
     \[[Pub. L. 103–432, title I, § 141(d)][/us/pl/103/432/s141/d], Oct. 31, 1994, [108 Stat. 4426][/us/stat/108/4426], provided that the amendment made by that section to [section 4151(c)(3) of Pub. L. 101–508][/us/pl/101/508/s4151/c/3], set out above, is effective as if included in the enactment of [Pub. L. 101–508][/us/pl/101/508].\]
 
@@ -4047,7 +4047,7 @@
 
 >     “(a) __In General.—__ 
 
->     Notwithstanding any other provision of law (including any other provision of this Act, other than subsection (b)(4)), payments under part B of title XVIII of the Social Security Act \[this part\] for items and services furnished during the period beginning on November 1, 1990, and ending on December 31, 1990, shall be reduced by 2 percent, in accordance with subsection (b).
+>     Notwithstanding any other provision of law (including any other provision of this Act, other than subsection (b)(4)), payments under part B of title XVIII of the Social Security Act \[[42 U.S.C. 1395j][/us/usc/t42/s1395j] et seq.\] for items and services furnished during the period beginning on November 1, 1990, and ending on December 31, 1990, shall be reduced by 2 percent, in accordance with subsection (b).
 
 >     “(b) __Special Rules for Application of Reduction.—__ 
 
@@ -4057,11 +4057,11 @@
 
 >         “(2) __No increase in beneficiary charges in assignment-related cases.—__ 
 
->         If a reduction in payment amounts is made under subsection (a) for items or services for which payment under part B of such title is made on an assignment-related basis (as defined in section 1842(i)(1) of the Social Security Act \[[section 1395u(i)(1) of this title][/us/usc/t42/s1395u/i/1]\]), the person furnishing the items or services shall be considered to have accepted payment of the reasonable charge for the items or services, less any reduction in payment amount made under subsection (a), as payment in full.
+>         If a reduction in payment amounts is made under subsection (a) for items or services for which payment under part B of such title is made on an assignment-related basis (as defined in section 1842(i)(1) of the Social Security Act \[[42 U.S.C. 1395u(i)(1)][/us/usc/t42/s1395u/i/1]\]), the person furnishing the items or services shall be considered to have accepted payment of the reasonable charge for the items or services, less any reduction in payment amount made under subsection (a), as payment in full.
 
 >         “(3) __Treatment of payments to health maintenance organizations.—__ 
 
->         Subsection (a) shall not apply to payments under risk-sharing contracts under section 1876 of the Social Security Act \[[section 1395mm of this title][/us/usc/t42/s1395mm]\] or under similar contracts under section 402 of the Social Security Amendments of 1967 \[[Pub. L. 90–248][/us/pl/90/248], enacting [section 1395b–1 of this title][/us/usc/t42/s1395b–1] and amending section 1395ll of this title\] or section 222 of the Social Security Amendments of 1972 \[[Pub. L. 92–603][/us/pl/92/603], amending sections 1395b–1 and 1395ll of this title and enacting provisions set out as a note under [section 1395b–1 of this title][/us/usc/t42/s1395b–1]\].”
+>         Subsection (a) shall not apply to payments under risk-sharing contracts under section 1876 of the Social Security Act \[[42 U.S.C. 1395mm][/us/usc/t42/s1395mm]\] or under similar contracts under section 402 of the Social Security Amendments of 1967 \[[Pub. L. 90–248][/us/pl/90/248], enacting [section 1395b–1 of this title][/us/usc/t42/s1395b–1] and amending section 1395ll of this title\] or section 222 of the Social Security Amendments of 1972 \[[Pub. L. 92–603][/us/pl/92/603], amending sections 1395b–1 and 1395ll of this title and enacting provisions set out as a note under [section 1395b–1 of this title][/us/usc/t42/s1395b–1]\].”
 
  __Effect on State Law__ 
 
@@ -4071,7 +4071,7 @@
 
 [Pub. L. 101–239, title VI, § 6113(c)][/us/pl/101/239/s6113/c], Dec. 19, 1989, [103 Stat. 2217][/us/stat/103/2217], as amended by [Pub. L. 103–432, title I, § 147(b)][/us/pl/103/432/s147/b], Oct. 31, 1994, [108 Stat. 4429][/us/stat/108/4429], provided that: 
 
-> “The Secretary of Health and Human Services shall, taking into consideration concerns for patient confidentiality, develop criteria with respect to payment for qualified psychologist services and clinical social worker services for which payment may be made directly to the psychologist or clinical social worker under part B of title XVIII of the Social Security Act \[this part\] under which such a psychologist or clinical social worker must agree to consult with a patient’s attending physician in accordance with such criteria.”
+> “The Secretary of Health and Human Services shall, taking into consideration concerns for patient confidentiality, develop criteria with respect to payment for qualified psychologist services and clinical social worker services for which payment may be made directly to the psychologist or clinical social worker under part B of title XVIII of the Social Security Act \[[42 U.S.C. 1395j][/us/usc/t42/s1395j] et seq.\] under which such a psychologist or clinical social worker must agree to consult with a patient’s attending physician in accordance with such criteria.”
 
     \[[Pub. L. 103–432, title I, § 147(b)][/us/pl/103/432/s147/b], Oct. 31, 1994, [108 Stat. 4429][/us/stat/108/4429], provided that the amendment made by that section to [section 6113(c) of Pub. L. 101–239][/us/pl/101/239/s6113/c], set out above, is effective with respect to services furnished on or after Jan. 1, 1991.\]
 
@@ -4087,7 +4087,7 @@
 
 [Pub. L. 100–647, title VIII, § 8421(b)][/us/pl/100/647/s8421/b], Nov. 10, 1988, [102 Stat. 3802][/us/stat/102/3802], provided that: 
 
-> “The Secretary of Health and Human Services shall adjust the fees for transportation and personnel established under section 1833(h)(3)(B) of the Social Security Act \[subsec. (h)(3)(B) of this section\] for tests not covered under the amendment made by subsection (a) \[amending this section\] in such manner that the total cost of fees under such section is the same as would have been the case without such amendment.”
+> “The Secretary of Health and Human Services shall adjust the fees for transportation and personnel established under section 1833(h)(3)(B) of the Social Security Act \[[42 U.S.C. 1395][/us/usc/t42/s1395]l(h)(3)(B)\] for tests not covered under the amendment made by subsection (a) \[amending this section\] in such manner that the total cost of fees under such section is the same as would have been the case without such amendment.”
 
  __Adjustment of Contracts With Prepaid Health Plans__ 
 
@@ -4125,7 +4125,7 @@
 
 [Pub. L. 100–203, title IV, § 4067(b)][/us/pl/100/203/s4067/b], Dec. 22, 1987, [101 Stat. 1330–113][/us/stat/101/1330-113], provided that: 
 
-> “The Secretary of Health and Human Services shall report to Congress, by not later than March 1, 1989, on the adequacy of the amounts paid under title XVIII of the Social Security Act \[this subchapter\] for rural health clinic services provided by independent rural health clinics.”
+> “The Secretary of Health and Human Services shall report to Congress, by not later than March 1, 1989, on the adequacy of the amounts paid under title XVIII of the Social Security Act \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\] for rural health clinic services provided by independent rural health clinics.”
 
  __Report on Establishment of National Fee Schedules for Payment of Clinical Diagnostic Laboratory Tests__ 
 
@@ -4137,7 +4137,7 @@
 
 >     “(1) __In general.—__ 
 
->     If a State (as defined for purposes of title XVIII of the Social Security Act \[this subchapter\]) provides for the licensing or other standards with respect to the operation of clinical laboratories (including such laboratories in hospitals) in the State under which such a laboratory may be directed by an individual with certain qualifications, nothing in such title shall be construed as authorizing the Secretary of Health and Human Services to require such a laboratory, as a condition of payment or participation under such title, to be directed by an individual with other qualifications.
+>     If a State (as defined for purposes of title XVIII of the Social Security Act \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\]) provides for the licensing or other standards with respect to the operation of clinical laboratories (including such laboratories in hospitals) in the State under which such a laboratory may be directed by an individual with certain qualifications, nothing in such title shall be construed as authorizing the Secretary of Health and Human Services to require such a laboratory, as a condition of payment or participation under such title, to be directed by an individual with other qualifications.
 
 >     “(2) __Effective date.—__ 
 
@@ -4147,7 +4147,7 @@
 
 [Pub. L. 99–272, title IX, § 9303(a)(3)][/us/pl/99/272/s9303/a/3], Apr. 7, 1986, [100 Stat. 188][/us/stat/100/188], provided that: 
 
-> “The Secretary of Health and Human Services shall provide that the annual adjustment under section 1833(h) of the Social Security Act \[subsec. (h) of this section\] for 1986—
+> “The Secretary of Health and Human Services shall provide that the annual adjustment under section 1833(h) of the Social Security Act \[[42 U.S.C. 1395][/us/usc/t42/s1395]l(h)\] for 1986—
 
 >     “(A) shall take effect on January 1, 1987,
 
@@ -4167,7 +4167,7 @@
 
 >      The Comptroller General shall report to the Congress on—
 
->         “(A) the appropriateness of the fee schedules under section 1833(h) of the Social Security Act \[subsec. (h) of this section\] and their impact on the volume and quality of clinical diagnostic laboratory tests;
+>         “(A) the appropriateness of the fee schedules under section 1833(h) of the Social Security Act \[[42 U.S.C. 1395][/us/usc/t42/s1395]l(h)\] and their impact on the volume and quality of clinical diagnostic laboratory tests;
 
 >         “(B) the potential impact of the adoption of a national fee schedule; and
 
@@ -4181,7 +4181,7 @@
 
 [Pub. L. 98–369, div. B, title III, § 2304(a)][/us/pl/98/369/s2304/a], July 18, 1984, [98 Stat. 1067][/us/stat/98/1067], provided that:
 
->     “(1) The Secretary of Health and Human Services shall issue revisions to the current guidelines for the payment under part B of title XVIII of the Social Security Act \[this part\] for the transtelephonic monitoring of cardiac pacemakers. Such revised guidelines shall include provisions regarding the specifications for and frequency of transtelephonic monitoring procedures which will be found to be reasonable and necessary.
+>     “(1) The Secretary of Health and Human Services shall issue revisions to the current guidelines for the payment under part B of title XVIII of the Social Security Act \[[42 U.S.C. 1395j][/us/usc/t42/s1395j] et seq.\] for the transtelephonic monitoring of cardiac pacemakers. Such revised guidelines shall include provisions regarding the specifications for and frequency of transtelephonic monitoring procedures which will be found to be reasonable and necessary.
 
 >     “(2)
 
@@ -4201,7 +4201,7 @@
 
 [Pub. L. 98–369, div. B, title III, § 2305(f)][/us/pl/98/369/s2305/f], July 18, 1984, [98 Stat. 1070][/us/stat/98/1070], provided that: 
 
-> “The amendments made by this section \[amending this section and enacting provisions set out above\] shall not be construed as prohibiting payment, subject to the applicable copayments, under part B of title XVIII of the Social Security Act \[this part\] for preadmission diagnostic testing performed in a physician’s office to the extent such testing is otherwise reimbursable under regulations of the Secretary.”
+> “The amendments made by this section \[amending this section and enacting provisions set out above\] shall not be construed as prohibiting payment, subject to the applicable copayments, under part B of title XVIII of the Social Security Act \[[42 U.S.C. 1395j][/us/usc/t42/s1395j] et seq.\] for preadmission diagnostic testing performed in a physician’s office to the extent such testing is otherwise reimbursable under regulations of the Secretary.”
 
  __Providers of Services To Calculate and Report Lesser-of-Cost-or-Charges Determinations Separately With Respect to Payments Under Parts A and B of This Subchapter; Issuance of Regulations__ 
 
@@ -4219,7 +4219,7 @@
 
 [Pub. L. 98–369, div. B, title III, § 2323(e)][/us/pl/98/369/s2323/e], July 18, 1984, [98 Stat. 1086][/us/stat/98/1086], provided that: 
 
-> “The Secretary shall monitor the provision of hepatitis B vaccine under part B of title XVIII of the Social Security Act \[this part\], and shall review any changes in medical technology which may have an effect on the amounts which should be paid for such service.”
+> “The Secretary shall monitor the provision of hepatitis B vaccine under part B of title XVIII of the Social Security Act \[[42 U.S.C. 1395j][/us/usc/t42/s1395j] et seq.\], and shall review any changes in medical technology which may have an effect on the amounts which should be paid for such service.”
 
  __Report on Preadmission Diagnostic Testing Expenses__ 
 
@@ -4227,13 +4227,13 @@
 
  __Study of Feasibility and Desirability of Imposing Copayment Requirement on Rural Health Clinic Visits; Report Not Later Than__  __December 13, 1978__ 
 
-    [Pub. L. 95–210, § 1(c)][/us/pl/95/210/s1/c], Dec. 13, 1977, [91 Stat. 1485][/us/stat/91/1485], directed Secretary of Health, Education, and Welfare to conduct a study of the feasibility and desirability of imposing a copayment for each visit to a rural health clinic for rural health clinic services under this part and that Secretary report to appropriate committee of Congress, not later than one year after Dec. 13, 1977, on such study.
+    [Pub. L. 95–210, § 1(c)][/us/pl/95/210/s1/c], Dec. 13, 1977, [91 Stat. 1485][/us/stat/91/1485], directed Secretary of Health, Education, and Welfare \[now Health and Human Services\] to conduct a study of the feasibility and desirability of imposing a copayment for each visit to a rural health clinic for rural health clinic services under this part and that Secretary report to appropriate committee of Congress, not later than one year after Dec. 13, 1977, on such study.
 
  __Prohibition Against Payments in Cases of Nonenti­tlement to Monthly Benefits Under Subchapter II or Suspension of Benefits of Aliens Outside the United States__ 
 
 [Pub. L. 89–97, title I, § 104(b)(1)][/us/pl/89/97/s104/b/1], July 30, 1965, [79 Stat. 334][/us/stat/79/334], provided that: 
 
-> “No payments shall be made under part B of title XVIII of the Social Security Act \[this part\] with respect to expenses incurred by an individual during any month for which such individual may not be paid monthly benefits under title II of such Act \[subchapter II of this chapter\] (or for which such monthly benefits would be suspended if he were otherwise entitled thereto) by reason of section 202(t) of such Act \[[section 402(t) of this title][/us/usc/t42/s402/t]\] (relating to suspension of benefits of aliens who are outside the United States).”
+> “No payments shall be made under part B of title XVIII of the Social Security Act \[[42 U.S.C. 1395j][/us/usc/t42/s1395j] et seq.\] with respect to expenses incurred by an individual during any month for which such individual may not be paid monthly benefits under title II of such Act \[[42 U.S.C. 401][/us/usc/t42/s401] et seq.\] (or for which such monthly benefits would be suspended if he were otherwise entitled thereto) by reason of section 202(t) of such Act \[[42 U.S.C. 402(t)][/us/usc/t42/s402/t]\] (relating to suspension of benefits of aliens who are outside the United States).”
 
 ----------
 
@@ -5434,6 +5434,7 @@
 [/us/pl/106/113/s1000/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F6
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
 [/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
 [/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
 [/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
 [/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
@@ -5544,6 +5545,7 @@
 [/us/stat/104/1388-117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-117
 [/us/usc/t42/s1395mm]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395mm
 [/us/usc/t42/s1395mm]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395mm
+[/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
 [/us/pl/101/239/s6102/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs6102%2Fc%2F2
 [/us/stat/103/2185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2185
 [/us/pl/101/239/s6102/f/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs6102%2Ff%2F3
@@ -5562,6 +5564,7 @@
 [/us/pl/101/239/s6131/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs6131%2Fc
 [/us/stat/103/2221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2221
 [/us/usc/t42/s1395x]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395x
+[/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
 [/us/pl/101/239/s6133/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs6133%2Fb
 [/us/stat/103/2222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2222
 [/us/pl/101/239/s6204/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs6204%2Fb
@@ -5630,6 +5633,7 @@
 [/us/pl/99/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509
 [/us/pl/100/203/s4070/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs4070%2Fc%2F1
 [/us/stat/101/1330-115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-115
+[/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
 [/us/pl/100/203/s4072/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs4072%2Fb
 [/us/pl/100/203/s4072/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs4072%2Fe
 [/us/usc/t42/s1395x]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395x
@@ -5684,8 +5688,10 @@
 [/us/usc/t42/s1396b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396b
 [/us/pl/98/21/s602/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21%2Fs602%2Fk
 [/us/usc/t42/s1395y]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395y
+[/us/usc/t42/s1395j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395j
 [/us/usc/t42/s1395u/b/3/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395u%2Fb%2F3%2FB%2Fii
 [/us/usc/t42/s1395gg/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395gg%2Ff%2F1
+[/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
 [/us/pl/98/369/s2305/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2305%2Fe
 [/us/stat/98/1070]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1070
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
@@ -5731,6 +5737,7 @@
 [/us/pl/92/603/s204/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603%2Fs204%2Fc
 [/us/stat/86/1377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1377
 [/us/usc/t42/s1395n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395n
+[/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
 [/us/pl/92/603/s211/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603%2Fs211%2Fc%2F4
 [/us/pl/92/603/s211/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603%2Fs211%2Fd
 [/us/usc/t42/s1395f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395f
@@ -5761,9 +5768,11 @@
 [/us/usc/t42/s1395e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395e
 [/us/pl/110/275/s101/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F275%2Fs101%2Fa%2F4
 [/us/stat/122/2497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2497
+[/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
 [/us/pl/106/554/s1/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F6
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
 [/us/pl/106/554/s1/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F6
+[/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
 [/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
 [/us/pl/112/242/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F242%2Fs101
 [/us/stat/126/2374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2374
@@ -5793,6 +5802,7 @@
 [/us/usc/t42/s1395t]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395t
 [/us/pl/110/275/s139/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F275%2Fs139%2Fb
 [/us/stat/122/2541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2541
+[/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
 [/us/usc/t42/s1395w–4/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%934%2Fa%2F6
 [/us/pl/109/432/s107/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs107%2Fb%2F2
 [/us/stat/120/2983]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2983
@@ -5801,8 +5811,10 @@
 [/us/pl/108/173/s110/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs110%2Fc
 [/us/usc/t42/s1395w–101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%93101
 [/us/usc/t42/s1395ff]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ff
+[/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
 [/us/pl/109/171/s5107/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2Fs5107%2Fb
 [/us/stat/120/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F43
+[/us/usc/t42/s1395j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395j
 [/us/pl/108/173/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs303
 [/us/pl/108/173/s303/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs303%2Fj
 [/us/usc/t42/s1395u]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395u
@@ -5824,6 +5836,7 @@
 [/us/stat/124/3288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3288
 [/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
 [/us/usc/t42/s1395m/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395m%2Fd%2F1
+[/us/usc/t42/s1395j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395j
 [/us/usc/t42/s1395m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395m
 [/us/usc/t42/s1395m/g/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395m%2Fg%2F4
 [/us/pl/109/432/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs105
@@ -5832,8 +5845,10 @@
 [/us/pl/108/173/s416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs416
 [/us/pl/108/173/s621/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs621%2Fb%2F3
 [/us/stat/117/2311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2311
+[/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
 [/us/pl/108/173/s624/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs624%2Fa%2F2
 [/us/stat/117/2317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2317
+[/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
 [/us/pl/108/173/s624/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs624%2Fb
 [/us/stat/117/2317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2317
 [/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
@@ -5845,14 +5860,23 @@
 [/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
 [/us/pl/108/173/s641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs641
 [/us/stat/117/2321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2321
+[/us/usc/t42/s1395j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395j
 [/us/usc/t42/s1395x/s/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395x%2Fs%2F2%2FA
 [/us/usc/t42/s1395w–102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%93102%2Fb
 [/us/pl/108/173/s733]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs733
 [/us/stat/117/2352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2352
+[/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
+[/us/usc/t42/s1395c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395c
+[/us/usc/t42/s1395c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395c
+[/us/usc/t42/s1395j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395j
+[/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
+[/us/usc/t42/s1395c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395c
+[/us/usc/t42/s1395j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395j
 [/us/pl/106/554/s1/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F6
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
 [/us/pl/106/554/s1/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F6
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
+[/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
 [/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
 [/us/usc/t42/s1395m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395m
 [/us/usc/t42/s1395ww]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww
@@ -5863,23 +5887,30 @@
 [/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
 [/us/pl/106/554/s1/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F6
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
-[/us/pl/106/554/s1/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F6
-[/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
+[/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
 [/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
 [/us/pl/106/554/s1/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F6
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
 [/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
 [/us/pl/106/554/s1/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F6
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
+[/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
+[/us/pl/106/554/s1/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F6
+[/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
+[/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
 [/us/usc/t42/s1395x]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395x
 [/us/pl/106/554/s1/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F6
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
+[/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
 [/us/pl/106/554/s1/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F6
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
+[/us/usc/t42/s1395j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395j
 [/us/pl/106/554/s1/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F6
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
+[/us/usc/t42/s1395j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395j
 [/us/pl/106/113/s1000/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F6
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
+[/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
 [/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
 [/us/pl/106/113/s1000/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F6
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
@@ -5891,6 +5922,7 @@
 [/us/usc/t42/s1395ww/d/1/B/v]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww%2Fd%2F1%2FB%2Fv
 [/us/pl/106/113/s1000/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F6
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
+[/us/usc/t42/s1395j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395j
 [/us/pl/106/113/s1000/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F6
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
 [/us/pl/106/554/s1/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F6
@@ -5899,6 +5931,7 @@
 [/us/pl/106/113/s1000/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F6
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
 [/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
+[/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
 [/us/pl/106/113/s1000/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F6
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
 [/us/pl/106/554/s1/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F6
@@ -5906,6 +5939,7 @@
 [/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
 [/us/pl/106/113/s1000/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F6
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
+[/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
 [/us/pl/105/33/s4206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs4206
 [/us/stat/111/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F377
 [/us/pl/106/554/s1/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F6
@@ -5930,32 +5964,40 @@
 [/us/pl/106/113/s1000/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F6
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
 [/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
+[/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
+[/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
 [/us/pl/106/113/s1000/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F6
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
 [/us/pl/105/33/s4541/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs4541%2Fd%2F2
 [/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
 [/us/pl/105/33/s4553/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs4553%2Fc
 [/us/stat/111/460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F460
+[/us/usc/t42/s1395j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395j
 [/us/pl/103/432/s141/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432%2Fs141%2Fb
 [/us/stat/108/4425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4425
+[/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
 [/us/pl/103/432/s142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432%2Fs142
 [/us/stat/108/4426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4426
 [/us/pl/103/432/s143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432%2Fs143
 [/us/stat/108/4426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4426
 [/us/pl/103/66/s13531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13531
 [/us/stat/107/586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F586
+[/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
 [/us/pl/103/66/s13533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13533
 [/us/stat/107/587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F587
+[/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
 [/us/pl/101/508/s4151/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs4151%2Fc%2F3
 [/us/stat/104/1388-73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-73
 [/us/pl/103/432/s141/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432%2Fs141%2Fd
 [/us/stat/108/4426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4426
+[/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
 [/us/pl/103/432/s141/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432%2Fs141%2Fd
 [/us/stat/108/4426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4426
 [/us/pl/101/508/s4151/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs4151%2Fc%2F3
 [/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
 [/us/pl/101/508/s4158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs4158
 [/us/stat/104/1388-89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-89
+[/us/usc/t42/s1395j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395j
 [/us/usc/t42/s1395u/i/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395u%2Fi%2F1
 [/us/usc/t42/s1395mm]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395mm
 [/us/pl/90/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248
@@ -5968,6 +6010,7 @@
 [/us/stat/103/2217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2217
 [/us/pl/103/432/s147/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432%2Fs147%2Fb
 [/us/stat/108/4429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4429
+[/us/usc/t42/s1395j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395j
 [/us/pl/103/432/s147/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432%2Fs147%2Fb
 [/us/stat/108/4429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4429
 [/us/pl/101/239/s6113/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs6113%2Fc
@@ -5979,6 +6022,7 @@
 [/us/stat/108/4429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4429
 [/us/pl/100/647/s8421/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs8421%2Fb
 [/us/stat/102/3802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3802
+[/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
 [/us/pl/100/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360
 [/us/pl/100/360/s222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360%2Fs222
 [/us/usc/t42/s1395mm]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395mm
@@ -6013,6 +6057,7 @@
 [/us/usc/t42/s1320a–7/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320a%E2%80%937%2Fa
 [/us/pl/100/203/s4067/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs4067%2Fb
 [/us/stat/101/1330-113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-113
+[/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
 [/us/pl/99/509/s9339/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs9339%2Fb%2F3
 [/us/stat/100/2036]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2036
 [/us/pl/101/508/s4154/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs4154%2Fe%2F3
@@ -6020,16 +6065,21 @@
 [/us/pl/99/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509
 [/us/pl/99/509/s9339/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs9339%2Fd
 [/us/stat/100/2037]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2037
+[/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
 [/us/pl/99/272/s9303/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs9303%2Fa%2F3
 [/us/stat/100/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F188
+[/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
 [/us/pl/99/107/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F107%2Fs5%2Fb
 [/us/usc/t42/s1395ww]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww
 [/us/pl/98/369/s2303/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2303%2Fi
 [/us/stat/98/1066]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1066
+[/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
 [/us/pl/98/369/s2304/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2304%2Fa
 [/us/stat/98/1067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1067
+[/us/usc/t42/s1395j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395j
 [/us/pl/98/369/s2305/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2305%2Ff
 [/us/stat/98/1070]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1070
+[/us/usc/t42/s1395j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395j
 [/us/pl/98/369/s2308/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2308%2Fa
 [/us/usc/t42/s1395f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395f
 [/us/pl/98/369/s2308/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2308%2Fb%2F1
@@ -6038,12 +6088,15 @@
 [/us/stat/98/1074]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1074
 [/us/pl/98/369/s2323/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2323%2Fe
 [/us/stat/98/1086]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1086
+[/us/usc/t42/s1395j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395j
 [/us/pl/96/499/s932/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F499%2Fs932%2Fb
 [/us/stat/94/2635]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2635
 [/us/pl/95/210/s1/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F210%2Fs1%2Fc
 [/us/stat/91/1485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1485
 [/us/pl/89/97/s104/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97%2Fs104%2Fb%2F1
 [/us/stat/79/334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F334
+[/us/usc/t42/s1395j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395j
+[/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
 [/us/usc/t42/s402/t]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs402%2Ft
 
 

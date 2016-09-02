@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1921.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs1921" data-uslm-ref="/us/usc/t42/s1921">1921.</a>  </td>
 
     <td> Establishment of medals for bravery; rules and regulations; conditions governing awards.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 1922.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs1922" data-uslm-ref="/us/usc/t42/s1922">1922.</a>  </td>
 
     <td> Establishment of medals for character and service; condition governing awards.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 1923.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs1923" data-uslm-ref="/us/usc/t42/s1923">1923.</a>  </td>
 
     <td> Names of medals; presentation.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 1924.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs1924" data-uslm-ref="/us/usc/t42/s1924">1924.</a>  </td>
 
     <td> Certificate of commendation accompanying awards; limitation on number of yearly awards.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 1925.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs1925" data-uslm-ref="/us/usc/t42/s1925">1925.</a>  </td>
 
     <td> Omitted.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 1926.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs1926" data-uslm-ref="/us/usc/t42/s1926">1926.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 

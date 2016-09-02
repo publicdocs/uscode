@@ -139,10 +139,6 @@
 
 ([Pub. L. 109–162, title III, § 304][/us/pl/109/162/s304], Jan. 5, 2006, [119 Stat. 3013][/us/stat/119/3013]; [Pub. L. 109–271][/us/pl/109/271], §§ 1(c)(1), 4(b), (d), Aug. 12, 2006, [120 Stat. 750][/us/stat/120/750], 758; [Pub. L. 113–4, title III, § 303][/us/pl/113/4/s303], Mar. 7, 2013, [127 Stat. 87][/us/stat/127/87].)
 
- __Amendment of Section__ 
-
-For effective date of amendment by [Pub. L. 113–4][/us/pl/113/4], see Effective Date of 2013 Amendment note below.
-
  __References in Text__ 
 
     This part, referred to in subsec. (d)(4)(D), appearing in the original is unidentifiable because title III of [Pub. L. 109–162][/us/pl/109/162] does not contain parts.
@@ -205,7 +201,6 @@ For effective date of amendment by [Pub. L. 113–4][/us/pl/113/4], see Effectiv
 [/us/stat/120/750]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F750
 [/us/pl/113/4/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs303
 [/us/stat/127/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F87
-[/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
 [/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
 [/us/pl/109/162/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs304
 [/us/pl/109/162/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs304

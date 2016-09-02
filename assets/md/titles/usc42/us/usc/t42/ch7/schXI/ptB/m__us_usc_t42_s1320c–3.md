@@ -381,7 +381,7 @@
 
 [Pub. L. 101–508, title IV, § 4207(a)(1)(C)][/us/pl/101/508/s4207/a/1/C], formerly § 4027(a)(1)(C), Nov. 5, 1990, [104 Stat. 1388–117][/us/stat/104/1388-117], as renumbered by [Pub. L. 103–432, title I, § 160(d)(4)][/us/pl/103/432/s160/d/4], Oct. 31, 1994, [108 Stat. 4444][/us/stat/108/4444], provided that: 
 
-> “The amendment made by subparagraph (A) \[amending [section 1395dd of this title][/us/usc/t42/s1395dd]\] shall take effect on the first day of the first month beginning more than 60 days after the date of the enactment of this Act \[Nov. 5, 1990\]. The amendment made by subparagraph (B) \[amending this section\] shall apply to contracts under part B of title XI of the Social Security Act \[this part\] as of the first day of the first month beginning more than 60 days after the date of the enactment of this Act.”
+> “The amendment made by subparagraph (A) \[amending [section 1395dd of this title][/us/usc/t42/s1395dd]\] shall take effect on the first day of the first month beginning more than 60 days after the date of the enactment of this Act \[Nov. 5, 1990\]. The amendment made by subparagraph (B) \[amending this section\] shall apply to contracts under part B of title XI of the Social Security Act \[[42 U.S.C. 1320c][/us/usc/t42/s1320c] et seq.\] as of the first day of the first month beginning more than 60 days after the date of the enactment of this Act.”
 
 [Pub. L. 101–508, title IV, § 4358(c)][/us/pl/101/508/s4358/c], Nov. 5, 1990, [104 Stat. 1388–137][/us/stat/104/1388-137], as amended by [Pub. L. 103–432, title I, § 172(a)][/us/pl/103/432/s172/a], Oct. 31, 1994, [108 Stat. 4452][/us/stat/108/4452]; [Pub. L. 104–18, § 1][/us/pl/104/18/s1], July 7, 1995, [109 Stat. 192][/us/stat/109/192], provided that:
 
@@ -427,7 +427,7 @@
 
 [Pub. L. 101–239, title VI, § 6224(b)(3)][/us/pl/101/239/s6224/b/3], Dec. 19, 1989, [103 Stat. 2257][/us/stat/103/2257], provided that: 
 
-> “The amendments made by this subsection \[amending this section and [section 1320c–4 of this title][/us/usc/t42/s1320c–4]\] shall apply to determinations by utilization and quality control peer review organizations with respect to which preliminary notifications were made under section 1154(a)(3)(B) of the Social Security Act \[subsec. (a)(3)(B) of this section\] more than 30 days after the date of the enactment of this Act \[Dec. 19, 1989\].”
+> “The amendments made by this subsection \[amending this section and [section 1320c–4 of this title][/us/usc/t42/s1320c–4]\] shall apply to determinations by utilization and quality control peer review organizations with respect to which preliminary notifications were made under section 1154(a)(3)(B) of the Social Security Act \[[42 U.S.C. 1320c–3(a)(3)(B)][/us/usc/t42/s1320c–3/a/3/B]\] more than 30 days after the date of the enactment of this Act \[Dec. 19, 1989\].”
 
     Amendment by [Pub. L. 101–234][/us/pl/101/234] effective Jan. 1, 1990, see [section 201(c) of Pub. L. 101–234][/us/pl/101/234/s201/c], set out as a note under [section 1320a–7a of this title][/us/usc/t42/s1320a–7a].
 
@@ -495,7 +495,7 @@
 
 [Pub. L. 99–272, title IX, § 9401(d)][/us/pl/99/272/s9401/d], Apr. 7, 1986, [100 Stat. 200][/us/stat/100/200], provided that: 
 
-> “The amendments made by subsection (a) \[amending this section\] shall apply to items and services furnished on or after January 1, 1987. The Secretary of Health and Human Services shall provide for such modification of contracts under part B of title XI of the Social Security Act \[this part\] that are in effect on that date as may be necessary to effect these amendments on a timely basis.”
+> “The amendments made by subsection (a) \[amending this section\] shall apply to items and services furnished on or after January 1, 1987. The Secretary of Health and Human Services shall provide for such modification of contracts under part B of title XI of the Social Security Act \[[42 U.S.C. 1320c][/us/usc/t42/s1320c] et seq.\] that are in effect on that date as may be necessary to effect these amendments on a timely basis.”
 
 [Pub. L. 99–272, title IX, § 9403(c)][/us/pl/99/272/s9403/c], Apr. 7, 1986, [100 Stat. 200][/us/stat/100/200], provided that: 
 
@@ -517,7 +517,7 @@
 
 [Pub. L. 99–509, title IX, § 9353(a)(4)][/us/pl/99/509/s9353/a/4], Oct. 21, 1986, [100 Stat. 2046][/us/stat/100/2046], provided that: 
 
-> “The Secretary of Health and Human Services shall provide, to at least 12 utilization and quality control peer review organizations with contracts under part B of title XI of the Social Security Act \[this part\], data and data processing assistance to allow each of these organizations to review and analyze small-area variations, in the service area of the organization, in the utilization of hospital and other health care services for which payment is made under title XVIII of such Act \[subchapter XVIII of this chapter\].”
+> “The Secretary of Health and Human Services shall provide, to at least 12 utilization and quality control peer review organizations with contracts under part B of title XI of the Social Security Act \[[42 U.S.C. 1320c][/us/usc/t42/s1320c] et seq.\], data and data processing assistance to allow each of these organizations to review and analyze small-area variations, in the service area of the organization, in the utilization of hospital and other health care services for which payment is made under title XVIII of such Act \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\].”
 
 ----------
 
@@ -712,6 +712,7 @@
 [/us/pl/103/432/s160/d/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432%2Fs160%2Fd%2F4
 [/us/stat/108/4444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4444
 [/us/usc/t42/s1395dd]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395dd
+[/us/usc/t42/s1320c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320c
 [/us/pl/101/508/s4358/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs4358%2Fc
 [/us/stat/104/1388-137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-137
 [/us/pl/103/432/s172/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432%2Fs172%2Fa
@@ -729,6 +730,7 @@
 [/us/pl/101/239/s6224/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs6224%2Fb%2F3
 [/us/stat/103/2257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2257
 [/us/usc/t42/s1320c–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320c%E2%80%934
+[/us/usc/t42/s1320c–3/a/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320c%E2%80%933%2Fa%2F3%2FB
 [/us/pl/101/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F234
 [/us/pl/101/234/s201/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F234%2Fs201%2Fc
 [/us/usc/t42/s1320a–7a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320a%E2%80%937a
@@ -773,6 +775,7 @@
 [/us/stat/100/194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F194
 [/us/pl/99/272/s9401/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs9401%2Fd
 [/us/stat/100/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F200
+[/us/usc/t42/s1320c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320c
 [/us/pl/99/272/s9403/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs9403%2Fc
 [/us/stat/100/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F200
 [/us/usc/t42/s1395cc]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395cc
@@ -789,5 +792,7 @@
 [/us/usc/t42/s1395ss]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ss
 [/us/pl/99/509/s9353/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs9353%2Fa%2F4
 [/us/stat/100/2046]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2046
+[/us/usc/t42/s1320c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320c
+[/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
 
 

@@ -491,7 +491,7 @@
 
 >         “(1) __In general.—__ 
 
->         If legislation governing standards with respect to the privacy of individually identifiable health information transmitted in connection with the transactions described in section 1173(a) of the Social Security Act \[subsec. (a) of this section\] (as added by section 262) is not enacted by the date that is 36 months after the date of the enactment of this Act \[Aug. 21, 1996\], the Secretary of Health and Human Services shall promulgate final regulations containing such standards not later than the date that is 42 months after the date of the enactment of this Act. Such regulations shall address at least the subjects described in subsection (b).
+>         If legislation governing standards with respect to the privacy of individually identifiable health information transmitted in connection with the transactions described in section 1173(a) of the Social Security Act \[[42 U.S.C. 1320d–2(a)][/us/usc/t42/s1320d–2/a]\] (as added by section 262) is not enacted by the date that is 36 months after the date of the enactment of this Act \[Aug. 21, 1996\], the Secretary of Health and Human Services shall promulgate final regulations containing such standards not later than the date that is 42 months after the date of the enactment of this Act. Such regulations shall address at least the subjects described in subsection (b).
 
 >         “(2) __Preemption.—__ 
 
@@ -599,6 +599,7 @@
 [/us/usc/t42/s1320d–2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320d%E2%80%932%2Fc
 [/us/pl/104/191/s264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2Fs264
 [/us/stat/110/2033]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2033
+[/us/usc/t42/s1320d–2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320d%E2%80%932%2Fa
 [/us/usc/t42/s242k/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs242k%2Fk
 [/us/pl/104/191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191
 [/us/usc/t18/s3486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3486

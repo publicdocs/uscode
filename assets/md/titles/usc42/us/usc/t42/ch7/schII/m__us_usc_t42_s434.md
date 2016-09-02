@@ -73,7 +73,7 @@
 
 >     “(a) __Authority.—__ 
 
->     The Commissioner of Social Security shall conduct demonstration projects for the purpose of evaluating, through the collection of data, a program for title II disability beneficiaries (as defined in section 1148(k)(3) of the Social Security Act \[[section 1320b–19(k)(3) of this title][/us/usc/t42/s1320b–19/k/3]\]) under which benefits payable under section 223 of such Act \[[section 423 of this title][/us/usc/t42/s423]\], or under section 202 of such Act \[[section 402 of this title][/us/usc/t42/s402]\] based on the beneficiary’s disability, are reduced by $1 for each $2 of the beneficiary’s earnings that is above a level to be determined by the Commissioner. Such projects shall be conducted at a number of localities which the Commissioner shall determine is sufficient to adequately evaluate the appropriateness of national implementation of such a program. Such projects shall identify reductions in Federal expenditures that may result from the permanent implementation of such a program.
+>     The Commissioner of Social Security shall conduct demonstration projects for the purpose of evaluating, through the collection of data, a program for title II disability beneficiaries (as defined in section 1148(k)(3) of the Social Security Act \[[42 U.S.C. 1320b–19(k)(3)][/us/usc/t42/s1320b–19/k/3]\]) under which benefits payable under section 223 of such Act \[[42 U.S.C. 423][/us/usc/t42/s423]\], or under section 202 of such Act \[[42 U.S.C. 402][/us/usc/t42/s402]\] based on the beneficiary’s disability, are reduced by $1 for each $2 of the beneficiary’s earnings that is above a level to be determined by the Commissioner. Such projects shall be conducted at a number of localities which the Commissioner shall determine is sufficient to adequately evaluate the appropriateness of national implementation of such a program. Such projects shall identify reductions in Federal expenditures that may result from the permanent implementation of such a program.
 
 >     “(b) __Scope and Scale and Matters To Be Determined.—__ 
 
@@ -83,7 +83,7 @@
 
 >             “(A) the effects, if any, of induced entry into the project and reduced exit from the project;
 
->             “(B) the extent, if any, to which the project being tested is affected by whether it is in operation in a locality within an area under the administration of the Ticket to Work and Self-Sufficiency Program established under section 1148 of the Social Security Act \[[section 1320b–19 of this title][/us/usc/t42/s1320b–19]\]; and
+>             “(B) the extent, if any, to which the project being tested is affected by whether it is in operation in a locality within an area under the administration of the Ticket to Work and Self-Sufficiency Program established under section 1148 of the Social Security Act \[[42 U.S.C. 1320b–19][/us/usc/t42/s1320b–19]\]; and
 
 >             “(C) the savings that accrue to the Federal Old-Age and Survivors Insurance Trust Fund, the Federal Disability Insurance Trust Fund, and other Federal programs under the project being tested.
 
@@ -115,7 +115,7 @@
 
 >     “(f) __Expenditures.—__ 
 
->     Administrative expenses for demonstration projects under this section shall be paid from funds available for the administration of title II or XVIII of the Social Security Act \[subchapters II and XVIII of this chapter\], as appropriate. Benefits payable to or on behalf of individuals by reason of participation in projects under this section shall be made from the Federal Disability Insurance Trust Fund and the Federal Old-Age and Survivors Insurance Trust Fund, as determined appropriate by the Commissioner of Social Security, and from the Federal Hospital Insurance Trust Fund and the Federal Supplementary Medical Insurance Trust Fund, as determined appropriate by the Secretary of Health and Human Services, from funds available for benefits under such title II or XVIII.”
+>     Administrative expenses for demonstration projects under this section shall be paid from funds available for the administration of title II or XVIII of the Social Security Act \[[42 U.S.C. 401][/us/usc/t42/s401] et seq., 1395 et seq.\], as appropriate. Benefits payable to or on behalf of individuals by reason of participation in projects under this section shall be made from the Federal Disability Insurance Trust Fund and the Federal Old-Age and Survivors Insurance Trust Fund, as determined appropriate by the Commissioner of Social Security, and from the Federal Hospital Insurance Trust Fund and the Federal Supplementary Medical Insurance Trust Fund, as determined appropriate by the Secretary of Health and Human Services, from funds available for benefits under such title II or XVIII.”
 
  __Study by General Accounting Office of the Impact of the Substantial Gainful Activity Limit on Return to Work__ 
 
@@ -157,6 +157,7 @@
 [/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
 [/us/usc/t42/s1320b–19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320b%E2%80%9319
 [/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
+[/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
 [/us/pl/106/170/s303/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170%2Fs303%2Fc
 [/us/stat/113/1904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1904
 [/us/pl/106/170/s303/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170%2Fs303%2Fe

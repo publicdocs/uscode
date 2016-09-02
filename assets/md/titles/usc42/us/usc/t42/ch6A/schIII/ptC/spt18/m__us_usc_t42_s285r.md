@@ -129,7 +129,7 @@
 
 >     “(d) __Date Certain for Establishment of Advisory Council.—__ 
 
->     Not later than 90 days after the effective date of this Act \[Dec. 29, 2000\] under section 4 \[set out above\], the Secretary of Health and Human Services shall complete the establishment of an advisory council for the National Institute of Biomedical Imaging and Bioengineering in accordance with section 406 of the Public Health Service Act \[[section 284a of this title][/us/usc/t42/s284a]\] and in accordance with section 464z of such Act (as added by subsection (a) of this section) \[this section\].”
+>     Not later than 90 days after the effective date of this Act \[Dec. 29, 2000\] under section 4 \[set out above\], the Secretary of Health and Human Services shall complete the establishment of an advisory council for the National Institute of Biomedical Imaging and Bioengineering in accordance with section 406 of the Public Health Service Act \[[42 U.S.C. 284a][/us/usc/t42/s284a]\] and in accordance with section 464z of such Act (as added by subsection (a) of this section) \[[42 U.S.C. 285r][/us/usc/t42/s285r]\].”
 
 ----------
 
@@ -160,5 +160,6 @@
 [/us/usc/t42/s281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs281
 [/us/usc/t42/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs201
 [/us/usc/t42/s284a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs284a
+[/us/usc/t42/s285r]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs285r
 
 

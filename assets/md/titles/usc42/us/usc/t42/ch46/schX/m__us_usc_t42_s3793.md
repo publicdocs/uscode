@@ -93,7 +93,7 @@
 
          There are authorized to be appropriated to carry out subchapter XII–K of this chapter—
 
-            (1)  <sup>\[7\]</sup>  <sup><sup> 7 So in original. </sup></sup>  $2,500,000 for fiscal year 1996;
+            (1)  <sup>\[7\]</sup>  <sup><sup> 7 Numbering so in original. </sup></sup>  $2,500,000 for fiscal year 1996;
 
             (2) 7 $4,000,000 for fiscal year 1997;
 
@@ -171,10 +171,6 @@
 
 ([Pub. L. 90–351, title I, § 1001][/us/pl/90/351/s1001], as added [Pub. L. 96–157, § 2][/us/pl/96/157/s2], Dec. 27, 1979, [93 Stat. 1218][/us/stat/93/1218]; amended [Pub. L. 98–473, title II, § 609D(a)][/us/pl/98/473/s609D/a], Oct. 12, 1984, [98 Stat. 2097][/us/stat/98/2097]; [Pub. L. 99–570, title I, § 1552(c)][/us/pl/99/570/s1552/c], Oct. 27, 1986, [100 Stat. 3207–46][/us/stat/100/3207-46]; [Pub. L. 100–690, title VI, § 6093][/us/pl/100/690/s6093], Nov. 18, 1988, [102 Stat. 4339][/us/stat/102/4339]; [Pub. L. 101–647, title II, § 241(c)][/us/pl/101/647/s241/c], title VIII, § 801(b), title XVIII, § 1801(e), title XXVIII, § 2801, Nov. 29, 1990, [104 Stat. 4814][/us/stat/104/4814], 4826, 4849, 4912; [Pub. L. 102–521, § 4(c)][/us/pl/102/521/s4/c], Oct. 25, 1992, [106 Stat. 3406][/us/stat/106/3406]; [Pub. L. 102–534, § 1][/us/pl/102/534/s1], Oct. 27, 1992, [106 Stat. 3524][/us/stat/106/3524]; [Pub. L. 103–322, title I, § 10003(c)][/us/pl/103/322/s10003/c], title II, § 20201(d), title III, § 32101(d), title IV, §§ 40121(c), 40156(c)(1), 40231(c), title V, § 50001(c), title XVIII, § 180101(a), title XXI, §§ 210201(c), 210302(c)(3), 210601, title XXXIII, § 330001(b)(3), (h)(14), Sept. 13, 1994, [108 Stat. 1814][/us/stat/108/1814], 1823, 1901, 1916, 1923, 1934, 1958, 2045, 2064, 2068, 2073, 2138, 2140; [Pub. L. 104–134, title I, § 101][/us/pl/104/134/s101]\[(a)\] \[title I, § 114(b)(1)(B)(i)\], Apr. 26, 1996, [110 Stat. 1321][/us/stat/110/1321], 1321–21; renumbered title I, [Pub. L. 104–140, § 1(a)][/us/pl/104/140/s1/a], May 2, 1996, [110 Stat. 1327][/us/stat/110/1327]; [Pub. L. 105–181, § 3(b)][/us/pl/105/181/s3/b], June 16, 1998, [112 Stat. 515][/us/stat/112/515]; [Pub. L. 106–386, div. B, title I][/us/pl/106/386], §§ 1103(a), 1104, title III, § 1302(c), Oct. 28, 2000, [114 Stat. 1495][/us/stat/114/1495], 1497, 1511; [Pub. L. 106–515, § 3(c)][/us/pl/106/515/s3/c], Nov. 13, 2000, [114 Stat. 2403][/us/stat/114/2403]; [Pub. L. 106–517, § 3(f)][/us/pl/106/517/s3/f], Nov. 13, 2000, [114 Stat. 2409][/us/stat/114/2409]; [Pub. L. 106–561, § 2(c)(2)(A)][/us/pl/106/561/s2/c/2/A], Dec. 21, 2000, [114 Stat. 2791][/us/stat/114/2791]; [Pub. L. 107–273, div. B, title II, § 2302][/us/pl/107/273/s2302], Nov. 2, 2002, [116 Stat. 1798][/us/stat/116/1798]; [Pub. L. 108–372, § 4][/us/pl/108/372/s4], Oct. 25, 2004, [118 Stat. 1755][/us/stat/118/1755]; [Pub. L. 108–405, title III, § 311(c)][/us/pl/108/405/s311/c], (d), Oct. 30, 2004, [118 Stat. 2277][/us/stat/118/2277]; [Pub. L. 109–162, title I][/us/pl/109/162], §§ 101(a), 102(a), title XI, §§ 1116, 1142(b), 1163(c), Jan. 5, 2006, [119 Stat. 2972][/us/stat/119/2972], 2975, 3104, 3110, 3120; [Pub. L. 109–177, title VII, § 752][/us/pl/109/177/s752], Mar. 9, 2006, [120 Stat. 273][/us/stat/120/273]; [Pub. L. 110–199, title I, § 112(b)][/us/pl/110/199/s112/b], Apr. 9, 2008, [122 Stat. 674][/us/stat/122/674]; [Pub. L. 110–421, § 2][/us/pl/110/421/s2], Oct. 15, 2008, [122 Stat. 4778][/us/stat/122/4778]; [Pub. L. 113–4, title I][/us/pl/113/4], §§ 101(1), 102(b), Mar. 7, 2013, [127 Stat. 64][/us/stat/127/64], 73.)
 
- __Amendment of Section__ 
-
-For effective date of amendment by [Pub. L. 113–4][/us/pl/113/4], see Effective Date of 2013 Amendment note below.
-
  __References in Text__ 
 
     Subchapter VI of this chapter, referred to in subsec. (a)(3), was repealed by [Pub. L. 109–162, title XI, § 1154(a)][/us/pl/109/162/s1154/a], Jan. 5, 2006, [119 Stat. 3113][/us/stat/119/3113].
@@ -182,6 +178,10 @@ For effective date of amendment by [Pub. L. 113–4][/us/pl/113/4], see Effectiv
     Subchapter XII–J of this chapter, referred to in subsec. (a)(3), was repealed by [Pub. L. 104–134, title I, § 101][/us/pl/104/134/s101]\[(a)\] \[title I, § 114(b)(1)(A)\], Apr. 26, 1996, [110 Stat. 1321][/us/stat/110/1321], 1321–21; renumbered title I, [Pub. L. 104–140, § 1(a)][/us/pl/104/140/s1/a], May 2, 1996, [110 Stat. 1327][/us/stat/110/1327].
 
     Section 2401(c) of title II of Division B of the 21st Century Department of Justice Appropriations Authorization Act, referred to in subsec. (a)(25)(C), probably means [section 2301(c) of title II of div. B of Pub. L. 107–273][/us/pl/107/273/s2301/c], Nov. 2, 2002, [116 Stat. 1798][/us/stat/116/1798], which is not classified to the Code. [Pub. L. 107–273][/us/pl/107/273] does not contain a section 2401.
+
+ __Codification__ 
+
+    Another [section 1001 of Pub. L. 90–351][/us/pl/90/351/s1001] enacted [section 7313 of Title 5][/us/usc/t5/s7313], Government Organization and Employees.
 
  __Prior Provisions__ 
 
@@ -484,7 +484,6 @@ For effective date of amendment by [Pub. L. 113–4][/us/pl/113/4], see Effectiv
 [/us/stat/122/4778]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4778
 [/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
 [/us/stat/127/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F64
-[/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
 [/us/pl/109/162/s1154/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs1154%2Fa
 [/us/stat/119/3113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3113
 [/us/pl/104/134/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs101
@@ -494,6 +493,8 @@ For effective date of amendment by [Pub. L. 113–4][/us/pl/113/4], see Effectiv
 [/us/pl/107/273/s2301/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs2301%2Fc
 [/us/stat/116/1798]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1798
 [/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
+[/us/pl/90/351/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs1001
+[/us/usc/t5/s7313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs7313
 [/us/pl/90/351/s653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs653
 [/us/pl/91/644/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F644%2Fs10
 [/us/stat/84/1889]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1889

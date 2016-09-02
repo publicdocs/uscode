@@ -149,7 +149,7 @@
 
 [Pub. L. 92–603, title II, § 243(c)][/us/pl/92/603/s243/c], Oct. 30, 1972, [86 Stat. 1422][/us/stat/86/1422], provided that: 
 
-> “The amendments made by this section \[enacting this section and amending [section 1395h of this title][/us/usc/t42/s1395h]\] shall apply with respect to cost reports of providers of services, as defined in title XVIII of the Social Security Act \[this subchapter\], for accounting periods ending on or after June 30, 1973.”
+> “The amendments made by this section \[enacting this section and amending [section 1395h of this title][/us/usc/t42/s1395h]\] shall apply with respect to cost reports of providers of services, as defined in title XVIII of the Social Security Act \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\], for accounting periods ending on or after June 30, 1973.”
 
  __References in Other Laws to GS–16, 17, or 18 Pay Rates__ 
 
@@ -236,6 +236,7 @@
 [/us/pl/92/603/s243/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603%2Fs243%2Fc
 [/us/stat/86/1422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1422
 [/us/usc/t42/s1395h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395h
+[/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
 [/us/pl/101/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509
 [/us/usc/t5/s5376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5376
 [/us/pl/98/369/s2351/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2351%2Fc

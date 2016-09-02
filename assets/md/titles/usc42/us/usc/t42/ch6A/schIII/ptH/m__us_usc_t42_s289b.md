@@ -103,7 +103,7 @@
 
 >         “(1) __In general.—__ 
 
->         Not later than 180 days after the date of the enactment of this Act \[June 10, 1993\], the Secretary shall, subject to paragraph (2), issue the final rule for each regulation required in section 493 or 493A of the Public Health Service Act \[this section and [section 289b–1 of this title][/us/usc/t42/s289b–1]\].
+>         Not later than 180 days after the date of the enactment of this Act \[June 10, 1993\], the Secretary shall, subject to paragraph (2), issue the final rule for each regulation required in section 493 or 493A of the Public Health Service Act \[[42 U.S.C. 289b][/us/usc/t42/s289b], 289b–1\].
 
 >         “(2) __Definition of research misconduct.—__ 
 
@@ -111,15 +111,15 @@
 
 >     “(b) __Applicability to Ongoing Investigations.—__ 
 
->     The final rule issued pursuant to subsection (a) for investigations under section 493 of the Public Health Service Act \[this section\] does not apply to investigations commenced before the date of the enactment of this Act \[June 10, 1993\] under authority of such section as in effect before such date.
+>     The final rule issued pursuant to subsection (a) for investigations under section 493 of the Public Health Service Act \[[42 U.S.C. 289b][/us/usc/t42/s289b]\] does not apply to investigations commenced before the date of the enactment of this Act \[June 10, 1993\] under authority of such section as in effect before such date.
 
 >     “(c) __Definitions.—__ 
 
 >     For purposes of this section:
 
->         “(1) The term ‘section 493 of the Public Health Service Act’ means such section as amended by sections 161 and 163 of this Act \[this section\], except as indicated otherwise in subsection (b).
+>         “(1) The term ‘section 493 of the Public Health Service Act’ means such section \[[42 U.S.C. 289b][/us/usc/t42/s289b]\] as amended by sections 161 and 163 of this Act, except as indicated otherwise in subsection (b).
 
->         “(2) The term ‘section 493A of the Public Health Service Act’ means such section as added by section 164 of this Act \[[section 289b–1 of this title][/us/usc/t42/s289b–1]\].
+>         “(2) The term ‘section 493A of the Public Health Service Act’ means such section \[[42 U.S.C. 289b–1][/us/usc/t42/s289b–1]\] as added by section 164 of this Act.
 
 >         “(3) The term ‘Secretary’ means the Secretary of Health and Human Services.”
 
@@ -140,8 +140,10 @@
 [/us/pl/103/43/s163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs163
 [/us/pl/103/43/s165]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs165
 [/us/stat/107/143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F143
-[/us/usc/t42/s289b–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs289b%E2%80%931
+[/us/usc/t42/s289b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs289b
 [/us/stat/107/142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F142
+[/us/usc/t42/s289b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs289b
+[/us/usc/t42/s289b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs289b
 [/us/usc/t42/s289b–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs289b%E2%80%931
 
 

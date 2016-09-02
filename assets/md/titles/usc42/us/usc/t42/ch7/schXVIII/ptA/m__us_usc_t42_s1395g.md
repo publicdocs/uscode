@@ -165,7 +165,7 @@
 
 [Pub. L. 108–173, title IV, § 405(c)(2)][/us/pl/108/173/s405/c/2], Dec. 8, 2003, [117 Stat. 2267][/us/stat/117/2267], provided that: 
 
-> “With respect to periodic interim payments to critical access hospitals for inpatient critical access hospital services under section 1815(e)(2)(E) of the Social Security Act \[subsec. (e)(2)(E) of this section\], as added by paragraph (1), the Secretary \[of Health and Human Services\] shall develop alternative methods for the timing of such payments.”
+> “With respect to periodic interim payments to critical access hospitals for inpatient critical access hospital services under section 1815(e)(2)(E) of the Social Security Act \[[42 U.S.C. 1395g(e)(2)(E)][/us/usc/t42/s1395g/e/2/E]\], as added by paragraph (1), the Secretary \[of Health and Human Services\] shall develop alternative methods for the timing of such payments.”
 
  __Transition__ 
 
@@ -173,11 +173,11 @@
 
 > “Upon the request of a hospital which—
 
->     “(A) as of June 30, 1987, is receiving payments under part A of title XVIII of such Act \[this part\] for inpatient hospital services on a periodic interim payment basis,
+>     “(A) as of June 30, 1987, is receiving payments under part A of title XVIII of such Act \[[42 U.S.C. 1395c][/us/usc/t42/s1395c] et seq.\] for inpatient hospital services on a periodic interim payment basis,
 
 >     “(B) requests continuation of payment on such basis, and
 
->     “(C) is paid through an agency or organization with an agreement under section 1816 of such Act \[[section 1395h of this title][/us/usc/t42/s1395h]\],
+>     “(C) is paid through an agency or organization with an agreement under section 1816 of such Act \[[42 U.S.C. 1395h][/us/usc/t42/s1395h]\],
 
 >         the Secretary of Health and Human Services shall continue payment on such a basis until not earlier than the end of the first period of three consecutive calendar months (beginning no earlier than April 1987) during all of which the agency or organization has met the requirements of section 1816(c)(2) of such Act (relating to prompt payment of claims).”
 
@@ -185,7 +185,7 @@
 
 [Pub. L. 97–248, title I, § 120][/us/pl/97/248/s120], Sept. 3, 1982, [96 Stat. 355][/us/stat/96/355], provided that: 
 
-> “Notwithstanding section 1815(a) of the Social Security Act \[subsec. (a) of this section\], in the case of a hospital which is paid periodic interim payments under such section, the Secretary of Health and Human Services shall provide that—
+> “Notwithstanding section 1815(a) of the Social Security Act \[[42 U.S.C. 1395g(a)][/us/usc/t42/s1395g/a]\], in the case of a hospital which is paid periodic interim payments under such section, the Secretary of Health and Human Services shall provide that—
 
 >     “(1) with respect to the last 21 days for which such payments would otherwise be made during fiscal year 1983, such payments shall be deferred until fiscal year 1984; and
 
@@ -267,11 +267,14 @@
 [/us/usc/t42/s1395x]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395x
 [/us/pl/108/173/s405/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs405%2Fc%2F2
 [/us/stat/117/2267]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2267
+[/us/usc/t42/s1395g/e/2/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395g%2Fe%2F2%2FE
 [/us/pl/99/509/s9311/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs9311%2Fa%2F3
 [/us/stat/100/1997]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1997
+[/us/usc/t42/s1395c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395c
 [/us/usc/t42/s1395h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395h
 [/us/pl/97/248/s120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs120
 [/us/stat/96/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F355
+[/us/usc/t42/s1395g/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395g%2Fa
 [/us/pl/96/499/s959]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F499%2Fs959
 [/us/stat/94/2650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2650
 [/us/pl/97/35/s2155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2155

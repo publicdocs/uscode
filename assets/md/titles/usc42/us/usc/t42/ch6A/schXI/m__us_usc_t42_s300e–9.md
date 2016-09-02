@@ -113,7 +113,7 @@
 
 [Pub. L. 97–35, title IX, § 942(a)(5)][/us/pl/97/35/s942/a/5], Aug. 13, 1981, [95 Stat. 573][/us/stat/95/573], provided that: 
 
-> “The amendment made by paragraph (3)(A) \[amending this section\] shall apply with respect to the offering of a health maintenance organization in accordance with section 1310(b)(1) of the Public Health Service Act \[subsec. (b)(1) of this section\] after four years after the date the organization becomes a qualified health maintenance organization for purposes of section 1310 of such Act \[this section\] if the health maintenance organization provides assurances satisfactory to the Secretary that upon the expiration of such four years it will provide more than one half of its basic health services which are provided by physicians through physicians or other health professionals who are members of the staff of the organization or a medical group (or groups).”
+> “The amendment made by paragraph (3)(A) \[amending this section\] shall apply with respect to the offering of a health maintenance organization in accordance with section 1310(b)(1) of the Public Health Service Act \[[42 U.S.C. 300e–9(b)(1)][/us/usc/t42/s300e–9/b/1]\] after four years after the date the organization becomes a qualified health maintenance organization for purposes of section 1310 of such Act \[[42 U.S.C. 300e–9][/us/usc/t42/s300e–9]\] if the health maintenance organization provides assurances satisfactory to the Secretary that upon the expiration of such four years it will provide more than one half of its basic health services which are provided by physicians through physicians or other health professionals who are members of the staff of the organization or a medical group (or groups).”
 
  __Effective Date of 1976 Amendment__ 
 
@@ -188,6 +188,8 @@
 [/us/usc/t42/s300e–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300e%E2%80%931
 [/us/pl/97/35/s942/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs942%2Fa%2F5
 [/us/stat/95/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F573
+[/us/usc/t42/s300e–9/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300e%E2%80%939%2Fb%2F1
+[/us/usc/t42/s300e–9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300e%E2%80%939
 [/us/pl/94/460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F460
 [/us/pl/94/460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F460
 [/us/usc/t42/s300e–9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300e%E2%80%939

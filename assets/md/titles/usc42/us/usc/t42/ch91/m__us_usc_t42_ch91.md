@@ -33,7 +33,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 8201.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs8201" data-uslm-ref="/us/usc/t42/s8201">8201.</a>  </td>
 
     <td> Findings and statement of purposes.  </td>
 
@@ -57,7 +57,9 @@ Part A—Utility Program  </td>
 
   <tr>
 
-    <td> 8211 to 8229. Omitted.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs8211" data-uslm-ref="/us/usc/t42/s8211">8211</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs8229" data-uslm-ref="/us/usc/t42/s8229">8229.</a>  </td>
+
+    <td> Omitted.  </td>
 
   </tr>
 
@@ -71,7 +73,7 @@ Part B—Miscellaneous  </td>
 
   <tr>
 
-    <td> 8231.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs8231" data-uslm-ref="/us/usc/t42/s8231">8231.</a>  </td>
 
     <td> Grants for energy conserving improvements; establishment of standards; authorization of appropriations.  </td>
 
@@ -79,7 +81,7 @@ Part B—Miscellaneous  </td>
 
   <tr>
 
-    <td> 8232.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs8232" data-uslm-ref="/us/usc/t42/s8232">8232.</a>  </td>
 
     <td> Residential energy efficiency standards study.  </td>
 
@@ -87,7 +89,7 @@ Part B—Miscellaneous  </td>
 
   <tr>
 
-    <td> 8233.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs8233" data-uslm-ref="/us/usc/t42/s8233">8233.</a>  </td>
 
     <td> Weatherization study.  </td>
 
@@ -103,7 +105,7 @@ Part C—Residential Energy Efficiency Programs  </td>
 
   <tr>
 
-    <td> 8235.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs8235" data-uslm-ref="/us/usc/t42/s8235">8235.</a>  </td>
 
     <td> “Residential building” defined.  </td>
 
@@ -111,7 +113,7 @@ Part C—Residential Energy Efficiency Programs  </td>
 
   <tr>
 
-    <td> 8235a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs8235a" data-uslm-ref="/us/usc/t42/s8235a">8235a.</a>  </td>
 
     <td> Approval of plans for prototype residential energy efficiency programs and provision of financial assistance for such programs.  </td>
 
@@ -119,7 +121,7 @@ Part C—Residential Energy Efficiency Programs  </td>
 
   <tr>
 
-    <td> 8235b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs8235b" data-uslm-ref="/us/usc/t42/s8235b">8235b.</a>  </td>
 
     <td> Applications for approval of plans for prototype residential energy efficiency programs.  </td>
 
@@ -127,7 +129,7 @@ Part C—Residential Energy Efficiency Programs  </td>
 
   <tr>
 
-    <td> 8235c.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs8235c" data-uslm-ref="/us/usc/t42/s8235c">8235c.</a>  </td>
 
     <td> Approval of applications for plans for prototype residential energy efficiency programs.  </td>
 
@@ -135,7 +137,7 @@ Part C—Residential Energy Efficiency Programs  </td>
 
   <tr>
 
-    <td> 8235d.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs8235d" data-uslm-ref="/us/usc/t42/s8235d">8235d.</a>  </td>
 
     <td> Rules and regulations.  </td>
 
@@ -143,7 +145,7 @@ Part C—Residential Energy Efficiency Programs  </td>
 
   <tr>
 
-    <td> 8235e.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs8235e" data-uslm-ref="/us/usc/t42/s8235e">8235e.</a>  </td>
 
     <td> Authority of Federal Energy Regulatory Commission to exempt application of certain laws.  </td>
 
@@ -151,7 +153,7 @@ Part C—Residential Energy Efficiency Programs  </td>
 
   <tr>
 
-    <td> 8235f.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs8235f" data-uslm-ref="/us/usc/t42/s8235f">8235f.</a>  </td>
 
     <td> Application of other laws.  </td>
 
@@ -159,7 +161,7 @@ Part C—Residential Energy Efficiency Programs  </td>
 
   <tr>
 
-    <td> 8235g.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs8235g" data-uslm-ref="/us/usc/t42/s8235g">8235g.</a>  </td>
 
     <td> Records and reports.  </td>
 
@@ -167,7 +169,7 @@ Part C—Residential Energy Efficiency Programs  </td>
 
   <tr>
 
-    <td> 8235h.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs8235h" data-uslm-ref="/us/usc/t42/s8235h">8235h.</a>  </td>
 
     <td> Revoking approval of plans and terminating financial assistance.  </td>
 
@@ -175,7 +177,7 @@ Part C—Residential Energy Efficiency Programs  </td>
 
   <tr>
 
-    <td> 8235i.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs8235i" data-uslm-ref="/us/usc/t42/s8235i">8235i.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 
@@ -191,7 +193,7 @@ Part D—Residential Energy Efficiency Rating Guidelines  </td>
 
   <tr>
 
-    <td> 8236.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs8236" data-uslm-ref="/us/usc/t42/s8236">8236.</a>  </td>
 
     <td> Voluntary rating guidelines.  </td>
 
@@ -199,7 +201,7 @@ Part D—Residential Energy Efficiency Rating Guidelines  </td>
 
   <tr>
 
-    <td> 8236a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs8236a" data-uslm-ref="/us/usc/t42/s8236a">8236a.</a>  </td>
 
     <td> Technical assistance.  </td>
 
@@ -207,7 +209,7 @@ Part D—Residential Energy Efficiency Rating Guidelines  </td>
 
   <tr>
 
-    <td> 8236b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs8236b" data-uslm-ref="/us/usc/t42/s8236b">8236b.</a>  </td>
 
     <td> Report.  </td>
 
@@ -231,7 +233,7 @@ Part A—Demonstration of Solar Heating and Cooling in Federal Buildings  </td>
 
   <tr>
 
-    <td> 8241.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs8241" data-uslm-ref="/us/usc/t42/s8241">8241.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -239,7 +241,7 @@ Part A—Demonstration of Solar Heating and Cooling in Federal Buildings  </td>
 
   <tr>
 
-    <td> 8242.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs8242" data-uslm-ref="/us/usc/t42/s8242">8242.</a>  </td>
 
     <td> Federal solar program.  </td>
 
@@ -247,7 +249,7 @@ Part A—Demonstration of Solar Heating and Cooling in Federal Buildings  </td>
 
   <tr>
 
-    <td> 8243.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs8243" data-uslm-ref="/us/usc/t42/s8243">8243.</a>  </td>
 
     <td> Duties of Secretary.  </td>
 
@@ -255,7 +257,7 @@ Part A—Demonstration of Solar Heating and Cooling in Federal Buildings  </td>
 
   <tr>
 
-    <td> 8244.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs8244" data-uslm-ref="/us/usc/t42/s8244">8244.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 
@@ -271,7 +273,7 @@ Part B—Federal Energy Management  </td>
 
   <tr>
 
-    <td> 8251.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs8251" data-uslm-ref="/us/usc/t42/s8251">8251.</a>  </td>
 
     <td> Findings.  </td>
 
@@ -279,7 +281,7 @@ Part B—Federal Energy Management  </td>
 
   <tr>
 
-    <td> 8252.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs8252" data-uslm-ref="/us/usc/t42/s8252">8252.</a>  </td>
 
     <td> Purpose.  </td>
 
@@ -287,7 +289,7 @@ Part B—Federal Energy Management  </td>
 
   <tr>
 
-    <td> 8253.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs8253" data-uslm-ref="/us/usc/t42/s8253">8253.</a>  </td>
 
     <td> Energy management requirements.  </td>
 
@@ -295,7 +297,7 @@ Part B—Federal Energy Management  </td>
 
   <tr>
 
-    <td> 8254.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs8254" data-uslm-ref="/us/usc/t42/s8254">8254.</a>  </td>
 
     <td> Establishment and use of life cycle cost methods and procedures.  </td>
 
@@ -303,7 +305,7 @@ Part B—Federal Energy Management  </td>
 
   <tr>
 
-    <td> 8255.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs8255" data-uslm-ref="/us/usc/t42/s8255">8255.</a>  </td>
 
     <td> Budget treatment for energy conservation measures.  </td>
 
@@ -311,7 +313,7 @@ Part B—Federal Energy Management  </td>
 
   <tr>
 
-    <td> 8256.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs8256" data-uslm-ref="/us/usc/t42/s8256">8256.</a>  </td>
 
     <td> Incentives for agencies.  </td>
 
@@ -319,7 +321,7 @@ Part B—Federal Energy Management  </td>
 
   <tr>
 
-    <td> 8257.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs8257" data-uslm-ref="/us/usc/t42/s8257">8257.</a>  </td>
 
     <td> Interagency Energy Management Task Force.  </td>
 
@@ -327,7 +329,7 @@ Part B—Federal Energy Management  </td>
 
   <tr>
 
-    <td> 8258.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs8258" data-uslm-ref="/us/usc/t42/s8258">8258.</a>  </td>
 
     <td> Reports.  </td>
 
@@ -335,7 +337,7 @@ Part B—Federal Energy Management  </td>
 
   <tr>
 
-    <td> 8258a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs8258a" data-uslm-ref="/us/usc/t42/s8258a">8258a.</a>  </td>
 
     <td> Demonstration of new technology.  </td>
 
@@ -343,7 +345,7 @@ Part B—Federal Energy Management  </td>
 
   <tr>
 
-    <td> 8258b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs8258b" data-uslm-ref="/us/usc/t42/s8258b">8258b.</a>  </td>
 
     <td> Survey of energy saving potential.  </td>
 
@@ -351,7 +353,7 @@ Part B—Federal Energy Management  </td>
 
   <tr>
 
-    <td> 8259.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs8259" data-uslm-ref="/us/usc/t42/s8259">8259.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -359,7 +361,7 @@ Part B—Federal Energy Management  </td>
 
   <tr>
 
-    <td> 8259a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs8259a" data-uslm-ref="/us/usc/t42/s8259a">8259a.</a>  </td>
 
     <td> Energy and water savings measures in congressional buildings.  </td>
 
@@ -367,7 +369,7 @@ Part B—Federal Energy Management  </td>
 
   <tr>
 
-    <td> 8259b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs8259b" data-uslm-ref="/us/usc/t42/s8259b">8259b.</a>  </td>
 
     <td> Federal procurement of energy efficient products.  </td>
 
@@ -375,7 +377,7 @@ Part B—Federal Energy Management  </td>
 
   <tr>
 
-    <td> 8260, 8261.   </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs8260" data-uslm-ref="/us/usc/t42/s8260">8260</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs8261" data-uslm-ref="/us/usc/t42/s8261">8261.</a>  </td>
 
     <td> Omitted.  </td>
 
@@ -383,7 +385,7 @@ Part B—Federal Energy Management  </td>
 
   <tr>
 
-    <td> 8262.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs8262" data-uslm-ref="/us/usc/t42/s8262">8262.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -391,7 +393,7 @@ Part B—Federal Energy Management  </td>
 
   <tr>
 
-    <td> 8262a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs8262a" data-uslm-ref="/us/usc/t42/s8262a">8262a.</a>  </td>
 
     <td> Report by General Services Administration.  </td>
 
@@ -399,7 +401,7 @@ Part B—Federal Energy Management  </td>
 
   <tr>
 
-    <td> 8262b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs8262b" data-uslm-ref="/us/usc/t42/s8262b">8262b.</a>  </td>
 
     <td> Intergovernmental energy management planning and coordination.  </td>
 
@@ -407,7 +409,7 @@ Part B—Federal Energy Management  </td>
 
   <tr>
 
-    <td> 8262c.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs8262c" data-uslm-ref="/us/usc/t42/s8262c">8262c.</a>  </td>
 
     <td> Federal agency energy management training.  </td>
 
@@ -415,7 +417,7 @@ Part B—Federal Energy Management  </td>
 
   <tr>
 
-    <td> 8262d.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs8262d" data-uslm-ref="/us/usc/t42/s8262d">8262d.</a>  </td>
 
     <td> Energy audit teams.  </td>
 
@@ -423,7 +425,7 @@ Part B—Federal Energy Management  </td>
 
   <tr>
 
-    <td> 8262e.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs8262e" data-uslm-ref="/us/usc/t42/s8262e">8262e.</a>  </td>
 
     <td> Federal energy cost accounting and management.  </td>
 
@@ -431,7 +433,7 @@ Part B—Federal Energy Management  </td>
 
   <tr>
 
-    <td> 8262f.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs8262f" data-uslm-ref="/us/usc/t42/s8262f">8262f.</a>  </td>
 
     <td> Inspector General review and agency accountability.  </td>
 
@@ -439,7 +441,7 @@ Part B—Federal Energy Management  </td>
 
   <tr>
 
-    <td> 8262g.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs8262g" data-uslm-ref="/us/usc/t42/s8262g">8262g.</a>  </td>
 
     <td> Procurement and identification of energy efficient products.  </td>
 
@@ -447,7 +449,7 @@ Part B—Federal Energy Management  </td>
 
   <tr>
 
-    <td> 8262h.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs8262h" data-uslm-ref="/us/usc/t42/s8262h">8262h.</a>  </td>
 
     <td> United States Postal Service energy regulations.  </td>
 
@@ -455,7 +457,7 @@ Part B—Federal Energy Management  </td>
 
   <tr>
 
-    <td> 8262i.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs8262i" data-uslm-ref="/us/usc/t42/s8262i">8262i.</a>  </td>
 
     <td> United States Postal Service energy management report.  </td>
 
@@ -463,7 +465,7 @@ Part B—Federal Energy Management  </td>
 
   <tr>
 
-    <td> 8262j.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs8262j" data-uslm-ref="/us/usc/t42/s8262j">8262j.</a>  </td>
 
     <td> Energy management requirements for United States Postal Service.  </td>
 
@@ -471,7 +473,7 @@ Part B—Federal Energy Management  </td>
 
   <tr>
 
-    <td> 8262k.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs8262k" data-uslm-ref="/us/usc/t42/s8262k">8262k.</a>  </td>
 
     <td> Government contract incentives.  </td>
 
@@ -487,7 +489,7 @@ Part C—Federal Photovoltaic Utilization  </td>
 
   <tr>
 
-    <td> 8271.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs8271" data-uslm-ref="/us/usc/t42/s8271">8271.</a>  </td>
 
     <td> “Federal facility” and “Secretary” defined.  </td>
 
@@ -495,7 +497,7 @@ Part C—Federal Photovoltaic Utilization  </td>
 
   <tr>
 
-    <td> 8272.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs8272" data-uslm-ref="/us/usc/t42/s8272">8272.</a>  </td>
 
     <td> Photovoltaic energy program.  </td>
 
@@ -503,7 +505,7 @@ Part C—Federal Photovoltaic Utilization  </td>
 
   <tr>
 
-    <td> 8273.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs8273" data-uslm-ref="/us/usc/t42/s8273">8273.</a>  </td>
 
     <td> Purpose of program.  </td>
 
@@ -511,7 +513,7 @@ Part C—Federal Photovoltaic Utilization  </td>
 
   <tr>
 
-    <td> 8274.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs8274" data-uslm-ref="/us/usc/t42/s8274">8274.</a>  </td>
 
     <td> Acquisition of systems.  </td>
 
@@ -519,7 +521,7 @@ Part C—Federal Photovoltaic Utilization  </td>
 
   <tr>
 
-    <td> 8275.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs8275" data-uslm-ref="/us/usc/t42/s8275">8275.</a>  </td>
 
     <td> Administration.  </td>
 
@@ -527,7 +529,7 @@ Part C—Federal Photovoltaic Utilization  </td>
 
   <tr>
 
-    <td> 8276.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs8276" data-uslm-ref="/us/usc/t42/s8276">8276.</a>  </td>
 
     <td> System evaluation and purchase program.  </td>
 
@@ -535,7 +537,7 @@ Part C—Federal Photovoltaic Utilization  </td>
 
   <tr>
 
-    <td> 8277.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs8277" data-uslm-ref="/us/usc/t42/s8277">8277.</a>  </td>
 
     <td> Advisory committee.  </td>
 
@@ -543,7 +545,7 @@ Part C—Federal Photovoltaic Utilization  </td>
 
   <tr>
 
-    <td> 8278.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs8278" data-uslm-ref="/us/usc/t42/s8278">8278.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 
@@ -559,7 +561,7 @@ Part D—Peak Demand Reduction  </td>
 
   <tr>
 
-    <td> 8279.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs8279" data-uslm-ref="/us/usc/t42/s8279">8279.</a>  </td>
 
     <td> National Action Plan for Demand Response.  </td>
 
@@ -583,7 +585,9 @@ Part A—General Provisions  </td>
 
   <tr>
 
-    <td> 8281 to 8281b. Repealed.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs8281" data-uslm-ref="/us/usc/t42/s8281">8281</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs8281b" data-uslm-ref="/us/usc/t42/s8281b">8281b.</a>  </td>
+
+    <td> Repealed.  </td>
 
   </tr>
 
@@ -597,7 +601,9 @@ Part B—Energy Conservation Plans  </td>
 
   <tr>
 
-    <td> 8282 to 8282b. Repealed.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs8282" data-uslm-ref="/us/usc/t42/s8282">8282</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs8282b" data-uslm-ref="/us/usc/t42/s8282b">8282b.</a>  </td>
+
+    <td> Repealed.  </td>
 
   </tr>
 
@@ -611,7 +617,9 @@ Part C—Utility Programs  </td>
 
   <tr>
 
-    <td> 8283, 8283a. Repealed.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs8283" data-uslm-ref="/us/usc/t42/s8283">8283</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs8283a" data-uslm-ref="/us/usc/t42/s8283a">8283a.</a>  </td>
+
+    <td> Repealed.  </td>
 
   </tr>
 
@@ -625,7 +633,7 @@ Part D—Federal Implementation  </td>
 
   <tr>
 
-    <td> 8284.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs8284" data-uslm-ref="/us/usc/t42/s8284">8284.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -641,7 +649,7 @@ SUBCHAPTER V—ENERGY AUDITOR TRAINING AND CERTIFICATION  </td>
 
   <tr>
 
-    <td> 8285.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs8285" data-uslm-ref="/us/usc/t42/s8285">8285.</a>  </td>
 
     <td> Purpose.  </td>
 
@@ -649,7 +657,7 @@ SUBCHAPTER V—ENERGY AUDITOR TRAINING AND CERTIFICATION  </td>
 
   <tr>
 
-    <td> 8285a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs8285a" data-uslm-ref="/us/usc/t42/s8285a">8285a.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -657,7 +665,7 @@ SUBCHAPTER V—ENERGY AUDITOR TRAINING AND CERTIFICATION  </td>
 
   <tr>
 
-    <td> 8285b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs8285b" data-uslm-ref="/us/usc/t42/s8285b">8285b.</a>  </td>
 
     <td> Grants.  </td>
 
@@ -665,7 +673,7 @@ SUBCHAPTER V—ENERGY AUDITOR TRAINING AND CERTIFICATION  </td>
 
   <tr>
 
-    <td> 8285c.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs8285c" data-uslm-ref="/us/usc/t42/s8285c">8285c.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 
@@ -681,7 +689,7 @@ SUBCHAPTER VI—COORDINATION OF FEDERAL ENERGY CONSERVATION FACTORS AND DATA  </
 
   <tr>
 
-    <td> 8286.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs8286" data-uslm-ref="/us/usc/t42/s8286">8286.</a>  </td>
 
     <td> Consensus on factors and data for energy conservation standards.  </td>
 
@@ -689,7 +697,7 @@ SUBCHAPTER VI—COORDINATION OF FEDERAL ENERGY CONSERVATION FACTORS AND DATA  </
 
   <tr>
 
-    <td> 8286a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs8286a" data-uslm-ref="/us/usc/t42/s8286a">8286a.</a>  </td>
 
     <td> Use of factors and data.  </td>
 
@@ -697,7 +705,7 @@ SUBCHAPTER VI—COORDINATION OF FEDERAL ENERGY CONSERVATION FACTORS AND DATA  </
 
   <tr>
 
-    <td> 8286b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs8286b" data-uslm-ref="/us/usc/t42/s8286b">8286b.</a>  </td>
 
     <td> Omitted.  </td>
 
@@ -713,7 +721,7 @@ SUBCHAPTER VII—ENERGY SAVINGS PERFORMANCE CONTRACTS  </td>
 
   <tr>
 
-    <td> 8287.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs8287" data-uslm-ref="/us/usc/t42/s8287">8287.</a>  </td>
 
     <td> Authority to enter into contracts.  </td>
 
@@ -721,7 +729,7 @@ SUBCHAPTER VII—ENERGY SAVINGS PERFORMANCE CONTRACTS  </td>
 
   <tr>
 
-    <td> 8287a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs8287a" data-uslm-ref="/us/usc/t42/s8287a">8287a.</a>  </td>
 
     <td> Payment of costs.  </td>
 
@@ -729,7 +737,7 @@ SUBCHAPTER VII—ENERGY SAVINGS PERFORMANCE CONTRACTS  </td>
 
   <tr>
 
-    <td> 8287b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs8287b" data-uslm-ref="/us/usc/t42/s8287b">8287b.</a>  </td>
 
     <td> Reports.  </td>
 
@@ -737,7 +745,7 @@ SUBCHAPTER VII—ENERGY SAVINGS PERFORMANCE CONTRACTS  </td>
 
   <tr>
 
-    <td> 8287c.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs8287c" data-uslm-ref="/us/usc/t42/s8287c">8287c.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -745,7 +753,7 @@ SUBCHAPTER VII—ENERGY SAVINGS PERFORMANCE CONTRACTS  </td>
 
   <tr>
 
-    <td> 8287d.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs8287d" data-uslm-ref="/us/usc/t42/s8287d">8287d.</a>  </td>
 
     <td> Assistance to Federal agencies in achieving energy efficiency in Federal facilities and operations.  </td>
 

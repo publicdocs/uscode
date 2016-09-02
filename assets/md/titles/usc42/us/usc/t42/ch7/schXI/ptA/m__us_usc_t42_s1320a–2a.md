@@ -103,7 +103,7 @@
 
 [Pub. L. 103–432, title II, § 203(c)(3)][/us/pl/103/432/s203/c/3], Oct. 31, 1994, [108 Stat. 4456][/us/stat/108/4456], provided that: 
 
-> “The Secretary shall promulgate the regulations referred to in section 1123(a) \[now 1123A(a)\] of the Social Security Act \[subsec. (a) of this section\] (as added by this section) not later than July 1, 1995, to take effect on April 1, 1996.”
+> “The Secretary shall promulgate the regulations referred to in section 1123(a) \[now 1123A(a)\] of the Social Security Act \[[42 U.S.C. 1320a–2a(a)][/us/usc/t42/s1320a–2a/a]\] (as added by this section) not later than July 1, 1995, to take effect on April 1, 1996.”
 
 ----------
 
@@ -131,5 +131,6 @@
 [/us/stat/108/4456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4456
 [/us/pl/103/432/s203/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432%2Fs203%2Fc%2F3
 [/us/stat/108/4456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4456
+[/us/usc/t42/s1320a–2a/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320a%E2%80%932a%2Fa
 
 

@@ -687,7 +687,7 @@
 
 >             “(i) if such programs and standards include consideration of the accessibility and quality of the health care items and services delivered under such contracts to low-income individuals; and
 
->             “(ii) the appropriateness of applying such programs and standards to medicaid managed care organizations under section 1932(c) of such Act \[subsec. (c) of this section\].
+>             “(ii) the appropriateness of applying such programs and standards to medicaid managed care organizations under section 1932(c) of such Act \[[42 U.S.C. 1396u–2(c)][/us/usc/t42/s1396u–2/c]\].
 
 >         “(B) __Report.—__ 
 
@@ -829,5 +829,6 @@
 [/us/pl/105/33/s4705/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs4705%2Fc
 [/us/stat/111/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F500
 [/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
+[/us/usc/t42/s1396u–2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396u%E2%80%932%2Fc
 
 

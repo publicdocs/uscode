@@ -127,7 +127,7 @@ For purposes of this part:
 
 [Pub. L. 104–191, title II, § 261][/us/pl/104/191/s261], Aug. 21, 1996, [110 Stat. 2021][/us/stat/110/2021], as amended by [Pub. L. 111–148, title I, § 1104(a)][/us/pl/111/148/s1104/a], Mar. 23, 2010, [124 Stat. 146][/us/stat/124/146], provided that: 
 
-> “It is the purpose of this subtitle \[subtitle F (§§ 261–264) of title II of [Pub. L. 104–191][/us/pl/104/191], enacting this part, amending sections 242k and 1395cc of this title, and enacting provisions set out as a note under [section 1320d–2 of this title][/us/usc/t42/s1320d–2]\] to improve the Medicare program under title XVIII of the Social Security Act \[subchapter XVIII of this chapter\], the medicaid program under title XIX of such Act \[subchapter XIX of this chapter\], and the efficiency and effectiveness of the health care system, by encouraging the development of a health information system through the establishment of uniform standards and requirements for the electronic transmission of certain health information and to reduce the clerical burden on patients, health care providers, and health plans.”
+> “It is the purpose of this subtitle \[subtitle F (§§ 261–264) of title II of [Pub. L. 104–191][/us/pl/104/191], enacting this part, amending sections 242k and 1395cc of this title, and enacting provisions set out as a note under [section 1320d–2 of this title][/us/usc/t42/s1320d–2]\] to improve the Medicare program under title XVIII of the Social Security Act \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\], the medicaid program under title XIX of such Act \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\], and the efficiency and effectiveness of the health care system, by encouraging the development of a health information system through the establishment of uniform standards and requirements for the electronic transmission of certain health information and to reduce the clerical burden on patients, health care providers, and health plans.”
 
 ----------
 
@@ -174,5 +174,7 @@ For purposes of this part:
 [/us/stat/124/146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F146
 [/us/pl/104/191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191
 [/us/usc/t42/s1320d–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320d%E2%80%932
+[/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
+[/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
 
 

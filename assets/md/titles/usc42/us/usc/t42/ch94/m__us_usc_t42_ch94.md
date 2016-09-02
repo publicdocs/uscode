@@ -33,7 +33,9 @@ SUBCHAPTER I—HOME ENERGY ASSISTANCE  </td>
 
   <tr>
 
-    <td> 8601 to 8612. Repealed.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs8601" data-uslm-ref="/us/usc/t42/s8601">8601</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs8612" data-uslm-ref="/us/usc/t42/s8612">8612.</a>  </td>
+
+    <td> Repealed.  </td>
 
   </tr>
 
@@ -47,7 +49,7 @@ SUBCHAPTER II—LOW-INCOME HOME ENERGY ASSISTANCE  </td>
 
   <tr>
 
-    <td> 8621.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs8621" data-uslm-ref="/us/usc/t42/s8621">8621.</a>  </td>
 
     <td> Home energy grants.  </td>
 
@@ -55,7 +57,7 @@ SUBCHAPTER II—LOW-INCOME HOME ENERGY ASSISTANCE  </td>
 
   <tr>
 
-    <td> 8622.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs8622" data-uslm-ref="/us/usc/t42/s8622">8622.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -63,7 +65,7 @@ SUBCHAPTER II—LOW-INCOME HOME ENERGY ASSISTANCE  </td>
 
   <tr>
 
-    <td> 8623.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs8623" data-uslm-ref="/us/usc/t42/s8623">8623.</a>  </td>
 
     <td> State allotments.  </td>
 
@@ -71,7 +73,7 @@ SUBCHAPTER II—LOW-INCOME HOME ENERGY ASSISTANCE  </td>
 
   <tr>
 
-    <td> 8624.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs8624" data-uslm-ref="/us/usc/t42/s8624">8624.</a>  </td>
 
     <td> Applications and requirements.  </td>
 
@@ -79,7 +81,7 @@ SUBCHAPTER II—LOW-INCOME HOME ENERGY ASSISTANCE  </td>
 
   <tr>
 
-    <td> 8625.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs8625" data-uslm-ref="/us/usc/t42/s8625">8625.</a>  </td>
 
     <td> Nondiscrimination provisions.  </td>
 
@@ -87,7 +89,7 @@ SUBCHAPTER II—LOW-INCOME HOME ENERGY ASSISTANCE  </td>
 
   <tr>
 
-    <td> 8626.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs8626" data-uslm-ref="/us/usc/t42/s8626">8626.</a>  </td>
 
     <td> Payments to States; fiscal year requirements respecting availability, etc.  </td>
 
@@ -95,7 +97,7 @@ SUBCHAPTER II—LOW-INCOME HOME ENERGY ASSISTANCE  </td>
 
   <tr>
 
-    <td> 8626a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs8626a" data-uslm-ref="/us/usc/t42/s8626a">8626a.</a>  </td>
 
     <td> Incentive program for leveraging non-Federal resources.  </td>
 
@@ -103,7 +105,7 @@ SUBCHAPTER II—LOW-INCOME HOME ENERGY ASSISTANCE  </td>
 
   <tr>
 
-    <td> 8626b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs8626b" data-uslm-ref="/us/usc/t42/s8626b">8626b.</a>  </td>
 
     <td> Residential Energy Assistance Challenge option (R.E.A.Ch.).  </td>
 
@@ -111,7 +113,7 @@ SUBCHAPTER II—LOW-INCOME HOME ENERGY ASSISTANCE  </td>
 
   <tr>
 
-    <td> 8627.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs8627" data-uslm-ref="/us/usc/t42/s8627">8627.</a>  </td>
 
     <td> Withholding of funds.  </td>
 
@@ -119,7 +121,7 @@ SUBCHAPTER II—LOW-INCOME HOME ENERGY ASSISTANCE  </td>
 
   <tr>
 
-    <td> 8628.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs8628" data-uslm-ref="/us/usc/t42/s8628">8628.</a>  </td>
 
     <td> Limitation on use of grants for construction.  </td>
 
@@ -127,7 +129,7 @@ SUBCHAPTER II—LOW-INCOME HOME ENERGY ASSISTANCE  </td>
 
   <tr>
 
-    <td> 8628a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs8628a" data-uslm-ref="/us/usc/t42/s8628a">8628a.</a>  </td>
 
     <td> Technical assistance, training, and compliance reviews.  </td>
 
@@ -135,7 +137,7 @@ SUBCHAPTER II—LOW-INCOME HOME ENERGY ASSISTANCE  </td>
 
   <tr>
 
-    <td> 8629.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs8629" data-uslm-ref="/us/usc/t42/s8629">8629.</a>  </td>
 
     <td> Studies and reports.  </td>
 
@@ -143,7 +145,7 @@ SUBCHAPTER II—LOW-INCOME HOME ENERGY ASSISTANCE  </td>
 
   <tr>
 
-    <td> 8630.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs8630" data-uslm-ref="/us/usc/t42/s8630">8630.</a>  </td>
 
     <td> Renewable fuels.  </td>
 

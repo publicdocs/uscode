@@ -95,7 +95,7 @@
 
 [Pub. L. 102–408, title III, § 308][/us/pl/102/408/s308], Oct. 13, 1992, [106 Stat. 2089][/us/stat/106/2089], provided that: 
 
-> “With respect to awards of grants or contracts under title VII or VIII of the Public Health Service Act \[this subchapter or subchapter VI of this chapter\], the Secretary of Health and Human Services may make such an award for the provision of traineeships only if the applicant for the award provides assurances satisfactory to the Secretary that all trainees will, as appropriate, receive instruction in the utilization of universal precautions and infection control procedures for the prevention of the transmission of bloodborne diseases.”
+> “With respect to awards of grants or contracts under title VII or VIII of the Public Health Service Act \[[42 U.S.C. 292][/us/usc/t42/s292] et seq., 296 et seq.\], the Secretary of Health and Human Services may make such an award for the provision of traineeships only if the applicant for the award provides assurances satisfactory to the Secretary that all trainees will, as appropriate, receive instruction in the utilization of universal precautions and infection control procedures for the prevention of the transmission of bloodborne diseases.”
 
 ----------
 
@@ -149,5 +149,6 @@
 [/us/usc/t42/s292y]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs292y
 [/us/pl/102/408/s308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F408%2Fs308
 [/us/stat/106/2089]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2089
+[/us/usc/t42/s292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs292
 
 

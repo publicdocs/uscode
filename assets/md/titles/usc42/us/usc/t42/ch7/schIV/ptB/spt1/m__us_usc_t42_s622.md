@@ -311,7 +311,7 @@
 
 >     “(a) __In General.—__ 
 
->     Except as otherwise provided in this section, the amendments made by this Act \[enacting [section 673c of this title][/us/usc/t42/s673c], amending this section and sections 629h, 671, and 675 of this title, and repealing [section 673c of this title][/us/usc/t42/s673c]\] shall take effect on October 1, 2006, and shall apply to payments under parts B and E of title IV of the Social Security Act \[this part and part E of this subchapter\] for calendar quarters beginning on or after such date, without regard to whether regulations to implement the amendments are promulgated by such date.
+>     Except as otherwise provided in this section, the amendments made by this Act \[enacting [section 673c of this title][/us/usc/t42/s673c], amending this section and sections 629h, 671, and 675 of this title, and repealing [section 673c of this title][/us/usc/t42/s673c]\] shall take effect on October 1, 2006, and shall apply to payments under parts B and E of title IV of the Social Security Act \[[42 U.S.C. 620][/us/usc/t42/s620] et seq., 670 et seq.\] for calendar quarters beginning on or after such date, without regard to whether regulations to implement the amendments are promulgated by such date.
 
 >     “(b) __Delay Permitted If State Legislation Required.—__ 
 
@@ -333,7 +333,7 @@
 
 >     “(b) __Delay Permitted if State Legislation Required.—__ 
 
->     In the case of a State plan under part B or E of title IV of the Social Security Act \[this part and part E of this subchapter\] which the Secretary of Health and Human Services determines requires State legislation (other than legislation appropriating funds) in order for the plan to meet the additional requirements imposed by the amendments made by this Act, the State plan shall not be regarded as failing to comply with the requirements of such part solely on the basis of the failure of the plan to meet such additional requirements before the first day of the first calendar quarter beginning after the close of the first regular session of the State legislature that begins after the date of enactment of this Act \[Nov. 19, 1997\]. For purposes of the previous sentence, in the case of a State that has a 2-year legislative session, each year of such session shall be deemed to be a separate regular session of the State legislature.”
+>     In the case of a State plan under part B or E of title IV of the Social Security Act \[[42 U.S.C. 620][/us/usc/t42/s620] et seq., 670 et seq.\] which the Secretary of Health and Human Services determines requires State legislation (other than legislation appropriating funds) in order for the plan to meet the additional requirements imposed by the amendments made by this Act, the State plan shall not be regarded as failing to comply with the requirements of such part solely on the basis of the failure of the plan to meet such additional requirements before the first day of the first calendar quarter beginning after the close of the first regular session of the State legislature that begins after the date of enactment of this Act \[Nov. 19, 1997\]. For purposes of the previous sentence, in the case of a State that has a 2-year legislative session, each year of such session shall be deemed to be a separate regular session of the State legislature.”
 
 [Pub. L. 105–33, title V, § 5593][/us/pl/105/33/s5593], Aug. 5, 1997, [111 Stat. 644][/us/stat/111/644], provided that: 
 
@@ -373,7 +373,7 @@
 
 [Pub. L. 90–248, title II, § 240(e)(3)][/us/pl/90/248/s240/e/3], Jan. 2, 1968, [81 Stat. 916][/us/stat/81/916], provided that: 
 
-> “The amendments made by paragraphs (1) and (2) of subsection (d) \[amending this section\] shall become effective July 1, 1969, except that (A) if on the date of enactment of this Act \[Jan. 2, 1968\] the agency of a State administering its plan for child-welfare services developed under part B of title IV of the Social Security Act \[this part\] is different from the agency of the State designated pursuant to section 402(a)(3) of such Act \[[section 602(a)(3) of this title][/us/usc/t42/s602/a/3]\], so much of paragraph (1) of section 422(a) of such Act \[subsec. (a) of this section\] as precedes subparagraph (B) (as added by paragraph (2) of such subsection (d)) shall not apply with respect to such agencies but only so long as such agencies of the State are different, and (B) if on such date the local agency administering the plan of a State for child-welfare services developed under part B of title IV of the Social Security Act \[this part\] is different from the local agency in such subdivision administering the plan of such State under part A of title IV of such Act \[part A of this subchapter\], so much of such paragraph (1) as precedes such subparagraph (B) shall not apply with respect to such local agencies but only so long as such local agencies are different.”
+> “The amendments made by paragraphs (1) and (2) of subsection (d) \[amending this section\] shall become effective July 1, 1969, except that (A) if on the date of enactment of this Act \[Jan. 2, 1968\] the agency of a State administering its plan for child-welfare services developed under part B of title IV of the Social Security Act \[[42 U.S.C. 620][/us/usc/t42/s620] et seq.\] is different from the agency of the State designated pursuant to section 402(a)(3) of such Act \[[42 U.S.C. 602(a)(3)][/us/usc/t42/s602/a/3]\], so much of paragraph (1) of section 422(a) of such Act \[[42 U.S.C. 622(a)(1)][/us/usc/t42/s622/a/1]\] as precedes subparagraph (B) (as added by paragraph (2) of such subsection (d)) shall not apply with respect to such agencies but only so long as such agencies of the State are different, and (B) if on such date the local agency administering the plan of a State for child-welfare services developed under part B of title IV of the Social Security Act is different from the local agency in such subdivision administering the plan of such State under part A of title IV of such Act \[[42 U.S.C. 601][/us/usc/t42/s601] et seq.\], so much of such paragraph (1) as precedes such subparagraph (B) shall not apply with respect to such local agencies but only so long as such local agencies are different.”
 
  __Findings and Purpose__ 
 
@@ -407,17 +407,17 @@
 
 [Pub. L. 96–272, title I, § 103(c)][/us/pl/96/272/s103/c], June 17, 1980, [94 Stat. 521][/us/stat/94/521], provided that in the case of Guam, Puerto Rico, the Virgin Islands, and the Commonwealth of the Northern Mariana Islands, subsec. (b)(1) of this section (as otherwise amended by [section 103(a) of Pub. L. 96–272][/us/pl/96/272/s103/a]), is deemed to read as follows:
 
->     “(1) provide that (A) the State agency designated pursuant to [section 602(a)(3) of this title][/us/usc/t42/s602/a/3] to administer or supervise the administration of the plan of the State approved under part A of this subchapter will administer or supervise the administration of such plan for child welfare services, and (B) to the extent that child welfare services are furnished by the staff of the State agency or local agency administering such plan for child welfare services, the organizational unit in such State or local agency established pursuant to [section 602(a)(15) of this title][/us/usc/t42/s602/a/15] will be responsible for furnishing such child welfare services;”.
+>     “(1) provide that (A) the State agency designated pursuant to [section 602(a)(3) of this title][/us/usc/t42/s602/a/3] to administer or supervise the administration of the plan of the State approved under part A of this subchapter \[[42 U.S.C. 601][/us/usc/t42/s601] et seq.\] will administer or supervise the administration of such plan for child welfare services, and (B) to the extent that child welfare services are furnished by the staff of the State agency or local agency administering such plan for child welfare services, the organizational unit in such State or local agency established pursuant to [section 602(a)(15) of this title][/us/usc/t42/s602/a/15] will be responsible for furnishing such child welfare services;”.
 
  __Administration of State Plan for Child Welfare Services by Non-Designated Agency__ 
 
 [Pub. L. 96–272, title I, § 103(d)][/us/pl/96/272/s103/d], June 17, 1980, [94 Stat. 521][/us/stat/94/521], provided that: 
 
-> “Notwithstanding section 422(b)(1) of the Social Security Act (as amended by subsection (a) of this section) \[subsec. (b)(1) of this section\] if on December 1, 1974, the agency of a State administering its plan for child welfare services under part B of title IV of that Act \[this part\] was not the agency designated pursuant to section 402(a)(3) of that Act \[[section 602(a)(3) of this title][/us/usc/t42/s602/a/3]\], such section 422(b)(1) shall not apply with respect to such agency, but only so long as such agency is not the agency designated under section 2003(d)(1)(C) of that Act \[[section 1397b(d)(1)(C) of this title][/us/usc/t42/s1397b/d/1/C]\]; and if on December 1, 1974, the local agency administering the plan of a State under part B of title IV of that Act in a subdivision of the State was not the local agency in such subdivision administering the plan of such State under part A of that title \[part A of this subchapter\], such section 422(b)(1) shall not apply with respect to such local agency, but only so long as such local agency is not the local agency administering the program of the State for the provision of services under title XX of that Act \[subchapter XX of this chapter\].”
+> “Notwithstanding section 422(b)(1) of the Social Security Act (as amended by subsection (a) of this section) \[[42 U.S.C. 622(b)(1)][/us/usc/t42/s622/b/1]\] if on December 1, 1974, the agency of a State administering its plan for child welfare services under part B of title IV of that Act \[[42 U.S.C. 620][/us/usc/t42/s620] et seq.\] was not the agency designated pursuant to section 402(a)(3) of that Act \[[42 U.S.C. 602(a)(3)][/us/usc/t42/s602/a/3]\], such section 422(b)(1) shall not apply with respect to such agency, but only so long as such agency is not the agency designated under section 2003(d)(1)(C) of that Act \[[42 U.S.C. 1397b(d)(1)(C)][/us/usc/t42/s1397b/d/1/C]\]; and if on December 1, 1974, the local agency administering the plan of a State under part B of title IV of that Act in a subdivision of the State was not the local agency in such subdivision administering the plan of such State under part A of that title \[[42 U.S.C. 601][/us/usc/t42/s601] et seq.\], such section 422(b)(1) shall not apply with respect to such local agency, but only so long as such local agency is not the local agency administering the program of the State for the provision of services under title XX of that Act \[[42 U.S.C. 1397][/us/usc/t42/s1397] et seq.\].”
 
  __Overpayments or Underpayments__ 
 
-    [Pub. L. 90–248, title II, § 240(f)(3)][/us/pl/90/248/s240/f/3], Jan. 2, 1968, [81 Stat. 916][/us/stat/81/916], provided that in the case of any State which has a plan developed as provided in part 3 of this subchapter as in effect prior to Jan. 2, 1968, sections 721 to 728 of this title, “any overpayment or underpayment which the Secretary determines was made to the State under section 523 of the Social Security Act \[[section 723 of this title][/us/usc/t42/s723]\] and with respect to which adjustment has not then already been made under subsection (b) of such section shall, for purposes of section 422 of such Act \[this section\], be considered an overpayment or underpayment (as the case may be) made under section 422 of such Act.”
+    [Pub. L. 90–248, title II, § 240(f)(3)][/us/pl/90/248/s240/f/3], Jan. 2, 1968, [81 Stat. 916][/us/stat/81/916], provided that in the case of any State which has a plan developed as provided in part 3 of this subchapter as in effect prior to Jan. 2, 1968, sections 721 to 728 of this title, “any overpayment or underpayment which the Secretary determines was made to the State under section 523 of the Social Security Act \[[42 U.S.C. 723][/us/usc/t42/s723]\] and with respect to which adjustment has not then already been made under subsection (b) of such section shall, for purposes of section 422 of such Act \[[42 U.S.C. 622][/us/usc/t42/s622]\], be considered an overpayment or underpayment (as the case may be) made under section 422 of such Act.”
 
 ----------
 
@@ -556,6 +556,7 @@
 [/us/stat/120/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F514
 [/us/usc/t42/s673c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs673c
 [/us/usc/t42/s673c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs673c
+[/us/usc/t42/s620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs620
 [/us/pl/109/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171
 [/us/pl/109/171/s7701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2Fs7701
 [/us/usc/t42/s603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs603
@@ -565,6 +566,7 @@
 [/us/pl/105/89/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F89%2Fs501
 [/us/stat/111/2136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2136
 [/us/usc/t42/s670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs670
+[/us/usc/t42/s620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs620
 [/us/pl/105/33/s5593]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs5593
 [/us/stat/111/644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F644
 [/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
@@ -590,7 +592,10 @@
 [/us/usc/t42/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs303
 [/us/pl/90/248/s240/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248%2Fs240%2Fe%2F3
 [/us/stat/81/916]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F916
+[/us/usc/t42/s620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs620
 [/us/usc/t42/s602/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs602%2Fa%2F3
+[/us/usc/t42/s622/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs622%2Fa%2F1
+[/us/usc/t42/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs601
 [/us/pl/103/382/s552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs552
 [/us/stat/108/4056]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4056
 [/us/pl/103/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382
@@ -600,13 +605,19 @@
 [/us/stat/94/521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F521
 [/us/pl/96/272/s103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F272%2Fs103%2Fa
 [/us/usc/t42/s602/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs602%2Fa%2F3
+[/us/usc/t42/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs601
 [/us/usc/t42/s602/a/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs602%2Fa%2F15
 [/us/pl/96/272/s103/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F272%2Fs103%2Fd
 [/us/stat/94/521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F521
+[/us/usc/t42/s622/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs622%2Fb%2F1
+[/us/usc/t42/s620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs620
 [/us/usc/t42/s602/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs602%2Fa%2F3
 [/us/usc/t42/s1397b/d/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1397b%2Fd%2F1%2FC
+[/us/usc/t42/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs601
+[/us/usc/t42/s1397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1397
 [/us/pl/90/248/s240/f/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248%2Fs240%2Ff%2F3
 [/us/stat/81/916]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F916
 [/us/usc/t42/s723]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs723
+[/us/usc/t42/s622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs622
 
 

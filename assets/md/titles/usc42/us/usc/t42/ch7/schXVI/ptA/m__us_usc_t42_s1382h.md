@@ -157,7 +157,7 @@
 
 [Pub. L. 96–265, title II, § 201(e)][/us/pl/96/265/s201/e], June 9, 1980, [94 Stat. 449][/us/stat/94/449], provided that: 
 
-> “The Secretary shall provide for separate accounts with respect to the benefits payable by reason of the amendments made by subsections (a) and (b) \[enacting this section and amending [section 1382e of this title][/us/usc/t42/s1382e] and provisions set out as a note under [section 1382 of this title][/us/usc/t42/s1382]\] so as to provide for evaluation of the effects of such amendments on the programs established by titles II, XVI, XIX, and XX of the Social Security Act \[subchapters II, XVI, XIX, and XX of this chapter\].”
+> “The Secretary shall provide for separate accounts with respect to the benefits payable by reason of the amendments made by subsections (a) and (b) \[enacting this section and amending [section 1382e of this title][/us/usc/t42/s1382e] and provisions set out as a note under [section 1382 of this title][/us/usc/t42/s1382]\] so as to provide for evaluation of the effects of such amendments on the programs established by titles II, XVI, XIX, and XX of the Social Security Act \[[42 U.S.C. 401][/us/usc/t42/s401] et seq., 1381 et seq., 1396 et seq., 1397 et seq.\].”
 
 ----------
 
@@ -251,5 +251,6 @@
 [/us/stat/94/449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F449
 [/us/usc/t42/s1382e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1382e
 [/us/usc/t42/s1382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1382
+[/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
 
 

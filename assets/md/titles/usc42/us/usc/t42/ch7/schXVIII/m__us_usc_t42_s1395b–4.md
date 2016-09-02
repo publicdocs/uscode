@@ -169,7 +169,7 @@
 
 >     “(b) __Scope.—__ 
 
->     The demonstration shall be in no fewer than 10 sites, and shall include state health insurance assistance programs, community health centers, community-based organizations, community health workers, and other service providers under parts A, B, and C of title XVIII of the Social Security Act \[parts A, B, and C of this subchapter\]. Grantees that are plans operating under part C shall document that enrollees who were previously uninsured receive the ‘Welcome to Medicare’ physical exam.
+>     The demonstration shall be in no fewer than 10 sites, and shall include state health insurance assistance programs, community health centers, community-based organizations, community health workers, and other service providers under parts A, B, and C of title XVIII of the Social Security Act \[[42 U.S.C. 1395c][/us/usc/t42/s1395c] et seq., 1395j et seq., 1395w–21 et seq.\]. Grantees that are plans operating under part C shall document that enrollees who were previously uninsured receive the ‘Welcome to Medicare’ physical exam.
 
 >     “(c) __Duration.—__ 
 
@@ -231,6 +231,7 @@
 [/us/usc/t42/s1395ss]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ss
 [/us/pl/110/275/s186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F275%2Fs186
 [/us/stat/122/2588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2588
+[/us/usc/t42/s1395c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395c
 [/us/pl/103/432/s171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432%2Fs171
 [/us/pl/103/432/s171/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432%2Fs171%2Fm
 [/us/usc/t42/s1395ss]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ss

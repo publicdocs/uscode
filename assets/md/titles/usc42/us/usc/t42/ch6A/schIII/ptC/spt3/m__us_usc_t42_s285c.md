@@ -29,7 +29,7 @@
 
 >     “(b) __Dissemination of Results.—__ 
 
->     Upon completion of the study referred to in subsection (a), the Secretary shall disseminate and otherwise make available the results of the study to interested groups and organizations, including insurance commissioners, employers, private insurers, health care professionals, State and local public health agencies, and State agencies that carry out the Medicaid program under title XIX of the Social Security Act \[section 1396 et seq. of this title\] or the State children’s health insurance program under title XXI of such Act \[section 1397aa et seq. of this title\].
+>     Upon completion of the study referred to in subsection (a), the Secretary shall disseminate and otherwise make available the results of the study to interested groups and organizations, including insurance commissioners, employers, private insurers, health care professionals, State and local public health agencies, and State agencies that carry out the Medicaid program under title XIX of the Social Security Act \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\] or the State children’s health insurance program under title XXI of such Act \[[42 U.S.C. 1397aa][/us/usc/t42/s1397aa] et seq.\].
 
 >     “(c) __Authorization of Appropriations.—__ 
 
@@ -53,6 +53,8 @@
 [/us/stat/99/841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F841
 [/us/pl/106/310/s2802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs2802
 [/us/stat/114/1167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1167
+[/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
+[/us/usc/t42/s1397aa]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1397aa
 [/us/pl/99/158/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F158%2Fs10
 [/us/stat/99/883]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F883
 

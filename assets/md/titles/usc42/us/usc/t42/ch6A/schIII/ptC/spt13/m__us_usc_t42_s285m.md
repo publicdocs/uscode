@@ -43,9 +43,9 @@
 
 >         “(B) The provisions of the Public Health Service Act referred to in subparagraph (A) are—
 
->         “(A) sections 401(b)(1) and 457 \[sections 281(b)(1) and 285j of this title\];
+>         “(A) sections 401(b)(1) and 457 \[[42 U.S.C. 281(b)(1)][/us/usc/t42/s281/b/1], 285j\];
 
->         “(B) part C of title IV \[this part\]; and
+>         “(B) part C of title IV \[[42 U.S.C. 285][/us/usc/t42/s285] et seq.\]; and
 
 >         “(C) the heading for subpart 10 of such part C \[42 U.S.C. prec. 285j\].
 
@@ -90,6 +90,8 @@
 [/us/stat/102/4238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4238
 [/us/pl/100/553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F553
 [/us/pl/100/607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607
+[/us/usc/t42/s281/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs281%2Fb%2F1
+[/us/usc/t42/s285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs285
 [/us/pl/100/553/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F553%2Fs3
 [/us/stat/102/2774]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2774
 [/us/pl/100/690/s2613/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs2613%2Fa%2F2

@@ -1733,7 +1733,7 @@
 
 > “The amendments made by subparagraph (A) \[amending this section\] shall take effect as if included in the enactment of the Omnibus Budget Reconciliation Act of 1987 \[[Pub. L. 100–203][/us/pl/100/203]\], except that a State may not approve a training and competency evaluation program or a competency evaluation program offered by or in a nursing facility which, pursuant to any Federal or State law within the 2-year period beginning on October 1, 1988—
 
->     “(i) had its participation terminated under title XVIII of the Social Security Act \[subchapter XVIII of this chapter\] or under the State plan under title XIX of such Act \[this subchapter\];
+>     “(i) had its participation terminated under title XVIII of the Social Security Act \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\] or under the State plan under title XIX of such Act \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\];
 
 >     “(ii) was subject to a denial of payment under either such title;
 
@@ -1785,11 +1785,11 @@
 
 >     “(a) __New Requirements and Survey and Certification Process.—__ 
 
->     Except as otherwise specifically provided in section 1919 of the Social Security Act \[this section\], the amendments made by sections 4211 \[enacting this section, amending sections 1320a–7b, 1396a, 1396b, 1396d, 1396j, 1396l, 1396n, 1396o, 1396p, 1396r, and 1396s of this title, redesignating [section 1396r of this title][/us/usc/t42/s1396r] as [section 1396r–3 of this title][/us/usc/t42/s1396r–3], and amending provisions set out as a note under [section 1396r–3 of this title][/us/usc/t42/s1396r–3]\] and 4212 \[amending sections 1395cc, 1396a, 1396b, 1396i, and 1396r of this title\] (relating to nursing facility requirements and survey and certification requirements) shall apply to nursing facility services furnished on or after October 1, 1990, without regard to whether regulations to implement such amendments are promulgated by such date; except that section 1902(a)(28)(B) of the Social Security Act \[[section 1396a(a)(28)(B) of this title][/us/usc/t42/s1396a/a/28/B]\] (as amended by section 4211(b) of this Act), relating to requiring State medical assistance plans to specify the services included in nursing facility services, shall apply to calendar quarters beginning more than 6 months after the date of the enactment of this Act \[Dec. 22, 1987\], without regard to whether regulations to implement such section are promulgated by such date.
+>     Except as otherwise specifically provided in section 1919 of the Social Security Act \[[42 U.S.C. 1396r][/us/usc/t42/s1396r]\], the amendments made by sections 4211 \[enacting this section, amending sections 1320a–7b, 1396a, 1396b, 1396d, 1396j, 1396l, 1396n, 1396o, 1396p, 1396r, and 1396s of this title, redesignating [section 1396r of this title][/us/usc/t42/s1396r] as [section 1396r–3 of this title][/us/usc/t42/s1396r–3], and amending provisions set out as a note under [section 1396r–3 of this title][/us/usc/t42/s1396r–3]\] and 4212 \[amending sections 1395cc, 1396a, 1396b, 1396i, and 1396r of this title\] (relating to nursing facility requirements and survey and certification requirements) shall apply to nursing facility services furnished on or after October 1, 1990, without regard to whether regulations to implement such amendments are promulgated by such date; except that section 1902(a)(28)(B) of the Social Security Act \[[42 U.S.C. 1396a(a)(28)(B)][/us/usc/t42/s1396a/a/28/B]\] (as amended by section 4211(b) of this Act), relating to requiring State medical assistance plans to specify the services included in nursing facility services, shall apply to calendar quarters beginning more than 6 months after the date of the enactment of this Act \[Dec. 22, 1987\], without regard to whether regulations to implement such section are promulgated by such date.
 
 >     “(b) __Enforcement.—__ 
 
->         (1) Except as otherwise specifically provided in section 1919 of the Social Security Act \[this section\], the amendments made by section 4213 of this Act \[amending this section and sections 1396a and 1396b of this title\] apply to payments under title XIX of the Social Security Act \[this subchapter\] for calendar quarters beginning on or after the date of the enactment of this Act \[Dec. 22, 1987\], without regard to whether regulations to implement such amendments are promulgated by such date.
+>         (1) Except as otherwise specifically provided in section 1919 of the Social Security Act \[[42 U.S.C. 1396r][/us/usc/t42/s1396r]\], the amendments made by section 4213 of this Act \[amending this section and sections 1396a and 1396b of this title\] apply to payments under title XIX of the Social Security Act \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\] for calendar quarters beginning on or after the date of the enactment of this Act \[Dec. 22, 1987\], without regard to whether regulations to implement such amendments are promulgated by such date.
 
 >         “(2)
 
@@ -1797,7 +1797,7 @@
 
 >             “(A) any reference to a nursing facility is deemed a reference to a skilled nursing facility or intermediate care facility (other than an intermediate care facility for the mentally retarded), and
 
->             “(B) with respect to such a skilled nursing facility or intermediate care facility, any reference to a requirement of subsection (b), (c), or (d) of section 1919 of the Social Security Act \[subsec. (b), (c), or (d) of this section\], is deemed a reference to the provisions of section 1861(j) or section 1905(c), respectively, of the Social Security Act \[section 1395x(j) or 1396d(c) of this title\].
+>             “(B) with respect to such a skilled nursing facility or intermediate care facility, any reference to a requirement of subsection (b), (c), or (d) of section 1919 of the Social Security Act \[[42 U.S.C. 1396r(b)][/us/usc/t42/s1396r/b], (c), (d)\], is deemed a reference to the provisions of section 1861(j) or section 1905(c), respectively, of the Social Security Act \[[42 U.S.C. 1395x(j)][/us/usc/t42/s1395x/j], 1396d(c)\].
 
 >     “(c) __Waiver of Paperwork Reduction.—__ 
 
@@ -1811,19 +1811,19 @@
 
 [Pub. L. 101–508, title IV, § 4801(a)(1)][/us/pl/101/508/s4801/a/1], Nov. 5, 1990, [104 Stat. 1388–211][/us/stat/104/1388-211], provided that: 
 
-> “The Secretary of Health and Human Services shall not take (and shall not continue) any action against a State under section 1904 of the Social Security Act \[[section 1396c of this title][/us/usc/t42/s1396c]\] on the basis of the State’s failure to meet the requirement of section 1919(e)(1)(A) of such Act \[subsec. (e)(1)(A) of this section\] before the effective date of guidelines, issued by the Secretary, establishing requirements under section 1919(f)(2)(A) of such Act, if the State demonstrates to the satisfaction of the Secretary that it has made a good faith effort to meet such requirement before such effective date.”
+> “The Secretary of Health and Human Services shall not take (and shall not continue) any action against a State under section 1904 of the Social Security Act \[[42 U.S.C. 1396c][/us/usc/t42/s1396c]\] on the basis of the State’s failure to meet the requirement of section 1919(e)(1)(A) of such Act \[[42 U.S.C. 1396r(e)(1)(A)][/us/usc/t42/s1396r/e/1/A]\] before the effective date of guidelines, issued by the Secretary, establishing requirements under section 1919(f)(2)(A) of such Act, if the State demonstrates to the satisfaction of the Secretary that it has made a good faith effort to meet such requirement before such effective date.”
 
  __Preadmission Screening and Annual Resident Review; Compliance Actions__ 
 
 [Pub. L. 101–508, title IV, § 4801(b)(1)][/us/pl/101/508/s4801/b/1], Nov. 5, 1990, [104 Stat. 1388–213][/us/stat/104/1388-213], provided that: 
 
-> “The Secretary of Health and Human Services shall not take (and shall not continue) any action against a State under section 1904 or section 1919(e)(7)(D) of the Social Security Act \[[section 1396c of this title][/us/usc/t42/s1396c] and subsec. (e)(7)(D) of this section\] on the basis of the State’s failure to meet the requirement of section 1919(e)(7)(A) of such Act before the effective date of guidelines, issued by the Secretary, establishing minimum criteria under section 1919(f)(8)(A) of such Act, if the State demonstrates to the satisfaction of the Secretary that it has made a good faith effort to meet such requirement before such effective date.”
+> “The Secretary of Health and Human Services shall not take (and shall not continue) any action against a State under section 1904 or section 1919(e)(7)(D) of the Social Security Act \[[42 U.S.C. 1396c][/us/usc/t42/s1396c], 1396r(e)(7)(D)\] on the basis of the State’s failure to meet the requirement of section 1919(e)(7)(A) of such Act before the effective date of guidelines, issued by the Secretary, establishing minimum criteria under section 1919(f)(8)(A) of such Act, if the State demonstrates to the satisfaction of the Secretary that it has made a good faith effort to meet such requirement before such effective date.”
 
  __Restriction on Enforcement Process__ 
 
 [Pub. L. 101–508, title IV, § 4801(c)][/us/pl/101/508/s4801/c], Nov. 5, 1990, [104 Stat. 1388–215][/us/stat/104/1388-215], provided that: 
 
-> “The Secretary of Health and Human Services shall not take (and shall not continue) any action against a State under section 1904 of the Social Security Act \[[section 1396c of this title][/us/usc/t42/s1396c]\] on the basis of the State’s failure to meet the requirements of section 1919(h)(2) of such Act \[subsec. (h)(2) of this section\] before the effective date of guidelines, issued by the Secretary, regarding the establishment of remedies by the State under such section, if the State demonstrates to the satisfaction of the Secretary that it has made a good faith effort to meet such requirements before such effective date.”
+> “The Secretary of Health and Human Services shall not take (and shall not continue) any action against a State under section 1904 of the Social Security Act \[[42 U.S.C. 1396c][/us/usc/t42/s1396c]\] on the basis of the State’s failure to meet the requirements of section 1919(h)(2) of such Act \[[42 U.S.C. 1396r(h)(2)][/us/usc/t42/s1396r/h/2]\] before the effective date of guidelines, issued by the Secretary, regarding the establishment of remedies by the State under such section, if the State demonstrates to the satisfaction of the Secretary that it has made a good faith effort to meet such requirements before such effective date.”
 
  __Staffing Requirements__ 
 
@@ -1831,11 +1831,11 @@
 
 >     “(A) __Maintaining regulatory standards for certain services.—__ 
 
->     Any regulations promulgated and applied by the Secretary of Health and Human Services after the date of the enactment of the Omnibus Budget Reconciliation Act of 1987 \[Dec. 22, 1987\] with respect to services described in clauses (ii), (iv), and (v) of section 1919(b)(4)(A) of the Social Security Act \[subsec. (b)(4)(A)(ii), (iv), (v) of this section\] shall include requirements for providers of such services that are at least as strict as the requirements applicable to providers of such services prior to the enactment of the Omnibus Budget Reconciliation Act of 1987.
+>     Any regulations promulgated and applied by the Secretary of Health and Human Services after the date of the enactment of the Omnibus Budget Reconciliation Act of 1987 \[Dec. 22, 1987\] with respect to services described in clauses (ii), (iv), and (v) of section 1919(b)(4)(A) of the Social Security Act \[[42 U.S.C. 1396r(b)(4)(A)(ii)][/us/usc/t42/s1396r/b/4/A/ii], (iv), (v)\] shall include requirements for providers of such services that are at least as strict as the requirements applicable to providers of such services prior to the enactment of the Omnibus Budget Reconciliation Act of 1987.
 
 >     “(B) __Study on staffing requirements in nursing facilities.—__ 
 
->     The Secretary shall conduct a study and report to Congress no later than January 1, 1999, on the appropriateness of establishing minimum caregiver to resident ratios and minimum supervisor to caregiver ratios for skilled nursing facilities serving as providers of services under title XVIII of the Social Security Act \[subchapter XVIII of this chapter\] and nursing facilities receiving payments under a State plan under title XIX of the Social Security Act \[this subchapter\], and shall include in such study recommendations regarding appropriate minimum ratios.”
+>     The Secretary shall conduct a study and report to Congress no later than January 1, 1999, on the appropriateness of establishing minimum caregiver to resident ratios and minimum supervisor to caregiver ratios for skilled nursing facilities serving as providers of services under title XVIII of the Social Security Act \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\] and nursing facilities receiving payments under a State plan under title XIX of the Social Security Act \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\], and shall include in such study recommendations regarding appropriate minimum ratios.”
 
  __Nurse Aide Training and Competency Evaluation; Satisfaction of Requirements; Waiver__ 
 
@@ -1845,7 +1845,7 @@
 
 [Pub. L. 101–239, title VI, § 6901(c)][/us/pl/101/239/s6901/c], Dec. 19, 1989, [103 Stat. 2300][/us/stat/103/2300], provided that: 
 
-> “The Secretary of Health and Human Services shall issue proposed regulations to establish the criteria described in section 1919(f)(8)(A) of the Social Security Act \[subsec. (f)(8)(A) of this section\] by not later than 90 days after the date of the enactment of this Act \[Dec. 19, 1989\].”
+> “The Secretary of Health and Human Services shall issue proposed regulations to establish the criteria described in section 1919(f)(8)(A) of the Social Security Act \[[42 U.S.C. 1396r(f)(8)(A)][/us/usc/t42/s1396r/f/8/A]\] by not later than 90 days after the date of the enactment of this Act \[Dec. 19, 1989\].”
 
  __Evaluation and Report on Implementation of Resident Assessment Process__ 
 
@@ -1859,7 +1859,7 @@
 
 [Pub. L. 100–203, title IV, § 4215][/us/pl/100/203/s4215], Dec. 22, 1987, [101 Stat. 1330–220][/us/stat/101/1330-220], as amended by [Pub. L. 101–508, title IV, § 4801(b)(5)(B)][/us/pl/101/508/s4801/b/5/B], Nov. 5, 1990, [104 Stat. 1388–214][/us/stat/104/1388-214], provided that: 
 
-> “The Secretary of Health and Human Services shall report to the Congress annually on the extent to which nursing facilities are complying with the requirements of subsections (b), (c), and (d) of section 1919 of the Social Security Act \[subsecs. (b), (c), and (d) of this section\] (as added by the amendments made by this part) and the number and type of enforcement actions taken by States and the Secretary under section 1919(h) of such Act (as added by section 4213 of this Act). Each such report shall also include a summary of the information reported by States under section 1919(e)(7)(C)(iv) of such Act.”
+> “The Secretary of Health and Human Services shall report to the Congress annually on the extent to which nursing facilities are complying with the requirements of subsections (b), (c), and (d) of section 1919 of the Social Security Act \[[42 U.S.C. 1396r(b)][/us/usc/t42/s1396r/b], (c), (d)\] (as added by the amendments made by this part) and the number and type of enforcement actions taken by States and the Secretary under section 1919(h) of such Act (as added by section 4213 of this Act). Each such report shall also include a summary of the information reported by States under section 1919(e)(7)(C)(iv) of such Act.”
 
 ----------
 
@@ -2165,6 +2165,8 @@
 [/us/pl/101/508/s4801/a/6/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs4801%2Fa%2F6%2FB
 [/us/stat/104/1388-212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-212
 [/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
+[/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
+[/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
 [/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
 [/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
 [/us/pl/101/508/s4801/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs4801%2Fa%2F9
@@ -2208,31 +2210,42 @@
 [/us/pl/100/360/s411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360%2Fs411
 [/us/stat/102/806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F806
 [/us/usc/t42/s1396r]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396r
+[/us/usc/t42/s1396r]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396r
 [/us/usc/t42/s1396r–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396r%E2%80%933
 [/us/usc/t42/s1396r–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396r%E2%80%933
 [/us/usc/t42/s1396a/a/28/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396a%2Fa%2F28%2FB
+[/us/usc/t42/s1396r]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396r
+[/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
 [/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
+[/us/usc/t42/s1396r/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396r%2Fb
+[/us/usc/t42/s1395x/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395x%2Fj
 [/us/usc/t42/s1395i–3/g/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395i%E2%80%933%2Fg%2F1%2FC
 [/us/pl/105/33/s4755/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs4755%2Fc
 [/us/usc/t42/s1395i–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395i%E2%80%933
 [/us/pl/101/508/s4801/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs4801%2Fa%2F1
 [/us/stat/104/1388-211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-211
 [/us/usc/t42/s1396c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396c
+[/us/usc/t42/s1396r/e/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396r%2Fe%2F1%2FA
 [/us/pl/101/508/s4801/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs4801%2Fb%2F1
 [/us/stat/104/1388-213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-213
 [/us/usc/t42/s1396c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396c
 [/us/pl/101/508/s4801/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs4801%2Fc
 [/us/stat/104/1388-215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-215
 [/us/usc/t42/s1396c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396c
+[/us/usc/t42/s1396r/h/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396r%2Fh%2F2
 [/us/pl/101/508/s4801/e/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs4801%2Fe%2F17
 [/us/stat/104/1388-218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-218
 [/us/pl/105/362/s602/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362%2Fs602%2Fb%2F1
 [/us/stat/112/3286]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3286
+[/us/usc/t42/s1396r/b/4/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396r%2Fb%2F4%2FA%2Fii
+[/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
+[/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
 [/us/usc/t42/s1395i–3/b/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395i%E2%80%933%2Fb%2F5%2FA
 [/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
 [/us/usc/t42/s1395i–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395i%E2%80%933
 [/us/pl/101/239/s6901/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs6901%2Fc
 [/us/stat/103/2300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2300
+[/us/usc/t42/s1396r/f/8/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396r%2Ff%2F8%2FA
 [/us/pl/100/203/s4211/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs4211%2Fc
 [/us/stat/101/1330-196]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-196
 [/us/pl/100/203/s4211/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs4211%2Fk
@@ -2242,5 +2255,6 @@
 [/us/stat/101/1330-220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-220
 [/us/pl/101/508/s4801/b/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs4801%2Fb%2F5%2FB
 [/us/stat/104/1388-214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-214
+[/us/usc/t42/s1396r/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396r%2Fb
 
 

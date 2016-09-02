@@ -33,7 +33,7 @@ SUBCHAPTER I—GENERALLY  </td>
 
   <tr>
 
-    <td> 14301.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs14301" data-uslm-ref="/us/usc/t42/s14301">14301.</a>  </td>
 
     <td> Findings.  </td>
 
@@ -41,7 +41,7 @@ SUBCHAPTER I—GENERALLY  </td>
 
   <tr>
 
-    <td> 14302.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs14302" data-uslm-ref="/us/usc/t42/s14302">14302.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -49,7 +49,7 @@ SUBCHAPTER I—GENERALLY  </td>
 
   <tr>
 
-    <td> 14303.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs14303" data-uslm-ref="/us/usc/t42/s14303">14303.</a>  </td>
 
     <td> Information dissemination.  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER I—GENERALLY  </td>
 
   <tr>
 
-    <td> 14304.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs14304" data-uslm-ref="/us/usc/t42/s14304">14304.</a>  </td>
 
     <td> Enforcement.  </td>
 
@@ -65,7 +65,7 @@ SUBCHAPTER I—GENERALLY  </td>
 
   <tr>
 
-    <td> 14305.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs14305" data-uslm-ref="/us/usc/t42/s14305">14305.</a>  </td>
 
     <td> Information gathering and access.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER I—GENERALLY  </td>
 
   <tr>
 
-    <td> 14306.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs14306" data-uslm-ref="/us/usc/t42/s14306">14306.</a>  </td>
 
     <td> State authority.  </td>
 
@@ -81,7 +81,7 @@ SUBCHAPTER I—GENERALLY  </td>
 
   <tr>
 
-    <td> 14307.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs14307" data-uslm-ref="/us/usc/t42/s14307">14307.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 
@@ -97,7 +97,7 @@ SUBCHAPTER II—RECYCLING OF RECHARGEABLE BATTERIES  </td>
 
   <tr>
 
-    <td> 14321.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs14321" data-uslm-ref="/us/usc/t42/s14321">14321.</a>  </td>
 
     <td> Purpose.  </td>
 
@@ -105,7 +105,7 @@ SUBCHAPTER II—RECYCLING OF RECHARGEABLE BATTERIES  </td>
 
   <tr>
 
-    <td> 14322.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs14322" data-uslm-ref="/us/usc/t42/s14322">14322.</a>  </td>
 
     <td> Rechargeable consumer products and labeling.  </td>
 
@@ -113,7 +113,7 @@ SUBCHAPTER II—RECYCLING OF RECHARGEABLE BATTERIES  </td>
 
   <tr>
 
-    <td> 14323.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs14323" data-uslm-ref="/us/usc/t42/s14323">14323.</a>  </td>
 
     <td> Requirements.  </td>
 
@@ -129,7 +129,7 @@ SUBCHAPTER III—MANAGEMENT OF BATTERIES CONTAINING MERCURY  </td>
 
   <tr>
 
-    <td> 14331.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs14331" data-uslm-ref="/us/usc/t42/s14331">14331.</a>  </td>
 
     <td> Purpose.  </td>
 
@@ -137,7 +137,7 @@ SUBCHAPTER III—MANAGEMENT OF BATTERIES CONTAINING MERCURY  </td>
 
   <tr>
 
-    <td> 14332.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs14332" data-uslm-ref="/us/usc/t42/s14332">14332.</a>  </td>
 
     <td> Limitations on sale of alkaline-manganese batteries containing mercury.  </td>
 
@@ -145,7 +145,7 @@ SUBCHAPTER III—MANAGEMENT OF BATTERIES CONTAINING MERCURY  </td>
 
   <tr>
 
-    <td> 14333.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs14333" data-uslm-ref="/us/usc/t42/s14333">14333.</a>  </td>
 
     <td> Limitations on sale of zinc-carbon batteries containing mercury.  </td>
 
@@ -153,7 +153,7 @@ SUBCHAPTER III—MANAGEMENT OF BATTERIES CONTAINING MERCURY  </td>
 
   <tr>
 
-    <td> 14334.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs14334" data-uslm-ref="/us/usc/t42/s14334">14334.</a>  </td>
 
     <td> Limitations on sale of button cell mercuric-oxide batteries.  </td>
 
@@ -161,7 +161,7 @@ SUBCHAPTER III—MANAGEMENT OF BATTERIES CONTAINING MERCURY  </td>
 
   <tr>
 
-    <td> 14335.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs14335" data-uslm-ref="/us/usc/t42/s14335">14335.</a>  </td>
 
     <td> Limitations on sale of other mercuric-oxide batteries.  </td>
 
@@ -169,7 +169,7 @@ SUBCHAPTER III—MANAGEMENT OF BATTERIES CONTAINING MERCURY  </td>
 
   <tr>
 
-    <td> 14336.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs14336" data-uslm-ref="/us/usc/t42/s14336">14336.</a>  </td>
 
     <td> New product or use.  </td>
 

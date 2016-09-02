@@ -33,7 +33,7 @@ SUBCHAPTER I—GENERALLY  </td>
 
   <tr>
 
-    <td> 3601.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs3601" data-uslm-ref="/us/usc/t42/s3601">3601.</a>  </td>
 
     <td> Declaration of policy.  </td>
 
@@ -41,7 +41,7 @@ SUBCHAPTER I—GENERALLY  </td>
 
   <tr>
 
-    <td> 3602.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs3602" data-uslm-ref="/us/usc/t42/s3602">3602.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -49,7 +49,7 @@ SUBCHAPTER I—GENERALLY  </td>
 
   <tr>
 
-    <td> 3603.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs3603" data-uslm-ref="/us/usc/t42/s3603">3603.</a>  </td>
 
     <td> Effective dates of certain prohibitions.  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER I—GENERALLY  </td>
 
   <tr>
 
-    <td> 3604.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs3604" data-uslm-ref="/us/usc/t42/s3604">3604.</a>  </td>
 
     <td> Discrimination in the sale or rental of housing and other prohibited practices.  </td>
 
@@ -65,7 +65,7 @@ SUBCHAPTER I—GENERALLY  </td>
 
   <tr>
 
-    <td> 3605.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs3605" data-uslm-ref="/us/usc/t42/s3605">3605.</a>  </td>
 
     <td> Discrimination in residential real estate-related transactions.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER I—GENERALLY  </td>
 
   <tr>
 
-    <td> 3606.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs3606" data-uslm-ref="/us/usc/t42/s3606">3606.</a>  </td>
 
     <td> Discrimination in the provision of brokerage services.  </td>
 
@@ -81,7 +81,7 @@ SUBCHAPTER I—GENERALLY  </td>
 
   <tr>
 
-    <td> 3607.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs3607" data-uslm-ref="/us/usc/t42/s3607">3607.</a>  </td>
 
     <td> Religious organization or private club exemption.  </td>
 
@@ -89,7 +89,7 @@ SUBCHAPTER I—GENERALLY  </td>
 
   <tr>
 
-    <td> 3608.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs3608" data-uslm-ref="/us/usc/t42/s3608">3608.</a>  </td>
 
     <td> Administration.  </td>
 
@@ -97,7 +97,7 @@ SUBCHAPTER I—GENERALLY  </td>
 
   <tr>
 
-    <td> 3608a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs3608a" data-uslm-ref="/us/usc/t42/s3608a">3608a.</a>  </td>
 
     <td> Collection of certain data.  </td>
 
@@ -105,7 +105,7 @@ SUBCHAPTER I—GENERALLY  </td>
 
   <tr>
 
-    <td> 3609.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs3609" data-uslm-ref="/us/usc/t42/s3609">3609.</a>  </td>
 
     <td> Education and conciliation; conferences and consultations; reports.  </td>
 
@@ -113,7 +113,7 @@ SUBCHAPTER I—GENERALLY  </td>
 
   <tr>
 
-    <td> 3610.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs3610" data-uslm-ref="/us/usc/t42/s3610">3610.</a>  </td>
 
     <td> Administrative enforcement; preliminary matters.  </td>
 
@@ -121,7 +121,7 @@ SUBCHAPTER I—GENERALLY  </td>
 
   <tr>
 
-    <td> 3611.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs3611" data-uslm-ref="/us/usc/t42/s3611">3611.</a>  </td>
 
     <td> Subpoenas; giving of evidence.  </td>
 
@@ -129,7 +129,7 @@ SUBCHAPTER I—GENERALLY  </td>
 
   <tr>
 
-    <td> 3612.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs3612" data-uslm-ref="/us/usc/t42/s3612">3612.</a>  </td>
 
     <td> Enforcement by Secretary.  </td>
 
@@ -137,7 +137,7 @@ SUBCHAPTER I—GENERALLY  </td>
 
   <tr>
 
-    <td> 3613.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs3613" data-uslm-ref="/us/usc/t42/s3613">3613.</a>  </td>
 
     <td> Enforcement by private persons.  </td>
 
@@ -145,7 +145,7 @@ SUBCHAPTER I—GENERALLY  </td>
 
   <tr>
 
-    <td> 3614.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs3614" data-uslm-ref="/us/usc/t42/s3614">3614.</a>  </td>
 
     <td> Enforcement by Attorney General.  </td>
 
@@ -153,7 +153,7 @@ SUBCHAPTER I—GENERALLY  </td>
 
   <tr>
 
-    <td> 3614–1.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs3614%E2%80%931" data-uslm-ref="/us/usc/t42/s3614–1">3614–1.</a>  </td>
 
     <td> Incentives for self-testing and self-correction.  </td>
 
@@ -161,7 +161,7 @@ SUBCHAPTER I—GENERALLY  </td>
 
   <tr>
 
-    <td> 3614a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs3614a" data-uslm-ref="/us/usc/t42/s3614a">3614a.</a>  </td>
 
     <td> Rules to implement subchapter.  </td>
 
@@ -169,7 +169,7 @@ SUBCHAPTER I—GENERALLY  </td>
 
   <tr>
 
-    <td> 3615.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs3615" data-uslm-ref="/us/usc/t42/s3615">3615.</a>  </td>
 
     <td> Effect on State laws.  </td>
 
@@ -177,7 +177,7 @@ SUBCHAPTER I—GENERALLY  </td>
 
   <tr>
 
-    <td> 3616.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs3616" data-uslm-ref="/us/usc/t42/s3616">3616.</a>  </td>
 
     <td> Cooperation with State and local agencies administering fair housing laws; utilization of services and personnel; reimbursement; written agreements; publication in Federal Register.  </td>
 
@@ -185,7 +185,7 @@ SUBCHAPTER I—GENERALLY  </td>
 
   <tr>
 
-    <td> 3616a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs3616a" data-uslm-ref="/us/usc/t42/s3616a">3616a.</a>  </td>
 
     <td> Fair housing initiatives program.  </td>
 
@@ -193,7 +193,7 @@ SUBCHAPTER I—GENERALLY  </td>
 
   <tr>
 
-    <td> 3617.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs3617" data-uslm-ref="/us/usc/t42/s3617">3617.</a>  </td>
 
     <td> Interference, coercion, or intimidation.  </td>
 
@@ -201,7 +201,7 @@ SUBCHAPTER I—GENERALLY  </td>
 
   <tr>
 
-    <td> 3618.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs3618" data-uslm-ref="/us/usc/t42/s3618">3618.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 
@@ -209,7 +209,7 @@ SUBCHAPTER I—GENERALLY  </td>
 
   <tr>
 
-    <td> 3619.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs3619" data-uslm-ref="/us/usc/t42/s3619">3619.</a>  </td>
 
     <td> Separability.  </td>
 
@@ -225,7 +225,7 @@ SUBCHAPTER II—PREVENTION OF INTIMIDATION  </td>
 
   <tr>
 
-    <td> 3631.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs3631" data-uslm-ref="/us/usc/t42/s3631">3631.</a>  </td>
 
     <td> Violations; penalties.  </td>
 

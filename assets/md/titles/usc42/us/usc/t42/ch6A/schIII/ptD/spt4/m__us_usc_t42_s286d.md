@@ -41,7 +41,7 @@
 
 [Pub. L. 103–43, § 1422(b)][/us/pl/103/43/s1422/b], June 10, 1993, [107 Stat. 172][/us/stat/107/172], provided that: 
 
-> “The amendments made by [section 3 of Public Law 102–410][/us/pl/102/410/s3] ([106 Stat. 2094][/us/stat/106/2094]) \[amending [section 299a–1 of this title][/us/usc/t42/s299a–1]\], by section 1421 of this Act \[enacting this section\], and by subsection (a) of this section \[amending [section 299a–1 of this title][/us/usc/t42/s299a–1]\] may not be construed as terminating the information center on health care technologies and health care technology assessment established under section 904 of the Public Health Service Act \[[section 299a–2 of this title][/us/usc/t42/s299a–2]\], as in effect on the day before the date of the enactment of [Public Law 102–410][/us/pl/102/410] \[Oct. 13, 1992\]. Such center shall be considered to be the center established in section 478A of the Public Health Service Act, as added by section 1421 of this Act \[this section\], and shall be subject to the provisions of such section 478A.”
+> “The amendments made by [section 3 of Public Law 102–410][/us/pl/102/410/s3] ([106 Stat. 2094][/us/stat/106/2094]) \[amending [section 299a–1 of this title][/us/usc/t42/s299a–1]\], by section 1421 of this Act \[enacting this section\], and by subsection (a) of this section \[amending [section 299a–1 of this title][/us/usc/t42/s299a–1]\] may not be construed as terminating the information center on health care technologies and health care technology assessment established under section 904 of the Public Health Service Act \[[42 U.S.C. 299a–2][/us/usc/t42/s299a–2]\], as in effect on the day before the date of the enactment of [Public Law 102–410][/us/pl/102/410] \[Oct. 13, 1992\]. Such center shall be considered to be the center established in section 478A of the Public Health Service Act \[[42 U.S.C. 286d][/us/usc/t42/s286d]\], as added by section 1421 of this Act, and shall be subject to the provisions of such section 478A.”
 
 ----------
 
@@ -64,5 +64,6 @@
 [/us/usc/t42/s299a–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs299a%E2%80%931
 [/us/usc/t42/s299a–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs299a%E2%80%932
 [/us/pl/102/410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F410
+[/us/usc/t42/s286d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs286d
 
 

@@ -423,7 +423,7 @@
 
 [Pub. L. 102–321, title IV, § 401(b)][/us/pl/102/321/s401/b], July 10, 1992, [106 Stat. 426][/us/stat/106/426], provided that: 
 
-> “With respect to the program established in section 399D \[now 519\] of the Public Health Service Act \[this section\] (as added by subsection (a) of this section), nothing in such section 399D may be construed as establishing for any other Federal program any requirement, authority, or prohibition, including with respect to recipients of funds under such other Federal programs.”
+> “With respect to the program established in section 399D \[now 519\] of the Public Health Service Act \[[42 U.S.C. 290bb–25][/us/usc/t42/s290bb–25]\] (as added by subsection (a) of this section), nothing in such section 399D may be construed as establishing for any other Federal program any requirement, authority, or prohibition, including with respect to recipients of funds under such other Federal programs.”
 
  __Reference to Community, Migrant, Public Housing, or Homeless Health Center Considered Reference to Health Center__ 
 
@@ -525,6 +525,7 @@
 [/us/usc/t42/s236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs236
 [/us/pl/102/321/s401/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321%2Fs401%2Fb
 [/us/stat/106/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F426
+[/us/usc/t42/s290bb–25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs290bb%E2%80%9325
 [/us/pl/104/299/s4/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F299%2Fs4%2Fc
 [/us/usc/t42/s254b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs254b
 
