@@ -129,7 +129,7 @@ Source section (U.S. Code)  </td>
 
 >         “(A) using amounts available to the Secretary of the Interior for administrative expenses under the Act entitled ‘An Act to provide that the United States shall aid the States in fish restoration and management projects, and for other purposes’ ([64 Stat. 430][/us/stat/64/430]; [16 U.S.C. 777][/us/usc/t16/s777] et seq.); and
 
->         “(B) subject to appropriations, using amounts available to the Secretary of Transportation under section 13106(a)(1) \[now section 13107(a)(1)\] of title 46, United States Code (as amended by this Act).”
+>         “(B) subject to appropriations, using amounts available to the Secretary of Transportation under section 13106(a)(1) \[now section 13107(a)\] of title 46, United States Code (as amended by this Act).”
 
  __Congressional Declaration of Policy for 1984 Amendment__ 
 

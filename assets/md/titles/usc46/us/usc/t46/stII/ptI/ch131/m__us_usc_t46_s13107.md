@@ -15,11 +15,7 @@
 
 ## § 13107. Authorization of appropriations
 
-    (a)
-
-        (1) Subject to paragraph (2) and subsection (c), the Secretary shall expend in each fiscal year for State recreational boating safety programs, under contracts with States under this chapter, an amount equal to the sum of (A) the amount made available from the Boat Safety Account for that fiscal year under section 15 of the Dingell-Johnson Sport Fish Restoration Act and (B) the amount transferred to the Secretary under subsections (a)(2) and (f) of section 4 of the Dingell-Johnson Sport Fish Restoration Act ([16 U.S.C. 777c(a)(2)][/us/usc/t16/s777c/a/2] and (f)). The amount shall be allocated as provided under [section 13104 of this title][/us/usc/t46/s13104] and shall be available for State recreational boating safety programs as provided under the guidelines established under subsection (b) of this section. Amounts authorized to be expended for State recreational boating safety programs shall remain available until expended and are deemed to have been expended only if an amount equal to the total amounts authorized to be expended under this section for the fiscal year in question and all prior fiscal years have been obligated. Amounts previously obligated but released by payment of a final voucher or modification of a program acceptance shall be credited to the balance of unobligated amounts and are immediately available for expenditure.
-
-        (2) The Secretary shall use not more than two percent of the amount available each fiscal year for State recreational boating safety programs under this chapter to pay the costs of investigations, personnel, and activities related to administering those programs.
+    (a) Subject to subsection (c), the Secretary shall expend in each fiscal year for State recreational boating safety programs, under contracts with States under this chapter, an amount equal to the amount transferred to the Secretary under subsections (a)(2) and (f) of section 4 of the Dingell-Johnson Sport Fish Restoration Act ([16 U.S.C. 777c(a)(2)][/us/usc/t16/s777c/a/2] and (f)). The amount shall be allocated as provided under [section 13104 of this title][/us/usc/t46/s13104] and shall be available for State recreational boating safety programs as provided under the guidelines established under subsection (b) of this section. Amounts authorized to be expended for State recreational boating safety programs shall remain available until expended and are deemed to have been expended only if an amount equal to the total amounts authorized to be expended under this section for the fiscal year in question and all prior fiscal years have been obligated. Amounts previously obligated but released by payment of a final voucher or modification of a program acceptance shall be credited to the balance of unobligated amounts and are immediately available for expenditure.
 
     (b)
 
@@ -43,15 +39,31 @@
 
     (c)
 
-        (1) Of the amount transferred to the Secretary under subsection (a)(2) of section 4 of the Dingell-Johnson Sport Fish Restoration Act ([16 U.S.C. 777c(a)(2)][/us/usc/t16/s777c/a/2]), $5,500,000 is available to the Secretary for payment of expenses of the Coast Guard for personnel and activities directly related to coordinating and carrying out the national recreational boating safety program under this title, of which not less than $2,000,000 shall be available to the Secretary only to ensure compliance with chapter 43 of this title.
+        (1)
 
-        (2) No funds available to the Secretary under this subsection may be used to replace funding traditionally provided through general appropriations, nor for any purposes except those purposes authorized by this section.
+            (A)
+
+             The Secretary may use amounts made available each fiscal year under section 4(b)(2) of the Dingell-Johnson Sport Fish Restoration Act ([16 U.S.C. 777c(b)(2)][/us/usc/t16/s777c/b/2]) for payment of expenses of the Coast Guard for investigations, personnel, and activities directly related to—
+
+                (i) administering State recreational boating safety programs under this chapter; or
+
+                (ii) coordinating or carrying out the national recreational boating safety program under this title.
+
+            (B)
+
+             Of the amounts used by the Secretary each fiscal year under subparagraph (A)—
+
+                (i) not less than $2,100,000 is available to ensure compliance with chapter 43 of this title; and
+
+                (ii) not more than $1,500,000 is available to conduct by grant or contract a survey of levels of recreational boating participation and related matters in the United States.
+
+        (2) On and after October 1, 2016, no funds available to the Secretary under this subsection may be used to replace funding provided through general appropriations, nor for any purposes except those purposes authorized by this section.
 
         (3) Amounts made available by this subsection shall remain available during the 2 succeeding fiscal years. Any amount that is unexpended or unobligated at the end of the 3-year period during which it is available shall be withdrawn by the Secretary and allocated to the States in addition to any other amounts available for allocation in the fiscal year in which they are withdrawn or the following fiscal year.
 
         (4) The Secretary shall publish annually in the Federal Register a detailed accounting of the projects, programs, and activities funded under this subsection.
 
-([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 596][/us/stat/97/596], § 13106; [Pub. L. 98–369, div. A, title X, § 1012][/us/pl/98/369/s1012], July 18, 1984, [98 Stat. 1013][/us/stat/98/1013]; [Pub. L. 99–626, § 4(c)][/us/pl/99/626/s4/c], Nov. 7, 1986, [100 Stat. 3505][/us/stat/100/3505]; [Pub. L. 99–640, § 7(b)][/us/pl/99/640/s7/b], (c), Nov. 10, 1986, [100 Stat. 3548][/us/stat/100/3548]; [Pub. L. 100–448, § 6(b)(1)(A)][/us/pl/100/448/s6/b/1/A], (2), (6), Sept. 28, 1988, [102 Stat. 1839][/us/stat/102/1839], 1840; [Pub. L. 105–178, title VII, § 7405(b)][/us/pl/105/178/s7405/b], (c)(1), June 9, 1998, [112 Stat. 487][/us/stat/112/487], 488; [Pub. L. 108–88, § 9(c)][/us/pl/108/88/s9/c], Sept. 30, 2003, [117 Stat. 1126][/us/stat/117/1126]; [Pub. L. 108–202, § 7(c)][/us/pl/108/202/s7/c], Feb. 29, 2004, [118 Stat. 484][/us/stat/118/484]; [Pub. L. 108–224, § 6(c)][/us/pl/108/224/s6/c], Apr. 30, 2004, [118 Stat. 632][/us/stat/118/632]; [Pub. L. 108–263, § 6(c)][/us/pl/108/263/s6/c], June 30, 2004, [118 Stat. 704][/us/stat/118/704]; [Pub. L. 108–280, § 6(c)][/us/pl/108/280/s6/c], July 30, 2004, [118 Stat. 882][/us/stat/118/882]; [Pub. L. 108–310, § 9(c)][/us/pl/108/310/s9/c], Sept. 30, 2004, [118 Stat. 1159][/us/stat/118/1159]; [Pub. L. 109–14, § 8(c)][/us/pl/109/14/s8/c], May 31, 2005, [119 Stat. 335][/us/stat/119/335]; [Pub. L. 109–20, § 8(c)][/us/pl/109/20/s8/c], July 1, 2005, [119 Stat. 357][/us/stat/119/357]; [Pub. L. 109–35, § 8(c)][/us/pl/109/35/s8/c], July 20, 2005, [119 Stat. 390][/us/stat/119/390]; [Pub. L. 109–37, § 8(c)][/us/pl/109/37/s8/c], July 22, 2005, [119 Stat. 405][/us/stat/119/405]; [Pub. L. 109–40, § 8(c)][/us/pl/109/40/s8/c], July 28, 2005, [119 Stat. 421][/us/stat/119/421]; [Pub. L. 109–59, title X, § 10143][/us/pl/109/59/s10143], Aug. 10, 2005, [119 Stat. 1931][/us/stat/119/1931]; [Pub. L. 109–74, title I, § 102][/us/pl/109/74/s102], title II, § 203, Sept. 29, 2005, [119 Stat. 2030][/us/stat/119/2030], 2032; renumbered § 13107 and amended [Pub. L. 109–304, § 16(b)(1)][/us/pl/109/304/s16/b/1], (c)(5), Oct. 6, 2006, [120 Stat. 1705][/us/stat/120/1705], 1706.)
+([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 596][/us/stat/97/596], § 13106; [Pub. L. 98–369, div. A, title X, § 1012][/us/pl/98/369/s1012], July 18, 1984, [98 Stat. 1013][/us/stat/98/1013]; [Pub. L. 99–626, § 4(c)][/us/pl/99/626/s4/c], Nov. 7, 1986, [100 Stat. 3505][/us/stat/100/3505]; [Pub. L. 99–640, § 7(b)][/us/pl/99/640/s7/b], (c), Nov. 10, 1986, [100 Stat. 3548][/us/stat/100/3548]; [Pub. L. 100–448, § 6(b)(1)(A)][/us/pl/100/448/s6/b/1/A], (2), (6), Sept. 28, 1988, [102 Stat. 1839][/us/stat/102/1839], 1840; [Pub. L. 105–178, title VII, § 7405(b)][/us/pl/105/178/s7405/b], (c)(1), June 9, 1998, [112 Stat. 487][/us/stat/112/487], 488; [Pub. L. 108–88, § 9(c)][/us/pl/108/88/s9/c], Sept. 30, 2003, [117 Stat. 1126][/us/stat/117/1126]; [Pub. L. 108–202, § 7(c)][/us/pl/108/202/s7/c], Feb. 29, 2004, [118 Stat. 484][/us/stat/118/484]; [Pub. L. 108–224, § 6(c)][/us/pl/108/224/s6/c], Apr. 30, 2004, [118 Stat. 632][/us/stat/118/632]; [Pub. L. 108–263, § 6(c)][/us/pl/108/263/s6/c], June 30, 2004, [118 Stat. 704][/us/stat/118/704]; [Pub. L. 108–280, § 6(c)][/us/pl/108/280/s6/c], July 30, 2004, [118 Stat. 882][/us/stat/118/882]; [Pub. L. 108–310, § 9(c)][/us/pl/108/310/s9/c], Sept. 30, 2004, [118 Stat. 1159][/us/stat/118/1159]; [Pub. L. 109–14, § 8(c)][/us/pl/109/14/s8/c], May 31, 2005, [119 Stat. 335][/us/stat/119/335]; [Pub. L. 109–20, § 8(c)][/us/pl/109/20/s8/c], July 1, 2005, [119 Stat. 357][/us/stat/119/357]; [Pub. L. 109–35, § 8(c)][/us/pl/109/35/s8/c], July 20, 2005, [119 Stat. 390][/us/stat/119/390]; [Pub. L. 109–37, § 8(c)][/us/pl/109/37/s8/c], July 22, 2005, [119 Stat. 405][/us/stat/119/405]; [Pub. L. 109–40, § 8(c)][/us/pl/109/40/s8/c], July 28, 2005, [119 Stat. 421][/us/stat/119/421]; [Pub. L. 109–59, title X, § 10143][/us/pl/109/59/s10143], Aug. 10, 2005, [119 Stat. 1931][/us/stat/119/1931]; [Pub. L. 109–74, title I, § 102][/us/pl/109/74/s102], title II, § 203, Sept. 29, 2005, [119 Stat. 2030][/us/stat/119/2030], 2032; renumbered § 13107 and amended [Pub. L. 109–304, § 16(b)(1)][/us/pl/109/304/s16/b/1], (c)(5), Oct. 6, 2006, [120 Stat. 1705][/us/stat/120/1705], 1706; [Pub. L. 114–94, div. A, title X, § 10002][/us/pl/114/94/s10002], Dec. 4, 2015, [129 Stat. 1621][/us/stat/129/1621].)
 
 <table>
 
@@ -91,15 +103,17 @@ Source section (U.S. Code)  </td>
 
     Section 13106 provides the Secretary with liquidating contract authority in an amount equal to the revenues received from the motor boat fuel tax. One third shall be used for State boating safety programs, and ⅔ shall be used for State facilities improvement programs. And as provided in Section 13102(f), the approval of a State’s program makes it a contractual obligation of the United States Government to provide the amounts available.
 
- __References in Text__ 
-
-    Section 15 of the Dingell-Johnson Sport Fish Restoration Act, referred to in subsec. (a)(1), is classified to [section 777n of Title 16][/us/usc/t16/s777n], Conservation.
-
  __Prior Provisions__ 
 
     A prior section 13107, [Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 596][/us/stat/97/596], established the National Recreational Boating Safety and Facilities Improvement Fund, prior to repeal by [Pub. L. 98–369, div. A, title X, § 1016(c)(1)][/us/pl/98/369/s1016/c/1], July 18, 1984, [98 Stat. 1020][/us/stat/98/1020]. See [section 9504 of Title 26][/us/usc/t26/s9504], Internal Revenue Code.
 
  __Amendments__ 
+
+    2015—Subsec. (a). [Pub. L. 114–94, § 10002(1)][/us/pl/114/94/s10002/1], substituted “Subject to subsection (c),” for “(1) Subject to paragraph (2) and subsection (c),” and struck out “the sum of (A) the amount made available from the Boat Safety Account for that fiscal year under section 15 of the Dingell-Johnson Sport Fish Restoration Act and (B)” after “an amount equal to” and par. (2) which read as follows: “The Secretary shall use not more than two percent of the amount available each fiscal year for State recreational boating safety programs under this chapter to pay the costs of investigations, personnel, and activities related to administering those programs.”
+
+    Subsec. (c)(1). [Pub. L. 114–94, § 10002(2)(A)][/us/pl/114/94/s10002/2/A], added par. (1) and struck out former par. (1) which read as follows: “Of the amount transferred to the Secretary under subsection (a)(2) of section 4 of the Dingell-Johnson Sport Fish Restoration Act ([16 U.S.C. 777c(a)(2)][/us/usc/t16/s777c/a/2]), $5,500,000 is available to the Secretary for payment of expenses of the Coast Guard for personnel and activities directly related to coordinating and carrying out the national recreational boating safety program under this title, of which not less than $2,000,000 shall be available to the Secretary only to ensure compliance with chapter 43 of this title.”
+
+    Subsec. (c)(2). [Pub. L. 114–94, § 10002(2)(B)][/us/pl/114/94/s10002/2/B], substituted “On and after October 1, 2016, no funds” for “No funds” and struck out “traditionally” before “provided”.
 
     2006—[Pub. L. 109–304, § 16(b)(1)][/us/pl/109/304/s16/b/1], renumbered [section 13106 of this title][/us/usc/t46/s13106] as this section.
 
@@ -169,6 +183,10 @@ Source section (U.S. Code)  </td>
 
     1984—[Pub. L. 98–369][/us/pl/98/369] amended section generally and, among other changes, struck out all references to a facilities improvement program, inserted provisions directing the Secretary to establish guidelines prescribing the purposes for which amounts available under this chapter for State recreational safety boating programs may be used, and made available to the Secretary an amount equal to one-third of the amount transferred for each fiscal year to the Boat Safety Account under [section 9503(c)(4) of title 26][/us/usc/t26/s9503/c/4] to be used for expenditures out of the operating expenses account of the Coast Guard for services provided by the Coast Guard for recreational boating safety, including services provided by the Coast Guard Auxiliary.
 
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–94][/us/pl/114/94] effective Oct. 1, 2015, see [section 1003 of Pub. L. 114–94][/us/pl/114/94/s1003], set out as a note under [section 5313 of Title 5][/us/usc/t5/s5313], Government Organization and Employees.
+
  __Effective Date of 2005 Amendments__ 
 
     From Aug. 10, 2005, to end of fiscal year 2005, subsecs. (a) and (c)(1), (3) of this section considered to read as immediately before enactment of [Pub. L. 109–59][/us/pl/109/59], except as provided by the amendments by [section 203 of Pub. L. 109–74][/us/pl/109/74/s203], see [section 101(b) of Pub. L. 109–74][/us/pl/109/74/s101/b], set out as a note under [section 777b of Title 16][/us/usc/t16/s777b], Conservation.
@@ -196,7 +214,7 @@ Source section (U.S. Code)  </td>
 
 [/us/usc/t16/s777c/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs777c%2Fa%2F2
 [/us/usc/t46/s13104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs13104
-[/us/usc/t16/s777c/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs777c%2Fa%2F2
+[/us/usc/t16/s777c/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs777c%2Fb%2F2
 [/us/pl/98/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F89
 [/us/stat/97/596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F596
 [/us/pl/98/369/s1012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs1012
@@ -237,12 +255,17 @@ Source section (U.S. Code)  </td>
 [/us/stat/119/2030]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2030
 [/us/pl/109/304/s16/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs16%2Fb%2F1
 [/us/stat/120/1705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1705
-[/us/usc/t16/s777n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs777n
+[/us/pl/114/94/s10002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs10002
+[/us/stat/129/1621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1621
 [/us/pl/98/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F89
 [/us/stat/97/596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F596
 [/us/pl/98/369/s1016/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs1016%2Fc%2F1
 [/us/stat/98/1020]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1020
 [/us/usc/t26/s9504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs9504
+[/us/pl/114/94/s10002/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs10002%2F1
+[/us/pl/114/94/s10002/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs10002%2F2%2FA
+[/us/usc/t16/s777c/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs777c%2Fa%2F2
+[/us/pl/114/94/s10002/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs10002%2F2%2FB
 [/us/pl/109/304/s16/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs16%2Fb%2F1
 [/us/usc/t46/s13106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs13106
 [/us/pl/109/304/s16/c/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs16%2Fc%2F5
@@ -300,6 +323,9 @@ Source section (U.S. Code)  </td>
 [/us/pl/99/640/s7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F640%2Fs7%2Fb
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
 [/us/usc/t26/s9503/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs9503%2Fc%2F4
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1003
+[/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313
 [/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
 [/us/pl/109/74/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F74%2Fs203
 [/us/pl/109/74/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F74%2Fs101%2Fb
