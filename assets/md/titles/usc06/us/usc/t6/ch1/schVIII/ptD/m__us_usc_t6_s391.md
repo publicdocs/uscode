@@ -25,7 +25,7 @@
 
         (2) __Prototype projects__ 
 
-            The Secretary may, under the authority of paragraph (1), carry out prototype projects in accordance with the requirements and conditions provided for carrying out prototype projects under section 845 of the National Defense Authorization Act for Fiscal Year 1994 ([Public Law 103–160][/us/pl/103/160]). In applying the authorities of that section 845, subsection (c) of that section shall apply with respect to prototype projects under this paragraph, and the Secretary shall perform the functions of the Secretary of Defense under subsection (d) thereof.
+            The Secretary may, under the authority of paragraph (1), carry out prototype projects in accordance with the requirements and conditions provided for carrying out prototype projects under section 845 1 of the National Defense Authorization Act for Fiscal Year 1994 ([Public Law 103–160][/us/pl/103/160]). In applying the authorities of that section 845, subsection (c) of that section shall apply with respect to prototype projects under this paragraph, and the Secretary shall perform the functions of the Secretary of Defense under subsection (d) thereof.
 
     (b) __Procurement of temporary and intermittent services__ 
 
@@ -61,7 +61,7 @@
 
     Subsection (b) of this section, referred to in subsec. (a)(1), probably means the former subsec. (b) of this section which related to annual reports by the Comptroller General and which was struck out by [Pub. L. 112–74, div. D, title V, § 527(2)][/us/pl/112/74/s527/2], Dec. 23, 2011, [125 Stat. 974][/us/stat/125/974]. See 2011 Amendment note for subsec. (b) below.
 
-    Section 845 of the National Defense Authorization Act for Fiscal Year 1994, referred to in subsecs. (a)(2) and (d), is [section 845 of Pub. L. 103–160][/us/pl/103/160/s845], which is set out as a note under [section 2371 of Title 10][/us/usc/t10/s2371], Armed Forces.
+    Section 845 of the National Defense Authorization Act for Fiscal Year 1994, referred to in subsecs. (a)(2) and (d), is [section 845 of Pub. L. 103–160][/us/pl/103/160/s845], which was formerly set out as a note under [section 2371 of Title 10][/us/usc/t10/s2371], Armed Forces, prior to repeal by [Pub. L. 114–92, div. A, title VIII, § 815(c)][/us/pl/114/92/s815/c], Nov. 25, 2015, [129 Stat. 896][/us/stat/129/896]. See [section 2371b of Title 10][/us/usc/t10/s2371b].
 
  __Amendments__ 
 
@@ -141,6 +141,9 @@
 [/us/stat/125/974]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F974
 [/us/pl/103/160/s845]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs845
 [/us/usc/t10/s2371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2371
+[/us/pl/114/92/s815/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs815%2Fc
+[/us/stat/129/896]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F896
+[/us/usc/t10/s2371b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2371b
 [/us/pl/114/4/s523/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F4%2Fs523%2F1
 [/us/pl/114/4/s523/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F4%2Fs523%2F2
 [/us/pl/113/76/s525/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs525%2F1
