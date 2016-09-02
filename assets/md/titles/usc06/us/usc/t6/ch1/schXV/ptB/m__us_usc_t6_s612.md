@@ -181,9 +181,7 @@
 
  __Amendments__ 
 
-    2014—Subsec. (a)(3). [Pub. L. 113–284, § 2(c)(1)][/us/pl/113/284/s2/c/1], (2)(A), redesignated par. (4) as (3) and struck out former par. (3) which related to Office of Inspector General performance audits.
-
-    Subsec. (a)(4) to (7). [Pub. L. 113–284, § 2(c)(2)][/us/pl/113/284/s2/c/2], redesignated pars. (4) to (7) as (3) to (6), respectively, and, in par. (4), substituted “paragraph (2)” for “paragraphs (2) and (3)” and “paragraph (3)” for “paragraph (4)”.
+    Subsec. (a)(3) to (7). [Pub. L. 113–284][/us/pl/113/284] redesignated pars. (4) to (7) as (3) to (6), respectively, substituted, in par. (4), “paragraph (2)” for “paragraphs (2) and (3)” and “paragraph (3)” for “paragraph (4)”, and struck out former par. (3) which related to Office of Inspector General performance audits.
 
     2010—Subsec. (a)(6). [Pub. L. 111–204][/us/pl/111/204] substituted “under section 2(h) of the Improper Payments Elimination and Recovery Act of 2010 ([31 U.S.C. 3321][/us/usc/t31/s3321] note)” for “(as that term is defined by the Director of the Office of Management and Budget under [section 3561 of title 31][/us/usc/t31/s3561])”.
 
@@ -228,8 +226,7 @@
 [/us/usc/t42/s5121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5121
 [/us/pl/111/204/s2/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F204%2Fs2%2Fh
 [/us/usc/t31/s3321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3321
-[/us/pl/113/284/s2/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F284%2Fs2%2Fc%2F1
-[/us/pl/113/284/s2/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F284%2Fs2%2Fc%2F2
+[/us/pl/113/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F284
 [/us/pl/111/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F204
 [/us/usc/t31/s3321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3321
 [/us/usc/t31/s3561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3561

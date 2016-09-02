@@ -115,6 +115,12 @@
 
 > “This Act \[see Tables for classification\] shall take effect 60 days after the date of enactment \[Nov. 25, 2002\].”
 
+ __Short Title of 2015 Amendment__ 
+
+[Pub. L. 114–22, title III, § 301][/us/pl/114/22/s301], May 29, 2015, [129 Stat. 251][/us/stat/129/251], provided that: 
+
+> “This title \[enacting [section 473 of this title][/us/usc/t6/s473] and [section 2421 of Title 18][/us/usc/t18/s2421], Crimes and Criminal Procedure, amending [section 187 of this title][/us/usc/t6/s187], repealing former [section 2421 of Title 18][/us/usc/t18/s2421], and enacting provisions set out as a note under [section 473 of this title][/us/usc/t6/s473]\] may be cited as the ‘Human Exploitation Rescue Operations Act of 2015’ or the ‘HERO Act of 2015’.”
+
  __Short Title of 2014 Amendment__ 
 
 [Pub. L. 113–284, § 1][/us/pl/113/284/s1], Dec. 18, 2014, [128 Stat. 3089][/us/stat/128/3089], provided that: 
@@ -551,6 +557,13 @@
 [/us/pl/109/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295
 [/us/pl/107/296/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs4
 [/us/stat/116/2142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2142
+[/us/pl/114/22/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22%2Fs301
+[/us/stat/129/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F251
+[/us/usc/t6/s473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs473
+[/us/usc/t18/s2421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2421
+[/us/usc/t6/s187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs187
+[/us/usc/t18/s2421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2421
+[/us/usc/t6/s473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs473
 [/us/pl/113/284/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F284%2Fs1
 [/us/stat/128/3089]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3089
 [/us/usc/t6/s612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs612

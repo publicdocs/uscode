@@ -163,7 +163,7 @@
 
 >     “(a)  __Prohibition on New Regulatory Authority__  __.—__ 
 
->     Nothing in this Act \[see [section 1 of Pub. L. 113–282][/us/pl/113/282/s1], set out as a Short Title of 2014 Amendment note under [section 101 of this title][/us/usc/t6/s101]\] or the amendments made by this Act shall be construed to grant the Secretary any authority to promulgate regulations or set standards relating to the cybersecurity of private sector critical infrastructure that was not in effect on the day before the date of enactment of this Act \[Dec. 18, 2014\].
+>     Nothing in this Act \[see [section 1 of Pub. L. 113–282][/us/pl/113/282/s1], set out as a Short Title of 2014 Amendment note under [section 101 of this title][/us/usc/t6/s101]\] or the amendments made by this Act shall be construed to grant the Secretary \[of Homeland Security\] any authority to promulgate regulations or set standards relating to the cybersecurity of private sector critical infrastructure that was not in effect on the day before the date of enactment of this Act \[Dec. 18, 2014\].
 
 >     “(b)  __Private Entities__  __.—__ 
 

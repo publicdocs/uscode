@@ -45,7 +45,7 @@
 
             Any owner of a chemical facility of interest who fails to comply with, or knowingly submits false information under, this subchapter or the CFATS regulations shall be liable for a civil penalty under [section 70119(a) of title 46][/us/usc/t46/s70119/a].
 
-    (c) __Emergency Orders__ 
+    (c) __Emergency orders__ 
 
         (1) __In general__ 
 

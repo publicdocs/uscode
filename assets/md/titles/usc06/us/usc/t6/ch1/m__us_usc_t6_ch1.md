@@ -1881,6 +1881,14 @@ Part H—Miscellaneous Provisions  </td>
 
   <tr>
 
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs473" data-uslm-ref="/us/usc/t6/s473">473.</a>  </td>
+
+    <td> Cyber Crimes Center, Child Exploitation Investigations Unit, Computer Forensics Unit, and Cyber Crimes Unit.  </td>
+
+  </tr>
+
+  <tr>
+
     <td> 
 
 Part I—Information Sharing  </td>
@@ -2716,6 +2724,46 @@ SUBCHAPTER XVI—CHEMICAL FACILITY ANTI-TERRORISM STANDARDS  </td>
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs629" data-uslm-ref="/us/usc/t6/s629">629.</a>  </td>
 
     <td> Outreach to chemical facilities of interest.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 
+
+SUBCHAPTER XVII—ANTI-TRAFFICKING TRAINING FOR DEPARTMENT OF HOMELAND SECURITY PERSONNEL  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs641" data-uslm-ref="/us/usc/t6/s641">641.</a>  </td>
+
+    <td> Definitions.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs642" data-uslm-ref="/us/usc/t6/s642">642.</a>  </td>
+
+    <td> Training for Department personnel to identify human trafficking.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs643" data-uslm-ref="/us/usc/t6/s643">643.</a>  </td>
+
+    <td> Certification and report to Congress.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs644" data-uslm-ref="/us/usc/t6/s644">644.</a>  </td>
+
+    <td> Assistance to non-Federal entities.  </td>
 
   </tr>
 

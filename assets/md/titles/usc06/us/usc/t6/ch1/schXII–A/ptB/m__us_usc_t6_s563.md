@@ -39,7 +39,7 @@
 
         The Administrator may not publish the Plan under subsection (a)(2) until it has been approved by the Secretary.
 
-    (d) __Contents of plan__ 
+    (d) __Contents of Plan__ 
 
     The Plan shall include—
 

@@ -51,9 +51,11 @@
 
             (A) support basic and applied homeland security research to promote revolutionary changes in technologies that would promote homeland security;
 
-            (B) advance the development, testing and evaluation, and deployment of critical homeland security technologies; and
+            (B) advance the development, testing and evaluation, and deployment of critical homeland security technologies;
 
-            (C) accelerate the prototyping and deployment of technologies that would address homeland security vulnerabilities.
+            (C) accelerate the prototyping and deployment of technologies that would address homeland security vulnerabilities; and
+
+            (D) conduct research and development for the purpose of advancing technology for the investigation of child exploitation crimes, including child victim identification, trafficking in persons, and child pornography, and for advanced forensics.
 
         (4) __Targeted competitions__ 
 
@@ -85,7 +87,11 @@
 
             Of the funds authorized to be appropriated under paragraph (2), not less than 10 percent of such funds for each fiscal year through fiscal year 2005 shall be authorized only for the Under Secretary, through joint agreement with the Commandant of the Coast Guard, to carry out research and development of improved ports, waterways and coastal security surveillance and perimeter protection capabilities for the purpose of minimizing the possibility that Coast Guard cutters, aircraft, helicopters, and personnel will be diverted from non-homeland security missions to the ports, waterways and coastal security mission.
 
-([Pub. L. 107–296, title III, § 307][/us/pl/107/296/s307], Nov. 25, 2002, [116 Stat. 2168][/us/stat/116/2168].)
+([Pub. L. 107–296, title III, § 307][/us/pl/107/296/s307], Nov. 25, 2002, [116 Stat. 2168][/us/stat/116/2168]; [Pub. L. 114–22, title III, § 302(d)][/us/pl/114/22/s302/d], May 29, 2015, [129 Stat. 255][/us/stat/129/255].)
+
+ __Amendments__ 
+
+    2015—Subsec. (b)(3)(D). [Pub. L. 114–22][/us/pl/114/22] added subpar. (D).
 
 ----------
 
@@ -98,5 +104,8 @@
 [/us/pl/105/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261
 [/us/pl/107/296/s307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs307
 [/us/stat/116/2168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2168
+[/us/pl/114/22/s302/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22%2Fs302%2Fd
+[/us/stat/129/255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F255
+[/us/pl/114/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22
 
 
