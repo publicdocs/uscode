@@ -27,25 +27,39 @@
 
         (4) for any person to fail to comply with an applicable requirement of section 6296(a), (b)(2), (b)(3), or (b)(5) of this title;
 
-        (5) for any manufacturer or private labeler to distribute in commerce any new covered product which is not in conformity with an applicable energy conservation standard established in or prescribed under this part, except to the extent that the new covered product is covered by a regional standard that is more stringent than the base national standard; or
+        (5) for any manufacturer or private labeler to distribute in commerce any new covered product which is not in conformity with an applicable energy conservation standard established in or prescribed under this part, except to the extent that the new covered product is covered by a regional standard that is more stringent than the base national standard;
 
-        (6)  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Two pars. (6) have been enacted. </sup></sup>  for any manufacturer or private labeler to knowingly sell a product to a distributor, contractor, or dealer with knowledge that the entity routinely violates any regional standard applicable to the product.
+        (6) for any manufacturer or private labeler to knowingly sell a product to a distributor, contractor, or dealer with knowledge that the entity routinely violates any regional standard applicable to the product;
 
-        (6)
+        (7)
 
- 1 for any manufacturer, distributor, retailer, or private labeler to distribute in commerce an adapter that—
+         for any manufacturer, distributor, retailer, or private labeler to distribute in commerce an adapter that—
 
             (A) is designed to allow an incandescent lamp that does not have a medium screw base to be installed into a fixture or lampholder with a medium screw base socket; and
 
-            (B) is capable of being operated at a voltage range at least partially within 110 and 130 volts.
+            (B) is capable of being operated at a voltage range at least partially within 110 and 130 volts; or
+
+        (8)
+
+         for any person—
+
+            (A) to activate an activation lock for a grid-enabled water heater with knowledge that such water heater is not used as part of an electric thermal storage or demand response program;
+
+            (B) to distribute an activation key for a grid-enabled water heater with knowledge that such activation key will be used to activate a grid-enabled water heater that is not used as part of an electric thermal storage or demand response program;
+
+            (C) to otherwise enable a grid-enabled water heater to operate at its designed specification and capabilities with knowledge that such water heater is not used as part of an electric thermal storage or demand response program; or
+
+            (D) to knowingly remove or render illegible the label of a grid-enabled water heater described in [section 6295(e)(6)(A)(ii)(V) of this title][/us/usc/t42/s6295/e/6/A/ii/V].
 
     (b) __“New covered product” defined__ 
 
         For purposes of this section, the term “new covered product” means a covered product the title of which has not passed to a purchaser who buys such product for purposes other than (1) reselling such product, or (2) leasing such product for a period in excess of one year.
 
-([Pub. L. 94–163, title III, § 332][/us/pl/94/163/s332], Dec. 22, 1975, [89 Stat. 928][/us/stat/89/928]; [Pub. L. 100–12, § 11(a)(3)][/us/pl/100/12/s11/a/3], (b)(5), Mar. 17, 1987, [101 Stat. 125][/us/stat/101/125]; [Pub. L. 110–140, title III][/us/pl/110/140], §§ 306(b), 321(e), Dec. 19, 2007, [121 Stat. 1559][/us/stat/121/1559], 1586.)
+([Pub. L. 94–163, title III, § 332][/us/pl/94/163/s332], Dec. 22, 1975, [89 Stat. 928][/us/stat/89/928]; [Pub. L. 100–12, § 11(a)(3)][/us/pl/100/12/s11/a/3], (b)(5), Mar. 17, 1987, [101 Stat. 125][/us/stat/101/125]; [Pub. L. 110–140, title III][/us/pl/110/140], §§ 306(b), 321(e), Dec. 19, 2007, [121 Stat. 1559][/us/stat/121/1559], 1586; [Pub. L. 114–11, title II, § 201(2)][/us/pl/114/11/s201/2], Apr. 30, 2015, [129 Stat. 188][/us/stat/129/188].)
 
  __Amendments__ 
+
+    2015—Subsec. (a)(6) to (8). [Pub. L. 114–11][/us/pl/114/11] redesignated par. (6) relating to prohibition of distribution in commerce of certain adapters as (7) and added par. (8).
 
     2007—Subsec. (a)(4). [Pub. L. 110–140, § 321(e)(1)][/us/pl/110/140/s321/e/1], which directed the striking out of “or” after semicolon at end, could not be executed after amendment by [Pub. L. 110–140, § 306(b)(1)][/us/pl/110/140/s306/b/1]. See below.
 
@@ -78,12 +92,16 @@
 
 [/us/usc/t42/s6294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6294
 [/us/usc/t42/s6294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6294
+[/us/usc/t42/s6295/e/6/A/ii/V]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6295%2Fe%2F6%2FA%2Fii%2FV
 [/us/pl/94/163/s332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2Fs332
 [/us/stat/89/928]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F928
 [/us/pl/100/12/s11/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F12%2Fs11%2Fa%2F3
 [/us/stat/101/125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F125
 [/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
 [/us/stat/121/1559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1559
+[/us/pl/114/11/s201/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F11%2Fs201%2F2
+[/us/stat/129/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F188
+[/us/pl/114/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F11
 [/us/pl/110/140/s321/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs321%2Fe%2F1
 [/us/pl/110/140/s306/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs306%2Fb%2F1
 [/us/pl/110/140/s306/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs306%2Fb%2F1

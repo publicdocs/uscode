@@ -89,7 +89,7 @@
 
             (B) __Availability__ 
 
-            Any annex described in clause (i)—
+            Any annex described in clause (i)—  <sup>\[3\]</sup>  <sup><sup> 3 So in original. Probably should be “subparagraph (A)—”. </sup></sup> 
 
                 (i) shall be available, as appropriate, and consistent with the National Security Act of 1947 \[[50 U.S.C. 3001][/us/usc/t50/s3001] et seq.\], to the Committee on Homeland Security and Governmental Affairs, the Committee on the Judiciary, the Select Committee on Intelligence, the Committee on Appropriations, and the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Homeland Security, the Committee on the Judiciary, the Permanent Select Committee on Intelligence, the Committee on Appropriations, and the Committee on Financial Services of the House of Representatives; and
 

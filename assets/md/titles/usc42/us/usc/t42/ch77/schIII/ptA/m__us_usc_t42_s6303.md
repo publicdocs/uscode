@@ -17,7 +17,7 @@
 
     (a) __In general__ 
 
-        Except as provided in subsection (c) of this section, any person who knowingly violates any provision of [section 6302 of this title][/us/usc/t42/s6302] shall be subject to a civil penalty of not more than $100 for each violation. Such penalties shall be assessed by the Commission, except that penalties for violations of [section 6302(a)(3) of this title][/us/usc/t42/s6302/a/3] which relate to requirements prescribed by the Secretary, violations of [section 6302(a)(4) of this title][/us/usc/t42/s6302/a/4] which relate to requests of the Secretary under [section 6296(b)(2) of this title][/us/usc/t42/s6296/b/2], or violations of [section 6302(a)(5) of this title][/us/usc/t42/s6302/a/5] shall be assessed by the Secretary. Civil penalties assessed under this part may be compromised by the agency or officer authorized to assess the penalty, taking into account the nature and degree of the violation and the impact of the penalty upon a particular respondent. Each violation of paragraph (1), (2), or (5) of [section 6302(a) of this title][/us/usc/t42/s6302/a] shall constitute a separate violation with respect to each covered product, and each day of violation of section 6302(a)(3) or (4) of this title shall constitute a separate violation.
+        Except as provided in subsection (c) of this section, any person who knowingly violates any provision of [section 6302 of this title][/us/usc/t42/s6302] shall be subject to a civil penalty of not more than $100 for each violation. Such penalties shall be assessed by the Commission, except that penalties for violations of [section 6302(a)(3) of this title][/us/usc/t42/s6302/a/3] which relate to requirements prescribed by the Secretary, violations of [section 6302(a)(4) of this title][/us/usc/t42/s6302/a/4] which relate to requests of the Secretary under [section 6296(b)(2) of this title][/us/usc/t42/s6296/b/2], or violations of paragraph (5), (6), (7), or (8) of [section 6302(a) of this title][/us/usc/t42/s6302/a] shall be assessed by the Secretary. Civil penalties assessed under this part may be compromised by the agency or officer authorized to assess the penalty, taking into account the nature and degree of the violation and the impact of the penalty upon a particular respondent. Each violation of paragraph (1), (2), (5), (6), (7), or (8) of [section 6302(a) of this title][/us/usc/t42/s6302/a] shall constitute a separate violation with respect to each covered product, and each day of violation of section 6302(a)(3) or (4) of this title shall constitute a separate violation.
 
     (b) __“Knowingly” defined__ 
 
@@ -57,9 +57,11 @@
 
         (6) For purposes of applying the preceding provisions of this subsection in the case of the assessment of a penalty by the Commission for a violation of paragraphs (1) and (2) of [section 6302 of this title][/us/usc/t42/s6302], references in such provisions to “Secretary” and “Department of Energy” shall be considered to be references to the “Commission”.
 
-([Pub. L. 94–163, title III, § 333][/us/pl/94/163/s333], Dec. 22, 1975, [89 Stat. 929][/us/stat/89/929]; [Pub. L. 95–619, title IV][/us/pl/95/619], §§ 423, 425(e), title VI, § 691(b)(2), Nov. 9, 1978, [92 Stat. 3262][/us/stat/92/3262], 3266, 3288; [Pub. L. 100–12, § 11(b)(6)][/us/pl/100/12/s11/b/6], Mar. 17, 1987, [101 Stat. 125][/us/stat/101/125].)
+([Pub. L. 94–163, title III, § 333][/us/pl/94/163/s333], Dec. 22, 1975, [89 Stat. 929][/us/stat/89/929]; [Pub. L. 95–619, title IV][/us/pl/95/619], §§ 423, 425(e), title VI, § 691(b)(2), Nov. 9, 1978, [92 Stat. 3262][/us/stat/92/3262], 3266, 3288; [Pub. L. 100–12, § 11(b)(6)][/us/pl/100/12/s11/b/6], Mar. 17, 1987, [101 Stat. 125][/us/stat/101/125]; [Pub. L. 114–11, title II, § 201(3)][/us/pl/114/11/s201/3], Apr. 30, 2015, [129 Stat. 189][/us/stat/129/189].)
 
  __Amendments__ 
+
+    2015—Subsec. (a). [Pub. L. 114–11][/us/pl/114/11] substituted “paragraph (5), (6), (7), or (8) of section 6302(a)” for “section 6302(a)(5)” and “paragraph (1), (2), (5), (6), (7), or (8) of section 6302(a)” for “paragraph (1), (2), or (5) of section 6302(a)”.
 
     1987—[Pub. L. 100–12][/us/pl/100/12] inserted headings for subsecs. (a) to (d).
 
@@ -80,7 +82,7 @@
 [/us/usc/t42/s6302/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6302%2Fa%2F3
 [/us/usc/t42/s6302/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6302%2Fa%2F4
 [/us/usc/t42/s6296/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6296%2Fb%2F2
-[/us/usc/t42/s6302/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6302%2Fa%2F5
+[/us/usc/t42/s6302/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6302%2Fa
 [/us/usc/t42/s6302/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6302%2Fa
 [/us/usc/t15/s45/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs45%2Fa%2F1
 [/us/usc/t42/s6293/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6293%2Fc
@@ -96,6 +98,9 @@
 [/us/stat/92/3262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3262
 [/us/pl/100/12/s11/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F12%2Fs11%2Fb%2F6
 [/us/stat/101/125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F125
+[/us/pl/114/11/s201/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F11%2Fs201%2F3
+[/us/stat/129/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F189
+[/us/pl/114/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F11
 [/us/pl/100/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F12
 [/us/pl/95/619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619
 [/us/pl/95/619/s425/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2Fs425%2Fe%2F2

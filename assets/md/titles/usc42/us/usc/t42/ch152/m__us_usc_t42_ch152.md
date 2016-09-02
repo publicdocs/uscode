@@ -209,6 +209,22 @@ SUBCHAPTER III—ENERGY SAVINGS IN BUILDINGS AND INDUSTRY  </td>
 
   <tr>
 
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs17062" data-uslm-ref="/us/usc/t42/s17062">17062.</a>  </td>
+
+    <td> Energy efficiency in Federal and other buildings.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs17063" data-uslm-ref="/us/usc/t42/s17063">17063.</a>  </td>
+
+    <td> Energy information for commercial buildings.  </td>
+
+  </tr>
+
+  <tr>
+
     <td> 
 
 Part A—Residential Building Efficiency  </td>
@@ -252,6 +268,22 @@ Part B—High-Performance Commercial Buildings  </td>
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs17083" data-uslm-ref="/us/usc/t42/s17083">17083.</a>  </td>
 
     <td> Public outreach.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs17084" data-uslm-ref="/us/usc/t42/s17084">17084.</a>  </td>
+
+    <td> Separate spaces with high-performance energy efficiency measures.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs17085" data-uslm-ref="/us/usc/t42/s17085">17085.</a>  </td>
+
+    <td> Tenant Star program.  </td>
 
   </tr>
 

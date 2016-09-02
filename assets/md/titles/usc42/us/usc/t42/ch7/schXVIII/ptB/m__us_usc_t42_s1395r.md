@@ -91,7 +91,7 @@
 
         For purposes of this subsection, subject to paragraph (6), the threshold amount is—
 
-            (A) except as provided in subparagraph (B), $80,000, and
+            (A) except as provided in subparagraph (B), $80,000 (or, beginning with 2018, $85,000), and
 
             (B) in the case of a joint return, twice the amount applicable under subparagraph (A) for the calendar year.
 
@@ -103,7 +103,7 @@
 
                 (i) __Sliding scale percentage__ 
 
-                    Subject to paragraph (6), the applicable percentage specified in the table in subparagraph (C) for the individual minus 25 percentage points.
+                    Subject to paragraph (6), the applicable percentage specified in the applicable table in subparagraph (C) for the individual minus 25 percentage points.
 
                 (ii) __Unsubsidized part B premium amount__ 
 
@@ -121,71 +121,141 @@
 
                 (i) __In general__ 
 
+                    (I) Subject to paragraphs (5) and (6), for years before 2018:
+
 <table>
 
-                  <tr>
+                      <tr>
 
-                    <td> 
+                        <td> 
 
-                  If the modified adjusted gross
+                      If the modified adjusted gross
 
-                   income is:  </td>
+                       income is:  </td>
 
-                    <td> 
+                        <td> 
 
-                The applicable percentage is:  </td>
-
-  </tr>
-
-                  <tr>
-
-                    <td> 
-
-                More than $80,000 but not more than $100,000  </td>
-
-                    <td> 
-
-                35 percent    </td>
+                    The applicable percentage is:  </td>
 
   </tr>
 
-                  <tr>
+                      <tr>
 
-                    <td> 
+                        <td> 
 
-                More than $100,000 but not more than $150,000  </td>
+                    More than $80,000 but not more than $100,000  </td>
 
-                    <td> 
+                        <td> 
 
-                50 percent    </td>
-
-  </tr>
-
-                  <tr>
-
-                    <td> 
-
-                More than $150,000 but not more than $200,000  </td>
-
-                    <td> 
-
-                65 percent    </td>
+                    35 percent    </td>
 
   </tr>
 
-                  <tr>
+                      <tr>
 
-                    <td> 
+                        <td> 
 
-                More than $200,000  </td>
+                    More than $100,000 but not more than $150,000  </td>
 
-                    <td> 
+                        <td> 
 
-                80 percent.  </td>
+                    50 percent    </td>
 
   </tr>
 
-                </table>
+                      <tr>
+
+                        <td> 
+
+                    More than $150,000 but not more than $200,000  </td>
+
+                        <td> 
+
+                    65 percent    </td>
+
+  </tr>
+
+                      <tr>
+
+                        <td> 
+
+                    More than $200,000  </td>
+
+                        <td> 
+
+                    80 percent.  </td>
+
+  </tr>
+
+                    </table>
+
+                    (II) Subject to paragraph (5), for years beginning with 2018:
+
+<table>
+
+                      <tr>
+
+                        <td> 
+
+                      If the modified adjusted gross
+
+                       income is:  </td>
+
+                        <td> 
+
+                    The applicable percentage is:  </td>
+
+  </tr>
+
+                      <tr>
+
+                        <td> 
+
+                    More than $85,000 but not more than $107,000  </td>
+
+                        <td> 
+
+                    35 percent    </td>
+
+  </tr>
+
+                      <tr>
+
+                        <td> 
+
+                    More than $107,000 but not more than $133,500  </td>
+
+                        <td> 
+
+                    50 percent    </td>
+
+  </tr>
+
+                      <tr>
+
+                        <td> 
+
+                    More than $133,500 but not more than $160,000  </td>
+
+                        <td> 
+
+                     65 percent    </td>
+
+  </tr>
+
+                      <tr>
+
+                        <td> 
+
+                    More than $160,000  </td>
+
+                        <td> 
+
+                    80 percent.  </td>
+
+  </tr>
+
+                    </table>
 
                 (ii) __Joint returns__ 
 
@@ -253,11 +323,11 @@
 
             (A) __In general__ 
 
-            In the case of any calendar year beginning after 2007, each dollar amount in paragraph (2) or (3) shall be increased by an amount equal to—
+            In the case of any calendar year beginning after 2007 (other than 2018 and 2019), each dollar amount in paragraph (2) or (3) shall be increased by an amount equal to—
 
                 (i) such dollar amount, multiplied by
 
-                (ii) the percentage (if any) by which the average of the Consumer Price Index for all urban consumers (United States city average) for the 12-month period ending with August of the preceding calendar year exceeds such average for the 12-month period ending with August 2006.
+                (ii) the percentage (if any) by which the average of the Consumer Price Index for all urban consumers (United States city average) for the 12-month period ending with August of the preceding calendar year exceeds such average for the 12-month period ending with August 2006 (or, in the case of a calendar year beginning with 2020, August 2018).
 
             (B) __Rounding__ 
 
@@ -265,7 +335,7 @@
 
         (6) __Temporary adjustment to income thresholds__ 
 
-        Notwithstanding any other provision of this subsection, during the period beginning on January 1, 2011, and ending on December 31, 2019—
+        Notwithstanding any other provision of this subsection, during the period beginning on January 1, 2011, and ending on December 31, 2017—
 
             (A) the threshold amount otherwise applicable under paragraph (2) shall be equal to such amount for 2010; and
 
@@ -275,7 +345,7 @@
 
             For purposes of this subsection, the term “joint return” has the meaning given to such term by section 7701(a)(38) of the Internal Revenue Code of 1986.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XVIII, § 1839, as added [Pub. L. 89–97, title I, § 102(a)][/us/pl/89/97/s102/a], July 30, 1965, [79 Stat. 305][/us/stat/79/305]; amended [Pub. L. 90–248, title I, § 145(d)][/us/pl/90/248/s145/d], Jan. 2, 1968, [81 Stat. 859][/us/stat/81/859]; [Pub. L. 92–603, title II][/us/pl/92/603], §§ 201(c)(4), (5), 203 (a)–(d), Oct. 30, 1972, [86 Stat. 1373][/us/stat/86/1373], 1376, 1377; [Pub. L. 94–182, title I, § 104(a)][/us/pl/94/182/s104/a], Dec. 31, 1975, [89 Stat. 1052][/us/stat/89/1052]; [Pub. L. 95–216, title II, § 205(e)][/us/pl/95/216/s205/e], Dec. 20, 1977, [91 Stat. 1529][/us/stat/91/1529]; [Pub. L. 96–499, title IX, § 945(c)(2)][/us/pl/96/499/s945/c/2], Dec. 5, 1980, [94 Stat. 2642][/us/stat/94/2642]; [Pub. L. 97–35, title XXI, § 2151(a)(4)][/us/pl/97/35/s2151/a/4], Aug. 13, 1981, [95 Stat. 802][/us/stat/95/802]; [Pub. L. 97–248, title I, § 124(a)][/us/pl/97/248/s124/a], (b), Sept. 3, 1982, [96 Stat. 364][/us/stat/96/364]; [Pub. L. 97–448, title III, § 309(b)(8)][/us/pl/97/448/s309/b/8], Jan. 12, 1983, [96 Stat. 2409][/us/stat/96/2409]; [Pub. L. 98–21, title VI, § 606(a)(1)][/us/pl/98/21/s606/a/1]–(3)(C), Apr. 20, 1983, [97 Stat. 169][/us/stat/97/169], 170; [Pub. L. 98–369, div. B, title III][/us/pl/98/369], §§ 2302(a), (b), 2338(a), July 18, 1984, [98 Stat. 1063][/us/stat/98/1063], 1091; [Pub. L. 98–617, § 3(b)(4)][/us/pl/98/617/s3/b/4], Nov. 8, 1984, [98 Stat. 3295][/us/stat/98/3295]; [Pub. L. 99–272, title IX][/us/pl/99/272], §§ 9219(a)(1), 9313, Apr. 7, 1986, [100 Stat. 182][/us/stat/100/182], 194; [Pub. L. 99–509, title IX][/us/pl/99/509], §§ 9001(c), 9319(c)(4), Oct. 21, 1986, [100 Stat. 1970][/us/stat/100/1970], 2012; [Pub. L. 100–203, title IV, § 4080][/us/pl/100/203/s4080], Dec. 22, 1987, [101 Stat. 1330–126][/us/stat/101/1330-126]; [Pub. L. 100–360, title II, § 211(a)][/us/pl/100/360/s211/a]–(c)(1), July 1, 1988, [102 Stat. 733][/us/stat/102/733], 738; [Pub. L. 100–485, title VI, § 608(d)(9)][/us/pl/100/485/s608/d/9], Oct. 13, 1988, [102 Stat. 2415][/us/stat/102/2415]; [Pub. L. 101–234, title II, § 202(a)][/us/pl/101/234/s202/a], Dec. 13, 1989, [103 Stat. 1981][/us/stat/103/1981]; [Pub. L. 101–239, title VI][/us/pl/101/239], §§ 6202(b)(4)(C), (c)(2), 6301, Dec. 19, 1989, [103 Stat. 2233][/us/stat/103/2233], 2234, 2258; [Pub. L. 101–508, title IV, § 4301][/us/pl/101/508/s4301], Nov. 5, 1990, [104 Stat. 1388–125][/us/stat/104/1388-125]; [Pub. L. 103–66, title XIII, § 13571][/us/pl/103/66/s13571], Aug. 10, 1993, [107 Stat. 609][/us/stat/107/609]; [Pub. L. 103–432, title I][/us/pl/103/432], §§ 144, 151(c)(3), Oct. 31, 1994, [108 Stat. 4427][/us/stat/108/4427], 4435; [Pub. L. 105–33, title IV][/us/pl/105/33], §§ 4571(a), (b)(1), 4581(a), 4582, 4631(a)(2), Aug. 5, 1997, [111 Stat. 464][/us/stat/111/464], 465, 486; [Pub. L. 105–277, div. J, title V, § 5101(e)][/us/pl/105/277/s5101/e], Oct. 21, 1998, [112 Stat. 2681–915][/us/stat/112/2681-915]; [Pub. L. 106–554, § 1(a)(6)][/us/pl/106/554/s1/a/6] \[title VI, § 606(a)(2)(B)(i)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–557; [Pub. L. 108–173, title I, § 105(a)][/us/pl/108/173/s105/a], title II, §§ 222(l)(2)(A), 241(b)(2)(A), title VI, § 625(a)(1), title VII, § 736(b)(7), title VIII, § 811(a), (b)(1), Dec. 8, 2003, [117 Stat. 2166][/us/stat/117/2166], 2206, 2220, 2317, 2356, 2364, 2367; [Pub. L. 109–171, title V][/us/pl/109/171], §§ 5111, 5115(a)(1), Feb. 8, 2006, [120 Stat. 43][/us/stat/120/43], 45; [Pub. L. 111–5, div. B, title IV, § 4103(a)(1)][/us/pl/111/5/s4103/a/1], Feb. 17, 2009, [123 Stat. 487][/us/stat/123/487]; [Pub. L. 111–148, title III][/us/pl/111/148], §§ 3110(b), 3402, Mar. 23, 2010, [124 Stat. 420][/us/stat/124/420], 488.)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XVIII, § 1839, as added [Pub. L. 89–97, title I, § 102(a)][/us/pl/89/97/s102/a], July 30, 1965, [79 Stat. 305][/us/stat/79/305]; amended [Pub. L. 90–248, title I, § 145(d)][/us/pl/90/248/s145/d], Jan. 2, 1968, [81 Stat. 859][/us/stat/81/859]; [Pub. L. 92–603, title II][/us/pl/92/603], §§ 201(c)(4), (5), 203 (a)–(d), Oct. 30, 1972, [86 Stat. 1373][/us/stat/86/1373], 1376, 1377; [Pub. L. 94–182, title I, § 104(a)][/us/pl/94/182/s104/a], Dec. 31, 1975, [89 Stat. 1052][/us/stat/89/1052]; [Pub. L. 95–216, title II, § 205(e)][/us/pl/95/216/s205/e], Dec. 20, 1977, [91 Stat. 1529][/us/stat/91/1529]; [Pub. L. 96–499, title IX, § 945(c)(2)][/us/pl/96/499/s945/c/2], Dec. 5, 1980, [94 Stat. 2642][/us/stat/94/2642]; [Pub. L. 97–35, title XXI, § 2151(a)(4)][/us/pl/97/35/s2151/a/4], Aug. 13, 1981, [95 Stat. 802][/us/stat/95/802]; [Pub. L. 97–248, title I, § 124(a)][/us/pl/97/248/s124/a], (b), Sept. 3, 1982, [96 Stat. 364][/us/stat/96/364]; [Pub. L. 97–448, title III, § 309(b)(8)][/us/pl/97/448/s309/b/8], Jan. 12, 1983, [96 Stat. 2409][/us/stat/96/2409]; [Pub. L. 98–21, title VI, § 606(a)(1)][/us/pl/98/21/s606/a/1]–(3)(C), Apr. 20, 1983, [97 Stat. 169][/us/stat/97/169], 170; [Pub. L. 98–369, div. B, title III][/us/pl/98/369], §§ 2302(a), (b), 2338(a), July 18, 1984, [98 Stat. 1063][/us/stat/98/1063], 1091; [Pub. L. 98–617, § 3(b)(4)][/us/pl/98/617/s3/b/4], Nov. 8, 1984, [98 Stat. 3295][/us/stat/98/3295]; [Pub. L. 99–272, title IX][/us/pl/99/272], §§ 9219(a)(1), 9313, Apr. 7, 1986, [100 Stat. 182][/us/stat/100/182], 194; [Pub. L. 99–509, title IX][/us/pl/99/509], §§ 9001(c), 9319(c)(4), Oct. 21, 1986, [100 Stat. 1970][/us/stat/100/1970], 2012; [Pub. L. 100–203, title IV, § 4080][/us/pl/100/203/s4080], Dec. 22, 1987, [101 Stat. 1330–126][/us/stat/101/1330-126]; [Pub. L. 100–360, title II, § 211(a)][/us/pl/100/360/s211/a]–(c)(1), July 1, 1988, [102 Stat. 733][/us/stat/102/733], 738; [Pub. L. 100–485, title VI, § 608(d)(9)][/us/pl/100/485/s608/d/9], Oct. 13, 1988, [102 Stat. 2415][/us/stat/102/2415]; [Pub. L. 101–234, title II, § 202(a)][/us/pl/101/234/s202/a], Dec. 13, 1989, [103 Stat. 1981][/us/stat/103/1981]; [Pub. L. 101–239, title VI][/us/pl/101/239], §§ 6202(b)(4)(C), (c)(2), 6301, Dec. 19, 1989, [103 Stat. 2233][/us/stat/103/2233], 2234, 2258; [Pub. L. 101–508, title IV, § 4301][/us/pl/101/508/s4301], Nov. 5, 1990, [104 Stat. 1388–125][/us/stat/104/1388-125]; [Pub. L. 103–66, title XIII, § 13571][/us/pl/103/66/s13571], Aug. 10, 1993, [107 Stat. 609][/us/stat/107/609]; [Pub. L. 103–432, title I][/us/pl/103/432], §§ 144, 151(c)(3), Oct. 31, 1994, [108 Stat. 4427][/us/stat/108/4427], 4435; [Pub. L. 105–33, title IV][/us/pl/105/33], §§ 4571(a), (b)(1), 4581(a), 4582, 4631(a)(2), Aug. 5, 1997, [111 Stat. 464][/us/stat/111/464], 465, 486; [Pub. L. 105–277, div. J, title V, § 5101(e)][/us/pl/105/277/s5101/e], Oct. 21, 1998, [112 Stat. 2681–915][/us/stat/112/2681-915]; [Pub. L. 106–554, § 1(a)(6)][/us/pl/106/554/s1/a/6] \[title VI, § 606(a)(2)(B)(i)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–557; [Pub. L. 108–173, title I, § 105(a)][/us/pl/108/173/s105/a], title II, §§ 222(l)(2)(A), 241(b)(2)(A), title VI, § 625(a)(1), title VII, § 736(b)(7), title VIII, § 811(a), (b)(1), Dec. 8, 2003, [117 Stat. 2166][/us/stat/117/2166], 2206, 2220, 2317, 2356, 2364, 2367; [Pub. L. 109–171, title V][/us/pl/109/171], §§ 5111, 5115(a)(1), Feb. 8, 2006, [120 Stat. 43][/us/stat/120/43], 45; [Pub. L. 111–5, div. B, title IV, § 4103(a)(1)][/us/pl/111/5/s4103/a/1], Feb. 17, 2009, [123 Stat. 487][/us/stat/123/487]; [Pub. L. 111–148, title III][/us/pl/111/148], §§ 3110(b), 3402, Mar. 23, 2010, [124 Stat. 420][/us/stat/124/420], 488; [Pub. L. 114–10, title IV, § 402][/us/pl/114/10/s402], Apr. 16, 2015, [129 Stat. 160][/us/stat/129/160].)
 
  __References in Text__ 
 
@@ -286,6 +356,18 @@
     The Internal Revenue Code of 1986, referred to in subsec. (i)(3)(C)(iii)(I), (4)(A), (7), is classified generally to Title 26, Internal Revenue Code.
 
  __Amendments__ 
+
+    2015—Subsec. (i)(2)(A). [Pub. L. 114–10, § 402(b)(1)][/us/pl/114/10/s402/b/1], inserted “(or, beginning with 2018, $85,000)” after “$80,000”.
+
+    Subsec. (i)(3)(A)(i). [Pub. L. 114–10, § 402(b)(2)][/us/pl/114/10/s402/b/2], inserted “applicable” before “table”.
+
+    Subsec. (i)(3)(C)(i). [Pub. L. 114–10, § 402(a)][/us/pl/114/10/s402/a], designated existing provisions as subcl. (I) and inserted introductory provisions and added subcl. (II).
+
+    Subsec. (i)(5)(A). [Pub. L. 114–10, § 402(b)(3)(A)][/us/pl/114/10/s402/b/3/A], inserted “(other than 2018 and 2019)” after “2007” in introductory provisions.
+
+    Subsec. (i)(5)(A)(ii). [Pub. L. 114–10, § 402(b)(3)(B)][/us/pl/114/10/s402/b/3/B], inserted “(or, in the case of a calendar year beginning with 2020, August 2018)” after “August 2006”.
+
+    Subsec. (i)(6). [Pub. L. 114–10, § 402(b)(4)][/us/pl/114/10/s402/b/4], substituted “2017” for “2019” in introductory provisions.
 
     2010—Subsec. (b). [Pub. L. 111–148, § 3110(b)][/us/pl/111/148/s3110/b], substituted “subsection (i)(4) or (l) of section 1395p” for “section 1395p(i)(4)”.
 
@@ -701,6 +783,8 @@
 [/us/stat/123/487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F487
 [/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 [/us/stat/124/420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F420
+[/us/pl/114/10/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2Fs402
+[/us/stat/129/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F160
 [/us/act/1935-08-29/ch812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-29%2Fch812
 [/us/pl/93/445/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F445%2Fs101
 [/us/stat/88/1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1305
@@ -709,6 +793,12 @@
 [/us/usc/t42/s1395w–29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%9329
 [/us/pl/111/152/s1102/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2Fs1102%2Ff
 [/us/stat/124/1046]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1046
+[/us/pl/114/10/s402/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2Fs402%2Fb%2F1
+[/us/pl/114/10/s402/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2Fs402%2Fb%2F2
+[/us/pl/114/10/s402/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2Fs402%2Fa
+[/us/pl/114/10/s402/b/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2Fs402%2Fb%2F3%2FA
+[/us/pl/114/10/s402/b/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2Fs402%2Fb%2F3%2FB
+[/us/pl/114/10/s402/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2Fs402%2Fb%2F4
 [/us/pl/111/148/s3110/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs3110%2Fb
 [/us/pl/111/148/s3402/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs3402%2F1
 [/us/pl/111/148/s3402/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs3402%2F2

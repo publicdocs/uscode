@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch157/schVI/m__us_usc_t42_s18120.md) | [Next](./../../../../..//us/usc/t42/ch158/m__us_usc_t42_ch158.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs18121)
+[Previous](./../../../../..//us/usc/t42/ch157/schVI/m__us_usc_t42_s18120.md) | [Next](./../../../../..//us/usc/t42/ch157/schVI/m__us_usc_t42_s18122.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs18121)
 
 ## § 18121. Implementation funding
 
@@ -33,11 +33,11 @@
 
  __Codification__ 
 
-    Section was enacted as part of the Health Care and Education Reconciliation Act of 2010, and not as part of the Patient Protection and Affordable Care Act, which comprises this chapter.
+    Section was enacted as part of the Health Care and Education Reconciliation Act of 2010, and not as part of the Patient Protection and Affordable Care Act which comprises this chapter.
 
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch157/schVI/m__us_usc_t42_s18120.md) | [Next](./../../../../..//us/usc/t42/ch158/m__us_usc_t42_ch158.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs18121)
+[Previous](./../../../../..//us/usc/t42/ch157/schVI/m__us_usc_t42_s18120.md) | [Next](./../../../../..//us/usc/t42/ch157/schVI/m__us_usc_t42_s18122.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs18121)
 
 ----------
 ----------

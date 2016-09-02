@@ -253,7 +253,7 @@
 
         (1) __In general__ 
 
-            Subject to paragraph (2), out of any funds in the Treasury not otherwise appropriated, there are appropriated to the Secretary to carry out subsections (a) and (b), $85,000,000 for each of fiscal years 2010 through 2015.
+            Subject to paragraph (2), out of any funds in the Treasury not otherwise appropriated, there are appropriated to the Secretary to carry out subsections (a) and (b), $85,000,000 for each of fiscal years 2010 through 2017.
 
         (2) __Training and certification programs for personal and home care aides__ 
 
@@ -269,7 +269,7 @@
 
             [Section 1397d(a) of this title][/us/usc/t42/s1397d/a] (other than paragraph (6)) shall apply to a grant awarded under this section to the same extent and in the same manner as such section applies to payments to States under this division.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XX, § 2008, as added and amended [Pub. L. 111–148, title V, § 5507(a)][/us/pl/111/148/s5507/a], title VI, § 6703(d)(1)(B), Mar. 23, 2010, [124 Stat. 663][/us/stat/124/663], 803; [Pub. L. 113–93, title II, § 208][/us/pl/113/93/s208], Apr. 1, 2014, [128 Stat. 1046][/us/stat/128/1046]; [Pub. L. 113–128, title V, § 512(dd)(4)][/us/pl/113/128/s512/dd/4], July 22, 2014, [128 Stat. 1718][/us/stat/128/1718].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XX, § 2008, as added and amended [Pub. L. 111–148, title V, § 5507(a)][/us/pl/111/148/s5507/a], title VI, § 6703(d)(1)(B), Mar. 23, 2010, [124 Stat. 663][/us/stat/124/663], 803; [Pub. L. 113–93, title II, § 208][/us/pl/113/93/s208], Apr. 1, 2014, [128 Stat. 1046][/us/stat/128/1046]; [Pub. L. 113–128, title V, § 512(dd)(4)][/us/pl/113/128/s512/dd/4], July 22, 2014, [128 Stat. 1718][/us/stat/128/1718]; [Pub. L. 114–10, title II, § 217][/us/pl/114/10/s217], Apr. 16, 2015, [129 Stat. 153][/us/stat/129/153].)
 
  __Amendment of Subsection (a)__ 
 
@@ -288,6 +288,8 @@
     Part A of subchapter IV, referred to in subsec. (a)(4)(F), is classified to § 601 et seq. of this title.
 
  __Amendments__ 
+
+    2015—Subsec. (c)(1). [Pub. L. 114–10][/us/pl/114/10] substituted “2017” for “2015”.
 
     2014—Subsec. (a)(2)(B). [Pub. L. 113–128, § 512(dd)(4)(A)][/us/pl/113/128/s512/dd/4/A], substituted “the State workforce development board established under [section 3111 of title 29][/us/usc/t29/s3111]” for “the State workforce investment board established under [section 2821 of title 29][/us/usc/t29/s2821]”.
 
@@ -322,6 +324,8 @@
 [/us/stat/128/1046]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1046
 [/us/pl/113/128/s512/dd/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs512%2Fdd%2F4
 [/us/stat/128/1718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1718
+[/us/pl/114/10/s217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2Fs217
+[/us/stat/129/153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F153
 [/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
 [/us/stat/128/1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1703
 [/us/usc/t29/s2821]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2821
@@ -331,6 +335,7 @@
 [/us/act/1937-08-16/ch663]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-08-16%2Fch663
 [/us/stat/50/664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F50%2F664
 [/us/usc/t29/s50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs50
+[/us/pl/114/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10
 [/us/pl/113/128/s512/dd/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs512%2Fdd%2F4%2FA
 [/us/usc/t29/s3111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3111
 [/us/usc/t29/s2821]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2821

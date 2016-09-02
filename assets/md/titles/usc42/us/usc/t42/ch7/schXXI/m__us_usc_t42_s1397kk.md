@@ -87,7 +87,7 @@
 
                 (i) __Block grant set aside from State allotment__ 
 
-                    If the State makes an election under subparagraph (A), the Secretary shall set aside for the State for each such fiscal year an amount equal to the Federal share of 110 percent of the State’s projected expenditures under the applicable existing waiver for providing child health assistance or health benefits coverage to all parents of targeted low-income children enrolled under such waiver for the fiscal year (as certified by the State and submitted to the Secretary by not later than August 31 of the preceding fiscal year). In the case of fiscal year 2013, the set aside for any State shall be computed separately for each period described in subparagraphs (A) and (B) of [section 1397dd(a)(16) of this title][/us/usc/t42/s1397dd/a/16] and any reduction in the allotment for either such period under [section 1397dd(m)(4) of this title][/us/usc/t42/s1397dd/m/4] shall be allocated on a pro rata basis to such set aside.
+                    If the State makes an election under subparagraph (A), the Secretary shall set aside for the State for each such fiscal year an amount equal to the Federal share of 110 percent of the State’s projected expenditures under the applicable existing waiver for providing child health assistance or health benefits coverage to all parents of targeted low-income children enrolled under such waiver for the fiscal year (as certified by the State and submitted to the Secretary by not later than August 31 of the preceding fiscal year). In the case of fiscal year 2013, the set aside for any State shall be computed separately for each period described in subparagraphs (A) and (B) of [section 1397dd(a)(16) of this title][/us/usc/t42/s1397dd/a/16] and any reduction in the allotment for either such period under [section 1397dd(m)(5) of this title][/us/usc/t42/s1397dd/m/5] shall be allocated on a pro rata basis to such set aside.
 
                 (ii) __Payments from block grant__ 
 
@@ -181,11 +181,15 @@
 
                 The term “nonpregnant childless adult” has the meaning given such term by [section 1397gg(f) of this title][/us/usc/t42/s1397gg/f].
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XXI, § 2111, as added [Pub. L. 111–3, title I, § 112(a)(1)][/us/pl/111/3/s112/a/1], Feb. 4, 2009, [123 Stat. 29][/us/stat/123/29].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XXI, § 2111, as added [Pub. L. 111–3, title I, § 112(a)(1)][/us/pl/111/3/s112/a/1], Feb. 4, 2009, [123 Stat. 29][/us/stat/123/29]; amended [Pub. L. 114–10, title III, § 301(b)(2)(D)][/us/pl/114/10/s301/b/2/D], Apr. 16, 2015, [129 Stat. 157][/us/stat/129/157].)
 
  __References in Text__ 
 
     Section 6102(c)(3) of the Deficit Reduction Act of 2005, referred to in subsec. (c)(1), is [section 6102(c)(3) of Pub. L. 109–171][/us/pl/109/171/s6102/c/3], which is set out as a note under [section 1397gg of this title][/us/usc/t42/s1397gg].
+
+ __Amendments__ 
+
+    2015—Subsec. (b)(2)(B)(i). [Pub. L. 114–10][/us/pl/114/10] substituted “section 1397dd(m)(5)” for “section 1397dd(m)(4)”.
 
  __Effective Date__ 
 
@@ -205,7 +209,7 @@
 [/us/usc/t42/s1315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1315
 [/us/usc/t42/s1397ee/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1397ee%2Fb
 [/us/usc/t42/s1397dd/a/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1397dd%2Fa%2F16
-[/us/usc/t42/s1397dd/m/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1397dd%2Fm%2F4
+[/us/usc/t42/s1397dd/m/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1397dd%2Fm%2F5
 [/us/usc/t42/s1397ee/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1397ee%2Fb
 [/us/usc/t42/s1396d/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396d%2Fb
 [/us/usc/t42/s1397mm]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1397mm
@@ -218,8 +222,11 @@
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/pl/111/3/s112/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F3%2Fs112%2Fa%2F1
 [/us/stat/123/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F29
+[/us/pl/114/10/s301/b/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2Fs301%2Fb%2F2%2FD
+[/us/stat/129/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F157
 [/us/pl/109/171/s6102/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2Fs6102%2Fc%2F3
 [/us/usc/t42/s1397gg]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1397gg
+[/us/pl/114/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10
 [/us/pl/111/3/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F3%2Fs3
 [/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
 

@@ -557,7 +557,7 @@
 
  __Amendment of Subsection (a)(1)(A)__ 
 
-[Pub. L. 113–67, div. A, title II, § 202(b)(3)][/us/pl/113/67/s202/b/3], (c), Dec. 26, 2013, [127 Stat. 1177][/us/stat/127/1177], as amended by [Pub. L. 113–93, title II, § 211][/us/pl/113/93/s211], Apr. 1, 2014, [128 Stat. 1047][/us/stat/128/1047], provided that, effective Oct. 1, 2016, subsection (a)(1)(A) of this section is amended to read as follows:
+[Pub. L. 113–67, div. A, title II, § 202(b)(3)][/us/pl/113/67/s202/b/3], (c), Dec. 26, 2013, [127 Stat. 1177][/us/stat/127/1177], as amended by [Pub. L. 113–93, title II, § 211][/us/pl/113/93/s211], Apr. 1, 2014, [128 Stat. 1047][/us/stat/128/1047]; [Pub. L. 114–10, title II, § 220][/us/pl/114/10/s220], Apr. 16, 2015, [129 Stat. 154][/us/stat/129/154], provided that, effective Oct. 1, 2017, subsection (a)(1)(A) of this section is amended to read as follows:
 
     (A) pursuant to—
 
@@ -683,7 +683,7 @@
 
  __Effective Date of 2013 Amendment__ 
 
-    Amendment by [Pub. L. 113–67][/us/pl/113/67] effective Oct. 1, 2016, see [section 202(c) of Pub. L. 113–67][/us/pl/113/67/s202/c], set out as a note under [section 1396a of this title][/us/usc/t42/s1396a].
+    Amendment by [Pub. L. 113–67][/us/pl/113/67] effective Oct. 1, 2017, see [section 202(c) of Pub. L. 113–67][/us/pl/113/67/s202/c], set out as a note under [section 1396a of this title][/us/usc/t42/s1396a].
 
  __Effective Date of 2009 Amendment__ 
 
@@ -932,6 +932,8 @@
 [/us/stat/127/1177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1177
 [/us/pl/113/93/s211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F93%2Fs211
 [/us/stat/128/1047]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1047
+[/us/pl/114/10/s220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2Fs220
+[/us/stat/129/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F154
 [/us/usc/t42/s1396a/a/25/H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396a%2Fa%2F25%2FH
 [/us/usc/t42/s1396k/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396k%2Fa%2F1%2FA
 [/us/pl/113/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67

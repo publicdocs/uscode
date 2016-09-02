@@ -19,7 +19,7 @@
 
         (1) __In general__ 
 
-            From the amounts appropriated under subsection (g), subject to paragraph (2), the Secretary shall award grants to eligible entities during the period of fiscal years 2009 through 2015 to conduct outreach and enrollment efforts that are designed to increase the enrollment and participation of eligible children under this subchapter and subchapter XIX.
+            From the amounts appropriated under subsection (g), subject to paragraph (2), the Secretary shall award grants to eligible entities during the period of fiscal years 2009 through 2017 to conduct outreach and enrollment efforts that are designed to increase the enrollment and participation of eligible children under this subchapter and subchapter XIX.
 
         (2) __Ten percent set aside for national enrollment campaign__ 
 
@@ -139,7 +139,7 @@
 
     (g) __Appropriation__ 
 
-        There is appropriated, out of any money in the Treasury not otherwise appropriated, $140,000,000 for the period of fiscal years 2009 through 2015, for the purpose of awarding grants under this section. Amounts appropriated and paid under the authority of this section shall be in addition to amounts appropriated under [section 1397dd of this title][/us/usc/t42/s1397dd] and paid to States in accordance with [section 1397ee of this title][/us/usc/t42/s1397ee], including with respect to expenditures for outreach activities in accordance with subsections (a)(1)(D)(iii) and (c)(2)(C) of that section.
+        There is appropriated, out of any money in the Treasury not otherwise appropriated, $140,000,000 for the period of fiscal years 2009 through 2015 and $40,000,000 for the period of fiscal years 2016 and 2017, for the purpose of awarding grants under this section. Amounts appropriated and paid under the authority of this section shall be in addition to amounts appropriated under [section 1397dd of this title][/us/usc/t42/s1397dd] and paid to States in accordance with [section 1397ee of this title][/us/usc/t42/s1397ee], including with respect to expenditures for outreach activities in accordance with subsections (a)(1)(D)(iii) and (c)(2)(C) of that section.
 
     (h) __National enrollment campaign__ 
 
@@ -157,7 +157,7 @@
 
         (6) such other outreach initiatives as the Secretary determines would increase public awareness of the programs under this subchapter and subchapter XIX.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XXI, § 2113, as added [Pub. L. 111–3, title II, § 201(a)][/us/pl/111/3/s201/a], Feb. 4, 2009, [123 Stat. 35][/us/stat/123/35]; amended [Pub. L. 111–148, title X, § 10203(d)(2)(E)][/us/pl/111/148/s10203/d/2/E], Mar. 23, 2010, [124 Stat. 931][/us/stat/124/931].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XXI, § 2113, as added [Pub. L. 111–3, title II, § 201(a)][/us/pl/111/3/s201/a], Feb. 4, 2009, [123 Stat. 35][/us/stat/123/35]; amended [Pub. L. 111–148, title X, § 10203(d)(2)(E)][/us/pl/111/148/s10203/d/2/E], Mar. 23, 2010, [124 Stat. 931][/us/stat/124/931]; [Pub. L. 114–10, title III, § 303][/us/pl/114/10/s303], Apr. 16, 2015, [129 Stat. 158][/us/stat/129/158].)
 
  __References in Text__ 
 
@@ -168,6 +168,10 @@
     The Richard B. Russell National School Lunch Act, referred to in subsec. (f)(2)(D), is [act June 4, 1946, ch. 281][/us/act/1946-06-04/ch281], [60 Stat. 230][/us/stat/60/230], which is classified generally to chapter 13 (§ 1751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1751 of this title][/us/usc/t42/s1751] and Tables.
 
  __Amendments__ 
+
+    2015—Subsec. (a)(1). [Pub. L. 114–10, § 303(1)][/us/pl/114/10/s303/1], substituted “2017” for “2015”.
+
+    Subsec. (g). [Pub. L. 114–10, § 303(2)][/us/pl/114/10/s303/2], inserted “and $40,000,000 for the period of fiscal years 2016 and 2017” after “2015”.
 
     2010—Subsec. (a)(1). [Pub. L. 111–148, § 10203(d)(2)(E)(i)][/us/pl/111/148/s10203/d/2/E/i], substituted “2015” for “2013”.
 
@@ -200,6 +204,8 @@
 [/us/stat/123/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F35
 [/us/pl/111/148/s10203/d/2/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10203%2Fd%2F2%2FE
 [/us/stat/124/931]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F931
+[/us/pl/114/10/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2Fs303
+[/us/stat/129/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F158
 [/us/pl/94/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437
 [/us/stat/90/1400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1400
 [/us/usc/t25/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1601
@@ -209,6 +215,8 @@
 [/us/act/1946-06-04/ch281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-06-04%2Fch281
 [/us/stat/60/230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F230
 [/us/usc/t42/s1751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1751
+[/us/pl/114/10/s303/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2Fs303%2F1
+[/us/pl/114/10/s303/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2Fs303%2F2
 [/us/pl/111/148/s10203/d/2/E/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10203%2Fd%2F2%2FE%2Fi
 [/us/pl/111/148/s10203/d/2/E/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10203%2Fd%2F2%2FE%2Fii
 [/us/pl/111/3/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F3%2Fs3

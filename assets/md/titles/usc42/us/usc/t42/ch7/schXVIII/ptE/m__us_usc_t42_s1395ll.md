@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch7/schXVIII/ptE/m__us_usc_t42_s1395kk–1.md) | [Next](./../../../../../..//us/usc/t42/ch7/schXVIII/ptE/m__us_usc_t42_s1395mm.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ll)
+[Previous](./../../../../../..//us/usc/t42/ch7/schXVIII/ptE/m__us_usc_t42_s1395kk–2.md) | [Next](./../../../../../..//us/usc/t42/ch7/schXVIII/ptE/m__us_usc_t42_s1395mm.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ll)
 
 ## § 1395ll. Studies and recommendations
 
@@ -279,7 +279,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch7/schXVIII/ptE/m__us_usc_t42_s1395kk–1.md) | [Next](./../../../../../..//us/usc/t42/ch7/schXVIII/ptE/m__us_usc_t42_s1395mm.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ll)
+[Previous](./../../../../../..//us/usc/t42/ch7/schXVIII/ptE/m__us_usc_t42_s1395kk–2.md) | [Next](./../../../../../..//us/usc/t42/ch7/schXVIII/ptE/m__us_usc_t42_s1395mm.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ll)
 
 ----------
 ----------

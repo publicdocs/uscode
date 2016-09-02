@@ -35,7 +35,7 @@
 
             (D) $2,200,000,000 for fiscal year 2014; and
 
-            (E) $3,600,000,000 for fiscal year 2015; and
+            (E) $3,600,000,000 for each of fiscal years 2015 through 2017; and
 
         (2)
 
@@ -49,7 +49,7 @@
 
             (D) $305,000,000 for fiscal year 2014; and
 
-            (E) $310,000,000 for fiscal year 2015.
+            (E) $310,000,000 for each of fiscal years 2015 through 2017.
 
     (c) __Construction__ 
 
@@ -63,13 +63,15 @@
 
         Amounts appropriated under subsections (b) and (c) shall remain available until expended.
 
-([Pub. L. 111–148, title X, § 10503][/us/pl/111/148/s10503], Mar. 23, 2010, [124 Stat. 1004][/us/stat/124/1004]; [Pub. L. 111–152, title II, § 2303][/us/pl/111/152/s2303], Mar. 30, 2010, [124 Stat. 1083][/us/stat/124/1083].)
+([Pub. L. 111–148, title X, § 10503][/us/pl/111/148/s10503], Mar. 23, 2010, [124 Stat. 1004][/us/stat/124/1004]; [Pub. L. 111–152, title II, § 2303][/us/pl/111/152/s2303], Mar. 30, 2010, [124 Stat. 1083][/us/stat/124/1083]; [Pub. L. 114–10, title II, § 221(a)][/us/pl/114/10/s221/a], Apr. 16, 2015, [129 Stat. 154][/us/stat/129/154].)
 
  __Codification__ 
 
     Section was enacted as part of the Patient Protection and Affordable Care Act, and not as part of the Public Health Service Act which comprises this chapter.
 
  __Amendments__ 
+
+    2015—Subsec. (b)(1)(E), (2)(E). [Pub. L. 114–10][/us/pl/114/10] substituted “for each of fiscal years 2015 through 2017” for “for fiscal year 2015”.
 
     2010—Subsec. (b)(1)(A). [Pub. L. 111–152, § 2303(1)][/us/pl/111/152/s2303/1], substituted “1,000,000,000” for “700,000,000”.
 
@@ -94,6 +96,9 @@
 [/us/stat/124/1004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1004
 [/us/pl/111/152/s2303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2Fs2303
 [/us/stat/124/1083]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1083
+[/us/pl/114/10/s221/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2Fs221%2Fa
+[/us/stat/129/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F154
+[/us/pl/114/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10
 [/us/pl/111/152/s2303/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2Fs2303%2F1
 [/us/pl/111/152/s2303/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2Fs2303%2F2
 [/us/pl/111/152/s2303/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2Fs2303%2F3

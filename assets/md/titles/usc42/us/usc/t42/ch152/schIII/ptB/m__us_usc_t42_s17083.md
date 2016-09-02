@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch152/schIII/ptB/m__us_usc_t42_s17082.md) | [Next](./../../../../../..//us/usc/t42/ch152/schIII/ptC/m__us_usc_t42_ch152_schIII_ptC.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs17083)
+[Previous](./../../../../../..//us/usc/t42/ch152/schIII/ptB/m__us_usc_t42_s17082.md) | [Next](./../../../../../..//us/usc/t42/ch152/schIII/ptB/m__us_usc_t42_s17084.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs17083)
 
 ## § 17083. Public outreach
 
@@ -53,7 +53,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch152/schIII/ptB/m__us_usc_t42_s17082.md) | [Next](./../../../../../..//us/usc/t42/ch152/schIII/ptC/m__us_usc_t42_ch152_schIII_ptC.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs17083)
+[Previous](./../../../../../..//us/usc/t42/ch152/schIII/ptB/m__us_usc_t42_s17082.md) | [Next](./../../../../../..//us/usc/t42/ch152/schIII/ptB/m__us_usc_t42_s17084.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs17083)
 
 ----------
 ----------

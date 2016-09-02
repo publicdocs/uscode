@@ -393,9 +393,13 @@
 
             (D) $400,000,000 for fiscal year 2013;
 
-            (E) $400,000,000 for fiscal year 2014; and
+            (E) $400,000,000 for fiscal year 2014;
 
-            (F) for the period beginning on October 1, 2014, and ending on March 31, 2015, an amount equal to the amount provided in subparagraph (E).
+            (F) for fiscal year 2015, $400,000,000;
+
+            (G) for fiscal year 2016, $400,000,000; and
+
+            (H) for fiscal year 2017, $400,000,000.
 
         (2) __Reservations__ 
 
@@ -435,7 +439,7 @@
 
             The terms “Indian Tribe” and “Tribal Organization”, and “Urban Indian Organization” have the meanings given such terms in [section 1603 of title 25][/us/usc/t25/s1603].
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title V, § 511, as added [Pub. L. 111–148, title II, § 2951][/us/pl/111/148/s2951], Mar. 23, 2010, [124 Stat. 334][/us/stat/124/334]; amended [Pub. L. 113–93, title II, § 209][/us/pl/113/93/s209], Apr. 1, 2014, [128 Stat. 1046][/us/stat/128/1046].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title V, § 511, as added [Pub. L. 111–148, title II, § 2951][/us/pl/111/148/s2951], Mar. 23, 2010, [124 Stat. 334][/us/stat/124/334]; amended [Pub. L. 113–93, title II, § 209][/us/pl/113/93/s209], Apr. 1, 2014, [128 Stat. 1046][/us/stat/128/1046]; [Pub. L. 114–10, title II, § 218][/us/pl/114/10/s218], Apr. 16, 2015, [129 Stat. 153][/us/stat/129/153].)
 
  __References in Text__ 
 
@@ -450,6 +454,8 @@
     Provisions similar to those comprising former section 711 were contained in section 516 of [act Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title V, as added July 30, 1965, [Pub. L. 89–97, title II, § 203(a)][/us/pl/89/97/s203/a], [79 Stat. 353][/us/stat/79/353] (formerly classified to [section 716 of this title][/us/usc/t42/s716]), prior to the general amendment and renumbering of title V of act Aug. 14, 1935, by [Pub. L. 90–248, § 301][/us/pl/90/248/s301].
 
  __Amendments__ 
+
+    2015—Subsec. (j)(1)(F) to (H). [Pub. L. 114–10][/us/pl/114/10] substituted “for fiscal year 2015, $400,000,000;” for “for the period beginning on October 1, 2014, and ending on March 31, 2015, an amount equal to the amount provided in subparagraph (E).” in subpar. (F) and added subpars. (G) and (H).
 
     2014—Subsec. (j)(1)(F). [Pub. L. 113–93, § 209(1)][/us/pl/113/93/s209/1], added subpar. (F).
 
@@ -484,6 +490,8 @@
 [/us/stat/124/334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F334
 [/us/pl/113/93/s209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F93%2Fs209
 [/us/stat/128/1046]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1046
+[/us/pl/114/10/s218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2Fs218
+[/us/stat/129/153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F153
 [/us/pl/93/247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F247
 [/us/stat/88/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F4
 [/us/usc/t42/s5101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5101
@@ -516,6 +524,7 @@
 [/us/stat/79/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F353
 [/us/usc/t42/s716]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs716
 [/us/pl/90/248/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248%2Fs301
+[/us/pl/114/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10
 [/us/pl/113/93/s209/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F93%2Fs209%2F1
 [/us/pl/113/93/s209/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F93%2Fs209%2F2
 

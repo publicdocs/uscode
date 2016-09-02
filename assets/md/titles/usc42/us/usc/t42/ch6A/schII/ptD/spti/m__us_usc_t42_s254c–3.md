@@ -43,9 +43,9 @@
 
             (B) $100,000,000 for fiscal year 2003; and
 
-            (C) $150,000,000 for each of fiscal years 2004 through 2015.
+            (C) $150,000,000 for each of fiscal years 2004 through 2017.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 330C, as added [Pub. L. 105–33, title IV, § 4922][/us/pl/105/33/s4922], Aug. 5, 1997, [111 Stat. 574][/us/stat/111/574]; amended [Pub. L. 105–174, title III, § 3001][/us/pl/105/174/s3001], May 1, 1998, [112 Stat. 82][/us/stat/112/82]; [Pub. L. 106–554, § 1(a)(6)][/us/pl/106/554/s1/a/6] \[title IX, § 931(b)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–585; [Pub. L. 107–360, § 1(b)][/us/pl/107/360/s1/b], Dec. 17, 2002, [116 Stat. 3019][/us/stat/116/3019]; [Pub. L. 110–173, title III, § 302(b)][/us/pl/110/173/s302/b], Dec. 29, 2007, [121 Stat. 2515][/us/stat/121/2515]; [Pub. L. 110–275, title III, § 303(b)][/us/pl/110/275/s303/b], July 15, 2008, [122 Stat. 2594][/us/stat/122/2594]; [Pub. L. 111–309, title I, § 112(2)][/us/pl/111/309/s112/2], Dec. 15, 2010, [124 Stat. 3289][/us/stat/124/3289]; [Pub. L. 112–240, title VI, § 625(b)][/us/pl/112/240/s625/b], Jan. 2, 2013, [126 Stat. 2353][/us/stat/126/2353]; [Pub. L. 113–93, title II, § 204(b)][/us/pl/113/93/s204/b], Apr. 1, 2014, [128 Stat. 1046][/us/stat/128/1046].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 330C, as added [Pub. L. 105–33, title IV, § 4922][/us/pl/105/33/s4922], Aug. 5, 1997, [111 Stat. 574][/us/stat/111/574]; amended [Pub. L. 105–174, title III, § 3001][/us/pl/105/174/s3001], May 1, 1998, [112 Stat. 82][/us/stat/112/82]; [Pub. L. 106–554, § 1(a)(6)][/us/pl/106/554/s1/a/6] \[title IX, § 931(b)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–585; [Pub. L. 107–360, § 1(b)][/us/pl/107/360/s1/b], Dec. 17, 2002, [116 Stat. 3019][/us/stat/116/3019]; [Pub. L. 110–173, title III, § 302(b)][/us/pl/110/173/s302/b], Dec. 29, 2007, [121 Stat. 2515][/us/stat/121/2515]; [Pub. L. 110–275, title III, § 303(b)][/us/pl/110/275/s303/b], July 15, 2008, [122 Stat. 2594][/us/stat/122/2594]; [Pub. L. 111–309, title I, § 112(2)][/us/pl/111/309/s112/2], Dec. 15, 2010, [124 Stat. 3289][/us/stat/124/3289]; [Pub. L. 112–240, title VI, § 625(b)][/us/pl/112/240/s625/b], Jan. 2, 2013, [126 Stat. 2353][/us/stat/126/2353]; [Pub. L. 113–93, title II, § 204(b)][/us/pl/113/93/s204/b], Apr. 1, 2014, [128 Stat. 1046][/us/stat/128/1046]; [Pub. L. 114–10, title II, § 213(b)][/us/pl/114/10/s213/b], Apr. 16, 2015, [129 Stat. 152][/us/stat/129/152].)
 
  __References in Text__ 
 
@@ -54,6 +54,8 @@
     The Indian Health Care Improvement Act, referred to in subsec. (b)(3), is [Pub. L. 94–437][/us/pl/94/437], Sept. 30, 1976, [90 Stat. 1400][/us/stat/90/1400], as amended. Title V of the Act is classified generally to subchapter IV (§ 1651 et seq.) of chapter 18 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 25][/us/usc/t25/s1601] and Tables.
 
  __Amendments__ 
+
+    2015—Subsec. (c)(2)(C). [Pub. L. 114–10][/us/pl/114/10] substituted “2017” for “2015”.
 
     2014—Subsec. (c)(2)(C). [Pub. L. 113–93][/us/pl/113/93] substituted “2015” for “2014”.
 
@@ -104,12 +106,15 @@
 [/us/stat/126/2353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2353
 [/us/pl/113/93/s204/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F93%2Fs204%2Fb
 [/us/stat/128/1046]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1046
+[/us/pl/114/10/s213/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2Fs213%2Fb
+[/us/stat/129/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F152
 [/us/pl/93/638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638
 [/us/stat/88/2206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2206
 [/us/usc/t25/s450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450
 [/us/pl/94/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437
 [/us/stat/90/1400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1400
 [/us/usc/t25/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1601
+[/us/pl/114/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10
 [/us/pl/113/93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F93
 [/us/pl/112/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240
 [/us/pl/111/309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F309

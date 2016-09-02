@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch152/schIII/m__us_usc_t42_ch152_schIII.md) | [Next](./../../../../..//us/usc/t42/ch152/schIII/ptA/m__us_usc_t42_ch152_schIII_ptA.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs17061)
+[Previous](./../../../../..//us/usc/t42/ch152/schIII/m__us_usc_t42_ch152_schIII.md) | [Next](./../../../../..//us/usc/t42/ch152/schIII/m__us_usc_t42_s17062.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs17061)
 
 ## § 17061. Definitions
 
@@ -237,7 +237,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch152/schIII/m__us_usc_t42_ch152_schIII.md) | [Next](./../../../../..//us/usc/t42/ch152/schIII/ptA/m__us_usc_t42_ch152_schIII_ptA.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs17061)
+[Previous](./../../../../..//us/usc/t42/ch152/schIII/m__us_usc_t42_ch152_schIII.md) | [Next](./../../../../..//us/usc/t42/ch152/schIII/m__us_usc_t42_s17062.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs17061)
 
 ----------
 ----------

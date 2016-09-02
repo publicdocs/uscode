@@ -1213,11 +1213,19 @@
 
                 An MA plan which does not report data that enables the Secretary to rate the plan for purposes of this paragraph shall be counted as having a rating of fewer than 3.5 stars.
 
+            (C) __Special rule for first 3 plan years for plans that were converted from a reasonable cost reimbursement contract__ 
+
+            For purposes of applying paragraph (1) and [section 1395w–24(b)(1)(C) of this title][/us/usc/t42/s1395w–24/b/1/C] for the first 3 plan years under this part in the case of an MA plan to which deemed enrollment applies under [section 1395w–21(c)(4) of this title][/us/usc/t42/s1395w–21/c/4]—
+
+                (i) such plan shall not be treated as a new MA plan (as defined in paragraph (3)(A)(iii)(II)); and
+
+                (ii) in determining the star rating of the plan under subparagraph (A), to the extent that Medicare Advantage data for such plan is not available for a measure used to determine such star rating, the Secretary shall use data from the period in which such plan was a reasonable cost reimbursement contract.
+
         (5) __Exception for PACE plans__ 
 
             This subsection shall not apply to payments to a PACE program under [section 1395eee of this title][/us/usc/t42/s1395eee].
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XVIII, § 1853, as added [Pub. L. 105–33, title IV, § 4001][/us/pl/105/33/s4001], Aug. 5, 1997, [111 Stat. 299][/us/stat/111/299]; amended [Pub. L. 106–113, div. B, § 1000(a)(6)][/us/pl/106/113/s1000/a/6] \[title V, §§ 511(a), 512, 514(a), 517\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–380, 1501A–382 to 1501A–384; [Pub. L. 106–554, § 1(a)(6)][/us/pl/106/554/s1/a/6] \[title VI, §§ 601(a), 602(a), 603, 605(a), 606(a)(2)(A), 607, 608(a), 611(a)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–554 to 2763A–559; [Pub. L. 107–188, title V, § 532(d)(1)][/us/pl/107/188/s532/d/1], June 12, 2002, [116 Stat. 696][/us/stat/116/696]; [Pub. L. 108–173, title I, § 101(e)(3)(D)][/us/pl/108/173/s101/e/3/D], title II, §§ 211(a)–(e)(1), 221(d)(1), (4), 222(d)–(f), (i), 237(b)(1), (2)(B), 241(b)(1), title VII, § 736(d)(1), title IX, § 900(e)(1)(G), Dec. 8, 2003, [117 Stat. 2151][/us/stat/117/2151], 2176–2178, 2192, 2193, 2200–2202, 2204, 2212, 2213, 2220, 2357, 2371; [Pub. L. 109–171, title V, § 5301][/us/pl/109/171/s5301], Feb. 8, 2006, [120 Stat. 48][/us/stat/120/48]; [Pub. L. 110–275, title I, § 161(a)][/us/pl/110/275/s161/a], (b), July 15, 2008, [122 Stat. 2568][/us/stat/122/2568], 2569; [Pub. L. 111–5, div. B, title IV][/us/pl/111/5], §§ 4101(c), (e), 4102(c), (d)(3), Feb. 17, 2009, [123 Stat. 473][/us/stat/123/473], 476, 484, 486; [Pub. L. 111–148, title III][/us/pl/111/148], §§ 3201(a)(1), (2)(A), (b), (e)(1), (2)(A)(ii)–(iv), (f)(1), (g), (h), (i)(2), 3202(b)(2), 3203, 3205(b), (f), title X, § 10318, Mar. 23, 2010, [124 Stat. 442][/us/stat/124/442], 444–447, 450, 452, 454–458, 948; [Pub. L. 111–152, title I, § 1102(a)][/us/pl/111/152/s1102/a]–(c)(3), (e), Mar. 30, 2010, [124 Stat. 1040][/us/stat/124/1040], 1043, 1046; [Pub. L. 112–240, title VI, § 639][/us/pl/112/240/s639], Jan. 2, 2013, [126 Stat. 2357][/us/stat/126/2357].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XVIII, § 1853, as added [Pub. L. 105–33, title IV, § 4001][/us/pl/105/33/s4001], Aug. 5, 1997, [111 Stat. 299][/us/stat/111/299]; amended [Pub. L. 106–113, div. B, § 1000(a)(6)][/us/pl/106/113/s1000/a/6] \[title V, §§ 511(a), 512, 514(a), 517\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–380, 1501A–382 to 1501A–384; [Pub. L. 106–554, § 1(a)(6)][/us/pl/106/554/s1/a/6] \[title VI, §§ 601(a), 602(a), 603, 605(a), 606(a)(2)(A), 607, 608(a), 611(a)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–554 to 2763A–559; [Pub. L. 107–188, title V, § 532(d)(1)][/us/pl/107/188/s532/d/1], June 12, 2002, [116 Stat. 696][/us/stat/116/696]; [Pub. L. 108–173, title I, § 101(e)(3)(D)][/us/pl/108/173/s101/e/3/D], title II, §§ 211(a)–(e)(1), 221(d)(1), (4), 222(d)–(f), (i), 237(b)(1), (2)(B), 241(b)(1), title VII, § 736(d)(1), title IX, § 900(e)(1)(G), Dec. 8, 2003, [117 Stat. 2151][/us/stat/117/2151], 2176–2178, 2192, 2193, 2200–2202, 2204, 2212, 2213, 2220, 2357, 2371; [Pub. L. 109–171, title V, § 5301][/us/pl/109/171/s5301], Feb. 8, 2006, [120 Stat. 48][/us/stat/120/48]; [Pub. L. 110–275, title I, § 161(a)][/us/pl/110/275/s161/a], (b), July 15, 2008, [122 Stat. 2568][/us/stat/122/2568], 2569; [Pub. L. 111–5, div. B, title IV][/us/pl/111/5], §§ 4101(c), (e), 4102(c), (d)(3), Feb. 17, 2009, [123 Stat. 473][/us/stat/123/473], 476, 484, 486; [Pub. L. 111–148, title III][/us/pl/111/148], §§ 3201(a)(1), (2)(A), (b), (e)(1), (2)(A)(ii)–(iv), (f)(1), (g), (h), (i)(2), 3202(b)(2), 3203, 3205(b), (f), title X, § 10318, Mar. 23, 2010, [124 Stat. 442][/us/stat/124/442], 444–447, 450, 452, 454–458, 948; [Pub. L. 111–152, title I, § 1102(a)][/us/pl/111/152/s1102/a]–(c)(3), (e), Mar. 30, 2010, [124 Stat. 1040][/us/stat/124/1040], 1043, 1046; [Pub. L. 112–240, title VI, § 639][/us/pl/112/240/s639], Jan. 2, 2013, [126 Stat. 2357][/us/stat/126/2357]; [Pub. L. 114–10, title II, § 209(d)][/us/pl/114/10/s209/d], Apr. 16, 2015, [129 Stat. 150][/us/stat/129/150].)
 
  __References in Text__ 
 
@@ -1232,6 +1240,8 @@
     The Internal Revenue Code of 1986, referred to in subsec. (e)(2)(A), is classified generally to Title 26, Internal Revenue Code.
 
  __Amendments__ 
+
+    2015—Subsec. (o)(4)(C). [Pub. L. 114–10][/us/pl/114/10] added subpar. (C).
 
     2013—Subsec. (a)(1)(C)(ii)(III). [Pub. L. 112–240][/us/pl/112/240] substituted “1.5 percentage points” for “1.3 percentage points” and “5.9 percent” for “5.7 percent”.
 
@@ -2104,6 +2114,8 @@
 [/us/usc/t42/s1395ww/n/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww%2Fn%2F3
 [/us/usc/t42/s1395eee]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395eee
 [/us/usc/t42/s1395w–22/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%9322%2Fe
+[/us/usc/t42/s1395w–24/b/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%9324%2Fb%2F1%2FC
+[/us/usc/t42/s1395w–21/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%9321%2Fc%2F4
 [/us/usc/t42/s1395eee]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395eee
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/pl/105/33/s4001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs4001
@@ -2128,6 +2140,8 @@
 [/us/stat/124/1040]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1040
 [/us/pl/112/240/s639]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs639
 [/us/stat/126/2357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2357
+[/us/pl/114/10/s209/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2Fs209%2Fd
+[/us/stat/129/150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F150
 [/us/usc/t42/s1395w–28/b/6/B/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%9328%2Fb%2F6%2FB%2Fiii
 [/us/usc/t42/s1395w–24/b/1/C/iv]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%9324%2Fb%2F1%2FC%2Fiv
 [/us/usc/t42/s1395w–24/b/1/C/v]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%9324%2Fb%2F1%2FC%2Fv
@@ -2143,6 +2157,7 @@
 [/us/usc/t42/s1395w–29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%9329
 [/us/pl/111/152/s1102/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2Fs1102%2Ff
 [/us/stat/124/1046]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1046
+[/us/pl/114/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10
 [/us/pl/112/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240
 [/us/pl/111/148/s3201/f/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs3201%2Ff%2F1%2FB
 [/us/pl/111/152/s1102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2Fs1102%2Fa

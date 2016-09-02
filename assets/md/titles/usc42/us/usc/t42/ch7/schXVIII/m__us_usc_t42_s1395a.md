@@ -75,23 +75,47 @@
 
                 (i) the affidavit identifies the physician or practitioner and is in writing and is signed by the physician or practitioner;
 
-                (ii) the affidavit provides that the physician or practitioner will not submit any claim under this subchapter for any item or service provided to any medicare beneficiary (and will not receive any reimbursement or amount described in paragraph (1)(B) for any such item or service) during the 2-year period beginning on the date the affidavit is signed; and
+                (ii) the affidavit provides that the physician or practitioner will not submit any claim under this subchapter for any item or service provided to any medicare beneficiary (and will not receive any reimbursement or amount described in paragraph (1)(B) for any such item or service) during the applicable 2-year period (as defined in subparagraph (D)); and
 
                 (iii) a copy of the affidavit is filed with the Secretary no later than 10 days after the first contract to which such affidavit applies is entered into.
 
             (C) __Enforcement__ 
 
-            If a physician or practitioner signing an affidavit under subparagraph (B) knowingly and willfully submits a claim under this subchapter for any item or service provided during the 2-year period described in subparagraph (B)(ii) (or receives any reimbursement or amount described in paragraph (1)(B) for any such item or service) with respect to such affidavit—
+            If a physician or practitioner signing an affidavit under subparagraph (B) knowingly and willfully submits a claim under this subchapter for any item or service provided during the applicable 2-year period (or receives any reimbursement or amount described in paragraph (1)(B) for any such item or service) with respect to such affidavit—
 
                 (i) this subsection shall not apply with respect to any items and services provided by the physician or practitioner pursuant to any contract on and after the date of such submission and before the end of such period; and
 
                 (ii) no payment shall be made under this subchapter for any item or service furnished by the physician or practitioner during the period described in clause (i) (and no reimbursement or payment of any amount described in paragraph (1)(B) shall be made for any such item or service).
 
+            (D) __Applicable 2-year periods for effectiveness of affidavits__ 
+
+                In this subsection, the term “applicable 2-year period” means, with respect to an affidavit of a physician or practitioner under subparagraph (B), the 2-year period beginning on the date the affidavit is signed and includes each subsequent 2-year period unless the physician or practitioner involved provides notice to the Secretary (in a form and manner specified by the Secretary), not later than 30 days before the end of the previous 2-year period, that the physician or practitioner does not want to extend the application of the affidavit for such subsequent 2-year period.
+
         (4) __Limitation on actual charge and claim submission requirement not applicable__ 
 
             [Section 1395w–4(g) of this title][/us/usc/t42/s1395w–4/g] shall not apply with respect to any item or service provided to a medicare beneficiary under a contract described in paragraph (1).
 
-        (5) __Definitions__ 
+        (5) __Posting of information on opt-out physicians and practitioners__ 
+
+            (A) __In general__ 
+
+                Beginning not later than February 1, 2016, the Secretary shall make publicly available through an appropriate publicly accessible website of the Department of Health and Human Services information on the number and characteristics of opt-out physicians and practitioners and shall update such information on such website not less often than annually.
+
+            (B) __Information to be included__ 
+
+            The information to be made available under subparagraph (A) shall include at least the following with respect to opt-out physicians and practitioners:
+
+                (i) Their number.
+
+                (ii) Their physician or professional specialty or other designation.
+
+                (iii) Their geographic distribution.
+
+                (iv) The timing of their becoming opt-out physicians and practitioners, relative, to the extent feasible, to when they first enrolled in the program under this subchapter and with respect to applicable 2-year periods.
+
+                (v) The proportion of such physicians and practitioners who billed for emergency or urgent care services.
+
+        (6) __Definitions__ 
 
         In this subsection:
 
@@ -107,13 +131,35 @@
 
                 The term “practitioner” has the meaning given such term by [section 1395u(b)(18)(C) of this title][/us/usc/t42/s1395u/b/18/C].
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XVIII, § 1802, as added [Pub. L. 89–97, title I, § 102(a)][/us/pl/89/97/s102/a], July 30, 1965, [79 Stat. 291][/us/stat/79/291]; amended [Pub. L. 105–33, title IV, § 4507(a)(1)][/us/pl/105/33/s4507/a/1], (2)(A), Aug. 5, 1997, [111 Stat. 439][/us/stat/111/439], 441; [Pub. L. 108–173, title VI, § 603][/us/pl/108/173/s603], Dec. 8, 2003, [117 Stat. 2301][/us/stat/117/2301].)
+            (D) __Opt-out physician or practitioner__ 
+
+                The term “opt-out physician or practitioner” means a physician or practitioner who has in effect an affidavit under paragraph (3)(B).
+
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XVIII, § 1802, as added [Pub. L. 89–97, title I, § 102(a)][/us/pl/89/97/s102/a], July 30, 1965, [79 Stat. 291][/us/stat/79/291]; amended [Pub. L. 105–33, title IV, § 4507(a)(1)][/us/pl/105/33/s4507/a/1], (2)(A), Aug. 5, 1997, [111 Stat. 439][/us/stat/111/439], 441; [Pub. L. 108–173, title VI, § 603][/us/pl/108/173/s603], Dec. 8, 2003, [117 Stat. 2301][/us/stat/117/2301]; [Pub. L. 114–10, title I, § 106(a)(1)(A)][/us/pl/114/10/s106/a/1/A], (2), Apr. 16, 2015, [129 Stat. 137][/us/stat/129/137], 138.)
 
  __Amendments__ 
+
+    2015—Subsec. (b)(3)(B)(ii). [Pub. L. 114–10, § 106(a)(1)(A)(i)][/us/pl/114/10/s106/a/1/A/i], substituted “during the applicable 2-year period (as defined in subparagraph (D))” for “during the 2-year period beginning on the date the affidavit is signed”.
+
+    Subsec. (b)(3)(C). [Pub. L. 114–10, § 106(a)(1)(A)(ii)][/us/pl/114/10/s106/a/1/A/ii], substituted “during the applicable 2-year period” for “during the 2-year period described in subparagraph (B)(ii)” in introductory provisions.
+
+    Subsec. (b)(3)(D). [Pub. L. 114–10, § 106(a)(1)(A)(iii)][/us/pl/114/10/s106/a/1/A/iii], added subpar. (D).
+
+    Subsec. (b)(5). [Pub. L. 114–10, § 106(a)(2)(C)][/us/pl/114/10/s106/a/2/C], added par. (5). Former par. (5) redesignated (6).
+
+    Subsec. (b)(5)(D). [Pub. L. 114–10, § 106(a)(2)(A)][/us/pl/114/10/s106/a/2/A], added subpar. (D).
+
+    Subsec. (b)(6). [Pub. L. 114–10, § 106(a)(2)(B)][/us/pl/114/10/s106/a/2/B], redesignated par. (5) as (6).
 
     2003—Subsec. (b)(5)(B). [Pub. L. 108–173][/us/pl/108/173] substituted “paragraphs (1), (2), (3), and (4) of section 1395x(r)” for “section 1395x(r)(1)”.
 
     1997—[Pub. L. 105–33][/us/pl/105/33] designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
+
+ __Effective Date of 2015 Amendment__ 
+
+[Pub. L. 114–10, title I, § 106(a)(1)(B)][/us/pl/114/10/s106/a/1/B], Apr. 16, 2015, [129 Stat. 138][/us/stat/129/138], provided that: 
+
+> “The amendments made by subparagraph (A) \[amending this section\] shall apply to affidavits entered into on or after the date that is 60 days after the date of the enactment of this Act \[Apr. 16, 2015\].”
 
  __Effective Date of 1997 Amendment__ 
 
@@ -157,8 +203,18 @@
 [/us/stat/111/439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F439
 [/us/pl/108/173/s603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs603
 [/us/stat/117/2301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2301
+[/us/pl/114/10/s106/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2Fs106%2Fa%2F1%2FA
+[/us/stat/129/137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F137
+[/us/pl/114/10/s106/a/1/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2Fs106%2Fa%2F1%2FA%2Fi
+[/us/pl/114/10/s106/a/1/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2Fs106%2Fa%2F1%2FA%2Fii
+[/us/pl/114/10/s106/a/1/A/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2Fs106%2Fa%2F1%2FA%2Fiii
+[/us/pl/114/10/s106/a/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2Fs106%2Fa%2F2%2FC
+[/us/pl/114/10/s106/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2Fs106%2Fa%2F2%2FA
+[/us/pl/114/10/s106/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2Fs106%2Fa%2F2%2FB
 [/us/pl/108/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173
 [/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/114/10/s106/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2Fs106%2Fa%2F1%2FB
+[/us/stat/129/138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F138
 [/us/pl/105/33/s4507/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs4507%2Fc
 [/us/stat/111/442]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F442
 [/us/usc/t42/s1395y]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395y

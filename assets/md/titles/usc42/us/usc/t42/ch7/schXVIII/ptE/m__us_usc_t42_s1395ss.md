@@ -1181,7 +1181,33 @@
 
             The benefit packages described in this paragraph are benefit packages classified as “C” and “F”.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XVIII, § 1882, as added [Pub. L. 96–265, title V, § 507(a)][/us/pl/96/265/s507/a], June 9, 1980, [94 Stat. 476][/us/stat/94/476]; amended H. Res. 549, Mar. 25, 1980; [Pub. L. 100–93, § 13][/us/pl/100/93/s13], Aug. 18, 1987, [101 Stat. 697][/us/stat/101/697]; [Pub. L. 100–203, title IV, § 4081(b)][/us/pl/100/203/s4081/b], Dec. 22, 1987, [101 Stat. 1330–127][/us/stat/101/1330-127]; [Pub. L. 100–360, title II, § 221(a)][/us/pl/100/360/s221/a]–(f), title IV, §§ 411(i)(1)(B), (C), 428(b), July 1, 1988, [102 Stat. 742–746][/us/stat/102/742-746], 788, 817; [Pub. L. 101–234, title II, § 203(a)(1)][/us/pl/101/234/s203/a/1], Dec. 13, 1989, [103 Stat. 1982][/us/stat/103/1982]; [Pub. L. 101–508, title IV][/us/pl/101/508], §§ 4207(k)(1), formerly 4027(k)(1), 4351, formerly 4351(a), 4352, 4353(a)–(d)(1), 4354(a), (b), 4355(a)–(c), 4356(a), 4357(a), 4358(a), (b)(1), (2), Nov. 5, 1990, [104 Stat. 1388–124][/us/stat/104/1388-124], 1388–125, 1388–129, 1388–130, 1388–132, 1388–134 to 1388–137; [Pub. L. 103–432, title I][/us/pl/103/432], §§ 160(d)(4), 171(a)–(d)(3)(B), (4), (e)(1), (2), (f)(1), (g), (h)(1), (j)(2), (k), Oct. 31, 1994, [108 Stat. 4444–4451][/us/stat/108/4444-4451]; [Pub. L. 104–191, title II, § 271(a)][/us/pl/104/191/s271/a], (b), Aug. 21, 1996, [110 Stat. 2034–2036][/us/stat/110/2034-2036]; [Pub. L. 105–33, title IV][/us/pl/105/33], §§ 4002(j)(2), 4003, 4031(a)–(c), 4032(a), Aug. 5, 1997, [111 Stat. 330][/us/stat/111/330], 355, 357, 359; [Pub. L. 105–362, title VI, § 601(b)(6)][/us/pl/105/362/s601/b/6], Nov. 10, 1998, [112 Stat. 3286][/us/stat/112/3286]; [Pub. L. 106–113, div. B, § 1000(a)(6)][/us/pl/106/113/s1000/a/6] \[title III, § 321(k)(13), (14), title V, §§ 501(a)(2), 536(a)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–368, 1501A–378, 1501A–390; [Pub. L. 106–170, title II, § 205(a)][/us/pl/106/170/s205/a], Dec. 17, 1999, [113 Stat. 1899][/us/stat/113/1899]; [Pub. L. 106–554, § 1(a)(6)][/us/pl/106/554/s1/a/6] \[title VI, § 618\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–562; [Pub. L. 108–173, title I, § 104(a)][/us/pl/108/173/s104/a], (b), title VII, § 736(e), Dec. 8, 2003, [117 Stat. 2161][/us/stat/117/2161], 2164, 2357; [Pub. L. 110–161, div. H, title I, § 1502(f)][/us/pl/110/161/s1502/f], Dec. 26, 2007, [121 Stat. 2250][/us/stat/121/2250]; [Pub. L. 110–233, title I, § 104(a)][/us/pl/110/233/s104/a], (b), May 21, 2008, [122 Stat. 899][/us/stat/122/899], 900; [Pub. L. 110–275, title I, § 104(b)][/us/pl/110/275/s104/b], July 15, 2008, [122 Stat. 2502][/us/stat/122/2502]; [Pub. L. 111–148, title III, § 3210][/us/pl/111/148/s3210], Mar. 23, 2010, [124 Stat. 460][/us/stat/124/460].)
+    (z) __Limitation on certain medigap policies for newly eligible Medicare beneficiaries__ 
+
+        (1) __In general__ 
+
+            Notwithstanding any other provision of this section, on or after January 1, 2020, a medicare supplemental policy that provides coverage of the part B deductible, including any such policy (or rider to such a policy) issued under a waiver granted under subsection (p)(6), may not be sold or issued to a newly eligible Medicare beneficiary.
+
+        (2) __Newly eligible Medicare beneficiary defined__ 
+
+        In this subsection, the term “newly eligible Medicare beneficiary” means an individual who is neither of the following:
+
+            (A) An individual who has attained age 65 before January 1, 2020.
+
+            (B) An individual who was entitled to benefits under part A pursuant to section 426(b) or 426–1 of this title, or deemed to be eligible for benefits under [section 426(a) of this title][/us/usc/t42/s426/a], before January 1, 2020.
+
+        (3) __Treatment of waivered states__ 
+
+            In the case of a State described in subsection (p)(6), nothing in this section shall be construed as preventing the State from modifying its alternative simplification program under such subsection so as to eliminate the coverage of the part B deductible for any medical supplemental policy sold or issued under such program to a newly eligible Medicare beneficiary on or after January 1, 2020.
+
+        (4) __Treatment of references to certain policies__ 
+
+            In the case of a newly eligible Medicare beneficiary, except as the Secretary may otherwise provide, any reference in this section to a medicare supplemental policy which has a benefit package classified as “C” or “F” shall be deemed, as of January 1, 2020, to be a reference to a medicare supplemental policy which has a benefit package classified as “D” or “G”, respectively.
+
+        (5) __Enforcement__ 
+
+            The penalties described in clause (ii) of subsection (d)(3)(A) shall apply with respect to a violation of paragraph (1) in the same manner as it applies to a violation of clause (i) of such subsection.
+
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XVIII, § 1882, as added [Pub. L. 96–265, title V, § 507(a)][/us/pl/96/265/s507/a], June 9, 1980, [94 Stat. 476][/us/stat/94/476]; amended H. Res. 549, Mar. 25, 1980; [Pub. L. 100–93, § 13][/us/pl/100/93/s13], Aug. 18, 1987, [101 Stat. 697][/us/stat/101/697]; [Pub. L. 100–203, title IV, § 4081(b)][/us/pl/100/203/s4081/b], Dec. 22, 1987, [101 Stat. 1330–127][/us/stat/101/1330-127]; [Pub. L. 100–360, title II, § 221(a)][/us/pl/100/360/s221/a]–(f), title IV, §§ 411(i)(1)(B), (C), 428(b), July 1, 1988, [102 Stat. 742–746][/us/stat/102/742-746], 788, 817; [Pub. L. 101–234, title II, § 203(a)(1)][/us/pl/101/234/s203/a/1], Dec. 13, 1989, [103 Stat. 1982][/us/stat/103/1982]; [Pub. L. 101–508, title IV][/us/pl/101/508], §§ 4207(k)(1), formerly 4027(k)(1), 4351, formerly 4351(a), 4352, 4353(a)–(d)(1), 4354(a), (b), 4355(a)–(c), 4356(a), 4357(a), 4358(a), (b)(1), (2), Nov. 5, 1990, [104 Stat. 1388–124][/us/stat/104/1388-124], 1388–125, 1388–129, 1388–130, 1388–132, 1388–134 to 1388–137; [Pub. L. 103–432, title I][/us/pl/103/432], §§ 160(d)(4), 171(a)–(d)(3)(B), (4), (e)(1), (2), (f)(1), (g), (h)(1), (j)(2), (k), Oct. 31, 1994, [108 Stat. 4444–4451][/us/stat/108/4444-4451]; [Pub. L. 104–191, title II, § 271(a)][/us/pl/104/191/s271/a], (b), Aug. 21, 1996, [110 Stat. 2034–2036][/us/stat/110/2034-2036]; [Pub. L. 105–33, title IV][/us/pl/105/33], §§ 4002(j)(2), 4003, 4031(a)–(c), 4032(a), Aug. 5, 1997, [111 Stat. 330][/us/stat/111/330], 355, 357, 359; [Pub. L. 105–362, title VI, § 601(b)(6)][/us/pl/105/362/s601/b/6], Nov. 10, 1998, [112 Stat. 3286][/us/stat/112/3286]; [Pub. L. 106–113, div. B, § 1000(a)(6)][/us/pl/106/113/s1000/a/6] \[title III, § 321(k)(13), (14), title V, §§ 501(a)(2), 536(a)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–368, 1501A–378, 1501A–390; [Pub. L. 106–170, title II, § 205(a)][/us/pl/106/170/s205/a], Dec. 17, 1999, [113 Stat. 1899][/us/stat/113/1899]; [Pub. L. 106–554, § 1(a)(6)][/us/pl/106/554/s1/a/6] \[title VI, § 618\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–562; [Pub. L. 108–173, title I, § 104(a)][/us/pl/108/173/s104/a], (b), title VII, § 736(e), Dec. 8, 2003, [117 Stat. 2161][/us/stat/117/2161], 2164, 2357; [Pub. L. 110–161, div. H, title I, § 1502(f)][/us/pl/110/161/s1502/f], Dec. 26, 2007, [121 Stat. 2250][/us/stat/121/2250]; [Pub. L. 110–233, title I, § 104(a)][/us/pl/110/233/s104/a], (b), May 21, 2008, [122 Stat. 899][/us/stat/122/899], 900; [Pub. L. 110–275, title I, § 104(b)][/us/pl/110/275/s104/b], July 15, 2008, [122 Stat. 2502][/us/stat/122/2502]; [Pub. L. 111–148, title III, § 3210][/us/pl/111/148/s3210], Mar. 23, 2010, [124 Stat. 460][/us/stat/124/460]; [Pub. L. 114–10, title IV, § 401][/us/pl/114/10/s401], Apr. 16, 2015, [129 Stat. 159][/us/stat/129/159].)
 
  __References in Text__ 
 
@@ -1208,6 +1234,8 @@
     Section 264 of the Health Insurance Portability and Accountability Act of 1996, referred to in subsec. (x)(1)(C)(i), is [section 264 of Pub. L. 104–191][/us/pl/104/191/s264], which is set out as a note under [section 1320d–2 of this title][/us/usc/t42/s1320d–2].
 
  __Amendments__ 
+
+    2015—Subsec. (z). [Pub. L. 114–10][/us/pl/114/10] added subsec. (z).
 
     2010—Subsec. (o)(1). [Pub. L. 111–148, § 3210(b)][/us/pl/111/148/s3210/b], substituted “(w), and (y)” for “, and (w)”.
 
@@ -1962,6 +1990,7 @@
 [/us/usc/t42/s1395w–101/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%93101%2Fb%2F2%2FA
 [/us/usc/t42/s1395w–113/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%93113%2Fb%2F4
 [/us/usc/t42/s1395w–101/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%93101%2Fb%2F2%2FA
+[/us/usc/t42/s426/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs426%2Fa
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/pl/96/265/s507/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F265%2Fs507%2Fa
 [/us/stat/94/476]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F476
@@ -1999,6 +2028,8 @@
 [/us/stat/122/2502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2502
 [/us/pl/111/148/s3210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs3210
 [/us/stat/124/460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F460
+[/us/pl/114/10/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2Fs401
+[/us/stat/129/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F159
 [/us/pl/103/432/s171/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432%2Fs171%2Fm
 [/us/stat/108/4452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4452
 [/us/pl/98/21/s603/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21%2Fs603%2Fc
@@ -2034,6 +2065,7 @@
 [/us/usc/t42/s1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1305
 [/us/pl/104/191/s264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2Fs264
 [/us/usc/t42/s1320d–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320d%E2%80%932
+[/us/pl/114/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10
 [/us/pl/111/148/s3210/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs3210%2Fb
 [/us/pl/111/148/s3210/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs3210%2Fa
 [/us/pl/110/233/s104/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F233%2Fs104%2Fb%2F3

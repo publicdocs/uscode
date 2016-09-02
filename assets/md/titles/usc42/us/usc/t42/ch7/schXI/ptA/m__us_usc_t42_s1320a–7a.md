@@ -75,7 +75,7 @@
 
         (1)
 
-         If a hospital or a critical access hospital knowingly makes a payment, directly or indirectly, to a physician as an inducement to reduce or limit services provided with respect to individuals who—
+         If a hospital or a critical access hospital knowingly makes a payment, directly or indirectly, to a physician as an inducement to reduce or limit medically necessary services provided with respect to individuals who—
 
             (A) are entitled to benefits under part A or part B of subchapter XVIII of this chapter or to medical assistance under a State plan approved under subchapter XIX of this chapter, and
 
@@ -293,7 +293,7 @@
 
         (2) A practice described in this paragraph is a practice under which a health care provider or facility pays, in whole or in part, premiums for medicare supplemental policies for individuals entitled to benefits under part A of subchapter XVIII of this chapter pursuant to [section 426–1 of this title][/us/usc/t42/s426–1].
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XI, § 1128A, as added [Pub. L. 97–35, title XXI, § 2105(a)][/us/pl/97/35/s2105/a], Aug. 13, 1981, [95 Stat. 789][/us/stat/95/789]; amended [Pub. L. 97–248, title I, § 137(b)(26)][/us/pl/97/248/s137/b/26], Sept. 3, 1982, [96 Stat. 380][/us/stat/96/380]; [Pub. L. 98–369, div. B, title III][/us/pl/98/369], §§ 2306(f)(1), 2354(a)(3), July 18, 1984, [98 Stat. 1073][/us/stat/98/1073], 1100; [Pub. L. 99–509, title IX][/us/pl/99/509], §§ 9313(c)(1), 9317(a), (b), Oct. 21, 1986, [100 Stat. 2003][/us/stat/100/2003], 2008; [Pub. L. 100–93, § 3][/us/pl/100/93/s3], Aug. 18, 1987, [101 Stat. 686][/us/stat/101/686]; [Pub. L. 100–203, title IV][/us/pl/100/203], §§ 4039(h)(1), 4118(e)(1), (6)–(10), Dec. 22, 1987, [101 Stat. 1330–155][/us/stat/101/1330-155], as amended [Pub. L. 100–360, title IV, § 411(e)(3)][/us/pl/100/360/s411/e/3], (k)(10)(B)(ii), (D), July 1, 1988, [102 Stat. 775][/us/stat/102/775], 794, 795; [Pub. L. 100–360, title II, § 202(c)(2)][/us/pl/100/360/s202/c/2], July 1, 1988, [102 Stat. 715][/us/stat/102/715]; [Pub. L. 100–485, title VI, § 608(d)(26)(H)][/us/pl/100/485/s608/d/26/H]–(K)(i), Oct. 13, 1988, [102 Stat. 2422][/us/stat/102/2422]; [Pub. L. 101–234, title II, § 201(a)][/us/pl/101/234/s201/a], Dec. 13, 1989, [103 Stat. 1981][/us/stat/103/1981]; [Pub. L. 101–239, title VI, § 6003(g)(3)(D)(i)][/us/pl/101/239/s6003/g/3/D/i], Dec. 19, 1989, [103 Stat. 2153][/us/stat/103/2153]; [Pub. L. 101–508, title IV][/us/pl/101/508], §§ 4204(a)(3), 4207(h), formerly 4027(h), 4731(b)(1), 4753, Nov. 5, 1990, [104 Stat. 1388–109][/us/stat/104/1388-109], 1388–123, 1388–195, 1388–208, renumbered § 4207(h), [Pub. L. 103–432, title I, § 160(d)(4)][/us/pl/103/432/s160/d/4], Oct. 31, 1994, [108 Stat. 4444][/us/stat/108/4444]; [Pub. L. 104–191, title II][/us/pl/104/191], §§ 231(a)–(e), (h), 232(a), Aug. 21, 1996, [110 Stat. 2012–2015][/us/stat/110/2012-2015]; [Pub. L. 105–33, title IV][/us/pl/105/33], §§ 4201(c)(1), 4304(a), (b), 4331(e), 4523(c), Aug. 5, 1997, [111 Stat. 373][/us/stat/111/373], 383, 396, 449; [Pub. L. 105–277, div. J, title V, § 5201(a)][/us/pl/105/277/s5201/a], (b)(1), Oct. 21, 1998, [112 Stat. 2681–916][/us/stat/112/2681-916]; [Pub. L. 111–148, title VI][/us/pl/111/148], §§ 6402(d)(2), 6408(a), 6703(d)(3)(B), Mar. 23, 2010, [124 Stat. 757][/us/stat/124/757], 770, 804.)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XI, § 1128A, as added [Pub. L. 97–35, title XXI, § 2105(a)][/us/pl/97/35/s2105/a], Aug. 13, 1981, [95 Stat. 789][/us/stat/95/789]; amended [Pub. L. 97–248, title I, § 137(b)(26)][/us/pl/97/248/s137/b/26], Sept. 3, 1982, [96 Stat. 380][/us/stat/96/380]; [Pub. L. 98–369, div. B, title III][/us/pl/98/369], §§ 2306(f)(1), 2354(a)(3), July 18, 1984, [98 Stat. 1073][/us/stat/98/1073], 1100; [Pub. L. 99–509, title IX][/us/pl/99/509], §§ 9313(c)(1), 9317(a), (b), Oct. 21, 1986, [100 Stat. 2003][/us/stat/100/2003], 2008; [Pub. L. 100–93, § 3][/us/pl/100/93/s3], Aug. 18, 1987, [101 Stat. 686][/us/stat/101/686]; [Pub. L. 100–203, title IV][/us/pl/100/203], §§ 4039(h)(1), 4118(e)(1), (6)–(10), Dec. 22, 1987, [101 Stat. 1330–155][/us/stat/101/1330-155], as amended [Pub. L. 100–360, title IV, § 411(e)(3)][/us/pl/100/360/s411/e/3], (k)(10)(B)(ii), (D), July 1, 1988, [102 Stat. 775][/us/stat/102/775], 794, 795; [Pub. L. 100–360, title II, § 202(c)(2)][/us/pl/100/360/s202/c/2], July 1, 1988, [102 Stat. 715][/us/stat/102/715]; [Pub. L. 100–485, title VI, § 608(d)(26)(H)][/us/pl/100/485/s608/d/26/H]–(K)(i), Oct. 13, 1988, [102 Stat. 2422][/us/stat/102/2422]; [Pub. L. 101–234, title II, § 201(a)][/us/pl/101/234/s201/a], Dec. 13, 1989, [103 Stat. 1981][/us/stat/103/1981]; [Pub. L. 101–239, title VI, § 6003(g)(3)(D)(i)][/us/pl/101/239/s6003/g/3/D/i], Dec. 19, 1989, [103 Stat. 2153][/us/stat/103/2153]; [Pub. L. 101–508, title IV][/us/pl/101/508], §§ 4204(a)(3), 4207(h), formerly 4027(h), 4731(b)(1), 4753, Nov. 5, 1990, [104 Stat. 1388–109][/us/stat/104/1388-109], 1388–123, 1388–195, 1388–208, renumbered § 4207(h), [Pub. L. 103–432, title I, § 160(d)(4)][/us/pl/103/432/s160/d/4], Oct. 31, 1994, [108 Stat. 4444][/us/stat/108/4444]; [Pub. L. 104–191, title II][/us/pl/104/191], §§ 231(a)–(e), (h), 232(a), Aug. 21, 1996, [110 Stat. 2012–2015][/us/stat/110/2012-2015]; [Pub. L. 105–33, title IV][/us/pl/105/33], §§ 4201(c)(1), 4304(a), (b), 4331(e), 4523(c), Aug. 5, 1997, [111 Stat. 373][/us/stat/111/373], 383, 396, 449; [Pub. L. 105–277, div. J, title V, § 5201(a)][/us/pl/105/277/s5201/a], (b)(1), Oct. 21, 1998, [112 Stat. 2681–916][/us/stat/112/2681-916]; [Pub. L. 111–148, title VI][/us/pl/111/148], §§ 6402(d)(2), 6408(a), 6703(d)(3)(B), Mar. 23, 2010, [124 Stat. 757][/us/stat/124/757], 770, 804; [Pub. L. 114–10, title V, § 512(a)(1)][/us/pl/114/10/s512/a/1], Apr. 16, 2015, [129 Stat. 170][/us/stat/129/170].)
 
  __References in Text__ 
 
@@ -308,6 +308,8 @@
     The Inspector General Act of 1978, referred to in subsec. (m)(2)(B), is [Pub. L. 95–452][/us/pl/95/452], Oct. 12, 1978, [92 Stat. 1101][/us/stat/92/1101], which is set out in the Appendix to Title 5, Government Organization and Employees.
 
  __Amendments__ 
+
+    2015—Subsec. (b)(1). [Pub. L. 114–10][/us/pl/114/10] inserted “medically necessary” after “reduce or limit”.
 
     2010—Subsec. (a). [Pub. L. 111–148, § 6408(a)(3)(B)][/us/pl/111/148/s6408/a/3/B], which directed substitution of “act, in cases under paragraph (8), $50,000 for each false record or statement, or in cases under paragraph (9), $15,000 for each day of the failure described in such paragraph)” for “act)” in first sentence, was executed by making the substitution for “act” to reflect the probable intent of Congress. See amendment by [Pub. L. 111–148, § 6402(d)(2)(A)(iv)][/us/pl/111/148/s6402/d/2/A/iv] below.
 
@@ -523,6 +525,12 @@
 
     1982—Subsec. (a). [Pub. L. 97–248][/us/pl/97/248] redesignated as part of par. (1) preceding subpar. (A) provisions formerly preceding par. (1), in subpar. (B) substituted “or pursuant to a determination by the Secretary under [section 1395cc(b)(2) of this title][/us/usc/t42/s1395cc/b/2] with respect to which the Secretary has initiated termination proceedings;” for “or 1395cc(b)(2) of this title,”, and in par. (2) substituted “presents or causes to be presented to any person a request for payment which is in violation of the terms of (A) an assignment under section 1842(b)(3)(B)(ii), or (B) an agreement with a State agency not to charge a person for an item or service in excess of the amount permitted to be charged” for “is submitted in violation of an agreement between the person and the United States or a State agency”.
 
+ __Effective Date of 2015 Amendment__ 
+
+[Pub. L. 114–10, title V, § 512(a)(2)][/us/pl/114/10/s512/a/2], Apr. 16, 2015, [129 Stat. 170][/us/stat/129/170], provided that: 
+
+> “The amendment made by paragraph (1) \[amending this section\] shall apply to payments made on or after the date of the enactment of this Act \[Apr. 16, 2015\].”
+
  __Effective Date of 2010 Amendment__ 
 
     Amendment by [section 6408(a) of Pub. L. 111–148][/us/pl/111/148/s6408/a] applicable to acts committed on or after Jan. 1, 2010, see [section 6408(d)(1) of Pub. L. 111–148][/us/pl/111/148/s6408/d/1], set out as a note under [section 1320a–7 of this title][/us/usc/t42/s1320a–7].
@@ -699,6 +707,8 @@
 [/us/stat/112/2681-916]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-916
 [/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 [/us/stat/124/757]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F757
+[/us/pl/114/10/s512/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2Fs512%2Fa%2F1
+[/us/stat/129/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F170
 [/us/pl/104/191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191
 [/us/stat/110/1936]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1936
 [/us/usc/t42/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs201
@@ -706,6 +716,7 @@
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
 [/us/pl/95/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F452
 [/us/stat/92/1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1101
+[/us/pl/114/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10
 [/us/pl/111/148/s6408/a/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs6408%2Fa%2F3%2FB
 [/us/pl/111/148/s6402/d/2/A/iv]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs6402%2Fd%2F2%2FA%2Fiv
 [/us/pl/111/148/s6408/a/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs6408%2Fa%2F3%2FA
@@ -859,6 +870,8 @@
 [/us/pl/98/369/s2354/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2354%2Fa%2F3
 [/us/pl/97/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248
 [/us/usc/t42/s1395cc/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395cc%2Fb%2F2
+[/us/pl/114/10/s512/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2Fs512%2Fa%2F2
+[/us/stat/129/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F170
 [/us/pl/111/148/s6408/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs6408%2Fa
 [/us/pl/111/148/s6408/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs6408%2Fd%2F1
 [/us/usc/t42/s1320a–7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320a%E2%80%937

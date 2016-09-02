@@ -495,6 +495,14 @@ SUBCHAPTER VI—MISCELLANEOUS PROVISIONS  </td>
 
   </tr>
 
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs18122" data-uslm-ref="/us/usc/t42/s18122">18122.</a>  </td>
+
+    <td> Rule of construction regarding health care providers.  </td>
+
+  </tr>
+
 </table>
 
 ----------

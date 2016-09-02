@@ -21,7 +21,7 @@
 
             (A) __In general__ 
 
-            For the purpose described in subsection (b), subject to the succeeding provisions of this section, for each of fiscal years 2010 through 2015, the Secretary shall allot to each State an amount equal to the product of—
+            For the purpose described in subsection (b), subject to the succeeding provisions of this section, for each of fiscal years 2010 through 2017, the Secretary shall allot to each State an amount equal to the product of—
 
                 (i) the amount appropriated under subsection (f) for the fiscal year and available for allotments to States after the application of subsection (c); and
 
@@ -75,13 +75,13 @@
 
             (A) __Grants from unexpended allotments__ 
 
-                If a State does not submit an application under this section for fiscal year 2010 or 2011, the State shall no longer be eligible to submit an application to receive funds from the amounts allotted for the State for each of fiscal years 2010 through 2015 and such amounts shall be used by the Secretary to award grants under this paragraph for each of fiscal years 2012 through 2015. The Secretary also shall use any amounts from the allotments of States that submit applications under this section for a fiscal year that remain unexpended as of the end of the period in which the allotments are available for expenditure under paragraph (3) for awarding grants under this paragraph.
+                If a State does not submit an application under this section for fiscal year 2010 or 2011, the State shall no longer be eligible to submit an application to receive funds from the amounts allotted for the State for each of fiscal years 2010 through 2017 and such amounts shall be used by the Secretary to award grants under this paragraph for each of fiscal years 2012 through 2017. The Secretary also shall use any amounts from the allotments of States that submit applications under this section for a fiscal year that remain unexpended as of the end of the period in which the allotments are available for expenditure under paragraph (3) for awarding grants under this paragraph.
 
             (B) __3-year grants__ 
 
                 (i) __In general__ 
 
-                    The Secretary shall solicit applications to award 3-year grants in each of fiscal years 2012, 2013, 2014, and 2015 to local organizations and entities to conduct, consistent with subsection (b), programs and activities in States that do not submit an application for an allotment under this section for fiscal year 2010 or 2011.
+                    The Secretary shall solicit applications to award 3-year grants in each of fiscal years 2012 through 2017 to local organizations and entities to conduct, consistent with subsection (b), programs and activities in States that do not submit an application for an allotment under this section for fiscal year 2010 or 2011.
 
                 (ii) __Faith-based organizations or consortia__ 
 
@@ -229,9 +229,9 @@
 
     (f) __Appropriation__ 
 
-        For the purpose of carrying out this section, there is appropriated, out of any money in the Treasury not otherwise appropriated, $75,000,000 for each of fiscal years 2010 through 2015. Amounts appropriated under this subsection shall remain available until expended.
+        For the purpose of carrying out this section, there is appropriated, out of any money in the Treasury not otherwise appropriated, $75,000,000 for each of fiscal years 2010 through 2017. Amounts appropriated under this subsection shall remain available until expended.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title V, § 513, as added and amended [Pub. L. 111–148, title II, § 2953][/us/pl/111/148/s2953], title X, § 10201(h), Mar. 23, 2010, [124 Stat. 347][/us/stat/124/347], 922; [Pub. L. 113–93, title II, § 206][/us/pl/113/93/s206], Apr. 1, 2014, [128 Stat. 1046][/us/stat/128/1046].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title V, § 513, as added and amended [Pub. L. 111–148, title II, § 2953][/us/pl/111/148/s2953], title X, § 10201(h), Mar. 23, 2010, [124 Stat. 347][/us/stat/124/347], 922; [Pub. L. 113–93, title II, § 206][/us/pl/113/93/s206], Apr. 1, 2014, [128 Stat. 1046][/us/stat/128/1046]; [Pub. L. 114–10, title II, § 215][/us/pl/114/10/s215], Apr. 16, 2015, [129 Stat. 153][/us/stat/129/153].)
 
  __Prior Provisions__ 
 
@@ -242,6 +242,12 @@
     Provisions similar to those comprising former section 713 were contained in section 541 of [act Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title V, [49 Stat. 634][/us/stat/49/634] (formerly classified to [section 731 of this title][/us/usc/t42/s731]), prior to the general amendment and renumbering of title V of act Aug. 14, 1935, by [Pub. L. 90–248, § 301][/us/pl/90/248/s301].
 
  __Amendments__ 
+
+    2015—Subsec. (a)(1)(A), (4)(A). [Pub. L. 114–10, § 215(1)][/us/pl/114/10/s215/1], substituted “2017” for “2015” wherever appearing.
+
+    Subsec. (a)(4)(B)(i). [Pub. L. 114–10, § 215(2)][/us/pl/114/10/s215/2], substituted “through 2017” for “, 2013, 2014, and 2015”.
+
+    Subsec. (f). [Pub. L. 114–10, § 215(3)][/us/pl/114/10/s215/3], substituted “2017” for “2015”.
 
     2014—Subsec. (a)(1)(A), (4)(A). [Pub. L. 113–93, § 206(1)][/us/pl/113/93/s206/1], substituted “2015” for “2014” wherever appearing.
 
@@ -323,6 +329,8 @@
 [/us/stat/124/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F347
 [/us/pl/113/93/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F93%2Fs206
 [/us/stat/128/1046]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1046
+[/us/pl/114/10/s215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2Fs215
+[/us/stat/129/153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F153
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/pl/90/248/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248%2Fs301
 [/us/stat/81/928]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F928
@@ -343,6 +351,9 @@
 [/us/stat/49/634]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F634
 [/us/usc/t42/s731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs731
 [/us/pl/90/248/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248%2Fs301
+[/us/pl/114/10/s215/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2Fs215%2F1
+[/us/pl/114/10/s215/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2Fs215%2F2
+[/us/pl/114/10/s215/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2Fs215%2F3
 [/us/pl/113/93/s206/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F93%2Fs206%2F1
 [/us/pl/113/93/s206/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F93%2Fs206%2F2
 [/us/pl/113/93/s206/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F93%2Fs206%2F3

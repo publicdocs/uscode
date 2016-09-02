@@ -381,7 +381,7 @@
 
                 (ii)
 
-                 For any period beginning on or after January 1, 2016, a reasonable cost reimbursement contract under this subsection may not be extended or renewed for a service area insofar as such area during the entire previous year was within the service area of—
+                 Subject to clause (iv), for any period beginning on or after January 1, 2016, a reasonable cost reimbursement contract under this subsection may not be extended or renewed for a service area insofar as such area during the entire previous year was within the service area of—
 
                     (I) 2 or more MA regional plans described in clause (iii), provided that all such plans are not offered by the same Medicare Advantage organization; or
 
@@ -391,9 +391,43 @@
 
                  A plan described in this clause for a year for a service area is a plan described in [section 1395w–21(a)(2)(A)(i) of this title][/us/usc/t42/s1395w–21/a/2/A/i] if the service area for the year meets the following minimum enrollment requirements:
 
-                    (I) With respect to any portion of the area involved that is within a Metropolitan Statistical Area with a population of more than 250,000 and counties contiguous to such Metropolitan Statistical Area that are not in another Metropolitan Statistical Area with a population of more than 250,000, 5,000 individuals. If the service area includes a portion in more than 1 Metropolitan Statistical Area with a population of more than 250,000, the minimum enrollment determination under the preceding sentence shall be made with respect to each such Metropolitan Statistical Area (and such applicable contiguous counties to such Metropolitan Statistical Area).
+                    (I) With respect to any portion of the cost plan service area involved that is within a Metropolitan Statistical Area with a population of more than 250,000 and counties contiguous to such Metropolitan Statistical Area that are not in another Metropolitan Statistical Area with a population of more than 250,000, 5,000 individuals. If the service area includes a portion in more than 1 Metropolitan Statistical Area with a population of more than 250,000, the minimum enrollment determination under the preceding sentence shall be made with respect to each such Metropolitan Statistical Area (and such applicable contiguous counties to such Metropolitan Statistical Area).
 
-                    (II) With respect to any other portion of such area, 1,500 individuals.
+                    (II) With respect to any other portion of such cost plan service area, 1,500 individuals.
+
+                (iv)
+
+                 In the case of an eligible organization that is offering a reasonable cost reimbursement contract that may no longer be extended or renewed because of the application of clause (ii), or where such contract has been extended or renewed but the eligible organization has informed the Secretary in writing not later than a date determined appropriate by the Secretary that such organization voluntarily plans not to seek renewal of the reasonable cost reimbursement contract, the following shall apply:
+
+                    (I) Notwithstanding such clause, such contract may be extended or renewed for the two years subsequent to 2016. The final year in which such contract is extended or renewed is referred to in this subsection as the “last reasonable cost reimbursement contract year for the contract”.
+
+                    (II)
+
+                     The organization may not enroll a new enrollee under such contract during the last reasonable cost reimbursement contract year for the contract (but may continue to enroll new enrollees through the end of the year immediately preceding such year) unless such enrollee is any of the following:
+
+                        (aa) An individual who chooses enrollment in the reasonable cost contract during the annual election period with respect to such last year.
+
+                        (bb) An individual whose spouse, at the time of the individual’s enrollment  <sup>\[2\]</sup>  <sup><sup> 2 So in original. Probably should be followed by a comma. </sup></sup>  is an enrollee under the reasonable cost reimbursement contract.
+
+                        (cc) An individual who is covered under an employer group health plan that offers coverage through the reasonable cost reimbursement contract.
+
+                        (dd) An individual who becomes entitled to benefits under part A, or enrolled under part B, and was enrolled in a plan offered by the eligible organization immediately prior to the individual’s enrollment under the reasonable cost reimbursement contract.
+
+                    (III) Not later than a date determined appropriate by the Secretary prior to the beginning of the last reasonable cost reimbursement contract year for the contract, the organization shall provide notice to the Secretary as to whether the organization will apply to have the contract converted over, in whole or in part, and offered as a Medicare Advantage plan under part C for the year following the last reasonable cost reimbursement contract year for the contract.
+
+                    (IV) If the organization provides the notice described in subclause (III) that the contract will be converted, in whole or in part, the organization shall, not later than a date determined appropriate by the Secretary, provide the Secretary with such information as the Secretary determines appropriate in order to carry out [section 1395w–21(c)(4) of this title][/us/usc/t42/s1395w–21/c/4] and to carry out [section 1395w–24(a)(5) of this title][/us/usc/t42/s1395w–24/a/5], including subparagraph (C)(ii) of such section.
+
+                    (V) In the case that the organization enrolls a new enrollee under such contract during the last reasonable cost reimbursement contract year for the contract, the organization shall provide the individual with a notification that such year is the last year for such contract.
+
+                (v)
+
+                 If an eligible organization that is offering a reasonable cost reimbursement contract that is extended or renewed pursuant to clause (iv) provides the notice described in clause (iv)(III) that the contract will be converted, in whole or in part, the following shall apply:
+
+                    (I) The deemed enrollment under [section 1395w–21(c)(4) of this title][/us/usc/t42/s1395w–21/c/4].
+
+                    (II) The special rule for quality increase under section 1395w–23(o)(4)(C) of this title.
+
+                    (III) During the last reasonable cost reimbursement contract year for the contract and the year immediately preceding such year, the eligible organization, or the corporate parent organization of the eligible organization, shall be permitted to offer an MA plan in the area that such contract is being offered and enroll Medicare Advantage eligible individuals in such MA plan and such cost plan.
 
     (i) __Duration, termination, effective date, and terms of contract; powers and duties of Secretary__ 
 
@@ -575,7 +609,7 @@
 
             (D) Payments under [section 1395w–27(e)(2) of this title][/us/usc/t42/s1395w–27/e/2].
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XVIII, § 1876, as added and amended [Pub. L. 92–603, title II][/us/pl/92/603], §§ 226(a), 278(b)(3), Oct. 30, 1972, [86 Stat. 1396][/us/stat/86/1396], 1453; [Pub. L. 93–233, § 18(m)][/us/pl/93/233/s18/m], (n), Dec. 31, 1973, [87 Stat. 970][/us/stat/87/970], 971; [Pub. L. 94–460, title II, § 201(a)][/us/pl/94/460/s201/a]–(d), Oct. 8, 1976, [90 Stat. 1956][/us/stat/90/1956], 1957; [Pub. L. 95–292, § 5][/us/pl/95/292/s5], June 13, 1978, [92 Stat. 315][/us/stat/92/315]; [Pub. L. 97–248, title I, § 114(a)][/us/pl/97/248/s114/a], Sept. 3, 1982, [96 Stat. 341][/us/stat/96/341]; [Pub. L. 97–448, title III, § 309(b)(12)][/us/pl/97/448/s309/b/12], Jan. 12, 1983, [96 Stat. 2409][/us/stat/96/2409]; [Pub. L. 98–21, title VI][/us/pl/98/21], §§ 602(g), 606(a)(3)(H), Apr. 20, 1983, [97 Stat. 164][/us/stat/97/164], 171; [Pub. L. 98–369, div. B, title III][/us/pl/98/369], §§ 2350(a)(1), (b)(1), (2), (c), 2354(b)(37), (38), July 18, 1984, [98 Stat. 1097][/us/stat/98/1097], 1098, 1102; [Pub. L. 99–272, title IX, § 9211(a)][/us/pl/99/272/s9211/a]–(d), Apr. 7, 1986, [100 Stat. 178][/us/stat/100/178], 179; [Pub. L. 99–509, title IX][/us/pl/99/509], §§ 9312(b)(1), (c)(1), (2), (d)(1), (e)(1), (f), 9353(e)(2), Oct. 21, 1986, [100 Stat. 1999–2001][/us/stat/100/1999-2001], 2048; [Pub. L. 99–514, title XVIII, § 1895(b)(11)(A)][/us/pl/99/514/s1895/b/11/A], Oct. 22, 1986, [100 Stat. 2934][/us/stat/100/2934]; [Pub. L. 100–203, title IV][/us/pl/100/203], §§ 4011(a)(1), (b)(1), 4012(b), 4013(a), 4014, 4018(a), 4039(h)(8), Dec. 22, 1987, [101 Stat. 1330–60][/us/stat/101/1330-60], 1330–61, 1330–65, as amended [Pub. L. 100–360, title IV, § 411(c)(3)][/us/pl/100/360/s411/c/3], (e)(3), July 1, 1988, [102 Stat. 773][/us/stat/102/773], 776; [Pub. L. 100–360, title II][/us/pl/100/360], §§ 202(f), 211(c)(3), 224, title IV, § 411(c)(1), (4), (6), formerly (5), July 1, 1988, [102 Stat. 717][/us/stat/102/717], 738, 748, 772, 773, as amended [Pub. L. 100–485, title VI, § 608(d)(19)(B)][/us/pl/100/485/s608/d/19/B], (C), Oct. 13, 1988, [102 Stat. 2419][/us/stat/102/2419]; [Pub. L. 100–647, title VIII, § 8412(a)(1)][/us/pl/100/647/s8412/a/1], Nov. 10, 1988, [102 Stat. 3801][/us/stat/102/3801]; [Pub. L. 101–234, title II][/us/pl/101/234], §§ 201(a), 202(a), Dec. 13, 1989, [103 Stat. 1981][/us/stat/103/1981]; [Pub. L. 101–239, title VI][/us/pl/101/239], §§ 6206(a)(1), (b)(1), 6212(b)(1), (c)(2), 6411(d)(3)(A), Dec. 19, 1989, [103 Stat. 2244][/us/stat/103/2244], 2250, 2271; [Pub. L. 101–508, title IV][/us/pl/101/508], §§ 4204(a)(1), (2), (c)(1), (2), (d)(1), (e)(1), 4206(b)(1), Nov. 5, 1990, [104 Stat. 1388–108][/us/stat/104/1388-108] to 1388–111, 1388–116; [Pub. L. 103–296, title I, § 108(c)(6)][/us/pl/103/296/s108/c/6], Aug. 15, 1994, [108 Stat. 1486][/us/stat/108/1486]; [Pub. L. 103–432, title I, § 157(b)(1)][/us/pl/103/432/s157/b/1], (4), Oct. 31, 1994, [108 Stat. 4442][/us/stat/108/4442]; [Pub. L. 104–191, title II][/us/pl/104/191], §§ 215(a), (b), 231(g), Aug. 21, 1996, [110 Stat. 2005–2007][/us/stat/110/2005-2007], 2014; [Pub. L. 105–33, title IV, § 4002(a)][/us/pl/105/33/s4002/a]–(b)(2)(A), Aug. 5, 1997, [111 Stat. 328][/us/stat/111/328], 329; [Pub. L. 106–113, div. B][/us/pl/106/113], 1000(a)(6) \[title V, § 503\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–380; [Pub. L. 106–554, § 1(a)(6)][/us/pl/106/554/s1/a/6] \[title VI, § 634\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–568; [Pub. L. 108–173, title II, § 234][/us/pl/108/173/s234], title VII, § 736(d)(2), title IX, § 940(b)(2)(B), Dec. 8, 2003, [117 Stat. 2209][/us/stat/117/2209], 2357, 2417; [Pub. L. 110–173, title I, § 109][/us/pl/110/173/s109], Dec. 29, 2007, [121 Stat. 2497][/us/stat/121/2497]; [Pub. L. 110–275, title I, § 167(a)][/us/pl/110/275/s167/a]–(c), July 15, 2008, [122 Stat. 2575][/us/stat/122/2575], 2576; [Pub. L. 111–148, title III, § 3206][/us/pl/111/148/s3206], Mar. 23, 2010, [124 Stat. 459][/us/stat/124/459]; [Pub. L. 112–40, title II, § 261(a)(3)(A)][/us/pl/112/40/s261/a/3/A], Oct. 21, 2011, [125 Stat. 423][/us/stat/125/423]; [Pub. L. 112–240, title VI, § 608][/us/pl/112/240/s608], Jan. 2, 2013, [126 Stat. 2349][/us/stat/126/2349]; [Pub. L. 113–67, div. B, title I, § 1108][/us/pl/113/67/s1108], Dec. 26, 2013, [127 Stat. 1197][/us/stat/127/1197]; [Pub. L. 113–93, title I, § 108][/us/pl/113/93/s108], Apr. 1, 2014, [128 Stat. 1043][/us/stat/128/1043].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XVIII, § 1876, as added and amended [Pub. L. 92–603, title II][/us/pl/92/603], §§ 226(a), 278(b)(3), Oct. 30, 1972, [86 Stat. 1396][/us/stat/86/1396], 1453; [Pub. L. 93–233, § 18(m)][/us/pl/93/233/s18/m], (n), Dec. 31, 1973, [87 Stat. 970][/us/stat/87/970], 971; [Pub. L. 94–460, title II, § 201(a)][/us/pl/94/460/s201/a]–(d), Oct. 8, 1976, [90 Stat. 1956][/us/stat/90/1956], 1957; [Pub. L. 95–292, § 5][/us/pl/95/292/s5], June 13, 1978, [92 Stat. 315][/us/stat/92/315]; [Pub. L. 97–248, title I, § 114(a)][/us/pl/97/248/s114/a], Sept. 3, 1982, [96 Stat. 341][/us/stat/96/341]; [Pub. L. 97–448, title III, § 309(b)(12)][/us/pl/97/448/s309/b/12], Jan. 12, 1983, [96 Stat. 2409][/us/stat/96/2409]; [Pub. L. 98–21, title VI][/us/pl/98/21], §§ 602(g), 606(a)(3)(H), Apr. 20, 1983, [97 Stat. 164][/us/stat/97/164], 171; [Pub. L. 98–369, div. B, title III][/us/pl/98/369], §§ 2350(a)(1), (b)(1), (2), (c), 2354(b)(37), (38), July 18, 1984, [98 Stat. 1097][/us/stat/98/1097], 1098, 1102; [Pub. L. 99–272, title IX, § 9211(a)][/us/pl/99/272/s9211/a]–(d), Apr. 7, 1986, [100 Stat. 178][/us/stat/100/178], 179; [Pub. L. 99–509, title IX][/us/pl/99/509], §§ 9312(b)(1), (c)(1), (2), (d)(1), (e)(1), (f), 9353(e)(2), Oct. 21, 1986, [100 Stat. 1999–2001][/us/stat/100/1999-2001], 2048; [Pub. L. 99–514, title XVIII, § 1895(b)(11)(A)][/us/pl/99/514/s1895/b/11/A], Oct. 22, 1986, [100 Stat. 2934][/us/stat/100/2934]; [Pub. L. 100–203, title IV][/us/pl/100/203], §§ 4011(a)(1), (b)(1), 4012(b), 4013(a), 4014, 4018(a), 4039(h)(8), Dec. 22, 1987, [101 Stat. 1330–60][/us/stat/101/1330-60], 1330–61, 1330–65, as amended [Pub. L. 100–360, title IV, § 411(c)(3)][/us/pl/100/360/s411/c/3], (e)(3), July 1, 1988, [102 Stat. 773][/us/stat/102/773], 776; [Pub. L. 100–360, title II][/us/pl/100/360], §§ 202(f), 211(c)(3), 224, title IV, § 411(c)(1), (4), (6), formerly (5), July 1, 1988, [102 Stat. 717][/us/stat/102/717], 738, 748, 772, 773, as amended [Pub. L. 100–485, title VI, § 608(d)(19)(B)][/us/pl/100/485/s608/d/19/B], (C), Oct. 13, 1988, [102 Stat. 2419][/us/stat/102/2419]; [Pub. L. 100–647, title VIII, § 8412(a)(1)][/us/pl/100/647/s8412/a/1], Nov. 10, 1988, [102 Stat. 3801][/us/stat/102/3801]; [Pub. L. 101–234, title II][/us/pl/101/234], §§ 201(a), 202(a), Dec. 13, 1989, [103 Stat. 1981][/us/stat/103/1981]; [Pub. L. 101–239, title VI][/us/pl/101/239], §§ 6206(a)(1), (b)(1), 6212(b)(1), (c)(2), 6411(d)(3)(A), Dec. 19, 1989, [103 Stat. 2244][/us/stat/103/2244], 2250, 2271; [Pub. L. 101–508, title IV][/us/pl/101/508], §§ 4204(a)(1), (2), (c)(1), (2), (d)(1), (e)(1), 4206(b)(1), Nov. 5, 1990, [104 Stat. 1388–108][/us/stat/104/1388-108] to 1388–111, 1388–116; [Pub. L. 103–296, title I, § 108(c)(6)][/us/pl/103/296/s108/c/6], Aug. 15, 1994, [108 Stat. 1486][/us/stat/108/1486]; [Pub. L. 103–432, title I, § 157(b)(1)][/us/pl/103/432/s157/b/1], (4), Oct. 31, 1994, [108 Stat. 4442][/us/stat/108/4442]; [Pub. L. 104–191, title II][/us/pl/104/191], §§ 215(a), (b), 231(g), Aug. 21, 1996, [110 Stat. 2005–2007][/us/stat/110/2005-2007], 2014; [Pub. L. 105–33, title IV, § 4002(a)][/us/pl/105/33/s4002/a]–(b)(2)(A), Aug. 5, 1997, [111 Stat. 328][/us/stat/111/328], 329; [Pub. L. 106–113, div. B][/us/pl/106/113], 1000(a)(6) \[title V, § 503\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–380; [Pub. L. 106–554, § 1(a)(6)][/us/pl/106/554/s1/a/6] \[title VI, § 634\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–568; [Pub. L. 108–173, title II, § 234][/us/pl/108/173/s234], title VII, § 736(d)(2), title IX, § 940(b)(2)(B), Dec. 8, 2003, [117 Stat. 2209][/us/stat/117/2209], 2357, 2417; [Pub. L. 110–173, title I, § 109][/us/pl/110/173/s109], Dec. 29, 2007, [121 Stat. 2497][/us/stat/121/2497]; [Pub. L. 110–275, title I, § 167(a)][/us/pl/110/275/s167/a]–(c), July 15, 2008, [122 Stat. 2575][/us/stat/122/2575], 2576; [Pub. L. 111–148, title III, § 3206][/us/pl/111/148/s3206], Mar. 23, 2010, [124 Stat. 459][/us/stat/124/459]; [Pub. L. 112–40, title II, § 261(a)(3)(A)][/us/pl/112/40/s261/a/3/A], Oct. 21, 2011, [125 Stat. 423][/us/stat/125/423]; [Pub. L. 112–240, title VI, § 608][/us/pl/112/240/s608], Jan. 2, 2013, [126 Stat. 2349][/us/stat/126/2349]; [Pub. L. 113–67, div. B, title I, § 1108][/us/pl/113/67/s1108], Dec. 26, 2013, [127 Stat. 1197][/us/stat/127/1197]; [Pub. L. 113–93, title I, § 108][/us/pl/113/93/s108], Apr. 1, 2014, [128 Stat. 1043][/us/stat/128/1043]; [Pub. L. 114–10, title II, § 209(a)][/us/pl/114/10/s209/a], Apr. 16, 2015, [129 Stat. 146][/us/stat/129/146].)
 
  __References in Text__ 
 
@@ -586,6 +620,14 @@
     [Section 1320c–3(a)(4)(C) of this title][/us/usc/t42/s1320c–3/a/4/C], referred to in subsec. (i)(7)(A), was repealed by [Pub. L. 112–40, title II, § 261(c)(2)(A)(ii)][/us/pl/112/40/s261/c/2/A/ii], Oct. 21, 2011, [125 Stat. 425][/us/stat/125/425].
 
  __Amendments__ 
+
+    2015—Subsec. (h)(5)(C)(ii). [Pub. L. 114–10, § 209(a)(1)][/us/pl/114/10/s209/a/1], substituted “Subject to clause (iv), for any” for “For any” in introductory provisions.
+
+    Subsec. (h)(5)(C)(iii)(I). [Pub. L. 114–10, § 209(a)(2)][/us/pl/114/10/s209/a/2], inserted “cost plan service” after “With respect to any portion of the”.
+
+    Subsec. (h)(5)(C)(iii)(II). [Pub. L. 114–10, § 209(a)(3)][/us/pl/114/10/s209/a/3], inserted “cost plan service” after “With respect to any other portion of such” in introductory provisions.
+
+    Subsec. (h)(5)(C)(iv), (v). [Pub. L. 114–10, § 209(a)(4)][/us/pl/114/10/s209/a/4], added cls. (iv) and (v).
 
     2014—Subsec. (h)(5)(C)(ii). [Pub. L. 113–93][/us/pl/113/93] substituted “January 1, 2016” for “January 1, 2015” in introductory provisions.
 
@@ -1613,6 +1655,9 @@
 [/us/usc/t42/s1395ww]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww
 [/us/usc/t42/s1395ww]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww
 [/us/usc/t42/s1395w–21/a/2/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%9321%2Fa%2F2%2FA%2Fi
+[/us/usc/t42/s1395w–21/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%9321%2Fc%2F4
+[/us/usc/t42/s1395w–24/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%9324%2Fa%2F5
+[/us/usc/t42/s1395w–21/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%9321%2Fc%2F4
 [/us/usc/t42/s300e–17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300e%E2%80%9317
 [/us/usc/t42/s1395cc/b/2/C/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395cc%2Fb%2F2%2FC%2Fii
 [/us/usc/t42/s1320a–7a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320a%E2%80%937a
@@ -1694,6 +1739,8 @@
 [/us/stat/127/1197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1197
 [/us/pl/113/93/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F93%2Fs108
 [/us/stat/128/1043]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1043
+[/us/pl/114/10/s209/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2Fs209%2Fa
+[/us/stat/129/146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F146
 [/us/usc/t42/s300e–9/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300e%E2%80%939%2Fd
 [/us/usc/t42/s300e–9/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300e%E2%80%939%2Fc
 [/us/pl/100/517/s7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F517%2Fs7%2Fb
@@ -1705,6 +1752,10 @@
 [/us/usc/t42/s1320c–3/a/4/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320c%E2%80%933%2Fa%2F4%2FC
 [/us/pl/112/40/s261/c/2/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40%2Fs261%2Fc%2F2%2FA%2Fii
 [/us/stat/125/425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F425
+[/us/pl/114/10/s209/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2Fs209%2Fa%2F1
+[/us/pl/114/10/s209/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2Fs209%2Fa%2F2
+[/us/pl/114/10/s209/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2Fs209%2Fa%2F3
+[/us/pl/114/10/s209/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2Fs209%2Fa%2F4
 [/us/pl/113/93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F93
 [/us/pl/113/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67
 [/us/pl/112/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240

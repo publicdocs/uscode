@@ -129,11 +129,13 @@
 
                 (ix) In the administration of the provisions of chapter 81 of title 5 and the Longshore and Harbor Workers’ Compensation Act ([33 U.S.C. 901][/us/usc/t33/s901] et seq.), the Secretary of Labor may require by regulation that any person filing a notice of injury or a claim for benefits under such provisions provide as part of such notice or claim such person’s social security account number, subject to the requirements of this clause. No officer or employee of the Department of Labor shall have access to any such number for any purpose other than the establishment of a system of records necessary for the effective administration of such provisions. The Secretary of Labor shall restrict, to the satisfaction of the Commissioner of Social Security, access to social security account numbers obtained pursuant to this clause to officers and employees of the United States whose duties or responsibilities require access for the administration or enforcement of such provisions. The Secretary of Labor shall provide such other safeguards as the Commissioner of Social Security determines to be necessary or appropriate to protect the confidentiality of the social security account numbers.
 
-                (x)  <sup>\[3\]</sup>  <sup><sup> 3 So in original. Two cls. (x) have been enacted. </sup></sup>  The Secretary of Health and Human Services, and the Exchanges established under section 1311 of the Patient Protection and Affordable Care Act \[[42 U.S.C. 18031][/us/usc/t42/s18031]\], are authorized to collect and use the names and social security account numbers of individuals as required to administer the provisions of, and the amendments made by, the such Act. <sup>\[4\]</sup>  <sup><sup> 4 So in original. Probably should be “amendments made by, such Act.” </sup></sup> 
+                (x) The Secretary of Health and Human Services, and the Exchanges established under section 1311 of the Patient Protection and Affordable Care Act \[[42 U.S.C. 18031][/us/usc/t42/s18031]\], are authorized to collect and use the names and social security account numbers of individuals as required to administer the provisions of, and the amendments made by, the such Act. <sup>\[3\]</sup>  <sup><sup> 3 So in original. Probably should be “amendments made by, such Act.” </sup></sup> 
 
-                (x) 3 No Federal, State, or local agency may display the Social Security  <sup>\[5\]</sup>  <sup><sup> 5 So in original. </sup></sup>  account number of any individual, or any derivative of such number, on any check issued for any payment by the Federal, State, or local agency.
+                (xi) No Federal, State, or local agency may display the Social Security  <sup>\[4\]</sup>  <sup><sup> 4 So in original. </sup></sup>  account number of any individual, or any derivative of such number, on any check issued for any payment by the Federal, State, or local agency.
 
-                (xi) No Federal, State, or local agency may employ, or enter into a contract for the use or employment of, prisoners in any capacity that would allow such prisoners access to the Social Security 5 account numbers of other individuals. For purposes of this clause, the term “prisoner” means an individual confined in a jail, prison, or other penal institution or correctional facility pursuant to such individual’s conviction of a criminal offense.
+                (xii) No Federal, State, or local agency may employ, or enter into a contract for the use or employment of, prisoners in any capacity that would allow such prisoners access to the Social Security 4 account numbers of other individuals. For purposes of this clause, the term “prisoner” means an individual confined in a jail, prison, or other penal institution or correctional facility pursuant to such individual’s conviction of a criminal offense.
+
+                (xiii) The Secretary of Health and Human Services, in consultation with the Commissioner of Social Security, shall establish cost-effective procedures to ensure that a Social Security 4 account number (or derivative thereof) is not displayed, coded, or embedded on the Medicare card issued to an individual who is entitled to benefits under part A of subchapter XVIII or enrolled under part B of subchapter XVIII and that any other identifier displayed on such card is not identifiable as a Social Security 4 account number (or derivative thereof).
 
             (D)
 
@@ -327,7 +329,7 @@
 
                     (I) such person has previously been convicted as described in subparagraph (B)(i)(III),
 
-                    (II) except as provided in clause (ii), certification of payment of benefits to such person under this subsection has previously been revoked as described in subparagraph (B)(i)(VI)  <sup>\[6\]</sup>  <sup><sup> 6 So in original. Probably should be followed by a comma. </sup></sup>  the designation of such person as a representative payee has been revoked pursuant to [section 1007(a) of this title][/us/usc/t42/s1007/a], or payment of benefits to such person pursuant to [section 1383(a)(2)(A)(ii) of this title][/us/usc/t42/s1383/a/2/A/ii] has previously been terminated as described in [section 1383(a)(2)(B)(ii)(VI) of this title][/us/usc/t42/s1383/a/2/B/ii/VI],
+                    (II) except as provided in clause (ii), certification of payment of benefits to such person under this subsection has previously been revoked as described in subparagraph (B)(i)(VI)  <sup>\[5\]</sup>  <sup><sup> 5 So in original. Probably should be followed by a comma. </sup></sup>  the designation of such person as a representative payee has been revoked pursuant to [section 1007(a) of this title][/us/usc/t42/s1007/a], or payment of benefits to such person pursuant to [section 1383(a)(2)(A)(ii) of this title][/us/usc/t42/s1383/a/2/A/ii] has previously been terminated as described in [section 1383(a)(2)(B)(ii)(VI) of this title][/us/usc/t42/s1383/a/2/B/ii/VI],
 
                     (III) except as provided in clause (iii), such person is a creditor of such individual who provides such individual with goods or services for consideration,
 
@@ -455,7 +457,7 @@
 
              For purposes of this paragraph, the term “qualified organization” means any State or local government agency whose mission is to carry out income maintenance, social service, or health care-related activities, any State or local government agency with fiduciary responsibilities, or any certified community-based nonprofit social service agency (as defined in paragraph (10)), if such agency, in accordance with any applicable regulations of the Commissioner of Social Security—
 
-                (i) regularly provides services as the representative payee, pursuant to this subsection or section 1007 or 1383(a)(2) of this title, concurrently to 5 or more individuals, <sup>\[7\]</sup>  <sup><sup> 7 So in original. Probably should be followed by “and”. </sup></sup> 
+                (i) regularly provides services as the representative payee, pursuant to this subsection or section 1007 or 1383(a)(2) of this title, concurrently to 5 or more individuals, <sup>\[6\]</sup>  <sup><sup> 6 So in original. Probably should be followed by “and”. </sup></sup> 
 
                 (ii) demonstrates to the satisfaction of the Commissioner of Social Security that such agency is not otherwise a creditor of any such individual.
 
@@ -679,7 +681,7 @@
 
         (3) If, after redetermining pursuant to this subsection the entitlement of an individual to monthly insurance benefits, the Commissioner of Social Security determines that there is insufficient evidence to support such entitlement, the Commissioner of Social Security may terminate such entitlement and may treat benefits paid on the basis of such insufficient evidence as overpayments.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title II, § 205, [49 Stat. 624][/us/stat/49/624]; [Aug. 10, 1939, ch. 666][/us/act/1939-08-10/ch666], title II, § 201, [53 Stat. 1362][/us/stat/53/1362], 1368; [June 25, 1948, ch. 646, § 32(b)][/us/act/1948-06-25/ch646/s32/b], [62 Stat. 991][/us/stat/62/991]; [May 24, 1949, ch. 139, § 127][/us/act/1949-05-24/ch139/s127], [63 Stat. 107][/us/stat/63/107]; [Aug. 28, 1950, ch. 809][/us/act/1950-08-28/ch809], title I, §§ 101(b)(2), 108(a)–(c), 109(b), [64 Stat. 488][/us/stat/64/488], 518, 523; [July 18, 1952, ch. 945, § 5(b)][/us/act/1952-07-18/ch945/s5/b], [66 Stat. 775][/us/stat/66/775]; [Sept. 1, 1954, ch. 1206][/us/act/1954-09-01/ch1206], title I, § 101(a)(5), (c)(3), [68 Stat. 1052][/us/stat/68/1052], 1054; [Aug. 1, 1956, ch. 836][/us/act/1956-08-01/ch836], title I, §§ 107(b), 111(a), 117, [70 Stat. 829][/us/stat/70/829], 831, 834; [Aug. 1, 1956, ch. 837][/us/act/1956-08-01/ch837], title IV, § 402(b), [70 Stat. 871][/us/stat/70/871]; [Pub. L. 86–507, § 1(35)][/us/pl/86/507/s1/35], June 11, 1960, [74 Stat. 202][/us/stat/74/202]; [Pub. L. 86–778, title I][/us/pl/86/778], §§ 102(f)(2), 103(j)(2)(E), title VII, § 702(a), Sept. 13, 1960, [74 Stat. 933][/us/stat/74/933], 938, 993; [Pub. L. 87–293, title II, § 202(b)(3)][/us/pl/87/293/s202/b/3], Sept. 21, 1961, [75 Stat. 626][/us/stat/75/626]; [Pub. L. 89–97, title III][/us/pl/89/97], §§ 308(d)(9), (10), 330, July 30, 1965, [79 Stat. 379][/us/stat/79/379], 401; [Pub. L. 90–248, title I, § 171(a)][/us/pl/90/248/s171/a], Jan. 2, 1968, [81 Stat. 876][/us/stat/81/876]; [Pub. L. 91–452, title II, § 236][/us/pl/91/452/s236], Oct. 15, 1970, [84 Stat. 930][/us/stat/84/930]; [Pub. L. 92–603, title I, § 137][/us/pl/92/603/s137], Oct. 30, 1972, [86 Stat. 1364][/us/stat/86/1364]; [Pub. L. 93–445, title III][/us/pl/93/445], §§ 302(a), 303, Oct. 16, 1974, [88 Stat. 1358][/us/stat/88/1358]; [Pub. L. 94–202, § 4][/us/pl/94/202/s4], Jan. 2, 1976, [89 Stat. 1136][/us/stat/89/1136]; [Pub. L. 94–455, title XII, § 1211(b)][/us/pl/94/455/s1211/b], Oct. 4, 1976, [90 Stat. 1711][/us/stat/90/1711]; [Pub. L. 95–216, title III, § 353(f)(2)][/us/pl/95/216/s353/f/2], Dec. 20, 1977, [91 Stat. 1554][/us/stat/91/1554]; [Pub. L. 95–600, title VII, § 703(j)(14)(B)][/us/pl/95/600/s703/j/14/B], Nov. 6, 1978, [92 Stat. 2942][/us/stat/92/2942]; [Pub. L. 96–265, title III][/us/pl/96/265], §§ 305(a), 307, June 9, 1980, [94 Stat. 457][/us/stat/94/457], 458; [Pub. L. 97–455, § 4(a)][/us/pl/97/455/s4/a], Jan. 12, 1983, [96 Stat. 2499][/us/stat/96/2499]; [Pub. L. 98–21, title III][/us/pl/98/21], §§ 301(d), 309(i), 336, 345(a), Apr. 20, 1983, [97 Stat. 111][/us/stat/97/111], 117, 130, 137; [Pub. L. 98–369, div. B, title VI][/us/pl/98/369], §§ 2661(h), 2663(a)(4), (j)(4), July 18, 1984, [98 Stat. 1157][/us/stat/98/1157], 1162, 1171; [Pub. L. 98–460, § 16(a)][/us/pl/98/460/s16/a], Oct. 9, 1984, [98 Stat. 1809][/us/stat/98/1809]; [Pub. L. 99–509, title IX, § 9002(c)(2)(A)][/us/pl/99/509/s9002/c/2/A], (B), Oct. 21, 1986, [100 Stat. 1971][/us/stat/100/1971]; [Pub. L. 100–485, title I, § 125(a)][/us/pl/100/485/s125/a], Oct. 13, 1988, [102 Stat. 2353][/us/stat/102/2353]; [Pub. L. 100–647, title VIII][/us/pl/100/647], §§ 8008(a), 8009(a), 8015(a)(1), 8016(a)(1), Nov. 10, 1988, [102 Stat. 3783][/us/stat/102/3783], 3787, 3790, 3792; [Pub. L. 101–239, title X][/us/pl/101/239], §§ 10303(a), 10304, Dec. 19, 1989, [103 Stat. 2482][/us/stat/103/2482], 2483; [Pub. L. 101–508, title V][/us/pl/101/508], §§ 5105(a)(1)(A), (2)(A)(i), (3)(A)(i), (b)(1)(A), (c)(1), (d)(1)(A), 5107(a)(1), 5109(a)(1), Nov. 5, 1990, [104 Stat. 1388–254][/us/stat/104/1388-254], 1388–255, 1388–260, 1388–263, 1388–265, 1388–269, 1388–271; [Pub. L. 101–624, title XVII, § 1735(a)][/us/pl/101/624/s1735/a], (b), title XXII, § 2201(b), (c), Nov. 28, 1990, [104 Stat. 3791][/us/stat/104/3791], 3792, 3951, 3952; [Pub. L. 103–296, title I, § 107(a)(1)][/us/pl/103/296/s107/a/1], (2), (4), title II, §§ 201(a)(1)(A), (B), (2)(A)–(C), 206(a)(1), (d)(1), title III, §§ 304(a), 316(a), 318, 321(a)(7)–(11), (c)(3), (6)(B), (f)(2)(A), Aug. 15, 1994, [108 Stat. 1477][/us/stat/108/1477], 1478, 1490–1493, 1509, 1514, 1520, 1531, 1533, 1536, 1538, 1541; [Pub. L. 104–121, title I, § 105(a)(2)][/us/pl/104/121/s105/a/2], Mar. 29, 1996, [110 Stat. 852][/us/stat/110/852]; [Pub. L. 104–193, title I, § 108(a)(1)][/us/pl/104/193/s108/a/1], Aug. 22, 1996, [110 Stat. 2164][/us/stat/110/2164]; [Pub. L. 105–34, title X, § 1090(b)(1)][/us/pl/105/34/s1090/b/1], Aug. 5, 1997, [111 Stat. 962][/us/stat/111/962]; [Pub. L. 106–169, title II, § 251(b)(2)][/us/pl/106/169/s251/b/2], Dec. 14, 1999, [113 Stat. 1854][/us/stat/113/1854]; [Pub. L. 107–90, title I, § 103(i)(3)][/us/pl/107/90/s103/i/3], Dec. 21, 2001, [115 Stat. 882][/us/stat/115/882]; [Pub. L. 107–252, title III, § 303(a)(5)(C)][/us/pl/107/252/s303/a/5/C], Oct. 29, 2002, [116 Stat. 1711][/us/stat/116/1711]; [Pub. L. 108–203, title I][/us/pl/108/203], §§ 101(a), 102(a)(1), (b)(1), 103(a), 104(a), 105(a), 106(a), title IV, § 411(a), Mar. 2, 2004, [118 Stat. 495][/us/stat/118/495], 497, 498, 500, 503–505, 527; [Pub. L. 108–271, § 8(b)][/us/pl/108/271/s8/b], July 7, 2004, [118 Stat. 814][/us/stat/118/814]; [Pub. L. 108–458, title VII, § 7214(a)][/us/pl/108/458/s7214/a], Dec. 17, 2004, [118 Stat. 3832][/us/stat/118/3832]; [Pub. L. 109–241, title IX, § 902(n)][/us/pl/109/241/s902/n], July 11, 2006, [120 Stat. 568][/us/stat/120/568]; [Pub. L. 110–234, title IV, § 4002(b)(1)(B)][/us/pl/110/234/s4002/b/1/B], (2)(V), May 22, 2008, [122 Stat. 1096][/us/stat/122/1096], 1097; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title IV, § 4002(b)(1)(B), (2)(V), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1857, 1858; [Pub. L. 111–148, title I, § 1414(a)(2)][/us/pl/111/148/s1414/a/2], title VI, § 6402(b)(3), Mar. 23, 2010, [124 Stat. 237][/us/stat/124/237], 756; [Pub. L. 111–318, § 2(a)(1)][/us/pl/111/318/s2/a/1], (b)(1), Dec. 18, 2010, [124 Stat. 3455][/us/stat/124/3455].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title II, § 205, [49 Stat. 624][/us/stat/49/624]; [Aug. 10, 1939, ch. 666][/us/act/1939-08-10/ch666], title II, § 201, [53 Stat. 1362][/us/stat/53/1362], 1368; [June 25, 1948, ch. 646, § 32(b)][/us/act/1948-06-25/ch646/s32/b], [62 Stat. 991][/us/stat/62/991]; [May 24, 1949, ch. 139, § 127][/us/act/1949-05-24/ch139/s127], [63 Stat. 107][/us/stat/63/107]; [Aug. 28, 1950, ch. 809][/us/act/1950-08-28/ch809], title I, §§ 101(b)(2), 108(a)–(c), 109(b), [64 Stat. 488][/us/stat/64/488], 518, 523; [July 18, 1952, ch. 945, § 5(b)][/us/act/1952-07-18/ch945/s5/b], [66 Stat. 775][/us/stat/66/775]; [Sept. 1, 1954, ch. 1206][/us/act/1954-09-01/ch1206], title I, § 101(a)(5), (c)(3), [68 Stat. 1052][/us/stat/68/1052], 1054; [Aug. 1, 1956, ch. 836][/us/act/1956-08-01/ch836], title I, §§ 107(b), 111(a), 117, [70 Stat. 829][/us/stat/70/829], 831, 834; [Aug. 1, 1956, ch. 837][/us/act/1956-08-01/ch837], title IV, § 402(b), [70 Stat. 871][/us/stat/70/871]; [Pub. L. 86–507, § 1(35)][/us/pl/86/507/s1/35], June 11, 1960, [74 Stat. 202][/us/stat/74/202]; [Pub. L. 86–778, title I][/us/pl/86/778], §§ 102(f)(2), 103(j)(2)(E), title VII, § 702(a), Sept. 13, 1960, [74 Stat. 933][/us/stat/74/933], 938, 993; [Pub. L. 87–293, title II, § 202(b)(3)][/us/pl/87/293/s202/b/3], Sept. 21, 1961, [75 Stat. 626][/us/stat/75/626]; [Pub. L. 89–97, title III][/us/pl/89/97], §§ 308(d)(9), (10), 330, July 30, 1965, [79 Stat. 379][/us/stat/79/379], 401; [Pub. L. 90–248, title I, § 171(a)][/us/pl/90/248/s171/a], Jan. 2, 1968, [81 Stat. 876][/us/stat/81/876]; [Pub. L. 91–452, title II, § 236][/us/pl/91/452/s236], Oct. 15, 1970, [84 Stat. 930][/us/stat/84/930]; [Pub. L. 92–603, title I, § 137][/us/pl/92/603/s137], Oct. 30, 1972, [86 Stat. 1364][/us/stat/86/1364]; [Pub. L. 93–445, title III][/us/pl/93/445], §§ 302(a), 303, Oct. 16, 1974, [88 Stat. 1358][/us/stat/88/1358]; [Pub. L. 94–202, § 4][/us/pl/94/202/s4], Jan. 2, 1976, [89 Stat. 1136][/us/stat/89/1136]; [Pub. L. 94–455, title XII, § 1211(b)][/us/pl/94/455/s1211/b], Oct. 4, 1976, [90 Stat. 1711][/us/stat/90/1711]; [Pub. L. 95–216, title III, § 353(f)(2)][/us/pl/95/216/s353/f/2], Dec. 20, 1977, [91 Stat. 1554][/us/stat/91/1554]; [Pub. L. 95–600, title VII, § 703(j)(14)(B)][/us/pl/95/600/s703/j/14/B], Nov. 6, 1978, [92 Stat. 2942][/us/stat/92/2942]; [Pub. L. 96–265, title III][/us/pl/96/265], §§ 305(a), 307, June 9, 1980, [94 Stat. 457][/us/stat/94/457], 458; [Pub. L. 97–455, § 4(a)][/us/pl/97/455/s4/a], Jan. 12, 1983, [96 Stat. 2499][/us/stat/96/2499]; [Pub. L. 98–21, title III][/us/pl/98/21], §§ 301(d), 309(i), 336, 345(a), Apr. 20, 1983, [97 Stat. 111][/us/stat/97/111], 117, 130, 137; [Pub. L. 98–369, div. B, title VI][/us/pl/98/369], §§ 2661(h), 2663(a)(4), (j)(4), July 18, 1984, [98 Stat. 1157][/us/stat/98/1157], 1162, 1171; [Pub. L. 98–460, § 16(a)][/us/pl/98/460/s16/a], Oct. 9, 1984, [98 Stat. 1809][/us/stat/98/1809]; [Pub. L. 99–509, title IX, § 9002(c)(2)(A)][/us/pl/99/509/s9002/c/2/A], (B), Oct. 21, 1986, [100 Stat. 1971][/us/stat/100/1971]; [Pub. L. 100–485, title I, § 125(a)][/us/pl/100/485/s125/a], Oct. 13, 1988, [102 Stat. 2353][/us/stat/102/2353]; [Pub. L. 100–647, title VIII][/us/pl/100/647], §§ 8008(a), 8009(a), 8015(a)(1), 8016(a)(1), Nov. 10, 1988, [102 Stat. 3783][/us/stat/102/3783], 3787, 3790, 3792; [Pub. L. 101–239, title X][/us/pl/101/239], §§ 10303(a), 10304, Dec. 19, 1989, [103 Stat. 2482][/us/stat/103/2482], 2483; [Pub. L. 101–508, title V][/us/pl/101/508], §§ 5105(a)(1)(A), (2)(A)(i), (3)(A)(i), (b)(1)(A), (c)(1), (d)(1)(A), 5107(a)(1), 5109(a)(1), Nov. 5, 1990, [104 Stat. 1388–254][/us/stat/104/1388-254], 1388–255, 1388–260, 1388–263, 1388–265, 1388–269, 1388–271; [Pub. L. 101–624, title XVII, § 1735(a)][/us/pl/101/624/s1735/a], (b), title XXII, § 2201(b), (c), Nov. 28, 1990, [104 Stat. 3791][/us/stat/104/3791], 3792, 3951, 3952; [Pub. L. 103–296, title I, § 107(a)(1)][/us/pl/103/296/s107/a/1], (2), (4), title II, §§ 201(a)(1)(A), (B), (2)(A)–(C), 206(a)(1), (d)(1), title III, §§ 304(a), 316(a), 318, 321(a)(7)–(11), (c)(3), (6)(B), (f)(2)(A), Aug. 15, 1994, [108 Stat. 1477][/us/stat/108/1477], 1478, 1490–1493, 1509, 1514, 1520, 1531, 1533, 1536, 1538, 1541; [Pub. L. 104–121, title I, § 105(a)(2)][/us/pl/104/121/s105/a/2], Mar. 29, 1996, [110 Stat. 852][/us/stat/110/852]; [Pub. L. 104–193, title I, § 108(a)(1)][/us/pl/104/193/s108/a/1], Aug. 22, 1996, [110 Stat. 2164][/us/stat/110/2164]; [Pub. L. 105–34, title X, § 1090(b)(1)][/us/pl/105/34/s1090/b/1], Aug. 5, 1997, [111 Stat. 962][/us/stat/111/962]; [Pub. L. 106–169, title II, § 251(b)(2)][/us/pl/106/169/s251/b/2], Dec. 14, 1999, [113 Stat. 1854][/us/stat/113/1854]; [Pub. L. 107–90, title I, § 103(i)(3)][/us/pl/107/90/s103/i/3], Dec. 21, 2001, [115 Stat. 882][/us/stat/115/882]; [Pub. L. 107–252, title III, § 303(a)(5)(C)][/us/pl/107/252/s303/a/5/C], Oct. 29, 2002, [116 Stat. 1711][/us/stat/116/1711]; [Pub. L. 108–203, title I][/us/pl/108/203], §§ 101(a), 102(a)(1), (b)(1), 103(a), 104(a), 105(a), 106(a), title IV, § 411(a), Mar. 2, 2004, [118 Stat. 495][/us/stat/118/495], 497, 498, 500, 503–505, 527; [Pub. L. 108–271, § 8(b)][/us/pl/108/271/s8/b], July 7, 2004, [118 Stat. 814][/us/stat/118/814]; [Pub. L. 108–458, title VII, § 7214(a)][/us/pl/108/458/s7214/a], Dec. 17, 2004, [118 Stat. 3832][/us/stat/118/3832]; [Pub. L. 109–241, title IX, § 902(n)][/us/pl/109/241/s902/n], July 11, 2006, [120 Stat. 568][/us/stat/120/568]; [Pub. L. 110–234, title IV, § 4002(b)(1)(B)][/us/pl/110/234/s4002/b/1/B], (2)(V), May 22, 2008, [122 Stat. 1096][/us/stat/122/1096], 1097; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title IV, § 4002(b)(1)(B), (2)(V), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1857, 1858; [Pub. L. 111–148, title I, § 1414(a)(2)][/us/pl/111/148/s1414/a/2], title VI, § 6402(b)(3), Mar. 23, 2010, [124 Stat. 237][/us/stat/124/237], 756; [Pub. L. 111–318, § 2(a)(1)][/us/pl/111/318/s2/a/1], (b)(1), Dec. 18, 2010, [124 Stat. 3455][/us/stat/124/3455]; [Pub. L. 114–10, title V, § 501(a)][/us/pl/114/10/s501/a], Apr. 16, 2015, [129 Stat. 163][/us/stat/129/163].)
 
  __References in Text__ 
 
@@ -728,6 +730,12 @@
     [Pub. L. 110–234][/us/pl/110/234] and [Pub. L. 110–246][/us/pl/110/246] made identical amendments to this section. The amendments by [Pub. L. 110–234][/us/pl/110/234] were repealed by [section 4(a) of Pub. L. 110–246][/us/pl/110/246/s4/a].
 
  __Amendments__ 
+
+    2015—Subsec. (c)(2)(C)(x). [Pub. L. 114–10, § 501(a)(1)][/us/pl/114/10/s501/a/1], realigned margins of cl. (x) authorizing collection and use of names and social security account numbers for certain administrative purposes.
+
+    Subsec. (c)(2)(C)(xi), (xii). [Pub. L. 114–10, § 501(a)(2)][/us/pl/114/10/s501/a/2], redesignated cl. (x), prohibiting use of social security account numbers on checks issued for payment by governmental agencies, and cl. (xi) as cls. (xi) and (xii), respectively.
+
+    Subsec. (c)(2)(C)(xiii). [Pub. L. 114–10, § 501(a)(3)][/us/pl/114/10/s501/a/3], added cl. (xiii).
 
     2010—Subsec. (c)(2)(C)(x). [Pub. L. 111–318, § 2(a)(1)][/us/pl/111/318/s2/a/1], added cl. (x) prohibiting use of social security account numbers on checks issued for payment by governmental agencies.
 
@@ -1141,6 +1149,18 @@
 
     1939—Act Aug. 10, 1939, omitted former section 405 relating to payments of $500 or less to estates, and added subsecs. (a) to (n).
 
+ __Effective Date of 2015 Amendment__ 
+
+[Pub. L. 114–10, title V, § 501(d)][/us/pl/114/10/s501/d], Apr. 16, 2015, [129 Stat. 164][/us/stat/129/164], provided that:
+
+>     “(1)  __In general__  __.—__ 
+
+>     Clause (xiii) of section 205(c)(2)(C) of the Social Security Act ([42 U.S.C. 405(c)(2)(C)][/us/usc/t42/s405/c/2/C]), as added by subsection (a)(3), shall apply with respect to Medicare cards issued on and after an effective date specified by the Secretary of Health and Human Services, but in no case shall such effective date be later than the date that is four years after the date of the enactment of this Act \[Apr. 16, 2015\].
+
+>     “(2)  __Reissuance__  __.—__ 
+
+>     The Secretary shall provide for the reissuance of Medicare cards that comply with the requirements of such clause not later than four years after the effective date specified by the Secretary under paragraph (1).”
+
  __Effective Date of 2010 Amendment__ 
 
 [Pub. L. 111–318, § 2(a)(2)][/us/pl/111/318/s2/a/2], Dec. 18, 2010, [124 Stat. 3455][/us/stat/124/3455], provided that: 
@@ -1456,6 +1476,26 @@
  __Termination of Trust Territory of the Pacific Islands__ 
 
     For termination of Trust Territory of the Pacific Islands, see note set out preceding [section 1681 of Title 48][/us/usc/t48/s1681], Territories and Insular Possessions.
+
+ __Construction of Provisions in__  __[__  __Pub. L. 114–10__  __][/us/pl/114/10]__ 
+
+[Pub. L. 114–10, title V, § 519][/us/pl/114/10/s519], Apr. 16, 2015, [129 Stat. 175][/us/stat/129/175], provided that: 
+
+> “Except as explicitly provided in this subtitle \[subtitle A (§§ 501–519) of title V of [Pub. L. 114–10][/us/pl/114/10], amending this section and sections 1320a–7a, 1395b–7, 1395l, 1395m, 1395w–104, 1395x, 1395y, 1395kk, 1395kk–1, 1395ddd, and 1395iii of this title and enacting provisions set out as notes under this section and sections 1320a–7a, 1395b–7, 1395l, 1395m, 1395y, 1395kk, and 1395kk–1 of this title\], nothing in this subtitle, including the amendments made by this subtitle, shall be construed as preventing the use of notice and comment rulemaking in the implementation of the provisions of, and the amendments made by, this subtitle.”
+
+ __Implementation of 2015 Amendment__ 
+
+[Pub. L. 114–10, title V, § 501(b)][/us/pl/114/10/s501/b], Apr. 16, 2015, [129 Stat. 163][/us/stat/129/163], provided that: 
+
+> “In implementing clause (xiii) of section 205(c)(2)(C) of the Social Security Act ([42 U.S.C. 405(c)(2)(C)][/us/usc/t42/s405/c/2/C]), as added by subsection (a)(3), the Secretary of Health and Human Services shall do the following:
+
+>     “(1)  __In general__  __.—__ 
+
+>     Establish a cost-effective process that involves the least amount of disruption to, as well as necessary assistance for, Medicare beneficiaries and health care providers, such as a process that provides such beneficiaries with access to assistance through a toll-free telephone number and provides outreach to providers.
+
+>     “(2)  __Consideration of medicare beneficiary identified__  __.—__ 
+
+>     Consider implementing a process, similar to the process involving Railroad Retirement Board beneficiaries, under which a Medicare beneficiary identifier which is not a Social Security account number (or derivative thereof) is used external to the Department of Health and Human Services and is convertible over to a Social Security account number (or derivative thereof) for use internal to such Department and the Social Security Administration.”
 
  __Social Security Cards and Numbers__ 
 
@@ -1783,6 +1823,8 @@
 [/us/stat/124/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F237
 [/us/pl/111/318/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F318%2Fs2%2Fa%2F1
 [/us/stat/124/3455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3455
+[/us/pl/114/10/s501/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2Fs501%2Fa
+[/us/stat/129/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F163
 [/us/usc/t42/s418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs418
 [/us/usc/t42/s418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs418
 [/us/pl/99/509/s9002/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs9002%2Fc%2F1
@@ -1829,6 +1871,9 @@
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/114/10/s501/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2Fs501%2Fa%2F1
+[/us/pl/114/10/s501/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2Fs501%2Fa%2F2
+[/us/pl/114/10/s501/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2Fs501%2Fa%2F3
 [/us/pl/111/318/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F318%2Fs2%2Fa%2F1
 [/us/pl/111/148/s1414/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs1414%2Fa%2F2
 [/us/pl/111/318/s2/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F318%2Fs2%2Fb%2F1
@@ -2062,6 +2107,9 @@
 [/us/usc/t42/s410/m/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs410%2Fm%2F1
 [/us/usc/t42/s417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs417
 [/us/usc/t42/s417/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs417%2Fa
+[/us/pl/114/10/s501/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2Fs501%2Fd
+[/us/stat/129/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F164
+[/us/usc/t42/s405/c/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs405%2Fc%2F2%2FC
 [/us/pl/111/318/s2/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F318%2Fs2%2Fa%2F2
 [/us/stat/124/3455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3455
 [/us/pl/111/318/s2/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F318%2Fs2%2Fb%2F2
@@ -2264,6 +2312,13 @@
 [/us/pl/89/572/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F572%2Fs5%2Fb
 [/us/usc/t22/s2515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2515
 [/us/usc/t48/s1681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1681
+[/us/pl/114/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10
+[/us/pl/114/10/s519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2Fs519
+[/us/stat/129/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F175
+[/us/pl/114/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10
+[/us/pl/114/10/s501/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2Fs501%2Fb
+[/us/stat/129/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F163
+[/us/usc/t42/s405/c/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs405%2Fc%2F2%2FC
 [/us/pl/108/458/s7213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs7213
 [/us/stat/118/3830]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3830
 [/us/usc/t42/s405/r]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs405%2Fr

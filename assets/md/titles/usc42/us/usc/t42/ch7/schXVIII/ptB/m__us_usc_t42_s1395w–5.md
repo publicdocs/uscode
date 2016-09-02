@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch7/schXVIII/ptB/m__us_usc_t42_s1395w–4.md) | [Next](./../../../../../..//us/usc/t42/ch7/schXVIII/ptC/m__us_usc_t42_ch7_schXVIII_ptC.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%935)
+[Previous](./../../../../../..//us/usc/t42/ch7/schXVIII/ptB/m__us_usc_t42_s1395w–4.md) | [Next](./../../../../../..//us/usc/t42/ch7/schXVIII/ptB/m__us_usc_t42_s1395w–6.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%935)
 
 ## § 1395w–5. Public reporting of performance information
 
@@ -109,7 +109,7 @@
 
     Section 131 of the Medicare Improvements for Patients and Providers Act of 2008, referred to in subsec. (e), is [section 131 of Pub. L. 110–275][/us/pl/110/275/s131], [122 Stat. 2520][/us/stat/122/2520], which amended [section 1395w–4 of this title][/us/usc/t42/s1395w–4], enacted provisions set out as notes under [section 1395w–4 of this title][/us/usc/t42/s1395w–4], and redesignated provisions formerly set out as a note under [section 1395w–4 of this title][/us/usc/t42/s1395w–4] as section 1395w–4(m).
 
-    The Social Security Act, referred to in subsecs. (g) and (h), is [act Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], [49 Stat. 620][/us/stat/49/620]. Title XVIII of the Act is classified generally to subchapter XVIII (§ 1395 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see [section 1305 of this title][/us/usc/t42/s1305] and Tables.
+    The Social Security Act, referred to in subsecs. (g) and (h), is [act Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], [49 Stat. 620][/us/stat/49/620]. Title XVIII of the Act is classified generally to this subchapter. For complete classification of this Act to the Code, see [section 1305 of this title][/us/usc/t42/s1305] and Tables.
 
  __Codification__ 
 
@@ -117,7 +117,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch7/schXVIII/ptB/m__us_usc_t42_s1395w–4.md) | [Next](./../../../../../..//us/usc/t42/ch7/schXVIII/ptC/m__us_usc_t42_ch7_schXVIII_ptC.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%935)
+[Previous](./../../../../../..//us/usc/t42/ch7/schXVIII/ptB/m__us_usc_t42_s1395w–4.md) | [Next](./../../../../../..//us/usc/t42/ch7/schXVIII/ptB/m__us_usc_t42_s1395w–6.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%935)
 
 ----------
 ----------

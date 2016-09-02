@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch7/schXVIII/ptE/m__us_usc_t42_s1395kk.md) | [Next](./../../../../../..//us/usc/t42/ch7/schXVIII/ptE/m__us_usc_t42_s1395ll.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395kk%E2%80%931)
+[Previous](./../../../../../..//us/usc/t42/ch7/schXVIII/ptE/m__us_usc_t42_s1395kk.md) | [Next](./../../../../../..//us/usc/t42/ch7/schXVIII/ptE/m__us_usc_t42_s1395kk–2.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395kk%E2%80%931)
 
 ## § 1395kk–1. Contracts with medicare administrative contractors
 
@@ -73,7 +73,11 @@
 
                 Performing the functions relating to provider education, training, and technical assistance.
 
-            (G) __Additional functions__ 
+            (G) __Improper payment outreach and education program__ 
+
+                Having in place an improper payment outreach and education program described in subsection (h).
+
+            (H) __Additional functions__ 
 
                 Performing such other functions, including (subject to paragraph (5)) functions under the Medicare Integrity Program under [section 1395ddd of this title][/us/usc/t42/s1395ddd], as are necessary to carry out the purposes of this subchapter.
 
@@ -101,7 +105,7 @@
 
             (B) __Renewal of contracts__ 
 
-                The Secretary may renew a contract with a medicare administrative contractor under this section from term to term without regard to [section 6101 of title 41][/us/usc/t41/s6101] or any other provision of law requiring competition, if the medicare administrative contractor has met or exceeded the performance requirements applicable with respect to the contract and contractor, except that the Secretary shall provide for the application of competitive procedures under such a contract not less frequently than once every 5 years.
+                The Secretary may renew a contract with a medicare administrative contractor under this section from term to term without regard to [section 6101 of title 41][/us/usc/t41/s6101] or any other provision of law requiring competition, if the medicare administrative contractor has met or exceeded the performance requirements applicable with respect to the contract and contractor, except that the Secretary shall provide for the application of competitive procedures under such a contract not less frequently than once every 10 years.
 
             (C) __Transfer of functions__ 
 
@@ -130,6 +134,10 @@
                 (iii) __Publication of standards__ 
 
                     The Secretary shall make such performance requirements and measurement standards available to the public.
+
+                (iv) __Contractor performance transparency__ 
+
+                    To the extent possible without compromising the process for entering into and renewing contracts with medicare administrative contractors under this section, the Secretary shall make available to the public the performance of each medicare administrative contractor with respect to such performance requirements and measurement standards.
 
             (B) __Considerations__ 
 
@@ -299,7 +307,65 @@
 
             There are authorized to be appropriated such sums as are necessary to carry out this subsection.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XVIII, § 1874A, as added and amended [Pub. L. 108–173, title IX][/us/pl/108/173], §§ 911(a)(1), 912(a), 921(b)(1), (c)(1), 934(a), 940A(b), Dec. 8, 2003, [117 Stat. 2378][/us/stat/117/2378], 2387–2389, 2406, 2417; [Pub. L. 111–152, title I, § 1302][/us/pl/111/152/s1302], Mar. 30, 2010, [124 Stat. 1057][/us/stat/124/1057].)
+    (h) __Improper payment outreach and education program__ 
+
+        (1) __In general__ 
+
+            In order to reduce improper payments under this subchapter, each medicare administrative contractor shall establish and have in place an improper payment outreach and education program under which the contractor, through outreach, education, training, and technical assistance or other activities, shall provide providers of services and suppliers located in the region covered by the contract under this section with the information described in paragraph (2). The activities described in the preceding sentence shall be conducted on a regular basis.
+
+        (2) __Information to be provided through activities__ 
+
+        The information to be provided under such payment outreach and education program shall include information the Secretary determines to be appropriate, which may include the following information:
+
+            (A) A list of the providers’ or suppliers’ most frequent and expensive payment errors over the last quarter.
+
+            (B) Specific instructions regarding how to correct or avoid such errors in the future.
+
+            (C) A notice of new topics that have been approved by the Secretary for audits conducted by recovery audit contractors under [section 1395ddd(h) of this title][/us/usc/t42/s1395ddd/h].
+
+            (D) Specific instructions to prevent future issues related to such new audits.
+
+            (E) Other information determined appropriate by the Secretary.
+
+        (3) __Priority__ 
+
+        A medicare administrative contractor shall give priority to activities under such program that will reduce improper payments that are one or more of the following:
+
+            (A) Are for items and services that have the highest rate of improper payment.
+
+            (B) Are for items and service  <sup>\[2\]</sup>  <sup><sup> 2 So in original. Probably should be “services”. </sup></sup>  that have the greatest total dollar amount of improper payments.
+
+            (C) Are due to clear misapplication or misinterpretation of Medicare policies.
+
+            (D) Are clearly due to common and inadvertent clerical or administrative errors.
+
+            (E) Are due to other types of errors that the Secretary determines could be prevented through activities under the program.
+
+        (4) __Information on improper payments from recovery audit contractors__ 
+
+            (A) __In general__ 
+
+                In order to assist medicare administrative contractors in carrying out improper payment outreach and education programs, the Secretary shall provide each contractor with a complete list of the types of improper payments identified by recovery audit contractors under [section 1395ddd(h) of this title][/us/usc/t42/s1395ddd/h] with respect to providers of services and suppliers located in the region covered by the contract under this section. Such information shall be provided on a time frame the Secretary determines appropriate which may be on a quarterly basis.
+
+            (B) __Information__ 
+
+            The information described in subparagraph (A) shall include information such as the following:
+
+                (i) Providers of services and suppliers that have the highest rate of improper payments.
+
+                (ii) Providers of services and suppliers that have the greatest total dollar amounts of improper payments.
+
+                (iii) Items and services furnished in the region that have the highest rates of improper payments.
+
+                (iv) Items and services furnished in the region that are responsible for the greatest total dollar amount of improper payments.
+
+                (v) Other information the Secretary determines would assist the contractor in carrying out the program.
+
+        (5) __Communications__ 
+
+            Communications with providers of services and suppliers under an improper payment outreach and education program are subject to the standards and requirements of subsection (g).
+
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XVIII, § 1874A, as added and amended [Pub. L. 108–173, title IX][/us/pl/108/173], §§ 911(a)(1), 912(a), 921(b)(1), (c)(1), 934(a), 940A(b), Dec. 8, 2003, [117 Stat. 2378][/us/stat/117/2378], 2387–2389, 2406, 2417; [Pub. L. 111–152, title I, § 1302][/us/pl/111/152/s1302], Mar. 30, 2010, [124 Stat. 1057][/us/stat/124/1057]; [Pub. L. 114–10, title V][/us/pl/114/10], §§ 505(a), 509(a), (c), Apr. 16, 2015, [129 Stat. 166][/us/stat/129/166], 170.)
 
  __References in Text__ 
 
@@ -310,6 +376,14 @@
     In subsec. (b)(1)(B), “[section 6101 of title 41][/us/usc/t41/s6101]” substituted for “[section 5 of title 41][/us/usc/t41/s5], United States Code,” on authority of [Pub. L. 111–350, § 6(c)][/us/pl/111/350/s6/c], Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
 
  __Amendments__ 
+
+    2015—Subsec. (a)(4)(G), (H). [Pub. L. 114–10, § 505(a)(1)][/us/pl/114/10/s505/a/1], added subpar. (G) and redesignated former subpar. (G) as (H).
+
+    Subsec. (b)(1)(B). [Pub. L. 114–10, § 509(a)][/us/pl/114/10/s509/a], substituted “10 years” for “5 years”.
+
+    Subsec. (b)(3)(A)(iv). [Pub. L. 114–10, § 509(c)][/us/pl/114/10/s509/c], added cl. (iv).
+
+    Subsec. (h). [Pub. L. 114–10, § 505(a)(2)][/us/pl/114/10/s505/a/2], added subsec. (h).
 
     2010—Subsec. (h). [Pub. L. 111–152][/us/pl/111/152] struck out subsec. (h) which related to conduct of prepayment review.
 
@@ -322,6 +396,12 @@
     Subsec. (g). [Pub. L. 108–173, § 921(c)(1)][/us/pl/108/173/s921/c/1], added subsec. (g).
 
     Subsec. (h). [Pub. L. 108–173, § 934(a)][/us/pl/108/173/s934/a], added subsec. (h).
+
+ __Effective Date of 2015 Amendment__ 
+
+[Pub. L. 114–10, title V, § 509(b)][/us/pl/114/10/s509/b], Apr. 16, 2015, [129 Stat. 170][/us/stat/129/170], provided that: 
+
+> “The amendments made by subsection (a) \[amending this section\] shall apply to contracts entered into on or after, and to contracts in effect as of, the date of the enactment of this Act \[Apr. 16, 2015\].”
 
  __Effective Date of 2003 Amendment__ 
 
@@ -563,7 +643,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch7/schXVIII/ptE/m__us_usc_t42_s1395kk.md) | [Next](./../../../../../..//us/usc/t42/ch7/schXVIII/ptE/m__us_usc_t42_s1395ll.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395kk%E2%80%931)
+[Previous](./../../../../../..//us/usc/t42/ch7/schXVIII/ptE/m__us_usc_t42_s1395kk.md) | [Next](./../../../../../..//us/usc/t42/ch7/schXVIII/ptE/m__us_usc_t42_s1395kk–2.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395kk%E2%80%931)
 
 ----------
 ----------
@@ -578,11 +658,15 @@
 [/us/usc/t42/s1395y/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395y%2Fb
 [/us/usc/t44/s3502/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3502%2F8
 [/us/usc/t40/s11331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs11331
+[/us/usc/t42/s1395ddd/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ddd%2Fh
+[/us/usc/t42/s1395ddd/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ddd%2Fh
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/pl/108/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173
 [/us/stat/117/2378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2378
 [/us/pl/111/152/s1302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2Fs1302
 [/us/stat/124/1057]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1057
+[/us/pl/114/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10
+[/us/stat/129/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F166
 [/us/usc/t44/s3544]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3544
 [/us/pl/113/283/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F283%2Fs2%2Fa
 [/us/stat/128/3073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3073
@@ -593,12 +677,18 @@
 [/us/usc/t41/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs5
 [/us/pl/111/350/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs6%2Fc
 [/us/stat/124/3854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3854
+[/us/pl/114/10/s505/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2Fs505%2Fa%2F1
+[/us/pl/114/10/s509/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2Fs509%2Fa
+[/us/pl/114/10/s509/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2Fs509%2Fc
+[/us/pl/114/10/s505/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2Fs505%2Fa%2F2
 [/us/pl/111/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152
 [/us/pl/108/173/s940A/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs940A%2Fb
 [/us/pl/108/173/s912/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs912%2Fa
 [/us/pl/108/173/s921/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs921%2Fb%2F1
 [/us/pl/108/173/s921/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs921%2Fc%2F1
 [/us/pl/108/173/s934/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs934%2Fa
+[/us/pl/114/10/s509/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2Fs509%2Fb
+[/us/stat/129/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F170
 [/us/pl/108/173/s921/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs921%2Fc%2F2
 [/us/stat/117/2390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2390
 [/us/pl/108/173/s934/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs934%2Fb

@@ -99,7 +99,7 @@
 
                 (v) $2,500,000 for the portion of fiscal year 2014 on or after April 1, 2014; and
 
-                (vi) $2,500,000 for the portion of fiscal year 2015 before April 1, 2015.
+                (vi) $5,000,000 for each of fiscal years 2015 through 2017.
 
             (B)
 
@@ -147,7 +147,7 @@
 
         (5) For purposes of this subsection, the term “State” means each of the 50 States and the District of Columbia.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title V, § 501, as added [Pub. L. 97–35, title XXI, § 2192(a)][/us/pl/97/35/s2192/a], Aug. 13, 1981, [95 Stat. 818][/us/stat/95/818]; amended [Pub. L. 97–248, title I, § 137(b)(1)][/us/pl/97/248/s137/b/1], (2), Sept. 3, 1982, [96 Stat. 376][/us/stat/96/376]; [Pub. L. 98–369, div. B, title III, § 2372(a)][/us/pl/98/369/s2372/a], July 18, 1984, [98 Stat. 1110][/us/stat/98/1110]; [Pub. L. 99–272, title IX, § 9527(a)][/us/pl/99/272/s9527/a]–(c), Apr. 7, 1986, [100 Stat. 219][/us/stat/100/219]; [Pub. L. 99–509, title IX, § 9441(a)][/us/pl/99/509/s9441/a], Oct. 21, 1986, [100 Stat. 2071][/us/stat/100/2071]; [Pub. L. 100–203, title IV, § 4118(p)(8)][/us/pl/100/203/s4118/p/8], Dec. 22, 1987, [101 Stat. 1330–159][/us/stat/101/1330-159]; [Pub. L. 101–239, title VI, § 6501(a)][/us/pl/101/239/s6501/a], Dec. 19, 1989, [103 Stat. 2273][/us/stat/103/2273]; [Pub. L. 103–432, title II, § 201][/us/pl/103/432/s201], Oct. 31, 1994, [108 Stat. 4453][/us/stat/108/4453]; [Pub. L. 105–12, § 9(d)][/us/pl/105/12/s9/d], Apr. 30, 1997, [111 Stat. 27][/us/stat/111/27]; [Pub. L. 106–554, § 1(a)(6)][/us/pl/106/554/s1/a/6] \[title IX, § 921(a)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–584; [Pub. L. 109–171, title VI, § 6064][/us/pl/109/171/s6064], Feb. 8, 2006, [120 Stat. 100][/us/stat/120/100]; [Pub. L. 111–148, title V, § 5507(b)][/us/pl/111/148/s5507/b], Mar. 23, 2010, [124 Stat. 668][/us/stat/124/668]; [Pub. L. 112–240, title VI, § 624][/us/pl/112/240/s624], Jan. 2, 2013, [126 Stat. 2352][/us/stat/126/2352]; [Pub. L. 113–67, div. B, title II, § 1203][/us/pl/113/67/s1203], Dec. 26, 2013, [127 Stat. 1199][/us/stat/127/1199]; [Pub. L. 113–93, title II, § 207][/us/pl/113/93/s207], Apr. 1, 2014, [128 Stat. 1046][/us/stat/128/1046].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title V, § 501, as added [Pub. L. 97–35, title XXI, § 2192(a)][/us/pl/97/35/s2192/a], Aug. 13, 1981, [95 Stat. 818][/us/stat/95/818]; amended [Pub. L. 97–248, title I, § 137(b)(1)][/us/pl/97/248/s137/b/1], (2), Sept. 3, 1982, [96 Stat. 376][/us/stat/96/376]; [Pub. L. 98–369, div. B, title III, § 2372(a)][/us/pl/98/369/s2372/a], July 18, 1984, [98 Stat. 1110][/us/stat/98/1110]; [Pub. L. 99–272, title IX, § 9527(a)][/us/pl/99/272/s9527/a]–(c), Apr. 7, 1986, [100 Stat. 219][/us/stat/100/219]; [Pub. L. 99–509, title IX, § 9441(a)][/us/pl/99/509/s9441/a], Oct. 21, 1986, [100 Stat. 2071][/us/stat/100/2071]; [Pub. L. 100–203, title IV, § 4118(p)(8)][/us/pl/100/203/s4118/p/8], Dec. 22, 1987, [101 Stat. 1330–159][/us/stat/101/1330-159]; [Pub. L. 101–239, title VI, § 6501(a)][/us/pl/101/239/s6501/a], Dec. 19, 1989, [103 Stat. 2273][/us/stat/103/2273]; [Pub. L. 103–432, title II, § 201][/us/pl/103/432/s201], Oct. 31, 1994, [108 Stat. 4453][/us/stat/108/4453]; [Pub. L. 105–12, § 9(d)][/us/pl/105/12/s9/d], Apr. 30, 1997, [111 Stat. 27][/us/stat/111/27]; [Pub. L. 106–554, § 1(a)(6)][/us/pl/106/554/s1/a/6] \[title IX, § 921(a)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–584; [Pub. L. 109–171, title VI, § 6064][/us/pl/109/171/s6064], Feb. 8, 2006, [120 Stat. 100][/us/stat/120/100]; [Pub. L. 111–148, title V, § 5507(b)][/us/pl/111/148/s5507/b], Mar. 23, 2010, [124 Stat. 668][/us/stat/124/668]; [Pub. L. 112–240, title VI, § 624][/us/pl/112/240/s624], Jan. 2, 2013, [126 Stat. 2352][/us/stat/126/2352]; [Pub. L. 113–67, div. B, title II, § 1203][/us/pl/113/67/s1203], Dec. 26, 2013, [127 Stat. 1199][/us/stat/127/1199]; [Pub. L. 113–93, title II, § 207][/us/pl/113/93/s207], Apr. 1, 2014, [128 Stat. 1046][/us/stat/128/1046]; [Pub. L. 114–10, title II, § 216][/us/pl/114/10/s216], Apr. 16, 2015, [129 Stat. 153][/us/stat/129/153].)
 
  __References in Text__ 
 
@@ -172,6 +172,8 @@
     Provisions similar to those comprising former section 701 were contained in section 511 of [act Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title V, [49 Stat. 631][/us/stat/49/631], as amended (formerly classified to [section 711 of this title][/us/usc/t42/s711], and sections 531(a), 532(a), and 533(a) (formerly 532(a)) of [act Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title V, as added Oct. 24, 1963, [Pub. L. 88–156, § 4][/us/pl/88/156/s4], [77 Stat. 274][/us/stat/77/274]; amended July 30, 1965, [Pub. L. 89–97, title II, § 205(3)][/us/pl/89/97/s205/3], [79 Stat. 354][/us/stat/79/354]; Oct. 24, 1963, [Pub. L. 88–156, § 4][/us/pl/88/156/s4], [77 Stat. 274][/us/stat/77/274]; renumbered July 30, 1965, [Pub. L. 89–97, title II, § 205(2)][/us/pl/89/97/s205/2], [79 Stat. 354][/us/stat/79/354] (formerly classified to sections 729(a), 729–1(a), and 729a(a) of this title), prior to the general amendment and renumbering of title V of act Aug. 14, 1935, by [Pub. L. 90–248, § 301][/us/pl/90/248/s301].
 
  __Amendments__ 
+
+    2015—Subsec. (c)(1)(A)(vi). [Pub. L. 114–10][/us/pl/114/10] added cl. (vi) and struck out former cl. (vi) which read as follows: “$2,500,000 for the portion of fiscal year 2015 before April 1, 2015.”
 
     2014—Subsec. (c)(1)(A)(iv) to (vi). [Pub. L. 113–93][/us/pl/113/93] realigned margin of cl. (iv) and added cls. (v) and (vi).
 
@@ -407,6 +409,8 @@
 [/us/stat/127/1199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1199
 [/us/pl/113/93/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F93%2Fs207
 [/us/stat/128/1046]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1046
+[/us/pl/114/10/s216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2Fs216
+[/us/stat/129/153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F153
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
 [/us/stat/58/682]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F58%2F682
 [/us/usc/t42/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs201
@@ -464,6 +468,7 @@
 [/us/pl/89/97/s205/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97%2Fs205%2F2
 [/us/stat/79/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F354
 [/us/pl/90/248/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248%2Fs301
+[/us/pl/114/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10
 [/us/pl/113/93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F93
 [/us/pl/112/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240
 [/us/pl/113/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67

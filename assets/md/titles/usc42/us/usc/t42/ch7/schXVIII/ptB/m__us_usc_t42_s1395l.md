@@ -183,13 +183,13 @@
 
         (5)
 
-            (A) With respect to expenses incurred during the period beginning on January 1, 2006, and ending on March 31, 2015, for services, the Secretary shall implement a process under which an individual enrolled under this part may, upon request of the individual or a person on behalf of the individual, obtain an exception from the uniform dollar limitation specified in paragraph (2), for services described in paragraphs (1) and (3) if the provision of such services is determined to be medically necessary and if the requirement of subparagraph (B) is met. Under such process, if the Secretary does not make a decision on such a request for an exception within 10 business days of the date of the Secretary’s receipt of the request made in accordance with such requirement, the Secretary shall be deemed to have found the services to be medically necessary.
+            (A) With respect to expenses incurred during the period beginning on January 1, 2006, and ending on December 31, 2017, for services, the Secretary shall implement a process under which an individual enrolled under this part may, upon request of the individual or a person on behalf of the individual, obtain an exception from the uniform dollar limitation specified in paragraph (2), for services described in paragraphs (1) and (3) if the provision of such services is determined to be medically necessary and if the requirement of subparagraph (B) is met. Under such process, if the Secretary does not make a decision on such a request for an exception within 10 business days of the date of the Secretary’s receipt of the request made in accordance with such requirement, the Secretary shall be deemed to have found the services to be medically necessary.
 
             (B) In the case of outpatient therapy services for which an exception is requested under the first sentence of subparagraph (A), the claim for such services shall contain an appropriate modifier (such as the KX modifier used as of February 22, 2012) indicating that such services are medically necessary as justified by appropriate documentation in the medical record involved.
 
             (C)
 
-                (i) In applying this paragraph with respect to a request for an exception with respect to expenses that would be incurred for outpatient therapy services (including services described in subsection (a)(8)(B)) that would exceed the threshold described in clause (ii) for a year, the request for such an exception, for services furnished on or after October 1, 2012, shall be subject to a manual medical review process that is similar to the manual medical review process used for certain exceptions under this paragraph in 2006.
+                (i) In applying this paragraph with respect to a request for an exception with respect to expenses that would be incurred for outpatient therapy services (including services described in subsection (a)(8)(B)) that would exceed the threshold described in clause (ii) for a year, the request for such an exception, for services furnished on or after October 1, 2012, shall be subject to a manual medical review process that, subject to subparagraph (E), is similar to the manual medical review process used for certain exceptions under this paragraph in 2006.
 
                 (ii)
 
@@ -201,9 +201,31 @@
 
             (D) With respect to services furnished on or after January 1, 2013, where payment may not be made as a result of application of paragraphs (1) and (3), [section 1395pp of this title][/us/usc/t42/s1395pp] shall apply in the same manner as such section applies to a denial that is made by reason of [section 1395y(a)(1) of this title][/us/usc/t42/s1395y/a/1].
 
+            (E)
+
+                (i) In place of the manual medical review process under subparagraph (C)(i), the Secretary shall implement a process for medical review under this subparagraph under which the Secretary shall identify and conduct medical review for services described in subparagraph (C)(i) furnished by a provider of services or supplier (in this subparagraph referred to as a “therapy provider”) using such factors as the Secretary determines to be appropriate.
+
+                (ii)
+
+                 Such factors may include the following:
+
+                    (I) The therapy provider has had a high claims denial percentage for therapy services under this part or is less compliant with applicable requirements under this subchapter.
+
+                    (II) The therapy provider has a pattern of billing for therapy services under this part that is aberrant compared to peers or otherwise has questionable billing practices for such services, such as billing medically unlikely units of services in a day.
+
+                    (III) The therapy provider is newly enrolled under this subchapter or has not previously furnished therapy services under this part.
+
+                    (IV) The services are furnished to treat a type of medical condition.
+
+                    (V) The therapy provider is part of group  <sup>\[5\]</sup>  <sup><sup> 5 So in original. Probably should be preceded by “a”. </sup></sup>  that includes another therapy provider identified using the factors determined under this subparagraph.
+
+                (iii) For purposes of carrying out this subparagraph, the Secretary shall provide for the transfer, from the Federal Supplementary Medical Insurance Trust Fund under [section 1395t of this title][/us/usc/t42/s1395t], of $5,000,000 to the Centers for Medicare & Medicaid Services Program Management Account for fiscal years 2015 and 2016, to remain available until expended. Such funds may not be used by a contractor under [section 1395ddd(h) of this title][/us/usc/t42/s1395ddd/h] for medical reviews under this subparagraph.
+
+                (iv) The targeted review process under this subparagraph shall not apply to services for which expenses are incurred beyond the period for which the exceptions process under subparagraph (A) is implemented.
+
         (6)
 
-            (A) In applying paragraphs (1) and (3) to services furnished during the period beginning not later than October 1, 2012, and ending on March 31, 2015, the exclusion of services described in subsection (a)(8)(B) from the uniform dollar limitation specified in paragraph (2) shall not apply to such services furnished during 2012, 2013, 2014, or the first three months of 2015.
+            (A) In applying paragraphs (1) and (3) to services furnished during the period beginning not later than October 1, 2012, and ending on December 31, 2017, the exclusion of services described in subsection (a)(8)(B) from the uniform dollar limitation specified in paragraph (2) shall not apply to such services furnished during 2012 through 2017.
 
             (B)
 
@@ -299,7 +321,7 @@
 
                     (II) the referring laboratory is wholly owned by the entity performing such test, the referring laboratory wholly owns the entity performing such test, or both the referring laboratory and the entity performing such test are wholly-owned by a third entity, or
 
-                    (III) not more than 30 percent of the clinical diagnostic laboratory tests for which such referring laboratory (but not including a laboratory described in subclause (II)), <sup>\[5\]</sup>  <sup><sup> 5 So in original. The comma after “subclause (II))” probably should follow “is performed”. </sup></sup>  receives requests for testing during the year in which the test is performed  <sup>\[5\]</sup>  are performed by another laboratory, and
+                    (III) not more than 30 percent of the clinical diagnostic laboratory tests for which such referring laboratory (but not including a laboratory described in subclause (II)), <sup>\[6\]</sup>  <sup><sup> 6 So in original. The comma after “subclause (II))” probably should follow “is performed”. </sup></sup>  receives requests for testing during the year in which the test is performed  <sup>\[6\]</sup>  are performed by another laboratory, and
 
                 (iii) in the case of a clinical diagnostic laboratory test provided under an arrangement (as defined in [section 1395x(w)(1) of this title][/us/usc/t42/s1395x/w/1]) made by a hospital, critical access hospital, or skilled nursing facility, payment shall be made to the hospital or skilled nursing facility.
 
@@ -307,7 +329,7 @@
 
             (C) Payment for a clinical diagnostic laboratory test, including a test performed in a physician’s office but excluding a test performed by a rural health clinic may only be made on an assignment-related basis or to a provider of services with an agreement in effect under [section 1395cc of this title][/us/usc/t42/s1395cc].
 
-            (D) A person may not bill for a clinical diagnostic laboratory test, including a test performed in a physician’s office but excluding a test performed by a rural health clinic, other than on an assignment-related basis. If a person knowingly and willfully and on a repeated basis bills for a clinical diagnostic laboratory test in violation of the previous sentence, the Secretary may apply sanctions against the person in the same manner as the Secretary may apply sanctions against a physician in accordance with paragraph (2) of [section 1395u(j) of this title][/us/usc/t42/s1395u/j] in the same manner such paragraphs apply  <sup>\[6\]</sup>  <sup><sup> 6 So in original. Probably should be “such paragraph applies”. </sup></sup>  with respect to a physician. Paragraph (4) of such section shall apply in this subparagraph in the same manner as such paragraph applies to such section.
+            (D) A person may not bill for a clinical diagnostic laboratory test, including a test performed in a physician’s office but excluding a test performed by a rural health clinic, other than on an assignment-related basis. If a person knowingly and willfully and on a repeated basis bills for a clinical diagnostic laboratory test in violation of the previous sentence, the Secretary may apply sanctions against the person in the same manner as the Secretary may apply sanctions against a physician in accordance with paragraph (2) of [section 1395u(j) of this title][/us/usc/t42/s1395u/j] in the same manner such paragraphs apply  <sup>\[7\]</sup>  <sup><sup> 7 So in original. Probably should be “such paragraph applies”. </sup></sup>  with respect to a physician. Paragraph (4) of such section shall apply in this subparagraph in the same manner as such paragraph applies to such section.
 
         (6) For tests furnished before January 1, 2017, in the case of any diagnostic laboratory test payment for which is not made on the basis of a fee schedule under paragraph (1), the Secretary may establish a payment rate which is acceptable to the person or entity performing the test and which would be considered the full charge for such tests. Such negotiated rate shall be limited to an amount not in excess of the total payment that would have been made for the services in the absence of such rate.
 
@@ -469,7 +491,7 @@
 
                 the cost proportion and ASC proportion in effect under subclauses (I) and (II) of paragraph (3)(B)(ii) for cost reporting periods beginning in fiscal year 1988 shall remain in effect for cost reporting periods beginning on or after October 1, 1988, and before January 1, 1995.
 
-            (B) For purposes of this  <sup>\[7\]</sup>  <sup><sup> 7 So in original. The word “this” probably should not appear. </sup></sup>  subparagraph (A)(iii)(II), the term “eye or eye and ear unit” means a physically separate or distinct unit containing separate surgical suites devoted solely to eye or eye and ear services.
+            (B) For purposes of this  <sup>\[8\]</sup>  <sup><sup> 8 So in original. The word “this” probably should not appear. </sup></sup>  subparagraph (A)(iii)(II), the term “eye or eye and ear unit” means a physically separate or distinct unit containing separate surgical suites devoted solely to eye or eye and ear services.
 
         (5)
 
@@ -539,7 +561,7 @@
 
                 (iii)
 
-                 the geographic adjustment factors to be applied to the conversion factor under clause (i) for services in a fee schedule area or locality is—  <sup>\[8\]</sup>  <sup><sup> 8 So in original. Probably should be “are—”. </sup></sup> 
+                 the geographic adjustment factors to be applied to the conversion factor under clause (i) for services in a fee schedule area or locality is—  <sup>\[9\]</sup>  <sup><sup> 9 So in original. Probably should be “are—”. </sup></sup> 
 
                     (I) in the case of services furnished in 1991, the geographic work index value and the geographic practice cost index value specified in [section 1395u(q)(1)(B) of this title][/us/usc/t42/s1395u/q/1/B] for physicians’ services that are anesthesia services furnished in the area or locality, and
 
@@ -577,7 +599,7 @@
 
                     (II) the conversion factor specified in subparagraph (A)(i) for the year involved.
 
-            (D) Notwithstanding subparagraph (C), in no case may the conversion factor used to determine payment for services in a fee schedule area or locality under this subsection, as adjusted by the adjustment factors specified in subparagraphs  <sup>\[9\]</sup>  <sup><sup> 9 So in original. Probably should be “subparagraph”. </sup></sup>  (A)(iii), exceed the conversion factor used to determine the amount paid for physicians’ services that are anesthesia services in the area or locality.
+            (D) Notwithstanding subparagraph (C), in no case may the conversion factor used to determine payment for services in a fee schedule area or locality under this subsection, as adjusted by the adjustment factors specified in subparagraphs  <sup>\[10\]</sup>  <sup><sup> 10 So in original. Probably should be “subparagraph”. </sup></sup>  (A)(iii), exceed the conversion factor used to determine the amount paid for physicians’ services that are anesthesia services in the area or locality.
 
         (5)
 
@@ -613,7 +635,7 @@
 
             (A)
 
-  <sup>\[10\]</sup>  <sup><sup> 10 So in original. No par. (2) has been enacted. </sup></sup>  The aggregate amount of the payments to be made for all or part of a cost reporting period for services described in subsection (a)(2)(E)(i) of this section furnished under this part on or after October 1, 1988, and before January 1, 1999, and for services described in subsection (a)(2)(E)(ii) of this section furnished under this part on or after October 1, 1989, and before January 1, 1999, shall be equal to the lesser of—
+  <sup>\[11\]</sup>  <sup><sup> 11 So in original. No par. (2) has been enacted. </sup></sup>  The aggregate amount of the payments to be made for all or part of a cost reporting period for services described in subsection (a)(2)(E)(i) of this section furnished under this part on or after October 1, 1988, and before January 1, 1999, and for services described in subsection (a)(2)(E)(ii) of this section furnished under this part on or after October 1, 1989, and before January 1, 1999, shall be equal to the lesser of—
 
                 (i) the amount determined with respect to such services under subsection (a)(2)(B) of this section, or
 
@@ -1429,7 +1451,7 @@
 
         (20) __Not budget neutral application of reduced expenditures resulting from quality incentives for computed tomography__ 
 
-            The Secretary shall not take into account the reduced expenditures that result from the application of [section 1395m(p) of this title][/us/usc/t42/s1395m/p] in making any budget neutrality adjustments this  <sup>\[11\]</sup>  <sup><sup> 11 So in original. Probably should be preceded by “under”. </sup></sup>  subsection.
+            The Secretary shall not take into account the reduced expenditures that result from the application of [section 1395m(p) of this title][/us/usc/t42/s1395m/p] in making any budget neutrality adjustments this  <sup>\[12\]</sup>  <sup><sup> 12 So in original. Probably should be preceded by “under”. </sup></sup>  subsection.
 
     (u) __Incentive payments for physician scarcity areas__ 
 
@@ -1567,7 +1589,7 @@
 
         (3) __Coordination with other payments__ 
 
-            The amount of the additional payment for a service under this subsection and subsection (m) shall be determined without regard to any additional payment for the service under subsection (m) and this subsection, respectively.
+            The amount of the additional payment for a service under this subsection and subsection (m) shall be determined without regard to any additional payment for the service under subsection (m) and this subsection, respectively. The amount of the additional payment for a service under this subsection and subsection (z)  <sup>\[13\]</sup>  <sup><sup> 13 See References in Text note below. </sup></sup>  shall be determined without regard to any additional payment for the service under subsection (z)  <sup>\[13\]</sup>  and this subsection, respectively.
 
         (4) __Limitation on review__ 
 
@@ -1593,13 +1615,275 @@
 
         (3) __Coordination with other payments__ 
 
-            The amount of the additional payment for a service under this subsection and subsection (m) shall be determined without regard to any additional payment for the service under subsection (m) and this subsection, respectively.
+            The amount of the additional payment for a service under this subsection and subsection (m) shall be determined without regard to any additional payment for the service under subsection (m) and this subsection, respectively. The amount of the additional payment for a service under this subsection and subsection (z) 13 shall be determined without regard to any additional payment for the service under subsection (z) 13 and this subsection, respectively.
 
         (4) __Application__ 
 
-            The provisions of paragraph  <sup>\[12\]</sup>  <sup><sup> 12 So in original. Probably should be “paragraphs”. </sup></sup>  (2) and (4) of subsection (m) shall apply to the determination of additional payments under this subsection in the same manner as such provisions apply to the determination of additional payments under subsection (m).
+            The provisions of paragraph  <sup>\[14\]</sup>  <sup><sup> 14 So in original. Probably should be “paragraphs”. </sup></sup>  (2) and (4) of subsection (m) shall apply to the determination of additional payments under this subsection in the same manner as such provisions apply to the determination of additional payments under subsection (m).
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XVIII, § 1833, as added [Pub. L. 89–97, title I, § 102(a)][/us/pl/89/97/s102/a], July 30, 1965, [79 Stat. 302][/us/stat/79/302]; amended [Pub. L. 90–248, title I][/us/pl/90/248], §§ 129(c)(7), (8), 131(a), (b), 132(b), 135(c), Jan. 2, 1968, [81 Stat. 848–850][/us/stat/81/848-850], 853; [Pub. L. 92–603, title II][/us/pl/92/603], §§ 204(a), 211(c)(4), 226(c)(2), 233(b), 245(d), 251(a)(2), (3), 279, 299K(a), Oct. 30, 1972, [86 Stat. 1377][/us/stat/86/1377], 1384, 1404, 1411, 1424, 1445, 1454, 1464; [Pub. L. 95–142, § 16(a)][/us/pl/95/142/s16/a], Oct. 25, 1977, [91 Stat. 1200][/us/stat/91/1200]; [Pub. L. 95–210, § 1(b)][/us/pl/95/210/s1/b], Dec. 13, 1977, [91 Stat. 1485][/us/stat/91/1485]; [Pub. L. 95–292, § 4(b)][/us/pl/95/292/s4/b], (c), June 13, 1978, [92 Stat. 315][/us/stat/92/315]; [Pub. L. 96–473, § 6(j)][/us/pl/96/473/s6/j], Oct. 19, 1980, [94 Stat. 2266][/us/stat/94/2266]; [Pub. L. 96–499, title IX][/us/pl/96/499], §§ 918(a)(4), 930(h), 932(a)(1), 934(b), (d)(1), (3), 935(a), 942, 943(a), Dec. 5, 1980, [94 Stat. 2626][/us/stat/94/2626], 2631, 2634, 2637, 2639, 2641; [Pub. L. 96–611, § 1(b)(1)][/us/pl/96/611/s1/b/1], (2), Dec. 28, 1980, [94 Stat. 3566][/us/stat/94/3566]; [Pub. L. 97–35, title XXI][/us/pl/97/35], §§ 2106(a), 2133(a), 2134(a), Aug. 13, 1981, [95 Stat. 792][/us/stat/95/792], 797; [Pub. L. 97–248, title I][/us/pl/97/248], §§ 101(c)(2), 112(a), (b), 117(a)(2), 148(d), Sept. 3, 1982, [96 Stat. 336][/us/stat/96/336], 340, 355, 394; [Pub. L. 98–369, div. B, title III][/us/pl/98/369], §§ 2303(a)–(d), 2305(a)–(d), 2308(b)(2)(B), 2321(b), (d)(4)(A), 2323(b)(1), (2), (4), 2354(b)(5), (7), July 18, 1984, [98 Stat. 1064][/us/stat/98/1064], 1069, 1070, 1074, 1084–1086, 1100; [Pub. L. 98–617, § 3(b)(2)][/us/pl/98/617/s3/b/2], (3), Nov. 8, 1984, [98 Stat. 3295][/us/stat/98/3295]; [Pub. L. 99–272, title IX][/us/pl/99/272], §§ 9303(a)(1), (b)(1)–(3), 9401(b)–(2)(E), Apr. 7, 1986, [100 Stat. 188][/us/stat/100/188], 189, 198, 199; [Pub. L. 99–509, title IX][/us/pl/99/509], §§ 9320(e)(1), (2), 9337(b), 9339(a)(1), (b)(1), (2), (c)(1), 9343(a), (b), (e)(2), Oct. 21, 1986, [100 Stat. 2014][/us/stat/100/2014], 2033, 2036, 2039–2041; [Pub. L. 100–203, title IV][/us/pl/100/203], §§ 4042(b)(2)(B), 4043(a), 4045(c)(2)(A), 4049(a)(1), 4055(a), formerly 4054(a), 4062(d)(3), 4063(b), (e)(1), 4064(a), (b)(1), (2), (c)(1), formerly (c), 4066(a), (b), 4067(a), 4068(a), 4070(a), (b)(4), 4072(b), 4073(b), formerly (b)(2), (3), 4077(b)(2), (3), formerly (b)(3), (4), 4084(a), (c)(2), 4085(b)(1), (i)(1)–(3), (21)(D)(i), (22)(B), (23), Dec. 22, 1987, [101 Stat. 1330–85][/us/stat/101/1330-85], 1330–88, 1330–90, 1330–108 to 1330–115, 1330–117, 1330–118, 1330–120, 1330–121, 1330–129 to 1330–133, as amended [Pub. L. 100–360, title IV, § 411(f)(2)(D)][/us/pl/100/360/s411/f/2/D], (8)(B)(i), (12)(A), (14), (g)(2)(E), (3)(A)–(C), (E), (F), (h)(3)(B), (4)(B), (C), (7)(C), (D), (F), (i)(3), (4)(C)(i), (ii), (iv), (vi), July 1, 1988, [102 Stat. 777][/us/stat/102/777], 779, 781, 783, 784, 786–789; [Pub. L. 100–360, title I, § 104(d)(7)][/us/pl/100/360/s104/d/7], title II, §§ 201(a), 202(b)(1)–(3), 203(c)(1)(A)–(E), 204(d)(1), 205(c), 212(c)(2), title IV, § 411(f)(8)(C), (g)(1)(E), (2)(D), (3)(D), (4)(C), (5), (h)(1)(A), (i)(4)(B), July 1, 1988, [102 Stat. 699][/us/stat/102/699], 704, 722, 729, 730, 741, 779, 782–785, 789, as amended [Pub. L. 100–485, title VI, § 608(d)(3)(G)][/us/pl/100/485/s608/d/3/G], Oct. 13, 1988, [102 Stat. 2414][/us/stat/102/2414]; [Pub. L. 100–485, title VI, § 608(d)(4)][/us/pl/100/485/s608/d/4], (22)(B), (D), (23)(A), Oct. 13, 1988, [102 Stat. 2414][/us/stat/102/2414], 2420, 2421; [Pub. L. 100–647, title VIII][/us/pl/100/647], §§ 8421(a), 8422(a), Nov. 10, 1988, [102 Stat. 3802][/us/stat/102/3802]; [Pub. L. 101–234, title II][/us/pl/101/234], §§ 201(a), 202(a), Dec. 13, 1989, [103 Stat. 1981][/us/stat/103/1981]; [Pub. L. 101–239, title VI][/us/pl/101/239], §§ 6003(e)(2)(A), (g)(3)(D)(vii), 6102(c)(1), (e)(1), (5), (6)(A), (7), (f)(2), 6111(a), (b)(1), 6113(b)(3), (d), 6116(b)(1), 6131(a)(1), (b), 6133(a), 6204(b), Dec. 19, 1989, [103 Stat. 2143][/us/stat/103/2143], 2153, 2184, 2187–2189, 2213, 2214, 2217, 2219, 2221, 2222, 2241; [Pub. L. 101–508, title IV][/us/pl/101/508], §§ 4008(m)(2)(C), 4104(b)(1), 4118(f)(2)(D), 4151(c)(1), (2), 4153(a)(2)(B), (C), 4154(a), (b)(1), (c)(1), (e)(1), 4155(b)(2), (3), 4160, 4161(a)(3)(B), 4163(d)(1), 4206(b)(2), 4302, Nov. 5, 1990, [104 Stat. 1388–53][/us/stat/104/1388-53], 1388–59, 1388–70, 1388–73, 1388–83 to 1388–87, 1388–91, 1388–93, 1388–100, 1388–116, 1388–125; [Pub. L. 101–597, title IV, § 401(c)(2)][/us/pl/101/597/s401/c/2], Nov. 16, 1990, [104 Stat. 3035][/us/stat/104/3035]; [Pub. L. 103–66, title XIII][/us/pl/103/66], §§ 13516(b), 13532(a), 13544(b)(2), 13551, 13555(a), Aug. 10, 1993, [107 Stat. 584][/us/stat/107/584], 586, 590, 592; [Pub. L. 103–432, title I][/us/pl/103/432], §§ 123(b)(2)(A), (e), 141(a), (c)(1), 147(a), (d), (e)(2), (3), (f)(6)(C), (D), 156(a)(2)(B), 160(d)(1), Oct. 31, 1994, [108 Stat. 4411][/us/stat/108/4411], 4412, 4424, 4425, 4429, 4430, 4432, 4440, 4443; [Pub. L. 105–33, title IV][/us/pl/105/33], §§ 4002(j)(1)(A), 4101(b), 4102(b), 4103(b), 4104(c)(1), (2), 4201(c)(1), 4205(a)(1)(A), (2), 4315(b), 4432(b)(5)(C), 4511(b), 4512(b)(1), 4521(a), (b), 4523(a), (d)(1)(A)(i), (B)–(3), 4531(b)(1), 4541(a)(1), (c), (d)(1), 4553(a), (b), 4555, 4556(b), 4603(c)(2)(A), Aug. 5, 1997, [111 Stat. 330][/us/stat/111/330], 360–362, 365, 373, 376, 390, 421, 442–445, 449, 450, 454, 456, 460, 462, 463, 470; [Pub. L. 106–113, div. B, § 1000(a)(6)][/us/pl/106/113/s1000/a/6] \[title II, §§ 201(a)–(e)(1), (f)–(h)(1), (i), (j), 202(a), 204(a),(b), 211(a)(3)(B), 221(a)(1), 224(a), title III, § 321(g)(2), (k)(2), title IV, §§ 401(b)(1), 403(e)(1)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–336 to 1501A–342, 1501A–345, 1501A–348, 1501A–351, 1501A–353, 1501A–366, 1501A–369, 1501A–371; [Pub. L. 106–554, § 1(a)(6)][/us/pl/106/554/s1/a/6] \[title I, §§ 105(c), 111(a)(1), title II, §§ 201(b)(1), 205(b), 223(c), 224(a), title IV, §§ 401(a), (b)(1), 402(a), (b), 403(a), 405(a), 406(a), 421(a), 430(a), title V, § 531(a)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–472, 2763A–481, 2763A–483, 2763A–489, 2763A–490, 2763A–502, 2763A–503, 2763A–505 to 2763A–508, 2763A–516, 2763A–524, 2763A–547; [Pub. L. 108–173, title II, § 237(a)][/us/pl/108/173/s237/a], title III, §§ 302(b)(2), 303(i)(3)(A), title IV, §§ 411(a)(1), (b), 413(a), (b)(1), title VI, §§ 614(a), (b), 621(a)(1)–(5), (b)(1), (2), 622, 624(a)(1), 626(a)–(c), 627(a), 628, 629, 642(b), title VII, § 736(b)(1), (2), title IX, § 942(b), Dec. 8, 2003, [117 Stat. 2212][/us/stat/117/2212], 2229, 2254, 2274, 2275, 2277, 2306–2311, 2317–2322, 2355, 2421; [Pub. L. 109–171, title V][/us/pl/109/171], §§ 5103, 5105, 5107(a)(1), 5112(e), 5113(a), Feb. 8, 2006, [120 Stat. 40–42][/us/stat/120/40-42], 44; [Pub. L. 109–432, div. B, title I][/us/pl/109/432], §§ 107(a), (b)(1), 109(a)(1), (b), title II, § 201, Dec. 20, 2006, [120 Stat. 2983–2986][/us/stat/120/2983-2986]; [Pub. L. 110–173, title I][/us/pl/110/173], §§ 102, 105, 106, 113, Dec. 29, 2007, [121 Stat. 2495][/us/stat/121/2495], 2496, 2501; [Pub. L. 110–275, title I][/us/pl/110/275], §§ 101(a)(2), (b)(2), 102, 141, 142, 143(b)(2), (3), 145(a)(2), (b), 147, 151(a), 184, July 15, 2008, [122 Stat. 2497][/us/stat/122/2497], 2498, 2542, 2543, 2547, 2548, 2550, 2587; [Pub. L. 111–144, § 6][/us/pl/111/144/s6], Mar. 2, 2010, [124 Stat. 46][/us/stat/124/46]; [Pub. L. 111–148, title III][/us/pl/111/148], §§ 3103, 3114, 3121, 3138, 3401(i), (k), (l), title IV, §§ 4103(c)(1), (3), (4), 4104(b), (c), title V, § 5501(a)(1), (b)(1), title X, §§ 10221(a), (b)(4), 10319(g), 10324(b), 10406, 10501(i)(3)(B), (C), Mar. 23, 2010, [124 Stat. 417][/us/stat/124/417], 423, 439, 485–487, 555–558, 652, 653, 935, 936, 949, 960, 975, 998, 999; [Pub. L. 111–152, title I, § 1105(e)][/us/pl/111/152/s1105/e], Mar. 30, 2010, [124 Stat. 1049][/us/stat/124/1049]; [Pub. L. 111–309, title I][/us/pl/111/309], §§ 104, 108, Dec. 15, 2010, [124 Stat. 3287][/us/stat/124/3287], 3288; [Pub. L. 112–78, title III][/us/pl/112/78], §§ 304, 308, Dec. 23, 2011, [125 Stat. 1284][/us/stat/125/1284], 1285; [Pub. L. 112–96, title III][/us/pl/112/96], §§ 3002(a), 3005(a), (b), 3202, Feb. 22, 2012, [126 Stat. 186–188][/us/stat/126/186-188], 193; [Pub. L. 112–240, title VI][/us/pl/112/240], §§ 603(a)–(c), 634, Jan. 2, 2013, [126 Stat. 2347][/us/stat/126/2347], 2355; [Pub. L. 113–67, div. B, title I, § 1103][/us/pl/113/67/s1103], Dec. 26, 2013, [127 Stat. 1196][/us/stat/127/1196]; [Pub. L. 113–93, title I, § 103][/us/pl/113/93/s103], title II, §§ 216(b)(1), 218(a)(2)(A), (b)(2), Apr. 1, 2014, [128 Stat. 1041][/us/stat/128/1041], 1059, 1064, 1069.)
+    (z)  __ <sup>\[__  __15__  __\]</sup> __  __ <sup><sup> __  __15__  __ So in original. Two subsecs. (z) have been enacted.__  __ </sup></sup> __  __Incentive payments for participation in eligible alternative payment models__ 
+
+        (1) __Payment incentive__ 
+
+            (A) __In general__ 
+
+            In the case of covered professional services furnished by an eligible professional during a year that is in the period beginning with 2019 and ending with 2024 and for which the professional is a qualifying APM participant with respect to such year, in addition to the amount of payment that would otherwise be made for such covered professional services under this part for such year, there also shall be paid to such professional an amount equal to 5 percent of the estimated aggregate payment amounts for such covered professional services under this part for the preceding year. For purposes of the previous sentence, the payment amount for the preceding year may be an estimation for the full preceding year based on a period of such preceding year that is less than the full year. The Secretary shall establish policies to implement this subparagraph in cases in which payment for covered professional services furnished by a qualifying APM participant in an alternative payment model—
+
+                (i) is made to an eligible alternative payment entity rather than directly to the qualifying APM participant; or
+
+                (ii) is made on a basis other than a fee-for-service basis (such as payment on a capitated basis).
+
+            (B) __Form of payment__ 
+
+                Payments under this subsection shall be made in a lump sum, on an annual basis, as soon as practicable.
+
+            (C) __Treatment of payment incentive__ 
+
+                Payments under this subsection shall not be taken into account for purposes of determining actual expenditures under an alternative payment model and for purposes of determining or rebasing any benchmarks used under the alternative payment model.
+
+            (D) __Coordination__ 
+
+                The amount of the additional payment under this subsection or subsection (m) shall be determined without regard to any additional payment under subsection (m) and this subsection, respectively. The amount of the additional payment under this subsection or subsection (x) shall be determined without regard to any additional payment under subsection (x) and this subsection, respectively. The amount of the additional payment under this subsection or subsection (y) shall be determined without regard to any additional payment under subsection (y) and this subsection, respectively.
+
+        (2) __Qualifying APM participant__ 
+
+        For purposes of this subsection, the term “qualifying APM participant” means the following:
+
+            (A) __2019 and 2020__ 
+
+                With respect to 2019 and 2020, an eligible professional for whom the Secretary determines that at least 25 percent of payments under this part for covered professional services furnished by such professional during the most recent period for which data are available (which may be less than a year) were attributable to such services furnished under this part through an eligible alternative payment entity.
+
+            (B) __2021 and 2022__ 
+
+            With respect to 2021 and 2022, an eligible professional described in either of the following clauses:
+
+                (i) __Medicare payment threshold option__ 
+
+                    An eligible professional for whom the Secretary determines that at least 50 percent of payments under this part for covered professional services furnished by such professional during the most recent period for which data are available (which may be less than a year) were attributable to such services furnished under this part through an eligible alternative payment entity.
+
+                (ii) __Combination all-payer and medicare payment threshold option__ 
+
+                An eligible professional—
+
+                    (I)
+
+                     for whom the Secretary determines, with respect to items and services furnished by such professional during the most recent period for which data are available (which may be less than a year), that at least 50 percent of the sum of—
+
+                        (aa) payments described in clause (i); and
+
+                        (bb) all other payments, regardless of payer (other than payments made by the Secretary of Defense or the Secretary of Veterans Affairs and other than payments made under subchapter XIX in a State in which no medical home or alternative payment model is available under the State program under that subchapter),
+
+                      meet the requirement described in clause (iii)(I) with respect to payments described in item (aa) and meet the requirement described in clause (iii)(II) with respect to payments described in item (bb);
+
+                    (II) for whom the Secretary determines at least 25 percent of payments under this part for covered professional services furnished by such professional during the most recent period for which data are available (which may be less than a year) were attributable to such services furnished under this part through an eligible alternative payment entity; and
+
+                    (III) who provides to the Secretary such information as is necessary for the Secretary to make a determination under subclause (I), with respect to such professional.
+
+                (iii) __Requirement__ 
+
+                For purposes of clause (ii)(I)—
+
+                    (I) the requirement described in this subclause, with respect to payments described in item (aa) of such clause, is that such payments are made to an eligible alternative payment entity; and
+
+                    (II)
+
+                     the requirement described in this subclause, with respect to payments described in item (bb) of such clause, is that such payments are made under arrangements in which—
+
+                        (aa) quality measures comparable to measures under the performance category described in [section 1395w–4(q)(2)(B)(i) of this title][/us/usc/t42/s1395w–4/q/2/B/i] apply;
+
+                        (bb) certified EHR technology is used; and
+
+                        (cc)
+
+                         the eligible professional participates in an entity that—
+
+                            (AA) bears more than nominal financial risk if actual aggregate expenditures exceeds  <sup>\[16\]</sup>  <sup><sup> 16 So in original. Probably should be “exceed”. </sup></sup>  expected aggregate expenditures; or
+
+                            (BB) with respect to beneficiaries under subchapter XIX, is a medical home that meets criteria comparable to medical homes expanded under [section 1315a(c) of this title][/us/usc/t42/s1315a/c].
+
+            (C) __Beginning in 2023__ 
+
+            With respect to 2023 and each subsequent year, an eligible professional described in either of the following clauses:
+
+                (i) __Medicare payment threshold option__ 
+
+                    An eligible professional for whom the Secretary determines that at least 75 percent of payments under this part for covered professional services furnished by such professional during the most recent period for which data are available (which may be less than a year) were attributable to such services furnished under this part through an eligible alternative payment entity.
+
+                (ii) __Combination all-payer and medicare payment threshold option__ 
+
+                An eligible professional—
+
+                    (I)
+
+                     for whom the Secretary determines, with respect to items and services furnished by such professional during the most recent period for which data are available (which may be less than a year), that at least 75 percent of the sum of—
+
+                        (aa) payments described in clause (i); and
+
+                        (bb) all other payments, regardless of payer (other than payments made by the Secretary of Defense or the Secretary of Veterans Affairs and other than payments made under subchapter XIX in a State in which no medical home or alternative payment model is available under the State program under that subchapter),
+
+                      meet the requirement described in clause (iii)(I) with respect to payments described in item (aa) and meet the requirement described in clause (iii)(II) with respect to payments described in item (bb);
+
+                    (II) for whom the Secretary determines at least 25 percent of payments under this part for covered professional services furnished by such professional during the most recent period for which data are available (which may be less than a year) were attributable to such services furnished under this part through an eligible alternative payment entity; and
+
+                    (III) who provides to the Secretary such information as is necessary for the Secretary to make a determination under subclause (I), with respect to such professional.
+
+                (iii) __Requirement__ 
+
+                For purposes of clause (ii)(I)—
+
+                    (I) the requirement described in this subclause, with respect to payments described in item (aa) of such clause, is that such payments are made to an eligible alternative payment entity; and
+
+                    (II)
+
+                     the requirement described in this subclause, with respect to payments described in item (bb) of such clause, is that such payments are made under arrangements in which—
+
+                        (aa) quality measures comparable to measures under the performance category described in [section 1395w–4(q)(2)(B)(i) of this title][/us/usc/t42/s1395w–4/q/2/B/i] apply;
+
+                        (bb) certified EHR technology is used; and
+
+                        (cc)
+
+                         the eligible professional participates in an entity that—
+
+                            (AA) bears more than nominal financial risk if actual aggregate expenditures exceeds 16 expected aggregate expenditures; or
+
+                            (BB) with respect to beneficiaries under subchapter XIX, is a medical home that meets criteria comparable to medical homes expanded under [section 1315a(c) of this title][/us/usc/t42/s1315a/c].
+
+            (D) __Use of patient approach__ 
+
+                The Secretary may base the determination of whether an eligible professional is a qualifying APM participant under this subsection and the determination of whether an eligible professional is a partial qualifying APM participant under [section 1395w–4(q)(1)(C)(iii) of this title][/us/usc/t42/s1395w–4/q/1/C/iii] by using counts of patients in lieu of using payments and using the same or similar percentage criteria (as specified in this subsection and such section, respectively), as the Secretary determines appropriate.
+
+        (3) __Additional definitions__ 
+
+        In this subsection:
+
+            (A) __Covered professional services__ 
+
+                The term “covered professional services” has the meaning given that term in [section 1395w–4(k)(3)(A) of this title][/us/usc/t42/s1395w–4/k/3/A].
+
+            (B) __Eligible professional__ 
+
+                The term “eligible professional” has the meaning given that term in [section 1395w–4(k)(3)(B) of this title][/us/usc/t42/s1395w–4/k/3/B] and includes a group that includes such professionals.
+
+            (C) __Alternative payment model (APM)__ 
+
+            The term “alternative payment model” means, other than for purposes of subparagraphs (B)(ii)(I)(bb) and (C)(ii)(I)(bb) of paragraph (2), any of the following:
+
+                (i) A model under [section 1315a of this title][/us/usc/t42/s1315a] (other than a health care innovation award).
+
+                (ii) The shared savings program under [section 1395jjj of this title][/us/usc/t42/s1395jjj].
+
+                (iii) A demonstration under [section 1395cc–3 of this title][/us/usc/t42/s1395cc–3].
+
+                (iv) A demonstration required by Federal law.
+
+            (D) __Eligible alternative payment entity__ 
+
+            The term “eligible alternative payment entity” means, with respect to a year, an entity that—
+
+                (i)
+
+                 participates in an alternative payment model that—
+
+                    (I) requires participants in such model to use certified EHR technology (as defined in subsection (o)(4)); and
+
+                    (II) provides for payment for covered professional services based on quality measures comparable to measures under the performance category described in [section 1395w–4(q)(2)(B)(i) of this title][/us/usc/t42/s1395w–4/q/2/B/i]; and
+
+                (ii)
+
+                    (I) bears financial risk for monetary losses under such alternative payment model that are in excess of a nominal amount; or
+
+                    (II) is a medical home expanded under [section 1315a(c) of this title][/us/usc/t42/s1315a/c].
+
+        (4) __Limitation__ 
+
+        There shall be no administrative or judicial review under [section 1395ff of this title][/us/usc/t42/s1395ff], 1395oo  <sup>\[17\]</sup>  <sup><sup> 17 So in original. Probably should be preceded by “section”. </sup></sup>  of this title, or otherwise, of the following:
+
+            (A) The determination that an eligible professional is a qualifying APM participant under paragraph (2) and the determination that an entity is an eligible alternative payment entity under paragraph (3)(D).
+
+            (B) The determination of the amount of the 5 percent payment incentive under paragraph (1)(A), including any estimation as part of such determination.
+
+    (z)  __15__  __Medical review of spinal subluxation services__ 
+
+        (1) __In general__ 
+
+        The Secretary shall implement a process for the medical review (as described in paragraph (2)) of treatment by a chiropractor described in [section 1395x(r)(5) of this title][/us/usc/t42/s1395x/r/5] by means of manual manipulation of the spine to correct a subluxation (as described in such section) of an individual who is enrolled under this part and apply such process to such services furnished on or after January 1, 2017, focusing on services such as—
+
+            (A) services furnished by a such a 1 chiropractor whose pattern of billing is aberrant compared to peers; and
+
+            (B) services furnished by such a chiropractor who, in a prior period, has a services denial percentage in the 85th percentile or greater, taking into consideration the extent that service denials are overturned on appeal.
+
+        (2) __Medical review__ 
+
+            (A) __Prior authorization medical review__ 
+
+                (i) __In general__ 
+
+                    Subject to clause (ii), the Secretary shall use prior authorization medical review for services described in paragraph (1) that are furnished to an individual by a chiropractor described in [section 1395x(r)(5) of this title][/us/usc/t42/s1395x/r/5] that are part of an episode of treatment that includes more than 12 services. For purposes of the preceding sentence, an episode of treatment shall be determined by the underlying cause that justifies the need for services, such as a diagnosis code.
+
+                (ii) __Ending application of prior authorization medical review__ 
+
+                    The Secretary shall end the application of prior authorization medical review under clause (i) to services described in paragraph (1) by such a chiropractor if the Secretary determines that the chiropractor has a low denial rate under such prior authorization medical review. The Secretary may subsequently reapply prior authorization medical review to such chiropractor if the Secretary determines it to be appropriate and the chiropractor has, in the time period subsequent to the determination by the Secretary of a low denial rate with respect to the chiropractor, furnished such services described in paragraph (1).
+
+                (iii) __Early request for prior authorization review permitted__ 
+
+                    Nothing in this subsection shall be construed to prevent such a chiropractor from requesting prior authorization for services described in paragraph (1) that are to be furnished to an individual before the chiropractor furnishes the twelfth such service to such individual for an episode of treatment.
+
+            (B) __Type of review__ 
+
+                The Secretary may use pre-payment review or post-payment review of services described in [section 1395x(r)(5) of this title][/us/usc/t42/s1395x/r/5] that are not subject to prior authorization medical review under subparagraph (A).
+
+            (C) __Relationship to law enforcement activities__ 
+
+                The Secretary may determine that medical review under this subsection does not apply in the case where potential fraud may be involved.
+
+        (3) __No payment without prior authorization__ 
+
+        With respect to a service described in paragraph (1) for which prior authorization medical review under this subsection applies, the following shall apply:
+
+            (A) __Prior authorization determination__ 
+
+                The Secretary shall make a determination, prior to the service being furnished, of whether the service would or would not meet the applicable requirements of [section 1395y(a)(1)(A) of this title][/us/usc/t42/s1395y/a/1/A].
+
+            (B) __Denial of payment__ 
+
+                Subject to paragraph (5), no payment may be made under this part for the service unless the Secretary determines pursuant to subparagraph (A) that the service would meet the applicable requirements of such [section 1395y(a)(1)(A) of this title][/us/usc/t42/s1395y/a/1/A].
+
+        (4) __Submission of information__ 
+
+            A chiropractor described in [section 1395x(r)(5) of this title][/us/usc/t42/s1395x/r/5] may submit the information necessary for medical review by fax, by mail, or by electronic means. The Secretary shall make available the electronic means described in the preceding sentence as soon as practicable.
+
+        (5) __Timeliness__ 
+
+            If the Secretary does not make a prior authorization determination under paragraph (3)(A) within 14 business days of the date of the receipt of medical documentation needed to make such determination, paragraph (3)(B) shall not apply.
+
+        (6) __Application of limitation on beneficiary liability__ 
+
+            Where payment may not be made as a result of the application of paragraph (2)(B), [section 1395pp of this title][/us/usc/t42/s1395pp] shall apply in the same manner as such section applies to a denial that is made by reason of [section 1395y(a)(1) of this title][/us/usc/t42/s1395y/a/1].
+
+        (7) __Review by contractors__ 
+
+            The medical review described in paragraph (2) may be conducted by medicare administrative contractors pursuant to [section 1395kk–1(a)(4)(G) of this title][/us/usc/t42/s1395kk–1/a/4/G] or by any other contractor determined appropriate by the Secretary that is not a recovery audit contractor.
+
+        (8) __Multiple services__ 
+
+            The Secretary shall, where practicable, apply the medical review under this subsection in a manner so as to allow an individual described in paragraph (1) to obtain, at a single time rather than on a service-by-service basis, an authorization in accordance with paragraph (3)(A) for multiple services.
+
+        (9) __Construction__ 
+
+            With respect to a service described in paragraph (1) that has been affirmed by medical review under this subsection, nothing in this subsection shall be construed to preclude the subsequent denial of a claim for such service that does not meet other applicable requirements under this chapter.
+
+        (10) __Implementation__ 
+
+            (A) __Authority__ 
+
+                The Secretary may implement the provisions of this subsection by interim final rule with comment period.
+
+            (B) __Administration__ 
+
+                Chapter 35 of title 44 shall not apply to medical review under this subsection.
+
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XVIII, § 1833, as added [Pub. L. 89–97, title I, § 102(a)][/us/pl/89/97/s102/a], July 30, 1965, [79 Stat. 302][/us/stat/79/302]; amended [Pub. L. 90–248, title I][/us/pl/90/248], §§ 129(c)(7), (8), 131(a), (b), 132(b), 135(c), Jan. 2, 1968, [81 Stat. 848–850][/us/stat/81/848-850], 853; [Pub. L. 92–603, title II][/us/pl/92/603], §§ 204(a), 211(c)(4), 226(c)(2), 233(b), 245(d), 251(a)(2), (3), 279, 299K(a), Oct. 30, 1972, [86 Stat. 1377][/us/stat/86/1377], 1384, 1404, 1411, 1424, 1445, 1454, 1464; [Pub. L. 95–142, § 16(a)][/us/pl/95/142/s16/a], Oct. 25, 1977, [91 Stat. 1200][/us/stat/91/1200]; [Pub. L. 95–210, § 1(b)][/us/pl/95/210/s1/b], Dec. 13, 1977, [91 Stat. 1485][/us/stat/91/1485]; [Pub. L. 95–292, § 4(b)][/us/pl/95/292/s4/b], (c), June 13, 1978, [92 Stat. 315][/us/stat/92/315]; [Pub. L. 96–473, § 6(j)][/us/pl/96/473/s6/j], Oct. 19, 1980, [94 Stat. 2266][/us/stat/94/2266]; [Pub. L. 96–499, title IX][/us/pl/96/499], §§ 918(a)(4), 930(h), 932(a)(1), 934(b), (d)(1), (3), 935(a), 942, 943(a), Dec. 5, 1980, [94 Stat. 2626][/us/stat/94/2626], 2631, 2634, 2637, 2639, 2641; [Pub. L. 96–611, § 1(b)(1)][/us/pl/96/611/s1/b/1], (2), Dec. 28, 1980, [94 Stat. 3566][/us/stat/94/3566]; [Pub. L. 97–35, title XXI][/us/pl/97/35], §§ 2106(a), 2133(a), 2134(a), Aug. 13, 1981, [95 Stat. 792][/us/stat/95/792], 797; [Pub. L. 97–248, title I][/us/pl/97/248], §§ 101(c)(2), 112(a), (b), 117(a)(2), 148(d), Sept. 3, 1982, [96 Stat. 336][/us/stat/96/336], 340, 355, 394; [Pub. L. 98–369, div. B, title III][/us/pl/98/369], §§ 2303(a)–(d), 2305(a)–(d), 2308(b)(2)(B), 2321(b), (d)(4)(A), 2323(b)(1), (2), (4), 2354(b)(5), (7), July 18, 1984, [98 Stat. 1064][/us/stat/98/1064], 1069, 1070, 1074, 1084–1086, 1100; [Pub. L. 98–617, § 3(b)(2)][/us/pl/98/617/s3/b/2], (3), Nov. 8, 1984, [98 Stat. 3295][/us/stat/98/3295]; [Pub. L. 99–272, title IX][/us/pl/99/272], §§ 9303(a)(1), (b)(1)–(3), 9401(b)–(2)(E), Apr. 7, 1986, [100 Stat. 188][/us/stat/100/188], 189, 198, 199; [Pub. L. 99–509, title IX][/us/pl/99/509], §§ 9320(e)(1), (2), 9337(b), 9339(a)(1), (b)(1), (2), (c)(1), 9343(a), (b), (e)(2), Oct. 21, 1986, [100 Stat. 2014][/us/stat/100/2014], 2033, 2036, 2039–2041; [Pub. L. 100–203, title IV][/us/pl/100/203], §§ 4042(b)(2)(B), 4043(a), 4045(c)(2)(A), 4049(a)(1), 4055(a), formerly 4054(a), 4062(d)(3), 4063(b), (e)(1), 4064(a), (b)(1), (2), (c)(1), formerly (c), 4066(a), (b), 4067(a), 4068(a), 4070(a), (b)(4), 4072(b), 4073(b), formerly (b)(2), (3), 4077(b)(2), (3), formerly (b)(3), (4), 4084(a), (c)(2), 4085(b)(1), (i)(1)–(3), (21)(D)(i), (22)(B), (23), Dec. 22, 1987, [101 Stat. 1330–85][/us/stat/101/1330-85], 1330–88, 1330–90, 1330–108 to 1330–115, 1330–117, 1330–118, 1330–120, 1330–121, 1330–129 to 1330–133, as amended [Pub. L. 100–360, title IV, § 411(f)(2)(D)][/us/pl/100/360/s411/f/2/D], (8)(B)(i), (12)(A), (14), (g)(2)(E), (3)(A)–(C), (E), (F), (h)(3)(B), (4)(B), (C), (7)(C), (D), (F), (i)(3), (4)(C)(i), (ii), (iv), (vi), July 1, 1988, [102 Stat. 777][/us/stat/102/777], 779, 781, 783, 784, 786–789; [Pub. L. 100–360, title I, § 104(d)(7)][/us/pl/100/360/s104/d/7], title II, §§ 201(a), 202(b)(1)–(3), 203(c)(1)(A)–(E), 204(d)(1), 205(c), 212(c)(2), title IV, § 411(f)(8)(C), (g)(1)(E), (2)(D), (3)(D), (4)(C), (5), (h)(1)(A), (i)(4)(B), July 1, 1988, [102 Stat. 699][/us/stat/102/699], 704, 722, 729, 730, 741, 779, 782–785, 789, as amended [Pub. L. 100–485, title VI, § 608(d)(3)(G)][/us/pl/100/485/s608/d/3/G], Oct. 13, 1988, [102 Stat. 2414][/us/stat/102/2414]; [Pub. L. 100–485, title VI, § 608(d)(4)][/us/pl/100/485/s608/d/4], (22)(B), (D), (23)(A), Oct. 13, 1988, [102 Stat. 2414][/us/stat/102/2414], 2420, 2421; [Pub. L. 100–647, title VIII][/us/pl/100/647], §§ 8421(a), 8422(a), Nov. 10, 1988, [102 Stat. 3802][/us/stat/102/3802]; [Pub. L. 101–234, title II][/us/pl/101/234], §§ 201(a), 202(a), Dec. 13, 1989, [103 Stat. 1981][/us/stat/103/1981]; [Pub. L. 101–239, title VI][/us/pl/101/239], §§ 6003(e)(2)(A), (g)(3)(D)(vii), 6102(c)(1), (e)(1), (5), (6)(A), (7), (f)(2), 6111(a), (b)(1), 6113(b)(3), (d), 6116(b)(1), 6131(a)(1), (b), 6133(a), 6204(b), Dec. 19, 1989, [103 Stat. 2143][/us/stat/103/2143], 2153, 2184, 2187–2189, 2213, 2214, 2217, 2219, 2221, 2222, 2241; [Pub. L. 101–508, title IV][/us/pl/101/508], §§ 4008(m)(2)(C), 4104(b)(1), 4118(f)(2)(D), 4151(c)(1), (2), 4153(a)(2)(B), (C), 4154(a), (b)(1), (c)(1), (e)(1), 4155(b)(2), (3), 4160, 4161(a)(3)(B), 4163(d)(1), 4206(b)(2), 4302, Nov. 5, 1990, [104 Stat. 1388–53][/us/stat/104/1388-53], 1388–59, 1388–70, 1388–73, 1388–83 to 1388–87, 1388–91, 1388–93, 1388–100, 1388–116, 1388–125; [Pub. L. 101–597, title IV, § 401(c)(2)][/us/pl/101/597/s401/c/2], Nov. 16, 1990, [104 Stat. 3035][/us/stat/104/3035]; [Pub. L. 103–66, title XIII][/us/pl/103/66], §§ 13516(b), 13532(a), 13544(b)(2), 13551, 13555(a), Aug. 10, 1993, [107 Stat. 584][/us/stat/107/584], 586, 590, 592; [Pub. L. 103–432, title I][/us/pl/103/432], §§ 123(b)(2)(A), (e), 141(a), (c)(1), 147(a), (d), (e)(2), (3), (f)(6)(C), (D), 156(a)(2)(B), 160(d)(1), Oct. 31, 1994, [108 Stat. 4411][/us/stat/108/4411], 4412, 4424, 4425, 4429, 4430, 4432, 4440, 4443; [Pub. L. 105–33, title IV][/us/pl/105/33], §§ 4002(j)(1)(A), 4101(b), 4102(b), 4103(b), 4104(c)(1), (2), 4201(c)(1), 4205(a)(1)(A), (2), 4315(b), 4432(b)(5)(C), 4511(b), 4512(b)(1), 4521(a), (b), 4523(a), (d)(1)(A)(i), (B)–(3), 4531(b)(1), 4541(a)(1), (c), (d)(1), 4553(a), (b), 4555, 4556(b), 4603(c)(2)(A), Aug. 5, 1997, [111 Stat. 330][/us/stat/111/330], 360–362, 365, 373, 376, 390, 421, 442–445, 449, 450, 454, 456, 460, 462, 463, 470; [Pub. L. 106–113, div. B, § 1000(a)(6)][/us/pl/106/113/s1000/a/6] \[title II, §§ 201(a)–(e)(1), (f)–(h)(1), (i), (j), 202(a), 204(a),(b), 211(a)(3)(B), 221(a)(1), 224(a), title III, § 321(g)(2), (k)(2), title IV, §§ 401(b)(1), 403(e)(1)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–336 to 1501A–342, 1501A–345, 1501A–348, 1501A–351, 1501A–353, 1501A–366, 1501A–369, 1501A–371; [Pub. L. 106–554, § 1(a)(6)][/us/pl/106/554/s1/a/6] \[title I, §§ 105(c), 111(a)(1), title II, §§ 201(b)(1), 205(b), 223(c), 224(a), title IV, §§ 401(a), (b)(1), 402(a), (b), 403(a), 405(a), 406(a), 421(a), 430(a), title V, § 531(a)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–472, 2763A–481, 2763A–483, 2763A–489, 2763A–490, 2763A–502, 2763A–503, 2763A–505 to 2763A–508, 2763A–516, 2763A–524, 2763A–547; [Pub. L. 108–173, title II, § 237(a)][/us/pl/108/173/s237/a], title III, §§ 302(b)(2), 303(i)(3)(A), title IV, §§ 411(a)(1), (b), 413(a), (b)(1), title VI, §§ 614(a), (b), 621(a)(1)–(5), (b)(1), (2), 622, 624(a)(1), 626(a)–(c), 627(a), 628, 629, 642(b), title VII, § 736(b)(1), (2), title IX, § 942(b), Dec. 8, 2003, [117 Stat. 2212][/us/stat/117/2212], 2229, 2254, 2274, 2275, 2277, 2306–2311, 2317–2322, 2355, 2421; [Pub. L. 109–171, title V][/us/pl/109/171], §§ 5103, 5105, 5107(a)(1), 5112(e), 5113(a), Feb. 8, 2006, [120 Stat. 40–42][/us/stat/120/40-42], 44; [Pub. L. 109–432, div. B, title I][/us/pl/109/432], §§ 107(a), (b)(1), 109(a)(1), (b), title II, § 201, Dec. 20, 2006, [120 Stat. 2983–2986][/us/stat/120/2983-2986]; [Pub. L. 110–173, title I][/us/pl/110/173], §§ 102, 105, 106, 113, Dec. 29, 2007, [121 Stat. 2495][/us/stat/121/2495], 2496, 2501; [Pub. L. 110–275, title I][/us/pl/110/275], §§ 101(a)(2), (b)(2), 102, 141, 142, 143(b)(2), (3), 145(a)(2), (b), 147, 151(a), 184, July 15, 2008, [122 Stat. 2497][/us/stat/122/2497], 2498, 2542, 2543, 2547, 2548, 2550, 2587; [Pub. L. 111–144, § 6][/us/pl/111/144/s6], Mar. 2, 2010, [124 Stat. 46][/us/stat/124/46]; [Pub. L. 111–148, title III][/us/pl/111/148], §§ 3103, 3114, 3121, 3138, 3401(i), (k), (l), title IV, §§ 4103(c)(1), (3), (4), 4104(b), (c), title V, § 5501(a)(1), (b)(1), title X, §§ 10221(a), (b)(4), 10319(g), 10324(b), 10406, 10501(i)(3)(B), (C), Mar. 23, 2010, [124 Stat. 417][/us/stat/124/417], 423, 439, 485–487, 555–558, 652, 653, 935, 936, 949, 960, 975, 998, 999; [Pub. L. 111–152, title I, § 1105(e)][/us/pl/111/152/s1105/e], Mar. 30, 2010, [124 Stat. 1049][/us/stat/124/1049]; [Pub. L. 111–309, title I][/us/pl/111/309], §§ 104, 108, Dec. 15, 2010, [124 Stat. 3287][/us/stat/124/3287], 3288; [Pub. L. 112–78, title III][/us/pl/112/78], §§ 304, 308, Dec. 23, 2011, [125 Stat. 1284][/us/stat/125/1284], 1285; [Pub. L. 112–96, title III][/us/pl/112/96], §§ 3002(a), 3005(a), (b), 3202, Feb. 22, 2012, [126 Stat. 186–188][/us/stat/126/186-188], 193; [Pub. L. 112–240, title VI][/us/pl/112/240], §§ 603(a)–(c), 634, Jan. 2, 2013, [126 Stat. 2347][/us/stat/126/2347], 2355; [Pub. L. 113–67, div. B, title I, § 1103][/us/pl/113/67/s1103], Dec. 26, 2013, [127 Stat. 1196][/us/stat/127/1196]; [Pub. L. 113–93, title I, § 103][/us/pl/113/93/s103], title II, §§ 216(b)(1), 218(a)(2)(A), (b)(2), Apr. 1, 2014, [128 Stat. 1041][/us/stat/128/1041], 1059, 1064, 1069; [Pub. L. 114–10, title I, § 101(e)(2)][/us/pl/114/10/s101/e/2], (3), title II, § 202(a), (b)(1), title V, § 514(a), Apr. 16, 2015, [129 Stat. 117][/us/stat/129/117], 122, 143, 171.)
 
  __References in Text__ 
 
@@ -1611,11 +1895,29 @@
 
     Section 4521 of The Balanced Budget Act of 1997, referred to in subsec. (t)(7)(F), is [section 4521 of Pub. L. 105–33][/us/pl/105/33/s4521], Aug. 5, 1997, [111 Stat. 444][/us/stat/111/444], which amended this section and enacted provisions set out as a note under this section.
 
+    Subsection (z), referred to in subsecs. (x)(3) and (y)(3), probably means the subsec. (z) of this section added by [section 101(e)(2) of Pub. L. 114–10][/us/pl/114/10/s101/e/2], relating to incentive payments for participation in eligible alternative payment models.
+
  __Codification__ 
 
     [Pub. L. 111–148, § 10221(a)][/us/pl/111/148/s10221/a], enacted into law S. 1790, One Hundred Eleventh Congress, as reported by the Committee on Indian Affairs of the Senate in Dec. 2009, “\[e\]xcept as provided in” [section 10221(b) of Pub. L. 111–148][/us/pl/111/148/s10221/b]. Section 201(b) of S. 1790 would have amended this section but was stricken out by [section 10221(b)(4) of Pub. L. 111–148][/us/pl/111/148/s10221/b/4].
 
  __Amendments__ 
+
+    2015—Subsec. (g)(5)(A). [Pub. L. 114–10, § 202(a)(1)][/us/pl/114/10/s202/a/1], substituted “December 31, 2017” for “March 31, 2015”.
+
+    Subsec. (g)(5)(C)(i). [Pub. L. 114–10, § 202(b)(1)(A)][/us/pl/114/10/s202/b/1/A], inserted “, subject to subparagraph (E),” after “manual medical review process that”.
+
+    Subsec. (g)(5)(E). [Pub. L. 114–10, § 202(b)(1)(B)][/us/pl/114/10/s202/b/1/B], added subpar. (E).
+
+    Subsec. (g)(6)(A). [Pub. L. 114–10, § 202(a)(2)][/us/pl/114/10/s202/a/2], substituted “December 31, 2017” for “March 31, 2015” and “2012 through 2017” for “2012, 2013, 2014, or the first three months of 2015”.
+
+    Subsec. (x)(3). [Pub. L. 114–10, § 101(e)(3)(A)][/us/pl/114/10/s101/e/3/A], inserted at end “The amount of the additional payment for a service under this subsection and subsection (z) shall be determined without regard to any additional payment for the service under subsection (z) and this subsection, respectively.”
+
+    Subsec. (y)(3). [Pub. L. 114–10, § 101(e)(3)(B)][/us/pl/114/10/s101/e/3/B], inserted at end “The amount of the additional payment for a service under this subsection and subsection (z) shall be determined without regard to any additional payment for the service under subsection (z) and this subsection, respectively.”
+
+    Subsec. (z). [Pub. L. 114–10, § 514(a)][/us/pl/114/10/s514/a], added subsec. (z) relating to medical review of spinal subluxation services.
+
+    [Pub. L. 114–10, § 101(e)(2)][/us/pl/114/10/s101/e/2], added subsec. (z) relating to incentive payments for participation in eligible alternative payment models.
 
     2014—Subsec. (a)(1)(D)(i). [Pub. L. 113–93, § 216(b)(1)(A)(i)][/us/pl/113/93/s216/b/1/A/i]–(iii), designated existing provisions as subcl. (I), substituted “subsection (h)(1) of this section (for tests furnished before January 1, 2017)” for “subsection (h)(1) of this section”, and added subcl. (II).
 
@@ -2815,6 +3117,12 @@
 
     Subsec. (f). [Pub. L. 90–248, § 132(b)][/us/pl/90/248/s132/b], added subsec. (f).
 
+ __Effective Date of 2015 Amendment__ 
+
+[Pub. L. 114–10, title II, § 202(b)(2)][/us/pl/114/10/s202/b/2], Apr. 16, 2015, [129 Stat. 144][/us/stat/129/144], provided that: 
+
+> “The amendments made by this subsection \[amending this section\] shall apply with respect to requests described in section 1833(g)(5)(C)(i) of the Social Security Act ([42 U.S.C. 1395][/us/usc/t42/s1395]l(g)(5)(C)(i)) with respect to which the Secretary of Health and Human Services has not conducted medical review under such section by a date (not later than 90 days after the date of the enactment of this Act \[Apr. 16, 2015\]) specified by the Secretary.”
+
  __Effective Date of 2012 Amendment__ 
 
 [Pub. L. 112–96, title III, § 3005(e)][/us/pl/112/96/s3005/e], Feb. 22, 2012, [126 Stat. 189][/us/stat/126/189], provided that: 
@@ -3378,6 +3686,22 @@
 [Pub. L. 106–554, § 1(a)(6)][/us/pl/106/554/s1/a/6] \[title I, § 111(b)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–473, provided that: 
 
 > “Nothing in this Act \[H.R. 5661, as enacted by [section 1(a)(6) of Pub. L. 106–554][/us/pl/106/554/s1/a/6], see Tables for classification\] or the Social Security Act \[this chapter\] shall be construed as preventing a hospital from waiving the amount of any coinsurance for outpatient hospital services under the medicare program under title XVIII of the Social Security Act \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\] that may have been increased as a result of the implementation of the prospective payment system under section 1833(t) of the Social Security Act ([42 U.S.C. 1395][/us/usc/t42/s1395]l(t)).”
+
+ __Improving Documentation of Services__ 
+
+[Pub. L. 114–10, title V, § 514(b)][/us/pl/114/10/s514/b], Apr. 16, 2015, [129 Stat. 173][/us/stat/129/173], provided that:
+
+>     “(1)  __In general__  __.—__ 
+
+>     The Secretary of Health and Human Services shall, in consultation with stakeholders (including the American Chiropractic Association) and representatives of medicare administrative contractors (as defined in section 1874A(a)(3)(A) of the Social Security Act ([42 U.S.C. 1395kk–1(a)(3)(A)][/us/usc/t42/s1395kk–1/a/3/A])), develop educational and training programs to improve the ability of chiropractors to provide documentation to the Secretary of services described in section 1861(r)(5) \[[42 U.S.C. 1395x(r)(5)][/us/usc/t42/s1395x/r/5]\] in a manner that demonstrates that such services are, in accordance with section 1862(a)(1) of such Act ([42 U.S.C. 1395y(a)(1)][/us/usc/t42/s1395y/a/1]), reasonable and necessary for the diagnosis or treatment of illness or injury or to improve the functioning of a malformed body member.
+
+>     “(2)  __Timing__  __.—__ 
+
+>     The Secretary shall make the educational and training programs described in paragraph (1) publicly available not later than January 1, 2016.
+
+>     “(3)  __Funding__  __.—__ 
+
+>     The Secretary shall use funds made available under paragraph (10) of section 1893(h) of the Social Security Act ([42 U.S.C. 1395ddd(h)][/us/usc/t42/s1395ddd/h]), as added by section 505, to carry out this subsection.”
 
  __Medicare Patient IVIG Access Demonstration Project__ 
 
@@ -4376,6 +4700,8 @@
 [/us/usc/t42/s1395x/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395x%2Fg
 [/us/usc/t42/s1395pp]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395pp
 [/us/usc/t42/s1395y/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395y%2Fa%2F1
+[/us/usc/t42/s1395t]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395t
+[/us/usc/t42/s1395ddd/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ddd%2Fh
 [/us/usc/t42/s1395m/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395m%2Fg
 [/us/usc/t42/s1395m/k/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395m%2Fk%2F1%2FB
 [/us/usc/t42/s1395m/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395m%2Fg
@@ -4483,6 +4809,28 @@
 [/us/usc/t42/s1395x/r/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395x%2Fr%2F1
 [/us/usc/t42/s1395cc/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395cc%2Fj
 [/us/usc/t42/s1395w–4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%934%2Fb
+[/us/usc/t42/s1395w–4/q/2/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%934%2Fq%2F2%2FB%2Fi
+[/us/usc/t42/s1315a/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1315a%2Fc
+[/us/usc/t42/s1395w–4/q/2/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%934%2Fq%2F2%2FB%2Fi
+[/us/usc/t42/s1315a/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1315a%2Fc
+[/us/usc/t42/s1395w–4/q/1/C/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%934%2Fq%2F1%2FC%2Fiii
+[/us/usc/t42/s1395w–4/k/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%934%2Fk%2F3%2FA
+[/us/usc/t42/s1395w–4/k/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%934%2Fk%2F3%2FB
+[/us/usc/t42/s1315a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1315a
+[/us/usc/t42/s1395jjj]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395jjj
+[/us/usc/t42/s1395cc–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395cc%E2%80%933
+[/us/usc/t42/s1395w–4/q/2/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%934%2Fq%2F2%2FB%2Fi
+[/us/usc/t42/s1315a/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1315a%2Fc
+[/us/usc/t42/s1395ff]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ff
+[/us/usc/t42/s1395x/r/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395x%2Fr%2F5
+[/us/usc/t42/s1395x/r/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395x%2Fr%2F5
+[/us/usc/t42/s1395x/r/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395x%2Fr%2F5
+[/us/usc/t42/s1395y/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395y%2Fa%2F1%2FA
+[/us/usc/t42/s1395y/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395y%2Fa%2F1%2FA
+[/us/usc/t42/s1395x/r/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395x%2Fr%2F5
+[/us/usc/t42/s1395pp]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395pp
+[/us/usc/t42/s1395y/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395y%2Fa%2F1
+[/us/usc/t42/s1395kk–1/a/4/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395kk%E2%80%931%2Fa%2F4%2FG
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/pl/89/97/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97%2Fs102%2Fa
 [/us/stat/79/302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F302
@@ -4572,6 +4920,8 @@
 [/us/stat/127/1196]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1196
 [/us/pl/113/93/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F93%2Fs103
 [/us/stat/128/1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1041
+[/us/pl/114/10/s101/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2Fs101%2Fe%2F2
+[/us/stat/129/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F117
 [/us/pl/108/173/s626/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs626%2Fd
 [/us/pl/99/509/s9320/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs9320%2Fk
 [/us/usc/t42/s1395k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395k
@@ -4579,9 +4929,18 @@
 [/us/usc/t42/s1395ww]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww
 [/us/pl/105/33/s4521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs4521
 [/us/stat/111/444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F444
+[/us/pl/114/10/s101/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2Fs101%2Fe%2F2
 [/us/pl/111/148/s10221/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10221%2Fa
 [/us/pl/111/148/s10221/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10221%2Fb
 [/us/pl/111/148/s10221/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10221%2Fb%2F4
+[/us/pl/114/10/s202/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2Fs202%2Fa%2F1
+[/us/pl/114/10/s202/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2Fs202%2Fb%2F1%2FA
+[/us/pl/114/10/s202/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2Fs202%2Fb%2F1%2FB
+[/us/pl/114/10/s202/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2Fs202%2Fa%2F2
+[/us/pl/114/10/s101/e/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2Fs101%2Fe%2F3%2FA
+[/us/pl/114/10/s101/e/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2Fs101%2Fe%2F3%2FB
+[/us/pl/114/10/s514/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2Fs514%2Fa
+[/us/pl/114/10/s101/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2Fs101%2Fe%2F2
 [/us/pl/113/93/s216/b/1/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F93%2Fs216%2Fb%2F1%2FA%2Fi
 [/us/pl/113/93/s216/b/1/A/iv]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F93%2Fs216%2Fb%2F1%2FA%2Fiv
 [/us/pl/113/93/s216/b/1/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F93%2Fs216%2Fb%2F1%2FB%2Fi
@@ -5411,6 +5770,9 @@
 [/us/pl/90/248/s129/c/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248%2Fs129%2Fc%2F8
 [/us/usc/t42/s1395e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395e
 [/us/pl/90/248/s132/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248%2Fs132%2Fb
+[/us/pl/114/10/s202/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2Fs202%2Fb%2F2
+[/us/stat/129/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F144
+[/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
 [/us/pl/112/96/s3005/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96%2Fs3005%2Fe
 [/us/stat/126/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F189
 [/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
@@ -5842,6 +6204,12 @@
 [/us/pl/106/554/s1/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F6
 [/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
 [/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
+[/us/pl/114/10/s514/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2Fs514%2Fb
+[/us/stat/129/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F173
+[/us/usc/t42/s1395kk–1/a/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395kk%E2%80%931%2Fa%2F3%2FA
+[/us/usc/t42/s1395x/r/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395x%2Fr%2F5
+[/us/usc/t42/s1395y/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395y%2Fa%2F1
+[/us/usc/t42/s1395ddd/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ddd%2Fh
 [/us/pl/112/242/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F242%2Fs101
 [/us/stat/126/2374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2374
 [/us/usc/t42/s1395j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395j

@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch152/schIII/m__us_usc_t42_s17061.md) | [Next](./../../../../../..//us/usc/t42/ch152/schIII/ptA/m__us_usc_t42_s17071.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch152%2FschIII%2FptA)
+[Previous](./../../../../../..//us/usc/t42/ch152/schIII/m__us_usc_t42_s17063.md) | [Next](./../../../../../..//us/usc/t42/ch152/schIII/ptA/m__us_usc_t42_s17071.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch152%2FschIII%2FptA)
 
 #### Part A—Residential Building Efficiency
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch152/schIII/m__us_usc_t42_s17061.md) | [Next](./../../../../../..//us/usc/t42/ch152/schIII/ptA/m__us_usc_t42_s17071.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch152%2FschIII%2FptA)
+[Previous](./../../../../../..//us/usc/t42/ch152/schIII/m__us_usc_t42_s17063.md) | [Next](./../../../../../..//us/usc/t42/ch152/schIII/ptA/m__us_usc_t42_s17071.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch152%2FschIII%2FptA)
 
 ----------
 ----------

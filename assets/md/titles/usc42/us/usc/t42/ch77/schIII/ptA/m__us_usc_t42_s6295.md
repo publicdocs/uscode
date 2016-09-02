@@ -921,6 +921,100 @@
 
                 (ii) complied with the efficiency standards and labeling requirements in effect prior to the final rule.
 
+        (6) __Additional standards for grid-enabled water heaters.—__ 
+
+            (A)  __Definitions__  __.—__ 
+
+            In this paragraph:
+
+                (i)  __Activation lock__  __.—__ 
+
+                The term “activation lock” means a control mechanism (either a physical device directly on the water heater or a control system integrated into the water heater) that is locked by default and contains a physical, software, or digital communication that must be activated with an activation key to enable the product to operate at its designed specifications and capabilities and without which activation the product will provide not greater than 50 percent of the rated first hour delivery of hot water certified by the manufacturer.
+
+                (ii)  __Grid-enabled water heater__  __.—__ 
+
+                The term “grid-enabled water heater” means an electric resistance water heater that—
+
+                    (I) has a rated storage tank volume of more than 75 gallons;
+
+                    (II) is manufactured on or after April 16, 2015;
+
+                    (III)
+
+                     has—
+
+                        (aa)
+
+                         an energy factor of not less than 1.061 minus the product obtained by multiplying—
+
+                            (AA) the rated storage volume of the tank, expressed in gallons; and
+
+                            (BB) 0.00168; or
+
+                        (bb) an equivalent alternative standard prescribed by the Secretary and developed pursuant to paragraph (5)(E);
+
+                    (IV) is equipped at the point of manufacture with an activation lock; and
+
+                    (V)
+
+                     bears a permanent label applied by the manufacturer that—
+
+                        (aa) is made of material not adversely affected by water;
+
+                        (bb) is attached by means of non-water-soluble adhesive; and
+
+                        (cc) advises purchasers and end-users of the intended and appropriate use of the product with the following notice printed in 16.5 point Arial Narrow Bold font:    “IMPORTANT INFORMATION: This water heater is intended only for use as part of an electric thermal storage or demand response program. It will not provide adequate hot water unless enrolled in such a program and activated by your utility company or another program operator. Confirm the availability of a program in your local area before purchasing or installing this product.”.
+
+            (B)  __Requirement__  __.—__ 
+
+            The manufacturer or private labeler shall provide the activation key for a grid-enabled water heater only to a utility or other company that operates an electric thermal storage or demand response program that uses such a grid-enabled water heater.
+
+            (C) __Reports.—__ 
+
+                (i)  __Manufacturers__  __.—__ 
+
+                The Secretary shall require each manufacturer of grid-enabled water heaters to report to the Secretary annually the quantity of grid-enabled water heaters that the manufacturer ships each year.
+
+                (ii)  __Operators__  __.—__ 
+
+                The Secretary shall require utilities and other demand response and thermal storage program operators to report annually the quantity of grid-enabled water heaters activated for their programs using forms of the Energy Information Agency or using such other mechanism that the Secretary determines appropriate after an opportunity for notice and comment.
+
+                (iii)  __Confidentiality requirements__  __.—__ 
+
+                The Secretary shall treat shipment data reported by manufacturers as confidential business information.
+
+            (D) __Publication of information.—__ 
+
+                (i)  __In general__  __.—__ 
+
+                In 2017 and 2019, the Secretary shall publish an analysis of the data collected under subparagraph (C) to assess the extent to which shipped products are put into use in demand response and thermal storage programs.
+
+                (ii)  __Prevention of product diversion__  __.—__ 
+
+                If the Secretary determines that sales of grid-enabled water heaters exceed by 15 percent or greater the quantity of such products activated for use in demand response and thermal storage programs annually, the Secretary shall, after opportunity for notice and comment, establish procedures to prevent product diversion for non-program purposes.
+
+            (E) __Compliance.—__ 
+
+                (i)  __In general__  __.—__ 
+
+                Subparagraphs (A) through (D) shall remain in effect until the Secretary determines under this section that—
+
+                    (I) grid-enabled water heaters do not require a separate efficiency requirement; or
+
+                    (II) sales of grid-enabled water heaters exceed by 15 percent or greater the quantity of such products activated for use in demand response and thermal storage programs annually and procedures to prevent product diversion for non-program purposes would not be adequate to prevent such product diversion.
+
+                (ii)  __Effective date__  __.—__ 
+
+                If the Secretary exercises the authority described in clause (i) or amends the efficiency requirement for grid-enabled water heaters, that action will take effect on the date described in subsection (m)(4)(A)(ii).
+
+                (iii)  __Consideration__  __.—__ 
+
+                In carrying out this section with respect to electric water heaters, the Secretary shall consider the impact on thermal storage and demand response programs, including any impact on energy savings, electric bills, peak load reduction, electric reliability, integration of renewable resources, and the environment.
+
+                (iv)  __Requirements__  __.—__ 
+
+                In carrying out this paragraph, the Secretary shall require that grid-enabled water heaters be equipped with communication capability to enable the grid-enabled water heaters to participate in ancillary services programs if the Secretary determines that the technology is available, practical, and cost-effective.
+
     (f) __Standards for furnaces and boilers__ 
 
         (1)
@@ -3537,7 +3631,7 @@
 
         (2) to products for which energy conservation standards are established under subsections (w) through (hh) of this section on August 8, 2005, except that any State or local standard prescribed or enacted before August 8, 2005, shall not be preempted until the energy conservation standards established under subsections (w) through (hh) of this section take effect.
 
-([Pub. L. 94–163, title III, § 325][/us/pl/94/163/s325], Dec. 22, 1975, [89 Stat. 923][/us/stat/89/923]; [Pub. L. 94–385, title I, § 161][/us/pl/94/385/s161], Aug. 14, 1976, [90 Stat. 1140][/us/stat/90/1140]; [Pub. L. 95–619, title IV, § 422][/us/pl/95/619/s422], Nov. 9, 1978, [92 Stat. 3259][/us/stat/92/3259]; [Pub. L. 100–12, § 5][/us/pl/100/12/s5], Mar. 17, 1987, [101 Stat. 107][/us/stat/101/107]; [Pub. L. 100–357, § 2(e)][/us/pl/100/357/s2/e], June 28, 1988, [102 Stat. 673][/us/stat/102/673]; [Pub. L. 102–486, title I, § 123(f)][/us/pl/102/486/s123/f], Oct. 24, 1992, [106 Stat. 2824][/us/stat/106/2824]; [Pub. L. 105–388, § 5(a)(5)][/us/pl/105/388/s5/a/5], Nov. 13, 1998, [112 Stat. 3478][/us/stat/112/3478]; [Pub. L. 109–58, title I, § 135(c)][/us/pl/109/58/s135/c], Aug. 8, 2005, [119 Stat. 628][/us/stat/119/628]; [Pub. L. 110–140, title III][/us/pl/110/140], §§ 301(c), 303–305(a), 306(a), 307, 308(a), 309–311(a), 316(c)(2), (d), 321(a)(3), 322(b), 324(e), Dec. 19, 2007, [121 Stat. 1550][/us/stat/121/1550], 1552, 1553, 1556, 1559–1561, 1563, 1573, 1577, 1588, 1593; [Pub. L. 111–360, § 1][/us/pl/111/360/s1], Jan. 4, 2011, [124 Stat. 4051][/us/stat/124/4051]; [Pub. L. 112–210][/us/pl/112/210], §§ 3, 5(a), (c), 10(a)(1), (8), (11), (b)(1), Dec. 18, 2012, [126 Stat. 1514][/us/stat/126/1514], 1517, 1519, 1522, 1524, 1525; [Pub. L. 113–263, § 2][/us/pl/113/263/s2], Dec. 18, 2014, [128 Stat. 2937][/us/stat/128/2937].)
+([Pub. L. 94–163, title III, § 325][/us/pl/94/163/s325], Dec. 22, 1975, [89 Stat. 923][/us/stat/89/923]; [Pub. L. 94–385, title I, § 161][/us/pl/94/385/s161], Aug. 14, 1976, [90 Stat. 1140][/us/stat/90/1140]; [Pub. L. 95–619, title IV, § 422][/us/pl/95/619/s422], Nov. 9, 1978, [92 Stat. 3259][/us/stat/92/3259]; [Pub. L. 100–12, § 5][/us/pl/100/12/s5], Mar. 17, 1987, [101 Stat. 107][/us/stat/101/107]; [Pub. L. 100–357, § 2(e)][/us/pl/100/357/s2/e], June 28, 1988, [102 Stat. 673][/us/stat/102/673]; [Pub. L. 102–486, title I, § 123(f)][/us/pl/102/486/s123/f], Oct. 24, 1992, [106 Stat. 2824][/us/stat/106/2824]; [Pub. L. 105–388, § 5(a)(5)][/us/pl/105/388/s5/a/5], Nov. 13, 1998, [112 Stat. 3478][/us/stat/112/3478]; [Pub. L. 109–58, title I, § 135(c)][/us/pl/109/58/s135/c], Aug. 8, 2005, [119 Stat. 628][/us/stat/119/628]; [Pub. L. 110–140, title III][/us/pl/110/140], §§ 301(c), 303–305(a), 306(a), 307, 308(a), 309–311(a), 316(c)(2), (d), 321(a)(3), 322(b), 324(e), Dec. 19, 2007, [121 Stat. 1550][/us/stat/121/1550], 1552, 1553, 1556, 1559–1561, 1563, 1573, 1577, 1588, 1593; [Pub. L. 111–360, § 1][/us/pl/111/360/s1], Jan. 4, 2011, [124 Stat. 4051][/us/stat/124/4051]; [Pub. L. 112–210][/us/pl/112/210], §§ 3, 5(a), (c), 10(a)(1), (8), (11), (b)(1), Dec. 18, 2012, [126 Stat. 1514][/us/stat/126/1514], 1517, 1519, 1522, 1524, 1525; [Pub. L. 113–263, § 2][/us/pl/113/263/s2], Dec. 18, 2014, [128 Stat. 2937][/us/stat/128/2937]; [Pub. L. 114–11, title II, § 201(1)][/us/pl/114/11/s201/1], Apr. 30, 2015, [129 Stat. 186][/us/stat/129/186].)
 
  __References in Text__ 
 
@@ -3550,6 +3644,8 @@
     Subsection (i), referred to in subsec. (l)(4)(F)(ii)(I), was amended by [Pub. L. 110–140, title III, § 322(b)][/us/pl/110/140/s322/b], Dec. 19, 2007, [121 Stat. 1588][/us/stat/121/1588], by striking out par. (1) and adding a new par. (1), and as so amended, subsec. (i)(1)(A) does not relate to maximum wattage requirements. However, provisions similar to those contained in former subsec. (i)(1)(A) are now contained in subsec. (i)(1)(B). See 2007 Amendment notes below.
 
  __Amendments__ 
+
+    2015—Subsec. (e)(6). [Pub. L. 114–11][/us/pl/114/11] added par. (6).
 
     2014—Subsec. (u)(5). [Pub. L. 113–263][/us/pl/113/263] added par. (5).
 
@@ -3825,6 +3921,8 @@
 [/us/stat/126/1514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1514
 [/us/pl/113/263/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F263%2Fs2
 [/us/stat/128/2937]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2937
+[/us/pl/114/11/s201/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F11%2Fs201%2F1
+[/us/stat/129/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F186
 [/us/pl/94/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163
 [/us/stat/89/871]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F871
 [/us/usc/t42/s6201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6201
@@ -3836,6 +3934,7 @@
 [/us/stat/121/1593]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1593
 [/us/pl/110/140/s322/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs322%2Fb
 [/us/stat/121/1588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1588
+[/us/pl/114/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F11
 [/us/pl/113/263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F263
 [/us/pl/112/210/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F210%2Fs5%2Fa
 [/us/pl/112/210/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F210%2Fs3

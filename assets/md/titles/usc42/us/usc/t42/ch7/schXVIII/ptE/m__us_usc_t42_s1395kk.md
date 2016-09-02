@@ -43,7 +43,7 @@
 
             The Financial Management Service and the Internal Revenue Service shall provide assistance to the Centers for Medicare & Medicaid Services to ensure that all payments described in paragraph (1) are included in the Federal Payment Levy Program by the deadlines specified in that subsection.
 
-    (e) __Availability of Medicare data__ 
+    (e) __Availability of data__ 
 
         (1) __In general__ 
 
@@ -59,13 +59,13 @@
 
         (3) __Data described__ 
 
-            The data described in this paragraph are standardized extracts (as determined by the Secretary) of claims data under parts A, B, and D for items and services furnished under such parts for one or more specified geographic areas and time periods requested by a qualified entity. The Secretary shall take such actions as the Secretary deems necessary to protect the identity of individuals entitled to or enrolled for benefits under such parts.
+            The data described in this paragraph are standardized extracts (as determined by the Secretary) of claims data under parts A, B, and D for items and services furnished under such parts for one or more specified geographic areas and time periods requested by a qualified entity. Beginning July 1, 2016, if the Secretary determines appropriate, the data described in this paragraph may also include standardized extracts (as determined by the Secretary) of claims data under subchapters XIX and XXI for assistance provided under such subchapters for one or more specified geographic areas and time periods requested by a qualified entity. The Secretary shall take such actions as the Secretary deems necessary to protect the identity of individuals entitled to or enrolled for benefits under such parts or under subchapters  <sup>\[2\]</sup>  <sup><sup> 2 So in original. Probably should be “subchapter”. </sup></sup>  XIX or XXI.
 
         (4) __Requirements__ 
 
             (A) __Fee__ 
 
-                Data described in paragraph (3) shall be made available to a qualified entity under this subsection at a fee equal to the cost of making such data available. Any fee collected pursuant to the preceding sentence shall be deposited into the Federal Supplementary Medical Insurance Trust Fund under [section 1395t of this title][/us/usc/t42/s1395t].
+                Data described in paragraph (3) shall be made available to a qualified entity under this subsection at a fee equal to the cost of making such data available. Any fee collected pursuant to the preceding sentence shall be deposited, for periods prior to July 1, 2016, into the Federal Supplementary Medical Insurance Trust Fund under [section 1395t of this title][/us/usc/t42/s1395t], and, beginning July 1, 2016, into the Centers for Medicare & Medicaid Services Program Management Account.
 
             (B) __Specification of uses and methodologies__ 
 
@@ -103,7 +103,17 @@
 
                 The Secretary shall not make data described in paragraph (3) available to a qualified entity unless the qualified entity agrees to release the information on the evaluation of performance of providers of services and suppliers. Such entity shall only use such data, and information derived from such evaluation, for the reports under subparagraph (C). Data released to a qualified entity under this subsection shall not be subject to discovery or admission as evidence in judicial or administrative proceedings without consent of the applicable provider of services or supplier.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XVIII, § 1874, as added and amended [Pub. L. 89–97, title I][/us/pl/89/97], §§ 102(a), 111(a), July 30, 1965, [79 Stat. 332][/us/stat/79/332], 340; [Pub. L. 92–603, title II, § 289][/us/pl/92/603/s289], Oct. 30, 1972, [86 Stat. 1457][/us/stat/86/1457]; [Pub. L. 93–445, title III, § 310][/us/pl/93/445/s310], Oct. 16, 1974, [88 Stat. 1359][/us/stat/88/1359]; [Pub. L. 110–275, title I, § 189(a)][/us/pl/110/275/s189/a], July 15, 2008, [122 Stat. 2590][/us/stat/122/2590]; [Pub. L. 111–148, title X, § 10332(a)][/us/pl/111/148/s10332/a], Mar. 23, 2010, [124 Stat. 968][/us/stat/124/968].)
+    (f) __Requirement for the Secretary to establish policies and claims edits relating to incarcerated individuals, individuals not lawfully present, and deceased individuals__ 
+
+    The Secretary shall establish and maintain procedures, including procedures for using claims processing edits, updating eligibility information to improve provider accessibility, and conducting recoupment activities such as through recovery audit contractors, in order to ensure that payment is not made under this subchapter for items and services furnished to an individual who is one of the following:
+
+        (1) An individual who is incarcerated.
+
+        (2) An individual who is not lawfully present in the United States and who is not eligible for coverage under this subchapter.
+
+        (3) A deceased individual.
+
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XVIII, § 1874, as added and amended [Pub. L. 89–97, title I][/us/pl/89/97], §§ 102(a), 111(a), July 30, 1965, [79 Stat. 332][/us/stat/79/332], 340; [Pub. L. 92–603, title II, § 289][/us/pl/92/603/s289], Oct. 30, 1972, [86 Stat. 1457][/us/stat/86/1457]; [Pub. L. 93–445, title III, § 310][/us/pl/93/445/s310], Oct. 16, 1974, [88 Stat. 1359][/us/stat/88/1359]; [Pub. L. 110–275, title I, § 189(a)][/us/pl/110/275/s189/a], July 15, 2008, [122 Stat. 2590][/us/stat/122/2590]; [Pub. L. 111–148, title X, § 10332(a)][/us/pl/111/148/s10332/a], Mar. 23, 2010, [124 Stat. 968][/us/stat/124/968]; [Pub. L. 114–10, title I, § 105(c)][/us/pl/114/10/s105/c], (d), title V, § 502(a), Apr. 16, 2015, [129 Stat. 137][/us/stat/129/137], 165.)
 
  __References in Text__ 
 
@@ -114,6 +124,14 @@
     July 15, 2008, referred to in subsec. (d)(1)(A) and (B), was in the original “the date of the enactment of this section” and “such date”, which were translated as meaning the date of enactment of [Pub. L. 110–275][/us/pl/110/275], which enacted subsec. (d), to reflect the probable intent of Congress.
 
  __Amendments__ 
+
+    2015—Subsec. (e). [Pub. L. 114–10, § 105(c)(1)][/us/pl/114/10/s105/c/1], struck out “Medicare” before “data” in heading.
+
+    Subsec. (e)(3). [Pub. L. 114–10, § 105(c)(2)][/us/pl/114/10/s105/c/2], inserted “Beginning July 1, 2016, if the Secretary determines appropriate, the data described in this paragraph may also include standardized extracts (as determined by the Secretary) of claims data under subchapters XIX and XXI for assistance provided under such subchapters for one or more specified geographic areas and time periods requested by a qualified entity.” before “The Secretary” and “or under subchapters XIX or XXI” before period at end.
+
+    Subsec. (e)(4)(A). [Pub. L. 114–10, § 105(d)][/us/pl/114/10/s105/d], inserted “, for periods prior to July 1, 2016,” after “deposited” and “, and, beginning July 1, 2016, into the Centers for Medicare & Medicaid Services Program Management Account” before period at end.
+
+    Subsec. (f). [Pub. L. 114–10, § 502(a)][/us/pl/114/10/s502/a], added subsec. (f).
 
     2010—Subsec. (e). [Pub. L. 111–148][/us/pl/111/148] added subsec. (e).
 
@@ -143,6 +161,12 @@
 
     Amendment by [Pub. L. 89–97][/us/pl/89/97] applicable to calendar year 1966 or to any subsequent calendar year but only if by October 1 immediately preceding such calendar year the Railroad Retirement Tax Act provides for a maximum amount of monthly compensation taxable under such Act during all months of such calendar year equal to one-twelfth of maximum wages which Federal Insurance Contributions Act provides may be counted for such calendar year, see [Pub. L. 89–97, title I, § 111(e)][/us/pl/89/97/s111/e], July 30, 1965, [79 Stat. 343][/us/stat/79/343].
 
+ __Report__ 
+
+[Pub. L. 114–10, title V, § 502(b)][/us/pl/114/10/s502/b], Apr. 16, 2015, [129 Stat. 165][/us/stat/129/165], provided that: 
+
+> “Not later than 18 months after the date of the enactment of this section \[Apr. 16, 2015\], and periodically thereafter as determined necessary by the Office of Inspector General of the Department of Health and Human Services, such Office shall submit to Congress a report on the activities described in subsection (f) of section 1874 of the Social Security Act ([42 U.S.C. 1395kk][/us/usc/t42/s1395kk]), as added by subsection (a), that have been conducted since such date of enactment.”
+
 ----------
 
 [Previous](./../../../../../..//us/usc/t42/ch7/schXVIII/ptE/m__us_usc_t42_s1395jj.md) | [Next](./../../../../../..//us/usc/t42/ch7/schXVIII/ptE/m__us_usc_t42_s1395kk–1.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395kk)
@@ -165,12 +189,18 @@
 [/us/stat/122/2590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2590
 [/us/pl/111/148/s10332/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10332%2Fa
 [/us/stat/124/968]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F968
+[/us/pl/114/10/s105/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2Fs105%2Fc
+[/us/stat/129/137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F137
 [/us/act/1935-08-29/ch812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-29%2Fch812
 [/us/pl/93/445/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F445%2Fs101
 [/us/stat/88/1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1305
 [/us/usc/t45/s231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft45%2Fs231
 [/us/usc/t45/s231t]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft45%2Fs231t
 [/us/pl/110/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F275
+[/us/pl/114/10/s105/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2Fs105%2Fc%2F1
+[/us/pl/114/10/s105/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2Fs105%2Fc%2F2
+[/us/pl/114/10/s105/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2Fs105%2Fd
+[/us/pl/114/10/s502/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2Fs502%2Fa
 [/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 [/us/pl/110/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F275
 [/us/pl/93/445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F445
@@ -187,5 +217,8 @@
 [/us/pl/89/97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97
 [/us/pl/89/97/s111/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97%2Fs111%2Fe
 [/us/stat/79/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F343
+[/us/pl/114/10/s502/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2Fs502%2Fb
+[/us/stat/129/165]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F165
+[/us/usc/t42/s1395kk]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395kk
 
 

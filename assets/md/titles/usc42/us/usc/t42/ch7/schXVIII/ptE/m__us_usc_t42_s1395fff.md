@@ -81,7 +81,7 @@
 
                 (iii) __Home health market basket percentage increase__ 
 
-                    For purposes of this subsection, the term “home health market basket percentage increase” means, with respect to a fiscal year or year, a percentage (estimated by the Secretary before the beginning of the fiscal year or year) determined and applied with respect to the mix of goods and services included in home health services in the same manner as the market basket percentage increase under [section 1395ww(b)(3)(B)(iii) of this title][/us/usc/t42/s1395ww/b/3/B/iii] is determined and applied to the mix of goods and services comprising inpatient hospital services for the fiscal year or year.
+                    For purposes of this subsection, the term “home health market basket percentage increase” means, with respect to a fiscal year or year, a percentage (estimated by the Secretary before the beginning of the fiscal year or year) determined and applied with respect to the mix of goods and services included in home health services in the same manner as the market basket percentage increase under [section 1395ww(b)(3)(B)(iii) of this title][/us/usc/t42/s1395ww/b/3/B/iii] is determined and applied to the mix of goods and services comprising inpatient hospital services for the fiscal year or year. Notwithstanding the previous sentence, the home health market basket percentage increase for 2018 shall be 1 percent.
 
                 (iv) __Adjustment for case mix changes__ 
 
@@ -123,7 +123,7 @@
 
                 After determining the home health market basket percentage increase under clause (iii), and after application of clause (v), the Secretary shall reduce such percentage—
 
-                    (I) for 2015 and each subsequent year, by the productivity adjustment described in [section 1395ww(b)(3)(B)(xi)(II) of this title][/us/usc/t42/s1395ww/b/3/B/xi/II]; and
+                    (I) for 2015 and each subsequent year (except 2018), by the productivity adjustment described in [section 1395ww(b)(3)(B)(xi)(II) of this title][/us/usc/t42/s1395ww/b/3/B/xi/II]; and
 
                     (II) for each of 2011, 2012, and 2013, by 1 percentage point.
 
@@ -207,13 +207,17 @@
 
             Nothing in this section shall be construed as waiving the requirement for a physician certification under section 1395f(a)(2)(C) or 1395n(a)(2)(A) of this title for the payment for home health services, whether or not furnished via a telecommunications system.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XVIII, § 1895, as added [Pub. L. 105–33, title IV, § 4603(a)][/us/pl/105/33/s4603/a], Aug. 5, 1997, [111 Stat. 467][/us/stat/111/467]; amended [Pub. L. 105–277, div. J, title V, § 5101(c)(1)][/us/pl/105/277/s5101/c/1], (d)(2), Oct. 21, 1998, [112 Stat. 2681–914][/us/stat/112/2681-914]; [Pub. L. 106–113, div. B, § 1000(a)(6)][/us/pl/106/113/s1000/a/6] \[title III, §§ 302(b), 303(b), 306, 321(k)(19)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–359, 1501A–361, 1501A–362, 1501A–368; [Pub. L. 106–554, § 1(a)(6)][/us/pl/106/554/s1/a/6] \[title V, §§ 501(a), (c)(1), 504\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–529, 2763A–531; [Pub. L. 108–173, title VII, § 701][/us/pl/108/173/s701], Dec. 8, 2003, [117 Stat. 2334][/us/stat/117/2334]; [Pub. L. 109–171, title V, § 5201(a)][/us/pl/109/171/s5201/a], (c), Feb. 8, 2006, [120 Stat. 46][/us/stat/120/46]; [Pub. L. 111–148, title III][/us/pl/111/148], §§ 3131(a)(1), (b), 3401(e), title X, §§ 10315(a), 10319(d), Mar. 23, 2010, [124 Stat. 427][/us/stat/124/427], 428, 483, 944, 949; [Pub. L. 113–185, § 2(c)(1)][/us/pl/113/185/s2/c/1], Oct. 6, 2014, [128 Stat. 1962][/us/stat/128/1962].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XVIII, § 1895, as added [Pub. L. 105–33, title IV, § 4603(a)][/us/pl/105/33/s4603/a], Aug. 5, 1997, [111 Stat. 467][/us/stat/111/467]; amended [Pub. L. 105–277, div. J, title V, § 5101(c)(1)][/us/pl/105/277/s5101/c/1], (d)(2), Oct. 21, 1998, [112 Stat. 2681–914][/us/stat/112/2681-914]; [Pub. L. 106–113, div. B, § 1000(a)(6)][/us/pl/106/113/s1000/a/6] \[title III, §§ 302(b), 303(b), 306, 321(k)(19)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–359, 1501A–361, 1501A–362, 1501A–368; [Pub. L. 106–554, § 1(a)(6)][/us/pl/106/554/s1/a/6] \[title V, §§ 501(a), (c)(1), 504\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–529, 2763A–531; [Pub. L. 108–173, title VII, § 701][/us/pl/108/173/s701], Dec. 8, 2003, [117 Stat. 2334][/us/stat/117/2334]; [Pub. L. 109–171, title V, § 5201(a)][/us/pl/109/171/s5201/a], (c), Feb. 8, 2006, [120 Stat. 46][/us/stat/120/46]; [Pub. L. 111–148, title III][/us/pl/111/148], §§ 3131(a)(1), (b), 3401(e), title X, §§ 10315(a), 10319(d), Mar. 23, 2010, [124 Stat. 427][/us/stat/124/427], 428, 483, 944, 949; [Pub. L. 113–185, § 2(c)(1)][/us/pl/113/185/s2/c/1], Oct. 6, 2014, [128 Stat. 1962][/us/stat/128/1962]; [Pub. L. 114–10, title IV, § 411(c)][/us/pl/114/10/s411/c], Apr. 16, 2015, [129 Stat. 161][/us/stat/129/161].)
 
  __References in Text__ 
 
     Section 5201(d) of the Deficit Reduction Act of 2005, referred to in subsec. (b)(3)(B)(v)(I), is [section 5201(d) of title V of Pub. L. 109–171][/us/pl/109/171/s5201/d], Feb. 8, 2006, [120 Stat. 47][/us/stat/120/47], which is not classified to the Code.
 
  __Amendments__ 
+
+    2015—Subsec. (b)(3)(B)(iii). [Pub. L. 114–10, § 411(c)(1)][/us/pl/114/10/s411/c/1], inserted at end “Notwithstanding the previous sentence, the home health market basket percentage increase for 2018 shall be 1 percent.”
+
+    Subsec. (b)(3)(B)(vi)(I). [Pub. L. 114–10, § 411(c)(2)][/us/pl/114/10/s411/c/2], inserted “(except 2018)” after “each subsequent year”.
 
     2014—Subsec. (b)(3)(B)(v)(I). [Pub. L. 113–185, § 2(c)(1)(A)][/us/pl/113/185/s2/c/1/A], substituted “subclauses (II) and (IV)” for “subclause (II)”.
 
@@ -405,11 +409,11 @@
 
  __Temporary Increase for Home Health Services Furnished in a Rural Area__ 
 
-[Pub. L. 108–173, title IV, § 421][/us/pl/108/173/s421], Dec. 8, 2003, [117 Stat. 2283][/us/stat/117/2283], as amended by [Pub. L. 109–171, title V, § 5201(b)][/us/pl/109/171/s5201/b], Feb. 8, 2006, [120 Stat. 46][/us/stat/120/46]; [Pub. L. 111–148, title III, § 3131(c)][/us/pl/111/148/s3131/c], Mar. 23, 2010, [124 Stat. 428][/us/stat/124/428], provided that:
+[Pub. L. 108–173, title IV, § 421][/us/pl/108/173/s421], Dec. 8, 2003, [117 Stat. 2283][/us/stat/117/2283], as amended by [Pub. L. 109–171, title V, § 5201(b)][/us/pl/109/171/s5201/b], Feb. 8, 2006, [120 Stat. 46][/us/stat/120/46]; [Pub. L. 111–148, title III, § 3131(c)][/us/pl/111/148/s3131/c], Mar. 23, 2010, [124 Stat. 428][/us/stat/124/428]; [Pub. L. 114–10, title II, § 210][/us/pl/114/10/s210], Apr. 16, 2015, [129 Stat. 151][/us/stat/129/151], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
->     With respect to episodes and visits ending on or after April 1, 2004, and before April 1, 2005, episodes and visits beginning on or after January 1, 2006, and before January 1, 2007, and episodes and visits ending on or after April 1, 2010, and before January 1, 2016, in the case of home health services furnished in a rural area (as defined in section 1886(d)(2)(D) of the Social Security Act ([42 U.S.C. 1395ww(d)(2)(D)][/us/usc/t42/s1395ww/d/2/D])), the Secretary \[of Health and Human Services\] shall increase the payment amount otherwise made under section 1895 of such Act ([42 U.S.C. 1395fff][/us/usc/t42/s1395fff]) for such services by 5 percent (or, in the case of episodes and visits ending on or after April 1, 2010, and before January 1, 2016, 3 percent).
+>     With respect to episodes and visits ending on or after April 1, 2004, and before April 1, 2005, episodes and visits beginning on or after January 1, 2006, and before January 1, 2007, and episodes and visits ending on or after April 1, 2010, and before January 1, 2018, in the case of home health services furnished in a rural area (as defined in section 1886(d)(2)(D) of the Social Security Act ([42 U.S.C. 1395ww(d)(2)(D)][/us/usc/t42/s1395ww/d/2/D])), the Secretary \[of Health and Human Services\] shall increase the payment amount otherwise made under section 1895 of such Act ([42 U.S.C. 1395fff][/us/usc/t42/s1395fff]) for such services by 5 percent (or, in the case of episodes and visits ending on or after April 1, 2010, and before January 1, 2018, 3 percent).
 
 >     “(b)  __Waiving Budget Neutrality__  __.—__ 
 
@@ -773,8 +777,12 @@
 [/us/stat/124/427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F427
 [/us/pl/113/185/s2/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F185%2Fs2%2Fc%2F1
 [/us/stat/128/1962]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1962
+[/us/pl/114/10/s411/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2Fs411%2Fc
+[/us/stat/129/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F161
 [/us/pl/109/171/s5201/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2Fs5201%2Fd
 [/us/stat/120/47]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F47
+[/us/pl/114/10/s411/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2Fs411%2Fc%2F1
+[/us/pl/114/10/s411/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2Fs411%2Fc%2F2
 [/us/pl/113/185/s2/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F185%2Fs2%2Fc%2F1%2FA
 [/us/pl/113/185/s2/c/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F185%2Fs2%2Fc%2F1%2FB
 [/us/pl/113/185/s2/c/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F185%2Fs2%2Fc%2F1%2FC
@@ -845,6 +853,8 @@
 [/us/stat/120/46]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F46
 [/us/pl/111/148/s3131/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs3131%2Fc
 [/us/stat/124/428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F428
+[/us/pl/114/10/s210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2Fs210
+[/us/stat/129/151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F151
 [/us/usc/t42/s1395ww/d/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww%2Fd%2F2%2FD
 [/us/usc/t42/s1395fff]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395fff
 [/us/usc/t42/s1395fff]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395fff

@@ -169,7 +169,7 @@
 
         (1) __Requirements for enrollment__ 
 
-            In the case of a specialized MA plan for special needs individuals (as defined in subsection (b)(6) of this section), notwithstanding any other provision of this part and in accordance with regulations of the Secretary and for periods before January 1, 2017, the plan may restrict the enrollment of individuals under the plan to individuals who are within one or more classes of special needs individuals.
+            In the case of a specialized MA plan for special needs individuals (as defined in subsection (b)(6) of this section), notwithstanding any other provision of this part and in accordance with regulations of the Secretary and for periods before January 1, 2019, the plan may restrict the enrollment of individuals under the plan to individuals who are within one or more classes of special needs individuals.
 
         (2) __Additional requirements for institutional SNPS__ 
 
@@ -283,13 +283,15 @@
 
             (D) has participated (as of December 31, 2009) in a demonstration project established by the Secretary under which such a plan was offered for not less than 1 year.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XVIII, § 1859, as added [Pub. L. 105–33, title IV, § 4001][/us/pl/105/33/s4001], Aug. 5, 1997, [111 Stat. 325][/us/stat/111/325]; amended [Pub. L. 106–113, div. B, § 1000(a)(6)][/us/pl/106/113/s1000/a/6] \[title V, § 523\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–387; [Pub. L. 108–173, title II][/us/pl/108/173], §§ 221(b)(1), (d)(2), 231(b), (c), Dec. 8, 2003, [117 Stat. 2180][/us/stat/117/2180], 2193, 2207, 2208; [Pub. L. 110–173, title I, § 108(a)][/us/pl/110/173/s108/a], Dec. 29, 2007, [121 Stat. 2496][/us/stat/121/2496]; [Pub. L. 110–275, title I][/us/pl/110/275], §§ 162(b), 164(a), (c)(1), (d)(1), (e)(1), July 15, 2008, [122 Stat. 2571–2574][/us/stat/122/2571-2574]; [Pub. L. 111–148, title III][/us/pl/111/148], §§ 3205(a), (c), (e), (g), 3208(a), Mar. 23, 2010, [124 Stat. 457–459][/us/stat/124/457-459]; [Pub. L. 112–240, title VI, § 607][/us/pl/112/240/s607], Jan. 2, 2013, [126 Stat. 2349][/us/stat/126/2349]; [Pub. L. 113–67, div. B, title I, § 1107][/us/pl/113/67/s1107], Dec. 26, 2013, [127 Stat. 1197][/us/stat/127/1197]; [Pub. L. 113–93, title I, § 107][/us/pl/113/93/s107], Apr. 1, 2014, [128 Stat. 1043][/us/stat/128/1043].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XVIII, § 1859, as added [Pub. L. 105–33, title IV, § 4001][/us/pl/105/33/s4001], Aug. 5, 1997, [111 Stat. 325][/us/stat/111/325]; amended [Pub. L. 106–113, div. B, § 1000(a)(6)][/us/pl/106/113/s1000/a/6] \[title V, § 523\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–387; [Pub. L. 108–173, title II][/us/pl/108/173], §§ 221(b)(1), (d)(2), 231(b), (c), Dec. 8, 2003, [117 Stat. 2180][/us/stat/117/2180], 2193, 2207, 2208; [Pub. L. 110–173, title I, § 108(a)][/us/pl/110/173/s108/a], Dec. 29, 2007, [121 Stat. 2496][/us/stat/121/2496]; [Pub. L. 110–275, title I][/us/pl/110/275], §§ 162(b), 164(a), (c)(1), (d)(1), (e)(1), July 15, 2008, [122 Stat. 2571–2574][/us/stat/122/2571-2574]; [Pub. L. 111–148, title III][/us/pl/111/148], §§ 3205(a), (c), (e), (g), 3208(a), Mar. 23, 2010, [124 Stat. 457–459][/us/stat/124/457-459]; [Pub. L. 112–240, title VI, § 607][/us/pl/112/240/s607], Jan. 2, 2013, [126 Stat. 2349][/us/stat/126/2349]; [Pub. L. 113–67, div. B, title I, § 1107][/us/pl/113/67/s1107], Dec. 26, 2013, [127 Stat. 1197][/us/stat/127/1197]; [Pub. L. 113–93, title I, § 107][/us/pl/113/93/s107], Apr. 1, 2014, [128 Stat. 1043][/us/stat/128/1043]; [Pub. L. 114–10, title II, § 206][/us/pl/114/10/s206], Apr. 16, 2015, [129 Stat. 145][/us/stat/129/145].)
 
  __References in Text__ 
 
     The Internal Revenue Code of 1986, referred to in subsec. (e)(3)(A), is classified generally to Title 26, Internal Revenue Code.
 
  __Amendments__ 
+
+    2015—Subsec. (f)(1). [Pub. L. 114–10][/us/pl/114/10] substituted “2019” for “2017”.
 
     2014—Subsec. (f)(1). [Pub. L. 113–93][/us/pl/113/93] substituted “2017” for “2016”.
 
@@ -440,6 +442,9 @@
 [/us/stat/127/1197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1197
 [/us/pl/113/93/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F93%2Fs107
 [/us/stat/128/1043]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1043
+[/us/pl/114/10/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2Fs206
+[/us/stat/129/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F145
+[/us/pl/114/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10
 [/us/pl/113/93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F93
 [/us/pl/113/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67
 [/us/pl/112/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240

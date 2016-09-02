@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch152/schIII/ptB/m__us_usc_t42_s17083.md) | [Next](./../../../../../..//us/usc/t42/ch152/schIII/ptC/m__us_usc_t42_s17091.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch152%2FschIII%2FptC)
+[Previous](./../../../../../..//us/usc/t42/ch152/schIII/ptB/m__us_usc_t42_s17085.md) | [Next](./../../../../../..//us/usc/t42/ch152/schIII/ptC/m__us_usc_t42_s17091.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch152%2FschIII%2FptC)
 
 #### Part C—High-Performance Federal Buildings
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch152/schIII/ptB/m__us_usc_t42_s17083.md) | [Next](./../../../../../..//us/usc/t42/ch152/schIII/ptC/m__us_usc_t42_s17091.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch152%2FschIII%2FptC)
+[Previous](./../../../../../..//us/usc/t42/ch152/schIII/ptB/m__us_usc_t42_s17085.md) | [Next](./../../../../../..//us/usc/t42/ch152/schIII/ptC/m__us_usc_t42_s17091.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch152%2FschIII%2FptC)
 
 ----------
 ----------

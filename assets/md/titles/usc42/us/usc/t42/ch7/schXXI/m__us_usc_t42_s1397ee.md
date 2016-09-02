@@ -539,17 +539,17 @@
 
             Nothing in paragraphs (1) and (2) shall be construed as modifying the requirements applicable to States implementing State child health plans under this subchapter.
 
-        (4) __Option for allotments for fiscal years 2009 through 2015__ 
+        (4) __Option for allotments for fiscal years 2009 through 2017__ 
 
             (A) __Payment of enhanced portion of matching rate for certain expenditures__ 
 
-                In the case of expenditures described in subparagraph (B), a qualifying State (as defined in paragraph (2)) may elect to be paid from the State’s allotment made under [section 1397dd of this title][/us/usc/t42/s1397dd] for any of fiscal years 2009 through 2015 (insofar as the allotment is available to the State under subsections (e) and (m) of such section) an amount each quarter equal to the additional amount that would have been paid to the State under subchapter XIX with respect to such expenditures if the enhanced FMAP (as determined under subsection (b)) had been substituted for the Federal medical assistance percentage (as defined in [section 1396d(b) of this title][/us/usc/t42/s1396d/b]).
+                In the case of expenditures described in subparagraph (B), a qualifying State (as defined in paragraph (2)) may elect to be paid from the State’s allotment made under [section 1397dd of this title][/us/usc/t42/s1397dd] for any of fiscal years 2009 through 2017 (insofar as the allotment is available to the State under subsections (e) and (m) of such section) an amount each quarter equal to the additional amount that would have been paid to the State under subchapter XIX with respect to such expenditures if the enhanced FMAP (as determined under subsection (b)) had been substituted for the Federal medical assistance percentage (as defined in [section 1396d(b) of this title][/us/usc/t42/s1396d/b]).
 
             (B) __Expenditures described__ 
 
                 For purposes of subparagraph (A), the expenditures described in this subparagraph are expenditures made after February 4, 2009, and during the period in which funds are available to the qualifying State for use under subparagraph (A), for the provision of medical assistance to individuals residing in the State who are eligible for medical assistance under the State plan under subchapter XIX or under a waiver of such plan and who have not attained age 19 (or, if a State has so elected under the State plan under subchapter XIX, age 20 or 21), and whose family income equals or exceeds 133 percent of the poverty line but does not exceed the Medicaid applicable income level.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XXI, § 2105, as added [Pub. L. 105–33, title IV, § 4901(a)][/us/pl/105/33/s4901/a], Aug. 5, 1997, [111 Stat. 560][/us/stat/111/560]; amended [Pub. L. 105–100, title I, § 162(5)][/us/pl/105/100/s162/5], (7), Nov. 19, 1997, [111 Stat. 2189][/us/stat/111/2189], 2190; [Pub. L. 106–113, div. B, § 1000(a)(6)][/us/pl/106/113/s1000/a/6] \[title VII, § 705(b)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–402; [Pub. L. 106–554, § 1(a)(6)][/us/pl/106/554/s1/a/6] \[title VIII, § 802(a), (d)(4), (e)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–580 to 2763A–582; [Pub. L. 108–74, § 1(b)][/us/pl/108/74/s1/b], Aug. 15, 2003, [117 Stat. 895][/us/stat/117/895]; [Pub. L. 108–127, § 1][/us/pl/108/127/s1], Nov. 17, 2003, [117 Stat. 1354][/us/stat/117/1354]; [Pub. L. 109–171, title VI][/us/pl/109/171], §§ 6102(b), 6103(a), Feb. 8, 2006, [120 Stat. 131][/us/stat/120/131], 132; [Pub. L. 109–482, title II, § 201(b)][/us/pl/109/482/s201/b], Jan. 15, 2007, [120 Stat. 3701][/us/stat/120/3701]; [Pub. L. 110–92, § 136(d)][/us/pl/110/92/s136/d], Sept. 29, 2007, [121 Stat. 995][/us/stat/121/995]; [Pub. L. 110–173, title II, § 201(b)(1)][/us/pl/110/173/s201/b/1], Dec. 29, 2007, [121 Stat. 2509][/us/stat/121/2509]; [Pub. L. 111–3, title I][/us/pl/111/3], §§ 104, 107(a), 113(a), 114(a), title II, §§ 201(b)(1), 202(b), 211(c), title III, §§ 301(a)(1), (2)(A), 302(b), title VI, § 601(a), Feb. 4, 2009, [123 Stat. 17][/us/stat/123/17], 24, 34, 39, 40, 54, 57, 61, 63, 96; [Pub. L. 111–148, title II][/us/pl/111/148], §§ 2101(a)–(c), 2102(a)(3)–(5), title X, §§ 10201(g), 10203(b)(3), (4), (c), (d)(2)(C), Mar. 23, 2010, [124 Stat. 286–288][/us/stat/124/286-288], 922, 927, 928, 930.)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XXI, § 2105, as added [Pub. L. 105–33, title IV, § 4901(a)][/us/pl/105/33/s4901/a], Aug. 5, 1997, [111 Stat. 560][/us/stat/111/560]; amended [Pub. L. 105–100, title I, § 162(5)][/us/pl/105/100/s162/5], (7), Nov. 19, 1997, [111 Stat. 2189][/us/stat/111/2189], 2190; [Pub. L. 106–113, div. B, § 1000(a)(6)][/us/pl/106/113/s1000/a/6] \[title VII, § 705(b)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–402; [Pub. L. 106–554, § 1(a)(6)][/us/pl/106/554/s1/a/6] \[title VIII, § 802(a), (d)(4), (e)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–580 to 2763A–582; [Pub. L. 108–74, § 1(b)][/us/pl/108/74/s1/b], Aug. 15, 2003, [117 Stat. 895][/us/stat/117/895]; [Pub. L. 108–127, § 1][/us/pl/108/127/s1], Nov. 17, 2003, [117 Stat. 1354][/us/stat/117/1354]; [Pub. L. 109–171, title VI][/us/pl/109/171], §§ 6102(b), 6103(a), Feb. 8, 2006, [120 Stat. 131][/us/stat/120/131], 132; [Pub. L. 109–482, title II, § 201(b)][/us/pl/109/482/s201/b], Jan. 15, 2007, [120 Stat. 3701][/us/stat/120/3701]; [Pub. L. 110–92, § 136(d)][/us/pl/110/92/s136/d], Sept. 29, 2007, [121 Stat. 995][/us/stat/121/995]; [Pub. L. 110–173, title II, § 201(b)(1)][/us/pl/110/173/s201/b/1], Dec. 29, 2007, [121 Stat. 2509][/us/stat/121/2509]; [Pub. L. 111–3, title I][/us/pl/111/3], §§ 104, 107(a), 113(a), 114(a), title II, §§ 201(b)(1), 202(b), 211(c), title III, §§ 301(a)(1), (2)(A), 302(b), title VI, § 601(a), Feb. 4, 2009, [123 Stat. 17][/us/stat/123/17], 24, 34, 39, 40, 54, 57, 61, 63, 96; [Pub. L. 111–148, title II][/us/pl/111/148], §§ 2101(a)–(c), 2102(a)(3)–(5), title X, §§ 10201(g), 10203(b)(3), (4), (c), (d)(2)(C), Mar. 23, 2010, [124 Stat. 286–288][/us/stat/124/286-288], 922, 927, 928, 930; [Pub. L. 114–10, title III, § 301(c)][/us/pl/114/10/s301/c], Apr. 16, 2015, [129 Stat. 158][/us/stat/129/158].)
 
  __References in Text__ 
 
@@ -562,6 +562,10 @@
     The Internal Revenue Code of 1986, referred to in subsecs. (c)(10)(B)(i)(III), (ii) and (d)(3)(B), is classified generally to Title 26, Internal Revenue Code.
 
  __Amendments__ 
+
+    2015—Subsec. (g)(4). [Pub. L. 114–10, § 301(c)(1)][/us/pl/114/10/s301/c/1], substituted “2017” for “2015” in heading.
+
+    Subsec. (g)(4)(A). [Pub. L. 114–10, § 301(c)(2)][/us/pl/114/10/s301/c/2], substituted “2017” for “2015”.
 
     2010—Subsec. (a)(3)(C)(i)(I), (II). [Pub. L. 111–148, § 2102(a)(3)][/us/pl/111/148/s2102/a/3], struck out “, respectively” before semicolon.
 
@@ -878,6 +882,8 @@
 [/us/stat/123/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F17
 [/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 [/us/stat/124/286-288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F286-288
+[/us/pl/114/10/s301/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2Fs301%2Fc
+[/us/stat/129/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F158
 [/us/pl/111/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F3
 [/us/stat/123/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F25
 [/us/usc/t42/s1396d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396d
@@ -891,6 +897,8 @@
 [/us/pl/111/148/s1201/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs1201%2F4
 [/us/stat/124/155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F155
 [/us/usc/t42/s300gg]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300gg
+[/us/pl/114/10/s301/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2Fs301%2Fc%2F1
+[/us/pl/114/10/s301/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2Fs301%2Fc%2F2
 [/us/pl/111/148/s2102/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs2102%2Fa%2F3
 [/us/pl/111/148/s2102/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs2102%2Fa%2F4
 [/us/usc/t42/s1397kk/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1397kk%2Fa%2F3

@@ -241,6 +241,10 @@
 
             The Secretary shall waive only such requirements of this section and of subchapters XI and XIX as are necessary to carry out paragraph (1).
 
+        (3) __Incentives for States__ 
+
+            The Secretary shall study and, as appropriate, may specify incentives for States to work with the Secretary for the purposes described in paragraph (1)(A)(ii). The application of the previous sentence may include use of the waiver authority described in paragraph (2).
+
     (h) __Use of recovery audit contractors__ 
 
         (1) __In general__ 
@@ -261,7 +265,7 @@
 
         (2) __Disposition of remaining recoveries__ 
 
-            The amounts recovered under such contracts that are not paid to the contractor under paragraph (1) or retained by the Secretary under paragraph (1)(C) shall be applied to reduce expenditures under this subchapter.
+            The amounts recovered under such contracts that are not paid to the contractor under paragraph (1) or retained by the Secretary under paragraph (1)(C) or paragraph (10) shall be applied to reduce expenditures under this subchapter.
 
         (3) __Nationwide coverage__ 
 
@@ -313,6 +317,20 @@
 
             (D) review estimates submitted by prescription drug plans by private plans with respect to the enrollment of high cost beneficiaries (as defined by the Secretary) and to compare such estimates with the numbers of such beneficiaries actually enrolled by such plans.
 
+        (10) __Use of certain recovered funds__ 
+
+            (A) __In general__ 
+
+                After application of paragraph (1)(C), the Secretary shall retain a portion of the amounts recovered by recovery audit contractors for each year under this section which shall be available to the program management account of the Centers for Medicare & Medicaid Services for purposes of, subject to subparagraph (B), carrying out sections 1395l(z), <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  1935m(l)(16), and 1395kk–1(a)(4)(G) of this title, carrying out section 514(b) of the Medicare Access and CHIP Reauthorization Act of 2015, and implementing strategies (such as claims processing edits) to help reduce the error rate of payments under this subchapter. The amounts retained under the preceding sentence shall not exceed an amount equal to 15 percent of the amounts recovered under this subsection, and shall remain available until expended.
+
+            (B) __Limitation__ 
+
+                Except for uses that support claims processing (including edits) or system functionality for detecting fraud, amounts retained under subparagraph (A) may not be used for technological-related infrastructure, capital investments, or information systems.
+
+            (C) __No reduction in payments to recovery audit contractors__ 
+
+                Nothing in subparagraph (A) shall reduce amounts available for payments to recovery audit contractors under this subsection.
+
     (i) __Evaluations and annual report__ 
 
         (1) __Evaluations__ 
@@ -327,13 +345,23 @@
 
             (B) the effectiveness of the use of such funds.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XVIII, § 1893, as added [Pub. L. 104–191, title II, § 202(a)][/us/pl/104/191/s202/a], Aug. 21, 1996, [110 Stat. 1996][/us/stat/110/1996]; amended [Pub. L. 108–173, title VII, § 736(c)(7)][/us/pl/108/173/s736/c/7], title IX, § 935(a), Dec. 8, 2003, [117 Stat. 2356][/us/stat/117/2356], 2407; [Pub. L. 109–171, title VI, § 6034(d)(1)][/us/pl/109/171/s6034/d/1], Feb. 8, 2006, [120 Stat. 77][/us/stat/120/77]; [Pub. L. 109–432, div. B, title III, § 302(a)][/us/pl/109/432/s302/a], Dec. 20, 2006, [120 Stat. 2991][/us/stat/120/2991]; [Pub. L. 111–148, title VI][/us/pl/111/148], §§ 6402(j)(1), 6411(b), Mar. 23, 2010, [124 Stat. 762][/us/stat/124/762], 775.)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XVIII, § 1893, as added [Pub. L. 104–191, title II, § 202(a)][/us/pl/104/191/s202/a], Aug. 21, 1996, [110 Stat. 1996][/us/stat/110/1996]; amended [Pub. L. 108–173, title VII, § 736(c)(7)][/us/pl/108/173/s736/c/7], title IX, § 935(a), Dec. 8, 2003, [117 Stat. 2356][/us/stat/117/2356], 2407; [Pub. L. 109–171, title VI, § 6034(d)(1)][/us/pl/109/171/s6034/d/1], Feb. 8, 2006, [120 Stat. 77][/us/stat/120/77]; [Pub. L. 109–432, div. B, title III, § 302(a)][/us/pl/109/432/s302/a], Dec. 20, 2006, [120 Stat. 2991][/us/stat/120/2991]; [Pub. L. 111–148, title VI][/us/pl/111/148], §§ 6402(j)(1), 6411(b), Mar. 23, 2010, [124 Stat. 762][/us/stat/124/762], 775; [Pub. L. 114–10, title V][/us/pl/114/10], §§ 505(b), 510, Apr. 16, 2015, [129 Stat. 167][/us/stat/129/167], 170.)
 
  __References in Text__ 
 
     Section 202(b) of the Health Insurance Portability and Accountability Act of 1996, referred to in subsec. (d)(2)(B), is [section 202(b) of Pub. L. 104–191][/us/pl/104/191/s202/b], which amended sections 1395h and 1395u of this title.
 
+    Section 1395l(z) of this title, referred to in subsec. (h)(10)(A), probably means the subsec. (z) of section 1395l of this title which relates to medical review of spinal subluxation services and was added by [Pub. L. 114–10, title V, § 514(a)][/us/pl/114/10/s514/a], Apr. 16, 2015, [129 Stat. 171][/us/stat/129/171].
+
+    Section 514(b) of the Medicare Access and CHIP Reauthorization Act of 2015, referred to in subsec. (h)(10)(A), is [section 514(b) of Pub. L. 114–10][/us/pl/114/10/s514/b], which is set out as a note under section 1395l of this title.
+
  __Amendments__ 
+
+    2015—Subsec. (g)(3). [Pub. L. 114–10, § 510][/us/pl/114/10/s510], added par. (3).
+
+    Subsec. (h)(2). [Pub. L. 114–10, § 505(b)(1)][/us/pl/114/10/s505/b/1], inserted “or paragraph (10)” after “paragraph (1)(C)”.
+
+    Subsec. (h)(10). [Pub. L. 114–10, § 505(b)(2)][/us/pl/114/10/s505/b/2], added par. (10).
 
     2010—Subsec. (a). [Pub. L. 111–148, § 6402(j)(1)(C)][/us/pl/111/148/s6402/j/1/C], inserted “, or otherwise,” after “entities”.
 
@@ -399,15 +427,19 @@
 
  __Extension of Two-Midnight Rule__ 
 
-[Pub. L. 113–93, title I, § 111][/us/pl/113/93/s111], Apr. 1, 2014, [128 Stat. 1044][/us/stat/128/1044], provided that:
+[Pub. L. 113–93, title I, § 111][/us/pl/113/93/s111], Apr. 1, 2014, [128 Stat. 1044][/us/stat/128/1044], as amended by [Pub. L. 114–10, title V, § 521][/us/pl/114/10/s521], Apr. 16, 2015, [129 Stat. 176][/us/stat/129/176], provided that:
 
 >     “(a)  __Continuation of Certain Medical Review Activities__  __.—__ 
 
->     The Secretary of Health and Human Services may continue medical review activities described in the notice entitled ‘Selecting Hospital Claims for Patient Status Reviews: Admissions On or After October 1, 2013’, posted on the Internet website of the Centers for Medicare & Medicaid Services, through the first 6 months of fiscal year 2015 for such additional hospital claims as the Secretary determines appropriate.
+>     The Secretary of Health and Human Services may continue medical review activities described in the notice entitled ‘Selecting Hospital Claims for Patient Status Reviews: Admissions On or After October 1, 2013’, posted on the Internet website of the Centers for Medicare & Medicaid Services, through through \[sic\] the end of fiscal year 2015 for such additional hospital claims as the Secretary determines appropriate.
 
 >     “(b)  __Limitation__  __.—__ 
 
->     The Secretary of Health and Human Services shall not conduct patient status reviews (as described in such notice) on a post-payment review basis through recovery audit contractors under section 1893(h) of the Social Security Act ([42 U.S.C. 1395ddd(h)][/us/usc/t42/s1395ddd/h]) for inpatient claims with dates of admission October 1, 2013, through March 31, 2015, unless there is evidence of systematic gaming, fraud, abuse, or delays in the provision of care by a provider of services (as defined in section 1861(u) of such Act ([42 U.S.C. 1395x(u)][/us/usc/t42/s1395x/u])).”
+>     The Secretary of Health and Human Services shall not conduct patient status reviews (as described in such notice) on a post-payment review basis through recovery audit contractors under section 1893(h) of the Social Security Act ([42 U.S.C. 1395ddd(h)][/us/usc/t42/s1395ddd/h]) for inpatient claims with dates of admission October 1, 2013, through September 30, 2015, unless there is evidence of systematic gaming, fraud, abuse, or delays in the provision of care by a provider of services (as defined in section 1861(u) of such Act ([42 U.S.C. 1395x(u)][/us/usc/t42/s1395x/u])).
+
+>     “(c)  __Construction__  __.—__ 
+
+>     Except as provided in subsections (a) and (b), nothing in this section shall be construed as limiting the Secretary’s authority to pursue fraud and abuse activities under such section 1893(h) or otherwise.”
 
  __Access to Coordination of Benefits Contractor Database__ 
 
@@ -451,7 +483,15 @@
 [/us/stat/120/2991]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2991
 [/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 [/us/stat/124/762]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F762
+[/us/pl/114/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10
+[/us/stat/129/167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F167
 [/us/pl/104/191/s202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2Fs202%2Fb
+[/us/pl/114/10/s514/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2Fs514%2Fa
+[/us/stat/129/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F171
+[/us/pl/114/10/s514/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2Fs514%2Fb
+[/us/pl/114/10/s510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2Fs510
+[/us/pl/114/10/s505/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2Fs505%2Fb%2F1
+[/us/pl/114/10/s505/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2Fs505%2Fb%2F2
 [/us/pl/111/148/s6402/j/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs6402%2Fj%2F1%2FC
 [/us/pl/111/148/s6402/j/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs6402%2Fj%2F1%2FA
 [/us/pl/111/148/s6411/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs6411%2Fb%2F1
@@ -477,6 +517,8 @@
 [/us/usc/t42/s1395ddd/f/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ddd%2Ff%2F8
 [/us/pl/113/93/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F93%2Fs111
 [/us/stat/128/1044]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1044
+[/us/pl/114/10/s521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2Fs521
+[/us/stat/129/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F176
 [/us/usc/t42/s1395ddd/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ddd%2Fh
 [/us/usc/t42/s1395x/u]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395x%2Fu
 [/us/pl/109/432/s302/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs302%2Fb

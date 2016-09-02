@@ -39,6 +39,16 @@
 
     Chapter effective on the date that is 1 day after Dec. 19, 2007, see [section 1601 of Pub. L. 110–140][/us/pl/110/140/s1601], set out as a note under [section 1824 of Title 2][/us/usc/t2/s1824], The Congress.
 
+ __Short Title of 2015 Amendment__ 
+
+[Pub. L. 114–11, § 1(a)][/us/pl/114/11/s1/a], Apr. 30, 2015, [129 Stat. 182][/us/stat/129/182], provided that: 
+
+> “This Act \[enacting sections 17062, 17063, 17084, and 17085 of this title, amending sections 6295, 6302 to 6304, and 17091 of this title, and enacting provisions set out as a note under this section\] may be cited as the ‘Energy Efficiency Improvement Act of 2015’.”
+
+[Pub. L. 114–11, title I, § 101][/us/pl/114/11/s101], Apr. 30, 2015, [129 Stat. 182][/us/stat/129/182], provided that: 
+
+> “This title \[enacting sections 17062, 17084, and 17085 of this title\] may be cited as the ‘Better Buildings Act of 2015’.”
+
  __Short Title__ 
 
 [Pub. L. 110–140, § 1(a)][/us/pl/110/140/s1/a], Dec. 19, 2007, [121 Stat. 1492][/us/stat/121/1492], provided that: 
@@ -75,6 +85,10 @@
 [/us/stat/121/1492]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1492
 [/us/pl/110/140/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs1601
 [/us/usc/t2/s1824]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1824
+[/us/pl/114/11/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F11%2Fs1%2Fa
+[/us/stat/129/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F182
+[/us/pl/114/11/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F11%2Fs101
+[/us/stat/129/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F182
 [/us/pl/110/140/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs1%2Fa
 [/us/stat/121/1492]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1492
 [/us/pl/110/140/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs601

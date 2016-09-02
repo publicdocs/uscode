@@ -33,11 +33,13 @@
 
             (B) $100,000,000 for fiscal year 2003; and
 
-            (C) $150,000,000 for each of fiscal years 2004 through 2015.
+            (C) $150,000,000 for each of fiscal years 2004 through 2017.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 330B, as added [Pub. L. 105–33, title IV, § 4921][/us/pl/105/33/s4921], Aug. 5, 1997, [111 Stat. 574][/us/stat/111/574]; amended [Pub. L. 105–34, title XVI, § 1604(f)(1)(B)][/us/pl/105/34/s1604/f/1/B], (C), Aug. 5, 1997, [111 Stat. 1098][/us/stat/111/1098]; [Pub. L. 106–554, § 1(a)(6)][/us/pl/106/554/s1/a/6] \[title IX, § 931(a)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–585; [Pub. L. 107–360, § 1(a)][/us/pl/107/360/s1/a], Dec. 17, 2002, [116 Stat. 3019][/us/stat/116/3019]; [Pub. L. 110–173, title III, § 302(a)][/us/pl/110/173/s302/a], Dec. 29, 2007, [121 Stat. 2514][/us/stat/121/2514]; [Pub. L. 110–275, title III, § 303(a)][/us/pl/110/275/s303/a], July 15, 2008, [122 Stat. 2594][/us/stat/122/2594]; [Pub. L. 111–309, title I, § 112(1)][/us/pl/111/309/s112/1], Dec. 15, 2010, [124 Stat. 3289][/us/stat/124/3289]; [Pub. L. 112–240, title VI, § 625(a)][/us/pl/112/240/s625/a], Jan. 2, 2013, [126 Stat. 2352][/us/stat/126/2352]; [Pub. L. 113–93, title II, § 204(a)][/us/pl/113/93/s204/a], Apr. 1, 2014, [128 Stat. 1046][/us/stat/128/1046].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 330B, as added [Pub. L. 105–33, title IV, § 4921][/us/pl/105/33/s4921], Aug. 5, 1997, [111 Stat. 574][/us/stat/111/574]; amended [Pub. L. 105–34, title XVI, § 1604(f)(1)(B)][/us/pl/105/34/s1604/f/1/B], (C), Aug. 5, 1997, [111 Stat. 1098][/us/stat/111/1098]; [Pub. L. 106–554, § 1(a)(6)][/us/pl/106/554/s1/a/6] \[title IX, § 931(a)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–585; [Pub. L. 107–360, § 1(a)][/us/pl/107/360/s1/a], Dec. 17, 2002, [116 Stat. 3019][/us/stat/116/3019]; [Pub. L. 110–173, title III, § 302(a)][/us/pl/110/173/s302/a], Dec. 29, 2007, [121 Stat. 2514][/us/stat/121/2514]; [Pub. L. 110–275, title III, § 303(a)][/us/pl/110/275/s303/a], July 15, 2008, [122 Stat. 2594][/us/stat/122/2594]; [Pub. L. 111–309, title I, § 112(1)][/us/pl/111/309/s112/1], Dec. 15, 2010, [124 Stat. 3289][/us/stat/124/3289]; [Pub. L. 112–240, title VI, § 625(a)][/us/pl/112/240/s625/a], Jan. 2, 2013, [126 Stat. 2352][/us/stat/126/2352]; [Pub. L. 113–93, title II, § 204(a)][/us/pl/113/93/s204/a], Apr. 1, 2014, [128 Stat. 1046][/us/stat/128/1046]; [Pub. L. 114–10, title II, § 213(a)][/us/pl/114/10/s213/a], Apr. 16, 2015, [129 Stat. 152][/us/stat/129/152].)
 
  __Amendments__ 
+
+    2015—Subsec. (b)(2)(C). [Pub. L. 114–10][/us/pl/114/10] substituted “2017” for “2015”.
 
     2014—Subsec. (b)(2)(C). [Pub. L. 113–93][/us/pl/113/93] substituted “2015” for “2014”.
 
@@ -104,6 +106,9 @@
 [/us/stat/126/2352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2352
 [/us/pl/113/93/s204/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F93%2Fs204%2Fa
 [/us/stat/128/1046]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1046
+[/us/pl/114/10/s213/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2Fs213%2Fa
+[/us/stat/129/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F152
+[/us/pl/114/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10
 [/us/pl/113/93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F93
 [/us/pl/112/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240
 [/us/pl/111/309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F309

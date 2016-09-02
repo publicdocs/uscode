@@ -391,7 +391,7 @@
 
         (8) __Appropriation__ 
 
-            Out of any funds in the Treasury not otherwise appropriated, there is appropriated to carry out this subsection, $25,000,000 for the period of fiscal years 2010 through 2014.
+            Out of any funds in the Treasury not otherwise appropriated, there is appropriated to carry out this subsection, $25,000,000 for the period of fiscal years 2010 through 2014, and $10,000,000 for the period of fiscal years 2016 and 2017.
 
     (f) __Development of model electronic health record format for children enrolled in Medicaid or CHIP__ 
 
@@ -435,11 +435,15 @@
 
     (i) __Appropriation__ 
 
-        Out of any funds in the Treasury not otherwise appropriated, there is appropriated for each of fiscal years 2009 through 2013, $45,000,000 for the purpose of carrying out this section (other than subsection (e)). Funds appropriated under this subsection shall remain available until expended.
+        Out of any funds in the Treasury not otherwise appropriated, there is appropriated for each of fiscal years 2009 through 2013, $45,000,000 for the purpose of carrying out this section (other than subsection (e)), and there is appropriated for the period of fiscal years 2016 and 2017, $20,000,000 for the purpose of carrying out this section (other than subsections (e), (f), and (g)). Funds appropriated under this subsection shall remain available until expended.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XI, § 1139A, as added and amended [Pub. L. 111–3, title IV, § 401(a)][/us/pl/111/3/s401/a], title V, § 501(g), Feb. 4, 2009, [123 Stat. 72][/us/stat/123/72], 88; [Pub. L. 111–148, title IV, § 4306][/us/pl/111/148/s4306], Mar. 23, 2010, [124 Stat. 587][/us/stat/124/587].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XI, § 1139A, as added and amended [Pub. L. 111–3, title IV, § 401(a)][/us/pl/111/3/s401/a], title V, § 501(g), Feb. 4, 2009, [123 Stat. 72][/us/stat/123/72], 88; [Pub. L. 111–148, title IV, § 4306][/us/pl/111/148/s4306], Mar. 23, 2010, [124 Stat. 587][/us/stat/124/587]; [Pub. L. 114–10, title III, § 304][/us/pl/114/10/s304], Apr. 16, 2015, [129 Stat. 158][/us/stat/129/158].)
 
  __Amendments__ 
+
+    2015—Subsec. (e)(8). [Pub. L. 114–10, § 304(a)][/us/pl/114/10/s304/a], inserted “, and $10,000,000 for the period of fiscal years 2016 and 2017” after “2014”.
+
+    Subsec. (i). [Pub. L. 114–10, § 304(b)][/us/pl/114/10/s304/b], inserted “, and there is appropriated for the period of fiscal years 2016 and 2017, $20,000,000 for the purpose of carrying out this section (other than subsections (e), (f), and (g))” after “(other than subsection (e))”.
 
     2010—Subsec. (e)(8). [Pub. L. 111–148][/us/pl/111/148] amended par. (8) generally. Prior to amendment, text read as follows: “There is authorized to be appropriated to carry out this subsection, $25,000,000 for the period of fiscal years 2009 through 2013.”
 
@@ -465,6 +469,10 @@
 [/us/stat/123/72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F72
 [/us/pl/111/148/s4306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs4306
 [/us/stat/124/587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F587
+[/us/pl/114/10/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2Fs304
+[/us/stat/129/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F158
+[/us/pl/114/10/s304/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2Fs304%2Fa
+[/us/pl/114/10/s304/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2Fs304%2Fb
 [/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 [/us/pl/111/3/s501/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F3%2Fs501%2Fg%2F1
 [/us/pl/111/3/s501/g/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F3%2Fs501%2Fg%2F2

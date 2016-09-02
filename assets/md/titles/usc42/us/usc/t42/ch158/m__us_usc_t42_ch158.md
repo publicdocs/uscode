@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t42/ch157/schVI/m__us_usc_t42_s18121.md) | [Next](./../../../..//us/usc/t42/ch158/m__us_usc_t42_s18201.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch158)
+[Previous](./../../../..//us/usc/t42/ch157/schVI/m__us_usc_t42_s18122.md) | [Next](./../../../..//us/usc/t42/ch158/m__us_usc_t42_s18201.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch158)
 
 ## CHAPTER 158—SUPPORT FOR PREGNANT AND PARENTING TEENS AND WOMEN
 
@@ -59,7 +59,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t42/ch157/schVI/m__us_usc_t42_s18121.md) | [Next](./../../../..//us/usc/t42/ch158/m__us_usc_t42_s18201.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch158)
+[Previous](./../../../..//us/usc/t42/ch157/schVI/m__us_usc_t42_s18122.md) | [Next](./../../../..//us/usc/t42/ch158/m__us_usc_t42_s18201.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch158)
 
 ----------
 ----------

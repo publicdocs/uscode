@@ -117,6 +117,26 @@
 
                     In this subparagraph, the term “covered document” means a financial, tax, or other document required to be submitted by a bidder as part of an original bid submission under a competitive acquisition program in order to meet required financial standards. Such term does not include other documents, such as the bid itself or accreditation documentation.
 
+            (G) __Requiring bid bonds for bidding entities__ 
+
+                With respect to rounds of competitions beginning under this subsection for contracts beginning not earlier than January 1, 2017, and not later than January 1, 2019, an entity may not submit a bid for a competitive acquisition area unless, as of the deadline for bid submission, the entity has obtained (and provided the Secretary with proof of having obtained) a bid surety bond (in this paragraph referred to as a “bid bond”) in a form specified by the Secretary consistent with subparagraph (H) and in an amount that is not less than $50,000 and not more than $100,000 for each competitive acquisition area in which the entity submits the bid.
+
+            (H) __Treatment of bid bonds submitted__ 
+
+                (i) __For bidders that submit bids at or below the median and are offered but do not accept the contract__ 
+
+                In the case of a bidding entity that is offered a contract for any product category for a competitive acquisition area, if—
+
+                    (I) the entity’s composite bid for such product category and area was at or below the median composite bid rate for all bidding entities included in the calculation of the single payment amounts for such product category and area; and
+
+                    (II) the entity does not accept the contract offered for such product category and area,
+
+                 the bid bond submitted by such entity for such area shall be forfeited by the entity and the Secretary shall collect on it.
+
+                (ii) __Treatment of other bidders__ 
+
+                    In the case of a bidding entity for any product category for a competitive acquisition area, if the entity does not meet the bid forfeiture conditions in subclauses (I) and (II) of clause (i) for any product category for such area, the bid bond submitted by such entity for such area shall be returned within 90 days of the public announcement of the contract suppliers for such area.
+
         (2) __Items and services described__ 
 
         The items and services referred to in paragraph (1) are the following:
@@ -198,6 +218,8 @@
                 (iii) The total amounts to be paid to contractors in a competitive acquisition area are expected to be less than the total amounts that would otherwise be paid.
 
                 (iv) Access of individuals to a choice of multiple suppliers in the area is maintained.
+
+                (v) The entity meets applicable State licensure requirements.
 
             (B) __Timely implementation of program__ 
 
@@ -371,7 +393,7 @@
 
         The Secretary shall provide for a competitive acquisition ombudsman within the Centers for Medicare & Medicaid Services in order to respond to complaints and inquiries made by suppliers and individuals relating to the application of the competitive acquisition program under this section. The ombudsman may be within the office of the Medicare Beneficiary Ombudsman appointed under [section 1395b–9(c) of this title][/us/usc/t42/s1395b–9/c]. The ombudsman shall submit to Congress an annual report on the activities under this subsection, which report shall be coordinated with the report provided under [section 1395b–9(c)(2)(C) of this title][/us/usc/t42/s1395b–9/c/2/C].
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XVIII, § 1847, as added [Pub. L. 105–33, title IV, § 4319(a)][/us/pl/105/33/s4319/a], Aug. 5, 1997, [111 Stat. 392][/us/stat/111/392]; amended [Pub. L. 106–113, div. B, § 1000(a)(6)][/us/pl/106/113/s1000/a/6] \[title III, § 321(c)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–366; [Pub. L. 108–173, title III, § 302(b)(1)][/us/pl/108/173/s302/b/1], Dec. 8, 2003, [117 Stat. 2224][/us/stat/117/2224]; [Pub. L. 110–275, title I][/us/pl/110/275], §§ 145(a)(1), 154(a)(1), (b)(2), (3), (c)(2)(A), (B), (d)(1), (3), (4), July 15, 2008, [122 Stat. 2547][/us/stat/122/2547], 2560, 2565–2568; [Pub. L. 111–148, title VI, § 6410(a)][/us/pl/111/148/s6410/a], Mar. 23, 2010, [124 Stat. 773][/us/stat/124/773].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XVIII, § 1847, as added [Pub. L. 105–33, title IV, § 4319(a)][/us/pl/105/33/s4319/a], Aug. 5, 1997, [111 Stat. 392][/us/stat/111/392]; amended [Pub. L. 106–113, div. B, § 1000(a)(6)][/us/pl/106/113/s1000/a/6] \[title III, § 321(c)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–366; [Pub. L. 108–173, title III, § 302(b)(1)][/us/pl/108/173/s302/b/1], Dec. 8, 2003, [117 Stat. 2224][/us/stat/117/2224]; [Pub. L. 110–275, title I][/us/pl/110/275], §§ 145(a)(1), 154(a)(1), (b)(2), (3), (c)(2)(A), (B), (d)(1), (3), (4), July 15, 2008, [122 Stat. 2547][/us/stat/122/2547], 2560, 2565–2568; [Pub. L. 111–148, title VI, § 6410(a)][/us/pl/111/148/s6410/a], Mar. 23, 2010, [124 Stat. 773][/us/stat/124/773]; [Pub. L. 114–10, title V, § 522(a)][/us/pl/114/10/s522/a], (b)(1), Apr. 16, 2015, [129 Stat. 176][/us/stat/129/176], 177.)
 
  __References in Text__ 
 
@@ -384,6 +406,10 @@
     A prior section 1395w–3, [act Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XVIII, § 1847, as added July 1, 1988, [Pub. L. 100–360, title II, § 202(j)][/us/pl/100/360/s202/j], [102 Stat. 719][/us/stat/102/719]; amended Oct. 13, 1988, [Pub. L. 100–485, title VI, § 608(d)(5)(I)][/us/pl/100/485/s608/d/5/I], [102 Stat. 2414][/us/stat/102/2414], provided for appointment of Prescription Drug Payment Review Commission by Director of Congressional Office of Technology Assessment, prior to repeal by [Pub. L. 101–234, title II, § 201(a)][/us/pl/101/234/s201/a], (c), Dec. 13, 1989, [103 Stat. 1981][/us/stat/103/1981], effective Jan. 1, 1990.
 
  __Amendments__ 
+
+    2015—Subsec. (a)(1)(G), (H). [Pub. L. 114–10, § 522(a)][/us/pl/114/10/s522/a], added subpars. (G) and (H).
+
+    Subsec. (b)(2)(A)(v). [Pub. L. 114–10, § 522(b)(1)][/us/pl/114/10/s522/b/1], added cl. (v).
 
     2010—Subsec. (a)(1)(B)(i)(II). [Pub. L. 111–148, § 6410(a)(1)][/us/pl/111/148/s6410/a/1], substituted “91” for “70”.
 
@@ -432,6 +458,12 @@
  __Effective Date of 1999 Amendment__ 
 
     Amendment by [Pub. L. 106–113][/us/pl/106/113] effective as if included in the enactment of the Balanced Budget Act of 1997, [Pub. L. 105–33][/us/pl/105/33], except as otherwise provided, see section 1000(a)(6) \[title III, § 321(m)\] of [Pub. L. 106–113][/us/pl/106/113], set out as a note under [section 1395d of this title][/us/usc/t42/s1395d].
+
+ __Construction of 2015 Amendment__ 
+
+[Pub. L. 114–10, title V, § 522(b)(2)][/us/pl/114/10/s522/b/2], Apr. 16, 2015, [129 Stat. 177][/us/stat/129/177], provided that: 
+
+> “Nothing in the amendment made by paragraph (1) \[amending this section\] shall be construed as affecting the authority of the Secretary of Health and Human Services to require State licensure of an entity under the Medicare competitive acquisition program under section 1847 of the Social Security Act ([42 U.S.C. 1395w–3][/us/usc/t42/s1395w–3]) before the date of the enactment of this Act \[Apr. 16, 2015\].”
 
  __GAO Report on Impact of Competitive Acquisition on Suppliers__ 
 
@@ -524,6 +556,8 @@
 [/us/stat/122/2547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2547
 [/us/pl/111/148/s6410/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs6410%2Fa
 [/us/stat/124/773]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F773
+[/us/pl/114/10/s522/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2Fs522%2Fa
+[/us/stat/129/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F176
 [/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
 [/us/stat/52/1040]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F1040
 [/us/usc/t21/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs301
@@ -536,6 +570,8 @@
 [/us/stat/102/2414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2414
 [/us/pl/101/234/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F234%2Fs201%2Fa
 [/us/stat/103/1981]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1981
+[/us/pl/114/10/s522/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2Fs522%2Fa
+[/us/pl/114/10/s522/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2Fs522%2Fb%2F1
 [/us/pl/111/148/s6410/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs6410%2Fa%2F1
 [/us/pl/111/148/s6410/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs6410%2Fa%2F2
 [/us/pl/110/275/s154/a/1/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F275%2Fs154%2Fa%2F1%2FA%2Fi
@@ -563,6 +599,9 @@
 [/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
 [/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
 [/us/usc/t42/s1395d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395d
+[/us/pl/114/10/s522/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2Fs522%2Fb%2F2
+[/us/stat/129/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F177
+[/us/usc/t42/s1395w–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%933
 [/us/pl/108/173/s302/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs302%2Fb%2F3
 [/us/stat/117/2230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2230
 [/us/pl/110/275/s154/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F275%2Fs154%2Fc%2F1

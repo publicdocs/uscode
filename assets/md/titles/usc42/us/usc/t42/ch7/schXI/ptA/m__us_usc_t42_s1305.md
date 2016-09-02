@@ -19,6 +19,12 @@
 
 ([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XI, § 1105, [49 Stat. 648][/us/stat/49/648].)
 
+ __Short Title of 2015 Amendment__ 
+
+[Pub. L. 114–10, § 1(a)][/us/pl/114/10/s1/a], Apr. 16, 2015, [129 Stat. 87][/us/stat/129/87], provided that: 
+
+> “This Act \[see Tables for classification\] may be cited as the ‘Medicare Access and CHIP Reauthorization Act of 2015’.”
+
  __Short Title of 2014 Amendment__ 
 
 [Pub. L. 113–270, § 1][/us/pl/113/270/s1], Dec. 18, 2014, [128 Stat. 2948][/us/stat/128/2948], provided that: 
@@ -538,6 +544,8 @@
 
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/648]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F648
+[/us/pl/114/10/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2Fs1%2Fa
+[/us/stat/129/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F87
 [/us/pl/113/270/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F270%2Fs1
 [/us/stat/128/2948]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2948
 [/us/usc/t42/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs402

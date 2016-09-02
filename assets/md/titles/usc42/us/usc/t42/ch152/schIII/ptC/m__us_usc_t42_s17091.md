@@ -35,7 +35,21 @@
 
         (2) __Buildings without Energy Star label__ 
 
-            If one of the conditions described in paragraph (2)  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “(1)”. </sup></sup>  is met, the agency may enter into a contract to lease space in a building that has not earned the Energy Star label in the most recent year if the lease contract includes provisions requiring that, prior to occupancy or, in the case of a contract described in paragraph (1)(B), not later than 1 year after signing the contract, the space will be renovated for all energy efficiency and conservation improvements that would be cost effective over the life of the lease, including improvements in lighting, windows, and heating, ventilation, and air conditioning systems.
+        If one of the conditions described in paragraph (1) is met, the agency may enter into a contract to lease space in a building that has not earned the Energy Star label in the most recent year if the lease contract includes provisions requiring that, prior to occupancy or, in the case of a contract described in paragraph (1)(B), not later than 1 year after signing the contract, the following requirements are met:
+
+            (A) The space is renovated for all energy efficiency and conservation improvements that would be cost effective over the life of the lease, including improvements in lighting, windows, and heating, ventilation, and air conditioning systems.
+
+            (B)
+
+                (i)
+
+                 Subject to clause (ii), the space is benchmarked under a nationally recognized, online, free benchmarking program, with public disclosure, unless the space is a space for which owners cannot access whole building utility consumption data, including spaces—
+
+                    (I) that are located in States with privacy laws that provide that utilities shall not provide such aggregated information to multitenant building owners; and
+
+                    (II) for which tenants do not provide energy consumption information to the commercial building owner in response to a request from the building owner.
+
+                (ii) A Federal agency that is a tenant of the space shall provide to the building owner, or authorize the owner to obtain from the utility, the energy consumption information of the space for the benchmarking and disclosure required by this subparagraph.
 
     (c) __Revision of Federal Acquisition Regulation__ 
 
@@ -47,13 +61,17 @@
 
             The members of the Federal Acquisition Regulatory Council established under [section 1302(a) of title 41][/us/usc/t41/s1302/a] shall consult with the Federal Director and the Commercial Director before promulgating regulations to carry out this subsection.
 
-([Pub. L. 110–140, title IV, § 435][/us/pl/110/140/s435], Dec. 19, 2007, [121 Stat. 1615][/us/stat/121/1615].)
+([Pub. L. 110–140, title IV, § 435][/us/pl/110/140/s435], Dec. 19, 2007, [121 Stat. 1615][/us/stat/121/1615]; [Pub. L. 114–11, title III, § 301(a)][/us/pl/114/11/s301/a], Apr. 30, 2015, [129 Stat. 189][/us/stat/129/189].)
 
  __Codification__ 
 
     In subsec. (c)(1), “section 1121(b) and (c)(1) of title 41” substituted for “section 6(a) of the Office of Federal Procurement Policy Act ([41 U.S.C. 405(a)][/us/usc/t41/s405/a])” on authority of [Pub. L. 111–350, § 6(c)][/us/pl/111/350/s6/c], Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
 
     In subsec. (c)(2), “[section 1302(a) of title 41][/us/usc/t41/s1302/a]” substituted for “section 25 of the Office of Federal Procurement Policy Act ([41 U.S.C. 421][/us/usc/t41/s421])” on authority of [Pub. L. 111–350, § 6(c)][/us/pl/111/350/s6/c], Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
+
+ __Amendments__ 
+
+    2015—Subsec. (b)(2). [Pub. L. 114–11][/us/pl/114/11] substituted “paragraph (1) is met” for “paragraph (2) is met” and “signing the contract, the following requirements are met:” for “signing the contract, the space will be renovated for all energy efficiency and conservation improvements that would be cost effective over the life of the lease, including improvements in lighting, windows, and heating, ventilation, and air conditioning systems.” and added subpars. (A) and (B).
 
 ----------
 
@@ -66,6 +84,8 @@
 [/us/usc/t41/s1302/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs1302%2Fa
 [/us/pl/110/140/s435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs435
 [/us/stat/121/1615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1615
+[/us/pl/114/11/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F11%2Fs301%2Fa
+[/us/stat/129/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F189
 [/us/usc/t41/s405/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs405%2Fa
 [/us/pl/111/350/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs6%2Fc
 [/us/stat/124/3854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3854
@@ -73,5 +93,6 @@
 [/us/usc/t41/s421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs421
 [/us/pl/111/350/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs6%2Fc
 [/us/stat/124/3854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3854
+[/us/pl/114/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F11
 
 

@@ -61,7 +61,31 @@
 
             The Secretary shall take all appropriate measures to recover amounts unnecessarily paid under this subchapter with respect to a statement described in paragraph (4).
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XVIII, § 1806, as added [Pub. L. 105–33, title IV, § 4311(b)(1)][/us/pl/105/33/s4311/b/1], Aug. 5, 1997, [111 Stat. 385][/us/stat/111/385].)
+    (c) __Format of statements from Secretary__ 
+
+        (1) __Electronic option beginning in 2016__ 
+
+            Subject to paragraph (2), for statements described in subsection (a) that are furnished for a period in 2016 or a subsequent year, in the case that an individual described in subsection (a) elects, in accordance with such form, manner, and time specified by the Secretary, to receive such statement in an electronic format, such statement shall be furnished to such individual for each period subsequent to such election in such a format and shall not be mailed to the individual.
+
+        (2) __Limitation on revocation option__ 
+
+            (A) __In general__ 
+
+                Subject to subparagraph (B), the Secretary may determine a maximum number of elections described in paragraph (1) by an individual that may be revoked by the individual.
+
+            (B) __Minimum of one revocation option__ 
+
+                In no case may the Secretary determine a maximum number under subparagraph (A) that is less than one.
+
+        (3) __Notification__ 
+
+            The Secretary shall ensure that, in the most cost effective manner and beginning January 1, 2017, a clear notification of the option to elect to receive statements described in subsection (a) in an electronic format is made available, such as through the notices distributed under [section 1395b–2 of this title][/us/usc/t42/s1395b–2], to individuals described in subsection (a).
+
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XVIII, § 1806, as added [Pub. L. 105–33, title IV, § 4311(b)(1)][/us/pl/105/33/s4311/b/1], Aug. 5, 1997, [111 Stat. 385][/us/stat/111/385]; amended [Pub. L. 114–10, title V, § 508(a)][/us/pl/114/10/s508/a], Apr. 16, 2015, [129 Stat. 169][/us/stat/129/169].)
+
+ __Amendments__ 
+
+    2015—Subsec. (c). [Pub. L. 114–10][/us/pl/114/10] added subsec. (c).
 
  __Effective Date__ 
 
@@ -74,6 +98,16 @@
 >     “(B)  __Itemized statement__  __.—__ 
 
 >     Paragraph (2) of section 1806(a) and section 1806(b) of the Social Security Act \[[42 U.S.C. 1395b–7(a)(2)][/us/usc/t42/s1395b–7/a/2], (b)\], as so added, shall take effect not later than January 1, 1999.”
+
+ __Encouraged Expansion of Electronic Statements__ 
+
+[Pub. L. 114–10, title V, § 508(b)][/us/pl/114/10/s508/b], Apr. 16, 2015, [129 Stat. 169][/us/stat/129/169], provided that: 
+
+> “To the extent to which the Secretary of Health and Human Services determines appropriate, the Secretary shall—
+
+>     “(1) apply an option similar to the option described in subsection (c)(1) of section 1806 of the Social Security Act ([42 U.S.C. 1395b–7][/us/usc/t42/s1395b–7]) (relating to the provision of the Medicare Summary Notice in an electronic format), as added by subsection (a), to other statements and notifications under title XVIII of such Act ([42 U.S.C. 1395][/us/usc/t42/s1395] et seq.); and
+
+>     “(2) provide such Medicare Summary Notice and any such other statements and notifications on a more frequent basis than is otherwise required under such title.”
 
  __Inclusion of Additional Information in Notices to Beneficiaries About Skilled Nursing Facility Benefits__ 
 
@@ -95,14 +129,22 @@
 ----------
 
 [/us/usc/t42/s1320a–7a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320a%E2%80%937a
+[/us/usc/t42/s1395b–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395b%E2%80%932
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/pl/105/33/s4311/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs4311%2Fb%2F1
 [/us/stat/111/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F385
+[/us/pl/114/10/s508/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2Fs508%2Fa
+[/us/stat/129/169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F169
+[/us/pl/114/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10
 [/us/pl/105/33/s4311/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs4311%2Fb%2F3
 [/us/stat/111/386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F386
 [/us/usc/t42/s1395b–7/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395b%E2%80%937%2Fa%2F1
 [/us/usc/t42/s1395b–5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395b%E2%80%935
 [/us/usc/t42/s1395b–7/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395b%E2%80%937%2Fa%2F2
+[/us/pl/114/10/s508/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2Fs508%2Fb
+[/us/stat/129/169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F169
+[/us/usc/t42/s1395b–7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395b%E2%80%937
+[/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
 [/us/pl/108/173/s925]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs925
 [/us/stat/117/2396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2396
 [/us/usc/t42/s1395b–7/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395b%E2%80%937%2Fa

@@ -63,6 +63,8 @@
 
                 (ii) in the case of such an individual who is enrolled in a Medicare+Choice plan under clause (i) (or subsequently under this clause), if the enrollment is discontinued under circumstances described in subsection (e)(4)(A) of this section, then the individual will be treated as a “Medicare+Choice eligible individual” for purposes of electing to continue enrollment in another Medicare+Choice plan.
 
+                An individual who develops end-stage renal disease while enrolled in a reasonable cost reimbursement contract under [section 1395mm(h) of this title][/us/usc/t42/s1395mm/h] shall be treated as an MA eligible individual for purposes of applying the deemed enrollment under subsection (c)(4).
+
     (b) __Special rules__ 
 
         (1) __Residence requirement__ 
@@ -115,7 +117,7 @@
 
         (1) __In general__ 
 
-            The Secretary shall establish a process through which elections described in subsection (a) of this section are made and changed, including the form and manner in which such elections are made and changed. Such elections shall be made or changed only during coverage election periods specified under subsection (e) of this section and shall become effective as provided in subsection (f) of this section.
+            The Secretary shall establish a process through which elections described in subsection (a) of this section are made and changed, including the form and manner in which such elections are made and changed. Subject to paragraph (4), such elections shall be made or changed only during coverage election periods specified under subsection (e) of this section and shall become effective as provided in subsection (f) of this section.
 
         (2) __Coordination through Medicare+Choice organizations__ 
 
@@ -147,6 +149,64 @@
 
                 (ii) the Medicare+Choice plan with respect to which such election is in effect is discontinued or, subject to subsection (b)(1)(B) of this section, no longer serves the area in which the individual resides.
 
+        (4) __Deemed enrollment relating to converted reasonable cost reimbursement contracts__ 
+
+            (A) __In general__ 
+
+            On the first day of the annual, coordinated election period under subsection (e)(3) for plan years beginning on or after January 1, 2017, an MA eligible individual described in clause (i) or (ii) of subparagraph (B) is deemed, unless the individual elects otherwise, to have elected to receive benefits under this subchapter through an applicable MA plan (and shall be enrolled in such plan) beginning with such plan year, if—
+
+                (i) the individual is enrolled in a reasonable cost reimbursement contract under [section 1395mm(h) of this title][/us/usc/t42/s1395mm/h] in the previous plan year;
+
+                (ii) such reasonable cost reimbursement contract was extended or renewed for the last reasonable cost reimbursement contract year of the contract (as described in subclause (I) of [section 1395mm(h)(5)(C)(iv) of this title][/us/usc/t42/s1395mm/h/5/C/iv]) pursuant to such section;
+
+                (iii) the eligible organization that is offering such reasonable cost reimbursement contract provided the notice described in subclause (III) of such section that the contract was to be converted;
+
+                (iv)
+
+                 the applicable MA plan—
+
+                    (I) is the plan that was converted from the reasonable cost reimbursement contract described in clause (iii);
+
+                    (II) is offered by the same entity (or an organization affiliated with such entity that has a common ownership interest of control) that entered into such contract; and
+
+                    (III) is offered in the service area where the individual resides;
+
+                (v) in the case of reasonable cost reimbursement contracts that provide coverage under parts A and B (and, to the extent the Secretary determines it to be feasible, contracts that provide only part B coverage), the difference between the estimated individual costs (as determined applicable by the Secretary) for the applicable MA plan and such costs for the predecessor cost plan does not exceed a threshold established by the Secretary; and
+
+                (vi)
+
+                 the applicable MA plan—
+
+                    (I) provides coverage for enrollees transitioning from the converted reasonable cost reimbursement contract to such plan to maintain current providers of services and suppliers and course of treatment at the time of enrollment for a period of at least 90 days after enrollment; and
+
+                    (II) during such period, pays such providers of services and suppliers for items and services furnished to the enrollee an amount that is not less than the amount of payment applicable for such items and services under the original Medicare fee-for-service program under parts A and B.
+
+            (B) __MA eligible individuals described__ 
+
+                (i) __Without prescription drug coverage__ 
+
+                    An MA eligible individual described in this clause, with respect to a plan year, is an MA eligible individual who is enrolled in a reasonable cost reimbursement contract under [section 1395mm(h) of this title][/us/usc/t42/s1395mm/h] in the previous plan year and who is not, for such previous plan year, enrolled in a prescription drug plan under part D, including coverage under [section 1395w–132 of this title][/us/usc/t42/s1395w–132].
+
+                (ii) __With prescription drug coverage__ 
+
+                An MA eligible individual described in this clause, with respect to a plan year, is an MA eligible individual who is enrolled in a reasonable cost reimbursement contract under [section 1395mm(h) of this title][/us/usc/t42/s1395mm/h] in the previous plan year and who, for such previous plan year, is enrolled in a prescription drug plan under part D—
+
+                    (I) through such contract; or
+
+                    (II) through a prescription drug plan, if the sponsor of such plan is the same entity (or an organization affiliated with such entity) that entered into such contract.
+
+            (C) __Applicable MA plan defined__ 
+
+            In this paragraph, the term “applicable MA plan” means, in the case of an individual described in—
+
+                (i) subparagraph (B)(i), an MA plan that is not an MA–PD plan; and
+
+                (ii) subparagraph (B)(ii), an MA–PD plan.
+
+            (D) __Identification and notification of deemed individuals__ 
+
+                Not later than 45 days before the first day of the annual, coordinated election period under subsection (e)(3) for plan years beginning on or after January 1, 2017, the Secretary shall identify and notify the individuals who will be subject to deemed elections under subparagraph (A) on the first day of such period.
+
     (d) __Providing information to promote informed choice__ 
 
         (1) __In general__ 
@@ -173,9 +233,25 @@
 
                 The mailing of such information shall be coordinated, to the extent practicable, with the mailing of any annual notice under [section 1395b–2 of this title][/us/usc/t42/s1395b–2].
 
-            (B) __Notification to newly eligible Medicare+Choice eligible individuals__ 
+            (B) __Notifications required__ 
 
-                To the extent practicable, the Secretary shall, not later than 30 days before the beginning of the initial Medicare+Choice enrollment period for an individual described in subsection (e)(1) of this section, mail to the individual the information described in subparagraph (A).
+                (i) __Notification to newly eligible Medicare Advantage eligible individuals__ 
+
+                    To the extent practicable, the Secretary shall, not later than 30 days before the beginning of the initial Medicare+Choice enrollment period for an individual described in subsection (e)(1) of this section, mail to the individual the information described in subparagraph (A).
+
+                (ii) __Notification related to certain deemed elections__ 
+
+                The Secretary shall require a Medicare Advantage organization that is offering a Medicare Advantage plan that has been converted from a reasonable cost reimbursement contract pursuant to [section 1395mm(h)(5)(C)(iv) of this title][/us/usc/t42/s1395mm/h/5/C/iv] to mail, not later than 30 days prior to the first day of the annual, coordinated election period under subsection (e)(3) of a year, to any individual enrolled under such contract and identified by the Secretary under subsection (c)(4)(D) for such year—
+
+                    (I) a notification that such individual will, on such day, be deemed to have made an election with respect to such plan to receive benefits under this subchapter through an MA plan or MA–PD plan (and shall be enrolled in such plan) for the next plan year under subsection (c)(4)(A), but that the individual may make a different election during the annual, coordinated election period for such year;
+
+                    (II) the information described in subparagraph (A);
+
+                    (III) a description of the differences between such MA plan or MA–PD plan and the reasonable cost reimbursement contract in which the individual was most recently enrolled with respect to benefits covered under such plans, including cost-sharing, premiums, drug coverage, and provider networks;
+
+                    (IV) information about the special period for elections under subsection (e)(2)(F); and
+
+                    (V) other information the Secretary may specify.
 
             (C) __Form__ 
 
@@ -349,6 +425,16 @@
 
                     (II) who is not enrolled in a prescription drug plan, to enroll in such a plan.
 
+            (F) __Special period for certain deemed elections__ 
+
+                (i) __In general__ 
+
+                    At any time during the period beginning after the last day of the annual, coordinated election period under paragraph (3) in which an individual is deemed to have elected to enroll in an MA plan or MA–PD plan under subsection (c)(4) and ending on the last day of February of the first plan year for which the individual is enrolled in such plan, such individual may change the election under subsection (a)(1) (including changing the MA plan or MA–PD plan in which the individual is enrolled).
+
+                (ii) __Limitation of one change__ 
+
+                    An individual may exercise the right under clause (i) only once during the applicable period described in such clause. The limitation under this clause shall not apply to changes in elections effected during an annual, coordinated election period under paragraph (3) or during a special enrollment period under paragraph (4).
+
         (3) __Annual, coordinated election period__ 
 
             (A) __In general__ 
@@ -421,7 +507,7 @@
 
         Subject to paragraph (5), a Medicare+Choice organization—
 
-            (A) shall accept elections or changes to elections during the initial enrollment periods described in paragraph (1), during the month of November 1998 and during the annual, coordinated election period under paragraph (3) for each subsequent year, and during special election periods described in the first sentence of paragraph (4); and
+            (A) shall accept elections or changes to elections during the initial enrollment periods described in paragraph (1), during the period described in paragraph (2)(F), during the month of November 1998 and during the annual, coordinated election period under paragraph (3) for each subsequent year, and during special election periods described in the first sentence of paragraph (4); and
 
             (B) may accept other changes to elections at such other times as the organization provides.
 
@@ -603,13 +689,27 @@
 
                 The use by a Medicare Advantage organization of any individual as an agent, broker, or other third party representing the organization that has not completed an initial training and testing program and does not complete an annual retraining and testing program.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XVIII, § 1851, as added [Pub. L. 105–33, title IV, § 4001][/us/pl/105/33/s4001], Aug. 5, 1997, [111 Stat. 275][/us/stat/111/275]; amended [Pub. L. 106–113, div. B, § 1000(a)(6)][/us/pl/106/113/s1000/a/6] \[title III, § 321(k)(6)(A), title V, §§ 501(a)(1), (b), (c), 502(a), 519(a)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–367, 1501A–378 to 1501A–380, 1501A–385; [Pub. L. 106–554, § 1(a)(6)][/us/pl/106/554/s1/a/6] \[title VI, §§ 606(a)(2)(C), 613(a), 619(a), 620(a)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–558, 2763A–560, 2763A–563; [Pub. L. 107–188, title V, § 532(a)][/us/pl/107/188/s532/a], (c)(1), June 12, 2002, [116 Stat. 696][/us/stat/116/696]; [Pub. L. 108–173, title I, § 102(a)][/us/pl/108/173/s102/a], (c)(1), title II, §§ 221(a)(1), (d)(5), 222(l)(3)(A), (B), (D), (E), 231(a), 233(b), (d), 237(b)(2)(A), Dec. 8, 2003, [117 Stat. 2152][/us/stat/117/2152], 2154, 2180, 2193, 2206, 2207, 2209, 2212; [Pub. L. 109–432, div. B, title II, § 206(a)][/us/pl/109/432/s206/a], Dec. 20, 2006, [120 Stat. 2990][/us/stat/120/2990]; [Pub. L. 110–48, § 2][/us/pl/110/48/s2], July 18, 2007, [121 Stat. 244][/us/stat/121/244]; [Pub. L. 110–275, title I, § 103(a)(1)][/us/pl/110/275/s103/a/1], (b)(1), (c)(1), (d)(1), July 15, 2008, [122 Stat. 2498–2501][/us/stat/122/2498-2501]; [Pub. L. 111–5, div. B, title IV, § 4102(d)(2)][/us/pl/111/5/s4102/d/2], Feb. 17, 2009, [123 Stat. 486][/us/stat/123/486]; [Pub. L. 111–148, title III][/us/pl/111/148], §§ 3201(e)(2)(A)(i), 3204(a)(1), (b), Mar. 23, 2010, [124 Stat. 446][/us/stat/124/446], 456; [Pub. L. 111–152, title I, § 1102(a)][/us/pl/111/152/s1102/a], Mar. 30, 2010, [124 Stat. 1040][/us/stat/124/1040].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XVIII, § 1851, as added [Pub. L. 105–33, title IV, § 4001][/us/pl/105/33/s4001], Aug. 5, 1997, [111 Stat. 275][/us/stat/111/275]; amended [Pub. L. 106–113, div. B, § 1000(a)(6)][/us/pl/106/113/s1000/a/6] \[title III, § 321(k)(6)(A), title V, §§ 501(a)(1), (b), (c), 502(a), 519(a)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–367, 1501A–378 to 1501A–380, 1501A–385; [Pub. L. 106–554, § 1(a)(6)][/us/pl/106/554/s1/a/6] \[title VI, §§ 606(a)(2)(C), 613(a), 619(a), 620(a)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–558, 2763A–560, 2763A–563; [Pub. L. 107–188, title V, § 532(a)][/us/pl/107/188/s532/a], (c)(1), June 12, 2002, [116 Stat. 696][/us/stat/116/696]; [Pub. L. 108–173, title I, § 102(a)][/us/pl/108/173/s102/a], (c)(1), title II, §§ 221(a)(1), (d)(5), 222(l)(3)(A), (B), (D), (E), 231(a), 233(b), (d), 237(b)(2)(A), Dec. 8, 2003, [117 Stat. 2152][/us/stat/117/2152], 2154, 2180, 2193, 2206, 2207, 2209, 2212; [Pub. L. 109–432, div. B, title II, § 206(a)][/us/pl/109/432/s206/a], Dec. 20, 2006, [120 Stat. 2990][/us/stat/120/2990]; [Pub. L. 110–48, § 2][/us/pl/110/48/s2], July 18, 2007, [121 Stat. 244][/us/stat/121/244]; [Pub. L. 110–275, title I, § 103(a)(1)][/us/pl/110/275/s103/a/1], (b)(1), (c)(1), (d)(1), July 15, 2008, [122 Stat. 2498–2501][/us/stat/122/2498-2501]; [Pub. L. 111–5, div. B, title IV, § 4102(d)(2)][/us/pl/111/5/s4102/d/2], Feb. 17, 2009, [123 Stat. 486][/us/stat/123/486]; [Pub. L. 111–148, title III][/us/pl/111/148], §§ 3201(e)(2)(A)(i), 3204(a)(1), (b), Mar. 23, 2010, [124 Stat. 446][/us/stat/124/446], 456; [Pub. L. 111–152, title I, § 1102(a)][/us/pl/111/152/s1102/a], Mar. 30, 2010, [124 Stat. 1040][/us/stat/124/1040]; [Pub. L. 114–10, title II, § 209(b)(1)][/us/pl/114/10/s209/b/1]–(2)(B)(i), (3), (c), Apr. 16, 2015, [129 Stat. 147–150][/us/stat/129/147-150].)
 
  __References in Text__ 
 
     Subsec. (e)(2)(C) of this section, referred to in subsec. (e)(2)(B)(i), was amended generally by [section 3204(a)(1) of Pub. L. 111–148][/us/pl/111/148/s3204/a/1] and, as so amended, no longer contains a cl. (iii).
 
  __Amendments__ 
+
+    2015—Subsec. (a)(3)(B). [Pub. L. 114–10, § 209(b)(3)][/us/pl/114/10/s209/b/3], inserted concluding provisions.
+
+    Subsec. (c)(1). [Pub. L. 114–10, § 209(b)(1)(A)][/us/pl/114/10/s209/b/1/A], substituted “Subject to paragraph (4), such elections” for “Such elections”.
+
+    Subsec. (c)(4). [Pub. L. 114–10, § 209(b)(1)(B)][/us/pl/114/10/s209/b/1/B], added par. (4).
+
+    Subsec. (d)(2)(B). [Pub. L. 114–10, § 209(c)][/us/pl/114/10/s209/c], designated existing provisions as cl. (i), inserted heading, and added cl. (ii).
+
+    [Pub. L. 114–10, § 209(c)(1)][/us/pl/114/10/s209/c/1], which directed the substitution of “Notifications required” for “Notification to newly eligible medicare advantage eligible individuals” in heading, was executed by making the substitution for “Notification to newly eligible Medicare+Choice eligible individuals” to reflect the probable intent of Congress.
+
+    Subsec. (e)(2)(F). [Pub. L. 114–10, § 209(b)(2)(A)][/us/pl/114/10/s209/b/2/A], added subpar. (F).
+
+    Subsec. (e)(6)(A). [Pub. L. 114–10, § 209(b)(2)(B)(i)][/us/pl/114/10/s209/b/2/B/i], substituted “paragraph (1), during the period described in paragraph (2)(F),paragraph (1), during the period described in paragraph (2)(F),” for “paragraph (1),”.
 
     2010—Subsec. (b)(1)(C). [Pub. L. 111–148, § 3201(e)(2)(A)(i)][/us/pl/111/148/s3201/e/2/A/i], which directed that subpar. (C) be struck out, was repealed by [Pub. L. 111–152, § 1102(a)][/us/pl/111/152/s1102/a]. See Effective Date of 2010 Amendment note below.
 
@@ -1001,10 +1101,17 @@
 [/us/usc/t42/s1395w–28/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%9328%2Fb%2F6
 [/us/usc/t42/s1395w–28/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%9328%2Fb%2F3
 [/us/usc/t42/s1395w–28/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%9328%2Fb%2F2
+[/us/usc/t42/s1395mm/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395mm%2Fh
 [/us/usc/t42/s1396d/p/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396d%2Fp%2F1
 [/us/usc/t42/s1396d/s]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396d%2Fs
 [/us/usc/t42/s1396a/a/10/E/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396a%2Fa%2F10%2FE%2Fiii
+[/us/usc/t42/s1395mm/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395mm%2Fh
+[/us/usc/t42/s1395mm/h/5/C/iv]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395mm%2Fh%2F5%2FC%2Fiv
+[/us/usc/t42/s1395mm/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395mm%2Fh
+[/us/usc/t42/s1395w–132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%93132
+[/us/usc/t42/s1395mm/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395mm%2Fh
 [/us/usc/t42/s1395b–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395b%E2%80%932
+[/us/usc/t42/s1395mm/h/5/C/iv]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395mm%2Fh%2F5%2FC%2Fiv
 [/us/usc/t42/s1395w–22/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%9322%2Fb
 [/us/usc/t42/s1395ss]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ss
 [/us/usc/t42/s1395ss/t]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ss%2Ft
@@ -1042,7 +1149,16 @@
 [/us/stat/124/446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F446
 [/us/pl/111/152/s1102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2Fs1102%2Fa
 [/us/stat/124/1040]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1040
+[/us/pl/114/10/s209/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2Fs209%2Fb%2F1
+[/us/stat/129/147-150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F147-150
 [/us/pl/111/148/s3204/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs3204%2Fa%2F1
+[/us/pl/114/10/s209/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2Fs209%2Fb%2F3
+[/us/pl/114/10/s209/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2Fs209%2Fb%2F1%2FA
+[/us/pl/114/10/s209/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2Fs209%2Fb%2F1%2FB
+[/us/pl/114/10/s209/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2Fs209%2Fc
+[/us/pl/114/10/s209/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2Fs209%2Fc%2F1
+[/us/pl/114/10/s209/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2Fs209%2Fb%2F2%2FA
+[/us/pl/114/10/s209/b/2/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2Fs209%2Fb%2F2%2FB%2Fi
 [/us/pl/111/148/s3201/e/2/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs3201%2Fe%2F2%2FA%2Fi
 [/us/pl/111/152/s1102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2Fs1102%2Fa
 [/us/pl/111/148/s3204/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs3204%2Fa%2F1

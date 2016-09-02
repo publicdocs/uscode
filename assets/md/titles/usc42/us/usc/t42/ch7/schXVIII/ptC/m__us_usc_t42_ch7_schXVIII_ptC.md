@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch7/schXVIII/ptB/m__us_usc_t42_s1395w–5.md) | [Next](./../../../../../..//us/usc/t42/ch7/schXVIII/ptC/m__us_usc_t42_s1395w–21.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch7%2FschXVIII%2FptC)
+[Previous](./../../../../../..//us/usc/t42/ch7/schXVIII/ptB/m__us_usc_t42_s1395w–6.md) | [Next](./../../../../../..//us/usc/t42/ch7/schXVIII/ptC/m__us_usc_t42_s1395w–21.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch7%2FschXVIII%2FptC)
 
 #### Part C—Medicare+Choice Program
 
@@ -25,7 +25,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch7/schXVIII/ptB/m__us_usc_t42_s1395w–5.md) | [Next](./../../../../../..//us/usc/t42/ch7/schXVIII/ptC/m__us_usc_t42_s1395w–21.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch7%2FschXVIII%2FptC)
+[Previous](./../../../../../..//us/usc/t42/ch7/schXVIII/ptB/m__us_usc_t42_s1395w–6.md) | [Next](./../../../../../..//us/usc/t42/ch7/schXVIII/ptC/m__us_usc_t42_s1395w–21.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch7%2FschXVIII%2FptC)
 
 ----------
 ----------

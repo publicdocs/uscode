@@ -3567,6 +3567,14 @@ Part B—Supplementary Medical Insurance Benefits for Aged and Disabled  </td>
 
   <tr>
 
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%936" data-uslm-ref="/us/usc/t42/s1395w–6">1395w–6.</a>  </td>
+
+    <td> Empowering beneficiary choices through continued access to information on physicians’ services.  </td>
+
+  </tr>
+
+  <tr>
+
     <td> 
 
 Part C—Medicare+Choice Program  </td>
@@ -4026,6 +4034,14 @@ Part E—Miscellaneous Provisions  </td>
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs1395kk%E2%80%931" data-uslm-ref="/us/usc/t42/s1395kk–1">1395kk–1.</a>  </td>
 
     <td> Contracts with medicare administrative contractors.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs1395kk%E2%80%932" data-uslm-ref="/us/usc/t42/s1395kk–2">1395kk–2.</a>  </td>
+
+    <td> Expanding availability of Medicare data.  </td>
 
   </tr>
 

@@ -1721,6 +1721,10 @@
 
                         In the case of a State that has a DSH allotment of $0 for fiscal year 2013, the DSH allotment shall be $53,100,000 for such fiscal year.
 
+                (vi) __Allotment for fiscal years 2015 through 2025__ 
+
+                    Notwithstanding any other provision of this subsection, any other provision of law, or the terms of the TennCare Demonstration Project in effect for the State, the DSH allotment for Tennessee for fiscal year 2015, and for each fiscal year thereafter through fiscal year 2025, shall be $53,100,000 for each such fiscal year.
+
             (B) __Hawaii__ 
 
                 (i) __In general__ 
@@ -1753,7 +1757,7 @@
 
                 (i) __In general__ 
 
-                For each of fiscal years 2017 through 2024 the Secretary shall effect the following reductions:
+                For each of fiscal years 2018 through 2025 the Secretary shall effect the following reductions:
 
                     (I) __Reduction in DSH allotments__ 
 
@@ -1767,33 +1771,33 @@
 
                 The aggregate reductions in DSH allotments for all States under clause (i)(I) shall be equal to—
 
-                    (I) $1,800,000,000 for fiscal year 2017;
+                    (I) $2,000,000,000 for fiscal year 2018;
 
-                    (II) $4,700,000,000 for fiscal year 2018;
+                    (II) $3,000,000,000 for fiscal year 2019;
 
-                    (III) $4,700,000,000 for fiscal year 2019;
+                    (III) $4,000,000,000 for fiscal year 2020;
 
-                    (IV) $4,700,000,000 for fiscal year 2020;
+                    (IV) $5,000,000,000 for fiscal year 2021;
 
-                    (V)  <sup>\[3\]</sup>  <sup><sup> 3 So in original. Two subcls. (V) have been enacted. </sup></sup>  $4,800,000,000 for fiscal year 2021;
+                    (V) $6,000,000,000 for fiscal year 2022;
 
-                    (VI) $5,000,000,000 for fiscal year 2022;
+                    (VI) $7,000,000,000 for fiscal year 2023;
 
-                    (VII) $5,000,000,000 for fiscal year 2023; and
+                    (VII) $8,000,000,000 for fiscal year 2024; and
 
-                    (VIII) $4,400,000,000 for fiscal year 2024.
+                    (VIII) $8,000,000,000 for fiscal year 2025.
 
-            (V) 3 $4,000,000,000 for fiscal year 2020.
+                (iii) __Manner of payment reduction__ 
 
-             The Secretary shall distribute such aggregate reductions among States in accordance with subparagraph (B).
+                    The amount of the payment reduction under clause (i)(II) for a State for a quarter shall be deemed an overpayment to the State under this subchapter to be disallowed against the State’s regular quarterly draw for all spending under [section 1396b(d)(2) of this title][/us/usc/t42/s1396b/d/2]. Such a disallowance is not subject to a reconsideration under subsections (d) and (e) of [section 1316 of this title][/us/usc/t42/s1316].
 
-            (iii) __Manner of payment reduction__ 
+                (iv) __Definition__ 
 
-                The amount of the payment reduction under clause (i)(II) for a State for a quarter shall be deemed an overpayment to the State under this subchapter to be disallowed against the State’s regular quarterly draw for all spending under [section 1396b(d)(2) of this title][/us/usc/t42/s1396b/d/2]. Such a disallowance is not subject to a reconsideration under subsections (d) and (e) of [section 1316 of this title][/us/usc/t42/s1316].
+                    In this paragraph, the term “State” means the 50 States and the District of Columbia.
 
-            (iv) __Definition__ 
+                (v) __Distribution of aggregate reductions__ 
 
-                In this paragraph, the term “State” means the 50 States and the District of Columbia.
+                    The Secretary shall distribute the aggregate reductions under clause (ii) among States in accordance with subparagraph (B).
 
             (B) __DSH Health Reform methodology__ 
 
@@ -1819,7 +1823,7 @@
 
         (8) __Calculation of DSH allotments after reductions period__ 
 
-            The DSH allotment for a State for fiscal years after fiscal year 2024 shall be calculated under paragraph (3) without regard to paragraph (7).
+            The DSH allotment for a State for fiscal years after fiscal year 2025 shall be calculated under paragraph (3) without regard to paragraph (7).
 
         (9) __“State” defined__ 
 
@@ -1949,7 +1953,7 @@
 
             (E) The State has separately documented and retained a record of all of its costs under this subchapter, claimed expenditures under this subchapter, uninsured costs in determining payment adjustments under this section, and any payments made on behalf of the uninsured from payment adjustments under this section.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XIX, § 1923, formerly [Pub. L. 100–203, title IV, § 4112][/us/pl/100/203/s4112], Dec. 22, 1987, [101 Stat. 1330–148][/us/stat/101/1330-148]; renumbered § 1923 of act Aug. 14, 1935, and amended [Pub. L. 100–360, title III, § 302(b)(2)][/us/pl/100/360/s302/b/2], title IV, § 411(k)(6)(A)–(B)(ix), July 1, 1988, [102 Stat. 752][/us/stat/102/752], 792–794; [Pub. L. 100–485, title VI, § 608(d)(15)(C)][/us/pl/100/485/s608/d/15/C], (26)(A)–(F), Oct. 13, 1988, [102 Stat. 2417][/us/stat/102/2417], 2421, 2422; [Pub. L. 101–239, title VI, § 6411(c)(1)][/us/pl/101/239/s6411/c/1], Dec. 19, 1989, [103 Stat. 2270][/us/stat/103/2270]; [Pub. L. 101–508, title IV][/us/pl/101/508], §§ 4702(a), 4703(a)–(c), Nov. 5, 1990, [104 Stat. 1388–171][/us/stat/104/1388-171]; [Pub. L. 102–234][/us/pl/102/234], §§ 3(b)(1), (2)(A), (c), Dec. 12, 1991, [105 Stat. 1799][/us/stat/105/1799], 1802, 1803; [Pub. L. 103–66, title XIII, § 13621(a)(1)][/us/pl/103/66/s13621/a/1], (b)(1), (2), Aug. 10, 1993, [107 Stat. 629–631][/us/stat/107/629-631]; [Pub. L. 105–33, title IV][/us/pl/105/33], §§ 4711(c)(2), 4721(a)(1), (b)–(d), Aug. 5, 1997, [111 Stat. 508][/us/stat/111/508], 511, 513, 514; [Pub. L. 106–113, div. B, § 1000(a)(6)][/us/pl/106/113/s1000/a/6] \[title VI, §§ 601(a), 608(s)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–394, 1501A–397; [Pub. L. 106–554, § 1(a)(6)][/us/pl/106/554/s1/a/6] \[title VII, § 701(a)(1), (2), (b)(2)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–569, 2763A–570; [Pub. L. 108–173, title X, § 1001(a)][/us/pl/108/173/s1001/a]–(d), Dec. 8, 2003, [117 Stat. 2428–2430][/us/stat/117/2428-2430]; [Pub. L. 109–171, title VI, § 6054(a)][/us/pl/109/171/s6054/a], Feb. 8, 2006, [120 Stat. 96][/us/stat/120/96]; [Pub. L. 109–432, div. B, title IV, § 404][/us/pl/109/432/s404], Dec. 20, 2006, [120 Stat. 2995][/us/stat/120/2995]; [Pub. L. 110–173, title II, § 204][/us/pl/110/173/s204], Dec. 29, 2007, [121 Stat. 2513][/us/stat/121/2513]; [Pub. L. 110–275, title II, § 202][/us/pl/110/275/s202], July 15, 2008, [122 Stat. 2591][/us/stat/122/2591]; [Pub. L. 111–3, title VI, § 616][/us/pl/111/3/s616], Feb. 4, 2009, [123 Stat. 103][/us/stat/123/103]; [Pub. L. 111–5, div. B, title V, § 5002][/us/pl/111/5/s5002], Feb. 17, 2009, [123 Stat. 502][/us/stat/123/502]; [Pub. L. 111–148, title II, § 2551(a)][/us/pl/111/148/s2551/a], title X, § 10201(e), Mar. 23, 2010, [124 Stat. 312][/us/stat/124/312], 920; [Pub. L. 111–152, title I, § 1203][/us/pl/111/152/s1203], Mar. 30, 2010, [124 Stat. 1053][/us/stat/124/1053]; [Pub. L. 112–96, title III, § 3203][/us/pl/112/96/s3203], Feb. 22, 2012, [126 Stat. 193][/us/stat/126/193]; [Pub. L. 112–240, title VI, § 641][/us/pl/112/240/s641], Jan. 2, 2013, [126 Stat. 2357][/us/stat/126/2357]; [Pub. L. 113–67, div. B, title II, § 1204(a)][/us/pl/113/67/s1204/a], Dec. 26, 2013, [127 Stat. 1199][/us/stat/127/1199]; [Pub. L. 113–93, title II, § 221(a)][/us/pl/113/93/s221/a], Apr. 1, 2014, [128 Stat. 1076][/us/stat/128/1076].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XIX, § 1923, formerly [Pub. L. 100–203, title IV, § 4112][/us/pl/100/203/s4112], Dec. 22, 1987, [101 Stat. 1330–148][/us/stat/101/1330-148]; renumbered § 1923 of act Aug. 14, 1935, and amended [Pub. L. 100–360, title III, § 302(b)(2)][/us/pl/100/360/s302/b/2], title IV, § 411(k)(6)(A)–(B)(ix), July 1, 1988, [102 Stat. 752][/us/stat/102/752], 792–794; [Pub. L. 100–485, title VI, § 608(d)(15)(C)][/us/pl/100/485/s608/d/15/C], (26)(A)–(F), Oct. 13, 1988, [102 Stat. 2417][/us/stat/102/2417], 2421, 2422; [Pub. L. 101–239, title VI, § 6411(c)(1)][/us/pl/101/239/s6411/c/1], Dec. 19, 1989, [103 Stat. 2270][/us/stat/103/2270]; [Pub. L. 101–508, title IV][/us/pl/101/508], §§ 4702(a), 4703(a)–(c), Nov. 5, 1990, [104 Stat. 1388–171][/us/stat/104/1388-171]; [Pub. L. 102–234][/us/pl/102/234], §§ 3(b)(1), (2)(A), (c), Dec. 12, 1991, [105 Stat. 1799][/us/stat/105/1799], 1802, 1803; [Pub. L. 103–66, title XIII, § 13621(a)(1)][/us/pl/103/66/s13621/a/1], (b)(1), (2), Aug. 10, 1993, [107 Stat. 629–631][/us/stat/107/629-631]; [Pub. L. 105–33, title IV][/us/pl/105/33], §§ 4711(c)(2), 4721(a)(1), (b)–(d), Aug. 5, 1997, [111 Stat. 508][/us/stat/111/508], 511, 513, 514; [Pub. L. 106–113, div. B, § 1000(a)(6)][/us/pl/106/113/s1000/a/6] \[title VI, §§ 601(a), 608(s)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–394, 1501A–397; [Pub. L. 106–554, § 1(a)(6)][/us/pl/106/554/s1/a/6] \[title VII, § 701(a)(1), (2), (b)(2)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–569, 2763A–570; [Pub. L. 108–173, title X, § 1001(a)][/us/pl/108/173/s1001/a]–(d), Dec. 8, 2003, [117 Stat. 2428–2430][/us/stat/117/2428-2430]; [Pub. L. 109–171, title VI, § 6054(a)][/us/pl/109/171/s6054/a], Feb. 8, 2006, [120 Stat. 96][/us/stat/120/96]; [Pub. L. 109–432, div. B, title IV, § 404][/us/pl/109/432/s404], Dec. 20, 2006, [120 Stat. 2995][/us/stat/120/2995]; [Pub. L. 110–173, title II, § 204][/us/pl/110/173/s204], Dec. 29, 2007, [121 Stat. 2513][/us/stat/121/2513]; [Pub. L. 110–275, title II, § 202][/us/pl/110/275/s202], July 15, 2008, [122 Stat. 2591][/us/stat/122/2591]; [Pub. L. 111–3, title VI, § 616][/us/pl/111/3/s616], Feb. 4, 2009, [123 Stat. 103][/us/stat/123/103]; [Pub. L. 111–5, div. B, title V, § 5002][/us/pl/111/5/s5002], Feb. 17, 2009, [123 Stat. 502][/us/stat/123/502]; [Pub. L. 111–148, title II, § 2551(a)][/us/pl/111/148/s2551/a], title X, § 10201(e), Mar. 23, 2010, [124 Stat. 312][/us/stat/124/312], 920; [Pub. L. 111–152, title I, § 1203][/us/pl/111/152/s1203], Mar. 30, 2010, [124 Stat. 1053][/us/stat/124/1053]; [Pub. L. 112–96, title III, § 3203][/us/pl/112/96/s3203], Feb. 22, 2012, [126 Stat. 193][/us/stat/126/193]; [Pub. L. 112–240, title VI, § 641][/us/pl/112/240/s641], Jan. 2, 2013, [126 Stat. 2357][/us/stat/126/2357]; [Pub. L. 113–67, div. B, title II, § 1204(a)][/us/pl/113/67/s1204/a], Dec. 26, 2013, [127 Stat. 1199][/us/stat/127/1199]; [Pub. L. 113–93, title II, § 221(a)][/us/pl/113/93/s221/a], Apr. 1, 2014, [128 Stat. 1076][/us/stat/128/1076]; [Pub. L. 114–10, title II, § 219][/us/pl/114/10/s219], title IV, § 412, Apr. 16, 2015, [129 Stat. 153][/us/stat/129/153], 162.)
 
  __References in Text__ 
 
@@ -1964,6 +1968,16 @@
     A prior section 1923 of act Aug. 14, 1935, was renumbered section 1939 and is classified to [section 1396v of this title][/us/usc/t42/s1396v].
 
  __Amendments__ 
+
+    2015—Subsec. (f)(6)(A)(vi). [Pub. L. 114–10, § 219][/us/pl/114/10/s219], added cl. (vi).
+
+    Subsec. (f)(7)(A)(i). [Pub. L. 114–10, § 412(1)(A)][/us/pl/114/10/s412/1/A], substituted “2018 through 2025” for “2017 through 2024” in introductory provisions.
+
+    Subsec. (f)(7)(A)(ii). [Pub. L. 114–10, § 412(1)(B)][/us/pl/114/10/s412/1/B], added cl. (ii) and struck out former cl. (ii) which related to aggregate reductions for fiscal years 2017 to 2024.
+
+    Subsec. (f)(7)(A)(v). [Pub. L. 114–10, § 412(1)(C)][/us/pl/114/10/s412/1/C], added cl. (v).
+
+    Subsec. (f)(8). [Pub. L. 114–10, § 412(2)][/us/pl/114/10/s412/2], substituted “2025” for “2024”.
 
     2014—Subsec. (f)(7)(A)(i). [Pub. L. 113–93, § 221(a)(1)(A)][/us/pl/113/93/s221/a/1/A], substituted “2017 through 2024” for “2016 through 2020” in introductory provisions.
 
@@ -2489,6 +2503,8 @@
 [/us/stat/127/1199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1199
 [/us/pl/113/93/s221/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F93%2Fs221%2Fa
 [/us/stat/128/1076]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1076
+[/us/pl/114/10/s219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2Fs219
+[/us/stat/129/153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F153
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
 [/us/stat/58/682]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F58%2F682
 [/us/usc/t42/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs201
@@ -2496,6 +2512,11 @@
 [/us/pl/100/203/s4112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs4112
 [/us/usc/t42/s1396a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396a
 [/us/usc/t42/s1396v]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396v
+[/us/pl/114/10/s219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2Fs219
+[/us/pl/114/10/s412/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2Fs412%2F1%2FA
+[/us/pl/114/10/s412/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2Fs412%2F1%2FB
+[/us/pl/114/10/s412/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2Fs412%2F1%2FC
+[/us/pl/114/10/s412/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2Fs412%2F2
 [/us/pl/113/93/s221/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F93%2Fs221%2Fa%2F1%2FA
 [/us/pl/113/93/s221/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F93%2Fs221%2Fa%2F1%2FB
 [/us/pl/113/93/s221/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F93%2Fs221%2Fa%2F2
