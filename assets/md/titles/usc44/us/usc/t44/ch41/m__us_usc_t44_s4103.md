@@ -15,9 +15,13 @@
 
 ## § 4103. Biennial report
 
-    Not later than December 31 of each odd-numbered year, the Public Printer shall submit to the Congress, with respect to the two preceding fiscal years, a report on the directory, the system of access, and the electronic storage facility referred to in section 4101(a). The report shall include a description of the functions involved, including a statement of cost savings in comparison with traditional forms of information distribution.
+    Not later than December 31 of each odd-numbered year, the Director of the Government Publishing Office shall submit to the Congress, with respect to the two preceding fiscal years, a report on the directory, the system of access, and the electronic storage facility referred to in section 4101(a). The report shall include a description of the functions involved, including a statement of cost savings in comparison with traditional forms of information distribution.
 
-(Added [Pub. L. 103–40, § 2(a)][/us/pl/103/40/s2/a], June 8, 1993, [107 Stat. 113][/us/stat/107/113].)
+(Added [Pub. L. 103–40, § 2(a)][/us/pl/103/40/s2/a], June 8, 1993, [107 Stat. 113][/us/stat/107/113]; amended [Pub. L. 113–235, div. H, title I, § 1301(c)(1)][/us/pl/113/235/s1301/c/1], Dec. 16, 2014, [128 Stat. 2537][/us/stat/128/2537].)
+
+ __Amendments__ 
+
+    2014—[Pub. L. 113–235][/us/pl/113/235] substituted “Director of the Government Publishing Office” for “Public Printer”.
 
  __First Biennial Report__ 
 
@@ -34,6 +38,9 @@
 
 [/us/pl/103/40/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F40%2Fs2%2Fa
 [/us/stat/107/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F113
+[/us/pl/113/235/s1301/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fc%2F1
+[/us/stat/128/2537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2537
+[/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
 [/us/pl/103/40/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F40%2Fs4%2Fb
 [/us/stat/107/114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F114
 [/us/usc/t44/s4103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs4103

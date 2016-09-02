@@ -15,17 +15,19 @@
 
 ## § 1708. Prices for sales copies of publications; crediting of receipts; resale by dealers; sales agents
 
-    The price at which additional copies of Government publications are offered for sale to the public by the Superintendent of Documents shall be based on the cost as determined by the Public Printer plus 50 percent. A discount may be allowed as determined by the Superintendent of Documents, but the printing may not interfere with prompt execution of work for the Government.
+    The price at which additional copies of Government publications are offered for sale to the public by the Superintendent of Documents shall be based on the cost as determined by the Director of the Government Publishing Office plus 50 percent. A discount may be allowed as determined by the Superintendent of Documents, but the printing may not interfere with prompt execution of work for the Government.
 
     The Superintendent of Documents may prescribe terms and conditions under which he authorizes the resale of Government publications by book dealers, and he may designate any Government officer his agent for the sale of Government publications under regulations agreed upon by the Superintendent of Documents and the head of the respective department or establishment of the Government.
 
-([Pub. L. 90–620][/us/pl/90/620], Oct. 22, 1968, [82 Stat. 1280][/us/stat/82/1280]; [Pub. L. 95–94, title IV, § 409(a)][/us/pl/95/94/s409/a], Aug. 5, 1977, [91 Stat. 683][/us/stat/91/683]; [Pub. L. 103–69, title II, § 207(b)][/us/pl/103/69/s207/b], Aug. 11, 1993, [107 Stat. 708][/us/stat/107/708]; [Pub. L. 108–447, div. G, title I, § 1301][/us/pl/108/447/s1301], Dec. 8, 2004, [118 Stat. 3191][/us/stat/118/3191].)
+([Pub. L. 90–620][/us/pl/90/620], Oct. 22, 1968, [82 Stat. 1280][/us/stat/82/1280]; [Pub. L. 95–94, title IV, § 409(a)][/us/pl/95/94/s409/a], Aug. 5, 1977, [91 Stat. 683][/us/stat/91/683]; [Pub. L. 103–69, title II, § 207(b)][/us/pl/103/69/s207/b], Aug. 11, 1993, [107 Stat. 708][/us/stat/107/708]; [Pub. L. 108–447, div. G, title I, § 1301][/us/pl/108/447/s1301], Dec. 8, 2004, [118 Stat. 3191][/us/stat/118/3191]; [Pub. L. 113–235, div. H, title I, § 1301(c)(1)][/us/pl/113/235/s1301/c/1], Dec. 16, 2014, [128 Stat. 2537][/us/stat/128/2537].)
 
  __Historical and Revision Notes__ 
 
     Based on 44 U.S. Code, 1964 ed., § 72a ([June 30, 1932, ch. 314, § 307][/us/act/1932-06-30/ch314/s307], [47 Stat. 409][/us/stat/47/409]).
 
  __Amendments__ 
+
+    2014—[Pub. L. 113–235][/us/pl/113/235] substituted “Director of the Government Publishing Office” for “Public Printer” in first par.
 
     2004—[Pub. L. 108–447][/us/pl/108/447], in first par., substituted “may be allowed as determined by the Superintendent of Documents” for “of not to exceed 25 percent may be allowed to book dealers and quantity purchasers”.
 
@@ -58,8 +60,11 @@
 [/us/stat/107/708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F708
 [/us/pl/108/447/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs1301
 [/us/stat/118/3191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3191
+[/us/pl/113/235/s1301/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fc%2F1
+[/us/stat/128/2537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2537
 [/us/act/1932-06-30/ch314/s307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1932-06-30%2Fch314%2Fs307
 [/us/stat/47/409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F47%2F409
+[/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
 [/us/pl/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447
 [/us/pl/103/69]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F69
 [/us/pl/95/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F94

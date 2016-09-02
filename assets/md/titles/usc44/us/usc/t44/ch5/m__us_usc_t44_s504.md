@@ -15,13 +15,21 @@
 
 ## § 504. Direct purchase of printing, binding, and blank-book work by Government agencies
 
-    The Joint Committee on Printing may permit the Public Printer to authorize an executive department, independent office, or establishment of the Government to purchase direct for its use such printing, binding, and blank-book work, otherwise authorized by law, as the Government Printing Office is not able or suitably equipped to execute or as may be more economically or in the better interest of the Government executed elsewhere.
+    The Joint Committee on Printing may permit the Director of the Government Publishing Office to authorize an executive department, independent office, or establishment of the Government to purchase direct for its use such printing, binding, and blank-book work, otherwise authorized by law, as the Government Publishing Office is not able or suitably equipped to execute or as may be more economically or in the better interest of the Government executed elsewhere.
 
-([Pub. L. 90–620][/us/pl/90/620], Oct. 22, 1968, [82 Stat. 1243][/us/stat/82/1243].)
+([Pub. L. 90–620][/us/pl/90/620], Oct. 22, 1968, [82 Stat. 1243][/us/stat/82/1243]; [Pub. L. 113–235, div. H, title I, § 1301(b)][/us/pl/113/235/s1301/b], (c)(1), Dec. 16, 2014, [128 Stat. 2537][/us/stat/128/2537].)
 
  __Historical and Revision Notes__ 
 
     Based on 44 U.S. Code, 1964 ed., § 14 ([Jan. 12, 1895, ch. 23, § 12][/us/act/1895-01-12/ch23/s12], [28 Stat. 602][/us/stat/28/602]; [July 8, 1935, ch. 374, § 1][/us/act/1935-07-08/ch374/s1], [49 Stat. 475][/us/stat/49/475]; [Oct. 31, 1951, ch. 654, § 3(10)][/us/act/1951-10-31/ch654/s3/10], [65 Stat. 708][/us/stat/65/708]).
+
+ __Amendments__ 
+
+    2014—[Pub. L. 113–235, § 1301(c)(1)][/us/pl/113/235/s1301/c/1], substituted “Director of the Government Publishing Office” for “Public Printer”.
+
+ __Change of Name__ 
+
+    “Government Publishing Office” substituted for “Government Printing Office” in text on authority of [section 1301(b) of Pub. L. 113–235][/us/pl/113/235/s1301/b], set out as a note preceding [section 301 of this title][/us/usc/t44/s301].
 
 ----------
 
@@ -32,11 +40,16 @@
 
 [/us/pl/90/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F620
 [/us/stat/82/1243]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1243
+[/us/pl/113/235/s1301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fb
+[/us/stat/128/2537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2537
 [/us/act/1895-01-12/ch23/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1895-01-12%2Fch23%2Fs12
 [/us/stat/28/602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F28%2F602
 [/us/act/1935-07-08/ch374/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-07-08%2Fch374%2Fs1
 [/us/stat/49/475]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F475
 [/us/act/1951-10-31/ch654/s3/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-10-31%2Fch654%2Fs3%2F10
 [/us/stat/65/708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F65%2F708
+[/us/pl/113/235/s1301/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fc%2F1
+[/us/pl/113/235/s1301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fb
+[/us/usc/t44/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs301
 
 

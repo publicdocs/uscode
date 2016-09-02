@@ -17,7 +17,7 @@
 
 This title was enacted by [Pub. L. 90–620, § 1][/us/pl/90/620/s1], Oct. 22, 1968, [82 Stat. 1238][/us/stat/82/1238]
 
-Current through 113–290not235not287
+Current through 113–296not287not291not295
 
 <table>
 
@@ -45,7 +45,7 @@ Current through 113–290not235not287
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fch3" data-uslm-ref="/us/usc/t44/ch3">3.</a>  </td>
 
-    <td> Government Printing Office  </td>
+    <td> Government Publishing Office  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs301" data-uslm-ref="/us/usc/t44/s301">301</a>  </td>
 
@@ -245,7 +245,7 @@ Current through 113–290not235not287
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fch39" data-uslm-ref="/us/usc/t44/ch39">39.</a>  </td>
 
-    <td> Government Printing Office: Office of Inspector General  </td>
+    <td> Government Publishing Office: Office of Inspector General  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs3901" data-uslm-ref="/us/usc/t44/s3901">3901</a>  </td>
 
@@ -4369,6 +4369,10 @@ Rep.  </td>
 
 </table>
 
+ __Change of Name__ 
+
+    “Government Publishing Office” substituted for “Government Printing Office” in items 3 and 39 on authority of [section 1301(b) of Pub. L. 113–235][/us/pl/113/235/s1301/b], div. H, title I, Dec. 16, 2014, [128 Stat. 2537][/us/stat/128/2537], set out as a note preceding [section 301 of this title][/us/usc/t44/s301].
+
  __Enacting Clause__ 
 
 [Section 1 of Pub. L. 90–620][/us/pl/90/620/s1], Oct. 22, 1968, [82 Stat. 1238][/us/stat/82/1238], provided in part: 
@@ -4446,6 +4450,9 @@ Rep.  </td>
 [/us/stat/92/723]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F723
 [/us/pl/93/536/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F536%2Fs2
 [/us/stat/88/1735]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1735
+[/us/pl/113/235/s1301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fb
+[/us/stat/128/2537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2537
+[/us/usc/t44/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs301
 [/us/pl/90/620/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F620%2Fs1
 [/us/stat/82/1238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1238
 [/us/pl/90/620/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F620%2Fs2%2Fa

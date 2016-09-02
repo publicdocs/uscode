@@ -15,7 +15,7 @@
 
 ## § 906. Congressional Record: gratuitous copies; delivery
 
-    The Public Printer shall furnish the Congressional Record only as follows:
+    The Director of the Government Publishing Office shall furnish the Congressional Record only as follows:
 
     of the bound edition—
 
@@ -51,7 +51,7 @@
 
     In addition to the foregoing the Congressional Record shall also be furnished as follows:
 
-    In unstitched form, and held in reserve by the Public Printer, as many copies of the daily Record as may be required to supply a semimonthly edition, bound in paper cover together with each semimonthly index when it is issued, and then be delivered promptly as follows:
+    In unstitched form, and held in reserve by the Director of the Government Publishing Office, as many copies of the daily Record as may be required to supply a semimonthly edition, bound in paper cover together with each semimonthly index when it is issued, and then be delivered promptly as follows:
 
     to each committee and commission of Congress, one daily and one semimonthly copy;
 
@@ -71,7 +71,7 @@
 
     to the offices of the marshal and clerk of the Supreme Court of the United States, each, two copies of the daily and one semimonthly copy;
 
-    to each United States circuit and district judge, and to the chief judge and each associate judge of the United States Court of Federal Claims, the United States Court of International Trade, the Tax Court of the United States, the United States Court of Appeals for Veterans Claims, and the United States Court of Appeals for the Armed Forces, upon request to a member of Congress and notification by the Member to the Public Printer, one copy of the daily, in addition to those authorized to be furnished to Members of Congress under the preceding provisions of this section;
+    to each United States circuit and district judge, and to the chief judge and each associate judge of the United States Court of Federal Claims, the United States Court of International Trade, the Tax Court of the United States, the United States Court of Appeals for Veterans Claims, and the United States Court of Appeals for the Armed Forces, upon request to a member of Congress and notification by the Member to the Director of the Government Publishing Office, one copy of the daily, in addition to those authorized to be furnished to Members of Congress under the preceding provisions of this section;
 
     to the offices of the Vice President and the Speaker of the House of Representatives, each, six copies of the daily and one semimonthly copy;
 
@@ -99,9 +99,9 @@
 
     to the library of the Supreme Court of the United States, two copies of the daily, two semimonthly copies, and not to exceed five bound copies;
 
-    to the library of each United States Court of Appeals, each United States District Court, the United States Court of Federal Claims, the United States Court of International Trade, the Tax Court of the United States, the United States Court of Appeals for Veterans Claims, and the United States Court of Appeals for the Armed Forces, upon request to the Public Printer, one copy of the daily, one semimonthly copy, and one bound copy;
+    to the library of each United States Court of Appeals, each United States District Court, the United States Court of Federal Claims, the United States Court of International Trade, the Tax Court of the United States, the United States Court of Appeals for Veterans Claims, and the United States Court of Appeals for the Armed Forces, upon request to the Director of the Government Publishing Office, one copy of the daily, one semimonthly copy, and one bound copy;
 
-    to the Public Printer for official use, not to exceed seventy-five copies of the daily, ten semimonthly copies, and two bound copies;
+    to the Director of the Government Publishing Office for official use, not to exceed seventy-five copies of the daily, ten semimonthly copies, and two bound copies;
 
     to the Director of the Botanic Garden, two copies of the daily and one semimonthly copy;
 
@@ -115,7 +115,7 @@
 
     to each ex-President and ex-Vice President of the United States, one copy of the daily;
 
-    to each former Senator, Representative, and Commissioner from Puerto Rico, upon request to the Public Printer, one copy of the daily;
+    to each former Senator, Representative, and Commissioner from Puerto Rico, upon request to the Director of the Government Publishing Office, one copy of the daily;
 
     to the Governor of each State, one copy in both daily and bound form;
 
@@ -131,7 +131,7 @@
 
     Copies of the daily edition, unless otherwise directed by the Joint Committee on Printing, shall be supplied and delivered promptly on the day after the actual day’s proceedings as originally published. Each order for the daily Record shall begin with the current issue, if previous issues of the same session are not available. The apportionment specified for daily copies may not be transferred for the bound form and an allotment of daily copies not used by a Member during a session shall lapse when the session ends.
 
-([Pub. L. 90–620][/us/pl/90/620], Oct. 22, 1968, [82 Stat. 1256][/us/stat/82/1256]; [Pub. L. 91–276][/us/pl/91/276], June 12, 1970, [84 Stat. 303][/us/stat/84/303]; [Pub. L. 92–373][/us/pl/92/373], Aug. 10, 1972, [86 Stat. 528][/us/stat/86/528]; [Pub. L. 93–314, § 1(b)][/us/pl/93/314/s1/b], June 8, 1974, [88 Stat. 239][/us/stat/88/239]; [Pub. L. 95–94, title IV, § 407(a)][/us/pl/95/94/s407/a], Aug. 5, 1977, [91 Stat. 683][/us/stat/91/683]; [Pub. L. 96–417, title VI, § 601(11)][/us/pl/96/417/s601/11], Oct. 10, 1980, [94 Stat. 1744][/us/stat/94/1744]; [Pub. L. 97–164, title I, § 164(2)][/us/pl/97/164/s164/2], Apr. 2, 1982, [96 Stat. 50][/us/stat/96/50]; [Pub. L. 101–510, div. A, title XV, § 1533(c)(3)][/us/pl/101/510/s1533/c/3], Nov. 5, 1990, [104 Stat. 1736][/us/stat/104/1736]; [Pub. L. 102–82, § 6][/us/pl/102/82/s6], Aug. 6, 1991, [105 Stat. 377][/us/stat/105/377]; [Pub. L. 102–572, title IX, § 902(b)(1)][/us/pl/102/572/s902/b/1], Oct. 29, 1992, [106 Stat. 4516][/us/stat/106/4516]; [Pub. L. 103–337, div. A, title IX, § 924(d)(1)(D)][/us/pl/103/337/s924/d/1/D], Oct. 5, 1994, [108 Stat. 2832][/us/stat/108/2832]; [Pub. L. 104–186, title II, § 223(7)][/us/pl/104/186/s223/7], Aug. 20, 1996, [110 Stat. 1751][/us/stat/110/1751]; [Pub. L. 105–368, title V, § 512(b)(1)(C)][/us/pl/105/368/s512/b/1/C], Nov. 11, 1998, [112 Stat. 3342][/us/stat/112/3342].)
+([Pub. L. 90–620][/us/pl/90/620], Oct. 22, 1968, [82 Stat. 1256][/us/stat/82/1256]; [Pub. L. 91–276][/us/pl/91/276], June 12, 1970, [84 Stat. 303][/us/stat/84/303]; [Pub. L. 92–373][/us/pl/92/373], Aug. 10, 1972, [86 Stat. 528][/us/stat/86/528]; [Pub. L. 93–314, § 1(b)][/us/pl/93/314/s1/b], June 8, 1974, [88 Stat. 239][/us/stat/88/239]; [Pub. L. 95–94, title IV, § 407(a)][/us/pl/95/94/s407/a], Aug. 5, 1977, [91 Stat. 683][/us/stat/91/683]; [Pub. L. 96–417, title VI, § 601(11)][/us/pl/96/417/s601/11], Oct. 10, 1980, [94 Stat. 1744][/us/stat/94/1744]; [Pub. L. 97–164, title I, § 164(2)][/us/pl/97/164/s164/2], Apr. 2, 1982, [96 Stat. 50][/us/stat/96/50]; [Pub. L. 101–510, div. A, title XV, § 1533(c)(3)][/us/pl/101/510/s1533/c/3], Nov. 5, 1990, [104 Stat. 1736][/us/stat/104/1736]; [Pub. L. 102–82, § 6][/us/pl/102/82/s6], Aug. 6, 1991, [105 Stat. 377][/us/stat/105/377]; [Pub. L. 102–572, title IX, § 902(b)(1)][/us/pl/102/572/s902/b/1], Oct. 29, 1992, [106 Stat. 4516][/us/stat/106/4516]; [Pub. L. 103–337, div. A, title IX, § 924(d)(1)(D)][/us/pl/103/337/s924/d/1/D], Oct. 5, 1994, [108 Stat. 2832][/us/stat/108/2832]; [Pub. L. 104–186, title II, § 223(7)][/us/pl/104/186/s223/7], Aug. 20, 1996, [110 Stat. 1751][/us/stat/110/1751]; [Pub. L. 105–368, title V, § 512(b)(1)(C)][/us/pl/105/368/s512/b/1/C], Nov. 11, 1998, [112 Stat. 3342][/us/stat/112/3342]; [Pub. L. 113–235, div. H, title I, § 1301(c)(1)][/us/pl/113/235/s1301/c/1], Dec. 16, 2014, [128 Stat. 2537][/us/stat/128/2537].)
 
  __Historical and Revision Notes__ 
 
@@ -144,6 +144,8 @@
     Provisions respecting National Homes for Disabled Volunteer Soldiers, referred to in text, were formerly classified to chapter 3 (section 71 et seq.) of Title 24, Hospitals and Asylums, and were repealed by [Pub. L. 85–857, § 14][/us/pl/85/857/s14], Sept. 2, 1958, [72 Stat. 1268–1272][/us/stat/72/1268-1272], and [Pub. L. 85–56, title XXII, § 2202][/us/pl/85/56/s2202], June 17, 1957, [71 Stat. 162][/us/stat/71/162], 164, 166.
 
  __Amendments__ 
+
+    2014—[Pub. L. 113–235][/us/pl/113/235] substituted “Director of the Government Publishing Office” for “Public Printer” wherever appearing.
 
     1998—[Pub. L. 105–368][/us/pl/105/368] substituted “Court of Appeals for Veterans Claims” for “Court of Veterans Appeals” in two places.
 
@@ -244,6 +246,8 @@
 [/us/stat/110/1751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1751
 [/us/pl/105/368/s512/b/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368%2Fs512%2Fb%2F1%2FC
 [/us/stat/112/3342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3342
+[/us/pl/113/235/s1301/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fc%2F1
+[/us/stat/128/2537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2537
 [/us/act/1895-01-12/ch23/s73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1895-01-12%2Fch23%2Fs73
 [/us/stat/28/617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F28%2F617
 [/us/act/1896-06-11/ch420/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1896-06-11%2Fch420%2Fs1
@@ -285,6 +289,7 @@
 [/us/stat/72/1268-1272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1268-1272
 [/us/pl/85/56/s2202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F56%2Fs2202
 [/us/stat/71/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F71%2F162
+[/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
 [/us/pl/105/368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368
 [/us/pl/104/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186
 [/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337

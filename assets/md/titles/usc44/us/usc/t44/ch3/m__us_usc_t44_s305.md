@@ -13,13 +13,13 @@
 
 [Previous](./../../../..//us/usc/t44/ch3/m__us_usc_t44_s304.md) | [Next](./../../../..//us/usc/t44/ch3/m__us_usc_t44_s306.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs305)
 
-## § 305. Public Printer: employees; pay
+## § 305. Director of the Government Publishing Office: employees; pay
 
-    (a) The Public Printer may employ journeymen, apprentices, laborers, and other persons necessary for the work of the Government Printing Office at rates of wages and salaries, including compensation for night and overtime work, he considers for the interest of the Government and just to the persons employed, except as otherwise provided by this section. He may not employ more persons than the necessities of the public work require nor more than four hundred apprentices at one time. The minimum pay of journeymen printers, pressmen, and bookbinders employed in the Government Printing Office shall be at the rate of 90 cents an hour for the time actually employed. Except as provided by the preceding part of this section the rate of wages, including compensation for night and overtime work, for more than ten employees of the same occupation shall be determined by a conference between the Public Printer and a committee selected by the trades affected, and the rates and compensation so agreed upon shall become effective upon approval by the Joint Committee on Printing. When the Public Printer and the committee representing the trade fail to agree as to wages, salaries, and compensation, either party may appeal to the Joint Committee on Printing, and the decision of the Joint Committee is final. The wages, salaries, and compensation so determined are not subject to change oftener than once a year.
+    (a) The Director of the Government Publishing Office may employ journeymen, apprentices, laborers, and other persons necessary for the work of the Government Publishing Office at rates of wages and salaries, including compensation for night and overtime work, the Director considers for the interest of the Government and just to the persons employed, except as otherwise provided by this section. The Director of the Government Publishing Office may not employ more persons than the necessities of the public work require nor more than four hundred apprentices at one time. The minimum pay of journeymen printers, pressmen, and bookbinders employed in the Government Publishing Office shall be at the rate of 90 cents an hour for the time actually employed. Except as provided by the preceding part of this section the rate of wages, including compensation for night and overtime work, for more than ten employees of the same occupation shall be determined by a conference between the Director of the Government Publishing Office and a committee selected by the trades affected, and the rates and compensation so agreed upon shall become effective upon approval by the Joint Committee on Printing. When the Director of the Government Publishing Office and the committee representing the trade fail to agree as to wages, salaries, and compensation, either party may appeal to the Joint Committee on Printing, and the decision of the Joint Committee is final. The wages, salaries, and compensation so determined are not subject to change oftener than once a year.
 
-    (b) The Public Printer may grant an employee paid on an annual basis compensatory time off from duty instead of overtime pay for overtime work.
+    (b) The Director of the Government Publishing Office may grant an employee paid on an annual basis compensatory time off from duty instead of overtime pay for overtime work.
 
-([Pub. L. 90–620][/us/pl/90/620], Oct. 22, 1968, [82 Stat. 1240][/us/stat/82/1240]; [Pub. L. 91–167][/us/pl/91/167], Dec. 26, 1969, [83 Stat. 453][/us/stat/83/453]; [Pub. L. 91–369][/us/pl/91/369], July 31, 1970, [84 Stat. 693][/us/stat/84/693].)
+([Pub. L. 90–620][/us/pl/90/620], Oct. 22, 1968, [82 Stat. 1240][/us/stat/82/1240]; [Pub. L. 91–167][/us/pl/91/167], Dec. 26, 1969, [83 Stat. 453][/us/stat/83/453]; [Pub. L. 91–369][/us/pl/91/369], July 31, 1970, [84 Stat. 693][/us/stat/84/693]; [Pub. L. 113–235, div. H, title I, § 1301(b)][/us/pl/113/235/s1301/b], (c), (i)(2), Dec. 16, 2014, [128 Stat. 2537][/us/stat/128/2537], 2538.)
 
  __Historical and Revision Notes__ 
 
@@ -29,9 +29,21 @@
 
  __Amendments__ 
 
+    2014—[Pub. L. 113–235, § 1301(c)(2)][/us/pl/113/235/s1301/c/2], substituted “Director of the Government Publishing Office” for “Public Printer” in section catchline.
+
+    Subsec. (a). [Pub. L. 113–235, § 1301(i)(2)][/us/pl/113/235/s1301/i/2], substituted “the Director considers” for “he considers” and “The Director of the Government Publishing Office may not” for “He may not”.
+
+    [Pub. L. 113–235, § 1301(c)(1)][/us/pl/113/235/s1301/c/1], substituted “Director of the Government Publishing Office” for “Public Printer” in three places.
+
+    Subsec. (b). [Pub. L. 113–235, § 1301(c)(1)][/us/pl/113/235/s1301/c/1], substituted “Director of the Government Publishing Office” for “Public Printer”.
+
     1970—[Pub. L. 91–369][/us/pl/91/369] designated existing provisions as subsec. (a) and added subsec. (b).
 
     1969—[Pub. L. 91–167][/us/pl/91/167] substituted “four hundred” for “two hundred” as the number of apprentices which the Public Printer may employ at one time.
+
+ __Change of Name__ 
+
+    “Government Publishing Office” substituted for “Government Printing Office” in subsec. (a) on authority of [section 1301(b) of Pub. L. 113–235][/us/pl/113/235/s1301/b], set out as a note preceding [section 301 of this title][/us/usc/t44/s301].
 
  __Repeals__ 
 
@@ -39,7 +51,7 @@
 
  __Voluntary Separation Incentives__ 
 
-[Pub. L. 105–275, title III, § 309][/us/pl/105/275/s309], Oct. 21, 1998, [112 Stat. 2454][/us/stat/112/2454], as amended by [Pub. L. 107–68, title II, § 210(a)][/us/pl/107/68/s210/a], Nov. 12, 2001, [115 Stat. 590][/us/stat/115/590]; [Pub. L. 112–10, div. B, title IX, § 1926(a)][/us/pl/112/10/s1926/a], Apr. 15, 2011, [125 Stat. 172][/us/stat/125/172], provided that:
+[Pub. L. 105–275, title III, § 309][/us/pl/105/275/s309], Oct. 21, 1998, [112 Stat. 2454][/us/stat/112/2454], as amended by [Pub. L. 107–68, title II, § 210(a)][/us/pl/107/68/s210/a], Nov. 12, 2001, [115 Stat. 590][/us/stat/115/590]; [Pub. L. 112–10, div. B, title IX, § 1926(a)][/us/pl/112/10/s1926/a], Apr. 15, 2011, [125 Stat. 172][/us/stat/125/172]; [Pub. L. 113–235, div. H, title I, § 1301(b)][/us/pl/113/235/s1301/b], (d), Dec. 16, 2014, [128 Stat. 2537][/us/stat/128/2537], provided that:
 
 >     “(a)  __Severance Pay__  __.—__ 
 
@@ -49,7 +61,7 @@
 
 >         (1)
 
->          This subsection applies to an employee of the Government Printing Office who—
+>          This subsection applies to an employee of the Government Publishing Office who—
 
 >             “(A) voluntarily separates from service on or after the date of enactment of this Act \[Oct. 21, 1998\] and before October 1, 2004; and
 
@@ -67,7 +79,7 @@
 
 >         (1)
 
->          In this subsection, the term ‘employee’ means an employee of the Government Printing Office, serving without limitation, who has been currently employed for a continuous period of at least 12 months, except that such term shall not include—
+>          In this subsection, the term ‘employee’ means an employee of the Government Publishing Office, serving without limitation, who has been currently employed for a continuous period of at least 12 months, except that such term shall not include—
 
 >             “(A) a reemployed annuitant under subchapter III of chapter 83 or chapter 84 of title 5, United States Code, or another retirement system for employees of the Government;
 
@@ -75,15 +87,15 @@
 
 >             “(C) an employee who is employed on a temporary when actually employed basis.
 
->         “(2) Notwithstanding any other provision of law, in order to avoid or minimize the need for involuntary separations due to a reduction in force, reorganization, transfer of function, or other similar action affecting the agency, the Public Printer shall establish a program under which voluntary separation incentive payments may be offered to encourage eligible employees to separate from service voluntarily (whether by retirement or resignation) during the period beginning on the date of the enactment of this Act \[Oct. 21, 1998\] through September 30, 2004.
+>         “(2) Notwithstanding any other provision of law, in order to avoid or minimize the need for involuntary separations due to a reduction in force, reorganization, transfer of function, or other similar action affecting the agency, the Director of the Government Publishing Office shall establish a program under which voluntary separation incentive payments may be offered to encourage eligible employees to separate from service voluntarily (whether by retirement or resignation) during the period beginning on the date of the enactment of this Act \[Oct. 21, 1998\] through September 30, 2004.
 
 >         “(3) Such voluntary separation incentive payments shall be paid in accordance with the provisions of [section 5597(d) of title 5][/us/usc/t5/s5597/d], United States Code. Any such payment shall not be a basis of payment, and shall not be included in the computation, of any other type of Government benefit.
 
 >         “(4)
 
->             (A) Not later than January 15, 1999, the Public Printer shall submit a plan described under subparagraph (C) to the Joint Committee on Printing (or any applicable successor committees).
+>             (A) Not later than January 15, 1999, the Director of the Government Publishing Office shall submit a plan described under subparagraph (C) to the Joint Committee on Printing (or any applicable successor committees).
 
->             “(B) No voluntary separation incentive payment may be paid under this section unless the Public Printer submits a plan described under subparagraph (C) to the Joint Committee on Printing (or any applicable successor committees) and the Joint Committee on Printing approves the plan (or such successor committees approve the plan).
+>             “(B) No voluntary separation incentive payment may be paid under this section unless the Director of the Government Publishing Office submits a plan described under subparagraph (C) to the Joint Committee on Printing (or any applicable successor committees) and the Joint Committee on Printing approves the plan (or such successor committees approve the plan).
 
 >             “(C)
 
@@ -93,7 +105,7 @@
 
 >                 “(ii) the number and amounts of voluntary separation incentive payments to be offered; and
 
->                 “(iii) a description of how the Government Printing Office will operate without the eliminated positions and functions.
+>                 “(iii) a description of how the Government Publishing Office will operate without the eliminated positions and functions.
 
 >         “\[(5) Repealed. [Pub. L. 112–10, div. B, title IX, § 1926(a)][/us/pl/112/10/s1926/a], Apr. 15, 2011, [125 Stat. 172][/us/stat/125/172].\]
 
@@ -111,7 +123,7 @@
 
 >             “(C) For purposes of subparagraph (A) (but not subparagraph (B)), the term ‘employment’ includes employment under a personal services contract with the United States.
 
->         “(7) Not later than January 15, 1999, the Public Printer shall prescribe regulations to carry out this subsection.
+>         “(7) Not later than January 15, 1999, the Director of the Government Publishing Office shall prescribe regulations to carry out this subsection.
 
 >     “(d)  __Retraining, Job Placement, and Counseling Services__  __.—__ 
 
@@ -119,7 +131,7 @@
 
 >          In this subsection, the term ‘employee’—
 
->             “(A) means an employee of the Government Printing Office; and
+>             “(A) means an employee of the Government Publishing Office; and
 
 >             “(B)
 
@@ -129,13 +141,13 @@
 
 >                 “(ii) an employee who is employed on a temporary when actually employed basis.
 
->         “(2) The Public Printer may establish a program to provide retraining, job placement, and counseling services to employees and former employees.
+>         “(2) The Director of the Government Publishing Office may establish a program to provide retraining, job placement, and counseling services to employees and former employees.
 
 >         “(3)
 
 >          A former employee may not participate in a program established under this subsection, if—
 
->             “(A) the former employee was separated from service with the Government Printing Office for more than 1 year; or
+>             “(A) the former employee was separated from service with the Government Publishing Office for more than 1 year; or
 
 >             “(B) the separation was by removal for cause on charges of misconduct or delinquency.
 
@@ -145,9 +157,9 @@
 
 >         (1)
 
->          The Public Printer—
+>          The Director of the Government Publishing Office—
 
->             “(A) may use employees of the Government Printing Office to establish and administer programs and carry out the provisions of this section; and
+>             “(A) may use employees of the Government Publishing Office to establish and administer programs and carry out the provisions of this section; and
 
 >             “(B)
 
@@ -159,7 +171,7 @@
 
 >         “(2) Funds to carry out subsections (a) and (c) may be expended only from funds available for the basic pay of the employee who is receiving the applicable payment.
 
->         “(3) Funds to carry out subsection (d) may be expended from any funds made available to the Public Printer.”
+>         “(3) Funds to carry out subsection (d) may be expended from any funds made available to the Director of the Government Publishing Office.”
 
 \[[Pub. L. 112–10, div. B, title IX, § 1926(b)][/us/pl/112/10/s1926/b], Apr. 15, 2011, [125 Stat. 172][/us/stat/125/172], provided that: 
 
@@ -186,6 +198,8 @@
 [/us/stat/83/453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F453
 [/us/pl/91/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F369
 [/us/stat/84/693]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F693
+[/us/pl/113/235/s1301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fb
+[/us/stat/128/2537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2537
 [/us/act/1895-01-12/ch23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1895-01-12%2Fch23
 [/us/stat/28/607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F28%2F607
 [/us/act/1900-06-06/ch791/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1900-06-06%2Fch791%2Fs1
@@ -202,8 +216,14 @@
 [/us/stat/42/1278]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F1278
 [/us/act/1924-06-07/ch354/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1924-06-07%2Fch354%2Fs1
 [/us/stat/43/658]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F43%2F658
+[/us/pl/113/235/s1301/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fc%2F2
+[/us/pl/113/235/s1301/i/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fi%2F2
+[/us/pl/113/235/s1301/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fc%2F1
+[/us/pl/113/235/s1301/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fc%2F1
 [/us/pl/91/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F369
 [/us/pl/91/167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F167
+[/us/pl/113/235/s1301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fb
+[/us/usc/t44/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs301
 [/us/pl/92/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F392
 [/us/pl/92/392/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F392%2Fs13
 [/us/usc/t5/s5341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5341
@@ -213,6 +233,8 @@
 [/us/stat/115/590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F590
 [/us/pl/112/10/s1926/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F10%2Fs1926%2Fa
 [/us/stat/125/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F172
+[/us/pl/113/235/s1301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fb
+[/us/stat/128/2537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2537
 [/us/usc/t5/s5595]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5595
 [/us/usc/t5/s5597/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5597%2Fd
 [/us/pl/112/10/s1926/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F10%2Fs1926%2Fa

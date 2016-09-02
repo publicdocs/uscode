@@ -15,13 +15,17 @@
 
 ## § 1330. Monthly Summary Statement of Imports and Exports
 
-    There shall be printed monthly by the Public Printer thirty-five hundred copies of the Monthly Summary Statement of Imports and Exports and other statistical information prepared by the Secretary of Commerce, five hundred for the Senate, one thousand for the House of Representatives, and two thousand for the Department of Commerce.
+    There shall be printed monthly by the Director of the Government Publishing Office thirty-five hundred copies of the Monthly Summary Statement of Imports and Exports and other statistical information prepared by the Secretary of Commerce, five hundred for the Senate, one thousand for the House of Representatives, and two thousand for the Department of Commerce.
 
-([Pub. L. 90–620][/us/pl/90/620], Oct. 22, 1968, [82 Stat. 1270][/us/stat/82/1270].)
+([Pub. L. 90–620][/us/pl/90/620], Oct. 22, 1968, [82 Stat. 1270][/us/stat/82/1270]; [Pub. L. 113–235, div. H, title I, § 1301(c)(1)][/us/pl/113/235/s1301/c/1], Dec. 16, 2014, [128 Stat. 2537][/us/stat/128/2537].)
 
  __Historical and Revision Notes__ 
 
     Based on 44 U.S. Code, 1964 ed., § 298 (Dec. 18, 1895, No. 1, [29 Stat. 459][/us/stat/29/459]; [Feb. 14, 1903, ch. 552, § 4][/us/act/1903-02-14/ch552/s4], [32 Stat. 826][/us/stat/32/826]; [Aug. 23, 1912, ch. 350, § 1][/us/act/1912-08-23/ch350/s1], [37 Stat. 407][/us/stat/37/407]; 1950 Reorg. Plan No. 5, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, [64 Stat. 1263][/us/stat/64/1263]).
+
+ __Amendments__ 
+
+    2014—[Pub. L. 113–235][/us/pl/113/235] substituted “Director of the Government Publishing Office” for “Public Printer”.
 
 ----------
 
@@ -32,11 +36,14 @@
 
 [/us/pl/90/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F620
 [/us/stat/82/1270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1270
+[/us/pl/113/235/s1301/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fc%2F1
+[/us/stat/128/2537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2537
 [/us/stat/29/459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F29%2F459
 [/us/act/1903-02-14/ch552/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1903-02-14%2Fch552%2Fs4
 [/us/stat/32/826]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F32%2F826
 [/us/act/1912-08-23/ch350/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1912-08-23%2Fch350%2Fs1
 [/us/stat/37/407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F37%2F407
 [/us/stat/64/1263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1263
+[/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
 
 

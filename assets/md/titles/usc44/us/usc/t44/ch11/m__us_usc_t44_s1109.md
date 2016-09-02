@@ -15,13 +15,17 @@
 
 ## § 1109. Printing documents in two or more editions; full number and allotment of full quota
 
-    The number of copies of a public document or report authorized to be printed for an executive department, independent agency, or establishment of the Government may be supplied in two or more editions, instead of one, upon a requisition on the Public Printer by the head of the department or independent office, but the aggregate of the editions may not exceed the number of copies otherwise authorized. This section does not preclude the printing of the full number of a document or report, or the allotment of the full quota to Senators and Representatives, as otherwise authorized, when a legitimate demand for the full complement is known to exist.
+    The number of copies of a public document or report authorized to be printed for an executive department, independent agency, or establishment of the Government may be supplied in two or more editions, instead of one, upon a requisition on the Director of the Government Publishing Office by the head of the department or independent office, but the aggregate of the editions may not exceed the number of copies otherwise authorized. This section does not preclude the printing of the full number of a document or report, or the allotment of the full quota to Senators and Representatives, as otherwise authorized, when a legitimate demand for the full complement is known to exist.
 
-([Pub. L. 90–620][/us/pl/90/620], Oct. 22, 1968, [82 Stat. 1262][/us/stat/82/1262].)
+([Pub. L. 90–620][/us/pl/90/620], Oct. 22, 1968, [82 Stat. 1262][/us/stat/82/1262]; [Pub. L. 113–235, div. H, title I, § 1301(c)(1)][/us/pl/113/235/s1301/c/1], Dec. 16, 2014, [128 Stat. 2537][/us/stat/128/2537].)
 
  __Historical and Revision Notes__ 
 
     Based on 44 U.S. Code, 1964 ed., § 224 (Mar. 30, 1906, No. 14, [34 Stat. 826][/us/stat/34/826]).
+
+ __Amendments__ 
+
+    2014—[Pub. L. 113–235][/us/pl/113/235] substituted “Director of the Government Publishing Office” for “Public Printer”.
 
 ----------
 
@@ -32,6 +36,9 @@
 
 [/us/pl/90/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F620
 [/us/stat/82/1262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1262
+[/us/pl/113/235/s1301/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fc%2F1
+[/us/stat/128/2537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2537
 [/us/stat/34/826]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F34%2F826
+[/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
 
 

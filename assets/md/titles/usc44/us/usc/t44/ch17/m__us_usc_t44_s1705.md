@@ -15,13 +15,17 @@
 
 ## § 1705. Printing additional copies for sale to public; regulations
 
-    The Public Printer shall print additional copies of a Government publication, not confidential in character, required for sale to the public by the Superintendent of Documents, subject to regulation by the Joint Committee on Printing and without interference with the prompt execution of printing for the Government.
+    The Director of the Government Publishing Office shall print additional copies of a Government publication, not confidential in character, required for sale to the public by the Superintendent of Documents, subject to regulation by the Joint Committee on Printing and without interference with the prompt execution of printing for the Government.
 
-([Pub. L. 90–620][/us/pl/90/620], Oct. 22, 1968, [82 Stat. 1279][/us/stat/82/1279].)
+([Pub. L. 90–620][/us/pl/90/620], Oct. 22, 1968, [82 Stat. 1279][/us/stat/82/1279]; [Pub. L. 113–235, div. H, title I, § 1301(c)(1)][/us/pl/113/235/s1301/c/1], Dec. 16, 2014, [128 Stat. 2537][/us/stat/128/2537].)
 
  __Historical and Revision Notes__ 
 
     Based on 44 U.S. Code, 1964 ed., § 72 ([May 11, 1922, ch. 189, § 1][/us/act/1922-05-11/ch189/s1], [42 Stat. 541][/us/stat/42/541]; [June 30, 1932, ch. 314, § 307][/us/act/1932-06-30/ch314/s307], [47 Stat. 409][/us/stat/47/409]).
+
+ __Amendments__ 
+
+    2014—[Pub. L. 113–235][/us/pl/113/235] substituted “Director of the Government Publishing Office” for “Public Printer”.
 
 ----------
 
@@ -32,9 +36,12 @@
 
 [/us/pl/90/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F620
 [/us/stat/82/1279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1279
+[/us/pl/113/235/s1301/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fc%2F1
+[/us/stat/128/2537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2537
 [/us/act/1922-05-11/ch189/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-05-11%2Fch189%2Fs1
 [/us/stat/42/541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F541
 [/us/act/1932-06-30/ch314/s307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1932-06-30%2Fch314%2Fs307
 [/us/stat/47/409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F47%2F409
+[/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
 
 

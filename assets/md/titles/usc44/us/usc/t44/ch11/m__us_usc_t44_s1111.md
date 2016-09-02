@@ -13,9 +13,9 @@
 
 [Previous](./../../../..//us/usc/t44/ch11/m__us_usc_t44_s1110.md) | [Next](./../../../..//us/usc/t44/ch11/m__us_usc_t44_s1112.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs1111)
 
-## § 1111. Annual reports: time for furnishing manuscript and proofs to Public Printer
+## § 1111. Annual reports: time for furnishing manuscript and proofs to Director of the Government Publishing Office
 
-    The appropriations made for printing and binding may not be used for an annual report or the accompanying documents unless the manuscript and proof is furnished to the Public Printer in the following manner:
+    The appropriations made for printing and binding may not be used for an annual report or the accompanying documents unless the manuscript and proof is furnished to the Director of the Government Publishing Office in the following manner:
 
     manuscript of the documents accompanying annual reports on or before February 1, each year;
 
@@ -27,13 +27,15 @@
 
     This section does not apply to the annual reports of the Smithsonian Institution, the Comptroller of the Currency, or the Secretary of the Treasury.
 
-([Pub. L. 90–620][/us/pl/90/620], Oct. 22, 1968, [82 Stat. 1263][/us/stat/82/1263]; [Pub. L. 94–273, § 28][/us/pl/94/273/s28], Apr. 21, 1976, [90 Stat. 380][/us/stat/90/380]; [Pub. L. 106–113, div. B, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title IV, § 4732(b)(22)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–585.)
+([Pub. L. 90–620][/us/pl/90/620], Oct. 22, 1968, [82 Stat. 1263][/us/stat/82/1263]; [Pub. L. 94–273, § 28][/us/pl/94/273/s28], Apr. 21, 1976, [90 Stat. 380][/us/stat/90/380]; [Pub. L. 106–113, div. B, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title IV, § 4732(b)(22)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–585; [Pub. L. 113–235, div. H, title I, § 1301(c)][/us/pl/113/235/s1301/c], Dec. 16, 2014, [128 Stat. 2537][/us/stat/128/2537].)
 
  __Historical and Revision Notes__ 
 
     Based on 44 U.S. Code, 1964 ed., Supp. II, § 121 ([July 1, 1916, ch. 209, § 3][/us/act/1916-07-01/ch209/s3], [39 Stat. 336][/us/stat/39/336]; [June 20, 1936, ch. 630, § 8][/us/act/1936-06-20/ch630/s8], [49 Stat. 1550][/us/stat/49/1550]).
 
  __Amendments__ 
+
+    2014—[Pub. L. 113–235][/us/pl/113/235] substituted “Director of the Government Publishing Office” for “Public Printer” in section catchline and introductory provisions of first undesignated par.
 
     1999—[Pub. L. 106–113][/us/pl/106/113] struck out “the Commissioner of Patents,” after “Smithsonian Institution,” in last par.
 
@@ -56,10 +58,13 @@
 [/us/stat/90/380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F380
 [/us/pl/106/113/s1000/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F9
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
+[/us/pl/113/235/s1301/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fc
+[/us/stat/128/2537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2537
 [/us/act/1916-07-01/ch209/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-07-01%2Fch209%2Fs3
 [/us/stat/39/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F336
 [/us/act/1936-06-20/ch630/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-20%2Fch630%2Fs8
 [/us/stat/49/1550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1550
+[/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
 [/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
 [/us/pl/94/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F273
 [/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113

@@ -15,11 +15,15 @@
 
 ## § 1916. Designation of libraries of accredited law schools as depository libraries
 
-    (a) Upon the request of any accredited law school, the Public Printer shall designate the library of such law school as a depository library. The Public Printer may not make such designation unless he determines that the library involved meets the requirements of this chapter, other than those requirements of the first undesignated paragraph of [section 1909 of this title][/us/usc/t44/s1909] which relate to the location of such library.
+    (a) Upon the request of any accredited law school, the Director of the Government Publishing Office shall designate the library of such law school as a depository library. The Director of the Government Publishing Office may not make such designation unless he determines that the library involved meets the requirements of this chapter, other than those requirements of the first undesignated paragraph of [section 1909 of this title][/us/usc/t44/s1909] which relate to the location of such library.
 
     (b) For purposes of this section, the term “accredited law school” means any law school which is accredited by a nationally recognized accrediting agency or association approved by the Commissioner of Education for such purpose or accredited by the highest appellate court of the State in which the law school is located.
 
-(Added [Pub. L. 95–261, § 1][/us/pl/95/261/s1], Apr. 17, 1978, [92 Stat. 199][/us/stat/92/199].)
+(Added [Pub. L. 95–261, § 1][/us/pl/95/261/s1], Apr. 17, 1978, [92 Stat. 199][/us/stat/92/199]; amended [Pub. L. 113–235, div. H, title I, § 1301(c)(1)][/us/pl/113/235/s1301/c/1], Dec. 16, 2014, [128 Stat. 2537][/us/stat/128/2537].)
+
+ __Amendments__ 
+
+    2014—Subsec. (a). [Pub. L. 113–235][/us/pl/113/235] substituted “Director of the Government Publishing Office” for “Public Printer” in two places.
 
  __Effective Date__ 
 
@@ -41,6 +45,9 @@
 [/us/usc/t44/s1909]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs1909
 [/us/pl/95/261/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F261%2Fs1
 [/us/stat/92/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F199
+[/us/pl/113/235/s1301/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fc%2F1
+[/us/stat/128/2537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2537
+[/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
 [/us/pl/95/261/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F261%2Fs3
 [/us/stat/92/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F199
 [/us/usc/t20/s3441/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs3441%2Fa%2F1

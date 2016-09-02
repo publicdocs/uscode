@@ -15,15 +15,17 @@
 
 ## § 908. Congressional Record: payment for printing extracts or other documents
 
-    If a Member or Resident Commissioner fails to pay the cost of printing extracts from the Congressional Record or other documents ordered by him to be printed, the Public Printer shall certify the amount due to the Chief Administrative Officer of the House of Representatives or the financial clerk of the Senate, as the case may be, who shall deduct from any salary due the delinquent the amount, or as much of it as the salary due may cover, and pay the amount so obtained to the Public Printer, to be applied by him to the satisfaction of the indebtedness.
+    If a Member or Resident Commissioner fails to pay the cost of printing extracts from the Congressional Record or other documents ordered by him to be printed, the Director of the Government Publishing Office shall certify the amount due to the Chief Administrative Officer of the House of Representatives or the financial clerk of the Senate, as the case may be, who shall deduct from any salary due the delinquent the amount, or as much of it as the salary due may cover, and pay the amount so obtained to the Director of the Government Publishing Office, to be applied by him to the satisfaction of the indebtedness.
 
-([Pub. L. 90–620][/us/pl/90/620], Oct. 22, 1968, [82 Stat. 1260][/us/stat/82/1260]; [Pub. L. 104–186, title II, § 223(8)][/us/pl/104/186/s223/8], Aug. 20, 1996, [110 Stat. 1752][/us/stat/110/1752].)
+([Pub. L. 90–620][/us/pl/90/620], Oct. 22, 1968, [82 Stat. 1260][/us/stat/82/1260]; [Pub. L. 104–186, title II, § 223(8)][/us/pl/104/186/s223/8], Aug. 20, 1996, [110 Stat. 1752][/us/stat/110/1752]; [Pub. L. 113–235, div. H, title I, § 1301(c)(1)][/us/pl/113/235/s1301/c/1], Dec. 16, 2014, [128 Stat. 2537][/us/stat/128/2537].)
 
  __Historical and Revision Notes__ 
 
     Based on 44 U.S. Code, 1964 ed., § 163 ([Mar. 4, 1911, ch. 285, § 1][/us/act/1911-03-04/ch285/s1], [36 Stat. 1446][/us/stat/36/1446]).
 
  __Amendments__ 
+
+    2014—[Pub. L. 113–235][/us/pl/113/235] substituted “Director of the Government Publishing Office” for “Public Printer” in two places.
 
     1996—[Pub. L. 104–186][/us/pl/104/186] substituted “Chief Administrative Officer of the House of Representatives” for “Sergeant at Arms of the House”.
 
@@ -38,8 +40,11 @@
 [/us/stat/82/1260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1260
 [/us/pl/104/186/s223/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2Fs223%2F8
 [/us/stat/110/1752]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1752
+[/us/pl/113/235/s1301/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fc%2F1
+[/us/stat/128/2537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2537
 [/us/act/1911-03-04/ch285/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-04%2Fch285%2Fs1
 [/us/stat/36/1446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F1446
+[/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
 [/us/pl/104/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186
 
 

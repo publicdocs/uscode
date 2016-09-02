@@ -17,15 +17,23 @@
 
     In order to create an independent and objective office—
 
-    (1) to conduct and supervise audits and investigations relating to the Government Printing Office;
+    (1) to conduct and supervise audits and investigations relating to the Government Publishing Office;
 
     (2) to provide leadership and coordination and recommend policies to promote economy, efficiency, and effectiveness; and
 
-    (3) to provide a means of keeping the Public Printer and the Congress fully and currently informed about problems and deficiencies relating to the administration and operations of the Government Printing Office;
+    (3) to provide a means of keeping the Director of the Government Publishing Office and the Congress fully and currently informed about problems and deficiencies relating to the administration and operations of the Government Publishing Office;
 
-    there is hereby established an Office of Inspector General in the Government Printing Office.
+    there is hereby established an Office of Inspector General in the Government Publishing Office.
 
-(Added [Pub. L. 100–504, title II, § 202][/us/pl/100/504/s202], Oct. 18, 1988, [102 Stat. 2530][/us/stat/102/2530].)
+(Added [Pub. L. 100–504, title II, § 202][/us/pl/100/504/s202], Oct. 18, 1988, [102 Stat. 2530][/us/stat/102/2530]; amended [Pub. L. 113–235, div. H, title I, § 1301(b)][/us/pl/113/235/s1301/b], (c)(1), Dec. 16, 2014, [128 Stat. 2537][/us/stat/128/2537].)
+
+ __Amendments__ 
+
+    2014—Par. (3). [Pub. L. 113–235, § 1301(c)(1)][/us/pl/113/235/s1301/c/1], substituted “Director of the Government Publishing Office” for “Public Printer”.
+
+ __Change of Name__ 
+
+    “Government Publishing Office” substituted for “Government Printing Office” in pars. (1) and (3) and concluding provisions on authority of [section 1301(b) of Pub. L. 113–235][/us/pl/113/235/s1301/b], set out as a note preceding [section 301 of this title][/us/usc/t44/s301].
 
  __Effective Date__ 
 
@@ -39,23 +47,7 @@
 
  __Transfer of Office__ 
 
-[Pub. L. 100–504, title II, § 203][/us/pl/100/504/s203], Oct. 18, 1988, [102 Stat. 2531][/us/stat/102/2531], provided that:
-
->     “(a)  __In General__  __.—__ 
-
->     There is transferred to the Office of Inspector General established pursuant to this title \[enacting this chapter and provisions set out as notes under sections 101 and 3901 of this title\], the office of the Government Printing Office referred to as the ‘Office of Inspector General’.
-
->     “(b)  __Related Provisions__  __.—__ 
-
->     With respect to such transferred office—
-
->         “(1) sections 9(b) and (c) of the Inspector General Act of 1978 \[section 9(b), (c) of [Pub. L. 95–452][/us/pl/95/452], 5 U.S.C. App.\] shall apply; and
-
->         “(2) all the functions, powers, and duties of the office transferred by subsection (a) shall lapse.
-
->     “(c)  __Personnel__  __.—__ 
-
->     Any person who, on the effective date of this title \[see Effective Date note above\], held a position compensated in accordance with the applicable laws and regulations that govern selections, appointments, and employment within the Government Printing Office, and who, without a break in service, is appointed in the Office of Inspector General established by this title to a position having duties comparable to those performed immediately preceding such appointment shall continue to be compensated in the new position at not less than the rate provided for the previous position, for the duration of service in the new position.”
+    [Pub. L. 100–504, title II, § 203][/us/pl/100/504/s203], Oct. 18, 1988, [102 Stat. 2531][/us/stat/102/2531] transferred the office of the Government Printing Office referred to as the “Office of Inspector General”, and the functions, powers, duties, and certain personnel of that office, to the Office of Inspector General in the Government Printing Office.
 
  __Payment Authority Subject to Appropriations__ 
 
@@ -72,6 +64,11 @@
 
 [/us/pl/100/504/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F504%2Fs202
 [/us/stat/102/2530]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2530
+[/us/pl/113/235/s1301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fb
+[/us/stat/128/2537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2537
+[/us/pl/113/235/s1301/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fc%2F1
+[/us/pl/113/235/s1301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fb
+[/us/usc/t44/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs301
 [/us/pl/100/504/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F504%2Fs206
 [/us/stat/102/2532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2532
 [/us/pl/100/504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F504
@@ -79,7 +76,6 @@
 [/us/usc/t44/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs101
 [/us/pl/100/504/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F504%2Fs203
 [/us/stat/102/2531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2531
-[/us/pl/95/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F452
 [/us/pl/100/504/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F504%2Fs205
 [/us/stat/102/2531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2531
 

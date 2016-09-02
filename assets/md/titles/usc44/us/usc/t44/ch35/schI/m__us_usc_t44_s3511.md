@@ -23,7 +23,7 @@
 
         (2) require each agency to establish and maintain an agency information locator service as a component of, and to support the establishment and operation of the Service;
 
-        (3) in cooperation with the Archivist of the United States, the Administrator of General Services, the Public Printer, and the Librarian of Congress, establish an interagency committee to advise the Secretary of Commerce on the development of technical standards for the Service to ensure compatibility, promote information sharing, and uniform access by the public;
+        (3) in cooperation with the Archivist of the United States, the Administrator of General Services, the Director of the Government Publishing Office, and the Librarian of Congress, establish an interagency committee to advise the Secretary of Commerce on the development of technical standards for the Service to ensure compatibility, promote information sharing, and uniform access by the public;
 
         (4) consider public access and other user needs in the establishment and operation of the Service;
 
@@ -33,7 +33,7 @@
 
     (b) This section shall not apply to operational files as defined by the Central Intelligence Agency Information Act ([50 U.S.C. 431][/us/usc/t50/s431] et seq.). <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup> 
 
-(Added [Pub. L. 104–13, § 2][/us/pl/104/13/s2], May 22, 1995, [109 Stat. 180][/us/stat/109/180].)
+(Added [Pub. L. 104–13, § 2][/us/pl/104/13/s2], May 22, 1995, [109 Stat. 180][/us/stat/109/180]; amended [Pub. L. 113–235, div. H, title I, § 1301(c)(1)][/us/pl/113/235/s1301/c/1], Dec. 16, 2014, [128 Stat. 2537][/us/stat/128/2537].)
 
  __References in Text__ 
 
@@ -45,6 +45,10 @@
 
     Another prior section 3511, [Pub. L. 90–620][/us/pl/90/620], Oct. 22, 1968, [82 Stat. 1305][/us/stat/82/1305], provided for penalty for failure to furnish information, prior to the general amendment of this chapter by [Pub. L. 96–511][/us/pl/96/511].
 
+ __Amendments__ 
+
+    2014—Subsec. (a)(3). [Pub. L. 113–235][/us/pl/113/235] substituted “Director of the Government Publishing Office” for “Public Printer”.
+
 ----------
 
 [Previous](./../../../../..//us/usc/t44/ch35/schI/m__us_usc_t44_s3510.md) | [Next](./../../../../..//us/usc/t44/ch35/schI/m__us_usc_t44_s3512.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3511)
@@ -55,6 +59,8 @@
 [/us/usc/t50/s431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs431
 [/us/pl/104/13/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F13%2Fs2
 [/us/stat/109/180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F180
+[/us/pl/113/235/s1301/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fc%2F1
+[/us/stat/128/2537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2537
 [/us/pl/98/477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F477
 [/us/stat/98/2209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2209
 [/us/pl/96/511/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F511%2Fs2%2Fa
@@ -67,5 +73,6 @@
 [/us/pl/90/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F620
 [/us/stat/82/1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1305
 [/us/pl/96/511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F511
+[/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
 
 

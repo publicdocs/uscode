@@ -13,9 +13,9 @@
 
 [Previous](./../../../..//us/usc/t44/ch3/m__us_usc_t44_s308.md) | [Next](./../../../..//us/usc/t44/ch3/m__us_usc_t44_s310.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs309)
 
-## § 309. Revolving fund for operation and maintenance of Government Printing Office: capitalization; reimbursements and credits; accounting and budgeting; reports
+## § 309. Revolving fund for operation and maintenance of Government Publishing Office: capitalization; reimbursements and credits; accounting and budgeting; reports
 
-    (a) The revolving fund of $1,000,000 established July 1, 1953, is available without fiscal year limitation, for—    the operation and maintenance of the Government Printing Office (except for those programs of the Superintendent of Documents which are funded by specific appropriations), including rental of buildings;
+    (a) The revolving fund of $1,000,000 established July 1, 1953, is available without fiscal year limitation, for—    the operation and maintenance of the Government Publishing Office (except for those programs of the Superintendent of Documents which are funded by specific appropriations), including rental of buildings;
 
         attendance at meetings;
 
@@ -29,37 +29,45 @@
 
         expenses authorized in writing by the Joint Committee on Printing for inspection of Government printing activities.
 
-        In addition, the Public Printer shall provide capital for the fund by capitalizing, at fair and reasonable values as jointly determined by him and the Comptroller General, the current inventories, plant, and building appurtenances, except building structures and land, equipment, and other assets of the Government Printing Office.
+        In addition, the Director of the Government Publishing Office shall provide capital for the fund by capitalizing, at fair and reasonable values as jointly determined by the Director and the Comptroller General, the current inventories, plant, and building appurtenances, except building structures and land, equipment, and other assets of the Government Publishing Office.
 
     (b)
 
      The fund shall be—
 
-        (1) reimbursed for the cost of all services and supplies furnished, including those furnished other appropriations of the Government Printing Office, at rates which include charges for overhead and related expenses, depreciation of plant and building appurtenances, except building structures and land, and equipment, and accrued leave; and
+        (1) reimbursed for the cost of all services and supplies furnished, including those furnished other appropriations of the Government Publishing Office, at rates which include charges for overhead and related expenses, depreciation of plant and building appurtenances, except building structures and land, and equipment, and accrued leave; and
 
         (2) credited with all receipts including sales of Government publications, waste, condemned, and surplus property and with payments received for losses or damage to property.
 
-    (c) An adequate system of accounts for the fund shall be maintained on the accrual method, and financial reports prepared on the basis of the accounts. The Public Printer shall prepare and submit an annual business-type budget program for the operations under this fund. This budget program shall be considered and enacted as prescribed by [section 9104 of title 31][/us/usc/t31/s9104].
+    (c) An adequate system of accounts for the fund shall be maintained on the accrual method, and financial reports prepared on the basis of the accounts. The Director of the Government Publishing Office shall prepare and submit an annual business-type budget program for the operations under this fund. This budget program shall be considered and enacted as prescribed by [section 9104 of title 31][/us/usc/t31/s9104].
 
-    (d) The Inspector General of the Government Printing Office shall audit the financial and operational activities of the Government Printing Office each year. The audits shall be conducted under the direction of the Joint Committee on Printing. For purposes of the audits, the Inspector General shall have such access to the records, files, personnel, and facilities of the Government Printing Office as the Inspector General considers appropriate. The Inspector General shall furnish reports of the audits to the Congress and the Public Printer.
+    (d) The Inspector General of the Government Publishing Office shall audit the financial and operational activities of the Government Publishing Office each year. The audits shall be conducted under the direction of the Joint Committee on Printing. For purposes of the audits, the Inspector General shall have such access to the records, files, personnel, and facilities of the Government Publishing Office as the Inspector General considers appropriate. The Inspector General shall furnish reports of the audits to the Congress and the Director of the Government Publishing Office.
 
     (e)
 
-     The Public Printer shall prepare an annual financial statement meeting the requirements of [section 3515(b) of title 31][/us/usc/t31/s3515/b], United States Code. Each financial statement shall be audited in accordance with applicable generally accepted Government auditing standards—
+     The Director of the Government Publishing Office shall prepare an annual financial statement meeting the requirements of [section 3515(b) of title 31][/us/usc/t31/s3515/b], United States Code. Each financial statement shall be audited in accordance with applicable generally accepted Government auditing standards—
 
-        (1) by an independent external auditor selected by the Public Printer, or
+        (1) by an independent external auditor selected by the Director of the Government Publishing Office, or
 
-        (2) at the request of the Joint Committee on Printing, by the Inspector General of the Government Printing Office.
+        (2) at the request of the Joint Committee on Printing, by the Inspector General of the Government Publishing Office.
 
-    (f) The Comptroller General of the United States may audit the financial statement prepared under subsection (e) at his or her discretion or at the request of the Joint Committee on Printing. An audit by the Comptroller General shall be in lieu of the audit otherwise required by that subsection.
+    (f) The Comptroller General of the United States may audit the financial statement prepared under subsection (e) at the discretion of the Comptroller General or at the request of the Joint Committee on Printing. An audit by the Comptroller General shall be in lieu of the audit otherwise required by that subsection.
 
-([Pub. L. 90–620][/us/pl/90/620], Oct. 22, 1968, [82 Stat. 1241][/us/stat/82/1241]; [Pub. L. 93–604, title VII, § 707][/us/pl/93/604/s707], Jan. 2, 1975, [88 Stat. 1965][/us/stat/88/1965]; [Pub. L. 97–258, § 3(m)(2)][/us/pl/97/258/s3/m/2], Sept. 13, 1982, [96 Stat. 1066][/us/stat/96/1066]; [Pub. L. 100–458, title III, § 310][/us/pl/100/458/s310], Oct. 1, 1988, [102 Stat. 2184][/us/stat/102/2184]; [Pub. L. 101–163, title III, § 309][/us/pl/101/163/s309], Nov. 21, 1989, [103 Stat. 1065][/us/stat/103/1065]; [Pub. L. 101–520, title II, § 207][/us/pl/101/520/s207], Nov. 5, 1990, [104 Stat. 2274][/us/stat/104/2274]; [Pub. L. 103–69, title II, § 207(a)][/us/pl/103/69/s207/a], Aug. 11, 1993, [107 Stat. 707][/us/stat/107/707]; [Pub. L. 104–316, title I, § 123(a)][/us/pl/104/316/s123/a], Oct. 19, 1996, [110 Stat. 3839][/us/stat/110/3839].)
+([Pub. L. 90–620][/us/pl/90/620], Oct. 22, 1968, [82 Stat. 1241][/us/stat/82/1241]; [Pub. L. 93–604, title VII, § 707][/us/pl/93/604/s707], Jan. 2, 1975, [88 Stat. 1965][/us/stat/88/1965]; [Pub. L. 97–258, § 3(m)(2)][/us/pl/97/258/s3/m/2], Sept. 13, 1982, [96 Stat. 1066][/us/stat/96/1066]; [Pub. L. 100–458, title III, § 310][/us/pl/100/458/s310], Oct. 1, 1988, [102 Stat. 2184][/us/stat/102/2184]; [Pub. L. 101–163, title III, § 309][/us/pl/101/163/s309], Nov. 21, 1989, [103 Stat. 1065][/us/stat/103/1065]; [Pub. L. 101–520, title II, § 207][/us/pl/101/520/s207], Nov. 5, 1990, [104 Stat. 2274][/us/stat/104/2274]; [Pub. L. 103–69, title II, § 207(a)][/us/pl/103/69/s207/a], Aug. 11, 1993, [107 Stat. 707][/us/stat/107/707]; [Pub. L. 104–316, title I, § 123(a)][/us/pl/104/316/s123/a], Oct. 19, 1996, [110 Stat. 3839][/us/stat/110/3839]; [Pub. L. 113–235, div. H, title I, § 1301(b)][/us/pl/113/235/s1301/b], (c)(1), (i)(5), Dec. 16, 2014, [128 Stat. 2537][/us/stat/128/2537], 2538.)
 
  __Historical and Revision Notes__ 
 
     Based on 44 U.S. Code, 1964 ed., § 63, 63a ([Aug. 1, 1953, ch. 304][/us/act/1953-08-01/ch304], title I, § 101, [67 Stat. 330][/us/stat/67/330]; [Aug. 5, 1955, ch. 568, § 101][/us/act/1955-08-05/ch568/s101], [69 Stat. 519][/us/stat/69/519]; [June 27, 1956, ch. 453, § 101][/us/act/1956-06-27/ch453/s101], [70 Stat. 369][/us/stat/70/369]); § 63a (July 28, 1967, [Pub. L. 90–57, § 101][/us/pl/90/57/s101] (part), [81 Stat. 141][/us/stat/81/141]).
 
  __Amendments__ 
+
+    2014—Subsec. (a). [Pub. L. 113–235, § 1301(i)(5)(A)][/us/pl/113/235/s1301/i/5/A], substituted “by the Director” for “by him” in concluding provisions.
+
+    [Pub. L. 113–235, § 1301(c)(1)][/us/pl/113/235/s1301/c/1], substituted “Director of the Government Publishing Office” for “Public Printer” in concluding provisions.
+
+    Subsecs. (c), (d), (e), (e)(1). [Pub. L. 113–235, § 1301(c)(1)][/us/pl/113/235/s1301/c/1], substituted “Director of the Government Publishing Office” for “Public Printer”.
+
+    Subsec. (f). [Pub. L. 113–235, § 1301(i)(5)(B)][/us/pl/113/235/s1301/i/5/B], substituted “the discretion of the Comptroller General” for “his or her discretion”.
 
     1996—Subsec. (d). [Pub. L. 104–316, § 123(a)(1)][/us/pl/104/316/s123/a/1], amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “The Comptroller General shall audit the activities of the Government Printing Office at least once every 3 years and shall furnish reports of such audits to the Congress and the Public Printer. For these purposes the Comptroller General shall have such access to the records, files, personnel, and facilities of the Government Printing Office as he considers necessary.”
 
@@ -80,6 +88,10 @@
     1982—Subsec. (d). [Pub. L. 97–258][/us/pl/97/258] substituted “[section 9104 of title 31][/us/usc/t31/s9104]” for “[section 849 of title 31][/us/usc/t31/s849]”.
 
     1975—Subsec. (c). [Pub. L. 93–604][/us/pl/93/604] substituted provisions that the Comptroller General shall audit the activities of the Government Printing Office at least once in every three years and furnish reports of the audits to the Congress and the Public Printer for provisions that the General Accounting Office shall audit the activities of the Government Printing Office and furnish an audit report annually to the Congress and the Public Printer.
+
+ __Change of Name__ 
+
+    “Government Publishing Office” substituted for “Government Printing Office” in section catchline and subsecs. (a), (b)(1), (d), and (e)(2) on authority of [section 1301(b) of Pub. L. 113–235][/us/pl/113/235/s1301/b], set out as a note preceding [section 301 of this title][/us/usc/t44/s301].
 
  __Effective Date of 1993 Amendment__ 
 
@@ -122,6 +134,8 @@ Title II of S. 2939, Ninety-seventh Congress, 2d Session, as reported Sept. 22, 
 [/us/stat/107/707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F707
 [/us/pl/104/316/s123/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2Fs123%2Fa
 [/us/stat/110/3839]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3839
+[/us/pl/113/235/s1301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fb
+[/us/stat/128/2537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2537
 [/us/act/1953-08-01/ch304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-08-01%2Fch304
 [/us/stat/67/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F330
 [/us/act/1955-08-05/ch568/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-05%2Fch568%2Fs101
@@ -130,6 +144,10 @@ Title II of S. 2939, Ninety-seventh Congress, 2d Session, as reported Sept. 22, 
 [/us/stat/70/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F369
 [/us/pl/90/57/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F57%2Fs101
 [/us/stat/81/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F141
+[/us/pl/113/235/s1301/i/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fi%2F5%2FA
+[/us/pl/113/235/s1301/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fc%2F1
+[/us/pl/113/235/s1301/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fc%2F1
+[/us/pl/113/235/s1301/i/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fi%2F5%2FB
 [/us/pl/104/316/s123/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2Fs123%2Fa%2F1
 [/us/pl/104/316/s123/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2Fs123%2Fa%2F2
 [/us/pl/103/69]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F69
@@ -145,6 +163,8 @@ Title II of S. 2939, Ninety-seventh Congress, 2d Session, as reported Sept. 22, 
 [/us/usc/t31/s9104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs9104
 [/us/usc/t31/s849]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs849
 [/us/pl/93/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F604
+[/us/pl/113/235/s1301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fb
+[/us/usc/t44/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs301
 [/us/pl/103/69/s207/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F69%2Fs207%2Fc
 [/us/stat/107/708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F708
 [/us/usc/t44/s1708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs1708

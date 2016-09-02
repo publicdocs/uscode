@@ -35,7 +35,7 @@
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs1102" data-uslm-ref="/us/usc/t44/s1102">1102.</a>  </td>
 
-    <td> Printing to be authorized by law and necessary to the public business, not in excess of appropriation, and on special requisition filed with the Public Printer.  </td>
+    <td> Printing to be authorized by law and necessary to the public business, not in excess of appropriation, and on special requisition filed with the Director of the Government Publishing Office.  </td>
 
   </tr>
 
@@ -107,7 +107,7 @@
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs1111" data-uslm-ref="/us/usc/t44/s1111">1111.</a>  </td>
 
-    <td> Annual reports: time for furnishing manuscript and proofs to Public Printer.  </td>
+    <td> Annual reports: time for furnishing manuscript and proofs to Director of the Government Publishing Office.  </td>
 
   </tr>
 
@@ -139,7 +139,7 @@
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs1115" data-uslm-ref="/us/usc/t44/s1115">1115.</a>  </td>
 
-    <td> Annual reports: time of delivery by Public Printer to Congress.  </td>
+    <td> Annual reports: time of delivery by Director of the Government Publishing Office to Congress.  </td>
 
   </tr>
 
@@ -211,6 +211,8 @@
 
  __Amendments__ 
 
+    2014—[Pub. L. 113–235, div. H, title I, § 1301(c)(1)][/us/pl/113/235/s1301/c/1], Dec. 16, 2014, [128 Stat. 2537][/us/stat/128/2537], substituted “Director of the Government Publishing Office” for “Public Printer” in items 1102, 1111, and 1115.
+
     1984—[Pub. L. 98–216, § 3(d)(1)][/us/pl/98/216/s3/d/1], Feb. 14, 1984, [98 Stat. 6][/us/stat/98/6], substituted “Presidential” for “Bureau of Budget” in item 1108.
 
  __Federal Records Management Provisions Without Effect on Chapter__ 
@@ -224,6 +226,8 @@
 ----------
 ----------
 
+[/us/pl/113/235/s1301/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fc%2F1
+[/us/stat/128/2537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2537
 [/us/pl/98/216/s3/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F216%2Fs3%2Fd%2F1
 [/us/stat/98/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F6
 [/us/pl/94/575/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F575%2Fs5%2Fb

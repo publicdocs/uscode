@@ -27,7 +27,7 @@
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs1701" data-uslm-ref="/us/usc/t44/s1701">1701.</a>  </td>
 
-    <td> Publications for public distribution to be distributed by the Public Printer; mailing lists.  </td>
+    <td> Publications for public distribution to be distributed by the Director of the Government Publishing Office; mailing lists.  </td>
 
   </tr>
 
@@ -115,7 +115,7 @@
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs1712" data-uslm-ref="/us/usc/t44/s1712">1712.</a>  </td>
 
-    <td> Documents for use of the Public Printer.  </td>
+    <td> Documents for use of the Director of the Government Publishing Office.  </td>
 
   </tr>
 
@@ -201,6 +201,10 @@
 
 </table>
 
+ __Amendments__ 
+
+    2014—[Pub. L. 113–235, div. H, title I, § 1301(c)(1)][/us/pl/113/235/s1301/c/1], Dec. 16, 2014, [128 Stat. 2537][/us/stat/128/2537], substituted “Director of the Government Publishing Office” for “Public Printer” in items 1701 and 1712.
+
  __Federal Records Management Provisions Without Effect on Chapter__ 
 
     Authority and responsibilities under chapter not limited or repealed by Federal Records Management Amendments of 1976, see [section 5(b) of Pub. L. 94–575][/us/pl/94/575/s5/b], set out as a note under [section 2901 of this title][/us/usc/t44/s2901].
@@ -212,6 +216,8 @@
 ----------
 ----------
 
+[/us/pl/113/235/s1301/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fc%2F1
+[/us/stat/128/2537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2537
 [/us/pl/94/575/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F575%2Fs5%2Fb
 [/us/usc/t44/s2901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs2901
 

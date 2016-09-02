@@ -339,7 +339,7 @@
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs1340" data-uslm-ref="/us/usc/t44/s1340">1340.</a>  </td>
 
-    <td> Public Printer: annual report.  </td>
+    <td> Director of the Government Publishing Office: annual report.  </td>
 
   </tr>
 
@@ -379,6 +379,8 @@
 
  __Amendments__ 
 
+    2014—[Pub. L. 113–235, div. H, title I, § 1301(c)(1)][/us/pl/113/235/s1301/c/1], Dec. 16, 2014, [128 Stat. 2537][/us/stat/128/2537], substituted “Director of the Government Publishing Office” for “Public Printer” in item 1340.
+
     2008—[Pub. L. 110–417][/us/pl/110/417], \[div. A\], title IX, § 931(a)(2), Oct. 14, 2008, [122 Stat. 4575][/us/stat/122/4575], substituted “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency” in item 1336.
 
     2000—[Pub. L. 106–181, title VI, § 606(d)][/us/pl/106/181/s606/d], Apr. 5, 2000, [114 Stat. 154][/us/stat/114/154], struck out “and aeronautical” after “nautical” in item 1307.
@@ -404,6 +406,8 @@
 ----------
 ----------
 
+[/us/pl/113/235/s1301/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fc%2F1
+[/us/stat/128/2537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2537
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4575
 [/us/pl/106/181/s606/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs606%2Fd

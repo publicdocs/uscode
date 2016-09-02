@@ -13,7 +13,7 @@
 
 [Previous](./../../../..//us/usc/t44/ch1/m__us_usc_t44_s103.md) | [Next](./../../../..//us/usc/t44/ch3/m__us_usc_t44_s301.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fch3)
 
-## CHAPTER 3—GOVERNMENT PRINTING OFFICE
+## CHAPTER 3—GOVERNMENT PUBLISHING OFFICE
 
 <table>
 
@@ -27,7 +27,7 @@
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs301" data-uslm-ref="/us/usc/t44/s301">301.</a>  </td>
 
-    <td> Public Printer: appointment.  </td>
+    <td> Director of the Government Publishing Office: appointment.  </td>
 
   </tr>
 
@@ -35,7 +35,7 @@
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs302" data-uslm-ref="/us/usc/t44/s302">302.</a>  </td>
 
-    <td> Deputy Public Printer: appointment; duties.  </td>
+    <td> Deputy Director of the Government Publishing Office: appointment; duties.  </td>
 
   </tr>
 
@@ -43,7 +43,7 @@
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs303" data-uslm-ref="/us/usc/t44/s303">303.</a>  </td>
 
-    <td> Public Printer and Deputy Public Printer: pay.  </td>
+    <td> Director of the Government Publishing Office and Deputy Director of the Government Publishing Office: pay.  </td>
 
   </tr>
 
@@ -51,7 +51,7 @@
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs304" data-uslm-ref="/us/usc/t44/s304">304.</a>  </td>
 
-    <td> Public Printer: vacancy in office.  </td>
+    <td> Director of the Government Publishing Office: vacancy in office.  </td>
 
   </tr>
 
@@ -59,7 +59,7 @@
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs305" data-uslm-ref="/us/usc/t44/s305">305.</a>  </td>
 
-    <td> Public Printer: employees; pay.  </td>
+    <td> Director of the Government Publishing Office: employees; pay.  </td>
 
   </tr>
 
@@ -67,7 +67,7 @@
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs306" data-uslm-ref="/us/usc/t44/s306">306.</a>  </td>
 
-    <td> Public Printer: employment of skilled workmen; trial of skill.  </td>
+    <td> Director of the Government Publishing Office: employment of skilled workmen; trial of skill.  </td>
 
   </tr>
 
@@ -75,7 +75,7 @@
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs307" data-uslm-ref="/us/usc/t44/s307">307.</a>  </td>
 
-    <td> Public Printer: night work.  </td>
+    <td> Director of the Government Publishing Office: night work.  </td>
 
   </tr>
 
@@ -91,7 +91,7 @@
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs309" data-uslm-ref="/us/usc/t44/s309">309.</a>  </td>
 
-    <td> Revolving fund for operation and maintenance of Government Printing Office: capitalization; reimbursements and credits; accounting and budgeting; reports.  </td>
+    <td> Revolving fund for operation and maintenance of Government Publishing Office: capitalization; reimbursements and credits; accounting and budgeting; reports.  </td>
 
   </tr>
 
@@ -139,7 +139,7 @@
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs315" data-uslm-ref="/us/usc/t44/s315">315.</a>  </td>
 
-    <td> Branches of Government Printing Office; limitations.  </td>
+    <td> Branches of Government Publishing Office; limitations.  </td>
 
   </tr>
 
@@ -147,7 +147,7 @@
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs316" data-uslm-ref="/us/usc/t44/s316">316.</a>  </td>
 
-    <td> Detail of employees of Government Printing Office to other Government establishments.  </td>
+    <td> Detail of employees of Government Publishing Office to other Government establishments.  </td>
 
   </tr>
 
@@ -171,6 +171,10 @@
 
  __Amendments__ 
 
+    2014—[Pub. L. 113–235, div. H, title I, § 1301(e)(1)][/us/pl/113/235/s1301/e/1], Dec. 16, 2014, [128 Stat. 2537][/us/stat/128/2537], substituted “Deputy Director of the Government Publishing Office” for “Deputy Public Printer” in items 302 and 303.
+
+    [Pub. L. 113–235, div. H, title I, § 1301(c)(1)][/us/pl/113/235/s1301/c/1], Dec. 16, 2014, [128 Stat. 2537][/us/stat/128/2537], substituted “Director of the Government Publishing Office” for “Public Printer” in items 301 and 303 to 307.
+
     2011—[Pub. L. 111–350, § 5(m)(1)][/us/pl/111/350/s5/m/1], Jan. 4, 2011, [124 Stat. 3853][/us/stat/124/3853], substituted “subtitle I of title 40 and division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” for “the Federal Property and Administrative Services Act” in item 311.
 
     2003—[Pub. L. 108–83, title I, § 1302(b)][/us/pl/108/83/s1302/b], Sept. 30, 2003, [117 Stat. 1034][/us/stat/117/1034], added item 318.
@@ -187,6 +191,18 @@
 
     1970—[Pub. L. 91–359, § 1(b)][/us/pl/91/359/s1/b], July 31, 1970, [84 Stat. 668][/us/stat/84/668], added item 317.
 
+ __Change of Name__ 
+
+[Pub. L. 113–235, div. H, title I, § 1301(a)][/us/pl/113/235/s1301/a], (b), Dec. 16, 2014, [128 Stat. 2537][/us/stat/128/2537], provided that:
+
+>     “(a)  __In General__  __.—__ 
+
+>     The Government Printing Office is hereby redesignated the Government Publishing Office.
+
+>     “(b)  __References__  __.—__ 
+
+>     Any reference to the Government Printing Office in any law, rule, regulation, certificate, directive, instruction, or other official paper in force on the date of enactment of this Act \[Dec. 16, 2014\] shall be considered to refer and apply to the Government Publishing Office.”
+
  __Federal Records Management Provisions Without Effect on Chapter__ 
 
     Authority and responsibilities under chapter not limited or repealed by Federal Records Management Amendments of 1976, see [section 5(b) of Pub. L. 94–575][/us/pl/94/575/s5/b], set out as a note under [section 2901 of this title][/us/usc/t44/s2901].
@@ -198,6 +214,10 @@
 ----------
 ----------
 
+[/us/pl/113/235/s1301/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fe%2F1
+[/us/stat/128/2537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2537
+[/us/pl/113/235/s1301/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fc%2F1
+[/us/stat/128/2537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2537
 [/us/pl/111/350/s5/m/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs5%2Fm%2F1
 [/us/stat/124/3853]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3853
 [/us/pl/108/83/s1302/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F83%2Fs1302%2Fb
@@ -214,6 +234,8 @@
 [/us/stat/86/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F204
 [/us/pl/91/359/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F359%2Fs1%2Fb
 [/us/stat/84/668]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F668
+[/us/pl/113/235/s1301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fa
+[/us/stat/128/2537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2537
 [/us/pl/94/575/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F575%2Fs5%2Fb
 [/us/usc/t44/s2901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs2901
 

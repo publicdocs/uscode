@@ -35,7 +35,7 @@
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs1902" data-uslm-ref="/us/usc/t44/s1902">1902.</a>  </td>
 
-    <td> Availability of Government publications through Superintendent of Documents; lists of publications not ordered from Government Printing Office.  </td>
+    <td> Availability of Government publications through Superintendent of Documents; lists of publications not ordered from Government Publishing Office.  </td>
 
   </tr>
 
@@ -131,7 +131,7 @@
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs1914" data-uslm-ref="/us/usc/t44/s1914">1914.</a>  </td>
 
-    <td> Implementation of depository library program by Public Printer.  </td>
+    <td> Implementation of depository library program by Director of the Government Publishing Office.  </td>
 
   </tr>
 
@@ -155,6 +155,12 @@
 
  __Amendments__ 
 
+    2014—[Pub. L. 113–235, div. H, title I, § 1301(c)(1)][/us/pl/113/235/s1301/c/1], Dec. 16, 2014, [128 Stat. 2537][/us/stat/128/2537], substituted “Director of the Government Publishing Office” for “Public Printer” in item 1914.
+
+ __Change of Name__ 
+
+    “Government Publishing Office” substituted for “Government Printing Office” in item 1902 on authority of [section 1301(b) of Pub. L. 113–235][/us/pl/113/235/s1301/b], div. H, title I, Dec. 16, 2014, [128 Stat. 2537][/us/stat/128/2537], set out as a note preceding [section 301 of this title][/us/usc/t44/s301].
+
     1978—[Pub. L. 95–261, § 2][/us/pl/95/261/s2], Apr. 17, 1978, [92 Stat. 199][/us/stat/92/199], added item 1916.
 
     1972—[Pub. L. 92–368, § 1(b)][/us/pl/92/368/s1/b], Aug. 10, 1972, [86 Stat. 507][/us/stat/86/507], added item 1915.
@@ -170,6 +176,11 @@
 ----------
 ----------
 
+[/us/pl/113/235/s1301/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fc%2F1
+[/us/stat/128/2537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2537
+[/us/pl/113/235/s1301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fb
+[/us/stat/128/2537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2537
+[/us/usc/t44/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs301
 [/us/pl/95/261/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F261%2Fs2
 [/us/stat/92/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F199
 [/us/pl/92/368/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F368%2Fs1%2Fb

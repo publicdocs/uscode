@@ -15,9 +15,9 @@
 
 ## § 907. Congressional Record: extracts for Members of Congress; mailing envelopes
 
-    The Public Printer may print and deliver, upon the order of a Member of Congress and payment of the cost, extracts from the Congressional Record. The Public Printer may furnish without cost to Members and the Resident Commissioner, envelopes, ready for mailing the Congressional Record or any part of it, or speeches, or reports in it, if such part, speeches, or reports are mailable as franked mail under [section 3210 of title 39][/us/usc/t39/s3210]. Envelopes so furnished shall contain in the upper left-hand corner the following words: “United States Senate” or “House of Representatives, U.S. Part of Congressional Record.”, and in the upper right-hand corner the letters “U.S.S.” or “M.C.”, and the Public Printer may, at the request of a Member or Resident Commissioner, print in addition to the foregoing, his name and State or Commonwealth, the date, and the topic or subject matter, not exceeding twelve words. He may not print any other words on envelopes, except at the personal expense of the Member or Resident Commissioner ordering the envelopes, except to affix the official title of a document. The Public Printer shall deposit moneys accruing under this section in the Treasury of the United States to the credit of the appropriation made for the working capital of the Government Printing Office for the year in which the work is done, and accounted for in his annual report to Congress.
+    The Director of the Government Publishing Office may print and deliver, upon the order of a Member of Congress and payment of the cost, extracts from the Congressional Record. The Director of the Government Publishing Office may furnish without cost to Members and the Resident Commissioner, envelopes, ready for mailing the Congressional Record or any part of it, or speeches, or reports in it, if such part, speeches, or reports are mailable as franked mail under [section 3210 of title 39][/us/usc/t39/s3210]. Envelopes so furnished shall contain in the upper left-hand corner the following words: “United States Senate” or “House of Representatives, U.S. Part of Congressional Record.”, and in the upper right-hand corner the letters “U.S.S.” or “M.C.”, and the Director of the Government Publishing Office may, at the request of a Member or Resident Commissioner, print in addition to the foregoing, his name and State or Commonwealth, the date, and the topic or subject matter, not exceeding twelve words. He may not print any other words on envelopes, except at the personal expense of the Member or Resident Commissioner ordering the envelopes, except to affix the official title of a document. The Director of the Government Publishing Office shall deposit moneys accruing under this section in the Treasury of the United States to the credit of the appropriation made for the working capital of the Government Publishing Office for the year in which the work is done, and accounted for in his annual report to Congress.
 
-([Pub. L. 90–620][/us/pl/90/620], Oct. 22, 1968, [82 Stat. 1259][/us/stat/82/1259]; [Pub. L. 93–191, § 8(b)][/us/pl/93/191/s8/b], Dec. 18, 1973, [87 Stat. 745][/us/stat/87/745]; [Pub. L. 93–255, § 2(c)][/us/pl/93/255/s2/c], Mar. 27, 1974, [88 Stat. 52][/us/stat/88/52].)
+([Pub. L. 90–620][/us/pl/90/620], Oct. 22, 1968, [82 Stat. 1259][/us/stat/82/1259]; [Pub. L. 93–191, § 8(b)][/us/pl/93/191/s8/b], Dec. 18, 1973, [87 Stat. 745][/us/stat/87/745]; [Pub. L. 93–255, § 2(c)][/us/pl/93/255/s2/c], Mar. 27, 1974, [88 Stat. 52][/us/stat/88/52]; [Pub. L. 113–235, div. H, title I, § 1301(b)][/us/pl/113/235/s1301/b], (c)(1), Dec. 16, 2014, [128 Stat. 2537][/us/stat/128/2537].)
 
  __Historical and Revision Notes__ 
 
@@ -25,9 +25,15 @@
 
  __Amendments__ 
 
+    2014—[Pub. L. 113–235, § 1301(c)(1)][/us/pl/113/235/s1301/c/1], substituted “Director of the Government Publishing Office” for “Public Printer” wherever appearing.
+
     1974—[Pub. L. 93–255][/us/pl/93/255] struck out “Postage paid by Congress” after “Part of Congressional Record.”.
 
     1973—[Pub. L. 93–191][/us/pl/93/191] inserted at end of second sentence “, if such part, speeches, or reports are mailable as franked mail under [section 3210 of title 39][/us/usc/t39/s3210]” and substituted in third sentence “Postage paid by Congress” for “Free”.
+
+ __Change of Name__ 
+
+    “Government Publishing Office” substituted for “Government Printing Office” in text on authority of [section 1301(b) of Pub. L. 113–235][/us/pl/113/235/s1301/b], set out as a note preceding [section 301 of this title][/us/usc/t44/s301].
 
  __Effective Date of 1973 Amendment__ 
 
@@ -51,6 +57,8 @@
 [/us/stat/87/745]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F745
 [/us/pl/93/255/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F255%2Fs2%2Fc
 [/us/stat/88/52]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F52
+[/us/pl/113/235/s1301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fb
+[/us/stat/128/2537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2537
 [/us/act/1895-01-12/ch23/s37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1895-01-12%2Fch23%2Fs37
 [/us/stat/28/606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F28%2F606
 [/us/act/1895-03-02/ch189/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1895-03-02%2Fch189%2Fs1
@@ -59,9 +67,12 @@
 [/us/stat/33/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F33%2F9
 [/us/act/1925-03-04/ch549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1925-03-04%2Fch549
 [/us/stat/43/1300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F43%2F1300
+[/us/pl/113/235/s1301/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fc%2F1
 [/us/pl/93/255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F255
 [/us/pl/93/191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F191
 [/us/usc/t39/s3210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs3210
+[/us/pl/113/235/s1301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fb
+[/us/usc/t44/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs301
 [/us/pl/93/191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F191
 [/us/pl/93/191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F191
 [/us/usc/t39/s3210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs3210

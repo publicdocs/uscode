@@ -21,17 +21,21 @@
 
         Of the Senate documents and reports, unbound—to the Senate document room, two hundred and twenty copies; office of the Secretary of the Senate, ten copies; to the House document room, not to exceed five hundred copies; to the Clerk’s office of the House of Representatives, ten copies; to the Library of Congress, ten copies, as provided by [section 1718 of this title][/us/usc/t44/s1718].
 
-    (c) Of the number printed, the Public Printer shall bind a sufficient number of copies for distribution as follows:    Of the House documents and reports, bound—to the Senate library, fifteen copies; to the Library of Congress, not to exceed one hundred and fifty copies, as provided by [section 1718 of this title][/us/usc/t44/s1718]; to the House of Representatives library, fifteen copies; to the Superintendent of Documents, as many copies as are required for distribution to the State libraries and designated depositories.
+    (c) Of the number printed, the Director of the Government Publishing Office shall bind a sufficient number of copies for distribution as follows:    Of the House documents and reports, bound—to the Senate library, fifteen copies; to the Library of Congress, not to exceed one hundred and fifty copies, as provided by [section 1718 of this title][/us/usc/t44/s1718]; to the House of Representatives library, fifteen copies; to the Superintendent of Documents, as many copies as are required for distribution to the State libraries and designated depositories.
 
-        Of the Senate documents and reports, bound—to the Senate library, fifteen copies; to the Library of Congress, copies as provided by sections 1718 and 1719 of this title; to the House of Representatives library, fifteen copies; to the Superintendent of Documents, as many copies as may be required for distribution to State libraries and designated depositories. In binding documents the Public Printer shall give precedence to those that are to be distributed to libraries and to designated depositories. But a State library or designated depository entitled to documents that may prefer to have its documents in unbound form, may do so by notifying the Superintendent of Documents to that effect prior to the convening of each Congress.
+        Of the Senate documents and reports, bound—to the Senate library, fifteen copies; to the Library of Congress, copies as provided by sections 1718 and 1719 of this title; to the House of Representatives library, fifteen copies; to the Superintendent of Documents, as many copies as may be required for distribution to State libraries and designated depositories. In binding documents the Director of the Government Publishing Office shall give precedence to those that are to be distributed to libraries and to designated depositories. But a State library or designated depository entitled to documents that may prefer to have its documents in unbound form, may do so by notifying the Superintendent of Documents to that effect prior to the convening of each Congress.
 
     (d) The usual number of reports on private bills, concurrent or simple resolutions, may not be printed. Instead there shall be printed of each Senate report on a private bill, simple or concurrent resolution, in addition to those required to be furnished the Library of Congress, three hundred and forty-five copies, which shall be distributed as follows: to the Senate document room, two hundred and twenty copies; to the Secretary of the Senate, fifteen copies; to the House document room, one hundred copies; to the Superintendent of Documents, ten copies; and of each House report on a private bill, simple or concurrent resolution, in addition to those for the Library of Congress, two hundred and sixty copies, which shall be distributed as follows: to the Senate document room, one hundred and thirty-five copies; to the Secretary of the Senate, fifteen copies; to the House document room, one hundred copies; to the Superintendent of Documents, ten copies.    This section does not prevent the binding of all Senate and House reports in the reserve volumes bound for and delivered to the Senate and House libraries, nor abridge the right of the Vice President, Senators, Representatives, Resident Commissioner, Secretary of the Senate, and Clerk of the House to have bound in half morocco, or material not more expensive, one copy of every public document to which he may be entitled. At least twelve copies of each report on bills for the payment or adjudication of claims against the Government shall be kept on file in the Senate document room.
 
-([Pub. L. 90–620][/us/pl/90/620], Oct. 22, 1968, [82 Stat. 1246][/us/stat/82/1246].)
+([Pub. L. 90–620][/us/pl/90/620], Oct. 22, 1968, [82 Stat. 1246][/us/stat/82/1246]; [Pub. L. 113–235, div. H, title I, § 1301(c)(1)][/us/pl/113/235/s1301/c/1], Dec. 16, 2014, [128 Stat. 2537][/us/stat/128/2537].)
 
  __Historical and Revision Notes__ 
 
     Based on 44 U.S. Code, 1964 ed., § 131 ([Jan. 12, 1895, ch. 23, § 54][/us/act/1895-01-12/ch23/s54], [28 Stat. 608][/us/stat/28/608]; Mar. 2, 1901, No. 16, §§ 1, 2, [31 Stat. 1464][/us/stat/31/1464]; [Jan. 20, 1905, ch. 50, § 1][/us/act/1905-01-20/ch50/s1], [33 Stat. 610][/us/stat/33/610]; [Mar. 1, 1907, ch. 2284, § 4][/us/act/1907-03-01/ch2284/s4], [34 Stat. 1014][/us/stat/34/1014]; Jan. 15, 1908, No. 3, § 2, [35 Stat. 566][/us/stat/35/566]; [Mar. 4, 1909, ch. 317][/us/act/1909-03-04/ch317], [35 Stat. 1067][/us/stat/35/1067]; [June 25, 1910, ch. 439][/us/act/1910-06-25/ch439], [36 Stat. 868][/us/stat/36/868]; [Mar. 3, 1925, ch. 421][/us/act/1925-03-03/ch421], §§ 6, 7, [43 Stat. 1106][/us/stat/43/1106]; [June 20, 1936, ch. 630][/us/act/1936-06-20/ch630], title IV, § 6, [49 Stat. 1550][/us/stat/49/1550]; Proc. No. 2695, July 4, 1946, 11 F.R. 7517, [60 Stat. 1352][/us/stat/60/1352]).
+
+ __Amendments__ 
+
+    2014—Subsec. (c). [Pub. L. 113–235][/us/pl/113/235] substituted “Director of the Government Publishing Office” for “Public Printer” in two places.
 
  __Congressional Printing and Binding Services For the House of Representatives—Appropriations and Study__ 
 
@@ -85,6 +89,8 @@
 [/us/usc/t44/s1718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs1718
 [/us/pl/90/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F620
 [/us/stat/82/1246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1246
+[/us/pl/113/235/s1301/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fc%2F1
+[/us/stat/128/2537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2537
 [/us/act/1895-01-12/ch23/s54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1895-01-12%2Fch23%2Fs54
 [/us/stat/28/608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F28%2F608
 [/us/stat/31/1464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F31%2F1464
@@ -102,6 +108,7 @@
 [/us/act/1936-06-20/ch630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-20%2Fch630
 [/us/stat/49/1550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1550
 [/us/stat/60/1352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F1352
+[/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
 [/us/pl/106/554/s1/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F2
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
 

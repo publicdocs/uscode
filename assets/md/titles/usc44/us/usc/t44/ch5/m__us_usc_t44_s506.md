@@ -15,15 +15,19 @@
 
 ## § 506. Time for printing documents or reports which include illustrations or maps
 
-    A document or report to be illustrated or accompanied by maps may not be printed by the Public Printer until the illustrations or maps designed for it are ready for publication.
+    A document or report to be illustrated or accompanied by maps may not be printed by the Director of the Government Publishing Office until the illustrations or maps designed for it are ready for publication.
 
-([Pub. L. 90–620][/us/pl/90/620], Oct. 22, 1968, [82 Stat. 1244][/us/stat/82/1244].)
+([Pub. L. 90–620][/us/pl/90/620], Oct. 22, 1968, [82 Stat. 1244][/us/stat/82/1244]; [Pub. L. 113–235, div. H, title I, § 1301(c)(1)][/us/pl/113/235/s1301/c/1], Dec. 16, 2014, [128 Stat. 2537][/us/stat/128/2537].)
 
  __Historical and Revision Notes__ 
 
     Based on 44 U.S. Code, 1964 ed., § 115 (part) ([Jan. 12, 1895, ch. 23, § 80][/us/act/1895-01-12/ch23/s80], [28 Stat. 621][/us/stat/28/621]).
 
     This section incorporates only the first clause of former section 115. The balance will be found in section 507 of the revision.
+
+ __Amendments__ 
+
+    2014—[Pub. L. 113–235][/us/pl/113/235] substituted “Director of the Government Publishing Office” for “Public Printer”.
 
 ----------
 
@@ -34,7 +38,10 @@
 
 [/us/pl/90/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F620
 [/us/stat/82/1244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1244
+[/us/pl/113/235/s1301/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fc%2F1
+[/us/stat/128/2537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2537
 [/us/act/1895-01-12/ch23/s80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1895-01-12%2Fch23%2Fs80
 [/us/stat/28/621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F28%2F621
+[/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
 
 

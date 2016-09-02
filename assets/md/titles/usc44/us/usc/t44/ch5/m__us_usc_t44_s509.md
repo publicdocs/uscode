@@ -15,17 +15,21 @@
 
 ## § 509. Standards of paper; advertisements for proposals; samples
 
-    The Joint Committee on Printing shall fix upon standards of paper for the different descriptions of public printing and binding, and the Public Printer, under their direction, shall advertise in six newspapers or trade journals, published in different cities, for sealed proposals to furnish the Government with paper, as specified in the schedule to be furnished applicants by the Public Printer, setting forth in detail the quality and quantities required for the public printing. The Public Printer shall furnish samples of the standard of papers fixed upon to applicants who desire to bid.
+    The Joint Committee on Printing shall fix upon standards of paper for the different descriptions of public printing and binding, and the Director of the Government Publishing Office, under their direction, shall advertise in six newspapers or trade journals, published in different cities, for sealed proposals to furnish the Government with paper, as specified in the schedule to be furnished applicants by the Director of the Government Publishing Office, setting forth in detail the quality and quantities required for the public printing. The Director of the Government Publishing Office shall furnish samples of the standard of papers fixed upon to applicants who desire to bid.
 
-([Pub. L. 90–620][/us/pl/90/620], Oct. 22, 1968, [82 Stat. 1244][/us/stat/82/1244].)
+([Pub. L. 90–620][/us/pl/90/620], Oct. 22, 1968, [82 Stat. 1244][/us/stat/82/1244]; [Pub. L. 113–235, div. H, title I, § 1301(c)(1)][/us/pl/113/235/s1301/c/1], Dec. 16, 2014, [128 Stat. 2537][/us/stat/128/2537].)
 
  __Historical and Revision Notes__ 
 
     Based on 44 U.S. Code, 1964 ed., § 5 ([Jan. 12, 1895, ch. 23, § 3][/us/act/1895-01-12/ch23/s3], [28 Stat. 601][/us/stat/28/601]; [Mar. 3, 1925, ch. 421, § 1][/us/act/1925-03-03/ch421/s1], [43 Stat. 1105][/us/stat/43/1105]).
 
+ __Amendments__ 
+
+    2014—[Pub. L. 113–235][/us/pl/113/235] substituted “Director of the Government Publishing Office” for “Public Printer” in three places.
+
  __National Policy on Permanent Papers__ 
 
-[Pub. L. 101–423][/us/pl/101/423], Oct. 12, 1990, [104 Stat. 912][/us/stat/104/912], provided that:
+[Pub. L. 101–423][/us/pl/101/423], Oct. 12, 1990, [104 Stat. 912][/us/stat/104/912], as amended by [Pub. L. 113–235, div. H, title I, § 1301(b)][/us/pl/113/235/s1301/b], (d), Dec. 16, 2014, [128 Stat. 2537][/us/stat/128/2537], provided that:
 
 >     “Whereas it is now widely recognized and scientifically demonstrated that the acidic papers commonly used for more than a century in documents, books, and other publications are self-destructing and will continue to self destruct;
 
@@ -49,7 +53,7 @@
 
 >     “Sec. 2. The Congress of the United States urgently recommends that—
 
->     “(1) Federal agencies require the use of acid free permanent papers for publications of enduring value produced by the Government Printing Office or produced by Federal grant or contract, using the specifications for such paper established by the Joint Committee on Printing;
+>     “(1) Federal agencies require the use of acid free permanent papers for publications of enduring value produced by the Government Publishing Office or produced by Federal grant or contract, using the specifications for such paper established by the Joint Committee on Printing;
 
 >     “(2) Federal agencies require the use of archival quality acid free papers for permanently valuable Federal records and confer with the National Archives and Records Administration on the requirements for paper quality;
 
@@ -59,7 +63,7 @@
 
 >     “(5) the Secretary of State, Librarian of Congress, Archivist of the United States, and other Federal officials make known the national policy regarding acid free permanent papers to foreign governments and appropriate international agencies since the acid paper problem is worldwide and essential foreign materials being imported by our libraries are printed on acid papers.
 
->     “Sec. 3. The Librarian of Congress, the Archivist of the United States, and the Public Printer shall jointly monitor the Federal Government’s progress in implementing the national policy declared in section 1 regarding acid free permanent papers and shall report to the Congress regarding such progress on December 31, 1991, December 31, 1993, and December 31, 1995. In carrying out the monitoring and reporting functions under this section, the Librarian of Congress, the Archivist of the United States, and the Public Printer may consult with the National Endowment for the Humanities, National Agricultural Library, National Library of Medicine, other Federal and State agencies, international organizations, private publishers, paper manufacturers, and other organizations with an interest in preservation of books and historical papers.”
+>     “Sec. 3. The Librarian of Congress, the Archivist of the United States, and the Director of the Government Publishing Office shall jointly monitor the Federal Government’s progress in implementing the national policy declared in section 1 regarding acid free permanent papers and shall report to the Congress regarding such progress on December 31, 1991, December 31, 1993, and December 31, 1995. In carrying out the monitoring and reporting functions under this section, the Librarian of Congress, the Archivist of the United States, and the Director of the Government Publishing Office may consult with the National Endowment for the Humanities, National Agricultural Library, National Library of Medicine, other Federal and State agencies, international organizations, private publishers, paper manufacturers, and other organizations with an interest in preservation of books and historical papers.”
 
 ----------
 
@@ -70,11 +74,16 @@
 
 [/us/pl/90/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F620
 [/us/stat/82/1244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1244
+[/us/pl/113/235/s1301/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fc%2F1
+[/us/stat/128/2537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2537
 [/us/act/1895-01-12/ch23/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1895-01-12%2Fch23%2Fs3
 [/us/stat/28/601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F28%2F601
 [/us/act/1925-03-03/ch421/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1925-03-03%2Fch421%2Fs1
 [/us/stat/43/1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F43%2F1105
+[/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
 [/us/pl/101/423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F423
 [/us/stat/104/912]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F912
+[/us/pl/113/235/s1301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fb
+[/us/stat/128/2537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2537
 
 

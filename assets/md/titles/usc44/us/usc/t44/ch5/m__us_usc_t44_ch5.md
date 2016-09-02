@@ -27,7 +27,7 @@
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs501" data-uslm-ref="/us/usc/t44/s501">501.</a>  </td>
 
-    <td> Government printing, binding, and blank-book work to be done at Government Printing Office.  </td>
+    <td> Government printing, binding, and blank-book work to be done at Government Publishing Office.  </td>
 
   </tr>
 
@@ -35,7 +35,7 @@
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs502" data-uslm-ref="/us/usc/t44/s502">502.</a>  </td>
 
-    <td> Procurement of printing, binding, and blank-book work by Public Printer.  </td>
+    <td> Procurement of printing, binding, and blank-book work by Director of the Government Publishing Office.  </td>
 
   </tr>
 
@@ -163,7 +163,13 @@
 
  __Amendments__ 
 
+    2014—[Pub. L. 113–235, div. H, title I, § 1301(c)(1)][/us/pl/113/235/s1301/c/1], Dec. 16, 2014, [128 Stat. 2537][/us/stat/128/2537], substituted “Director of the Government Publishing Office” for “Public Printer” in item 502.
+
     1976—[Pub. L. 94–553, § 105(a)(2)][/us/pl/94/553/s105/a/2], Oct. 19, 1976, [90 Stat. 2599][/us/stat/90/2599], struck out “; copyright” after “plates” in item 505.
+
+ __Change of Name__ 
+
+    “Government Publishing Office” substituted for “Government Printing Office” in item 501 on authority of [section 1301(b) of Pub. L. 113–235][/us/pl/113/235/s1301/b], div. H, title I, Dec. 16, 2014, [128 Stat. 2537][/us/stat/128/2537], set out as a note preceding [section 301 of this title][/us/usc/t44/s301].
 
  __Federal Records Management Provisions Without Effect on Chapter__ 
 
@@ -176,8 +182,13 @@
 ----------
 ----------
 
+[/us/pl/113/235/s1301/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fc%2F1
+[/us/stat/128/2537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2537
 [/us/pl/94/553/s105/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F553%2Fs105%2Fa%2F2
 [/us/stat/90/2599]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2599
+[/us/pl/113/235/s1301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fb
+[/us/stat/128/2537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2537
+[/us/usc/t44/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs301
 [/us/pl/94/575/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F575%2Fs5%2Fb
 [/us/usc/t44/s2901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs2901
 

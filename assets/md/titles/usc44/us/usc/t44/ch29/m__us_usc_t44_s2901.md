@@ -129,13 +129,13 @@
 
 >     The National Archives and Records Administration shall provide quarterly reports to the Committees on Appropriations and Governmental Affairs of the Senate, and the Committees on Appropriations and Government Reform \[now Oversight and Government Reform\] of the House of Representatives on the operation of the Records Center Revolving Fund.”
 
- __Federal Records Management Provisions Without Effect on Authorities and Responsibilities of Administrator of General Services, Joint Committee, or Government Printing Office__ 
+ __Federal Records Management Provisions Without Effect on Authorities and Responsibilities of Administrator of General Services, Joint Committee, or Government Publishing Office__ 
 
-[Pub. L. 94–575, § 5][/us/pl/94/575/s5], Oct. 21, 1976, [90 Stat. 2727][/us/stat/90/2727], provided that:
+[Pub. L. 94–575, § 5][/us/pl/94/575/s5], Oct. 21, 1976, [90 Stat. 2727][/us/stat/90/2727], as amended by [Pub. L. 113–235, div. H, title I, § 1301(b)][/us/pl/113/235/s1301/b], Dec. 16, 2014, [128 Stat. 2537][/us/stat/128/2537], provided that:
 
 >     “(a) The provisions of this Act \[see Short Title of 1976 Amendment note set out under [section 101 of this title][/us/usc/t44/s101]\] relating to the authority of the Administrator of General Services do not limit or repeal additional authorities provided by statute or otherwise recognized by law.
 
->     “(b) The provisions of this Act do not limit or repeal the authority or responsibilities of the Joint Committee on Printing or the Government Printing Office under chapters 1 through 19 of title 44, United States Code.”
+>     “(b) The provisions of this Act do not limit or repeal the authority or responsibilities of the Joint Committee on Printing or the Government Publishing Office under chapters 1 through 19 of title 44, United States Code.”
 
 ----------
 
@@ -176,6 +176,8 @@
 [/us/stat/118/2218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2218
 [/us/pl/94/575/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F575%2Fs5
 [/us/stat/90/2727]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2727
+[/us/pl/113/235/s1301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fb
+[/us/stat/128/2537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2537
 [/us/usc/t44/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs101
 
 

@@ -15,13 +15,17 @@
 
 ## § 909. Congressional Record: exchange for Parliamentary Hansard
 
-    The Librarian of Congress may furnish a copy of the daily and bound Congressional Record to the Undersecretary of State for External Affairs of Canada in exchange for a copy of the Parliamentary Hansard, and the Public Printer shall honor the requisition of the Librarian of Congress for it. The Parliamentary Hansard so received shall be the property of the Department of State.
+    The Librarian of Congress may furnish a copy of the daily and bound Congressional Record to the Undersecretary of State for External Affairs of Canada in exchange for a copy of the Parliamentary Hansard, and the Director of the Government Publishing Office shall honor the requisition of the Librarian of Congress for it. The Parliamentary Hansard so received shall be the property of the Department of State.
 
-([Pub. L. 90–620][/us/pl/90/620], Oct. 22, 1968, [82 Stat. 1260][/us/stat/82/1260].)
+([Pub. L. 90–620][/us/pl/90/620], Oct. 22, 1968, [82 Stat. 1260][/us/stat/82/1260]; [Pub. L. 113–235, div. H, title I, § 1301(c)(1)][/us/pl/113/235/s1301/c/1], Dec. 16, 2014, [128 Stat. 2537][/us/stat/128/2537].)
 
  __Historical and Revision Notes__ 
 
     Based on 44 U.S. Code, 1964 ed., § 187 (Apr. 10, 1912, No. 14, [37 Stat. 632][/us/stat/37/632]).
+
+ __Amendments__ 
+
+    2014—[Pub. L. 113–235][/us/pl/113/235] substituted “Director of the Government Publishing Office” for “Public Printer”.
 
 ----------
 
@@ -32,6 +36,9 @@
 
 [/us/pl/90/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F620
 [/us/stat/82/1260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1260
+[/us/pl/113/235/s1301/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fc%2F1
+[/us/stat/128/2537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2537
 [/us/stat/37/632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F37%2F632
+[/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
 
 

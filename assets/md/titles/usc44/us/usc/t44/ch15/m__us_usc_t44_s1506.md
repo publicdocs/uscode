@@ -15,7 +15,7 @@
 
 ## § 1506. Administrative Committee of the Federal Register; establishment and composition; powers and duties
 
-    The Administrative Committee of the Federal Register shall consist of the Archivist of the United States or Acting Archivist, who shall be chairman, an officer of the Department of Justice designated by the Attorney General, and the Public Printer or Acting Public Printer. The Director of the Federal Register shall act as secretary of the committee. The committee shall prescribe, with the approval of the President, regulations for carrying out this chapter. The regulations shall provide, among other things—
+    The Administrative Committee of the Federal Register shall consist of the Archivist of the United States or Acting Archivist, who shall be chairman, an officer of the Department of Justice designated by the Attorney General, and the Director of the Government Publishing Office or Acting Director of the Government Publishing Office. The Director of the Federal Register shall act as secretary of the committee. The committee shall prescribe, with the approval of the President, regulations for carrying out this chapter. The regulations shall provide, among other things—
 
     (1) the manner of certification of copies required to be certified under [section 1503 of this title][/us/usc/t44/s1503], which certification may be permitted to be based upon confirmed communications from outside the District of Columbia;
 
@@ -27,7 +27,7 @@
 
     (5) the prices to be charged for individual copies of, and subscriptions to, the Federal Register and reprints and bound volumes of it.
 
-([Pub. L. 90–620][/us/pl/90/620], Oct. 22, 1968, [82 Stat. 1275][/us/stat/82/1275]; [Pub. L. 98–497, title I, § 107(b)(5)][/us/pl/98/497/s107/b/5], Oct. 19, 1984, [98 Stat. 2287][/us/stat/98/2287].)
+([Pub. L. 90–620][/us/pl/90/620], Oct. 22, 1968, [82 Stat. 1275][/us/stat/82/1275]; [Pub. L. 98–497, title I, § 107(b)(5)][/us/pl/98/497/s107/b/5], Oct. 19, 1984, [98 Stat. 2287][/us/stat/98/2287]; [Pub. L. 113–235, div. H, title I, § 1301(c)(1)][/us/pl/113/235/s1301/c/1], Dec. 16, 2014, [128 Stat. 2537][/us/stat/128/2537].)
 
  __Historical and Revision Notes__ 
 
@@ -36,6 +36,8 @@
     This section incorporates only the last sentence from former section 391(b). The remainder of that section will be found in sections 2102, 2301, 2501, and 2902 of the revision.
 
  __Amendments__ 
+
+    2014—[Pub. L. 113–235][/us/pl/113/235] substituted “Director of the Government Publishing Office” for “Public Printer” in two places in introductory provisions.
 
     1984—[Pub. L. 98–497][/us/pl/98/497] struck out “The authority of the Administrator of General Services, under [section 754 of title 40][/us/usc/t40/s754], to regroup, transfer, and distribute functions within the General Services Administration, does not extend to the Committee or its functions.”
 
@@ -60,10 +62,13 @@
 [/us/stat/82/1275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1275
 [/us/pl/98/497/s107/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F497%2Fs107%2Fb%2F5
 [/us/stat/98/2287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2287
+[/us/pl/113/235/s1301/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fc%2F1
+[/us/stat/128/2537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2537
 [/us/act/1935-07-26/ch417/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-07-26%2Fch417%2Fs6
 [/us/stat/49/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F501
 [/us/act/1949-06-30/ch288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-06-30%2Fch288
 [/us/stat/63/381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F381
+[/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
 [/us/pl/98/497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F497
 [/us/usc/t40/s754]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs754
 [/us/pl/98/497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F497
