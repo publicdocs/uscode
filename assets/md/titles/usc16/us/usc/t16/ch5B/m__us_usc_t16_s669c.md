@@ -173,7 +173,7 @@
 
  __Suspension of Expense Limitation__ 
 
-    The Interior Department Appropriation Act, 1945, [act June 28, 1944, ch. 298, § 1][/us/act/1944-06-28/ch298/s1], [58 Stat. 504][/us/stat/58/504], provided that the limitations in this chapter were waived to the extent necessary to provide overtime under the provisions of the War Overtime Pay Act, 1943, former sections 1401 to 1415 of Appendix to Title 50, War and National Defense, which act expired June 30, 1945.
+    The Interior Department Appropriation Act, 1945, [act June 28, 1944, ch. 298, § 1][/us/act/1944-06-28/ch298/s1], [58 Stat. 504][/us/stat/58/504], provided that the limitations in this chapter were waived to the extent necessary to provide overtime under the provisions of the War Overtime Pay Act, 1943, former sections 1401 to 1415 of the former Appendix to Title 50, War and National Defense, which act expired June 30, 1945.
 
 ----------
 

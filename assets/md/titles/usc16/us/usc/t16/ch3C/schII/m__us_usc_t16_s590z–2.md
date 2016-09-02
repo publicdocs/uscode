@@ -53,7 +53,7 @@
 
  __Expiration of Subsection (d)__ 
 
-    Subsection (d) of this section, by the terms thereof, ceased to be of force and effect, except as to certain projects, six months after cessation of hostilities of World War II, which was proclaimed at 12 o’clock noon of December 31, 1946, by Proc. No. 2714, 12 F.R. 1, set out as a note preceding section 1 of Appendix to Title 50, War and National Defense.
+    Subsection (d) of this section, by the terms thereof, ceased to be of force and effect, except as to certain projects, six months after cessation of hostilities of World War II, which was proclaimed at 12 o’clock noon of December 31, 1946, by Proc. No. 2714, 12 F.R. 1, set out as a note preceding [section 1 of Title 50][/us/usc/t50/s1], War and National Defense.
 
  __Extension of Variable Payment Plan__ 
 
@@ -76,6 +76,7 @@
 [/us/act/1939-08-11/ch717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-08-11%2Fch717
 [/us/stat/53/1419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F1419
 [/us/usc/t16/s590z–10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs590z%E2%80%9310
+[/us/usc/t50/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1
 [/us/pl/85/611/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F611%2Fs2
 [/us/stat/72/542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F542
 [/us/usc/t43/s485h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs485h

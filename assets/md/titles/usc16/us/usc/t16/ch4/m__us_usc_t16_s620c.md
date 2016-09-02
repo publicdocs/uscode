@@ -119,7 +119,7 @@
 
     (f) __Western red cedar__ 
 
-        Nothing in this section shall be construed to supersede [section 2406(i) of title 50][/us/usc/t50/s2406/i], Appendix.
+        Nothing in this section shall be construed to supersede [section 4606(i) of title 50][/us/usc/t50/s4606/i].
 
     (g) __Presidential authority__ 
 
@@ -190,7 +190,7 @@
 ----------
 ----------
 
-[/us/usc/t50/s2406/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2406%2Fi
+[/us/usc/t50/s4606/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4606%2Fi
 [/us/usc/t19/s3501/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3501%2F8
 [/us/pl/101/382/s491]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F382%2Fs491
 [/us/stat/104/719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F719
