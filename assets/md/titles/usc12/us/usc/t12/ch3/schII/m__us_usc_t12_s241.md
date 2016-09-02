@@ -15,15 +15,17 @@
 
 ## § 241. Creation; membership; compensation and expenses
 
-    The Board of Governors of the Federal Reserve System (hereinafter referred to as the “Board”) shall be composed of seven members, to be appointed by the President, by and with the advice and consent of the Senate, after August 23, 1935, for terms of fourteen years except as hereinafter provided, but each appointive member of the Federal Reserve Board in office on such date shall continue to serve as a member of the Board until February 1, 1936, and the Secretary of the Treasury and the Comptroller of the Currency shall continue to serve as members of the Board until February 1, 1936. In selecting the members of the Board, not more than one of whom shall be selected from any one Federal Reserve district, the President shall have due regard to a fair representation of the financial, agricultural, industrial, and commercial interests, and geographical divisions of the country. The members of the Board shall devote their entire time to the business of the Board and shall each receive basic compensation at the rate of $15,000 per annum, payable monthly, together with actual necessary traveling expenses.
+    The Board of Governors of the Federal Reserve System (hereinafter referred to as the “Board”) shall be composed of seven members, to be appointed by the President, by and with the advice and consent of the Senate, after August 23, 1935, for terms of fourteen years except as hereinafter provided, but each appointive member of the Federal Reserve Board in office on such date shall continue to serve as a member of the Board until February 1, 1936, and the Secretary of the Treasury and the Comptroller of the Currency shall continue to serve as members of the Board until February 1, 1936. In selecting the members of the Board, not more than one of whom shall be selected from any one Federal Reserve district, the President shall have due regard to a fair representation of the financial, agricultural, industrial, and commercial interests, and geographical divisions of the country. In selecting members of the Board, the President shall appoint at least 1 member with demonstrated primary experience working in or supervising community banks having less than $10,000,000,000 in total assets. The members of the Board shall devote their entire time to the business of the Board and shall each receive basic compensation at the rate of $15,000 per annum, payable monthly, together with actual necessary traveling expenses.
 
-([Dec. 23, 1913, ch. 6, § 10][/us/act/1913-12-23/ch6/s10] (par.), [38 Stat. 260][/us/stat/38/260]; [June 3, 1922, ch. 205][/us/act/1922-06-03/ch205], [42 Stat. 620][/us/stat/42/620]; [Aug. 23, 1935, ch. 614][/us/act/1935-08-23/ch614], title II, § 203(b), [49 Stat. 704][/us/stat/49/704].)
+([Dec. 23, 1913, ch. 6, § 10][/us/act/1913-12-23/ch6/s10] (par.), [38 Stat. 260][/us/stat/38/260]; [June 3, 1922, ch. 205][/us/act/1922-06-03/ch205], [42 Stat. 620][/us/stat/42/620]; [Aug. 23, 1935, ch. 614][/us/act/1935-08-23/ch614], title II, § 203(b), [49 Stat. 704][/us/stat/49/704]; [Pub. L. 114–1, title I, § 109(a)][/us/pl/114/1/s109/a], Jan. 12, 2015, [129 Stat. 9][/us/stat/129/9].)
 
  __Codification__ 
 
     Section is comprised of first par. of section 10 of act Dec. 23, 1913. Pars. 2–7 and 8 of section 10; par. 9 of section 10, as added [June 3, 1922, ch. 205][/us/act/1922-06-03/ch205], [42 Stat. 621][/us/stat/42/621]; par. 10 of section 10, as added [Aug. 23, 1935, ch. 614, § 203(d)][/us/act/1935-08-23/ch614/s203/d], [49 Stat. 705][/us/stat/49/705]; and par. (12) of section 10, as added [Pub. L. 111–203, title XI, § 1108(b)][/us/pl/111/203/s1108/b], July 21, 2010, [124 Stat. 2126][/us/stat/124/2126], are classified to sections 242 to 247, 1, 522, 247a, and 247b, respectively, of this title. No par. between pars. (10) and (12) has been enacted.
 
  __Amendments__ 
+
+    2015—[Pub. L. 114–1][/us/pl/114/1] inserted after second sentence “In selecting members of the Board, the President shall appoint at least 1 member with demonstrated primary experience working in or supervising community banks having less than $10,000,000,000 in total assets.”
 
     1935—Act Aug. 23, 1935, § 203(b), increased the appointive membership from six to seven, terminated the membership of the Secretary of the Treasury and the Comptroller of the Currency, raised the tenure from twelve to fourteen years and increased the annual salary from $12,000 to $15,000.
 
@@ -32,6 +34,12 @@
 [Act Aug. 23, 1935, ch. 614][/us/act/1935-08-23/ch614], title II, § 203(a), [49 Stat. 704][/us/stat/49/704], provided that: 
 
 > “Hereafter the Federal Reserve Board shall be known as the ‘Board of Governors of the Federal Reserve System,’ and the governor and the vice governor of the Federal Reserve Board shall be known as the ‘chairman’ and the ‘vice chairman,’ respectively, of the Board of Governors of the Federal Reserve System.”
+
+ __Effective Date of 2015 Amendment__ 
+
+[Pub. L. 114–1, title I, § 109(b)][/us/pl/114/1/s109/b], Jan. 12, 2015, [129 Stat. 9][/us/stat/129/9], provided that: 
+
+> “The amendment made by this section \[amending this section\] shall take effect on the date of enactment of this Act \[Jan. 12, 2015\] and apply to appointments made on and after that effective date, excluding any nomination pending in the Senate on that date.”
 
  __Repeals__ 
 
@@ -58,14 +66,19 @@
 [/us/stat/42/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F620
 [/us/act/1935-08-23/ch614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-23%2Fch614
 [/us/stat/49/704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F704
+[/us/pl/114/1/s109/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F1%2Fs109%2Fa
+[/us/stat/129/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F9
 [/us/act/1922-06-03/ch205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-06-03%2Fch205
 [/us/stat/42/621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F621
 [/us/act/1935-08-23/ch614/s203/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-23%2Fch614%2Fs203%2Fd
 [/us/stat/49/705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F705
 [/us/pl/111/203/s1108/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1108%2Fb
 [/us/stat/124/2126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2126
+[/us/pl/114/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F1
 [/us/act/1935-08-23/ch614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-23%2Fch614
 [/us/stat/49/704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F704
+[/us/pl/114/1/s109/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F1%2Fs109%2Fb
+[/us/stat/129/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F9
 [/us/act/1949-10-15/ch695/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-15%2Fch695%2Fs4
 [/us/stat/63/880]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F880
 [/us/pl/89/554/s8/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs8%2Fa

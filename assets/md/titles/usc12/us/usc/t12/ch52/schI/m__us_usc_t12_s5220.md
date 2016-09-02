@@ -91,39 +91,7 @@
 
  __Effect of Foreclosure on Preexisting Tenancy__ 
 
-[Pub. L. 111–22, div. A, title VII, § 702][/us/pl/111/22/s702], May 20, 2009, [123 Stat. 1660][/us/stat/123/1660], as amended by [Pub. L. 111–203, title XIV, § 1484(1)][/us/pl/111/203/s1484/1], July 21, 2010, [124 Stat. 2204][/us/stat/124/2204], provided that:
-
->     “(a)  __In General__  __.—__ 
-
->     In the case of any foreclosure on a federally-related mortgage loan or on any dwelling or residential real property after the date of enactment of this title \[May 20, 2009\], any immediate successor in interest in such property pursuant to the foreclosure shall assume such interest subject to—
-
->         “(1) the provision, by such successor in interest of a notice to vacate to any bona fide tenant at least 90 days before the effective date of such notice; and
-
->         “(2)
-
->          the rights of any bona fide tenant—
-
->             “(A) under any bona fide lease entered into before the notice of foreclosure to occupy the premises until the end of the remaining term of the lease, except that a successor in interest may terminate a lease effective on the date of sale of the unit to a purchaser who will occupy the unit as a primary residence, subject to the receipt by the tenant of the 90 day notice under paragraph (1); or
-
->             “(B) without a lease or with a lease terminable at will under State law, subject to the receipt by the tenant of the 90 day notice under subsection (1),
-
->             except that nothing under this section shall affect the requirements for termination of any Federal- or State-subsidized tenancy or of any State or local law that provides longer time periods or other additional protections for tenants.
-
->     “(b)  __Bona Fide Lease or Tenancy__  __.—__ 
-
->     For purposes of this section, a lease or tenancy shall be considered bona fide only if—
-
->         “(1) the mortgagor or the child, spouse, or parent of the mortgagor under the contract is not the tenant;
-
->         “(2) the lease or tenancy was the result of an arms-length transaction; and
-
->         “(3) the lease or tenancy requires the receipt of rent that is not substantially less than fair market rent for the property or the unit’s rent is reduced or subsidized due to a Federal, State, or local subsidy.
-
->     “(c)  __Definition__  __.—__ 
-
->     For purposes of this section, the term ‘federally-related mortgage loan’ has the same meaning as in section 3 of the Real Estate Settlement Procedures Act of 1974 ([12 U.S.C. 2602][/us/usc/t12/s2602]). For purposes of this section, the date of a notice of foreclosure shall be deemed to be the date on which complete title to a property is transferred to a successor entity or person as a result of an order of a court or pursuant to provisions in a mortgage, deed of trust, or security deed.”
-
-    \[[Section 702 of Pub. L. 111–22][/us/pl/111/22/s702], set out above, repealed Dec. 31, 2014, see [section 704 of Pub. L. 111–22][/us/pl/111/22/s704], set out as a Termination Date of 2009 Amendment note under [section 1437f of Title 42][/us/usc/t42/s1437f], The Public Health and Welfare.\]
+    [Pub. L. 111–22, div. A, title VII, § 702][/us/pl/111/22/s702], May 20, 2009, [123 Stat. 1660][/us/stat/123/1660], as amended by [Pub. L. 111–203, title XIV, § 1484(1)][/us/pl/111/203/s1484/1], July 21, 2010, [124 Stat. 2204][/us/stat/124/2204], which related to the effect of foreclosure on a preexisting tenancy, was repealed by [Pub. L. 111–22, div. A, title VII, § 704][/us/pl/111/22/s704], May 20, 2009, [123 Stat. 1662][/us/stat/123/1662], as amended by [Pub. L. 111–203, title XIV, § 1484(2)][/us/pl/111/203/s1484/2], July 21, 2010, [124 Stat. 2204][/us/stat/124/2204], set out as a Termination Date of 2009 Amendment note under [section 1437f of Title 42][/us/usc/t42/s1437f], The Public Health and Welfare, effective Dec. 31, 2014.
 
 ----------
 
@@ -145,9 +113,10 @@
 [/us/stat/123/1660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1660
 [/us/pl/111/203/s1484/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1484%2F1
 [/us/stat/124/2204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2204
-[/us/usc/t12/s2602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2602
-[/us/pl/111/22/s702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2Fs702
 [/us/pl/111/22/s704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2Fs704
+[/us/stat/123/1662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1662
+[/us/pl/111/203/s1484/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1484%2F2
+[/us/stat/124/2204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2204
 [/us/usc/t42/s1437f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437f
 
 

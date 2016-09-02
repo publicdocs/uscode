@@ -49,11 +49,7 @@
 
 > “This division \[enacting sections 1715z–25, 1735f–10, 1790e, 5220a, and 5231a of this title, amending sections 1708, 1710, 1715u, 1715z–20, 1715z–23, 1715z–24, 1735f–14, 1782, 1783, 1817, 1823, 1824, 5221, 5225, 5226, 5233, and 5241 of this title, sections 1639a, 1640, and 1641 of Title 15, Commerce and Trade, [section 714 of Title 31][/us/usc/t31/s714], Money and Finance, [section 3703 of Title 38][/us/usc/t38/s3703], Veterans’ Benefits, and sections 1437f and 1472 of Title 42, The Public Health and Welfare, repealing [section 1735f–10 of this title][/us/usc/t12/s1735f–10], enacting provisions set out as notes under this section, sections 1708, 1715u, and 5220 of this title, [section 1639a of Title 15][/us/usc/t15/s1639a], [section 3703 of Title 38][/us/usc/t38/s3703], and sections 1437f, 1472, and 5301 of Title 42, amending provisions set out as a note under [section 5301 of Title 42][/us/usc/t42/s5301], and repealing provisions set out as notes under this section and [section 5220 of this title][/us/usc/t12/s5220]\] may be cited as the ‘Helping Families Save Their Homes Act of 2009’.”
 
-[Pub. L. 111–22, div. A, title VII, § 701][/us/pl/111/22/s701], May 20, 2009, [123 Stat. 1660][/us/stat/123/1660], provided that: 
-
-> “This title \[amending [section 1437f of Title 42][/us/usc/t42/s1437f], The Public Health and Welfare, enacting provisions set out as notes under [section 5220 of this title][/us/usc/t12/s5220] and [section 1437f of Title 42][/us/usc/t42/s1437f], and repealing provisions set out as notes under this section and [section 5220 of this title][/us/usc/t12/s5220]\] may be cited as the ‘Protecting Tenants at Foreclosure Act of 2009’.”
-
-    \[[Section 701 of Pub. L. 111–22][/us/pl/111/22/s701], set out above, repealed Dec. 31, 2014, see [section 704 of Pub. L. 111–22][/us/pl/111/22/s704], set out as a Termination Date of 2009 Amendment note under [section 1437f of Title 42][/us/usc/t42/s1437f], The Public Health and Welfare.\]
+    [Pub. L. 111–22, div. A, title VII, § 701][/us/pl/111/22/s701], May 20, 2009, [123 Stat. 1660][/us/stat/123/1660], which provided that title VII of [Pub. L. 111–22][/us/pl/111/22], amending [section 1437f of Title 42][/us/usc/t42/s1437f], The Public Health and Welfare, enacting provisions set out as notes under [section 5220 of this title][/us/usc/t12/s5220] and [section 1437f of Title 42][/us/usc/t42/s1437f], and repealing provisions set out as notes under this section and [section 5220 of this title][/us/usc/t12/s5220], could be cited as the “Protecting Tenants at Foreclosure Act of 2009”, was repealed by [Pub. L. 111–22, div. A, title VII, § 704][/us/pl/111/22/s704], May 20, 2009, [123 Stat. 1662][/us/stat/123/1662], as amended by [Pub. L. 111–203, title XIV, § 1484(2)][/us/pl/111/203/s1484/2], July 21, 2010, [124 Stat. 2204][/us/stat/124/2204], set out as a Termination Date of 2009 Amendment note under [section 1437f of Title 42][/us/usc/t42/s1437f], effective Dec. 31, 2014.
 
 [Pub. L. 111–15, § 1][/us/pl/111/15/s1], Apr. 24, 2009, [123 Stat. 1603][/us/stat/123/1603], provided that: 
 
@@ -134,12 +130,15 @@
 [/us/usc/t12/s5220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5220
 [/us/pl/111/22/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2Fs701
 [/us/stat/123/1660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1660
+[/us/pl/111/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22
 [/us/usc/t42/s1437f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437f
 [/us/usc/t12/s5220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5220
 [/us/usc/t42/s1437f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437f
 [/us/usc/t12/s5220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5220
-[/us/pl/111/22/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2Fs701
 [/us/pl/111/22/s704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2Fs704
+[/us/stat/123/1662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1662
+[/us/pl/111/203/s1484/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1484%2F2
+[/us/stat/124/2204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2204
 [/us/usc/t42/s1437f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437f
 [/us/pl/111/15/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F15%2Fs1
 [/us/stat/123/1603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1603
