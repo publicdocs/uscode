@@ -21,7 +21,7 @@
 
         Consistent with the objectives of [section 635(b)(1)(A) of this title][/us/usc/t12/s635/b/1/A], the Bank shall establish procedures to take into account the potential beneficial and adverse environmental effects of goods and services for which support is requested under its direct lending and guarantee programs. Such procedures shall provide for the public disclosure of environmental assessments and supplemental environmental reports required to be submitted to the Bank, including remediation or mitigation plans and procedures, and related monitoring reports. The preceding sentence shall not be interpreted to require the public disclosure of any information described in [section 1905 of title 18][/us/usc/t18/s1905]. Such procedures shall apply to any transaction involving a project—
 
-            (A) for which long-term support of $10,000,000 or more is requested from the Bank;
+            (A) for which long-term support of $25,000,000 (or, if less than $25,000,000, the threshold established pursuant to international agreements, including the Common Approaches for Officially Supported Export Credits and Environmental and Social Due Diligence, as adopted by the Organisation for Economic Co-operation and Development Council on June 28, 2012, and the risk-management framework adopted by financial institutions for determining, assessing, and managing environmental and social risk in projects (commonly referred to as the “Equator Principles”)) or more is requested from the Bank;
 
             (B) for which the Bank’s support would be critical to its implementation; and
 
@@ -49,7 +49,7 @@
 
         Nothing in this section shall be construed to create any cause of action.
 
-([July 31, 1945, ch. 341, § 11][/us/act/1945-07-31/ch341/s11], formerly § 17, as added and renumbered § 11, [Pub. L. 102–429, title I][/us/pl/102/429], §§ 106, 121(c)(5), Oct. 21, 1992, [106 Stat. 2189][/us/stat/106/2189], 2199; amended [Pub. L. 103–428, § 2(a)][/us/pl/103/428/s2/a], Oct. 31, 1994, [108 Stat. 4376][/us/stat/108/4376]; [Pub. L. 109–438, § 18(b)][/us/pl/109/438/s18/b], Dec. 20, 2006, [120 Stat. 3281][/us/stat/120/3281].)
+([July 31, 1945, ch. 341, § 11][/us/act/1945-07-31/ch341/s11], formerly § 17, as added and renumbered § 11, [Pub. L. 102–429, title I][/us/pl/102/429], §§ 106, 121(c)(5), Oct. 21, 1992, [106 Stat. 2189][/us/stat/106/2189], 2199; amended [Pub. L. 103–428, § 2(a)][/us/pl/103/428/s2/a], Oct. 31, 1994, [108 Stat. 4376][/us/stat/108/4376]; [Pub. L. 109–438, § 18(b)][/us/pl/109/438/s18/b], Dec. 20, 2006, [120 Stat. 3281][/us/stat/120/3281]; [Pub. L. 114–94, div. E, title LIV, § 54002(d)][/us/pl/114/94/s54002/d], Dec. 4, 2015, [129 Stat. 1769][/us/stat/129/1769].)
 
  __Codification__ 
 
@@ -61,9 +61,15 @@
 
  __Amendments__ 
 
+    2015—Subsec. (a)(1)(A). [Pub. L. 114–94][/us/pl/114/94] substituted “$25,000,000 (or, if less than $25,000,000, the threshold established pursuant to international agreements, including the Common Approaches for Officially Supported Export Credits and Environmental and Social Due Diligence, as adopted by the Organisation for Economic Co-operation and Development Council on June 28, 2012, and the risk-management framework adopted by financial institutions for determining, assessing, and managing environmental and social risk in projects (commonly referred to as the ‘Equator Principles’)) or more” for “$10,000,000 or more”.
+
     2006—Subsec. (a)(1). [Pub. L. 109–438][/us/pl/109/438] inserted after first sentence “Such procedures shall provide for the public disclosure of environmental assessments and supplemental environmental reports required to be submitted to the Bank, including remediation or mitigation plans and procedures, and related monitoring reports. The preceding sentence shall not be interpreted to require the public disclosure of any information described in [section 1905 of title 18][/us/usc/t18/s1905].”
 
     1994—Subsec. (b). [Pub. L. 103–428][/us/pl/103/428] inserted par. (1) designation and heading, inserted before period at end of first sentence “(such as exports of products and services used to aid in the monitoring, abatement, control, or prevention of air, water, and ground contaminants or pollution, or which provide protection in the handling of toxic substances, subject to a final determination by the Bank, and products and services for foreign environmental projects dedicated entirely to the prevention, control, or cleanup of air, water, or ground pollution, including facilities to provide for control or cleanup, and used in the retrofitting of facility equipment for the sole purpose of mitigating, controlling, or preventing adverse environmental effects, subject to a final determination by the Bank)”, and added par. (2).
+
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–94][/us/pl/114/94] applicable with respect to fiscal year 2016 and each fiscal year thereafter, see [section 54002(e) of Pub. L. 114–94][/us/pl/114/94/s54002/e], set out as a note under [section 635 of this title][/us/usc/t12/s635].
 
 ----------
 
@@ -82,12 +88,18 @@
 [/us/stat/108/4376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4376
 [/us/pl/109/438/s18/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F438%2Fs18%2Fb
 [/us/stat/120/3281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3281
+[/us/pl/114/94/s54002/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs54002%2Fd
+[/us/stat/129/1769]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1769
 [/us/act/1945-07-31/ch341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-07-31%2Fch341
 [/us/usc/t12/s635i–8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs635i%E2%80%938
 [/us/act/1945-07-31/ch341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-07-31%2Fch341
 [/us/usc/t12/s635h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs635h
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/109/438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F438
 [/us/usc/t18/s1905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1905
 [/us/pl/103/428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F428
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94/s54002/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs54002%2Fe
+[/us/usc/t12/s635]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs635
 
 

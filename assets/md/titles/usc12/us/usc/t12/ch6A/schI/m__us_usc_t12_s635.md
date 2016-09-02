@@ -27,9 +27,11 @@
 
              provides medium-term financing where necessary to be fully competitive—
 
-                (i) at rates of interest to the customer which are equal to rates established in international agreements; and
+                (i) at rates of interest to the customer which are equal to rates established in international agreements;
 
                 (ii) in amounts up to 85 percent of the total cost of the exports involved; and
+
+                (iii) with principal amounts of not more than $25,000,000; and
 
             (B) enables the Bank to cooperate fully with the Secretary of Commerce and the Administrator of the Small Business Administration to develop a program for purposes of disseminating information (using existing private institutions) to small business concerns regarding the medium-term financing provided under this paragraph.
 
@@ -77,7 +79,7 @@
 
                 (iv) The Director appointed to represent the interests of small business under [section 635a(c) of this title][/us/usc/t12/s635a/c] shall ensure that the Bank carries out its responsibilities under clauses (ii) and (iii) of this subparagraph and that the Bank’s financial and other resources are, to the maximum extent possible, appropriately used for small business needs.
 
-                (v) To assure that the purposes of clauses (i) and (ii) of this subparagraph are carried out, the Bank shall make available, from the aggregate loan, guarantee, and insurance authority available to it, an amount to finance exports directly by small business concerns (as defined under [section 632 of title 15][/us/usc/t15/s632]) which shall be not less than 20 percent of such authority for each fiscal year. From the amount made available under the preceding sentence, it shall be a goal of the Bank to increase the amount made available to finance exports directly by small business concerns referred to in [section 635a(i)(1) of this title][/us/usc/t12/s635a/i/1].
+                (v) To assure that the purposes of clauses (i) and (ii) of this subparagraph are carried out, the Bank shall make available, from the aggregate loan, guarantee, and insurance authority available to it, an amount to finance exports directly by small business concerns (as defined under [section 632 of title 15][/us/usc/t15/s632]) which shall be not less than 25 percent of such authority for each fiscal year. From the amount made available under the preceding sentence, it shall be a goal of the Bank to increase the amount made available to finance exports directly by small business concerns referred to in [section 635a(i)(1) of this title][/us/usc/t12/s635a/i/1].
 
                 (vi) The Bank shall utilize the amount set aside pursuant to clause (v) of this subparagraph to offer financing for small business exports on terms which are fully competitive with regard to interest rates and with regard to the portion of financing which may be provided, guaranteed, or insured. Financing under this clause (vi) shall be available without regard to whether financing for the particular transaction was disapproved by any other Federal agency.
 
@@ -124,6 +126,14 @@
             (K) The Bank shall promote the export of goods and services related to renewable energy sources.
 
             (L) The Bank shall require an applicant for assistance from the Bank to disclose whether the applicant has been found by a court of the United States to have violated the Foreign Corrupt Practices Act of 1977, the Arms Export Control Act \[[22 U.S.C. 2751][/us/usc/t22/s2751] et seq.\], the International Emergency Economic Powers Act \[[50 U.S.C. 1701][/us/usc/t50/s1701] et seq.\], or the Export Administration Act of 1979 \[[50 U.S.C. 4601][/us/usc/t50/s4601] et seq.\] within the preceding 12 months, and shall maintain, in cooperation with the Department of Justice, for not less than 3 years a record of such applicants so found to have violated any such Act.
+
+            (M)
+
+             Not later than 2 years after December 4, 2015, the Bank shall implement policies—
+
+                (i) to accept electronic documents with respect to transactions whenever possible, including copies of bills of lading, certifications, and compliance documents, in such manner so as not to undermine any potential civil or criminal enforcement related to the transactions; and
+
+                (ii) to accept electronic payments in all of its programs.
 
         (2) __Prohibition on Aid to Marxist-Leninist Countries.—__ 
 
@@ -369,7 +379,7 @@
 
                 (ii) The advisory committee shall make recommendations to the Board of Directors on how the Bank can facilitate greater support by United States commercial banks for trade with sub-Saharan Africa.
 
-                (iii) The advisory committee shall terminate on September 30, 2014.
+                (iii) The advisory committee shall terminate on the date on which the authority of the Bank expires under [section 635f of this title][/us/usc/t12/s635f].
 
             (C)
 
@@ -457,7 +467,7 @@
 
         (2)  __Competitive opportunity for insurance companies__  __.—__ 
 
-        In the case of any long-term loan or guarantee of not less than $10,000,000, the Bank shall seek to ensure that United States insurance companies are accorded a fair and open competitive opportunity to provide insurance against risk of loss in connection with any transaction with respect to which such loan or guarantee is provided.
+        In the case of any long-term loan or guarantee of not less than $25,000,000, the Bank shall seek to ensure that United States insurance companies are accorded a fair and open competitive opportunity to provide insurance against risk of loss in connection with any transaction with respect to which such loan or guarantee is provided.
 
         (3)  __Responsive actions__  __.—__ 
 
@@ -669,7 +679,21 @@
 
         In entering into financing contracts, the Bank shall seek a creditor status which is not subordinate to that of all other creditors, in order to reduce the risk to, and enhance recoveries for, the Bank.
 
-([July 31, 1945, ch. 341, § 2][/us/act/1945-07-31/ch341/s2], [59 Stat. 526][/us/stat/59/526]; [Dec. 28, 1945, ch. 602][/us/act/1945-12-28/ch602], [59 Stat. 666][/us/stat/59/666]; [June 9, 1947, ch. 101, § 1][/us/act/1947-06-09/ch101/s1], [61 Stat. 130][/us/stat/61/130]; [May 21, 1953, ch. 64, § 1][/us/act/1953-05-21/ch64/s1], [67 Stat. 28][/us/stat/67/28]; [Pub. L. 87–311][/us/pl/87/311], Sept. 26, 1961, [75 Stat. 673][/us/stat/75/673]; [Pub. L. 88–101, § 1(a)][/us/pl/88/101/s1/a], Aug. 20, 1963, [77 Stat. 128][/us/stat/77/128]; [Pub. L. 90–267, § 1(a)][/us/pl/90/267/s1/a]–(c), Mar. 13, 1968, [82 Stat. 47–49][/us/stat/82/47-49]; [Pub. L. 92–126, § 1(b)(1)][/us/pl/92/126/s1/b/1], (2), (5), (6), Aug. 17, 1971, [85 Stat. 345][/us/stat/85/345], 346; [Pub. L. 93–646][/us/pl/93/646], §§ 2–6, 13, Jan. 4, 1975, [88 Stat. 2333–2335][/us/stat/88/2333-2335], 2337; [Pub. L. 95–143][/us/pl/95/143], §§ 1–3, Oct. 26, 1977, [91 Stat. 1210][/us/stat/91/1210]; [Pub. L. 95–630, title XIX][/us/pl/95/630], §§ 1902–1904, 1907(a), 1909, 1910, 1915, 1916, Nov. 10, 1978, [92 Stat. 3724–3727][/us/stat/92/3724-3727]; [Pub. L. 96–470, title II, § 210][/us/pl/96/470/s210], Oct. 19, 1980, [94 Stat. 2245][/us/stat/94/2245]; [Pub. L. 98–181, title I][/us/pl/98/181] \[title VI, §§ 612, 616(a), 617, 618(a), (c), 619(b)–(d), 620(a), 622\], Nov. 30, 1983, [97 Stat. 1255][/us/stat/97/1255], 1257, 1258, 1260, 1261; [Pub. L. 99–440, title II, § 204][/us/pl/99/440/s204], Oct. 2, 1986, [100 Stat. 1096][/us/stat/100/1096]; [Pub. L. 99–472][/us/pl/99/472], §§ 2–11, 20(a), Oct. 15, 1986, [100 Stat. 1200–1203][/us/stat/100/1200-1203], 1209; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 100–418, title III, § 3304][/us/pl/100/418/s3304], Aug. 23, 1988, [102 Stat. 1384][/us/stat/102/1384]; [Pub. L. 100–690, title IV, § 4703][/us/pl/100/690/s4703], Nov. 18, 1988, [102 Stat. 4293][/us/stat/102/4293]; [Pub. L. 101–240, title I][/us/pl/101/240], §§ 101(a), (c), (d), 102, Dec. 19, 1989, [103 Stat. 2493–2495][/us/stat/103/2493-2495]; [Pub. L. 101–513, title V, § 562][/us/pl/101/513/s562] (part), Nov. 5, 1990, [104 Stat. 2031][/us/stat/104/2031]; [Pub. L. 101–623, § 16][/us/pl/101/623/s16], Nov. 21, 1990, [104 Stat. 3357][/us/stat/104/3357]; [Pub. L. 102–145, § 121(2)][/us/pl/102/145/s121/2], (3), Oct. 28, 1991, as added [Pub. L. 102–266, § 102][/us/pl/102/266/s102], Apr. 1, 1992, [106 Stat. 95][/us/stat/106/95]; [Pub. L. 102–429, title I][/us/pl/102/429], §§ 104, 105, 107, 109(a), 110–112(d), 114, 116, 121(a), Oct. 21, 1992, [106 Stat. 2189][/us/stat/106/2189], 2190, 2193–2196, 2198; [Pub. L. 102–583][/us/pl/102/583], §§ 6(c), 12(a), (c)(1)(A), Nov. 2, 1992, [106 Stat. 4932][/us/stat/106/4932], 4935; [Pub. L. 103–149, § 4(b)(5)][/us/pl/103/149/s4/b/5], Nov. 23, 1993, [107 Stat. 1505][/us/stat/107/1505]; [Pub. L. 103–236, title VIII, § 825][/us/pl/103/236/s825], Apr. 30, 1994, [108 Stat. 514][/us/stat/108/514]; [Pub. L. 103–428, § 1(a)][/us/pl/103/428/s1/a], (b), Oct. 31, 1994, [108 Stat. 4375][/us/stat/108/4375]; [Pub. L. 103–447, title I, § 102(a)][/us/pl/103/447/s102/a], Nov. 2, 1994, [108 Stat. 4693][/us/stat/108/4693]; [Pub. L. 104–201, div. A, title XIII, § 1303(a)][/us/pl/104/201/s1303/a], Sept. 23, 1996, [110 Stat. 2702][/us/stat/110/2702]; [Pub. L. 105–121][/us/pl/105/121], §§ 5, 7(a), 9–12, Nov. 26, 1997, [111 Stat. 2529][/us/stat/111/2529], 2530; [Pub. L. 106–569, title XI][/us/pl/106/569], §§ 1103(d)(1), 1104(a)(1), (2), Dec. 27, 2000, [114 Stat. 3031][/us/stat/114/3031]; [Pub. L. 107–189][/us/pl/107/189], §§ 2, 6(a), (b), 7–8(b), 11, 13, 15–19, 21, 24(a)(1)–(2)(D), (b)(1)–(3), June 14, 2002, [116 Stat. 698][/us/stat/116/698], 700, 704–709; [Pub. L. 109–438][/us/pl/109/438], §§ 3(a), (b)(2), (c), 5, 6(b)(2), 7, 8, 11, 12, 13(b), (c), 14(b), Dec. 20, 2006, [120 Stat. 3268][/us/stat/120/3268], 3269, 3272, 3273, 3276, 3277, 3279, 3280; [Pub. L. 112–122][/us/pl/112/122], §§ 7, 8, 12(b), 22, 23, May 30, 2012, [126 Stat. 354][/us/stat/126/354], 357, 363.)
+    (k) __Prohibition on discrimination based on industry__ 
+
+        (1) __In general__ 
+
+        Except as provided in this subchapter, the Bank may not—
+
+            (A) deny an application for financing based solely on the industry, sector, or business that the application concerns; or
+
+            (B) promulgate or implement policies that discriminate against an application based solely on the industry, sector, or business that the application concerns.
+
+        (2) __Applicability__ 
+
+            The prohibitions under paragraph (1) apply only to applications for financing by the Bank for projects concerning the exploration, development, production, or export of energy sources and the generation or transmission of electrical power, or combined heat and power, regardless of the energy source involved.
+
+([July 31, 1945, ch. 341, § 2][/us/act/1945-07-31/ch341/s2], [59 Stat. 526][/us/stat/59/526]; [Dec. 28, 1945, ch. 602][/us/act/1945-12-28/ch602], [59 Stat. 666][/us/stat/59/666]; [June 9, 1947, ch. 101, § 1][/us/act/1947-06-09/ch101/s1], [61 Stat. 130][/us/stat/61/130]; [May 21, 1953, ch. 64, § 1][/us/act/1953-05-21/ch64/s1], [67 Stat. 28][/us/stat/67/28]; [Pub. L. 87–311][/us/pl/87/311], Sept. 26, 1961, [75 Stat. 673][/us/stat/75/673]; [Pub. L. 88–101, § 1(a)][/us/pl/88/101/s1/a], Aug. 20, 1963, [77 Stat. 128][/us/stat/77/128]; [Pub. L. 90–267, § 1(a)][/us/pl/90/267/s1/a]–(c), Mar. 13, 1968, [82 Stat. 47–49][/us/stat/82/47-49]; [Pub. L. 92–126, § 1(b)(1)][/us/pl/92/126/s1/b/1], (2), (5), (6), Aug. 17, 1971, [85 Stat. 345][/us/stat/85/345], 346; [Pub. L. 93–646][/us/pl/93/646], §§ 2–6, 13, Jan. 4, 1975, [88 Stat. 2333–2335][/us/stat/88/2333-2335], 2337; [Pub. L. 95–143][/us/pl/95/143], §§ 1–3, Oct. 26, 1977, [91 Stat. 1210][/us/stat/91/1210]; [Pub. L. 95–630, title XIX][/us/pl/95/630], §§ 1902–1904, 1907(a), 1909, 1910, 1915, 1916, Nov. 10, 1978, [92 Stat. 3724–3727][/us/stat/92/3724-3727]; [Pub. L. 96–470, title II, § 210][/us/pl/96/470/s210], Oct. 19, 1980, [94 Stat. 2245][/us/stat/94/2245]; [Pub. L. 98–181, title I][/us/pl/98/181] \[title VI, §§ 612, 616(a), 617, 618(a), (c), 619(b)–(d), 620(a), 622\], Nov. 30, 1983, [97 Stat. 1255][/us/stat/97/1255], 1257, 1258, 1260, 1261; [Pub. L. 99–440, title II, § 204][/us/pl/99/440/s204], Oct. 2, 1986, [100 Stat. 1096][/us/stat/100/1096]; [Pub. L. 99–472][/us/pl/99/472], §§ 2–11, 20(a), Oct. 15, 1986, [100 Stat. 1200–1203][/us/stat/100/1200-1203], 1209; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 100–418, title III, § 3304][/us/pl/100/418/s3304], Aug. 23, 1988, [102 Stat. 1384][/us/stat/102/1384]; [Pub. L. 100–690, title IV, § 4703][/us/pl/100/690/s4703], Nov. 18, 1988, [102 Stat. 4293][/us/stat/102/4293]; [Pub. L. 101–240, title I][/us/pl/101/240], §§ 101(a), (c), (d), 102, Dec. 19, 1989, [103 Stat. 2493–2495][/us/stat/103/2493-2495]; [Pub. L. 101–513, title V, § 562][/us/pl/101/513/s562] (part), Nov. 5, 1990, [104 Stat. 2031][/us/stat/104/2031]; [Pub. L. 101–623, § 16][/us/pl/101/623/s16], Nov. 21, 1990, [104 Stat. 3357][/us/stat/104/3357]; [Pub. L. 102–145, § 121(2)][/us/pl/102/145/s121/2], (3), Oct. 28, 1991, as added [Pub. L. 102–266, § 102][/us/pl/102/266/s102], Apr. 1, 1992, [106 Stat. 95][/us/stat/106/95]; [Pub. L. 102–429, title I][/us/pl/102/429], §§ 104, 105, 107, 109(a), 110–112(d), 114, 116, 121(a), Oct. 21, 1992, [106 Stat. 2189][/us/stat/106/2189], 2190, 2193–2196, 2198; [Pub. L. 102–583][/us/pl/102/583], §§ 6(c), 12(a), (c)(1)(A), Nov. 2, 1992, [106 Stat. 4932][/us/stat/106/4932], 4935; [Pub. L. 103–149, § 4(b)(5)][/us/pl/103/149/s4/b/5], Nov. 23, 1993, [107 Stat. 1505][/us/stat/107/1505]; [Pub. L. 103–236, title VIII, § 825][/us/pl/103/236/s825], Apr. 30, 1994, [108 Stat. 514][/us/stat/108/514]; [Pub. L. 103–428, § 1(a)][/us/pl/103/428/s1/a], (b), Oct. 31, 1994, [108 Stat. 4375][/us/stat/108/4375]; [Pub. L. 103–447, title I, § 102(a)][/us/pl/103/447/s102/a], Nov. 2, 1994, [108 Stat. 4693][/us/stat/108/4693]; [Pub. L. 104–201, div. A, title XIII, § 1303(a)][/us/pl/104/201/s1303/a], Sept. 23, 1996, [110 Stat. 2702][/us/stat/110/2702]; [Pub. L. 105–121][/us/pl/105/121], §§ 5, 7(a), 9–12, Nov. 26, 1997, [111 Stat. 2529][/us/stat/111/2529], 2530; [Pub. L. 106–569, title XI][/us/pl/106/569], §§ 1103(d)(1), 1104(a)(1), (2), Dec. 27, 2000, [114 Stat. 3031][/us/stat/114/3031]; [Pub. L. 107–189][/us/pl/107/189], §§ 2, 6(a), (b), 7–8(b), 11, 13, 15–19, 21, 24(a)(1)–(2)(D), (b)(1)–(3), June 14, 2002, [116 Stat. 698][/us/stat/116/698], 700, 704–709; [Pub. L. 109–438][/us/pl/109/438], §§ 3(a), (b)(2), (c), 5, 6(b)(2), 7, 8, 11, 12, 13(b), (c), 14(b), Dec. 20, 2006, [120 Stat. 3268][/us/stat/120/3268], 3269, 3272, 3273, 3276, 3277, 3279, 3280; [Pub. L. 112–122][/us/pl/112/122], §§ 7, 8, 12(b), 22, 23, May 30, 2012, [126 Stat. 354][/us/stat/126/354], 357, 363; [Pub. L. 114–94, div. E, title LII, § 52001(a)][/us/pl/114/94/s52001/a],title LIII, § 53001, title LIV, §§ 54001(c), 54002(a), (b), title LV, § 55001, Dec. 4, 2015, [129 Stat. 1767–1769][/us/stat/129/1767-1769].)
 
  __Amendment of Section__ 
 
@@ -702,6 +726,18 @@
     [Section 1(c) of Pub. L. 90–267][/us/pl/90/267/s1/c] added pars. (2) to (5) of subsec. (b) and another section of [Pub. L. 90–267][/us/pl/90/267] also designated 1(c) substituted “$3,500,000,000” for “$2,000,000,000” in subsec. (c)(1). See, also, 1968 Amendments hereunder.
 
  __Amendments__ 
+
+    2015—Subsec. (a)(2)(A)(iii). [Pub. L. 114–94, § 54002(a)][/us/pl/114/94/s54002/a], added cl. (iii).
+
+    Subsec. (b)(1)(E)(v). [Pub. L. 114–94, § 52001(a)][/us/pl/114/94/s52001/a], substituted “25 percent” for “20 percent”.
+
+    Subsec. (b)(1)(M). [Pub. L. 114–94, § 53001][/us/pl/114/94/s53001], added subpar. (M).
+
+    Subsec. (b)(9)(B)(iii). [Pub. L. 114–94, § 54001(c)][/us/pl/114/94/s54001/c], substituted “the date on which the authority of the Bank expires under [section 635f of this title][/us/usc/t12/s635f]” for “September 30, 2014”.
+
+    Subsec. (d)(2). [Pub. L. 114–94, § 54002(b)][/us/pl/114/94/s54002/b], substituted “$25,000,000” for “$10,000,000”.
+
+    Subsec. (k). [Pub. L. 114–94, § 55001][/us/pl/114/94/s55001], added subsec. (k).
 
     2012—Subsec. (b)(2)(B)(ii). [Pub. L. 112–122, § 22][/us/pl/112/122/s22], redesignated subcls. (II), (III), (V), (VI), (VIII), and (IX) as (I) to (VI), respectively, and struck out subcls. (I), (IV), and (VII) which deemed Cambodian People’s Republic, Lao People’s Democratic Republic, and Socialist Federal Republic of Yugoslavia as Marxist-Leninist countries for purposes of par. (2).
 
@@ -1077,6 +1113,20 @@
 
     1945—Subsec. (a). Act Dec. 28, 1945, inserted “(or the Philippine Islands)” after “any foreign country”.
 
+ __Effective Date of 2015 Amendment__ 
+
+[Pub. L. 114–94, div. E, title LII, § 52001(b)][/us/pl/114/94/s52001/b], Dec. 4, 2015, [129 Stat. 1767][/us/stat/129/1767], provided that: 
+
+> “The amendment made by subsection (a) \[amending this section\] shall apply with respect to fiscal year 2016 and each fiscal year thereafter.”
+
+[Pub. L. 114–94, div. E, title LIV, § 54001(d)][/us/pl/114/94/s54001/d], Dec. 4, 2015, [129 Stat. 1768][/us/stat/129/1768], provided that: 
+
+> “The amendments made by this section \[amending this section and [section 635f of this title][/us/usc/t12/s635f] and provisions set out as a note under this section\] shall take effect on the earlier of the date of the enactment of this Act \[Dec. 4, 2015\] or June 30, 2015.”
+
+[Pub. L. 114–94, div. E, title LIV, § 54002(e)][/us/pl/114/94/s54002/e], Dec. 4, 2015, [129 Stat. 1769][/us/stat/129/1769], provided that: 
+
+> “The amendments made by this section \[amending this section and sections 635a and 635i–5 of this title\] shall apply with respect to fiscal year 2016 and each fiscal year thereafter.”
+
  __Effective Date of 2012 Amendment__ 
 
 [Pub. L. 112–122, § 25][/us/pl/112/122/s25], May 30, 2012, [126 Stat. 364][/us/stat/126/364], provided that: 
@@ -1085,9 +1135,9 @@
 
  __Effective and Termination Dates of 1994 Amendments__ 
 
-[Pub. L. 103–428, § 1(c)][/us/pl/103/428/s1/c], Oct. 31, 1994, [108 Stat. 4376][/us/stat/108/4376], as amended by [Pub. L. 105–121, § 4][/us/pl/105/121/s4], Nov. 26, 1997, [111 Stat. 2529][/us/stat/111/2529]; [Pub. L. 109–438, § 4][/us/pl/109/438/s4], Dec. 20, 2006, [120 Stat. 3269][/us/stat/120/3269]; [Pub. L. 112–122, § 24][/us/pl/112/122/s24], May 30, 2012, [126 Stat. 364][/us/stat/126/364]; [Pub. L. 112–136, § 1][/us/pl/112/136/s1], June 21, 2012, [126 Stat. 385][/us/stat/126/385], provided that: 
+[Pub. L. 103–428, § 1(c)][/us/pl/103/428/s1/c], Oct. 31, 1994, [108 Stat. 4376][/us/stat/108/4376], as amended by [Pub. L. 105–121, § 4][/us/pl/105/121/s4], Nov. 26, 1997, [111 Stat. 2529][/us/stat/111/2529]; [Pub. L. 109–438, § 4][/us/pl/109/438/s4], Dec. 20, 2006, [120 Stat. 3269][/us/stat/120/3269]; [Pub. L. 112–122, § 24][/us/pl/112/122/s24], May 30, 2012, [126 Stat. 364][/us/stat/126/364]; [Pub. L. 112–136, § 1][/us/pl/112/136/s1], June 21, 2012, [126 Stat. 385][/us/stat/126/385]; [Pub. L. 114–94, div. E, title LIV, § 54001(b)][/us/pl/114/94/s54001/b], Dec. 4, 2015, [129 Stat. 1768][/us/stat/129/1768], provided that: 
 
-> “The amendments made by this section \[amending this section\] shall remain in effect during the period beginning on the date of enactment of this Act \[Oct. 31, 1994\] and ending on September 30, 2014.”
+> “The amendments made by this section \[amending this section\] shall remain in effect during the period beginning on the date of enactment of this Act \[Oct. 31, 1994\] and ending on the date on which the authority of the Export-Import Bank of the United States expires under section 7 of the Export-Import Bank Act of 1945 ([12 U.S.C. 635f][/us/usc/t12/s635f]).”
 
 \[[Pub. L. 113–235, div. J, title VI][/us/pl/113/235], Dec. 16, 2014, [128 Stat. 2598][/us/stat/128/2598], provided in part: 
 
@@ -1126,6 +1176,12 @@
 [Pub. L. 95–630, title XIX, § 1917][/us/pl/95/630/s1917], Nov. 10, 1978, [92 Stat. 3727][/us/stat/92/3727], provided that: 
 
 > “This title \[enacting sections 635a–1 to 635a–3 of this title and [section 2153e–1 of Title 42][/us/usc/t42/s2153e–1], The Public Health and Welfare, and amending this section and sections 635e to 635g of this title\] shall take effect upon enactment \[Nov. 10, 1978\].”
+
+ __Short Title of 2015 Amendment__ 
+
+[Pub. L. 114–94, div. E, § 50001][/us/pl/114/94/s50001], Dec. 4, 2015, [129 Stat. 1763][/us/stat/129/1763], provided that: 
+
+> “This division \[enacting [section 635a–7 of this title][/us/usc/t12/s635a–7], amending this section and sections 635a, 635a–5, 635a–6, 635e to 635g, and 635i–5 of this title, enacting provisions set out as notes under this section and sections 635a, 635a–5, 635e, and 635g of this title, and amending provisions set out as a note under this section\] may be cited as the ‘Export-Import Bank Reform and Reauthorization Act of 2015’.”
 
  __Short Title of 2012 Amendment__ 
 
@@ -1230,6 +1286,36 @@
     Determination of President of the United States, No. 2000–4, Oct. 27, 1999, 64 F.R. 60649.
 
     Determination of President of the United States, No. 2000–18, Mar. 16, 2000, 65 F.R. 16297.
+
+ __Pilot Program for Reinsurance__ 
+
+[Pub. L. 114–94, div. E, title LI, § 51008][/us/pl/114/94/s51008], Dec. 4, 2015, [129 Stat. 1766][/us/stat/129/1766], provided that:
+
+>     “(a)  __In General__  __.—__ 
+
+>     Notwithstanding any provision of the Export-Import Bank Act of 1945 ([12 U.S.C. 635][/us/usc/t12/s635] et seq.), the Export-Import Bank of the United States (in this section referred to as the “Bank”) may establish a pilot program under which the Bank may enter into contracts and other arrangements to share risks associated with the provision of guarantees, insurance, or credit, or the participation in the extension of credit, by the Bank under that Act.
+
+>     “(b) __Limitations on Amount of Risk-Sharing.—__ 
+
+>         “(1)  __Per contract or other arrangement__  __.—__ 
+
+>         The aggregate amount of liability the Bank may transfer through risk-sharing pursuant to a contract or other arrangement entered into under subsection (a) may not exceed $1,000,000,000.
+
+>         “(2)  __Per year__  __.—__ 
+
+>         The aggregate amount of liability the Bank may transfer through risk-sharing during a fiscal year pursuant to contracts or other arrangements entered into under subsection (a) during that fiscal year may not exceed $10,000,000,000.
+
+>     “(c)  __Annual Reports__  __.—__ 
+
+>     Not later than 1 year after the date of the enactment of this Act \[Dec. 4, 2015\], and annually thereafter through 2019, the Bank shall submit to Congress a written report that contains a detailed analysis of the use of the pilot program carried out under subsection (a) during the year preceding the submission of the report.
+
+>     “(d)  __Rule of Construction__  __.—__ 
+
+>     Nothing in this section shall be construed to affect, impede, or revoke any authority of the Bank.
+
+>     “(e)  __Termination__  __.—__ 
+
+>     The pilot program carried out under subsection (a) shall terminate on September 30, 2019.”
 
  __Publication of Guidelines for Economic Impact Analyses__ 
 
@@ -1512,6 +1598,7 @@ By the authority vested in me as President of the United States of America by Se
 [/us/usc/t22/s2754]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2754
 [/us/usc/t22/s2778]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2778
 [/us/usc/t12/s635e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs635e
+[/us/usc/t12/s635f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs635f
 [/us/usc/t12/s635g/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs635g%2Fa
 [/us/usc/t19/s3701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3701
 [/us/usc/t19/s1671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1671
@@ -1586,6 +1673,8 @@ By the authority vested in me as President of the United States of America by Se
 [/us/stat/120/3268]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3268
 [/us/pl/112/122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F122
 [/us/stat/126/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F354
+[/us/pl/114/94/s52001/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs52001%2Fa
+[/us/stat/129/1767-1769]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1767-1769
 [/us/pl/103/428/s1/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F428%2Fs1%2Fc
 [/us/pl/93/344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F344
 [/us/pl/101/508/s13201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs13201%2Fa
@@ -1617,6 +1706,13 @@ By the authority vested in me as President of the United States of America by Se
 [/us/pl/109/438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F438
 [/us/pl/90/267/s1/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F267%2Fs1%2Fc
 [/us/pl/90/267]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F267
+[/us/pl/114/94/s54002/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs54002%2Fa
+[/us/pl/114/94/s52001/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs52001%2Fa
+[/us/pl/114/94/s53001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs53001
+[/us/pl/114/94/s54001/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs54001%2Fc
+[/us/usc/t12/s635f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs635f
+[/us/pl/114/94/s54002/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs54002%2Fb
+[/us/pl/114/94/s55001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs55001
 [/us/pl/112/122/s22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F122%2Fs22
 [/us/pl/112/122/s23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F122%2Fs23
 [/us/pl/112/122/s12/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F122%2Fs12%2Fb
@@ -1782,6 +1878,13 @@ By the authority vested in me as President of the United States of America by Se
 [/us/pl/88/101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F101
 [/us/pl/87/311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F311
 [/us/usc/t12/s635e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs635e
+[/us/pl/114/94/s52001/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs52001%2Fb
+[/us/stat/129/1767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1767
+[/us/pl/114/94/s54001/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs54001%2Fd
+[/us/stat/129/1768]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1768
+[/us/usc/t12/s635f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs635f
+[/us/pl/114/94/s54002/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs54002%2Fe
+[/us/stat/129/1769]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1769
 [/us/pl/112/122/s25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F122%2Fs25
 [/us/stat/126/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F364
 [/us/usc/t12/s635a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs635a
@@ -1795,6 +1898,9 @@ By the authority vested in me as President of the United States of America by Se
 [/us/stat/126/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F364
 [/us/pl/112/136/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F136%2Fs1
 [/us/stat/126/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F385
+[/us/pl/114/94/s54001/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs54001%2Fb
+[/us/stat/129/1768]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1768
+[/us/usc/t12/s635f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs635f
 [/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
 [/us/stat/128/2598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2598
 [/us/pl/103/428/s1/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F428%2Fs1%2Fc
@@ -1829,6 +1935,9 @@ By the authority vested in me as President of the United States of America by Se
 [/us/pl/95/630/s1917]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2Fs1917
 [/us/stat/92/3727]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3727
 [/us/usc/t42/s2153e–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2153e%E2%80%931
+[/us/pl/114/94/s50001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs50001
+[/us/stat/129/1763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1763
+[/us/usc/t12/s635a–7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs635a%E2%80%937
 [/us/pl/112/122/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F122%2Fs1%2Fa
 [/us/stat/126/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F350
 [/us/pl/109/438/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F438%2Fs1%2Fa
@@ -1902,6 +2011,9 @@ By the authority vested in me as President of the United States of America by Se
 [/us/act/1940-09-26/ch734/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-09-26%2Fch734%2Fs3
 [/us/stat/54/962]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F962
 [/us/usc/t22/s2799aa–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2799aa%E2%80%931
+[/us/pl/114/94/s51008]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs51008
+[/us/stat/129/1766]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1766
+[/us/usc/t12/s635]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs635
 [/us/pl/112/122/s12/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F122%2Fs12%2Fa
 [/us/stat/126/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F357
 [/us/usc/t12/s635/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs635%2Fe

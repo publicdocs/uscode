@@ -89,7 +89,7 @@
 
             (C) __Debt or equity instruments of smaller institutions__ 
 
-                For debt or equity instruments issued before May 19, 2010, by depository institution holding companies with total consolidated assets of less than $15,000,000,000 as of December 31, 2009, and by organizations that were mutual holding companies on May 19, 2010, the capital deductions that would be required for other institutions under this section are not required as a result of this section.
+                For debt or equity instruments issued before May 19, 2010, by depository institution holding companies with total consolidated assets of less than $15,000,000,000 as of December 31, 2009, or March 31, 2010, and by organizations that were mutual holding companies on May 19, 2010, the capital deductions that would be required for other institutions under this section are not required as a result of this section.
 
             (D) __Depository institution holding companies not previously supervised by the Board of Governors__ 
 
@@ -159,7 +159,7 @@
 
                 Nothing in subparagraph (A) shall limit the authority of the Board under any other applicable provision of law to conduct any regulatory or supervisory activity of a depository institution holding company or non-bank financial company supervised by the Board of Governors, including the collection or reporting of any information on an entity or group-wide basis. Nothing in this paragraph shall excuse the Board from its obligations to comply with [section 5361(a) of this title][/us/usc/t12/s5361/a] and section 10(b)(2) of the Home Owners’ Loan Act ([12 U.S.C. 1467a(b)(2)][/us/usc/t12/s1467a/b/2]), as appropriate.
 
-([Pub. L. 111–203, title I, § 171][/us/pl/111/203/s171], July 21, 2010, [124 Stat. 1435][/us/stat/124/1435]; [Pub. L. 113–250, § 2(a)][/us/pl/113/250/s2/a], Dec. 18, 2014, [128 Stat. 2886][/us/stat/128/2886]; [Pub. L. 113–279, § 2][/us/pl/113/279/s2], Dec. 18, 2014, [128 Stat. 3017][/us/stat/128/3017].)
+([Pub. L. 111–203, title I, § 171][/us/pl/111/203/s171], July 21, 2010, [124 Stat. 1435][/us/stat/124/1435]; [Pub. L. 113–250, § 2(a)][/us/pl/113/250/s2/a], Dec. 18, 2014, [128 Stat. 2886][/us/stat/128/2886]; [Pub. L. 113–279, § 2][/us/pl/113/279/s2], Dec. 18, 2014, [128 Stat. 3017][/us/stat/128/3017]; [Pub. L. 114–94, div. G, title LXXXVII, § 87001][/us/pl/114/94/s87001], Dec. 4, 2015, [129 Stat. 1798][/us/stat/129/1798].)
 
  __References in Text__ 
 
@@ -170,6 +170,8 @@
     The Home Owners’ Loan Act, referred to in subsec. (c)(3)(A), is [act June 13, 1933, ch. 64][/us/act/1933-06-13/ch64], [48 Stat. 128][/us/stat/48/128], which is classified generally to chapter 12 (§ 1461 et seq.) of this title. For complete classification of this Act to the Code, see Tables.
 
  __Amendments__ 
+
+    2015—Subsec. (b)(4)(C). [Pub. L. 114–94][/us/pl/114/94] inserted “or March 31, 2010,” after “December 31, 2009,”.
 
     2014—Subsec. (a)(4) to (7). [Pub. L. 113–279, § 2(1)][/us/pl/113/279/s2/1], added pars. (4) to (7).
 
@@ -242,12 +244,15 @@
 [/us/stat/128/2886]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2886
 [/us/pl/113/279/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F279%2Fs2
 [/us/stat/128/3017]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3017
+[/us/pl/114/94/s87001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs87001
+[/us/stat/129/1798]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1798
 [/us/pl/110/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343
 [/us/stat/122/3765]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3765
 [/us/usc/t12/s5201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5201
 [/us/pl/113/250/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F250%2Fs1
 [/us/act/1933-06-13/ch64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-06-13%2Fch64
 [/us/stat/48/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F128
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/113/279/s2/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F279%2Fs2%2F1
 [/us/pl/113/250]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F250
 [/us/pl/113/279/s2/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F279%2Fs2%2F2

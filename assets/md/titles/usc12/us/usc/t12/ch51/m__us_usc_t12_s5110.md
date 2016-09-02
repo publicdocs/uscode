@@ -17,13 +17,17 @@
 
     (a) __Access to records__ 
 
-        Notwithstanding any other provision of law, in providing identification and processing functions, the Attorney General shall provide access to all criminal history information to the appropriate State officials responsible for regulating State-licensed loan originators to the extent criminal history background checks are required under the laws of the State for the licensing of such loan originators.
+        Notwithstanding any other provision of law, in providing identification and processing functions, the Attorney General shall provide access to all criminal history information to the appropriate State officials responsible for regulating State-licensed loan originators and other financial service providers to the extent criminal history background checks are required under the laws of the State for the licensing of such loan originators or other financial service providers.
 
     (b) __Agent__ 
 
-        For the purposes of this section and in order to reduce the points of contact which the Federal Bureau of Investigation may have to maintain for purposes of subsection (a), the Conference of State Bank Supervisors or a wholly owned subsidiary may be used as a channeling agent of the States for requesting and distributing information between the Department of Justice and the appropriate State agencies.
+        For the purposes of this section and in order to reduce the points of contact which the Federal Bureau of Investigation may have to maintain for purposes of subsection (a), the Conference of State Bank Supervisors or a wholly owned subsidiary may be used as a channeling agent of the States for requesting and distributing information between the Department of Justice and the appropriate State agencies .
 
-([Pub. L. 110–289, div. A, title V, § 1511][/us/pl/110/289/s1511], July 30, 2008, [122 Stat. 2819][/us/stat/122/2819].)
+([Pub. L. 110–289, div. A, title V, § 1511][/us/pl/110/289/s1511], July 30, 2008, [122 Stat. 2819][/us/stat/122/2819]; [Pub. L. 114–94, div. G, title LXXXVIII, § 88002][/us/pl/114/94/s88002], Dec. 4, 2015, [129 Stat. 1799][/us/stat/129/1799].)
+
+ __Amendments__ 
+
+    2015—Subsec. (a). [Pub. L. 114–94][/us/pl/114/94] inserted “and other financial service providers” after “State-licensed loan originators” and “or other financial service providers” before period at end.
 
 ----------
 
@@ -34,5 +38,8 @@
 
 [/us/pl/110/289/s1511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1511
 [/us/stat/122/2819]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2819
+[/us/pl/114/94/s88002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs88002
+[/us/stat/129/1799]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1799
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 
 

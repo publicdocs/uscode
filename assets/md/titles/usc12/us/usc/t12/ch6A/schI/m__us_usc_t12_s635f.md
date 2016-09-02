@@ -15,15 +15,17 @@
 
 ## § 635f. Termination date of Bank’s functions; exceptions; liquidation
 
-    Export-Import Bank of the United States shall continue to exercise its functions in connection with and in furtherance of its objects and purposes until the close of business on September 30, 2014, but the provisions of this section shall not be construed as preventing the bank from acquiring obligations prior to such date which mature subsequent to such date or from assuming prior to such date liability as guarantor, endorser, or acceptor of obligations which mature subsequent to such date or from issuing, either prior or subsequent to such date, for purchase by the Secretary of the Treasury or any other purchasers, its notes, debentures, bonds, or other obligations which mature subsequent to such date or from continuing as a corporate agency of the United States and exercising any of its functions subsequent to such date for purposes of orderly liquidation, including the administration of its assets and the collection of any obligations held by the bank.
+    Export-Import Bank of the United States shall continue to exercise its functions in connection with and in furtherance of its objects and purposes until the close of business on September 30, 2019, but the provisions of this section shall not be construed as preventing the bank from acquiring obligations prior to such date which mature subsequent to such date or from assuming prior to such date liability as guarantor, endorser, or acceptor of obligations which mature subsequent to such date or from issuing, either prior or subsequent to such date, for purchase by the Secretary of the Treasury or any other purchasers, its notes, debentures, bonds, or other obligations which mature subsequent to such date or from continuing as a corporate agency of the United States and exercising any of its functions subsequent to such date for purposes of orderly liquidation, including the administration of its assets and the collection of any obligations held by the bank.
 
-([July 31, 1945, ch. 341, § 7][/us/act/1945-07-31/ch341/s7], formerly § 8, [59 Stat. 529][/us/stat/59/529]; [June 9, 1947, ch. 101, § 3][/us/act/1947-06-09/ch101/s3], [61 Stat. 131][/us/stat/61/131]; [Oct. 3, 1951, ch. 445, § 1(c)][/us/act/1951-10-03/ch445/s1/c], [65 Stat. 367][/us/stat/65/367]; [Pub. L. 85–55][/us/pl/85/55], June 17, 1957, [71 Stat. 82][/us/stat/71/82]; [Pub. L. 88–101, § 2][/us/pl/88/101/s2], Aug. 20, 1963, [77 Stat. 128][/us/stat/77/128]; [Pub. L. 90–267, § 1(a)][/us/pl/90/267/s1/a], (f), Mar. 13, 1968, [82 Stat. 47][/us/stat/82/47], 49; [Pub. L. 92–126, § 1(b)(4)][/us/pl/92/126/s1/b/4], Aug. 17, 1971, [85 Stat. 345][/us/stat/85/345]; [Pub. L. 93–331][/us/pl/93/331], July 4, 1974, [88 Stat. 289][/us/stat/88/289]; [Pub. L. 93–374][/us/pl/93/374], Aug. 14, 1974, [88 Stat. 445][/us/stat/88/445]; [Pub. L. 93–425][/us/pl/93/425], Sept. 30, 1974, [88 Stat. 1166][/us/stat/88/1166]; [Pub. L. 93–450][/us/pl/93/450], Oct. 18, 1974, [88 Stat. 1368][/us/stat/88/1368]; [Pub. L. 93–646, § 9][/us/pl/93/646/s9], Jan. 4, 1975, [88 Stat. 2336][/us/stat/88/2336]; [Pub. L. 95–143, § 4][/us/pl/95/143/s4], Oct. 26, 1977, [91 Stat. 1211][/us/stat/91/1211]; [Pub. L. 95–407][/us/pl/95/407], Sept. 30, 1978, [92 Stat. 882][/us/stat/92/882]; [Pub. L. 95–630, title XIX, § 1906][/us/pl/95/630/s1906], Nov. 10, 1978, [92 Stat. 3725][/us/stat/92/3725]; [Pub. L. 98–109, § 6][/us/pl/98/109/s6], Oct. 1, 1983, [97 Stat. 746][/us/stat/97/746]; [Pub. L. 98–143][/us/pl/98/143], Nov. 1, 1983, [97 Stat. 916][/us/stat/97/916]; [Pub. L. 98–181, title I][/us/pl/98/181] \[title VI, § 611\], Nov. 30, 1983, [97 Stat. 1254][/us/stat/97/1254]; [Pub. L. 99–472, § 14][/us/pl/99/472/s14], Oct. 15, 1986, [100 Stat. 1204][/us/stat/100/1204]; renumbered § 7 and amended [Pub. L. 102–429, title I][/us/pl/102/429], §§ 102, 121(c)(2), Oct. 21, 1992, [106 Stat. 2187][/us/stat/106/2187], 2199; [Pub. L. 105–46, § 122][/us/pl/105/46/s122], Sept. 30, 1997, [111 Stat. 1158][/us/stat/111/1158]; [Pub. L. 105–121, § 2(a)][/us/pl/105/121/s2/a], Nov. 26, 1997, [111 Stat. 2528][/us/stat/111/2528]; [Pub. L. 107–189, § 3][/us/pl/107/189/s3], June 14, 2002, [116 Stat. 699][/us/stat/116/699]; [Pub. L. 109–438, § 2][/us/pl/109/438/s2], Dec. 20, 2006, [120 Stat. 3268][/us/stat/120/3268]; [Pub. L. 112–122, § 2][/us/pl/112/122/s2], May 30, 2012, [126 Stat. 350][/us/stat/126/350].)
+([July 31, 1945, ch. 341, § 7][/us/act/1945-07-31/ch341/s7], formerly § 8, [59 Stat. 529][/us/stat/59/529]; [June 9, 1947, ch. 101, § 3][/us/act/1947-06-09/ch101/s3], [61 Stat. 131][/us/stat/61/131]; [Oct. 3, 1951, ch. 445, § 1(c)][/us/act/1951-10-03/ch445/s1/c], [65 Stat. 367][/us/stat/65/367]; [Pub. L. 85–55][/us/pl/85/55], June 17, 1957, [71 Stat. 82][/us/stat/71/82]; [Pub. L. 88–101, § 2][/us/pl/88/101/s2], Aug. 20, 1963, [77 Stat. 128][/us/stat/77/128]; [Pub. L. 90–267, § 1(a)][/us/pl/90/267/s1/a], (f), Mar. 13, 1968, [82 Stat. 47][/us/stat/82/47], 49; [Pub. L. 92–126, § 1(b)(4)][/us/pl/92/126/s1/b/4], Aug. 17, 1971, [85 Stat. 345][/us/stat/85/345]; [Pub. L. 93–331][/us/pl/93/331], July 4, 1974, [88 Stat. 289][/us/stat/88/289]; [Pub. L. 93–374][/us/pl/93/374], Aug. 14, 1974, [88 Stat. 445][/us/stat/88/445]; [Pub. L. 93–425][/us/pl/93/425], Sept. 30, 1974, [88 Stat. 1166][/us/stat/88/1166]; [Pub. L. 93–450][/us/pl/93/450], Oct. 18, 1974, [88 Stat. 1368][/us/stat/88/1368]; [Pub. L. 93–646, § 9][/us/pl/93/646/s9], Jan. 4, 1975, [88 Stat. 2336][/us/stat/88/2336]; [Pub. L. 95–143, § 4][/us/pl/95/143/s4], Oct. 26, 1977, [91 Stat. 1211][/us/stat/91/1211]; [Pub. L. 95–407][/us/pl/95/407], Sept. 30, 1978, [92 Stat. 882][/us/stat/92/882]; [Pub. L. 95–630, title XIX, § 1906][/us/pl/95/630/s1906], Nov. 10, 1978, [92 Stat. 3725][/us/stat/92/3725]; [Pub. L. 98–109, § 6][/us/pl/98/109/s6], Oct. 1, 1983, [97 Stat. 746][/us/stat/97/746]; [Pub. L. 98–143][/us/pl/98/143], Nov. 1, 1983, [97 Stat. 916][/us/stat/97/916]; [Pub. L. 98–181, title I][/us/pl/98/181] \[title VI, § 611\], Nov. 30, 1983, [97 Stat. 1254][/us/stat/97/1254]; [Pub. L. 99–472, § 14][/us/pl/99/472/s14], Oct. 15, 1986, [100 Stat. 1204][/us/stat/100/1204]; renumbered § 7 and amended [Pub. L. 102–429, title I][/us/pl/102/429], §§ 102, 121(c)(2), Oct. 21, 1992, [106 Stat. 2187][/us/stat/106/2187], 2199; [Pub. L. 105–46, § 122][/us/pl/105/46/s122], Sept. 30, 1997, [111 Stat. 1158][/us/stat/111/1158]; [Pub. L. 105–121, § 2(a)][/us/pl/105/121/s2/a], Nov. 26, 1997, [111 Stat. 2528][/us/stat/111/2528]; [Pub. L. 107–189, § 3][/us/pl/107/189/s3], June 14, 2002, [116 Stat. 699][/us/stat/116/699]; [Pub. L. 109–438, § 2][/us/pl/109/438/s2], Dec. 20, 2006, [120 Stat. 3268][/us/stat/120/3268]; [Pub. L. 112–122, § 2][/us/pl/112/122/s2], May 30, 2012, [126 Stat. 350][/us/stat/126/350]; [Pub. L. 114–94, div. E, title LIV, § 54001(a)][/us/pl/114/94/s54001/a], Dec. 4, 2015, [129 Stat. 1768][/us/stat/129/1768].)
 
  __Prior Provisions__ 
 
     A prior section 7 of [act July 31, 1945, ch. 341][/us/act/1945-07-31/ch341], was renumbered section 6 and is classified to [section 635e of this title][/us/usc/t12/s635e].
 
  __Amendments__ 
+
+    2015—[Pub. L. 114–94][/us/pl/114/94] substituted “2019” for “2014”.
 
     2012—[Pub. L. 112–122][/us/pl/112/122] substituted “2014” for “2011”.
 
@@ -72,6 +74,10 @@
     1951—Act Oct. 3, 1951, substituted “June 30, 1958” for “June 30, 1953”.
 
     1947—Act June 9, 1947, struck out former section and inserted present section to provide for the termination of the Bank as of June 30, 1953, and its orderly liquidation thereafter.
+
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–94][/us/pl/114/94] effective on June 30, 2015, see [section 54001(d) of Pub. L. 114–94][/us/pl/114/94/s54001/d], set out as a note under [section 635 of this title][/us/usc/t12/s635].
 
  __Effective Date of 1997 Amendment__ 
 
@@ -174,8 +180,11 @@ Termination date for Bank’s functions was temporarily extended until the follo
 [/us/stat/120/3268]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3268
 [/us/pl/112/122/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F122%2Fs2
 [/us/stat/126/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F350
+[/us/pl/114/94/s54001/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs54001%2Fa
+[/us/stat/129/1768]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1768
 [/us/act/1945-07-31/ch341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-07-31%2Fch341
 [/us/usc/t12/s635e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs635e
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/112/122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F122
 [/us/pl/109/438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F438
 [/us/pl/107/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F189
@@ -198,6 +207,9 @@ Termination date for Bank’s functions was temporarily extended until the follo
 [/us/pl/90/267]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F267
 [/us/pl/88/101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F101
 [/us/pl/85/55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F55
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94/s54001/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs54001%2Fd
+[/us/usc/t12/s635]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs635
 [/us/pl/105/121/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F121%2Fs2%2Fb
 [/us/stat/111/2528]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2528
 [/us/pl/95/630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630

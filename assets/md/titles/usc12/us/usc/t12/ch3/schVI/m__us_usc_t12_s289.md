@@ -19,17 +19,41 @@
 
         (1) __Stockholder dividends__ 
 
-            (A) __In general__ 
+            (A) __Dividend amount__ 
 
-                After all necessary expenses of a Federal reserve bank have been paid or provided for, the stockholders of the bank shall be entitled to receive an annual dividend of 6 percent on paid-in capital stock.
+            After all necessary expenses of a Federal reserve bank have been paid or provided for, the stockholders of the bank shall be entitled to receive an annual dividend on paid-in capital stock of—
+
+                (i)
+
+                 in the case of a stockholder with total consolidated assets of more than $10,000,000,000, the smaller of—
+
+                    (I) the rate equal to the high yield of the 10-year Treasury note auctioned at the last auction held prior to the payment of such dividend; and
+
+                    (II) 6 percent; and
+
+                (ii) in the case of a stockholder with total consolidated assets of $10,000,000,000 or less, 6 percent.
 
             (B) __Dividend cumulative__ 
 
                 The entitlement to dividends under subparagraph (A) shall be cumulative.
 
+            (C) __Inflation adjustment__ 
+
+                The Board of Governors of the Federal Reserve System shall annually adjust the dollar amounts of total consolidated assets specified under subparagraph (A) to reflect the change in the Gross Domestic Product Price Index, published by the Bureau of Economic Analysis.
+
         (2) __Deposit of net earnings in surplus fund__ 
 
             That portion of net earnings of each Federal reserve bank which remains after dividend claims under paragraph (1)(A) have been fully met shall be deposited in the surplus fund of the bank.
+
+        (3) __Limitation on surplus funds__ 
+
+            (A) __In general__ 
+
+                The aggregate amount of the surplus funds of the Federal reserve banks may not exceed $10,000,000,000.
+
+            (B) __Transfer to the general fund__ 
+
+                Any amounts of the surplus funds of the Federal reserve banks that exceed, or would exceed, the limitation under subparagraph (A) shall be transferred to the Board of Governors of the Federal Reserve System for transfer to the Secretary of the Treasury for deposit in the general fund of the Treasury.
 
     (b)  __ <sup>\[__  __1__  __\]</sup> __  __ <sup><sup> __  __1__  __ See Codification note below.__  __ </sup></sup> __  __Transfer for fiscal year 2000__ 
 
@@ -45,13 +69,19 @@
 
             During fiscal year 2000, no Federal reserve bank may replenish such bank’s surplus fund by the amount of any transfer by such bank under paragraph (1).
 
-([Dec. 23, 1913, ch. 6, § 7(a)][/us/act/1913-12-23/ch6/s7/a], (b), [38 Stat. 258][/us/stat/38/258]; [Mar. 3, 1919, ch. 101, § 1][/us/act/1919-03-03/ch101/s1], [40 Stat. 1314][/us/stat/40/1314]; [June 16, 1933, ch. 89, § 4][/us/act/1933-06-16/ch89/s4], [48 Stat. 163][/us/stat/48/163]; [Pub. L. 103–66, title III, § 3002(a)][/us/pl/103/66/s3002/a], Aug. 10, 1993, [107 Stat. 337][/us/stat/107/337]; [Pub. L. 103–325, title VI, § 602(d)][/us/pl/103/325/s602/d], Sept. 23, 1994, [108 Stat. 2291][/us/stat/108/2291]; [Pub. L. 106–113, div. B, § 1000(a)(5)][/us/pl/106/113/s1000/a/5] \[title III, § 302\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–304.)
+([Dec. 23, 1913, ch. 6, § 7(a)][/us/act/1913-12-23/ch6/s7/a], (b), [38 Stat. 258][/us/stat/38/258]; [Mar. 3, 1919, ch. 101, § 1][/us/act/1919-03-03/ch101/s1], [40 Stat. 1314][/us/stat/40/1314]; [June 16, 1933, ch. 89, § 4][/us/act/1933-06-16/ch89/s4], [48 Stat. 163][/us/stat/48/163]; [Pub. L. 103–66, title III, § 3002(a)][/us/pl/103/66/s3002/a], Aug. 10, 1993, [107 Stat. 337][/us/stat/107/337]; [Pub. L. 103–325, title VI, § 602(d)][/us/pl/103/325/s602/d], Sept. 23, 1994, [108 Stat. 2291][/us/stat/108/2291]; [Pub. L. 106–113, div. B, § 1000(a)(5)][/us/pl/106/113/s1000/a/5] \[title III, § 302\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–304; [Pub. L. 114–94, div. C, title XXXII][/us/pl/114/94], §§ 32202, 32203(a), Dec. 4, 2015, [129 Stat. 1739][/us/stat/129/1739].)
 
  __Codification__ 
 
     Section is comprised of subsec. (a) \[formerly first undesignated par.\] of section 7 of act Dec. 23, 1913, and subsec. (b) \[enacted by [Pub. L. 106–113, div. B, § 1000(a)(5)][/us/pl/106/113/s1000/a/5] \[title III, § 302(2)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–304\] of section 7. Another subsec. (b) of section 7 is classified to [section 290 of this title][/us/usc/t12/s290]. Subsec. (c) of section 7 is classified to [section 531 of this title][/us/usc/t12/s531].
 
  __Amendments__ 
+
+    2015—Subsec. (a)(1)(A). [Pub. L. 114–94, § 32203(a)(1)][/us/pl/114/94/s32203/a/1], amended subpar. (A) generally. Prior to amendment, text read as follows: “After all necessary expenses of a Federal reserve bank have been paid or provided for, the stockholders of the bank shall be entitled to receive an annual dividend of 6 percent on paid-in capital stock.”
+
+    Subsec. (a)(1)(C). [Pub. L. 114–94, § 32203(a)(2)][/us/pl/114/94/s32203/a/2], added subpar. (C).
+
+    Subsec. (a)(3). [Pub. L. 114–94, § 32202][/us/pl/114/94/s32202], added par. (3).
 
     1999—Subsec. (a)(3). [Pub. L. 106–113, § 1000(a)(5)][/us/pl/106/113/s1000/a/5] \[title III, § 302(1)\], struck out heading and text of par. (3). Text read as follows: “During fiscal years 1997 and 1998, any amount in the surplus fund of any Federal reserve bank in excess of the amount equal to 3 percent of the total paid-in capital and surplus of the member banks of such bank shall be transferred to the Board for transfer to the Secretary of the Treasury for deposit in the general fund of the Treasury.”
 
@@ -64,6 +94,12 @@
     1993—[Pub. L. 103–66][/us/pl/103/66] inserted section catchline and amended section generally. Prior to amendment, section read as follows: “After all necessary expenses of a Federal reserve bank shall have been paid or provided for, the stockholders shall be entitled to receive an annual dividend of 6 per centum on the paid-in capital stock, which dividend shall be cumulative. After the aforesaid dividend claims have been fully met, the net earnings shall be paid into the surplus fund of the Federal reserve bank.”
 
     1933—Act June 16, 1933, provided that net earnings shall be paid into surplus instead of to the United States as a franchise tax.
+
+ __Effective Date of 2015 Amendment__ 
+
+[Pub. L. 114–94, div. C, title XXXII, § 32203(b)][/us/pl/114/94/s32203/b], Dec. 4, 2015, [129 Stat. 1740][/us/stat/129/1740], provided that: 
+
+> “The amendments made by subsection (a) \[amending this section\] shall take effect on January 1, 2016.”
 
  __Effective Date of 1933 Amendment__ 
 
@@ -104,15 +140,22 @@
 [/us/stat/108/2291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2291
 [/us/pl/106/113/s1000/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F5
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/stat/129/1739]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1739
 [/us/pl/106/113/s1000/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F5
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
 [/us/usc/t12/s290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs290
 [/us/usc/t12/s531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs531
+[/us/pl/114/94/s32203/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs32203%2Fa%2F1
+[/us/pl/114/94/s32203/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs32203%2Fa%2F2
+[/us/pl/114/94/s32202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs32202
 [/us/pl/106/113/s1000/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F5
 [/us/pl/106/113/s1000/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F5
 [/us/pl/103/325/s602/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs602%2Fd%2F1
 [/us/pl/103/325/s602/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs602%2Fd%2F2
 [/us/pl/103/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66
+[/us/pl/114/94/s32203/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs32203%2Fb
+[/us/stat/129/1740]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1740
 [/us/act/1933-06-16/ch89/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-06-16%2Fch89%2Fs4
 [/us/stat/48/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F163
 [/us/pl/103/66/s3002/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs3002%2Fb

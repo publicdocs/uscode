@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t12/ch6A/schI/m__us_usc_t12_s635a–6.md) | [Next](./../../../../..//us/usc/t12/ch6A/schI/m__us_usc_t12_s635c.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs635b)
+[Previous](./../../../../..//us/usc/t12/ch6A/schI/m__us_usc_t12_s635a–7.md) | [Next](./../../../../..//us/usc/t12/ch6A/schI/m__us_usc_t12_s635c.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs635b)
 
 ## § 635b. Capitalization of Bank; method of capital stock payments; public-debt transactions; issuance of stock certificates
 
@@ -29,7 +29,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t12/ch6A/schI/m__us_usc_t12_s635a–6.md) | [Next](./../../../../..//us/usc/t12/ch6A/schI/m__us_usc_t12_s635c.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs635b)
+[Previous](./../../../../..//us/usc/t12/ch6A/schI/m__us_usc_t12_s635a–7.md) | [Next](./../../../../..//us/usc/t12/ch6A/schI/m__us_usc_t12_s635c.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs635b)
 
 ----------
 ----------

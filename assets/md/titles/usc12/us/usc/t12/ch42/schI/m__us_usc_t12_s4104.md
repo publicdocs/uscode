@@ -51,7 +51,41 @@
 
             (E) Adequate reserves.
 
-([Pub. L. 100–242, title II, § 214][/us/pl/100/242/s214], as added [Pub. L. 101–625, title VI, § 601(a)][/us/pl/101/625/s601/a], Nov. 28, 1990, [104 Stat. 4251][/us/stat/104/4251].)
+    (c) __Future financing__ 
+
+    Neither this section, nor any plan of action or use agreement implementing this section, shall restrict an owner from obtaining a new loan or refinancing an existing loan secured by the project, or from distributing the proceeds of such a loan; except that, in conjunction with such refinancing—
+
+        (1) the owner shall provide for adequate rehabilitation pursuant to a capital needs assessment to ensure long-term sustainability of the property satisfactory to the lender or bond issuance agency;
+
+        (2) any resulting budget-based rent increase shall include debt service on the new financing, commercially reasonable debt service coverage, and replacement reserves as required by the lender; and
+
+        (3)
+
+         for tenants of dwelling units not covered by a project- or tenant-based rental subsidy, any rent increases resulting from the refinancing transaction may not exceed 10 percent per year, except that—
+
+            (A)
+
+             any tenant occupying a dwelling unit as of time of the refinancing may not be required to pay for rent and utilities, for the duration of such tenancy, an amount that exceeds the greater of—
+
+                (i) 30 percent of the tenant’s income; or
+
+                (ii) the amount paid by the tenant for rent and utilities immediately before such refinancing; and
+
+            (B) this paragraph shall not apply to any tenant who does not provide the owner with proof of income.
+
+        Paragraph (3) may not be construed to limit any rent increases resulting from increased operating costs for a project.
+
+([Pub. L. 100–242, title II, § 214][/us/pl/100/242/s214], as added [Pub. L. 101–625, title VI, § 601(a)][/us/pl/101/625/s601/a], Nov. 28, 1990, [104 Stat. 4251][/us/stat/104/4251]; amended [Pub. L. 114–94, div. G, title LXXVII, § 77002][/us/pl/114/94/s77002], Dec. 4, 2015, [129 Stat. 1790][/us/stat/129/1790].)
+
+ __Amendments__ 
+
+    2015—Subsec. (c). [Pub. L. 114–94][/us/pl/114/94] added subsec. (c).
+
+ __Implementation__ 
+
+[Pub. L. 114–94, div. G, title LXXVII, § 77003][/us/pl/114/94/s77003], Dec. 4, 2015, [129 Stat. 1791][/us/stat/129/1791], provided that: 
+
+> “The Secretary of Housing and Urban Development shall issue any guidance that the Secretary considers necessary to carry out the provisions added by the amendments made by this title \[amending this section and [section 4112 of this title][/us/usc/t12/s4112]\] not later than the expiration of the 120-day period beginning on the date of the enactment of this Act \[Dec. 4, 2015\].”
 
 ----------
 
@@ -68,5 +102,11 @@
 [/us/pl/100/242/s214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs214
 [/us/pl/101/625/s601/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs601%2Fa
 [/us/stat/104/4251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4251
+[/us/pl/114/94/s77002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs77002
+[/us/stat/129/1790]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1790
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94/s77003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs77003
+[/us/stat/129/1791]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1791
+[/us/usc/t12/s4112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4112
 
 

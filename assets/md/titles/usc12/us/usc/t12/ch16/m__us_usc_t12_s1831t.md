@@ -27,9 +27,11 @@
 
             The private deposit insurer shall provide a copy of the audit report—
 
-                (i) to each depository institution the deposits of which are insured by the private deposit insurer, not later than 14 days after the audit is completed; and
+                (i) to each depository institution the deposits of which are insured by the private deposit insurer, not later than 14 days after the audit is completed;
 
-                (ii) to the appropriate supervisory agency of each State in which such an institution receives deposits, not later than 7 days after the audit is completed.
+                (ii) to the appropriate supervisory agency of each State in which such an institution receives deposits, not later than 7 days after the audit is completed; and
+
+                (iii) in the case of depository institutions described in subsection (e)(2)(A) the deposits of which are insured by the private insurer which are members of a Federal home loan bank, to the Federal Housing Finance Agency, not later than 7 days after the audit is completed.
 
             (B) __Depository institution__ 
 
@@ -183,7 +185,7 @@
 
                 If the Bureau or Federal Trade Commission has instituted an enforcement action for a violation of this section, no appropriate State supervisory agency may, during the pendency of such action, bring an action under this section against any defendant named in the complaint of the Bureau or Federal Trade Commission for any violation of this section that is alleged in that complaint.
 
-([Sept. 21, 1950, ch. 967, § 2][/us/act/1950-09-21/ch967/s2]\[43\], formerly § 2\[40\], as added [Pub. L. 102–242, title I, § 151(a)(1)][/us/pl/102/242/s151/a/1], Dec. 19, 1991, [105 Stat. 2282][/us/stat/105/2282]; renumbered § 2\[43\], [Pub. L. 102–550, title XVI][/us/pl/102/550] § 1602(b), Oct. 28, 1992, [106 Stat. 4078][/us/stat/106/4078]; amended [Pub. L. 103–325, title III, § 340(a)][/us/pl/103/325/s340/a], Sept. 23, 1994, [108 Stat. 2237][/us/stat/108/2237]; [Pub. L. 109–173, § 2(c)(3)][/us/pl/109/173/s2/c/3], Feb. 15, 2006, [119 Stat. 3602][/us/stat/119/3602]; [Pub. L. 109–351, title V, § 505][/us/pl/109/351/s505], Oct. 13, 2006, [120 Stat. 1975][/us/stat/120/1975]; [Pub. L. 111–203, title X, § 1090(2)][/us/pl/111/203/s1090/2], July 21, 2010, [124 Stat. 2094][/us/stat/124/2094].)
+([Sept. 21, 1950, ch. 967, § 2][/us/act/1950-09-21/ch967/s2]\[43\], formerly § 2\[40\], as added [Pub. L. 102–242, title I, § 151(a)(1)][/us/pl/102/242/s151/a/1], Dec. 19, 1991, [105 Stat. 2282][/us/stat/105/2282]; renumbered § 2\[43\], [Pub. L. 102–550, title XVI][/us/pl/102/550] § 1602(b), Oct. 28, 1992, [106 Stat. 4078][/us/stat/106/4078]; amended [Pub. L. 103–325, title III, § 340(a)][/us/pl/103/325/s340/a], Sept. 23, 1994, [108 Stat. 2237][/us/stat/108/2237]; [Pub. L. 109–173, § 2(c)(3)][/us/pl/109/173/s2/c/3], Feb. 15, 2006, [119 Stat. 3602][/us/stat/119/3602]; [Pub. L. 109–351, title V, § 505][/us/pl/109/351/s505], Oct. 13, 2006, [120 Stat. 1975][/us/stat/120/1975]; [Pub. L. 111–203, title X, § 1090(2)][/us/pl/111/203/s1090/2], July 21, 2010, [124 Stat. 2094][/us/stat/124/2094]; [Pub. L. 114–94, div. G, title LXXXII, § 82001(b)][/us/pl/114/94/s82001/b], Dec. 4, 2015, [129 Stat. 1796][/us/stat/129/1796].)
 
  __References in Text__ 
 
@@ -192,6 +194,8 @@
     The Federal Trade Commission Act, referred to in subsec. (f)(1), is [act Sept. 26, 1914, ch. 311][/us/act/1914-09-26/ch311], [38 Stat. 717][/us/stat/38/717], which is classified generally to subchapter I (§ 41 et seq.) of chapter 2 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see [section 58 of Title 15][/us/usc/t15/s58] and Tables.
 
  __Amendments__ 
+
+    2015—Subsec. (a)(2)(A)(iii). [Pub. L. 114–94][/us/pl/114/94] added cl. (iii).
 
     2010—Subsecs. (c), (d), (e)(2)(B). [Pub. L. 111–203, § 1090(2)(A)][/us/pl/111/203/s1090/2/A]–(C)(i), substituted “Bureau” for “Federal Trade Commission”.
 
@@ -303,12 +307,15 @@
 [/us/stat/120/1975]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1975
 [/us/pl/111/203/s1090/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1090%2F2
 [/us/stat/124/2094]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2094
+[/us/pl/114/94/s82001/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs82001%2Fb
+[/us/stat/129/1796]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1796
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/stat/124/1955]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1955
 [/us/usc/t12/s5301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5301
 [/us/act/1914-09-26/ch311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1914-09-26%2Fch311
 [/us/stat/38/717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F717
 [/us/usc/t15/s58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs58
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/111/203/s1090/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1090%2F2%2FA
 [/us/pl/111/203/s1090/2/C/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1090%2F2%2FC%2Fii
 [/us/pl/111/203/s1090/2/D/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1090%2F2%2FD%2Fi
