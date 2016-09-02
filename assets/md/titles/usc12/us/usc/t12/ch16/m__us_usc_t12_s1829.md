@@ -63,7 +63,7 @@
 
     (b) __Penalty__ 
 
-        Whoever knowingly violates subsection (a) of this section shall be fined not more than $1,000,000 for each day such prohibition is violated or imprisoned for not more than 5 years, or both.
+        Whoever knowingly violates subsection (a) shall be fined not more than $1,000,000 for each day such prohibition is violated or imprisoned for not more than 5 years, or both.
 
     (d)  __ <sup>\[__  __2__  __\]</sup> __  __ <sup><sup> __  __2__  __ So in original. No subsec. (c) has been enacted.__  __ </sup></sup> __  __Bank holding companies__ 
 

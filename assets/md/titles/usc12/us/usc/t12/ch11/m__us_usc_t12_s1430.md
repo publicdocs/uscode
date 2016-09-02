@@ -97,13 +97,13 @@
 
         (2) __Interest on and security for special liquidity advances__ 
 
-            Any loan by a Federal Home Loan Bank pursuant to paragraph (1) shall be subject to all applicable collateral requirements, including the requirements of subsection (a) of this section, and shall be at an interest rate no less favorable than those made available for similar short-term liquidity advances to savings associations that do not present such supervisory concern.
+            Any loan by a Federal Home Loan Bank pursuant to paragraph (1) shall be subject to all applicable collateral requirements, including the requirements of subsection (a), and shall be at an interest rate no less favorable than those made available for similar short-term liquidity advances to savings associations that do not present such supervisory concern.
 
     (i) __Community investment program__ 
 
         (1) __In general__ 
 
-            Each Bank shall establish a program to provide funding for members to undertake community-oriented mortgage lending. Each Bank shall designate a community investment officer to implement community lending and affordable housing advance programs of the Banks under this subsection and subsection (j) of this section and provide technical assistance and outreach to promote such programs. Advances under this program shall be priced at the cost of consolidated Federal Home Loan Bank obligations of comparable maturities, taking into account reasonable administrative costs.
+            Each Bank shall establish a program to provide funding for members to undertake community-oriented mortgage lending. Each Bank shall designate a community investment officer to implement community lending and affordable housing advance programs of the Banks under this subsection and subsection (j) and provide technical assistance and outreach to promote such programs. Advances under this program shall be priced at the cost of consolidated Federal Home Loan Bank obligations of comparable maturities, taking into account reasonable administrative costs.
 
         (2) __Community-oriented mortgage lending__ 
 
@@ -215,7 +215,7 @@
 
         (10) __Other programs__ 
 
-            No provision of this subsection or subsection (i) of this section shall preclude any Bank from establishing additional community investment cash advance programs or contributing additional sums to the Affordable Housing Reserve Fund.
+            No provision of this subsection or subsection (i) shall preclude any Bank from establishing additional community investment cash advance programs or contributing additional sums to the Affordable Housing Reserve Fund.
 
         (11) __Advisory Council__ 
 

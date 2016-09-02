@@ -65,7 +65,7 @@
 
     (c) __Identity of persons having accounts and persons authorized to act with respect to such accounts; exemptions__ 
 
-        Subject to the requirements of any regulations prescribed jointly by the Secretary and the Board under paragraph (2) or (3) of subsection (b) of this section, each insured depository institution shall maintain such rec­ords and other evidence, in such form as the Secretary shall require, of the identity of each person having an account in the United States with the insured depository institution and of each individual authorized to sign checks, make withdrawals, or otherwise act with respect to any such account. The Secretary may make such exemptions from any requirement otherwise imposed under this subsection as are consistent with the purposes of this section.
+        Subject to the requirements of any regulations prescribed jointly by the Secretary and the Board under paragraph (2) or (3) of subsection (b), each insured depository institution shall maintain such rec­ords and other evidence, in such form as the Secretary shall require, of the identity of each person having an account in the United States with the insured depository institution and of each individual authorized to sign checks, make withdrawals, or otherwise act with respect to any such account. The Secretary may make such exemptions from any requirement otherwise imposed under this subsection as are consistent with the purposes of this section.
 
     (d) __Reproduction of checks, drafts, and other instruments; record of transactions; identity of party__ 
 
@@ -73,15 +73,15 @@
 
         (1) a microfilm or other reproduction of each check, draft, or similar instrument drawn on it and presented to it for payment; and
 
-        (2) a record of each check, draft, or similar instrument received by it for deposit or collection, together with an identification of the party for whose account it is to be deposited or collected, unless the insured depository institution has already made a record of the party’s identity pursuant to subsection (c) of this section.
+        (2) a record of each check, draft, or similar instrument received by it for deposit or collection, together with an identification of the party for whose account it is to be deposited or collected, unless the insured depository institution has already made a record of the party’s identity pursuant to subsection (c).
 
     (e) __Identity of persons making reportable currency and foreign transactions__ 
 
-        Subject to the requirements of any regulations prescribed jointly by the Secretary and the Board under paragraph (2) or (3) of subsection (b) of this section, whenever any individual engages (whether as principal, agent, or bailee) in any transaction with an insured depository institution which is required to be reported or recorded under subchapter II of chapter 53 of title 31, the insured depository institution shall require and retain such evidence of the identity of that individual as the Secretary may prescribe as appropriate under the circumstances.
+        Subject to the requirements of any regulations prescribed jointly by the Secretary and the Board under paragraph (2) or (3) of subsection (b), whenever any individual engages (whether as principal, agent, or bailee) in any transaction with an insured depository institution which is required to be reported or recorded under subchapter II of chapter 53 of title 31, the insured depository institution shall require and retain such evidence of the identity of that individual as the Secretary may prescribe as appropriate under the circumstances.
 
     (f) __Additions to or substitutes for required records__ 
 
-        Subject to the requirements of any regulations prescribed jointly by the Secretary and the Board under paragraph (2) or (3) of subsection (b) of this section and in addition to or in lieu of the records and evidence otherwise referred to in this section, each insured depository institution shall maintain such records and evidence as the Secretary may prescribe to carry out the purposes of this section.
+        Subject to the requirements of any regulations prescribed jointly by the Secretary and the Board under paragraph (2) or (3) of subsection (b) and in addition to or in lieu of the records and evidence otherwise referred to in this section, each insured depository institution shall maintain such records and evidence as the Secretary may prescribe to carry out the purposes of this section.
 
     (g) __Retention period__ 
 
@@ -99,7 +99,7 @@
 
         (1) __Penalty imposed__ 
 
-            Any insured depository institution and any director, officer, or employee of an insured depository institution who willfully or through gross negligence violates, or any person who willfully causes such a violation, any regulation prescribed under subsection (b) of this section shall be liable to the United States for a civil penalty of not more than $10,000.
+            Any insured depository institution and any director, officer, or employee of an insured depository institution who willfully or through gross negligence violates, or any person who willfully causes such a violation, any regulation prescribed under subsection (b) shall be liable to the United States for a civil penalty of not more than $10,000.
 
         (2) __Treatment of continuing violation__ 
 
@@ -129,11 +129,11 @@
 
     1992—Subsec. (b). [Pub. L. 102–550, § 1515(a)][/us/pl/102/550/s1515/a], inserted heading, designated existing provisions as par. (1) and inserted heading, and added pars. (2) and (3).
 
-    Subsec. (c). [Pub. L. 102–550, § 1515(b)(1)][/us/pl/102/550/s1515/b/1], substituted “Subject to the requirements of any regulations prescribed jointly by the Secretary and the Board under paragraph (2) or (3) of subsection (b) of this section, each insured” for “Each insured”.
+    Subsec. (c). [Pub. L. 102–550, § 1515(b)(1)][/us/pl/102/550/s1515/b/1], substituted “Subject to the requirements of any regulations prescribed jointly by the Secretary and the Board under paragraph (2) or (3) of subsection (b), each insured” for “Each insured”.
 
-    Subsec. (e). [Pub. L. 102–550, § 1515(b)(2)][/us/pl/102/550/s1515/b/2], substituted “Subject to the requirements of any regulations prescribed jointly by the Secretary and the Board under paragraph (2) or (3) of subsection (b) of this section, whenever any” for “Whenever any”.
+    Subsec. (e). [Pub. L. 102–550, § 1515(b)(2)][/us/pl/102/550/s1515/b/2], substituted “Subject to the requirements of any regulations prescribed jointly by the Secretary and the Board under paragraph (2) or (3) of subsection (b), whenever any” for “Whenever any”.
 
-    Subsec. (f). [Pub. L. 102–550, § 1515(b)(3)][/us/pl/102/550/s1515/b/3], substituted “Subject to the requirements of any regulations prescribed jointly by the Secretary and the Board under paragraph (2) or (3) of subsection (b) of this section and in addition to” for “In addition to”.
+    Subsec. (f). [Pub. L. 102–550, § 1515(b)(3)][/us/pl/102/550/s1515/b/3], substituted “Subject to the requirements of any regulations prescribed jointly by the Secretary and the Board under paragraph (2) or (3) of subsection (b) and in addition to” for “In addition to”.
 
     Subsec. (j)(1). [Pub. L. 102–550, § 1535(b)][/us/pl/102/550/s1535/b], inserted “, or any person who willfully causes such a violation,” after “gross negligence violates”.
 

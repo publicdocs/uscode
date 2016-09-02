@@ -25,7 +25,7 @@
 
     (b) __Differences of magnitude between State and Federal powers__ 
 
-    Notwithstanding subsection (a)(1) of this section, if an activity (other than an activity described in [section 1464(c)(2)(B) of this title][/us/usc/t12/s1464/c/2/B]) is permissible for a Federal savings association, a savings association chartered under State law may engage as principal in that activity in an amount greater than the amount permissible for a Federal savings association if—
+    Notwithstanding subsection (a)(1), if an activity (other than an activity described in [section 1464(c)(2)(B) of this title][/us/usc/t12/s1464/c/2/B]) is permissible for a Federal savings association, a savings association chartered under State law may engage as principal in that activity in an amount greater than the amount permissible for a Federal savings association if—
 
         (1) the Corporation has not determined that engaging in that amount of the activity poses any significant risk to the Deposit Insurance Fund; and
 
@@ -35,7 +35,7 @@
 
         (1) __In general__ 
 
-            Notwithstanding subsections (a) and (b) of this section, a savings association chartered under State law may not directly acquire or retain any equity investment of a type or in an amount that is not permissible for a Federal savings association.
+            Notwithstanding subsections (a) and (b), a savings association chartered under State law may not directly acquire or retain any equity investment of a type or in an amount that is not permissible for a Federal savings association.
 
         (2) __Exception for service corporations__ 
 
@@ -169,7 +169,7 @@
 
     (g) __“Activity” defined__ 
 
-    For purposes of subsections (a) and (b) of this section—
+    For purposes of subsections (a) and (b)—
 
         (1) __In general__ 
 
@@ -177,7 +177,7 @@
 
         (2) __Divestiture of certain assets__ 
 
-            Notwithstanding paragraph (1), subsections (a) and (b) of this section shall not be construed to require a savings association to divest itself of any assets acquired before August 9, 1989.
+            Notwithstanding paragraph (1), subsections (a) and (b) shall not be construed to require a savings association to divest itself of any assets acquired before August 9, 1989.
 
     (h) __Other authority not affected__ 
 

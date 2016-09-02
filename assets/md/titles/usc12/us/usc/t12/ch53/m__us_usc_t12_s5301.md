@@ -199,6 +199,12 @@
 
 > “Except as otherwise specifically provided in this Act \[see Short Title note below\] or the amendments made by this Act, this Act and such amendments shall take effect 1 day after the date of enactment of this Act \[July 21, 2010\].”
 
+ __Short Title of 2014 Amendment__ 
+
+[Pub. L. 113–173, § 1][/us/pl/113/173/s1], Sept. 26, 2014, [128 Stat. 1899][/us/stat/128/1899], provided that: 
+
+> “This Act \[amending [section 5514 of this title][/us/usc/t12/s5514]\] may be cited as the ‘Examination and Supervisory Privilege Parity Act of 2014’.”
+
  __Short Title__ 
 
 [Pub. L. 111–203, § 1(a)][/us/pl/111/203/s1/a], July 21, 2010, [124 Stat. 1376][/us/stat/124/1376], provided that: 
@@ -294,6 +300,9 @@
 [/us/usc/t7/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1
 [/us/pl/111/203/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs4
 [/us/stat/124/1390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1390
+[/us/pl/113/173/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F173%2Fs1
+[/us/stat/128/1899]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1899
+[/us/usc/t12/s5514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5514
 [/us/pl/111/203/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1%2Fa
 [/us/stat/124/1376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1376
 [/us/pl/111/203/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs101

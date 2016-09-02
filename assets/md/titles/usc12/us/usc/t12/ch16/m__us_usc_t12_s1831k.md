@@ -51,13 +51,13 @@
 
     (b) __Percentage limitation__ 
 
-        An appropriate Federal banking agency may not pay a reward under subsection (a) of this section of more than 25 percent of the amount of the fine, penalty, restitution, or forfeiture or $100,000, whichever is less.
+        An appropriate Federal banking agency may not pay a reward under subsection (a) of more than 25 percent of the amount of the fine, penalty, restitution, or forfeiture or $100,000, whichever is less.
 
     (c) __Officials and persons ineligible__ 
 
-    An appropriate Federal banking agency may not pay a reward under subsection (a) of this section to—
+    An appropriate Federal banking agency may not pay a reward under subsection (a) to—
 
-        (1) an officer or employee of the United States or of a State or local government who provides information described in subsection (a) of this section, obtained in the performance of official duties; or
+        (1) an officer or employee of the United States or of a State or local government who provides information described in subsection (a), obtained in the performance of official duties; or
 
         (2)
 

@@ -21,15 +21,15 @@
 
     (b) __Renewals and rollovers treated as acceptance of funds__ 
 
-        Any renewal of an account in any troubled institution and any rollover of any amount on deposit in any such account shall be treated as an acceptance of funds by such troubled institution for purposes of subsection (a) of this section.
+        Any renewal of an account in any troubled institution and any rollover of any amount on deposit in any such account shall be treated as an acceptance of funds by such troubled institution for purposes of subsection (a).
 
     (c) __Waiver authority__ 
 
-        The Corporation may, on a case-by-case basis and upon application by an insured depository institution which is adequately capitalized (but not well capitalized), waive the applicability of subsection (a) of this section upon a finding that the acceptance of such deposits does not constitute an unsafe or unsound practice with respect to such institution.
+        The Corporation may, on a case-by-case basis and upon application by an insured depository institution which is adequately capitalized (but not well capitalized), waive the applicability of subsection (a) upon a finding that the acceptance of such deposits does not constitute an unsafe or unsound practice with respect to such institution.
 
     (d) __Limited exception for certain conservatorships__ 
 
-    In the case of any insured depository institution for which the Corporation has been appointed as conservator, subsection (a) of this section shall not apply to the acceptance of deposits (described in such subsection) by such institution if the Corporation determines that the acceptance of such deposits—
+    In the case of any insured depository institution for which the Corporation has been appointed as conservator, subsection (a) shall not apply to the acceptance of deposits (described in such subsection) by such institution if the Corporation determines that the acceptance of such deposits—
 
         (1) is not an unsafe or unsound practice;
 
@@ -41,7 +41,7 @@
 
     (e) __Restriction on interest rate paid__ 
 
-    Any insured depository institution which, under subsection (c) or (d) of this section, accepts funds obtained, directly or indirectly, by or through a deposit broker, may not pay a rate of interest on such funds which, at the time that such funds are accepted, significantly exceeds—
+    Any insured depository institution which, under subsection (c) or (d), accepts funds obtained, directly or indirectly, by or through a deposit broker, may not pay a rate of interest on such funds which, at the time that such funds are accepted, significantly exceeds—
 
         (1) the rate paid on deposits of similar maturity in such institution’s normal market area for deposits accepted in the institution’s normal market area; or
 

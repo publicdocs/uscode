@@ -123,7 +123,7 @@
 
     (d) __Exceptions for institutions not receiving retail deposits__ 
 
-        The Bureau may, by regulation or order, make exceptions to subsection (b) of this section for any depository institution that, within the United States, does not receive initial deposits of less than an amount equal to the standard maximum deposit insurance amount from individuals who are citizens or residents of the United States, other than money received in connection with any draft or similar instrument issued to transmit money.
+        The Bureau may, by regulation or order, make exceptions to subsection (b) for any depository institution that, within the United States, does not receive initial deposits of less than an amount equal to the standard maximum deposit insurance amount from individuals who are citizens or residents of the United States, other than money received in connection with any draft or similar instrument issued to transmit money.
 
     (e) __Definitions__ 
 

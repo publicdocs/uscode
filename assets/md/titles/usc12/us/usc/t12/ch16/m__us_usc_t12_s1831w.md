@@ -29,7 +29,7 @@
 
     (b) __Preservation of existing subsidiaries__ 
 
-        Notwithstanding subsection (a) of this section, an insured State bank may retain control of a subsidiary, or retain an interest in a subsidiary, that the State bank lawfully controlled or acquired before November 12, 1999, and conduct through such subsidiary any activities lawfully conducted in such subsidiary as of such date.
+        Notwithstanding subsection (a), an insured State bank may retain control of a subsidiary, or retain an interest in a subsidiary, that the State bank lawfully controlled or acquired before November 12, 1999, and conduct through such subsidiary any activities lawfully conducted in such subsidiary as of such date.
 
     (c) __Definitions__ 
 

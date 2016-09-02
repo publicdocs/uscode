@@ -39,7 +39,7 @@
 
         (1) __In general__ 
 
-            Notwithstanding subsection (a) of this section, an insured State bank may not engage in insurance underwriting except to the extent that activity is permissible for national banks.
+            Notwithstanding subsection (a), an insured State bank may not engage in insurance underwriting except to the extent that activity is permissible for national banks.
 
         (2) __Exception for certain federally reinsured crop insurance__ 
 

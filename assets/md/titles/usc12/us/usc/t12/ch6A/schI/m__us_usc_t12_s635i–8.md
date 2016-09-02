@@ -23,13 +23,13 @@
 
         (1) __Types of debt reduction__ 
 
-            The authority provided by subsection (a) of this section may be exercised only to implement multilateral agreements to reduce the burden of official bilateral debt as set forth in the minutes of the so-called “Paris Club” (also known as “Paris Club Agreed Minutes”).
+            The authority provided by subsection (a) may be exercised only to implement multilateral agreements to reduce the burden of official bilateral debt as set forth in the minutes of the so-called “Paris Club” (also known as “Paris Club Agreed Minutes”).
 
         (2) __Eligible countries__ 
 
             (A) __“Eligible country” defined__ 
 
-            As used in subsection (a) of this section, the term “eligible country” means any country that—
+            As used in subsection (a), the term “eligible country” means any country that—
 
                 (i) has excessively burdensome external debt;
 
@@ -39,7 +39,7 @@
 
             (B) __Determinations__ 
 
-                Subject to subparagraph (A), the President may determine whether a country is an eligible country for purposes of subsection (a) of this section.
+                Subject to subparagraph (A), the President may determine whether a country is an eligible country for purposes of subsection (a).
 
     (c) __Conditions__ 
 
@@ -55,7 +55,7 @@
 
     (d) __Appropriations__ 
 
-        The authority provided by subsection (a) of this section may be exercised only in such amounts or to such extent as is provided in advance in appropriations Acts.
+        The authority provided by subsection (a) may be exercised only in such amounts or to such extent as is provided in advance in appropriations Acts.
 
 ([July 31, 1945, ch. 341, § 14][/us/act/1945-07-31/ch341/s14], formerly § 11, as added [Pub. L. 103–87, title V, § 570(b)][/us/pl/103/87/s570/b], Sept. 30, 1993, [107 Stat. 970][/us/stat/107/970]; renumbered § 14, [Pub. L. 103–428, § 2(b)][/us/pl/103/428/s2/b], Oct. 31, 1994, [108 Stat. 4376][/us/stat/108/4376]; [Pub. L. 107–189, § 24(b)(6)][/us/pl/107/189/s24/b/6], June 14, 2002, [116 Stat. 709][/us/stat/116/709].)
 

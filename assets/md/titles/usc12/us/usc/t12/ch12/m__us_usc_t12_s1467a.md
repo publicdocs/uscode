@@ -23,7 +23,7 @@
 
             (A) __Savings association__ 
 
-                The term “savings association” includes a savings bank or cooperative bank which is deemed by the appropriate Federal banking agency to be a savings association under subsection (l) of this section.
+                The term “savings association” includes a savings bank or cooperative bank which is deemed by the appropriate Federal banking agency to be a savings association under subsection (l).
 
             (B) __Uninsured institution__ 
 
@@ -95,7 +95,7 @@
 
         (4) __Special rule relating to qualified stock issuance__ 
 
-            No savings and loan holding company shall be deemed to control a savings association solely by reason of the purchase by such savings and loan holding company of shares issued by such savings association, or issued by any savings and loan holding company (other than a bank holding company) which controls such savings association, in connection with a qualified stock issuance if such purchase is approved by the Board under subsection (q)(1)(D) of this section, unless the acquiring savings and loan holding company, directly or indirectly, or acting in concert with 1 or more other persons, or through 1 or more subsidiaries, owns, controls, or holds with power to vote, or holds proxies representing, more than 15 percent of the voting shares of such savings association or holding company.
+            No savings and loan holding company shall be deemed to control a savings association solely by reason of the purchase by such savings and loan holding company of shares issued by such savings association, or issued by any savings and loan holding company (other than a bank holding company) which controls such savings association, in connection with a qualified stock issuance if such purchase is approved by the Board under subsection (q)(1)(D), unless the acquiring savings and loan holding company, directly or indirectly, or acting in concert with 1 or more other persons, or through 1 or more subsidiaries, owns, controls, or holds with power to vote, or holds proxies representing, more than 15 percent of the voting shares of such savings association or holding company.
 
     (b) __Registration and examination__ 
 
@@ -219,7 +219,7 @@
 
                 (ii) in which multiple savings and loan holding companies were authorized (by regulation) to directly engage on March 5, 1987.
 
-            (G) In the case of a savings and loan holding company, purchasing, holding, or disposing of stock acquired in connection with a qualified stock issuance if the purchase of such stock by such savings and loan holding company is approved by the Board pursuant to subsection (q)(1)(D) of this section.
+            (G) In the case of a savings and loan holding company, purchasing, holding, or disposing of stock acquired in connection with a qualified stock issuance if the purchase of such stock by such savings and loan holding company is approved by the Board pursuant to subsection (q)(1)(D).
 
             (H)
 
@@ -233,7 +233,7 @@
 
         Notwithstanding paragraphs (4) and (6) of this subsection, the limitations contained in subparagraphs (B) and (C) of paragraph (1) shall not apply to any savings and loan holding company (or any subsidiary of such company) which controls—
 
-            (A) only 1 savings association, if the savings association subsidiary of such company is a qualified thrift lender (as determined under subsection (m) of this section); or
+            (A) only 1 savings association, if the savings association subsidiary of such company is a qualified thrift lender (as determined under subsection (m)); or
 
             (B)
 
@@ -247,7 +247,7 @@
 
                     (II) pursuant to an acquisition in which assistance was continued to a savings association under [section 1823(i) of this title][/us/usc/t12/s1823/i]; and
 
-                (ii) all of the savings association subsidiaries of such company are qualified thrift lenders (as determined under subsection (m) of this section).
+                (ii) all of the savings association subsidiaries of such company are qualified thrift lenders (as determined under subsection (m)).
 
         (4) __Prior approval of certain new activities required__ 
 
@@ -381,7 +381,7 @@
 
                 (iii)
 
-                 to acquire, by purchase or otherwise, or to retain, except with the prior written approval of the Board, more than 5 percent of the voting shares of a savings association not a subsidiary, or of a savings and loan holding company not a subsidiary, or in the case of a multiple savings and loan holding company (other than a company described in subsection (c)(8) of this section), to acquire or retain, and the Board may not authorize acquisition or retention of, more than 5 percent of the voting shares of any company not a subsidiary which is engaged in any business activity other than the activities specified in subsection (c)(2) of this section. This clause shall not apply to shares of a savings association or of a savings and loan holding company—
+                 to acquire, by purchase or otherwise, or to retain, except with the prior written approval of the Board, more than 5 percent of the voting shares of a savings association not a subsidiary, or of a savings and loan holding company not a subsidiary, or in the case of a multiple savings and loan holding company (other than a company described in subsection (c)(8)), to acquire or retain, and the Board may not authorize acquisition or retention of, more than 5 percent of the voting shares of any company not a subsidiary which is engaged in any business activity other than the activities specified in subsection (c)(2). This clause shall not apply to shares of a savings association or of a savings and loan holding company—
 
                     (I) held as a bona fide fiduciary (whether with or without the sole discretion to vote such shares);
 
@@ -397,7 +397,7 @@
 
                     (VII) held by any insurance company, as defined in section 2(a)(17) of the Investment Company Act of 1940 \[[15 U.S.C. 80a–2(a)(17)][/us/usc/t15/s80a–2/a/17]\], except as provided in paragraph (6); or
 
-                    (VIII) acquired pursuant to a qualified stock issuance if such purchase is approved by the Board under subsection (q)(1)(D) of this section;
+                    (VIII) acquired pursuant to a qualified stock issuance if such purchase is approved by the Board under subsection (q)(1)(D);
 
                  except that the aggregate amount of shares held under this clause (other than under subclauses (I), (II), (III), (IV), and (VI)) may not exceed 15 percent of all outstanding shares or of the voting power of a savings association or savings and loan holding company; or
 
@@ -443,11 +443,11 @@
 
             (A) __In general__ 
 
-                Notwithstanding subsection (h)(2) of this section, any director or officer of a savings and loan holding company, or any individual who owns, controls, or holds with power to vote (or holds proxies representing) more than 25 percent of the voting shares of such holding company, may acquire control of any savings association not a subsidiary of such savings and loan holding company with the prior written approval of the Board.
+                Notwithstanding subsection (h)(2), any director or officer of a savings and loan holding company, or any individual who owns, controls, or holds with power to vote (or holds proxies representing) more than 25 percent of the voting shares of such holding company, may acquire control of any savings association not a subsidiary of such savings and loan holding company with the prior written approval of the Board.
 
             (B) __Treatment of certain holding companies__ 
 
-                If any individual referred to in subparagraph (A) controls more than 1 savings and loan holding company or more than 1 savings association, any savings and loan holding company controlled by such individual shall be subject to the activities limitations contained in subsection (c) of this section to the same extent such limitations apply to multiple savings and loan holding companies, unless all or all but 1 of the savings associations (including any institution deemed to be a savings association under subsection (l) of this section) controlled directly or indirectly by such individual was acquired pursuant to an acquisition described in subclause (I) or (II) of subsection (c)(3)(B)(i) of this section.
+                If any individual referred to in subparagraph (A) controls more than 1 savings and loan holding company or more than 1 savings association, any savings and loan holding company controlled by such individual shall be subject to the activities limitations contained in subsection (c) to the same extent such limitations apply to multiple savings and loan holding companies, unless all or all but 1 of the savings associations (including any institution deemed to be a savings association under subsection (l) of this section) controlled directly or indirectly by such individual was acquired pursuant to an acquisition described in subclause (I) or (II) of subsection (c)(3)(B)(i).
 
         (5) __Acquisitions pursuant to certain security interests__ 
 
@@ -495,9 +495,9 @@
 
         (3) __Proceedings__ 
 
-            (A) In any proceeding under subsection (a)(2)(D) of this section or under paragraph (5) of this subsection, the Board may administer oaths and affirmations, take or cause to be taken depositions, and issue subpenas. The Board may make regulations with respect to any such proceedings. The attendance of witnesses and the production of documents provided for in this paragraph may be required from any place in any State or in any territory at any designated place where such proceeding is being conducted. Any party to such proceedings may apply to the United States District Court for the District of Columbia, or the United States district court for the judicial district or the United States court in any territory in which such proceeding is being conducted, or where the witness resides or carries on business, for enforcement of any subpena issued pursuant to this paragraph, and such courts shall have jurisdiction and power to order and require compliance therewith. Witnesses subpenaed under this section shall be paid the same fees and mileage that are paid witnesses in the district courts of the United States.
+            (A) In any proceeding under subsection (a)(2)(D) or under paragraph (5) of this subsection, the Board may administer oaths and affirmations, take or cause to be taken depositions, and issue subpenas. The Board may make regulations with respect to any such proceedings. The attendance of witnesses and the production of documents provided for in this paragraph may be required from any place in any State or in any territory at any designated place where such proceeding is being conducted. Any party to such proceedings may apply to the United States District Court for the District of Columbia, or the United States district court for the judicial district or the United States court in any territory in which such proceeding is being conducted, or where the witness resides or carries on business, for enforcement of any subpena issued pursuant to this paragraph, and such courts shall have jurisdiction and power to order and require compliance therewith. Witnesses subpenaed under this section shall be paid the same fees and mileage that are paid witnesses in the district courts of the United States.
 
-            (B) Any hearing provided for in subsection (a)(2)(D) of this section or under paragraph (5) of this section  <sup>\[5\]</sup>  <sup><sup> 5 So in original. Probably should be “subsection”. </sup></sup>  shall be held in the Federal judicial district or in the territory in which the principal office of the association or other company is located unless the party afforded the hearing consents to another place, and shall be conducted in accordance with the provisions of chapter 5 of title 5.
+            (B) Any hearing provided for in subsection (a)(2)(D) or under paragraph (5) of this section  <sup>\[5\]</sup>  <sup><sup> 5 So in original. Probably should be “subsection”. </sup></sup>  shall be held in the Federal judicial district or in the territory in which the principal office of the association or other company is located unless the party afforded the hearing consents to another place, and shall be conducted in accordance with the provisions of chapter 5 of title 5.
 
         (4) __Injunctions__ 
 
@@ -507,7 +507,7 @@
 
             (A) Notwithstanding any other provision of this section, the Board may, whenever the Board has reasonable cause to believe that the continuation by a savings and loan holding company of any activity or of ownership or control of any of its noninsured subsidiaries constitutes a serious risk to the financial safety, soundness, or stability of a savings and loan holding company’s subsidiary savings association and is inconsistent with the sound operation of a savings association or with the purposes of this section or [section 1818 of this title][/us/usc/t12/s1818], order the savings and loan holding company or any of its subsidiaries, after due notice and opportunity for hearing, to terminate such activities or to terminate (within 120 days or such longer period as the Board directs in unusual circumstances) its ownership or control of any such noninsured subsidiary either by sale or by distribution of the shares of the subsidiary to the shareholders of the savings and loan holding company. Such distribution shall be pro rata with respect to all of the shareholders of the distributing savings and loan holding company, and the holding company shall not make any charge to its shareholders arising out of such a distribution.
 
-            (B) The Board may in the discretion of the Board apply to the United States district court within the jurisdiction of which the principal office of the company is located, for the enforcement of any effective and outstanding order issued under this section, and such court shall have jurisdiction and power to order and require compliance therewith. Except as provided in subsection (j) of this section, no court shall have jurisdiction to affect by injunction or otherwise the issuance or enforcement of any notice or order under this section, or to review, modify, suspend, terminate, or set aside any such notice or order.
+            (B) The Board may in the discretion of the Board apply to the United States district court within the jurisdiction of which the principal office of the company is located, for the enforcement of any effective and outstanding order issued under this section, and such court shall have jurisdiction and power to order and require compliance therewith. Except as provided in subsection (j), no court shall have jurisdiction to affect by injunction or otherwise the issuance or enforcement of any notice or order under this section, or to review, modify, suspend, terminate, or set aside any such notice or order.
 
     (h) __Prohibited acts__ 
 
@@ -515,7 +515,7 @@
 
         (1) any savings and loan holding company or subsidiary thereof, or any director, officer, employee, or person owning, controlling, or holding with power to vote, or holding proxies representing, more than 25 percent of the voting shares, of such holding company or subsidiary, to hold, solicit, or exercise any proxies in respect of any voting rights in a savings association which is a mutual association;
 
-        (2) any director or officer of a savings and loan holding company, or any individual who owns, controls, or holds with power to vote (or holds proxies representing) more than 25 percent of the voting shares of such holding company, to acquire control of any savings association not a subsidiary of such savings and loan holding company, unless such acquisition is approved by the Board pursuant to subsection (e)(4) of this section; or
+        (2) any director or officer of a savings and loan holding company, or any individual who owns, controls, or holds with power to vote (or holds proxies representing) more than 25 percent of the voting shares of such holding company, to acquire control of any savings association not a subsidiary of such savings and loan holding company, unless such acquisition is approved by the Board pursuant to subsection (e)(4); or
 
         (3) any individual, except with the prior approval of the Board, to serve or act as a director, officer, or trustee of, or become a partner in, any savings and loan holding company after having been convicted of any criminal offense involving dishonesty or breach of trust.
 
@@ -595,7 +595,7 @@
 
         (1) __In general__ 
 
-            Notwithstanding any other provision of law, a savings bank (as defined in [section 1813(g) of this title][/us/usc/t12/s1813/g]) and a cooperative bank that is an insured bank (as defined in [section 1813(h) of this title][/us/usc/t12/s1813/h]) upon application shall be deemed to be a savings association for the purpose of this section, if the appropriate Federal banking agency determines that such bank is a qualified thrift lender (as determined under subsection (m) of this section).
+            Notwithstanding any other provision of law, a savings bank (as defined in [section 1813(g) of this title][/us/usc/t12/s1813/g]) and a cooperative bank that is an insured bank (as defined in [section 1813(h) of this title][/us/usc/t12/s1813/h]) upon application shall be deemed to be a savings association for the purpose of this section, if the appropriate Federal banking agency determines that such bank is a qualified thrift lender (as determined under subsection (m)).
 
         (2) __Failure to maintain qualified thrift lender status__ 
 
@@ -871,49 +871,61 @@
 
                   <tr>
 
-                    <td>    For the following   </td>
+                    <td> 
 
-                    <td> The applicable  </td>
+                For the following period:  </td>
 
-  </tr>
+                    <td> 
 
-                  <tr>
-
-                    <td>     period:   </td>
-
-                    <td> percentage is:  </td>
+                The applicable percentage is:  </td>
 
   </tr>
 
                   <tr>
 
-                    <td>    July 1, 1991–September 30, 1992  </td>
+                    <td> 
 
-                    <td>   25 percent  </td>
+                July 1, 1991–September 30, 1992  </td>
 
-  </tr>
+                    <td> 
 
-                  <tr>
-
-                    <td>    October 1, 1992–March 31, 1994  </td>
-
-                    <td>   50 percent  </td>
+                25 percent  </td>
 
   </tr>
 
                   <tr>
 
-                    <td>    April 1, 1994–September 30, 1995  </td>
+                    <td> 
 
-                    <td>   75 percent  </td>
+                October 1, 1992–March 31, 1994  </td>
+
+                    <td> 
+
+                50 percent  </td>
 
   </tr>
 
                   <tr>
 
-                    <td>    Thereafter  </td>
+                    <td> 
 
-                    <td>  100 percent  </td>
+                April 1, 1994–September 30, 1995  </td>
+
+                    <td> 
+
+                75 percent  </td>
+
+  </tr>
+
+                  <tr>
+
+                    <td> 
+
+                Thereafter  </td>
+
+                    <td> 
+
+                100 percent  </td>
 
   </tr>
 
@@ -999,7 +1011,7 @@
 
             (D) Investing in a corporation the capital stock of which is available for purchase by a savings association under Federal law or under the law of any State where the subsidiary savings association or associations have their home offices.
 
-            (E) Engaging in the activities described in subsection (c)(2) or (c)(9)(A)(ii) of this section.
+            (E) Engaging in the activities described in subsection (c)(2) or (c)(9)(A)(ii).
 
         (6) __Limitations on certain activities of acquired holding companies__ 
 
@@ -1187,7 +1199,7 @@
 
             (B) __Other conditions__ 
 
-            Notwithstanding subsection (a)(4) of this section, the Board may impose such conditions on any approval of an application for the purchase of stock in connection with a qualified stock issuance as the Board determines to be appropriate, including—
+            Notwithstanding subsection (a)(4), the Board may impose such conditions on any approval of an application for the purchase of stock in connection with a qualified stock issuance as the Board determines to be appropriate, including—
 
                 (i) a requirement that any savings association subsidiary of the acquiring savings and loan holding company limit dividends paid to such holding company for such period of time as the Board may require; and
 

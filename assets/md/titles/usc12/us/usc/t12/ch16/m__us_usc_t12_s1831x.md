@@ -35,7 +35,7 @@
 
     (b) __Sales practices__ 
 
-    The regulations prescribed pursuant to subsection (a) of this section shall include antitying and anticoercion rules applicable to the sale of insurance products that prohibit a depository institution from engaging in any practice that would lead a customer to believe an extension of credit, in violation of [section 1972 of this title][/us/usc/t12/s1972], is conditional upon—
+    The regulations prescribed pursuant to subsection (a) shall include antitying and anticoercion rules applicable to the sale of insurance products that prohibit a depository institution from engaging in any practice that would lead a customer to believe an extension of credit, in violation of [section 1972 of this title][/us/usc/t12/s1972], is conditional upon—
 
         (1) the purchase of an insurance product from the institution or any of its affiliates; or
 
@@ -43,7 +43,7 @@
 
     (c) __Disclosures and advertising__ 
 
-    The regulations prescribed pursuant to subsection (a) of this section shall include the following provisions relating to disclosures and advertising in connection with the initial purchase of an insurance product:
+    The regulations prescribed pursuant to subsection (a) shall include the following provisions relating to disclosures and advertising in connection with the initial purchase of an insurance product:
 
         (1) __Disclosures__ 
 
@@ -115,7 +115,7 @@
 
         (1) __Regulations required__ 
 
-            The regulations prescribed pursuant to subsection (a) of this section shall include such provisions as the Federal banking agencies consider appropriate to ensure that the routine acceptance of deposits is kept, to the extent practicable, physically segregated from insurance product activity.
+            The regulations prescribed pursuant to subsection (a) shall include such provisions as the Federal banking agencies consider appropriate to ensure that the routine acceptance of deposits is kept, to the extent practicable, physically segregated from insurance product activity.
 
         (2) __Requirements__ 
 
@@ -199,7 +199,7 @@
 
     (h) __Non-discrimination against non-affiliated agents__ 
 
-        The Federal banking agencies shall ensure that the regulations prescribed pursuant to subsection (a) of this section shall not have the effect of discriminating, either intentionally or unintentionally, against any person engaged in insurance sales or solicitations that is not affiliated with a depository institution.
+        The Federal banking agencies shall ensure that the regulations prescribed pursuant to subsection (a) shall not have the effect of discriminating, either intentionally or unintentionally, against any person engaged in insurance sales or solicitations that is not affiliated with a depository institution.
 
 ([Sept. 21, 1950, ch. 967, § 2][/us/act/1950-09-21/ch967/s2]\[47\], as added [Pub. L. 106–102, title III, § 305][/us/pl/106/102/s305], Nov. 12, 1999, [113 Stat. 1410][/us/stat/113/1410].)
 

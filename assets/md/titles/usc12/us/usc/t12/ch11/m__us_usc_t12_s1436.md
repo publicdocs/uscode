@@ -21,7 +21,7 @@
 
     (b) __Assistance to member institutions in event of severe financial conditions__ 
 
-        Notwithstanding subsection (a) of this section or any other provision of this chapter, if the Director determines that severe financial conditions exist threatening the stability of member institutions, the Director may suspend temporarily the requirements of subsection (a) of this section that a portion of net earnings be set aside semiannually by each Federal Home Loan Bank to a reserve account and permit each Federal Home Loan Bank to declare and pay dividends out of undivided profits.
+        Notwithstanding subsection (a) or any other provision of this chapter, if the Director determines that severe financial conditions exist threatening the stability of member institutions, the Director may suspend temporarily the requirements of subsection (a) that a portion of net earnings be set aside semiannually by each Federal Home Loan Bank to a reserve account and permit each Federal Home Loan Bank to declare and pay dividends out of undivided profits.
 
     (c) __Exception in case of losses in connection with Financing Corporation stock__ 
 
@@ -33,9 +33,9 @@
 
             (B) the Director determines there is an extraordinary need for the member institutions of the bank to receive dividends; and
 
-            (C) the bank has reduced all reserves (other than the reserve account required by the first 2 sentences of subsection (a) of this section) to zero,
+            (C) the bank has reduced all reserves (other than the reserve account required by the first 2 sentences of subsection (a)) to zero,
 
-            the Director may authorize such bank to declare and pay dividends out of undivided profits (as such term is defined in [section 1441(d)(7) of this title][/us/usc/t12/s1441/d/7]) or the reserve account required by the first 2 sentences of subsection (a) of this section.
+            the Director may authorize such bank to declare and pay dividends out of undivided profits (as such term is defined in [section 1441(d)(7) of this title][/us/usc/t12/s1441/d/7]) or the reserve account required by the first 2 sentences of subsection (a).
 
         (2) __Requirements of__  __[__  __section 1441 of this title__  __][/us/usc/t12/s1441]__  __not affected__ 
 

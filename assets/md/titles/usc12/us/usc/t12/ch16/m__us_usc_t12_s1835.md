@@ -29,7 +29,7 @@
 
     (c) __Qualified institutions criteria__ 
 
-    An insured depository institution is a qualified insured depository institution for purposes of this section if, without regard to the accounting principles or capital requirements referred to in subsections (a) and (b) of this section, the institution is—
+    An insured depository institution is a qualified insured depository institution for purposes of this section if, without regard to the accounting principles or capital requirements referred to in subsections (a) and (b), the institution is—
 
         (1) well capitalized; or
 
@@ -37,7 +37,7 @@
 
     (d) __Aggregate amount of recourse__ 
 
-    The total outstanding amount of recourse retained by a qualified insured depository institution with respect to transfers of small business loans and leases of personal property under subsections (a) and (b) of this section shall not exceed—
+    The total outstanding amount of recourse retained by a qualified insured depository institution with respect to transfers of small business loans and leases of personal property under subsections (a) and (b) shall not exceed—
 
         (1) 15 percent of the risk-based capital of the institution; or
 
@@ -45,7 +45,7 @@
 
     (e) __Institutions that cease to be qualified or exceed aggregate limits__ 
 
-        If an insured depository institution ceases to be a qualified insured depository institution or exceeds the limits under subsection (d) of this section, this section shall remain applicable to any transfers of small business loans or leases of personal property that occurred during the time that the institution was qualified and did not exceed such limit.
+        If an insured depository institution ceases to be a qualified insured depository institution or exceeds the limits under subsection (d), this section shall remain applicable to any transfers of small business loans or leases of personal property that occurred during the time that the institution was qualified and did not exceed such limit.
 
     (f) __Prompt corrective action not affected__ 
 
@@ -59,7 +59,7 @@
 
         (1) __In general__ 
 
-            At the discretion of the appropriate Federal banking agency, this section shall not apply if the regulations of the agency provide that the aggregate amount of capital and reserves required with respect to the transfer of small business loans and leases of personal property with recourse does not exceed the aggregate amount of capital and reserves that would be required under subsection (b) of this section.
+            At the discretion of the appropriate Federal banking agency, this section shall not apply if the regulations of the agency provide that the aggregate amount of capital and reserves required with respect to the transfer of small business loans and leases of personal property with recourse does not exceed the aggregate amount of capital and reserves that would be required under subsection (b).
 
         (2) __Existing transactions not affected__ 
 

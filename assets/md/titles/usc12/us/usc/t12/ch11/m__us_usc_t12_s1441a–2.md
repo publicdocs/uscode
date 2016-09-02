@@ -21,7 +21,7 @@
 
     (b) __Investment requirement__ 
 
-        Any State housing finance authority or nonprofit entity which purchases mortgage-related assets pursuant to subsection (a) of this section shall invest any net income attributable to the ownership of those assets in financing, refinancing, or rehabilitating low- and moderate-income housing within the jurisdiction of the State housing finance authority or within the geographical area served by the nonprofit entity.
+        Any State housing finance authority or nonprofit entity which purchases mortgage-related assets pursuant to subsection (a) shall invest any net income attributable to the ownership of those assets in financing, refinancing, or rehabilitating low- and moderate-income housing within the jurisdiction of the State housing finance authority or within the geographical area served by the nonprofit entity.
 
 ([Pub. L. 101–73, title XIII, § 1302][/us/pl/101/73/s1302], Aug. 9, 1989, [103 Stat. 548][/us/stat/103/548].)
 

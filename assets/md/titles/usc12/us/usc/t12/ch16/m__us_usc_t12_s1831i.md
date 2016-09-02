@@ -25,13 +25,13 @@
 
     (b) __Disapproval by agency__ 
 
-        An insured depository institution or depository institution holding company may not add any individual to the board of directors or employ any individual as a senior executive officer if the appropriate Federal banking agency issues a notice of disapproval of such addition or employment before the end of the notice period, not to exceed 90 days, beginning on the date the agency receives notice of the proposed action pursuant to subsection (a) of this section.
+        An insured depository institution or depository institution holding company may not add any individual to the board of directors or employ any individual as a senior executive officer if the appropriate Federal banking agency issues a notice of disapproval of such addition or employment before the end of the notice period, not to exceed 90 days, beginning on the date the agency receives notice of the proposed action pursuant to subsection (a).
 
     (c) __Exception in extraordinary circumstances__ 
 
         (1) __In general__ 
 
-            Each appropriate Federal banking agency may prescribe by regulation conditions under which the prior notice requirement of subsection (a) of this section may be waived in the event of extraordinary circumstances.
+            Each appropriate Federal banking agency may prescribe by regulation conditions under which the prior notice requirement of subsection (a) may be waived in the event of extraordinary circumstances.
 
         (2) __No effect on disapproval authority of agency__ 
 
@@ -39,7 +39,7 @@
 
     (d) __Additional information__ 
 
-    Any notice submitted to an appropriate Federal banking agency with respect to an individual by any insured depository institution or depository institution holding company pursuant to subsection (a) of this section shall include—
+    Any notice submitted to an appropriate Federal banking agency with respect to an individual by any insured depository institution or depository institution holding company pursuant to subsection (a) shall include—
 
         (1) the information described in [section 1817(j)(6)(A) of this title][/us/usc/t12/s1817/j/6/A] about the individual; and
 
@@ -47,11 +47,11 @@
 
     (e) __Standard for disapproval__ 
 
-        The appropriate Federal banking agency shall issue a notice of disapproval with respect to a notice submitted pursuant to subsection (a) of this section if the competence, experience, character, or integrity of the individual with respect to whom such notice is submitted indicates that it would not be in the best interests of the depositors of the depository institution or in the best interests of the public to permit the individual to be employed by, or associated with, the depository institution or depository institution holding company.
+        The appropriate Federal banking agency shall issue a notice of disapproval with respect to a notice submitted pursuant to subsection (a) if the competence, experience, character, or integrity of the individual with respect to whom such notice is submitted indicates that it would not be in the best interests of the depositors of the depository institution or in the best interests of the public to permit the individual to be employed by, or associated with, the depository institution or depository institution holding company.
 
     (f) __Definition regulations__ 
 
-        Each appropriate Federal banking agency shall prescribe by regulation a definition for the terms “troubled condition” and “senior executive officer” for purposes of subsection (a) of this section.
+        Each appropriate Federal banking agency shall prescribe by regulation a definition for the terms “troubled condition” and “senior executive officer” for purposes of subsection (a).
 
 ([Sept. 21, 1950, ch. 967, § 2][/us/act/1950-09-21/ch967/s2]\[32\], as added [Pub. L. 101–73, title IX, § 914(a)][/us/pl/101/73/s914/a], Aug. 9, 1989, [103 Stat. 484][/us/stat/103/484]; amended [Pub. L. 104–208, div. A, title II, § 2209][/us/pl/104/208/s2209], Sept. 30, 1996, [110 Stat. 3009–409][/us/stat/110/3009-409].)
 

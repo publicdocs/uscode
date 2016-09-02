@@ -73,7 +73,7 @@
 
             The amount each Federal Home Loan Bank shall pay under subparagraph (A) shall be determined by the Thrift Depositor Protection Oversight Board by multiplying the total administrative expenses for any period by the percentage arrived at by dividing—
 
-                (i) the aggregate amount the Thrift Depositor Protection Oversight Board required such bank to invest in the Funding Corporation (as of the time of such determination) under paragraphs (4) and (5) of subsection (e) of this section (computed without regard to paragraphs (3) or (6) of such subsection); by
+                (i) the aggregate amount the Thrift Depositor Protection Oversight Board required such bank to invest in the Funding Corporation (as of the time of such determination) under paragraphs (4) and (5) of subsection (e) (computed without regard to paragraphs (3) or (6) of such subsection); by
 
                 (ii) the aggregate amount the Thrift Depositor Protection Oversight Board required all Federal Home Loan Banks to invest (as of the time of such determination) under such paragraphs.
 
@@ -103,7 +103,7 @@
 
         (4) __Impose assessments__ 
 
-            To impose assessments in accordance with subsection (e)(7) of this section.
+            To impose assessments in accordance with subsection (e)(7).
 
         (5) __Corporate seal__ 
 
@@ -191,105 +191,157 @@
 
               <tr>
 
-                <td>    Bank   </td>
+                <td> 
 
-                <td> Percentage  </td>
+            Bank  </td>
 
-  </tr>
+                <td> 
 
-              <tr>
-
-                <td>  Federal Home Loan Bank of Boston  </td>
-
-                <td>  1.8629  </td>
+            Percentage  </td>
 
   </tr>
 
               <tr>
 
-                <td>  Federal Home Loan Bank of New York  </td>
+                <td> 
 
-                <td>  9.1006  </td>
+            Federal Home Loan Bank of Boston  </td>
 
-  </tr>
+                <td> 
 
-              <tr>
-
-                <td>  Federal Home Loan Bank of Pittsburgh  </td>
-
-                <td>  4.2702  </td>
+            1.8629  </td>
 
   </tr>
 
               <tr>
 
-                <td>  Federal Home Loan Bank of Atlanta  </td>
+                <td> 
 
-                <td>  14.4007  </td>
+            Federal Home Loan Bank of New York  </td>
 
-  </tr>
+                <td> 
 
-              <tr>
-
-                <td>  Federal Home Loan Bank of Cincinnati  </td>
-
-                <td>  8.2653  </td>
+            9.1006  </td>
 
   </tr>
 
               <tr>
 
-                <td>  Federal Home Loan Bank of Indianapolis  </td>
+                <td> 
 
-                <td>  5.2863  </td>
+            Federal Home Loan Bank of Pittsburgh  </td>
 
-  </tr>
+                <td> 
 
-              <tr>
-
-                <td>  Federal Home Loan Bank of Chicago  </td>
-
-                <td>  9.6886  </td>
+            4.2702  </td>
 
   </tr>
 
               <tr>
 
-                <td>  Federal Home Loan Bank of Des Moines  </td>
+                <td> 
 
-                <td>  6.9301  </td>
+            Federal Home Loan Bank of Atlanta  </td>
 
-  </tr>
+                <td> 
 
-              <tr>
-
-                <td>  Federal Home Loan Bank of Dallas  </td>
-
-                <td>  8.8181  </td>
+            14.4007  </td>
 
   </tr>
 
               <tr>
 
-                <td>  Federal Home Loan Bank of Topeka  </td>
+                <td> 
 
-                <td>  5.2706  </td>
+            Federal Home Loan Bank of Cincinnati  </td>
 
-  </tr>
+                <td> 
 
-              <tr>
-
-                <td>  Federal Home Loan Bank of San Francisco  </td>
-
-                <td>  19.9644  </td>
+            8.2653  </td>
 
   </tr>
 
               <tr>
 
-                <td>  Federal Home Loan Bank of Seattle  </td>
+                <td> 
 
-                <td>  6.1422  </td>
+            Federal Home Loan Bank of Indianapolis  </td>
+
+                <td> 
+
+            5.2863  </td>
+
+  </tr>
+
+              <tr>
+
+                <td> 
+
+            Federal Home Loan Bank of Chicago  </td>
+
+                <td> 
+
+            9.6886  </td>
+
+  </tr>
+
+              <tr>
+
+                <td> 
+
+            Federal Home Loan Bank of Des Moines  </td>
+
+                <td> 
+
+            6.9301  </td>
+
+  </tr>
+
+              <tr>
+
+                <td> 
+
+            Federal Home Loan Bank of Dallas  </td>
+
+                <td> 
+
+            8.8181  </td>
+
+  </tr>
+
+              <tr>
+
+                <td> 
+
+            Federal Home Loan Bank of Topeka  </td>
+
+                <td> 
+
+            5.2706  </td>
+
+  </tr>
+
+              <tr>
+
+                <td> 
+
+            Federal Home Loan Bank of San Francisco  </td>
+
+                <td> 
+
+            19.9644  </td>
+
+  </tr>
+
+              <tr>
+
+                <td> 
+
+            Federal Home Loan Bank of Seattle  </td>
+
+                <td> 
+
+            6.1422  </td>
 
   </tr>
 
@@ -471,7 +523,7 @@
 
         (2) __Separate account for zero coupon instruments held to ensure payment of principal__ 
 
-        Except as provided in subsection (e)(8) of this section, the Funding Corporation shall invest amounts received pursuant to subsection (e) of this section in, and hold in a separate account to be known as the Funding Corporation Principal Fund, noninterest bearing instruments—
+        Except as provided in subsection (e)(8), the Funding Corporation shall invest amounts received pursuant to subsection (e) in, and hold in a separate account to be known as the Funding Corporation Principal Fund, noninterest bearing instruments—
 
             (A) which are direct obligations of the United States issued by the Secretary; and
 
@@ -481,7 +533,7 @@
 
         (1) __Treatment for certain purposes__ 
 
-            Except as provided in subsection (f)(7)(B) of this section, the Funding Corporation shall be treated as a Federal Home Loan Bank for purposes of [section 1433 of this title][/us/usc/t12/s1433] (to the extent such section relates to State, municipal, and local taxation) and [section 1443 of this title][/us/usc/t12/s1443].
+            Except as provided in subsection (f)(7)(B), the Funding Corporation shall be treated as a Federal Home Loan Bank for purposes of [section 1433 of this title][/us/usc/t12/s1433] (to the extent such section relates to State, municipal, and local taxation) and [section 1443 of this title][/us/usc/t12/s1443].
 
         (2) __Federal Reserve banks as depositaries and fiscal agents__ 
 
@@ -547,17 +599,17 @@
 
         The term “custodian fee” means—
 
-            (A) any fee incurred by the Funding Corporation in connection with the transfer of any security to, or the maintenance of any security in, the segregated account established under subsection (g) of this section; and
+            (A) any fee incurred by the Funding Corporation in connection with the transfer of any security to, or the maintenance of any security in, the segregated account established under subsection (g); and
 
             (B) any other expense incurred by the Funding Corporation in connection with the establishment or maintenance of such account.
 
         (3) __Funding Corporation__ 
 
-            The term “Funding Corporation” means the Resolution Funding Corporation established in subsection (b) of this section.
+            The term “Funding Corporation” means the Resolution Funding Corporation established in subsection (b).
 
         (4) __Funding Corporation Principal Fund__ 
 
-            The term “Funding Corporation Principal Fund” means the separate account established under subsection (g)(2) of this section.
+            The term “Funding Corporation Principal Fund” means the separate account established under subsection (g)(2).
 
         (5) __Issuance costs__ 
 
@@ -569,7 +621,7 @@
 
         (6) __Net earnings__ 
 
-            The term “net earnings” means net earnings without reduction for chargeoffs or expenses incurred by a Federal Home Loan Bank for the purchase of capital stock of the Financing Corporation or payments relating to the Funding Corporation required by the Thrift Depositor Protection Oversight Board under subsections (e) and (f) of this section.
+            The term “net earnings” means net earnings without reduction for chargeoffs or expenses incurred by a Federal Home Loan Bank for the purchase of capital stock of the Financing Corporation or payments relating to the Funding Corporation required by the Thrift Depositor Protection Oversight Board under subsections (e) and (f).
 
         (7) __Thrift Depositor Protection Oversight Board__ 
 

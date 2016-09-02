@@ -121,7 +121,7 @@
 
             (D) __Exceptions to subparagraph (B)__ 
 
-            The responsible agency may approve an application for an interstate merger transaction pursuant to subsection (a) of this section without regard to the applicability of subparagraph (B) with respect to any State if—
+            The responsible agency may approve an application for an interstate merger transaction pursuant to subsection (a) without regard to the applicability of subparagraph (B) with respect to any State if—
 
                 (i) there is a limitation described in subparagraph (C) in a State statute, regulation, or order which has the effect of permitting a bank or bank holding company (including all insured depository institutions which are affiliates of the bank or bank holding company) to control a greater percentage of total deposits of all insured depository institutions in the State than the percentage permitted under subparagraph (B); or
 
@@ -143,7 +143,7 @@
 
         (4) __Adequacy of capital and management skills__ 
 
-        The responsible agency may approve an application for an interstate merger transaction pursuant to subsection (a) of this section only if—
+        The responsible agency may approve an application for an interstate merger transaction pursuant to subsection (a) only if—
 
             (A) each bank involved in the transaction is adequately capitalized as of the date the application is filed; and
 
@@ -211,7 +211,7 @@
 
     (e) __Exception for banks in default or in danger of default__ 
 
-        If an application under subsection (a)(1) of this section for approval of a merger transaction which involves 1 or more banks in default or in danger of default or with respect to which the Corporation provides assistance under [section 1823(c) of this title][/us/usc/t12/s1823/c], the responsible agency may approve such application without regard to subsection (b) of this section, or paragraph (2), (4), or (5) of subsection (a) of this section.
+        If an application under subsection (a)(1) for approval of a merger transaction which involves 1 or more banks in default or in danger of default or with respect to which the Corporation provides assistance under [section 1823(c) of this title][/us/usc/t12/s1823/c], the responsible agency may approve such application without regard to subsection (b), or paragraph (2), (4), or (5) of subsection (a).
 
     (f) __Applicable rate and other charge limitations__ 
 
@@ -307,7 +307,7 @@
 
         (6) __Interstate merger transaction__ 
 
-            The term “interstate merger transaction” means any merger transaction approved pursuant to subsection (a)(1) of this section.
+            The term “interstate merger transaction” means any merger transaction approved pursuant to subsection (a)(1).
 
         (7) __Merger transaction__ 
 

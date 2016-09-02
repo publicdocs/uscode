@@ -73,7 +73,7 @@
 
         (3) __Coordination__ 
 
-            To minimize regulatory burden, the Bureau shall coordinate its supervisory activities with the supervisory activities conducted by prudential regulators and the State bank regulatory authorities, including establishing their respective schedules for examining persons described in subsection (a)(1) and requirements regarding reports to be submitted by such persons.
+            To minimize regulatory burden, the Bureau shall coordinate its supervisory activities with the supervisory activities conducted by prudential regulators, the State bank regulatory authorities, and the State agencies that licence, supervise, or examine the offering of consumer financial products or services, including establishing their respective schedules for examining persons described in subsection (a)(1) and requirements regarding reports to be submitted by such persons. The sharing of information with such regulators, authorities, and agencies shall not be construed as waiving, destroying, or otherwise affecting any privilege or confidentiality such person may claim with respect to such information under Federal or State law as to any person or entity other than such Bureau, agency, supervisor, or authority.
 
         (4) __Use of existing reports__ 
 
@@ -159,11 +159,15 @@
 
         No provision of this title 1 may be construed as modifying, limiting, or otherwise affecting the authority of the Farm Credit Administration.
 
-([Pub. L. 111–203, title X, § 1024][/us/pl/111/203/s1024], July 21, 2010, [124 Stat. 1987][/us/stat/124/1987].)
+([Pub. L. 111–203, title X, § 1024][/us/pl/111/203/s1024], July 21, 2010, [124 Stat. 1987][/us/stat/124/1987]; [Pub. L. 113–173, § 2][/us/pl/113/173/s2], Sept. 26, 2014, [128 Stat. 1899][/us/stat/128/1899].)
 
  __References in Text__ 
 
     This title, where footnoted in subsecs. (a)(1), (b)(5), (c)(2), and (f), is title X of [Pub. L. 111–203][/us/pl/111/203], July 21, 2010, [124 Stat. 1955][/us/stat/124/1955], known as the Consumer Financial Protection Act of 2010, which enacted this subchapter and enacted, amended, and repealed numerous other sections and notes in the Code. For complete classification of title X to the Code, see Short Title note set out under [section 5301 of this title][/us/usc/t12/s5301] and Tables.
+
+ __Amendments__ 
+
+    2014—Subsec. (b)(3). [Pub. L. 113–173][/us/pl/113/173] substituted “regulators, the State bank regulatory authorities, and the State agencies that licence, supervise, or examine the offering of consumer financial products or services” for “regulators and the State bank regulatory authorities” and inserted at end “The sharing of information with such regulators, authorities, and agencies shall not be construed as waiving, destroying, or otherwise affecting any privilege or confidentiality such person may claim with respect to such information under Federal or State law as to any person or entity other than such Bureau, agency, supervisor, or authority.”
 
  __Effective Date__ 
 
@@ -185,9 +189,12 @@
 [/us/usc/t12/s1867/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1867%2Fc
 [/us/pl/111/203/s1024]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1024
 [/us/stat/124/1987]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1987
+[/us/pl/113/173/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F173%2Fs2
+[/us/stat/128/1899]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1899
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/stat/124/1955]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1955
 [/us/usc/t12/s5301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5301
+[/us/pl/113/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F173
 [/us/pl/111/203/s1029A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1029A
 [/us/usc/t12/s5511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5511
 

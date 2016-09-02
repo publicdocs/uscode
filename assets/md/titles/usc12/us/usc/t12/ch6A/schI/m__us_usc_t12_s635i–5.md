@@ -43,7 +43,7 @@
 
     (c) __Inclusion in report to Congress__ 
 
-        The Bank shall provide in its annual report to the Congress a summary of its activities under subsections (a) and (b) of this section.
+        The Bank shall provide in its annual report to the Congress a summary of its activities under subsections (a) and (b).
 
     (d) __Interpretation__ 
 

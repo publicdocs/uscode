@@ -49,7 +49,7 @@
 
             (E) __Critically undercapitalized__ 
 
-                An insured depository institution is “critically undercapitalized” if it fails to meet any level specified under subsection (c)(3)(A) of this section.
+                An insured depository institution is “critically undercapitalized” if it fails to meet any level specified under subsection (c)(3)(A).
 
         (2) __Other definitions__ 
 
@@ -81,7 +81,7 @@
 
             (C) __Capital restoration plan__ 
 
-                The term “capital restoration plan” means a plan submitted under subsection (e)(2) of this section.
+                The term “capital restoration plan” means a plan submitted under subsection (e)(2).
 
             (D) __Company__ 
 
@@ -93,7 +93,7 @@
 
             (F) __Relevant capital measure__ 
 
-                The term “relevant capital measure” means the measures described in subsection (c) of this section.
+                The term “relevant capital measure” means the measures described in subsection (c).
 
             (G) __Required minimum level__ 
 
@@ -283,7 +283,7 @@
 
         (5) __Discretionary safeguards__ 
 
-            The appropriate Federal banking agency may, with respect to any undercapitalized insured depository institution, take actions described in any subparagraph of subsection (f)(2) of this section if the agency determines that those actions are necessary to carry out the purpose of this section.
+            The appropriate Federal banking agency may, with respect to any undercapitalized insured depository institution, take actions described in any subparagraph of subsection (f)(2) if the agency determines that those actions are necessary to carry out the purpose of this section.
 
     (f) __Provisions applicable to significantly undercapitalized institutions and undercapitalized institutions that fail to submit and implement capital restoration plans__ 
 
@@ -297,7 +297,7 @@
 
              is undercapitalized and—
 
-                (i) fails to submit an acceptable capital restoration plan within the time allowed by the appropriate Federal banking agency under subsection (e)(2)(D) of this section; or
+                (i) fails to submit an acceptable capital restoration plan within the time allowed by the appropriate Federal banking agency under subsection (e)(2)(D); or
 
                 (ii) fails in any material respect to implement a plan accepted by the agency.
 
@@ -333,7 +333,7 @@
 
             (D) __Restricting asset growth__ 
 
-                Restricting the institution’s asset growth more stringently than subsection (e)(3) of this section, or requiring the institution to reduce its total assets.
+                Restricting the institution’s asset growth more stringently than subsection (e)(3), or requiring the institution to reduce its total assets.
 
             (E) __Restricting activities__ 
 
@@ -409,7 +409,7 @@
 
         (5) __Discretion to impose certain additional restrictions__ 
 
-            The agency may impose 1 or more of the restrictions prescribed by regulation under subsection (i) of this section if the agency determines that those restrictions are necessary to carry out the purpose of this section.
+            The agency may impose 1 or more of the restrictions prescribed by regulation under subsection (i) if the agency determines that those restrictions are necessary to carry out the purpose of this section.
 
         (6) __Consultation with other regulators__ 
 
@@ -423,9 +423,9 @@
 
             (A) if the institution is well capitalized, reclassify the institution as adequately capitalized;
 
-            (B) if the institution is adequately capitalized (but not well capitalized), require the institution to comply with 1 or more provisions of subsections (d) and (e) of this section, as if the institution were undercapitalized; or
+            (B) if the institution is adequately capitalized (but not well capitalized), require the institution to comply with 1 or more provisions of subsections (d) and (e), as if the institution were undercapitalized; or
 
-            (C) if the institution is undercapitalized, take any 1 or more actions authorized under subsection (f)(2) of this section as if the institution were significantly undercapitalized.
+            (C) if the institution is undercapitalized, take any 1 or more actions authorized under subsection (f)(2) as if the institution were significantly undercapitalized.
 
         (2) __Contents of plan__ 
 
@@ -435,7 +435,7 @@
 
         (1) __Activities restricted__ 
 
-            Any critically undercapitalized insured depository institution shall comply with restrictions prescribed by the Corporation under subsection (i) of this section.
+            Any critically undercapitalized insured depository institution shall comply with restrictions prescribed by the Corporation under subsection (i).
 
         (2) __Payments on subordinated debt prohibited__ 
 
@@ -513,7 +513,7 @@
 
     (j) __Certain Government-controlled institutions exempted__ 
 
-    Subsections (e) through (i) of this section (other than paragraph (3) of subsection (e) of this section) shall not apply—
+    Subsections (e) through (i) (other than paragraph (3) of subsection (e)) shall not apply—
 
         (1) to an insured depository institution for which the Corporation or the Resolution Trust Corporation is conservator; or
 
@@ -655,7 +655,7 @@
 
         (1) __Timely petition required__ 
 
-            A director or senior executive officer dismissed pursuant to an order under subsection (f)(2)(F)(ii) of this section may obtain review of that order by filing a written petition for reinstatement with the appropriate Federal banking agency not later than 10 days after receiving notice of the dismissal.
+            A director or senior executive officer dismissed pursuant to an order under subsection (f)(2)(F)(ii) may obtain review of that order by filing a written petition for reinstatement with the appropriate Federal banking agency not later than 10 days after receiving notice of the dismissal.
 
         (2) __Procedure__ 
 
@@ -691,11 +691,11 @@
 
             (A) to become adequately capitalized, to the extent that the order is based on the institution’s capital level or failure to submit or implement a capital restoration plan; and
 
-            (B) to correct the unsafe or unsound condition or unsafe or unsound practice, to the extent that the order is based on subsection (g)(1) of this section.
+            (B) to correct the unsafe or unsound condition or unsafe or unsound practice, to the extent that the order is based on subsection (g)(1).
 
     (o) __Transition rules for savings associations__ 
 
-    Subsections (e)(2), (f), and (h) of this section shall not apply before July 1, 1994, to any insured savings association if—
+    Subsections (e)(2), (f), and (h) shall not apply before July 1, 1994, to any insured savings association if—
 
         (1)
 

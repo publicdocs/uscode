@@ -59,7 +59,7 @@
 
         (1) __In general__ 
 
-        The Bank shall establish a tied aid credit program under which grants shall be made from funds available in the Tied Aid Credit Fund established under subsection (c) of this section—
+        The Bank shall establish a tied aid credit program under which grants shall be made from funds available in the Tied Aid Credit Fund established under subsection (c)—
 
             (A)
 
@@ -83,7 +83,7 @@
 
         The tied aid credit program shall be administered by the Bank—
 
-            (A) in consultation with the Secretary and in accordance with the principles, process, and standards developed pursuant to paragraph (5) of this subsection and the purposes described in subsection (a)(5) of this section;
+            (A) in consultation with the Secretary and in accordance with the principles, process, and standards developed pursuant to paragraph (5) of this subsection and the purposes described in subsection (a)(5);
 
             (B) in cooperation with United States exporters and private financial institutions or entities, and in consultation with other Federal agencies, as appropriate; and
 
@@ -109,7 +109,7 @@
 
             (A) __In general__ 
 
-                The Secretary and the Bank jointly shall develop a process for, and the principles and standards to be used in, determining how the amounts in the Tied Aid Credit Fund could be used most effectively and efficiently to carry out the purposes of subsection (a)(6) of this section.
+                The Secretary and the Bank jointly shall develop a process for, and the principles and standards to be used in, determining how the amounts in the Tied Aid Credit Fund could be used most effectively and efficiently to carry out the purposes of subsection (a)(6).
 
             (B) __Content of principles, process, and standards__ 
 
@@ -171,11 +171,11 @@
 
         (1) __In general__ 
 
-            There is hereby established within the Bank a fund to be known as the “Tied Aid Credit Fund” (hereinafter in this section referred to as the “Fund”), consisting of such amounts as may be appropriated to the Fund pursuant to the authorization contained in subsection (e) of this section.
+            There is hereby established within the Bank a fund to be known as the “Tied Aid Credit Fund” (hereinafter in this section referred to as the “Fund”), consisting of such amounts as may be appropriated to the Fund pursuant to the authorization contained in subsection (e).
 
         (2) __Expenditures from Fund__ 
 
-            Amounts in the Fund shall be available for grants made by the Bank under the tied aid credit program established pursuant to subsection (b) of this section and to reimburse the Bank for the amount equal to the concessionality level of any tied aid credits authorized by the Bank.
+            Amounts in the Fund shall be available for grants made by the Bank under the tied aid credit program established pursuant to subsection (b) and to reimburse the Bank for the amount equal to the concessionality level of any tied aid credits authorized by the Bank.
 
     (d) __Consistency with Arrangement__ 
 

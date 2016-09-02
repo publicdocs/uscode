@@ -17,7 +17,7 @@
 
     (a) __Exclusive Commission authority__ 
 
-        Except as provided in subsection (c) of this section, a Federal banking agency may not inspect or examine any registered investment company that is not a bank holding company or a savings and loan holding company.
+        Except as provided in subsection (c), a Federal banking agency may not inspect or examine any registered investment company that is not a bank holding company or a savings and loan holding company.
 
     (b) __Examination results and other information__ 
 

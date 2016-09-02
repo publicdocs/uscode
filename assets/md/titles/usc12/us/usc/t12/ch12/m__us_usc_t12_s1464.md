@@ -55,7 +55,7 @@
 
             (A) __In general__ 
 
-                Subject to regulation by the Comptroller of the Currency but without regard to any other provision of this subsection, any Federal savings association that is in compliance with the capital standards in effect under subsection (t) of this section may borrow funds from a State mortgage finance agency of the State in which the head office of such savings association is situated to the same extent as State law authorizes a savings association organized under the laws of such State to borrow from the State mortgage finance agency.
+                Subject to regulation by the Comptroller of the Currency but without regard to any other provision of this subsection, any Federal savings association that is in compliance with the capital standards in effect under subsection (t) may borrow funds from a State mortgage finance agency of the State in which the head office of such savings association is situated to the same extent as State law authorizes a savings association organized under the laws of such State to borrow from the State mortgage finance agency.
 
             (B) __Interest rate__ 
 
@@ -63,7 +63,7 @@
 
         (4) __Mutual capital certificates__ 
 
-        In accordance with regulations issued by the Comptroller of the Currency, mutual capital certificates may be issued and sold directly to subscribers or through underwriters. Such certificates may be included in calculating capital for the purpose of subsection (t) of this section to the extent permitted by the Comptroller of the Currency. The issuance of certificates under this paragraph does not constitute a change of control or ownership under this chapter or any other law unless there is in fact a change in control or reorganization. Regulations relating to the issuance and sale of mutual capital certificates shall provide that such certificates—
+        In accordance with regulations issued by the Comptroller of the Currency, mutual capital certificates may be issued and sold directly to subscribers or through underwriters. Such certificates may be included in calculating capital for the purpose of subsection (t) to the extent permitted by the Comptroller of the Currency. The issuance of certificates under this paragraph does not constitute a change of control or ownership under this chapter or any other law unless there is in fact a change in control or reorganization. Regulations relating to the issuance and sale of mutual capital certificates shall provide that such certificates—
 
             (A) are subordinate to all savings accounts, savings certificates, and debt obligations;
 
@@ -201,7 +201,7 @@
 
                 (i) __In general__ 
 
-                    Loans on the security of liens upon nonresidential real property. Except as provided in clause (ii), the aggregate amount of such loans shall not exceed 400 percent of the Federal savings association’s capital, as determined under subsection (t) of this section.
+                    Loans on the security of liens upon nonresidential real property. Except as provided in clause (ii), the aggregate amount of such loans shall not exceed 400 percent of the Federal savings association’s capital, as determined under subsection (t).
 
                 (ii) __Exception__ 
 
@@ -257,7 +257,7 @@
 
             (A) __Business development credit corporations__ 
 
-                A Federal savings association that is in compliance with the capital standards prescribed under subsection (t) of this section may invest in, lend to, or to  <sup>\[2\]</sup>  <sup><sup> 2 So in original. </sup></sup>  commit itself to lend to, any business development credit corporation incorporated in the State in which the home office of the association is located in the same manner and to the same extent as savings associations chartered by such State are authorized. The aggregate amount of such investments, loans, and commitments of any such Federal savings association shall not exceed one-half of 1 percent of the association’s total outstanding loans or $250,000, whichever is less.
+                A Federal savings association that is in compliance with the capital standards prescribed under subsection (t) may invest in, lend to, or to  <sup>\[2\]</sup>  <sup><sup> 2 So in original. </sup></sup>  commit itself to lend to, any business development credit corporation incorporated in the State in which the home office of the association is located in the same manner and to the same extent as savings associations chartered by such State are authorized. The aggregate amount of such investments, loans, and commitments of any such Federal savings association shall not exceed one-half of 1 percent of the association’s total outstanding loans or $250,000, whichever is less.
 
             (B) __Service corporations__ 
 
@@ -659,7 +659,7 @@
 
             (A) In addition to the authority conferred by other law, if, in the opinion of the Comptroller, a Federal savings association is unlawfully or unsoundly exercising, or has unlawfully or unsoundly exercised, or has failed for a period of 5 consecutive years to exercise, the powers granted by this subsection or otherwise fails or has failed to comply with the requirements of this subsection, the Comptroller may issue and serve upon the association a notice of intent to revoke the authority of the association to exercise the powers granted by this subsection. The notice shall contain a statement of the facts constituting the alleged unlawful or unsound exercise of powers, or failure to exercise powers, or failure to comply, and shall fix a time and place at which a hearing will be held to determine whether an order revoking authority to exercise such powers should issue against the association.
 
-            (B) Such hearing shall be conducted in accordance with the provisions of subsection (d)(1)(B) of this section, and subject to judicial review as therein provided, and shall be fixed for a date not earlier than 30 days and not later than 60 days after service of such notice unless the Comptroller sets an earlier or later date at the request of any Federal savings association so served.
+            (B) Such hearing shall be conducted in accordance with the provisions of subsection (d)(1)(B), and subject to judicial review as therein provided, and shall be fixed for a date not earlier than 30 days and not later than 60 days after service of such notice unless the Comptroller sets an earlier or later date at the request of any Federal savings association so served.
 
             (C) Unless the Federal savings association so served shall appear at the hearing by a duly authorized representative, it shall be deemed to have consented to the issuance of the revocation order. In the event of such consent, or if upon the record made at any such hearing, the Comptroller shall find that any allegation specified in the notice of charges has been established, the Comptroller may issue and serve upon the association an order prohibiting it from accepting any new or additional trust accounts and revoking authority to exercise any and all powers granted by this subsection, except that such order shall permit the association to continue to service all previously accepted trust accounts pending their expeditious divestiture or termination.
 
@@ -767,11 +767,11 @@
 
         (2) __Minimum capital levels may be determined by Comptroller of the Currency case-by-case__ 
 
-            The Comptroller of the Currency may, consistent with subsection (t) of this section, establish the minimum level of capital for a savings association at such amount or at such ratio of capital-to-assets as the Comptroller of the Currency determines to be necessary or appropriate for such association in light of the particular circumstances of the association.
+            The Comptroller of the Currency may, consistent with subsection (t), establish the minimum level of capital for a savings association at such amount or at such ratio of capital-to-assets as the Comptroller of the Currency determines to be necessary or appropriate for such association in light of the particular circumstances of the association.
 
         (3) __Unsafe or unsound practice__ 
 
-            In the discretion of the appropriate Federal banking agency, the appropriate Federal banking agency, <sup>\[6\]</sup>  <sup><sup> 6 So in original. The comma probably should not appear. </sup></sup>  may treat the failure of any savings association to maintain capital at or above the minimum level required by the Comptroller under this subsection or subsection (t) of this section as an unsafe or unsound practice.
+            In the discretion of the appropriate Federal banking agency, the appropriate Federal banking agency, <sup>\[6\]</sup>  <sup><sup> 6 So in original. The comma probably should not appear. </sup></sup>  may treat the failure of any savings association to maintain capital at or above the minimum level required by the Comptroller under this subsection or subsection (t) as an unsafe or unsound practice.
 
         (4) __Directive to increase capital__ 
 
@@ -1009,7 +1009,7 @@
 
                  To develop domestic residential housing units, not to exceed the lesser of $30,000,000 or 30 percent of the savings association’s unimpaired capital and unimpaired surplus, if—
 
-                    (I) the savings association is and continues to be in compliance with the fully phased-in capital standards prescribed under subsection (t) of this section;
+                    (I) the savings association is and continues to be in compliance with the fully phased-in capital standards prescribed under subsection (t);
 
                     (II) the appropriate Federal banking agency, by order, permits the savings association to avail itself of the higher limit provided by this clause;
 
@@ -1123,7 +1123,7 @@
 
             (C) __Judicial review__ 
 
-                Subsection (d)(1)(B)(vii) of this section shall apply to any proceeding under this subsection.
+                Subsection (d)(1)(B)(vii) shall apply to any proceeding under this subsection.
 
         (2) __Factors to be considered__ 
 

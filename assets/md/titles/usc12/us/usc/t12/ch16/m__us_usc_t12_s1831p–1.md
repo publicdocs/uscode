@@ -33,7 +33,7 @@
 
             (E) asset growth; and
 
-            (F) compensation, fees, and benefits, in accordance with subsection (c) of this section; and
+            (F) compensation, fees, and benefits, in accordance with subsection (c); and
 
         (2) such other operational and managerial standards as the agency determines to be appropriate.
 
@@ -77,7 +77,7 @@
 
         (1) __In general__ 
 
-            Standards under subsections (a), (b), and (c) of this section shall be prescribed by regulation or guideline. Such regulations or guidelines may not prescribe standards that set a specific level or range of compensation for directors, officers, or employees of insured depository institutions.
+            Standards under subsections (a), (b), and (c) shall be prescribed by regulation or guideline. Such regulations or guidelines may not prescribe standards that set a specific level or range of compensation for directors, officers, or employees of insured depository institutions.
 
         (2) __Applicability of other laws__ 
 
@@ -101,7 +101,7 @@
 
             (A) __In general__ 
 
-            If the appropriate Federal banking agency determines that an insured depository institution fails to meet any standard prescribed under subsection (a) or (b) of this section—
+            If the appropriate Federal banking agency determines that an insured depository institution fails to meet any standard prescribed under subsection (a) or (b)—
 
                 (i) if such standard is prescribed by regulation of the agency, the agency shall require the institution to submit an acceptable plan to the agency within the time allowed by the agency under subparagraph (C); and
 
@@ -115,7 +115,7 @@
 
             The appropriate Federal banking agency shall by regulation establish deadlines that—
 
-                (i) provide institutions with reasonable time to submit plans required under subparagraph (A), and generally require the institution to submit a plan not later than 30 days after the agency determines that the institution fails to meet any standard prescribed under subsection (a), (b), or (c) of this section; and
+                (i) provide institutions with reasonable time to submit plans required under subparagraph (A), and generally require the institution to submit a plan not later than 30 days after the agency determines that the institution fails to meet any standard prescribed under subsection (a), (b), or (c); and
 
                 (ii) require the agency to act on plans expeditiously, and generally not later than 30 days after the plan is submitted.
 
@@ -141,7 +141,7 @@
 
         In complying with paragraph (2), the appropriate Federal banking agency shall take 1 or more of the actions described in clauses (i) through (iii) of paragraph (2)(B) if—
 
-            (A) the agency determines that the insured depository institution fails to meet any standard prescribed under subsection (a)(1) or (b)(1) of this section;
+            (A) the agency determines that the insured depository institution fails to meet any standard prescribed under subsection (a)(1) or (b)(1);
 
             (B) the institution has not corrected the deficiency; and
 
@@ -195,7 +195,7 @@
 
     Subsec. (d)(1). [Pub. L. 103–325, § 318(b)(2)][/us/pl/103/325/s318/b/2], inserted “or guideline” before period at end of first sentence and inserted “or guidelines” after “Such regulations” in second sentence.
 
-    Subsec. (e)(1)(A). [Pub. L. 103–325, § 318(c)(2)(A)][/us/pl/103/325/s318/c/2/A]–(C), struck out “or depository institution holding company” after “insured depository institution”, substituted “or (b) of this section—
+    Subsec. (e)(1)(A). [Pub. L. 103–325, § 318(c)(2)(A)][/us/pl/103/325/s318/c/2/A]–(C), struck out “or depository institution holding company” after “insured depository institution”, substituted “or (b)—
 
     “(i) if such standard is prescribed by regulation of the agency, the agency shall require”
 

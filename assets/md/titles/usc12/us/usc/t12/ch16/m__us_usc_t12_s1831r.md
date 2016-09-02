@@ -21,7 +21,7 @@
 
     (b) __Exception__ 
 
-        Subsection (a) of this section shall not apply to any payment, assistance, guarantee, or transfer made or provided by the Corporation if the Board of Directors determines in writing that such action is not inconsistent with any requirement of [section 1823(c) of this title][/us/usc/t12/s1823/c].
+        Subsection (a) shall not apply to any payment, assistance, guarantee, or transfer made or provided by the Corporation if the Board of Directors determines in writing that such action is not inconsistent with any requirement of [section 1823(c) of this title][/us/usc/t12/s1823/c].
 
     (c) __Discount window lending__ 
 

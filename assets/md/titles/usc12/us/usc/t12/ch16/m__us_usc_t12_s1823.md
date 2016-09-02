@@ -73,7 +73,7 @@
 
             (A)  __In general__  __.—__ 
 
-            Notwithstanding any other provision of this chapter, the Corporation may not exercise any authority under this subsection or subsection (d), (f), (h), (i), or (k) of this section with respect to any insured depository institution unless—
+            Notwithstanding any other provision of this chapter, the Corporation may not exercise any authority under this subsection or subsection (d), (f), (h), (i), or (k) with respect to any insured depository institution unless—
 
                 (i) the Corporation determines that the exercise of such authority is necessary to meet the obligation of the Corporation to provide insurance coverage for the insured deposits in such institution; and
 
@@ -321,7 +321,7 @@
 
     (f) __Assisted emergency interstate acquisitions__ 
 
-        (1) This subsection shall apply only to an acquisition of an insured bank or a holding company by an out-of-State bank  <sup>\[2\]</sup>  <sup><sup> 2 So in original. Probably should be followed by “or”. </sup></sup>  savings association or out-of-State holding company for which the Corporation provides assistance under subsection (c) of this section.
+        (1) This subsection shall apply only to an acquisition of an insured bank or a holding company by an out-of-State bank  <sup>\[2\]</sup>  <sup><sup> 2 So in original. Probably should be followed by “or”. </sup></sup>  savings association or out-of-State holding company for which the Corporation provides assistance under subsection (c).
 
         (2)
 
@@ -361,7 +361,7 @@
 
             Notwithstanding paragraph (1), if—
 
-                (i) at any time after August 10, 1987, the Corporation provides any assistance under subsection (c) of this section to an insured bank; and
+                (i) at any time after August 10, 1987, the Corporation provides any assistance under subsection (c) to an insured bank; and
 
                 (ii) at the time such assistance is granted, the insured bank, the holding company which controls the insured bank (if any), or any affiliated insured bank is eligible to be acquired by an out-of-State bank or out-of-State holding company under this paragraph,
 
@@ -607,7 +607,7 @@
 
                 Notwithstanding any provision of State law, upon determining that severe financial conditions threaten the stability of a significant number of savings associations, or of savings associations possessing significant financial resources, the Corporation, in its discretion and if it determines such authorization would lessen the risk to the Corporation, may authorize—
 
-                    (I) a savings association that is eligible for assistance pursuant to subsection (c) of this section to merge or consolidate with, or to transfer its assets and liabilities to, any other savings association or any insured bank,
+                    (I) a savings association that is eligible for assistance pursuant to subsection (c) to merge or consolidate with, or to transfer its assets and liabilities to, any other savings association or any insured bank,
 
                     (II) any other savings association to acquire control of such savings association, or
 
@@ -689,7 +689,7 @@
 
             (A) __Assistance proposals__ 
 
-            The Corporation shall consider proposals by savings associations for assistance pursuant to subsection (c) of this section before grounds exist for appointment of a conservator or receiver for such member under the following circumstances:
+            The Corporation shall consider proposals by savings associations for assistance pursuant to subsection (c) before grounds exist for appointment of a conservator or receiver for such member under the following circumstances:
 
                 (i) __Troubled condition criteria__ 
 

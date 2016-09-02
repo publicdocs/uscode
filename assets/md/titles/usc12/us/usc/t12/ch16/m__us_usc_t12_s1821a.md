@@ -61,7 +61,7 @@
 
         (1) __In general__ 
 
-            If the funds described in subsections (a) and (b) of this section are insufficient to satisfy the liabilities of the FSLIC Resolution Fund, the Secretary of the Treasury shall pay to the Fund such amounts as may be necessary, as determined by the Corporation and the Secretary, for FSLIC Resolution Fund purposes.
+            If the funds described in subsections (a) and (b) are insufficient to satisfy the liabilities of the FSLIC Resolution Fund, the Secretary of the Treasury shall pay to the Fund such amounts as may be necessary, as determined by the Corporation and the Secretary, for FSLIC Resolution Fund purposes.
 
         (2) __Authorization of appropriations__ 
 

@@ -47,7 +47,7 @@
 
         (5) the Federal National Mortgage Association,
 
-        shall each submit to the Congress a report containing a complete description of the actions taken by such agency pursuant to subsections (a) and (b) of this section and such recommendations for administrative and legislative action as each such agency may determine to be appropriate to carry out the purposes of such subsection.
+        shall each submit to the Congress a report containing a complete description of the actions taken by such agency pursuant to subsections (a) and (b) and such recommendations for administrative and legislative action as each such agency may determine to be appropriate to carry out the purposes of such subsection.
 
 ([Pub. L. 101–73, title XII, § 1216][/us/pl/101/73/s1216], Aug. 9, 1989, [103 Stat. 529][/us/stat/103/529]; [Pub. L. 102–233, title III, § 302(a)][/us/pl/102/233/s302/a], Dec. 12, 1991, [105 Stat. 1767][/us/stat/105/1767]; [Pub. L. 110–289, div. A, title II, § 1216(g)][/us/pl/110/289/s1216/g], July 30, 2008, [122 Stat. 2793][/us/stat/122/2793]; [Pub. L. 111–203, title III, § 367(9)][/us/pl/111/203/s367/9], July 21, 2010, [124 Stat. 1557][/us/stat/124/1557].)
 

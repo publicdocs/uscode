@@ -23,9 +23,9 @@
 
          the institution—
 
-            (A) is a community development bank, or controls any community development bank, which meets the requirements of subsection (b) of this section;
+            (A) is a community development bank, or controls any community development bank, which meets the requirements of subsection (b);
 
-            (B) controls any community development corporation, or maintains any community development unit within the institution, which meets the requirements of subsection (c) of this section;
+            (B) controls any community development corporation, or maintains any community development unit within the institution, which meets the requirements of subsection (c);
 
             (C) invests in accounts in any community development credit union designated as a low-income credit union, subject to restrictions established for such credit unions by the National Credit Union Administration Board; or
 
@@ -59,7 +59,7 @@
 
     (c) __Community development corporation requirements__ 
 
-        Any community development corporation, or community development unit within any insured depository institution meets the requirements of this subsection if the corporation or unit provides the same or greater, as determined by the appropriate Federal banking agency, community participation in the activities of such corporation or unit as would be provided by a Community Investment Board under subsection (b) of this section if such corporation or unit were a community development bank.
+        Any community development corporation, or community development unit within any insured depository institution meets the requirements of this subsection if the corporation or unit provides the same or greater, as determined by the appropriate Federal banking agency, community participation in the activities of such corporation or unit as would be provided by a Community Investment Board under subsection (b) if such corporation or unit were a community development bank.
 
     (d) __Adequate dispersal requirement__ 
 
