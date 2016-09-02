@@ -15,21 +15,21 @@
 
 ## § 42. Number and distribution of commissioned officers on active duty promotion list
 
-    (a) __Maximum Total Number.—__ 
+    (a)  __Maximum Total Number__  __.—__ 
 
     The total number of Coast Guard commissioned officers on the active duty promotion list, excluding warrant officers, shall not exceed 7,200; except that the Commandant may temporarily increase that number by up to 2 percent for no more than 60 days following the date of the commissioning of a Coast Guard Academy class.
 
     (b) __Distribution Percentages by Grade.—__ 
 
-        (1) __Required.—__ 
+        (1)  __Required__  __.—__ 
 
         The total number of commissioned officers authorized by this section shall be distributed in grade in the following percentages: 0.375 percent for rear admiral; 0.375 percent for rear admiral (lower half); 6.0 percent for captain; 15.0 percent for commander; and 22.0 percent for lieutenant commander.
 
-        (2) __Discretionary.—__ 
+        (2)  __Discretionary__  __.—__ 
 
         The Secretary shall prescribe the percentages applicable to the grades of lieutenant, lieutenant (junior grade), and ensign.
 
-        (3) __Authority of secretary to reduce percentage.—__ 
+        (3)  __Authority of secretary to reduce percentage__  __.—__ 
 
         The Secretary—
 
@@ -39,23 +39,23 @@
 
     (c) __Computations.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The Secretary shall compute, at least once each year, the total number of commissioned officers authorized to serve in each grade by applying the grade distribution percentages established by or under this section to the total number of commissioned officers listed on the current active duty promotion list.
 
-        (2) __Rounding fractions.—__ 
+        (2)  __Rounding fractions__  __.—__ 
 
         Subject to subsection (a), in making the computations under paragraph (1), any fraction shall be rounded to the nearest whole number.
 
-        (3) __Treatment of officers serving outside coast guard.—__ 
+        (3)  __Treatment of officers serving outside coast guard__  __.—__ 
 
         The number of commissioned officers on the active duty promotion list below the rank of rear admiral (lower half) serving with other Federal departments or agencies on a reimbursable basis or excluded under [section 324(d) of title 49][/us/usc/t49/s324/d] shall not be counted against the total number of commissioned officers authorized to serve in each grade.
 
-    (d) __Use of Numbers; Temporary Increases.—__ 
+    (d)  __Use of Numbers; Temporary Increases__  __.—__ 
 
     The numbers resulting from computations under subsection (c) shall be, for all purposes, the authorized number in each grade; except that the authorized number for a grade is temporarily increased during the period between one computation and the next by the number of officers originally appointed in that grade during that period and the number of officers of that grade for whom vacancies exist in the next higher grade but whose promotion has been delayed for any reason.
 
-    (e) __Officers Serving Coast Guard Academy and Reserve.—__ 
+    (e)  __Officers Serving Coast Guard Academy and Reserve__  __.—__ 
 
     The number of officers authorized to be serving on active duty in each grade of the permanent commissioned teaching staff of the Coast Guard Academy and of the Reserve serving in connection with organizing, administering, recruiting, instructing, or training the reserve components shall be prescribed by the Secretary.
 

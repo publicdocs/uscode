@@ -85,7 +85,7 @@
 
             (B) to an entity with which the Commandant has a cooperative agreement under section 4(e) of the Ports and Waterways Safety Act, and for which a term longer than 5 years is necessary to carry out the agreement.
 
-    (c) __Marine Safety Responsibilities.—__ 
+    (c)  __Marine Safety Responsibilities__  __.—__ 
 
     In exercising the Commandant’s duties and responsibilities with regard to marine safety, the individual with the highest rank who meets the experience qualifications set forth in section 50(a)(3) shall serve as the principal advisor to the Commandant regarding—
 
@@ -121,7 +121,7 @@
 
         (16) other duties and powers of the Secretary related to marine safety and stewardship.
 
-    (d) __Other Authority Not Affected.—__ 
+    (d)  __Other Authority Not Affected__  __.—__ 
 
     Nothing in subsection (c) affects—
 
@@ -129,7 +129,7 @@
 
         (2) the exercise of authority under [section 91 of this title][/us/usc/t14/s91] and the provisions of law codified at sections 191 through 195 of title 50 on the date of enactment of this paragraph.
 
-    (e) __Operation and Maintenance of Coast Guard Assets and Facilities.—__ 
+    (e)  __Operation and Maintenance of Coast Guard Assets and Facilities__  __.—__ 
 
     All authority, including programmatic budget authority, for the operation and maintenance of Coast Guard vessels, aircraft, systems, aids to navigation, infrastructure, and other assets or facilities shall be allocated to and vested in the Coast Guard and the department in which the Coast Guard is operating.
 
@@ -241,11 +241,11 @@
 
 [Pub. L. 111–281, title II, § 217][/us/pl/111/281/s217], Oct. 15, 2010, [124 Stat. 2917][/us/stat/124/2917], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Not later than January 15 of each year, the Commandant of the Coast Guard shall submit a report on the sexual assaults involving members of the Coast Guard to the Committee on Transportation and Infrastructure and the Committee on Homeland Security of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate.
 
->     “(b) __Contents.—__ 
+>     “(b)  __Contents__  __.—__ 
 
 >     The report required under subsection (a) shall contain the following:
 
@@ -283,7 +283,7 @@
 
 [Pub. L. 109–241, title II, § 210][/us/pl/109/241/s210], July 11, 2006, [120 Stat. 523][/us/stat/120/523], provided that:
 
->     “(a) __Operation and Maintenance Plan.—__ 
+>     “(a)  __Operation and Maintenance Plan__  __.—__ 
 
 >     Not later than 90 days after the date of enactment of this Act \[July 11, 2006\], the Secretary of the department in which the Coast Guard is operating shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a plan—
 
@@ -291,15 +291,15 @@
 
 >         “(2) for the long-term recapitalization of these assets.
 
->     “(b) __Necessary Measures.—__ 
+>     “(b)  __Necessary Measures__  __.—__ 
 
 >     The Secretary shall take all necessary measures to ensure that the Coast Guard maintains, at a minimum, its current vessel capacity for carrying out ice breaking in the Arctic and Antarctic, Great Lakes, and New England regions, including the necessary funding for operation and maintenance of such vessels, until it has implemented the long-term recapitalization of the Coast Guard polar icebreakers POLAR STAR, POLAR SEA, and HEALY in accordance with the plan submitted under subsection (a).
 
->     “(c) __Reimbursement.—__ 
+>     “(c)  __Reimbursement__  __.—__ 
 
 >     Nothing in this section shall preclude the Secretary from seeking reimbursement for operation and maintenance costs of such polar icebreakers from other Federal agencies and entities, including foreign countries, that benefit from the use of the icebreakers.
 
->     “(d) __Authorization of Appropriations.—__ 
+>     “(d)  __Authorization of Appropriations__  __.—__ 
 
 >     There is authorized to be appropriated for fiscal year 2006 to the Secretary of the department in which the Coast Guard is operating $100,000,000 to carry out this section with respect to the polar icebreakers referred to in subsection (a).”
 
@@ -311,7 +311,7 @@
 
 [Pub. L. 107–295, title IV, § 430][/us/pl/107/295/s430], Nov. 25, 2002, [116 Stat. 2128][/us/stat/116/2128], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Commandant of the Coast Guard may provide support, with or without reimbursement, to an entity engaged in fishing vessel safety training, including—
 
@@ -323,7 +323,7 @@
 
 >         “(4) participation on applicable fishing vessel safety training advisory panels.
 
->     “(b) __No Interference With Other Functions.—__ 
+>     “(b)  __No Interference With Other Functions__  __.—__ 
 
 >     In providing support under subsection (a), the Commandant shall ensure that the support does not interfere with any Coast Guard function or operation.”
 

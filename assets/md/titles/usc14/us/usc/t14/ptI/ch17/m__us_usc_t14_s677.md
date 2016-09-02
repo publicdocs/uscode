@@ -15,11 +15,11 @@
 
 ## § 677. Turnkey selection procedures
 
-    (a) __Authority to Use.—__ 
+    (a)  __Authority to Use__  __.—__ 
 
     The Secretary may use one-step turnkey selection procedures for the purpose of entering into contracts for construction projects.
 
-    (b) __Definitions.—__ 
+    (b)  __Definitions__  __.—__ 
 
     In this section, the following definitions apply:
 

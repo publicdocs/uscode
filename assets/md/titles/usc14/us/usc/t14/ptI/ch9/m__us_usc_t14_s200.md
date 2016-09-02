@@ -15,11 +15,11 @@
 
 ## § 200. Policy on sexual harassment and sexual violence
 
-    (a) __Required Policy.—__ 
+    (a)  __Required Policy__  __.—__ 
 
     The Commandant of the Coast Guard shall direct the Superintendent of the Coast Guard Academy to prescribe a policy on sexual harassment and sexual violence applicable to the cadets and other personnel of the Academy.
 
-    (b) __Matters To Be Specified in Policy.—__ 
+    (b)  __Matters To Be Specified in Policy__  __.—__ 
 
     The policy on sexual harassment and sexual violence under this section shall include specification of the following:
 
@@ -45,11 +45,11 @@
 
     (c) __Assessment.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The Commandant shall direct the Superintendent to conduct at the Academy during each Academy program year an assessment to determine the effectiveness of the policies of the Academy with respect to sexual harassment and sexual violence involving cadets or other Academy personnel.
 
-        (2) __Biennial survey.—__ 
+        (2)  __Biennial survey__  __.—__ 
 
         For the assessment at the Academy under paragraph (1) with respect to an Academy program year that begins in an odd-numbered calendar year, the Superintendent shall conduct a survey of cadets and other Academy personnel—
 
@@ -75,11 +75,11 @@
 
     (d) __Report.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The Commandant shall direct the Superintendent to submit to the Commandant a report on sexual harassment and sexual violence involving cadets or other Academy personnel for each Academy program year.
 
-        (2) __Report specifications.—__ 
+        (2)  __Report specifications__  __.—__ 
 
         Each report under paragraph (1) shall include, for the Academy program year covered by the report, the following:
 
@@ -87,11 +87,11 @@
 
             (B) A plan for the actions that are to be taken in the following Academy program year regarding prevention of and response to sexual harassment and sexual violence involving cadets or other Academy personnel.
 
-        (3) __Biennial survey.—__ 
+        (3)  __Biennial survey__  __.—__ 
 
         Each report under paragraph (1) for an Academy program year that begins in an odd-numbered calendar year shall include the results of the survey conducted in that Academy program year under subsection (c)(2).
 
-        (4) __Transmission of report.—__ 
+        (4)  __Transmission of report__  __.—__ 
 
         The Commandant shall transmit each report received by the Commandant under this subsection, together with the Commandant’s comments on the report, to—
 
@@ -101,15 +101,15 @@
 
         (5) __Focus groups.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             For each Academy program year with respect to which the Superintendent is not required to conduct a survey at the Academy under subsection (c)(2), the Commandant shall require focus groups to be conducted at the Academy for the purposes of ascertaining information relating to sexual assault and sexual harassment issues at the Academy.
 
-            (B) __Inclusion in reports.—__ 
+            (B)  __Inclusion in reports__  __.—__ 
 
             Information derived from a focus group under subparagraph (A) shall be included in the next transmitted Commandant’s report under this subsection.
 
-    (e) __Victim Confidentiality.—__ 
+    (e)  __Victim Confidentiality__  __.—__ 
 
     To the extent that information collected under the authority of this section is reported or otherwise made available to the public, such information shall be provided in a form that is consistent with applicable privacy protections under Federal law and does not jeopardize the confidentiality of victims.
 

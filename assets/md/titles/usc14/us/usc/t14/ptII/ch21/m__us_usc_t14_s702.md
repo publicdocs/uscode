@@ -29,11 +29,11 @@
 
 [Pub. L. 103–160, title V, § 564(a)][/us/pl/103/160/s564/a], (b), Nov. 30, 1993, [107 Stat. 1669][/us/stat/107/1669], 1670, provided that:
 
->     “(a) __Applicability of Certain Benefits.—__ 
+>     “(a)  __Applicability of Certain Benefits__  __.—__ 
 
 >     The Secretary of Transportation shall prescribe such regulations as necessary so as to apply to the members of the Coast Guard Reserve the provisions of subtitle B of title XLIV of the Defense Conversion, Reinvestment, and Transition Assistance Act of 1992 (division D of [Public Law 102–484][/us/pl/102/484]; [106 Stat. 2712][/us/stat/106/2712]) \[enacting section 1331a \[now 12731a\] of Title 10, Armed Forces, amending sections 1174a, 1175, and 2133 of Title 10 and [section 3012 of Title 38][/us/usc/t38/s3012], Veterans’ Benefits, and enacting provisions set out as a note under [section 12681 of Title 10][/us/usc/t10/s12681]\], including the amendments made by those provisions. For purposes of the application of any of such provisions to the Coast Guard Reserve, any reference in those provisions to the Secretary of Defense or Secretary of a military department shall be treated as referring to the Secretary of Transportation.
 
->     “(b) __Regulations.—__ 
+>     “(b)  __Regulations__  __.—__ 
 
 >     Regulations prescribed for the purposes of this section shall to the extent practicable be identical to the regulations prescribed by the Secretary of Defense under those provisions.”
 

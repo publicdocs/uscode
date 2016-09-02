@@ -15,7 +15,7 @@
 
 ## § 577. Advance procurement funding
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     With respect to any Coast Guard vessel for which amounts are appropriated and any amounts otherwise made available for vessels for the Coast Guard in any fiscal year, the Commandant of the Coast Guard may enter into a contract or place an order, in advance of a contract or order for construction of a vessel, for—
 
@@ -27,7 +27,7 @@
 
         (4) production planning, design, and other related support services that reduce the overall procurement lead time of the vessel.
 
-    (b) __Use of Materials, Parts, and Components Manufactured in the United States.—__ 
+    (b)  __Use of Materials, Parts, and Components Manufactured in the United States__  __.—__ 
 
     In entering into contracts and placing orders under subsection (a), the Commandant may give priority to persons that manufacture materials, parts, and components in the United States.
 

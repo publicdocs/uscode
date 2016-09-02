@@ -15,11 +15,11 @@
 
 ## § 566. Department of Defense consultation
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     The Commandant shall make arrangements as appropriate with the Secretary of Defense for support in contracting and management of Coast Guard acquisition programs. The Commandant shall also seek opportunities to make use of Department of Defense contracts, and contracts of other appropriate agencies, to obtain the best possible price for assets acquired for the Coast Guard.
 
-    (b) __Interservice Technical Assistance.—__ 
+    (b)  __Interservice Technical Assistance__  __.—__ 
 
     The Commandant shall seek to enter into a memorandum of understanding or a memorandum of agreement with the Secretary of the Navy to obtain the assistance of the Office of the Assistant Secretary of the Navy for Research, Development, and Acquisition, including the Navy Systems Command, with the oversight of Coast Guard major acquisition programs. The memorandum of understanding or memorandum of agreement shall, at a minimum, provide for—
 
@@ -29,11 +29,11 @@
 
         (3) the temporary assignment or exchange of personnel between the Coast Guard and the Office of the Assistant Secretary of the Navy for Research, Development, and Acquisition, including Naval Systems Command, to facilitate the development of organic capabilities in the Coast Guard.
 
-    (c) __Technical Requirement Approval Procedures.—__ 
+    (c)  __Technical Requirement Approval Procedures__  __.—__ 
 
     The Chief Acquisition Officer shall adopt, to the extent practicable, procedures modeled after those used by the Navy Senior Acquisition Official to approve all technical requirements.
 
-    (d) __Assessment.—__ 
+    (d)  __Assessment__  __.—__ 
 
     Within 180 days after the date of enactment of the Coast Guard Authorization Act of 2010, the Comptroller General of the United States shall transmit a report to the appropriate congressional committees that—
 

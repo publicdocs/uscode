@@ -17,7 +17,7 @@
 
     (a) __Officers Not Considered Due to Administrative Error.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         If the Secretary determines that as the result of an administrative error—
 
@@ -27,13 +27,13 @@
 
             the Secretary shall convene a special selection board to determine whether such officer or former officer should be recommended for promotion and such officer or former officer shall not be considered to have failed of selection for promotion prior to the consideration of the special selection board.
 
-        (2) __Effect of failure to recommend for promotion.—__ 
+        (2)  __Effect of failure to recommend for promotion__  __.—__ 
 
         If a special selection board convened under paragraph (1) does not recommend for promotion an officer or former officer, whose grade is below the grade of captain and whose name was referred to that board for consideration, the officer or former officer shall be considered to have failed of selection for promotion.
 
     (b) __Officers Considered But Not Selected; Material Error.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         In the case of an officer or former officer who was eligible for promotion, was considered for selection for promotion by a selection board convened under section 251, and was not selected for promotion by that board, the Secretary may convene a special selection board to determine whether the officer or former officer should be recommended for promotion, if the Secretary determines that—
 
@@ -47,7 +47,7 @@
 
             (B) the selection board that considered the officer or former officer did not have before it for consideration material information.
 
-        (2) __Effect of failure to recommend for promotion.—__ 
+        (2)  __Effect of failure to recommend for promotion__  __.—__ 
 
         If a special selection board convened under paragraph (1) does not recommend for promotion an officer or former officer, whose grade is that of commander or below and whose name was referred to that board for consideration, the officer or former officer shall be considered—
 
@@ -55,7 +55,7 @@
 
             (B) to incur no additional failure of selection for promotion as a result of the action of the special selection board.
 
-    (c) __Requirements for Special Selection Boards.—__ 
+    (c)  __Requirements for Special Selection Boards__  __.—__ 
 
     Each special selection board convened under this section shall—
 
@@ -73,23 +73,23 @@
 
     (d) __Appointment of Officers Recommended for Promotion.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         An officer or former officer whose name is placed on a promotion list as a result of the recommendation of a special selection board convened under this section shall be appointed, as soon as practicable, to the next higher grade in accordance with the law and policies that would have been applicable to the officer or former officer had the officer or former officer been recommended for promotion by the selection board that should have considered or did consider the officer or former officer prior to the consideration of the special selection board.
 
-        (2) __Effect.—__ 
+        (2)  __Effect__  __.—__ 
 
         An officer or former officer who is promoted to the next higher grade as a result of the recommendation of a special selection board convened under this section shall have, upon such promotion, the same date of rank, the same effective date for the pay and allowances of that grade, and the same position on the active duty promotion list as the officer or former officer would have had if the officer or former officer had been recommended for promotion to that grade by the selection board that should have considered or did consider the officer or former officer prior to the consideration of the special selection board.
 
-        (3) __Record correction.—__ 
+        (3)  __Record correction__  __.—__ 
 
         If the report of a special selection board convened under this section, as approved by the President, recommends for promotion to the next higher grade an officer not eligible for promotion or a former officer whose name was referred to the board for consideration, the Secretary may act under [section 1552 of title 10][/us/usc/t10/s1552] to correct the military record of the officer or former officer to correct an error or remove an injustice resulting from the officer or former officer not being selected for promotion by the selection board that should have considered or did consider the officer or former officer prior to the consideration of the special selection board.
 
-    (e) __Application Process and Time Limits.—__ 
+    (e)  __Application Process and Time Limits__  __.—__ 
 
     The Secretary shall issue regulations regarding the process by which an officer or former officer may apply to have a matter considered by a special selection board convened under this section, including time limits related to such applications.
 
-    (f) __Limitation of Other Jurisdiction.—__ 
+    (f)  __Limitation of Other Jurisdiction__  __.—__ 
 
     No official or court of the United States shall have authority or jurisdiction over any claim based in any way on the failure of an officer or former officer to be selected for promotion by a selection board convened under section 251, until—
 
@@ -99,7 +99,7 @@
 
     (g) __Judicial Review.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         A court of the United States may review—
 
@@ -107,11 +107,11 @@
 
             (B) an action of a special selection board under this section to determine if the court finds that the action of the special selection board was contrary to law or involved material error of fact or material administrative error.
 
-        (2) __Remand and reconsideration.—__ 
+        (2)  __Remand and reconsideration__  __.—__ 
 
         If, with respect to a review under paragraph (1), a court makes a finding described in subparagraph (A) or (B) of that paragraph, the court shall remand the case to the Secretary and the Secretary shall provide the applicable officer or former officer consideration by a new special selection board convened under this section.
 
-    (h) __Designation of Boards.—__ 
+    (h)  __Designation of Boards__  __.—__ 
 
     The Secretary may designate a selection board convened under section 251 as a special selection board convened under this section. A selection board so designated may function in the capacity of a selection board convened under section 251 and a special selection board convened under this section.
 

@@ -15,7 +15,7 @@
 
 ## § 574. Acquisition, production, deployment, and support
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     The Commandant shall—
 
@@ -25,7 +25,7 @@
 
         (3) conduct acceptance tests and trials prior to the delivery of each asset or system to ensure the delivered asset or system achieves full operational capability.
 
-    (b) __Elements.—__ 
+    (b)  __Elements__  __.—__ 
 
     The Commandant shall—
 

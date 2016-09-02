@@ -15,11 +15,11 @@
 
 ## § 563. Recognition of Coast Guard personnel for excellence in acquisition
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     Not later than 180 days after the date of enactment of the Coast Guard Authorization Act of 2010, the Commandant shall commence implementation of a program to recognize excellent performance by individuals and teams comprised of officers, members, and employees of the Coast Guard that contributed to the long-term success of a Coast Guard acquisition project or program.
 
-    (b) __Elements.—__ 
+    (b)  __Elements__  __.—__ 
 
     The program shall include—
 
@@ -29,7 +29,7 @@
 
         (3) procedures for the evaluation of nominations for recognition under the program by one or more panels of individuals from the Government, academia, and the private sector who have such expertise and are appointed in such manner as the Commandant shall establish for the purposes of this program.
 
-    (c) __Award of Cash Bonuses.—__ 
+    (c)  __Award of Cash Bonuses__  __.—__ 
 
     As part of the program required by subsection (a), the Commandant, subject to the availability of appropriations, may award to any civilian employee recognized pursuant to the program a cash bonus to the extent that the performance of such individual so recognized warrants the award of such bonus.
 

@@ -15,7 +15,7 @@
 
 ## § 59. Marine industry training program
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     The Commandant shall, by policy, establish a program under which an officer, member, or employee of the Coast Guard may be assigned to a private entity to further the institutional interests of the Coast Guard with regard to marine safety, including for the purpose of providing training to an officer, member, or employee. Policies to carry out the program—
 
@@ -31,7 +31,7 @@
 
         (2) shall require the Commandant, before approving the assignment of an officer, member, or employee of the Coast Guard to a private entity, to determine that the assignment is an effective use of the Coast Guard’s funds, taking into account the best interests of the Coast Guard and the costs and benefits of alternative methods of achieving the same results and objectives.
 
-    (b) __Annual Report.—__ 
+    (b)  __Annual Report__  __.—__ 
 
     Not later than the date of the submission each year of the President’s budget request under [section 1105 of title 31][/us/usc/t31/s1105], the Commandant shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report that describes—
 

@@ -15,7 +15,7 @@
 
 ## § 663. Capital investment plan
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     On the date on which the President submits to Congress a budget pursuant to [section 1105 of title 31][/us/usc/t31/s1105], the Commandant of the Coast Guard shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate—
 
@@ -35,7 +35,7 @@
 
         (2) a list of each unfunded priority for the Coast Guard.
 
-    (b) __Unfunded Priority Defined.—__ 
+    (b)  __Unfunded Priority Defined__  __.—__ 
 
     In this section, the term “unfunded priority” means a program or mission requirement that—
 
@@ -113,7 +113,7 @@ Oct. 3, 1980, Pub. L. 96–376, § 12, 94 Stat. 1511.  </td>
 
 >     “\[(a) Repealed. [Pub. L. 112–213, title II, § 210(c)(1)][/us/pl/112/213/s210/c/1], Dec. 20, 2012, [126 Stat. 1551][/us/stat/126/1551].\]
 
->     “(b) __Deepwater Acceleration Report.—__ 
+>     “(b)  __Deepwater Acceleration Report__  __.—__ 
 
 >     Not later than 30 days after the date of enactment of this Act \[July 11, 2006\], the Secretary shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report on the acceleration of the current Deepwater program acquisition timeline that reflects completion of the Deepwater program in each of 10 years and 15 years and includes—
 
@@ -139,11 +139,11 @@ Oct. 3, 1980, Pub. L. 96–376, § 12, 94 Stat. 1511.  </td>
 
 >             “(E) training infrastructure capacity on technology associated with new assets.
 
->     “(c) __Oversight Report.—__ 
+>     “(c)  __Oversight Report__  __.—__ 
 
 >     Not later than 90 days after the date of enactment of this Act \[July 11, 2006\], the Commandant of the Coast Guard, in consultation with the Government Accountability Office, shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report on the status of the Coast Guard’s implementation of the Government Accountability Office’s recommendations in its report, GAO–04–380, entitled ‘Coast Guard Deepwater Program Needs Increased Attention to Management and Contractor Oversight’, including the dates by which the Coast Guard plans to complete implementation of such recommendations if any of such recommendations remain open as of the date the report is transmitted to the Committees.
 
->     “(d) __Independent Analysis of Revised Deepwater Plan.—__ 
+>     “(d)  __Independent Analysis of Revised Deepwater Plan__  __.—__ 
 
 >     The Secretary may periodically, either through an internal review process or a contract with an outside entity, conduct an analysis of all or part of the Deepwater program and assess whether—
 
@@ -207,7 +207,9 @@ Similar provisions were contained in the following prior appropriation acts:
 
 >     Provided further, That the Commandant of the Coast Guard shall ensure that amounts specified in the future-years capital investment plan are consistent, to the maximum extent practicable, with proposed appropriations necessary to support the programs, projects, and activities of the Coast Guard in the President’s budget as submitted under [section 1105(a) of title 31][/us/usc/t31/s1105/a], United States Code, for that fiscal year: Provided further, That any inconsistencies between the capital investment plan and proposed appropriations shall be identified and justified”.
 
-Similar provisions were contained in the following prior appropriation acts:
+Similar provisions were contained in the following appropriation acts:
+
+    [Pub. L. 113–76, div. F, title II][/us/pl/113/76], Jan. 17, 2014, [128 Stat. 256][/us/stat/128/256].
 
     [Pub. L. 112–74, div. D, title II][/us/pl/112/74], Dec. 23, 2011, [125 Stat. 954][/us/stat/125/954].
 
@@ -283,6 +285,8 @@ Similar provisions were contained in the following prior appropriation acts:
 [/us/stat/127/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F351
 [/us/usc/t31/s1105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105%2Fa
 [/us/usc/t31/s1105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105%2Fa
+[/us/pl/113/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76
+[/us/stat/128/256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F256
 [/us/pl/112/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74
 [/us/stat/125/954]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F954
 [/us/pl/111/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F83
