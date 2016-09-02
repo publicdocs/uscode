@@ -2983,11 +2983,11 @@
 
             (D) __Determination of avoided emissions__ 
 
-                (i) __Application__ 
+                (i)  __ <sup>\[__  __8__  __\]</sup> __  __ <sup><sup> __  __8__  __ So in original. There is no cl. (ii).__  __ </sup></sup> __  __Application__ 
 
                 In order to receive allowances under this subsection, an electric utility shall make an application which—
 
-                    (I) designates the qualified energy conservation measures implemented and the qualified renewable energy sources used for purposes of avoiding emissions, <sup>\[8\]</sup>  <sup><sup> 8 So in original. The comma probably should be a semicolon. </sup></sup> 
+                    (I) designates the qualified energy conservation measures implemented and the qualified renewable energy sources used for purposes of avoiding emissions, <sup>\[9\]</sup>  <sup><sup> 9 So in original. The comma probably should be a semicolon. </sup></sup> 
 
                     (II) calculates, in accordance with subparagraphs (F) and (G), the number of tons of emissions avoided by reason of the implementation of such measures or the use of such renewable energy sources; and
 
@@ -3045,7 +3045,7 @@
 
             (C) is part of a utility system which has a weighted average sulfur dioxide emissions rate for all fossil fueled-fired units below 1.0 lbs/mmBtu,
 
-            at the election of the owner or operator of such unit, the unit’s baseline may be calculated (i) as provided under section 7651a(d)  <sup>\[9\]</sup>  <sup><sup> 9 So in original. Probably should be section “7651a(4)”. </sup></sup>  of this title, or (ii) by utilizing the unit’s average annual fuel consumption at a 60 percent capacity factor. Such election shall be made no later than March 1, 1991.
+            at the election of the owner or operator of such unit, the unit’s baseline may be calculated (i) as provided under section 7651a(d)  <sup>\[10\]</sup>  <sup><sup> 10 So in original. Probably should be section “7651a(4)”. </sup></sup>  of this title, or (ii) by utilizing the unit’s average annual fuel consumption at a 60 percent capacity factor. Such election shall be made no later than March 1, 1991.
 
         (2) __Allowance allocation__ 
 

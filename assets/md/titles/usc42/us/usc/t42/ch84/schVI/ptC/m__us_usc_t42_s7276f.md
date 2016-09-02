@@ -19,6 +19,10 @@
 
 ([Pub. L. 111–85, title III][/us/pl/111/85], Oct. 28, 2009, [123 Stat. 2870][/us/stat/123/2870].)
 
+ __References in Text__ 
+
+    “This account” and “this appropriation”, referred to in text, mean funds appropriated under the heading “Construction, Rehabilitation, Operation and Maintenance, Western Area Power Administration” of title III of the Energy and Water Development and Related Agencies Appropriations Act, 2010, [Pub. L. 111–85][/us/pl/111/85].
+
  __Codification__ 
 
     Section was enacted as part of the Energy and Water Development and Related Agencies Appropriations Act, 2010, and not as part of the Department of Energy Organization Act which comprises this chapter.
@@ -35,5 +39,6 @@
 [/us/usc/t43/s392a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs392a
 [/us/pl/111/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F85
 [/us/stat/123/2870]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2870
+[/us/pl/111/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F85
 
 

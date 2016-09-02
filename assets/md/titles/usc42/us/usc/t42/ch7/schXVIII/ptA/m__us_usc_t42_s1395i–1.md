@@ -17,7 +17,7 @@
 
     There are authorized to be appropriated to the Federal Hospital Insurance Trust Fund (established by [section 1395i of this title][/us/usc/t42/s1395i]) from time to time such sums as the Secretary deems necessary for any fiscal year, on account of—
 
-    (1) payments made or to be made during such fiscal year from such Trust Fund under this part with respect to individuals who are qualified railroad retirement beneficiaries (as defined in [section 426(c) of this title][/us/usc/t42/s426/c]) and who are not, and upon filing application for monthly insurance benefits under [section 402 of this title][/us/usc/t42/s402] would not be, entitled to such benefits if service as an employee (as defined in the Railroad Retirement Act of 1937 \[[45 U.S.C. 228a][/us/usc/t45/s228a] et seq.\]) after December 31, 1936, had been included in the term “employment” as defined in this chapter,
+    (1) payments made or to be made during such fiscal year from such Trust Fund under this part with respect to individuals who are qualified railroad retirement beneficiaries (as defined in section 426(c)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title) and who are not, and upon filing application for monthly insurance benefits under [section 402 of this title][/us/usc/t42/s402] would not be, entitled to such benefits if service as an employee (as defined in the Railroad Retirement Act of 1937 \[[45 U.S.C. 228a][/us/usc/t45/s228a] et seq.\]) after December 31, 1936, had been included in the term “employment” as defined in this chapter,
 
     (2) the additional administrative expenses resulting or expected to result therefrom, and
 
@@ -29,7 +29,9 @@
 
  __References in Text__ 
 
-    The Railroad Retirement Act of 1937, referred to in text, is [act Aug. 29, 1935, ch. 812][/us/act/1935-08-29/ch812], [49 Stat. 867][/us/stat/49/867], as amended generally by [act June 24, 1937, ch. 382][/us/act/1937-06-24/ch382], part I, [50 Stat. 307][/us/stat/50/307], and which was classified principally to subchapter III (§ 228a et seq.) of chapter 9 of Title 45, Railroads. The Railroad Retirement Act of 1937 was amended generally and redesignated the Railroad Retirement Act of 1974 by [Pub. L. 93–445, title I][/us/pl/93/445], Oct. 16, 1974, [88 Stat. 1305][/us/stat/88/1305]. The Railroad Retirement Act of 1974 is classified generally to subchapter IV (§ 231 et seq.) of chapter 9 of title 45. For complete classification of these Acts to the Code, see Tables.
+    [Section 426(c) of this title][/us/usc/t42/s426/c], referred to in par. (1), was redesignated [section 426(d) of this title][/us/usc/t42/s426/d] by [Pub. L. 92–603, title II, § 201(b)(5)][/us/pl/92/603/s201/b/5], Oct. 30, 1972, [86 Stat. 1372][/us/stat/86/1372].
+
+    The Railroad Retirement Act of 1937, referred to in par. (1), is [act Aug. 29, 1935, ch. 812][/us/act/1935-08-29/ch812], [49 Stat. 867][/us/stat/49/867], as amended generally by [act June 24, 1937, ch. 382][/us/act/1937-06-24/ch382], part I, [50 Stat. 307][/us/stat/50/307], and which was classified principally to subchapter III (§ 228a et seq.) of chapter 9 of Title 45, Railroads. The Railroad Retirement Act of 1937 was amended generally and redesignated the Railroad Retirement Act of 1974 by [Pub. L. 93–445, title I][/us/pl/93/445], Oct. 16, 1974, [88 Stat. 1305][/us/stat/88/1305]. The Railroad Retirement Act of 1974 is classified generally to subchapter IV (§ 231 et seq.) of chapter 9 of title 45. For complete classification of these Acts to the Code, see Tables.
 
  __Codification__ 
 
@@ -51,11 +53,14 @@
 ----------
 
 [/us/usc/t42/s1395i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395i
-[/us/usc/t42/s426/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs426%2Fc
 [/us/usc/t42/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs402
 [/us/usc/t45/s228a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft45%2Fs228a
 [/us/pl/89/97/s111/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97%2Fs111%2Fd
 [/us/stat/79/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F343
+[/us/usc/t42/s426/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs426%2Fc
+[/us/usc/t42/s426/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs426%2Fd
+[/us/pl/92/603/s201/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603%2Fs201%2Fb%2F5
+[/us/stat/86/1372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1372
 [/us/act/1935-08-29/ch812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-29%2Fch812
 [/us/stat/49/867]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F867
 [/us/act/1937-06-24/ch382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-06-24%2Fch382

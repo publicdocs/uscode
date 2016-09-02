@@ -33,7 +33,7 @@
 
  __Codification__ 
 
-    Section 7383f, [Pub. L. 106–65, div. C, title XXXI, § 3152][/us/pl/106/65/s3152], Oct. 5, 1999, [113 Stat. 940][/us/stat/113/940], which related to the submission of annual reports on counterintelligence and security practices at national laboratories, was renumbered [section 4507 of Pub. L. 107–314][/us/pl/107/314/s4507], the Bob Stump National Defense Authorization Act for Fiscal Year 2003, by [Pub. L. 108–136, div. C, title XXXI, § 3141(h)(8)(A)][/us/pl/108/136/s3141/h/8/A]–(C), Nov. 24, 2003, [117 Stat. 1773][/us/stat/117/1773], and is classified to [section 2658 of Title 50][/us/usc/t50/s2658], War and National Defense.
+    Section 7383f, [Pub. L. 106–65, div. C, title XXXI, § 3152][/us/pl/106/65/s3152], Oct. 5, 1999, [113 Stat. 940][/us/stat/113/940], which related to the submission of annual reports on counterintelligence and security practices at national laboratories, was renumbered [section 4507 of Pub. L. 107–314][/us/pl/107/314/s4507], the Bob Stump National Defense Authorization Act for Fiscal Year 2003, by [Pub. L. 108–136, div. C, title XXXI, § 3141(h)(8)(A)][/us/pl/108/136/s3141/h/8/A]–(C), Nov. 24, 2003, [117 Stat. 1773][/us/stat/117/1773], and was classified to [section 2658 of Title 50][/us/usc/t50/s2658], War and National Defense, prior to repeal by [Pub. L. 113–66, div. C, title XXXI, § 3132(a)(1)][/us/pl/113/66/s3132/a/1], Dec. 26, 2013, [127 Stat. 1068][/us/stat/127/1068].
 
     Section 7383g, [Pub. L. 106–65, div. C, title XXXI, § 3153][/us/pl/106/65/s3153], Oct. 5, 1999, [113 Stat. 940][/us/stat/113/940], which related to the submission of annual reports on security vulnerabilities of national laboratory computers, was renumbered [section 4508 of Pub. L. 107–314][/us/pl/107/314/s4508], the Bob Stump National Defense Authorization Act for Fiscal Year 2003, by [Pub. L. 108–136, div. C, title XXXI, § 3141(h)(9)(A)][/us/pl/108/136/s3141/h/9/A]–(C), Nov. 24, 2003, [117 Stat. 1774][/us/stat/117/1774], and is classified to [section 2659 of Title 50][/us/usc/t50/s2659], War and National Defense.
 
@@ -56,6 +56,8 @@
 [/us/pl/108/136/s3141/h/8/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs3141%2Fh%2F8%2FA
 [/us/stat/117/1773]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1773
 [/us/usc/t50/s2658]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2658
+[/us/pl/113/66/s3132/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs3132%2Fa%2F1
+[/us/stat/127/1068]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1068
 [/us/pl/106/65/s3153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs3153
 [/us/stat/113/940]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F940
 [/us/pl/107/314/s4508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs4508

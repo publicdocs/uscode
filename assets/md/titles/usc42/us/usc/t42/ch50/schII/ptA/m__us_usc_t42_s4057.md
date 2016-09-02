@@ -127,7 +127,7 @@
 
                     (I) evaluate the expected financial impact on the national flood insurance program of the use of the COASTAL Formula as so established or modified; and
 
-                    (II) evaluate the validity of the scientific assumptions upon which the formula is based and determine whether the COASTAL formula can achieve a degree of accuracy of not less than 90 percent in allocating flood losses for indeterminate losses.
+                    (II) evaluate the validity of the scientific assumptions upon which the formula is based and determine whether the COASTAL formula  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be capitalized. </sup></sup>  can achieve a degree of accuracy of not less than 90 percent in allocating flood losses for indeterminate losses.
 
                 (ii) __Report__ 
 
@@ -137,7 +137,7 @@
 
                 (i) __Effective date__ 
 
-                    Paragraphs (1) and (2) of this subsection shall not take effect unless the report under subparagraph (A) relating to the establishment of the COASTAL Formula concludes that the use of the COASTAL Formula for purposes of paragraph (1) and (2) would not have an adverse financial impact on the national flood insurance program and that the COASTAL Formula is based on valid scientific assumptions that would allow a degree of accuracy of not less than 90 percent to be achieved in allocating flood losses for indeterminate losses.
+                    Paragraphs (1) and (2) of this subsection shall not take effect unless the report under subparagraph (A) relating to the establishment of the COASTAL Formula concludes that the use of the COASTAL Formula for purposes of paragraph  <sup>\[2\]</sup>  <sup><sup> 2 So in original. Probably should be “paragraphs”. </sup></sup>  (1) and (2) would not have an adverse financial impact on the national flood insurance program and that the COASTAL Formula is based on valid scientific assumptions that would allow a degree of accuracy of not less than 90 percent to be achieved in allocating flood losses for indeterminate losses.
 
                 (ii) __Effect of modifications__ 
 
@@ -189,7 +189,7 @@
 
     (h) __Rule of construction__ 
 
-        Nothing in this subsection shall be construed to require the Administrator to make any payment under the national flood insurance program, or an insurance company to make any payment, for an indeterminate loss based upon post-storm assessment or the COASTAL Formula.
+        Nothing in this subsection  <sup>\[3\]</sup>  <sup><sup> 3 So in original. Probably should be “this section”. </sup></sup>  shall be construed to require the Administrator to make any payment under the national flood insurance program, or an insurance company to make any payment, for an indeterminate loss based upon post-storm assessment or the COASTAL Formula.
 
     (i) __Applicability__ 
 
@@ -197,7 +197,7 @@
 
     (j) __Rule of Construction__ 
 
-        Nothing in this subsection  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “this section”. </sup></sup>  shall be construed to negate, set aside, or void any policy limit, including any loss limitation, set forth in a standard insurance policy.
+        Nothing in this subsection 3 shall be construed to negate, set aside, or void any policy limit, including any loss limitation, set forth in a standard insurance policy.
 
 ([Pub. L. 90–448, title XIII, § 1337][/us/pl/90/448/s1337], as added [Pub. L. 112–141, div. F, title II, § 100253][/us/pl/112/141/s100253], July 6, 2012, [126 Stat. 974][/us/stat/126/974].)
 

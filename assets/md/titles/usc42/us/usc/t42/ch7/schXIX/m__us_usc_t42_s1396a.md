@@ -2831,7 +2831,7 @@
 
     Subsec. (a)(10)(A)(i). [Pub. L. 98–369, § 2361(a)][/us/pl/98/369/s2361/a], amended cl. (i) generally. Prior to the amendment cl. (i) read as follows: “all individuals receiving aid or assistance under any plan of the State approved under subchapter I, X, XIV, or XVI of this chapter, or part A or part E of subchapter IV of this chapter (including pregnant women deemed by the State to be receiving such aid as authorized in [section 606(g) of this title][/us/usc/t42/s606/g] and individuals considered by the State to be receiving such aid as authorized under [section 614(g) of this title][/us/usc/t42/s614/g]), or with respect to whom supplemental security income benefits are being paid under subchapter XVI of this chapter; and”.
 
-    Subsec. (a)(10(A)(i)(I). [Pub. L. 98–378, § 20(c)][/us/pl/98/378/s20/c], substituted “section 602(a)(37) or 606(h) of this title” for “[section 602(a)(37) of this title][/us/usc/t42/s602/a/37]”.
+    Subsec. (a)(10)(A)(i)(I). [Pub. L. 98–378, § 20(c)][/us/pl/98/378/s20/c], substituted “section 602(a)(37) or 606(h) of this title” for “[section 602(a)(37) of this title][/us/usc/t42/s602/a/37]”.
 
     Subsec. (a)(13)(A). [Pub. L. 98–369, § 2373(b)(3)][/us/pl/98/369/s2373/b/3], made clarifying amendment by striking out “(A)” and all that follows through “hospital” the first place it appears and inserting in lieu thereof “(A) for payment (except where the State agency is subject to an order under [section 1396m of this title][/us/usc/t42/s1396m]) of the hospital”, resulting in no change in text.
 

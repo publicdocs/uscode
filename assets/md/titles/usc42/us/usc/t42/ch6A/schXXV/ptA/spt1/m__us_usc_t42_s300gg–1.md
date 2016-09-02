@@ -69,141 +69,13 @@
 
 ([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXVII, § 2702, as added and amended [Pub. L. 111–148, title I][/us/pl/111/148], §§ 1201(4), 1563(c)(8), formerly § 1562(c)(8), title X, § 10107(b)(1), Mar. 23, 2010, [124 Stat. 156][/us/stat/124/156], 266, 911.)
 
- __Enactment of Section__ 
-
-    For delayed effective date of section, see Effective Date note below.
-
  __Codification__ 
 
-    The text of [section 300gg–11 of this title][/us/usc/t42/s300gg–11], which was amended and transferred to subsecs. (c) and (d) of this section by [Pub. L. 111–148, § 1563(c)(8)][/us/pl/111/148/s1563/c/8], formerly § 1562(c)(8), as renumbered by [Pub. L. 111–148, § 10107(b)(1)][/us/pl/111/148/s10107/b/1], was based on [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXVII, § 2731, formerly § 2711, as added [Pub. L. 104–191, title I, § 102(a)][/us/pl/104/191/s102/a], Aug. 21, 1996, [110 Stat. 1962][/us/stat/110/1962]; renumbered § 2731, [Pub. L. 111–148, title I, § 1001(3)][/us/pl/111/148/s1001/3], Mar. 23, 2010, [124 Stat. 130][/us/stat/124/130]. For text of section 300gg–11 prior to amendment and transfer, see Prior Provisions note under [section 300gg–11 of this title][/us/usc/t42/s300gg–11].
+    The text of [section 300gg–11 of this title][/us/usc/t42/s300gg–11], which was amended and transferred to subsecs. (c) and (d) of this section by [Pub. L. 111–148, § 1563(c)(8)][/us/pl/111/148/s1563/c/8], formerly § 1562(c)(8), as renumbered by [Pub. L. 111–148, § 10107(b)(1)][/us/pl/111/148/s10107/b/1], was based on [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXVII, § 2731, formerly § 2711, as added [Pub. L. 104–191, title I, § 102(a)][/us/pl/104/191/s102/a], Aug. 21, 1996, [110 Stat. 1962][/us/stat/110/1962]; renumbered § 2731, [Pub. L. 111–148, title I, § 1001(3)][/us/pl/111/148/s1001/3], Mar. 23, 2010, [124 Stat. 130][/us/stat/124/130].
 
  __Prior Provisions__ 
 
-A prior section 300gg–1, [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXVII, § 2702, as added [Pub. L. 104–191, title I, § 102(a)][/us/pl/104/191/s102/a], Aug. 21, 1996, [110 Stat. 1961][/us/stat/110/1961]; [Pub. L. 110–233, title I, § 102(a)(1)][/us/pl/110/233/s102/a/1]–(3), May 21, 2008, [122 Stat. 888][/us/stat/122/888], 890, was amended by [Pub. L. 111–148, title I, § 1201(3)][/us/pl/111/148/s1201/3], Mar. 23, 2010, [124 Stat. 154][/us/stat/124/154], effective for plan years beginning on or after Jan. 1, 2014, and was transferred to subsecs. (b) to (f) of [section 300gg–4 of this title][/us/usc/t42/s300gg–4]. Prior to amendment and transfer by [Pub. L. 111–148][/us/pl/111/148], text of section 300gg–1 read as follows:
-
->     “(a) __In Eligibility To Enroll.—__ 
-
->         “(1)  __In general__  __.—__ 
-
->         Subject to paragraph (2), a group health plan, and a health insurance issuer offering group health insurance coverage in connection with a group health plan, may not establish rules for eligibility (including continued eligibility) of any individual to enroll under the terms of the plan based on any of the following health status-related factors in relation to the individual or a dependent of the individual:
-
->             “(A) Health status.
-
->             “(B) Medical condition (including both physical and mental illnesses).
-
->             “(C) Claims experience.
-
->             “(D) Receipt of health care.
-
->             “(E) Medical history.
-
->             “(F) Genetic information.
-
->             “(G) Evidence of insurability (including conditions arising out of acts of domestic violence).
-
->             “(H) Disability.
-
->         “(2)  __No application to benefits or exclusions__  __.—__ 
-
->         To the extent consistent with [section 300gg of this title][/us/usc/t42/s300gg], paragraph (1) shall not be construed—
-
->             “(A) to require a group health plan, or group health insurance coverage, to provide particular benefits other than those provided under the terms of such plan or coverage, or
-
->             “(B) to prevent such a plan or coverage from establishing limitations or restrictions on the amount, level, extent, or nature of the benefits or coverage for similarly situated individuals enrolled in the plan or coverage.
-
->         “(3)  __Construction__  __.—__ 
-
->         For purposes of paragraph (1), rules for eligibility to enroll under a plan include rules defining any applicable waiting periods for such enrollment.
-
->     “(b) __In Premium Contributions.—__ 
-
->         “(1)  __In general__  __.—__ 
-
->         A group health plan, and a health insurance issuer offering health insurance coverage in connection with a group health plan, may not require any individual (as a condition of enrollment or continued enrollment under the plan) to pay a premium or contribution which is greater than such premium or contribution for a similarly situated individual enrolled in the plan on the basis of any health status-related factor in relation to the individual or to an individual enrolled under the plan as a dependent of the individual.
-
->         “(2)  __Construction__  __.—__ 
-
->         Nothing in paragraph (1) shall be construed—
-
->             “(A) to restrict the amount that an employer may be charged for coverage under a group health plan except as provided in paragraph (3); or
-
->             “(B) to prevent a group health plan, and a health insurance issuer offering group health insurance coverage, from establishing premium discounts or rebates or modifying otherwise applicable copayments or deductibles in return for adherence to programs of health promotion and disease prevention.
-
->         “(3) __No group-based discrimination on basis of genetic information.—__ 
-
->             “(A)  __In general__  __.—__ 
-
->             For purposes of this section, a group health plan, and health insurance issuer offering group health insurance coverage in connection with a group health plan, may not adjust premium or contribution amounts for the group covered under such plan on the basis of genetic information.
-
->             “(B)  __Rule of construction__  __.—__ 
-
->             Nothing in subparagraph (A) or in paragraphs (1) and (2) of subsection (d) shall be construed to limit the ability of a health insurance issuer offering health insurance coverage in connection with a group health plan to increase the premium for an employer based on the manifestation of a disease or disorder of an individual who is enrolled in the plan. In such case, the manifestation of a disease or disorder in one individual cannot also be used as genetic information about other group members and to further increase the premium for the employer.
-
->     “(c) __Genetic Testing.—__ 
-
->         “(1)  __Limitation on requesting or requiring genetic testing__  __.—__ 
-
->         A group health plan, and a health insurance issuer offering health insurance coverage in connection with a group health plan, shall not request or require an individual or a family member of such individual to undergo a genetic test.
-
->         “(2)  __Rule of construction__  __.—__ 
-
->         Paragraph (1) shall not be construed to limit the authority of a health care professional who is providing health care services to an individual to request that such individual undergo a genetic test.
-
->         “(3) __Rule of construction regarding payment.—__ 
-
->             “(A)  __In general__  __.—__ 
-
->             Nothing in paragraph (1) shall be construed to preclude a group health plan, or a health insurance issuer offering health insurance coverage in connection with a group health plan, from obtaining and using the results of a genetic test in making a determination regarding payment (as such term is defined for the purposes of applying the regulations promulgated by the Secretary under part C of title XI of the Social Security Act and section 264 of the Health Insurance Portability and Accountability Act of 1996, as may be revised from time to time) consistent with subsection (a).
-
->             “(B)  __Limitation__  __.—__ 
-
->             For purposes of subparagraph (A), a group health plan, or a health insurance issuer offering health insurance coverage in connection with a group health plan, may request only the minimum amount of information necessary to accomplish the intended purpose.
-
->         “(4)  __Research exception__  __.—__ 
-
->         Notwithstanding paragraph (1), a group health plan, or a health insurance issuer offering health insurance coverage in connection with a group health plan, may request, but not require, that a participant or beneficiary undergo a genetic test if each of the following conditions is met:
-
->             “(A) The request is made pursuant to research that complies with part 46 of title 45, Code of Federal Regulations, or equivalent Federal regulations, and any applicable State or local law or regulations for the protection of human subjects in research.
-
->             “(B)
-
->              The plan or issuer clearly indicates to each participant or beneficiary, or in the case of a minor child, to the legal guardian of such beneficiary, to whom the request is made that—
-
->                 “(i) compliance with the request is voluntary; and
-
->                 “(ii) non-compliance will have no effect on enrollment status or premium or contribution amounts.
-
->             “(C) No genetic information collected or acquired under this paragraph shall be used for underwriting purposes.
-
->             “(D) The plan or issuer notifies the Secretary in writing that the plan or issuer is conducting activities pursuant to the exception provided for under this paragraph, including a description of the activities conducted.
-
->             “(E) The plan or issuer complies with such other conditions as the Secretary may by regulation require for activities conducted under this paragraph.
-
->     “(d) __Prohibition on Collection of Genetic Information.—__ 
-
->         “(1)  __In general__  __.—__ 
-
->         A group health plan, and a health insurance issuer offering health insurance coverage in connection with a group health plan, shall not request, require, or purchase genetic information for underwriting purposes (as defined in [section 300gg–91 of this title][/us/usc/t42/s300gg–91]).
-
->         “(2)  __Prohibition on collection of genetic information prior to enrollment__  __.—__ 
-
->         A group health plan, and a health insurance issuer offering health insurance coverage in connection with a group health plan, shall not request, require, or purchase genetic information with respect to any individual prior to such individual’s enrollment under the plan or coverage in connection with such enrollment.
-
->         “(3)  __Incidental collection__  __.—__ 
-
->         If a group health plan, or a health insurance issuer offering health insurance coverage in connection with a group health plan, obtains genetic information incidental to the requesting, requiring, or purchasing of other information concerning any individual, such request, requirement, or purchase shall not be considered a violation of paragraph (2) if such request, requirement, or purchase is not in violation of paragraph (1).
-
->     “(e)  __Application to All Plans__  __.—__ 
-
->     The provisions of subsections (a)(1)(F), (b)(3), (c), and (d) and subsection (b)(1) and [section 300gg of this title][/us/usc/t42/s300gg] with respect to genetic information, shall apply to group health plans and health insurance issuers without regard to [section 300gg–21(a) of this title][/us/usc/t42/s300gg–21/a].
-
->     “(f)  __Genetic Information of a Fetus or Embryo__  __.—__ 
-
->     Any reference in this part to genetic information concerning an individual or family member of an individual shall—
-
->         “(1) with respect to such an individual or family member of an individual who is a pregnant woman, include genetic information of any fetus carried by such pregnant woman; and
-
->         “(2) with respect to an individual or family member utilizing an assisted reproductive technology, include genetic information of any embryo legally held by the individual or family member.”
+    A prior section 300gg–1, [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXVII, § 2702, as added [Pub. L. 104–191, title I, § 102(a)][/us/pl/104/191/s102/a], Aug. 21, 1996, [110 Stat. 1961][/us/stat/110/1961]; [Pub. L. 110–233, title I, § 102(a)(1)][/us/pl/110/233/s102/a/1]–(3), May 21, 2008, [122 Stat. 888][/us/stat/122/888], 890, which related to prohibition on discrimination against individual participants and beneficiaries based on health status, was amended by [Pub. L. 111–148, title I, § 1201(3)][/us/pl/111/148/s1201/3], Mar. 23, 2010, [124 Stat. 154][/us/stat/124/154], effective for plan years beginning on or after Jan. 1, 2014, and was transferred to subsecs. (b) to (f) of [section 300gg–4 of this title][/us/usc/t42/s300gg–4].
 
     Another prior section 2702 of act July 1, 1944, was successively renumbered by subsequent acts and transferred, see [section 238a of this title][/us/usc/t42/s238a].
 
@@ -234,7 +106,6 @@ A prior section 300gg–1, [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373]
 [/us/stat/110/1962]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1962
 [/us/pl/111/148/s1001/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs1001%2F3
 [/us/stat/124/130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F130
-[/us/usc/t42/s300gg–11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300gg%E2%80%9311
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
 [/us/pl/104/191/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2Fs102%2Fa
 [/us/stat/110/1961]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1961
@@ -243,11 +114,6 @@ A prior section 300gg–1, [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373]
 [/us/pl/111/148/s1201/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs1201%2F3
 [/us/stat/124/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F154
 [/us/usc/t42/s300gg–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300gg%E2%80%934
-[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
-[/us/usc/t42/s300gg]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300gg
-[/us/usc/t42/s300gg–91]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300gg%E2%80%9391
-[/us/usc/t42/s300gg]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300gg
-[/us/usc/t42/s300gg–21/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300gg%E2%80%9321%2Fa
 [/us/usc/t42/s238a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs238a
 [/us/pl/111/148/s1563/c/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs1563%2Fc%2F8
 [/us/pl/111/148/s10107/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10107%2Fb%2F1

@@ -19,11 +19,13 @@
 
     Section 2031, [act Aug. 1, 1946, ch. 724, § 21][/us/act/1946-08-01/ch724/s21], as added [Aug. 30, 1954, ch. 1073, § 1][/us/act/1954-08-30/ch1073/s1], [68 Stat. 924][/us/stat/68/924]; amended [Aug. 9, 1955, ch. 697, § 3][/us/act/1955-08-09/ch697/s3], [69 Stat. 630][/us/stat/69/630], provided for establishment of Atomic Energy Commission, its composition, Chairman, acting Chairman, quorum, official spokesman, and seal.
 
-    Provisions similar to section 2031 were contained in [section 1802(a)(1) of this title][/us/usc/t42/s1802/a/1] prior to the general amendment and renumbering of act Aug. 1, 1946 by [act Aug. 30, 1954, ch. 1073][/us/act/1954-08-30/ch1073], [68 Stat. 921][/us/stat/68/921].
+    Provisions similar to section 2031 were contained in [section 1802(a)(1) of this title][/us/usc/t42/s1802/a/1] prior to the general amendment and renumbering of act Aug. 1, 1946, by [act Aug. 30, 1954, ch. 1073, § 1][/us/act/1954-08-30/ch1073/s1], [68 Stat. 919][/us/stat/68/919].
+
+    Another prior section 21 of [act Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], [60 Stat. 775][/us/stat/60/775], which provided that act Aug. 1, 1946, could be cited as the Atomic Energy Act of 1946, was set out as a note under [section 1801 of this title][/us/usc/t42/s1801] prior to the general amendment and renumbering of act Aug. 1, 1946, by [act Aug. 30, 1954, ch. 1073, § 1][/us/act/1954-08-30/ch1073/s1], [68 Stat. 919][/us/stat/68/919].
 
     Section 2032, [act Aug. 1, 1946, ch. 724, § 22][/us/act/1946-08-01/ch724/s22], as added [Aug. 30, 1954, ch. 1073, § 1][/us/act/1954-08-30/ch1073/s1], [68 Stat. 924][/us/stat/68/924]; amended Sept. 4, 1957, [Pub. L. 85–287, § 1][/us/pl/85/287/s1], [71 Stat. 612][/us/stat/71/612]; Aug. 14, 1964, [Pub. L. 88–426, title III, § 305(10)(A)][/us/pl/88/426/s305/10/A], [78 Stat. 423][/us/stat/78/423], provided for appointment of members of Commission, terms of office, and prohibition from engaging in any other vocation, business, or employment, by the members.
 
-    Provisions similar to section 2032 were contained in [section 1802(a)(2) of this title][/us/usc/t42/s1802/a/2] prior to the general amendment and renumbering of act Aug. 1, 1946 by [act Aug. 30, 1954, ch. 1073][/us/act/1954-08-30/ch1073], [68 Stat. 921][/us/stat/68/921].
+    Provisions similar to section 2032 were contained in [section 1802(a)(2) of this title][/us/usc/t42/s1802/a/2] prior to the general amendment and renumbering of act Aug. 1, 1946, by [act Aug. 30, 1954, ch. 1073, § 1][/us/act/1954-08-30/ch1073/s1], [68 Stat. 919][/us/stat/68/919].
 
  __Effective Date of Repeal__ 
 
@@ -92,8 +94,13 @@ By virtue of the authority vested in me by the Constitution and the statutes, in
 [/us/act/1955-08-09/ch697/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-09%2Fch697%2Fs3
 [/us/stat/69/630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F630
 [/us/usc/t42/s1802/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1802%2Fa%2F1
-[/us/act/1954-08-30/ch1073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-30%2Fch1073
-[/us/stat/68/921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F921
+[/us/act/1954-08-30/ch1073/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-30%2Fch1073%2Fs1
+[/us/stat/68/919]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F919
+[/us/act/1946-08-01/ch724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-01%2Fch724
+[/us/stat/60/775]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F775
+[/us/usc/t42/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1801
+[/us/act/1954-08-30/ch1073/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-30%2Fch1073%2Fs1
+[/us/stat/68/919]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F919
 [/us/act/1946-08-01/ch724/s22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-01%2Fch724%2Fs22
 [/us/act/1954-08-30/ch1073/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-30%2Fch1073%2Fs1
 [/us/stat/68/924]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F924
@@ -102,8 +109,8 @@ By virtue of the authority vested in me by the Constitution and the statutes, in
 [/us/pl/88/426/s305/10/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F426%2Fs305%2F10%2FA
 [/us/stat/78/423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F423
 [/us/usc/t42/s1802/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1802%2Fa%2F2
-[/us/act/1954-08-30/ch1073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-30%2Fch1073
-[/us/stat/68/921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F921
+[/us/act/1954-08-30/ch1073/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-30%2Fch1073%2Fs1
+[/us/stat/68/919]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F919
 [/us/pl/93/438/s312/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F438%2Fs312%2Fa
 [/us/usc/t42/s5801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5801
 [/us/usc/t42/s2313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2313

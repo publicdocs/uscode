@@ -37,6 +37,10 @@
 
 ([Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], title I, § 234B, as added [Pub. L. 106–65, div. C, title XXXI, § 3147(a)][/us/pl/106/65/s3147/a], Oct. 5, 1999, [113 Stat. 937][/us/stat/113/937].)
 
+ __References in Text__ 
+
+    This chapter, referred to in subsec. (a), was in the original “this Act”, meaning [act Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], as added by [act Aug. 30, 1954, ch. 1073, § 1][/us/act/1954-08-30/ch1073/s1], [68 Stat. 919][/us/stat/68/919], known as the Atomic Energy Act of 1954, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2011 of this title][/us/usc/t42/s2011] and Tables.
+
  __Effective Date__ 
 
 [Pub. L. 106–65, div. C, title XXXI, § 3147(b)][/us/pl/106/65/s3147/b], Oct. 5, 1999, [113 Stat. 938][/us/stat/113/938], provided that: 
@@ -55,6 +59,10 @@
 [/us/act/1946-08-01/ch724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-01%2Fch724
 [/us/pl/106/65/s3147/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs3147%2Fa
 [/us/stat/113/937]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F937
+[/us/act/1946-08-01/ch724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-01%2Fch724
+[/us/act/1954-08-30/ch1073/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-30%2Fch1073%2Fs1
+[/us/stat/68/919]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F919
+[/us/usc/t42/s2011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2011
 [/us/pl/106/65/s3147/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs3147%2Fb
 [/us/stat/113/938]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F938
 [/us/usc/t42/s2282b/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2282b%2Fa

@@ -53,7 +53,7 @@
 
  __Codification__ 
 
-    Section was enacted as part of the the Biggert-Waters Flood Insurance Reform Act of 2012, and also as part of the Moving Ahead for Progress in the 21st Century Act, also known as the MAP–21, and not as part of National Flood Insurance Act of 1968 which comprises this chapter.
+    Section was enacted as part of the Biggert-Waters Flood Insurance Reform Act of 2012, and also as part of the Moving Ahead for Progress in the 21st Century Act, also known as the MAP–21, and not as part of National Flood Insurance Act of 1968 which comprises this chapter.
 
 ----------
 

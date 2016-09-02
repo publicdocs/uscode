@@ -183,11 +183,11 @@
 
  __Effective Date of 2013 Amendment__ 
 
-[Pub. L. 112–239, div. A, title X, § 1086(d)][/us/pl/112/239/s1086/d], Jan. 2, 2013, [126 Stat. 1969][/us/stat/126/1969], provided that:
+[Pub. L. 112–239, div. A, title X, § 1086(d)][/us/pl/112/239/s1086/d], Jan. 2, 2013, [126 Stat. 1969][/us/stat/126/1969], as amended by [Pub. L. 113–66, div. A, title X, § 1091(b)(7)][/us/pl/113/66/s1091/b/7], Dec. 26, 2013, [127 Stat. 876][/us/stat/127/876], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
->     Except as provided in paragraph (1) \[probably means paragraph (2)\], the amendments made by this section \[amending this section, sections 3796 to 3796c–2, 3796d–1 to 3796d–3, 3796d–5, and 3796d–6 of this title and sections 101 and 402 of Title 26, Internal Revenue Code\] shall—
+>     Except as provided in paragraph (2), the amendments made by this section \[amending this section, sections 3796 to 3796c–2, 3796d–1 to 3796d–3, 3796d–5, and 3796d–6 of this title and sections 101 and 402 of Title 26, Internal Revenue Code\] shall—
 
 >         “(A) take effect on the date of enactment of this Act \[Jan. 2, 2013\]; and
 
@@ -202,6 +202,8 @@
 >         “(B)  __Heart attacks, strokes, and vascular ruptures__  __.—__ 
 
 >         Section 1201(k) of title I of the Omnibus Crime Control and Safe Streets Act of 1968 \[[42 U.S.C. 3796(k)][/us/usc/t42/s3796/k]\], as amended by this section, shall apply to heart attacks, strokes, and vascular ruptures sustained on or after December 15, 2003.”
+
+    \[[Pub. L. 113–66, div. A, title X, § 1091(b)][/us/pl/113/66/s1091/b], Dec. 26, 2013, [127 Stat. 876][/us/stat/127/876], provided in part that the amendment made by section 1091(b)(7) is effective as of Jan. 2, 2013, and as if included in [Pub. L. 112–239][/us/pl/112/239] as enacted.\]
 
  __Effective Date of 2006 Amendment__ 
 
@@ -304,8 +306,13 @@
 [/us/pl/98/473/s609C/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs609C%2Fa
 [/us/pl/112/239/s1086/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1086%2Fd
 [/us/stat/126/1969]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1969
+[/us/pl/113/66/s1091/b/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1091%2Fb%2F7
+[/us/stat/127/876]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F876
 [/us/usc/t42/s3796b/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3796b%2F7
 [/us/usc/t42/s3796/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3796%2Fk
+[/us/pl/113/66/s1091/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1091%2Fb
+[/us/stat/127/876]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F876
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/pl/109/162/s1111/c/2/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs1111%2Fc%2F2%2FF
 [/us/pl/109/162/s1111/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs1111%2Fd
 [/us/usc/t42/s3750]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3750

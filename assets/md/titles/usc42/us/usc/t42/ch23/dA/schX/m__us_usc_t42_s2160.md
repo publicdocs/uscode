@@ -85,6 +85,10 @@
 
 ([Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], title I, § 131, as added [Pub. L. 95–242, title III, § 303(a)][/us/pl/95/242/s303/a], Mar. 10, 1978, [92 Stat. 127][/us/stat/92/127]; renumbered title I, [Pub. L. 102–486, title IX, § 902(a)(8)][/us/pl/102/486/s902/a/8], Oct. 24, 1992, [106 Stat. 2944][/us/stat/106/2944]; amended [Pub. L. 103–437, § 15(f)(6)][/us/pl/103/437/s15/f/6], Nov. 2, 1994, [108 Stat. 4592][/us/stat/108/4592]; [Pub. L. 105–277, div. G, title XII, § 1225(d)(6)][/us/pl/105/277/s1225/d/6], (7), Oct. 21, 1998, [112 Stat. 2681–774][/us/stat/112/2681-774].)
 
+ __References in Text__ 
+
+    This chapter, referred to in subsecs. (a)(2)(C), (3), (4) and (f)(1)(C), was in the original “this Act”, meaning [act Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], as added by [act Aug. 30, 1954, ch. 1073, § 1][/us/act/1954-08-30/ch1073/s1], [68 Stat. 919][/us/stat/68/919], known as the Atomic Energy Act of 1954, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2011 of this title][/us/usc/t42/s2011] and Tables.
+
  __Amendments__ 
 
     1998—Subsec. (a)(1). [Pub. L. 105–277, § 1225(d)(6)(A)][/us/pl/105/277/s1225/d/6/A], in first sentence, struck out “the Director,” after “shall consult with” and, in third sentence, substituted “the Secretary of State is required” for “the Director declares that he intends” and “the requirement to prepare a Nuclear Proliferation Assessment Statement” for “the Director’s declaration”.
@@ -188,6 +192,10 @@
 [/us/stat/108/4592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4592
 [/us/pl/105/277/s1225/d/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs1225%2Fd%2F6
 [/us/stat/112/2681-774]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-774
+[/us/act/1946-08-01/ch724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-01%2Fch724
+[/us/act/1954-08-30/ch1073/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-30%2Fch1073%2Fs1
+[/us/stat/68/919]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F919
+[/us/usc/t42/s2011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2011
 [/us/pl/105/277/s1225/d/6/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs1225%2Fd%2F6%2FA
 [/us/pl/105/277/s1225/d/6/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs1225%2Fd%2F6%2FB
 [/us/pl/105/277/s1225/d/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs1225%2Fd%2F7

@@ -31,6 +31,10 @@
 
 ([Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], title I, § 229, as added [Aug. 6, 1956, ch. 1015, § 6][/us/act/1956-08-06/ch1015/s6], [70 Stat. 1070][/us/stat/70/1070]; renumbered title I, [Pub. L. 102–486, title IX, § 902(a)(8)][/us/pl/102/486/s902/a/8], Oct. 24, 1992, [106 Stat. 2944][/us/stat/106/2944]; amended [Pub. L. 109–58, title VI, § 654][/us/pl/109/58/s654], Aug. 8, 2005, [119 Stat. 812][/us/stat/119/812].)
 
+ __References in Text__ 
+
+    This chapter, referred to in subsec. (a)(1), was in the original “this Act”, meaning [act Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], as added by [act Aug. 30, 1954, ch. 1073, § 1][/us/act/1954-08-30/ch1073/s1], [68 Stat. 919][/us/stat/68/919], known as the Atomic Energy Act of 1954, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2011 of this title][/us/usc/t42/s2011] and Tables.
+
  __Amendments__ 
 
     2005—[Pub. L. 109–58, § 654(1)][/us/pl/109/58/s654/1], (2), substituted “on” for “upon” in section catchline and realigned margins.
@@ -51,6 +55,10 @@
 [/us/stat/106/2944]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2944
 [/us/pl/109/58/s654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs654
 [/us/stat/119/812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F812
+[/us/act/1946-08-01/ch724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-01%2Fch724
+[/us/act/1954-08-30/ch1073/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-30%2Fch1073%2Fs1
+[/us/stat/68/919]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F919
+[/us/usc/t42/s2011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2011
 [/us/pl/109/58/s654/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs654%2F1
 [/us/pl/109/58/s654/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs654%2F3
 

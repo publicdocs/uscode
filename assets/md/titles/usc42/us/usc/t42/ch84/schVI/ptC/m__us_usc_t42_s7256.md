@@ -103,11 +103,13 @@
 
         (9) The authority of the Secretary under this subsection may be delegated only to an officer of the Department who is appointed by the President by and with the advice and consent of the Senate.
 
-        (10) Notwithstanding any other provision of law, the authority to enter into transactions under paragraph (1) shall terminate on September 30, 2015.
+        (10) Notwithstanding any other provision of law, the authority to enter into transactions under paragraph (1) shall terminate on September 30, 2020.
 
-([Pub. L. 95–91, title VI, § 646][/us/pl/95/91/s646], Aug. 4, 1977, [91 Stat. 599][/us/stat/91/599]; [Pub. L. 103–160, div. C, title XXXI, § 3154][/us/pl/103/160/s3154], Nov. 30, 1993, [107 Stat. 1952][/us/stat/107/1952]; [Pub. L. 109–58, title X, § 1007][/us/pl/109/58/s1007], Aug. 8, 2005, [119 Stat. 932][/us/stat/119/932]; [Pub. L. 111–383, div. C, title XXXI, § 3118][/us/pl/111/383/s3118], Jan. 7, 2011, [124 Stat. 4514][/us/stat/124/4514].)
+([Pub. L. 95–91, title VI, § 646][/us/pl/95/91/s646], Aug. 4, 1977, [91 Stat. 599][/us/stat/91/599]; [Pub. L. 103–160, div. C, title XXXI, § 3154][/us/pl/103/160/s3154], Nov. 30, 1993, [107 Stat. 1952][/us/stat/107/1952]; [Pub. L. 109–58, title X, § 1007][/us/pl/109/58/s1007], Aug. 8, 2005, [119 Stat. 932][/us/stat/119/932]; [Pub. L. 111–383, div. C, title XXXI, § 3118][/us/pl/111/383/s3118], Jan. 7, 2011, [124 Stat. 4514][/us/stat/124/4514]; [Pub. L. 113–66, div. C, title XXXI, § 3119][/us/pl/113/66/s3119], Dec. 26, 2013, [127 Stat. 1059][/us/stat/127/1059].)
 
  __Amendments__ 
+
+    2013—Subsec. (g)(10). [Pub. L. 113–66][/us/pl/113/66] substituted “September 30, 2020” for “September 30, 2015”.
 
     2011—Subsec. (g)(10). [Pub. L. 111–383][/us/pl/111/383] substituted “September 30, 2015” for “September 30, 2010”.
 
@@ -208,6 +210,9 @@
 [/us/stat/119/932]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F932
 [/us/pl/111/383/s3118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs3118
 [/us/stat/124/4514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4514
+[/us/pl/113/66/s3119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs3119
+[/us/stat/127/1059]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1059
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
 [/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
 [/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
 [/us/pl/103/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160

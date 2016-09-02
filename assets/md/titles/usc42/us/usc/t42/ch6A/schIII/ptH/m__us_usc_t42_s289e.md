@@ -59,7 +59,7 @@
 
  __Construction of Biomedical Facilities for Development and Breeding of Specialized Strains of Mice__ 
 
-    Sections 1 to 7 of [Pub. L. 101–190][/us/pl/101/190], as amended by [Pub. L. 101–374, § 4(a)][/us/pl/101/374/s4/a], (c)(1), Aug. 15, 1990, [104 Stat. 458][/us/stat/104/458], 459, authorized a reservation of funds for making a grant to construct facilities for development and breeding of specialized strains of mice for use in biomedical research, provided for a competitive grant award process, required applicant for the grant to agree to a twenty-year transferable obligation, restricted grant applicant to public or nonprofit private status, with assurances of sufficient financial resources, set forth other grant requirements, and specified consequences of failure to comply with agreements and violation of the twenty-year obligation.
+    [Pub. L. 101–190][/us/pl/101/190], §§ 1–7, Nov. 29, 1989, [103 Stat. 1691–1695][/us/stat/103/1691-1695], as amended by [Pub. L. 101–374, § 4(a)][/us/pl/101/374/s4/a], (c)(1), Aug. 15, 1990, [104 Stat. 458][/us/stat/104/458], 459, authorized a reservation of funds for making a grant to construct facilities for development and breeding of specialized strains of mice for use in biomedical research, provided for a competitive grant award process, required applicant for the grant to agree to a twenty-year transferable obligation, restricted grant applicant to public or nonprofit private status, with assurances of sufficient financial resources, set forth other grant requirements, and specified consequences of failure to comply with agreements and violation of the twenty-year obligation.
 
 ----------
 
@@ -83,6 +83,7 @@
 [/us/pl/103/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43
 [/us/pl/101/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F190
 [/us/pl/101/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F190
+[/us/stat/103/1691-1695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1691-1695
 [/us/pl/101/374/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F374%2Fs4%2Fa
 [/us/stat/104/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F458
 

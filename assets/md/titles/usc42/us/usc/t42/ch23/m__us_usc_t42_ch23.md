@@ -2249,6 +2249,10 @@ SUBCHAPTER VIII—UNITED STATES ENRICHMENT CORPORATION PRIVATIZATION  </td>
 
 </table>
 
+ __Codification__ 
+
+    The Atomic Energy Act of 1954, which is classified principally to this chapter, is [act Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724]. It was originally enacted as the Atomic Energy Act of 1946, [act Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], [60 Stat. 755][/us/stat/60/755], which consisted of sections 1 to 21 and was classified generally to chapter 14 (§ 1801 et seq.) of this title. The Atomic Energy Act of 1946 was renamed the Atomic Energy Act of 1954 and amended generally by [act Aug. 30, 1954, ch. 1073, § 1][/us/act/1954-08-30/ch1073/s1], [68 Stat. 919][/us/stat/68/919], and was subsequently transferred to this chapter. Sections that were enacted as part of the 1954 general amendment are shown herein as having been added to act Aug. 1, 1946, and not as amending it, due to the extensive revision and restatement of the 1946 Act’s provisions by the 1954 Act. Sections added to the Act after the 1954 general amendment are shown as being added directly to act Aug. 1, 1946, without reference in their source credits to act Aug. 30, 1954.
+
 ----------
 
 [Previous](./../../../..//us/usc/t42/ch22/schII/m__us_usc_t42_s2005f.md) | [Next](./../../../..//us/usc/t42/ch23/dA/m__us_usc_t42_ch23_dA.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch23)
@@ -2256,5 +2260,10 @@ SUBCHAPTER VIII—UNITED STATES ENRICHMENT CORPORATION PRIVATIZATION  </td>
 ----------
 ----------
 
+[/us/act/1946-08-01/ch724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-01%2Fch724
+[/us/act/1946-08-01/ch724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-01%2Fch724
+[/us/stat/60/755]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F755
+[/us/act/1954-08-30/ch1073/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-30%2Fch1073%2Fs1
+[/us/stat/68/919]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F919
 
 

@@ -47,11 +47,15 @@
 
         (4) the term “medical isotope” includes molybdenum-99, iodine-131, xenon-133, and other radioactive materials used to produce a radiopharmaceutical for diagnostic or therapeutic procedures or for research and development.
 
-([Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], title I, § 112, as added [Pub. L. 112–239, div. C, title XXXI, § 3176(a)][/us/pl/112/239/s3176/a], Jan. 2, 2013, [126 Stat. 2215][/us/stat/126/2215].)
+([Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], title I, § 112, as added [Pub. L. 112–239, div. C, title XXXI, § 3176(a)][/us/pl/112/239/s3176/a], Jan. 2, 2013, [126 Stat. 2215][/us/stat/126/2215]; [Pub. L. 113–66, div. C, title XXXI, § 3144][/us/pl/113/66/s3144], Dec. 26, 2013, [127 Stat. 1071][/us/stat/127/1071].)
 
- __Codification__ 
+ __References in Text__ 
 
-    [Section 3176(a) of Pub. L. 112–239][/us/pl/112/239/s3176/a], which directed that this section be added at end of chapter 10 of the Atomic Energy Act of 1954 but did not specify a section number, was executed by adding this section as section 112 of title I of [act Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], to reflect the probable intent of Congress.
+    This chapter, referred to in subsec. (a), was in the original “this Act”, meaning [act Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], as added by [act Aug. 30, 1954, ch. 1073, § 1][/us/act/1954-08-30/ch1073/s1], [68 Stat. 919][/us/stat/68/919], known as the Atomic Energy Act of 1954, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2011 of this title][/us/usc/t42/s2011] and Tables.
+
+ __Amendments__ 
+
+    2013—[Pub. L. 113–66][/us/pl/113/66] inserted enumerator and section catchline.
 
 ----------
 
@@ -63,7 +67,12 @@
 [/us/act/1946-08-01/ch724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-01%2Fch724
 [/us/pl/112/239/s3176/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3176%2Fa
 [/us/stat/126/2215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2215
-[/us/pl/112/239/s3176/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3176%2Fa
+[/us/pl/113/66/s3144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs3144
+[/us/stat/127/1071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1071
 [/us/act/1946-08-01/ch724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-01%2Fch724
+[/us/act/1954-08-30/ch1073/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-30%2Fch1073%2Fs1
+[/us/stat/68/919]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F919
+[/us/usc/t42/s2011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2011
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
 
 

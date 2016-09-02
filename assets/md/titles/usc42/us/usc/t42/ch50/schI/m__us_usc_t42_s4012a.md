@@ -87,7 +87,7 @@
 
                 (i) licensed, admitted, or otherwise approved to engage in the business of insurance in the State or jurisdiction in which the insured building is located, by the insurance regulator of that State or jurisdiction; or
 
-                (ii) in the case of a policy of difference in conditions, multiple peril, all risk, or other blanket coverage insuring nonresidential commercial property, is  <sup>\[1\]</sup>  <sup><sup> 1 So in original. The word “is”probably should not appear. </sup></sup>  recognized, or not disapproved, as a surplus lines insurer by the insurance regulator of the State or jurisdiction where the property to be insured is located;
+                (ii) in the case of a policy of difference in conditions, multiple peril, all risk, or other blanket coverage insuring nonresidential commercial property, is  <sup>\[1\]</sup>  <sup><sup> 1 So in original. The word “is” probably should not appear. </sup></sup>  recognized, or not disapproved, as a surplus lines insurer by the insurance regulator of the State or jurisdiction where the property to be insured is located;
 
             (B) provides flood insurance coverage which is at least as broad as the coverage provided under a standard flood insurance policy under the national flood insurance program, including when considering deductibles, exclusions, and conditions offered by the insurer;
 

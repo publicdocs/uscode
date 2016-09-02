@@ -13,11 +13,11 @@
 
 [Previous](./../../../../..//us/usc/t42/ch7/schXIX/m__us_usc_t42_s1396e.md) | [Next](./../../../../..//us/usc/t42/ch7/schXIX/m__us_usc_t42_s1396f.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396e%E2%80%931)
 
-## § 1396e–1. Premium assistance option for children
+## § 1396e–1. Premium assistance
 
     (a) __In general__ 
 
-        A State may elect to offer a premium assistance subsidy (as defined in subsection (c)) for qualified employer-sponsored coverage (as defined in subsection (b)) to all individuals under age 19 who are entitled to medical assistance under this subchapter (and to the parent of such an individual) who have access to such coverage if the State meets the requirements of this section and the offering of such a subsidy is cost-effective, as defined for purposes of [section 1397ee(c)(3)(A) of this title][/us/usc/t42/s1397ee/c/3/A].
+        A State may elect to offer a premium assistance subsidy (as defined in subsection (c)) for qualified employer-sponsored coverage (as defined in subsection (b)) to all individuals who are entitled to medical assistance under this subchapter (and, in the case of an individual under age 19, to the parent of such an individual) who have access to such coverage if the State meets the requirements of this section and the offering of such a subsidy is cost-effective, as defined for purposes of [section 1397ee(c)(3)(A) of this title][/us/usc/t42/s1397ee/c/3/A].
 
     (b) __Qualified employer-sponsored coverage__ 
 
@@ -45,7 +45,7 @@
 
     (c) __Premium assistance subsidy__ 
 
-        In this section, the term “premium assistance subsidy” means the amount of the employee contribution for enrollment in the qualified employer-sponsored coverage by the individual under age 19 or by the individual’s family. Premium assistance subsidies under this section shall be considered, for purposes of [section 1396b(a) of this title][/us/usc/t42/s1396b/a], to be a payment for medical assistance.
+        In this section, the term “premium assistance subsidy” means the amount of the employee contribution for enrollment in the qualified employer-sponsored coverage by the individual or by the individual’s family. Premium assistance subsidies under this section shall be considered, for purposes of [section 1396b(a) of this title][/us/usc/t42/s1396b/a], to be a payment for medical assistance.
 
     (d) __Voluntary participation__ 
 
@@ -55,47 +55,17 @@
 
         (2) __Beneficiaries__ 
 
-            No subsidy shall be provided to an individual under age 19 under this section unless the individual (or the individual’s parent) voluntarily elects to receive such a subsidy. A State may not require such an election as a condition of receipt of medical assistance. State  <sup>\[3\]</sup>  <sup><sup> 3 So in original. Probably should be preceded by “A”. </sup></sup>  may not require, as a condition of an individual under age 19 (or the individual’s parent) being or remaining eligible for medical assistance under this subchapter, apply for enrollment in qualified employer-sponsored coverage under this section.
+            No subsidy shall be provided to an individual under this section unless the individual (or the individual’s parent) voluntarily elects to receive such a subsidy. A State may not require such an election as a condition of receipt of medical assistance. A State may not require, as a condition of an individual (or the individual’s parent) being or remaining eligible for medical assistance under this subchapter, that the individual (or the individual’s parent) apply for enrollment in qualified employer-sponsored coverage under this section.
 
         (3) __Opt-out permitted for any month__ 
 
-            A State shall establish a process for permitting the parent of an individual under age 19 receiving a premium assistance subsidy to disenroll the individual from the qualified employer-sponsored coverage.
+            A State shall establish a process for permitting an individual (or the parent of an individual) receiving a premium assistance subsidy to disenroll the individual from the qualified employer-sponsored coverage.
 
     (e) __Requirement to pay premiums and cost-sharing and provide supplemental coverage__ 
 
-        In the case of the participation of an individual under age 19 (or the individual’s parent) in a premium assistance subsidy under this section for qualified employer-sponsored coverage, the State shall provide for payment of all enrollee premiums for enrollment in such coverage and all deductibles, coinsurance, and other cost-sharing obligations for items and services otherwise covered under the State plan under this subchapter (exceeding the amount otherwise permitted under section 1396o of this title or, if applicable, section 1396o–1 of this title). The fact that an individual under age 19 (or a parent) elects to enroll in qualified employer-sponsored coverage under this section shall not change the individual’s (or parent’s) eligibility for medical assistance under the State plan, except insofar as [section 1396a(a)(25) of this title][/us/usc/t42/s1396a/a/25] provides that payments for such assistance shall first be made under such coverage.
+        In the case of the participation of an individual (or the individual’s parent) in a premium assistance subsidy under this section for qualified employer-sponsored coverage, the State shall provide for payment of all enrollee premiums for enrollment in such coverage and all deductibles, coinsurance, and other cost-sharing obligations for items and services otherwise covered under the State plan under this subchapter (exceeding the amount otherwise permitted under section 1396o of this title or, if applicable, section 1396o–1 of this title). The fact that an individual (or a parent) elects to enroll in qualified employer-sponsored coverage under this section shall not change the individual’s (or parent’s) eligibility for medical assistance under the State plan, except insofar as [section 1396a(a)(25) of this title][/us/usc/t42/s1396a/a/25] provides that payments for such assistance shall first be made under such coverage.
 
 ([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XIX, § 1906A, as added [Pub. L. 111–3, title III, § 301(b)][/us/pl/111/3/s301/b], Feb. 4, 2009, [123 Stat. 61][/us/stat/123/61]; amended [Pub. L. 111–148, title II, § 2003(a)][/us/pl/111/148/s2003/a], (b), title X, § 10203(b)(2), Mar. 23, 2010, [124 Stat. 282][/us/stat/124/282], 283, 927.)
-
- __Amendment of Section__ 
-
-    [Pub. L. 111–148, title II, § 2003][/us/pl/111/148/s2003], title X, § 10203(b)(2)(B), Mar. 23, 2010, [124 Stat. 282][/us/stat/124/282], 927, provided that, effective Jan. 1, 2014, this section is amended:
-
-    (1) in the section catchline, by striking “option for children”;
-
-    (2) in subsection (a)—
-
-    (A) \[Omitted\]
-
-    (B) by striking “under age 19”; and
-
-    (C) by inserting “, in the case of an individual under age 19,” after “(and”;
-
-    (3) in subsection (c), in the first sentence, by striking “under age 19”; and
-
-    (4) in subsection (d)—
-
-    (A) in paragraph (2)—
-
-    (i) in the first sentence, by striking “under age 19”; and
-
-    (ii) by striking the third sentence and inserting “A State may not require, as a condition of an individual (or the individual’s parent) being or remaining eligible for medical assistance under this subchapter, that the individual (or the individual’s parent) apply for enrollment in qualified employer-sponsored coverage under this section.”; and
-
-    (B) in paragraph (3), by striking “the parent of an individual under age 19” and inserting “an individual (or the parent of an individual)”; and
-
-    (5) in subsection (e), by striking “under age 19” each place it appears.
-
-    See 2010 Amendment notes below.
 
  __References in Text__ 
 
@@ -154,8 +124,6 @@
 [/us/pl/111/3/s301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F3%2Fs301%2Fb
 [/us/stat/123/61]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F61
 [/us/pl/111/148/s2003/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs2003%2Fa
-[/us/stat/124/282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F282
-[/us/pl/111/148/s2003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs2003
 [/us/stat/124/282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F282
 [/us/usc/t42/s300gg]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300gg
 [/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148

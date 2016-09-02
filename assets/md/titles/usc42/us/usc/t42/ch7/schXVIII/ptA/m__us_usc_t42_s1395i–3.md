@@ -661,7 +661,7 @@
 
             (A) __In general__ 
 
-                The Secretary shall conduct a special focus facility program for enforcement of requirements for skilled nursing facilities that the Secretary has identified as having substantially failed to meet applicable requirement of this chapter.
+                The Secretary shall conduct a special focus facility program for enforcement of requirements for skilled nursing facilities that the Secretary has identified as having substantially failed to meet applicable requirement  <sup>\[6\]</sup>  <sup><sup> 6 So in original. Probably should be “requirements”. </sup></sup>  of this chapter.
 
             (B) __Periodic surveys__ 
 
@@ -1001,7 +1001,7 @@
 
                     (II) with respect to such instances of violations or crimes committed inside of the facility that were the violations or crimes of abuse, neglect, and exploitation, criminal sexual abuse, or other violations or crimes that resulted in serious bodily injury; and
 
-                    (III)  <sup>\[6\]</sup>  <sup><sup> 6 So in original. Probably should be cl. (vi). </sup></sup>  the number of civil monetary penalties levied against the facility, employees, contractors, and other agents.
+                    (III)  <sup>\[7\]</sup>  <sup><sup> 7 So in original. Probably should be cl. (vi). </sup></sup>  the number of civil monetary penalties levied against the facility, employees, contractors, and other agents.
 
             (B) __Deadline for provision of information__ 
 

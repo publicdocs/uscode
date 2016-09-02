@@ -253,10 +253,6 @@
 
 ([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXVII, § 2705, as added and amended [Pub. L. 111–148, title I, § 1201(3)][/us/pl/111/148/s1201/3], (4), Mar. 23, 2010, [124 Stat. 154][/us/stat/124/154], 156.)
 
- __Enactment of Section__ 
-
-    For delayed effective date of section, see Effective Date note below.
-
  __References in Text__ 
 
     The Social Security Act, referred to in subsec. (c)(3)(A), is [act Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], [49 Stat. 620][/us/stat/49/620]. Part C of title XI of the Act is classified generally to part C (§ 1320d et seq.) of subchapter XI of chapter 7 of this title. For complete classification of this Act to the Code, see [section 1305 of this title][/us/usc/t42/s1305] and Tables.
@@ -267,7 +263,7 @@
 
  __Codification__ 
 
-    The text of [section 300gg–1 of this title][/us/usc/t42/s300gg–1], which was amended and transferred to subsecs. (b) to (f) of this section by [Pub. L. 111–148, § 1201(3)][/us/pl/111/148/s1201/3], was based on [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXVII, § 2702, as added [Pub. L. 104–191, title I, § 102(a)][/us/pl/104/191/s102/a], Aug. 21, 1996, [110 Stat. 1961][/us/stat/110/1961]; amended [Pub. L. 110–233, title I, § 102(a)(1)][/us/pl/110/233/s102/a/1]–(3), May 21, 2008, [122 Stat. 888][/us/stat/122/888], 890. For text of section 300gg–1 prior to amendment and transfer by [Pub. L. 111–148][/us/pl/111/148], see Prior Provisions note under [section 300gg–1 of this title][/us/usc/t42/s300gg–1].
+    The text of [section 300gg–1 of this title][/us/usc/t42/s300gg–1], which was amended and transferred to subsecs. (b) to (f) of this section by [Pub. L. 111–148, § 1201(3)][/us/pl/111/148/s1201/3], was based on [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXVII, § 2702, as added [Pub. L. 104–191, title I, § 102(a)][/us/pl/104/191/s102/a], Aug. 21, 1996, [110 Stat. 1961][/us/stat/110/1961]; amended [Pub. L. 110–233, title I, § 102(a)(1)][/us/pl/110/233/s102/a/1]–(3), May 21, 2008, [122 Stat. 888][/us/stat/122/888], 890.
 
  __Prior Provisions__ 
 
@@ -316,8 +312,6 @@
 [/us/stat/110/1961]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1961
 [/us/pl/110/233/s102/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F233%2Fs102%2Fa%2F1
 [/us/stat/122/888]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F888
-[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
-[/us/usc/t42/s300gg–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300gg%E2%80%931
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
 [/us/pl/104/204/s604/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F204%2Fs604%2Fa%2F3
 [/us/stat/110/2939]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2939

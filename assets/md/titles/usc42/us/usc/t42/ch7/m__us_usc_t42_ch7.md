@@ -4315,7 +4315,7 @@ SUBCHAPTER XIX—GRANTS TO STATES FOR MEDICAL ASSISTANCE PROGRAMS  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs1396e%E2%80%931" data-uslm-ref="/us/usc/t42/s1396e–1">1396e–1.</a>  </td>
 
-    <td> Premium assistance option for children.  </td>
+    <td> Premium assistance.  </td>
 
   </tr>
 

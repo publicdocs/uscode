@@ -91,7 +91,7 @@
 
             (C) __Member’s Representational Allowance__ 
 
-                The term “Member’s Representational Allowance” means the allowance described in [section 57b(a) of title 2][/us/usc/t2/s57b/a].
+                The term “Member’s Representational Allowance” means the allowance described in [section 5341(a) of title 2][/us/usc/t2/s5341/a].
 
         (2) __Prohibition__ 
 
@@ -167,7 +167,7 @@
 ----------
 
 [/us/usc/t42/s6374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6374
-[/us/usc/t2/s57b/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs57b%2Fa
+[/us/usc/t2/s5341/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs5341%2Fa
 [/us/pl/102/486/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs303
 [/us/stat/106/2871]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2871
 [/us/pl/109/58/s702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs702

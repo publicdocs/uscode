@@ -93,7 +93,7 @@
 
     (f) __Secretarial determinations__ 
 
-        Any determination made pursuant to subsections  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be singular. </sup></sup>  (a) or (b) shall be based on findings by the Secretary using the best available data.
+        Any determination made pursuant to subsections  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “subsection”. </sup></sup>  (a) or (b) shall be based on findings by the Secretary using the best available data.
 
     (g) __Maximum funding amount__ 
 

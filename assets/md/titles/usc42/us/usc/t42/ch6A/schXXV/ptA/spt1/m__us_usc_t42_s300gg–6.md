@@ -33,10 +33,6 @@
 
 ([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXVII, § 2707, as added [Pub. L. 111–148, title I, § 1201(4)][/us/pl/111/148/s1201/4], Mar. 23, 2010, [124 Stat. 161][/us/stat/124/161].)
 
- __Enactment of Section__ 
-
-    For delayed effective date of section, see Effective Date note below.
-
  __References in Text__ 
 
     [Section 18022(c) of this title][/us/usc/t42/s18022/c], referred to in subsec. (b), was in the original “section 1302(c)”, and was translated as meaning [section 1302(c) of Pub. L. 111–148][/us/pl/111/148/s1302/c], pars. (1) and (2) of which relate to annual limitations on cost-sharing and deductibles, to reflect the probable intent of Congress.

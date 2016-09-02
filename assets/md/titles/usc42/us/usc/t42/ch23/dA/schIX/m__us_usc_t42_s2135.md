@@ -49,6 +49,8 @@
 
  __References in Text__ 
 
+    This chapter, referred to in subsec. (a), was in the original “this Act”, meaning [act Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], as added by [act Aug. 30, 1954, ch. 1073, § 1][/us/act/1954-08-30/ch1073/s1], [68 Stat. 919][/us/stat/68/919], known as the Atomic Energy Act of 1954, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2011 of this title][/us/usc/t42/s2011] and Tables.
+
     The act to protect trade and commerce against unlawful restraints and monopolies, referred to in subsec. (a), is [act July 2, 1890, ch. 647][/us/act/1890-07-02/ch647], [26 Stat. 209][/us/stat/26/209], known as the Sherman Act, which is classified to sections 1 to 7 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 1 of Title 15][/us/usc/t15/s1] and Tables.
 
     Sections seventy-three to seventy-six, inclusive, of an act entitled “An Act to reduce taxation, to provide revenue for the Government, and for other purposes”, referred to in subsec. (a), are sections 73 to 76 of [act Aug. 27, 1894, ch. 349][/us/act/1894-08-27/ch349], [28 Stat. 570][/us/stat/28/570], known as the Wilson Tariff Act, which are classified to sections 8 to 11, respectively, of Title 15. For complete classification of this Act to the Code, see Short Title note set out under [section 8 of Title 15][/us/usc/t15/s8] and Tables.
@@ -99,6 +101,10 @@
 [/us/stat/116/1921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1921
 [/us/pl/109/58/s625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs625
 [/us/stat/119/784]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F784
+[/us/act/1946-08-01/ch724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-01%2Fch724
+[/us/act/1954-08-30/ch1073/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-30%2Fch1073%2Fs1
+[/us/stat/68/919]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F919
+[/us/usc/t42/s2011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2011
 [/us/act/1890-07-02/ch647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1890-07-02%2Fch647
 [/us/stat/26/209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F26%2F209
 [/us/usc/t15/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1

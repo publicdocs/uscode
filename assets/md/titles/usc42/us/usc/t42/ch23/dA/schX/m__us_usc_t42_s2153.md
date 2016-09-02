@@ -63,6 +63,10 @@
 
 ([Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], title I, § 123, as added [Aug. 30, 1954, ch. 1073, § 1][/us/act/1954-08-30/ch1073/s1], [68 Stat. 940][/us/stat/68/940]; amended [Pub. L. 85–479][/us/pl/85/479], §§ 3, 4, July 2, 1958, [72 Stat. 277][/us/stat/72/277]; [Pub. L. 85–681, § 4][/us/pl/85/681/s4], Aug. 19, 1958, [72 Stat. 632][/us/stat/72/632]; [Pub. L. 88–489, § 15][/us/pl/88/489/s15], Aug. 26, 1964, [78 Stat. 606][/us/stat/78/606]; [Pub. L. 93–377, § 5][/us/pl/93/377/s5], Aug. 17, 1974, [88 Stat. 475][/us/stat/88/475]; [Pub. L. 93–485, § 1][/us/pl/93/485/s1], Oct. 26, 1974, [88 Stat. 1460][/us/stat/88/1460]; [Pub. L. 95–242, title IV, § 401][/us/pl/95/242/s401], Mar. 10, 1978, [92 Stat. 142][/us/stat/92/142]; [Pub. L. 99–64, title III, § 301(a)][/us/pl/99/64/s301/a], (b), July 12, 1985, [99 Stat. 159][/us/stat/99/159], 160; renumbered title I, [Pub. L. 102–486, title IX, § 902(a)(8)][/us/pl/102/486/s902/a/8], Oct. 24, 1992, [106 Stat. 2944][/us/stat/106/2944]; [Pub. L. 103–337, div. C, title XXXI, § 3155(c)(1)][/us/pl/103/337/s3155/c/1], Oct. 5, 1994, [108 Stat. 3092][/us/stat/108/3092]; [Pub. L. 103–437, § 15(f)(5)][/us/pl/103/437/s15/f/5], Nov. 2, 1994, [108 Stat. 4592][/us/stat/108/4592]; [Pub. L. 104–106, div. A, title XV, § 1505(g)][/us/pl/104/106/s1505/g], Feb. 10, 1996, [110 Stat. 515][/us/stat/110/515]; [Pub. L. 105–277, div. G, title XII, § 1225(d)(4)][/us/pl/105/277/s1225/d/4], Oct. 21, 1998, [112 Stat. 2681–774][/us/stat/112/2681-774]; [Pub. L. 109–401, title I, § 104(e)][/us/pl/109/401/s104/e], Dec. 18, 2006, [120 Stat. 2734][/us/stat/120/2734]; [Pub. L. 110–369, title II, § 202][/us/pl/110/369/s202], Oct. 8, 2008, [122 Stat. 4033][/us/stat/122/4033].)
 
+ __References in Text__ 
+
+    This chapter, referred to in subsecs. (a) and (b), was in the original “this Act”, meaning [act Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], as added by [act Aug. 30, 1954, ch. 1073, § 1][/us/act/1954-08-30/ch1073/s1], [68 Stat. 919][/us/stat/68/919], known as the Atomic Energy Act of 1954, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2011 of this title][/us/usc/t42/s2011] and Tables.
+
  __Amendments__ 
 
     2008—Subsec. (e). [Pub. L. 110–369][/us/pl/110/369] added subsec. (e).
@@ -241,6 +245,10 @@ Sec. 2. (a) The Secretary of Defense and the Secretary of Energy are hereby desi
 [/us/stat/120/2734]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2734
 [/us/pl/110/369/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F369%2Fs202
 [/us/stat/122/4033]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4033
+[/us/act/1946-08-01/ch724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-01%2Fch724
+[/us/act/1954-08-30/ch1073/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-30%2Fch1073%2Fs1
+[/us/stat/68/919]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F919
+[/us/usc/t42/s2011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2011
 [/us/pl/110/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F369
 [/us/pl/109/401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F401
 [/us/usc/t22/s8003/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs8003%2Fa%2F1

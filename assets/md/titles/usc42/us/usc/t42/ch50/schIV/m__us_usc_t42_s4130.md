@@ -21,7 +21,7 @@
 
  __References in Text__ 
 
-    This subtitle, referred to in text, is subtitle A (§§ 100201–100249)of title II of div. F of [Pub. L. 112–141][/us/pl/112/141], known as the Biggert-Waters Flood Insurance Reform Act of 2012. For complete classification of this subtitle to the Code, see Short Title of 2012 Amendment note set out under [section 4001 of this title][/us/usc/t42/s4001] and Tables.
+    This subtitle, referred to in text, is subtitle A (§§ 100201–100249) of title II of div. F of [Pub. L. 112–141][/us/pl/112/141], known as the Biggert-Waters Flood Insurance Reform Act of 2012. For complete classification of this subtitle to the Code, see Short Title of 2012 Amendment note set out under [section 4001 of this title][/us/usc/t42/s4001] and Tables.
 
  __Codification__ 
 

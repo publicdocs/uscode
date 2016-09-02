@@ -111,7 +111,7 @@
 
  __Report to Congress Concerning Results of Studies Evaluating Home and Community Based Health Services; Studies of Reimbursement Methodologies; Investigation of Fraud; Demonstration Projects; Home Health Services, Defined__ 
 
-    Section 6(b)–(f) of [Pub. L. 97–414][/us/pl/97/414] directed Secretary of Health and Human Services to report results of studies evaluating home and community based health services, and any recommendations for legislative action which might improve the provision of such services, to Congress prior to Jan. 1, 1985, to compile and analyze results of significant public or private studies relating to reimbursement methodologies for home health services and to report recommendations to Congress within 180 days after Jan. 4, 1983, to investigate methods available to stem medicare and medicaid fraud and abuse and extent to which such methods are applied and to report results to Congress within 18 months of Jan. 4, 1983, and to develop and carry out demonstration projects commencing no later than Jan. 1, 1984, to test methods for identifying patients at risk of institutionalization who could be treated more cost-effectively with home health services, and to test alternative reimbursement methodologies for home health agencies in order to determine most cost-effective way of providing home health services, and to report to Congress with regard to the demonstrations no later than Jan. 1, 1985; and defined “home health services” for purposes of this section.
+    [Pub. L. 97–414, § 6(b)][/us/pl/97/414/s6/b]–(f), Jan. 4, 1983, [96 Stat. 2058][/us/stat/96/2058], 2059, directed Secretary of Health and Human Services to report results of studies evaluating home and community based health services, and any recommendations for legislative action which might improve the provision of such services, to Congress prior to Jan. 1, 1985, to compile and analyze results of significant public or private studies relating to reimbursement methodologies for home health services and to report recommendations to Congress within 180 days after Jan. 4, 1983, to investigate methods available to stem medicare and medicaid fraud and abuse and extent to which such methods are applied and to report results to Congress within 18 months of Jan. 4, 1983, and to develop and carry out demonstration projects commencing no later than Jan. 1, 1984, to test methods for identifying patients at risk of institutionalization who could be treated more cost-effectively with home health services, and to test alternative reimbursement methodologies for home health agencies in order to determine most cost-effective way of providing home health services, and to report to Congress with regard to the demonstrations no later than Jan. 1, 1985; and defined “home health services” for purposes of this section.
 
 ----------
 
@@ -148,6 +148,7 @@
 [/us/pl/98/555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F555
 [/us/pl/104/14/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F14%2Fs1%2Fa
 [/us/usc/t2/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs21
-[/us/pl/97/414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F414
+[/us/pl/97/414/s6/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F414%2Fs6%2Fb
+[/us/stat/96/2058]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2058
 
 

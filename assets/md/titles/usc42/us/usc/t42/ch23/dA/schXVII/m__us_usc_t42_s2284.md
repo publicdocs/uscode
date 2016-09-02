@@ -41,6 +41,10 @@
 
 ([Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], title I, § 236, as added [Pub. L. 96–295, title II, § 204(a)][/us/pl/96/295/s204/a], June 30, 1980, [94 Stat. 787][/us/stat/94/787]; amended [Pub. L. 97–415, § 16][/us/pl/97/415/s16], Jan. 4, 1983, [96 Stat. 2076][/us/stat/96/2076]; [Pub. L. 101–575, § 5(d)][/us/pl/101/575/s5/d], Nov. 15, 1990, [104 Stat. 2835][/us/stat/104/2835]; renumbered title I, [Pub. L. 102–486, title IX, § 902(a)(8)][/us/pl/102/486/s902/a/8], Oct. 24, 1992, [106 Stat. 2944][/us/stat/106/2944]; amended [Pub. L. 107–56, title VIII][/us/pl/107/56], §§ 810(f), 811(h), Oct. 26, 2001, [115 Stat. 380][/us/stat/115/380], 381; [Pub. L. 109–58, title VI, § 655][/us/pl/109/58/s655], Aug. 8, 2005, [119 Stat. 813][/us/stat/119/813].)
 
+ __References in Text__ 
+
+    This chapter, referred to in subsec. (a)(1) to (3), (5), was in the original “this Act”, meaning [act Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], as added by [act Aug. 30, 1954, ch. 1073, § 1][/us/act/1954-08-30/ch1073/s1], [68 Stat. 919][/us/stat/68/919], known as the Atomic Energy Act of 1954, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2011 of this title][/us/usc/t42/s2011] and Tables.
+
  __Amendments__ 
 
     2005—Subsec. (a). [Pub. L. 109–58, § 655(b)][/us/pl/109/58/s655/b], substituted “knowingly” for “intentionally and willfully” in introductory provisions.
@@ -79,6 +83,10 @@
 [/us/stat/115/380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F380
 [/us/pl/109/58/s655]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs655
 [/us/stat/119/813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F813
+[/us/act/1946-08-01/ch724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-01%2Fch724
+[/us/act/1954-08-30/ch1073/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-30%2Fch1073%2Fs1
+[/us/stat/68/919]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F919
+[/us/usc/t42/s2011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2011
 [/us/pl/109/58/s655/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs655%2Fb
 [/us/pl/109/58/s655/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs655%2Fa
 [/us/pl/109/58/s655/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs655%2Fb

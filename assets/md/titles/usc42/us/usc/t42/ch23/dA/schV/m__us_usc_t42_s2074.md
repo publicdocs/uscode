@@ -13,7 +13,7 @@
 
 [Previous](./../../../../../..//us/usc/t42/ch23/dA/schV/m__us_usc_t42_s2073.md) | [Next](./../../../../../..//us/usc/t42/ch23/dA/schV/m__us_usc_t42_s2075.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2074)
 
-## § 2074. Foreign distribution of special nuclear mate­rial
+## § 2074. Foreign distribution of special nuclear material
 
     (a) __Compensation; distribution to International Atomic Energy Agency; procedure for distribution; repurchase of unconsumed materials; price; purchase of materials produced outside United States; price__ 
 
@@ -21,7 +21,7 @@
 
     (b) __Distribution to persons outside United States of plutonium and other special nuclear material exempted under__  __[__  __section 2077(d) of this title__  __][/us/usc/t42/s2077/d]__  __; compensation; reports__ 
 
-        Notwithstanding the provisions of sections 2153 and 2154 of this title and section 125 of the Atomic Energy Act of 1954, the Commission is authorized to distribute to any person outside the United States (1) plutonium containing 80 per centum or more by weight of plutonium-238, and (2) other special nuclear material when it has, in accordance with sub[section 2077(d) of this title][/us/usc/t42/s2077/d], exempted certain classes or quantities of such other special nuclear material or kinds of uses or users thereof from the requirements for a license set forth in this chapter. Unless hereafter otherwise authorized by law, the Commission shall be compensated for special nuclear material so distributed at not less than the Commission’s published charges applicable to the domestic distribution of such material. The Commission shall not distribute any plutonium containing 80 per centum or more by weight of plutonium-238 to any person under this subsection if, in its opinion, such distribution would be inimical to the common defense and security. The Commission may require such reports regarding the use of material distributed pursuant to the provisions of this subsection as it deems necessary.
+        Notwithstanding the provisions of sections 2153 and 2154 of this title and section 125 of the Atomic Energy Act of 1954, the Commission is authorized to distribute to any person outside the United States (1) plutonium containing 80 per centum or more by weight of plutonium-238, and (2) other special nuclear material when it has, in accordance with sub[section 2077(d) of this title][/us/usc/t42/s2077/d], exempted certain classes or quantities of such other special nuclear material or kinds of uses or users thereof from the requirements for a license set forth in this subchapter. Unless hereafter otherwise authorized by law, the Commission shall be compensated for special nuclear material so distributed at not less than the Commission’s published charges applicable to the domestic distribution of such material. The Commission shall not distribute any plutonium containing 80 per centum or more by weight of plutonium-238 to any person under this subsection if, in its opinion, such distribution would be inimical to the common defense and security. The Commission may require such reports regarding the use of material distributed pursuant to the provisions of this subsection as it deems necessary.
 
     (c) __Licensing or granting permission to others to distribute special nuclear material; conditions__ 
 

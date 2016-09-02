@@ -121,10 +121,6 @@
 
     Regulations prescribed by the Secretary of Health, Education, and Welfare \[now Health and Human Services\] concerning savings deposit benefits for Public Health Service personnel to be prescribed jointly with regulations prescribed by the Secretaries concerned under [section 1035 of Title 10][/us/usc/t10/s1035], Armed Forces, see [section 3(c) of Pub. L. 89–538][/us/pl/89/538/s3/c], set out as a note under [section 1035 of Title 10][/us/usc/t10/s1035].
 
- __Back Payments: Validation; Application; Limitations; Accountability of Disbursing Officers; Regulations__ 
-
-    Transportation and travel allowances to escorts for dependents of members, see sections 4 to 7 of [Pub. L. 86–160][/us/pl/86/160], set out as a note under [section 1036 of Title 10][/us/usc/t10/s1036], Armed Forces.
-
  __Designation of Beneficiary Made Before January 1, 1956__ 
 
     Designation of beneficiary made before Jan. 1, 1956, considered as the designation of a beneficiary for the purposes of [section 4 of Pub. L. 85–861][/us/pl/85/861/s4], which amended this section, see [section 31 of Pub. L. 85–861][/us/pl/85/861/s31], set out as a note under [section 2771 of Title 10][/us/usc/t10/s2771], Armed Forces.
@@ -209,8 +205,6 @@
 [/us/usc/t10/s1035]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1035
 [/us/pl/89/538/s3/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F538%2Fs3%2Fc
 [/us/usc/t10/s1035]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1035
-[/us/pl/86/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F160
-[/us/usc/t10/s1036]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1036
 [/us/pl/85/861/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861%2Fs4
 [/us/pl/85/861/s31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861%2Fs31
 [/us/usc/t10/s2771]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2771

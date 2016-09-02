@@ -95,7 +95,7 @@
 
  __Report by Institute on Medicine__ 
 
-    [Section 701 of Pub. L. 102–321][/us/pl/102/321/s701] directed Secretary of Health and Human Services to enter into a contract with a public or nonprofit private entity to conduct a study concerning (1) role of the private sector in development of anti-addiction medications, including legislative proposals designed to encourage private sector development of such medications, (2) process by which anti-addiction medications receive marketing approval from Food and Drug Administration, including an assessment of feasibility of expediting marketing approval process in a manner consistent with maintaining safety and effectiveness of such medications, (3) with respect to pharmacotherapeutic treatments for drug addiction (A) recommendations with respect to a national strategy for developing such treatments and improvements in such strategy, (B) state of the scientific knowledge concerning such treatments, and (C) assessment of progress toward development of safe, effective pharmacological treatments for drug addiction, and (4) other related information determined appropriate by the authors of the study, and to submit to Congress a report of the results of such study not later than 18 months after July 10, 1992.
+    [Pub. L. 102–321, title VII, § 701][/us/pl/102/321/s701], July 10, 1992, [106 Stat. 436][/us/stat/106/436], directed Secretary of Health and Human Services to enter into a contract with a public or nonprofit private entity to conduct a study concerning (1) role of the private sector in development of anti-addiction medications, including legislative proposals designed to encourage private sector development of such medications, (2) process by which anti-addiction medications receive marketing approval from Food and Drug Administration, including an assessment of feasibility of expediting marketing approval process in a manner consistent with maintaining safety and effectiveness of such medications, (3) with respect to pharmacotherapeutic treatments for drug addiction (A) recommendations with respect to a national strategy for developing such treatments and improvements in such strategy, (B) state of the scientific knowledge concerning such treatments, and (C) assessment of progress toward development of safe, effective pharmacological treatments for drug addiction, and (4) other related information determined appropriate by the authors of the study, and to submit to Congress a report of the results of such study not later than 18 months after July 10, 1992.
 
 ----------
 
@@ -122,5 +122,6 @@
 [/us/pl/102/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321
 [/us/usc/t42/s236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs236
 [/us/pl/102/321/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321%2Fs701
+[/us/stat/106/436]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F436
 
 

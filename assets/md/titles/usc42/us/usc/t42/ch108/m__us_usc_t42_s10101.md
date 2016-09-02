@@ -113,7 +113,7 @@
 
     (25) The term “storage” means retention of high-level radioactive waste, spent nuclear fuel, or transuranic waste with the intent to recover such waste or fuel for subsequent use, processing, or disposal.
 
-    (26) The term “Storage Fund” means the Interim Storage Fund established in section 10156(c)  <sup>\[3\]</sup>  <sup><sup> 3 See References in Text note below. </sup></sup>  of this title.
+    (26) The term “Storage Fund” means the Interim Storage Fund established in section 10156(c) 2 of this title.
 
     (27) The term “test and evaluation facility” means an at-depth, prototypic, underground cavity with subsurface lateral excavations extending from a central shaft that is used for research and development purposes, including the development of data and experience for the safe handling and disposal of solidified high-level radioactive waste, transuranic waste, or spent nuclear fuel.
 

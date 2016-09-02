@@ -107,7 +107,7 @@
 
         (17) any amount received by such individual (or such spouse) from a fund established by a State to aid victims of crime;
 
-        (18) relocation assistance provided by a State or local government to such individual (or such spouse), comparable to assistance provided under title II of the Uniform Relocation Assistance and Real Property Acquisitions Policies Act of 1970 which is subject to the treatment required by section 216 of such Act \[[42 U.S.C. 4636][/us/usc/t42/s4636]\];
+        (18) relocation assistance provided by a State or local government to such individual (or such spouse), comparable to assistance provided under title II of the Uniform Relocation Assistance and Real Property Acquisitions  <sup>\[2\]</sup>  <sup><sup> 2 So in original. Probably should be “Acquisition”. </sup></sup>  Policies Act of 1970 which is subject to the treatment required by section 216 of such Act \[[42 U.S.C. 4636][/us/usc/t42/s4636]\];
 
         (19) any refund of Federal income taxes made to such individual (or such spouse) by reason of section 32 of the Internal Revenue Code of 1986 (relating to earned income tax credit), and any payment made to such individual (or such spouse) by an employer under section 3507 of such Code (relating to advance payment of earned income credit);
 
@@ -171,7 +171,7 @@
 
     The Housing Act of 1949, referred to in subsec. (b)(14), is [act July 15, 1949, ch. 338][/us/act/1949-07-15/ch338], [63 Stat. 413][/us/stat/63/413]. Title V of the Housing Act of 1949 is classified generally to subchapter III (§ 1471 et seq.) of chapter 8A of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1441 of this title][/us/usc/t42/s1441] and Tables.
 
-    The Uniform Relocation Assistance and Real Property Acquisitions Policies Act of 1970, referred to in subsec. (b)(18), is [Pub. L. 91–646][/us/pl/91/646], Jan. 2, 1971, [84 Stat. 1894][/us/stat/84/1894]. Title II of the Act enacted subchapter II (§ 4621 et seq.) of chapter 61 of this title, amended sections 1415, 2473, and 3307 of this title and section 1606 of former Title 49, Transportation, repealed sections 1465 and 3074 of this title, [section 2680 of Title 10][/us/usc/t10/s2680], Armed Forces, sections 501 to 512 of Title 23, Highways, sections 1231 to 1234 of Title 43, Public Lands, and enacted provisions set out as notes under sections 4601 and 4621 of this title and under sections 501 to 512 of Title 23. For complete classification of title II to the Code, see Tables.
+    The Uniform Relocation Assistance and Real Property Acquisition Policies Act of 1970, referred to in subsec. (b)(18), is [Pub. L. 91–646][/us/pl/91/646], Jan. 2, 1971, [84 Stat. 1894][/us/stat/84/1894]. Title II of the Act enacted subchapter II (§ 4621 et seq.) of chapter 61 of this title, amended sections 1415, 2473, and 3307 of this title and section 1606 of former Title 49, Transportation, repealed sections 1465 and 3074 of this title, [section 2680 of Title 10][/us/usc/t10/s2680], Armed Forces, sections 501 to 512 of Title 23, Highways, sections 1231 to 1234 of Title 43, Public Lands, and enacted provisions set out as notes under sections 4601 and 4621 of this title and under sections 501 to 512 of Title 23. For complete classification of title II to the Code, see Tables.
 
  __Amendments__ 
 

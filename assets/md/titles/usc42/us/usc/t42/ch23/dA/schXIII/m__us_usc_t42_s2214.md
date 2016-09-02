@@ -97,7 +97,7 @@
 
  __References in Text__ 
 
-    Section 3116 of the Ronald W. Reagan National Defense Authorization Act for Fiscal Year 2005, referred to in subsec. (c)(2)(A)(iii), is [section 3116 of Pub. L. 108–375][/us/pl/108/375/s3116], which is set out as a note under [section 2601 of Title 50][/us/usc/t50/s2601], War and National Defense.
+    Section 3116 of the Ronald W. Reagan National Defense Authorization Act for Fiscal Year 2005, referred to in subsec. (c)(2)(A)(iii), is [section 3116 of Pub. L. 108–375][/us/pl/108/375/s3116], which is set out as a note under [section 2602 of Title 50][/us/usc/t50/s2602], War and National Defense.
 
  __Codification__ 
 
@@ -179,7 +179,7 @@
 [/us/pl/109/103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F103
 [/us/stat/119/2283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2283
 [/us/pl/108/375/s3116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs3116
-[/us/usc/t50/s2601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2601
+[/us/usc/t50/s2602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2602
 [/us/pl/101/508/s6101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs6101
 [/us/pl/101/508/s6101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs6101
 [/us/usc/t42/s2213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2213

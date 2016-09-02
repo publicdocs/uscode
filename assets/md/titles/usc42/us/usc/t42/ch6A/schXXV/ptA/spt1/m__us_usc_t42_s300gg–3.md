@@ -299,10 +299,6 @@
 
 ([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXVII, § 2704, formerly § 2701, as added [Pub. L. 104–191, title I, § 102(a)][/us/pl/104/191/s102/a], Aug. 21, 1996, [110 Stat. 1955][/us/stat/110/1955]; amended [Pub. L. 111–3, title III, § 311(b)(2)][/us/pl/111/3/s311/b/2], Feb. 4, 2009, [123 Stat. 70][/us/stat/123/70]; [Pub. L. 111–5, div. B, title I, § 1899D(c)][/us/pl/111/5/s1899D/c], Feb. 17, 2009, [123 Stat. 426][/us/stat/123/426]; renumbered § 2704 and amended [Pub. L. 111–148, title I][/us/pl/111/148], §§ 1201(2), 1563(c)(1), formerly § 1562(c)(1), title X, § 10107(b)(1), Mar. 23, 2010, [124 Stat. 154][/us/stat/124/154], 264, 911; [Pub. L. 111–344, title I, § 114(c)][/us/pl/111/344/s114/c], Dec. 29, 2010, [124 Stat. 3615][/us/stat/124/3615]; [Pub. L. 112–40, title II, § 242(a)(3)][/us/pl/112/40/s242/a/3], (4), Oct. 21, 2011, [125 Stat. 419][/us/stat/125/419].)
 
- __Amendment of Section__ 
-
-    For delayed effective date of amendment and renumbering by [section 1201(2) of Pub. L. 111–148][/us/pl/111/148/s1201/2], see Effective Date of 2010 Amendment note below.
-
  __References in Text__ 
 
     Subsection (a) of this section, referred to in subsecs. (b)(1)(B) and (c)(3)(A), (B), was struck out, and a new subsec. (a) was added, by [Pub. L. 111–148, title I, § 1201(2)(A)][/us/pl/111/148/s1201/2/A], Mar. 23, 2010, [124 Stat. 154][/us/stat/124/154], and as so amended, subsec. (a) no longer contains paragraphs.
@@ -313,7 +309,7 @@
 
  __Codification__ 
 
-    Section was classified to [section 300gg of this title][/us/usc/t42/s300gg] prior to amendment and renumbering by [Pub. L. 111–148][/us/pl/111/148]. For text of section 300gg prior to amendment and renumbering, see Prior Provisions note under [section 300gg of this title][/us/usc/t42/s300gg].
+    Section was classified to [section 300gg of this title][/us/usc/t42/s300gg] prior to amendment and renumbering by [Pub. L. 111–148][/us/pl/111/148].
 
     [Section 242(a)(3) of Pub. L. 112–40][/us/pl/112/40/s242/a/3] amended section 2701 of act July 1, 1944, “as in effect for plan years beginning before January 1, 2014”, which was classified to [section 300gg of this title][/us/usc/t42/s300gg] prior to amendment and renumbering by [Pub. L. 111–148][/us/pl/111/148]. [Section 242(a)(4) of Pub. L. 112–40][/us/pl/112/40/s242/a/4] made identical amendment to section 2704 of act July 1, 1944, “as in effect for plan years beginning on or after January 1, 2014”, which is set out as this section. See 2011 Amendment note below. For effective date of renumbering by [section 1201(2) of Pub. L. 111–148][/us/pl/111/148/s1201/2], see Effective Date of 2010 Amendment note below.
 
@@ -399,7 +395,6 @@
 [/us/stat/124/3615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3615
 [/us/pl/112/40/s242/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40%2Fs242%2Fa%2F3
 [/us/stat/125/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F419
-[/us/pl/111/148/s1201/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs1201%2F2
 [/us/pl/111/148/s1201/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs1201%2F2%2FA
 [/us/stat/124/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F154
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
@@ -409,7 +404,6 @@
 [/us/usc/t29/s1181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1181
 [/us/usc/t42/s300gg]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300gg
 [/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
-[/us/usc/t42/s300gg]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300gg
 [/us/pl/112/40/s242/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40%2Fs242%2Fa%2F3
 [/us/usc/t42/s300gg]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300gg
 [/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148

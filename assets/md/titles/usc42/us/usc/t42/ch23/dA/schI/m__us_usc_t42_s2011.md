@@ -25,7 +25,7 @@
 
  __Prior Provisions__ 
 
-    Provisions similar to those comprising this section were contained in section 1 of [act Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], [60 Stat. 755][/us/stat/60/755], which was classified to [section 1801 of this title][/us/usc/t42/s1801], prior to the general amendment and renumbering of act Aug. 1, 1946, by act Aug. 30, 1954.
+    A prior section 1 of [act Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], [60 Stat. 755][/us/stat/60/755], which related to declaration of policy and purpose of former chapter 14 of this title, was classified to [section 1801 of this title][/us/usc/t42/s1801], prior to the general amendment and renumbering of act Aug. 1, 1946, by act Aug. 30, 1954.
 
  __Short Title of 2013 Amendment__ 
 
@@ -71,15 +71,15 @@
 
  __Short Title__ 
 
-[Act Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], title I, § 291, as added by act Aug. 30, 1954, § 1; renumbered title I, Oct. 24, 1992, [Pub. L. 102–486, title IX, § 902(a)(8)][/us/pl/102/486/s902/a/8], [106 Stat. 2944][/us/stat/106/2944], provided that: 
+[Act Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], title I, § 291, as added by [act Aug. 30, 1954, ch. 1073, § 1][/us/act/1954-08-30/ch1073/s1], [68 Stat. 960][/us/stat/68/960]; renumbered title I, [Pub. L. 102–486, title IX, § 902(a)(8)][/us/pl/102/486/s902/a/8], Oct. 24, 1992, [106 Stat. 2944][/us/stat/106/2944], provided that: 
 
-> “This Act \[enacting this chapter and amending sections 1031(d) and 1032 of former Title 5, Executive Departments and Government Officers and Employees, and enacting provision set out as a note under [section 2221 of this title][/us/usc/t42/s2221]\] may be cited as the ‘Atomic Energy Act of 1954’.”
+> “This Act \[enacting this chapter, amending sections 190j and 622 of Title 2, The Congress, and repealing sections 2251 to 2257 and 2315 of this title\] may be cited as the ‘Atomic Energy Act of 1954’.”
 
  __Separability__ 
 
 [Act Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], title I, § 281, as added by act Aug. 30, 1954, § 1; renumbered title I, Oct. 24, 1992, [Pub. L. 102–486, title IX, § 902(a)(8)][/us/pl/102/486/s902/a/8], [106 Stat. 2944][/us/stat/106/2944], provided that: 
 
-> “If any provision of this Act \[enacting this chapter\] or the application of such provision to any person or circumstances, is held invalid, the remainder of this Act or the application of such provision to persons or circumstances other than those as to which it is held invalid, shall not be affected thereby.”
+> “If any provision of this Act \[see Short Title note above\] or the application of such provision to any person or circumstances, is held invalid, the remainder of this Act or the application of such provision to persons or circumstances other than those as to which it is held invalid, shall not be affected thereby.”
 
  __Transfer of Functions__ 
 
@@ -127,9 +127,10 @@
 [/us/pl/85/846/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F846%2Fs1
 [/us/stat/72/1084]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1084
 [/us/act/1946-08-01/ch724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-01%2Fch724
+[/us/act/1954-08-30/ch1073/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-30%2Fch1073%2Fs1
+[/us/stat/68/960]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F960
 [/us/pl/102/486/s902/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs902%2Fa%2F8
 [/us/stat/106/2944]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2944
-[/us/usc/t42/s2221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2221
 [/us/act/1946-08-01/ch724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-01%2Fch724
 [/us/pl/102/486/s902/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs902%2Fa%2F8
 [/us/stat/106/2944]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2944

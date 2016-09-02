@@ -37,9 +37,13 @@
 
 ([Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], title I, § 2, as added [Aug. 30, 1954, ch. 1073, § 1][/us/act/1954-08-30/ch1073/s1], [68 Stat. 921][/us/stat/68/921]; amended [Pub. L. 85–256, § 1][/us/pl/85/256/s1], Sept. 2, 1957, [71 Stat. 576][/us/stat/71/576]; [Pub. L. 88–489][/us/pl/88/489], §§ 1, 2, Aug. 26, 1964, [78 Stat. 602][/us/stat/78/602]; renumbered title I, [Pub. L. 102–486, title IX, § 902(a)(8)][/us/pl/102/486/s902/a/8], Oct. 24, 1992, [106 Stat. 2944][/us/stat/106/2944].)
 
+ __References in Text__ 
+
+    This chapter, referred to in subsec. (f), was in the original “this Act”, meaning [act Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], as added by [act Aug. 30, 1954, ch. 1073, § 1][/us/act/1954-08-30/ch1073/s1], [68 Stat. 919][/us/stat/68/919], known as the Atomic Energy Act of 1954, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2011 of this title][/us/usc/t42/s2011] and Tables.
+
  __Prior Provisions__ 
 
-    Provisions similar to those comprising this section were contained in section 1 of [act Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], [60 Stat. 755][/us/stat/60/755], which was classified to [section 1801 of this title][/us/usc/t42/s1801], prior to the general amendment and renumbering of act Aug. 1, 1946, by act Aug. 30, 1954.
+    A prior section 2 of [act Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], [60 Stat. 756][/us/stat/60/756], which related to establishment of Atomic Energy Commission, its membership, tenure, compensation, and appointment of certain officers and committees, was classified to [section 1802 of this title][/us/usc/t42/s1802], prior to the general amendment of act Aug. 1, 1946, by act Aug. 30, 1954.
 
  __Amendments__ 
 
@@ -76,8 +80,12 @@
 [/us/pl/102/486/s902/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs902%2Fa%2F8
 [/us/stat/106/2944]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2944
 [/us/act/1946-08-01/ch724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-01%2Fch724
-[/us/stat/60/755]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F755
-[/us/usc/t42/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1801
+[/us/act/1954-08-30/ch1073/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-30%2Fch1073%2Fs1
+[/us/stat/68/919]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F919
+[/us/usc/t42/s2011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2011
+[/us/act/1946-08-01/ch724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-01%2Fch724
+[/us/stat/60/756]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F756
+[/us/usc/t42/s1802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1802
 [/us/pl/88/489/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F489%2Fs1
 [/us/pl/88/489/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F489%2Fs2
 [/us/pl/85/256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F256

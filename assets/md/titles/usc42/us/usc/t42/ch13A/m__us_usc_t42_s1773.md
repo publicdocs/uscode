@@ -249,10 +249,6 @@
 
     Amendment by [Pub. L. 95–561][/us/pl/95/561] effective Oct. 1, 1978, and no provision therein to be construed as impairing or preventing the taking effect of any other Act providing for the transfer of functions described therein to an executive department having responsibility for education, see [section 1415 of Pub. L. 95–561][/us/pl/95/561/s1415], set out as an Effective Date note under [section 921 of Title 20][/us/usc/t20/s921], Education.
 
- __Transfer of Functions__ 
-
-    For transfer to Secretary of Education of functions of Secretary of Defense and Department of Defense relating to operation of overseas schools for dependents of Department of Defense and under Defense Dependents’ Education Act of 1978, [20 U.S.C. 921][/us/usc/t20/s921] et seq., see [section 3442(a) of Title 20][/us/usc/t20/s3442/a], Education.
-
  __Review of Best Practices in the Breakfast Program__ 
 
     [Pub. L. 108–265, title II, § 206][/us/pl/108/265/s206], June 30, 2004, [118 Stat. 787][/us/stat/118/787], directed the Secretary of Agriculture to enter into an agreement with a research organization to collect and disseminate a review of best practices to assist school food authorities in addressing existing impediments at the State and local level that hinder the growth of the school breakfast program and, not later than 1 year after June 30, 2004, to make the review available to school food authorities via the Internet and to transmit it to congressional committees.
@@ -450,8 +446,6 @@
 [/us/pl/95/561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561
 [/us/pl/95/561/s1415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2Fs1415
 [/us/usc/t20/s921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs921
-[/us/usc/t20/s921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs921
-[/us/usc/t20/s3442/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs3442%2Fa
 [/us/pl/108/265/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F265%2Fs206
 [/us/stat/118/787]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F787
 [/us/pl/103/448/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F448%2Fs301

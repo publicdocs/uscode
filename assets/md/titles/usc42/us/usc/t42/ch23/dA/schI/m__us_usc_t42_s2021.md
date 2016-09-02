@@ -61,7 +61,7 @@
 
     The Commission shall enter into an agreement under subsection (b) of this section with any State if—
 
-        (1) The Governor of that State certifies that the State has a program for the control of radiation hazards adequate to protect the public health and safety with respect to the materials within the State covered by the proposed agreement, and that the State desires to assume regulatory responsibility for such materials; and
+        (1) The  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should not be capitalized. </sup></sup>  Governor of that State certifies that the State has a program for the control of radiation hazards adequate to protect the public health and safety with respect to the materials within the State covered by the proposed agreement, and that the State desires to assume regulatory responsibility for such materials; and
 
         (2) the Commission finds that the State program is in accordance with the requirements of subsection (o) of this section and in all other respects compatible with the Commission’s program for the regulation of such materials, and that the State program is adequate to protect the public health and safety with respect to the materials covered by the proposed agreement.
 
@@ -160,6 +160,8 @@
 ([Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], title I, § 274, as added [Pub. L. 86–373, § 1][/us/pl/86/373/s1], Sept. 23, 1959, [73 Stat. 688][/us/stat/73/688]; amended 1970 Reorg. Plan No. 3, §§ 2(a)(7), 6(2), eff. Dec. 2, 1970, 35 F.R. 15623, [84 Stat. 2086][/us/stat/84/2086]; [Pub. L. 95–604, title II, § 204(a)][/us/pl/95/604/s204/a]–(e)(1), (f), Nov. 8, 1978, [92 Stat. 3036–3038][/us/stat/92/3036-3038]; [Pub. L. 96–295, title II, § 205][/us/pl/96/295/s205], June 30, 1980, [94 Stat. 787][/us/stat/94/787]; [Pub. L. 97–415, § 19(a)][/us/pl/97/415/s19/a], Jan. 4, 1983, [96 Stat. 2078][/us/stat/96/2078]; renumbered title I and amended [Pub. L. 102–486, title IX, § 902(a)(6)][/us/pl/102/486/s902/a/6], (8), Oct. 24, 1992, [106 Stat. 2944][/us/stat/106/2944]; [Pub. L. 109–58, title VI, § 651(e)(2)][/us/pl/109/58/s651/e/2], Aug. 8, 2005, [119 Stat. 807][/us/stat/119/807].)
 
  __References in Text__ 
+
+    This chapter, referred to in subsecs. (a)(1), (i), (j)(1), and (m), was in the original “this Act”, meaning [act Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], as added by [act Aug. 30, 1954, ch. 1073, § 1][/us/act/1954-08-30/ch1073/s1], [68 Stat. 919][/us/stat/68/919], known as the Atomic Energy Act of 1954, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2011 of this title][/us/usc/t42/s2011] and Tables.
 
     For definition of Canal Zone, referred to in subsec. (n), see [section 3602(b) of Title 22][/us/usc/t22/s3602/b], Foreign Relations and Intercourse.
 
@@ -261,6 +263,10 @@
 [/us/stat/106/2944]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2944
 [/us/pl/109/58/s651/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs651%2Fe%2F2
 [/us/stat/119/807]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F807
+[/us/act/1946-08-01/ch724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-01%2Fch724
+[/us/act/1954-08-30/ch1073/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-30%2Fch1073%2Fs1
+[/us/stat/68/919]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F919
+[/us/usc/t42/s2011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2011
 [/us/usc/t22/s3602/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3602%2Fb
 [/us/stat/84/2086]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F2086
 [/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58

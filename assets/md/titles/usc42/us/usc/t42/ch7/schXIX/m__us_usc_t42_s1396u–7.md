@@ -89,7 +89,7 @@
 
                 (viii) __Children in foster care receiving child welfare services and children receiving foster care or adoption assistance__ 
 
-                    The individual is an individual with respect to whom child welfare services are made available under part B of subchapter IV on the basis of being a child in foster care or with respect to whom adoption or foster care assistance is made available under part E of such subchapter, without regard to age.
+                    The individual is an individual with respect to whom child welfare services are made available under part B of subchapter IV on the basis of being a child in foster care or with respect to whom adoption or foster care assistance is made available under part E of such subchapter, without regard to age, or the individual qualifies for medical assistance on the basis of [section 1396a(a)(10)(A)(i)(IX) of this title][/us/usc/t42/s1396a/a/10/A/i/IX].
 
                 (ix) __TANF and section 1396u–1 parents__ 
 
@@ -229,10 +229,6 @@
 
 ([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XIX, § 1937, as added [Pub. L. 109–171, title VI, § 6044(a)][/us/pl/109/171/s6044/a], Feb. 8, 2006, [120 Stat. 88][/us/stat/120/88]; amended [Pub. L. 111–3, title VI, § 611(a)][/us/pl/111/3/s611/a]–(c), Feb. 4, 2009, [123 Stat. 100][/us/stat/123/100], 101; [Pub. L. 111–148, title II][/us/pl/111/148], §§ 2001(a)(5)(E), (c), 2004(c)(2), 2303(c), Mar. 23, 2010, [124 Stat. 275][/us/stat/124/275], 276, 283, 296.)
 
- __Amendment of Subsection (a)(2)(B)(viii)__ 
-
-    [Pub. L. 111–148, title II, § 2004(c)(2)][/us/pl/111/148/s2004/c/2], (d), title X, § 10201(a)(3), Mar. 23, 2010, [124 Stat. 283][/us/stat/124/283], 918, provided that, effective Jan. 1, 2014, subsection (a)(2)(B)(viii) of this section is amended by inserting “, or the individual qualifies for medical assistance on the basis of [section 1396a(a)(10)(A)(i)(IX) of this title][/us/usc/t42/s1396a/a/10/A/i/IX]” before the period. See 2010 Amendment note below.
-
  __Prior Provisions__ 
 
     A prior section 1937 of act Aug. 14, 1935, was renumbered section 1939 and is classified to [section 1396v of this title][/us/usc/t42/s1396v].
@@ -312,6 +308,7 @@
 [/us/usc/t42/s1396a/a/10/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396a%2Fa%2F10%2FA%2Fi
 [/us/usc/t42/s1396a/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396a%2Fe%2F3
 [/us/usc/t42/s1396p/c/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396p%2Fc%2F1%2FC
+[/us/usc/t42/s1396a/a/10/A/i/IX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396a%2Fa%2F10%2FA%2Fi%2FIX
 [/us/usc/t42/s1396u–1/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396u%E2%80%931%2Fi
 [/us/usc/t42/s1396a/a/10/A/ii/XII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396a%2Fa%2F10%2FA%2Fii%2FXII
 [/us/usc/t8/s1641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1641
@@ -339,9 +336,6 @@
 [/us/stat/123/100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F100
 [/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 [/us/stat/124/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F275
-[/us/pl/111/148/s2004/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs2004%2Fc%2F2
-[/us/stat/124/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F283
-[/us/usc/t42/s1396a/a/10/A/i/IX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396a%2Fa%2F10%2FA%2Fi%2FIX
 [/us/usc/t42/s1396v]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396v
 [/us/pl/111/148/s2001/a/5/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs2001%2Fa%2F5%2FE
 [/us/usc/t42/s1396a/a/10/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396a%2Fa%2F10%2FA%2Fi

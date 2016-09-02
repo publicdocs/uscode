@@ -89,7 +89,7 @@
 
  __Effective Date of 1994 Amendment__ 
 
-[Section 555(b) of Pub. L. 103–325][/us/pl/103/325/s555/b] provided that: 
+[Pub. L. 103–325, title V, § 555(b)][/us/pl/103/325/s555/b], Sept. 23, 1994, [108 Stat. 2274][/us/stat/108/2274], provided that: 
 
 > “The provisions of subsection (a) \[amending this section\] shall apply only to properties that sustain flood-related damage after the date of enactment of this Act \[Sept. 23, 1994\].”
 
@@ -347,6 +347,7 @@
 [/us/pl/98/181/s451/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2Fs451%2Fd%2F2
 [/us/pl/98/181/s451/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2Fs451%2Fd%2F1
 [/us/pl/103/325/s555/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs555%2Fb
+[/us/stat/108/2274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2274
 [/us/usc/t6/s315/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs315%2Fa%2F1
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 [/us/pl/112/141/s100227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs100227

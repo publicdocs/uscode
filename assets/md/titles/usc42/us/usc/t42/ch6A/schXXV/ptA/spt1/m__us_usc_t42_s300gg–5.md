@@ -25,10 +25,6 @@
 
 ([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXVII, § 2706, as added [Pub. L. 111–148, title I, § 1201(4)][/us/pl/111/148/s1201/4], Mar. 23, 2010, [124 Stat. 160][/us/stat/124/160].)
 
- __Enactment of Section__ 
-
-    For delayed effective date of section, see Effective Date note below.
-
  __References in Text__ 
 
     [Section 218c of title 29][/us/usc/t29/s218c], referred to in subsec. (b), was in the original “section 1558 of the Patient Protection and Affordable Care Act”, meaning [section 1558 of Pub. L. 111–148][/us/pl/111/148/s1558], and was translated as meaning section 18C of [act June 25, 1938, ch. 676][/us/act/1938-06-25/ch676], which was added by [section 1558 of Pub. L. 111–148][/us/pl/111/148/s1558], to reflect the probable intent of Congress.

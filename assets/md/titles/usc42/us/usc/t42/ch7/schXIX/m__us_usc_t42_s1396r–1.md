@@ -111,13 +111,9 @@
 
     (e) __Option to provide presumptive eligibility__ 
 
-        If the State has elected the option to provide a presumptive eligibility period under this section or [section 1396r–1a of this title][/us/usc/t42/s1396r–1a], the State may elect to provide a presumptive eligibility period (as defined in subsection (b)(1)) for individuals who are eligible for medical assistance under clause (i)(VIII) or clause (ii)(XX) of subsection (a)(10)(A)  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably means subsection (a)(10)(A) of [section 1396a of this title][/us/usc/t42/s1396a]. </sup></sup>  or [section 1396u–1 of this title][/us/usc/t42/s1396u–1] in the same manner as the State provides for such a period under this section or [section 1396r–1a of this title][/us/usc/t42/s1396r–1a], subject to such guidance as the Secretary shall establish.
+        If the State has elected the option to provide a presumptive eligibility period under this section or [section 1396r–1a of this title][/us/usc/t42/s1396r–1a], the State may elect to provide a presumptive eligibility period (as defined in subsection (b)(1)) for individuals who are eligible for medical assistance under clause (i)(VIII), clause (i)(IX), or clause (ii)(XX) of subsection (a)(10)(A)  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably means subsection (a)(10)(A) of [section 1396a of this title][/us/usc/t42/s1396a]. </sup></sup>  or [section 1396u–1 of this title][/us/usc/t42/s1396u–1] in the same manner as the State provides for such a period under this section or [section 1396r–1a of this title][/us/usc/t42/s1396r–1a], subject to such guidance as the Secretary shall establish.
 
 ([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XIX, § 1920, as added [Pub. L. 99–509, title IX, § 9407(b)][/us/pl/99/509/s9407/b], Oct. 21, 1986, [100 Stat. 2058][/us/stat/100/2058]; amended [Pub. L. 100–360, title IV, § 411(k)(16)(A)][/us/pl/100/360/s411/k/16/A], (B), July 1, 1988, [102 Stat. 799][/us/stat/102/799]; [Pub. L. 100–485, title VI, § 608(d)(26)(L)][/us/pl/100/485/s608/d/26/L], Oct. 13, 1988, [102 Stat. 2422][/us/stat/102/2422]; [Pub. L. 101–508, title IV, § 4605(a)][/us/pl/101/508/s4605/a], (b), Nov. 5, 1990, [104 Stat. 1388–169][/us/stat/104/1388-169]; [Pub. L. 106–113, div. B, § 1000(a)(6)][/us/pl/106/113/s1000/a/6] \[title VI, § 608(q)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–397; [Pub. L. 111–3, title I, § 113(b)(2)][/us/pl/111/3/s113/b/2], Feb. 4, 2009, [123 Stat. 34][/us/stat/123/34]; [Pub. L. 111–148, title II][/us/pl/111/148], §§ 2001(a)(4)(B), (e)(2)(C), 2004(b), Mar. 23, 2010, [124 Stat. 274][/us/stat/124/274], 279, 283.)
-
- __Amendment of Subsection (e)__ 
-
-    [Pub. L. 111–148, title II, § 2004(b)][/us/pl/111/148/s2004/b], (d), title X, § 10201(a)(3), Mar. 23, 2010, [124 Stat. 283][/us/stat/124/283], 918, provided that, effective Jan. 1, 2014, subsection (e) of this section is amended by inserting “, clause (i)(IX),” after “clause (i)(VIII)”. See 2010 Amendment note below.
 
  __References in Text__ 
 
@@ -228,8 +224,6 @@
 [/us/stat/123/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F34
 [/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 [/us/stat/124/274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F274
-[/us/pl/111/148/s2004/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs2004%2Fb
-[/us/stat/124/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F283
 [/us/pl/94/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437
 [/us/stat/90/1400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1400
 [/us/usc/t25/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1601

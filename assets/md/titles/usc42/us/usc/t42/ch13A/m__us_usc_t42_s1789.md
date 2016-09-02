@@ -49,10 +49,6 @@
 
     Section effective Oct. 1, 1978, and no provisions to be construed to impair or to prevent the taking of effect of any other Act providing for the transfer of the described functions to an executive department having responsibility for education, see [section 1415 of Pub. L. 95–561][/us/pl/95/561/s1415], set out as a note under [section 921 of Title 20][/us/usc/t20/s921], Education.
 
- __Transfer of Functions__ 
-
-    For transfer to Secretary of Education of functions of Secretary of Defense and Department of Defense relating to operation of overseas schools for dependents of Department of Defense and under Defense Dependents’ Education Act of 1978, [42 U.S.C. 921][/us/usc/t42/s921] et seq., see [section 3442(a) of Title 20][/us/usc/t20/s3442/a], Education.
-
 ----------
 
 [Previous](./../../../..//us/usc/t42/ch13A/m__us_usc_t42_s1788.md) | [Next](./../../../..//us/usc/t42/ch13A/m__us_usc_t42_s1790.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1789)
@@ -76,7 +72,5 @@
 [/us/pl/99/661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661
 [/us/pl/95/561/s1415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2Fs1415
 [/us/usc/t20/s921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs921
-[/us/usc/t42/s921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs921
-[/us/usc/t20/s3442/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs3442%2Fa
 
 

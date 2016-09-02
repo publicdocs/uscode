@@ -125,13 +125,17 @@
 
  __References in Text__ 
 
+    This chapter, referred to in text, was in the original “this Act”, meaning [act Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], as added by [act Aug. 30, 1954, ch. 1073, § 1][/us/act/1954-08-30/ch1073/s1], [68 Stat. 919][/us/stat/68/919], known as the Atomic Energy Act of 1954, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2011 of this title][/us/usc/t42/s2011] and Tables.
+
     For definition of Canal Zone, referred to in subsec. (bb), see [section 3602(b) of Title 22][/us/usc/t22/s3602/b], Foreign Relations and Intercourse.
 
     [Section 213 of Public Law 96–164][/us/pl/96/164/s213], referred to in subsec. (ff), is [Pub. L. 96–164, title II, § 213][/us/pl/96/164/s213], Dec. 29, 1979, [93 Stat. 1265][/us/stat/93/1265], which is not classified to the Code.
 
  __Prior Provisions__ 
 
-    Provisions similar to those comprising this section were contained in section 18 of [act Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], [60 Stat. 774][/us/stat/60/774], which was classified to [section 1818 of this title][/us/usc/t42/s1818], prior to the general amendment and renumbering of act Aug. 1, 1946, by act Aug. 30, 1954.
+    A prior section 11 of [act Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], [60 Stat. 768][/us/stat/60/768], which related to patents and inventions, was classified to [section 1811 of this title][/us/usc/t42/s1811], prior to the general amendment of act Aug. 1, 1946, by act Aug. 30, 1954.
+
+    Sections 12 to 19 of [act Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], [60 Stat. 770–775][/us/stat/60/770-775], which related to authority, powers and duties of Atomic Energy Commission; compensation for acquisition of private property; judicial review; Joint Committee of Congress on Atomic Energy; penalties for violation of certain provisions of chapter 14 of this title, injunctions, subpoena of witnesses, and production of documents; reports and recommendations to Congress; definitions; and authorization of appropriations, were classified to sections 1812 to 1819, respectively, of this title, and section 20 of [act Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], [60 Stat. 775][/us/stat/60/775], which related to separability of provisions of the act, was set out as a note under [section 1801 of this title][/us/usc/t42/s1801], prior to the general amendment of act Aug. 1, 1946, by act Aug. 30, 1954. Section numbers 12 to 20 were not repeated in the general amendment of act Aug. 1, 1946.
 
  __Amendments__ 
 
@@ -302,13 +306,22 @@
 [/us/stat/110/1321-349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1321-349
 [/us/pl/109/58/s651/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs651%2Fe%2F1
 [/us/stat/119/806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F806
+[/us/act/1946-08-01/ch724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-01%2Fch724
+[/us/act/1954-08-30/ch1073/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-30%2Fch1073%2Fs1
+[/us/stat/68/919]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F919
+[/us/usc/t42/s2011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2011
 [/us/usc/t22/s3602/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3602%2Fb
 [/us/pl/96/164/s213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F164%2Fs213
 [/us/pl/96/164/s213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F164%2Fs213
 [/us/stat/93/1265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1265
 [/us/act/1946-08-01/ch724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-01%2Fch724
-[/us/stat/60/774]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F774
-[/us/usc/t42/s1818]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1818
+[/us/stat/60/768]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F768
+[/us/usc/t42/s1811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1811
+[/us/act/1946-08-01/ch724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-01%2Fch724
+[/us/stat/60/770-775]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F770-775
+[/us/act/1946-08-01/ch724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-01%2Fch724
+[/us/stat/60/775]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F775
+[/us/usc/t42/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1801
 [/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
 [/us/pl/104/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134
 [/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437

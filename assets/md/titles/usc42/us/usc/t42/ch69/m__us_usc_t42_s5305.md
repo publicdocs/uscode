@@ -73,7 +73,7 @@
 
             (F) provides technical assistance to promote any of the activities under subparagraphs (A) through (E);
 
-        (18) the rehabilitation or development of housing assisted under section 1437o  <sup>\[2\]</sup>  <sup><sup> 2 See References in Text note below. </sup></sup>  of this title;
+        (18) the rehabilitation or development of housing assisted under section 1437o 1 of this title;
 
         (19) provision of technical assistance to public or nonprofit entities to increase the capacity of such entities to carry out eligible neighborhood revitalization or economic development activities, which assistance shall not be considered a planning cost as defined in paragraph (12) or administrative cost as defined in paragraph (13);
 
@@ -149,7 +149,7 @@
 
         (28)
 
-         provision of assistance to local governmental agencies responsible for floodplain management activities (including such agencies of Indians tribes, as such term is defined in [section 4103 of title 25][/us/usc/t25/s4103]) in communities that participate in the national flood insurance program under the National Flood Insurance Act of 1968 ([42 U.S.C. 4001][/us/usc/t42/s4001] et seq.), only for carrying out outreach activities to encourage and facilitate the purchase of flood insurance protection under such Act by owners and renters of properties in such communities and to promote educational activities that increase awareness of flood risk reduction; except that—
+         provision of assistance to local governmental agencies responsible for floodplain management activities (including such agencies of Indians  <sup>\[2\]</sup>  <sup><sup> 2 So in original. Probably should be “Indian”. </sup></sup>  tribes, as such term is defined in [section 4103 of title 25][/us/usc/t25/s4103]) in communities that participate in the national flood insurance program under the National Flood Insurance Act of 1968 ([42 U.S.C. 4001][/us/usc/t42/s4001] et seq.), only for carrying out outreach activities to encourage and facilitate the purchase of flood insurance protection under such Act by owners and renters of properties in such communities and to promote educational activities that increase awareness of flood risk reduction; except that—
 
             (A)
 
@@ -307,7 +307,7 @@
 
     [Pub. L. 112–141, § 100243(a)(4)][/us/pl/112/141/s100243/a/4], struck out “and” at end.
 
-    [Pub. L. 112–141, § 100243(a)(2)][/us/pl/112/141/s100243/a/2], which directed redesignation of second par. (24), relating to tornado-safe shelters, as (25), was executed by redesignating the par. (24), which appeared first and which related to tornado-safe shelters, as (25) and moving such par. so as to appear after par. (24), relating to homeownership among persons with low and moderate income, to reflect the probable intent of Congress.
+    [Pub. L. 112–141, § 100243(a)(2)][/us/pl/112/141/s100243/a/2], which directed redesignation of second par. (24), relating to tornado-safe shelters, as (25), was executed by redesignating the par. (24) which appeared first and which related to tornado-safe shelters as (25) and moving such par. so as to appear after the par. (24) relating to homeownership among persons with low and moderate income, to reflect the probable intent of Congress.
 
     Subsec. (a)(26). [Pub. L. 112–141, § 100243(b)(2)][/us/pl/112/141/s100243/b/2], substituted period for semicolon at end.
 

@@ -19,10 +19,6 @@
 
 ([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXVII, § 2708, as added and amended [Pub. L. 111–148, title I, § 1201(4)][/us/pl/111/148/s1201/4], title X, § 10103(b), Mar. 23, 2010, [124 Stat. 161][/us/stat/124/161], 892.)
 
- __Enactment of Section__ 
-
-    For delayed effective date of section, see Effective Date note below.
-
  __Prior Provisions__ 
 
     A prior section 300gg–7, [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXVII, § 2707, as added [Pub. L. 110–381, § 2(b)(1)][/us/pl/110/381/s2/b/1], Oct. 9, 2008, [122 Stat. 4083][/us/stat/122/4083], which related to coverage of dependent students on medically necessary leave of absence, was renumbered section 2728 of act July 1, 1944, and transferred to [section 300gg–28 of this title][/us/usc/t42/s300gg–28].

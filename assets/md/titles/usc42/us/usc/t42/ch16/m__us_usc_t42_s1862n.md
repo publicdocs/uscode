@@ -295,6 +295,8 @@
 
     Committee on Science of House of Representatives changed to Committee on Science and Technology of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007. Committee on Science and Technology of House of Representatives changed to Committee on Science, Space, and Technology of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
 
+    Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
+
  __Findings__ 
 
 [Pub. L. 107–368, § 2][/us/pl/107/368/s2], Dec. 19, 2002, [116 Stat. 3034][/us/stat/116/3034], provided that: 

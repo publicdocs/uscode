@@ -459,19 +459,13 @@
 
             (D) Agents when used for the symptomatic relief of cough and colds.
 
-            (E) Agents when used to promote smoking cessation.
+            (E) Prescription vitamins and mineral products, except prenatal vitamins and fluoride preparations.
 
-            (F) Prescription vitamins and mineral products, except prenatal vitamins and fluoride preparations.
+            (F) Nonprescription drugs, except, in the case of pregnant women when recommended in accordance with the Guideline referred to in [section 1396d(bb)(2)(A) of this title][/us/usc/t42/s1396d/bb/2/A], agents approved by the Food and Drug Administration under the over-the-counter monograph process for purposes of promoting, and when used to promote, tobacco cessation.
 
-            (G) Nonprescription drugs.
+            (G) Covered outpatient drugs which the manufacturer seeks to require as a condition of sale that associated tests or monitoring services be purchased exclusively from the manufacturer or its designee.
 
-            (H) Covered outpatient drugs which the manufacturer seeks to require as a condition of sale that associated tests or monitoring services be purchased exclusively from the manufacturer or its designee.
-
-            (I) Barbiturates.
-
-            (J) Benzodiazepines.
-
-            (K) Agents when used for the treatment of sexual or erectile dysfunction, unless such agents are used to treat a condition, other than sexual or erectile dysfunction, for which the agents have been approved by the Food and Drug Administration.
+            (H) Agents when used for the treatment of sexual or erectile dysfunction, unless such agents are used to treat a condition, other than sexual or erectile dysfunction, for which the agents have been approved by the Food and Drug Administration.
 
         (3) __Update of drug listings__ 
 
@@ -504,6 +498,16 @@
         (6) __Other permissible restrictions__ 
 
             A State may impose limitations, with respect to all such drugs in a therapeutic class, on the minimum or maximum quantities per prescription or on the number of refills, if such limitations are necessary to discourage waste, and may address instances of fraud or abuse by individuals in any manner authorized under this chapter.
+
+        (7) __Non-excludable drugs__ 
+
+        The following drugs or classes of drugs, or their medical uses, shall not be excluded from coverage:
+
+            (A) Agents when used to promote smoking cessation, including agents approved by the Food and Drug Administration under the over-the-counter monograph process for purposes of promoting, and when used to promote, tobacco cessation.
+
+            (B) Barbiturates.
+
+            (C) Benzodiazepines.
 
     (e) __Treatment of pharmacy reimbursement limits__ 
 
@@ -918,34 +922,6 @@
             The term “wholesaler” means a drug wholesaler that is engaged in wholesale distribution of prescription drugs to retail community pharmacies, including (but not limited to) manufacturers, repackers, distributors, own-label distributors, private-label distributors, jobbers, brokers, warehouses (including manufacturer’s and distributor’s warehouses, chain drug warehouses, and wholesale drug warehouses) independent wholesale drug traders, and retail community pharmacies that conduct wholesale distributions.
 
 ([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XIX, § 1927, as added [Pub. L. 101–508, title IV, § 4401(a)(3)][/us/pl/101/508/s4401/a/3], Nov. 5, 1990, [104 Stat. 1388–143][/us/stat/104/1388-143]; amended [Pub. L. 102–585, title VI, § 601(a)][/us/pl/102/585/s601/a]–(c), Nov. 4, 1992, [106 Stat. 4962–4964][/us/stat/106/4962-4964]; [Pub. L. 103–18, § 2(a)][/us/pl/103/18/s2/a], Apr. 12, 1993, [107 Stat. 54][/us/stat/107/54]; [Pub. L. 103–66, title XIII, § 13602(a)][/us/pl/103/66/s13602/a], Aug. 10, 1993, [107 Stat. 613][/us/stat/107/613]; [Pub. L. 105–33, title IV][/us/pl/105/33], §§ 4701(b)(2)(A)(x), 4756, Aug. 5, 1997, [111 Stat. 493][/us/stat/111/493], 527; [Pub. L. 106–113, div. B, § 1000(a)(6)][/us/pl/106/113/s1000/a/6] \[title VI, §§ 606(a), 608(u)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–396, 1501A–398; [Pub. L. 108–173, title I][/us/pl/108/173], §§ 101(e)(4), (9), 103(e)(1), 105(b), title III, § 303(i)(4), title IX, § 900(e)(1)(K), (L), title X, § 1002, Dec. 8, 2003, [117 Stat. 2151][/us/stat/117/2151], 2152, 2159, 2166, 2254, 2372, 2431; [Pub. L. 109–91, title I, § 104(a)][/us/pl/109/91/s104/a], Oct. 20, 2005, [119 Stat. 2092][/us/stat/119/2092]; [Pub. L. 109–171, title VI][/us/pl/109/171], §§ 6001(a)–(c)(2), (d)–(f)(2), 6002(a), 6003(a), (b), 6004(a), Feb. 8, 2006, [120 Stat. 54–61][/us/stat/120/54-61]; [Pub. L. 109–432, div. B, title IV, § 405(c)(2)(A)(ii)][/us/pl/109/432/s405/c/2/A/ii], Dec. 20, 2006, [120 Stat. 3000][/us/stat/120/3000]; [Pub. L. 111–8, div. F, title II, § 221(a)][/us/pl/111/8/s221/a], Mar. 11, 2009, [123 Stat. 783][/us/stat/123/783]; [Pub. L. 111–148, title II][/us/pl/111/148], §§ 2501(a), (b), (c)(2), (d)(1), (e), 2502(a), 2503(a)–(c), title III, § 3301(d)(2), title IV, § 4107(b), Mar. 23, 2010, [124 Stat. 306–310][/us/stat/124/306-310], 312, 468, 560; [Pub. L. 111–152, title I][/us/pl/111/152], §§ 1101(c), 1206(a), Mar. 30, 2010, [124 Stat. 1039][/us/stat/124/1039], 1056; [Pub. L. 111–226, title II, § 202][/us/pl/111/226/s202], Aug. 10, 2010, [124 Stat. 2394][/us/stat/124/2394]; [Pub. L. 111–309, title II, § 204(b)][/us/pl/111/309/s204/b], Dec. 15, 2010, [124 Stat. 3290][/us/stat/124/3290].)
-
- __Amendment of Subsection (d)__ 
-
-[Pub. L. 111–148, title II, § 2502][/us/pl/111/148/s2502], Mar. 23, 2010, [124 Stat. 310][/us/stat/124/310], provided that, applicable to services furnished on or after Jan. 1, 2014, subsection (d) of this section is amended:
-
-    (1) in paragraph (2)—
-
-    (A) by striking subparagraphs (E), (I), and (J), respectively; and
-
-    (B) by redesignating subparagraphs (F), (G), (H), and (K) as subparagraphs (E), (F), (G), and (H), respectively; and
-
-    (2) by adding at the end the following new paragraph:
-
-    (7) Non-excludable drugs
-
-    The following drugs or classes of drugs, or their medical uses, shall not be excluded from coverage:
-
-    (A) Agents when used to promote smoking cessation, including agents approved by the Food and Drug Administration under the over-the-counter monograph process for purposes of promoting, and when used to promote, tobacco cessation.
-
-    (B) Barbiturates.
-
-    (C) Benzodiazepines.
-
-[Pub. L. 111–148, title IV, § 4107(b)][/us/pl/111/148/s4107/b], (d), Mar. 23, 2010, [124 Stat. 560][/us/stat/124/560], 561, provided that, effective Oct. 1, 2010, subsection (d)(2)(F) of this section, as redesignated by [section 2502(a) of Pub. L. 111–148][/us/pl/111/148/s2502/a], is amended by inserting before the period at the end: 
-
-> “, except, in the case of pregnant women when recommended in accordance with the Guideline referred to in [section 1396d(bb)(2)(A) of this title][/us/usc/t42/s1396d/bb/2/A], agents approved by the Food and Drug Administration under the over-the-counter monograph process for purposes of promoting, and when used to promote, tobacco cessation”.
-
-    See 2010 Amendment notes below.
 
  __References in Text__ 
 
@@ -1393,6 +1369,7 @@
 [/us/usc/t42/s300/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300%2Fa
 [/us/usc/t38/s8126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs8126
 [/us/usc/t42/s300a–6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300a%E2%80%936
+[/us/usc/t42/s1396d/bb/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396d%2Fbb%2F2%2FA
 [/us/usc/t21/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs301
 [/us/usc/t42/s1395w–3a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%933a
 [/us/usc/t42/s1396a/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396a%2Fa%2F5
@@ -1447,12 +1424,6 @@
 [/us/stat/124/2394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2394
 [/us/pl/111/309/s204/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F309%2Fs204%2Fb
 [/us/stat/124/3290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3290
-[/us/pl/111/148/s2502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs2502
-[/us/stat/124/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F310
-[/us/pl/111/148/s4107/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs4107%2Fb
-[/us/stat/124/560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F560
-[/us/pl/111/148/s2502/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs2502%2Fa
-[/us/usc/t42/s1396d/bb/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396d%2Fbb%2F2%2FA
 [/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 [/us/usc/t42/s1396b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396b
 [/us/usc/t42/s1395w–104/c/2/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%93104%2Fc%2F2%2FE

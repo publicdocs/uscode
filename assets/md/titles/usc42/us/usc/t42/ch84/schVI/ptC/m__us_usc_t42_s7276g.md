@@ -23,6 +23,8 @@
 
     [Section 2 of the Act of June 18, 1954][/us/act/1954-06-18/s2] ([68 Stat. 255][/us/stat/68/255]), referred to in text, probably means section 2 of [act June 18, 1954, ch. 310][/us/act/1954-06-18/ch310], [68 Stat. 256][/us/stat/68/256], which is not classified to the Code.
 
+    “This account” and “this appropriation”, referred to in text, mean funds appropriated under the heading “Falcon and Amistad Operating and Maintenance Fund” of title III of the Energy and Water Development and Related Agencies Appropriations Act, 2010, [Pub. L. 111–85][/us/pl/111/85].
+
  __Codification__ 
 
     Section was enacted as part of the Energy and Water Development and Related Agencies Appropriations Act, 2010, and not as part of the Department of Energy Organization Act which comprises this chapter.
@@ -43,5 +45,6 @@
 [/us/stat/68/255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F255
 [/us/act/1954-06-18/ch310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-06-18%2Fch310
 [/us/stat/68/256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F256
+[/us/pl/111/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F85
 
 

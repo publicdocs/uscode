@@ -57,6 +57,8 @@
 
  __References in Text__ 
 
+    This chapter, referred to in subsec. (a)(1)(A), (2)(A), was in the original “this Act”, meaning [act Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], as added by [act Aug. 30, 1954, ch. 1073, § 1][/us/act/1954-08-30/ch1073/s1], [68 Stat. 919][/us/stat/68/919], known as the Atomic Energy Act of 1954, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2011 of this title][/us/usc/t42/s2011] and Tables.
+
     The effective date of this paragraph, referred to in subsec. (a)(2)(C), probably means the date of enactment of [Pub. L. 97–415][/us/pl/97/415], which was approved Jan. 4, 1983.
 
     The USEC Privatization Act, referred to in subsec. (b)(3), (4), is subchapter A (§§ 3101–3117) of chapter 1 of title III of [Pub. L. 104–134][/us/pl/104/134], Apr. 26, 1996, [110 Stat. 1321–335][/us/stat/110/1321-335], which is classified principally to subchapter VIII (§ 2297h et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title of 1996 Amendment note set out under [section 2011 of this title][/us/usc/t42/s2011] and Tables.
@@ -120,6 +122,10 @@
 [/us/stat/106/2944]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2944
 [/us/pl/104/134/s3116/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs3116%2Fc
 [/us/stat/110/1321-349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1321-349
+[/us/act/1946-08-01/ch724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-01%2Fch724
+[/us/act/1954-08-30/ch1073/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-30%2Fch1073%2Fs1
+[/us/stat/68/919]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F919
+[/us/usc/t42/s2011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2011
 [/us/pl/97/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F415
 [/us/pl/104/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134
 [/us/stat/110/1321-335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1321-335

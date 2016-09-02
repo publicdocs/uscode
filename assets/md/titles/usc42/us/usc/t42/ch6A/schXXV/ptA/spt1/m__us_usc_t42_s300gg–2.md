@@ -87,17 +87,13 @@
 
 ([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXVII, § 2703, as added and amended [Pub. L. 111–148, title I][/us/pl/111/148], §§ 1201(4), 1563(c)(9), formerly § 1562(c)(9), title X, § 10107(b)(1), Mar. 23, 2010, [124 Stat. 156][/us/stat/124/156], 267, 911.)
 
- __Enactment of Section__ 
-
-    For delayed effective date of section, see Effective Date note below.
-
  __References in Text__ 
 
     Section 2711, referred to in subsec. (b)(5), is a reference to section 2711 of act July 1, 1944. Section 2711, which was classified to [section 300gg–11 of this title][/us/usc/t42/s300gg–11], was renumbered section 2731 and amended and transferred by [Pub. L. 111–148, title I][/us/pl/111/148], §§ 1001(3), 1563(c)(8), formerly § 1562(c)(8), title X, § 10107(b)(1), Mar. 23, 2010, [124 Stat. 130][/us/stat/124/130], 266, 911, to the end of section 2702 of act July 1, 1944, as added by [Pub. L. 111–148, title I, § 1201(4)][/us/pl/111/148/s1201/4], Mar. 23, 2010, [124 Stat. 156][/us/stat/124/156], and classified to [section 300gg–1 of this title][/us/usc/t42/s300gg–1]. A new section 2711 of act July 1, 1944, related to no lifetime or annual limits, was added by [Pub. L. 111–148, title I, § 1001(5)][/us/pl/111/148/s1001/5], Mar. 23, 2010, [124 Stat. 131][/us/stat/124/131], effective for plan years beginning on or after the date that is 6 months after Mar. 23, 2010, and is classified to [section 300gg–11 of this title][/us/usc/t42/s300gg–11].
 
  __Codification__ 
 
-    The text of [section 300gg–12 of this title][/us/usc/t42/s300gg–12], which was amended and transferred to subsecs. (b) to (e) of this section by [Pub. L. 111–148, § 1563(c)(9)][/us/pl/111/148/s1563/c/9], formerly § 1562(c)(9), as renumbered by [Pub. L. 111–148, § 10107(b)(1)][/us/pl/111/148/s10107/b/1], was based on [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXVII, § 2732, formerly § 2712, as added [Pub. L. 104–191, title I, § 102(a)][/us/pl/104/191/s102/a], Aug. 21, 1996, [110 Stat. 1964][/us/stat/110/1964]; renumbered § 2732, [Pub. L. 111–148, title I, § 1001(3)][/us/pl/111/148/s1001/3], Mar. 23, 2010, [124 Stat. 130][/us/stat/124/130]. For text of section 300gg–12 prior to amendment and transfer by [Pub. L. 111–148][/us/pl/111/148], see Prior Provisions note under [section 300gg–12 of this title][/us/usc/t42/s300gg–12].
+    The text of [section 300gg–12 of this title][/us/usc/t42/s300gg–12], which was amended and transferred to subsecs. (b) to (e) of this section by [Pub. L. 111–148, § 1563(c)(9)][/us/pl/111/148/s1563/c/9], formerly § 1562(c)(9), as renumbered by [Pub. L. 111–148, § 10107(b)(1)][/us/pl/111/148/s10107/b/1], was based on [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXVII, § 2732, formerly § 2712, as added [Pub. L. 104–191, title I, § 102(a)][/us/pl/104/191/s102/a], Aug. 21, 1996, [110 Stat. 1964][/us/stat/110/1964]; renumbered § 2732, [Pub. L. 111–148, title I, § 1001(3)][/us/pl/111/148/s1001/3], Mar. 23, 2010, [124 Stat. 130][/us/stat/124/130].
 
  __Prior Provisions__ 
 
@@ -138,8 +134,6 @@
 [/us/stat/110/1964]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1964
 [/us/pl/111/148/s1001/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs1001%2F3
 [/us/stat/124/130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F130
-[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
-[/us/usc/t42/s300gg–12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300gg%E2%80%9312
 [/us/usc/t42/s238b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs238b
 [/us/pl/111/148/s1563/c/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs1563%2Fc%2F9
 [/us/pl/111/148/s10107/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10107%2Fb%2F1

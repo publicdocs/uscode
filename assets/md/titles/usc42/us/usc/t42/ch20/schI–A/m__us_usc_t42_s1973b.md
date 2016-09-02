@@ -89,6 +89,10 @@
 
 ([Pub. L. 89–110, title I, § 4][/us/pl/89/110/s4], Aug. 6, 1965, [79 Stat. 438][/us/stat/79/438]; renumbered title I and amended [Pub. L. 91–285][/us/pl/91/285], §§ 2–4, June 22, 1970, [84 Stat. 314][/us/stat/84/314], 315; [Pub. L. 94–73, title I, § 101][/us/pl/94/73/s101], title II, §§ 201–203, 206, Aug. 6, 1975, [89 Stat. 400–402][/us/stat/89/400-402]; [Pub. L. 97–205, § 2(a)][/us/pl/97/205/s2/a]–(c), June 29, 1982, [96 Stat. 131–133][/us/stat/96/131-133]; [Pub. L. 109–246][/us/pl/109/246], §§ 3(d)(2), (e)(1), 4, July 27, 2006, [120 Stat. 580][/us/stat/120/580]; [Pub. L. 110–258, § 2][/us/pl/110/258/s2], July 1, 2008, [122 Stat. 2428][/us/stat/122/2428].)
 
+ __References in Text__ 
+
+    The effective date of the amendments made by the Fannie Lou Hamer, Rosa Parks, Coretta Scott King, César E. Chávez, Barbara C. Jordan, William C. Velásquez, and Dr. Hector P. Garcia Voting Rights Act Reauthorization and Amendments Act of 2006, referred to in subsec. (a)(7), (8), is the date of enactment of [Pub. L. 109–246][/us/pl/109/246], which was approved July 27, 2006. See [section 1973q of this title][/us/usc/t42/s1973q].
+
  __Amendments__ 
 
     2008—Subsec. (a)(7), (8). [Pub. L. 110–258][/us/pl/110/258] substituted “Coretta Scott King, César E. Chávez, Barbara C. Jordan, William C. Velásquez, and Dr. Hector P. Garcia” for “and Coretta Scott King”.
@@ -156,6 +160,8 @@
 [/us/stat/120/580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F580
 [/us/pl/110/258/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F258%2Fs2
 [/us/stat/122/2428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2428
+[/us/pl/109/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F246
+[/us/usc/t42/s1973q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1973q
 [/us/pl/110/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F258
 [/us/pl/109/246/s3/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F246%2Fs3%2Fd%2F2
 [/us/pl/109/246/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F246%2Fs4
