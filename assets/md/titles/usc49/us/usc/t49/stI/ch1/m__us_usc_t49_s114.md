@@ -713,6 +713,24 @@
 
     General references to “this title” deemed to refer also to chapters 509 and 511 of Title 51, National and Commercial Space Programs, see [section 4(d)(8) of Pub. L. 111–314][/us/pl/111/314/s4/d/8], set out as a note under [section 101 of this title][/us/usc/t49/s101].
 
+ __Safeguarding and Disposal of Personal Information of Registered Traveler Program Participants__ 
+
+[Pub. L. 114–4, title V, § 536][/us/pl/114/4/s536], Mar. 4, 2015, [129 Stat. 67][/us/stat/129/67], provided that:
+
+>     “(a)
+
+>      Any company that collects or retains personal information directly from any individual who participates in the Registered Traveler or successor program of the Transportation Security Administration shall hereafter safeguard and dispose of such information in accordance with the requirements in—
+
+>         “(1) the National Institute for Standards and Technology Special Publication 800–30, entitled ‘Risk Management Guide for Information Technology Systems’;
+
+>         “(2) the National Institute for Standards and Technology Special Publication 800–53, Revision 3, entitled ‘Recommended Security Controls for Federal Information Systems and Organizations’; and
+
+>         “(3) any supplemental standards established by the Administrator of the Transportation Security Administration (referred to in this section as the ‘Administrator’).
+
+>     “(b) The airport authority or air carrier operator that sponsors the company under the Registered Traveler program shall hereafter be known as the ‘Sponsoring Entity’.
+
+>     “(c) The Administrator shall hereafter require any company covered by subsection (a) to provide, not later than 30 days after the date of enactment of this Act \[Mar. 4, 2015\], to the Sponsoring Entity written certification that the procedures used by the company to safeguard and dispose of information are in compliance with the requirements under subsection (a). Such certification shall include a description of the procedures used by the company to comply with such requirements.”
+
  __Registered Traveler Programs and Biometrically-Secure Cards__ 
 
 [Pub. L. 110–161, div. E, title V, § 571][/us/pl/110/161/s571], Dec. 26, 2007, [121 Stat. 2093][/us/stat/121/2093], provided that: 
@@ -896,6 +914,8 @@
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 [/us/pl/111/314/s4/d/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F314%2Fs4%2Fd%2F8
 [/us/usc/t49/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs101
+[/us/pl/114/4/s536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F4%2Fs536
+[/us/stat/129/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F67
 [/us/pl/110/161/s571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2Fs571
 [/us/stat/121/2093]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2093
 [/us/pl/110/53/s1203/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs1203%2Fb
