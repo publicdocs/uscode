@@ -185,7 +185,7 @@
 
  __Effective Date of 2002 Amendments__ 
 
-    Amendment by [Pub. L. 107–252][/us/pl/107/252] effective upon appointment of all members of the Election Assistance Commission under [section 15323 of Title 42][/us/usc/t42/s15323], The Public Health and Welfare, see [section 15534(a) of Title 42][/us/usc/t42/s15534/a].
+    Amendment by [Pub. L. 107–252][/us/pl/107/252] effective upon appointment of all members of the Election Assistance Commission under [section 20923 of Title 52][/us/usc/t52/s20923], Voting and Elections, see [section 21134(a) of Title 52][/us/usc/t52/s21134/a].
 
     Amendment by [Pub. L. 107–123][/us/pl/107/123] effective Oct. 1, 2001, see [section 11 of Pub. L. 107–123][/us/pl/107/123/s11], set out as a note under [section 78ee of Title 15][/us/usc/t15/s78ee], Commerce and Trade.
 
@@ -199,7 +199,7 @@
 
  __Effective Date of 1980 Amendment__ 
 
-    Amendment by [Pub. L. 96–187][/us/pl/96/187] effective on Jan. 8, 1980, see [section 301(a) of Pub. L. 96–187][/us/pl/96/187/s301/a], set out as a note under [section 431 of Title 2][/us/usc/t2/s431], The Congress.
+    Amendment by [Pub. L. 96–187][/us/pl/96/187] effective on Jan. 8, 1980, see [section 301(a) of Pub. L. 96–187][/us/pl/96/187/s301/a], set out as a note under [section 30101 of Title 52][/us/usc/t52/s30101], Voting and Elections.
 
  __Effective Date of 1979 Amendment__ 
 
@@ -298,8 +298,8 @@
 [/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
 [/us/stat/122/2782]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2782
 [/us/pl/107/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F252
-[/us/usc/t42/s15323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs15323
-[/us/usc/t42/s15534/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs15534%2Fa
+[/us/usc/t52/s20923]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs20923
+[/us/usc/t52/s21134/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs21134%2Fa
 [/us/pl/107/123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F123
 [/us/pl/107/123/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F123%2Fs11
 [/us/usc/t15/s78ee]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78ee
@@ -311,7 +311,7 @@
 [/us/usc/t5/s5301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5301
 [/us/pl/96/187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F187
 [/us/pl/96/187/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F187%2Fs301%2Fa
-[/us/usc/t2/s431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs431
+[/us/usc/t52/s30101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs30101
 [/us/pl/96/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F54
 [/us/pl/96/54/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F54%2Fs2%2Fb
 [/us/usc/t5/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs305

@@ -189,13 +189,13 @@ Aug. 19, 1964, Pub. L. 88–448, § 301 (less (e)), 78 Stat. 488.  </td>
 
  __Effective Date of 1970 Amendment__ 
 
-    Amendment by [Pub. L. 91–510][/us/pl/91/510] effective immediately prior to noon on Jan. 3, 1971, see [section 601(1) of Pub. L. 91–510][/us/pl/91/510/s601/1], set out as a note under [section 72a of Title 2][/us/usc/t2/s72a], The Congress.
+    Amendment by [Pub. L. 91–510][/us/pl/91/510] effective immediately prior to noon on Jan. 3, 1971, see [section 601(1) of Pub. L. 91–510][/us/pl/91/510/s601/1], set out as a note under [section 4301 of Title 2][/us/usc/t2/s4301], The Congress.
 
  __Effective Date of 1967 Amendments__ 
 
     Amendment by [Pub. L. 90–206][/us/pl/90/206] effective at beginning of first pay period which begins on or after Dec. 16, 1967, see [section 220(a)(3) of Pub. L. 90–206][/us/pl/90/206/s220/a/3], set out as a note under [section 603 of Title 28][/us/usc/t28/s603], Judiciary and Judicial Procedure.
 
-    Amendment by [Pub. L. 90–57][/us/pl/90/57], effective Aug. 1, 1967, see [section 105(k) of Pub. L. 90–57][/us/pl/90/57/s105/k], set out as an Effective Date note under [section 61–1 of Title 2][/us/usc/t2/s61–1], The Congress.
+    Amendment by [Pub. L. 90–57][/us/pl/90/57], effective Aug. 1, 1967, see [section 105(k) of Pub. L. 90–57][/us/pl/90/57/s105/k], set out as an Effective Date note under [section 4575 of Title 2][/us/usc/t2/s4575], The Congress.
 
  __Transfer of Functions__ 
 
@@ -203,77 +203,77 @@ Aug. 19, 1964, Pub. L. 88–448, § 301 (less (e)), 78 Stat. 488.  </td>
 
  __Increase in Compensation of Individuals Whose Pay is Disbursed by Secretary of Senate__ 
 
-    2010—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 2010, to the figure “$33,003”, see section 9 of Salary Directive of President pro tempore of the Senate, Jan. 5, 2010, set out as a note under [section 60a–1 of Title 2][/us/usc/t2/s60a–1], The Congress.
+    2010—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 2010, to the figure “$33,003”, see section 9 of Salary Directive of President pro tempore of the Senate, Jan. 5, 2010, set out as a note under [section 4571 of Title 2][/us/usc/t2/s4571], The Congress.
 
-    2009—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 2009, to the figure “$32,515”, see section 9 of Salary Directive of President pro tempore of the Senate, Mar. 12, 2009, set out as a note under [section 60a–1 of Title 2][/us/usc/t2/s60a–1], The Congress.
+    2009—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 2009, to the figure “$32,515”, see section 9 of Salary Directive of President pro tempore of the Senate, Mar. 12, 2009, set out as a note under [section 4571 of Title 2][/us/usc/t2/s4571].
 
-    2008—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 2008, to the figure “$31,906”, see section 9 of Salary Directive of President pro tempore of the Senate, Jan. 7, 2008, set out as a note under [section 60a–1 of Title 2][/us/usc/t2/s60a–1], The Congress.
+    2008—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 2008, to the figure “$31,906”, see section 9 of Salary Directive of President pro tempore of the Senate, Jan. 7, 2008, set out as a note under [section 4571 of Title 2][/us/usc/t2/s4571].
 
-    2007—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 2007, to the figure “$30,827”, see section 9 of Salary Directive of President pro tempore of the Senate, Feb. 16, 2007, formerly set out as a note under [section 60a–1 of Title 2][/us/usc/t2/s60a–1].
+    2007—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 2007, to the figure “$30,827”, see section 9 of Salary Directive of President pro tempore of the Senate, Feb. 16, 2007, formerly set out as a note under [section 4571 of Title 2][/us/usc/t2/s4571].
 
-    2006—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 2006, to the figure “$29,905”, see section 9 of Salary Directive of President pro tempore of the Senate, Jan. 4, 2006, formerly set out as a note under [section 60a–1 of Title 2][/us/usc/t2/s60a–1].
+    2006—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 2006, to the figure “$29,905”, see section 9 of Salary Directive of President pro tempore of the Senate, Jan. 4, 2006, formerly set out as a note under [section 4571 of Title 2][/us/usc/t2/s4571].
 
-    2005—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 2005, to the figure “$29,289”, see section 9 of Salary Directive of President pro tempore of the Senate, Jan. 3, 2005, formerly set out as a note under [section 60a–1 of Title 2][/us/usc/t2/s60a–1].
+    2005—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 2005, to the figure “$29,289”, see section 9 of Salary Directive of President pro tempore of the Senate, Jan. 3, 2005, formerly set out as a note under [section 4571 of Title 2][/us/usc/t2/s4571].
 
-    2004—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 2004, to the figure “$28,574”, see section 9 of Salary Directive of President pro tempore of the Senate, Mar. 5, 2004, formerly set out as a note under [section 60a–1 of Title 2][/us/usc/t2/s60a–1].
+    2004—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 2004, to the figure “$28,574”, see section 9 of Salary Directive of President pro tempore of the Senate, Mar. 5, 2004, formerly set out as a note under [section 4571 of Title 2][/us/usc/t2/s4571].
 
-    2003—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 2003, to the figure “$27,822”, see section 9 of Salary Directive of President pro tempore of the Senate, Dec. 19, 2002, as amended, formerly set out as a note under [section 60a–1 of Title 2][/us/usc/t2/s60a–1].
+    2003—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 2003, to the figure “$27,822”, see section 9 of Salary Directive of President pro tempore of the Senate, Dec. 19, 2002, as amended, formerly set out as a note under [section 4571 of Title 2][/us/usc/t2/s4571].
 
-    2002—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 2002, to the figure “$26,985”, see section 9 of Salary Directive of President pro tempore of the Senate, Dec. 20, 2001, formerly set out as a note under [section 60a–1 of Title 2][/us/usc/t2/s60a–1].
+    2002—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 2002, to the figure “$26,985”, see section 9 of Salary Directive of President pro tempore of the Senate, Dec. 20, 2001, formerly set out as a note under [section 4571 of Title 2][/us/usc/t2/s4571].
 
-    2001—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 2001, to the figure “$26,329”, see section 9 of Salary Directive of President pro tempore of the Senate, Dec. 20, 2000, formerly set out as a note under [section 60a–1 of Title 2][/us/usc/t2/s60a–1].
+    2001—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 2001, to the figure “$26,329”, see section 9 of Salary Directive of President pro tempore of the Senate, Dec. 20, 2000, formerly set out as a note under [section 4571 of Title 2][/us/usc/t2/s4571].
 
-    2000—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 2000, to the figure “$25,362”, see section 9 of Salary Directive of President pro tempore of the Senate, Dec. 12, 1999, formerly set out as a note under [section 60a–1 of Title 2][/us/usc/t2/s60a–1].
+    2000—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 2000, to the figure “$25,362”, see section 9 of Salary Directive of President pro tempore of the Senate, Dec. 12, 1999, formerly set out as a note under [section 4571 of Title 2][/us/usc/t2/s4571].
 
-    1999—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 1999, to the figure “$24,433”, see section 9 of Salary Directive of President pro tempore of the Senate, Dec. 16, 1998, formerly set out as a note under [section 60a–1 of Title 2][/us/usc/t2/s60a–1].
+    1999—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 1999, to the figure “$24,433”, see section 9 of Salary Directive of President pro tempore of the Senate, Dec. 16, 1998, formerly set out as a note under [section 4571 of Title 2][/us/usc/t2/s4571].
 
-    1998—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 1998, to the figure “$23,698”, see section 9 of Salary Directive of President pro tempore of the Senate, Dec. 19, 1997, formerly set out as a note under [section 60a–1 of Title 2][/us/usc/t2/s60a–1].
+    1998—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 1998, to the figure “$23,698”, see section 9 of Salary Directive of President pro tempore of the Senate, Dec. 19, 1997, formerly set out as a note under [section 4571 of Title 2][/us/usc/t2/s4571].
 
-    1997—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 1997, to the figure “$23,165”, see section 9 of Salary Directive of President pro tempore of the Senate, Dec. 18, 1996, formerly set out as a note under [section 60a–1 of Title 2][/us/usc/t2/s60a–1].
+    1997—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 1997, to the figure “$23,165”, see section 9 of Salary Directive of President pro tempore of the Senate, Dec. 18, 1996, formerly set out as a note under [section 4571 of Title 2][/us/usc/t2/s4571].
 
-    1995—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 1995, to the figure “$22,200”, see section 9 of Salary Directive of President pro tempore of the Senate, Dec. 28, 1994, formerly set out as a note under [section 60a–1 of Title 2][/us/usc/t2/s60a–1].
+    1995—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 1995, to the figure “$22,200”, see section 9 of Salary Directive of President pro tempore of the Senate, Dec. 28, 1994, formerly set out as a note under [section 4571 of Title 2][/us/usc/t2/s4571].
 
-    1993—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 1993, to the figure “$21,764”, see section 9 of Salary Directive of President pro tempore of the Senate, Dec. 17, 1992, formerly set out as a note under [section 60a–1 of Title 2][/us/usc/t2/s60a–1].
+    1993—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 1993, to the figure “$21,764”, see section 9 of Salary Directive of President pro tempore of the Senate, Dec. 17, 1992, formerly set out as a note under [section 4571 of Title 2][/us/usc/t2/s4571].
 
-    1992—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 1992, to the figure “$20,987”, see section 9 of Salary Directive of President pro tempore of the Senate, Dec. 18, 1991, formerly set out as a note under [section 60a–1 of Title 2][/us/usc/t2/s60a–1].
+    1992—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 1992, to the figure “$20,987”, see section 9 of Salary Directive of President pro tempore of the Senate, Dec. 18, 1991, formerly set out as a note under [section 4571 of Title 2][/us/usc/t2/s4571].
 
-    1991—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 1991, to the figure “$20,141”, see section 9 of Salary Directive of President pro tempore of the Senate, Dec. 20, 1990, formerly set out as a note under [section 60a–1 of Title 2][/us/usc/t2/s60a–1].
+    1991—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 1991, to the figure “$20,141”, see section 9 of Salary Directive of President pro tempore of the Senate, Dec. 20, 1990, formerly set out as a note under [section 4571 of Title 2][/us/usc/t2/s4571].
 
-    1990—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 1990, to the figure “$19,347”, see section 9 of Salary Directive of President pro tempore of the Senate, Dec. 21, 1989, formerly set out as a note under [section 60a–1 of Title 2][/us/usc/t2/s60a–1].
+    1990—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 1990, to the figure “$19,347”, see section 9 of Salary Directive of President pro tempore of the Senate, Dec. 21, 1989, formerly set out as a note under [section 4571 of Title 2][/us/usc/t2/s4571].
 
-    1989—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 1989, to the figure “$18,674”, see section 9 of Salary Directive of President pro tempore of the Senate, Dec. 9, 1988, formerly set out as a note under [section 60a–1 of Title 2][/us/usc/t2/s60a–1].
+    1989—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 1989, to the figure “$18,674”, see section 9 of Salary Directive of President pro tempore of the Senate, Dec. 9, 1988, formerly set out as a note under [section 4571 of Title 2][/us/usc/t2/s4571].
 
-    1988—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 1988, to the figure “$17,938”, see section 9 of Salary Directive of President pro tempore of the Senate, Jan. 4, 1988, formerly set out as a note under [section 60a–1 of Title 2][/us/usc/t2/s60a–1].
+    1988—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 1988, to the figure “$17,938”, see section 9 of Salary Directive of President pro tempore of the Senate, Jan. 4, 1988, formerly set out as a note under [section 4571 of Title 2][/us/usc/t2/s4571].
 
-    1987—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 1987, to the figure “$17,586”, see section 9 of Salary Directive of President pro tempore of the Senate, Dec. 19, 1986, formerly set out as a note under [section 60a–1 of Title 2][/us/usc/t2/s60a–1].
+    1987—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 1987, to the figure “$17,586”, see section 9 of Salary Directive of President pro tempore of the Senate, Dec. 19, 1986, formerly set out as a note under [section 4571 of Title 2][/us/usc/t2/s4571].
 
-    1985—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 1985, to the figure “$17,073”, see section 9 of Salary Directive of President pro tempore of the Senate, Jan. 4, 1985, formerly set out as a note under [section 60a–1 of Title 2][/us/usc/t2/s60a–1].
+    1985—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 1985, to the figure “$17,073”, see section 9 of Salary Directive of President pro tempore of the Senate, Jan. 4, 1985, formerly set out as a note under [section 4571 of Title 2][/us/usc/t2/s4571].
 
-    1984—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 1984, to the figure “$16,495”, see section 9 of Salary Directive of President pro tempore of the Senate, Dec. 20, 1983, formerly set out as a note under [section 60a–1 of Title 2][/us/usc/t2/s60a–1].
+    1984—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 1984, to the figure “$16,495”, see section 9 of Salary Directive of President pro tempore of the Senate, Dec. 20, 1983, formerly set out as a note under [section 4571 of Title 2][/us/usc/t2/s4571].
 
-    1982—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Oct. 1, 1982, to the figure “$15,860”, see section 9 of Salary Directive of President pro tempore of the Senate, Oct. 1, 1982, formerly set out as a note under [section 60a–1 of Title 2][/us/usc/t2/s60a–1].
+    1982—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Oct. 1, 1982, to the figure “$15,860”, see section 9 of Salary Directive of President pro tempore of the Senate, Oct. 1, 1982, formerly set out as a note under [section 4571 of Title 2][/us/usc/t2/s4571].
 
-    1980—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Oct. 1, 1980, to the figure “$14,551”, see section 9 of Salary Directive of President pro tempore of the Senate, Oct. 1, 1980, formerly set out as a note under [section 60a–1 of Title 2][/us/usc/t2/s60a–1].
+    1980—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Oct. 1, 1980, to the figure “$14,551”, see section 9 of Salary Directive of President pro tempore of the Senate, Oct. 1, 1980, formerly set out as a note under [section 4571 of Title 2][/us/usc/t2/s4571].
 
-    1979—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Oct. 1, 1979, to the figure “$13,337”, see section 9 of Salary Directive of President pro tempore of the Senate, Oct. 13, 1979, formerly set out as a note under [section 60a–1 of Title 2][/us/usc/t2/s60a–1].
+    1979—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Oct. 1, 1979, to the figure “$13,337”, see section 9 of Salary Directive of President pro tempore of the Senate, Oct. 13, 1979, formerly set out as a note under [section 4571 of Title 2][/us/usc/t2/s4571].
 
-    1978—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Oct. 1, 1978, to the figure “$12,480”, see section 9 of Salary Directive of President pro tempore of the Senate, Oct. 9, 1978, formerly set out as a note under [section 60a–1 of Title 2][/us/usc/t2/s60a–1].
+    1978—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Oct. 1, 1978, to the figure “$12,480”, see section 9 of Salary Directive of President pro tempore of the Senate, Oct. 9, 1978, formerly set out as a note under [section 4571 of Title 2][/us/usc/t2/s4571].
 
-    1977—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Oct. 1, 1977, to the figure “$11,830”, see section 9 of Salary Directive of President pro tempore of the Senate, Sept. 27, 1977, formerly set out as a note under [section 60a–1 of Title 2][/us/usc/t2/s60a–1].
+    1977—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Oct. 1, 1977, to the figure “$11,830”, see section 9 of Salary Directive of President pro tempore of the Senate, Sept. 27, 1977, formerly set out as a note under [section 4571 of Title 2][/us/usc/t2/s4571].
 
-    1976—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Oct. 1, 1976, to the figure “$11,050”, see section 9 of Salary Directive of President pro tempore of the Senate, Oct. 8, 1976, formerly set out as a note under [section 60a–1 of Title 2][/us/usc/t2/s60a–1].
+    1976—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Oct. 1, 1976, to the figure “$11,050”, see section 9 of Salary Directive of President pro tempore of the Senate, Oct. 8, 1976, formerly set out as a note under [section 4571 of Title 2][/us/usc/t2/s4571].
 
-    1973—The figure “7,724” in subsection (c)(1) of this section, deemed to refer, effective Jan. 1, 1973, to the figure “9,080”, see section 9 of Salary Directive of President pro tempore of the Senate, Dec. 16, 1972, formerly set out as a note under [section 60a–1 of Title 2][/us/usc/t2/s60a–1].
+    1973—The figure “7,724” in subsection (c)(1) of this section, deemed to refer, effective Jan. 1, 1973, to the figure “9,080”, see section 9 of Salary Directive of President pro tempore of the Senate, Dec. 16, 1972, formerly set out as a note under [section 4571 of Title 2][/us/usc/t2/s4571].
 
-    1972—The figure “7,724” in subsection (c)(1) of this section, deemed to refer, effective Jan. 1, 1972, to the figure “8,637”, see section 9 of Salary Directive of President pro tempore of the Senate, Dec. 23, 1971, formerly set out as a note under [section 60a–1 of Title 2][/us/usc/t2/s60a–1].
+    1972—The figure “7,724” in subsection (c)(1) of this section, deemed to refer, effective Jan. 1, 1972, to the figure “8,637”, see section 9 of Salary Directive of President pro tempore of the Senate, Dec. 23, 1971, formerly set out as a note under [section 4571 of Title 2][/us/usc/t2/s4571].
 
-    1971—The figure “7,724” in subsection (c)(1) of this section, deemed to refer, effective Feb. 1, 1971, to the figure “8,187”, see section 9 of Salary Directive of President pro tempore of the Senate, Jan. 15, 1971, formerly set out as a note under [section 60a–1 of Title 2][/us/usc/t2/s60a–1].
+    1971—The figure “7,724” in subsection (c)(1) of this section, deemed to refer, effective Feb. 1, 1971, to the figure “8,187”, see section 9 of Salary Directive of President pro tempore of the Senate, Jan. 15, 1971, formerly set out as a note under [section 4571 of Title 2][/us/usc/t2/s4571].
 
     1970—Adjustment by President pro tempore of the Senate with respect to Senate, by Finance Clerk of House with respect to House of Representatives, and by Architect of Capitol with respect to Office of Architect of Capitol, effective on the first day of the first pay period which begins on or after Dec. 27, 1969, of rates of pay of employees of legislative branch subject to [section 214 of Pub. L. 90–206][/us/pl/90/206/s214] with certain exceptions, by amounts of adjustment for corresponding rates for employees subject to the General Schedule, set out in [section 5332 of this title][/us/usc/t5/s5332], which had been made by [section 2 of Pub. L. 91–231][/us/pl/91/231/s2] raising such rates by 6 percent, see [Pub. L. 91–231][/us/pl/91/231], formerly set out as a note under [section 5332 of this title][/us/usc/t5/s5332].
 
-    1969—The figure “6,662” in subsection (c)(1)(A) of this section, as increased by Order of June 12, 1968, deemed, on and after July 1, 1969, to refer to the figure “7,287”, see section 4(d) of Salary Directive of President pro tempore of the Senate, June 17, 1969, formerly set out as a note under [section 60a–1 of Title 2][/us/usc/t2/s60a–1].
+    1969—The figure “6,662” in subsection (c)(1)(A) of this section, as increased by Order of June 12, 1968, deemed, on and after July 1, 1969, to refer to the figure “7,287”, see section 4(d) of Salary Directive of President pro tempore of the Senate, June 17, 1969, formerly set out as a note under [section 4571 of Title 2][/us/usc/t2/s4571].
 
-    1968—The figure “6,256” in subsection (c)(1)(A) of this section deemed to refer, on and after July 1, 1968, to the figure “6,622”, see section 1(i) of Salary Directive of President pro tempore of the Senate, June 12, 1968, formerly set out as a note under [section 60a–1 of Title 2][/us/usc/t2/s60a–1].
+    1968—The figure “6,256” in subsection (c)(1)(A) of this section deemed to refer, on and after July 1, 1968, to the figure “6,622”, see section 1(i) of Salary Directive of President pro tempore of the Senate, June 12, 1968, formerly set out as a note under [section 4571 of Title 2][/us/usc/t2/s4571].
 
 ----------
 
@@ -347,53 +347,53 @@ Aug. 19, 1964, Pub. L. 88–448, § 301 (less (e)), 78 Stat. 488.  </td>
 [/us/usc/t5/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs1101
 [/us/pl/91/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F510
 [/us/pl/91/510/s601/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F510%2Fs601%2F1
-[/us/usc/t2/s72a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs72a
+[/us/usc/t2/s4301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4301
 [/us/pl/90/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F206
 [/us/pl/90/206/s220/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F206%2Fs220%2Fa%2F3
 [/us/usc/t28/s603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs603
 [/us/pl/90/57]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F57
 [/us/pl/90/57/s105/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F57%2Fs105%2Fk
-[/us/usc/t2/s61–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs61%E2%80%931
+[/us/usc/t2/s4575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4575
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
-[/us/usc/t2/s60a–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs60a%E2%80%931
-[/us/usc/t2/s60a–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs60a%E2%80%931
-[/us/usc/t2/s60a–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs60a%E2%80%931
-[/us/usc/t2/s60a–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs60a%E2%80%931
-[/us/usc/t2/s60a–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs60a%E2%80%931
-[/us/usc/t2/s60a–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs60a%E2%80%931
-[/us/usc/t2/s60a–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs60a%E2%80%931
-[/us/usc/t2/s60a–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs60a%E2%80%931
-[/us/usc/t2/s60a–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs60a%E2%80%931
-[/us/usc/t2/s60a–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs60a%E2%80%931
-[/us/usc/t2/s60a–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs60a%E2%80%931
-[/us/usc/t2/s60a–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs60a%E2%80%931
-[/us/usc/t2/s60a–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs60a%E2%80%931
-[/us/usc/t2/s60a–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs60a%E2%80%931
-[/us/usc/t2/s60a–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs60a%E2%80%931
-[/us/usc/t2/s60a–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs60a%E2%80%931
-[/us/usc/t2/s60a–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs60a%E2%80%931
-[/us/usc/t2/s60a–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs60a%E2%80%931
-[/us/usc/t2/s60a–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs60a%E2%80%931
-[/us/usc/t2/s60a–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs60a%E2%80%931
-[/us/usc/t2/s60a–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs60a%E2%80%931
-[/us/usc/t2/s60a–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs60a%E2%80%931
-[/us/usc/t2/s60a–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs60a%E2%80%931
-[/us/usc/t2/s60a–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs60a%E2%80%931
-[/us/usc/t2/s60a–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs60a%E2%80%931
-[/us/usc/t2/s60a–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs60a%E2%80%931
-[/us/usc/t2/s60a–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs60a%E2%80%931
-[/us/usc/t2/s60a–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs60a%E2%80%931
-[/us/usc/t2/s60a–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs60a%E2%80%931
-[/us/usc/t2/s60a–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs60a%E2%80%931
-[/us/usc/t2/s60a–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs60a%E2%80%931
-[/us/usc/t2/s60a–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs60a%E2%80%931
-[/us/usc/t2/s60a–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs60a%E2%80%931
+[/us/usc/t2/s4571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4571
+[/us/usc/t2/s4571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4571
+[/us/usc/t2/s4571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4571
+[/us/usc/t2/s4571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4571
+[/us/usc/t2/s4571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4571
+[/us/usc/t2/s4571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4571
+[/us/usc/t2/s4571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4571
+[/us/usc/t2/s4571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4571
+[/us/usc/t2/s4571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4571
+[/us/usc/t2/s4571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4571
+[/us/usc/t2/s4571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4571
+[/us/usc/t2/s4571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4571
+[/us/usc/t2/s4571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4571
+[/us/usc/t2/s4571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4571
+[/us/usc/t2/s4571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4571
+[/us/usc/t2/s4571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4571
+[/us/usc/t2/s4571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4571
+[/us/usc/t2/s4571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4571
+[/us/usc/t2/s4571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4571
+[/us/usc/t2/s4571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4571
+[/us/usc/t2/s4571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4571
+[/us/usc/t2/s4571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4571
+[/us/usc/t2/s4571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4571
+[/us/usc/t2/s4571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4571
+[/us/usc/t2/s4571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4571
+[/us/usc/t2/s4571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4571
+[/us/usc/t2/s4571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4571
+[/us/usc/t2/s4571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4571
+[/us/usc/t2/s4571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4571
+[/us/usc/t2/s4571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4571
+[/us/usc/t2/s4571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4571
+[/us/usc/t2/s4571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4571
+[/us/usc/t2/s4571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4571
 [/us/pl/90/206/s214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F206%2Fs214
 [/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332
 [/us/pl/91/231/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F231%2Fs2
 [/us/pl/91/231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F231
 [/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332
-[/us/usc/t2/s60a–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs60a%E2%80%931
-[/us/usc/t2/s60a–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs60a%E2%80%931
+[/us/usc/t2/s4571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4571
+[/us/usc/t2/s4571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4571
 
 

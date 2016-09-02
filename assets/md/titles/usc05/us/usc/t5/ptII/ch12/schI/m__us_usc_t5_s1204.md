@@ -113,7 +113,9 @@
 
         (2) If an employee or applicant for employment is the prevailing party of a case arising under section 1215 and the decision is based on a finding of discrimination prohibited under [section 2302(b)(1) of this title][/us/usc/t5/s2302/b/1], the payment of attorney fees shall be in accordance with the standards prescribed under section 706(k) of the Civil Rights Act of 1964 ([42 U.S.C. 2000e–5(k)][/us/usc/t42/s2000e–5/k]).
 
-(Added [Pub. L. 95–454, title II, § 202(a)][/us/pl/95/454/s202/a], Oct. 13, 1978, [92 Stat. 1122][/us/stat/92/1122], § 1205; amended [Pub. L. 97–258, § 3(a)(2)][/us/pl/97/258/s3/a/2], Sept. 13, 1982, [96 Stat. 1063][/us/stat/96/1063]; renumbered § 1204 and amended [Pub. L. 101–12, § 3(a)(7)][/us/pl/101/12/s3/a/7], Apr. 10, 1989, [103 Stat. 17][/us/stat/103/17]; [Pub. L. 102–568, title V, § 506(c)(4)][/us/pl/102/568/s506/c/4], Oct. 29, 1992, [106 Stat. 4341][/us/stat/106/4341]; [Pub. L. 103–353, § 2(b)(2)(A)][/us/pl/103/353/s2/b/2/A], Oct. 13, 1994, [108 Stat. 3169][/us/stat/108/3169]; [Pub. L. 103–424, § 2][/us/pl/103/424/s2], Oct. 29, 1994, [108 Stat. 4361][/us/stat/108/4361]; [Pub. L. 103–446, title XII, § 1203(c)(1)][/us/pl/103/446/s1203/c/1], Nov. 2, 1994, [108 Stat. 4690][/us/stat/108/4690]; [Pub. L. 112–199, title I, § 107(a)][/us/pl/112/199/s107/a], Nov. 27, 2012, [126 Stat. 1469][/us/stat/126/1469].)
+    (n) The Board may accept and use gifts and donations of property and services to carry out the duties of the Board.
+
+(Added [Pub. L. 95–454, title II, § 202(a)][/us/pl/95/454/s202/a], Oct. 13, 1978, [92 Stat. 1122][/us/stat/92/1122], § 1205; amended [Pub. L. 97–258, § 3(a)(2)][/us/pl/97/258/s3/a/2], Sept. 13, 1982, [96 Stat. 1063][/us/stat/96/1063]; renumbered § 1204 and amended [Pub. L. 101–12, § 3(a)(7)][/us/pl/101/12/s3/a/7], Apr. 10, 1989, [103 Stat. 17][/us/stat/103/17]; [Pub. L. 102–568, title V, § 506(c)(4)][/us/pl/102/568/s506/c/4], Oct. 29, 1992, [106 Stat. 4341][/us/stat/106/4341]; [Pub. L. 103–353, § 2(b)(2)(A)][/us/pl/103/353/s2/b/2/A], Oct. 13, 1994, [108 Stat. 3169][/us/stat/108/3169]; [Pub. L. 103–424, § 2][/us/pl/103/424/s2], Oct. 29, 1994, [108 Stat. 4361][/us/stat/108/4361]; [Pub. L. 103–446, title XII, § 1203(c)(1)][/us/pl/103/446/s1203/c/1], Nov. 2, 1994, [108 Stat. 4690][/us/stat/108/4690]; [Pub. L. 112–199, title I, § 107(a)][/us/pl/112/199/s107/a], Nov. 27, 2012, [126 Stat. 1469][/us/stat/126/1469]; [Pub. L. 113–76, div. E, title V][/us/pl/113/76], Jan. 17, 2014, [128 Stat. 217][/us/stat/128/217].)
 
  __References in Text__ 
 
@@ -124,6 +126,8 @@
     A prior section 1204 was renumbered [section 1211(b) of this title][/us/usc/t5/s1211/b] by [Pub. L. 101–12, § 3(a)(6)][/us/pl/101/12/s3/a/6]. [Pub. L. 102–378, § 2(3)][/us/pl/102/378/s2/3], Oct. 2, 1992, [106 Stat. 1346][/us/stat/106/1346], struck out section catchline of prior section 1204.
 
  __Amendments__ 
+
+    2014—Subsec. (n). [Pub. L. 113–76][/us/pl/113/76] added subsec. (n).
 
     2012—Subsec. (m)(1). [Pub. L. 112–199][/us/pl/112/199] substituted “agency where the prevailing party was employed or had applied for employment at the time of the events giving rise to the case” for “agency involved”.
 
@@ -229,10 +233,13 @@
 [/us/stat/108/4690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4690
 [/us/pl/112/199/s107/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F199%2Fs107%2Fa
 [/us/stat/126/1469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1469
+[/us/pl/113/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76
+[/us/stat/128/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F217
 [/us/usc/t5/s1211/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs1211%2Fb
 [/us/pl/101/12/s3/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F12%2Fs3%2Fa%2F6
 [/us/pl/102/378/s2/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378%2Fs2%2F3
 [/us/stat/106/1346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1346
+[/us/pl/113/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76
 [/us/pl/112/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F199
 [/us/pl/103/446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446
 [/us/pl/103/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F353

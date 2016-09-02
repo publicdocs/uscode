@@ -115,7 +115,7 @@ June 29, 1940, ch. 446, § 1, 54 Stat. 689.  </td>
 
  __Effective Date of 1976 Amendment__ 
 
-    Amendment by [Pub. L. 94–310][/us/pl/94/310] effective Oct. 1, 1976, see [section 4 of Pub. L. 94–310][/us/pl/94/310/s4], set out as a note under [section 130b of Title 2][/us/usc/t2/s130b], The Congress.
+    Amendment by [Pub. L. 94–310][/us/pl/94/310] effective Oct. 1, 1976, see [section 4 of Pub. L. 94–310][/us/pl/94/310/s4], set out as a note under [section 4503 of Title 2][/us/usc/t2/s4503], The Congress.
 
  __Termination of Trust Territory of the Pacific Islands__ 
 
@@ -161,7 +161,7 @@ June 29, 1940, ch. 446, § 1, 54 Stat. 689.  </td>
 [/us/usc/t5/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs1101
 [/us/pl/94/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F310
 [/us/pl/94/310/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F310%2Fs4
-[/us/usc/t2/s130b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs130b
+[/us/usc/t2/s4503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4503
 [/us/usc/t48/s1681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1681
 
 

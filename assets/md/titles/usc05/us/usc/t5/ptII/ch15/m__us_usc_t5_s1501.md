@@ -171,7 +171,7 @@ July 19, 1940, ch. 640, § 4 “Sec. 15 (as applicable to § 12 of the Act o
 
  __Effective Date of 1974 Amendment__ 
 
-    Amendment by [Pub. L. 93–443][/us/pl/93/443] effective Jan. 1, 1975, see [section 410(a) of Pub. L. 93–443][/us/pl/93/443/s410/a], set out as a note under [section 431 of Title 2][/us/usc/t2/s431], The Congress.
+    Amendment by [Pub. L. 93–443][/us/pl/93/443] effective Jan. 1, 1975, see [section 410(a) of Pub. L. 93–443][/us/pl/93/443/s410/a], set out as a note under [section 30101 of Title 52][/us/usc/t52/s30101], Voting and Elections.
 
 ----------
 
@@ -194,6 +194,6 @@ July 19, 1940, ch. 640, § 4 “Sec. 15 (as applicable to § 12 of the Act o
 [/us/usc/t5/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs101
 [/us/pl/93/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443
 [/us/pl/93/443/s410/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443%2Fs410%2Fa
-[/us/usc/t2/s431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs431
+[/us/usc/t52/s30101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs30101
 
 

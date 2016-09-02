@@ -253,7 +253,7 @@ Mar. 17, 1964, Pub. L. 88–284, § 1(5), 78 Stat. 164.  </td>
 
 [Pub. L. 113–67, div. A, title VII, § 706(d)][/us/pl/113/67/s706/d], Dec. 26, 2013, [127 Stat. 1194][/us/stat/127/1194], provided that: 
 
-> “For the first contract year for which an employee may enroll for self plus one coverage under chapter 89 of title 5, United States Code \[[5 U.S.C. 8901][/us/usc/t5/s8901] et seq.\], the Office of Personnel Management shall determine the weighted average of the subscription charges that will be in effect for the contract year for enrollments for self plus one under such chapter based on an actuarial analysis.”
+> “For the first contract year for which an employee may enroll for self plus one coverage under chapter 89 of title 5, United States Code, the Office of Personnel Management shall determine the weighted average of the subscription charges that will be in effect for the contract year for enrollments for self plus one under such chapter based on an actuarial analysis.”
 
  __Election of Health Benefits Coverage and Entitlement to Health Benefits Under this Chapter Rather Than Under Retired Federal Employees Health Benefits Act__ 
 
@@ -261,7 +261,7 @@ Mar. 17, 1964, Pub. L. 88–284, § 1(5), 78 Stat. 164.  </td>
 
 > “Sec. 2.
 
->      (a) Notwithstanding any other provision of law, an annuitant, as defined under [section 8901(3) of title 5][/us/usc/t5/s8901/3], United States Code, who is participating or who is eligible to participate in the health benefits program offered under the Retired Federal Employees Health Benefits Act ([74 Stat. 849][/us/stat/74/849]; [Public Law 86–724][/us/pl/86/724]), may elect, in accordance with regulations prescribed by the United States Civil Service Commission, to be covered under the provisions of chapter 89 of title 5, United States Code \[[5 U.S.C. 8901][/us/usc/t5/s8901] et seq.\], in lieu of coverage under such Act.
+>      (a) Notwithstanding any other provision of law, an annuitant, as defined under [section 8901(3) of title 5][/us/usc/t5/s8901/3], United States Code, who is participating or who is eligible to participate in the health benefits program offered under the Retired Federal Employees Health Benefits Act ([74 Stat. 849][/us/stat/74/849]; [Public Law 86–724][/us/pl/86/724]), may elect, in accordance with regulations prescribed by the United States Civil Service Commission, to be covered under the provisions of chapter 89 of title 5, United States Code, in lieu of coverage under such Act.
 
 >     “(b) An annuitant who elects to be covered under the provisions of chapter 89 of title 5, United States Code, in accordance with subsection (a) of this section, shall be entitled to the benefits under such chapter 89.
 
@@ -349,12 +349,10 @@ Mar. 17, 1964, Pub. L. 88–284, § 1(5), 78 Stat. 164.  </td>
 [/us/usc/t5/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs1101
 [/us/pl/113/67/s706/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs706%2Fd
 [/us/stat/127/1194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1194
-[/us/usc/t5/s8901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8901
 [/us/pl/93/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F246
 [/us/stat/88/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F4
 [/us/usc/t5/s8901/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8901%2F3
 [/us/stat/74/849]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F849
 [/us/pl/86/724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F724
-[/us/usc/t5/s8901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8901
 
 

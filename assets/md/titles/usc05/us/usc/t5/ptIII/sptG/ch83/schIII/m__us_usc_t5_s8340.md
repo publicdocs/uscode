@@ -365,7 +365,7 @@ In subsection (a), the words “Effective December 1, 1965 \* \* \* before D
 
  __Cost-of-Living Adjustments During Fiscal Years 1983, 1984, and 1985__ 
 
-Section 301(a)–(c) of [Pub. L. 97–253][/us/pl/97/253], as amended by [Pub. L. 98–270, title I, § 201(c)][/us/pl/98/270/s201/c], Apr. 18, 1984, [98 Stat. 158][/us/stat/98/158]; [Pub. L. 98–396, title I][/us/pl/98/396], Aug. 22, 1984, [98 Stat. 1403][/us/stat/98/1403], provided that:
+[Pub. L. 97–253, title III, § 301(a)][/us/pl/97/253/s301/a]–(c), Sept. 8, 1982, [96 Stat. 790][/us/stat/96/790], 791, as amended by [Pub. L. 98–270, title I, § 201(c)][/us/pl/98/270/s201/c], Apr. 18, 1984, [98 Stat. 158][/us/stat/98/158]; [Pub. L. 98–396, title I][/us/pl/98/396], Aug. 22, 1984, [98 Stat. 1403][/us/stat/98/1403], provided that:
 
 >     “(a)
 
@@ -528,7 +528,8 @@ Section 301(a)–(c) of [Pub. L. 97–253][/us/pl/97/253], as amended by [Pub. L
 [/us/stat/106/3196]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3196
 [/us/pl/98/369/s2201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2201%2Fa
 [/us/usc/t5/s8340/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8340%2Fb
-[/us/pl/97/253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F253
+[/us/pl/97/253/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F253%2Fs301%2Fa
+[/us/stat/96/790]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F790
 [/us/pl/98/270/s201/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F270%2Fs201%2Fc
 [/us/stat/98/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F158
 [/us/pl/98/396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F396

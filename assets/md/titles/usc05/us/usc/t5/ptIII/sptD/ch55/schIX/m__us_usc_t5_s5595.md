@@ -155,7 +155,7 @@
 
         (3) If an employee fails to repay to an agency an amount required to be repaid under paragraph (2)(A), that amount is recoverable from the employee as a debt due the United States.
 
-        (4) This subsection applies with respect to severance pay payable under this section for separations taking effect on or after February 10, 1996, and before October 1, 2014.
+        (4) This subsection applies with respect to severance pay payable under this section for separations taking effect on or after February 10, 1996, and before October 1, 2018.
 
     (j)
 
@@ -171,7 +171,7 @@
 
         (3) If an employee fails to repay to the Department of Energy an amount required to be repaid under paragraph (2)(A), that amount is recoverable from the employee as a debt due the United States.
 
-(Added [Pub. L. 90–83, § 1(34)(C)][/us/pl/90/83/s1/34/C], Sept. 11, 1967, [81 Stat. 201][/us/stat/81/201]; amended [Pub. L. 95–454, title IV, § 408(a)(3)][/us/pl/95/454/s408/a/3], Oct. 13, 1978, [92 Stat. 1173][/us/stat/92/1173]; [Pub. L. 96–70, title I, § 1231(d)][/us/pl/96/70/s1231/d], Sept. 27, 1979, [93 Stat. 470][/us/stat/93/470]; [Pub. L. 96–465, title II, § 2305][/us/pl/96/465/s2305], Oct. 17, 1980, [94 Stat. 2165][/us/stat/94/2165]; [Pub. L. 100–325, § 2(i)(2)][/us/pl/100/325/s2/i/2], May 30, 1988, [102 Stat. 582][/us/stat/102/582]; [Pub. L. 101–474, § 5(k)][/us/pl/101/474/s5/k], Oct. 30, 1990, [104 Stat. 1100][/us/stat/104/1100]; [Pub. L. 101–509, title V, § 529][/us/pl/101/509/s529] \[title I, § 101(b)(9)(J)\], Nov. 5, 1990, [104 Stat. 1427][/us/stat/104/1427], 1442; [Pub. L. 103–337, div. A, title III, § 343(a)][/us/pl/103/337/s343/a], Oct. 5, 1994, [108 Stat. 2721][/us/stat/108/2721]; [Pub. L. 104–106, div. A, title X, § 1035][/us/pl/104/106/s1035], Feb. 10, 1996, [110 Stat. 430][/us/stat/110/430]; [Pub. L. 105–55, title III, § 310(a)][/us/pl/105/55/s310/a], Oct. 7, 1997, [111 Stat. 1199][/us/stat/111/1199]; [Pub. L. 105–275, title III][/us/pl/105/275], §§ 308(a), 309(a), Oct. 21, 1998, [112 Stat. 2452][/us/stat/112/2452], 2454; [Pub. L. 106–31, title V, § 5006][/us/pl/106/31/s5006], May 21, 1999, [113 Stat. 112][/us/stat/113/112]; [Pub. L. 106–65, div. A, title XI, § 1104(a)][/us/pl/106/65/s1104/a], div. C, title XXXII, § 3243, Oct. 5, 1999, [113 Stat. 777][/us/stat/113/777], 965; [Pub. L. 107–314, div. A, title XI, § 1102(a)][/us/pl/107/314/s1102/a], Dec. 2, 2002, [116 Stat. 2660][/us/stat/116/2660]; [Pub. L. 109–163, div. A, title XI, § 1103][/us/pl/109/163/s1103], Jan. 6, 2006, [119 Stat. 3448][/us/stat/119/3448]; [Pub. L. 109–241, title IX, § 902(a)(3)][/us/pl/109/241/s902/a/3], July 11, 2006, [120 Stat. 566][/us/stat/120/566]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title XI, § 1104, Oct. 14, 2008, [122 Stat. 4617][/us/stat/122/4617].)
+(Added [Pub. L. 90–83, § 1(34)(C)][/us/pl/90/83/s1/34/C], Sept. 11, 1967, [81 Stat. 201][/us/stat/81/201]; amended [Pub. L. 95–454, title IV, § 408(a)(3)][/us/pl/95/454/s408/a/3], Oct. 13, 1978, [92 Stat. 1173][/us/stat/92/1173]; [Pub. L. 96–70, title I, § 1231(d)][/us/pl/96/70/s1231/d], Sept. 27, 1979, [93 Stat. 470][/us/stat/93/470]; [Pub. L. 96–465, title II, § 2305][/us/pl/96/465/s2305], Oct. 17, 1980, [94 Stat. 2165][/us/stat/94/2165]; [Pub. L. 100–325, § 2(i)(2)][/us/pl/100/325/s2/i/2], May 30, 1988, [102 Stat. 582][/us/stat/102/582]; [Pub. L. 101–474, § 5(k)][/us/pl/101/474/s5/k], Oct. 30, 1990, [104 Stat. 1100][/us/stat/104/1100]; [Pub. L. 101–509, title V, § 529][/us/pl/101/509/s529] \[title I, § 101(b)(9)(J)\], Nov. 5, 1990, [104 Stat. 1427][/us/stat/104/1427], 1442; [Pub. L. 103–337, div. A, title III, § 343(a)][/us/pl/103/337/s343/a], Oct. 5, 1994, [108 Stat. 2721][/us/stat/108/2721]; [Pub. L. 104–106, div. A, title X, § 1035][/us/pl/104/106/s1035], Feb. 10, 1996, [110 Stat. 430][/us/stat/110/430]; [Pub. L. 105–55, title III, § 310(a)][/us/pl/105/55/s310/a], Oct. 7, 1997, [111 Stat. 1199][/us/stat/111/1199]; [Pub. L. 105–275, title III][/us/pl/105/275], §§ 308(a), 309(a), Oct. 21, 1998, [112 Stat. 2452][/us/stat/112/2452], 2454; [Pub. L. 106–31, title V, § 5006][/us/pl/106/31/s5006], May 21, 1999, [113 Stat. 112][/us/stat/113/112]; [Pub. L. 106–65, div. A, title XI, § 1104(a)][/us/pl/106/65/s1104/a], div. C, title XXXII, § 3243, Oct. 5, 1999, [113 Stat. 777][/us/stat/113/777], 965; [Pub. L. 107–314, div. A, title XI, § 1102(a)][/us/pl/107/314/s1102/a], Dec. 2, 2002, [116 Stat. 2660][/us/stat/116/2660]; [Pub. L. 109–163, div. A, title XI, § 1103][/us/pl/109/163/s1103], Jan. 6, 2006, [119 Stat. 3448][/us/stat/119/3448]; [Pub. L. 109–241, title IX, § 902(a)(3)][/us/pl/109/241/s902/a/3], July 11, 2006, [120 Stat. 566][/us/stat/120/566]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title XI, § 1104, Oct. 14, 2008, [122 Stat. 4617][/us/stat/122/4617]; [Pub. L. 113–66, div. A, title XI, § 1104][/us/pl/113/66/s1104], Dec. 26, 2013, [127 Stat. 886][/us/stat/127/886].)
 
 <table>
 
@@ -246,6 +246,8 @@ Nov. 2, 1966, Pub. L. 89–737, § 2, 80 Stat. 1164.  </td>
     Section 609(b)(1) of the Foreign Service Act of 1980, referred to in subsec. (a)(2)(vi), is classified to [section 4009(b)(1) of Title 22][/us/usc/t22/s4009/b/1].
 
  __Amendments__ 
+
+    2013—Subsec. (i)(4). [Pub. L. 113–66][/us/pl/113/66] substituted “October 1, 2018” for “October 1, 2014”.
 
     2008—Subsec. (i)(4). [Pub. L. 110–417][/us/pl/110/417] substituted “2014” for “2010”.
 
@@ -374,6 +376,8 @@ Nov. 2, 1966, Pub. L. 89–737, § 2, 80 Stat. 1164.  </td>
 [/us/stat/120/566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F566
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4617
+[/us/pl/113/66/s1104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1104
+[/us/stat/127/886]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F886
 [/us/usc/t5/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs105
 [/us/usc/t5/s5311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5311
 [/us/usc/t5/s2105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs2105
@@ -381,6 +385,7 @@ Nov. 2, 1966, Pub. L. 89–737, § 2, 80 Stat. 1164.  </td>
 [/us/usc/t5/s61f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs61f
 [/us/usc/t22/s3602/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3602%2Fa
 [/us/usc/t22/s4009/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4009%2Fb%2F1
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/pl/109/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241
 [/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163

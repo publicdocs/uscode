@@ -25,11 +25,11 @@
 
          knowingly solicit, accept, or receive a political contribution from any person, unless such person is—
 
-            (A) a member of the same Federal labor organization as defined under [section 7103(4) of this title][/us/usc/t5/s7103/4] or a Federal employee organization which as of the date of enactment of the Hatch Act Reform Amendments of 1993 had a multicandidate political committee (as defined under section 315(a)(4) of the Federal Election Campaign Act of 1971 ([2 U.S.C. 441a(a)(4)][/us/usc/t2/s441a/a/4]));
+            (A) a member of the same Federal labor organization as defined under [section 7103(4) of this title][/us/usc/t5/s7103/4] or a Federal employee organization which as of the date of enactment of the Hatch Act Reform Amendments of 1993 had a multicandidate political committee (as defined under section 315(a)(4) of the Federal Election Campaign Act of 1971 ([2 U.S.C. 441a(a)(4)][/us/usc/t2/s441a/a/4]));  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup> 
 
             (B) not a subordinate employee; and
 
-            (C) the solicitation is for a contribution to the multicandidate political committee (as defined under section 315(a)(4) of the Federal Election Campaign Act of 1971 ([2 U.S.C. 441a(a)(4)][/us/usc/t2/s441a/a/4])) of such Federal labor organization as defined under [section 7103(4) of this title][/us/usc/t5/s7103/4] or a Federal employee organization which as of the date of the enactment of the Hatch Act Reform Amendments of 1993 had a multicandidate political committee (as defined under section 315(a)(4) of the Federal Election Campaign Act of 1971 ([2 U.S.C. 441a(a)(4)][/us/usc/t2/s441a/a/4])); or
+            (C) the solicitation is for a contribution to the multicandidate political committee (as defined under section 315(a)(4) of the Federal Election Campaign Act of 1971 ([2 U.S.C. 441a(a)(4)][/us/usc/t2/s441a/a/4])) 1 of such Federal labor organization as defined under [section 7103(4) of this title][/us/usc/t5/s7103/4] or a Federal employee organization which as of the date of the enactment of the Hatch Act Reform Amendments of 1993 had a multicandidate political committee (as defined under section 315(a)(4) of the Federal Election Campaign Act of 1971 ([2 U.S.C. 441a(a)(4)][/us/usc/t2/s441a/a/4])); 1 or
 
         (3) run for the nomination or as a candidate for election to a partisan political office; or
 
@@ -99,6 +99,8 @@
 
     The date of enactment of the Hatch Act Reform Amendments of 1993, referred to in subsec. (a)(2)(A), (C), is the date of enactment of [Pub. L. 103–94][/us/pl/103/94], which was approved Oct. 6, 1993.
 
+    The Federal Election Campaign Act of 1971, referred to in subsec. (a)(2)(A), (C), is [Pub. L. 92–225][/us/pl/92/225], Feb. 7, 1972, [86 Stat. 3][/us/stat/86/3], which was formerly classified principally to chapter 14 (§ 431 et seq.) of Title 2, The Congress, prior to editorial reclassification and renumbering in Title 52, Voting and Elections, and is now classified principally to chapter 301 (§ 30101 et seq.) of Title 52. Section 315 of this Act is now classified to [section 30116 of Title 52][/us/usc/t52/s30116]. For complete classification of this Act to the Code, see Tables.
+
  __Prior Provisions__ 
 
     A prior section 7323, [Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 525][/us/stat/80/525], prohibited employee in Executive agency from requesting, receiving from, or giving to, an employee, a Member of Congress, or an officer of a uniformed service, a thing of value for political purposes and provided for removal from service of employee for violation, prior to the general revision of this subchapter by [Pub. L. 103–94][/us/pl/103/94].
@@ -127,7 +129,7 @@
 
  __Effective Date of 2002 Amendment__ 
 
-    Amendment by [Pub. L. 107–252][/us/pl/107/252] effective upon appointment of all members of the Election Assistance Commission under [section 15323 of Title 42][/us/usc/t42/s15323], The Public Health and Welfare, see [section 15534(a) of Title 42][/us/usc/t42/s15534/a].
+    Amendment by [Pub. L. 107–252][/us/pl/107/252] effective upon appointment of all members of the Election Assistance Commission under [section 20923 of Title 52][/us/usc/t52/s20923], Voting and Elections, see [section 21134(a) of Title 52][/us/usc/t52/s21134/a].
 
  __Effective Date of 1996 Amendment__ 
 
@@ -170,6 +172,9 @@
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4575
 [/us/pl/103/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F94
+[/us/pl/92/225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F225
+[/us/stat/86/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F3
+[/us/usc/t52/s30116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs30116
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F525
 [/us/pl/103/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F94
@@ -186,8 +191,8 @@
 [/us/pl/108/458/s1097/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs1097%2Fa
 [/us/usc/t50/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3001
 [/us/pl/107/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F252
-[/us/usc/t42/s15323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs15323
-[/us/usc/t42/s15534/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs15534%2Fa
+[/us/usc/t52/s20923]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs20923
+[/us/usc/t52/s21134/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs21134%2Fa
 [/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
 [/us/pl/104/201/s1124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1124
 [/us/usc/t10/s193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs193

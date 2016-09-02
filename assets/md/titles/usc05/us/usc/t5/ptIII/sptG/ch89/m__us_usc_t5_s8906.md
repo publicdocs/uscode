@@ -247,7 +247,7 @@ July 18, 1966, Pub. L. 89–504, §§ 406(b), 602, 80 Stat. 298, 303.  </td>
 
  __Amendments__ 
 
-    2013—Subsec. (a)(1). [Pub. L. 113–67][/us/pl/113/67] struck out “and” at end of subpar. (A), added subpar. (B), and redesignated subpar. (B) as (C).
+    2013—Subsec. (a)(1)(B), (C). [Pub. L. 113–67][/us/pl/113/67] added subpar. (B) and redesignated former subpar. (B) as (C).
 
     2006—Subsec. (g)(2)(A). [Pub. L. 109–435][/us/pl/109/435] substituted “shall through September 30, 2016, be paid by the United States Postal Service, and thereafter shall be paid first from the Postal Service Retiree Health Benefits Fund up to the amount contained in the Fund, with any remaining amount paid by the United States Postal Service” for “shall be paid by the United States Postal Service”.
 
@@ -369,7 +369,7 @@ July 18, 1966, Pub. L. 89–504, §§ 406(b), 602, 80 Stat. 298, 303.  </td>
 
  __Effective Date of 1976 Amendment__ 
 
-    Amendment by [Pub. L. 94–310][/us/pl/94/310] effective Oct. 1, 1976, see [section 4 of Pub. L. 94–310][/us/pl/94/310/s4], set out as a note under [section 130b of Title 2][/us/usc/t2/s130b], The Congress.
+    Amendment by [Pub. L. 94–310][/us/pl/94/310] effective Oct. 1, 1976, see [section 4 of Pub. L. 94–310][/us/pl/94/310/s4], set out as a note under [section 4503 of Title 2][/us/usc/t2/s4503], The Congress.
 
  __Effective Date of 1974 Amendment__ 
 
@@ -565,7 +565,7 @@ July 18, 1966, Pub. L. 89–504, §§ 406(b), 602, 80 Stat. 298, 303.  </td>
 [/us/usc/t5/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs1101
 [/us/pl/94/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F310
 [/us/pl/94/310/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F310%2Fs4
-[/us/usc/t2/s130b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs130b
+[/us/usc/t2/s4503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4503
 [/us/pl/93/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F246%2Fs4%2Fa
 [/us/stat/88/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F4
 [/us/pl/93/246/s4/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F246%2Fs4%2Fd

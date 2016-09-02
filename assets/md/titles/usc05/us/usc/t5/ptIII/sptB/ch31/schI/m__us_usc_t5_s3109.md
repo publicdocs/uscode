@@ -125,6 +125,12 @@ Aug. 2, 1946, ch. 744, § 15, 60 Stat. 810.  </td>
 
     Amendment by [Pub. L. 95–454][/us/pl/95/454] effective 9 months after Oct. 13, 1978, and congressional review of provisions of sections 401 through 412 of [Pub. L. 95–454][/us/pl/95/454], see [section 415 of Pub. L. 95–454][/us/pl/95/454/s415], set out as an Effective Date note under [section 3131 of this title][/us/usc/t5/s3131].
 
+ __Limitation on Consulting Services__ 
+
+[Pub. L. 113–76, div. G, title IV, § 401][/us/pl/113/76/s401], Jan. 17, 2014, [128 Stat. 337][/us/stat/128/337], provided that: 
+
+> “In fiscal year 2014 and thereafter, the expenditure of any appropriation under this Act \[div. G of [Pub. L. 113–76][/us/pl/113/76], see Tables for classification\] or any subsequent Act appropriating funds for departments and agencies funded in this Act, for any consulting service through procurement contract, pursuant to [5 U.S.C. 3109][/us/usc/t5/s3109], shall be limited to those contracts where such expenditures are a matter of public record and available for public inspection, except where otherwise provided under existing law, or under existing Executive order issued pursuant to existing law.”
+
  __Appropriations Relating to Labor, Health and Human Services, and Education; Public Disclosure of Consulting Service Through Procurement Contract__ 
 
 [Pub. L. 102–394, title V, § 501][/us/pl/102/394/s501], Oct. 6, 1992, [106 Stat. 1825][/us/stat/106/1825], provided that: 
@@ -201,7 +207,7 @@ Similar provisions were contained in the following prior appropriation acts:
 
     Sec. 3. Definitions. For purposes of this order:
 
-    (a) The term “agency” means an executive agency as defined in [section 105 of title 5][/us/usc/t5/s105], United States Code, and the United States Postal Service and the Postal Regulatory Commission, but shall exclude the Government Accountability Office and elements of the intelligence community (as defined in section 3(4) of the National Security Act of 1947 as amended ([50 U.S.C. 401a(4)][/us/usc/t50/s401a/4])\[now [50 U.S.C. 3003(4)][/us/usc/t50/s3003/4])\].
+    (a) The term “agency” means an executive agency as defined in [section 105 of title 5][/us/usc/t5/s105], United States Code, and the United States Postal Service and the Postal Regulatory Commission, but shall exclude the Government Accountability Office and elements of the intelligence community (as defined in section 3(4) of the National Security Act of 1947 as amended ([50 U.S.C. 401a(4)][/us/usc/t50/s401a/4]) \[now [50 U.S.C. 3003(4)][/us/usc/t50/s3003/4]\]\[)\].
 
     (b) The term “contingency fee agreement” means a contract or other agreement to provide services under which the amount or the payment of the fee for the services is contingent in whole or in part on the outcome of the matter for which the services were obtained. The term does not include:
 
@@ -257,6 +263,10 @@ Similar provisions were contained in the following prior appropriation acts:
 [/us/pl/95/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454
 [/us/pl/95/454/s415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs415
 [/us/usc/t5/s3131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3131
+[/us/pl/113/76/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs401
+[/us/stat/128/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F337
+[/us/pl/113/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76
+[/us/usc/t5/s3109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3109
 [/us/pl/102/394/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F394%2Fs501
 [/us/stat/106/1825]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1825
 [/us/usc/t5/s3109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3109
