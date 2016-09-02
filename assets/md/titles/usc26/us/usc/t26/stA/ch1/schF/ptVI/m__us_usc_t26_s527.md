@@ -215,7 +215,7 @@
 
             For purposes of this subsection, the term “principal campaign committee” means the political committee designated by a candidate for Congress as his principal campaign committee for purposes of—
 
-                (i) section 302(e) of the Federal Election Campaign Act of 1971 ([2 U.S.C. 432(e)][/us/usc/t2/s432/e]), and
+                (i) section 302(e) of the Federal Election Campaign Act of 1971 ([2 U.S.C. 432(e)][/us/usc/t2/s432/e]), <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  and
 
                 (ii) this subsection.
 
@@ -275,7 +275,7 @@
 
         (6) __Coordination with other requirements__ 
 
-            This subsection shall not apply to any person required (without regard to this subsection) to report under the Federal Election Campaign Act of 1971 ([2 U.S.C. 431][/us/usc/t2/s431] et seq.) as a political committee.
+            This subsection shall not apply to any person required (without regard to this subsection) to report under the Federal Election Campaign Act of 1971 ([2 U.S.C. 431][/us/usc/t2/s431] et seq.) 1 as a political committee.
 
     (j) __Required disclosure of expenditures and contributions__ 
 
@@ -327,7 +327,7 @@
 
         This subsection shall not apply—
 
-            (A) to any person required (without regard to this subsection) to report under the Federal Election Campaign Act of 1971 ([2 U.S.C. 431][/us/usc/t2/s431] et seq.) as a political committee,
+            (A) to any person required (without regard to this subsection) to report under the Federal Election Campaign Act of 1971 ([2 U.S.C. 431][/us/usc/t2/s431] et seq.) 1 as a political committee,
 
             (B) to any State or local committee of a political party or political committee of a State or local candidate,
 
@@ -395,9 +395,9 @@
 
  __References in Text__ 
 
-    [Section 610 of title 18][/us/usc/t18/s610], referred to in subsec. (f)(3), was repealed by [Pub. L. 94–283, title II, § 201(a)][/us/pl/94/283/s201/a], May 11, 1976, [90 Stat. 496][/us/stat/90/496]. See [section 441b of Title 2][/us/usc/t2/s441b], The Congress.
+    [Section 610 of title 18][/us/usc/t18/s610], referred to in subsec. (f)(3), was repealed by [Pub. L. 94–283, title II, § 201(a)][/us/pl/94/283/s201/a], May 11, 1976, [90 Stat. 496][/us/stat/90/496].
 
-    The Federal Election Campaign Act of 1971, referred to in subsecs. (i)(6) and (j)(5)(A), is [Pub. L. 92–225][/us/pl/92/225], Feb. 7, 1972, [86 Stat. 3][/us/stat/86/3], as amended, which is classified principally to chapter 14 (§ 431 et seq.) of Title 2, The Congress. Section 301 of the Act is classified to [section 431 of Title 2][/us/usc/t2/s431]. For complete classification of this Act to the Code, see Short Title note set out under [section 431 of Title 2][/us/usc/t2/s431] and Tables.
+    The Federal Election Campaign Act of 1971, referred to in subsecs. (h)(2)(A)(i), (i)(6), and (j)(5)(A), is [Pub. L. 92–225][/us/pl/92/225], Feb. 7, 1972, [86 Stat. 3][/us/stat/86/3], which was formerly classified principally to chapter 14 (§ 431 et seq.) of Title 2, The Congress, prior to editorial reclassification and renumbering in Title 52, Voting and Elections, and is now classified principally to chapter 301 (§ 30101 et seq.) of Title 52. Sections 301 and 302 of the Act are now classified to sections 30101 and 30102 of Title 52, respectively. For complete classification of this Act to the Code, see Tables.
 
  __Amendments__ 
 
@@ -551,7 +551,7 @@
 
 [Pub. L. 95–502, title III, § 302(b)][/us/pl/95/502/s302/b], Oct. 21, 1978, [92 Stat. 1703][/us/stat/92/1703], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
->     “(1) The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1974, except that notwithstanding any other provision of law to the contrary, no amounts held at the date of enactment of this bill \[Oct. 21, 1978\] by an organization described in section 527(e)(1) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] in escrow, in separate accounts for the payment of Federal taxes, or in any other fund which are proceeds described in section 527(c)(3)(D) of such Code may be used, directly or indirectly, to make a contribution or expenditure (as defined in section 301(e) and (f) of the Federal Election Campaign Act of 1971; [2 U.S.C. 431(f)][/us/usc/t2/s431/f]) in connection with any election held before January 1, 1979.
+>     “(1) The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1974, except that notwithstanding any other provision of law to the contrary, no amounts held at the date of enactment of this bill \[Oct. 21, 1978\] by an organization described in section 527(e)(1) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] in escrow, in separate accounts for the payment of Federal taxes, or in any other fund which are proceeds described in section 527(c)(3)(D) of such Code may be used, directly or indirectly, to make a contribution or expenditure (as defined in section 301(e) and (f) of the Federal Election Campaign Act of 1971; [2 U.S.C. 431][/us/usc/t2/s431]\[(e) and\] (f) \[now [52 U.S.C. 30101(8)][/us/usc/t52/s30101/8] and (9)\]) in connection with any election held before January 1, 1979.
 
 >     “(2) Such amounts as described in (1) above shall not be considered as security or collateral for any loan by any State or national bank or any other person or organization.”
 
@@ -575,11 +575,11 @@
 
 >         “(1) the effect of the amendments made by this Act \[amending this section and sections 6012, 6033, 6104, and 7207 of this title\], and
 
->         “(2) the interaction of requirements to file a notification or report under section 527 of the Internal Revenue Code of 1986 and reports under the Federal Election Campaign Act of 1971 \[[2 U.S.C. 431][/us/usc/t2/s431] et seq.\].
+>         “(2) the interaction of requirements to file a notification or report under section 527 of the Internal Revenue Code of 1986 and reports under the Federal Election Campaign Act of 1971 \[[52 U.S.C. 30101][/us/usc/t52/s30101] et seq.\].
 
 >     “(b)  __Information__  __.—__ 
 
->     Information provided under subsection (a) shall be included in any appropriate form, instruction, notice, or other guidance issued to the public by the Secretary of the Treasury or the Federal Election Commission regarding reporting requirements of political organizations (as defined in section 527 of the Internal Revenue Code of 1986) or reporting requirements under the Federal Election Campaign Act of 1971 \[[2 U.S.C. 431][/us/usc/t2/s431] et seq.\].”
+>     Information provided under subsection (a) shall be included in any appropriate form, instruction, notice, or other guidance issued to the public by the Secretary of the Treasury or the Federal Election Commission regarding reporting requirements of political organizations (as defined in section 527 of the Internal Revenue Code of 1986) or reporting requirements under the Federal Election Campaign Act of 1971 \[[52 U.S.C. 30101][/us/usc/t52/s30101] et seq.\].”
 
 ----------
 
@@ -615,11 +615,8 @@
 [/us/usc/t18/s610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs610
 [/us/pl/94/283/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F283%2Fs201%2Fa
 [/us/stat/90/496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F496
-[/us/usc/t2/s441b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs441b
 [/us/pl/92/225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F225
 [/us/stat/86/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F3
-[/us/usc/t2/s431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs431
-[/us/usc/t2/s431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs431
 [/us/pl/107/276/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F276%2Fs2%2Fb
 [/us/pl/107/276/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F276%2Fs6%2Fc
 [/us/pl/107/276/s6/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F276%2Fs6%2Fg%2F1
@@ -686,7 +683,8 @@
 [/us/stat/92/1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1703
 [/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
-[/us/usc/t2/s431/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs431%2Ff
+[/us/usc/t2/s431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs431
+[/us/usc/t52/s30101/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs30101%2F8
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/94/455/s1901/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1901%2Fd
 [/us/usc/t26/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs2
@@ -694,7 +692,7 @@
 [/us/stat/88/2119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2119
 [/us/pl/107/276/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F276%2Fs4
 [/us/stat/116/1932]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1932
-[/us/usc/t2/s431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs431
-[/us/usc/t2/s431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs431
+[/us/usc/t52/s30101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs30101
+[/us/usc/t52/s30101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs30101
 
 

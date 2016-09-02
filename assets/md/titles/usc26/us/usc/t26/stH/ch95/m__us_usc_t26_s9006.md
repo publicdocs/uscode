@@ -59,7 +59,7 @@
 
  __Effective Date of 1974 Amendment__ 
 
-    Amendment by [Pub. L. 93–443][/us/pl/93/443] applicable with respect to taxable years beginning after Dec. 31, 1974, see [section 410(c)(1) of Pub. L. 93–443][/us/pl/93/443/s410/c/1], set out as a note under [section 431 of Title 2][/us/usc/t2/s431], The Congress.
+    Amendment by [Pub. L. 93–443][/us/pl/93/443] applicable with respect to taxable years beginning after Dec. 31, 1974, see [section 410(c)(1) of Pub. L. 93–443][/us/pl/93/443/s410/c/1], set out as a note under [section 30101 of Title 52][/us/usc/t52/s30101], Voting and Elections.
 
  __Additional Appropriations to Campaign Fund__ 
 
@@ -67,7 +67,7 @@
 
 > “In addition to the amounts appropriated to the Presidential Election Campaign Fund established under section 9006 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (relating to payments to eligible candidates) by the last sentence of subsection (a) of such section (as amended by subsection (a) of this section), there is appropriated to such fund an amount equal to the sum of the amounts designated for payment under section 6096 of such Code (relating to designation by individuals to the Presidential Election Campaign Fund) before January 1, 1975, not otherwise taken into account under the provisions of such section 9006, as amended by this section.”
 
-    Provision effective Jan. 1, 1975, see [section 410(a) of Pub. L. 93–443][/us/pl/93/443/s410/a], set out as a note under [section 431 of Title 2][/us/usc/t2/s431], The Congress.
+    Provision effective Jan. 1, 1975, see [section 410(a) of Pub. L. 93–443][/us/pl/93/443/s410/a], set out as a note under [section 30101 of Title 52][/us/usc/t52/s30101], Voting and Elections.
 
  __Designation to the Presidential Election Campaign Fund__ 
 
@@ -110,13 +110,13 @@
 [/us/pl/93/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F53
 [/us/pl/93/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443
 [/us/pl/93/443/s410/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443%2Fs410%2Fc%2F1
-[/us/usc/t2/s431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs431
+[/us/usc/t52/s30101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs30101
 [/us/pl/93/443/s403/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443%2Fs403%2Fb
 [/us/stat/88/1291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1291
 [/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
 [/us/pl/93/443/s410/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443%2Fs410%2Fa
-[/us/usc/t2/s431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs431
+[/us/usc/t52/s30101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs30101
 [/us/usc/t26/s6096]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6096
 [/us/pl/93/53/s6/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F53%2Fs6%2Fd
 [/us/usc/t26/s6096]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6096

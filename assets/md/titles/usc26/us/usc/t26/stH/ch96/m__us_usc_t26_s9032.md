@@ -67,7 +67,7 @@
 
  __References in Text__ 
 
-    Section 306(a)(1) of the Federal Election Campaign Act of 1971, referred to in par. (3), is classified to [section 437c(a)(1) of Title 2][/us/usc/t2/s437c/a/1], The Congress.
+    Section 306(a)(1) of the Federal Election Campaign Act of 1971, referred to in par. (3), is classified to [section 30106(a)(1) of Title 52][/us/usc/t52/s30106/a/1], Voting and Elections.
 
  __Amendments__ 
 
@@ -94,7 +94,7 @@
 [/us/stat/90/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F495
 [/us/pl/110/172/s11/a/42/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F172%2Fs11%2Fa%2F42%2FC
 [/us/stat/121/2488]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2488
-[/us/usc/t2/s437c/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs437c%2Fa%2F1
+[/us/usc/t52/s30106/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs30106%2Fa%2F1
 [/us/pl/110/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F172
 [/us/pl/94/283/s306/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F283%2Fs306%2Fb%2F1
 [/us/pl/94/283/s115/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F283%2Fs115%2Fc%2F2

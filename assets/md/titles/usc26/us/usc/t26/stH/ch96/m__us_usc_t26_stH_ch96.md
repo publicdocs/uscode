@@ -123,7 +123,7 @@
 
  __Prior Provisions__ 
 
-    A prior chapter 96, relating to the Presidential Election Campaign Fund Advisory Board, consisted of section 9021, added by [Pub. L. 92–178, title VIII, § 801][/us/pl/92/178/s801], Dec. 10, 1971, [85 Stat. 572][/us/stat/85/572], providing for the establishment and composition of the Advisory Board and the compensation and status of members, and was repealed by [Pub. L. 93–443, title IV, § 408(c)][/us/pl/93/443/s408/c], Oct. 15, 1974, [88 Stat. 1297][/us/stat/88/1297]. [Section 410(c)(1) of Pub. L. 93–443][/us/pl/93/443/s410/c/1], set out as an Effective Date of 1974 Amendment note under [section 431 of Title 2][/us/usc/t2/s431], The Congress, provided that the amendments made by section 408(c) shall apply with respect to taxable years beginning after Dec. 31, 1974.
+    A prior chapter 96, relating to the Presidential Election Campaign Fund Advisory Board, consisted of section 9021, added by [Pub. L. 92–178, title VIII, § 801][/us/pl/92/178/s801], Dec. 10, 1971, [85 Stat. 572][/us/stat/85/572], providing for the establishment and composition of the Advisory Board and the compensation and status of members, and was repealed by [Pub. L. 93–443, title IV, § 408(c)][/us/pl/93/443/s408/c], Oct. 15, 1974, [88 Stat. 1297][/us/stat/88/1297]. [Section 410(c)(1) of Pub. L. 93–443][/us/pl/93/443/s410/c/1], set out as an Effective Date of 1974 Amendment note under [section 30101 of Title 52][/us/usc/t52/s30101], Voting and Elections, provided that the amendments made by section 408(c) shall apply with respect to taxable years beginning after Dec. 31, 1974.
 
  __Amendments__ 
 
@@ -141,7 +141,7 @@
 [/us/pl/93/443/s408/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443%2Fs408%2Fc
 [/us/stat/88/1297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1297
 [/us/pl/93/443/s410/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443%2Fs410%2Fc%2F1
-[/us/usc/t2/s431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs431
+[/us/usc/t52/s30101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs30101
 [/us/pl/94/283/s305/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F283%2Fs305%2Fb
 [/us/stat/90/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F499
 

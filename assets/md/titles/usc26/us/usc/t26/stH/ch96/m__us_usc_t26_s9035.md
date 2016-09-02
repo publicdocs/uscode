@@ -27,7 +27,7 @@
 
  __References in Text__ 
 
-    Section 320 of The Federal Election Campaign Act of 1971, referred to in subsec. (a), was renumbered section 315 of that Act by [Pub. L. 96–187, title I, § 105(5)][/us/pl/96/187/s105/5], Jan. 8, 1980, [93 Stat. 1354][/us/stat/93/1354], and is classified to [section 441a of Title 2][/us/usc/t2/s441a], The Congress.
+    Section 320 of The Federal Election Campaign Act of 1971, referred to in subsec. (a), was renumbered section 315 of that Act by [Pub. L. 96–187, title I, § 105(5)][/us/pl/96/187/s105/5], Jan. 8, 1980, [93 Stat. 1354][/us/stat/93/1354], and is classified to [section 30116 of Title 52][/us/usc/t52/s30116], Voting and Elections.
 
  __Amendments__ 
 
@@ -52,7 +52,7 @@
 [/us/stat/90/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F499
 [/us/pl/96/187/s105/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F187%2Fs105%2F5
 [/us/stat/93/1354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1354
-[/us/usc/t2/s441a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs441a
+[/us/usc/t52/s30116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs30116
 [/us/pl/94/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F283
 [/us/usc/t18/s608/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs608%2Fc%2F1%2FA
 [/us/pl/94/283/s305/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F283%2Fs305%2Fd

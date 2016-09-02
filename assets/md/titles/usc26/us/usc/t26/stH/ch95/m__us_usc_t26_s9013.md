@@ -21,7 +21,7 @@
 
  __Prior Provisions__ 
 
-    A prior section 9021, added by [Pub. L. 92–178, title VIII, § 801][/us/pl/92/178/s801], Dec. 10, 1971, [85 Stat. 572][/us/stat/85/572], established Presidential Election Campaign Fund Advisory Board, prior to repeal by [Pub. L. 93–443, title IV, § 408(c)][/us/pl/93/443/s408/c], Oct. 15, 1974, [88 Stat. 1297][/us/stat/88/1297]. For effective date of repeal see [section 410(c)(1) of Pub. L. 93–443][/us/pl/93/443/s410/c/1], set out as an Effective Date of 1974 Amendment note under [section 431 of Title 2][/us/usc/t2/s431], The Congress.
+    A prior section 9021, added by [Pub. L. 92–178, title VIII, § 801][/us/pl/92/178/s801], Dec. 10, 1971, [85 Stat. 572][/us/stat/85/572], established Presidential Election Campaign Fund Advisory Board, prior to repeal by [Pub. L. 93–443, title IV, § 408(c)][/us/pl/93/443/s408/c], Oct. 15, 1974, [88 Stat. 1297][/us/stat/88/1297]. For effective date of repeal see [section 410(c)(1) of Pub. L. 93–443][/us/pl/93/443/s410/c/1], set out as an Effective Date of 1974 Amendment note under [section 30101 of Title 52][/us/usc/t52/s30101], Voting and Elections.
 
 ----------
 
@@ -37,6 +37,6 @@
 [/us/pl/93/443/s408/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443%2Fs408%2Fc
 [/us/stat/88/1297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1297
 [/us/pl/93/443/s410/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443%2Fs410%2Fc%2F1
-[/us/usc/t2/s431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs431
+[/us/usc/t52/s30101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs30101
 
 

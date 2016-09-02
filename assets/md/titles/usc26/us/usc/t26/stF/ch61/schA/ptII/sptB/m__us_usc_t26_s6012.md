@@ -301,7 +301,7 @@
 
     Amendment by [Pub. L. 93–625][/us/pl/93/625] applicable to taxable years beginning after Dec. 31, 1974, see [section 10(e) of Pub. L. 93–625][/us/pl/93/625/s10/e], set out as an Effective Date note under [section 527 of this title][/us/usc/t26/s527].
 
-    Amendment by [Pub. L. 93–443][/us/pl/93/443] applicable with respect to taxable years beginning after Dec. 31, 1971, see [section 410(c)(2) of Pub. L. 93–443][/us/pl/93/443/s410/c/2], set out as a note under [section 431 of Title 2][/us/usc/t2/s431], The Congress.
+    Amendment by [Pub. L. 93–443][/us/pl/93/443] applicable with respect to taxable years beginning after Dec. 31, 1971, see [section 410(c)(2) of Pub. L. 93–443][/us/pl/93/443/s410/c/2], set out as a note under [section 30101 of Title 52][/us/usc/t52/s30101], Voting and Elections.
 
  __Effective Date of 1971 Amendment__ 
 
@@ -519,7 +519,7 @@
 [/us/usc/t26/s527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs527
 [/us/pl/93/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443
 [/us/pl/93/443/s410/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443%2Fs410%2Fc%2F2
-[/us/usc/t2/s431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs431
+[/us/usc/t52/s30101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs30101
 [/us/pl/92/178/s204/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F178%2Fs204%2Fa
 [/us/stat/85/511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F511
 [/us/pl/91/172/s941/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs941%2Fa

@@ -57,13 +57,19 @@
 
             The amount of any payment determined under paragraph (1) shall be reduced by the amount of any payment made to the taxpayer for the purchase of qualified health insurance under a national emergency grant pursuant to section 173(f) of the Workforce Investment Act of 1998 for a taxable year including the eligible coverage months described in paragraph (1).
 
-(Added [Pub. L. 107–210, div. A, title II, § 202(a)][/us/pl/107/210/s202/a], Aug. 6, 2002, [116 Stat. 960][/us/stat/116/960]; amended [Pub. L. 111–5, div. B, title I][/us/pl/111/5], §§ 1899A(a)(2), 1899B(a), 1899H(a), Feb. 17, 2009, [123 Stat. 424][/us/stat/123/424], 430; [Pub. L. 111–344, title I][/us/pl/111/344], §§ 111(b), 112(a), 118(a), Dec. 29, 2010, [124 Stat. 3615][/us/stat/124/3615], 3616; [Pub. L. 112–40, title II, § 241(b)(2)][/us/pl/112/40/s241/b/2], Oct. 21, 2011, [125 Stat. 418][/us/stat/125/418].)
+(Added [Pub. L. 107–210, div. A, title II, § 202(a)][/us/pl/107/210/s202/a], Aug. 6, 2002, [116 Stat. 960][/us/stat/116/960]; amended [Pub. L. 111–5, div. B, title I][/us/pl/111/5], §§ 1899A(a)(2), 1899B(a), 1899H(a), Feb. 17, 2009, [123 Stat. 424][/us/stat/123/424], 430; [Pub. L. 111–344, title I][/us/pl/111/344], §§ 111(b), 112(a), 118(a), Dec. 29, 2010, [124 Stat. 3615][/us/stat/124/3615], 3616; [Pub. L. 112–40, title II, § 241(b)(2)][/us/pl/112/40/s241/b/2], Oct. 21, 2011, [125 Stat. 418][/us/stat/125/418]; [Pub. L. 113–128, title V, § 512(r)][/us/pl/113/128/s512/r], July 22, 2014, [128 Stat. 1712][/us/stat/128/1712].)
+
+ __Amendment of Subsection (e)(2)__ 
+
+    [Pub. L. 113–128, title V][/us/pl/113/128], §§ 506, 512(r), July 22, 2014, [128 Stat. 1703][/us/stat/128/1703], 1712, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], subsection (e)(2) of this section is amended by inserting “(as in effect on the day before the date of enactment of the Workforce Innovation and Opportunity Act)” after “of 1998”. See 2014 Amendment note below.
 
  __References in Text__ 
 
     Section 173(f) of the Workforce Investment Act of 1998, referred to in subsec. (e)(2), is classified to [section 2918(f) of Title 29][/us/usc/t29/s2918/f], Labor.
 
  __Amendments__ 
+
+    2014—Subsec. (e)(2). [Pub. L. 113–128][/us/pl/113/128] inserted “(as in effect on the day before the date of enactment of the Workforce Innovation and Opportunity Act)” after “of 1998”.
 
     2011—Subsec. (b). [Pub. L. 112–40, § 241(b)(2)(A)][/us/pl/112/40/s241/b/2/A], substituted “72.5 percent” for “65 percent (80 percent in the case of eligible coverage months beginning before February 13, 2011)”.
 
@@ -88,6 +94,10 @@
     “(2) in the case of an eligible PBGC pension recipient (as defined in section 35(c)(4)), is certified by the Pension Benefit Guaranty Corporation (or by any other person or entity designated by the Secretary).”
 
     Subsec. (e). [Pub. L. 111–5, § 1899B(a)][/us/pl/111/5/s1899B/a], added subsec. (e).
+
+ __Effective Date of 2014 Amendment__ 
+
+    Amendment by [Pub. L. 113–128][/us/pl/113/128] effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see [section 506 of Pub. L. 113–128][/us/pl/113/128/s506], set out as an Effective Date note under [section 3101 of Title 29][/us/usc/t29/s3101], Labor.
 
  __Effective Date of 2011 Amendment__ 
 
@@ -144,7 +154,12 @@
 [/us/stat/124/3615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3615
 [/us/pl/112/40/s241/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40%2Fs241%2Fb%2F2
 [/us/stat/125/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F418
+[/us/pl/113/128/s512/r]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs512%2Fr
+[/us/stat/128/1712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1712
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/stat/128/1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1703
 [/us/usc/t29/s2918/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2918%2Ff
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
 [/us/pl/112/40/s241/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40%2Fs241%2Fb%2F2%2FA
 [/us/pl/112/40/s241/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40%2Fs241%2Fb%2F2%2FB
 [/us/pl/112/40/s241/b/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40%2Fs241%2Fb%2F2%2FD
@@ -155,6 +170,9 @@
 [/us/pl/111/5/s1899A/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs1899A%2Fa%2F2
 [/us/pl/111/5/s1899H/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs1899H%2Fa
 [/us/pl/111/5/s1899B/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs1899B%2Fa
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs506
+[/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101
 [/us/pl/112/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40
 [/us/pl/112/40/s241/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40%2Fs241%2Fb%2F2%2FB
 [/us/pl/112/40/s241/b/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40%2Fs241%2Fb%2F2%2FD

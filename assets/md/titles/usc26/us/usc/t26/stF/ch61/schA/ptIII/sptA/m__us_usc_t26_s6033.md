@@ -355,7 +355,7 @@
 
     [Section 6056 of this title][/us/usc/t26/s6056], referred to in subsec. (c)(1), was repealed by [Pub. L. 96–603, § 1(c)][/us/pl/96/603/s1/c], Dec. 28, 1980, [94 Stat. 3504][/us/stat/94/3504].
 
-    The Federal Election Campaign Act of 1971, referred to in subsec. (g)(3)(F), is [Pub. L. 92–225][/us/pl/92/225], Feb. 7, 1972, [86 Stat. 3][/us/stat/86/3], as amended, which is classified principally to chapter 14 (§ 431 et seq.) of Title 2, The Congress. Section 301 of the Act is classified to [section 431 of Title 2][/us/usc/t2/s431]. For complete classification of this Act to the Code, see Short Title note set out under [section 431 of Title 2][/us/usc/t2/s431] and Tables.
+    The Federal Election Campaign Act of 1971, referred to in subsec. (g)(3)(F), is [Pub. L. 92–225][/us/pl/92/225], Feb. 7, 1972, [86 Stat. 3][/us/stat/86/3], which was formerly classified principally to chapter 14 (§ 431 et seq.) of Title 2, The Congress, prior to editorial reclassification and renumbering in Title 52, Voting and Elections, and is now classified principally to chapter 301 (§ 30101 et seq.) of Title 52. Section 301 of the Act is now classified to [section 30101 of Title 52][/us/usc/t52/s30101]. For complete classification of this Act to the Code, see Tables.
 
  __Codification__ 
 
@@ -616,8 +616,7 @@
 [/us/stat/94/3504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3504
 [/us/pl/92/225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F225
 [/us/stat/86/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F3
-[/us/usc/t2/s431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs431
-[/us/usc/t2/s431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs431
+[/us/usc/t52/s30101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs30101
 [/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
 [/us/pl/111/148/s9007/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs9007%2Fd%2F2
 [/us/pl/111/148/s9007/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs9007%2Fd%2F1

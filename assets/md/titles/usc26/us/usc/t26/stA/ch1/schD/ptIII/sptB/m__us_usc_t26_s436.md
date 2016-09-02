@@ -235,7 +235,7 @@
 
                   <tr>
 
-                    <td>     In the case of a plan year  </td>
+                    <td> In the case of a plan year  </td>
 
                     <td> The applicable  </td>
 
@@ -243,7 +243,7 @@
 
                   <tr>
 
-                    <td>      beginning in calendar year:  </td>
+                    <td>  beginning in calendar year:  </td>
 
                     <td> percentage is  </td>
 
@@ -251,7 +251,7 @@
 
                   <tr>
 
-                    <td> 2008  </td>
+                    <td>   2008  </td>
 
                     <td> 92    </td>
 
@@ -259,7 +259,7 @@
 
                   <tr>
 
-                    <td> 2009  </td>
+                    <td>   2009  </td>
 
                     <td> 94    </td>
 
@@ -267,7 +267,7 @@
 
                   <tr>
 
-                    <td> 2010  </td>
+                    <td>   2010  </td>
 
                     <td> 96.  </td>
 

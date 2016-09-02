@@ -1437,7 +1437,7 @@
 
 [Pub. L. 101–194, title VI, § 603][/us/pl/101/194/s603], Nov. 30, 1989, [103 Stat. 1763][/us/stat/103/1763], provided that: 
 
-> “The amendments made by this title \[amending this section, sections 31–1 and 441i of Title 2, The Congress, and title V of the Ethics in Government Act of 1978, [Pub. L. 95–521][/us/pl/95/521], set out in the Appendix to Title 5, Government Organization and Employees\] shall take effect on January 1, 1991. Such amendments shall cease to be effective if the provisions of section 703 \[[5 U.S.C. 5318][/us/usc/t5/s5318] note\] are subsequently repealed, in which case the laws in effect before such amendments shall be deemed to be reenacted.”
+> “The amendments made by this title \[amending this section, sections 31–1 and former 441i of Title 2, The Congress, and title V of the Ethics in Government Act of 1978, [Pub. L. 95–521][/us/pl/95/521], set out in the Appendix to Title 5, Government Organization and Employees\] shall take effect on January 1, 1991. Such amendments shall cease to be effective if the provisions of section 703 \[[5 U.S.C. 5318][/us/usc/t5/s5318] note\] are subsequently repealed, in which case the laws in effect before such amendments shall be deemed to be reenacted.”
 
  __Effective Date of 1988 Amendment__ 
 

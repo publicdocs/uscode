@@ -27,7 +27,7 @@
 
  __References in Text__ 
 
-    Section 315(b)(1)(A) of the Federal Election Campaign Act of 1971, referred to in subsec. (b), is classified to [section 441a(b)(1)(A) of Title 2][/us/usc/t2/s441a/b/1/A], The Congress.
+    Section 315(b)(1)(A) of the Federal Election Campaign Act of 1971, referred to in subsec. (b), is classified to [section 30116(b)(1)(A) of Title 52][/us/usc/t52/s30116/b/1/A], Voting and Elections.
 
  __Amendments__ 
 
@@ -48,7 +48,7 @@
 [/us/stat/90/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F501
 [/us/pl/110/172/s11/a/42/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F172%2Fs11%2Fa%2F42%2FD
 [/us/stat/121/2488]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2488
-[/us/usc/t2/s441a/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs441a%2Fb%2F1%2FA
+[/us/usc/t52/s30116/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs30116%2Fb%2F1%2FA
 [/us/pl/110/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F172
 [/us/pl/94/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F283
 [/us/usc/t18/s608/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs608%2Fc%2F1%2FA

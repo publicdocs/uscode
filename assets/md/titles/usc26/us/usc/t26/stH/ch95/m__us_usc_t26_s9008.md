@@ -95,7 +95,7 @@
 
  __References in Text__ 
 
-    Sections 303 and 315 of the Federal Election Campaign Act of 1971, referred to in subsecs. (b)(5) and (g), are classified to sections 433 and 441a, respectively, of Title 2, The Congress.
+    Sections 303 and 315 of the Federal Election Campaign Act of 1971, referred to in subsecs. (b)(5) and (g), are classified to sections 30103 and 30116, respectively, of Title 52, Voting and Elections.
 
     The date of the enactment of the Gabriella Miller Kids First Research Act, referred to in subsec. (i), is the date of enactment of [Pub. L. 113–94][/us/pl/113/94], which was approved Apr. 3, 2014.
 
@@ -115,7 +115,7 @@
 
     Subsec. (d)(4). [Pub. L. 94–283, § 303][/us/pl/94/283/s303], added par. (4).
 
-    1974—[Pub. L. 93–443][/us/pl/93/443] substituted provisions respecting payments for presidential nominating conventions for prior provisions respecting information on proposed expenses, subsec. (a) relating to reports by candidates, and subsec. (b) to publication of summaries, see [section 434 of Title 2][/us/usc/t2/s434], The Congress.
+    1974—[Pub. L. 93–443][/us/pl/93/443] substituted provisions respecting payments for presidential nominating conventions for prior provisions respecting information on proposed expenses, subsec. (a) relating to reports by candidates, and subsec. (b) to publication of summaries.
 
  __Effective Date of 1984 Amendment__ 
 
@@ -125,11 +125,11 @@
 
  __Effective Date of 1980 Amendment__ 
 
-    Amendment by [Pub. L. 96–187][/us/pl/96/187] effective Jan. 8, 1980, see [section 301(a) of Pub. L. 96–187][/us/pl/96/187/s301/a], set out as a note under [section 431 of Title 2][/us/usc/t2/s431], The Congress.
+    Amendment by [Pub. L. 96–187][/us/pl/96/187] effective Jan. 8, 1980, see [section 301(a) of Pub. L. 96–187][/us/pl/96/187/s301/a], set out as a note under [section 30101 of Title 52][/us/usc/t52/s30101], Voting and Elections.
 
  __Effective Date of 1974 Amendment__ 
 
-    Amendment by [Pub. L. 93–443][/us/pl/93/443] applicable with respect to taxable years beginning after Dec. 31, 1974, see [section 410(c)(1) of Pub. L. 93–443][/us/pl/93/443/s410/c/1], set out as a note under [section 431 of Title 2][/us/usc/t2/s431], The Congress.
+    Amendment by [Pub. L. 93–443][/us/pl/93/443] applicable with respect to taxable years beginning after Dec. 31, 1974, see [section 410(c)(1) of Pub. L. 93–443][/us/pl/93/443/s410/c/1], set out as a note under [section 30101 of Title 52][/us/usc/t52/s30101], Voting and Elections.
 
 ----------
 
@@ -160,14 +160,13 @@
 [/us/usc/t18/s608/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs608%2Ff
 [/us/pl/94/283/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F283%2Fs303
 [/us/pl/93/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443
-[/us/usc/t2/s434]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs434
 [/us/pl/98/355/s1/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F355%2Fs1%2Fc
 [/us/stat/98/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F394
 [/us/pl/96/187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F187
 [/us/pl/96/187/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F187%2Fs301%2Fa
-[/us/usc/t2/s431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs431
+[/us/usc/t52/s30101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs30101
 [/us/pl/93/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443
 [/us/pl/93/443/s410/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443%2Fs410%2Fc%2F1
-[/us/usc/t2/s431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs431
+[/us/usc/t52/s30101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs30101
 
 

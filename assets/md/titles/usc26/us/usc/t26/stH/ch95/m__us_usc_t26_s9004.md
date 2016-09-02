@@ -57,7 +57,7 @@
 
  __References in Text__ 
 
-    Section 315(b)(1)(B) of the Federal Election Campaign Act of 1971, referred to in subsec. (a)(1), is classified to [section 441a(b)(1)(B) of Title 2][/us/usc/t2/s441a/b/1/B], The Congress.
+    Section 315(b)(1)(B) of the Federal Election Campaign Act of 1971, referred to in subsec. (a)(1), is classified to [section 30116(b)(1)(B) of Title 52][/us/usc/t52/s30116/b/1/B], Voting and Elections.
 
  __Amendments__ 
 
@@ -81,7 +81,7 @@
 
  __Effective Date of 1974 Amendment__ 
 
-    Amendment by [Pub. L. 93–443][/us/pl/93/443] applicable with respect to taxable years beginning after Dec. 31, 1974, see [section 410(c)(1) of Pub. L. 93–443][/us/pl/93/443/s410/c/1], set out as a note under [section 431 of Title 2][/us/usc/t2/s431], The Congress.
+    Amendment by [Pub. L. 93–443][/us/pl/93/443] applicable with respect to taxable years beginning after Dec. 31, 1974, see [section 410(c)(1) of Pub. L. 93–443][/us/pl/93/443/s410/c/1], set out as a note under [section 30101 of Title 52][/us/usc/t52/s30101], Voting and Elections.
 
 ----------
 
@@ -98,7 +98,7 @@
 [/us/stat/90/497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F497
 [/us/pl/110/172/s11/a/42/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F172%2Fs11%2Fa%2F42%2FB
 [/us/stat/121/2488]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2488
-[/us/usc/t2/s441a/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs441a%2Fb%2F1%2FB
+[/us/usc/t52/s30116/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs30116%2Fb%2F1%2FB
 [/us/pl/110/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F172
 [/us/pl/94/283/s307/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F283%2Fs307%2Fd
 [/us/usc/t18/s608/c/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs608%2Fc%2F1%2FB
@@ -113,6 +113,6 @@
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
 [/us/pl/93/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443
 [/us/pl/93/443/s410/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443%2Fs410%2Fc%2F1
-[/us/usc/t2/s431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs431
+[/us/usc/t52/s30101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs30101
 
 
