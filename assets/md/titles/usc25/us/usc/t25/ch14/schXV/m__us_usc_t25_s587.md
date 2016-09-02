@@ -31,7 +31,7 @@
 
         The funds remaining after provision is made for the per capita distribution may be used, advanced, expended, invested, or reinvested for any purpose authorized by the tribal governing body and approved by the Secretary of the Interior.
 
-([Pub. L. 92–206, § 7][/us/pl/92/206/s7], Dec. 18, 1971, [85 Stat. 738][/us/stat/85/738].)
+([Pub. L. 92–206][/us/pl/92/206], § 7, Dec. 18, 1971, [85 Stat. 738][/us/stat/85/738].)
 
 ----------
 
@@ -41,7 +41,7 @@
 ----------
 
 [/us/usc/t25/s585/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs585%2Fa
-[/us/pl/92/206/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F206%2Fs7
+[/us/pl/92/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F206
 [/us/stat/85/738]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F738
 
 

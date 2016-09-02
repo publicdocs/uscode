@@ -27,7 +27,7 @@
 
         The reports described in subsection (a) and [section 2212(a) of this title][/us/usc/t25/s2212/a] shall contain findings as to whether the program under this chapter to acquire fractional interests in trust or restricted lands should be extended and whether such program should be altered to make resources available to Indian tribes and individual Indian landowners.
 
-([Pub. L. 97–459, title II, § 218][/us/pl/97/459/s218], as added [Pub. L. 106–462, title I, § 103(6)][/us/pl/106/462/s103/6], Nov. 7, 2000, [114 Stat. 2004][/us/stat/114/2004].)
+([Pub. L. 97–459, title II][/us/pl/97/459/tII], § 218, as added [Pub. L. 106–462, title I][/us/pl/106/462/tI], § 103(6), Nov. 7, 2000, [114 Stat. 2004][/us/stat/114/2004].)
 
  __References in Text__ 
 
@@ -46,8 +46,8 @@
 
 [/us/usc/t25/s2212/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs2212%2Fa%2F2%2FA
 [/us/usc/t25/s2212/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs2212%2Fa
-[/us/pl/97/459/s218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F459%2Fs218
-[/us/pl/106/462/s103/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F462%2Fs103%2F6
+[/us/pl/97/459/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F459%2FtII
+[/us/pl/106/462/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F462%2FtI
 [/us/stat/114/2004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2004
 [/us/pl/97/459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F459
 

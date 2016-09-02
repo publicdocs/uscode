@@ -67,7 +67,7 @@
 
         The Office shall maintain an information clearinghouse (which shall include an electronic data base) on tribal justice systems and Courts of Indian Offenses, including (but not limited to) information on staffing, funding, model tribal codes, tribal justice activities, and tribal judicial decisions. The Office shall take such actions as may be necessary to ensure the confidentiality of records and other matters involving privacy rights.
 
-([Pub. L. 103–176, title I, § 101][/us/pl/103/176/s101], Dec. 3, 1993, [107 Stat. 2005][/us/stat/107/2005].)
+([Pub. L. 103–176, title I][/us/pl/103/176/tI], § 101, Dec. 3, 1993, [107 Stat. 2005][/us/stat/107/2005].)
 
 ----------
 
@@ -76,7 +76,7 @@
 ----------
 ----------
 
-[/us/pl/103/176/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F176%2Fs101
+[/us/pl/103/176/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F176%2FtI
 [/us/stat/107/2005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2005
 
 

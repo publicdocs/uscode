@@ -17,9 +17,9 @@
 
     (a) No transaction entered into under sections 608 to 608c of this title shall affect, without the consent of the lessee, any lease of lands, interests, improvements, or rights involved in such transaction, or any right of the lessee with respect to extension or renewal of such lease, which is in existence at the time such transaction is entered into.
 
-    (b) Repealed, [Pub. L. 88–540, § 3][/us/pl/88/540/s3], Aug. 31, 1964, [78 Stat. 748][/us/stat/78/748].
+    (b) Repealed, [Pub. L. 88–540][/us/pl/88/540], § 3, Aug. 31, 1964, [78 Stat. 748][/us/stat/78/748].
 
-([July 28, 1955, ch. 423, § 3][/us/act/1955-07-28/ch423/s3], [69 Stat. 393][/us/stat/69/393]; [Pub. L. 88–540, § 3][/us/pl/88/540/s3], Aug. 31, 1964, [78 Stat. 748][/us/stat/78/748].)
+([July 28, 1955, ch. 423][/us/act/1955-07-28/ch423], § 3, [69 Stat. 393][/us/stat/69/393]; [Pub. L. 88–540][/us/pl/88/540], § 3, Aug. 31, 1964, [78 Stat. 748][/us/stat/78/748].)
 
  __Codification__ 
 
@@ -36,11 +36,11 @@
 ----------
 ----------
 
-[/us/pl/88/540/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F540%2Fs3
+[/us/pl/88/540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F540
 [/us/stat/78/748]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F748
-[/us/act/1955-07-28/ch423/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-28%2Fch423%2Fs3
+[/us/act/1955-07-28/ch423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-28%2Fch423
 [/us/stat/69/393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F393
-[/us/pl/88/540/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F540%2Fs3
+[/us/pl/88/540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F540
 [/us/stat/78/748]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F748
 [/us/act/1946-08-09/ch933]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-09%2Fch933
 [/us/stat/60/968]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F968

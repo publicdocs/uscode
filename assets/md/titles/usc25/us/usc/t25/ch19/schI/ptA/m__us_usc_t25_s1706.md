@@ -29,7 +29,7 @@
 
     (b) that State of Rhode Island has enacted legislation authorizing the conveyance to the State Corporation of land and natural resources that substantially conform to the public settlement lands as described in paragraph 2 of the Settlement Agreement.
 
-([Pub. L. 95–395, § 7][/us/pl/95/395/s7], Sept. 30, 1978, [92 Stat. 816][/us/stat/92/816].)
+([Pub. L. 95–395][/us/pl/95/395], § 7, Sept. 30, 1978, [92 Stat. 816][/us/stat/92/816].)
 
 ----------
 
@@ -39,7 +39,7 @@
 ----------
 
 [/us/usc/t25/s1705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1705
-[/us/pl/95/395/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F395%2Fs7
+[/us/pl/95/395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F395
 [/us/stat/92/816]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F816
 
 

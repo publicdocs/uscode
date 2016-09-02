@@ -27,7 +27,7 @@
 
         The availability of funds or distribution of funds pursuant to [section 1724 of this title][/us/usc/t25/s1724] may not be considered as income or resources or otherwise utilized as the basis (1) for denying any Indian household or member thereof participation in any federally assisted housing program, (2) for denying or reducing the Federal financial assistance or other Federal benefits to which such household or member would otherwise be entitled, or (3) for denying or reducing the Federal financial assistance or other Federal benefits to which the Passamaquoddy Tribe or Penobscot Nation would otherwise be eligible or entitled.
 
-([Pub. L. 96–420, § 9][/us/pl/96/420/s9], Oct. 10, 1980, [94 Stat. 1795][/us/stat/94/1795].)
+([Pub. L. 96–420][/us/pl/96/420], § 9, Oct. 10, 1980, [94 Stat. 1795][/us/stat/94/1795].)
 
 ----------
 
@@ -37,7 +37,7 @@
 ----------
 
 [/us/usc/t25/s1724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1724
-[/us/pl/96/420/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F420%2Fs9
+[/us/pl/96/420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F420
 [/us/stat/94/1795]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1795
 
 

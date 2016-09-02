@@ -133,7 +133,7 @@
 
                 A judgment under subparagraph (A) shall be subject to review by the Supreme Court of the United States upon writ of certiorari or certification, as provided in [section 1254 of title 28][/us/usc/t28/s1254].
 
-([Pub. L. 104–330, title VIII, § 818][/us/pl/104/330/s818], as added [Pub. L. 106–568, title II, § 203][/us/pl/106/568/s203], Dec. 27, 2000, [114 Stat. 2891][/us/stat/114/2891], and [Pub. L. 106–569, title V, § 513][/us/pl/106/569/s513], Dec. 27, 2000, [114 Stat. 2985][/us/stat/114/2985].)
+([Pub. L. 104–330, title VIII][/us/pl/104/330/tVIII], § 818, as added [Pub. L. 106–568, title II][/us/pl/106/568/tII], § 203, Dec. 27, 2000, [114 Stat. 2891][/us/stat/114/2891], and [Pub. L. 106–569, title V][/us/pl/106/569/tV], § 513, Dec. 27, 2000, [114 Stat. 2985][/us/stat/114/2985].)
 
  __References in Text__ 
 
@@ -141,7 +141,7 @@
 
  __Codification__ 
 
-    [Pub. L. 106–568, § 203][/us/pl/106/568/s203], and [Pub. L. 106–569, § 513][/us/pl/106/569/s513], enacted identical sections 818 of [Pub. L. 104–330][/us/pl/104/330]. This section is based on the text of [section 818 of Pub. L. 104–330][/us/pl/104/330/s818], as added by [Pub. L. 106–569, § 513][/us/pl/106/569/s513].
+    [Pub. L. 106–568][/us/pl/106/568], § 203, and [Pub. L. 106–569][/us/pl/106/569], § 513, enacted identical sections 818 of [Pub. L. 104–330][/us/pl/104/330]. This section is based on the text of [section 818 of Pub. L. 104–330][/us/pl/104/330/s818], as added by [Pub. L. 106–569][/us/pl/106/569], § 513.
 
 ----------
 
@@ -152,18 +152,18 @@
 
 [/us/usc/t28/s2112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2112
 [/us/usc/t28/s1254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1254
-[/us/pl/104/330/s818]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330%2Fs818
-[/us/pl/106/568/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F568%2Fs203
+[/us/pl/104/330/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330%2FtVIII
+[/us/pl/106/568/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F568%2FtII
 [/us/stat/114/2891]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2891
-[/us/pl/106/569/s513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs513
+[/us/pl/106/569/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2FtV
 [/us/stat/114/2985]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2985
 [/us/pl/104/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330
 [/us/stat/110/4016]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F4016
 [/us/usc/t25/s4101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs4101
-[/us/pl/106/568/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F568%2Fs203
-[/us/pl/106/569/s513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs513
+[/us/pl/106/568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F568
+[/us/pl/106/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569
 [/us/pl/104/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330
 [/us/pl/104/330/s818]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330%2Fs818
-[/us/pl/106/569/s513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs513
+[/us/pl/106/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569
 
 

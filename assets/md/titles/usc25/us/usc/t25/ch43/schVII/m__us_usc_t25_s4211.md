@@ -35,7 +35,7 @@
 
         This section is intended to be self-implementing and shall not require the issuance of any rule, regulation, or order to take effect as provided in section 705.
 
-([Pub. L. 104–330, title VII, § 702][/us/pl/104/330/s702], Oct. 26, 1996, [110 Stat. 4050][/us/stat/110/4050].)
+([Pub. L. 104–330, title VII][/us/pl/104/330/tVII], § 702, Oct. 26, 1996, [110 Stat. 4050][/us/stat/110/4050].)
 
  __References in Text__ 
 
@@ -43,7 +43,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 104–330, title VII, § 705][/us/pl/104/330/s705], Oct. 26, 1996, [110 Stat. 4052][/us/stat/110/4052], provided that: 
+[Pub. L. 104–330, title VII][/us/pl/104/330/tVII], § 705, Oct. 26, 1996, [110 Stat. 4052][/us/stat/110/4052], provided that: 
 
 > “This title \[enacting this subchapter and amending sections 1715z–13a and 1721 of Title 12, Banks and Banking, and sections 11902 to 11905 of Title 42, The Public Health and Welfare\] and the amendments made by this title (but not including the amendments made by section 704 \[amending sections 11902 to 11905 of Title 42\]) shall take effect on the date of the enactment of this Act \[Oct. 26, 1996\].”
 
@@ -54,10 +54,10 @@
 ----------
 ----------
 
-[/us/pl/104/330/s702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330%2Fs702
+[/us/pl/104/330/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330%2FtVII
 [/us/stat/110/4050]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F4050
 [/us/pl/104/330/s705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330%2Fs705
-[/us/pl/104/330/s705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330%2Fs705
+[/us/pl/104/330/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330%2FtVII
 [/us/stat/110/4052]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F4052
 
 

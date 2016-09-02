@@ -29,7 +29,7 @@
 
         (3) meets such other training, supervision, and quality review requirements as the Secretary may establish.
 
-([Pub. L. 94–437, title VII, § 706][/us/pl/94/437/s706], as added [Pub. L. 111–148, title X, § 10221(a)][/us/pl/111/148/s10221/a], Mar. 23, 2010, [124 Stat. 935][/us/stat/124/935].)
+([Pub. L. 94–437, title VII][/us/pl/94/437/tVII], § 706, as added [Pub. L. 111–148, title X][/us/pl/111/148/tX], § 10221(a), Mar. 23, 2010, [124 Stat. 935][/us/stat/124/935].)
 
  __References in Text__ 
 
@@ -41,7 +41,7 @@
 
  __Prior Provisions__ 
 
-    A prior section 1665e, [Pub. L. 94–437, title VII, § 706][/us/pl/94/437/s706], as added [Pub. L. 102–573, title VII, § 702(a)][/us/pl/102/573/s702/a], Oct. 29, 1992, [106 Stat. 4576][/us/stat/106/4576]; amended [Pub. L. 104–313, § 2(e)][/us/pl/104/313/s2/e], Oct. 19, 1996, [110 Stat. 3822][/us/stat/110/3822], provided for establishment of an alcohol and substance abuse residential treatment center in Gallup, New Mexico, prior to the general amendment of this subchapter by [Pub. L. 111–148][/us/pl/111/148].
+    A prior section 1665e, [Pub. L. 94–437, title VII][/us/pl/94/437/tVII], § 706, as added [Pub. L. 102–573, title VII][/us/pl/102/573/tVII], § 702(a), Oct. 29, 1992, [106 Stat. 4576][/us/stat/106/4576]; amended [Pub. L. 104–313][/us/pl/104/313], § 2(e), Oct. 19, 1996, [110 Stat. 3822][/us/stat/110/3822], provided for establishment of an alcohol and substance abuse residential treatment center in Gallup, New Mexico, prior to the general amendment of this subchapter by [Pub. L. 111–148][/us/pl/111/148].
 
 ----------
 
@@ -51,18 +51,18 @@
 ----------
 
 [/us/usc/t25/s1621t]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1621t
-[/us/pl/94/437/s706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437%2Fs706
-[/us/pl/111/148/s10221/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10221%2Fa
+[/us/pl/94/437/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437%2FtVII
+[/us/pl/111/148/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtX
 [/us/stat/124/935]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F935
 [/us/pl/94/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437
 [/us/stat/90/1400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1400
 [/us/usc/t25/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1601
 [/us/pl/94/437/s706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437%2Fs706
 [/us/pl/111/148/s10221/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10221%2Fa
-[/us/pl/94/437/s706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437%2Fs706
-[/us/pl/102/573/s702/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2Fs702%2Fa
+[/us/pl/94/437/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437%2FtVII
+[/us/pl/102/573/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2FtVII
 [/us/stat/106/4576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4576
-[/us/pl/104/313/s2/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F313%2Fs2%2Fe
+[/us/pl/104/313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F313
 [/us/stat/110/3822]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3822
 [/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 

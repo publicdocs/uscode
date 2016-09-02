@@ -17,7 +17,7 @@
 
     The mixed-blood members of the tribe as a group may employ legal counsel to accomplish the legal work required on behalf of said group under the terms of this subchapter, and for any other purpose by them deemed necessary or desirable; the choice of counsel and fixing of fees to be subject to the approval of the Secretary until Federal supervision over all of the members of said group and their property is terminated in the manner provided in section 677o of this title.
 
-([Aug. 27, 1954, ch. 1009, § 7][/us/act/1954-08-27/ch1009/s7], [68 Stat. 869][/us/stat/68/869].)
+([Aug. 27, 1954, ch. 1009][/us/act/1954-08-27/ch1009], § 7, [68 Stat. 869][/us/stat/68/869].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1954-08-27/ch1009/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-27%2Fch1009%2Fs7
+[/us/act/1954-08-27/ch1009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-27%2Fch1009
 [/us/stat/68/869]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F869
 
 

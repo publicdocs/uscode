@@ -57,7 +57,7 @@
 
         (3) including any written comments or reports submitted to the Secretary by any party named in paragraph (1).
 
-([Pub. L. 99–398, § 8][/us/pl/99/398/s8], Aug. 27, 1986, [100 Stat. 850][/us/stat/100/850].)
+([Pub. L. 99–398][/us/pl/99/398], § 8, Aug. 27, 1986, [100 Stat. 850][/us/stat/100/850].)
 
 ----------
 
@@ -66,7 +66,7 @@
 ----------
 ----------
 
-[/us/pl/99/398/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F398%2Fs8
+[/us/pl/99/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F398
 [/us/stat/100/850]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F850
 
 

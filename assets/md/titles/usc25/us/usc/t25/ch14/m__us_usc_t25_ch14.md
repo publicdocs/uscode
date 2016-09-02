@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t25/ch13/m__us_usc_t25_ch13.md) | [Next](./../../../..//us/usc/t25/ch14/schI/m__us_usc_t25_ch14_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fch14)
+[Previous](./../../../..//us/usc/t25/ch13/m__us_usc_t25_s421...427.md) | [Next](./../../../..//us/usc/t25/ch14/schI/m__us_usc_t25_ch14_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fch14)
 
 ## CHAPTER 14—MISCELLANEOUS
 
@@ -265,7 +265,7 @@ Part A—Indian Self-Determination  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs450" data-uslm-ref="/us/usc/t25/s450">450</a>l.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs450l" data-uslm-ref="/us/usc/t25/s450l">450l.</a>  </td>
 
     <td> Contract or grant specifications.  </td>
 
@@ -1377,7 +1377,7 @@ SUBCHAPTER VII—REINDEER INDUSTRY  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs500" data-uslm-ref="/us/usc/t25/s500">500</a>l.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs500l" data-uslm-ref="/us/usc/t25/s500l">500l.</a>  </td>
 
     <td> Appointment of natives to administer industry.  </td>
 
@@ -1745,7 +1745,7 @@ SUBCHAPTER XIII—KLAMATH TRIBE: TERMINATION OF FEDERAL SUPERVISION  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs564" data-uslm-ref="/us/usc/t25/s564">564</a>l.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs564l" data-uslm-ref="/us/usc/t25/s564l">564l.</a>  </td>
 
     <td> Klamath irrigation works.  </td>
 
@@ -1769,7 +1769,7 @@ SUBCHAPTER XIII—KLAMATH TRIBE: TERMINATION OF FEDERAL SUPERVISION  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs564" data-uslm-ref="/us/usc/t25/s564">564</a>o.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs564o" data-uslm-ref="/us/usc/t25/s564o">564o.</a>  </td>
 
     <td> Advances or expenditures from tribal funds.  </td>
 
@@ -3321,7 +3321,7 @@ SUBCHAPTER XXVIII—UTE INDIANS OF UTAH: DISTRIBUTION OF ASSETS BETWEEN MIXED-BL
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs677" data-uslm-ref="/us/usc/t25/s677">677</a>l.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs677l" data-uslm-ref="/us/usc/t25/s677l">677l.</a>  </td>
 
     <td> Distribution to individual members of mixed-blood group; preparation and approval of plan; assistance; provisions permitted in plan.  </td>
 
@@ -3345,7 +3345,7 @@ SUBCHAPTER XXVIII—UTE INDIANS OF UTAH: DISTRIBUTION OF ASSETS BETWEEN MIXED-BL
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs677" data-uslm-ref="/us/usc/t25/s677">677</a>o.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs677o" data-uslm-ref="/us/usc/t25/s677o">677o.</a>  </td>
 
     <td> Termination of restrictions on individually owned property of the mixed-blood group.  </td>
 
@@ -5049,7 +5049,7 @@ SUBCHAPTER XLIII–A—CATAWBA INDIAN TRIBE OF SOUTH CAROLINA; RESTORATION OF FE
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs941" data-uslm-ref="/us/usc/t25/s941">941</a>l.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs941l" data-uslm-ref="/us/usc/t25/s941l">941l.</a>  </td>
 
     <td> Games of chance.  </td>
 
@@ -7833,7 +7833,7 @@ SUBCHAPTER LXXXIII—AUBURN INDIAN RESTORATION  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1300" data-uslm-ref="/us/usc/t25/s1300">1300</a>l.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1300l" data-uslm-ref="/us/usc/t25/s1300l">1300l.</a>  </td>
 
     <td> Restoration of Federal recognition, rights, and privileges.  </td>
 
@@ -7841,7 +7841,7 @@ SUBCHAPTER LXXXIII—AUBURN INDIAN RESTORATION  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1300" data-uslm-ref="/us/usc/t25/s1300">1300</a>l–1.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1300l" data-uslm-ref="/us/usc/t25/s1300l">1300l</a>–1.  </td>
 
     <td> Economic development.  </td>
 
@@ -7849,7 +7849,7 @@ SUBCHAPTER LXXXIII—AUBURN INDIAN RESTORATION  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1300" data-uslm-ref="/us/usc/t25/s1300">1300</a>l–2.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1300l" data-uslm-ref="/us/usc/t25/s1300l">1300l</a>–2.  </td>
 
     <td> Transfer of land to be held in trust.  </td>
 
@@ -7857,7 +7857,7 @@ SUBCHAPTER LXXXIII—AUBURN INDIAN RESTORATION  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1300" data-uslm-ref="/us/usc/t25/s1300">1300</a>l–3.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1300l" data-uslm-ref="/us/usc/t25/s1300l">1300l</a>–3.  </td>
 
     <td> Membership rolls.  </td>
 
@@ -7865,7 +7865,7 @@ SUBCHAPTER LXXXIII—AUBURN INDIAN RESTORATION  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1300" data-uslm-ref="/us/usc/t25/s1300">1300</a>l–4.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1300l" data-uslm-ref="/us/usc/t25/s1300l">1300l</a>–4.  </td>
 
     <td> Interim government.  </td>
 
@@ -7873,7 +7873,7 @@ SUBCHAPTER LXXXIII—AUBURN INDIAN RESTORATION  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1300" data-uslm-ref="/us/usc/t25/s1300">1300</a>l–5.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1300l" data-uslm-ref="/us/usc/t25/s1300l">1300l</a>–5.  </td>
 
     <td> Tribal constitution.  </td>
 
@@ -7881,7 +7881,7 @@ SUBCHAPTER LXXXIII—AUBURN INDIAN RESTORATION  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1300" data-uslm-ref="/us/usc/t25/s1300">1300</a>l–6.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1300l" data-uslm-ref="/us/usc/t25/s1300l">1300l</a>–6.  </td>
 
     <td> Definitions.  </td>
 
@@ -7889,7 +7889,7 @@ SUBCHAPTER LXXXIII—AUBURN INDIAN RESTORATION  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1300" data-uslm-ref="/us/usc/t25/s1300">1300</a>l–7.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1300l" data-uslm-ref="/us/usc/t25/s1300l">1300l</a>–7.  </td>
 
     <td> Regulations.  </td>
 
@@ -8035,7 +8035,7 @@ SUBCHAPTER LXXXV—GRATON RANCHERIA RESTORATION  </td>
 
 ----------
 
-[Previous](./../../../..//us/usc/t25/ch13/m__us_usc_t25_ch13.md) | [Next](./../../../..//us/usc/t25/ch14/schI/m__us_usc_t25_ch14_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fch14)
+[Previous](./../../../..//us/usc/t25/ch13/m__us_usc_t25_s421...427.md) | [Next](./../../../..//us/usc/t25/ch14/schI/m__us_usc_t25_ch14_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fch14)
 
 ----------
 ----------

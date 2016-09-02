@@ -17,7 +17,7 @@
 
     Funds appropriated on and after March 30, 1968, to the Secretary of the Interior for the education of Indian children shall not be used for the education of such children in elementary and secondary education programs in sectarian schools. This prohibition shall not apply to the education of Indians in accredited institutions of higher education and in other accredited schools offering vocational and technical training, but no scholarship aid provided for an Indian student shall require him to attend an institution or school that is not of his own free choice, and such aid shall be, to the extent consistent with sound administration, extended to the student individually rather than to the institution or school.
 
-([Pub. L. 90–280, § 2][/us/pl/90/280/s2], Mar. 30, 1968, [82 Stat. 71][/us/stat/82/71].)
+([Pub. L. 90–280][/us/pl/90/280], § 2, Mar. 30, 1968, [82 Stat. 71][/us/stat/82/71].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/90/280/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F280%2Fs2
+[/us/pl/90/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F280
 [/us/stat/82/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F71
 
 

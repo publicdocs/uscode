@@ -17,7 +17,7 @@
 
     There is hereby authorized to be appropriated $3,500,000 to carry out the purposes of this subchapter.
 
-([Pub. L. 95–395, § 11][/us/pl/95/395/s11], Sept. 30, 1978, [92 Stat. 817][/us/stat/92/817].)
+([Pub. L. 95–395][/us/pl/95/395], § 11, Sept. 30, 1978, [92 Stat. 817][/us/stat/92/817].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/95/395/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F395%2Fs11
+[/us/pl/95/395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F395
 [/us/stat/92/817]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F817
 
 

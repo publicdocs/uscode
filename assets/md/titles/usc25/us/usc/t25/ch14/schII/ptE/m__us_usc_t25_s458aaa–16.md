@@ -51,7 +51,7 @@
 
         Unless expressly agreed to by the participating Indian tribe in the compact or funding agreement, the participating Indian tribe shall not be subject to any agency circular, policy, manual, guidance, or rule adopted by the Indian Health Service, except for the eligibility provisions of [section 450j(g) of this title][/us/usc/t25/s450j/g] and regulations promulgated under this section.
 
-([Pub. L. 93–638, title V, § 517][/us/pl/93/638/s517], as added [Pub. L. 106–260, § 4][/us/pl/106/260/s4], Aug. 18, 2000, [114 Stat. 730][/us/stat/114/730].)
+([Pub. L. 93–638, title V][/us/pl/93/638/tV], § 517, as added [Pub. L. 106–260][/us/pl/106/260], § 4, Aug. 18, 2000, [114 Stat. 730][/us/stat/114/730].)
 
  __References in Text__ 
 
@@ -66,8 +66,8 @@
 
 [/us/usc/t5/s565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs565
 [/us/usc/t25/s450j/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450j%2Fg
-[/us/pl/93/638/s517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638%2Fs517
-[/us/pl/106/260/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F260%2Fs4
+[/us/pl/93/638/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638%2FtV
+[/us/pl/106/260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F260
 [/us/stat/114/730]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F730
 [/us/pl/93/638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638
 [/us/stat/88/2203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2203

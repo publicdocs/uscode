@@ -199,13 +199,13 @@
 
             No additional administrative cost funds shall be provided under this chapter to pay for administrative costs relating to the instruction of the students.
 
-([Pub. L. 95–561, title XI, § 1127][/us/pl/95/561/s1127], as added [Pub. L. 107–110, title X, § 1042][/us/pl/107/110/s1042], Jan. 8, 2002, [115 Stat. 2028][/us/stat/115/2028].)
+([Pub. L. 95–561, title XI][/us/pl/95/561/tXI], § 1127, as added [Pub. L. 107–110, title X][/us/pl/107/110/tX], § 1042, Jan. 8, 2002, [115 Stat. 2028][/us/stat/115/2028].)
 
  __Prior Provisions__ 
 
-    A prior section 2007, [Pub. L. 95–561, title XI, § 1127][/us/pl/95/561/s1127], as added [Pub. L. 103–382, title III, § 381][/us/pl/103/382/s381], Oct. 20, 1994, [108 Stat. 3989][/us/stat/108/3989], related to allotment formula, prior to the general amendment of this chapter by [Pub. L. 107–110][/us/pl/107/110].
+    A prior section 2007, [Pub. L. 95–561, title XI][/us/pl/95/561/tXI], § 1127, as added [Pub. L. 103–382, title III][/us/pl/103/382/tIII], § 381, Oct. 20, 1994, [108 Stat. 3989][/us/stat/108/3989], related to allotment formula, prior to the general amendment of this chapter by [Pub. L. 107–110][/us/pl/107/110].
 
-    Another prior section 2007, [Pub. L. 95–561, title XI, § 1127][/us/pl/95/561/s1127], Nov. 1, 1978, [92 Stat. 2320][/us/stat/92/2320], related to policies and procedures for implementation of transferred administrative functions, prior to the general amendment of this chapter by [Pub. L. 103–382][/us/pl/103/382].
+    Another prior section 2007, [Pub. L. 95–561, title XI][/us/pl/95/561/tXI], § 1127, Nov. 1, 1978, [92 Stat. 2320][/us/stat/92/2320], related to policies and procedures for implementation of transferred administrative functions, prior to the general amendment of this chapter by [Pub. L. 103–382][/us/pl/103/382].
 
 ----------
 
@@ -218,14 +218,14 @@
 [/us/usc/t25/s2001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs2001
 [/us/usc/t25/s2002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs2002
 [/us/usc/t25/s2002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs2002
-[/us/pl/95/561/s1127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2Fs1127
-[/us/pl/107/110/s1042]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2Fs1042
+[/us/pl/95/561/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2FtXI
+[/us/pl/107/110/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2FtX
 [/us/stat/115/2028]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F2028
-[/us/pl/95/561/s1127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2Fs1127
-[/us/pl/103/382/s381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs381
+[/us/pl/95/561/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2FtXI
+[/us/pl/103/382/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2FtIII
 [/us/stat/108/3989]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3989
 [/us/pl/107/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110
-[/us/pl/95/561/s1127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2Fs1127
+[/us/pl/95/561/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2FtXI
 [/us/stat/92/2320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2320
 [/us/pl/103/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382
 

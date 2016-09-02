@@ -47,7 +47,7 @@
 
         (7) the maintenance and improvement of timber productivity, grazing, wildlife, fisheries, recreation, aesthetic, cultural and other traditional values.
 
-([Pub. L. 101–630, title III, § 305][/us/pl/101/630/s305], Nov. 28, 1990, [104 Stat. 4535][/us/stat/104/4535].)
+([Pub. L. 101–630, title III][/us/pl/101/630/tIII], § 305, Nov. 28, 1990, [104 Stat. 4535][/us/stat/104/4535].)
 
  __References in Text__ 
 
@@ -61,7 +61,7 @@
 ----------
 
 [/us/usc/t25/s450f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450f
-[/us/pl/101/630/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F630%2Fs305
+[/us/pl/101/630/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F630%2FtIII
 [/us/stat/104/4535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4535
 [/us/pl/93/638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638
 [/us/stat/88/2206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2206

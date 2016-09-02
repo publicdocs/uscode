@@ -35,7 +35,7 @@
 
         In making the findings required in subsection (a) of this section, the Secretary may rely upon the opinion of the Attorney General of the Commonwealth of Massachusetts.
 
-([Pub. L. 100–95, § 5][/us/pl/100/95/s5], Aug. 18, 1987, [101 Stat. 705][/us/stat/101/705].)
+([Pub. L. 100–95][/us/pl/100/95], § 5, Aug. 18, 1987, [101 Stat. 705][/us/stat/101/705].)
 
 ----------
 
@@ -45,7 +45,7 @@
 ----------
 
 [/us/usc/t25/s1771d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1771d
-[/us/pl/100/95/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F95%2Fs5
+[/us/pl/100/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F95
 [/us/stat/101/705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F705
 
 

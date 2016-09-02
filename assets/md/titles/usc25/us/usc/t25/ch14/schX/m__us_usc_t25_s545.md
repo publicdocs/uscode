@@ -17,7 +17,7 @@
 
     In no event shall any portion of the funds directed to be credited and paid become liable, payable, or subject to any debt or debts contracted prior to the passage of this section and [section 544 of this title][/us/usc/t25/s544] by any Indian of the Klamath Tribe, except debts to the United States or to the tribe.
 
-([Mar. 29, 1948, ch. 160, § 3][/us/act/1948-03-29/ch160/s3], [62 Stat. 93][/us/stat/62/93].)
+([Mar. 29, 1948, ch. 160][/us/act/1948-03-29/ch160], § 3, [62 Stat. 93][/us/stat/62/93].)
 
  __Codification__ 
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t25/s544]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs544
-[/us/act/1948-03-29/ch160/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-03-29%2Fch160%2Fs3
+[/us/act/1948-03-29/ch160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-03-29%2Fch160
 [/us/stat/62/93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F93
 [/us/act/1939-08-07/ch552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-08-07%2Fch552
 [/us/stat/53/1252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F1252

@@ -23,7 +23,7 @@
 
         Nothing in this subchapter shall affect the status of the members of the tribe as citizens of the United States, or shall affect their rights, privileges, immunities, and obligations as such citizens.
 
-([Sept. 1, 1954, ch. 1207, § 17][/us/act/1954-09-01/ch1207/s17], [68 Stat. 1103][/us/stat/68/1103].)
+([Sept. 1, 1954, ch. 1207][/us/act/1954-09-01/ch1207], § 17, [68 Stat. 1103][/us/stat/68/1103].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/act/1954-09-01/ch1207/s17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-09-01%2Fch1207%2Fs17
+[/us/act/1954-09-01/ch1207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-09-01%2Fch1207
 [/us/stat/68/1103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F1103
 
 

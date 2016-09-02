@@ -125,7 +125,7 @@
 
         This section shall continue in force and effect, except as otherwise specifically provided in any Federal law enacted after March 23, 2010.
 
-([Pub. L. 94–437, title VIII, § 805][/us/pl/94/437/s805], as added [Pub. L. 111–148, title X, § 10221(a)][/us/pl/111/148/s10221/a], Mar. 23, 2010, [124 Stat. 935][/us/stat/124/935].)
+([Pub. L. 94–437, title VIII][/us/pl/94/437/tVIII], § 805, as added [Pub. L. 111–148, title X][/us/pl/111/148/tX], § 10221(a), Mar. 23, 2010, [124 Stat. 935][/us/stat/124/935].)
 
  __References in Text__ 
 
@@ -137,7 +137,7 @@
 
  __Prior Provisions__ 
 
-    A prior section 1675, [Pub. L. 94–437, title VIII, § 805][/us/pl/94/437/s805], formerly title VII, § 705, Sept. 30, 1976, [90 Stat. 1414][/us/stat/90/1414]; renumbered title VIII, § 805, [Pub. L. 102–573, title VII, § 701(a)][/us/pl/102/573/s701/a], (b), Oct. 29, 1992, [106 Stat. 4572][/us/stat/106/4572], provided that funds appropriated pursuant to this chapter were to remain available until expended, prior to repeal by [Pub. L. 111–148, title X, § 10221(a)][/us/pl/111/148/s10221/a], Mar. 23, 2010, [124 Stat. 935][/us/stat/124/935]. The repeal is based on section 101(b)(11) of title I of S. 1790, One Hundred Eleventh Congress, as reported by the Committee on Indian Affairs of the Senate in Dec. 2009, which was enacted into law by [section 10221(a) of Pub. L. 111–148][/us/pl/111/148/s10221/a].
+    A prior section 1675, [Pub. L. 94–437, title VIII][/us/pl/94/437/tVIII], § 805, formerly title VII, § 705, Sept. 30, 1976, [90 Stat. 1414][/us/stat/90/1414]; renumbered title VIII, § 805, [Pub. L. 102–573, title VII][/us/pl/102/573/tVII], § 701(a), (b), Oct. 29, 1992, [106 Stat. 4572][/us/stat/106/4572], provided that funds appropriated pursuant to this chapter were to remain available until expended, prior to repeal by [Pub. L. 111–148, title X][/us/pl/111/148/tX], § 10221(a), Mar. 23, 2010, [124 Stat. 935][/us/stat/124/935]. The repeal is based on section 101(b)(11) of title I of S. 1790, One Hundred Eleventh Congress, as reported by the Committee on Indian Affairs of the Senate in Dec. 2009, which was enacted into law by [section 10221(a) of Pub. L. 111–148][/us/pl/111/148/s10221/a].
 
 ----------
 
@@ -152,19 +152,19 @@
 [/us/usc/t42/s299b–21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs299b%E2%80%9321
 [/us/pl/109/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F41
 [/us/stat/119/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F424
-[/us/pl/94/437/s805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437%2Fs805
-[/us/pl/111/148/s10221/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10221%2Fa
+[/us/pl/94/437/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437%2FtVIII
+[/us/pl/111/148/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtX
 [/us/stat/124/935]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F935
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
 [/us/stat/58/682]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F58%2F682
 [/us/usc/t42/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs201
 [/us/pl/94/437/s805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437%2Fs805
 [/us/pl/111/148/s10221/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10221%2Fa
-[/us/pl/94/437/s805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437%2Fs805
+[/us/pl/94/437/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437%2FtVIII
 [/us/stat/90/1414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1414
-[/us/pl/102/573/s701/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2Fs701%2Fa
+[/us/pl/102/573/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2FtVII
 [/us/stat/106/4572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4572
-[/us/pl/111/148/s10221/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10221%2Fa
+[/us/pl/111/148/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtX
 [/us/stat/124/935]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F935
 [/us/pl/111/148/s10221/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10221%2Fa
 

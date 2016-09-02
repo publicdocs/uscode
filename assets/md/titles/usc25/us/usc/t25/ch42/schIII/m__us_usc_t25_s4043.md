@@ -135,7 +135,7 @@
 
         The Special Trustee shall report to the Secretary and the Committee on Natural Resources of the House of Representatives and the Committee on Indian Affairs of the Senate each year on the progress of the Department, the Bureau, the Bureau of Land Management, and the Minerals Management Service in implementing the reforms identified in the comprehensive strategic plan under subsection (a)(1) and in meeting the timetable established in the strategic plan under subsection (a)(2)(C).
 
-([Pub. L. 103–412, title III, § 303][/us/pl/103/412/s303], Oct. 25, 1994, [108 Stat. 4245][/us/stat/108/4245]; [Pub. L. 104–109, § 6(a)][/us/pl/104/109/s6/a], Feb. 12, 1996, [110 Stat. 764][/us/stat/110/764].)
+([Pub. L. 103–412, title III][/us/pl/103/412/tIII], § 303, Oct. 25, 1994, [108 Stat. 4245][/us/stat/108/4245]; [Pub. L. 104–109][/us/pl/104/109], § 6(a), Feb. 12, 1996, [110 Stat. 764][/us/stat/110/764].)
 
  __Amendments__ 
 
@@ -147,7 +147,7 @@
 
  __Lands Title Report Commission__ 
 
-[Pub. L. 106–569, title V, § 501][/us/pl/106/569/s501], Dec. 27, 2000, [114 Stat. 2959][/us/stat/114/2959], provided that:
+[Pub. L. 106–569, title V][/us/pl/106/569/tV], § 501, Dec. 27, 2000, [114 Stat. 2959][/us/stat/114/2959], provided that:
 
 >     “(a)  __Establishment__  __.—__ 
 
@@ -239,7 +239,7 @@
 
 >     The Commission shall terminate 1 year after the date of the initial meeting of the Commission.”
 
-    Substantially identical provisions were contained in [Pub. L. 106–568, title X, § 1001][/us/pl/106/568/s1001], Dec. 27, 2000, [114 Stat. 2923][/us/stat/114/2923].
+    Substantially identical provisions were contained in [Pub. L. 106–568, title X][/us/pl/106/568/tX], § 1001, Dec. 27, 2000, [114 Stat. 2923][/us/stat/114/2923].
 
 ----------
 
@@ -250,14 +250,14 @@
 
 [/us/usc/t25/s4042/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs4042%2Fb
 [/us/usc/t31/s1105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105%2Fa
-[/us/pl/103/412/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F412%2Fs303
+[/us/pl/103/412/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F412%2FtIII
 [/us/stat/108/4245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4245
-[/us/pl/104/109/s6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F109%2Fs6%2Fa
+[/us/pl/104/109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F109
 [/us/stat/110/764]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F764
 [/us/pl/104/109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F109
-[/us/pl/106/569/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs501
+[/us/pl/106/569/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2FtV
 [/us/stat/114/2959]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2959
-[/us/pl/106/568/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F568%2Fs1001
+[/us/pl/106/568/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F568%2FtX
 [/us/stat/114/2923]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2923
 
 

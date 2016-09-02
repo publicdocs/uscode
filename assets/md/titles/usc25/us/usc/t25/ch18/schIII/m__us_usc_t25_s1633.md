@@ -23,11 +23,11 @@
 
         For the purpose of implementing the provisions of this subchapter, the Secretary shall assure that the rates of pay for personnel engaged in the construction or renovation of facilities constructed or renovated in whole or in part by funds made available pursuant to this subchapter are not less than the prevailing local wage rates for similar work as determined in accordance with sections 3141–3144, 3146, and 3147 of title 40.
 
-([Pub. L. 94–437, title III, § 303][/us/pl/94/437/s303], Sept. 30, 1976, [90 Stat. 1407][/us/stat/90/1407].)
+([Pub. L. 94–437, title III][/us/pl/94/437/tIII], § 303, Sept. 30, 1976, [90 Stat. 1407][/us/stat/90/1407].)
 
  __Codification__ 
 
-    “Sections 3141–3144, 3146, and 3147 of title 40” substituted in subsec. (b) for “the Act of March 3, 1931 ([40 U.S.C. 276a][/us/usc/t40/s276a]—276a–5, known as the Davis-Bacon Act)” on authority of [Pub. L. 107–217, § 5(c)][/us/pl/107/217/s5/c], Aug. 21, 2002, [116 Stat. 1303][/us/stat/116/1303], the first section of which enacted Title 40, Public Buildings, Property, and Works.
+    “Sections 3141–3144, 3146, and 3147 of title 40” substituted in subsec. (b) for “the Act of March 3, 1931 ([40 U.S.C. 276a][/us/usc/t40/s276a]—276a–5, known as the Davis-Bacon Act)” on authority of [Pub. L. 107–217][/us/pl/107/217], § 5(c), Aug. 21, 2002, [116 Stat. 1303][/us/stat/116/1303], the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
 ----------
 
@@ -39,10 +39,10 @@
 [/us/usc/t25/s47]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs47
 [/us/usc/t25/s1631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1631
 [/us/usc/t25/s1632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1632
-[/us/pl/94/437/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437%2Fs303
+[/us/pl/94/437/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437%2FtIII
 [/us/stat/90/1407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1407
 [/us/usc/t40/s276a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs276a
-[/us/pl/107/217/s5/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs5%2Fc
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1303
 
 

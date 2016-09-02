@@ -27,7 +27,7 @@
 
         Members of the tribe who receive the money value of their interests in tribal property shall thereupon cease to be members of the tribe: Provided, That nothing shall prevent them from sharing in the proceeds of tribal claims against the United States.
 
-([Aug. 13, 1954, ch. 732, § 6][/us/act/1954-08-13/ch732/s6], [68 Stat. 719][/us/stat/68/719]; [Pub. L. 85–132, § 1(c)][/us/pl/85/132/s1/c], Aug. 14, 1957, [71 Stat. 347][/us/stat/71/347]; [Pub. L. 85–731, § 10][/us/pl/85/731/s10], Aug. 23, 1958, [72 Stat. 819][/us/stat/72/819].)
+([Aug. 13, 1954, ch. 732][/us/act/1954-08-13/ch732], § 6, [68 Stat. 719][/us/stat/68/719]; [Pub. L. 85–132][/us/pl/85/132], § 1(c), Aug. 14, 1957, [71 Stat. 347][/us/stat/71/347]; [Pub. L. 85–731][/us/pl/85/731], § 10, Aug. 23, 1958, [72 Stat. 819][/us/stat/72/819].)
 
  __Amendments__ 
 
@@ -37,7 +37,7 @@
 
  __Deferral of Time for Sales of Tribal Property__ 
 
-[Act Aug. 13, 1954, ch. 732, § 27][/us/act/1954-08-13/ch732/s27], as added by [Pub. L. 85–132, § 1(a)][/us/pl/85/132/s1/a], Aug. 14, 1957, [71 Stat. 347][/us/stat/71/347], provided that: 
+[Act Aug. 13, 1954, ch. 732][/us/act/1954-08-13/ch732], § 27, as added by [Pub. L. 85–132][/us/pl/85/132], § 1(a), Aug. 14, 1957, [71 Stat. 347][/us/stat/71/347], provided that: 
 
 > “Notwithstanding any other provisions of this Act \[this subchapter\], no sales of tribal property shall be made pursuant to paragraph (3) of subsection (a) of section 5, or section 6 of this Act \[[section 564d(a)(3) of this title][/us/usc/t25/s564d/a/3] or this section\] prior to the adjournment of the second session of the Eighty-fifth Congress.”
 
@@ -51,16 +51,16 @@
 [/us/usc/t25/s564d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs564d
 [/us/usc/t25/s564d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs564d
 [/us/usc/t25/s564d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs564d
-[/us/act/1954-08-13/ch732/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-13%2Fch732%2Fs6
+[/us/act/1954-08-13/ch732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-13%2Fch732
 [/us/stat/68/719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F719
-[/us/pl/85/132/s1/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F132%2Fs1%2Fc
+[/us/pl/85/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F132
 [/us/stat/71/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F71%2F347
-[/us/pl/85/731/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F731%2Fs10
+[/us/pl/85/731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F731
 [/us/stat/72/819]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F819
 [/us/pl/85/731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F731
 [/us/pl/85/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F132
-[/us/act/1954-08-13/ch732/s27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-13%2Fch732%2Fs27
-[/us/pl/85/132/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F132%2Fs1%2Fa
+[/us/act/1954-08-13/ch732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-13%2Fch732
+[/us/pl/85/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F132
 [/us/stat/71/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F71%2F347
 [/us/usc/t25/s564d/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs564d%2Fa%2F3
 

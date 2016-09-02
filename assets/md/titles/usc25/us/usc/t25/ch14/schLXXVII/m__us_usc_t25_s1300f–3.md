@@ -59,7 +59,7 @@
 
         There are authorized to be appropriated such sums as are necessary to carry out this section.
 
-([Pub. L. 95–375, § 4][/us/pl/95/375/s4], as added [Pub. L. 103–357, § 2][/us/pl/103/357/s2], Oct. 14, 1994, [108 Stat. 3418][/us/stat/108/3418]; amended [Pub. L. 104–109, § 4][/us/pl/104/109/s4], Feb. 12, 1996, [110 Stat. 764][/us/stat/110/764].)
+([Pub. L. 95–375][/us/pl/95/375], § 4, as added [Pub. L. 103–357][/us/pl/103/357], § 2, Oct. 14, 1994, [108 Stat. 3418][/us/stat/108/3418]; amended [Pub. L. 104–109][/us/pl/104/109], § 4, Feb. 12, 1996, [110 Stat. 764][/us/stat/110/764].)
 
  __Amendments__ 
 
@@ -72,10 +72,10 @@
 ----------
 ----------
 
-[/us/pl/95/375/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F375%2Fs4
-[/us/pl/103/357/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F357%2Fs2
+[/us/pl/95/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F375
+[/us/pl/103/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F357
 [/us/stat/108/3418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3418
-[/us/pl/104/109/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F109%2Fs4
+[/us/pl/104/109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F109
 [/us/stat/110/764]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F764
 [/us/pl/104/109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F109
 

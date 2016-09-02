@@ -17,7 +17,7 @@
 
     Each recipient shall make any housing plan, policy, or annual report prepared by the recipient available to the general public.
 
-([Pub. L. 104–330, title IV, § 408][/us/pl/104/330/s408], as added [Pub. L. 105–276, title V, § 595(e)(14)(A)][/us/pl/105/276/s595/e/14/A], Oct. 21, 1998, [112 Stat. 2658][/us/stat/112/2658].)
+([Pub. L. 104–330, title IV][/us/pl/104/330/tIV], § 408, as added [Pub. L. 105–276, title V][/us/pl/105/276/tV], § 595(e)(14)(A), Oct. 21, 1998, [112 Stat. 2658][/us/stat/112/2658].)
 
 ----------
 
@@ -26,8 +26,8 @@
 ----------
 ----------
 
-[/us/pl/104/330/s408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330%2Fs408
-[/us/pl/105/276/s595/e/14/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs595%2Fe%2F14%2FA
+[/us/pl/104/330/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330%2FtIV
+[/us/pl/105/276/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2FtV
 [/us/stat/112/2658]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2658
 
 

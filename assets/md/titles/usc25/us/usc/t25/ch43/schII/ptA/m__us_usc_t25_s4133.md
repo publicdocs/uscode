@@ -55,13 +55,13 @@
 
         Notwithstanding any other provision of law, a recipient shall not be required to act in accordance with any otherwise applicable competitive procurement rule or procedure with respect to the procurement, using a grant provided under this chapter, of goods and services the value of which is less than $5,000.
 
-([Pub. L. 104–330, title II, § 203][/us/pl/104/330/s203], Oct. 26, 1996, [110 Stat. 4032][/us/stat/110/4032]; [Pub. L. 110–411, title II, § 203][/us/pl/110/411/s203], Oct. 14, 2008, [122 Stat. 4325][/us/stat/122/4325].)
+([Pub. L. 104–330, title II][/us/pl/104/330/tII], § 203, Oct. 26, 1996, [110 Stat. 4032][/us/stat/110/4032]; [Pub. L. 110–411, title II][/us/pl/110/411/tII], § 203, Oct. 14, 2008, [122 Stat. 4325][/us/stat/122/4325].)
 
  __References in Text__ 
 
     This chapter, referred to in text, was in the original “this Act”, meaning [Pub. L. 104–330][/us/pl/104/330], Oct. 26, 1996, [110 Stat. 4016][/us/stat/110/4016], known as the Native American Housing Assistance and Self-Determination Act of 1996. For complete classification of this Act to the Code, see Short Title note set out under [section 4101 of this title][/us/usc/t25/s4101] and Tables.
 
-    The United States Housing Act of 1937, referred to in subsec. (b), is [act Sept. 1, 1937, ch. 896][/us/act/1937-09-01/ch896], as revised generally by [Pub. L. 93–383, title II, § 201(a)][/us/pl/93/383/s201/a], Aug. 22, 1974, [88 Stat. 653][/us/stat/88/653], which is classified generally to chapter 8 (§ 1437 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 1437 of Title 42][/us/usc/t42/s1437] and Tables.
+    The United States Housing Act of 1937, referred to in subsec. (b), is [act Sept. 1, 1937, ch. 896][/us/act/1937-09-01/ch896], as revised generally by [Pub. L. 93–383, title II][/us/pl/93/383/tII], § 201(a), Aug. 22, 1974, [88 Stat. 653][/us/stat/88/653], which is classified generally to chapter 8 (§ 1437 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 1437 of Title 42][/us/usc/t42/s1437] and Tables.
 
  __Amendments__ 
 
@@ -82,15 +82,15 @@
 [/us/usc/t25/s4132/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs4132%2F1
 [/us/usc/t25/s4111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs4111
 [/us/usc/t25/s4111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs4111
-[/us/pl/104/330/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330%2Fs203
+[/us/pl/104/330/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330%2FtII
 [/us/stat/110/4032]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F4032
-[/us/pl/110/411/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F411%2Fs203
+[/us/pl/110/411/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F411%2FtII
 [/us/stat/122/4325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4325
 [/us/pl/104/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330
 [/us/stat/110/4016]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F4016
 [/us/usc/t25/s4101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs4101
 [/us/act/1937-09-01/ch896]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-09-01%2Fch896
-[/us/pl/93/383/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2Fs201%2Fa
+[/us/pl/93/383/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2FtII
 [/us/stat/88/653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F653
 [/us/usc/t42/s1437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437
 [/us/pl/110/411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F411

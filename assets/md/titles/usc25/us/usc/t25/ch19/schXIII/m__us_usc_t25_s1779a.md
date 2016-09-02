@@ -17,7 +17,7 @@
 
     The purposes of this subchapter are to resolve all claims that have been or could have been brought by the Cherokee, Choctaw, and Chickasaw Nations against the United States, and to confirm that the Indian Nations are forever disclaiming any right, title, or interest in the Disclaimed Drybed Lands, which are contiguous to the channel of the Arkansas River as of December 13, 2002, in certain townships in eastern Oklahoma.
 
-([Pub. L. 107–331, title VI, § 603][/us/pl/107/331/s603], Dec. 13, 2002, [116 Stat. 2847][/us/stat/116/2847].)
+([Pub. L. 107–331, title VI][/us/pl/107/331/tVI], § 603, Dec. 13, 2002, [116 Stat. 2847][/us/stat/116/2847].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/107/331/s603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F331%2Fs603
+[/us/pl/107/331/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F331%2FtVI
 [/us/stat/116/2847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2847
 
 

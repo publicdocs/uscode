@@ -13,9 +13,9 @@
 
 [Previous](./../../../..//us/usc/t25/ch10/m__us_usc_t25_s375a.md) | [Next](./../../../..//us/usc/t25/ch10/m__us_usc_t25_s375c.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs375b)
 
-## § 375b. Repealed. [Pub. L. 96–363, § 2(a)][/us/pl/96/363/s2/a], Sept. 26, 1980, [94 Stat. 1207][/us/stat/94/1207]
+## § 375b. Repealed. [Pub. L. 96–363][/us/pl/96/363], § 2(a), Sept. 26, 1980, [94 Stat. 1207][/us/stat/94/1207]
 
-    Section, [act Dec. 24, 1942, ch. 813, § 2][/us/act/1942-12-24/ch813/s2], [56 Stat. 1081][/us/stat/56/1081], set forth schedule of fees collectible by Secretary prior to distribution of estate to individuals entitled under provisions of [section 375a of this title][/us/usc/t25/s375a].
+    Section, [act Dec. 24, 1942, ch. 813][/us/act/1942-12-24/ch813], § 2, [56 Stat. 1081][/us/stat/56/1081], set forth schedule of fees collectible by Secretary prior to distribution of estate to individuals entitled under provisions of [section 375a of this title][/us/usc/t25/s375a].
 
  __Cancellation of Assessed Unpaid Fees__ 
 
@@ -28,9 +28,9 @@
 ----------
 ----------
 
-[/us/pl/96/363/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F363%2Fs2%2Fa
+[/us/pl/96/363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F363
 [/us/stat/94/1207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1207
-[/us/act/1942-12-24/ch813/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-12-24%2Fch813%2Fs2
+[/us/act/1942-12-24/ch813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-12-24%2Fch813
 [/us/stat/56/1081]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F56%2F1081
 [/us/usc/t25/s375a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs375a
 [/us/pl/96/363/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F363%2Fs2%2Fb

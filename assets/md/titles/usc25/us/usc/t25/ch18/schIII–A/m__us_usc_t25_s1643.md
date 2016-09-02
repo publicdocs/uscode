@@ -17,7 +17,7 @@
 
     The Secretary shall submit to the President, for inclusion in the report required to be transmitted to the Congress under [section 1671 of this title][/us/usc/t25/s1671], an accounting on the amount and use of funds made available to the Service pursuant to this subchapter as a result of reimbursements through titles XVIII and XIX of the Social Security Act, as amended \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq., 1396 et seq.\].
 
-([Pub. L. 94–437, title IV, § 403][/us/pl/94/437/s403], Sept. 30, 1976, [90 Stat. 1410][/us/stat/90/1410]; [Pub. L. 102–573, title IV, § 402][/us/pl/102/573/s402], Oct. 29, 1992, [106 Stat. 4566][/us/stat/106/4566].)
+([Pub. L. 94–437, title IV][/us/pl/94/437/tIV], § 403, Sept. 30, 1976, [90 Stat. 1410][/us/stat/90/1410]; [Pub. L. 102–573, title IV][/us/pl/102/573/tIV], § 402, Oct. 29, 1992, [106 Stat. 4566][/us/stat/106/4566].)
 
  __References in Text__ 
 
@@ -40,9 +40,9 @@
 
 [/us/usc/t25/s1671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1671
 [/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
-[/us/pl/94/437/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437%2Fs403
+[/us/pl/94/437/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437%2FtIV
 [/us/stat/90/1410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1410
-[/us/pl/102/573/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2Fs402
+[/us/pl/102/573/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2FtIV
 [/us/stat/106/4566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4566
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620

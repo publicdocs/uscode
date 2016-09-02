@@ -17,7 +17,7 @@
 
     The Yakima Tribal Council may adopt and enforce ordinances, subject to review by the Secretary of the Interior, governing the expulsion of members for any cause deemed by the council to be sufficient.
 
-([Aug. 9, 1946, ch. 933, § 5][/us/act/1946-08-09/ch933/s5], [60 Stat. 969][/us/stat/60/969].)
+([Aug. 9, 1946, ch. 933][/us/act/1946-08-09/ch933], § 5, [60 Stat. 969][/us/stat/60/969].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1946-08-09/ch933/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-09%2Fch933%2Fs5
+[/us/act/1946-08-09/ch933]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-09%2Fch933
 [/us/stat/60/969]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F969
 
 

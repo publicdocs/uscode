@@ -23,7 +23,7 @@
 
         The Secretary of the Interior shall prepare a roll of the lineal descendants of the Mdewakanton and Wahpakoota Tribe who were born on or prior to and are living on October 25, 1972, whose names or the names of a lineal ancestor appears on any available records and rolls acceptable to the Secretary, and who are not members of any of the organized groups listed in subsection (a). Applications for enrollment must be filed with the Area Director, Bureau of Indian Affairs, Aberdeen, South Dakota. The Secretary’s determination on all applications for enrollment shall be final.
 
-([Pub. L. 92–555, title I, § 101][/us/pl/92/555/s101], Oct. 25, 1972, [86 Stat. 1168][/us/stat/86/1168].)
+([Pub. L. 92–555, title I][/us/pl/92/555/tI], § 101, Oct. 25, 1972, [86 Stat. 1168][/us/stat/86/1168].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/92/555/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F555%2Fs101
+[/us/pl/92/555/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F555%2FtI
 [/us/stat/86/1168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1168
 
 

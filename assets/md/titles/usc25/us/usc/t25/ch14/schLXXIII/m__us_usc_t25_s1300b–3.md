@@ -17,7 +17,7 @@
 
     Any sums payable per capita to persons who are less than twenty-one years of age or who are under a legal disability shall be paid in accordance with such procedures, including the establishment of trusts, as the Secretary of the Interior determines appropriate to protect the best interests of such persons.
 
-([Pub. L. 92–467, § 4][/us/pl/92/467/s4], Oct. 6, 1972, [86 Stat. 781][/us/stat/86/781].)
+([Pub. L. 92–467][/us/pl/92/467], § 4, Oct. 6, 1972, [86 Stat. 781][/us/stat/86/781].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/92/467/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F467%2Fs4
+[/us/pl/92/467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F467
 [/us/stat/86/781]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F781
 
 

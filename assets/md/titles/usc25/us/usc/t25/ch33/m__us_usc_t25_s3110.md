@@ -41,7 +41,7 @@
 
         (3) In any fiscal year that appropriations are not sufficient to fully fund tribal forestry programs at each level of assistance under the formula required to be established in this section, available funds for each level of assistance shall be evenly divided among the tribes qualifying for that level of assistance.
 
-([Pub. L. 101–630, title III, § 311][/us/pl/101/630/s311], Nov. 28, 1990, [104 Stat. 4538][/us/stat/104/4538].)
+([Pub. L. 101–630, title III][/us/pl/101/630/tIII], § 311, Nov. 28, 1990, [104 Stat. 4538][/us/stat/104/4538].)
 
 ----------
 
@@ -50,7 +50,7 @@
 ----------
 ----------
 
-[/us/pl/101/630/s311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F630%2Fs311
+[/us/pl/101/630/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F630%2FtIII
 [/us/stat/104/4538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4538
 
 

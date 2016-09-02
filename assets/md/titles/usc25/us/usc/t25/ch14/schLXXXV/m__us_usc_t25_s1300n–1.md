@@ -31,7 +31,7 @@
 
     (7) The term “service area” means the counties of Marin and Sonoma, in the State of California.
 
-([Pub. L. 106–568, title XIV, § 1403][/us/pl/106/568/s1403], Dec. 27, 2000, [114 Stat. 2939][/us/stat/114/2939].)
+([Pub. L. 106–568, title XIV][/us/pl/106/568/tXIV], § 1403, Dec. 27, 2000, [114 Stat. 2939][/us/stat/114/2939].)
 
 ----------
 
@@ -42,7 +42,7 @@
 
 [/us/usc/t25/s1300n–5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1300n%E2%80%935
 [/us/usc/t25/s1300n–4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1300n%E2%80%934%2Fb
-[/us/pl/106/568/s1403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F568%2Fs1403
+[/us/pl/106/568/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F568%2FtXIV
 [/us/stat/114/2939]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2939
 
 

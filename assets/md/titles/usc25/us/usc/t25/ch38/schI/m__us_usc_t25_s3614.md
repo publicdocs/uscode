@@ -43,7 +43,7 @@
 
         (E) traditional tribal judicial practices, traditional justice systems, and traditional methods of dispute resolution.
 
-([Pub. L. 103–176, title I, § 104][/us/pl/103/176/s104], Dec. 3, 1993, [107 Stat. 2008][/us/stat/107/2008].)
+([Pub. L. 103–176, title I][/us/pl/103/176/tI], § 104, Dec. 3, 1993, [107 Stat. 2008][/us/stat/107/2008].)
 
  __References in Text__ 
 
@@ -58,7 +58,7 @@
 
 [/us/usc/t25/s3611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs3611
 [/us/usc/t25/s450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450
-[/us/pl/103/176/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F176%2Fs104
+[/us/pl/103/176/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F176%2FtI
 [/us/stat/107/2008]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2008
 [/us/pl/93/638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638
 [/us/stat/88/2203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2203

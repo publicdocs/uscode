@@ -55,7 +55,7 @@
 
             The report shall include a summary of any comments received by the Director from beneficiaries under paragraph (1) regarding the program to carry out the housing plan.
 
-([Pub. L. 104–330, title VIII, § 820][/us/pl/104/330/s820], as added [Pub. L. 106–568, title II, § 203][/us/pl/106/568/s203], Dec. 27, 2000, [114 Stat. 2893][/us/stat/114/2893], and [Pub. L. 106–569, title V, § 513][/us/pl/106/569/s513], Dec. 27, 2000, [114 Stat. 2987][/us/stat/114/2987].)
+([Pub. L. 104–330, title VIII][/us/pl/104/330/tVIII], § 820, as added [Pub. L. 106–568, title II][/us/pl/106/568/tII], § 203, Dec. 27, 2000, [114 Stat. 2893][/us/stat/114/2893], and [Pub. L. 106–569, title V][/us/pl/106/569/tV], § 513, Dec. 27, 2000, [114 Stat. 2987][/us/stat/114/2987].)
 
  __References in Text__ 
 
@@ -63,7 +63,7 @@
 
  __Codification__ 
 
-    [Pub. L. 106–568, § 203][/us/pl/106/568/s203], and [Pub. L. 106–569, § 513][/us/pl/106/569/s513], enacted identical sections 820 of [Pub. L. 104–330][/us/pl/104/330]. This section is based on the text of [section 820 of Pub. L. 104–330][/us/pl/104/330/s820], as added by [Pub. L. 106–569, § 513][/us/pl/106/569/s513].
+    [Pub. L. 106–568][/us/pl/106/568], § 203, and [Pub. L. 106–569][/us/pl/106/569], § 513, enacted identical sections 820 of [Pub. L. 104–330][/us/pl/104/330]. This section is based on the text of [section 820 of Pub. L. 104–330][/us/pl/104/330/s820], as added by [Pub. L. 106–569][/us/pl/106/569], § 513.
 
 ----------
 
@@ -75,17 +75,17 @@
 [/us/usc/t25/s4223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs4223
 [/us/usc/t25/s4223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs4223
 [/us/stat/42/108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F108
-[/us/pl/104/330/s820]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330%2Fs820
-[/us/pl/106/568/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F568%2Fs203
+[/us/pl/104/330/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330%2FtVIII
+[/us/pl/106/568/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F568%2FtII
 [/us/stat/114/2893]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2893
-[/us/pl/106/569/s513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs513
+[/us/pl/106/569/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2FtV
 [/us/stat/114/2987]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2987
 [/us/act/1921-07-09/ch42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1921-07-09%2Fch42
 [/us/stat/42/108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F108
-[/us/pl/106/568/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F568%2Fs203
-[/us/pl/106/569/s513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs513
+[/us/pl/106/568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F568
+[/us/pl/106/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569
 [/us/pl/104/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330
 [/us/pl/104/330/s820]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330%2Fs820
-[/us/pl/106/569/s513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs513
+[/us/pl/106/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569
 
 

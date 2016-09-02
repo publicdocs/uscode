@@ -95,7 +95,7 @@
 
         The Commission shall require a potential contractor to pay a fee to cover the cost of the investigation necessary to reach a determination required in subsection (e) of this section.
 
-([Pub. L. 100–497, § 12][/us/pl/100/497/s12], Oct. 17, 1988, [102 Stat. 2479][/us/stat/102/2479].)
+([Pub. L. 100–497][/us/pl/100/497], § 12, Oct. 17, 1988, [102 Stat. 2479][/us/stat/102/2479].)
 
  __References in Text__ 
 
@@ -110,7 +110,7 @@
 
 [/us/usc/t25/s2710/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs2710%2Fb%2F1
 [/us/usc/t25/s81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs81
-[/us/pl/100/497/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F497%2Fs12
+[/us/pl/100/497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F497
 [/us/stat/102/2479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2479
 [/us/pl/100/497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F497
 [/us/stat/102/2467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2467

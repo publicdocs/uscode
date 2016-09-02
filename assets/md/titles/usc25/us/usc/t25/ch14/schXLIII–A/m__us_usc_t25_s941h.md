@@ -29,7 +29,7 @@
 
     (6) The Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450][/us/usc/t25/s450] et seq.) shall apply to the Tribe except to the extent that such application may be inconsistent with this subchapter or the Settlement Agreement.
 
-([Pub. L. 103–116, § 10][/us/pl/103/116/s10], Oct. 27, 1993, [107 Stat. 1126][/us/stat/107/1126].)
+([Pub. L. 103–116][/us/pl/103/116], § 10, Oct. 27, 1993, [107 Stat. 1126][/us/stat/107/1126].)
 
  __References in Text__ 
 
@@ -50,7 +50,7 @@
 [/us/usc/t25/s941g/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs941g%2Fa
 [/us/usc/t25/s461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs461
 [/us/usc/t25/s450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450
-[/us/pl/103/116/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F116%2Fs10
+[/us/pl/103/116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F116
 [/us/stat/107/1126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1126
 [/us/pl/95/608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F608
 [/us/stat/92/3069]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3069

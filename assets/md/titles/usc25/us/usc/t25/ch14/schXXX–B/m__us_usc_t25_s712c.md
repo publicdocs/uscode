@@ -39,7 +39,7 @@
 
         After publication of the roll in the Federal Register, the membership of the tribe shall be limited to the persons listed on such roll and their descendants: Provided, That the tribe, at its discretion, may subsequently grant tribal membership to any individual of Cow Creek Band of Umpqua ancestry who pursuant to tribal procedures, has applied for membership in the tribe and has been determined by the tribe to meet the tribal requirements for membership in the tribe: Provided further, That nothing in this subchapter shall be interpreted as restricting the tribe’s power to impose additional requirements for future membership in the tribe upon the adoption of a new constitution or amendments thereto as provided in [section 712b of this title][/us/usc/t25/s712b].
 
-([Pub. L. 97–391, § 5][/us/pl/97/391/s5], Dec. 29, 1982, [96 Stat. 1961][/us/stat/96/1961]; [Pub. L. 100–139, § 5(a)][/us/pl/100/139/s5/a], Oct. 26, 1987, [101 Stat. 826][/us/stat/101/826]; [Pub. L. 100–446, title I][/us/pl/100/446], Sept. 27, 1988, [102 Stat. 1794][/us/stat/102/1794].)
+([Pub. L. 97–391][/us/pl/97/391], § 5, Dec. 29, 1982, [96 Stat. 1961][/us/stat/96/1961]; [Pub. L. 100–139][/us/pl/100/139], § 5(a), Oct. 26, 1987, [101 Stat. 826][/us/stat/101/826]; [Pub. L. 100–446, title I][/us/pl/100/446/tI], Sept. 27, 1988, [102 Stat. 1794][/us/stat/102/1794].)
 
  __Amendments__ 
 
@@ -63,11 +63,11 @@
 ----------
 
 [/us/usc/t25/s712b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs712b
-[/us/pl/97/391/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F391%2Fs5
+[/us/pl/97/391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F391
 [/us/stat/96/1961]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1961
-[/us/pl/100/139/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F139%2Fs5%2Fa
+[/us/pl/100/139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F139
 [/us/stat/101/826]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F826
-[/us/pl/100/446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F446
+[/us/pl/100/446/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F446%2FtI
 [/us/stat/102/1794]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1794
 [/us/pl/100/446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F446
 [/us/pl/100/139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F139

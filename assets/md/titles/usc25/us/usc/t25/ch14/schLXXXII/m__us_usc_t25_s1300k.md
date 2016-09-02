@@ -35,7 +35,7 @@
 
     (9) The United States Government, the government of the State of Michigan, and local governments have had continuous dealings with the recognized political leaders of the Bands from 1836 to the present.
 
-([Pub. L. 103–324, § 2][/us/pl/103/324/s2], Sept. 21, 1994, [108 Stat. 2156][/us/stat/108/2156].)
+([Pub. L. 103–324][/us/pl/103/324], § 2, Sept. 21, 1994, [108 Stat. 2156][/us/stat/108/2156].)
 
  __References in Text__ 
 
@@ -43,7 +43,7 @@
 
  __Short Title__ 
 
-[Pub. L. 103–324, § 1][/us/pl/103/324/s1], Sept. 21, 1994, [108 Stat. 2156][/us/stat/108/2156], provided that: 
+[Pub. L. 103–324][/us/pl/103/324], § 1, Sept. 21, 1994, [108 Stat. 2156][/us/stat/108/2156], provided that: 
 
 > “This Act \[enacting this subchapter\] may be cited as the ‘Little Traverse Bay Bands of Odawa Indians and the Little River Band of Ottawa Indians Act’.”
 
@@ -56,12 +56,12 @@
 
 [/us/usc/t25/s461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs461
 [/us/usc/t25/s461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs461
-[/us/pl/103/324/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F324%2Fs2
+[/us/pl/103/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F324
 [/us/stat/108/2156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2156
 [/us/act/1934-06-18/ch576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-18%2Fch576
 [/us/stat/48/984]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F984
 [/us/usc/t25/s461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs461
-[/us/pl/103/324/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F324%2Fs1
+[/us/pl/103/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F324
 [/us/stat/108/2156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2156
 
 

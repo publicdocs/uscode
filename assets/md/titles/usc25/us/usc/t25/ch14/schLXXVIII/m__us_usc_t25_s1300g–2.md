@@ -31,7 +31,7 @@
 
         Except as otherwise specifically provided in this subchapter, the enactment of this subchapter shall not affect any property right or obligation or any contractual right or obligation in existence before August 18, 1987, or any obligation for taxes levied before August 18, 1987.
 
-([Pub. L. 100–89, title I, § 103][/us/pl/100/89/s103], Aug. 18, 1987, [101 Stat. 667][/us/stat/101/667].)
+([Pub. L. 100–89, title I][/us/pl/100/89/tI], § 103, Aug. 18, 1987, [101 Stat. 667][/us/stat/101/667].)
 
  __References in Text__ 
 
@@ -48,7 +48,7 @@
 
 [/us/stat/48/984]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F984
 [/us/usc/t25/s461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs461
-[/us/pl/100/89/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F89%2Fs103
+[/us/pl/100/89/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F89%2FtI
 [/us/stat/101/667]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F667
 [/us/usc/t25/s461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs461
 [/us/pl/90/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F287

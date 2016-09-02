@@ -33,65 +33,65 @@
 
         (3) parental and community control of the educational process is of crucial importance to the Indian people.
 
-([Pub. L. 93–638, § 2][/us/pl/93/638/s2], Jan. 4, 1975, [88 Stat. 2203][/us/stat/88/2203].)
+([Pub. L. 93–638][/us/pl/93/638], § 2, Jan. 4, 1975, [88 Stat. 2203][/us/stat/88/2203].)
 
  __Short Title of 2000 Amendments__ 
 
-[Pub. L. 106–568, title VIII, § 801][/us/pl/106/568/s801], Dec. 27, 2000, [114 Stat. 2916][/us/stat/114/2916], provided that: 
+[Pub. L. 106–568, title VIII][/us/pl/106/568/tVIII], § 801, Dec. 27, 2000, [114 Stat. 2916][/us/stat/114/2916], provided that: 
 
 > “This title \[amending sections 450l, 458cc, 1407, and 3207 of this title and sections 5604, 5608, and 5609 of Title 20, Education, and repealing [section 84 of this title][/us/usc/t25/s84] and sections 438 and 439 of Title 18, Crimes and Criminal Procedure\] may be cited as the ‘Native American Laws Technical Corrections Act of 2000’.”
 
-[Pub. L. 106–568, title XIII, § 1301][/us/pl/106/568/s1301], Dec. 27, 2000, [114 Stat. 2936][/us/stat/114/2936], provided that: 
+[Pub. L. 106–568, title XIII][/us/pl/106/568/tXIII], § 1301, Dec. 27, 2000, [114 Stat. 2936][/us/stat/114/2936], provided that: 
 
 > “This title \[enacting part F (§ 458bbb et seq.) of this subchapter\] may be cited as the ‘American Indian Education Foundation Act of 2000’.”
 
-[Pub. L. 106–260, § 1][/us/pl/106/260/s1], Aug. 18, 2000, [114 Stat. 711][/us/stat/114/711], provided that: 
+[Pub. L. 106–260][/us/pl/106/260], § 1, Aug. 18, 2000, [114 Stat. 711][/us/stat/114/711], provided that: 
 
 > “This Act \[enacting part E (§ 458aaa et seq.) of this subchapter, amending sections 450f, 450j, and 450j–1 of this title, enacting provisions set out as notes under sections 450f and 458aaa of this title, and repealing provisions set out as a note under [section 450f of this title][/us/usc/t25/s450f]\] may be cited as the ‘Tribal Self-Governance Amendments of 2000’.”
 
  __Short Title of 1994 Amendment__ 
 
-[Pub. L. 103–413, § 1][/us/pl/103/413/s1], Oct. 25, 1994, [108 Stat. 4250][/us/stat/108/4250], provided that: 
+[Pub. L. 103–413][/us/pl/103/413], § 1, Oct. 25, 1994, [108 Stat. 4250][/us/stat/108/4250], provided that: 
 
 > “This Act \[enacting part D (§ 458aa et seq.) of this subchapter and section 450l of this title, amending sections 450b, 450c, 450e, 450f, 450j to 450k, 450m, and 450m–1 of this title, and enacting provisions set out as notes under this section and [section 458aa of this title][/us/usc/t25/s458aa]\] may be cited as the ‘Indian Self-Determination Act Amendments of 1994’.”
 
-[Pub. L. 103–413, title I, § 101][/us/pl/103/413/s101], Oct. 25, 1994, [108 Stat. 4250][/us/stat/108/4250], provided that: 
+[Pub. L. 103–413, title I][/us/pl/103/413/tI], § 101, Oct. 25, 1994, [108 Stat. 4250][/us/stat/108/4250], provided that: 
 
 > “This title \[enacting section 450l of this title and amending sections 450b, 450c, 450e, 450f, 450j to 450k, 450m, and 450m–1 of this title\] may be cited as the ‘Indian Self-Determination Contract Reform Act of 1994’.”
 
-[Pub. L. 103–413, title II, § 201][/us/pl/103/413/s201], Oct. 25, 1994, [108 Stat. 4270][/us/stat/108/4270], provided that: 
+[Pub. L. 103–413, title II][/us/pl/103/413/tII], § 201, Oct. 25, 1994, [108 Stat. 4270][/us/stat/108/4270], provided that: 
 
 > “This title \[enacting part D (§ 458aa et seq.) of this subchapter and provisions set out as notes under [section 458aa of this title][/us/usc/t25/s458aa]\] may be cited as the ‘Tribal Self-Governance Act of 1994’.”
 
  __Short Title of 1990 Amendment__ 
 
-[Pub. L. 101–644, title II, § 201][/us/pl/101/644/s201], Nov. 29, 1990, [104 Stat. 4665][/us/stat/104/4665], provided that: 
+[Pub. L. 101–644, title II][/us/pl/101/644/tII], § 201, Nov. 29, 1990, [104 Stat. 4665][/us/stat/104/4665], provided that: 
 
 > “This title \[amending sections 450b, 450c, 450f, 450h, 450j, 450j–1, and 450k of this title and enacting provisions set out as a note under [section 450h of this title][/us/usc/t25/s450h]\] may be cited as the ‘Indian Self-Determination and Education Assistance Act Amendments of 1990’.”
 
  __Short Title of 1988 Amendment__ 
 
-[Pub. L. 100–472, title I, § 101][/us/pl/100/472/s101], Oct. 5, 1988, [102 Stat. 2285][/us/stat/102/2285], provided that: 
+[Pub. L. 100–472, title I][/us/pl/100/472/tI], § 101, Oct. 5, 1988, [102 Stat. 2285][/us/stat/102/2285], provided that: 
 
 > “This Act \[enacting sections 450j–1 and 450m–1 of this title, amending sections 13a, 450a to 450c, 450f to 450j, 450k, and 450n of this title, sections 3371 and 3372 of Title 5, Government Organization and Employees, sections 2004b and 4762 of Title 42, The Public Health and Welfare, and [section 3806 of Title 50][/us/usc/t50/s3806], War and National Defense, transferring section 450l of this title to [section 450c(f) of this title][/us/usc/t25/s450c/f], and enacting provisions set out as notes under this section and [section 450f of this title][/us/usc/t25/s450f]\] may be cited as the ‘Indian Self-Determination and Education Assistance Act Amendments of 1988’.”
 
  __Short Title__ 
 
-[Pub. L. 93–638, § 1][/us/pl/93/638/s1], Jan. 4, 1975, [88 Stat. 2203][/us/stat/88/2203], provided: 
+[Pub. L. 93–638][/us/pl/93/638], § 1, Jan. 4, 1975, [88 Stat. 2203][/us/stat/88/2203], provided: 
 
 > “That this Act \[enacting this subchapter, [section 13a of this title][/us/usc/t25/s13a], and [section 2004b of Title 42][/us/usc/t42/s2004b], The Public Health and Welfare, amending [section 3371 of Title 5][/us/usc/t5/s3371], Government Organization and Employees, [section 4762 of Title 42][/us/usc/t42/s4762], and [section 3806 of Title 50][/us/usc/t50/s3806], War and National Defense, and enacting provisions set out as notes under sections 450f, 455, and 457 of this title\] may be cited as the ‘Indian Self-Determination and Education Assistance Act’.”
 
-[Pub. L. 93–638, title I, § 101][/us/pl/93/638/s101], Jan. 4, 1975, [88 Stat. 2206][/us/stat/88/2206], provided that: 
+[Pub. L. 93–638, title I][/us/pl/93/638/tI], § 101, Jan. 4, 1975, [88 Stat. 2206][/us/stat/88/2206], provided that: 
 
 > “This title \[enacting part A (§ 450f et seq.) of this subchapter and [section 2004b of Title 42][/us/usc/t42/s2004b], The Public Health and Welfare, and amending [section 3371 of Title 5][/us/usc/t5/s3371], Government Organization and Employees, [section 4762 of Title 42][/us/usc/t42/s4762], and [section 3806 of Title 50][/us/usc/t50/s3806], War and National Defense\] may be cited as the ‘Indian Self-Determination Act’.”
 
-[Pub. L. 93–638, title II, § 201][/us/pl/93/638/s201], Jan. 4, 1975, [88 Stat. 2213][/us/stat/88/2213], provided that: 
+[Pub. L. 93–638, title II][/us/pl/93/638/tII], § 201, Jan. 4, 1975, [88 Stat. 2213][/us/stat/88/2213], provided that: 
 
 > “This title \[enacting part C (§ 458 et seq.) of this subchapter, sections 455 to 457 of this title, and provisions set out as a note under [section 457 of this title][/us/usc/t25/s457]\] may be cited as the ‘Indian Education Assistance Act’.”
 
  __Savings Provisions__ 
 
-[Pub. L. 100–472, title II, § 210][/us/pl/100/472/s210], Oct. 5, 1988, [102 Stat. 2298][/us/stat/102/2298], provided that: 
+[Pub. L. 100–472, title II][/us/pl/100/472/tII], § 210, Oct. 5, 1988, [102 Stat. 2298][/us/stat/102/2298], provided that: 
 
 > “Nothing in this Act \[see Short Title of 1988 Amendment note above\] shall be construed as—
 
@@ -101,13 +101,13 @@
 
  __Severability__ 
 
-[Pub. L. 100–472, title II, § 211][/us/pl/100/472/s211], Oct. 5, 1988, [102 Stat. 2298][/us/stat/102/2298], provided that: 
+[Pub. L. 100–472, title II][/us/pl/100/472/tII], § 211, Oct. 5, 1988, [102 Stat. 2298][/us/stat/102/2298], provided that: 
 
 > “If any provision of this Act \[see Short Title of 1988 Amendment note above\] or the application thereof to any Indian tribe, entity, person or circumstance is held invalid, neither the remainder of this Act, nor the application of any provisions herein to other Indian tribes, entities, persons, or circumstances, shall be affected thereby.”
 
  __Consultation With Alaska Native Corporations__ 
 
-[Pub. L. 108–199, div. H, § 161][/us/pl/108/199/s161], Jan. 23, 2004, [118 Stat. 452][/us/stat/118/452], as amended by [Pub. L. 108–447, div. H, title V, § 518][/us/pl/108/447/s518], Dec. 8, 2004, [118 Stat. 3267][/us/stat/118/3267], provided that: 
+[Pub. L. 108–199, div. H][/us/pl/108/199/dH], § 161, Jan. 23, 2004, [118 Stat. 452][/us/stat/118/452], as amended by [Pub. L. 108–447, div. H, title V][/us/pl/108/447/dH/tV], § 518, Dec. 8, 2004, [118 Stat. 3267][/us/stat/118/3267], provided that: 
 
 > “The Director of the Office of Management and Budget and all Federal agencies shall hereafter consult with Alaska Native corporations on the same basis as Indian tribes under Executive Order No. 13175 \[set out below\].”
 
@@ -402,55 +402,55 @@ In order to ensure that the rights of sovereign tribal governments are fully res
 ----------
 ----------
 
-[/us/pl/93/638/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638%2Fs2
+[/us/pl/93/638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638
 [/us/stat/88/2203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2203
-[/us/pl/106/568/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F568%2Fs801
+[/us/pl/106/568/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F568%2FtVIII
 [/us/stat/114/2916]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2916
 [/us/usc/t25/s84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs84
-[/us/pl/106/568/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F568%2Fs1301
+[/us/pl/106/568/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F568%2FtXIII
 [/us/stat/114/2936]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2936
-[/us/pl/106/260/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F260%2Fs1
+[/us/pl/106/260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F260
 [/us/stat/114/711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F711
 [/us/usc/t25/s450f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450f
-[/us/pl/103/413/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F413%2Fs1
+[/us/pl/103/413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F413
 [/us/stat/108/4250]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4250
 [/us/usc/t25/s458aa]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs458aa
-[/us/pl/103/413/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F413%2Fs101
+[/us/pl/103/413/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F413%2FtI
 [/us/stat/108/4250]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4250
-[/us/pl/103/413/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F413%2Fs201
+[/us/pl/103/413/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F413%2FtII
 [/us/stat/108/4270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4270
 [/us/usc/t25/s458aa]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs458aa
-[/us/pl/101/644/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F644%2Fs201
+[/us/pl/101/644/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F644%2FtII
 [/us/stat/104/4665]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4665
 [/us/usc/t25/s450h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450h
-[/us/pl/100/472/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F472%2Fs101
+[/us/pl/100/472/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F472%2FtI
 [/us/stat/102/2285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2285
 [/us/usc/t50/s3806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3806
 [/us/usc/t25/s450c/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450c%2Ff
 [/us/usc/t25/s450f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450f
-[/us/pl/93/638/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638%2Fs1
+[/us/pl/93/638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638
 [/us/stat/88/2203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2203
 [/us/usc/t25/s13a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs13a
 [/us/usc/t42/s2004b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2004b
 [/us/usc/t5/s3371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3371
 [/us/usc/t42/s4762]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4762
 [/us/usc/t50/s3806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3806
-[/us/pl/93/638/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638%2Fs101
+[/us/pl/93/638/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638%2FtI
 [/us/stat/88/2206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2206
 [/us/usc/t42/s2004b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2004b
 [/us/usc/t5/s3371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3371
 [/us/usc/t42/s4762]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4762
 [/us/usc/t50/s3806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3806
-[/us/pl/93/638/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638%2Fs201
+[/us/pl/93/638/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638%2FtII
 [/us/stat/88/2213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2213
 [/us/usc/t25/s457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs457
-[/us/pl/100/472/s210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F472%2Fs210
+[/us/pl/100/472/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F472%2FtII
 [/us/stat/102/2298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2298
-[/us/pl/100/472/s211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F472%2Fs211
+[/us/pl/100/472/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F472%2FtII
 [/us/stat/102/2298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2298
-[/us/pl/108/199/s161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2Fs161
+[/us/pl/108/199/dH]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2FdH
 [/us/stat/118/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F452
-[/us/pl/108/447/s518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs518
+[/us/pl/108/447/dH/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2FdH%2FtV
 [/us/stat/118/3267]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3267
 [/us/usc/t25/s479a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs479a
 [/us/usc/t44/s3502/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3502%2F1

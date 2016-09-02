@@ -53,7 +53,7 @@
 
         The term “traditional and cultural purpose”, with respect to a definable use, area, or practice, means that the use, area, or practice is identified by an Indian tribe as traditional or cultural because of the long-established significance or ceremonial nature of the use, area, or practice to the Indian tribe.
 
-([Pub. L. 110–234, title VIII, § 8102][/us/pl/110/234/s8102], May 22, 2008, [122 Stat. 1287][/us/stat/122/1287]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VIII, § 8102, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2048.)
+([Pub. L. 110–234, title VIII][/us/pl/110/234/tVIII], § 8102, May 22, 2008, [122 Stat. 1287][/us/stat/122/1287]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title VIII, § 8102, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2048.)
 
  __Codification__ 
 
@@ -69,9 +69,9 @@
 [/us/usc/t25/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs3001
 [/us/usc/t25/s479a–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs479a%E2%80%931
 [/us/usc/t16/s1609/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1609%2Fa
-[/us/pl/110/234/s8102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs8102
+[/us/pl/110/234/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtVIII
 [/us/stat/122/1287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1287
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246

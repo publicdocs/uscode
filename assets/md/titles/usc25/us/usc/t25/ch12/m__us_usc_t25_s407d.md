@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t25/ch12/m__us_usc_t25_s407.md) | [Next](./../../../..//us/usc/t25/ch12/m__us_usc_t25_s408.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs407d)
+[Previous](./../../../..//us/usc/t25/ch12/m__us_usc_t25_s407a...407c.md) | [Next](./../../../..//us/usc/t25/ch12/m__us_usc_t25_s408.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs407d)
 
 ## § 407d. Charges for special services to purchasers of timber
 
@@ -21,7 +21,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t25/ch12/m__us_usc_t25_s407.md) | [Next](./../../../..//us/usc/t25/ch12/m__us_usc_t25_s408.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs407d)
+[Previous](./../../../..//us/usc/t25/ch12/m__us_usc_t25_s407a...407c.md) | [Next](./../../../..//us/usc/t25/ch12/m__us_usc_t25_s408.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs407d)
 
 ----------
 ----------

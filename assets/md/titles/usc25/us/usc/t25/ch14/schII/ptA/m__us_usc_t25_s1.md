@@ -291,7 +291,7 @@
 
             The annual funding agreement is hereby incorporated in its entirety in this Contract and attached to this Contract as attachment 2.”
 
-([Pub. L. 93–638, title I, § 108][/us/pl/93/638/s108], as added [Pub. L. 103–413, title I, § 103][/us/pl/103/413/s103], Oct. 25, 1994, [108 Stat. 4260][/us/stat/108/4260]; amended [Pub. L. 106–568, title VIII, § 812(a)][/us/pl/106/568/s812/a], Dec. 27, 2000, [114 Stat. 2917][/us/stat/114/2917].)
+([Pub. L. 93–638, title I][/us/pl/93/638/tI], § 108, as added [Pub. L. 103–413, title I][/us/pl/103/413/tI], § 103, Oct. 25, 1994, [108 Stat. 4260][/us/stat/108/4260]; amended [Pub. L. 106–568, title VIII][/us/pl/106/568/tVIII], § 812(a), Dec. 27, 2000, [114 Stat. 2917][/us/stat/114/2917].)
 
  __References in Text__ 
 
@@ -307,7 +307,7 @@
 
  __Prior Provisions__ 
 
-    A prior section 450l, [Pub. L. 93–638, title I, § 108][/us/pl/93/638/s108], Jan. 4, 1975, [88 Stat. 2212][/us/stat/88/2212], which related to report by tribe requesting contract or grant, was renumbered [section 5(f) of Pub. L. 93–638][/us/pl/93/638/s5/f], by [Pub. L. 100–472, title II, § 208][/us/pl/100/472/s208], Oct. 5, 1988, [102 Stat. 2296][/us/stat/102/2296], and is classified to [section 450c(f) of this title][/us/usc/t25/s450c/f].
+    A prior section 450l, [Pub. L. 93–638, title I][/us/pl/93/638/tI], § 108, Jan. 4, 1975, [88 Stat. 2212][/us/stat/88/2212], which related to report by tribe requesting contract or grant, was renumbered [section 5(f) of Pub. L. 93–638][/us/pl/93/638/s5/f], by [Pub. L. 100–472, title II][/us/pl/100/472/tII], § 208, Oct. 5, 1988, [102 Stat. 2296][/us/stat/102/2296], and is classified to [section 450c(f) of this title][/us/usc/t25/s450c/f].
 
  __Amendments__ 
 
@@ -315,15 +315,15 @@
 
  __Quarterly Payments of Funds to Tribes__ 
 
-[Pub. L. 105–83, title III, § 311][/us/pl/105/83/s311], Nov. 14, 1997, [111 Stat. 1590][/us/stat/111/1590], provided that: 
+[Pub. L. 105–83, title III][/us/pl/105/83/tIII], § 311, Nov. 14, 1997, [111 Stat. 1590][/us/stat/111/1590], provided that: 
 
 > “Notwithstanding [Public Law 103–413][/us/pl/103/413] \[see Short Title of 1994 Amendment note set out under [section 450 of this title][/us/usc/t25/s450]\], quarterly payments of funds to tribes and tribal organizations under annual funding agreements pursuant to [section 108 of Public Law 93–638][/us/pl/93/638/s108] \[[25 U.S.C. 450][/us/usc/t25/s450]l\], as amended, beginning in fiscal year 1998 and therafter, \[sic\] may be made on the first business day following the first day of a fiscal quarter.”
 
 Similar provisions were contained in the following prior appropriation acts:
 
-    [Pub. L. 104–208, div. A, title I, § 101(d)][/us/pl/104/208/s101/d] \[title III, § 311\], Sept. 30, 1996, [110 Stat. 3009–181][/us/stat/110/3009-181], 3009–221.
+    [Pub. L. 104–208, div. A, title I][/us/pl/104/208/dA/tI], § 101(d) \[title III, § 311\], Sept. 30, 1996, [110 Stat. 3009–181][/us/stat/110/3009-181], 3009–221.
 
-    [Pub. L. 104–134, title I, § 101(c)][/us/pl/104/134/s101/c] \[title III, § 311\], Apr. 26, 1996, [110 Stat. 1321–156][/us/stat/110/1321-156], 1321–197; renumbered title I, [Pub. L. 104–140, § 1(a)][/us/pl/104/140/s1/a], May 2, 1996, [110 Stat. 1327][/us/stat/110/1327].
+    [Pub. L. 104–134, title I][/us/pl/104/134/tI], § 101(c) \[title III, § 311\], Apr. 26, 1996, [110 Stat. 1321–156][/us/stat/110/1321-156], 1321–197; renumbered title I, [Pub. L. 104–140][/us/pl/104/140], § 1(a), May 2, 1996, [110 Stat. 1327][/us/stat/110/1327].
 
 ----------
 
@@ -350,10 +350,10 @@ Similar provisions were contained in the following prior appropriation acts:
 [/us/usc/t25/s476]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs476
 [/us/usc/t25/s82a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs82a
 [/us/usc/t25/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1601
-[/us/pl/93/638/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638%2Fs108
-[/us/pl/103/413/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F413%2Fs103
+[/us/pl/93/638/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638%2FtI
+[/us/pl/103/413/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F413%2FtI
 [/us/stat/108/4260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4260
-[/us/pl/106/568/s812/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F568%2Fs812%2Fa
+[/us/pl/106/568/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F568%2FtVIII
 [/us/stat/114/2917]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2917
 [/us/pl/93/638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638
 [/us/stat/88/2203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2203
@@ -371,27 +371,27 @@ Similar provisions were contained in the following prior appropriation acts:
 [/us/pl/94/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437
 [/us/stat/90/1400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1400
 [/us/usc/t25/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1601
-[/us/pl/93/638/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638%2Fs108
+[/us/pl/93/638/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638%2FtI
 [/us/stat/88/2212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2212
 [/us/pl/93/638/s5/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638%2Fs5%2Ff
-[/us/pl/100/472/s208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F472%2Fs208
+[/us/pl/100/472/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F472%2FtII
 [/us/stat/102/2296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2296
 [/us/usc/t25/s450c/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450c%2Ff
 [/us/pl/106/568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F568
 [/us/act/1934-06-18/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-18%2Fs16
 [/us/act/1934-06-18/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-18%2Fs16
 [/us/usc/t25/s82a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs82a
-[/us/pl/105/83/s311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F83%2Fs311
+[/us/pl/105/83/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F83%2FtIII
 [/us/stat/111/1590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1590
 [/us/pl/103/413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F413
 [/us/usc/t25/s450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450
 [/us/pl/93/638/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638%2Fs108
 [/us/usc/t25/s450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450
-[/us/pl/104/208/s101/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Fd
+[/us/pl/104/208/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtI
 [/us/stat/110/3009-181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-181
-[/us/pl/104/134/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs101%2Fc
+[/us/pl/104/134/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2FtI
 [/us/stat/110/1321-156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1321-156
-[/us/pl/104/140/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F140%2Fs1%2Fa
+[/us/pl/104/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F140
 [/us/stat/110/1327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1327
 
 

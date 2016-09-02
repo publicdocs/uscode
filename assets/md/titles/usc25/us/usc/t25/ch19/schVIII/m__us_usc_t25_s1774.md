@@ -63,7 +63,7 @@
 
         (8) to avoid the potential legal liability on the part of the United States that could be a direct consequence of not reaching a settlement.
 
-([Pub. L. 101–503, § 2][/us/pl/101/503/s2], Nov. 3, 1990, [104 Stat. 1292][/us/stat/104/1292].)
+([Pub. L. 101–503][/us/pl/101/503], § 2, Nov. 3, 1990, [104 Stat. 1292][/us/stat/104/1292].)
 
  __References in Text__ 
 
@@ -73,7 +73,7 @@
 
  __Short Title__ 
 
-[Pub. L. 101–503, § 1][/us/pl/101/503/s1], Nov. 3, 1990, [104 Stat. 1292][/us/stat/104/1292], provided that: 
+[Pub. L. 101–503][/us/pl/101/503], § 1, Nov. 3, 1990, [104 Stat. 1292][/us/stat/104/1292], provided that: 
 
 > “This Act \[enacting this subchapter\] may be cited as the ‘Seneca Nation Settlement Act of 1990’.”
 
@@ -86,7 +86,7 @@
 
 [/us/stat/18/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F18%2F330
 [/us/stat/26/558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F26%2F558
-[/us/pl/101/503/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F503%2Fs2
+[/us/pl/101/503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F503
 [/us/stat/104/1292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1292
 [/us/stat/18/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F18%2F330
 [/us/act/1875-02-19/ch90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1875-02-19%2Fch90
@@ -94,7 +94,7 @@
 [/us/stat/26/558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F26%2F558
 [/us/act/1890-09-30/ch1132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1890-09-30%2Fch1132
 [/us/stat/26/558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F26%2F558
-[/us/pl/101/503/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F503%2Fs1
+[/us/pl/101/503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F503
 [/us/stat/104/1292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1292
 
 

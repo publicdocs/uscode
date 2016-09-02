@@ -17,7 +17,7 @@
 
     The surplus lands of any tribe may be leased for farming purposes by the council of such tribe under the same rules and regulations and for the same term of years as was on August 15, 1894, allowed in the case of leases for grazing purposes.
 
-([Aug. 15, 1894, ch. 290, § 1][/us/act/1894-08-15/ch290/s1], [28 Stat. 305][/us/stat/28/305].)
+([Aug. 15, 1894, ch. 290][/us/act/1894-08-15/ch290], § 1, [28 Stat. 305][/us/stat/28/305].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1894-08-15/ch290/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1894-08-15%2Fch290%2Fs1
+[/us/act/1894-08-15/ch290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1894-08-15%2Fch290
 [/us/stat/28/305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F28%2F305
 
 

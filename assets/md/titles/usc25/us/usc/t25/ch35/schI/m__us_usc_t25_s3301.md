@@ -17,7 +17,7 @@
 
     This subchapter may be cited as the “Higher Education Tribal Grant Authorization Act”.
 
-([Pub. L. 102–325, title XIII, § 1311][/us/pl/102/325/s1311], July 23, 1992, [106 Stat. 798][/us/stat/106/798].)
+([Pub. L. 102–325, title XIII][/us/pl/102/325/tXIII], § 1311, July 23, 1992, [106 Stat. 798][/us/stat/106/798].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/102/325/s1311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs1311
+[/us/pl/102/325/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2FtXIII
 [/us/stat/106/798]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F798
 
 

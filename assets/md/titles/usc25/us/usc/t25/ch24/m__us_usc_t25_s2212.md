@@ -91,7 +91,7 @@
 
         There is authorized to be appropriated to carry out this section $75,000,000 for fiscal year 2005, $95,000,000 for fiscal year 2006, and $145,000,000 for each of fiscal years 2007 through 2010.
 
-([Pub. L. 97–459, title II, § 213][/us/pl/97/459/s213], as added [Pub. L. 106–462, title I, § 103(6)][/us/pl/106/462/s103/6], Nov. 7, 2000, [114 Stat. 1999][/us/stat/114/1999]; amended [Pub. L. 108–374, § 6(a)(5)][/us/pl/108/374/s6/a/5], Oct. 27, 2004, [118 Stat. 1800][/us/stat/118/1800]; [Pub. L. 109–157, § 5][/us/pl/109/157/s5], Dec. 30, 2005, [119 Stat. 2952][/us/stat/119/2952]; [Pub. L. 110–453, title II, § 207(d)][/us/pl/110/453/s207/d], Dec. 2, 2008, [122 Stat. 5033][/us/stat/122/5033].)
+([Pub. L. 97–459, title II][/us/pl/97/459/tII], § 213, as added [Pub. L. 106–462, title I][/us/pl/106/462/tI], § 103(6), Nov. 7, 2000, [114 Stat. 1999][/us/stat/114/1999]; amended [Pub. L. 108–374][/us/pl/108/374], § 6(a)(5), Oct. 27, 2004, [118 Stat. 1800][/us/stat/118/1800]; [Pub. L. 109–157][/us/pl/109/157], § 5, Dec. 30, 2005, [119 Stat. 2952][/us/stat/119/2952]; [Pub. L. 110–453, title II][/us/pl/110/453/tII], § 207(d), Dec. 2, 2008, [122 Stat. 5033][/us/stat/122/5033].)
 
  __References in Text__ 
 
@@ -105,25 +105,25 @@
 
     2008—Subsec. (a)(1). [Pub. L. 110–453][/us/pl/110/453] substituted “section 2206(o)” for “section 2206(p)”.
 
-    2005—[Pub. L. 109–157, § 5(1)][/us/pl/109/157/s5/1], amended section catchline generally making technical correction to section designation.
+    2005—[Pub. L. 109–157][/us/pl/109/157], § 5(1), amended section catchline generally making technical correction to section designation.
 
-    Subsec. (a)(1). [Pub. L. 109–157, § 5(2)][/us/pl/109/157/s5/2], made technical amendment to reference in original act which appears in text as reference to [section 2206(p) of this title][/us/usc/t25/s2206/p].
+    Subsec. (a)(1). [Pub. L. 109–157][/us/pl/109/157], § 5(2), made technical amendment to reference in original act which appears in text as reference to [section 2206(p) of this title][/us/usc/t25/s2206/p].
 
-    2004—[Pub. L. 108–374, § 6(a)(5)(A)][/us/pl/108/374/s6/a/5/A], substituted “Fractional interest acquisition program” for “Pilot program for the acquisition of fractional interests” in section catchline.
+    2004—[Pub. L. 108–374][/us/pl/108/374], § 6(a)(5)(A), substituted “Fractional interest acquisition program” for “Pilot program for the acquisition of fractional interests” in section catchline.
 
-    Subsec. (a)(1). [Pub. L. 108–374, § 6(a)(5)(B)(i)][/us/pl/108/374/s6/a/5/B/i], inserted “or from an heir during probate in accordance with [section 2206(p) of this title][/us/usc/t25/s2206/p]” after “owner,”.
+    Subsec. (a)(1). [Pub. L. 108–374][/us/pl/108/374], § 6(a)(5)(B)(i), inserted “or from an heir during probate in accordance with [section 2206(p) of this title][/us/usc/t25/s2206/p]” after “owner,”.
 
-    Subsec. (a)(2). [Pub. L. 108–374, § 6(a)(5)(B)(ii)][/us/pl/108/374/s6/a/5/B/ii], (iii), reenacted heading without change, substituted “The Secretary shall submit” for “(B) Required report.—Prior to expiration of the authority provided for in subparagraph (A), the Secretary shall submit” and “how the fractional interest acquisition program should be enhanced to increase the resources made” for “whether the program to acquire fractional interests should be extended or altered to make resources”, and struck out heading and text of subpar. (A). Text of subpar. (A) read as follows: “The Secretary shall have the authority to acquire interests in trust or restricted lands under this section during the 3-year period beginning on the date of certification that is referred to in [section 2206(g)(5) of this title][/us/usc/t25/s2206/g/5].”
+    Subsec. (a)(2). [Pub. L. 108–374][/us/pl/108/374], § 6(a)(5)(B)(ii), (iii), reenacted heading without change, substituted “The Secretary shall submit” for “(B) Required report.—Prior to expiration of the authority provided for in subparagraph (A), the Secretary shall submit” and “how the fractional interest acquisition program should be enhanced to increase the resources made” for “whether the program to acquire fractional interests should be extended or altered to make resources”, and struck out heading and text of subpar. (A). Text of subpar. (A) read as follows: “The Secretary shall have the authority to acquire interests in trust or restricted lands under this section during the 3-year period beginning on the date of certification that is referred to in [section 2206(g)(5) of this title][/us/usc/t25/s2206/g/5].”
 
-    Subsec. (b)(4). [Pub. L. 108–374, § 6(a)(5)(C)][/us/pl/108/374/s6/a/5/C], added par. (4) and struck out former par. (4) which read as follows: “shall minimize the administrative costs associated with the land acquisition program.”
+    Subsec. (b)(4). [Pub. L. 108–374][/us/pl/108/374], § 6(a)(5)(C), added par. (4) and struck out former par. (4) which read as follows: “shall minimize the administrative costs associated with the land acquisition program.”
 
-    Subsec. (c)(1)(A). [Pub. L. 108–374, § 6(a)(5)(D)(i)(I)][/us/pl/108/374/s6/a/5/D/i/I]–(III), substituted “an undivided interest” for “at least 5 percent of the undivided interest”, inserted “in such parcel” after “the Secretary shall convey an interest”, and substituted “landowner—” and cls. (i) and (ii) for “landowner upon payment by the Indian landowner of the amount paid for the interest by the Secretary.”
+    Subsec. (c)(1)(A). [Pub. L. 108–374][/us/pl/108/374], § 6(a)(5)(D)(i)(I)–(III), substituted “an undivided interest” for “at least 5 percent of the undivided interest”, inserted “in such parcel” after “the Secretary shall convey an interest”, and substituted “landowner—” and cls. (i) and (ii) for “landowner upon payment by the Indian landowner of the amount paid for the interest by the Secretary.”
 
-    Subsec. (c)(1)(B). [Pub. L. 108–374, § 6(a)(5)(D)(i)(IV)][/us/pl/108/374/s6/a/5/D/i/IV], inserted “unless the interest is subject to a foreclosure of a mortgage in accordance with [section 483a of this title][/us/usc/t25/s483a]” before period at end.
+    Subsec. (c)(1)(B). [Pub. L. 108–374][/us/pl/108/374], § 6(a)(5)(D)(i)(IV), inserted “unless the interest is subject to a foreclosure of a mortgage in accordance with [section 483a of this title][/us/usc/t25/s483a]” before period at end.
 
-    Subsec. (c)(3). [Pub. L. 108–374, § 6(a)(5)(D)(ii)][/us/pl/108/374/s6/a/5/D/ii], substituted “an undivided interest” for “10 percent or more of the undivided interests”.
+    Subsec. (c)(3). [Pub. L. 108–374][/us/pl/108/374], § 6(a)(5)(D)(ii), substituted “an undivided interest” for “10 percent or more of the undivided interests”.
 
-    Subsec. (d). [Pub. L. 108–374, § 6(a)(5)(E)][/us/pl/108/374/s6/a/5/E], added subsec. (d).
+    Subsec. (d). [Pub. L. 108–374][/us/pl/108/374], § 6(a)(5)(E), added subsec. (d).
 
  __Effective Date of 2005 Amendment__ 
 
@@ -141,14 +141,14 @@
 [/us/usc/t25/s2203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs2203
 [/us/usc/t25/s450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450
 [/us/usc/t25/s483a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs483a
-[/us/pl/97/459/s213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F459%2Fs213
-[/us/pl/106/462/s103/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F462%2Fs103%2F6
+[/us/pl/97/459/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F459%2FtII
+[/us/pl/106/462/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F462%2FtI
 [/us/stat/114/1999]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1999
-[/us/pl/108/374/s6/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F374%2Fs6%2Fa%2F5
+[/us/pl/108/374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F374
 [/us/stat/118/1800]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1800
-[/us/pl/109/157/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F157%2Fs5
+[/us/pl/109/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F157
 [/us/stat/119/2952]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2952
-[/us/pl/110/453/s207/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F453%2Fs207%2Fd
+[/us/pl/110/453/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F453%2FtII
 [/us/stat/122/5033]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F5033
 [/us/pl/97/459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F459
 [/us/pl/106/462/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F462%2Fs102
@@ -157,20 +157,20 @@
 [/us/stat/88/2203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2203
 [/us/usc/t25/s450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450
 [/us/pl/110/453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F453
-[/us/pl/109/157/s5/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F157%2Fs5%2F1
-[/us/pl/109/157/s5/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F157%2Fs5%2F2
+[/us/pl/109/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F157
+[/us/pl/109/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F157
 [/us/usc/t25/s2206/p]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs2206%2Fp
-[/us/pl/108/374/s6/a/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F374%2Fs6%2Fa%2F5%2FA
-[/us/pl/108/374/s6/a/5/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F374%2Fs6%2Fa%2F5%2FB%2Fi
+[/us/pl/108/374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F374
+[/us/pl/108/374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F374
 [/us/usc/t25/s2206/p]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs2206%2Fp
-[/us/pl/108/374/s6/a/5/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F374%2Fs6%2Fa%2F5%2FB%2Fii
+[/us/pl/108/374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F374
 [/us/usc/t25/s2206/g/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs2206%2Fg%2F5
-[/us/pl/108/374/s6/a/5/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F374%2Fs6%2Fa%2F5%2FC
-[/us/pl/108/374/s6/a/5/D/i/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F374%2Fs6%2Fa%2F5%2FD%2Fi%2FI
-[/us/pl/108/374/s6/a/5/D/i/IV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F374%2Fs6%2Fa%2F5%2FD%2Fi%2FIV
+[/us/pl/108/374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F374
+[/us/pl/108/374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F374
+[/us/pl/108/374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F374
 [/us/usc/t25/s483a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs483a
-[/us/pl/108/374/s6/a/5/D/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F374%2Fs6%2Fa%2F5%2FD%2Fii
-[/us/pl/108/374/s6/a/5/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F374%2Fs6%2Fa%2F5%2FE
+[/us/pl/108/374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F374
+[/us/pl/108/374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F374
 [/us/pl/109/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F157
 [/us/pl/108/374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F374
 [/us/pl/109/157/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F157%2Fs9

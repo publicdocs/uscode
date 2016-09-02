@@ -33,13 +33,13 @@
 
         The Secretary may establish programs to allow the use of flexible work schedules, and compressed work schedules, in accordance with the provisions of subchapter II of chapter 61 of title 5, for health professionals employed by, or assigned to, the Service.
 
-([Pub. L. 94–437, title I, § 116][/us/pl/94/437/s116], as added [Pub. L. 100–713, title I, § 109][/us/pl/100/713/s109], Nov. 23, 1988, [102 Stat. 4798][/us/stat/102/4798]; amended [Pub. L. 102–573, title I, § 117(b)(8)][/us/pl/102/573/s117/b/8], title IX, § 901(1), Oct. 29, 1992, [106 Stat. 4544][/us/stat/106/4544], 4590.)
+([Pub. L. 94–437, title I][/us/pl/94/437/tI], § 116, as added [Pub. L. 100–713, title I][/us/pl/100/713/tI], § 109, Nov. 23, 1988, [102 Stat. 4798][/us/stat/102/4798]; amended [Pub. L. 102–573, title I][/us/pl/102/573/tI], § 117(b)(8), title IX, § 901(1), Oct. 29, 1992, [106 Stat. 4544][/us/stat/106/4544], 4590.)
 
  __Amendments__ 
 
-    1992—Subsec. (d). [Pub. L. 102–573, § 901(1)][/us/pl/102/573/s901/1], struck out subsec. (d) which required a report to Congress by the Secretary no later than 6 months after Nov. 23, 1988, relating to overtime pay for individuals employed by the Service.
+    1992—Subsec. (d). [Pub. L. 102–573][/us/pl/102/573], § 901(1), struck out subsec. (d) which required a report to Congress by the Secretary no later than 6 months after Nov. 23, 1988, relating to overtime pay for individuals employed by the Service.
 
-    Subsec. (e). [Pub. L. 102–573, § 117(b)(8)][/us/pl/102/573/s117/b/8], struck out subsec. (e) which authorized appropriations for fiscal years 1990 to 1992.
+    Subsec. (e). [Pub. L. 102–573][/us/pl/102/573], § 117(b)(8), struck out subsec. (e) which authorized appropriations for fiscal years 1990 to 1992.
 
 ----------
 
@@ -49,12 +49,12 @@
 ----------
 
 [/us/usc/t37/s302/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs302%2Fb
-[/us/pl/94/437/s116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437%2Fs116
-[/us/pl/100/713/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F713%2Fs109
+[/us/pl/94/437/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437%2FtI
+[/us/pl/100/713/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F713%2FtI
 [/us/stat/102/4798]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4798
-[/us/pl/102/573/s117/b/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2Fs117%2Fb%2F8
+[/us/pl/102/573/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2FtI
 [/us/stat/106/4544]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4544
-[/us/pl/102/573/s901/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2Fs901%2F1
-[/us/pl/102/573/s117/b/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2Fs117%2Fb%2F8
+[/us/pl/102/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573
+[/us/pl/102/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573
 
 

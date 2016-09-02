@@ -17,7 +17,7 @@
 
     None of the funds distributed per capita under the provisions of this subchapter shall be subject to Federal or State income taxes. Sums payable to enrollees or heirs or legatees who are less than eighteen years of age or who are under a legal disability shall be paid in accordance with such procedures, including the establishment of trusts, as the Secretary determines appropriate to protect the best interests of such persons.
 
-([Pub. L. 92–461, § 5][/us/pl/92/461/s5], Oct. 6, 1972, [86 Stat. 769][/us/stat/86/769].)
+([Pub. L. 92–461][/us/pl/92/461], § 5, Oct. 6, 1972, [86 Stat. 769][/us/stat/86/769].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/92/461/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F461%2Fs5
+[/us/pl/92/461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F461
 [/us/stat/86/769]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F769
 
 

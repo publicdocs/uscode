@@ -17,7 +17,7 @@
 
     The Secretary is authorized to prescribe rules and regulations to carry out the provisions of this subchapter.
 
-([Pub. L. 87–235, § 7][/us/pl/87/235/s7], Sept. 14, 1961, [75 Stat. 509][/us/stat/75/509].)
+([Pub. L. 87–235][/us/pl/87/235], § 7, Sept. 14, 1961, [75 Stat. 509][/us/stat/75/509].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/87/235/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F235%2Fs7
+[/us/pl/87/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F235
 [/us/stat/75/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F509
 
 

@@ -27,7 +27,7 @@
 
         An individual who participates in a program under subsection (a), where the educational costs are paid by the Service, shall incur an obligation to serve in an Indian health program for a period of obligated service equal to at least three times the period of time during which the individual participates in such program. In the event that the individual fails to complete such obligated service, the United States shall be entitled to recover from such individual an amount determined in accordance with the formula specified in subsection (l) of [section 1616a of this title][/us/usc/t25/s1616a] in the manner provided for in such subsection.
 
-([Pub. L. 94–437, title I, § 118][/us/pl/94/437/s118], as added [Pub. L. 102–573, title I, § 104(e)][/us/pl/102/573/s104/e], Oct. 29, 1992, [106 Stat. 4534][/us/stat/106/4534]; amended [Pub. L. 103–435, § 16(b)][/us/pl/103/435/s16/b], Nov. 2, 1994, [108 Stat. 4573][/us/stat/108/4573].)
+([Pub. L. 94–437, title I][/us/pl/94/437/tI], § 118, as added [Pub. L. 102–573, title I][/us/pl/102/573/tI], § 104(e), Oct. 29, 1992, [106 Stat. 4534][/us/stat/106/4534]; amended [Pub. L. 103–435][/us/pl/103/435], § 16(b), Nov. 2, 1994, [108 Stat. 4573][/us/stat/108/4573].)
 
  __Amendments__ 
 
@@ -43,10 +43,10 @@
 [/us/usc/t25/s1616a/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1616a%2Fa%2F2%2FA
 [/us/usc/t25/s1616a/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1616a%2Fa%2F2%2FA
 [/us/usc/t25/s1616a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1616a
-[/us/pl/94/437/s118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437%2Fs118
-[/us/pl/102/573/s104/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2Fs104%2Fe
+[/us/pl/94/437/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437%2FtI
+[/us/pl/102/573/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2FtI
 [/us/stat/106/4534]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4534
-[/us/pl/103/435/s16/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F435%2Fs16%2Fb
+[/us/pl/103/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F435
 [/us/stat/108/4573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4573
 [/us/pl/103/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F435
 

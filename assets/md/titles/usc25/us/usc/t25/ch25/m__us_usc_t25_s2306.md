@@ -19,7 +19,7 @@
 
     (b) Funds necessary to pay the expenses of administering this chapter shall be appropriated and expended under the authority of [section 13 of this title][/us/usc/t25/s13].
 
-([Pub. L. 98–500, § 7][/us/pl/98/500/s7], Oct. 19, 1984, [98 Stat. 2318][/us/stat/98/2318].)
+([Pub. L. 98–500][/us/pl/98/500], § 7, Oct. 19, 1984, [98 Stat. 2318][/us/stat/98/2318].)
 
 ----------
 
@@ -29,7 +29,7 @@
 ----------
 
 [/us/usc/t25/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs13
-[/us/pl/98/500/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F500%2Fs7
+[/us/pl/98/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F500
 [/us/stat/98/2318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2318
 
 

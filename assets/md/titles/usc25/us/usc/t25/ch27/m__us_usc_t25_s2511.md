@@ -75,7 +75,7 @@
 
         (C) is not directly administered by the Bureau of Indian Affairs.
 
-([Pub. L. 100–297, title V, § 5212][/us/pl/100/297/s5212], as added [Pub. L. 107–110, title X, § 1043][/us/pl/107/110/s1043], Jan. 8, 2002, [115 Stat. 2078][/us/stat/115/2078].)
+([Pub. L. 100–297, title V][/us/pl/100/297/tV], § 5212, as added [Pub. L. 107–110, title X][/us/pl/107/110/tX], § 1043, Jan. 8, 2002, [115 Stat. 2078][/us/stat/115/2078].)
 
  __References in Text__ 
 
@@ -85,7 +85,7 @@
 
  __Prior Provisions__ 
 
-    A prior section 2511, [Pub. L. 100–297, title V, § 5212][/us/pl/100/297/s5212], Apr. 28, 1988, [102 Stat. 394][/us/stat/102/394], defined terms, prior to repeal by [Pub. L. 107–110, title X, § 1043][/us/pl/107/110/s1043], Jan. 8, 2002, [115 Stat. 2063][/us/stat/115/2063].
+    A prior section 2511, [Pub. L. 100–297, title V][/us/pl/100/297/tV], § 5212, Apr. 28, 1988, [102 Stat. 394][/us/stat/102/394], defined terms, prior to repeal by [Pub. L. 107–110, title X][/us/pl/107/110/tX], § 1043, Jan. 8, 2002, [115 Stat. 2063][/us/stat/115/2063].
 
  __Effective Date__ 
 
@@ -100,8 +100,8 @@
 
 [/us/usc/t25/s2007/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs2007%2Ff
 [/us/usc/t43/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1601
-[/us/pl/100/297/s5212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297%2Fs5212
-[/us/pl/107/110/s1043]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2Fs1043
+[/us/pl/100/297/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297%2FtV
+[/us/pl/107/110/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2FtX
 [/us/stat/115/2078]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F2078
 [/us/pl/92/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F203
 [/us/stat/85/688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F688
@@ -109,9 +109,9 @@
 [/us/pl/100/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297
 [/us/pl/100/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297
 [/us/usc/t25/s2501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs2501
-[/us/pl/100/297/s5212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297%2Fs5212
+[/us/pl/100/297/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297%2FtV
 [/us/stat/102/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F394
-[/us/pl/107/110/s1043]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2Fs1043
+[/us/pl/107/110/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2FtX
 [/us/stat/115/2063]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F2063
 [/us/pl/107/110/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2Fs5
 [/us/usc/t20/s6301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6301

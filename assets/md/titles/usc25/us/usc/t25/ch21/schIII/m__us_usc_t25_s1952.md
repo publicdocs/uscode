@@ -17,7 +17,7 @@
 
     Within one hundred and eighty days after November 8, 1978, the Secretary shall promulgate such rules and regulations as may be necessary to carry out the provisions of this chapter.
 
-([Pub. L. 95–608, title III, § 302][/us/pl/95/608/s302], Nov. 8, 1978, [92 Stat. 3077][/us/stat/92/3077].)
+([Pub. L. 95–608, title III][/us/pl/95/608/tIII], § 302, Nov. 8, 1978, [92 Stat. 3077][/us/stat/92/3077].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/95/608/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F608%2Fs302
+[/us/pl/95/608/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F608%2FtIII
 [/us/stat/92/3077]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3077
 
 

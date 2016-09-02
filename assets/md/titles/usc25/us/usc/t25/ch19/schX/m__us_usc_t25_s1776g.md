@@ -31,7 +31,7 @@
 
         The United States hereby approves and confirms the releases and waivers required by [section 1776c of this title][/us/usc/t25/s1776c].
 
-([Pub. L. 103–444, § 9][/us/pl/103/444/s9], Nov. 2, 1994, [108 Stat. 4640][/us/stat/108/4640]; [Pub. L. 104–109, § 9(b)][/us/pl/104/109/s9/b], Feb. 12, 1996, [110 Stat. 765][/us/stat/110/765].)
+([Pub. L. 103–444][/us/pl/103/444], § 9, Nov. 2, 1994, [108 Stat. 4640][/us/stat/108/4640]; [Pub. L. 104–109][/us/pl/104/109], § 9(b), Feb. 12, 1996, [110 Stat. 765][/us/stat/110/765].)
 
  __Amendments__ 
 
@@ -46,9 +46,9 @@
 
 [/us/usc/t25/s1776c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1776c
 [/us/usc/t25/s1776c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1776c
-[/us/pl/103/444/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F444%2Fs9
+[/us/pl/103/444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F444
 [/us/stat/108/4640]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4640
-[/us/pl/104/109/s9/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F109%2Fs9%2Fb
+[/us/pl/104/109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F109
 [/us/stat/110/765]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F765
 [/us/pl/104/109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F109
 

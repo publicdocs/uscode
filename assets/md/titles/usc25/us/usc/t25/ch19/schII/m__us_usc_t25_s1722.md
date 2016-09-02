@@ -45,7 +45,7 @@
 
     (n) “transfer” includes but is not limited to any voluntary or involuntary sale, grant, lease, allotment, partition, or other conveyance; any transaction the purpose of which was to effect a sale, grant, lease, allotment, partition, or conveyance; and any act, event, or circumstance that resulted in a change in title to, possession of, dominion over, or control of land or natural resources.
 
-([Pub. L. 96–420, § 3][/us/pl/96/420/s3], Oct. 10, 1980, [94 Stat. 1786][/us/stat/94/1786].)
+([Pub. L. 96–420][/us/pl/96/420], § 3, Oct. 10, 1980, [94 Stat. 1786][/us/stat/94/1786].)
 
 ----------
 
@@ -56,7 +56,7 @@
 
 [/us/usc/t25/s1724/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1724%2Fc
 [/us/usc/t25/s1724/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1724%2Fa
-[/us/pl/96/420/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F420%2Fs3
+[/us/pl/96/420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F420
 [/us/stat/94/1786]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1786
 
 

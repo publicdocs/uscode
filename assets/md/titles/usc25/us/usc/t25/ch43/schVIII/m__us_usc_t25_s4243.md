@@ -17,11 +17,11 @@
 
     There are authorized to be appropriated to the Department of Housing and Urban Development for grants under this subchapter such sums as may be necessary for each of fiscal years 2001, 2002, 2003, 2004, and 2005.
 
-([Pub. L. 104–330, title VIII, § 824][/us/pl/104/330/s824], as added [Pub. L. 106–568, title II, § 203][/us/pl/106/568/s203], Dec. 27, 2000, [114 Stat. 2895][/us/stat/114/2895], and [Pub. L. 106–569, title V, § 513][/us/pl/106/569/s513], Dec. 27, 2000, [114 Stat. 2989][/us/stat/114/2989].)
+([Pub. L. 104–330, title VIII][/us/pl/104/330/tVIII], § 824, as added [Pub. L. 106–568, title II][/us/pl/106/568/tII], § 203, Dec. 27, 2000, [114 Stat. 2895][/us/stat/114/2895], and [Pub. L. 106–569, title V][/us/pl/106/569/tV], § 513, Dec. 27, 2000, [114 Stat. 2989][/us/stat/114/2989].)
 
  __Codification__ 
 
-    [Pub. L. 106–568, § 203][/us/pl/106/568/s203], and [Pub. L. 106–569, § 513][/us/pl/106/569/s513], enacted substantially identical sections 824 of [Pub. L. 104–330][/us/pl/104/330]. This section is based on the text of [section 824 of Pub. L. 104–330][/us/pl/104/330/s824], as added by [Pub. L. 106–569, § 513][/us/pl/106/569/s513]. [Section 824 of Pub. L. 104–330][/us/pl/104/330/s824], as added by [Pub. L. 106–568, § 203][/us/pl/106/568/s203], authorized appropriations for fiscal years 2000 to 2004, instead of fiscal years 2001 to 2005.
+    [Pub. L. 106–568][/us/pl/106/568], § 203, and [Pub. L. 106–569][/us/pl/106/569], § 513, enacted substantially identical sections 824 of [Pub. L. 104–330][/us/pl/104/330]. This section is based on the text of [section 824 of Pub. L. 104–330][/us/pl/104/330/s824], as added by [Pub. L. 106–569][/us/pl/106/569], § 513. [Section 824 of Pub. L. 104–330][/us/pl/104/330/s824], as added by [Pub. L. 106–568][/us/pl/106/568], § 203, authorized appropriations for fiscal years 2000 to 2004, instead of fiscal years 2001 to 2005.
 
 ----------
 
@@ -30,17 +30,17 @@
 ----------
 ----------
 
-[/us/pl/104/330/s824]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330%2Fs824
-[/us/pl/106/568/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F568%2Fs203
+[/us/pl/104/330/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330%2FtVIII
+[/us/pl/106/568/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F568%2FtII
 [/us/stat/114/2895]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2895
-[/us/pl/106/569/s513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs513
+[/us/pl/106/569/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2FtV
 [/us/stat/114/2989]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2989
-[/us/pl/106/568/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F568%2Fs203
-[/us/pl/106/569/s513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs513
+[/us/pl/106/568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F568
+[/us/pl/106/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569
 [/us/pl/104/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330
 [/us/pl/104/330/s824]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330%2Fs824
-[/us/pl/106/569/s513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs513
+[/us/pl/106/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569
 [/us/pl/104/330/s824]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330%2Fs824
-[/us/pl/106/568/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F568%2Fs203
+[/us/pl/106/568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F568
 
 

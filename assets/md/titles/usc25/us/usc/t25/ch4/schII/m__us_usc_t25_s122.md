@@ -21,7 +21,7 @@
 
  __Codification__ 
 
-    R.S. § 2097 derived from [act July 26, 1866, ch. 266, § 2][/us/act/1866-07-26/ch266/s2], [14 Stat. 280][/us/stat/14/280].
+    R.S. § 2097 derived from [act July 26, 1866, ch. 266][/us/act/1866-07-26/ch266], § 2, [14 Stat. 280][/us/stat/14/280].
 
 ----------
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1866-07-26/ch266/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1866-07-26%2Fch266%2Fs2
+[/us/act/1866-07-26/ch266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1866-07-26%2Fch266
 [/us/stat/14/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F14%2F280
 
 

@@ -69,13 +69,13 @@
 
             Such attendance shall be coordinated between education line officers, the family, and the referring and receiving programs.
 
-([Pub. L. 95–561, title XI, § 1124][/us/pl/95/561/s1124], as added [Pub. L. 107–110, title X, § 1042][/us/pl/107/110/s1042], Jan. 8, 2002, [115 Stat. 2019][/us/stat/115/2019].)
+([Pub. L. 95–561, title XI][/us/pl/95/561/tXI], § 1124, as added [Pub. L. 107–110, title X][/us/pl/107/110/tX], § 1042, Jan. 8, 2002, [115 Stat. 2019][/us/stat/115/2019].)
 
  __Prior Provisions__ 
 
-    A prior section 2004, [Pub. L. 95–561, title XI, § 1124][/us/pl/95/561/s1124], as added [Pub. L. 103–382, title III, § 381][/us/pl/103/382/s381], Oct. 20, 1994, [108 Stat. 3986][/us/stat/108/3986], related to school boundaries, prior to the general amendment of this chapter by [Pub. L. 107–110][/us/pl/107/110].
+    A prior section 2004, [Pub. L. 95–561, title XI][/us/pl/95/561/tXI], § 1124, as added [Pub. L. 103–382, title III][/us/pl/103/382/tIII], § 381, Oct. 20, 1994, [108 Stat. 3986][/us/stat/108/3986], related to school boundaries, prior to the general amendment of this chapter by [Pub. L. 107–110][/us/pl/107/110].
 
-    Another prior section 2004, [Pub. L. 95–561, title XI, § 1124][/us/pl/95/561/s1124], Nov. 1, 1978, [92 Stat. 2319][/us/stat/92/2319]; [Pub. L. 98–511, title V, § 503][/us/pl/98/511/s503], Oct. 19, 1984, [98 Stat. 2393][/us/stat/98/2393]; [Pub. L. 99–89, § 3][/us/pl/99/89/s3], Aug. 15, 1985, [99 Stat. 380][/us/stat/99/380]; [Pub. L. 100–297, title V, § 5120][/us/pl/100/297/s5120], Apr. 28, 1988, [102 Stat. 384][/us/stat/102/384], related to school boundaries, prior to the general amendment of this chapter by [Pub. L. 103–382][/us/pl/103/382].
+    Another prior section 2004, [Pub. L. 95–561, title XI][/us/pl/95/561/tXI], § 1124, Nov. 1, 1978, [92 Stat. 2319][/us/stat/92/2319]; [Pub. L. 98–511, title V][/us/pl/98/511/tV], § 503, Oct. 19, 1984, [98 Stat. 2393][/us/stat/98/2393]; [Pub. L. 99–89][/us/pl/99/89], § 3, Aug. 15, 1985, [99 Stat. 380][/us/stat/99/380]; [Pub. L. 100–297, title V][/us/pl/100/297/tV], § 5120, Apr. 28, 1988, [102 Stat. 384][/us/stat/102/384], related to school boundaries, prior to the general amendment of this chapter by [Pub. L. 103–382][/us/pl/103/382].
 
 ----------
 
@@ -84,20 +84,20 @@
 ----------
 ----------
 
-[/us/pl/95/561/s1124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2Fs1124
-[/us/pl/107/110/s1042]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2Fs1042
+[/us/pl/95/561/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2FtXI
+[/us/pl/107/110/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2FtX
 [/us/stat/115/2019]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F2019
-[/us/pl/95/561/s1124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2Fs1124
-[/us/pl/103/382/s381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs381
+[/us/pl/95/561/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2FtXI
+[/us/pl/103/382/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2FtIII
 [/us/stat/108/3986]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3986
 [/us/pl/107/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110
-[/us/pl/95/561/s1124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2Fs1124
+[/us/pl/95/561/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2FtXI
 [/us/stat/92/2319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2319
-[/us/pl/98/511/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F511%2Fs503
+[/us/pl/98/511/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F511%2FtV
 [/us/stat/98/2393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2393
-[/us/pl/99/89/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F89%2Fs3
+[/us/pl/99/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F89
 [/us/stat/99/380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F380
-[/us/pl/100/297/s5120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297%2Fs5120
+[/us/pl/100/297/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297%2FtV
 [/us/stat/102/384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F384
 [/us/pl/103/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382
 

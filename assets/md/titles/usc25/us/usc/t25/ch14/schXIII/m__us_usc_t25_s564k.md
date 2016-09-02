@@ -17,11 +17,11 @@
 
     All loans made from the reimbursable loan fund established by [section 531 of this title][/us/usc/t25/s531], and all other loans made from Klamath tribal funds, including loans of livestock made by the tribe repayable in kind, shall be transferred to the tribe for collection in accordance with the terms thereof.
 
-([Aug. 13, 1954, ch. 732, § 12][/us/act/1954-08-13/ch732/s12], [68 Stat. 721][/us/stat/68/721].)
+([Aug. 13, 1954, ch. 732][/us/act/1954-08-13/ch732], § 12, [68 Stat. 721][/us/stat/68/721].)
 
  __References in Text__ 
 
-    [Section 531 of this title][/us/usc/t25/s531], referred to in text, was repealed by [act Aug. 13, 1954, ch. 732, § 12][/us/act/1954-08-13/ch732/s12], [68 Stat. 721][/us/stat/68/721].
+    [Section 531 of this title][/us/usc/t25/s531], referred to in text, was repealed by [act Aug. 13, 1954, ch. 732][/us/act/1954-08-13/ch732], § 12, [68 Stat. 721][/us/stat/68/721].
 
  __Codification__ 
 
@@ -35,10 +35,10 @@
 ----------
 
 [/us/usc/t25/s531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs531
-[/us/act/1954-08-13/ch732/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-13%2Fch732%2Fs12
+[/us/act/1954-08-13/ch732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-13%2Fch732
 [/us/stat/68/721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F721
 [/us/usc/t25/s531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs531
-[/us/act/1954-08-13/ch732/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-13%2Fch732%2Fs12
+[/us/act/1954-08-13/ch732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-13%2Fch732
 [/us/stat/68/721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F721
 
 

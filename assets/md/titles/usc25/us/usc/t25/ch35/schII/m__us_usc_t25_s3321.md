@@ -17,7 +17,7 @@
 
     This subchapter may be cited as the “Critical Needs for Tribal Development Act”.
 
-([Pub. L. 102–325, title XIII, § 1321][/us/pl/102/325/s1321], July 23, 1992, [106 Stat. 803][/us/stat/106/803].)
+([Pub. L. 102–325, title XIII][/us/pl/102/325/tXIII], § 1321, July 23, 1992, [106 Stat. 803][/us/stat/106/803].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/102/325/s1321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs1321
+[/us/pl/102/325/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2FtXIII
 [/us/stat/106/803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F803
 
 

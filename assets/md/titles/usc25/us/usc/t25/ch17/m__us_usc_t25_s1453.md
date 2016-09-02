@@ -17,7 +17,7 @@
 
     No provision of this chapter or any other Act shall be construed to terminate or otherwise curtail the assistance or activities of the Small Business Administration or any other Federal agency with respect to any Indian tribe, organization, or individual because of their eligibility for assistance under this chapter.
 
-([Pub. L. 93–262, § 4][/us/pl/93/262/s4], Apr. 12, 1974, [88 Stat. 77][/us/stat/88/77].)
+([Pub. L. 93–262][/us/pl/93/262], § 4, Apr. 12, 1974, [88 Stat. 77][/us/stat/88/77].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/93/262/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F262%2Fs4
+[/us/pl/93/262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F262
 [/us/stat/88/77]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F77
 
 

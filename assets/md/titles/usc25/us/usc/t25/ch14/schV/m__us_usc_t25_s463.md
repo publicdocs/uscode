@@ -21,13 +21,13 @@
 
     (b) __Papago Indians; permits for easements, etc.__ 
 
-        (1), (2) Repealed. [May 27, 1955, ch. 106, § 1][/us/act/1955-05-27/ch106/s1], [69 Stat. 67][/us/stat/69/67].
+        (1), (2) Repealed. [May 27, 1955, ch. 106][/us/act/1955-05-27/ch106], § 1, [69 Stat. 67][/us/stat/69/67].
 
         (3) Water reservoirs, charcos, water holes, springs, wells, or any other form of water development by the United States or the Papago Indians shall not be used for mining purposes under the terms of this Act, except under permit from the Secretary of the Interior approved by the Papago Indian Council: Provided, That nothing herein shall be construed as interfering with or affecting the validity of the water rights of the Indians of this reservation: Provided further, That the appropriation of living water heretofore or hereafter affected, by the Papago Indians is recognized and validated subject to all the laws applicable thereto.
 
         (4) Nothing herein contained shall restrict the granting or use of permits for easements or rights-of-way; or ingress or egress over the lands for all proper and lawful purposes.
 
-([June 18, 1934, ch. 576, § 3][/us/act/1934-06-18/ch576/s3], [48 Stat. 984][/us/stat/48/984]; [Aug. 28, 1937, ch. 866][/us/act/1937-08-28/ch866], [50 Stat. 862][/us/stat/50/862]; [May 27, 1955, ch. 106, § 1][/us/act/1955-05-27/ch106/s1], [69 Stat. 67][/us/stat/69/67].)
+([June 18, 1934, ch. 576][/us/act/1934-06-18/ch576], § 3, [48 Stat. 984][/us/stat/48/984]; [Aug. 28, 1937, ch. 866][/us/act/1937-08-28/ch866], [50 Stat. 862][/us/stat/50/862]; [May 27, 1955, ch. 106][/us/act/1955-05-27/ch106], § 1, [69 Stat. 67][/us/stat/69/67].)
 
  __References in Text__ 
 
@@ -165,7 +165,7 @@
 
  __Papago Indian Reservation__ 
 
-[Act May 27, 1955, ch. 106, § 1][/us/act/1955-05-27/ch106/s1], [69 Stat. 67][/us/stat/69/67], provided: 
+[Act May 27, 1955, ch. 106][/us/act/1955-05-27/ch106], § 1, [69 Stat. 67][/us/stat/69/67], provided: 
 
 > “That the provisions with respect to subjection of mineral lands within the Papago Indian Reservation to exploration, location, and entry under the mining laws of the United States in the Executive order dated February 1, 1917, creating the Papago Indian Reservation, and in the third proviso in [section 1 of the Act of February 21, 1931][/us/act/1931-02-21/s1] ([46 Stat. 1202][/us/stat/46/1202]), and the provisions of subsection (b)(1) and (2) and of the remainder, following the word ‘purposes’, of subsection (b)(4) of [section 3 of the Act of June 18, 1934][/us/act/1934-06-18/s3] ([48 Stat. 984][/us/stat/48/984]; [25 U.S.C. 461–479][/us/usc/t25/s461–479]), as amended by the Act of August 28, 1937 ([50 Stat. 862][/us/stat/50/862], 863; [25 U.S.C. 463][/us/usc/t25/s463]) \[this section\], are hereby repealed, all tribal lands within the Papago Indian Reservation are hereby withdrawn from all forms of exploration, location, and entry under such laws, the minerals underlying such lands are hereby made a part of the reservation to be held in trust by the United States for the Papago Indian Tribe, and such minerals shall be subject to lease for mining purposes pursuant to the provisions of the Act of May 11, 1938 ([52 Stat. 347][/us/stat/52/347]) \[sections 396a to 396g of this title\]: Provided, That the provisions of this Act shall not be applicable to lands within the Papago Indian Reservation for which a mineral patent has heretofore been issued or to a claim that has been validly initiated before the date of this Act and thereafter maintained under the mining laws of the United States.”
 
@@ -176,20 +176,20 @@
 ----------
 ----------
 
-[/us/act/1955-05-27/ch106/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-05-27%2Fch106%2Fs1
+[/us/act/1955-05-27/ch106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-05-27%2Fch106
 [/us/stat/69/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F67
-[/us/act/1934-06-18/ch576/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-18%2Fch576%2Fs3
+[/us/act/1934-06-18/ch576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-18%2Fch576
 [/us/stat/48/984]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F984
 [/us/act/1937-08-28/ch866]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-08-28%2Fch866
 [/us/stat/50/862]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F50%2F862
-[/us/act/1955-05-27/ch106/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-05-27%2Fch106%2Fs1
+[/us/act/1955-05-27/ch106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-05-27%2Fch106
 [/us/stat/69/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F67
 [/us/usc/t25/s461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs461
 [/us/stat/46/1202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F1202
 [/us/stat/64/1262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1262
 [/us/pl/85/420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F420
 [/us/stat/72/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F121
-[/us/act/1955-05-27/ch106/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-05-27%2Fch106%2Fs1
+[/us/act/1955-05-27/ch106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-05-27%2Fch106
 [/us/stat/69/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F67
 [/us/act/1931-02-21/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1931-02-21%2Fs1
 [/us/stat/46/1202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F1202

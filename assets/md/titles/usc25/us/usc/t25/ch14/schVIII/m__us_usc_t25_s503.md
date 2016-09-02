@@ -17,7 +17,7 @@
 
     Any recognized tribe or band of Indians residing in Oklahoma shall have the right to organize for its common welfare and to adopt a constitution and bylaws, under such rules and regulations as the Secretary of the Interior may prescribe. The Secretary of the Interior may issue to any such organized group a charter of incorporation, which shall become operative when ratified by a majority vote of the adult members of the organization voting: Provided, however, That such election shall be void unless the total vote cast be at least 30 per centum of those entitled to vote. Such charter may convey to the incorporated group, in addition to any powers which may properly be vested in a body corporate under the laws of the State of Oklahoma, the right to participate in the revolving credit fund and to enjoy any other rights or privileges secured to an organized Indian tribe under the Act of June 18, 1934 ([48 Stat. 984][/us/stat/48/984]) \[[25 U.S.C. 461][/us/usc/t25/s461] et seq.\]: Provided, That the corporate funds of any such chartered group may be deposited in any national bank within the State of Oklahoma or otherwise invested, utilized, or disbursed in accordance with the terms of the corporate charter.
 
-([June 26, 1936, ch. 831, § 3][/us/act/1936-06-26/ch831/s3], [49 Stat. 1967][/us/stat/49/1967].)
+([June 26, 1936, ch. 831][/us/act/1936-06-26/ch831], § 3, [49 Stat. 1967][/us/stat/49/1967].)
 
  __References in Text__ 
 
@@ -32,7 +32,7 @@
 
 [/us/stat/48/984]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F984
 [/us/usc/t25/s461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs461
-[/us/act/1936-06-26/ch831/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-26%2Fch831%2Fs3
+[/us/act/1936-06-26/ch831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-26%2Fch831
 [/us/stat/49/1967]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1967
 [/us/usc/t25/s461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs461
 

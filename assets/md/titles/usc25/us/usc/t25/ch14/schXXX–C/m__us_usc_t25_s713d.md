@@ -35,7 +35,7 @@
 
         Not later than one hundred and twenty days after the tribe approves the adoption of the tribal constitution and bylaws and subject to the approval of the Secretary, the Interim Council shall conduct an election, by secret ballot, to elect the tribal governing body established under such constitution and bylaws. Notwithstanding any provision of the tribal constitution and bylaws, absentee and write-in balloting shall be permitted in an election under this subsection.
 
-([Pub. L. 98–165, § 6][/us/pl/98/165/s6], Nov. 22, 1983, [97 Stat. 1066][/us/stat/97/1066].)
+([Pub. L. 98–165][/us/pl/98/165], § 6, Nov. 22, 1983, [97 Stat. 1066][/us/stat/97/1066].)
 
 ----------
 
@@ -46,7 +46,7 @@
 
 [/us/usc/t25/s476]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs476
 [/us/usc/t25/s713e/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs713e%2Fd
-[/us/pl/98/165/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F165%2Fs6
+[/us/pl/98/165]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F165
 [/us/stat/97/1066]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1066
 
 

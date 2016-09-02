@@ -17,7 +17,7 @@
 
     The President may, in his discretion, consolidate two or more agencies into one, and where Indians are located on reservations created by Executive order he may, with the consent of the tribes to be affected thereby, expressed in the usual manner, consolidate one or more tribes, and abolish such agencies as are thereby rendered unnecessary.
 
-([May 17, 1882, ch. 163, § 6][/us/act/1882-05-17/ch163/s6], [22 Stat. 88][/us/stat/22/88]; [July 4, 1884, ch. 180, § 6][/us/act/1884-07-04/ch180/s6], [23 Stat. 97][/us/stat/23/97].)
+([May 17, 1882, ch. 163][/us/act/1882-05-17/ch163], § 6, [22 Stat. 88][/us/stat/22/88]; [July 4, 1884, ch. 180][/us/act/1884-07-04/ch180], § 6, [23 Stat. 97][/us/stat/23/97].)
 
  __Delegation of Functions__ 
 
@@ -30,9 +30,9 @@
 ----------
 ----------
 
-[/us/act/1882-05-17/ch163/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1882-05-17%2Fch163%2Fs6
+[/us/act/1882-05-17/ch163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1882-05-17%2Fch163
 [/us/stat/22/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F22%2F88
-[/us/act/1884-07-04/ch180/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1884-07-04%2Fch180%2Fs6
+[/us/act/1884-07-04/ch180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1884-07-04%2Fch180
 [/us/stat/23/97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F23%2F97
 [/us/usc/t3/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs301
 

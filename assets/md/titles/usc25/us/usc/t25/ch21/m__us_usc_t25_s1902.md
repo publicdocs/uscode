@@ -17,7 +17,7 @@
 
     The Congress hereby declares that it is the policy of this Nation to protect the best interests of Indian children and to promote the stability and security of Indian tribes and families by the establishment of minimum Federal standards for the removal of Indian children from their families and the placement of such children in foster or adoptive homes which will reflect the unique values of Indian culture, and by providing for assistance to Indian tribes in the operation of child and family service programs.
 
-([Pub. L. 95–608, § 3][/us/pl/95/608/s3], Nov. 8, 1978, [92 Stat. 3069][/us/stat/92/3069].)
+([Pub. L. 95–608][/us/pl/95/608], § 3, Nov. 8, 1978, [92 Stat. 3069][/us/stat/92/3069].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/95/608/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F608%2Fs3
+[/us/pl/95/608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F608
 [/us/stat/92/3069]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3069
 
 

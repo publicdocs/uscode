@@ -17,11 +17,11 @@
 
     Applications for grants under this chapter, and all application modifications, shall be reviewed and approved by personnel under the direction and control of the Director of the Office of Indian Education Programs. Required reports shall be submitted to education personnel under the direction and control of the Director of such Office.
 
-([Pub. L. 100–297, title V, § 5209][/us/pl/100/297/s5209], as added [Pub. L. 107–110, title X, § 1043][/us/pl/107/110/s1043], Jan. 8, 2002, [115 Stat. 2077][/us/stat/115/2077].)
+([Pub. L. 100–297, title V][/us/pl/100/297/tV], § 5209, as added [Pub. L. 107–110, title X][/us/pl/107/110/tX], § 1043, Jan. 8, 2002, [115 Stat. 2077][/us/stat/115/2077].)
 
  __Prior Provisions__ 
 
-    A prior section 2508, [Pub. L. 100–297, title V, § 5209][/us/pl/100/297/s5209], Apr. 28, 1988, [102 Stat. 394][/us/stat/102/394]; [Pub. L. 100–427, § 14][/us/pl/100/427/s14], Sept. 9, 1988, [102 Stat. 1609][/us/stat/102/1609]; [Pub. L. 101–301, § 5(b)][/us/pl/101/301/s5/b], May 24, 1990, [104 Stat. 207][/us/stat/104/207]; [Pub. L. 103–382, title III, § 382(d)][/us/pl/103/382/s382/d], (e), Oct. 20, 1994, [108 Stat. 4017][/us/stat/108/4017], 4018, related to application with respect to Indian Self-Determination and Education Assistance Act, prior to repeal by [Pub. L. 107–110, title X, § 1043][/us/pl/107/110/s1043], Jan. 8, 2002, [115 Stat. 2063][/us/stat/115/2063]. See [section 2507 of this title][/us/usc/t25/s2507].
+    A prior section 2508, [Pub. L. 100–297, title V][/us/pl/100/297/tV], § 5209, Apr. 28, 1988, [102 Stat. 394][/us/stat/102/394]; [Pub. L. 100–427][/us/pl/100/427], § 14, Sept. 9, 1988, [102 Stat. 1609][/us/stat/102/1609]; [Pub. L. 101–301][/us/pl/101/301], § 5(b), May 24, 1990, [104 Stat. 207][/us/stat/104/207]; [Pub. L. 103–382, title III][/us/pl/103/382/tIII], § 382(d), (e), Oct. 20, 1994, [108 Stat. 4017][/us/stat/108/4017], 4018, related to application with respect to Indian Self-Determination and Education Assistance Act, prior to repeal by [Pub. L. 107–110, title X][/us/pl/107/110/tX], § 1043, Jan. 8, 2002, [115 Stat. 2063][/us/stat/115/2063]. See [section 2507 of this title][/us/usc/t25/s2507].
 
  __Effective Date__ 
 
@@ -34,18 +34,18 @@
 ----------
 ----------
 
-[/us/pl/100/297/s5209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297%2Fs5209
-[/us/pl/107/110/s1043]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2Fs1043
+[/us/pl/100/297/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297%2FtV
+[/us/pl/107/110/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2FtX
 [/us/stat/115/2077]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F2077
-[/us/pl/100/297/s5209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297%2Fs5209
+[/us/pl/100/297/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297%2FtV
 [/us/stat/102/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F394
-[/us/pl/100/427/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F427%2Fs14
+[/us/pl/100/427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F427
 [/us/stat/102/1609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1609
-[/us/pl/101/301/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F301%2Fs5%2Fb
+[/us/pl/101/301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F301
 [/us/stat/104/207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F207
-[/us/pl/103/382/s382/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs382%2Fd
+[/us/pl/103/382/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2FtIII
 [/us/stat/108/4017]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4017
-[/us/pl/107/110/s1043]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2Fs1043
+[/us/pl/107/110/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2FtX
 [/us/stat/115/2063]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F2063
 [/us/usc/t25/s2507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs2507
 [/us/pl/107/110/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2Fs5

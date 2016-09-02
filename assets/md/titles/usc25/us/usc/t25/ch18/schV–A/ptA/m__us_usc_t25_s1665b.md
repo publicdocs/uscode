@@ -61,7 +61,7 @@
 
         Each memorandum of agreement entered into or renewed (and amendments or modifications thereto) under subsection (a) shall be published in the Federal Register. At the same time as publication in the Federal Register, the Secretary shall provide a copy of such memoranda, amendment, or modification to each Indian tribe, tribal organization, and urban Indian organization.
 
-([Pub. L. 94–437, title VII, § 703][/us/pl/94/437/s703], as added [Pub. L. 111–148, title X, § 10221(a)][/us/pl/111/148/s10221/a], Mar. 23, 2010, [124 Stat. 935][/us/stat/124/935].)
+([Pub. L. 94–437, title VII][/us/pl/94/437/tVII], § 703, as added [Pub. L. 111–148, title X][/us/pl/111/148/tX], § 10221(a), Mar. 23, 2010, [124 Stat. 935][/us/stat/124/935].)
 
  __References in Text__ 
 
@@ -75,7 +75,7 @@
 
  __Prior Provisions__ 
 
-    A prior section 1665b, [Pub. L. 94–437, title VII, § 703][/us/pl/94/437/s703], as added [Pub. L. 102–573, title VII, § 702(a)][/us/pl/102/573/s702/a], Oct. 29, 1992, [106 Stat. 4573][/us/stat/106/4573], related to Indian women treatment programs, prior to the general amendment of this subchapter by [Pub. L. 111–148][/us/pl/111/148]. See [section 1665f of this title][/us/usc/t25/s1665f].
+    A prior section 1665b, [Pub. L. 94–437, title VII][/us/pl/94/437/tVII], § 703, as added [Pub. L. 102–573, title VII][/us/pl/102/573/tVII], § 702(a), Oct. 29, 1992, [106 Stat. 4573][/us/stat/106/4573], related to Indian women treatment programs, prior to the general amendment of this subchapter by [Pub. L. 111–148][/us/pl/111/148]. See [section 1665f of this title][/us/usc/t25/s1665f].
 
 ----------
 
@@ -88,8 +88,8 @@
 [/us/usc/t25/s2401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs2401
 [/us/usc/t25/s1665a/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1665a%2Fc
 [/us/usc/t25/s2412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs2412
-[/us/pl/94/437/s703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437%2Fs703
-[/us/pl/111/148/s10221/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10221%2Fa
+[/us/pl/94/437/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437%2FtVII
+[/us/pl/111/148/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtX
 [/us/stat/124/935]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F935
 [/us/pl/99/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570
 [/us/stat/100/3207-137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3207-137
@@ -99,8 +99,8 @@
 [/us/usc/t25/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1601
 [/us/pl/94/437/s703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437%2Fs703
 [/us/pl/111/148/s10221/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10221%2Fa
-[/us/pl/94/437/s703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437%2Fs703
-[/us/pl/102/573/s702/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2Fs702%2Fa
+[/us/pl/94/437/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437%2FtVII
+[/us/pl/102/573/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2FtVII
 [/us/stat/106/4573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4573
 [/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 [/us/usc/t25/s1665f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1665f

@@ -17,7 +17,7 @@
 
     Except as otherwise expressly provided in this subchapter or in the State Implementing Act, the settlement lands and any other land that may now or hereafter be owned by or held in trust for any Indian tribe or entity in the town of Gay Head, Massachusetts, shall be subject to the civil and criminal laws, ordinances, and jurisdiction of the Commonwealth of Massachusetts and the town of Gay Head, Massachusetts (including those laws and regulations which prohibit or regulate the conduct of bingo or any other game of chance).
 
-([Pub. L. 100–95, § 9][/us/pl/100/95/s9], Aug. 18, 1987, [101 Stat. 709][/us/stat/101/709].)
+([Pub. L. 100–95][/us/pl/100/95], § 9, Aug. 18, 1987, [101 Stat. 709][/us/stat/101/709].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/100/95/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F95%2Fs9
+[/us/pl/100/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F95
 [/us/stat/101/709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F709
 
 

@@ -17,7 +17,7 @@
 
     Congress declares that the Federal Government has the sole responsibility for the operation and financial support of the Bureau of Indian Affairs funded school system that it has established on or near Indian reservations and Indian trust lands throughout the Nation for Indian children. It is the policy of the United States to fulfill the Federal Government’s unique and continuing trust relationship with and responsibility to the Indian people for the education of Indian children and for the operation and financial support of the Bureau of Indian Affairs-funded school system to work in full cooperation with tribes toward the goal of ensuring that the programs of the Bureau of Indian Affairs-funded school system are of the highest quality and provide for the basic elementary and secondary educational needs of Indian children, including meeting the unique educational and cultural needs of those children.
 
-([Pub. L. 95–561, title XI, § 1120][/us/pl/95/561/s1120], as added [Pub. L. 107–110, title X, § 1042][/us/pl/107/110/s1042], Jan. 8, 2002, [115 Stat. 2007][/us/stat/115/2007].)
+([Pub. L. 95–561, title XI][/us/pl/95/561/tXI], § 1120, as added [Pub. L. 107–110, title X][/us/pl/107/110/tX], § 1042, Jan. 8, 2002, [115 Stat. 2007][/us/stat/115/2007].)
 
  __Effective Date__ 
 
@@ -25,31 +25,31 @@
 
  __Short Title of 2002 Amendment__ 
 
-[Pub. L. 107–110, title X, § 1041][/us/pl/107/110/s1041], Jan. 8, 2002, [115 Stat. 2007][/us/stat/115/2007], provided that: 
+[Pub. L. 107–110, title X][/us/pl/107/110/tX], § 1041, Jan. 8, 2002, [115 Stat. 2007][/us/stat/115/2007], provided that: 
 
 > “This part \[part D (§§ 1041–1045) of title X of [Pub. L. 107–110][/us/pl/107/110], enacting this chapter and sections 2501 to 2511 of this title, amending [section 13d–2 of this title][/us/usc/t25/s13d–2], and repealing former sections 2501 to 2511 of this title\] may be cited as the ‘Native American Education Improvement Act of 2001’.”
 
  __Short Title of 1988 Amendment__ 
 
-[Pub. L. 100–297, title V, § 5101][/us/pl/100/297/s5101], Apr. 28, 1988, [102 Stat. 363][/us/stat/102/363], provided that: 
+[Pub. L. 100–297, title V][/us/pl/100/297/tV], § 5101, Apr. 28, 1988, [102 Stat. 363][/us/stat/102/363], provided that: 
 
 > “This part \[part A (§§ 5101–5120) of title V of [Pub. L. 100–297][/us/pl/100/297], enacting sections 2008a, 2022a, and 2022b of this title, amending sections 2001 to 2005, 2008 to 2011, and 2019 of this title, repealing [section 241bb–1 of Title 20][/us/usc/t20/s241bb–1], Education, enacting provisions set out as notes under [section 2011 of this title][/us/usc/t25/s2011] and [section 1411 of Title 20][/us/usc/t20/s1411], and repealing provisions set out as a note under [section 241aa of Title 20][/us/usc/t20/s241aa]\] may be cited as the ‘Indian Education Amendments of 1988’.”
 
  __Short Title of 1985 Amendment__ 
 
-[Pub. L. 99–89, § 1(a)][/us/pl/99/89/s1/a], Aug. 15, 1985, [99 Stat. 379][/us/stat/99/379], provided that: 
+[Pub. L. 99–89][/us/pl/99/89], § 1(a), Aug. 15, 1985, [99 Stat. 379][/us/stat/99/379], provided that: 
 
 > “This Act \[amending sections 2001, 2004, 2006, 2008, 2009, 2016, 2020, 2021, and 2022 of this title, repealing [section 2023 of this title][/us/usc/t25/s2023], and enacting provisions formerly set out as a note under [section 2001 of this title][/us/usc/t25/s2001]\] may be cited as the ‘Indian Education Technical Amendments Act of 1985’.”
 
  __Short Title of 1984 Amendment__ 
 
-[Pub. L. 98–511, title V, § 501(a)][/us/pl/98/511/s501/a], Oct. 19, 1984, [98 Stat. 2391][/us/stat/98/2391], provided that: 
+[Pub. L. 98–511, title V][/us/pl/98/511/tV], § 501(a), Oct. 19, 1984, [98 Stat. 2391][/us/stat/98/2391], provided that: 
 
 > “This title \[enacting sections 2020 to 2023 of this title, amending sections 2001, 2004, 2006, 2008, 2009, 2011, 2012, 2016, 2018 of this title, and sections 241aa to 241ff, 1211a, 1221g, 3385, 3385a, and 3385b of Title 20, Education, and enacting provisions set out as a note under [section 241ff of Title 20][/us/usc/t20/s241ff]\] may be cited as the ‘Indian Education Amendments of 1984’.”
 
  __Bureau of Indian Education Operated Schools__ 
 
-[Pub. L. 112–74, div. E, title I, § 115][/us/pl/112/74/s115], Dec. 23, 2011, [125 Stat. 1009][/us/stat/125/1009], as amended by [Pub. L. 113–235, div. F, title I, § 116][/us/pl/113/235/s116], Dec. 16, 2014, [128 Stat. 2421][/us/stat/128/2421]; [Pub. L. 114–113, div. G, title I, § 113][/us/pl/114/113/s113], Dec. 18, 2015, [129 Stat. 2550][/us/stat/129/2550], provided that:
+[Pub. L. 112–74, div. E, title I][/us/pl/112/74/dE/tI], § 115, Dec. 23, 2011, [125 Stat. 1009][/us/stat/125/1009], as amended by [Pub. L. 113–235, div. F, title I][/us/pl/113/235/dF/tI], § 116, Dec. 16, 2014, [128 Stat. 2421][/us/stat/128/2421]; [Pub. L. 114–113, div. G, title I][/us/pl/114/113/dG/tI], § 113, Dec. 18, 2015, [129 Stat. 2550][/us/stat/129/2550], provided that:
 
 >     “(a)
 
@@ -77,7 +77,7 @@
 
  __Therapeutic Model Demonstration Schools__ 
 
-[Pub. L. 103–382, title V, § 566][/us/pl/103/382/s566], Oct. 20, 1994, [108 Stat. 4059][/us/stat/108/4059], provided that:
+[Pub. L. 103–382, title V][/us/pl/103/382/tV], § 566, Oct. 20, 1994, [108 Stat. 4059][/us/stat/108/4059], provided that:
 
 >     “(a) __Authorization.—__ 
 
@@ -152,39 +152,39 @@
 ----------
 ----------
 
-[/us/pl/95/561/s1120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2Fs1120
-[/us/pl/107/110/s1042]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2Fs1042
+[/us/pl/95/561/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2FtXI
+[/us/pl/107/110/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2FtX
 [/us/stat/115/2007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F2007
 [/us/pl/107/110/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2Fs5
 [/us/usc/t20/s6301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6301
-[/us/pl/107/110/s1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2Fs1041
+[/us/pl/107/110/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2FtX
 [/us/stat/115/2007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F2007
 [/us/pl/107/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110
 [/us/usc/t25/s13d–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs13d%E2%80%932
-[/us/pl/100/297/s5101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297%2Fs5101
+[/us/pl/100/297/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297%2FtV
 [/us/stat/102/363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F363
 [/us/pl/100/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297
 [/us/usc/t20/s241bb–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs241bb%E2%80%931
 [/us/usc/t25/s2011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs2011
 [/us/usc/t20/s1411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1411
 [/us/usc/t20/s241aa]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs241aa
-[/us/pl/99/89/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F89%2Fs1%2Fa
+[/us/pl/99/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F89
 [/us/stat/99/379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F379
 [/us/usc/t25/s2023]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs2023
 [/us/usc/t25/s2001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs2001
-[/us/pl/98/511/s501/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F511%2Fs501%2Fa
+[/us/pl/98/511/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F511%2FtV
 [/us/stat/98/2391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2391
 [/us/usc/t20/s241ff]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs241ff
-[/us/pl/112/74/s115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs115
+[/us/pl/112/74/dE/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2FdE%2FtI
 [/us/stat/125/1009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1009
-[/us/pl/113/235/s116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs116
+[/us/pl/113/235/dF/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2FdF%2FtI
 [/us/stat/128/2421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2421
-[/us/pl/114/113/s113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs113
+[/us/pl/114/113/dG/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdG%2FtI
 [/us/stat/129/2550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2550
 [/us/usc/t40/s586/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs586%2Fc
 [/us/usc/t31/s3302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3302
 [/us/usc/t5/s7324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs7324
-[/us/pl/103/382/s566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs566
+[/us/pl/103/382/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2FtV
 [/us/stat/108/4059]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4059
 [/us/usc/t25/s2503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs2503
 

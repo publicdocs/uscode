@@ -35,7 +35,7 @@
 
         The results of the review conducted under subsection (a) shall be provided to each Indian tribe as soon as possible for their consideration and use in the development or modification of a Tribal Action Plan under [section 2412 of this title][/us/usc/t25/s2412].
 
-([Pub. L. 99–570, title IV, § 4211][/us/pl/99/570/s4211], Oct. 27, 1986, [100 Stat. 3207–143][/us/stat/100/3207-143]; [Pub. L. 111–211, title II, § 241(a)(6)][/us/pl/111/211/s241/a/6], July 29, 2010, [124 Stat. 2289][/us/stat/124/2289].)
+([Pub. L. 99–570, title IV][/us/pl/99/570/tIV], § 4211, Oct. 27, 1986, [100 Stat. 3207–143][/us/stat/100/3207-143]; [Pub. L. 111–211, title II][/us/pl/111/211/tII], § 241(a)(6), July 29, 2010, [124 Stat. 2289][/us/stat/124/2289].)
 
  __Amendments__ 
 
@@ -50,9 +50,9 @@
 
 [/us/usc/t25/s2411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs2411
 [/us/usc/t25/s2412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs2412
-[/us/pl/99/570/s4211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs4211
+[/us/pl/99/570/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2FtIV
 [/us/stat/100/3207-143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3207-143
-[/us/pl/111/211/s241/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211%2Fs241%2Fa%2F6
+[/us/pl/111/211/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211%2FtII
 [/us/stat/124/2289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2289
 [/us/pl/111/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211
 

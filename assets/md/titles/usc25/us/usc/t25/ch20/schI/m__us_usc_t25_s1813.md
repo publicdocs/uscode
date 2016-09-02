@@ -55,23 +55,23 @@
 
         (2) the term “academic facilities” has the meaning provided such term under section 1132e–1(1) 1 of title 20.
 
-([Pub. L. 95–471, title I, § 113][/us/pl/95/471/s113], formerly § 112, Oct. 17, 1978, [92 Stat. 1329][/us/stat/92/1329]; renumbered § 113 and amended [Pub. L. 98–192][/us/pl/98/192], §§ 4(a)(1), 12, Dec. 1, 1983, [97 Stat. 1336][/us/stat/97/1336], 1340; [Pub. L. 99–428, § 6(b)][/us/pl/99/428/s6/b], Sept. 30, 1986, [100 Stat. 983][/us/stat/100/983]; [Pub. L. 105–244, title I, § 102(a)(8)(C)][/us/pl/105/244/s102/a/8/C], title IX, § 901(b)(5), (7), (12), Oct. 7, 1998, [112 Stat. 1619][/us/stat/112/1619], 1828.)
+([Pub. L. 95–471, title I][/us/pl/95/471/tI], § 113, formerly § 112, Oct. 17, 1978, [92 Stat. 1329][/us/stat/92/1329]; renumbered § 113 and amended [Pub. L. 98–192][/us/pl/98/192], §§ 4(a)(1), 12, Dec. 1, 1983, [97 Stat. 1336][/us/stat/97/1336], 1340; [Pub. L. 99–428][/us/pl/99/428], § 6(b), Sept. 30, 1986, [100 Stat. 983][/us/stat/100/983]; [Pub. L. 105–244, title I][/us/pl/105/244/tI], § 102(a)(8)(C), title IX, § 901(b)(5), (7), (12), Oct. 7, 1998, [112 Stat. 1619][/us/stat/112/1619], 1828.)
 
  __References in Text__ 
 
-    [Section 1132e–1 of title 20][/us/usc/t20/s1132e–1], referred to in subsec. (f), was omitted in the general revision of subchapter VII (§ 1132a et seq.) of chapter 28 of Title 20, Education, by [Pub. L. 99–498, title VII, § 701][/us/pl/99/498/s701], Oct. 17, 1986, [100 Stat. 1520][/us/stat/100/1520].
+    [Section 1132e–1 of title 20][/us/usc/t20/s1132e–1], referred to in subsec. (f), was omitted in the general revision of subchapter VII (§ 1132a et seq.) of chapter 28 of Title 20, Education, by [Pub. L. 99–498, title VII][/us/pl/99/498/tVII], § 701, Oct. 17, 1986, [100 Stat. 1520][/us/stat/100/1520].
 
  __Amendments__ 
 
-    1998—Subsec. (a). [Pub. L. 105–244, § 901(b)(5)][/us/pl/105/244/s901/b/5], substituted “college or university” for “community college”.
+    1998—Subsec. (a). [Pub. L. 105–244][/us/pl/105/244], § 901(b)(5), substituted “college or university” for “community college”.
 
-    Subsec. (b). [Pub. L. 105–244, § 901(b)(5)][/us/pl/105/244/s901/b/5], substituted “college or university” for “community college” in introductory provisions.
+    Subsec. (b). [Pub. L. 105–244][/us/pl/105/244], § 901(b)(5), substituted “college or university” for “community college” in introductory provisions.
 
     Subsec. (b)(2). [Pub. L. 105–244][/us/pl/105/244], §§ 102(a)(8)(C), 901(b)(7), substituted “section 1001” for “section 1141(a)” and “such college or university” for “such college”.
 
-    Subsec. (c)(1). [Pub. L. 105–244, § 901(b)(5)][/us/pl/105/244/s901/b/5], substituted “college or university” for “community college” in two places.
+    Subsec. (c)(1). [Pub. L. 105–244][/us/pl/105/244], § 901(b)(5), substituted “college or university” for “community college” in two places.
 
-    Subsec. (c)(2). [Pub. L. 105–244, § 901(b)(5)][/us/pl/105/244/s901/b/5], (7), (12), in introductory provisions, substituted “controlled college or university” for “controlled community college” and “such college or university” for “such college” and, in subpar. (E), substituted “the college or university” for “the college”.
+    Subsec. (c)(2). [Pub. L. 105–244][/us/pl/105/244], § 901(b)(5), (7), (12), in introductory provisions, substituted “controlled college or university” for “controlled community college” and “such college or university” for “such college” and, in subpar. (E), substituted “the college or university” for “the college”.
 
     1986—Subsec. (a). [Pub. L. 99–428][/us/pl/99/428] substituted “Secretary under” for “Administrator of General Services under”.
 
@@ -92,22 +92,22 @@
 [/us/usc/t20/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1001
 [/us/usc/t25/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs13
 [/us/usc/t25/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs13
-[/us/pl/95/471/s113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F471%2Fs113
+[/us/pl/95/471/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F471%2FtI
 [/us/stat/92/1329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1329
 [/us/pl/98/192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F192
 [/us/stat/97/1336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1336
-[/us/pl/99/428/s6/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F428%2Fs6%2Fb
+[/us/pl/99/428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F428
 [/us/stat/100/983]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F983
-[/us/pl/105/244/s102/a/8/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs102%2Fa%2F8%2FC
+[/us/pl/105/244/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtI
 [/us/stat/112/1619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1619
 [/us/usc/t20/s1132e–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1132e%E2%80%931
-[/us/pl/99/498/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2Fs701
+[/us/pl/99/498/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2FtVII
 [/us/stat/100/1520]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1520
-[/us/pl/105/244/s901/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs901%2Fb%2F5
-[/us/pl/105/244/s901/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs901%2Fb%2F5
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
-[/us/pl/105/244/s901/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs901%2Fb%2F5
-[/us/pl/105/244/s901/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs901%2Fb%2F5
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
 [/us/pl/99/428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F428
 [/us/pl/98/192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F192
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244

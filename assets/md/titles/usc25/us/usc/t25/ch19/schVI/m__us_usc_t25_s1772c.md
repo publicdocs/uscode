@@ -55,7 +55,7 @@
 
         (3) commits the United States to finance any project or activity not otherwise authorized by Federal law.
 
-([Pub. L. 100–228, § 5][/us/pl/100/228/s5], Dec. 31, 1987, [101 Stat. 1558][/us/stat/101/1558].)
+([Pub. L. 100–228][/us/pl/100/228], § 5, Dec. 31, 1987, [101 Stat. 1558][/us/stat/101/1558].)
 
  __References in Text__ 
 
@@ -74,7 +74,7 @@
 [/us/stat/1/137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F1%2F137
 [/us/usc/t25/s1772a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1772a%2F1
 [/us/usc/t25/s1772e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1772e
-[/us/pl/100/228/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F228%2Fs5
+[/us/pl/100/228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F228
 [/us/stat/101/1558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1558
 [/us/usc/t25/s177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs177
 [/us/stat/1/137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F1%2F137

@@ -17,7 +17,7 @@
 
     No payments made or benefits conferred pursuant to this subchapter shall result in the reduction or denial of any Federal services or programs to any tribe or to any member of a tribe to which the tribe or member of the tribe is entitled or eligible because of the status of the tribe as a federally recognized Indian tribe or the status of a member of such tribe as a member.
 
-([Pub. L. 103–444, § 7][/us/pl/103/444/s7], Nov. 2, 1994, [108 Stat. 4640][/us/stat/108/4640].)
+([Pub. L. 103–444][/us/pl/103/444], § 7, Nov. 2, 1994, [108 Stat. 4640][/us/stat/108/4640].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/103/444/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F444%2Fs7
+[/us/pl/103/444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F444
 [/us/stat/108/4640]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4640
 
 

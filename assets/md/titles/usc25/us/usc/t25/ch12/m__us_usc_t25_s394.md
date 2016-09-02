@@ -17,7 +17,7 @@
 
     Whenever it shall appear to the satisfaction of the Secretary of the Interior that the allotted lands of any Indian are arid but susceptible of irrigation and that the allottee, by reason of old age or other disability, cannot personally occupy or improve his allotment or any portion thereof, such lands, or such portion thereof, may be leased for a period not exceeding ten years, under such terms, rules, and regulations as may be prescribed by the Secretary of the Interior.
 
-([May 18, 1916, ch. 125, § 1][/us/act/1916-05-18/ch125/s1], [39 Stat. 128][/us/stat/39/128].)
+([May 18, 1916, ch. 125][/us/act/1916-05-18/ch125], § 1, [39 Stat. 128][/us/stat/39/128].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1916-05-18/ch125/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-05-18%2Fch125%2Fs1
+[/us/act/1916-05-18/ch125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-05-18%2Fch125
 [/us/stat/39/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F128
 
 

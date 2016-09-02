@@ -17,7 +17,7 @@
 
     The Indians or persons conducting schools or missions in the Territory of Alaska shall not be disturbed in the possession of any lands actually in their use or occupation on June 6, 1900, and the land, at any station not exceeding six hundred and forty acres, occupied on said date as missionary stations among the Indian tribes in the section, with the improvements thereon erected by or for such societies, shall be continued in the occupancy of the several religious societies to which the missionary stations respectively belong, and the Secretary of the Interior is directed to have such lands surveyed in compact form as nearly as practicable and patents issued for the same to the several societies to which they belong; but nothing contained in this Act shall be construed to put in force in the Territory the general land laws of the United States.
 
-([June 6, 1900, ch. 786, § 27][/us/act/1900-06-06/ch786/s27], [31 Stat. 330][/us/stat/31/330].)
+([June 6, 1900, ch. 786][/us/act/1900-06-06/ch786], § 27, [31 Stat. 330][/us/stat/31/330].)
 
  __References in Text__ 
 
@@ -29,7 +29,7 @@
 
  __Prior Provisions__ 
 
-    Similar provisions were contained in [act May 17, 1884, ch. 53, § 8][/us/act/1884-05-17/ch53/s8], [23 Stat. 26][/us/stat/23/26], which provided in part that the Indians or other persons in the district should not be disturbed in the possession of any lands actually in their use or occupation or claimed by them, but reserved for future legislation the terms under which such persons might acquire title. That section contained a further provision, similar to the provision contained in this section, continuing lands occupied as missionary stations in the occupancy of the several religious societies.
+    Similar provisions were contained in [act May 17, 1884, ch. 53][/us/act/1884-05-17/ch53], § 8, [23 Stat. 26][/us/stat/23/26], which provided in part that the Indians or other persons in the district should not be disturbed in the possession of any lands actually in their use or occupation or claimed by them, but reserved for future legislation the terms under which such persons might acquire title. That section contained a further provision, similar to the provision contained in this section, continuing lands occupied as missionary stations in the occupancy of the several religious societies.
 
  __Transfer of Functions__ 
 
@@ -46,12 +46,12 @@
 ----------
 ----------
 
-[/us/act/1900-06-06/ch786/s27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1900-06-06%2Fch786%2Fs27
+[/us/act/1900-06-06/ch786]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1900-06-06%2Fch786
 [/us/stat/31/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F31%2F330
 [/us/act/1900-06-06/ch786]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1900-06-06%2Fch786
 [/us/stat/31/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F31%2F321
 [/us/usc/t48/s356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs356
-[/us/act/1884-05-17/ch53/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1884-05-17%2Fch53%2Fs8
+[/us/act/1884-05-17/ch53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1884-05-17%2Fch53
 [/us/stat/23/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F23%2F26
 [/us/stat/64/1262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1262
 [/us/pl/85/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F508

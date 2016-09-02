@@ -17,7 +17,7 @@
 
     Nothing in this chapter shall be construed as vesting the governing body of an Indian tribe with any authority which is not authorized by the constitution and by-laws or other organizational document of such tribe.
 
-([Pub. L. 97–459, title II, § 212][/us/pl/97/459/s212], as added [Pub. L. 98–608, § 1(5)][/us/pl/98/608/s1/5], Oct. 30, 1984, [98 Stat. 3173][/us/stat/98/3173].)
+([Pub. L. 97–459, title II][/us/pl/97/459/tII], § 212, as added [Pub. L. 98–608][/us/pl/98/608], § 1(5), Oct. 30, 1984, [98 Stat. 3173][/us/stat/98/3173].)
 
  __References in Text__ 
 
@@ -30,8 +30,8 @@
 ----------
 ----------
 
-[/us/pl/97/459/s212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F459%2Fs212
-[/us/pl/98/608/s1/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F608%2Fs1%2F5
+[/us/pl/97/459/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F459%2FtII
+[/us/pl/98/608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F608
 [/us/stat/98/3173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3173
 [/us/pl/97/459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F459
 

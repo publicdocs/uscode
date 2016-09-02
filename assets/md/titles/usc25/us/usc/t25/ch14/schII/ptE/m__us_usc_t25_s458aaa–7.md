@@ -93,7 +93,7 @@
 
         An Indian tribe shall not be obligated to continue performance that requires an expenditure of funds in excess of the amount of funds transferred under a compact or funding agreement. If at any time the Indian tribe has reason to believe that the total amount provided for a specific activity in the compact or funding agreement is insufficient the Indian tribe shall provide reasonable notice of such insufficiency to the Secretary. If the Secretary does not increase the amount of funds transferred under the funding agreement, the Indian tribe may suspend performance of the activity until such time as additional funds are transferred.
 
-([Pub. L. 93–638, title V, § 508][/us/pl/93/638/s508], as added [Pub. L. 106–260, § 4][/us/pl/106/260/s4], Aug. 18, 2000, [114 Stat. 722][/us/stat/114/722].)
+([Pub. L. 93–638, title V][/us/pl/93/638/tV], § 508, as added [Pub. L. 106–260][/us/pl/106/260], § 4, Aug. 18, 2000, [114 Stat. 722][/us/stat/114/722].)
 
  __References in Text__ 
 
@@ -111,8 +111,8 @@
 [/us/usc/t25/s450j–1/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450j%E2%80%931%2Fa%2F1
 [/us/usc/t25/s450j/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450j%2Fc%2F2
 [/us/usc/t25/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1601
-[/us/pl/93/638/s508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638%2Fs508
-[/us/pl/106/260/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F260%2Fs4
+[/us/pl/93/638/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638%2FtV
+[/us/pl/106/260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F260
 [/us/stat/114/722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F722
 [/us/pl/93/638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638
 [/us/stat/88/2203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2203

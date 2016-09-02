@@ -27,7 +27,7 @@
 
         (2) Funds provided under sections 640a to 640c–3 of this title may only be invested by Diné College in obligations of the United States or in obligations or securities that are guaranteed or insured by the United States.
 
-([Pub. L. 92–189, § 7][/us/pl/92/189/s7], as added [Pub. L. 100–297, title V, § 5402(b)][/us/pl/100/297/s5402/b], Apr. 28, 1988, [102 Stat. 415][/us/stat/102/415]; amended [Pub. L. 110–315, title IX, § 946(f)][/us/pl/110/315/s946/f], Aug. 14, 2008, [122 Stat. 3469][/us/stat/122/3469].)
+([Pub. L. 92–189][/us/pl/92/189], § 7, as added [Pub. L. 100–297, title V][/us/pl/100/297/tV], § 5402(b), Apr. 28, 1988, [102 Stat. 415][/us/stat/102/415]; amended [Pub. L. 110–315, title IX][/us/pl/110/315/tIX], § 946(f), Aug. 14, 2008, [122 Stat. 3469][/us/stat/122/3469].)
 
  __Codification__ 
 
@@ -48,10 +48,10 @@
 ----------
 ----------
 
-[/us/pl/92/189/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F189%2Fs7
-[/us/pl/100/297/s5402/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297%2Fs5402%2Fb
+[/us/pl/92/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F189
+[/us/pl/100/297/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297%2FtV
 [/us/stat/102/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F415
-[/us/pl/110/315/s946/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs946%2Ff
+[/us/pl/110/315/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtIX
 [/us/stat/122/3469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3469
 [/us/act/1950-04-19/ch92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-04-19%2Fch92
 [/us/stat/64/44]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F44

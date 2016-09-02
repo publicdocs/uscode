@@ -17,7 +17,7 @@
 
     The Secretary shall distribute a share payable to a living enrollee directly to such enrollee. The Secretary shall distribute the per capita share of a deceased enrollee to his heirs or legatees upon proof of death and inheritance satisfactory to the Secretary whose findings upon such proof shall be final and conclusive. Sums payable to enrollees or their heirs or legatees who are less than twenty-one years of age or who are under a legal disability shall be paid in accordance with such procedures as the Secretary determines will best protect their interests.
 
-([Pub. L. 90–508, § 4][/us/pl/90/508/s4], Sept. 21, 1968, [82 Stat. 862][/us/stat/82/862].)
+([Pub. L. 90–508][/us/pl/90/508], § 4, Sept. 21, 1968, [82 Stat. 862][/us/stat/82/862].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/90/508/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F508%2Fs4
+[/us/pl/90/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F508
 [/us/stat/82/862]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F862
 
 

@@ -17,7 +17,7 @@
 
     Nothing in this subchapter shall be construed to prevent the emergency removal of an Indian child who is a resident of or is domiciled on a reservation, but temporarily located off the reservation, from his parent or Indian custodian or the emergency placement of such child in a foster home or institution, under applicable State law, in order to prevent imminent physical damage or harm to the child. The State authority, official, or agency involved shall insure that the emergency removal or placement terminates immediately when such removal or placement is no longer necessary to prevent imminent physical damage or harm to the child and shall expeditiously initiate a child custody proceeding subject to the provisions of this subchapter, transfer the child to the jurisdiction of the appropriate Indian tribe, or restore the child to the parent or Indian custodian, as may be appropriate.
 
-([Pub. L. 95–608, title I, § 112][/us/pl/95/608/s112], Nov. 8, 1978, [92 Stat. 3075][/us/stat/92/3075].)
+([Pub. L. 95–608, title I][/us/pl/95/608/tI], § 112, Nov. 8, 1978, [92 Stat. 3075][/us/stat/92/3075].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/95/608/s112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F608%2Fs112
+[/us/pl/95/608/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F608%2FtI
 [/us/stat/92/3075]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3075
 
 

@@ -27,7 +27,7 @@
 
         Real property on any rancheria that merges with the Yurok Reservation pursuant to subsection (b) that is, on October 31, 1988, held by any individual under a lease shall continue to be governed by the terms of the lease, and any land assignment existing on October 31, 1988, shall continue in effect and may pass by descent or devise to any blood relative or relatives of Indian blood of the assignee.
 
-([Pub. L. 100–580, § 11][/us/pl/100/580/s11], Oct. 31, 1988, [102 Stat. 2935][/us/stat/102/2935].)
+([Pub. L. 100–580][/us/pl/100/580], § 11, Oct. 31, 1988, [102 Stat. 2935][/us/stat/102/2935].)
 
 ----------
 
@@ -37,7 +37,7 @@
 ----------
 
 [/us/usc/t25/s1300i–8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1300i%E2%80%938
-[/us/pl/100/580/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F580%2Fs11
+[/us/pl/100/580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F580
 [/us/stat/102/2935]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2935
 
 

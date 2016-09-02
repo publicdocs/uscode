@@ -21,7 +21,7 @@
 
     (2) among other things, ensure that legal, financial, and other expertise of the Department of the Interior has been made fully available in an advisory capacity to the Indian tribes to assist in the development, implementation, and management of investment plans.
 
-([Pub. L. 103–412, title II, § 204][/us/pl/103/412/s204], Oct. 25, 1994, [108 Stat. 4243][/us/stat/108/4243].)
+([Pub. L. 103–412, title II][/us/pl/103/412/tII], § 204, Oct. 25, 1994, [108 Stat. 4243][/us/stat/108/4243].)
 
 ----------
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/103/412/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F412%2Fs204
+[/us/pl/103/412/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F412%2FtII
 [/us/stat/108/4243]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4243
 
 

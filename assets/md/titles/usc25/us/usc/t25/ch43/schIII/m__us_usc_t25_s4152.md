@@ -99,25 +99,25 @@
 
         This section shall take effect on October 26, 1996.
 
-([Pub. L. 104–330, title III, § 302][/us/pl/104/330/s302], Oct. 26, 1996, [110 Stat. 4036][/us/stat/110/4036]; [Pub. L. 106–568, title X, § 1003(g)][/us/pl/106/568/s1003/g], Dec. 27, 2000, [114 Stat. 2928][/us/stat/114/2928]; [Pub. L. 106–569, title V, § 503(f)][/us/pl/106/569/s503/f], Dec. 27, 2000, [114 Stat. 2964][/us/stat/114/2964]; [Pub. L. 110–411, title III, § 301][/us/pl/110/411/s301], Oct. 14, 2008, [122 Stat. 4329][/us/stat/122/4329].)
+([Pub. L. 104–330, title III][/us/pl/104/330/tIII], § 302, Oct. 26, 1996, [110 Stat. 4036][/us/stat/110/4036]; [Pub. L. 106–568, title X][/us/pl/106/568/tX], § 1003(g), Dec. 27, 2000, [114 Stat. 2928][/us/stat/114/2928]; [Pub. L. 106–569, title V][/us/pl/106/569/tV], § 503(f), Dec. 27, 2000, [114 Stat. 2964][/us/stat/114/2964]; [Pub. L. 110–411, title III][/us/pl/110/411/tIII], § 301, Oct. 14, 2008, [122 Stat. 4329][/us/stat/122/4329].)
 
  __References in Text__ 
 
     This chapter, referred to in subsecs. (a) and (d), was in the original “this Act”, meaning [Pub. L. 104–330][/us/pl/104/330], Oct. 26, 1996, [110 Stat. 4016][/us/stat/110/4016], known as the Native American Housing Assistance and Self-Determination Act of 1996. For complete classification of this Act to the Code, see Short Title note set out under [section 4101 of this title][/us/usc/t25/s4101] and Tables.
 
-    The United States Housing Act of 1937, referred to in subsecs. (b)(1)(A) and (d), is [act Sept. 1, 1937, ch. 896][/us/act/1937-09-01/ch896], as revised generally by [Pub. L. 93–383, title II, § 201(a)][/us/pl/93/383/s201/a], Aug. 22, 1974, [88 Stat. 653][/us/stat/88/653], which is classified generally to chapter 8 (§ 1437 et seq.) of Title 42, The Public Health and Welfare. Section 14 of the Act, which was classified to section 1437l of Title 42, was repealed by [Pub. L. 105–276, title V, § 522(a)][/us/pl/105/276/s522/a], Oct. 21, 1998, [112 Stat. 2564][/us/stat/112/2564]. For complete classification of this Act to the Code, see Short Title note set out under [section 1437 of Title 42][/us/usc/t42/s1437] and Tables.
+    The United States Housing Act of 1937, referred to in subsecs. (b)(1)(A) and (d), is [act Sept. 1, 1937, ch. 896][/us/act/1937-09-01/ch896], as revised generally by [Pub. L. 93–383, title II][/us/pl/93/383/tII], § 201(a), Aug. 22, 1974, [88 Stat. 653][/us/stat/88/653], which is classified generally to chapter 8 (§ 1437 et seq.) of Title 42, The Public Health and Welfare. Section 14 of the Act, which was classified to section 1437l of Title 42, was repealed by [Pub. L. 105–276, title V][/us/pl/105/276/tV], § 522(a), Oct. 21, 1998, [112 Stat. 2564][/us/stat/112/2564]. For complete classification of this Act to the Code, see Short Title note set out under [section 1437 of Title 42][/us/usc/t42/s1437] and Tables.
 
     Subchapter V, referred to in subsec. (c)(2), was in the original “title V”, meaning title V of [Pub. L. 104–330][/us/pl/104/330], which enacted subchapter V of this chapter and [section 12899h–1 of Title 42][/us/usc/t42/s12899h–1], The Public Health and Welfare, amended sections 1437a, 1437c to 1437e, 1437g, 1437l, 1437n, 1437u to 1437x, 1437aaa–5, 1437aaa–6, 1439, 11371 to 11376, 11382, 11401, 11403g, 11408, 11903a, 12747, and 12838 of Title 42, repealed sections 1437aa to 1437ee of Title 42, enacted provisions set out as notes under sections 11371, 12747, and 12899h–1 of Title 42, amended provisions set out as a note under [section 11301 of Title 42][/us/usc/t42/s11301], and repealed provisions set out as a note under [section 1701z–6 of Title 12][/us/usc/t12/s1701z–6], Banks and Banking. For complete classification of title V to the Code, see Tables.
 
  __Amendments__ 
 
-    2008—Subsec. (a). [Pub. L. 110–411, § 301(1)][/us/pl/110/411/s301/1], designated existing provisions as par. (1), inserted heading, and added par. (2).
+    2008—Subsec. (a). [Pub. L. 110–411][/us/pl/110/411], § 301(1), designated existing provisions as par. (1), inserted heading, and added par. (2).
 
-    Subsec. (b)(1). [Pub. L. 110–411, § 301(2)][/us/pl/110/411/s301/2], added par. (1) and struck out former par. (1) which read as follows: “The number of low-income housing dwelling units owned or operated at the time pursuant to a contract between an Indian housing authority for the tribe and the Secretary.”
+    Subsec. (b)(1). [Pub. L. 110–411][/us/pl/110/411], § 301(2), added par. (1) and struck out former par. (1) which read as follows: “The number of low-income housing dwelling units owned or operated at the time pursuant to a contract between an Indian housing authority for the tribe and the Secretary.”
 
-    2000—Subsec. (d)(1). [Pub. L. 106–568, § 1003(g)(1)][/us/pl/106/568/s1003/g/1], and [Pub. L. 106–569, § 503(f)(1)][/us/pl/106/569/s503/f/1], which directed identical amendment of par. (1) by substituting subpar. (A) designation, heading, and “Except with respect to an Indian tribe described in subparagraph (B), the formula” for “The formula,”, were executed by making the substitution for “The formula” to reflect the probable intent of Congress.
+    2000—Subsec. (d)(1). [Pub. L. 106–568][/us/pl/106/568], § 1003(g)(1), and [Pub. L. 106–569][/us/pl/106/569], § 503(f)(1), which directed identical amendment of par. (1) by substituting subpar. (A) designation, heading, and “Except with respect to an Indian tribe described in subparagraph (B), the formula” for “The formula,”, were executed by making the substitution for “The formula” to reflect the probable intent of Congress.
 
-    Subsec. (d)(1)(B). [Pub. L. 106–568, § 1003(g)(2)][/us/pl/106/568/s1003/g/2], and [Pub. L. 106–569, § 503(f)(2)][/us/pl/106/569/s503/f/2], amended par. (1) identically, adding subpar. (B).
+    Subsec. (d)(1)(B). [Pub. L. 106–568][/us/pl/106/568], § 1003(g)(2), and [Pub. L. 106–569][/us/pl/106/569], § 503(f)(2), amended par. (1) identically, adding subpar. (B).
 
 ----------
 
@@ -131,32 +131,32 @@
 [/us/usc/t42/s1437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437
 [/us/usc/t42/s1437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437
 [/us/usc/t42/s1437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437
-[/us/pl/104/330/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330%2Fs302
+[/us/pl/104/330/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330%2FtIII
 [/us/stat/110/4036]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F4036
-[/us/pl/106/568/s1003/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F568%2Fs1003%2Fg
+[/us/pl/106/568/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F568%2FtX
 [/us/stat/114/2928]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2928
-[/us/pl/106/569/s503/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs503%2Ff
+[/us/pl/106/569/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2FtV
 [/us/stat/114/2964]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2964
-[/us/pl/110/411/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F411%2Fs301
+[/us/pl/110/411/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F411%2FtIII
 [/us/stat/122/4329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4329
 [/us/pl/104/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330
 [/us/stat/110/4016]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F4016
 [/us/usc/t25/s4101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs4101
 [/us/act/1937-09-01/ch896]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-09-01%2Fch896
-[/us/pl/93/383/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2Fs201%2Fa
+[/us/pl/93/383/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2FtII
 [/us/stat/88/653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F653
-[/us/pl/105/276/s522/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs522%2Fa
+[/us/pl/105/276/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2FtV
 [/us/stat/112/2564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2564
 [/us/usc/t42/s1437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437
 [/us/pl/104/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330
 [/us/usc/t42/s12899h–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12899h%E2%80%931
 [/us/usc/t42/s11301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11301
 [/us/usc/t12/s1701z–6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1701z%E2%80%936
-[/us/pl/110/411/s301/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F411%2Fs301%2F1
-[/us/pl/110/411/s301/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F411%2Fs301%2F2
-[/us/pl/106/568/s1003/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F568%2Fs1003%2Fg%2F1
-[/us/pl/106/569/s503/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs503%2Ff%2F1
-[/us/pl/106/568/s1003/g/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F568%2Fs1003%2Fg%2F2
-[/us/pl/106/569/s503/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs503%2Ff%2F2
+[/us/pl/110/411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F411
+[/us/pl/110/411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F411
+[/us/pl/106/568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F568
+[/us/pl/106/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569
+[/us/pl/106/568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F568
+[/us/pl/106/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569
 
 

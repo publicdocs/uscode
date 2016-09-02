@@ -17,7 +17,7 @@
 
     Notwithstanding any other provisions of law, with the consent in writing of the individual Indian, association of Indians, or Indian tribe concerned, any restricted Indian lands situated within the State of Washington may be leased for religious, educational, recreational, business, or public purposes, including, but not limited to, airports, experimental station, stockyards, warehouses, and grain elevators, for periods not to exceed twenty-five years under such rules and regulations as the Secretary of the Interior may prescribe: Provided, That nothing in this section or [section 403c of this title][/us/usc/t25/s403c] shall be deemed to authorize such leases for the exploitation of any natural resources.
 
-([Aug. 9, 1946, ch. 929, § 1][/us/act/1946-08-09/ch929/s1], [60 Stat. 962][/us/stat/60/962].)
+([Aug. 9, 1946, ch. 929][/us/act/1946-08-09/ch929], § 1, [60 Stat. 962][/us/stat/60/962].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t25/s403c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs403c
-[/us/act/1946-08-09/ch929/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-09%2Fch929%2Fs1
+[/us/act/1946-08-09/ch929]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-09%2Fch929
 [/us/stat/60/962]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F962
 
 

@@ -65,7 +65,7 @@
 
         There shall be deposited into CHEF all reimbursements to which the Service is entitled from any Federal, State, local, or private source (including third party insurance) by reason of treatment rendered to any victim of a disaster or catastrophic illness the cost of which was paid from CHEF.
 
-([Pub. L. 94–437, title II, § 202][/us/pl/94/437/s202], as added [Pub. L. 100–713, title II, § 202][/us/pl/100/713/s202], Nov. 23, 1988, [102 Stat. 4803][/us/stat/102/4803]; amended [Pub. L. 102–573, title II][/us/pl/102/573], §§ 202(a), 217(b)(2), Oct. 29, 1992, [106 Stat. 4546][/us/stat/106/4546], 4559; [Pub. L. 111–148, title X, § 10221(a)][/us/pl/111/148/s10221/a], Mar. 23, 2010, [124 Stat. 935][/us/stat/124/935].)
+([Pub. L. 94–437, title II][/us/pl/94/437/tII], § 202, as added [Pub. L. 100–713, title II][/us/pl/100/713/tII], § 202, Nov. 23, 1988, [102 Stat. 4803][/us/stat/102/4803]; amended [Pub. L. 102–573, title II][/us/pl/102/573/tII], §§ 202(a), 217(b)(2), Oct. 29, 1992, [106 Stat. 4546][/us/stat/106/4546], 4559; [Pub. L. 111–148, title X][/us/pl/111/148/tX], § 10221(a), Mar. 23, 2010, [124 Stat. 935][/us/stat/124/935].)
 
  __References in Text__ 
 
@@ -79,17 +79,17 @@
 
     2010—[Pub. L. 111–148][/us/pl/111/148] amended section generally. Prior to amendment, section related to establishment of Indian Catastrophic Health Emergency Fund with provisions for its administration, promulgation of regulations, procedures for payment, effect of appropriated funds on other appropriations, and deposit of reimbursements.
 
-    1992—Subsec. (a)(1)(B). [Pub. L. 102–573, § 202(a)(1)][/us/pl/102/573/s202/a/1], substituted “to the Fund under this section” for “under subsection (e) of this section”.
+    1992—Subsec. (a)(1)(B). [Pub. L. 102–573][/us/pl/102/573], § 202(a)(1), substituted “to the Fund under this section” for “under subsection (e) of this section”.
 
-    Subsec. (b)(2). [Pub. L. 102–573, § 202(a)(2)][/us/pl/102/573/s202/a/2], substituted “shall establish at—” and subpars. (A) and (B) for “shall establish at not less than $10,000 or not more than $20,000;”.
+    Subsec. (b)(2). [Pub. L. 102–573][/us/pl/102/573], § 202(a)(2), substituted “shall establish at—” and subpars. (A) and (B) for “shall establish at not less than $10,000 or not more than $20,000;”.
 
-    Subsec. (c). [Pub. L. 102–573, § 202(a)(3)][/us/pl/102/573/s202/a/3], substituted “Amounts appropriated to the Fund under this section” for “Funds appropriated under subsection (e) of this section”.
+    Subsec. (c). [Pub. L. 102–573][/us/pl/102/573], § 202(a)(3), substituted “Amounts appropriated to the Fund under this section” for “Funds appropriated under subsection (e) of this section”.
 
-    Subsec. (e). [Pub. L. 102–573, § 217(b)(2)][/us/pl/102/573/s217/b/2], struck out subsec. (e) which authorized appropriations for fiscal years 1989 to 1992.
+    Subsec. (e). [Pub. L. 102–573][/us/pl/102/573], § 217(b)(2), struck out subsec. (e) which authorized appropriations for fiscal years 1989 to 1992.
 
  __Effective Date of 1992 Amendment__ 
 
-[Pub. L. 102–573, title II, § 202(b)][/us/pl/102/573/s202/b], Oct. 29, 1992, [106 Stat. 4546][/us/stat/106/4546], provided that: 
+[Pub. L. 102–573, title II][/us/pl/102/573/tII], § 202(b), Oct. 29, 1992, [106 Stat. 4546][/us/stat/106/4546], provided that: 
 
 > “The amendment made by subsection (a)(2) \[amending this section\] shall take effect January 1, 1993.”
 
@@ -102,12 +102,12 @@
 
 [/us/usc/t25/s450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450
 [/us/usc/t25/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs13
-[/us/pl/94/437/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437%2Fs202
-[/us/pl/100/713/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F713%2Fs202
+[/us/pl/94/437/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437%2FtII
+[/us/pl/100/713/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F713%2FtII
 [/us/stat/102/4803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4803
-[/us/pl/102/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573
+[/us/pl/102/573/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2FtII
 [/us/stat/106/4546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4546
-[/us/pl/111/148/s10221/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10221%2Fa
+[/us/pl/111/148/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtX
 [/us/stat/124/935]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F935
 [/us/pl/93/638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638
 [/us/stat/88/2203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2203
@@ -115,11 +115,11 @@
 [/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 [/us/pl/111/148/s10221/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10221%2Fa
 [/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
-[/us/pl/102/573/s202/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2Fs202%2Fa%2F1
-[/us/pl/102/573/s202/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2Fs202%2Fa%2F2
-[/us/pl/102/573/s202/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2Fs202%2Fa%2F3
-[/us/pl/102/573/s217/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2Fs217%2Fb%2F2
-[/us/pl/102/573/s202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2Fs202%2Fb
+[/us/pl/102/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573
+[/us/pl/102/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573
+[/us/pl/102/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573
+[/us/pl/102/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573
+[/us/pl/102/573/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2FtII
 [/us/stat/106/4546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4546
 
 

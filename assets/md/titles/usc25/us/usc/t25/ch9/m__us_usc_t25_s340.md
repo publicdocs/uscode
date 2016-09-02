@@ -17,7 +17,7 @@
 
     The provisions of the Act of February 8, 1887, are declared to extend to and are made applicable to the Confederated Wea, Peoria, Kaskaskia, and Piankeshaw tribes of Indians, and the Western Miami tribe of Indians, located in the northeastern part of the former Indian Territory and to their reservation, in the same manner and to the same extent as if said tribes had not been excepted from the provisions of said act, except as to [section 349 of this title][/us/usc/t25/s349], and as otherwise hereinafter provided.
 
-([Mar. 2, 1889, ch. 422, § 1][/us/act/1889-03-02/ch422/s1], [25 Stat. 1013][/us/stat/25/1013].)
+([Mar. 2, 1889, ch. 422][/us/act/1889-03-02/ch422], § 1, [25 Stat. 1013][/us/stat/25/1013].)
 
  __References in Text__ 
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t25/s349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs349
-[/us/act/1889-03-02/ch422/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1889-03-02%2Fch422%2Fs1
+[/us/act/1889-03-02/ch422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1889-03-02%2Fch422
 [/us/stat/25/1013]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F25%2F1013
 [/us/stat/24/388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F24%2F388
 [/us/usc/t25/s331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs331

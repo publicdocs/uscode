@@ -17,7 +17,7 @@
 
     The funds appropriated by the Act of June 9, 1964 ([78 Stat. 204][/us/stat/78/204], 213), to pay a judgment to the Pembina Band of Chippewa Indians in Indian Claims Commission dockets numbered 18–A, 113, and 191, together with the interest thereon, after payment of attorney fees and litigation expenses, and such expenses as may be necessary in carrying out the provisions of this subchapter, shall be distributed as provided herein.
 
-([Pub. L. 92–59, § 1][/us/pl/92/59/s1], July 29, 1971, [85 Stat. 158][/us/stat/85/158].)
+([Pub. L. 92–59][/us/pl/92/59], § 1, July 29, 1971, [85 Stat. 158][/us/stat/85/158].)
 
  __References in Text__ 
 
@@ -33,7 +33,7 @@
 ----------
 
 [/us/stat/78/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F204
-[/us/pl/92/59/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F59%2Fs1
+[/us/pl/92/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F59
 [/us/stat/85/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F158
 [/us/pl/88/317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F317
 [/us/stat/78/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F204

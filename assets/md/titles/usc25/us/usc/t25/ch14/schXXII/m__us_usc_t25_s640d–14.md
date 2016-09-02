@@ -53,21 +53,21 @@
 
         Notwithstanding any other provision of law, appeals from any eligibility determination of the Relocation Commission, irrespective of the amount in controversy, shall be brought in the United States District Court for the District of Arizona.
 
-([Pub. L. 93–531, § 15][/us/pl/93/531/s15], Dec. 22, 1974, [88 Stat. 1719][/us/stat/88/1719]; [Pub. L. 96–305, § 7][/us/pl/96/305/s7], July 8, 1980, [94 Stat. 932][/us/stat/94/932]; [Pub. L. 100–666][/us/pl/100/666], §§ 4(b), 10, Nov. 16, 1988, [102 Stat. 3930][/us/stat/102/3930], 3934.)
+([Pub. L. 93–531][/us/pl/93/531], § 15, Dec. 22, 1974, [88 Stat. 1719][/us/stat/88/1719]; [Pub. L. 96–305][/us/pl/96/305], § 7, July 8, 1980, [94 Stat. 932][/us/stat/94/932]; [Pub. L. 100–666][/us/pl/100/666], §§ 4(b), 10, Nov. 16, 1988, [102 Stat. 3930][/us/stat/102/3930], 3934.)
 
  __References in Text__ 
 
-    [Section 640d–12 of this title][/us/usc/t25/s640d–12], referred to in subsec. (a), was amended generally by [Pub. L. 100–666, § 4(d)][/us/pl/100/666/s4/d], Nov. 16, 1988, [102 Stat. 3931][/us/stat/102/3931], and as so amended, section 640d–12(b)(2) does not relate to fair market value of habitations and improvements. Provisions formerly contained in section 640d–12(b)(2) are covered in section 640d–12(b)(3).
+    [Section 640d–12 of this title][/us/usc/t25/s640d–12], referred to in subsec. (a), was amended generally by [Pub. L. 100–666][/us/pl/100/666], § 4(d), Nov. 16, 1988, [102 Stat. 3931][/us/stat/102/3931], and as so amended, section 640d–12(b)(2) does not relate to fair market value of habitations and improvements. Provisions formerly contained in section 640d–12(b)(2) are covered in section 640d–12(b)(3).
 
     The Uniform Relocation Assistance and Real Property Acquisition Policies Act of 1970 ([84 Stat. 1894][/us/stat/84/1894]), referred to in subsec. (c), is [Pub. L. 91–646][/us/pl/91/646], Jan. 2, 1971, [84 Stat. 1894][/us/stat/84/1894], which is classified principally to chapter 61 (§ 4601 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4601 of Title 42][/us/usc/t42/s4601] and Tables.
 
-    The United States Housing Act of 1937, referred to in subsec. (d)(1), is [act Sept. 1, 1937, ch. 896][/us/act/1937-09-01/ch896], as revised generally by [Pub. L. 93–383, title II, § 201(a)][/us/pl/93/383/s201/a], Aug. 22, 1974, [88 Stat. 653][/us/stat/88/653], which is classified generally to chapter 8 (§ 1437 et seq.) of Title 42. For complete classification of this Act to the Code, see Short Title note set out under [section 1437 of Title 42][/us/usc/t42/s1437] and Tables.
+    The United States Housing Act of 1937, referred to in subsec. (d)(1), is [act Sept. 1, 1937, ch. 896][/us/act/1937-09-01/ch896], as revised generally by [Pub. L. 93–383, title II][/us/pl/93/383/tII], § 201(a), Aug. 22, 1974, [88 Stat. 653][/us/stat/88/653], which is classified generally to chapter 8 (§ 1437 et seq.) of Title 42. For complete classification of this Act to the Code, see Short Title note set out under [section 1437 of Title 42][/us/usc/t42/s1437] and Tables.
 
  __Amendments__ 
 
-    1988—Subsecs. (a) to (f). [Pub. L. 100–666, § 4(b)][/us/pl/100/666/s4/b], substituted “Commissioner” for “Commission” wherever appearing.
+    1988—Subsecs. (a) to (f). [Pub. L. 100–666][/us/pl/100/666], § 4(b), substituted “Commissioner” for “Commission” wherever appearing.
 
-    Subsec. (g). [Pub. L. 100–666, § 10][/us/pl/100/666/s10], added subsec. (g).
+    Subsec. (g). [Pub. L. 100–666][/us/pl/100/666], § 10, added subsec. (g).
 
     1980—Subsec. (f). [Pub. L. 96–305][/us/pl/96/305] added subsec. (f).
 
@@ -86,25 +86,25 @@
 [/us/stat/50/888]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F50%2F888
 [/us/usc/t42/s1437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437
 [/us/usc/t25/s640d–7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs640d%E2%80%937
-[/us/pl/93/531/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F531%2Fs15
+[/us/pl/93/531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F531
 [/us/stat/88/1719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1719
-[/us/pl/96/305/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F305%2Fs7
+[/us/pl/96/305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F305
 [/us/stat/94/932]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F932
 [/us/pl/100/666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F666
 [/us/stat/102/3930]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3930
 [/us/usc/t25/s640d–12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs640d%E2%80%9312
-[/us/pl/100/666/s4/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F666%2Fs4%2Fd
+[/us/pl/100/666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F666
 [/us/stat/102/3931]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3931
 [/us/stat/84/1894]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1894
 [/us/pl/91/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F646
 [/us/stat/84/1894]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1894
 [/us/usc/t42/s4601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4601
 [/us/act/1937-09-01/ch896]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-09-01%2Fch896
-[/us/pl/93/383/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2Fs201%2Fa
+[/us/pl/93/383/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2FtII
 [/us/stat/88/653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F653
 [/us/usc/t42/s1437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437
-[/us/pl/100/666/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F666%2Fs4%2Fb
-[/us/pl/100/666/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F666%2Fs10
+[/us/pl/100/666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F666
+[/us/pl/100/666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F666
 [/us/pl/96/305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F305
 
 

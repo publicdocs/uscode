@@ -17,7 +17,7 @@
 
     The Secretary is authorized to prescribe rules and regulations to carry out the provisions of this subchapter.
 
-([Pub. L. 92–461, § 6][/us/pl/92/461/s6], Oct. 6, 1972, [86 Stat. 769][/us/stat/86/769].)
+([Pub. L. 92–461][/us/pl/92/461], § 6, Oct. 6, 1972, [86 Stat. 769][/us/stat/86/769].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/92/461/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F461%2Fs6
+[/us/pl/92/461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F461
 [/us/stat/86/769]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F769
 
 

@@ -31,7 +31,7 @@
 
         When approving or disapproving the selection of trustees in accordance with the provisions of subsection (a) of this section, and when designating trustees pursuant to subsection (b) of this section, the Secretary shall give due regard to the laws of the State of Oregon that relate to the selection of trustees.
 
-([Aug. 13, 1954, ch. 733, § 5][/us/act/1954-08-13/ch733/s5], [68 Stat. 725][/us/stat/68/725].)
+([Aug. 13, 1954, ch. 733][/us/act/1954-08-13/ch733], § 5, [68 Stat. 725][/us/stat/68/725].)
 
 ----------
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/act/1954-08-13/ch733/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-13%2Fch733%2Fs5
+[/us/act/1954-08-13/ch733]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-13%2Fch733
 [/us/stat/68/725]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F725
 
 

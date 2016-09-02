@@ -17,7 +17,7 @@
 
     The Act of June 18, 1934 ([48 Stat. 984][/us/stat/48/984]), as amended by the Act of June 15, 1935 ([49 Stat. 387][/us/stat/49/387]) \[[25 U.S.C. 461][/us/usc/t25/s461] et seq.\], shall not apply to the tribe and its members after the date of the proclamation to be issued in accordance with the provisions of [section 722 of this title][/us/usc/t25/s722].
 
-([Aug. 23, 1954, ch. 831, § 8][/us/act/1954-08-23/ch831/s8], [68 Stat. 769][/us/stat/68/769].)
+([Aug. 23, 1954, ch. 831][/us/act/1954-08-23/ch831], § 8, [68 Stat. 769][/us/stat/68/769].)
 
  __References in Text__ 
 
@@ -34,7 +34,7 @@
 [/us/stat/49/387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F387
 [/us/usc/t25/s461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs461
 [/us/usc/t25/s722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs722
-[/us/act/1954-08-23/ch831/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-23%2Fch831%2Fs8
+[/us/act/1954-08-23/ch831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-23%2Fch831
 [/us/stat/68/769]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F769
 [/us/usc/t25/s461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs461
 

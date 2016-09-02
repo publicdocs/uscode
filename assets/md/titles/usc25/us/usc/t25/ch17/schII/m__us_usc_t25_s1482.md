@@ -17,7 +17,7 @@
 
     The Secretary shall fix such premium charges for the insurance and guarantee of loans as are in his judgment adequate to cover expenses and probable losses, and deposit receipts from such charges in the Indian Loan Guaranty and Insurance Fund established pursuant to [section 1497(a) of this title][/us/usc/t25/s1497/a].
 
-([Pub. L. 93–262, title II, § 202][/us/pl/93/262/s202], Apr. 12, 1974, [88 Stat. 79][/us/stat/88/79].)
+([Pub. L. 93–262, title II][/us/pl/93/262/tII], § 202, Apr. 12, 1974, [88 Stat. 79][/us/stat/88/79].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t25/s1497/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1497%2Fa
-[/us/pl/93/262/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F262%2Fs202
+[/us/pl/93/262/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F262%2FtII
 [/us/stat/88/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F79
 
 

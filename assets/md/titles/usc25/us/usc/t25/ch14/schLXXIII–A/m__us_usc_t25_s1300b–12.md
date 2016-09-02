@@ -23,7 +23,7 @@
 
     (c) “Secretary” means the Secretary of the Interior.
 
-([Pub. L. 97–429, § 3][/us/pl/97/429/s3], Jan. 8, 1983, [96 Stat. 2269][/us/stat/96/2269].)
+([Pub. L. 97–429][/us/pl/97/429], § 3, Jan. 8, 1983, [96 Stat. 2269][/us/stat/96/2269].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/97/429/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F429%2Fs3
+[/us/pl/97/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F429
 [/us/stat/96/2269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2269
 
 

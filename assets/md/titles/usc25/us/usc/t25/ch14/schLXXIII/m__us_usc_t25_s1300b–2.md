@@ -17,7 +17,7 @@
 
     The Secretary of the Interior shall approve no plans for the use of the money specified in [section 1300b–1(b) of this title][/us/usc/t25/s1300b–1/b] for the Kickapoo Tribes of Kansas and Oklahoma until at least thirty days after the plans have been submitted by the Secretary to the Committees on Interior and Insular Affairs of the Senate and House of Representatives.
 
-([Pub. L. 92–467, § 3][/us/pl/92/467/s3], Oct. 6, 1972, [86 Stat. 781][/us/stat/86/781].)
+([Pub. L. 92–467][/us/pl/92/467], § 3, Oct. 6, 1972, [86 Stat. 781][/us/stat/86/781].)
 
  __Change of Name__ 
 
@@ -33,7 +33,7 @@
 ----------
 
 [/us/usc/t25/s1300b–1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1300b%E2%80%931%2Fb
-[/us/pl/92/467/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F467%2Fs3
+[/us/pl/92/467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F467
 [/us/stat/86/781]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F781
 
 

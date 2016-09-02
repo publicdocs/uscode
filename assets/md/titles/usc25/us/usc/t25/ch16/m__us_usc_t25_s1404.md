@@ -21,7 +21,7 @@
 
     (2) a statement of the extent to which such plan reflects the desires of the Indian tribe or individuals who are entitled to such funds, which statement shall specify the alternatives, if any, proposed by such Indian tribe or individuals in lieu of such plan, together with an indication of the degree of support among the interested parties for each such alternative.
 
-([Pub. L. 93–134, § 4][/us/pl/93/134/s4], Oct. 19, 1973, [87 Stat. 467][/us/stat/87/467].)
+([Pub. L. 93–134][/us/pl/93/134], § 4, Oct. 19, 1973, [87 Stat. 467][/us/stat/87/467].)
 
 ----------
 
@@ -33,7 +33,7 @@
 [/us/usc/t25/s1402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1402
 [/us/usc/t25/s1403/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1403%2Fa
 [/us/usc/t25/s1403/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1403%2Fa
-[/us/pl/93/134/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F134%2Fs4
+[/us/pl/93/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F134
 [/us/stat/87/467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F467
 
 

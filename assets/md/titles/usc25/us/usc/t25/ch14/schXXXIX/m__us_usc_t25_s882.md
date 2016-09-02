@@ -17,7 +17,7 @@
 
     The funds appropriated by the Act of June 19, 1968 ([82 Stat. 239][/us/stat/82/239]), to pay a judgment by the Indian Claims Commission in docket numbered 220, together with interest thereon, after payment of attorneys’ fees and other litigation expenses, may be advanced, deposited, expended, invested, or reinvested for any purposes that are authorized by the tribal governing body and approved by the Secretary of the Interior.
 
-([Pub. L. 91–404, § 1][/us/pl/91/404/s1], Sept. 19, 1970, [84 Stat. 845][/us/stat/84/845].)
+([Pub. L. 91–404][/us/pl/91/404], § 1, Sept. 19, 1970, [84 Stat. 845][/us/stat/84/845].)
 
  __References in Text__ 
 
@@ -33,7 +33,7 @@
 ----------
 
 [/us/stat/82/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F239
-[/us/pl/91/404/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F404%2Fs1
+[/us/pl/91/404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F404
 [/us/stat/84/845]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F845
 [/us/pl/90/352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F352
 [/us/stat/82/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F239

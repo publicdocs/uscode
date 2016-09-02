@@ -117,7 +117,7 @@
 
         (2) by an administrative judge.
 
-([Pub. L. 93–638, title V, § 507][/us/pl/93/638/s507], as added [Pub. L. 106–260, § 4][/us/pl/106/260/s4], Aug. 18, 2000, [114 Stat. 719][/us/stat/114/719].)
+([Pub. L. 93–638, title V][/us/pl/93/638/tV], § 507, as added [Pub. L. 106–260][/us/pl/106/260], § 4, Aug. 18, 2000, [114 Stat. 719][/us/stat/114/719].)
 
  __References in Text__ 
 
@@ -134,8 +134,8 @@
 [/us/usc/t25/s458aaa–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs458aaa%E2%80%932
 [/us/usc/t25/s450m–1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450m%E2%80%931%2Fa
 [/us/usc/t25/s458aaa–7/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs458aaa%E2%80%937%2Fc
-[/us/pl/93/638/s507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638%2Fs507
-[/us/pl/106/260/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F260%2Fs4
+[/us/pl/93/638/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638%2FtV
+[/us/pl/106/260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F260
 [/us/stat/114/719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F719
 [/us/pl/106/260/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F260%2Fs3
 [/us/usc/t25/s458aaa]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs458aaa

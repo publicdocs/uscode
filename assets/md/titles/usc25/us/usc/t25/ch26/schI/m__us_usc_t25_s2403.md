@@ -45,7 +45,7 @@
 
     (6) The terms “Urban Indian”, “Urban Center”, and “Urban Indian Organization” shall have the same meaning as provided in [section 1603 of this title][/us/usc/t25/s1603].
 
-([Pub. L. 99–570, title IV, § 4204][/us/pl/99/570/s4204], Oct. 27, 1986, [100 Stat. 3207–138][/us/stat/100/3207-138]; [Pub. L. 100–690, title II, § 2202][/us/pl/100/690/s2202], Nov. 18, 1988, [102 Stat. 4217][/us/stat/102/4217].)
+([Pub. L. 99–570, title IV][/us/pl/99/570/tIV], § 4204, Oct. 27, 1986, [100 Stat. 3207–138][/us/stat/100/3207-138]; [Pub. L. 100–690, title II][/us/pl/100/690/tII], § 2202, Nov. 18, 1988, [102 Stat. 4217][/us/stat/102/4217].)
 
  __References in Text__ 
 
@@ -68,9 +68,9 @@
 [/us/usc/t43/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1601
 [/us/usc/t25/s450f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450f
 [/us/usc/t25/s1603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1603
-[/us/pl/99/570/s4204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs4204
+[/us/pl/99/570/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2FtIV
 [/us/stat/100/3207-138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3207-138
-[/us/pl/100/690/s2202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs2202
+[/us/pl/100/690/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtII
 [/us/stat/102/4217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4217
 [/us/pl/92/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F203
 [/us/stat/85/688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F688

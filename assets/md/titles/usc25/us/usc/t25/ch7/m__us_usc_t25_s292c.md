@@ -17,7 +17,7 @@
 
     On and after October 12, 1984, no part of any appropriations to the Bureau of Indian Affairs under this or any other Act shall be available to continue academic and residential programs of the Chilocco, Seneca, Concho, and Fort Sill boarding schools, Oklahoma; Mount Edgecumbe boarding school, Alaska; Intermountain boarding school, Utah; and Stewart boarding school, Nevada.
 
-([Pub. L. 98–473, title I, § 101(c)][/us/pl/98/473/s101/c] \[title I\], Oct. 12, 1984, [98 Stat. 1837][/us/stat/98/1837], 1850.)
+([Pub. L. 98–473, title I][/us/pl/98/473/tI], § 101(c) \[title I\], Oct. 12, 1984, [98 Stat. 1837][/us/stat/98/1837], 1850.)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/98/473/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs101%2Fc
+[/us/pl/98/473/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtI
 [/us/stat/98/1837]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1837
 
 

@@ -35,7 +35,7 @@
 
         Where the Secretary has approved a Minerals Agreement in compliance with the provisions of this chapter and any other applicable provision of law, the United States shall not be liable for losses sustained by a tribe or individual Indian under such agreement: Provided, That the Secretary shall continue to have a trust obligation to ensure that the rights of a tribe or individual Indian are protected in the event of a violation of the terms of any Minerals Agreement by any other party to such agreement: Provided further, That nothing in this chapter shall absolve the United States from any responsibility to Indians, including those which derive from the trust relationship and from any treaties, Executive orders, or agreement between the United States and any Indian tribe.
 
-([Pub. L. 97–382, § 4][/us/pl/97/382/s4], Dec. 22, 1982, [96 Stat. 1938][/us/stat/96/1938].)
+([Pub. L. 97–382][/us/pl/97/382], § 4, Dec. 22, 1982, [96 Stat. 1938][/us/stat/96/1938].)
 
 ----------
 
@@ -47,7 +47,7 @@
 [/us/usc/t42/s4332/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4332%2F2%2FC
 [/us/usc/t28/s1361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1361
 [/us/usc/t42/s4332/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4332%2F2%2FC
-[/us/pl/97/382/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F382%2Fs4
+[/us/pl/97/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F382
 [/us/stat/96/1938]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1938
 
 

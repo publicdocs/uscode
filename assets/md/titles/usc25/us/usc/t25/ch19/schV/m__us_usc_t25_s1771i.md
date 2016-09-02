@@ -17,7 +17,7 @@
 
     For the purpose of eligibility for Federal services made available to members of federally recognized Indian tribes, because of their status as Indians, members of this tribe residing on Martha’s Vineyard, Massachusetts, shall be deemed to be living on or near an Indian reservation.
 
-([Pub. L. 100–95, § 12][/us/pl/100/95/s12], Aug. 18, 1987, [101 Stat. 710][/us/stat/101/710].)
+([Pub. L. 100–95][/us/pl/100/95], § 12, Aug. 18, 1987, [101 Stat. 710][/us/stat/101/710].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/100/95/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F95%2Fs12
+[/us/pl/100/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F95
 [/us/stat/101/710]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F710
 
 

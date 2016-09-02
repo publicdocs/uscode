@@ -17,7 +17,7 @@
 
     Other federally recognized tribes in Southeast Alaska shall have precedence over the Central Council of Tlingit and Haida Indian Tribes of Alaska in the award of a Federal compact, contract or grant to the extent that their service population overlaps with that of the Central Council of Tlingit and Haida Indian Tribes of Alaska. In no event shall dually enrolled members result in duplication of Federal service funding.
 
-([Pub. L. 103–454, title II, § 205][/us/pl/103/454/s205], Nov. 2, 1994, [108 Stat. 4793][/us/stat/108/4793]; [Pub. L. 104–109, § 10][/us/pl/104/109/s10], Feb. 12, 1996, [110 Stat. 765][/us/stat/110/765].)
+([Pub. L. 103–454, title II][/us/pl/103/454/tII], § 205, Nov. 2, 1994, [108 Stat. 4793][/us/stat/108/4793]; [Pub. L. 104–109][/us/pl/104/109], § 10, Feb. 12, 1996, [110 Stat. 765][/us/stat/110/765].)
 
  __Amendments__ 
 
@@ -30,9 +30,9 @@
 ----------
 ----------
 
-[/us/pl/103/454/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F454%2Fs205
+[/us/pl/103/454/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F454%2FtII
 [/us/stat/108/4793]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4793
-[/us/pl/104/109/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F109%2Fs10
+[/us/pl/104/109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F109
 [/us/stat/110/765]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F765
 [/us/pl/104/109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F109
 

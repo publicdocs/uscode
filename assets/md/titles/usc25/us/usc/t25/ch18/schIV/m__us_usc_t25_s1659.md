@@ -17,7 +17,7 @@
 
     The Secretary may make funds available to contractors or grant recipients under this subchapter for minor renovations to facilities or construction or expansion of facilities, including leased facilities, to assist such contractors or grant recipients in meeting or maintaining the Joint Commission for Accreditation of Health Care Organizations (JCAHO) standards.
 
-([Pub. L. 94–437, title V, § 509][/us/pl/94/437/s509], formerly § 409, as added [Pub. L. 101–630, title V, § 506(c)][/us/pl/101/630/s506/c], Nov. 28, 1990, [104 Stat. 4566][/us/stat/104/4566]; renumbered § 509 and amended [Pub. L. 102–573, title V][/us/pl/102/573], §§ 501(b)(6), 505(b)(2), title IX, § 902(5)(A), Oct. 29, 1992, [106 Stat. 4569][/us/stat/106/4569], 4571, 4591; [Pub. L. 111–148, title X, § 10221(a)][/us/pl/111/148/s10221/a], Mar. 23, 2010, [124 Stat. 935][/us/stat/124/935].)
+([Pub. L. 94–437, title V][/us/pl/94/437/tV], § 509, formerly § 409, as added [Pub. L. 101–630, title V][/us/pl/101/630/tV], § 506(c), Nov. 28, 1990, [104 Stat. 4566][/us/stat/104/4566]; renumbered § 509 and amended [Pub. L. 102–573, title V][/us/pl/102/573/tV], §§ 501(b)(6), 505(b)(2), title IX, § 902(5)(A), Oct. 29, 1992, [106 Stat. 4569][/us/stat/106/4569], 4571, 4591; [Pub. L. 111–148, title X][/us/pl/111/148/tX], § 10221(a), Mar. 23, 2010, [124 Stat. 935][/us/stat/124/935].)
 
  __Codification__ 
 
@@ -27,11 +27,11 @@
 
     2010—[Pub. L. 111–148][/us/pl/111/148] inserted “or construction or expansion of facilities” after “renovations to facilities”.
 
-    1992—[Pub. L. 102–573, § 902(5)(A)][/us/pl/102/573/s902/5/A], made technical amendment to section catchline.
+    1992—[Pub. L. 102–573][/us/pl/102/573], § 902(5)(A), made technical amendment to section catchline.
 
-    [Pub. L. 102–573, § 505(b)(2)][/us/pl/102/573/s505/b/2], struck out last sentence which authorized appropriation of $1,000,000 for fiscal year 1992 to carry out this section.
+    [Pub. L. 102–573][/us/pl/102/573], § 505(b)(2), struck out last sentence which authorized appropriation of $1,000,000 for fiscal year 1992 to carry out this section.
 
-    [Pub. L. 102–573, § 501(b)(6)][/us/pl/102/573/s501/b/6], inserted “or grant recipients” after “contractors” in two places.
+    [Pub. L. 102–573][/us/pl/102/573], § 501(b)(6), inserted “or grant recipients” after “contractors” in two places.
 
 ----------
 
@@ -40,18 +40,18 @@
 ----------
 ----------
 
-[/us/pl/94/437/s509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437%2Fs509
-[/us/pl/101/630/s506/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F630%2Fs506%2Fc
+[/us/pl/94/437/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437%2FtV
+[/us/pl/101/630/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F630%2FtV
 [/us/stat/104/4566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4566
-[/us/pl/102/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573
+[/us/pl/102/573/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2FtV
 [/us/stat/106/4569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4569
-[/us/pl/111/148/s10221/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10221%2Fa
+[/us/pl/111/148/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtX
 [/us/stat/124/935]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F935
 [/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 [/us/pl/111/148/s10221/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10221%2Fa
 [/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
-[/us/pl/102/573/s902/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2Fs902%2F5%2FA
-[/us/pl/102/573/s505/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2Fs505%2Fb%2F2
-[/us/pl/102/573/s501/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2Fs501%2Fb%2F6
+[/us/pl/102/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573
+[/us/pl/102/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573
+[/us/pl/102/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573
 
 

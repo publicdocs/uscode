@@ -75,7 +75,7 @@
 
         (C) any lands administered for the benefit of Native Hawaiians pursuant to the Hawaiian Homes Commission Act, 1920, and [section 4 of Public Law 86–3][/us/pl/86/3/s4].
 
-([Pub. L. 101–601, § 2][/us/pl/101/601/s2], Nov. 16, 1990, [104 Stat. 3048][/us/stat/104/3048]; [Pub. L. 102–572, title IX, § 902(b)(1)][/us/pl/102/572/s902/b/1], Oct. 29, 1992, [106 Stat. 4516][/us/stat/106/4516].)
+([Pub. L. 101–601][/us/pl/101/601], § 2, Nov. 16, 1990, [104 Stat. 3048][/us/stat/104/3048]; [Pub. L. 102–572, title IX][/us/pl/102/572/tIX], § 902(b)(1), Oct. 29, 1992, [106 Stat. 4516][/us/stat/106/4516].)
 
  __References in Text__ 
 
@@ -99,7 +99,7 @@
 
  __Short Title__ 
 
-[Pub. L. 101–601, § 1][/us/pl/101/601/s1], Nov. 16, 1990, [104 Stat. 3048][/us/stat/104/3048], provided that: 
+[Pub. L. 101–601][/us/pl/101/601], § 1, Nov. 16, 1990, [104 Stat. 3048][/us/stat/104/3048], provided that: 
 
 > “This Act \[enacting this chapter and [section 1170 of Title 18][/us/usc/t18/s1170], Crimes and Criminal Procedure\] may be cited as the ‘Native American Graves Protection and Repatriation Act’.”
 
@@ -115,9 +115,9 @@
 [/us/usc/t25/s3005/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs3005%2Fc
 [/us/usc/t28/s1491]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1491
 [/us/pl/86/3/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F3%2Fs4
-[/us/pl/101/601/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F601%2Fs2
+[/us/pl/101/601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F601
 [/us/stat/104/3048]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3048
-[/us/pl/102/572/s902/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2Fs902%2Fb%2F1
+[/us/pl/102/572/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2FtIX
 [/us/stat/106/4516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4516
 [/us/pl/101/601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F601
 [/us/stat/104/3048]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3048
@@ -133,7 +133,7 @@
 [/us/pl/102/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572
 [/us/pl/102/572/s911]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2Fs911
 [/us/usc/t28/s171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs171
-[/us/pl/101/601/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F601%2Fs1
+[/us/pl/101/601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F601
 [/us/stat/104/3048]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3048
 [/us/usc/t18/s1170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1170
 

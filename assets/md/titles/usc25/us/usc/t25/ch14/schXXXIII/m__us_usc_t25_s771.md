@@ -17,7 +17,7 @@
 
     The Secretary of the Interior, hereafter referred to as the “Secretary”, is authorized and directed to prepare separate rolls of the Indians of the blood of the Molel or Molallalas Tribe of Oregon and of the Confederated Bands of the Umpqua Tribe of Indians and the Calappoias residing in the Umpqua Valley, and of the Tillamook, Coquille, Tootootoney, and Chetco Tribes of Oregon, living on August 30, 1954. Applications for enrollment shall be filed within one year of August 30, 1954. The determination of the Secretary of the eligibility of an applicant for enrollment shall be final and conclusive. No person shall be entitled to be enrolled on more than one roll.
 
-([Aug. 30, 1954, ch. 1085, § 1][/us/act/1954-08-30/ch1085/s1], [68 Stat. 979][/us/stat/68/979].)
+([Aug. 30, 1954, ch. 1085][/us/act/1954-08-30/ch1085], § 1, [68 Stat. 979][/us/stat/68/979].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1954-08-30/ch1085/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-30%2Fch1085%2Fs1
+[/us/act/1954-08-30/ch1085]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-30%2Fch1085
 [/us/stat/68/979]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F979
 
 

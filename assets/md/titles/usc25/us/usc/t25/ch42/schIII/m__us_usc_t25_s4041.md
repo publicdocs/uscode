@@ -23,7 +23,7 @@
 
     (3) to ensure the implementation of all reforms necessary for the proper discharge of the Secretary’s trust responsibilities to Indian tribes and individual Indians.
 
-([Pub. L. 103–412, title III, § 301][/us/pl/103/412/s301], Oct. 25, 1994, [108 Stat. 4244][/us/stat/108/4244].)
+([Pub. L. 103–412, title III][/us/pl/103/412/tIII], § 301, Oct. 25, 1994, [108 Stat. 4244][/us/stat/108/4244].)
 
  __Transfer of Functions__ 
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/103/412/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F412%2Fs301
+[/us/pl/103/412/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F412%2FtIII
 [/us/stat/108/4244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4244
 
 

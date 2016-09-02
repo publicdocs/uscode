@@ -17,7 +17,7 @@
 
     The Secretary of the Interior is authorized and directed, pursuant to such regulations as may be issued by him, to prepare a roll of Omaha Indians whose names appear on the Omaha allotment rolls finally approved pursuant to the Acts of Congress of August 7, 1882, ([22 Stat. 341][/us/stat/22/341]) and March 3, 1893 ([27 Stat. 612][/us/stat/27/612]), and who are living on September 14, 1961, and the descendants of such allottees who are born and living on September 14, 1961 and who possess Omaha blood of the degree of one-fourth or more regardless of whether such allottees are living or deceased: Provided, That no person who is enrolled with any other tribe of Indians or who has received an allotment of land on any other reservation shall be enrolled under the provisions of this subchapter unless the application for enrollment by such person is approved by a two-thirds vote of the governing body of the Omaha Tribe of Nebraska. Applications for enrollment must be filed with the area director of the Bureau of Indian Affairs, Aberdeen, South Dakota, within four months after September 14, 1961. For a period of three months thereafter, the Secretary shall permit the examination of the applications by the governing body of the Omaha Tribe of Nebraska for the purpose of lodging protests against any application. The determination of the Secretary regarding the eligibility of an applicant shall be final.
 
-([Pub. L. 87–235, § 1][/us/pl/87/235/s1], Sept. 14, 1961, [75 Stat. 508][/us/stat/75/508].)
+([Pub. L. 87–235][/us/pl/87/235], § 1, Sept. 14, 1961, [75 Stat. 508][/us/stat/75/508].)
 
  __References in Text__ 
 
@@ -32,7 +32,7 @@
 
 [/us/stat/22/341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F22%2F341
 [/us/stat/27/612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F27%2F612
-[/us/pl/87/235/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F235%2Fs1
+[/us/pl/87/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F235
 [/us/stat/75/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F508
 [/us/act/1882-08-07/ch434]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1882-08-07%2Fch434
 [/us/stat/22/341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F22%2F341

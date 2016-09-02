@@ -27,7 +27,7 @@
 
     thence north 38 degrees east, 1,300 feet to the point of beginning, 23.8 acres more or less: Provided, That, if and when such spring is fenced, the Hopi Tribe shall pipe the water therefrom to the edge of the boundary as hereinabove described for the use of residents of the area. The natural stand of fir trees within such 2–mile radius shall be conserved for such religious purposes.
 
-([Pub. L. 93–531, § 20][/us/pl/93/531/s20], Dec. 22, 1974, [88 Stat. 1722][/us/stat/88/1722].)
+([Pub. L. 93–531][/us/pl/93/531], § 20, Dec. 22, 1974, [88 Stat. 1722][/us/stat/88/1722].)
 
 ----------
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/93/531/s20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F531%2Fs20
+[/us/pl/93/531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F531
 [/us/stat/88/1722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1722
 
 

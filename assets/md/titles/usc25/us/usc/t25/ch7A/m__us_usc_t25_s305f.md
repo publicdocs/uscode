@@ -23,7 +23,7 @@
 
         The Indian Arts and Crafts Board shall retain a permanent license to the use of images of the collection for promotional, economic development, educational and related nonprofit purposes. The Indian Arts and Crafts Board shall not be required to pay any royalty or fee for such license.
 
-([Aug. 27, 1935, ch. 748, § 7][/us/act/1935-08-27/ch748/s7], as added [Pub. L. 105–277, div. A, § 101(e)][/us/pl/105/277/s101/e] \[title III, § 356(a)\], Oct. 21, 1998, [112 Stat. 2681–231][/us/stat/112/2681-231], 2681–304.)
+([Aug. 27, 1935, ch. 748][/us/act/1935-08-27/ch748], § 7, as added [Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(e) \[title III, § 356(a)\], Oct. 21, 1998, [112 Stat. 2681–231][/us/stat/112/2681-231], 2681–304.)
 
 ----------
 
@@ -32,8 +32,8 @@
 ----------
 ----------
 
-[/us/act/1935-08-27/ch748/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-27%2Fch748%2Fs7
-[/us/pl/105/277/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fe
+[/us/act/1935-08-27/ch748]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-27%2Fch748
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-231
 
 

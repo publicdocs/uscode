@@ -17,7 +17,7 @@
 
     Except as provided in this subchapter, no provision of this subchapter shall be construed to constitute a jurisdictional act, to confer jurisdiction to sue, or to grant implied consent to any Indian, Indian nation, or tribe or band of Indians to sue the United States or any of its officers with respect to the claims extinguished by the operation of this subchapter.
 
-([Pub. L. 96–420, § 13][/us/pl/96/420/s13], Oct. 10, 1980, [94 Stat. 1797][/us/stat/94/1797].)
+([Pub. L. 96–420][/us/pl/96/420], § 13, Oct. 10, 1980, [94 Stat. 1797][/us/stat/94/1797].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/96/420/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F420%2Fs13
+[/us/pl/96/420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F420
 [/us/stat/94/1797]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1797
 
 

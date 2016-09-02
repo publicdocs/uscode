@@ -17,7 +17,7 @@
 
     The funds distributed under the provisions of this subchapter shall not be subject to Federal or State income taxes.
 
-([Pub. L. 91–283, § 4][/us/pl/91/283/s4], June 19, 1970, [84 Stat. 313][/us/stat/84/313].)
+([Pub. L. 91–283][/us/pl/91/283], § 4, June 19, 1970, [84 Stat. 313][/us/stat/84/313].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/91/283/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F283%2Fs4
+[/us/pl/91/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F283
 [/us/stat/84/313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F313
 
 

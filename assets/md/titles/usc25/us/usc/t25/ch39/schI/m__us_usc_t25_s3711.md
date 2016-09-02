@@ -63,7 +63,7 @@
 
         (2) Indian agriculture resource management plans developed and approved under this section shall govern the management and administration of Indian agricultural resources and Indian agricultural lands by the Bureau and the Indian tribal government.
 
-([Pub. L. 103–177, title I, § 101][/us/pl/103/177/s101], Dec. 3, 1993, [107 Stat. 2014][/us/stat/107/2014].)
+([Pub. L. 103–177, title I][/us/pl/103/177/tI], § 101, Dec. 3, 1993, [107 Stat. 2014][/us/stat/107/2014].)
 
  __References in Text__ 
 
@@ -77,7 +77,7 @@
 ----------
 
 [/us/usc/t25/s450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450
-[/us/pl/103/177/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F177%2Fs101
+[/us/pl/103/177/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F177%2FtI
 [/us/stat/107/2014]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2014
 [/us/pl/93/638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638
 [/us/stat/88/2203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2203

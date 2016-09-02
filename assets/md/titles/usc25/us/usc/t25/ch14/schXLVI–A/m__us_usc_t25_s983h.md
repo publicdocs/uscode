@@ -57,7 +57,7 @@
 
         (3) including any written comments or reports submitted to the Secretary by any individual named in paragraph (1).
 
-([Pub. L. 101–484, § 10][/us/pl/101/484/s10], Oct. 31, 1990, [104 Stat. 1169][/us/stat/104/1169]; [Pub. L. 102–497, § 2][/us/pl/102/497/s2], Oct. 24, 1992, [106 Stat. 3255][/us/stat/106/3255].)
+([Pub. L. 101–484][/us/pl/101/484], § 10, Oct. 31, 1990, [104 Stat. 1169][/us/stat/104/1169]; [Pub. L. 102–497][/us/pl/102/497], § 2, Oct. 24, 1992, [106 Stat. 3255][/us/stat/106/3255].)
 
  __Amendments__ 
 
@@ -70,9 +70,9 @@
 ----------
 ----------
 
-[/us/pl/101/484/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F484%2Fs10
+[/us/pl/101/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F484
 [/us/stat/104/1169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1169
-[/us/pl/102/497/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F497%2Fs2
+[/us/pl/102/497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F497
 [/us/stat/106/3255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3255
 [/us/pl/102/497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F497
 

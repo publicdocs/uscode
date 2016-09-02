@@ -107,7 +107,7 @@
 
         Subject to subsections (c), (f), and (h), nothing in this section diminishes or otherwise affects any authority or responsibility of the Secretary with respect to an interest in trust or restricted land.
 
-([Pub. L. 97–459, title II, § 221][/us/pl/97/459/s221], as added [Pub. L. 108–374, § 5][/us/pl/108/374/s5], Oct. 27, 2004, [118 Stat. 1795][/us/stat/118/1795]; amended [Pub. L. 110–453, title II, § 207(e)][/us/pl/110/453/s207/e], Dec. 2, 2008, [122 Stat. 5033][/us/stat/122/5033].)
+([Pub. L. 97–459, title II][/us/pl/97/459/tII], § 221, as added [Pub. L. 108–374][/us/pl/108/374], § 5, Oct. 27, 2004, [118 Stat. 1795][/us/stat/118/1795]; amended [Pub. L. 110–453, title II][/us/pl/110/453/tII], § 207(e), Dec. 2, 2008, [122 Stat. 5033][/us/stat/122/5033].)
 
  __References in Text__ 
 
@@ -126,10 +126,10 @@
 ----------
 ----------
 
-[/us/pl/97/459/s221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F459%2Fs221
-[/us/pl/108/374/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F374%2Fs5
+[/us/pl/97/459/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F459%2FtII
+[/us/pl/108/374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F374
 [/us/stat/118/1795]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1795
-[/us/pl/110/453/s207/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F453%2Fs207%2Fe
+[/us/pl/110/453/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F453%2FtII
 [/us/stat/122/5033]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F5033
 [/us/pl/108/374/s8/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F374%2Fs8%2Fa%2F4
 [/us/usc/t25/s2201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs2201

@@ -63,7 +63,7 @@
 
         (2) foster long-term stable international markets for Indian goods and services.
 
-([Pub. L. 106–464, § 5][/us/pl/106/464/s5], Nov. 7, 2000, [114 Stat. 2016][/us/stat/114/2016].)
+([Pub. L. 106–464][/us/pl/106/464], § 5, Nov. 7, 2000, [114 Stat. 2016][/us/stat/114/2016].)
 
 ----------
 
@@ -72,7 +72,7 @@
 ----------
 ----------
 
-[/us/pl/106/464/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F464%2Fs5
+[/us/pl/106/464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F464
 [/us/stat/114/2016]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2016
 
 

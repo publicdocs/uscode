@@ -17,7 +17,7 @@
 
     Sums payable under this subchapter to enrollees or their heirs or legatees who are less than eighteen years of age or who are under a legal disability shall be paid in accordance with such procedures, including the establishment of trusts, as the Secretary of the Interior determines appropriate to protect the best interests of such persons.
 
-([Pub. L. 92–253, § 3][/us/pl/92/253/s3], Mar. 17, 1972, [86 Stat. 64][/us/stat/86/64].)
+([Pub. L. 92–253][/us/pl/92/253], § 3, Mar. 17, 1972, [86 Stat. 64][/us/stat/86/64].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/92/253/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F253%2Fs3
+[/us/pl/92/253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F253
 [/us/stat/86/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F64
 
 

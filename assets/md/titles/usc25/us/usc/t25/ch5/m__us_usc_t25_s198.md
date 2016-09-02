@@ -17,7 +17,7 @@
 
     Whenever the Secretary of the Interior shall find any Indian afflicted with tuberculosis, trachoma, or other contagious or infectious diseases, he may, if in his judgment the health of the afflicted Indian or that of other persons require it, isolate or quarantine such afflicted Indian in a hospital or other place for treatment. The Secretary of the Interior may employ such means as may be necessary in the isolation, or quarantine, of such Indian, and it shall be the duty of such Indian so afflicted to obey any order or regulation made by the Secretary of the Interior in carrying out this provision.
 
-([Aug. 1, 1914, ch. 222, § 1][/us/act/1914-08-01/ch222/s1], [38 Stat. 584][/us/stat/38/584].)
+([Aug. 1, 1914, ch. 222][/us/act/1914-08-01/ch222], § 1, [38 Stat. 584][/us/stat/38/584].)
 
  __Transfer of Functions__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1914-08-01/ch222/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1914-08-01%2Fch222%2Fs1
+[/us/act/1914-08-01/ch222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1914-08-01%2Fch222
 [/us/stat/38/584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F584
 [/us/stat/64/1262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1262
 

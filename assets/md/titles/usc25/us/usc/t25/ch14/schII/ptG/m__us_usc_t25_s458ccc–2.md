@@ -47,7 +47,7 @@
 
         (2) provided on reimbursable cost basis.
 
-([Pub. L. 93–638, title VII, § 703][/us/pl/93/638/s703], as added [Pub. L. 111–211, title II, § 231(c)][/us/pl/111/211/s231/c], July 29, 2010, [124 Stat. 2277][/us/stat/124/2277].)
+([Pub. L. 93–638, title VII][/us/pl/93/638/tVII], § 703, as added [Pub. L. 111–211, title II][/us/pl/111/211/tII], § 231(c), July 29, 2010, [124 Stat. 2277][/us/stat/124/2277].)
 
 ----------
 
@@ -56,8 +56,8 @@
 ----------
 ----------
 
-[/us/pl/93/638/s703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638%2Fs703
-[/us/pl/111/211/s231/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211%2Fs231%2Fc
+[/us/pl/93/638/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638%2FtVII
+[/us/pl/111/211/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211%2FtII
 [/us/stat/124/2277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2277
 
 

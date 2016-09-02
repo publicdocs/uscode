@@ -17,7 +17,7 @@
 
     The State of California, excluding the counties of Alameda, Contra Costa, Los Angeles, Marin, Orange, Sacramento, San Francisco, San Mateo, Santa Clara, Kern, Merced, Monterey, Napa, San Benito, San Joaquin, San Luis Obispo, Santa Cruz, Solano, Stanislaus, and Ventura shall be designated as a contract health service delivery area by the Service for the purpose of providing contract health services to Indians in such State.
 
-([Pub. L. 94–437, title VIII, § 810][/us/pl/94/437/s810], formerly title VII, § 710, as added [Pub. L. 96–537, § 8(b)][/us/pl/96/537/s8/b], Dec. 17, 1980, [94 Stat. 3181][/us/stat/94/3181]; amended [Pub. L. 100–713, title VII, § 704][/us/pl/100/713/s704], Nov. 23, 1988, [102 Stat. 4828][/us/stat/102/4828]; renumbered title VIII, § 810, [Pub. L. 102–573, title VII, § 701(a)][/us/pl/102/573/s701/a], (b), Oct. 29, 1992, [106 Stat. 4572][/us/stat/106/4572].)
+([Pub. L. 94–437, title VIII][/us/pl/94/437/tVIII], § 810, formerly title VII, § 710, as added [Pub. L. 96–537][/us/pl/96/537], § 8(b), Dec. 17, 1980, [94 Stat. 3181][/us/stat/94/3181]; amended [Pub. L. 100–713, title VII][/us/pl/100/713/tVII], § 704, Nov. 23, 1988, [102 Stat. 4828][/us/stat/102/4828]; renumbered title VIII, § 810, [Pub. L. 102–573, title VII][/us/pl/102/573/tVII], § 701(a), (b), Oct. 29, 1992, [106 Stat. 4572][/us/stat/106/4572].)
 
  __Amendments__ 
 
@@ -30,12 +30,12 @@
 ----------
 ----------
 
-[/us/pl/94/437/s810]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437%2Fs810
-[/us/pl/96/537/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F537%2Fs8%2Fb
+[/us/pl/94/437/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437%2FtVIII
+[/us/pl/96/537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F537
 [/us/stat/94/3181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3181
-[/us/pl/100/713/s704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F713%2Fs704
+[/us/pl/100/713/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F713%2FtVII
 [/us/stat/102/4828]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4828
-[/us/pl/102/573/s701/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2Fs701%2Fa
+[/us/pl/102/573/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2FtVII
 [/us/stat/106/4572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4572
 [/us/pl/100/713]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F713
 

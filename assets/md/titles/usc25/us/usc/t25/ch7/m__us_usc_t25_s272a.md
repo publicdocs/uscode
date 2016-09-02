@@ -17,7 +17,7 @@
 
     The Superintendent of Indian schools shall perform such other duties as may be imposed upon him by the Commissioner of Indian Affairs, subject to the approval of the Secretary of the Interior.
 
-([Mar. 3, 1905, ch. 1479, § 1][/us/act/1905-03-03/ch1479/s1], [33 Stat. 1049][/us/stat/33/1049].)
+([Mar. 3, 1905, ch. 1479][/us/act/1905-03-03/ch1479], § 1, [33 Stat. 1049][/us/stat/33/1049].)
 
  __Transfer of Functions__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1905-03-03/ch1479/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1905-03-03%2Fch1479%2Fs1
+[/us/act/1905-03-03/ch1479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1905-03-03%2Fch1479
 [/us/stat/33/1049]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F33%2F1049
 [/us/stat/64/1262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1262
 

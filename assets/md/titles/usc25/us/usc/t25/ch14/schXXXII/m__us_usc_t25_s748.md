@@ -17,7 +17,7 @@
 
     The Secretary is authorized, in his discretion, to transfer to a tribe or any member or group of members thereof any federally owned property acquired, withdrawn, or used for the administration of the affairs of the tribe which he deems necessary for Indian use, or to transfer to a public or nonprofit body any such property which he deems necessary to public use and from which members of the tribes will derive benefit.
 
-([Sept. 1, 1954, ch. 1207, § 8][/us/act/1954-09-01/ch1207/s8], [68 Stat. 1102][/us/stat/68/1102].)
+([Sept. 1, 1954, ch. 1207][/us/act/1954-09-01/ch1207], § 8, [68 Stat. 1102][/us/stat/68/1102].)
 
  __Kanosh Indians, Utah__ 
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/act/1954-09-01/ch1207/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-09-01%2Fch1207%2Fs8
+[/us/act/1954-09-01/ch1207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-09-01%2Fch1207
 [/us/stat/68/1102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F1102
 [/us/act/1956-07-11/ch569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-07-11%2Fch569
 [/us/stat/70/528]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F528

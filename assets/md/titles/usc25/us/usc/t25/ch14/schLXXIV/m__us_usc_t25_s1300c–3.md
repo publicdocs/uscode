@@ -17,7 +17,7 @@
 
     The judgment fund, less funds otherwise provided in [section 1300c–1 of this title][/us/usc/t25/s1300c–1], shall be used as follows: 75 per centum thereof shall be distributed in equal per capita shares to each person who is enrolled or entitled to be enrolled on October 6, 1972; the remainder may be advanced, expended, invested, or reinvested for any purposes that are authorized by the tribal governing body and approved by the Secretary of the Interior. Sums payable to adult living enrollees or to adult heirs or legatees of deceased enrollees shall be paid directly to such persons. Sums payable to enrollees or their heirs or legatees who are less than eighteen years of age or who are under legal disability shall be paid in accordance with such procedures, including the establishment of trusts, as the Secretary of the Interior determines appropriate to protect the best interests of such persons.
 
-([Pub. L. 92–468, § 4][/us/pl/92/468/s4], Oct. 6, 1972, [86 Stat. 782][/us/stat/86/782].)
+([Pub. L. 92–468][/us/pl/92/468], § 4, Oct. 6, 1972, [86 Stat. 782][/us/stat/86/782].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t25/s1300c–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1300c%E2%80%931
-[/us/pl/92/468/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F468%2Fs4
+[/us/pl/92/468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F468
 [/us/stat/86/782]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F782
 
 

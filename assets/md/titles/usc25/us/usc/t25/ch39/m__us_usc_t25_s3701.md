@@ -25,11 +25,11 @@
 
     (4) development and management of Indian agricultural lands in accordance with integrated resource management plans will ensure proper management of Indian agricultural lands and will produce increased economic returns, enhance Indian self-determination, promote employment opportunities, and improve the social and economic well-being of Indian and surrounding communities.
 
-([Pub. L. 103–177, § 2][/us/pl/103/177/s2], Dec. 3, 1993, [107 Stat. 2011][/us/stat/107/2011].)
+([Pub. L. 103–177][/us/pl/103/177], § 2, Dec. 3, 1993, [107 Stat. 2011][/us/stat/107/2011].)
 
  __Short Title__ 
 
-[Pub. L. 103–177, § 1][/us/pl/103/177/s1], Dec. 3, 1993, [107 Stat. 2011][/us/stat/107/2011], provided that: 
+[Pub. L. 103–177][/us/pl/103/177], § 1, Dec. 3, 1993, [107 Stat. 2011][/us/stat/107/2011], provided that: 
 
 > “This Act \[enacting this chapter\] may be cited as the ‘American Indian Agricultural Resource Management Act’.”
 
@@ -40,9 +40,9 @@
 ----------
 ----------
 
-[/us/pl/103/177/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F177%2Fs2
+[/us/pl/103/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F177
 [/us/stat/107/2011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2011
-[/us/pl/103/177/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F177%2Fs1
+[/us/pl/103/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F177
 [/us/stat/107/2011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2011
 
 

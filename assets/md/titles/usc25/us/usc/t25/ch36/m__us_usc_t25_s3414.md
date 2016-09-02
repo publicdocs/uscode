@@ -17,7 +17,7 @@
 
     Nothing in this chapter shall be construed so as to interfere with the ability of the Secretary or the lead agency to fulfill the responsibilities for the safeguarding of Federal funds pursuant to the Single Audit Act of 1984 \[[31 U.S.C. 7501][/us/usc/t31/s7501] et seq.\].
 
-([Pub. L. 102–477, § 15][/us/pl/102/477/s15], Oct. 23, 1992, [106 Stat. 2305][/us/stat/106/2305].)
+([Pub. L. 102–477][/us/pl/102/477], § 15, Oct. 23, 1992, [106 Stat. 2305][/us/stat/106/2305].)
 
  __References in Text__ 
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t31/s7501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs7501
-[/us/pl/102/477/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F477%2Fs15
+[/us/pl/102/477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F477
 [/us/stat/106/2305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2305
 [/us/pl/98/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F502
 [/us/stat/98/2327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2327

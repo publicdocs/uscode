@@ -17,7 +17,7 @@
 
     In any case where State or Federal law applicable to a child custody proceeding under State or Federal law provides a higher standard of protection to the rights of the parent or Indian custodian of an Indian child than the rights provided under this subchapter, the State or Federal court shall apply the State or Federal standard.
 
-([Pub. L. 95–608, title I, § 111][/us/pl/95/608/s111], Nov. 8, 1978, [92 Stat. 3075][/us/stat/92/3075].)
+([Pub. L. 95–608, title I][/us/pl/95/608/tI], § 111, Nov. 8, 1978, [92 Stat. 3075][/us/stat/92/3075].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/95/608/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F608%2Fs111
+[/us/pl/95/608/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F608%2FtI
 [/us/stat/92/3075]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3075
 
 

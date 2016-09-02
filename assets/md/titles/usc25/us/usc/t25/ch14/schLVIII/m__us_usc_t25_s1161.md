@@ -17,7 +17,7 @@
 
     The Secretary of the Interior is authorized and directed to distribute and expend the funds on deposit in the Treasury of the United States to the credit of the Cheyenne-Arapaho Tribes of Oklahoma that were appropriated by the Act of October 31, 1965 ([79 Stat. 1133][/us/stat/79/1133]), in satisfaction of the settlement and compromise of claims of said tribes against the United States in the Indian Claims Commission in dockets numbered 329A and 329B, together with the interest accrued thereon, as herein provided.
 
-([Pub. L. 90–117, § 1][/us/pl/90/117/s1], Oct. 31, 1967, [81 Stat. 337][/us/stat/81/337].)
+([Pub. L. 90–117][/us/pl/90/117], § 1, Oct. 31, 1967, [81 Stat. 337][/us/stat/81/337].)
 
  __References in Text__ 
 
@@ -33,7 +33,7 @@
 ----------
 
 [/us/stat/79/1133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1133
-[/us/pl/90/117/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F117%2Fs1
+[/us/pl/90/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F117
 [/us/stat/81/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F337
 [/us/pl/89/309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F309
 [/us/stat/79/1133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1133

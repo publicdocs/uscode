@@ -17,7 +17,7 @@
 
     On at least an annual basis, the Secretary shall include along with other regular reports to owners of trust or restricted interests in land and individual Indian money account owners a change of name and address form by means of which the owner may confirm or update the owner’s name and address. The change of name and address form shall include a section in which the owner may confirm and update the owner’s name and address.
 
-([Pub. L. 97–459, title II, § 222][/us/pl/97/459/s222], as added [Pub. L. 108–374, § 7][/us/pl/108/374/s7], Oct. 27, 2004, [118 Stat. 1809][/us/stat/118/1809].)
+([Pub. L. 97–459, title II][/us/pl/97/459/tII], § 222, as added [Pub. L. 108–374][/us/pl/108/374], § 7, Oct. 27, 2004, [118 Stat. 1809][/us/stat/118/1809].)
 
 ----------
 
@@ -26,8 +26,8 @@
 ----------
 ----------
 
-[/us/pl/97/459/s222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F459%2Fs222
-[/us/pl/108/374/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F374%2Fs7
+[/us/pl/97/459/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F459%2FtII
+[/us/pl/108/374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F374
 [/us/stat/118/1809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1809
 
 

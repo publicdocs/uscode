@@ -17,7 +17,7 @@
 
     The existing periods of trust placed upon any Indian lands and any restriction on alienation thereof are extended and continued until otherwise directed by Congress.
 
-([June 18, 1934, ch. 576, § 2][/us/act/1934-06-18/ch576/s2], [48 Stat. 984][/us/stat/48/984].)
+([June 18, 1934, ch. 576][/us/act/1934-06-18/ch576], § 2, [48 Stat. 984][/us/stat/48/984].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1934-06-18/ch576/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-18%2Fch576%2Fs2
+[/us/act/1934-06-18/ch576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-18%2Fch576
 [/us/stat/48/984]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F984
 
 

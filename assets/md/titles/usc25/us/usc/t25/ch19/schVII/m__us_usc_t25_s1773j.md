@@ -33,7 +33,7 @@
 
     (8) the term “on-reservation status” means a status under which Federal laws and regulations, treaty rights, and rights of sovereignty, which define the rights and responsibilities on trust or restricted lands (including rights-of-way and easements running through such lands within a Federal Indian reservation) apply: Provided, That such application is not inconsistent with any provision of the Settlement Agreement.
 
-([Pub. L. 101–41, § 12][/us/pl/101/41/s12], June 21, 1989, [103 Stat. 89][/us/stat/103/89].)
+([Pub. L. 101–41][/us/pl/101/41], § 12, June 21, 1989, [103 Stat. 89][/us/stat/103/89].)
 
 ----------
 
@@ -42,7 +42,7 @@
 ----------
 ----------
 
-[/us/pl/101/41/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F41%2Fs12
+[/us/pl/101/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F41
 [/us/stat/103/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F89
 
 

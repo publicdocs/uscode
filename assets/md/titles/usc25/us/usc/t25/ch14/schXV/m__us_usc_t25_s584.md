@@ -17,7 +17,7 @@
 
     The remainder of the award shall be apportioned between the Shoshone-Bannock Tribes of the Fort Hall Reservation and the Shoshone Tribe of the Wind River Reservation in accordance with an agreement entered into between the Shoshone-Bannock Tribes and the Shoshone Tribe of the Wind River Reservation in May 1965, approved by the Associate Commissioner of Indian Affairs in December 1965.
 
-([Pub. L. 92–206, § 4][/us/pl/92/206/s4], Dec. 18, 1971, [85 Stat. 737][/us/stat/85/737].)
+([Pub. L. 92–206][/us/pl/92/206], § 4, Dec. 18, 1971, [85 Stat. 737][/us/stat/85/737].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/92/206/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F206%2Fs4
+[/us/pl/92/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F206
 [/us/stat/85/737]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F737
 
 

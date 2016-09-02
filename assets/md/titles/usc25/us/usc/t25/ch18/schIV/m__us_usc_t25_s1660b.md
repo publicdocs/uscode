@@ -23,7 +23,7 @@
 
     (3) continue to meet the requirements and definitions of an urban Indian organization in this chapter, and shall not be subject to the provisions of the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450][/us/usc/t25/s450] et seq.).
 
-([Pub. L. 94–437, title V, § 512][/us/pl/94/437/s512], as added [Pub. L. 102–573, title V, § 503][/us/pl/102/573/s503], Oct. 29, 1992, [106 Stat. 4569][/us/stat/106/4569]; amended [Pub. L. 105–256, § 4(b)][/us/pl/105/256/s4/b], Oct. 14, 1998, [112 Stat. 1897][/us/stat/112/1897]; [Pub. L. 111–148, title X, § 10221(a)][/us/pl/111/148/s10221/a], Mar. 23, 2010, [124 Stat. 935][/us/stat/124/935].)
+([Pub. L. 94–437, title V][/us/pl/94/437/tV], § 512, as added [Pub. L. 102–573, title V][/us/pl/102/573/tV], § 503, Oct. 29, 1992, [106 Stat. 4569][/us/stat/106/4569]; amended [Pub. L. 105–256][/us/pl/105/256], § 4(b), Oct. 14, 1998, [112 Stat. 1897][/us/stat/112/1897]; [Pub. L. 111–148, title X][/us/pl/111/148/tX], § 10221(a), Mar. 23, 2010, [124 Stat. 935][/us/stat/124/935].)
 
  __References in Text__ 
 
@@ -45,13 +45,13 @@
 
  __Permanent Programs Under the Direct Care Program of the Indian Health Service__ 
 
-[Pub. L. 108–447, div. E, title II][/us/pl/108/447], Dec. 8, 2004, [118 Stat. 3087][/us/stat/118/3087], provided in part that: 
+[Pub. L. 108–447, div. E, title II][/us/pl/108/447/dE/tII], Dec. 8, 2004, [118 Stat. 3087][/us/stat/118/3087], provided in part that: 
 
 > “Notwithstanding any other provision of law, the Tulsa and Oklahoma City Clinic demonstration projects shall be permanent programs under the direct care program of the Indian Health Service; shall be treated as service units and operating units in the allocation of resources and coordination of care; shall continue to meet the requirements applicable to an Urban Indian organization under this title \[title II of div. E of [Pub. L. 108–447][/us/pl/108/447], see Tables for classification\]; and shall not be subject to the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450][/us/usc/t25/s450] et seq.).”
 
  __Extension of Terms of Projects__ 
 
-    [Pub. L. 105–256, § 4(a)][/us/pl/105/256/s4/a], Oct. 14, 1998, [112 Stat. 1897][/us/stat/112/1897], provided for extension of terms of projects referred to in [section 1660b of this title][/us/usc/t25/s1660b] to Oct. 1, 2002.
+    [Pub. L. 105–256][/us/pl/105/256], § 4(a), Oct. 14, 1998, [112 Stat. 1897][/us/stat/112/1897], provided for extension of terms of projects referred to in [section 1660b of this title][/us/usc/t25/s1660b] to Oct. 1, 2002.
 
 ----------
 
@@ -61,12 +61,12 @@
 ----------
 
 [/us/usc/t25/s450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450
-[/us/pl/94/437/s512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437%2Fs512
-[/us/pl/102/573/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2Fs503
+[/us/pl/94/437/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437%2FtV
+[/us/pl/102/573/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2FtV
 [/us/stat/106/4569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4569
-[/us/pl/105/256/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F256%2Fs4%2Fb
+[/us/pl/105/256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F256
 [/us/stat/112/1897]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1897
-[/us/pl/111/148/s10221/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10221%2Fa
+[/us/pl/111/148/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtX
 [/us/stat/124/935]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F935
 [/us/pl/94/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437
 [/us/stat/90/1400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1400
@@ -79,11 +79,11 @@
 [/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 [/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 [/us/pl/105/256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F256
-[/us/pl/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447
+[/us/pl/108/447/dE/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2FdE%2FtII
 [/us/stat/118/3087]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3087
 [/us/pl/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447
 [/us/usc/t25/s450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450
-[/us/pl/105/256/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F256%2Fs4%2Fa
+[/us/pl/105/256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F256
 [/us/stat/112/1897]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1897
 [/us/usc/t25/s1660b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1660b
 

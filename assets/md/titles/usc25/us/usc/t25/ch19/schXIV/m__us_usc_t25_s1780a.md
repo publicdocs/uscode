@@ -23,7 +23,7 @@
 
         The respective parties to the Settlement Agreement and the Los Alamos Agreement are authorized, by mutual agreement, to correct errors in any legal description or maps, and to make minor modifications to those agreements.
 
-([Pub. L. 109–286, § 3][/us/pl/109/286/s3], Sept. 27, 2006, [120 Stat. 1219][/us/stat/120/1219].)
+([Pub. L. 109–286][/us/pl/109/286], § 3, Sept. 27, 2006, [120 Stat. 1219][/us/stat/120/1219].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/109/286/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F286%2Fs3
+[/us/pl/109/286]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F286
 [/us/stat/120/1219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1219
 
 

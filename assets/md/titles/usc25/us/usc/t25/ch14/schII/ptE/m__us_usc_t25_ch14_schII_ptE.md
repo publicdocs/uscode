@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    This part is comprised of title V of [Pub. L. 93–638][/us/pl/93/638], as added by [Pub. L. 106–260, § 4][/us/pl/106/260/s4], Aug. 18, 2000, [114 Stat. 712][/us/stat/114/712]. A former title V of [Pub. L. 93–638][/us/pl/93/638] was added by [Pub. L. 106–568, title XIII, § 1302][/us/pl/106/568/s1302], Dec. 27, 2000, [114 Stat. 2936][/us/stat/114/2936], was redesignated title VIII, and is classified to part H (§ 458ddd et seq.) of this subchapter.
+    This part is comprised of title V of [Pub. L. 93–638][/us/pl/93/638], as added by [Pub. L. 106–260][/us/pl/106/260], § 4, Aug. 18, 2000, [114 Stat. 712][/us/stat/114/712]. A former title V of [Pub. L. 93–638][/us/pl/93/638] was added by [Pub. L. 106–568, title XIII][/us/pl/106/568/tXIII], § 1302, Dec. 27, 2000, [114 Stat. 2936][/us/stat/114/2936], was redesignated title VIII, and is classified to part H (§ 458ddd et seq.) of this subchapter.
 
 ----------
 
@@ -27,10 +27,10 @@
 ----------
 
 [/us/pl/93/638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638
-[/us/pl/106/260/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F260%2Fs4
+[/us/pl/106/260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F260
 [/us/stat/114/712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F712
 [/us/pl/93/638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638
-[/us/pl/106/568/s1302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F568%2Fs1302
+[/us/pl/106/568/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F568%2FtXIII
 [/us/stat/114/2936]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2936
 
 

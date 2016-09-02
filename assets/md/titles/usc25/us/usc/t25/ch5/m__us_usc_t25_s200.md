@@ -17,7 +17,7 @@
 
     Whenever an Indian shall be incarcerated in an agency jail, or any other place of confinement, on an Indian reservation or at an Indian school, a report or record of the offense or case shall be immediately submitted to the superintendent of the reservation or such official or officials as he may designate, and such report shall be made a part of the records of the agency office.
 
-([Aug. 1, 1914, ch. 222, § 1][/us/act/1914-08-01/ch222/s1], [38 Stat. 586][/us/stat/38/586].)
+([Aug. 1, 1914, ch. 222][/us/act/1914-08-01/ch222], § 1, [38 Stat. 586][/us/stat/38/586].)
 
  __Transfer of Functions__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1914-08-01/ch222/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1914-08-01%2Fch222%2Fs1
+[/us/act/1914-08-01/ch222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1914-08-01%2Fch222
 [/us/stat/38/586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F586
 [/us/stat/64/1262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1262
 

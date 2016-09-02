@@ -47,7 +47,7 @@
 
             No payment or conveyance referred to in paragraph (1) shall be considered to be a taxable event.
 
-([Pub. L. 105–83, title VII, § 707][/us/pl/105/83/s707], Nov. 14, 1997, [111 Stat. 1626][/us/stat/111/1626].)
+([Pub. L. 105–83, title VII][/us/pl/105/83/tVII], § 707, Nov. 14, 1997, [111 Stat. 1626][/us/stat/111/1626].)
 
  __References in Text__ 
 
@@ -60,7 +60,7 @@
 ----------
 ----------
 
-[/us/pl/105/83/s707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F83%2Fs707
+[/us/pl/105/83/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F83%2FtVII
 [/us/stat/111/1626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1626
 [/us/pl/105/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F83
 

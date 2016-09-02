@@ -53,7 +53,7 @@
 
         All sales of tribal lands pursuant to subsection (b) of this section or pursuant to [section 564d of this title][/us/usc/t25/s564d] on which roads are located shall be made subject to the right of the United States and its assigns to maintain and use such roads.
 
-([Aug. 13, 1954, ch. 732, § 28][/us/act/1954-08-13/ch732/s28], as added [Pub. L. 85–731, § 1][/us/pl/85/731/s1], Aug. 23, 1958, [72 Stat. 816][/us/stat/72/816]; amended [Pub. L. 86–247][/us/pl/86/247], Sept. 9, 1959, [73 Stat. 477][/us/stat/73/477]; [Pub. L. 105–312, title II, § 205][/us/pl/105/312/s205], Oct. 30, 1998, [112 Stat. 2957][/us/stat/112/2957]; [Pub. L. 105–321, § 4(e)][/us/pl/105/321/s4/e], Oct. 30, 1998, [112 Stat. 3025][/us/stat/112/3025].)
+([Aug. 13, 1954, ch. 732][/us/act/1954-08-13/ch732], § 28, as added [Pub. L. 85–731][/us/pl/85/731], § 1, Aug. 23, 1958, [72 Stat. 816][/us/stat/72/816]; amended [Pub. L. 86–247][/us/pl/86/247], Sept. 9, 1959, [73 Stat. 477][/us/stat/73/477]; [Pub. L. 105–312, title II][/us/pl/105/312/tII], § 205, Oct. 30, 1998, [112 Stat. 2957][/us/stat/112/2957]; [Pub. L. 105–321][/us/pl/105/321], § 4(e), Oct. 30, 1998, [112 Stat. 3025][/us/stat/112/3025].)
 
  __References in Text__ 
 
@@ -95,14 +95,14 @@
 [/us/stat/48/451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F451
 [/us/usc/t16/s718d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs718d
 [/us/usc/t25/s564d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs564d
-[/us/act/1954-08-13/ch732/s28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-13%2Fch732%2Fs28
-[/us/pl/85/731/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F731%2Fs1
+[/us/act/1954-08-13/ch732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-13%2Fch732
+[/us/pl/85/731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F731
 [/us/stat/72/816]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F816
 [/us/pl/86/247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F247
 [/us/stat/73/477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F477
-[/us/pl/105/312/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F312%2Fs205
+[/us/pl/105/312/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F312%2FtII
 [/us/stat/112/2957]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2957
-[/us/pl/105/321/s4/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F321%2Fs4%2Fe
+[/us/pl/105/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F321
 [/us/stat/112/3025]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3025
 [/us/act/1911-03-01/ch186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-01%2Fch186
 [/us/stat/36/961]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F961

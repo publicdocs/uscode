@@ -17,7 +17,7 @@
 
     Subject to such conditions as the Secretary may prescribe, any Indian tribe which has withdrawn trust funds may choose to return any or all of the trust funds such tribe has withdrawn by notifying the Secretary in writing of its intention to return the funds to the control and management of the Secretary.
 
-([Pub. L. 103–412, title II, § 206][/us/pl/103/412/s206], Oct. 25, 1994, [108 Stat. 4243][/us/stat/108/4243].)
+([Pub. L. 103–412, title II][/us/pl/103/412/tII], § 206, Oct. 25, 1994, [108 Stat. 4243][/us/stat/108/4243].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/103/412/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F412%2Fs206
+[/us/pl/103/412/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F412%2FtII
 [/us/stat/108/4243]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4243
 
 

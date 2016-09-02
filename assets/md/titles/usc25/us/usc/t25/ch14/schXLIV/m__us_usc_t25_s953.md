@@ -47,7 +47,7 @@
 
         The unallotted portions of section 18, township 4 south, range 5 east, and section 12, township 4 south, range 4 east, that are in the municipal airport for the city of Palm Springs shall be subject to allotment as a part of the equalization program, subject to the following qualifications: If within thirty days after September 21, 1959, a majority of the adult members of the band who are eligible to vote agree, the Secretary may offer to sell such land to the city for its appraised value on September 21, 1959, and the Secretary shall cause an independent appraisal thereof to be made by an appraiser he shall select who shall be approved jointly by the band and the city before proceeding with such appraisal, the costs for the appraisal to be shared by the band and the city; thereafter the Secretary shall review the completed appraisal and shall, if approved, then submit copies to both the band and the city for their approval which shall be either accepted or rejected in writing within thirty days; and if within three hundred and sixty-five days after joint acceptance of such appraisal by the band and the city, the city accepts the offer and tenders payment in full, the Secretary shall complete the sale, and any allottees who may have made or who may thereafter make an equalization selection from the lands sold to the city shall receive in lieu of the allotment selected his proportionate share of the proceeds of the sale.
 
-([Pub. L. 86–339, § 3][/us/pl/86/339/s3], Sept. 21, 1959, [73 Stat. 602][/us/stat/73/602]; [Pub. L. 105–308, § 4(a)][/us/pl/105/308/s4/a], Oct. 30, 1998, [112 Stat. 2934][/us/stat/112/2934].)
+([Pub. L. 86–339][/us/pl/86/339], § 3, Sept. 21, 1959, [73 Stat. 602][/us/stat/73/602]; [Pub. L. 105–308][/us/pl/105/308], § 4(a), Oct. 30, 1998, [112 Stat. 2934][/us/stat/112/2934].)
 
  __References in Text__ 
 
@@ -68,9 +68,9 @@
 ----------
 ----------
 
-[/us/pl/86/339/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F339%2Fs3
+[/us/pl/86/339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F339
 [/us/stat/73/602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F602
-[/us/pl/105/308/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F308%2Fs4%2Fa
+[/us/pl/105/308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F308
 [/us/stat/112/2934]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2934
 [/us/pl/105/308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F308
 [/us/pl/105/308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F308

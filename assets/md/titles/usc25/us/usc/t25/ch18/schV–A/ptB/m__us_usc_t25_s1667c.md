@@ -141,7 +141,7 @@
 
             The Secretary, acting through the Administration, shall ensure that each affected entity carrying out a youth suicide early intervention and prevention strategy described in [section 290bb–36(c)(1) of title 42][/us/usc/t42/s290bb–36/c/1], or any other youth suicide-related early intervention and assessment activity, provides training or education to individuals who interact frequently with the Indian youth to be served by the affected entity (including parents, teachers, coaches, and mentors) on identifying warning signs of Indian youth who are at risk of committing suicide.
 
-([Pub. L. 94–437, title VII, § 724][/us/pl/94/437/s724], as added [Pub. L. 111–148, title X, § 10221(a)][/us/pl/111/148/s10221/a], Mar. 23, 2010, [124 Stat. 935][/us/stat/124/935].)
+([Pub. L. 94–437, title VII][/us/pl/94/437/tVII], § 724, as added [Pub. L. 111–148, title X][/us/pl/111/148/tX], § 10221(a), Mar. 23, 2010, [124 Stat. 935][/us/stat/124/935].)
 
  __Codification__ 
 
@@ -155,8 +155,8 @@
 ----------
 
 [/us/usc/t42/s290bb–36/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs290bb%E2%80%9336%2Fc%2F1
-[/us/pl/94/437/s724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437%2Fs724
-[/us/pl/111/148/s10221/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10221%2Fa
+[/us/pl/94/437/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437%2FtVII
+[/us/pl/111/148/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtX
 [/us/stat/124/935]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F935
 [/us/pl/94/437/s724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437%2Fs724
 [/us/pl/111/148/s10221/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10221%2Fa

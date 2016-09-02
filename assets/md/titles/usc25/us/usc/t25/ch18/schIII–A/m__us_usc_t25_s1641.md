@@ -81,7 +81,7 @@
 
         For provisions related to subsections (c) and (d), see sections 1880, 1911, and 2107(e)(1)(D) of the Social Security Act \[[42 U.S.C. 1395qq][/us/usc/t42/s1395qq], 1396j, 1397gg(e)(1)(D)\].
 
-([Pub. L. 94–437, title IV, § 401][/us/pl/94/437/s401], Sept. 30, 1976, [90 Stat. 1408][/us/stat/90/1408]; [Pub. L. 102–573, title IV, § 401(a)][/us/pl/102/573/s401/a], Oct. 29, 1992, [106 Stat. 4565][/us/stat/106/4565]; [Pub. L. 111–148, title X, § 10221(a)][/us/pl/111/148/s10221/a], Mar. 23, 2010, [124 Stat. 935][/us/stat/124/935].)
+([Pub. L. 94–437, title IV][/us/pl/94/437/tIV], § 401, Sept. 30, 1976, [90 Stat. 1408][/us/stat/90/1408]; [Pub. L. 102–573, title IV][/us/pl/102/573/tIV], § 401(a), Oct. 29, 1992, [106 Stat. 4565][/us/stat/106/4565]; [Pub. L. 111–148, title X][/us/pl/111/148/tX], § 10221(a), Mar. 23, 2010, [124 Stat. 935][/us/stat/124/935].)
 
  __References in Text__ 
 
@@ -120,11 +120,11 @@
 [/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
 [/us/usc/t25/s450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450
 [/us/usc/t42/s1395qq]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395qq
-[/us/pl/94/437/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437%2Fs401
+[/us/pl/94/437/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437%2FtIV
 [/us/stat/90/1408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1408
-[/us/pl/102/573/s401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2Fs401%2Fa
+[/us/pl/102/573/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2FtIV
 [/us/stat/106/4565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4565
-[/us/pl/111/148/s10221/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10221%2Fa
+[/us/pl/111/148/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtX
 [/us/stat/124/935]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F935
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620

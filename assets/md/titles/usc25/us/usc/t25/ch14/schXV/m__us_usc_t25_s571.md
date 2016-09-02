@@ -17,7 +17,7 @@
 
     The Secretary of the Interior is authorized and directed, with the advice and consent of the business council of the Shoshone Tribe of the Wind River Reservation in Wyoming, to prepare a roll showing the members of said tribe living on July 27, 1939, and such roll shall form the basis for the distribution of the judgment fund of said tribe created as the result of the passage of the Act of June 25, 1938 ([52 Stat. 1114–1156][/us/stat/52/1114-1156]), and accrued interest thereon.
 
-([July 27, 1939, ch. 387, § 1][/us/act/1939-07-27/ch387/s1], [53 Stat. 1128][/us/stat/53/1128].)
+([July 27, 1939, ch. 387][/us/act/1939-07-27/ch387], § 1, [53 Stat. 1128][/us/stat/53/1128].)
 
  __References in Text__ 
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/stat/52/1114-1156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F1114-1156
-[/us/act/1939-07-27/ch387/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-07-27%2Fch387%2Fs1
+[/us/act/1939-07-27/ch387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-07-27%2Fch387
 [/us/stat/53/1128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F1128
 
 

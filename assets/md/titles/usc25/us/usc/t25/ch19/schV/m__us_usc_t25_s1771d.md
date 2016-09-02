@@ -51,13 +51,13 @@
 
         Any spending authority (as defined in section 651(c)(2)  <sup>\[2\]</sup>  <sup><sup> 2 See References in Text note below. </sup></sup>  of title 2) provided in this section shall be effective for any fiscal year only to such extent or in such amounts as are provided in appropriation Acts.
 
-([Pub. L. 100–95, § 6][/us/pl/100/95/s6], Aug. 18, 1987, [101 Stat. 706][/us/stat/101/706].)
+([Pub. L. 100–95][/us/pl/100/95], § 6, Aug. 18, 1987, [101 Stat. 706][/us/stat/101/706].)
 
  __References in Text__ 
 
     For the effective date of this Act, referred to in subsec. (f), see [section 11 of Pub. L. 100–95][/us/pl/100/95/s11], set out as a note under [section 1771 of this title][/us/usc/t25/s1771].
 
-    [Section 651 of title 2][/us/usc/t2/s651], referred to in subsec. (h), was amended by [Pub. L. 105–33, title X, § 10116(a)(3)][/us/pl/105/33/s10116/a/3], (5), Aug. 5, 1997, [111 Stat. 691][/us/stat/111/691], by striking out subsec. (c) and redesignating former subsec. (d) as (c).
+    [Section 651 of title 2][/us/usc/t2/s651], referred to in subsec. (h), was amended by [Pub. L. 105–33, title X][/us/pl/105/33/tX], § 10116(a)(3), (5), Aug. 5, 1997, [111 Stat. 691][/us/stat/111/691], by striking out subsec. (c) and redesignating former subsec. (d) as (c).
 
 ----------
 
@@ -68,12 +68,12 @@
 
 [/us/usc/t25/s1771a/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1771a%2Fa
 [/us/usc/t25/s1771f/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1771f%2F7
-[/us/pl/100/95/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F95%2Fs6
+[/us/pl/100/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F95
 [/us/stat/101/706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F706
 [/us/pl/100/95/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F95%2Fs11
 [/us/usc/t25/s1771]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1771
 [/us/usc/t2/s651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs651
-[/us/pl/105/33/s10116/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs10116%2Fa%2F3
+[/us/pl/105/33/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2FtX
 [/us/stat/111/691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F691
 
 

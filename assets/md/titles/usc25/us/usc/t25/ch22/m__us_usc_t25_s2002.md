@@ -75,13 +75,13 @@
 
         No school in operation on or before July 1, 1999 (regardless of compliance or noncompliance with the standards established under this section), may be closed, transferred to another authority, or consolidated, and no program of such a school may be substantially curtailed, because the school failed to meet such standards.
 
-([Pub. L. 95–561, title XI, § 1122][/us/pl/95/561/s1122], as added [Pub. L. 107–110, title X, § 1042][/us/pl/107/110/s1042], Jan. 8, 2002, [115 Stat. 2018][/us/stat/115/2018].)
+([Pub. L. 95–561, title XI][/us/pl/95/561/tXI], § 1122, as added [Pub. L. 107–110, title X][/us/pl/107/110/tX], § 1042, Jan. 8, 2002, [115 Stat. 2018][/us/stat/115/2018].)
 
  __Prior Provisions__ 
 
-    A prior section 2002, [Pub. L. 95–561, title XI, § 1122][/us/pl/95/561/s1122], as added [Pub. L. 103–382, title III, § 381][/us/pl/103/382/s381], Oct. 20, 1994, [108 Stat. 3984][/us/stat/108/3984]; amended [Pub. L. 105–362, title VIII, § 801(c)(2)][/us/pl/105/362/s801/c/2], Nov. 10, 1998, [112 Stat. 3288][/us/stat/112/3288], related to national criteria for dormitory situations, prior to the general amendment of this chapter by [Pub. L. 107–110][/us/pl/107/110].
+    A prior section 2002, [Pub. L. 95–561, title XI][/us/pl/95/561/tXI], § 1122, as added [Pub. L. 103–382, title III][/us/pl/103/382/tIII], § 381, Oct. 20, 1994, [108 Stat. 3984][/us/stat/108/3984]; amended [Pub. L. 105–362, title VIII][/us/pl/105/362/tVIII], § 801(c)(2), Nov. 10, 1998, [112 Stat. 3288][/us/stat/112/3288], related to national criteria for dormitory situations, prior to the general amendment of this chapter by [Pub. L. 107–110][/us/pl/107/110].
 
-    Another prior section 2002, [Pub. L. 95–561, title XI, § 1122][/us/pl/95/561/s1122], Nov. 1, 1978, [92 Stat. 2318][/us/stat/92/2318]; [Pub. L. 96–46, § 2(b)(5)][/us/pl/96/46/s2/b/5], Aug. 6, 1979, [93 Stat. 341][/us/stat/93/341]; [Pub. L. 96–88, title III, § 301(a)(1)][/us/pl/96/88/s301/a/1], title V, § 507, Oct. 17, 1979, [93 Stat. 677][/us/stat/93/677], 692; [Pub. L. 100–297, title V, § 5105][/us/pl/100/297/s5105], Apr. 28, 1988, [102 Stat. 367][/us/stat/102/367], related to national criteria for dormitory situations, prior to the general amendment of this chapter by [Pub. L. 103–382][/us/pl/103/382].
+    Another prior section 2002, [Pub. L. 95–561, title XI][/us/pl/95/561/tXI], § 1122, Nov. 1, 1978, [92 Stat. 2318][/us/stat/92/2318]; [Pub. L. 96–46][/us/pl/96/46], § 2(b)(5), Aug. 6, 1979, [93 Stat. 341][/us/stat/93/341]; [Pub. L. 96–88, title III][/us/pl/96/88/tIII], § 301(a)(1), title V, § 507, Oct. 17, 1979, [93 Stat. 677][/us/stat/93/677], 692; [Pub. L. 100–297, title V][/us/pl/100/297/tV], § 5105, Apr. 28, 1988, [102 Stat. 367][/us/stat/102/367], related to national criteria for dormitory situations, prior to the general amendment of this chapter by [Pub. L. 103–382][/us/pl/103/382].
 
 ----------
 
@@ -91,22 +91,22 @@
 ----------
 
 [/us/usc/t25/s2017]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs2017
-[/us/pl/95/561/s1122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2Fs1122
-[/us/pl/107/110/s1042]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2Fs1042
+[/us/pl/95/561/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2FtXI
+[/us/pl/107/110/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2FtX
 [/us/stat/115/2018]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F2018
-[/us/pl/95/561/s1122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2Fs1122
-[/us/pl/103/382/s381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs381
+[/us/pl/95/561/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2FtXI
+[/us/pl/103/382/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2FtIII
 [/us/stat/108/3984]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3984
-[/us/pl/105/362/s801/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362%2Fs801%2Fc%2F2
+[/us/pl/105/362/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362%2FtVIII
 [/us/stat/112/3288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3288
 [/us/pl/107/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110
-[/us/pl/95/561/s1122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2Fs1122
+[/us/pl/95/561/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2FtXI
 [/us/stat/92/2318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2318
-[/us/pl/96/46/s2/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F46%2Fs2%2Fb%2F5
+[/us/pl/96/46]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F46
 [/us/stat/93/341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F341
-[/us/pl/96/88/s301/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs301%2Fa%2F1
+[/us/pl/96/88/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2FtIII
 [/us/stat/93/677]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F677
-[/us/pl/100/297/s5105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297%2Fs5105
+[/us/pl/100/297/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297%2FtV
 [/us/stat/102/367]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F367
 [/us/pl/103/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382
 

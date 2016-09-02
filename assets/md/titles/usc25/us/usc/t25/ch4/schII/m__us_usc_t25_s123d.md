@@ -17,7 +17,7 @@
 
     In addition to the tribal funds authorized to be expended by existing law, there is appropriated in fiscal year 1988 and thereafter to the Secretary of the Interior for the benefit of the tribes on whose behalf such funds were collected, not to exceed $1,000,000 in each fiscal year from tribal funds not otherwise available for expenditure.
 
-([Pub. L. 100–202, § 101(g)][/us/pl/100/202/s101/g] \[title I, § 100\], Dec. 22, 1987, [101 Stat. 1329–213][/us/stat/101/1329-213], 1329–230.)
+([Pub. L. 100–202][/us/pl/100/202], § 101(g) \[title I, § 100\], Dec. 22, 1987, [101 Stat. 1329–213][/us/stat/101/1329-213], 1329–230.)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/100/202/s101/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202%2Fs101%2Fg
+[/us/pl/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202
 [/us/stat/101/1329-213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1329-213
 
 

@@ -17,7 +17,7 @@
 
     For the purposes of this subchapter, the Secretary shall protect the rights of members of the tribe who are minors, non compos mentis, or, in the opinion of the Secretary, in need of assistance in conducting their affairs, by such means as he may deem adequate, but appointment of guardians pursuant to State laws, in any case, shall not be required until Federal supervision has terminated.
 
-([Aug. 27, 1954, ch. 1009, § 22][/us/act/1954-08-27/ch1009/s22], [68 Stat. 877][/us/stat/68/877].)
+([Aug. 27, 1954, ch. 1009][/us/act/1954-08-27/ch1009], § 22, [68 Stat. 877][/us/stat/68/877].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1954-08-27/ch1009/s22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-27%2Fch1009%2Fs22
+[/us/act/1954-08-27/ch1009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-27%2Fch1009
 [/us/stat/68/877]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F877
 
 

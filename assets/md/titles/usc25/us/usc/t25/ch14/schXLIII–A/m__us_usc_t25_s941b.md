@@ -39,7 +39,7 @@
 
         This subchapter shall not be construed to empower the Tribe with special jurisdiction or to deprive the State of jurisdiction other than as expressly provided by this subchapter or by the State Act. The jurisdiction and governmental powers of the Tribe shall be solely those set forth in this subchapter and the State Act.
 
-([Pub. L. 103–116, § 4][/us/pl/103/116/s4], Oct. 27, 1993, [107 Stat. 1121][/us/stat/107/1121].)
+([Pub. L. 103–116][/us/pl/103/116], § 4, Oct. 27, 1993, [107 Stat. 1121][/us/stat/107/1121].)
 
  __References in Text__ 
 
@@ -52,7 +52,7 @@
 ----------
 ----------
 
-[/us/pl/103/116/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F116%2Fs4
+[/us/pl/103/116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F116
 [/us/stat/107/1121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1121
 [/us/usc/t25/s941]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs941
 

@@ -17,11 +17,11 @@
 
     The Secretary of the Interior be, and he is empowered to grant rights-of-way for all purposes, subject to such conditions as he may prescribe, over and across any lands now or hereafter held in trust by the United States for individual Indians or Indian tribes, communities, bands, or nations, or any lands now or hereafter owned, subject to restrictions against alienation, by individual Indians or Indian tribes, communities, bands, or nations, including the lands belonging to the Pueblo Indians in New Mexico, and any other lands heretofore or hereafter acquired or set aside for the use and benefit of the Indians.
 
-([Feb. 5, 1948, ch. 45, § 1][/us/act/1948-02-05/ch45/s1], [62 Stat. 17][/us/stat/62/17].)
+([Feb. 5, 1948, ch. 45][/us/act/1948-02-05/ch45], § 1, [62 Stat. 17][/us/stat/62/17].)
 
  __Effective Date__ 
 
-    [Act Feb. 5, 1948, ch. 45, § 7][/us/act/1948-02-05/ch45/s7], [62 Stat. 18][/us/stat/62/18], provided that sections 323 to 328 should not become operative until 30 days after Feb. 5, 1948.
+    [Act Feb. 5, 1948, ch. 45][/us/act/1948-02-05/ch45], § 7, [62 Stat. 18][/us/stat/62/18], provided that sections 323 to 328 should not become operative until 30 days after Feb. 5, 1948.
 
  __Transfer of Functions__ 
 
@@ -34,9 +34,9 @@
 ----------
 ----------
 
-[/us/act/1948-02-05/ch45/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-02-05%2Fch45%2Fs1
+[/us/act/1948-02-05/ch45]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-02-05%2Fch45
 [/us/stat/62/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F17
-[/us/act/1948-02-05/ch45/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-02-05%2Fch45%2Fs7
+[/us/act/1948-02-05/ch45]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-02-05%2Fch45
 [/us/stat/62/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F18
 [/us/stat/93/1373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1373
 [/us/usc/t15/s719e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs719e

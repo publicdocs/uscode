@@ -17,7 +17,7 @@
 
     The Secretary of the Interior is authorized to make such land surveys and to execute such conveyancing instruments as he deems necessary to convey marketable and recordable title to the individual and tribal assets disposed of pursuant to this subchapter. Each grantee shall receive an unrestricted title to the property conveyed.
 
-([Pub. L. 87–629, § 5][/us/pl/87/629/s5], Sept. 5, 1962, [76 Stat. 430][/us/stat/76/430].)
+([Pub. L. 87–629][/us/pl/87/629], § 5, Sept. 5, 1962, [76 Stat. 430][/us/stat/76/430].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/87/629/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F629%2Fs5
+[/us/pl/87/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F629
 [/us/stat/76/430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F430
 
 

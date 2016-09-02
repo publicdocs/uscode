@@ -59,7 +59,7 @@
 
         There is authorized to be appropriated to carry out this section $2,700,000 for fiscal year 2010 and each fiscal year thereafter.
 
-([Pub. L. 94–437, title II, § 217][/us/pl/94/437/s217], as added [Pub. L. 102–573, title II, § 213][/us/pl/102/573/s213], Oct. 29, 1992, [106 Stat. 4555][/us/stat/106/4555]; amended [Pub. L. 111–148, title X, § 10221(a)][/us/pl/111/148/s10221/a], Mar. 23, 2010, [124 Stat. 935][/us/stat/124/935].)
+([Pub. L. 94–437, title II][/us/pl/94/437/tII], § 217, as added [Pub. L. 102–573, title II][/us/pl/102/573/tII], § 213, Oct. 29, 1992, [106 Stat. 4555][/us/stat/106/4555]; amended [Pub. L. 111–148, title X][/us/pl/111/148/tX], § 10221(a), Mar. 23, 2010, [124 Stat. 935][/us/stat/124/935].)
 
  __References in Text__ 
 
@@ -85,10 +85,10 @@
 ----------
 
 [/us/usc/t42/s254m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs254m
-[/us/pl/94/437/s217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437%2Fs217
-[/us/pl/102/573/s213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2Fs213
+[/us/pl/94/437/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437%2FtII
+[/us/pl/102/573/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2FtII
 [/us/stat/106/4555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4555
-[/us/pl/111/148/s10221/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10221%2Fa
+[/us/pl/111/148/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtX
 [/us/stat/124/935]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F935
 [/us/usc/t25/s1616j/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1616j%2Fb
 [/us/usc/t25/s1616g/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1616g%2Fb

@@ -17,7 +17,7 @@
 
     The indebtedness of the Alabama and Coushatta Tribes of Texas to the United States incurred under the provisions of the Act of May 29, 1928 ([45 Stat. 883][/us/stat/45/883], 900), is canceled, effective on the date of the proclamation to be issued in accordance with the provisions of [section 722 of this title][/us/usc/t25/s722].
 
-([Aug. 23, 1954, ch. 831, § 4][/us/act/1954-08-23/ch831/s4], [68 Stat. 769][/us/stat/68/769].)
+([Aug. 23, 1954, ch. 831][/us/act/1954-08-23/ch831], § 4, [68 Stat. 769][/us/stat/68/769].)
 
  __References in Text__ 
 
@@ -32,7 +32,7 @@
 
 [/us/stat/45/883]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F45%2F883
 [/us/usc/t25/s722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs722
-[/us/act/1954-08-23/ch831/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-23%2Fch831%2Fs4
+[/us/act/1954-08-23/ch831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-23%2Fch831
 [/us/stat/68/769]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F769
 [/us/act/1928-05-29/ch853]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-05-29%2Fch853
 [/us/stat/45/883]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F45%2F883

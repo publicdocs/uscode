@@ -27,11 +27,11 @@
 
         The Secretary of the Interior is authorized and directed to distribute among the persons entitled thereto the funds appropriated by chapter XII of the Third Supplemental Appropriation Act, 1952 ([66 Stat. 101][/us/stat/66/101], 121), in payment of the judgment entered by the Indian Claims Commission in favor of the Loyal Creek Band or Group of Creek Indians et al., Docket No. 1. Such funds shall be paid to those persons whose names appear on the payroll prepared pursuant to the Act of March 3, 1903 ([32 Stat. 982][/us/stat/32/982], 994), by J. Blair Schoenfelt, United States Indian Agent, or to their heirs or legatees, on a pro rata basis in proportion to the amounts appearing opposite their names on such payroll.
 
-([Aug. 1, 1955, ch. 444, § 2][/us/act/1955-08-01/ch444/s2], [69 Stat. 431][/us/stat/69/431].)
+([Aug. 1, 1955, ch. 444][/us/act/1955-08-01/ch444], § 2, [69 Stat. 431][/us/stat/69/431].)
 
  __References in Text__ 
 
-    [Section 18 of the Act of June 30, 1919][/us/act/1919-06-30/s18], referred to in subsec. (a), is [act June 30, 1919, ch. 4, § 18][/us/act/1919-06-30/ch4/s18], [41 Stat. 21][/us/stat/41/21], which is set out as a note under [section 375 of this title][/us/usc/t25/s375].
+    [Section 18 of the Act of June 30, 1919][/us/act/1919-06-30/s18], referred to in subsec. (a), is [act June 30, 1919, ch. 4][/us/act/1919-06-30/ch4], § 18, [41 Stat. 21][/us/stat/41/21], which is set out as a note under [section 375 of this title][/us/usc/t25/s375].
 
     Act of April 26, 1906, referred to in subsec. (b), is [act Apr. 26, 1906, ch. 1876][/us/act/1906-04-26/ch1876], [34 Stat. 137][/us/stat/34/137], which is set out as a note under [section 355 of this title][/us/usc/t25/s355].
 
@@ -52,10 +52,10 @@
 [/us/stat/34/137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F34%2F137
 [/us/stat/66/101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F101
 [/us/stat/32/982]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F32%2F982
-[/us/act/1955-08-01/ch444/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-01%2Fch444%2Fs2
+[/us/act/1955-08-01/ch444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-01%2Fch444
 [/us/stat/69/431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F431
 [/us/act/1919-06-30/s18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1919-06-30%2Fs18
-[/us/act/1919-06-30/ch4/s18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1919-06-30%2Fch4%2Fs18
+[/us/act/1919-06-30/ch4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1919-06-30%2Fch4
 [/us/stat/41/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F21
 [/us/usc/t25/s375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs375
 [/us/act/1906-04-26/ch1876]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1906-04-26%2Fch1876

@@ -17,7 +17,7 @@
 
     After consultation with the Attorney General of the United States, the Secretary may prescribe under this chapter regulations relating to the enforcement of criminal laws of the United States and regulations relating to the consideration of applications for contracts awarded under the Indian Self-Determination Act \[[25 U.S.C. 450f][/us/usc/t25/s450f] et seq.\] to perform the functions of the Branch of Criminal Investigations.
 
-([Pub. L. 101–379, § 6][/us/pl/101/379/s6], Aug. 18, 1990, [104 Stat. 476][/us/stat/104/476].)
+([Pub. L. 101–379][/us/pl/101/379], § 6, Aug. 18, 1990, [104 Stat. 476][/us/stat/104/476].)
 
  __References in Text__ 
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t25/s450f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450f
-[/us/pl/101/379/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F379%2Fs6
+[/us/pl/101/379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F379
 [/us/stat/104/476]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F476
 [/us/pl/93/638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638
 [/us/stat/88/2206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2206

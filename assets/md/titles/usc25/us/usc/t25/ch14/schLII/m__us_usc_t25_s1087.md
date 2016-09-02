@@ -17,7 +17,7 @@
 
     Any part of the funds that may be distributed to individual members of the Quileute and Hoh Tribes under the provisions of this subchapter shall not be subject to Federal or State income taxes.
 
-([Pub. L. 89–655, § 7][/us/pl/89/655/s7], Oct. 14, 1966, [80 Stat. 906][/us/stat/80/906].)
+([Pub. L. 89–655][/us/pl/89/655], § 7, Oct. 14, 1966, [80 Stat. 906][/us/stat/80/906].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/89/655/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F655%2Fs7
+[/us/pl/89/655]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F655
 [/us/stat/80/906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F906
 
 

@@ -17,7 +17,7 @@
 
     No part of any of the funds which may be so distributed shall be subject to any lien, debt, or claim of any nature whatsoever against the tribe or individual Indians except delinquent debts owed by the tribe to the United States, or owed by individual Indians to the tribe or to the United States.
 
-([Pub. L. 87–775, § 5][/us/pl/87/775/s5], Oct. 9, 1962, [76 Stat. 776][/us/stat/76/776].)
+([Pub. L. 87–775][/us/pl/87/775], § 5, Oct. 9, 1962, [76 Stat. 776][/us/stat/76/776].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/87/775/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F775%2Fs5
+[/us/pl/87/775]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F775
 [/us/stat/76/776]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F776
 
 

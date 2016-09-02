@@ -17,7 +17,7 @@
 
     The Secretary of the Interior is authorized, in his discretion, from time to time, to designate any individual Indian belonging to any tribe or tribes whom he may deem to be capable of managing his or her affairs, and he may cause to be apportioned and allotted to any such Indian his or her pro rata share of any tribal or trust funds on deposit in the Treasury of the United States to the credit of the tribe or tribes of which said Indian is a member, and the amount so apportioned and allotted shall be placed to the credit of such Indian upon the books of the Treasury, and the same shall thereupon be subject to the order of such Indian: Provided, That no apportionment or allotment shall be made to any Indian until such Indian has first made an application therefor: Provided further, That the Secretaries of the Interior and of the Treasury are directed to withhold from such apportionment and allotment a sufficient sum of the said Indian funds as may be necessary or required to pay any existing claims against said Indians that may be pending for settlement by judicial determination in the United States Court of Federal Claims or in the Executive Departments of the Government, at time of such apportionment and allotment.
 
-([Mar. 2, 1907, ch. 2523, § 1][/us/act/1907-03-02/ch2523/s1], [34 Stat. 1221][/us/stat/34/1221]; [Pub. L. 97–164, title I, § 160(a)(7)][/us/pl/97/164/s160/a/7], Apr. 2, 1982, [96 Stat. 48][/us/stat/96/48]; [Pub. L. 102–572, title IX, § 902(b)(1)][/us/pl/102/572/s902/b/1], Oct. 29, 1992, [106 Stat. 4516][/us/stat/106/4516].)
+([Mar. 2, 1907, ch. 2523][/us/act/1907-03-02/ch2523], § 1, [34 Stat. 1221][/us/stat/34/1221]; [Pub. L. 97–164, title I][/us/pl/97/164/tI], § 160(a)(7), Apr. 2, 1982, [96 Stat. 48][/us/stat/96/48]; [Pub. L. 102–572, title IX][/us/pl/102/572/tIX], § 902(b)(1), Oct. 29, 1992, [106 Stat. 4516][/us/stat/106/4516].)
 
  __Amendments__ 
 
@@ -44,11 +44,11 @@
 ----------
 ----------
 
-[/us/act/1907-03-02/ch2523/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1907-03-02%2Fch2523%2Fs1
+[/us/act/1907-03-02/ch2523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1907-03-02%2Fch2523
 [/us/stat/34/1221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F34%2F1221
-[/us/pl/97/164/s160/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164%2Fs160%2Fa%2F7
+[/us/pl/97/164/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164%2FtI
 [/us/stat/96/48]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F48
-[/us/pl/102/572/s902/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2Fs902%2Fb%2F1
+[/us/pl/102/572/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2FtIX
 [/us/stat/106/4516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4516
 [/us/pl/102/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572
 [/us/pl/97/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164

@@ -17,7 +17,7 @@
 
     The State shall exercise criminal and civil jurisdiction within the boundaries of the reservation, in accordance with [section 1162 of title 18][/us/usc/t18/s1162] and [section 1360 of title 28][/us/usc/t28/s1360], respectively.
 
-([Pub. L. 99–398, § 7][/us/pl/99/398/s7], Aug. 27, 1986, [100 Stat. 850][/us/stat/100/850].)
+([Pub. L. 99–398][/us/pl/99/398], § 7, Aug. 27, 1986, [100 Stat. 850][/us/stat/100/850].)
 
 ----------
 
@@ -28,7 +28,7 @@
 
 [/us/usc/t18/s1162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1162
 [/us/usc/t28/s1360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1360
-[/us/pl/99/398/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F398%2Fs7
+[/us/pl/99/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F398
 [/us/stat/100/850]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F850
 
 

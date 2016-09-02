@@ -17,7 +17,7 @@
 
     Upon application by an Indian individual who has reached the age of eighteen and who was the subject of an adoptive placement, the court which entered the final decree shall inform such individual of the tribal affiliation, if any, of the individual’s biological parents and provide such other information as may be necessary to protect any rights flowing from the individual’s tribal relationship.
 
-([Pub. L. 95–608, title I, § 107][/us/pl/95/608/s107], Nov. 8, 1978, [92 Stat. 3073][/us/stat/92/3073].)
+([Pub. L. 95–608, title I][/us/pl/95/608/tI], § 107, Nov. 8, 1978, [92 Stat. 3073][/us/stat/92/3073].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/95/608/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F608%2Fs107
+[/us/pl/95/608/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F608%2FtI
 [/us/stat/92/3073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3073
 
 

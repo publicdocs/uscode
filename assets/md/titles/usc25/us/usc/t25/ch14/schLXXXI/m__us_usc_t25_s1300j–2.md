@@ -17,7 +17,7 @@
 
     Notwithstanding any other provision of law, the Band and its members shall be eligible, on and after September 21, 1994, for all Federal services and benefits furnished to federally recognized Indian tribes without regard to the existence of a reservation for the Band or the location of the residence of any member on or near an Indian reservation.
 
-([Pub. L. 103–323, § 3][/us/pl/103/323/s3], Sept. 21, 1994, [108 Stat. 2153][/us/stat/108/2153].)
+([Pub. L. 103–323][/us/pl/103/323], § 3, Sept. 21, 1994, [108 Stat. 2153][/us/stat/108/2153].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/103/323/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F323%2Fs3
+[/us/pl/103/323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F323
 [/us/stat/108/2153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2153
 
 

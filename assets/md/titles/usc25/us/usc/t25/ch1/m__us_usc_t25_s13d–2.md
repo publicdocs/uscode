@@ -39,7 +39,7 @@
 
         This section does not alter any eligibility requirement for general assistance from the Bureau of Indian Affairs other than the requirement to be available for employment and to seek employment.
 
-([Pub. L. 100–297, title V, § 5404][/us/pl/100/297/s5404], Apr. 28, 1988, [102 Stat. 416][/us/stat/102/416]; [Pub. L. 105–244, title IX, § 901(d)][/us/pl/105/244/s901/d], Oct. 7, 1998, [112 Stat. 1828][/us/stat/112/1828]; [Pub. L. 107–110, title X, § 1045][/us/pl/107/110/s1045], Jan. 8, 2002, [115 Stat. 2080][/us/stat/115/2080]; [Pub. L. 110–315, title IX, § 941(k)(2)(G)][/us/pl/110/315/s941/k/2/G], Aug. 14, 2008, [122 Stat. 3466][/us/stat/122/3466].)
+([Pub. L. 100–297, title V][/us/pl/100/297/tV], § 5404, Apr. 28, 1988, [102 Stat. 416][/us/stat/102/416]; [Pub. L. 105–244, title IX][/us/pl/105/244/tIX], § 901(d), Oct. 7, 1998, [112 Stat. 1828][/us/stat/112/1828]; [Pub. L. 107–110, title X][/us/pl/107/110/tX], § 1045, Jan. 8, 2002, [115 Stat. 2080][/us/stat/115/2080]; [Pub. L. 110–315, title IX][/us/pl/110/315/tIX], § 941(k)(2)(G), Aug. 14, 2008, [122 Stat. 3466][/us/stat/122/3466].)
 
  __References in Text__ 
 
@@ -53,9 +53,9 @@
 
     2008—Subsec. (a)(1). [Pub. L. 110–315][/us/pl/110/315] substituted “the Tribally Controlled Colleges and Universities Assistance Act of 1978” for “the Tribally Controlled College or University Assistance Act of 1978”.
 
-    2002—Subsec. (a). [Pub. L. 107–110, § 1045(1)][/us/pl/107/110/s1045/1], added subsec. heading and introductory provisions and struck out former subsec. heading and introductory provisions. Former introductory provisions read as follows: “The Secretary of the Interior shall not disqualify from continued receipt of general assistance payments from the Bureau of Indian Affairs an otherwise eligible Indian for whom the Bureau has been making general assistance payments for at least 3 months (or exclude such an individual from continued consideration in determining the amount of general assistance payments for a household) because the individual is enrolled (and is making satisfactory progress toward completion of a program or training that can reasonably be expected to lead to gainful employment) for at least half-time study or training in—”.
+    2002—Subsec. (a). [Pub. L. 107–110][/us/pl/107/110], § 1045(1), added subsec. heading and introductory provisions and struck out former subsec. heading and introductory provisions. Former introductory provisions read as follows: “The Secretary of the Interior shall not disqualify from continued receipt of general assistance payments from the Bureau of Indian Affairs an otherwise eligible Indian for whom the Bureau has been making general assistance payments for at least 3 months (or exclude such an individual from continued consideration in determining the amount of general assistance payments for a household) because the individual is enrolled (and is making satisfactory progress toward completion of a program or training that can reasonably be expected to lead to gainful employment) for at least half-time study or training in—”.
 
-    Subsec. (a)(4). [Pub. L. 107–110, § 1045(2)][/us/pl/107/110/s1045/2], added par. (4) and struck out former par. (4) which read as follows: “other programs or training approved by the Secretary.”
+    Subsec. (a)(4). [Pub. L. 107–110][/us/pl/107/110], § 1045(2), added par. (4) and struck out former par. (4) which read as follows: “other programs or training approved by the Secretary.”
 
     1998—Subsec. (a)(1). [Pub. L. 105–244][/us/pl/105/244] substituted “Tribally Controlled College or University Assistance Act of 1978” for “Tribally Controlled Community College Assistance Act of 1978”.
 
@@ -84,13 +84,13 @@
 [/us/usc/t25/s640a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs640a
 [/us/usc/t20/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1001
 [/us/usc/t42/s2751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2751
-[/us/pl/100/297/s5404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297%2Fs5404
+[/us/pl/100/297/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297%2FtV
 [/us/stat/102/416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F416
-[/us/pl/105/244/s901/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs901%2Fd
+[/us/pl/105/244/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtIX
 [/us/stat/112/1828]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1828
-[/us/pl/107/110/s1045]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2Fs1045
+[/us/pl/107/110/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2FtX
 [/us/stat/115/2080]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F2080
-[/us/pl/110/315/s941/k/2/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs941%2Fk%2F2%2FG
+[/us/pl/110/315/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtIX
 [/us/stat/122/3466]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3466
 [/us/pl/95/471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F471
 [/us/stat/92/1325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1325
@@ -102,8 +102,8 @@
 [/us/stat/79/1219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1219
 [/us/usc/t20/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1001
 [/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
-[/us/pl/107/110/s1045/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2Fs1045%2F1
-[/us/pl/107/110/s1045/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2Fs1045%2F2
+[/us/pl/107/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110
+[/us/pl/107/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
 [/us/pl/107/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110
 [/us/pl/107/110/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2Fs5

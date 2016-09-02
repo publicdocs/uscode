@@ -31,7 +31,7 @@
 
         (2) the Secretary, in consultation with the tribe, may review the Tribal Membership Roll.
 
-([Pub. L. 100–89, title I, § 108][/us/pl/100/89/s108], Aug. 18, 1987, [101 Stat. 669][/us/stat/101/669]; [Pub. L. 112–157, § 1][/us/pl/112/157/s1], Aug. 10, 2012, [126 Stat. 1213][/us/stat/126/1213].)
+([Pub. L. 100–89, title I][/us/pl/100/89/tI], § 108, Aug. 18, 1987, [101 Stat. 669][/us/stat/101/669]; [Pub. L. 112–157][/us/pl/112/157], § 1, Aug. 10, 2012, [126 Stat. 1213][/us/stat/126/1213].)
 
  __Amendments__ 
 
@@ -48,9 +48,9 @@
 ----------
 ----------
 
-[/us/pl/100/89/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F89%2Fs108
+[/us/pl/100/89/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F89%2FtI
 [/us/stat/101/669]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F669
-[/us/pl/112/157/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F157%2Fs1
+[/us/pl/112/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F157
 [/us/stat/126/1213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1213
 [/us/pl/112/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F157
 

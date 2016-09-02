@@ -17,7 +17,7 @@
 
     For the purpose of assisting in the economic advancement and contributing to the general welfare of the Hopi Indian Tribe of Arizona, the Congress hereby finds it to be fitting and appropriate to provide the Hopi Tribal Council with certain powers of self-determination that are necessary to enable the Hopi people to carry out the effective development and operation of the Hopi Industrial Park, which is located in the counties of Navajo and Coconino in the State of Arizona.
 
-([Pub. L. 91–264, § 1][/us/pl/91/264/s1], May 22, 1970, [84 Stat. 260][/us/stat/84/260].)
+([Pub. L. 91–264][/us/pl/91/264], § 1, May 22, 1970, [84 Stat. 260][/us/stat/84/260].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/91/264/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F264%2Fs1
+[/us/pl/91/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F264
 [/us/stat/84/260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F260
 
 

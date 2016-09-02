@@ -41,7 +41,7 @@
 
         The provisions of this Act shall supersede any conflicting provisions of law (including any conflicting regulations) in effect on the day before the date of enactment of this Act and the Secretary is authorized to repeal any regulation inconsistent with the provisions of this Act.
 
-([Pub. L. 95–561, title XI, § 1137][/us/pl/95/561/s1137], as added [Pub. L. 107–110, title X, § 1042][/us/pl/107/110/s1042], Jan. 8, 2002, [115 Stat. 2056][/us/stat/115/2056].)
+([Pub. L. 95–561, title XI][/us/pl/95/561/tXI], § 1137, as added [Pub. L. 107–110, title X][/us/pl/107/110/tX], § 1042, Jan. 8, 2002, [115 Stat. 2056][/us/stat/115/2056].)
 
  __References in Text__ 
 
@@ -49,9 +49,9 @@
 
  __Prior Provisions__ 
 
-    A prior section 2017, [Pub. L. 95–561, title XI, § 1137][/us/pl/95/561/s1137], as added [Pub. L. 103–382, title III, § 381][/us/pl/103/382/s381], Oct. 20, 1994, [108 Stat. 4011][/us/stat/108/4011]; amended [Pub. L. 105–244, title IX, § 901(d)][/us/pl/105/244/s901/d], Oct. 7, 1998, [112 Stat. 1828][/us/stat/112/1828]; [Pub. L. 105–362, title VIII, § 801(c)(4)][/us/pl/105/362/s801/c/4], Nov. 10, 1998, [112 Stat. 3288][/us/stat/112/3288], related to biennial report, prior to the general amendment of this chapter by [Pub. L. 107–110][/us/pl/107/110]. See [section 2015 of this title][/us/usc/t25/s2015].
+    A prior section 2017, [Pub. L. 95–561, title XI][/us/pl/95/561/tXI], § 1137, as added [Pub. L. 103–382, title III][/us/pl/103/382/tIII], § 381, Oct. 20, 1994, [108 Stat. 4011][/us/stat/108/4011]; amended [Pub. L. 105–244, title IX][/us/pl/105/244/tIX], § 901(d), Oct. 7, 1998, [112 Stat. 1828][/us/stat/112/1828]; [Pub. L. 105–362, title VIII][/us/pl/105/362/tVIII], § 801(c)(4), Nov. 10, 1998, [112 Stat. 3288][/us/stat/112/3288], related to biennial report, prior to the general amendment of this chapter by [Pub. L. 107–110][/us/pl/107/110]. See [section 2015 of this title][/us/usc/t25/s2015].
 
-    Another prior section 2017, [Pub. L. 95–561, title XI, § 1137][/us/pl/95/561/s1137], Nov. 1, 1978, [92 Stat. 2327][/us/stat/92/2327], related to constitutional and civil rights of Indian children attending Bureau schools, prior to the general amendment of this chapter by [Pub. L. 103–382][/us/pl/103/382].
+    Another prior section 2017, [Pub. L. 95–561, title XI][/us/pl/95/561/tXI], § 1137, Nov. 1, 1978, [92 Stat. 2327][/us/stat/92/2327], related to constitutional and civil rights of Indian children attending Bureau schools, prior to the general amendment of this chapter by [Pub. L. 103–382][/us/pl/103/382].
 
 ----------
 
@@ -61,22 +61,22 @@
 ----------
 
 [/us/usc/t25/s2510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs2510
-[/us/pl/95/561/s1137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2Fs1137
-[/us/pl/107/110/s1042]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2Fs1042
+[/us/pl/95/561/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2FtXI
+[/us/pl/107/110/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2FtX
 [/us/stat/115/2056]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F2056
 [/us/pl/95/561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561
 [/us/stat/92/2143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2143
 [/us/usc/t20/s6301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6301
-[/us/pl/95/561/s1137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2Fs1137
-[/us/pl/103/382/s381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs381
+[/us/pl/95/561/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2FtXI
+[/us/pl/103/382/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2FtIII
 [/us/stat/108/4011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4011
-[/us/pl/105/244/s901/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs901%2Fd
+[/us/pl/105/244/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtIX
 [/us/stat/112/1828]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1828
-[/us/pl/105/362/s801/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362%2Fs801%2Fc%2F4
+[/us/pl/105/362/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362%2FtVIII
 [/us/stat/112/3288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3288
 [/us/pl/107/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110
 [/us/usc/t25/s2015]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs2015
-[/us/pl/95/561/s1137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2Fs1137
+[/us/pl/95/561/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2FtXI
 [/us/stat/92/2327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2327
 [/us/pl/103/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382
 

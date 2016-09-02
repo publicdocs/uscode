@@ -17,7 +17,7 @@
 
     The Commission may secure from any department or agency of the United States information necessary to enable it to carry out this chapter. Upon the request of the Chairman, the head of such department or agency shall furnish such information to the Commission, unless otherwise prohibited by law.
 
-([Pub. L. 100–497, § 9][/us/pl/100/497/s9], Oct. 17, 1988, [102 Stat. 2472][/us/stat/102/2472].)
+([Pub. L. 100–497][/us/pl/100/497], § 9, Oct. 17, 1988, [102 Stat. 2472][/us/stat/102/2472].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/100/497/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F497%2Fs9
+[/us/pl/100/497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F497
 [/us/stat/102/2472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2472
 [/us/pl/100/497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F497
 [/us/stat/102/2467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2467

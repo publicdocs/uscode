@@ -59,15 +59,15 @@
 
         No person whose name is not included on the Settlement Roll shall have any interest in the tribal, communal, or unallotted land, property, resources, or rights within, or appertaining to, the Hoopa Valley Tribe, the Hoopa Valley Reservation, the Yurok Tribe, or the Yurok Reservation or in the Settlement Fund unless such person is subsequently enrolled in the Hoopa Valley Tribe or the Yurok Tribe under the membership criteria and ordinances of such tribes.
 
-([Pub. L. 100–580, § 5][/us/pl/100/580/s5], Oct. 31, 1988, [102 Stat. 2928][/us/stat/102/2928]; [Pub. L. 101–301, § 9(1)][/us/pl/101/301/s9/1], (2), May 24, 1990, [104 Stat. 210][/us/stat/104/210]; [Pub. L. 102–572, title IX, § 902(b)(1)][/us/pl/102/572/s902/b/1], Oct. 29, 1992, [106 Stat. 4516][/us/stat/106/4516].)
+([Pub. L. 100–580][/us/pl/100/580], § 5, Oct. 31, 1988, [102 Stat. 2928][/us/stat/102/2928]; [Pub. L. 101–301][/us/pl/101/301], § 9(1), (2), May 24, 1990, [104 Stat. 210][/us/stat/104/210]; [Pub. L. 102–572, title IX][/us/pl/102/572/tIX], § 902(b)(1), Oct. 29, 1992, [106 Stat. 4516][/us/stat/106/4516].)
 
  __Amendments__ 
 
     1992—Subsec. (a)(2). [Pub. L. 102–572][/us/pl/102/572] substituted “United States Court of Federal Claims” for “United States Claims Court” in two places.
 
-    1990—Subsec. (a)(2). [Pub. L. 101–301, § 9(1)][/us/pl/101/301/s9/1], inserted at end “Children under age 10 on the date they applied for the Settlement Roll who have lived all their lives on the Joint Reservation or the Hoopa Valley or Yurok Reservations, and who otherwise meet the requirements of this section except they lack 10 years of Reservation residence, shall be included on the Settlement Roll.”
+    1990—Subsec. (a)(2). [Pub. L. 101–301][/us/pl/101/301], § 9(1), inserted at end “Children under age 10 on the date they applied for the Settlement Roll who have lived all their lives on the Joint Reservation or the Hoopa Valley or Yurok Reservations, and who otherwise meet the requirements of this section except they lack 10 years of Reservation residence, shall be included on the Settlement Roll.”
 
-    Subsec. (d)(4). [Pub. L. 101–301, § 9(2)][/us/pl/101/301/s9/2], added par. (4).
+    Subsec. (d)(4). [Pub. L. 101–301][/us/pl/101/301], § 9(2), added par. (4).
 
  __Effective Date of 1992 Amendment__ 
 
@@ -84,15 +84,15 @@
 [/us/usc/t25/s1300i–5/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1300i%E2%80%935%2Fd
 [/us/usc/t25/s1300i–6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1300i%E2%80%936
 [/us/usc/t25/s1300i–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1300i%E2%80%933
-[/us/pl/100/580/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F580%2Fs5
+[/us/pl/100/580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F580
 [/us/stat/102/2928]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2928
-[/us/pl/101/301/s9/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F301%2Fs9%2F1
+[/us/pl/101/301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F301
 [/us/stat/104/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F210
-[/us/pl/102/572/s902/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2Fs902%2Fb%2F1
+[/us/pl/102/572/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2FtIX
 [/us/stat/106/4516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4516
 [/us/pl/102/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572
-[/us/pl/101/301/s9/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F301%2Fs9%2F1
-[/us/pl/101/301/s9/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F301%2Fs9%2F2
+[/us/pl/101/301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F301
+[/us/pl/101/301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F301
 [/us/pl/102/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572
 [/us/pl/102/572/s911]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2Fs911
 [/us/usc/t28/s171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs171

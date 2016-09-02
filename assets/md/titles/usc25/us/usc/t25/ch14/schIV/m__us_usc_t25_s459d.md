@@ -23,7 +23,7 @@
 
         All gross receipts (including but not limited to bonuses, rents, and royalties) hereafter derived by the United States from any contract, permit or lease referred to in [section 459c(a) of this title][/us/usc/t25/s459c/a], or otherwise, shall be administered in accordance with the laws and regulations applicable to receipts from property held in trust by the United States for Indian tribes.
 
-([Pub. L. 94–114, § 5][/us/pl/94/114/s5], Oct. 17, 1975, [89 Stat. 579][/us/stat/89/579].)
+([Pub. L. 94–114][/us/pl/94/114], § 5, Oct. 17, 1975, [89 Stat. 579][/us/stat/89/579].)
 
  __References in Text__ 
 
@@ -57,7 +57,7 @@
 [/us/stat/41/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F437
 [/us/usc/t30/s181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs181
 [/us/usc/t25/s459c/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs459c%2Fa
-[/us/pl/94/114/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F114%2Fs5
+[/us/pl/94/114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F114
 [/us/stat/89/579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F579
 [/us/act/1956-07-20/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-07-20%2Fch645
 [/us/stat/70/581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F581

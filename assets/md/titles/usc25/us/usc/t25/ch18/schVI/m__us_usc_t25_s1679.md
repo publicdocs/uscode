@@ -37,7 +37,7 @@
 
         Nothing in this section may be construed as expanding the eligibility of California Indians for health services provided by the Service beyond the scope of eligibility for such health services that applied on May 1, 1986.
 
-([Pub. L. 94–437, title VIII, § 809][/us/pl/94/437/s809], as added [Pub. L. 111–148, title X, § 10221(a)][/us/pl/111/148/s10221/a], Mar. 23, 2010, [124 Stat. 935][/us/stat/124/935].)
+([Pub. L. 94–437, title VIII][/us/pl/94/437/tVIII], § 809, as added [Pub. L. 111–148, title X][/us/pl/111/148/tX], § 10221(a), Mar. 23, 2010, [124 Stat. 935][/us/stat/124/935].)
 
  __References in Text__ 
 
@@ -49,7 +49,7 @@
 
  __Prior Provisions__ 
 
-    A prior section 1679, [Pub. L. 94–437, title VIII, § 809][/us/pl/94/437/s809], formerly title VII, § 709, as added [Pub. L. 96–537, § 8(b)][/us/pl/96/537/s8/b], Dec. 17, 1980, [94 Stat. 3181][/us/stat/94/3181]; amended [Pub. L. 100–713, title VII, § 703][/us/pl/100/713/s703], Nov. 23, 1988, [102 Stat. 4827][/us/stat/102/4827]; renumbered title VIII, § 809, [Pub. L. 102–573, title VII, § 701(a)][/us/pl/102/573/s701/a], (b), Oct. 29, 1992, [106 Stat. 4572][/us/stat/106/4572], related to report to Congress containing sufficient data to determine eligibility of California Indians for health services provided by the Service and preliminary eligibility criteria, prior to repeal by [Pub. L. 111–148, title X, § 10221(a)][/us/pl/111/148/s10221/a], Mar. 23, 2010, [124 Stat. 935][/us/stat/124/935]. The repeal is based on section 192(3) of title I of S. 1790, One Hundred Eleventh Congress, as reported by the Committee on Indian Affairs of the Senate in Dec. 2009, which was enacted into law by [section 10221(a) of Pub. L. 111–148][/us/pl/111/148/s10221/a].
+    A prior section 1679, [Pub. L. 94–437, title VIII][/us/pl/94/437/tVIII], § 809, formerly title VII, § 709, as added [Pub. L. 96–537][/us/pl/96/537], § 8(b), Dec. 17, 1980, [94 Stat. 3181][/us/stat/94/3181]; amended [Pub. L. 100–713, title VII][/us/pl/100/713/tVII], § 703, Nov. 23, 1988, [102 Stat. 4827][/us/stat/102/4827]; renumbered title VIII, § 809, [Pub. L. 102–573, title VII][/us/pl/102/573/tVII], § 701(a), (b), Oct. 29, 1992, [106 Stat. 4572][/us/stat/106/4572], related to report to Congress containing sufficient data to determine eligibility of California Indians for health services provided by the Service and preliminary eligibility criteria, prior to repeal by [Pub. L. 111–148, title X][/us/pl/111/148/tX], § 10221(a), Mar. 23, 2010, [124 Stat. 935][/us/stat/124/935]. The repeal is based on section 192(3) of title I of S. 1790, One Hundred Eleventh Congress, as reported by the Committee on Indian Affairs of the Senate in Dec. 2009, which was enacted into law by [section 10221(a) of Pub. L. 111–148][/us/pl/111/148/s10221/a].
 
 ----------
 
@@ -59,21 +59,21 @@
 ----------
 
 [/us/stat/72/619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F619
-[/us/pl/94/437/s809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437%2Fs809
-[/us/pl/111/148/s10221/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10221%2Fa
+[/us/pl/94/437/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437%2FtVIII
+[/us/pl/111/148/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtX
 [/us/stat/124/935]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F935
 [/us/pl/85/671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F671
 [/us/stat/72/619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F619
 [/us/pl/94/437/s809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437%2Fs809
 [/us/pl/111/148/s10221/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10221%2Fa
-[/us/pl/94/437/s809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437%2Fs809
-[/us/pl/96/537/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F537%2Fs8%2Fb
+[/us/pl/94/437/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437%2FtVIII
+[/us/pl/96/537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F537
 [/us/stat/94/3181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3181
-[/us/pl/100/713/s703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F713%2Fs703
+[/us/pl/100/713/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F713%2FtVII
 [/us/stat/102/4827]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4827
-[/us/pl/102/573/s701/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2Fs701%2Fa
+[/us/pl/102/573/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2FtVII
 [/us/stat/106/4572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4572
-[/us/pl/111/148/s10221/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10221%2Fa
+[/us/pl/111/148/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtX
 [/us/stat/124/935]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F935
 [/us/pl/111/148/s10221/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10221%2Fa
 

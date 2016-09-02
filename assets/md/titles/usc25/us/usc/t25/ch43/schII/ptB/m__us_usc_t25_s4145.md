@@ -17,7 +17,7 @@
 
     The purpose of this part is to establish a program for self-determined housing activities for the tribal communities to provide Indian tribes with the flexibility to use a portion of the grant amounts under [section 4111 of this title][/us/usc/t25/s4111] for the Indian tribe in manners that are wholly self-determined by the Indian tribe for housing activities involving construction, acquisition, rehabilitation, or infrastructure relating to housing activities or housing that will benefit the community served by the Indian tribe.
 
-([Pub. L. 104–330, title II, § 231][/us/pl/104/330/s231], as added [Pub. L. 110–411, title II, § 206(a)(2)][/us/pl/110/411/s206/a/2], Oct. 14, 2008, [122 Stat. 4326][/us/stat/122/4326].)
+([Pub. L. 104–330, title II][/us/pl/104/330/tII], § 231, as added [Pub. L. 110–411, title II][/us/pl/110/411/tII], § 206(a)(2), Oct. 14, 2008, [122 Stat. 4326][/us/stat/122/4326].)
 
 ----------
 
@@ -27,8 +27,8 @@
 ----------
 
 [/us/usc/t25/s4111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs4111
-[/us/pl/104/330/s231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330%2Fs231
-[/us/pl/110/411/s206/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F411%2Fs206%2Fa%2F2
+[/us/pl/104/330/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330%2FtII
+[/us/pl/110/411/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F411%2FtII
 [/us/stat/122/4326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4326
 
 

@@ -39,7 +39,7 @@
 
         No termination of parental rights may be ordered in such proceeding in the absence of a determination, supported by evidence beyond a reasonable doubt, including testimony of qualified expert witnesses, that the continued custody of the child by the parent or Indian custodian is likely to result in serious emotional or physical damage to the child.
 
-([Pub. L. 95–608, title I, § 102][/us/pl/95/608/s102], Nov. 8, 1978, [92 Stat. 3071][/us/stat/92/3071].)
+([Pub. L. 95–608, title I][/us/pl/95/608/tI], § 102, Nov. 8, 1978, [92 Stat. 3071][/us/stat/92/3071].)
 
 ----------
 
@@ -49,7 +49,7 @@
 ----------
 
 [/us/usc/t25/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs13
-[/us/pl/95/608/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F608%2Fs102
+[/us/pl/95/608/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F608%2FtI
 [/us/stat/92/3071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3071
 
 

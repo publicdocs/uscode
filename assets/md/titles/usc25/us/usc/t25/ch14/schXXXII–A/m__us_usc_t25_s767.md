@@ -17,7 +17,7 @@
 
     Any legal claims for lands owned by the Shivwits, Kanosh, Koosharem, or Indian Peaks Bands of Paiute Indians of Utah and lost through tax sales or any other sales to individuals, corporations, or the State of Utah since September 1, 1954, are hereby barred.
 
-([Pub. L. 96–227, § 8][/us/pl/96/227/s8], Apr. 3, 1980, [94 Stat. 322][/us/stat/94/322].)
+([Pub. L. 96–227][/us/pl/96/227], § 8, Apr. 3, 1980, [94 Stat. 322][/us/stat/94/322].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/96/227/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F227%2Fs8
+[/us/pl/96/227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F227
 [/us/stat/94/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F322
 
 

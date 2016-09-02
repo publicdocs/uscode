@@ -17,7 +17,7 @@
 
     State jurisdiction acquired pursuant to this subchapter with respect to criminal offenses or civil causes of action, or with respect to both, shall be applicable in Indian country only where the enrolled Indians within the affected area of such Indian country accept such jurisdiction by a majority vote of the adult Indians voting at a special election held for that purpose. The Secretary of the Interior shall call such special election under such rules and regulations as he may prescribe, when requested to do so by the tribal council or other governing body, or by 20 per centum of such enrolled adults.
 
-([Pub. L. 90–284, title IV, § 406][/us/pl/90/284/s406], Apr. 11, 1968, [82 Stat. 80][/us/stat/82/80].)
+([Pub. L. 90–284, title IV][/us/pl/90/284/tIV], § 406, Apr. 11, 1968, [82 Stat. 80][/us/stat/82/80].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/90/284/s406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F284%2Fs406
+[/us/pl/90/284/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F284%2FtIV
 [/us/stat/82/80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F80
 
 

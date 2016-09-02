@@ -45,7 +45,7 @@
 
         To lease lands within the Hopi Industrial Park, any other tribal lands, and the improvements thereon, in accordance with the provisions of Federal laws.
 
-([Pub. L. 91–264, § 2][/us/pl/91/264/s2], May 22, 1970, [84 Stat. 260][/us/stat/84/260].)
+([Pub. L. 91–264][/us/pl/91/264], § 2, May 22, 1970, [84 Stat. 260][/us/stat/84/260].)
 
 ----------
 
@@ -55,7 +55,7 @@
 ----------
 
 [/us/usc/t28/s1446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1446
-[/us/pl/91/264/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F264%2Fs2
+[/us/pl/91/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F264
 [/us/stat/84/260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F260
 
 

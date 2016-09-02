@@ -17,7 +17,7 @@
 
     The Secretary of the Interior shall withhold from distribution a sum not to exceed $150,000, pending a decision by the Yankton Sioux Tribal Business and Claims Committee regarding the needs of the tribe for expert witnesses in the Yankton Sioux claims in Indian Claims Commission dockets numbered 332–B, 332–C, and 74. The sum withheld may be used for such purpose or for other programing needs, subject to the approval of the Secretary.
 
-([Pub. L. 92–468, § 2][/us/pl/92/468/s2], Oct. 6, 1972, [86 Stat. 782][/us/stat/86/782].)
+([Pub. L. 92–468][/us/pl/92/468], § 2, Oct. 6, 1972, [86 Stat. 782][/us/stat/86/782].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/92/468/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F468%2Fs2
+[/us/pl/92/468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F468
 [/us/stat/86/782]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F782
 
 

@@ -17,7 +17,7 @@
 
     This subchapter shall take effect on September 27, 2006.
 
-([Pub. L. 109–286, § 16][/us/pl/109/286/s16], Sept. 27, 2006, [120 Stat. 1229][/us/stat/120/1229].)
+([Pub. L. 109–286][/us/pl/109/286], § 16, Sept. 27, 2006, [120 Stat. 1229][/us/stat/120/1229].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/109/286/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F286%2Fs16
+[/us/pl/109/286]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F286
 [/us/stat/120/1229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1229
 
 

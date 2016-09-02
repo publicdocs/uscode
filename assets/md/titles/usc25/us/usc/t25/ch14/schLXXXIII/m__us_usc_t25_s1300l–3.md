@@ -37,7 +37,7 @@
 
         For the purpose of subsection (b), the Secretary shall accept any available evidence establishing United Auburn Indian Community ancestry. The Secretary shall accept as conclusive evidence of United Auburn Indian Community ancestry information contained in the Auburn Indian Rancheria distribution list compiled by the Bureau of Indian Affairs on August 13, 1959.
 
-([Pub. L. 103–434, title II, § 205][/us/pl/103/434/s205], Oct. 31, 1994, [108 Stat. 4534][/us/stat/108/4534].)
+([Pub. L. 103–434, title II][/us/pl/103/434/tII], § 205, Oct. 31, 1994, [108 Stat. 4534][/us/stat/108/4534].)
 
  __References in Text__ 
 
@@ -52,7 +52,7 @@
 
 [/us/pl/85/671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F671
 [/us/pl/85/671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F671
-[/us/pl/103/434/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F434%2Fs205
+[/us/pl/103/434/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F434%2FtII
 [/us/stat/108/4534]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4534
 [/us/pl/85/671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F671
 [/us/pl/85/671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F671

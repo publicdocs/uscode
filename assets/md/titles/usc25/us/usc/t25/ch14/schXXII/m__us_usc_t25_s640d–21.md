@@ -17,7 +17,7 @@
 
     The availability of financial assistance or funds paid pursuant to this subchapter may not be considered as income or resources or otherwise utilized as the basis (1) for denying a household or member thereof participation in any federally assisted housing program or (2) for denying or reducing the financial assistance or other benefits to which such household or member would otherwise be entitled to under the Social Security Act \[[42 U.S.C. 301][/us/usc/t42/s301] et seq.\] or any other Federal or federally assisted program. None of the funds provided under this subchapter shall be subject to Federal or State income taxes.
 
-([Pub. L. 93–531, § 22][/us/pl/93/531/s22], Dec. 22, 1974, [88 Stat. 1722][/us/stat/88/1722].)
+([Pub. L. 93–531][/us/pl/93/531], § 22, Dec. 22, 1974, [88 Stat. 1722][/us/stat/88/1722].)
 
  __References in Text__ 
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t42/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs301
-[/us/pl/93/531/s22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F531%2Fs22
+[/us/pl/93/531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F531
 [/us/stat/88/1722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1722
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620

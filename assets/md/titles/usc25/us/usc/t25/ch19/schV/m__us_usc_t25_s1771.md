@@ -31,11 +31,11 @@
 
     (7) the Secretary has acknowledged the existence of the Wampanoag Tribal Council of Gay Head, Inc. as an Indian tribe and Congress hereby ratifies and confirms that existence as an Indian tribe with a government to government relationship with the United States.
 
-([Pub. L. 100–95, § 2][/us/pl/100/95/s2], Aug. 18, 1987, [101 Stat. 704][/us/stat/101/704].)
+([Pub. L. 100–95][/us/pl/100/95], § 2, Aug. 18, 1987, [101 Stat. 704][/us/stat/101/704].)
 
  __Effective Date__ 
 
-[Pub. L. 100–95, § 11][/us/pl/100/95/s11], Aug. 18, 1987, [101 Stat. 710][/us/stat/101/710], provided that:
+[Pub. L. 100–95][/us/pl/100/95], § 11, Aug. 18, 1987, [101 Stat. 710][/us/stat/101/710], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -47,7 +47,7 @@
 
  __Short Title__ 
 
-[Pub. L. 100–95, § 1][/us/pl/100/95/s1], Aug. 18, 1987, [101 Stat. 704][/us/stat/101/704], provided that: 
+[Pub. L. 100–95][/us/pl/100/95], § 1, Aug. 18, 1987, [101 Stat. 704][/us/stat/101/704], provided that: 
 
 > “This Act \[enacting this subchapter\] may be cited as the ‘Wampanoag Tribal Council of Gay Head, Inc., Indian Claims Settlement Act of 1987’.”
 
@@ -58,12 +58,12 @@
 ----------
 ----------
 
-[/us/pl/100/95/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F95%2Fs2
+[/us/pl/100/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F95
 [/us/stat/101/704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F704
-[/us/pl/100/95/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F95%2Fs11
+[/us/pl/100/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F95
 [/us/stat/101/710]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F710
 [/us/usc/t25/s1771b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1771b
-[/us/pl/100/95/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F95%2Fs1
+[/us/pl/100/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F95
 [/us/stat/101/704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F704
 
 

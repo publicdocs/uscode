@@ -21,7 +21,7 @@
 
  __Codification__ 
 
-    R.S. § 2089 derived from [act Mar. 3, 1857, ch. 90, § 1][/us/act/1857-03-03/ch90/s1], [11 Stat. 169][/us/stat/11/169].
+    R.S. § 2089 derived from [act Mar. 3, 1857, ch. 90][/us/act/1857-03-03/ch90], § 1, [11 Stat. 169][/us/stat/11/169].
 
  __Transfer of Functions__ 
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/act/1857-03-03/ch90/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1857-03-03%2Fch90%2Fs1
+[/us/act/1857-03-03/ch90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1857-03-03%2Fch90
 [/us/stat/11/169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F11%2F169
 [/us/stat/64/1262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1262
 [/us/usc/t25/s53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs53

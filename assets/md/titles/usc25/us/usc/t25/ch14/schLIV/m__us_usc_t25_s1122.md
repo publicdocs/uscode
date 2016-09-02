@@ -17,7 +17,7 @@
 
     The funds appropriated by the Acts of July 22, 1969 ([83 Stat. 49][/us/stat/83/49]), and January 8, 1971 ([84 Stat. 1981][/us/stat/84/1981]), to pay judgments awarded to the Miami Tribe of Oklahoma and the Miami Indians of Indiana in Indian Claims Commission dockets numbered 255 and 124–C, dockets numbered 256, 124–D, E, and F, and dockets numbered 131 and 253, and to pay a judgment awarded to the Miami Tribe of Oklahoma in docket numbered 251–A, together with interest thereon, after payment of attorney fees and litigation expenses, shall be distributed as provided in sections 1122 to 1130 of this title.
 
-([Pub. L. 92–309, § 1][/us/pl/92/309/s1], June 2, 1972, [86 Stat. 199][/us/stat/86/199].)
+([Pub. L. 92–309][/us/pl/92/309], § 1, June 2, 1972, [86 Stat. 199][/us/stat/86/199].)
 
  __References in Text__ 
 
@@ -38,7 +38,7 @@
 
 [/us/stat/83/49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F49
 [/us/stat/84/1981]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1981
-[/us/pl/92/309/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F309%2Fs1
+[/us/pl/92/309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F309
 [/us/stat/86/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F199
 [/us/pl/91/47]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F47
 [/us/stat/83/49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F49

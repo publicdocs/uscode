@@ -17,7 +17,7 @@
 
     The Bureau of Indian Affairs is authorized to transfer, at no cost, up to 5 acres of land at the Chemawa Indian School, Salem, Oregon, to the Service for the provision of health care services. The land authorized to be transferred by this section is that land adjacent to land under the jurisdiction of the Service and occupied by the Chemawa Indian Health Center.
 
-([Pub. L. 94–437, title III, § 308][/us/pl/94/437/s308], as added [Pub. L. 102–573, title III, § 306][/us/pl/102/573/s306], Oct. 29, 1992, [106 Stat. 4564][/us/stat/106/4564].)
+([Pub. L. 94–437, title III][/us/pl/94/437/tIII], § 308, as added [Pub. L. 102–573, title III][/us/pl/102/573/tIII], § 306, Oct. 29, 1992, [106 Stat. 4564][/us/stat/106/4564].)
 
 ----------
 
@@ -26,8 +26,8 @@
 ----------
 ----------
 
-[/us/pl/94/437/s308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437%2Fs308
-[/us/pl/102/573/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2Fs306
+[/us/pl/94/437/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437%2FtIII
+[/us/pl/102/573/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2FtIII
 [/us/stat/106/4564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4564
 
 

@@ -17,7 +17,7 @@
 
     If any provision of this chapter, or the application of any provision of this chapter to any person or circumstance, is held invalid, the application of such provision or circumstance and the remainder of this chapter shall not be affected thereby.
 
-([Pub. L. 101–630, title III, § 320][/us/pl/101/630/s320], Nov. 28, 1990, [104 Stat. 4544][/us/stat/104/4544].)
+([Pub. L. 101–630, title III][/us/pl/101/630/tIII], § 320, Nov. 28, 1990, [104 Stat. 4544][/us/stat/104/4544].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/101/630/s320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F630%2Fs320
+[/us/pl/101/630/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F630%2FtIII
 [/us/stat/104/4544]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4544
 
 

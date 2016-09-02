@@ -21,7 +21,7 @@
 
  __Codification__ 
 
-    R.S. § 2108 derived from [act July 5, 1862, ch. 135, § 6][/us/act/1862-07-05/ch135/s6], [12 Stat. 529][/us/stat/12/529].
+    R.S. § 2108 derived from [act July 5, 1862, ch. 135][/us/act/1862-07-05/ch135], § 6, [12 Stat. 529][/us/stat/12/529].
 
  __Transfer of Functions__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/act/1862-07-05/ch135/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1862-07-05%2Fch135%2Fs6
+[/us/act/1862-07-05/ch135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1862-07-05%2Fch135
 [/us/stat/12/529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F12%2F529
 [/us/stat/64/1262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1262
 

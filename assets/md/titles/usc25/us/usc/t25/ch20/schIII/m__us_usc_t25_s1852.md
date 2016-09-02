@@ -17,7 +17,7 @@
 
     There are authorized to be appropriated for grants under this subchapter, such sums as may be necessary for fiscal year 2009 and such sums as may be necessary for each of the five succeeding fiscal years.
 
-([Pub. L. 95–471, title IV, § 403][/us/pl/95/471/s403], as added [Pub. L. 101–392, title III, § 312][/us/pl/101/392/s312], Sept. 25, 1990, [104 Stat. 805][/us/stat/104/805]; amended [Pub. L. 102–325, title XIII, § 1301(c)][/us/pl/102/325/s1301/c], July 23, 1992, [106 Stat. 797][/us/stat/106/797]; [Pub. L. 105–244, title IX, § 901(a)(2)(C)][/us/pl/105/244/s901/a/2/C], Oct. 7, 1998, [112 Stat. 1827][/us/stat/112/1827]; [Pub. L. 110–315, title IX, § 941(i)][/us/pl/110/315/s941/i], Aug. 14, 2008, [122 Stat. 3463][/us/stat/122/3463].)
+([Pub. L. 95–471, title IV][/us/pl/95/471/tIV], § 403, as added [Pub. L. 101–392, title III][/us/pl/101/392/tIII], § 312, Sept. 25, 1990, [104 Stat. 805][/us/stat/104/805]; amended [Pub. L. 102–325, title XIII][/us/pl/102/325/tXIII], § 1301(c), July 23, 1992, [106 Stat. 797][/us/stat/106/797]; [Pub. L. 105–244, title IX][/us/pl/105/244/tIX], § 901(a)(2)(C), Oct. 7, 1998, [112 Stat. 1827][/us/stat/112/1827]; [Pub. L. 110–315, title IX][/us/pl/110/315/tIX], § 941(i), Aug. 14, 2008, [122 Stat. 3463][/us/stat/122/3463].)
 
  __Amendments__ 
 
@@ -42,14 +42,14 @@
 ----------
 ----------
 
-[/us/pl/95/471/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F471%2Fs403
-[/us/pl/101/392/s312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F392%2Fs312
+[/us/pl/95/471/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F471%2FtIV
+[/us/pl/101/392/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F392%2FtIII
 [/us/stat/104/805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F805
-[/us/pl/102/325/s1301/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs1301%2Fc
+[/us/pl/102/325/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2FtXIII
 [/us/stat/106/797]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F797
-[/us/pl/105/244/s901/a/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs901%2Fa%2F2%2FC
+[/us/pl/105/244/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtIX
 [/us/stat/112/1827]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1827
-[/us/pl/110/315/s941/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs941%2Fi
+[/us/pl/110/315/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtIX
 [/us/stat/122/3463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3463
 [/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244

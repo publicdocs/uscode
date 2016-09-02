@@ -17,7 +17,7 @@
 
     There is authorized to be appropriated out of any money in the Treasury not otherwise appropriated the sum of $325,000 to remain available until expended, for necessary expenses incident to the distribution of funds authorized by sections 781 to 785 of this title.
 
-([Aug. 1, 1955, ch. 444, § 5][/us/act/1955-08-01/ch444/s5], [69 Stat. 432][/us/stat/69/432]; [Pub. L. 86–229][/us/pl/86/229], Sept. 8, 1959, [73 Stat. 456][/us/stat/73/456].)
+([Aug. 1, 1955, ch. 444][/us/act/1955-08-01/ch444], § 5, [69 Stat. 432][/us/stat/69/432]; [Pub. L. 86–229][/us/pl/86/229], Sept. 8, 1959, [73 Stat. 456][/us/stat/73/456].)
 
  __Amendments__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1955-08-01/ch444/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-01%2Fch444%2Fs5
+[/us/act/1955-08-01/ch444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-01%2Fch444
 [/us/stat/69/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F432
 [/us/pl/86/229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F229
 [/us/stat/73/456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F456

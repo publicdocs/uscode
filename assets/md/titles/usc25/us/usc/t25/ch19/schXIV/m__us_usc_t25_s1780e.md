@@ -123,7 +123,7 @@
 
             Nothing in this subchapter limits or enhances the rights of COPAR under the Contract For The Sale Of Mineral Materials dated May 4, 1994.
 
-([Pub. L. 109–286, § 7][/us/pl/109/286/s7], Sept. 27, 2006, [120 Stat. 1221][/us/stat/120/1221].)
+([Pub. L. 109–286][/us/pl/109/286], § 7, Sept. 27, 2006, [120 Stat. 1221][/us/stat/120/1221].)
 
 ----------
 
@@ -133,7 +133,7 @@
 ----------
 
 [/us/usc/t25/s1780j/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1780j%2Fb%2F2%2FA
-[/us/pl/109/286/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F286%2Fs7
+[/us/pl/109/286]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F286
 [/us/stat/120/1221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1221
 
 

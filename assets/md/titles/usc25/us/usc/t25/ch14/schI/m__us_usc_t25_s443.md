@@ -17,7 +17,7 @@
 
     Any moneys received on and after May 24, 1950, in settlement of such debts or from the sale of livestock so repaid to the United States shall be deposited in the revolving fund established pursuant to the Acts of June 18, 1934 ([48 Stat. 984][/us/stat/48/984]) \[[25 U.S.C. 461][/us/usc/t25/s461] et seq.\], and June 26, 1936 ([49 Stat. 1967][/us/stat/49/1967]) \[[25 U.S.C. 501][/us/usc/t25/s501] et seq.\], as amended and supplemented.
 
-([May 24, 1950, ch. 197, § 2][/us/act/1950-05-24/ch197/s2], [64 Stat. 190][/us/stat/64/190].)
+([May 24, 1950, ch. 197][/us/act/1950-05-24/ch197], § 2, [64 Stat. 190][/us/stat/64/190].)
 
  __References in Text__ 
 
@@ -38,7 +38,7 @@
 [/us/usc/t25/s461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs461
 [/us/stat/49/1967]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1967
 [/us/usc/t25/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs501
-[/us/act/1950-05-24/ch197/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-05-24%2Fch197%2Fs2
+[/us/act/1950-05-24/ch197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-05-24%2Fch197
 [/us/stat/64/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F190
 [/us/usc/t25/s461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs461
 [/us/usc/t25/s470]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs470

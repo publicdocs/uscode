@@ -17,7 +17,7 @@
 
     Sums payable to living enrollees age eighteen or older or to heirs or legatees of deceased enrollees age eighteen or older shall be paid directly to such persons. Sums payable to enrollees or their heirs or legatees who are under age eighteen or who are under legal disability other than minority shall be paid in accordance with such procedures, including the establishment of trusts, as the Secretary of the Interior determines appropriate to protect the best interests of such persons.
 
-([Pub. L. 92–456, § 5][/us/pl/92/456/s5], Oct. 3, 1972, [86 Stat. 763][/us/stat/86/763].)
+([Pub. L. 92–456][/us/pl/92/456], § 5, Oct. 3, 1972, [86 Stat. 763][/us/stat/86/763].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/92/456/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F456%2Fs5
+[/us/pl/92/456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F456
 [/us/stat/86/763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F763
 
 

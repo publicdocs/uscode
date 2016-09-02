@@ -423,7 +423,7 @@
 
             Upon completion of the study, the Secretary of the Interior shall take such action as necessary to ensure distribution of the findings of the study to all affected Indian tribes, local school boards, and associations of local school boards.
 
-([Pub. L. 95–561, title XI, § 1121][/us/pl/95/561/s1121], as added [Pub. L. 107–110, title X, § 1042][/us/pl/107/110/s1042], Jan. 8, 2002, [115 Stat. 2007][/us/stat/115/2007]; amended [Pub. L. 109–54, title I, § 127][/us/pl/109/54/s127], Aug. 2, 2005, [119 Stat. 525][/us/stat/119/525].)
+([Pub. L. 95–561, title XI][/us/pl/95/561/tXI], § 1121, as added [Pub. L. 107–110, title X][/us/pl/107/110/tX], § 1042, Jan. 8, 2002, [115 Stat. 2007][/us/stat/115/2007]; amended [Pub. L. 109–54, title I][/us/pl/109/54/tI], § 127, Aug. 2, 2005, [119 Stat. 525][/us/stat/119/525].)
 
  __References in Text__ 
 
@@ -431,15 +431,15 @@
 
     The Indian Self-Determination Act, referred to in subsec. (b)(8)(D) to (F), is title I of [Pub. L. 93–638][/us/pl/93/638], Jan. 4, 1975, [88 Stat. 2206][/us/stat/88/2206], as amended, which is classified principally to part A (§ 450f et seq.) of subchapter II of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 450 of this title][/us/usc/t25/s450] and Tables.
 
-    The Tribally Controlled Schools Act of 1988, referred to in subsec. (b)(8)(D) to (F), is part B (§§ 5201–5212) of title V of [Pub. L. 100–297][/us/pl/100/297], Apr. 28, 1988, [102 Stat. 385][/us/stat/102/385], as amended, which is classified generally to chapter 27 (§ 2501 et seq.) of this title. Sections 5204 and 5207 of the Act were classified to sections 2503 and 2506, respectively, of this title, prior to repeal by [Pub. L. 107–110, title X, § 1043][/us/pl/107/110/s1043], Jan. 8, 2002, [115 Stat. 2063][/us/stat/115/2063]. [Pub. L. 107–110][/us/pl/107/110] enacted new sections 5204 and 5207 which are classified to sections 2503 and 2506, respectively, of this title. [Pub. L. 107–110][/us/pl/107/110] enacted new sections 5203 and 5206 of [Pub. L. 100–297][/us/pl/100/297], relating to subject matter similar to that of former sections 5204 and 5207, respectively, which are classified to sections 2502 and 2505, respectively, of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2501 of this title][/us/usc/t25/s2501] and Tables.
+    The Tribally Controlled Schools Act of 1988, referred to in subsec. (b)(8)(D) to (F), is part B (§§ 5201–5212) of title V of [Pub. L. 100–297][/us/pl/100/297], Apr. 28, 1988, [102 Stat. 385][/us/stat/102/385], as amended, which is classified generally to chapter 27 (§ 2501 et seq.) of this title. Sections 5204 and 5207 of the Act were classified to sections 2503 and 2506, respectively, of this title, prior to repeal by [Pub. L. 107–110, title X][/us/pl/107/110/tX], § 1043, Jan. 8, 2002, [115 Stat. 2063][/us/stat/115/2063]. [Pub. L. 107–110][/us/pl/107/110] enacted new sections 5204 and 5207 which are classified to sections 2503 and 2506, respectively, of this title. [Pub. L. 107–110][/us/pl/107/110] enacted new sections 5203 and 5206 of [Pub. L. 100–297][/us/pl/100/297], relating to subject matter similar to that of former sections 5204 and 5207, respectively, which are classified to sections 2502 and 2505, respectively, of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2501 of this title][/us/usc/t25/s2501] and Tables.
 
     The Indian Self-Determination and Education Assistance Act referred to in subsec. (e)(4)(C), is [Pub. L. 93–638][/us/pl/93/638], Jan. 4, 1975, [88 Stat. 2203][/us/stat/88/2203], as amended, which is classified principally to subchapter II (§ 450 et seq.) of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 450 of this title][/us/usc/t25/s450] and Tables.
 
  __Prior Provisions__ 
 
-    A prior section 2001, [Pub. L. 95–561, title XI, § 1121][/us/pl/95/561/s1121], as added [Pub. L. 103–382, title III, § 381][/us/pl/103/382/s381], Oct. 20, 1994, [108 Stat. 3979][/us/stat/108/3979]; amended [Pub. L. 104–134, title I, § 101(d)][/us/pl/104/134/s101/d] \[title VII, § 703(d)\], Apr. 26, 1996, [110 Stat. 1321–211][/us/stat/110/1321-211], 1321–255; renumbered title I, [Pub. L. 104–140, § 1(a)][/us/pl/104/140/s1/a], May 2, 1996, [110 Stat. 1327][/us/stat/110/1327]; [Pub. L. 105–362, title VIII, § 801(c)(1)][/us/pl/105/362/s801/c/1], Nov. 10, 1998, [112 Stat. 3287][/us/stat/112/3287], related to standards for basic education of Indian children in Bureau of Indian Affairs schools, prior to the general amendment of this chapter by [Pub. L. 107–110][/us/pl/107/110].
+    A prior section 2001, [Pub. L. 95–561, title XI][/us/pl/95/561/tXI], § 1121, as added [Pub. L. 103–382, title III][/us/pl/103/382/tIII], § 381, Oct. 20, 1994, [108 Stat. 3979][/us/stat/108/3979]; amended [Pub. L. 104–134, title I][/us/pl/104/134/tI], § 101(d) \[title VII, § 703(d)\], Apr. 26, 1996, [110 Stat. 1321–211][/us/stat/110/1321-211], 1321–255; renumbered title I, [Pub. L. 104–140][/us/pl/104/140], § 1(a), May 2, 1996, [110 Stat. 1327][/us/stat/110/1327]; [Pub. L. 105–362, title VIII][/us/pl/105/362/tVIII], § 801(c)(1), Nov. 10, 1998, [112 Stat. 3287][/us/stat/112/3287], related to standards for basic education of Indian children in Bureau of Indian Affairs schools, prior to the general amendment of this chapter by [Pub. L. 107–110][/us/pl/107/110].
 
-    Another prior section 2001, [Pub. L. 95–561, title XI, § 1121][/us/pl/95/561/s1121], Nov. 1, 1978, [92 Stat. 2316][/us/stat/92/2316]; [Pub. L. 96–46, § 2(b)(2)][/us/pl/96/46/s2/b/2]–(4), Aug. 6, 1979, [93 Stat. 341][/us/stat/93/341]; [Pub. L. 96–88, title III, § 301(a)(1)][/us/pl/96/88/s301/a/1], title V, § 507, Oct. 17, 1979, [93 Stat. 677][/us/stat/93/677], 692; [Pub. L. 98–511, title V, § 502][/us/pl/98/511/s502], Oct. 19, 1984, [98 Stat. 2391][/us/stat/98/2391]; [Pub. L. 99–89, § 2][/us/pl/99/89/s2], Aug. 15, 1985, [99 Stat. 379][/us/stat/99/379]; [Pub. L. 99–570, title IV, § 4133(b)(3)][/us/pl/99/570/s4133/b/3], Oct. 27, 1986, [100 Stat. 3207–134][/us/stat/100/3207-134]; [Pub. L. 100–297, title V][/us/pl/100/297], §§ 5102, 5104, Apr. 28, 1988, [102 Stat. 363][/us/stat/102/363], 365; [Pub. L. 100–427, § 1(a)][/us/pl/100/427/s1/a], (b), Sept. 9, 1988, [102 Stat. 1603][/us/stat/102/1603]; [Pub. L. 102–531, title III, § 312(b)][/us/pl/102/531/s312/b], Oct. 27, 1992, [106 Stat. 3504][/us/stat/106/3504], related to standards for basic education of Indian children in Bureau or contract schools, prior to the general amendment of this chapter by [Pub. L. 103–382][/us/pl/103/382].
+    Another prior section 2001, [Pub. L. 95–561, title XI][/us/pl/95/561/tXI], § 1121, Nov. 1, 1978, [92 Stat. 2316][/us/stat/92/2316]; [Pub. L. 96–46][/us/pl/96/46], § 2(b)(2)–(4), Aug. 6, 1979, [93 Stat. 341][/us/stat/93/341]; [Pub. L. 96–88, title III][/us/pl/96/88/tIII], § 301(a)(1), title V, § 507, Oct. 17, 1979, [93 Stat. 677][/us/stat/93/677], 692; [Pub. L. 98–511, title V][/us/pl/98/511/tV], § 502, Oct. 19, 1984, [98 Stat. 2391][/us/stat/98/2391]; [Pub. L. 99–89][/us/pl/99/89], § 2, Aug. 15, 1985, [99 Stat. 379][/us/stat/99/379]; [Pub. L. 99–570, title IV][/us/pl/99/570/tIV], § 4133(b)(3), Oct. 27, 1986, [100 Stat. 3207–134][/us/stat/100/3207-134]; [Pub. L. 100–297, title V][/us/pl/100/297/tV], §§ 5102, 5104, Apr. 28, 1988, [102 Stat. 363][/us/stat/102/363], 365; [Pub. L. 100–427][/us/pl/100/427], § 1(a), (b), Sept. 9, 1988, [102 Stat. 1603][/us/stat/102/1603]; [Pub. L. 102–531, title III][/us/pl/102/531/tIII], § 312(b), Oct. 27, 1992, [106 Stat. 3504][/us/stat/106/3504], related to standards for basic education of Indian children in Bureau or contract schools, prior to the general amendment of this chapter by [Pub. L. 103–382][/us/pl/103/382].
 
  __Amendments__ 
 
@@ -472,10 +472,10 @@
 [/us/usc/t25/s450f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450f
 [/us/usc/t25/s2007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs2007
 [/us/usc/t25/s450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450
-[/us/pl/95/561/s1121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2Fs1121
-[/us/pl/107/110/s1042]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2Fs1042
+[/us/pl/95/561/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2FtXI
+[/us/pl/107/110/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2FtX
 [/us/stat/115/2007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F2007
-[/us/pl/109/54/s127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F54%2Fs127
+[/us/pl/109/54/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F54%2FtI
 [/us/stat/119/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F525
 [/us/pl/95/561/s1121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2Fs1121
 [/us/pl/107/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110
@@ -484,7 +484,7 @@
 [/us/usc/t25/s450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450
 [/us/pl/100/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297
 [/us/stat/102/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F385
-[/us/pl/107/110/s1043]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2Fs1043
+[/us/pl/107/110/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2FtX
 [/us/stat/115/2063]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F2063
 [/us/pl/107/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110
 [/us/pl/107/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110
@@ -493,33 +493,33 @@
 [/us/pl/93/638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638
 [/us/stat/88/2203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2203
 [/us/usc/t25/s450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450
-[/us/pl/95/561/s1121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2Fs1121
-[/us/pl/103/382/s381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs381
+[/us/pl/95/561/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2FtXI
+[/us/pl/103/382/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2FtIII
 [/us/stat/108/3979]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3979
-[/us/pl/104/134/s101/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs101%2Fd
+[/us/pl/104/134/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2FtI
 [/us/stat/110/1321-211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1321-211
-[/us/pl/104/140/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F140%2Fs1%2Fa
+[/us/pl/104/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F140
 [/us/stat/110/1327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1327
-[/us/pl/105/362/s801/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362%2Fs801%2Fc%2F1
+[/us/pl/105/362/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362%2FtVIII
 [/us/stat/112/3287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3287
 [/us/pl/107/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110
-[/us/pl/95/561/s1121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2Fs1121
+[/us/pl/95/561/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2FtXI
 [/us/stat/92/2316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2316
-[/us/pl/96/46/s2/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F46%2Fs2%2Fb%2F2
+[/us/pl/96/46]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F46
 [/us/stat/93/341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F341
-[/us/pl/96/88/s301/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs301%2Fa%2F1
+[/us/pl/96/88/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2FtIII
 [/us/stat/93/677]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F677
-[/us/pl/98/511/s502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F511%2Fs502
+[/us/pl/98/511/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F511%2FtV
 [/us/stat/98/2391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2391
-[/us/pl/99/89/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F89%2Fs2
+[/us/pl/99/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F89
 [/us/stat/99/379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F379
-[/us/pl/99/570/s4133/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs4133%2Fb%2F3
+[/us/pl/99/570/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2FtIV
 [/us/stat/100/3207-134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3207-134
-[/us/pl/100/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297
+[/us/pl/100/297/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297%2FtV
 [/us/stat/102/363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F363
-[/us/pl/100/427/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F427%2Fs1%2Fa
+[/us/pl/100/427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F427
 [/us/stat/102/1603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1603
-[/us/pl/102/531/s312/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F531%2Fs312%2Fb
+[/us/pl/102/531/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F531%2FtIII
 [/us/stat/106/3504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3504
 [/us/pl/103/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382
 [/us/pl/109/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F54

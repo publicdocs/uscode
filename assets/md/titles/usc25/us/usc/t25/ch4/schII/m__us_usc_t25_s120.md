@@ -17,7 +17,7 @@
 
     The Secretary of the Interior, under rules and regulations to be prescribed by him, is authorized to make per capita payments of not to exceed $200 annually to the enrolled members of the Choctaw and Chickasaw Tribes of Indians of Oklahoma, entitled under existing law to share in the funds of said tribes, or to their lawful heirs, of all the available money held by the Government of the United States for the benefit of said tribes in excess of that required for expenditures authorized by annual appropriations made therefrom or by existing law.
 
-([Feb. 14, 1920, ch. 75, § 18][/us/act/1920-02-14/ch75/s18], [41 Stat. 427][/us/stat/41/427].)
+([Feb. 14, 1920, ch. 75][/us/act/1920-02-14/ch75], § 18, [41 Stat. 427][/us/stat/41/427].)
 
  __Transfer of Functions__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1920-02-14/ch75/s18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-02-14%2Fch75%2Fs18
+[/us/act/1920-02-14/ch75]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-02-14%2Fch75
 [/us/stat/41/427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F427
 [/us/stat/64/1262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1262
 

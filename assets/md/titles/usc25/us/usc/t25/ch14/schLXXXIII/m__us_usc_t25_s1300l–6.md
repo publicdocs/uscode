@@ -31,7 +31,7 @@
 
     (7) The term “service area” means the counties of Placer, Nevada, Yuba, Sutter, El Dorado, and Sacramento, in the State of California.
 
-([Pub. L. 103–434, title II, § 208][/us/pl/103/434/s208], Oct. 31, 1994, [108 Stat. 4535][/us/stat/108/4535].)
+([Pub. L. 103–434, title II][/us/pl/103/434/tII], § 208, Oct. 31, 1994, [108 Stat. 4535][/us/stat/108/4535].)
 
 ----------
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/103/434/s208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F434%2Fs208
+[/us/pl/103/434/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F434%2FtII
 [/us/stat/108/4535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4535
 
 

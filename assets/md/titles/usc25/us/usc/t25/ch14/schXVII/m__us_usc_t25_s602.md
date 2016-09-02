@@ -17,7 +17,7 @@
 
     Any person of one-fourth or more of the blood of the Yakima Tribes who may be excluded from enrollment under the provisions of [section 601 of this title][/us/usc/t25/s601] may apply for membership at any time and be enrolled upon the approval of the application by a two-thirds vote of the Yakima Tribal Council. Applications for enrollment under this section on behalf of minors and persons mentally incompetent may be filed by any enrolled member of the Yakima Tribes.
 
-([Aug. 9, 1946, ch. 933, § 2][/us/act/1946-08-09/ch933/s2], [60 Stat. 969][/us/stat/60/969].)
+([Aug. 9, 1946, ch. 933][/us/act/1946-08-09/ch933], § 2, [60 Stat. 969][/us/stat/60/969].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t25/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs601
-[/us/act/1946-08-09/ch933/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-09%2Fch933%2Fs2
+[/us/act/1946-08-09/ch933]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-09%2Fch933
 [/us/stat/60/969]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F969
 
 

@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Section, [act Oct. 12, 1949, ch. 680][/us/act/1949-10-12/ch680], title I, [63 Stat. 776][/us/stat/63/776], which related to education loans to worthy youths, was from Department of the Interior Appropriation Act, 1950, and was not repeated in Department of the Interior Appropriation Act, 1951, [act Sept. 6, 1950, ch. 896][/us/act/1950-09-06/ch896], ch. VII, title I, [64 Stat. 679][/us/stat/64/679].
+    Section, [act Oct. 12, 1949, ch. 680, title I][/us/act/1949-10-12/ch680/tI], [63 Stat. 776][/us/stat/63/776], which related to education loans to worthy youths, was from Department of the Interior Appropriation Act, 1950, and was not repeated in Department of the Interior Appropriation Act, 1951, [act Sept. 6, 1950, ch. 896][/us/act/1950-09-06/ch896], ch. VII, title I, [64 Stat. 679][/us/stat/64/679].
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1949-10-12/ch680]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-12%2Fch680
+[/us/act/1949-10-12/ch680/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-12%2Fch680%2FtI
 [/us/stat/63/776]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F776
 [/us/act/1950-09-06/ch896]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-06%2Fch896
 [/us/stat/64/679]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F679

@@ -35,7 +35,7 @@
 
         This subchapter does not apply to the members of the Modoc Indian Tribe of Oklahoma as recognized under [section 861a(a) of this title][/us/usc/t25/s861a/a] and the Klamath Tribe of Indians does not (except for the purposes set out in [section 861a(a)(1) of this title][/us/usc/t25/s861a/a/1]) include the members of the Modoc Indian Tribe of Oklahoma.
 
-([Pub. L. 99–398, § 2][/us/pl/99/398/s2], Aug. 27, 1986, [100 Stat. 849][/us/stat/100/849]; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095].)
+([Pub. L. 99–398][/us/pl/99/398], § 2, Aug. 27, 1986, [100 Stat. 849][/us/stat/100/849]; [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095].)
 
  __References in Text__ 
 
@@ -49,7 +49,7 @@
 
  __Short Title__ 
 
-[Pub. L. 99–398, § 1][/us/pl/99/398/s1], Aug. 27, 1986, [100 Stat. 849][/us/stat/100/849], provided that: 
+[Pub. L. 99–398][/us/pl/99/398], § 1, Aug. 27, 1986, [100 Stat. 849][/us/stat/100/849], provided that: 
 
 > “This Act \[enacting this subchapter\] may be cited as the ‘Klamath Indian Tribe Restoration Act’.”
 
@@ -63,9 +63,9 @@
 [/us/usc/t25/s564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs564
 [/us/usc/t25/s861a/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs861a%2Fa
 [/us/usc/t25/s861a/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs861a%2Fa%2F1
-[/us/pl/99/398/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F398%2Fs2
+[/us/pl/99/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F398
 [/us/stat/100/849]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F849
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
 [/us/act/1954-08-13/ch732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-13%2Fch732
 [/us/stat/68/718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F718
@@ -73,7 +73,7 @@
 [/us/stat/96/2607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2607
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
-[/us/pl/99/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F398%2Fs1
+[/us/pl/99/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F398
 [/us/stat/100/849]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F849
 
 

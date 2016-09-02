@@ -17,7 +17,7 @@
 
     This chapter reflects the unique relationship between the Federal Government and Indian tribes and Native Hawaiian organizations and should not be construed to establish a precedent with respect to any other individual, organization or foreign government.
 
-([Pub. L. 101–601, § 12][/us/pl/101/601/s12], Nov. 16, 1990, [104 Stat. 3058][/us/stat/104/3058].)
+([Pub. L. 101–601][/us/pl/101/601], § 12, Nov. 16, 1990, [104 Stat. 3058][/us/stat/104/3058].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/101/601/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F601%2Fs12
+[/us/pl/101/601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F601
 [/us/stat/104/3058]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3058
 [/us/pl/101/601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F601
 [/us/stat/104/3048]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3048

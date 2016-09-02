@@ -29,7 +29,7 @@
 
         No authority to enter into contracts provided by this section shall be effective except to the extent authorized in advance by appropriations Acts.
 
-([Pub. L. 95–471, title I, § 105][/us/pl/95/471/s105], formerly § 104, Oct. 17, 1978, [92 Stat. 1326][/us/stat/92/1326]; renumbered § 105 and amended [Pub. L. 98–192][/us/pl/98/192], §§ 4(a)(1), 5, Dec. 1, 1983, [97 Stat. 1336][/us/stat/97/1336]; [Pub. L. 105–244, title IX, § 901(b)(5)][/us/pl/105/244/s901/b/5], Oct. 7, 1998, [112 Stat. 1828][/us/stat/112/1828]; [Pub. L. 110–315, title IX, § 941(e)][/us/pl/110/315/s941/e], Aug. 14, 2008, [122 Stat. 3461][/us/stat/122/3461].)
+([Pub. L. 95–471, title I][/us/pl/95/471/tI], § 105, formerly § 104, Oct. 17, 1978, [92 Stat. 1326][/us/stat/92/1326]; renumbered § 105 and amended [Pub. L. 98–192][/us/pl/98/192], §§ 4(a)(1), 5, Dec. 1, 1983, [97 Stat. 1336][/us/stat/97/1336]; [Pub. L. 105–244, title IX][/us/pl/105/244/tIX], § 901(b)(5), Oct. 7, 1998, [112 Stat. 1828][/us/stat/112/1828]; [Pub. L. 110–315, title IX][/us/pl/110/315/tIX], § 941(e), Aug. 14, 2008, [122 Stat. 3461][/us/stat/122/3461].)
 
  __Amendments__ 
 
@@ -37,7 +37,7 @@
 
     1998—[Pub. L. 105–244][/us/pl/105/244] substituted “college or university” for “community college” in two places.
 
-    1983—[Pub. L. 98–192, § 5][/us/pl/98/192/s5], inserted “from a tribally controlled community college which is receiving funds under [section 1808 of this title][/us/usc/t25/s1808]” and struck out “to tribally controlled community colleges” before “either directly”.
+    1983—[Pub. L. 98–192][/us/pl/98/192], § 5, inserted “from a tribally controlled community college which is receiving funds under [section 1808 of this title][/us/usc/t25/s1808]” and struck out “to tribally controlled community colleges” before “either directly”.
 
  __Effective Date of 1998 Amendment__ 
 
@@ -51,17 +51,17 @@
 ----------
 
 [/us/usc/t25/s1808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1808
-[/us/pl/95/471/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F471%2Fs105
+[/us/pl/95/471/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F471%2FtI
 [/us/stat/92/1326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1326
 [/us/pl/98/192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F192
 [/us/stat/97/1336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1336
-[/us/pl/105/244/s901/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs901%2Fb%2F5
+[/us/pl/105/244/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtIX
 [/us/stat/112/1828]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1828
-[/us/pl/110/315/s941/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs941%2Fe
+[/us/pl/110/315/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtIX
 [/us/stat/122/3461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3461
 [/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
-[/us/pl/98/192/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F192%2Fs5
+[/us/pl/98/192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F192
 [/us/usc/t25/s1808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1808
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244

@@ -17,7 +17,7 @@
 
     No rent or other consideration for the use of land leased under sections 415 to 415d of this title shall be paid or collected more than one year in advance, unless so provided in the lease.
 
-([Aug. 9, 1955, ch. 615, § 4][/us/act/1955-08-09/ch615/s4], [69 Stat. 540][/us/stat/69/540].)
+([Aug. 9, 1955, ch. 615][/us/act/1955-08-09/ch615], § 4, [69 Stat. 540][/us/stat/69/540].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1955-08-09/ch615/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-09%2Fch615%2Fs4
+[/us/act/1955-08-09/ch615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-09%2Fch615
 [/us/stat/69/540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F540
 
 

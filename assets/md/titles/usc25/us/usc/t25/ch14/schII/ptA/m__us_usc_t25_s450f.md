@@ -99,7 +99,7 @@
 
             (B) by an administrative judge.
 
-([Pub. L. 93–638, title I, § 102][/us/pl/93/638/s102], formerly §§ 102 and 103(c), Jan. 4, 1975, [88 Stat. 2206][/us/stat/88/2206]; [Pub. L. 100–202, § 101(g)][/us/pl/100/202/s101/g] \[title II, § 201\], Dec. 22, 1987, [101 Stat. 1329–213][/us/stat/101/1329-213], 1329–246; [Pub. L. 100–446, title II, § 201][/us/pl/100/446/s201], Sept. 27, 1988, [102 Stat. 1817][/us/stat/102/1817]; renumbered § 102 and amended [Pub. L. 100–472, title II, § 201(a)][/us/pl/100/472/s201/a], (b)(1), Oct. 5, 1988, [102 Stat. 2288][/us/stat/102/2288], 2289; [Pub. L. 100–581, title II, § 210][/us/pl/100/581/s210], Nov. 1, 1988, [102 Stat. 2941][/us/stat/102/2941]; [Pub. L. 101–644, title II, § 203(b)][/us/pl/101/644/s203/b], Nov. 29, 1990, [104 Stat. 4666][/us/stat/104/4666]; [Pub. L. 103–413, title I, § 102(5)][/us/pl/103/413/s102/5]–(9), Oct. 25, 1994, [108 Stat. 4251–4253][/us/stat/108/4251-4253]; [Pub. L. 106–260, § 6][/us/pl/106/260/s6], Aug. 18, 2000, [114 Stat. 732][/us/stat/114/732].)
+([Pub. L. 93–638, title I][/us/pl/93/638/tI], § 102, formerly §§ 102 and 103(c), Jan. 4, 1975, [88 Stat. 2206][/us/stat/88/2206]; [Pub. L. 100–202][/us/pl/100/202], § 101(g) \[title II, § 201\], Dec. 22, 1987, [101 Stat. 1329–213][/us/stat/101/1329-213], 1329–246; [Pub. L. 100–446, title II][/us/pl/100/446/tII], § 201, Sept. 27, 1988, [102 Stat. 1817][/us/stat/102/1817]; renumbered § 102 and amended [Pub. L. 100–472, title II][/us/pl/100/472/tII], § 201(a), (b)(1), Oct. 5, 1988, [102 Stat. 2288][/us/stat/102/2288], 2289; [Pub. L. 100–581, title II][/us/pl/100/581/tII], § 210, Nov. 1, 1988, [102 Stat. 2941][/us/stat/102/2941]; [Pub. L. 101–644, title II][/us/pl/101/644/tII], § 203(b), Nov. 29, 1990, [104 Stat. 4666][/us/stat/104/4666]; [Pub. L. 103–413, title I][/us/pl/103/413/tI], § 102(5)–(9), Oct. 25, 1994, [108 Stat. 4251–4253][/us/stat/108/4251-4253]; [Pub. L. 106–260][/us/pl/106/260], § 6, Aug. 18, 2000, [114 Stat. 732][/us/stat/114/732].)
 
  __References in Text__ 
 
@@ -115,27 +115,27 @@
 
     2000—Subsec. (e)(1). [Pub. L. 106–260][/us/pl/106/260] inserted “or any civil action conducted pursuant to [section 450m–1(a) of this title][/us/usc/t25/s450m–1/a]” after “subsection (b)(3)”.
 
-    1994—Subsec. (a)(1). [Pub. L. 103–413, § 102(5)][/us/pl/103/413/s102/5], inserted concluding provisions.
+    1994—Subsec. (a)(1). [Pub. L. 103–413][/us/pl/103/413], § 102(5), inserted concluding provisions.
 
-    Subsec. (a)(2). [Pub. L. 103–413, § 102(6)(A)(i)][/us/pl/103/413/s102/6/A/i], (ii), (vi), inserted “, or a proposal to amend or renew a self-determination contract,” before “to the Secretary for review” in first sentence and, in second sentence, substituted “Subject to the provisions of paragraph (4), the Secretary” for “The Secretary”, inserted “and award the contract” after “approve the proposal”, substituted “the Secretary provides written notification to the applicant that contains a specific finding that clearly demonstrates that, or that is supported by a controlling legal authority that” for “, within sixty days of receipt of the proposal, a specific finding is made that”, and inserted concluding provisions.
+    Subsec. (a)(2). [Pub. L. 103–413][/us/pl/103/413], § 102(6)(A)(i), (ii), (vi), inserted “, or a proposal to amend or renew a self-determination contract,” before “to the Secretary for review” in first sentence and, in second sentence, substituted “Subject to the provisions of paragraph (4), the Secretary” for “The Secretary”, inserted “and award the contract” after “approve the proposal”, substituted “the Secretary provides written notification to the applicant that contains a specific finding that clearly demonstrates that, or that is supported by a controlling legal authority that” for “, within sixty days of receipt of the proposal, a specific finding is made that”, and inserted concluding provisions.
 
-    Subsec. (a)(2)(D), (E). [Pub. L. 103–413, § 102(6)(A)(iii)][/us/pl/103/413/s102/6/A/iii]–(v), added subpars. (D) and (E).
+    Subsec. (a)(2)(D), (E). [Pub. L. 103–413][/us/pl/103/413], § 102(6)(A)(iii)–(v), added subpars. (D) and (E).
 
-    Subsec. (a)(4). [Pub. L. 103–413, § 102(6)(B)][/us/pl/103/413/s102/6/B], added par. (4).
+    Subsec. (a)(4). [Pub. L. 103–413][/us/pl/103/413], § 102(6)(B), added par. (4).
 
-    Subsec. (b)(3). [Pub. L. 103–413, § 102(7)][/us/pl/103/413/s102/7], inserted “with the right to engage in full discovery relevant to any issue raised in the matter” after “record” and “, except that the tribe or tribal organization may, in lieu of filing such appeal, exercise the option to initiate an action in a Federal district court and proceed directly to such court pursuant to [section 450m–1(a) of this title][/us/usc/t25/s450m–1/a]” before period at end.
+    Subsec. (b)(3). [Pub. L. 103–413][/us/pl/103/413], § 102(7), inserted “with the right to engage in full discovery relevant to any issue raised in the matter” after “record” and “, except that the tribe or tribal organization may, in lieu of filing such appeal, exercise the option to initiate an action in a Federal district court and proceed directly to such court pursuant to [section 450m–1(a) of this title][/us/usc/t25/s450m–1/a]” before period at end.
 
-    Subsec. (d). [Pub. L. 103–413, § 102(8)][/us/pl/103/413/s102/8], substituted “as provided in [section 2671 of title 28][/us/usc/t28/s2671] and including an individual who provides health care services pursuant to a personal services contract with a tribal organization for the provision of services in any facility owned, operated, or constructed under the jurisdiction of the Indian Health Service)” for “as provided in [section 2671 of title 28][/us/usc/t28/s2671])”.
+    Subsec. (d). [Pub. L. 103–413][/us/pl/103/413], § 102(8), substituted “as provided in [section 2671 of title 28][/us/usc/t28/s2671] and including an individual who provides health care services pursuant to a personal services contract with a tribal organization for the provision of services in any facility owned, operated, or constructed under the jurisdiction of the Indian Health Service)” for “as provided in [section 2671 of title 28][/us/usc/t28/s2671])”.
 
-    Subsec. (e). [Pub. L. 103–413, § 102(9)][/us/pl/103/413/s102/9], added subsec. (e).
+    Subsec. (e). [Pub. L. 103–413][/us/pl/103/413], § 102(9), added subsec. (e).
 
     1990—Subsec. (d). [Pub. L. 101–644][/us/pl/101/644] inserted “or for purposes of section 2679, title 28, with respect to claims by any such person, on or after November 29, 1990, for personal injury, including death, resulting from the operation of an emergency motor vehicle,” after “investigations,”.
 
-    1988—[Pub. L. 100–472, § 201(a)][/us/pl/100/472/s201/a], amended section generally, revising and restating provisions of subsecs. (a) to (c).
+    1988—[Pub. L. 100–472][/us/pl/100/472], § 201(a), amended section generally, revising and restating provisions of subsecs. (a) to (c).
 
     Subsec. (c)(2). [Pub. L. 100–581][/us/pl/100/581] which directed amendment of par. (2) by substituting “[section 1452 of this title][/us/usc/t25/s1452]” for “[section 1425 of title 25][/us/usc/t25/s1425], United States Code” was executed by making the substitution for “section 1425, title 25, United States Code” to reflect the probable intent of Congress.
 
-    Subsec. (d). [Pub. L. 100–472, § 201(b)(1)][/us/pl/100/472/s201/b/1], redesignated the last sentence of subsec. (c) of [section 450g of this title][/us/usc/t25/s450g] as subsec. (d) of this section and substituted “sections 450f or 450h of this title” for “sections 450g and 450h(b) of this title”.
+    Subsec. (d). [Pub. L. 100–472][/us/pl/100/472], § 201(b)(1), redesignated the last sentence of subsec. (c) of [section 450g of this title][/us/usc/t25/s450g] as subsec. (d) of this section and substituted “sections 450f or 450h of this title” for “sections 450g and 450h(b) of this title”.
 
     [Pub. L. 100–446][/us/pl/100/446] inserted into sentence beginning “For purposes of” the words “by any person, initially filed on or after December 22, 1987, whether or not such person is an Indian or Alaska Native or is served on a fee basis or under other circumstances as permitted by Federal law or regulations” after “claims”, “prior to, including, or after December 22, 1987,” after “performance”, “an Indian tribe,” after “investigations,” and “: Provided, That such employees shall be deemed to be acting within the scope of their employment in carrying out such contract or agreement when they are required, by reason of such employment, to perform medical, surgical, dental or related functions at a facility other than the facility operated pursuant to such contract or agreement, but only if such employees are not compensated for the performance of such functions by a person or entity other than such Indian tribe, tribal organization or Indian contractor” after “the contract or agreement”.
 
@@ -143,7 +143,7 @@
 
  __Short Title of 1991 Amendment__ 
 
-[Pub. L. 102–184, § 1][/us/pl/102/184/s1], Dec. 4, 1991, [105 Stat. 1278][/us/stat/105/1278], provided that: 
+[Pub. L. 102–184][/us/pl/102/184], § 1, Dec. 4, 1991, [105 Stat. 1278][/us/stat/105/1278], provided that: 
 
 > “This Act \[amending provisions set out below\] may be cited as the ‘Tribal Self-Governance Demonstration Project Act’.”
 
@@ -153,13 +153,13 @@
 
  __Savings Provision__ 
 
-[Pub. L. 106–260, § 11][/us/pl/106/260/s11], Aug. 18, 2000, [114 Stat. 734][/us/stat/114/734], provided that: 
+[Pub. L. 106–260][/us/pl/106/260], § 11, Aug. 18, 2000, [114 Stat. 734][/us/stat/114/734], provided that: 
 
 > “Funds appropriated for title III of the Indian Self-Determination and Education Assistance Act (\[[Pub. L. 93–638][/us/pl/93/638], former\] [25 U.S.C. 450f][/us/usc/t25/s450f] note) shall be available for use under title V of such Act \[[25 U.S.C. 458aaa][/us/usc/t25/s458aaa] et seq.\].”
 
  __Tribal Self-Governance—Department of Health and Human Services__ 
 
-[Pub. L. 93–638, title VI][/us/pl/93/638], as added by [Pub. L. 106–260, § 5][/us/pl/106/260/s5], Aug. 18, 2000, [114 Stat. 731][/us/stat/114/731], provided that:
+[Pub. L. 93–638, title VI][/us/pl/93/638/tVI], as added by [Pub. L. 106–260][/us/pl/106/260], § 5, Aug. 18, 2000, [114 Stat. 731][/us/stat/114/731], provided that:
 
 > “SEC. 601. __DEFINITIONS.__ 
 
@@ -243,7 +243,7 @@
 
  __Indian Tribal Tort Claims and Risk Management__ 
 
-[Pub. L. 105–277, div. A, § 101(e)][/us/pl/105/277/s101/e] \[title VII\], Oct. 21, 1998, [112 Stat. 2681–231][/us/stat/112/2681-231], 2681–335, provided that:
+[Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(e) \[title VII\], Oct. 21, 1998, [112 Stat. 2681–231][/us/stat/112/2681-231], 2681–335, provided that:
 
 > “SEC. 701. __SHORT TITLE.__ 
 
@@ -315,19 +315,19 @@
 
  __Claims Resulting From Performance of Contract, Grant Agreement, or Cooperative Agreement; Civil Action Against Tribe, Tribal Organization, Etc., Deemed Action Against United States; Reimbursement of Treasury for Payment of Claims__ 
 
-[Pub. L. 101–512, title III, § 314][/us/pl/101/512/s314], Nov. 5, 1990, [104 Stat. 1959][/us/stat/104/1959], as amended by [Pub. L. 103–138, title III, § 308][/us/pl/103/138/s308], Nov. 11, 1993, [107 Stat. 1416][/us/stat/107/1416], provided that: 
+[Pub. L. 101–512, title III][/us/pl/101/512/tIII], § 314, Nov. 5, 1990, [104 Stat. 1959][/us/stat/104/1959], as amended by [Pub. L. 103–138, title III][/us/pl/103/138/tIII], § 308, Nov. 11, 1993, [107 Stat. 1416][/us/stat/107/1416], provided that: 
 
 > “With respect to claims resulting from the performance of functions during fiscal year 1991 and thereafter, or claims asserted after September 30, 1990, but resulting from the performance of functions prior to fiscal year 1991, under a contract, grant agreement, or any other agreement or compact authorized by the Indian Self-Determination and Education Assistance Act of 1975, as amended ([88 Stat. 2203][/us/stat/88/2203]; [25 U.S.C. 450][/us/usc/t25/s450] et seq.) \[[Pub. L. 93–638][/us/pl/93/638], see Short Title note set out under [section 450 of this title][/us/usc/t25/s450] and Tables\] or by title V, part B, Tribally Controlled School Grants of the Hawkins-Stafford Elementary and Secondary School Improvement Amendments of 1988, as amended ([102 Stat. 385][/us/stat/102/385]; [25 U.S.C. 2501][/us/usc/t25/s2501] et seq.), an Indian tribe, tribal organization or Indian contractor is deemed hereafter to be part of the Bureau of Indian Affairs in the Department of the Interior or the Indian Health Service in the Department of Health and Human Services while carrying out any such contract or agreement and its employees are deemed employees of the Bureau or Service while acting within the scope of their employment in carrying out the contract or agreement: Provided, That after September 30, 1990, any civil action or proceeding involving such claims brought hereafter against any tribe, tribal organization, Indian contractor or tribal employee covered by this provision shall be deemed to be an action against the United States and will be defended by the Attorney General and be afforded the full protection and coverage of the Federal Tort Claims Act \[See Short Title note under [section 2671 of Title 28][/us/usc/t28/s2671], Judiciary and Judicial Procedure\]: Provided further, That beginning with the fiscal year ending September 30, 1991, and thereafter, the appropriate Secretary shall request through annual appropriations funds sufficient to reimburse the Treasury for any claims paid in the prior fiscal year pursuant to the foregoing provisions: Provided further, That nothing in this section shall in any way affect the provisions of section 102(d) of the Indian Self-Determination and Education Assistance Act of 1975, as amended ([88 Stat. 2203][/us/stat/88/2203]; [25 U.S.C. 450][/us/usc/t25/s450] et seq.) \[[25 U.S.C. 450f(d)][/us/usc/t25/s450f/d]\].”
 
  __Reference to Section 450g(c) in__  __[__  __Public Law 100–446__  __][/us/pl/100/446]__ 
 
-[Pub. L. 100–472, title II, § 201(b)(2)][/us/pl/100/472/s201/b/2], Oct. 5, 1988, [102 Stat. 2289][/us/stat/102/2289], provided that: 
+[Pub. L. 100–472, title II][/us/pl/100/472/tII], § 201(b)(2), Oct. 5, 1988, [102 Stat. 2289][/us/stat/102/2289], provided that: 
 
-> “Any reference to section 103(c) \[[§ 103(c) of Pub. L. 93–638][/us/pl/93/638/s103/c], formerly [25 U.S.C. 450g(c)][/us/usc/t25/s450g/c]\] contained in an Act making appropriations for the Department of the Interior and Related Agencies for fiscal year 1989 \[[Pub. L. 100–446][/us/pl/100/446]\] shall be deemed to apply to section 102(d) of such Act \[[§ 102(d) of Pub. L. 93–638][/us/pl/93/638/s102/d], [25 U.S.C. 450f(d)][/us/usc/t25/s450f/d]\] as amended by this Act.”
+> “Any reference to section 103(c) \[§ 103(c) of [Pub. L. 93–638][/us/pl/93/638], formerly [25 U.S.C. 450g(c)][/us/usc/t25/s450g/c]\] contained in an Act making appropriations for the Department of the Interior and Related Agencies for fiscal year 1989 \[[Pub. L. 100–446][/us/pl/100/446]\] shall be deemed to apply to section 102(d) of such Act \[§ 102(d) of [Pub. L. 93–638][/us/pl/93/638], [25 U.S.C. 450f(d)][/us/usc/t25/s450f/d]\] as amended by this Act.”
 
  __Tribal Self-Governance Demonstration Project__ 
 
-    [Pub. L. 93–638, title III][/us/pl/93/638], as added by [Pub. L. 100–472, title II, § 209][/us/pl/100/472/s209], Oct. 5, 1988, [102 Stat. 2296][/us/stat/102/2296]; amended by [Pub. L. 102–184][/us/pl/102/184], §§ 2–6, Dec. 4, 1991, [105 Stat. 1278][/us/stat/105/1278]; [Pub. L. 102–573, title VIII, § 814][/us/pl/102/573/s814], Oct. 29, 1992, [106 Stat. 4590][/us/stat/106/4590]; [Pub. L. 103–435, § 22(a)(2)][/us/pl/103/435/s22/a/2], (3), Nov. 2, 1994, [108 Stat. 4575][/us/stat/108/4575]; [Pub. L. 103–437, § 10(c)(1)][/us/pl/103/437/s10/c/1], Nov. 2, 1994, [108 Stat. 4589][/us/stat/108/4589]; [Pub. L. 105–244, title IX, § 901(d)][/us/pl/105/244/s901/d], Oct. 7, 1998, [112 Stat. 1828][/us/stat/112/1828], related to tribal self-governance research and demonstration project conducted by Secretary of the Interior and Secretary of Health and Human Services, prior to repeal by [Pub. L. 106–260, § 10][/us/pl/106/260/s10], Aug. 18, 2000, [114 Stat. 734][/us/stat/114/734].
+    [Pub. L. 93–638, title III][/us/pl/93/638/tIII], as added by [Pub. L. 100–472, title II][/us/pl/100/472/tII], § 209, Oct. 5, 1988, [102 Stat. 2296][/us/stat/102/2296]; amended by [Pub. L. 102–184][/us/pl/102/184], §§ 2–6, Dec. 4, 1991, [105 Stat. 1278][/us/stat/105/1278]; [Pub. L. 102–573, title VIII][/us/pl/102/573/tVIII], § 814, Oct. 29, 1992, [106 Stat. 4590][/us/stat/106/4590]; [Pub. L. 103–435][/us/pl/103/435], § 22(a)(2), (3), Nov. 2, 1994, [108 Stat. 4575][/us/stat/108/4575]; [Pub. L. 103–437][/us/pl/103/437], § 10(c)(1), Nov. 2, 1994, [108 Stat. 4589][/us/stat/108/4589]; [Pub. L. 105–244, title IX][/us/pl/105/244/tIX], § 901(d), Oct. 7, 1998, [112 Stat. 1828][/us/stat/112/1828], related to tribal self-governance research and demonstration project conducted by Secretary of the Interior and Secretary of Health and Human Services, prior to repeal by [Pub. L. 106–260][/us/pl/106/260], § 10, Aug. 18, 2000, [114 Stat. 734][/us/stat/114/734].
 
 ----------
 
@@ -350,21 +350,21 @@
 [/us/usc/t42/s233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs233
 [/us/usc/t28/s2671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2671
 [/us/usc/t25/s450m–1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450m%E2%80%931%2Fa
-[/us/pl/93/638/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638%2Fs102
+[/us/pl/93/638/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638%2FtI
 [/us/stat/88/2206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2206
-[/us/pl/100/202/s101/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202%2Fs101%2Fg
+[/us/pl/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202
 [/us/stat/101/1329-213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1329-213
-[/us/pl/100/446/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F446%2Fs201
+[/us/pl/100/446/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F446%2FtII
 [/us/stat/102/1817]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1817
-[/us/pl/100/472/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F472%2Fs201%2Fa
+[/us/pl/100/472/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F472%2FtII
 [/us/stat/102/2288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2288
-[/us/pl/100/581/s210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F581%2Fs210
+[/us/pl/100/581/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F581%2FtII
 [/us/stat/102/2941]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2941
-[/us/pl/101/644/s203/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F644%2Fs203%2Fb
+[/us/pl/101/644/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F644%2FtII
 [/us/stat/104/4666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4666
-[/us/pl/103/413/s102/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F413%2Fs102%2F5
+[/us/pl/103/413/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F413%2FtI
 [/us/stat/108/4251-4253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4251-4253
-[/us/pl/106/260/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F260%2Fs6
+[/us/pl/106/260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F260
 [/us/stat/114/732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F732
 [/us/act/1934-04-16/ch147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-04-16%2Fch147
 [/us/stat/48/596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F596
@@ -380,47 +380,47 @@
 [/us/stat/62/992]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F992
 [/us/pl/106/260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F260
 [/us/usc/t25/s450m–1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450m%E2%80%931%2Fa
-[/us/pl/103/413/s102/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F413%2Fs102%2F5
-[/us/pl/103/413/s102/6/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F413%2Fs102%2F6%2FA%2Fi
-[/us/pl/103/413/s102/6/A/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F413%2Fs102%2F6%2FA%2Fiii
-[/us/pl/103/413/s102/6/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F413%2Fs102%2F6%2FB
-[/us/pl/103/413/s102/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F413%2Fs102%2F7
+[/us/pl/103/413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F413
+[/us/pl/103/413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F413
+[/us/pl/103/413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F413
+[/us/pl/103/413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F413
+[/us/pl/103/413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F413
 [/us/usc/t25/s450m–1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450m%E2%80%931%2Fa
-[/us/pl/103/413/s102/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F413%2Fs102%2F8
+[/us/pl/103/413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F413
 [/us/usc/t28/s2671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2671
 [/us/usc/t28/s2671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2671
-[/us/pl/103/413/s102/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F413%2Fs102%2F9
+[/us/pl/103/413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F413
 [/us/pl/101/644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F644
-[/us/pl/100/472/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F472%2Fs201%2Fa
+[/us/pl/100/472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F472
 [/us/pl/100/581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F581
 [/us/usc/t25/s1452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1452
 [/us/usc/t25/s1425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1425
-[/us/pl/100/472/s201/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F472%2Fs201%2Fb%2F1
+[/us/pl/100/472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F472
 [/us/usc/t25/s450g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450g
 [/us/pl/100/446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F446
 [/us/pl/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202
-[/us/pl/102/184/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F184%2Fs1
+[/us/pl/102/184]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F184
 [/us/stat/105/1278]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1278
 [/us/pl/93/638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638
 [/us/pl/93/638/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638%2Fs101
 [/us/usc/t25/s450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450
-[/us/pl/106/260/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F260%2Fs11
+[/us/pl/106/260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F260
 [/us/stat/114/734]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F734
 [/us/pl/93/638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638
 [/us/usc/t25/s450f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450f
 [/us/usc/t25/s458aaa]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs458aaa
-[/us/pl/93/638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638
-[/us/pl/106/260/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F260%2Fs5
+[/us/pl/93/638/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638%2FtVI
+[/us/pl/106/260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F260
 [/us/stat/114/731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F731
 [/us/usc/t25/s458aaa]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs458aaa
-[/us/pl/105/277/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fe
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-231
 [/us/usc/t25/s450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450
 [/us/usc/t25/s450b/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450b%2Fe
 [/us/usc/t25/s450b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450b
-[/us/pl/101/512/s314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F512%2Fs314
+[/us/pl/101/512/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F512%2FtIII
 [/us/stat/104/1959]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1959
-[/us/pl/103/138/s308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F138%2Fs308
+[/us/pl/103/138/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F138%2FtIII
 [/us/stat/107/1416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1416
 [/us/stat/88/2203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2203
 [/us/usc/t25/s450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450
@@ -433,27 +433,27 @@
 [/us/usc/t25/s450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450
 [/us/usc/t25/s450f/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450f%2Fd
 [/us/pl/100/446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F446
-[/us/pl/100/472/s201/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F472%2Fs201%2Fb%2F2
+[/us/pl/100/472/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F472%2FtII
 [/us/stat/102/2289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2289
-[/us/pl/93/638/s103/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638%2Fs103%2Fc
+[/us/pl/93/638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638
 [/us/usc/t25/s450g/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450g%2Fc
 [/us/pl/100/446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F446
-[/us/pl/93/638/s102/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638%2Fs102%2Fd
-[/us/usc/t25/s450f/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450f%2Fd
 [/us/pl/93/638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638
-[/us/pl/100/472/s209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F472%2Fs209
+[/us/usc/t25/s450f/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450f%2Fd
+[/us/pl/93/638/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638%2FtIII
+[/us/pl/100/472/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F472%2FtII
 [/us/stat/102/2296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2296
 [/us/pl/102/184]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F184
 [/us/stat/105/1278]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1278
-[/us/pl/102/573/s814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2Fs814
+[/us/pl/102/573/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2FtVIII
 [/us/stat/106/4590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4590
-[/us/pl/103/435/s22/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F435%2Fs22%2Fa%2F2
+[/us/pl/103/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F435
 [/us/stat/108/4575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4575
-[/us/pl/103/437/s10/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437%2Fs10%2Fc%2F1
+[/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
 [/us/stat/108/4589]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4589
-[/us/pl/105/244/s901/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs901%2Fd
+[/us/pl/105/244/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtIX
 [/us/stat/112/1828]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1828
-[/us/pl/106/260/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F260%2Fs10
+[/us/pl/106/260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F260
 [/us/stat/114/734]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F734
 
 

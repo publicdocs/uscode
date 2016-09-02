@@ -41,7 +41,7 @@
 
         Nothing in this chapter shall be construed to limit the authority of the Secretary to enter into cooperative agreements otherwise authorized by law.
 
-([Pub. L. 103–177, title II, § 203][/us/pl/103/177/s203], Dec. 3, 1993, [107 Stat. 2021][/us/stat/107/2021].)
+([Pub. L. 103–177, title II][/us/pl/103/177/tII], § 203, Dec. 3, 1993, [107 Stat. 2021][/us/stat/107/2021].)
 
 ----------
 
@@ -51,7 +51,7 @@
 ----------
 
 [/us/usc/t31/s3324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3324
-[/us/pl/103/177/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F177%2Fs203
+[/us/pl/103/177/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F177%2FtII
 [/us/stat/107/2021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2021
 
 

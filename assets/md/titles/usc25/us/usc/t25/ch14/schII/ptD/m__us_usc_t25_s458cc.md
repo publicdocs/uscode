@@ -135,7 +135,7 @@
 
         At the option of a participating tribe or tribes, any or all provisions of part A of this subchapter shall be made part of an agreement entered into under title III of this Act or this part. The Secretary is obligated to include such provisions at the option of the participating tribe or tribes. If such provision is incorporated it shall have the same force and effect as if set out in full in title III or this part.
 
-([Pub. L. 93–638, title IV, § 403][/us/pl/93/638/s403], as added [Pub. L. 103–413, title II, § 204][/us/pl/103/413/s204], Oct. 25, 1994, [108 Stat. 4272][/us/stat/108/4272]; amended [Pub. L. 104–109, § 19][/us/pl/104/109/s19], Feb. 12, 1996, [110 Stat. 766][/us/stat/110/766]; [Pub. L. 105–244, title IX, § 901(d)][/us/pl/105/244/s901/d], Oct. 7, 1998, [112 Stat. 1828][/us/stat/112/1828]; [Pub. L. 106–568, title VIII, § 812(b)][/us/pl/106/568/s812/b], Dec. 27, 2000, [114 Stat. 2917][/us/stat/114/2917]; [Pub. L. 110–315, title IX, § 941(k)(2)(H)][/us/pl/110/315/s941/k/2/H], Aug. 14, 2008, [122 Stat. 3467][/us/stat/122/3467].)
+([Pub. L. 93–638, title IV][/us/pl/93/638/tIV], § 403, as added [Pub. L. 103–413, title II][/us/pl/103/413/tII], § 204, Oct. 25, 1994, [108 Stat. 4272][/us/stat/108/4272]; amended [Pub. L. 104–109][/us/pl/104/109], § 19, Feb. 12, 1996, [110 Stat. 766][/us/stat/110/766]; [Pub. L. 105–244, title IX][/us/pl/105/244/tIX], § 901(d), Oct. 7, 1998, [112 Stat. 1828][/us/stat/112/1828]; [Pub. L. 106–568, title VIII][/us/pl/106/568/tVIII], § 812(b), Dec. 27, 2000, [114 Stat. 2917][/us/stat/114/2917]; [Pub. L. 110–315, title IX][/us/pl/110/315/tIX], § 941(k)(2)(H), Aug. 14, 2008, [122 Stat. 3467][/us/stat/122/3467].)
 
  __References in Text__ 
 
@@ -145,7 +145,7 @@
 
     This subchapter, referred to in subsecs. (e)(1), (g)(3), and (j), was in the original “this Act”, meaning [Pub. L. 93–638][/us/pl/93/638], Jan. 4, 1975, [88 Stat. 2203][/us/stat/88/2203], known as the Indian Self-Determination and Education Assistance Act, which is classified principally to this subchapter. For complete classification of this Act to the Code, see Short Title note set out under [section 450 of this title][/us/usc/t25/s450] and Tables.
 
-    Title III of this Act, referred to in subsecs. (g)(2) and (l), is title III of [Pub. L. 93–638][/us/pl/93/638], as added by [Pub. L. 100–472, title II, § 209][/us/pl/100/472/s209], Oct. 5, 1988, [102 Stat. 2296][/us/stat/102/2296], which was set out as a note under [section 450f of this title][/us/usc/t25/s450f] prior to repeal by [Pub. L. 106–260, § 10][/us/pl/106/260/s10], Aug. 18, 2000, [114 Stat. 734][/us/stat/114/734].
+    Title III of this Act, referred to in subsecs. (g)(2) and (l), is title III of [Pub. L. 93–638][/us/pl/93/638], as added by [Pub. L. 100–472, title II][/us/pl/100/472/tII], § 209, Oct. 5, 1988, [102 Stat. 2296][/us/stat/102/2296], which was set out as a note under [section 450f of this title][/us/usc/t25/s450f] prior to repeal by [Pub. L. 106–260][/us/pl/106/260], § 10, Aug. 18, 2000, [114 Stat. 734][/us/stat/114/734].
 
     The Act of July 3, 1952, referred to in subsec. (h)(2), is [act July 3, 1952, ch. 549][/us/act/1952-07-03/ch549], [66 Stat. 323][/us/stat/66/323], which enacted [section 82a of this title][/us/usc/t25/s82a] and provisions set out as a note under [section 82a of this title][/us/usc/t25/s82a].
 
@@ -153,7 +153,7 @@
 
  __Codification__ 
 
-    In subsec. (e)(1), “division B (except sections 1123, 2303, 2304, and 2313) of subtitle I of title 41” substituted for “the Office of Federal Procurement and Policy Act” on authority of [Pub. L. 111–350, § 6(c)][/us/pl/111/350/s6/c], Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
+    In subsec. (e)(1), “division B (except sections 1123, 2303, 2304, and 2313) of subtitle I of title 41” substituted for “the Office of Federal Procurement and Policy Act” on authority of [Pub. L. 111–350][/us/pl/111/350], § 6(c), Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
 
  __Amendments__ 
 
@@ -189,16 +189,16 @@
 [/us/usc/t25/s476]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs476
 [/us/usc/t25/s82a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs82a
 [/us/usc/t25/s458ee/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs458ee%2Fc%2F1
-[/us/pl/93/638/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638%2Fs403
-[/us/pl/103/413/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F413%2Fs204
+[/us/pl/93/638/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638%2FtIV
+[/us/pl/103/413/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F413%2FtII
 [/us/stat/108/4272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4272
-[/us/pl/104/109/s19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F109%2Fs19
+[/us/pl/104/109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F109
 [/us/stat/110/766]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F766
-[/us/pl/105/244/s901/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs901%2Fd
+[/us/pl/105/244/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtIX
 [/us/stat/112/1828]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1828
-[/us/pl/106/568/s812/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F568%2Fs812%2Fb
+[/us/pl/106/568/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F568%2FtVIII
 [/us/stat/114/2917]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2917
-[/us/pl/110/315/s941/k/2/H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs941%2Fk%2F2%2FH
+[/us/pl/110/315/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtIX
 [/us/stat/122/3467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3467
 [/us/act/1934-04-16/ch147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-04-16%2Fch147
 [/us/stat/48/596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F596
@@ -210,10 +210,10 @@
 [/us/stat/88/2203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2203
 [/us/usc/t25/s450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450
 [/us/pl/93/638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638
-[/us/pl/100/472/s209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F472%2Fs209
+[/us/pl/100/472/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F472%2FtII
 [/us/stat/102/2296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2296
 [/us/usc/t25/s450f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450f
-[/us/pl/106/260/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F260%2Fs10
+[/us/pl/106/260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F260
 [/us/stat/114/734]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F734
 [/us/act/1952-07-03/ch549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-03%2Fch549
 [/us/stat/66/323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F323
@@ -221,7 +221,7 @@
 [/us/usc/t25/s82a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs82a
 [/us/pl/93/638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638
 [/us/usc/t25/s450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450
-[/us/pl/111/350/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs6%2Fc
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3854
 [/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
 [/us/pl/106/568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F568

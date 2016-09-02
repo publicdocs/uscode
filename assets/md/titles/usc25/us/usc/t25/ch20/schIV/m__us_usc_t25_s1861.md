@@ -17,7 +17,7 @@
 
     In this subchapter, the term “tribally controlled postsecondary career and technical institution” has the meaning given the term in [section 2302 of title 20][/us/usc/t20/s2302].
 
-([Pub. L. 95–471, title V, § 501][/us/pl/95/471/s501], as added [Pub. L. 110–315, title IX, § 941(j)(1)][/us/pl/110/315/s941/j/1], Aug. 14, 2008, [122 Stat. 3463][/us/stat/122/3463].)
+([Pub. L. 95–471, title V][/us/pl/95/471/tV], § 501, as added [Pub. L. 110–315, title IX][/us/pl/110/315/tIX], § 941(j)(1), Aug. 14, 2008, [122 Stat. 3463][/us/stat/122/3463].)
 
 ----------
 
@@ -27,8 +27,8 @@
 ----------
 
 [/us/usc/t20/s2302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs2302
-[/us/pl/95/471/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F471%2Fs501
-[/us/pl/110/315/s941/j/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs941%2Fj%2F1
+[/us/pl/95/471/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F471%2FtV
+[/us/pl/110/315/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtIX
 [/us/stat/122/3463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3463
 
 

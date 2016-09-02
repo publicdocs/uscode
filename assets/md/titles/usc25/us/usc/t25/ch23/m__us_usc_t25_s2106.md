@@ -17,7 +17,7 @@
 
     In carrying out the obligations of the United States, the Secretary shall ensure that upon the request of an Indian tribe or individual Indian and to the extent of his available resources, such tribe or individual Indian shall have available advice, assistance, and information during the negotiation of a Minerals Agreement. The Secretary may fulfill this responsibility either directly through the use of Federal officials and resources or indirectly by providing financial assistance to the Indian tribe or individual Indian to secure independent assistance.
 
-([Pub. L. 97–382, § 7][/us/pl/97/382/s7], Dec. 22, 1982, [96 Stat. 1940][/us/stat/96/1940].)
+([Pub. L. 97–382][/us/pl/97/382], § 7, Dec. 22, 1982, [96 Stat. 1940][/us/stat/96/1940].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/97/382/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F382%2Fs7
+[/us/pl/97/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F382
 [/us/stat/96/1940]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1940
 
 

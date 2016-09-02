@@ -23,7 +23,7 @@
 
         For purposes of the Indian Gaming Regulatory Act ([25 U.S.C. 2701][/us/usc/t25/s2701] et seq.), settlement lands shall not be treated as Indian lands.
 
-([Pub. L. 95–395, § 9][/us/pl/95/395/s9], Sept. 30, 1978, [92 Stat. 817][/us/stat/92/817]; [Pub. L. 104–208, div. A, title I, § 101(d)][/us/pl/104/208/s101/d] \[title III, § 330\], Sept. 30, 1996, [110 Stat. 3009–181][/us/stat/110/3009-181], 3009–227.)
+([Pub. L. 95–395][/us/pl/95/395], § 9, Sept. 30, 1978, [92 Stat. 817][/us/stat/92/817]; [Pub. L. 104–208, div. A, title I][/us/pl/104/208/dA/tI], § 101(d) \[title III, § 330\], Sept. 30, 1996, [110 Stat. 3009–181][/us/stat/110/3009-181], 3009–227.)
 
  __References in Text__ 
 
@@ -41,9 +41,9 @@
 ----------
 
 [/us/usc/t25/s2701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs2701
-[/us/pl/95/395/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F395%2Fs9
+[/us/pl/95/395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F395
 [/us/stat/92/817]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F817
-[/us/pl/104/208/s101/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Fd
+[/us/pl/104/208/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtI
 [/us/stat/110/3009-181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-181
 [/us/pl/100/497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F497
 [/us/stat/102/2467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2467

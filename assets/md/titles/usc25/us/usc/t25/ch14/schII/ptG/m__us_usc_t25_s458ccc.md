@@ -37,7 +37,7 @@
 
         The term “Secretary” means the Secretary of the Interior.
 
-([Pub. L. 93–638, title VII, § 701][/us/pl/93/638/s701], as added [Pub. L. 111–211, title II, § 231(c)][/us/pl/111/211/s231/c], July 29, 2010, [124 Stat. 2274][/us/stat/124/2274].)
+([Pub. L. 93–638, title VII][/us/pl/93/638/tVII], § 701, as added [Pub. L. 111–211, title II][/us/pl/111/211/tII], § 231(c), July 29, 2010, [124 Stat. 2274][/us/stat/124/2274].)
 
 ----------
 
@@ -48,8 +48,8 @@
 
 [/us/usc/t25/s458ccc–1/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs458ccc%E2%80%931%2Fe%2F1
 [/us/usc/t25/s458ccc–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs458ccc%E2%80%931
-[/us/pl/93/638/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638%2Fs701
-[/us/pl/111/211/s231/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211%2Fs231%2Fc
+[/us/pl/93/638/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638%2FtVII
+[/us/pl/111/211/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211%2FtII
 [/us/stat/124/2274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2274
 
 

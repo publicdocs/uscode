@@ -41,7 +41,7 @@
 
     (12) the Indian tribes have the primary responsibility for protecting and ensuring the well-being of their members and the resources made available under this chapter will assist Indian tribes in meeting that responsibility.
 
-([Pub. L. 99–570, title IV, § 4202][/us/pl/99/570/s4202], Oct. 27, 1986, [100 Stat. 3207–137][/us/stat/100/3207-137].)
+([Pub. L. 99–570, title IV][/us/pl/99/570/tIV], § 4202, Oct. 27, 1986, [100 Stat. 3207–137][/us/stat/100/3207-137].)
 
  __References in Text__ 
 
@@ -49,13 +49,13 @@
 
  __Short Title__ 
 
-[Pub. L. 99–570, title IV, § 4201][/us/pl/99/570/s4201], Oct. 27, 1986, [100 Stat. 3207–137][/us/stat/100/3207-137], provided that: 
+[Pub. L. 99–570, title IV][/us/pl/99/570/tIV], § 4201, Oct. 27, 1986, [100 Stat. 3207–137][/us/stat/100/3207-137], provided that: 
 
 > “This subtitle \[subtitle C (§§ 4201–4230) of title IV of [Pub. L. 99–570][/us/pl/99/570], enacting this chapter, amending [section 1302 of this title][/us/usc/t25/s1302], and enacting provisions set out as a note under [section 1302 of this title][/us/usc/t25/s1302]\] may be cited as the ‘Indian Alcohol and Substance Abuse Prevention and Treatment Act of 1986’.”
 
  __Rule of Construction for__  __[__  __Pub. L. 100–690__  __][/us/pl/100/690]__ 
 
-[Pub. L. 100–690, title II, § 2219][/us/pl/100/690/s2219], Nov. 18, 1988, [102 Stat. 4222][/us/stat/102/4222], provided that: 
+[Pub. L. 100–690, title II][/us/pl/100/690/tII], § 2219, Nov. 18, 1988, [102 Stat. 4222][/us/stat/102/4222], provided that: 
 
 > “Except as otherwise provided in this Act or the amendments made by this Act \[see Tables for classification\], nothing in this Act or the amendments made by this Act shall be construed to affect the obligation of the United States to any Indian or Indian tribe arising out of any treaty, statute, Executive order, or the trust responsibility of the United States owing to such Indian or Indian tribe. Nothing in this section shall exempt any individual Indian from the sanctions of ‘user accountability’ provided for elsewhere in this Act: Provided, That no individual Indian shall be denied any benefit under Federal Indian programs comparable to those ‘means tested’ safety net programs otherwise excluded under this Act.”
 
@@ -66,17 +66,17 @@
 ----------
 ----------
 
-[/us/pl/99/570/s4202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs4202
+[/us/pl/99/570/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2FtIV
 [/us/stat/100/3207-137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3207-137
 [/us/pl/99/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570
 [/us/stat/100/3207-137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3207-137
-[/us/pl/99/570/s4201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs4201
+[/us/pl/99/570/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2FtIV
 [/us/stat/100/3207-137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3207-137
 [/us/pl/99/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570
 [/us/usc/t25/s1302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1302
 [/us/usc/t25/s1302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1302
 [/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
-[/us/pl/100/690/s2219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs2219
+[/us/pl/100/690/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtII
 [/us/stat/102/4222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4222
 
 

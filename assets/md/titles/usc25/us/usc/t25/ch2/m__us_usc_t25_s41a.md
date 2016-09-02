@@ -17,7 +17,7 @@
 
     Indian inspectors shall on and after March 4, 1909 be termed inspectors, and shall be included in the classified service.
 
-([Mar. 4, 1909, ch. 297, § 1][/us/act/1909-03-04/ch297/s1], [35 Stat. 888][/us/stat/35/888].)
+([Mar. 4, 1909, ch. 297][/us/act/1909-03-04/ch297], § 1, [35 Stat. 888][/us/stat/35/888].)
 
  __Transfer of Functions__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1909-03-04/ch297/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1909-03-04%2Fch297%2Fs1
+[/us/act/1909-03-04/ch297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1909-03-04%2Fch297
 [/us/stat/35/888]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F35%2F888
 [/us/stat/64/1262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1262
 

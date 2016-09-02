@@ -17,7 +17,7 @@
 
     The Secretary shall distribute on a pro rata basis to the persons whose names appear on the roll prepared pursuant to [section 911 of this title][/us/usc/t25/s911], or their heirs or legatees, the balance of the funds on deposit in the Treasury of the United States to the credit of the Quapaw Indians that were appropriated by the Act of August 26, 1954 ([68 Stat. 801][/us/stat/68/801]), in satisfaction of a judgment against the United States that was obtained by the tribe in the Indian Claims Commission on May 7, 1954, and accrued interest thereon. The funds so distributed shall not be subject to Federal or State income tax.
 
-([Pub. L. 86–97, § 2][/us/pl/86/97/s2], July 17, 1959, [73 Stat. 222][/us/stat/73/222].)
+([Pub. L. 86–97][/us/pl/86/97], § 2, July 17, 1959, [73 Stat. 222][/us/stat/73/222].)
 
  __References in Text__ 
 
@@ -34,7 +34,7 @@
 
 [/us/usc/t25/s911]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs911
 [/us/stat/68/801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F801
-[/us/pl/86/97/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F97%2Fs2
+[/us/pl/86/97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F97
 [/us/stat/73/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F222
 [/us/act/1954-08-26/ch935]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-26%2Fch935
 [/us/stat/68/801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F801

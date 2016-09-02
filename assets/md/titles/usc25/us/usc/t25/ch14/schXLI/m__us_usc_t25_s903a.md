@@ -35,7 +35,7 @@
 
         In providing to the tribe such services to which it may be entitled upon its recognition pursuant to subsection (a) of this section, the Secretary of the Interior and the Secretary of Health and Human Services, as appropriate, are authorized from funds appropriated pursuant to [section 13 of this title][/us/usc/t25/s13], the Act of August 5, 1954 ([68 Stat. 674][/us/stat/68/674]), as amended \[[42 U.S.C. 2001][/us/usc/t42/s2001] et seq.\], or any other Act authorizing appropriations for the administration of Indian affairs, upon the request of the tribe and subject to such terms and conditions as may be mutually agreed to, to make grants and contract to make grants which will accomplish the general purposes for which the funds were appropriated. The Menominee Restoration Committee shall have full authority and capacity to be a party to receive such grants  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be followed by a comma. </sup></sup>  to make such contracts, and to bind the tribal governing body as the successor in interest to the Menominee Restoration Committee: Provided, however, That the Menominee Restoration Committee shall have no authority to bind the tribe for a period of more than six months after the date on which the tribal governing body takes office.
 
-([Pub. L. 93–197, § 3][/us/pl/93/197/s3], Dec. 22, 1973, [87 Stat. 770][/us/stat/87/770]; [Pub. L. 96–88, title V, § 509(b)][/us/pl/96/88/s509/b], Oct. 17, 1979, [93 Stat. 695][/us/stat/93/695].)
+([Pub. L. 93–197][/us/pl/93/197], § 3, Dec. 22, 1973, [87 Stat. 770][/us/stat/87/770]; [Pub. L. 96–88, title V][/us/pl/96/88/tV], § 509(b), Oct. 17, 1979, [93 Stat. 695][/us/stat/93/695].)
 
  __References in Text__ 
 
@@ -65,9 +65,9 @@
 [/us/usc/t25/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs13
 [/us/stat/68/674]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F674
 [/us/usc/t42/s2001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2001
-[/us/pl/93/197/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F197%2Fs3
+[/us/pl/93/197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F197
 [/us/stat/87/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F770
-[/us/pl/96/88/s509/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs509%2Fb
+[/us/pl/96/88/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2FtV
 [/us/stat/93/695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F695
 [/us/pl/93/197/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F197%2Fs3%2Fb
 [/us/usc/t25/s461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs461

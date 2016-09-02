@@ -31,23 +31,23 @@
 
         In determining whether to renew a contract or grant with an urban Indian organization under [section 1653 of this title][/us/usc/t25/s1653] which has completed performance of a contract or grant under [section 1654 of this title][/us/usc/t25/s1654], the Secretary shall review the records of the urban Indian organization, the reports submitted under [section 1657 of this title][/us/usc/t25/s1657], and, in the case of a renewal of a contract or grant under [section 1653 of this title][/us/usc/t25/s1653], shall consider the results of the onsite evaluations conducted under subsection (b).
 
-([Pub. L. 94–437, title V, § 505][/us/pl/94/437/s505], as added [Pub. L. 100–713, title V, § 501][/us/pl/100/713/s501], Nov. 23, 1988, [102 Stat. 4822][/us/stat/102/4822]; amended [Pub. L. 102–573, title V, § 501(b)(3)][/us/pl/102/573/s501/b/3], Oct. 29, 1992, [106 Stat. 4568][/us/stat/106/4568].)
+([Pub. L. 94–437, title V][/us/pl/94/437/tV], § 505, as added [Pub. L. 100–713, title V][/us/pl/100/713/tV], § 501, Nov. 23, 1988, [102 Stat. 4822][/us/stat/102/4822]; amended [Pub. L. 102–573, title V][/us/pl/102/573/tV], § 501(b)(3), Oct. 29, 1992, [106 Stat. 4568][/us/stat/106/4568].)
 
  __Prior Provisions__ 
 
-    A prior section 1655, [Pub. L. 94–437, title V, § 505][/us/pl/94/437/s505], Sept. 30, 1976, [90 Stat. 1412][/us/stat/90/1412]; [Pub. L. 96–537, § 7][/us/pl/96/537/s7], Dec. 17, 1980, [94 Stat. 3179][/us/stat/94/3179], related to reports by urban Indian organizations and rural Indian organizations to Secretary, contents, audit of reports and records, prior to the general revision of this subchapter by [Pub. L. 100–713][/us/pl/100/713].
+    A prior section 1655, [Pub. L. 94–437, title V][/us/pl/94/437/tV], § 505, Sept. 30, 1976, [90 Stat. 1412][/us/stat/90/1412]; [Pub. L. 96–537][/us/pl/96/537], § 7, Dec. 17, 1980, [94 Stat. 3179][/us/stat/94/3179], related to reports by urban Indian organizations and rural Indian organizations to Secretary, contents, audit of reports and records, prior to the general revision of this subchapter by [Pub. L. 100–713][/us/pl/100/713].
 
  __Amendments__ 
 
-    1992—[Pub. L. 102–573, § 501(b)(3)(E)][/us/pl/102/573/s501/b/3/E], substituted “renewals” for “contract renewals” in section catchline.
+    1992—[Pub. L. 102–573][/us/pl/102/573], § 501(b)(3)(E), substituted “renewals” for “contract renewals” in section catchline.
 
-    Subsec. (a). [Pub. L. 102–573, § 501(b)(3)(A)][/us/pl/102/573/s501/b/3/A], inserted “compliance with grant requirements under this subchapter and” before “compliance with, and”.
+    Subsec. (a). [Pub. L. 102–573][/us/pl/102/573], § 501(b)(3)(A), inserted “compliance with grant requirements under this subchapter and” before “compliance with, and”.
 
-    Subsec. (b). [Pub. L. 102–573, § 501(b)(3)(B)][/us/pl/102/573/s501/b/3/B], inserted “or received a grant” after “entered into a contract” and “or the terms of such grant” before period at end.
+    Subsec. (b). [Pub. L. 102–573][/us/pl/102/573], § 501(b)(3)(B), inserted “or received a grant” after “entered into a contract” and “or the terms of such grant” before period at end.
 
-    Subsec. (c). [Pub. L. 102–573, § 501(b)(3)(C)][/us/pl/102/573/s501/b/3/C], inserted “the requirements of a grant or complied with” after “has not complied with”, “or grant” after “such contract” wherever appearing, “or make a grant” after “enter into a contract”, and “or grant” after “whose contract”.
+    Subsec. (c). [Pub. L. 102–573][/us/pl/102/573], § 501(b)(3)(C), inserted “the requirements of a grant or complied with” after “has not complied with”, “or grant” after “such contract” wherever appearing, “or make a grant” after “enter into a contract”, and “or grant” after “whose contract”.
 
-    Subsec. (d). [Pub. L. 102–573, § 501(b)(3)(D)][/us/pl/102/573/s501/b/3/D], inserted “or grant” after “a contract” wherever appearing.
+    Subsec. (d). [Pub. L. 102–573][/us/pl/102/573], § 501(b)(3)(D), inserted “or grant” after “a contract” wherever appearing.
 
 ----------
 
@@ -63,20 +63,20 @@
 [/us/usc/t25/s1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1654
 [/us/usc/t25/s1657]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1657
 [/us/usc/t25/s1653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1653
-[/us/pl/94/437/s505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437%2Fs505
-[/us/pl/100/713/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F713%2Fs501
+[/us/pl/94/437/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437%2FtV
+[/us/pl/100/713/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F713%2FtV
 [/us/stat/102/4822]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4822
-[/us/pl/102/573/s501/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2Fs501%2Fb%2F3
+[/us/pl/102/573/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2FtV
 [/us/stat/106/4568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4568
-[/us/pl/94/437/s505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437%2Fs505
+[/us/pl/94/437/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437%2FtV
 [/us/stat/90/1412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1412
-[/us/pl/96/537/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F537%2Fs7
+[/us/pl/96/537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F537
 [/us/stat/94/3179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3179
 [/us/pl/100/713]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F713
-[/us/pl/102/573/s501/b/3/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2Fs501%2Fb%2F3%2FE
-[/us/pl/102/573/s501/b/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2Fs501%2Fb%2F3%2FA
-[/us/pl/102/573/s501/b/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2Fs501%2Fb%2F3%2FB
-[/us/pl/102/573/s501/b/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2Fs501%2Fb%2F3%2FC
-[/us/pl/102/573/s501/b/3/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2Fs501%2Fb%2F3%2FD
+[/us/pl/102/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573
+[/us/pl/102/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573
+[/us/pl/102/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573
+[/us/pl/102/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573
+[/us/pl/102/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573
 
 

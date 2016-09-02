@@ -13,9 +13,9 @@
 
 [Previous](./../../../..//us/usc/t25/ch5/m__us_usc_t25_s194.md) | [Next](./../../../..//us/usc/t25/ch5/m__us_usc_t25_s196.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs195)
 
-## § 195. Repealed. [Aug. 15, 1953, ch. 506, § 2(b)][/us/act/1953-08-15/ch506/s2/b], [67 Stat. 590][/us/stat/67/590]
+## § 195. Repealed. [Aug. 15, 1953, ch. 506][/us/act/1953-08-15/ch506], § 2(b), [67 Stat. 590][/us/stat/67/590]
 
-    Section, [act July 4, 1884, ch. 180, § 1][/us/act/1884-07-04/ch180/s1], [23 Stat. 94][/us/stat/23/94], related to sale of cattle purchased by Government to nontribal members.
+    Section, [act July 4, 1884, ch. 180][/us/act/1884-07-04/ch180], § 1, [23 Stat. 94][/us/stat/23/94], related to sale of cattle purchased by Government to nontribal members.
 
 ----------
 
@@ -24,9 +24,9 @@
 ----------
 ----------
 
-[/us/act/1953-08-15/ch506/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-08-15%2Fch506%2Fs2%2Fb
+[/us/act/1953-08-15/ch506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-08-15%2Fch506
 [/us/stat/67/590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F590
-[/us/act/1884-07-04/ch180/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1884-07-04%2Fch180%2Fs1
+[/us/act/1884-07-04/ch180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1884-07-04%2Fch180
 [/us/stat/23/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F23%2F94
 
 

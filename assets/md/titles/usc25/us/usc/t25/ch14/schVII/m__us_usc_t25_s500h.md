@@ -17,7 +17,7 @@
 
     The Secretary of the Interior is hereby authorized to grant, in his discretion and subject to such terms as he may impose, to any corporations, associations, or other organizations of said natives any or all of the powers relating to the administration of the reindeer industry or business herein provided for, upon a finding by him as to each grant that it is in the interests of the said natives of Alaska and will serve the purposes of this subchapter.
 
-([Sept. 1, 1937, ch. 897, § 9][/us/act/1937-09-01/ch897/s9], [50 Stat. 901][/us/stat/50/901].)
+([Sept. 1, 1937, ch. 897][/us/act/1937-09-01/ch897], § 9, [50 Stat. 901][/us/stat/50/901].)
 
  __References in Text__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/act/1937-09-01/ch897/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-09-01%2Fch897%2Fs9
+[/us/act/1937-09-01/ch897]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-09-01%2Fch897
 [/us/stat/50/901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F50%2F901
 [/us/usc/t48/s250h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs250h
 

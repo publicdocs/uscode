@@ -73,7 +73,7 @@
 
         (2) nothing in this Act invalidates any constitution or other governing document adopted by an Indian tribe after June 18, 1934, in accordance with the authority described in paragraph (1).
 
-([June 18, 1934, ch. 576, § 16][/us/act/1934-06-18/ch576/s16], [48 Stat. 987][/us/stat/48/987]; [Pub. L. 100–581, title I, § 101][/us/pl/100/581/s101], Nov. 1, 1988, [102 Stat. 2938][/us/stat/102/2938]; [Pub. L. 103–263, § 5(b)][/us/pl/103/263/s5/b], May 31, 1994, [108 Stat. 709][/us/stat/108/709]; [Pub. L. 106–179, § 3][/us/pl/106/179/s3], Mar. 14, 2000, [114 Stat. 47][/us/stat/114/47]; [Pub. L. 108–204, title I, § 103][/us/pl/108/204/s103], Mar. 2, 2004, [118 Stat. 543][/us/stat/118/543].)
+([June 18, 1934, ch. 576][/us/act/1934-06-18/ch576], § 16, [48 Stat. 987][/us/stat/48/987]; [Pub. L. 100–581, title I][/us/pl/100/581/tI], § 101, Nov. 1, 1988, [102 Stat. 2938][/us/stat/102/2938]; [Pub. L. 103–263][/us/pl/103/263], § 5(b), May 31, 1994, [108 Stat. 709][/us/stat/108/709]; [Pub. L. 106–179][/us/pl/106/179], § 3, Mar. 14, 2000, [114 Stat. 47][/us/stat/114/47]; [Pub. L. 108–204, title I][/us/pl/108/204/tI], § 103, Mar. 2, 2004, [118 Stat. 543][/us/stat/118/543].)
 
  __References in Text__ 
 
@@ -95,7 +95,7 @@
 
  __Definitions Applicable__ 
 
-[Pub. L. 100–581, title I, § 102][/us/pl/100/581/s102], Nov. 1, 1988, [102 Stat. 2939][/us/stat/102/2939], provided that: 
+[Pub. L. 100–581, title I][/us/pl/100/581/tI], § 102, Nov. 1, 1988, [102 Stat. 2939][/us/stat/102/2939], provided that: 
 
 > “For the purpose of this Act \[probably means title I of [Pub. L. 100–581][/us/pl/100/581] which amended this section and enacted provisions set out below\], the term—
 
@@ -107,7 +107,7 @@
 
  __Amendment of Tribal Constitution and Bylaws__ 
 
-[Pub. L. 100–581, title I, § 103][/us/pl/100/581/s103], Nov. 1, 1988, [102 Stat. 2939][/us/stat/102/2939], provided that: 
+[Pub. L. 100–581, title I][/us/pl/100/581/tI], § 103, Nov. 1, 1988, [102 Stat. 2939][/us/stat/102/2939], provided that: 
 
 > “Nothing in this Act \[probably means title I of [Pub. L. 100–581][/us/pl/100/581] which amended this section and enacted provisions set out above\] is intended to amend, revoke, or affect any tribal constitution, bylaw, or amendment ratified and approved prior to this Act.”
 
@@ -120,15 +120,15 @@
 
 [/us/usc/t25/s461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs461
 [/us/stat/48/984]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F984
-[/us/act/1934-06-18/ch576/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-18%2Fch576%2Fs16
+[/us/act/1934-06-18/ch576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-18%2Fch576
 [/us/stat/48/987]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F987
-[/us/pl/100/581/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F581%2Fs101
+[/us/pl/100/581/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F581%2FtI
 [/us/stat/102/2938]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2938
-[/us/pl/103/263/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F263%2Fs5%2Fb
+[/us/pl/103/263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F263
 [/us/stat/108/709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F709
-[/us/pl/106/179/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F179%2Fs3
+[/us/pl/106/179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F179
 [/us/stat/114/47]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F47
-[/us/pl/108/204/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F204%2Fs103
+[/us/pl/108/204/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F204%2FtI
 [/us/stat/118/543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F543
 [/us/act/1934-06-18/ch576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-18%2Fch576
 [/us/stat/48/984]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F984
@@ -138,10 +138,10 @@
 [/us/pl/106/179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F179
 [/us/pl/103/263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F263
 [/us/pl/100/581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F581
-[/us/pl/100/581/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F581%2Fs102
+[/us/pl/100/581/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F581%2FtI
 [/us/stat/102/2939]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2939
 [/us/pl/100/581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F581
-[/us/pl/100/581/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F581%2Fs103
+[/us/pl/100/581/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F581%2FtI
 [/us/stat/102/2939]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2939
 [/us/pl/100/581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F581
 

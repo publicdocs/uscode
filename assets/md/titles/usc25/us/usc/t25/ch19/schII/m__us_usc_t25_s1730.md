@@ -17,7 +17,7 @@
 
     All funds of either the Passamaquoddy Tribe or the Penobscot Nation held in trust by the State of Maine as of October 10, 1980, shall be transferred to the Secretary to be held in trust for the respective tribe or nation and shall be added to the principal of the settlement fund allocated to that tribe or nation. The receipt of said State funds by the Secretary shall constitute a full discharge of any claim of the respective tribe or nation, its predecessors and successors in interest, and its members, may have against the State of Maine, its officers, employees, agents, and representatives, arising from the administration or management of said State funds. Upon receipt of said State funds, the Secretary, on behalf of the respective tribe and nation, shall execute general releases of all claims against the State of Maine, its officers, employees, agents, and representatives, arising from the administration or management of said State funds.
 
-([Pub. L. 96–420, § 11][/us/pl/96/420/s11], Oct. 10, 1980, [94 Stat. 1796][/us/stat/94/1796].)
+([Pub. L. 96–420][/us/pl/96/420], § 11, Oct. 10, 1980, [94 Stat. 1796][/us/stat/94/1796].)
 
  __Codification__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/96/420/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F420%2Fs11
+[/us/pl/96/420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F420
 [/us/stat/94/1796]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1796
 
 

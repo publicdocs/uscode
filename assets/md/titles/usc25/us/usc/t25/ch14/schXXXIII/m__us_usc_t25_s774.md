@@ -17,7 +17,7 @@
 
     All costs incurred by the Secretary in the preparation of such rolls and the payment of such per capita shares shall be paid by appropriate withdrawals out of the fund or funds on deposit in the Treasury of the United States arising out of such judgments.
 
-([Aug. 30, 1954, ch. 1085, § 4][/us/act/1954-08-30/ch1085/s4], [68 Stat. 980][/us/stat/68/980].)
+([Aug. 30, 1954, ch. 1085][/us/act/1954-08-30/ch1085], § 4, [68 Stat. 980][/us/stat/68/980].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1954-08-30/ch1085/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-30%2Fch1085%2Fs4
+[/us/act/1954-08-30/ch1085]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-30%2Fch1085
 [/us/stat/68/980]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F980
 
 

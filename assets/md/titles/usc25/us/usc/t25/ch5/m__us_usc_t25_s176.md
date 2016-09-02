@@ -21,7 +21,7 @@
 
  __Codification__ 
 
-    R.S. § 2115 derived from [act Apr. 8, 1864, ch. 48, § 6][/us/act/1864-04-08/ch48/s6], [13 Stat. 41][/us/stat/13/41].
+    R.S. § 2115 derived from [act Apr. 8, 1864, ch. 48][/us/act/1864-04-08/ch48], § 6, [13 Stat. 41][/us/stat/13/41].
 
  __Transfer of Functions__ 
 
@@ -37,7 +37,7 @@
 ----------
 
 [/us/stat/60/1100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F1100
-[/us/act/1864-04-08/ch48/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1864-04-08%2Fch48%2Fs6
+[/us/act/1864-04-08/ch48]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1864-04-08%2Fch48
 [/us/stat/13/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F13%2F41
 [/us/stat/64/1262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1262
 

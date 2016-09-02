@@ -17,7 +17,7 @@
 
     The funds appropriated by the Act of June 19, 1968 ([82 Stat. 239][/us/stat/82/239]), to pay compromise judgments to the Mdewakanton and Wahpakoota Tribe of Sioux Indians, and the Sisseton and Wahpeton Tribes of Sioux Indians, in Indian Claims Commission dockets numbered 142, 359, 360, 361, 362, and 363, together with interest thereon, after payment of attorney fees and litigation expenses and the costs of carrying out the provisions of this part, shall be distributed as provided in this part.
 
-([Pub. L. 92–555, § 1][/us/pl/92/555/s1], Oct. 25, 1972, [86 Stat. 1168][/us/stat/86/1168].)
+([Pub. L. 92–555][/us/pl/92/555], § 1, Oct. 25, 1972, [86 Stat. 1168][/us/stat/86/1168].)
 
  __References in Text__ 
 
@@ -27,7 +27,7 @@
 
  __Short Title__ 
 
-[Pub. L. 105–387, § 1][/us/pl/105/387/s1], Nov. 13, 1998, [112 Stat. 3471][/us/stat/112/3471], provided that: 
+[Pub. L. 105–387][/us/pl/105/387], § 1, Nov. 13, 1998, [112 Stat. 3471][/us/stat/112/3471], provided that: 
 
 > “This Act \[enacting part B of this subchapter and amending sections 1300d–3 and 1300d–4 of this title\] may be cited as the ‘Mississippi Sioux Tribes Judgment Fund Distribution Act of 1998’.”
 
@@ -39,11 +39,11 @@
 ----------
 
 [/us/stat/82/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F239
-[/us/pl/92/555/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F555%2Fs1
+[/us/pl/92/555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F555
 [/us/stat/86/1168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1168
 [/us/pl/90/352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F352
 [/us/stat/82/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F239
-[/us/pl/105/387/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F387%2Fs1
+[/us/pl/105/387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F387
 [/us/stat/112/3471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3471
 
 

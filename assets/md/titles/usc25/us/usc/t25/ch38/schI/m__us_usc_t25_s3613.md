@@ -77,7 +77,7 @@
 
         (4) In developing and administering the formula for base support funding for the tribal judicial systems under this section, the Secretary shall ensure equitable distribution of funds.
 
-([Pub. L. 103–176, title I, § 103][/us/pl/103/176/s103], Dec. 3, 1993, [107 Stat. 2007][/us/stat/107/2007]; [Pub. L. 111–211, title II, § 242(a)(1)][/us/pl/111/211/s242/a/1], July 29, 2010, [124 Stat. 2292][/us/stat/124/2292].)
+([Pub. L. 103–176, title I][/us/pl/103/176/tI], § 103, Dec. 3, 1993, [107 Stat. 2007][/us/stat/107/2007]; [Pub. L. 111–211, title II][/us/pl/111/211/tII], § 242(a)(1), July 29, 2010, [124 Stat. 2292][/us/stat/124/2292].)
 
  __References in Text__ 
 
@@ -96,9 +96,9 @@
 
 [/us/usc/t25/s450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450
 [/us/usc/t25/s3612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs3612
-[/us/pl/103/176/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F176%2Fs103
+[/us/pl/103/176/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F176%2FtI
 [/us/stat/107/2007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2007
-[/us/pl/111/211/s242/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211%2Fs242%2Fa%2F1
+[/us/pl/111/211/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211%2FtII
 [/us/stat/124/2292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2292
 [/us/pl/93/638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638
 [/us/stat/88/2203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2203

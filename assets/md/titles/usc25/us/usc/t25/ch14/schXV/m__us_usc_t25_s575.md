@@ -17,11 +17,11 @@
 
     The Secretary of the Interior is directed to restore to tribal ownership all undisposed-of surplus or ceded lands within the land use districts which are not at present under lease or permit to non-Indians; and, further, to restore to tribal ownership the balance of said lands progressively as and when the non-Indian owned lands within a given land use district are acquired by the Government for Indian use pursuant to the provisions of sections 571 to 577 of this title. All such restorations shall be subject to valid existing rights and claims: Provided, That no restoration to tribal ownership shall be made of any lands within any reclamation project heretofore authorized within the diminished or ceded portions of the reservation.
 
-([July 27, 1939, ch. 387, § 5][/us/act/1939-07-27/ch387/s5], [53 Stat. 1129][/us/stat/53/1129].)
+([July 27, 1939, ch. 387][/us/act/1939-07-27/ch387], § 5, [53 Stat. 1129][/us/stat/53/1129].)
 
  __Lands Ceded for Riverton Project__ 
 
-    [Act Aug. 15, 1953, ch. 509, § 4][/us/act/1953-08-15/ch509/s4], [67 Stat. 613][/us/stat/67/613], set out as a note under [section 611 of this title][/us/usc/t25/s611], provided that all lands of the Wind River Indian Reservation ceded for the Riverton reclamation project in Wyoming and not used for such project were restored to the ownership of the Arapaho and Shoshone Tribes.
+    [Act Aug. 15, 1953, ch. 509][/us/act/1953-08-15/ch509], § 4, [67 Stat. 613][/us/stat/67/613], set out as a note under [section 611 of this title][/us/usc/t25/s611], provided that all lands of the Wind River Indian Reservation ceded for the Riverton reclamation project in Wyoming and not used for such project were restored to the ownership of the Arapaho and Shoshone Tribes.
 
 ----------
 
@@ -30,9 +30,9 @@
 ----------
 ----------
 
-[/us/act/1939-07-27/ch387/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-07-27%2Fch387%2Fs5
+[/us/act/1939-07-27/ch387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-07-27%2Fch387
 [/us/stat/53/1129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F1129
-[/us/act/1953-08-15/ch509/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-08-15%2Fch509%2Fs4
+[/us/act/1953-08-15/ch509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-08-15%2Fch509
 [/us/stat/67/613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F613
 [/us/usc/t25/s611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs611
 

@@ -29,7 +29,7 @@
 
     (3) may, in consultation with the Pueblo or the County, as appropriate, authorize a special use of the Settlement Area Land, not to exceed 1 year in duration.
 
-([Pub. L. 109–286, § 10][/us/pl/109/286/s10], Sept. 27, 2006, [120 Stat. 1225][/us/stat/120/1225].)
+([Pub. L. 109–286][/us/pl/109/286], § 10, Sept. 27, 2006, [120 Stat. 1225][/us/stat/120/1225].)
 
 ----------
 
@@ -39,7 +39,7 @@
 ----------
 
 [/us/usc/t25/s1780g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1780g
-[/us/pl/109/286/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F286%2Fs10
+[/us/pl/109/286]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F286
 [/us/stat/120/1225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1225
 
 

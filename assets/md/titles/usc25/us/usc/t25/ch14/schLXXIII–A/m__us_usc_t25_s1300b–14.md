@@ -23,7 +23,7 @@
 
         The Secretary is authorized and directed to accept no more than one hundred acres of land in Maverick County, Texas which shall be offered for the benefit of the Band with the approval of the Tribe. Nothing in this subsection shall be construed as limiting the authority of the Secretary under [section 5 of the Act of June 18, 1934][/us/act/1934-06-18/s5] ([48 Stat. 985][/us/stat/48/985]) \[[25 U.S.C. 465][/us/usc/t25/s465]\].
 
-([Pub. L. 97–429, § 5][/us/pl/97/429/s5], Jan. 8, 1983, [96 Stat. 2270][/us/stat/96/2270].)
+([Pub. L. 97–429][/us/pl/97/429], § 5, Jan. 8, 1983, [96 Stat. 2270][/us/stat/96/2270].)
 
  __References in Text__ 
 
@@ -42,7 +42,7 @@
 [/us/act/1934-06-18/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-18%2Fs5
 [/us/stat/48/985]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F985
 [/us/usc/t25/s465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs465
-[/us/pl/97/429/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F429%2Fs5
+[/us/pl/97/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F429
 [/us/stat/96/2270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2270
 [/us/usc/t25/s461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs461
 

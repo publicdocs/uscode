@@ -17,7 +17,7 @@
 
     Before, on, and after October 21, 1998, and notwithstanding any other provision of law, funds available to the Indian Health Service in this Act or any other Act for Indian self-determination or self-governance contract or grant support costs may be expended only for costs directly attributable to contracts, grants and compacts pursuant to the Indian Self-Determination Act \[[25 U.S.C. 450f][/us/usc/t25/s450f] et seq.\] and no funds appropriated by this or any other Act shall be available for any contract support costs or indirect costs associated with any contract, grant, cooperative agreement, self-governance compact, or funding agreement entered into between an Indian tribe or tribal organization and any entity other than the Indian Health Service.
 
-([Pub. L. 105–277, div. A, § 101(e)][/us/pl/105/277/s101/e] \[title II\], Oct. 21, 1998, [112 Stat. 2681–231][/us/stat/112/2681-231], 2681–280.)
+([Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(e) \[title II\], Oct. 21, 1998, [112 Stat. 2681–231][/us/stat/112/2681-231], 2681–280.)
 
  __References in Text__ 
 
@@ -35,7 +35,7 @@
 ----------
 
 [/us/usc/t25/s450f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450f
-[/us/pl/105/277/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fe
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-231
 [/us/pl/93/638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638
 [/us/stat/88/2206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2206

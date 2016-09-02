@@ -17,7 +17,7 @@
 
     Such right of way shall not exceed fifty feet in width on each side of the center line of the road, except where there are heavy cuts and fills, when it shall not exceed one hundred feet in width on each side of the road, and may include grounds adjacent thereto for station buildings, depots, machine shops, sidetracks, turn-outs, and water stations, not to exceed two hundred feet in width by a length of three thousand feet, and not more than one station to be located within any one continuous length of ten miles of road.
 
-([Mar. 2, 1899, ch. 374, § 2][/us/act/1899-03-02/ch374/s2], [30 Stat. 990][/us/stat/30/990]; [June 21, 1906, ch. 3504][/us/act/1906-06-21/ch3504], [34 Stat. 330][/us/stat/34/330].)
+([Mar. 2, 1899, ch. 374][/us/act/1899-03-02/ch374], § 2, [30 Stat. 990][/us/stat/30/990]; [June 21, 1906, ch. 3504][/us/act/1906-06-21/ch3504], [34 Stat. 330][/us/stat/34/330].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1899-03-02/ch374/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1899-03-02%2Fch374%2Fs2
+[/us/act/1899-03-02/ch374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1899-03-02%2Fch374
 [/us/stat/30/990]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F30%2F990
 [/us/act/1906-06-21/ch3504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1906-06-21%2Fch3504
 [/us/stat/34/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F34%2F330

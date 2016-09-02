@@ -17,7 +17,7 @@
 
     After August 1, 1914, any officer or employee appointed or designated by the Secretary of the Interior or the Commissioner of Indian Affairs as special examiner in heirship cases shall be authorized to administer oaths in investigations committed to him: Provided further, That the provisions of this paragraph shall not apply to the Osage Indians nor to the Five Civilized Tribes of Indians in Oklahoma.
 
-([Aug. 1, 1914, ch. 222, § 1][/us/act/1914-08-01/ch222/s1], [38 Stat. 586][/us/stat/38/586].)
+([Aug. 1, 1914, ch. 222][/us/act/1914-08-01/ch222], § 1, [38 Stat. 586][/us/stat/38/586].)
 
  __Transfer of Functions__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1914-08-01/ch222/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1914-08-01%2Fch222%2Fs1
+[/us/act/1914-08-01/ch222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1914-08-01%2Fch222
 [/us/stat/38/586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F586
 [/us/stat/64/1262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1262
 

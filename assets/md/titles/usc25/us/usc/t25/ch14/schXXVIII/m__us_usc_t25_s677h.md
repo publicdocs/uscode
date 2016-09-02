@@ -3527,7 +3527,7 @@
 
     All such sales, exchanges, or other dispositions shall be made upon such terms as said committee and said authorized representatives shall deem satisfactory and may be made pursuant to bids or at private sale, and all funds or other property derived from such sales, exchanges, or other dispositions shall be subject to the terms of this subchapter. Consent by the tribal business committee and said authorized representatives to the sale, exchange, or other disposal of the lands herein described shall relieve the United States of any liability resulting from such sale, exchange, or other disposition. The tribal business committee and said authorized representatives are further authorized to sell or dispose of tribal assigned lands to the assignees thereof under such terms and conditions as may be agreed upon by the said tribal business committee and said authorized representatives with the assignees, subject, however, to the approval of the Secretary.
 
-([Aug. 27, 1954, ch. 1009, § 9][/us/act/1954-08-27/ch1009/s9], [68 Stat. 869][/us/stat/68/869].)
+([Aug. 27, 1954, ch. 1009][/us/act/1954-08-27/ch1009], § 9, [68 Stat. 869][/us/stat/68/869].)
 
 ----------
 
@@ -3536,7 +3536,7 @@
 ----------
 ----------
 
-[/us/act/1954-08-27/ch1009/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-27%2Fch1009%2Fs9
+[/us/act/1954-08-27/ch1009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-27%2Fch1009
 [/us/stat/68/869]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F869
 
 

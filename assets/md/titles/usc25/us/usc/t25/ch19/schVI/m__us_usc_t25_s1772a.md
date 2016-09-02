@@ -39,7 +39,7 @@
 
     (8) The term “compact” means the Compact incorporated in the Settlement Agreement between the tribe, the State, and the district, which specifically defines the nature and extent of Seminole water rights and the manner of their use within the confines of the area of the district.
 
-([Pub. L. 100–228, § 3][/us/pl/100/228/s3], Dec. 31, 1987, [101 Stat. 1557][/us/stat/101/1557].)
+([Pub. L. 100–228][/us/pl/100/228], § 3, Dec. 31, 1987, [101 Stat. 1557][/us/stat/101/1557].)
 
 ----------
 
@@ -49,7 +49,7 @@
 ----------
 
 [/us/usc/t25/s476]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs476
-[/us/pl/100/228/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F228%2Fs3
+[/us/pl/100/228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F228
 [/us/stat/101/1557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1557
 
 

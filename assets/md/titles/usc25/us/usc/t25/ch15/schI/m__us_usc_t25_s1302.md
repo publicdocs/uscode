@@ -101,27 +101,27 @@
 
         Nothing in this section affects the obligation of the United States, or any State government that has been delegated authority by the United States, to investigate and prosecute any criminal violation in Indian country.
 
-([Pub. L. 90–284, title II, § 202][/us/pl/90/284/s202], Apr. 11, 1968, [82 Stat. 77][/us/stat/82/77]; [Pub. L. 99–570, title IV, § 4217][/us/pl/99/570/s4217], Oct. 27, 1986, [100 Stat. 3207–146][/us/stat/100/3207-146]; [Pub. L. 111–211, title II, § 234(a)][/us/pl/111/211/s234/a], July 29, 2010, [124 Stat. 2279][/us/stat/124/2279].)
+([Pub. L. 90–284, title II][/us/pl/90/284/tII], § 202, Apr. 11, 1968, [82 Stat. 77][/us/stat/82/77]; [Pub. L. 99–570, title IV][/us/pl/99/570/tIV], § 4217, Oct. 27, 1986, [100 Stat. 3207–146][/us/stat/100/3207-146]; [Pub. L. 111–211, title II][/us/pl/111/211/tII], § 234(a), July 29, 2010, [124 Stat. 2279][/us/stat/124/2279].)
 
  __References in Text__ 
 
-    Section 304(c) of the Tribal Law and Order Act of 2010, referred to in subsec. (d)(1)(B), probably means [section 234(c) of title II of Pub. L. 111–211][/us/pl/111/211/s234/c], which is set out as a note below. See par. (13) of H. Con. Res. 304 (111th Congress), which is not classified to the Code.
+    Section 304(c) of the Tribal Law and Order Act of 2010, referred to in subsec. (d)(1)(B), probably means [section 234(c) of title II of Pub. L. 111–211][/us/pl/111/211/tII/s234/c], which is set out as a note below. See par. (13) of H. Con. Res. 304 (111th Congress), which is not classified to the Code.
 
  __Amendments__ 
 
-    2010—[Pub. L. 111–211, § 234(a)(1)][/us/pl/111/211/s234/a/1], designated existing provisions as subsec. (a) and inserted subsec. heading.
+    2010—[Pub. L. 111–211][/us/pl/111/211], § 234(a)(1), designated existing provisions as subsec. (a) and inserted subsec. heading.
 
-    Subsec. (a)(6). [Pub. L. 111–211, § 234(a)(2)(A)][/us/pl/111/211/s234/a/2/A], inserted “(except as provided in subsection (b))” after “assistance of counsel for his defense”. Amendment was executed to reflect the probable intent of Congress, notwithstanding errors in the directory language in quoting the text to be inserted.
+    Subsec. (a)(6). [Pub. L. 111–211][/us/pl/111/211], § 234(a)(2)(A), inserted “(except as provided in subsection (b))” after “assistance of counsel for his defense”. Amendment was executed to reflect the probable intent of Congress, notwithstanding errors in the directory language in quoting the text to be inserted.
 
-    Subsec. (a)(7). [Pub. L. 111–211, § 234(a)(2)(B)][/us/pl/111/211/s234/a/2/B], added par. (7) and struck out former par. (7) which read as follows: “require excessive bail, impose excessive fines, inflict cruel and unusual punishments, and in no event impose for conviction of any one offense any penalty or punishment greater than imprisonment for a term of one year and a fine of $5,000, or both;”.
+    Subsec. (a)(7). [Pub. L. 111–211][/us/pl/111/211], § 234(a)(2)(B), added par. (7) and struck out former par. (7) which read as follows: “require excessive bail, impose excessive fines, inflict cruel and unusual punishments, and in no event impose for conviction of any one offense any penalty or punishment greater than imprisonment for a term of one year and a fine of $5,000, or both;”.
 
-    Subsecs. (b) to (f). [Pub. L. 111–211, § 234(a)(3)][/us/pl/111/211/s234/a/3], added subsecs. (b) to (f).
+    Subsecs. (b) to (f). [Pub. L. 111–211][/us/pl/111/211], § 234(a)(3), added subsecs. (b) to (f).
 
     1986—Par. (7). [Pub. L. 99–570][/us/pl/99/570], which directed that “for a term of one year and a fine of $5,000, or both” be substituted for “for a term of six months and a fine of $500, or both”, was executed by making the substitution for “for a term of six months or a fine of $500, or both” as the probable intent of Congress.
 
  __Bureau of Prisons Tribal Prisoner Pilot Program__ 
 
-[Pub. L. 111–211, title II, § 234(c)][/us/pl/111/211/s234/c], July 29, 2010, [124 Stat. 2281][/us/stat/124/2281], provided that:
+[Pub. L. 111–211, title II][/us/pl/111/211/tII], § 234(c), July 29, 2010, [124 Stat. 2281][/us/stat/124/2281], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -171,7 +171,7 @@
 
  __Purpose of 1986 Amendment__ 
 
-    [Pub. L. 99–570, title IV, § 4217][/us/pl/99/570/s4217], Oct. 27, 1986, [100 Stat. 3207–146][/us/stat/100/3207-146], provided in part that amendment of par. (7) of this section was to “enhance the ability of tribal governments to prevent and penalize the traffic of illegal narcotics on Indian reservations”.
+    [Pub. L. 99–570, title IV][/us/pl/99/570/tIV], § 4217, Oct. 27, 1986, [100 Stat. 3207–146][/us/stat/100/3207-146], provided in part that amendment of par. (7) of this section was to “enhance the ability of tribal governments to prevent and penalize the traffic of illegal narcotics on Indian reservations”.
 
 ----------
 
@@ -180,19 +180,19 @@
 ----------
 ----------
 
-[/us/pl/90/284/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F284%2Fs202
+[/us/pl/90/284/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F284%2FtII
 [/us/stat/82/77]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F77
-[/us/pl/99/570/s4217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs4217
+[/us/pl/99/570/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2FtIV
 [/us/stat/100/3207-146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3207-146
-[/us/pl/111/211/s234/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211%2Fs234%2Fa
+[/us/pl/111/211/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211%2FtII
 [/us/stat/124/2279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2279
-[/us/pl/111/211/s234/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211%2Fs234%2Fc
-[/us/pl/111/211/s234/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211%2Fs234%2Fa%2F1
-[/us/pl/111/211/s234/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211%2Fs234%2Fa%2F2%2FA
-[/us/pl/111/211/s234/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211%2Fs234%2Fa%2F2%2FB
-[/us/pl/111/211/s234/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211%2Fs234%2Fa%2F3
+[/us/pl/111/211/tII/s234/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211%2FtII%2Fs234%2Fc
+[/us/pl/111/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211
+[/us/pl/111/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211
+[/us/pl/111/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211
+[/us/pl/111/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211
 [/us/pl/99/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570
-[/us/pl/111/211/s234/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211%2Fs234%2Fc
+[/us/pl/111/211/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211%2FtII
 [/us/stat/124/2281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2281
 [/us/usc/t25/s1302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1302
 [/us/usc/t18/s1153/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1153%2Fa
@@ -200,7 +200,7 @@
 [/us/pl/111/211/s234/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211%2Fs234%2Fc
 [/us/pl/111/211/s203/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211%2Fs203%2Fa
 [/us/usc/t25/s2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs2801
-[/us/pl/99/570/s4217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs4217
+[/us/pl/99/570/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2FtIV
 [/us/stat/100/3207-146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3207-146
 
 

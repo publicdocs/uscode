@@ -17,7 +17,7 @@
 
     In contests initiated by or against Indians, to an entry, filing or other claims, under the laws of Congress relating to public lands for any sufficient cause affecting the legality or validity of the entry, filing or claim, the fees to be paid by and on behalf of the Indian party in any case shall be one-half of the fees provided by law in such cases, and said fees shall be paid by the Commissioner of Indian Affairs, with the approval of the Secretary of the Interior, on an account stated by the proper land officers through the Secretary of the Interior or such officer as he may designate.
 
-([Mar. 3, 1893, ch. 209, § 1][/us/act/1893-03-03/ch209/s1], [27 Stat. 631][/us/stat/27/631]; 1946 Reorg. Plan No. 3, § 403, eff. July 16, 1946, 11 F.R. 7876, [60 Stat. 1100][/us/stat/60/1100].)
+([Mar. 3, 1893, ch. 209][/us/act/1893-03-03/ch209], § 1, [27 Stat. 631][/us/stat/27/631]; 1946 Reorg. Plan No. 3, § 403, eff. July 16, 1946, 11 F.R. 7876, [60 Stat. 1100][/us/stat/60/1100].)
 
  __Transfer of Functions__ 
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/act/1893-03-03/ch209/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1893-03-03%2Fch209%2Fs1
+[/us/act/1893-03-03/ch209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1893-03-03%2Fch209
 [/us/stat/27/631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F27%2F631
 [/us/stat/60/1100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F1100
 [/us/stat/64/1262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1262

@@ -77,7 +77,7 @@
 
         (3) 12.5 percent to be deposited into the trust fund account established under [section 1779d of this title][/us/usc/t25/s1779d] for the Chickasaw Nation.
 
-([Pub. L. 107–331, title VI, § 605][/us/pl/107/331/s605], Dec. 13, 2002, [116 Stat. 2848][/us/stat/116/2848].)
+([Pub. L. 107–331, title VI][/us/pl/107/331/tVI], § 605, Dec. 13, 2002, [116 Stat. 2848][/us/stat/116/2848].)
 
  __References in Text__ 
 
@@ -100,7 +100,7 @@
 [/us/usc/t25/s1779d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1779d
 [/us/usc/t25/s1779d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1779d
 [/us/usc/t25/s1779d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1779d
-[/us/pl/107/331/s605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F331%2Fs605
+[/us/pl/107/331/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F331%2FtVI
 [/us/stat/116/2848]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2848
 
 

@@ -17,7 +17,7 @@
 
     Loans guaranteed or insured pursuant to this subchapter shall bear interest (exclusive of premium charges for insurance, and service charge, if any) at rates not to exceed such per centum per annum on the principal obligation outstanding as the Secretary determines to be reasonable taking into consideration the range of interest rates prevailing in the private market for similar loans and the risks assumed by the United States.
 
-([Pub. L. 93–262, title II, § 203][/us/pl/93/262/s203], Apr. 12, 1974, [88 Stat. 79][/us/stat/88/79].)
+([Pub. L. 93–262, title II][/us/pl/93/262/tII], § 203, Apr. 12, 1974, [88 Stat. 79][/us/stat/88/79].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/93/262/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F262%2Fs203
+[/us/pl/93/262/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F262%2FtII
 [/us/stat/88/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F79
 
 

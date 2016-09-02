@@ -59,7 +59,7 @@
 
         The identity of any person making a report described in subsection (b)(1) shall not be disclosed, without the consent of the individual, to any person other than a court of competent jurisdiction or an employee of an Indian tribe, a State or the Federal Government who needs to know the information in the performance of such employee’s duties.
 
-([Pub. L. 101–630, title IV, § 404][/us/pl/101/630/s404], Nov. 28, 1990, [104 Stat. 4547][/us/stat/104/4547].)
+([Pub. L. 101–630, title IV][/us/pl/101/630/tIV], § 404, Nov. 28, 1990, [104 Stat. 4547][/us/stat/104/4547].)
 
  __References in Text__ 
 
@@ -76,7 +76,7 @@
 ----------
 ----------
 
-[/us/pl/101/630/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F630%2Fs404
+[/us/pl/101/630/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F630%2FtIV
 [/us/stat/104/4547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4547
 [/us/usc/t25/s3202/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs3202%2F3
 [/us/pl/101/630/s503/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F630%2Fs503%2F3

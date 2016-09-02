@@ -63,7 +63,7 @@
 
             (B) shall be limited to ten percent of the Indian student count of a tribally controlled college or university.
 
-([Pub. L. 95–471, § 2][/us/pl/95/471/s2], formerly § 1, Oct. 17, 1978, [92 Stat. 1325][/us/stat/92/1325]; renumbered § 2 and amended [Pub. L. 98–192, § 1][/us/pl/98/192/s1], Dec. 1, 1983, [97 Stat. 1335][/us/stat/97/1335]; [Pub. L. 99–428, § 3][/us/pl/99/428/s3], Sept. 30, 1986, [100 Stat. 982][/us/stat/100/982]; [Pub. L. 105–244, title I, § 102(a)(8)(B)][/us/pl/105/244/s102/a/8/B], title IX, § 901(b)(5), (9), Oct. 7, 1998, [112 Stat. 1619][/us/stat/112/1619], 1828; [Pub. L. 110–315, title IX, § 941(a)][/us/pl/110/315/s941/a]–(c), Aug. 14, 2008, [122 Stat. 3460][/us/stat/122/3460], 3461.)
+([Pub. L. 95–471][/us/pl/95/471], § 2, formerly § 1, Oct. 17, 1978, [92 Stat. 1325][/us/stat/92/1325]; renumbered § 2 and amended [Pub. L. 98–192][/us/pl/98/192], § 1, Dec. 1, 1983, [97 Stat. 1335][/us/stat/97/1335]; [Pub. L. 99–428][/us/pl/99/428], § 3, Sept. 30, 1986, [100 Stat. 982][/us/stat/100/982]; [Pub. L. 105–244, title I][/us/pl/105/244/tI], § 102(a)(8)(B), title IX, § 901(b)(5), (9), Oct. 7, 1998, [112 Stat. 1619][/us/stat/112/1619], 1828; [Pub. L. 110–315, title IX][/us/pl/110/315/tIX], § 941(a)–(c), Aug. 14, 2008, [122 Stat. 3460][/us/stat/122/3460], 3461.)
 
  __References in Text__ 
 
@@ -73,39 +73,39 @@
 
  __Amendments__ 
 
-    2008—Subsec. (a)(6). [Pub. L. 110–315, § 941(a)][/us/pl/110/315/s941/a], substituted “in the fields of tribally controlled colleges and universities and Indian higher education” for “in the field of Indian education”.
+    2008—Subsec. (a)(6). [Pub. L. 110–315][/us/pl/110/315], § 941(a), substituted “in the fields of tribally controlled colleges and universities and Indian higher education” for “in the field of Indian education”.
 
-    Subsec. (a)(7) to (9). [Pub. L. 110–315, § 941(b)][/us/pl/110/315/s941/b], added par. (7) and redesignated former pars. (7) and (8) as (8) and (9), respectively.
+    Subsec. (a)(7) to (9). [Pub. L. 110–315][/us/pl/110/315], § 941(b), added par. (7) and redesignated former pars. (7) and (8) as (8) and (9), respectively.
 
-    Subsec. (b). [Pub. L. 110–315, § 941(c)(1)][/us/pl/110/315/s941/c/1], substituted “subsection (a)(8)” for “paragraph (7) of subsection (a)” in introductory provisions.
+    Subsec. (b). [Pub. L. 110–315][/us/pl/110/315], § 941(c)(1), substituted “subsection (a)(8)” for “paragraph (7) of subsection (a)” in introductory provisions.
 
-    Subsec. (b)(5). [Pub. L. 110–315, § 941(c)(2)][/us/pl/110/315/s941/c/2], added par. (5) and struck out former par. (5) which read as follows: “Credits earned in a continuing education program shall be converted to a credit-hour basis in accordance with the tribally controlled college or university’s system for providing credit for participation in such program.”
+    Subsec. (b)(5). [Pub. L. 110–315][/us/pl/110/315], § 941(c)(2), added par. (5) and struck out former par. (5) which read as follows: “Credits earned in a continuing education program shall be converted to a credit-hour basis in accordance with the tribally controlled college or university’s system for providing credit for participation in such program.”
 
-    Subsec. (b)(6). [Pub. L. 110–315, § 941(c)(3)][/us/pl/110/315/s941/c/3], struck out par. (6) which read as follows: “No credit hours earned by an Indian student who is not making satisfactory progress toward a degree or certificate shall be taken into account.”
+    Subsec. (b)(6). [Pub. L. 110–315][/us/pl/110/315], § 941(c)(3), struck out par. (6) which read as follows: “No credit hours earned by an Indian student who is not making satisfactory progress toward a degree or certificate shall be taken into account.”
 
-    1998—Subsec. (a)(4). [Pub. L. 105–244, § 901(b)(5)][/us/pl/105/244/s901/b/5], substituted “college or university” for “community college”.
+    1998—Subsec. (a)(4). [Pub. L. 105–244][/us/pl/105/244], § 901(b)(5), substituted “college or university” for “community college”.
 
-    Subsec. (a)(5). [Pub. L. 105–244, § 102(a)(8)(B)][/us/pl/105/244/s102/a/8/B], substituted “section 1001” for “section 1141(a)”.
+    Subsec. (a)(5). [Pub. L. 105–244][/us/pl/105/244], § 102(a)(8)(B), substituted “section 1001” for “section 1141(a)”.
 
-    Subsec. (a)(7). [Pub. L. 105–244, § 901(b)(5)][/us/pl/105/244/s901/b/5], substituted “college or university” for “community college”.
+    Subsec. (a)(7). [Pub. L. 105–244][/us/pl/105/244], § 901(b)(5), substituted “college or university” for “community college”.
 
-    Subsec. (b)(4). [Pub. L. 105–244, § 901(b)(5)][/us/pl/105/244/s901/b/5], substituted “college or university” for “community college”.
+    Subsec. (b)(4). [Pub. L. 105–244][/us/pl/105/244], § 901(b)(5), substituted “college or university” for “community college”.
 
-    Subsec. (b)(5). [Pub. L. 105–244, § 901(b)(9)][/us/pl/105/244/s901/b/9], substituted “college or university’s” for “community college’s”.
+    Subsec. (b)(5). [Pub. L. 105–244][/us/pl/105/244], § 901(b)(9), substituted “college or university’s” for “community college’s”.
 
-    1986—Subsec. (a)(8). [Pub. L. 99–428, § 3(a)][/us/pl/99/428/s3/a], added par. (8).
+    1986—Subsec. (a)(8). [Pub. L. 99–428][/us/pl/99/428], § 3(a), added par. (8).
 
-    Subsec. (b)(3) to (6). [Pub. L. 99–428, § 3(b)][/us/pl/99/428/s3/b], added par. (3), redesignated former pars. (3) to (5) as (4) to (6), respectively, and in par. (6) struck out “, in accordance with the standards and practices of the appropriate accrediting agency or the institution at which the student is in attendance,” after “certificate”.
+    Subsec. (b)(3) to (6). [Pub. L. 99–428][/us/pl/99/428], § 3(b), added par. (3), redesignated former pars. (3) to (5) as (4) to (6), respectively, and in par. (6) struck out “, in accordance with the standards and practices of the appropriate accrediting agency or the institution at which the student is in attendance,” after “certificate”.
 
-    1983—Subsec. (a). [Pub. L. 98–192, § 1(1)][/us/pl/98/192/s1/1], designated existing provisions as subsec. (a) and inserted introductory provision preceding par. (1).
+    1983—Subsec. (a). [Pub. L. 98–192][/us/pl/98/192], § 1(1), designated existing provisions as subsec. (a) and inserted introductory provision preceding par. (1).
 
-    Subsec. (a)(1). [Pub. L. 98–192, § 1(2)][/us/pl/98/192/s1/2], struck out “and is eligible to receive services from the Secretary of the Interior” after “Indian tribe”.
+    Subsec. (a)(1). [Pub. L. 98–192][/us/pl/98/192], § 1(2), struck out “and is eligible to receive services from the Secretary of the Interior” after “Indian tribe”.
 
-    Subsec. (a)(5). [Pub. L. 98–192, § 1(3)][/us/pl/98/192/s1/3], inserted “and the reference to Secretary in clause (5)(A) of such section shall be deemed to refer to the Secretary of the Interior”.
+    Subsec. (a)(5). [Pub. L. 98–192][/us/pl/98/192], § 1(3), inserted “and the reference to Secretary in clause (5)(A) of such section shall be deemed to refer to the Secretary of the Interior”.
 
-    Subsec. (a)(7). [Pub. L. 98–192, § 1(4)][/us/pl/98/192/s1/4], substituted provision defining “Indian student count” to mean a number equal to the total number of Indian students enrolled in each tribally controlled community college, determined as consistent with subsec. (b) of this section on the basis of the quotient of the sum of the credit hours of all Indians so enrolled, divided by twelve for provision defining “full-time equivalent Indian student” to mean the number of Indians enrolled full-time and the full-time equivalent of the number of Indians enrolled part-time, determined on the basis of the quotient of the sum of the credit hours of all part-time students divided by twelve, calculated on the basis of registrations as in effect at the conclusion of the sixth week of an academic term.
+    Subsec. (a)(7). [Pub. L. 98–192][/us/pl/98/192], § 1(4), substituted provision defining “Indian student count” to mean a number equal to the total number of Indian students enrolled in each tribally controlled community college, determined as consistent with subsec. (b) of this section on the basis of the quotient of the sum of the credit hours of all Indians so enrolled, divided by twelve for provision defining “full-time equivalent Indian student” to mean the number of Indians enrolled full-time and the full-time equivalent of the number of Indians enrolled part-time, determined on the basis of the quotient of the sum of the credit hours of all part-time students divided by twelve, calculated on the basis of registrations as in effect at the conclusion of the sixth week of an academic term.
 
-    Subsec. (b). [Pub. L. 98–192, § 1(4)][/us/pl/98/192/s1/4], added subsec. (b).
+    Subsec. (b). [Pub. L. 98–192][/us/pl/98/192], § 1(4), added subsec. (b).
 
  __Effective Date of 1998 Amendment__ 
 
@@ -113,23 +113,23 @@
 
  __Short Title of 1986 Amendment__ 
 
-[Pub. L. 99–428, § 1][/us/pl/99/428/s1], Sept. 30, 1986, [100 Stat. 982][/us/stat/100/982], provided that: 
+[Pub. L. 99–428][/us/pl/99/428], § 1, Sept. 30, 1986, [100 Stat. 982][/us/stat/100/982], provided that: 
 
 > “This Act \[amending this section and sections 640c–1, 1808 to 1810, 1812, 1813, and 1836 of this title\] may be cited as the ‘Tribally Controlled Community College Assistance Amendments of 1986’.”
 
  __Short Title__ 
 
-[Pub. L. 95–471, § 1][/us/pl/95/471/s1], Oct. 17, 1978, [92 Stat. 1325][/us/stat/92/1325], as amended by [Pub. L. 105–244, title IX, § 901(b)(1)][/us/pl/105/244/s901/b/1], Oct. 7, 1998, [112 Stat. 1827][/us/stat/112/1827]; [Pub. L. 110–315, title IX, § 941(k)(1)][/us/pl/110/315/s941/k/1], Aug. 14, 2008, [122 Stat. 3465][/us/stat/122/3465], provided that: 
+[Pub. L. 95–471][/us/pl/95/471], § 1, Oct. 17, 1978, [92 Stat. 1325][/us/stat/92/1325], as amended by [Pub. L. 105–244, title IX][/us/pl/105/244/tIX], § 901(b)(1), Oct. 7, 1998, [112 Stat. 1827][/us/stat/112/1827]; [Pub. L. 110–315, title IX][/us/pl/110/315/tIX], § 941(k)(1), Aug. 14, 2008, [122 Stat. 3465][/us/stat/122/3465], provided that: 
 
 > “This Act \[enacting this chapter and [section 640c–1 of this title][/us/usc/t25/s640c–1], amending [section 640c of this title][/us/usc/t25/s640c], and enacting provisions set out as notes under sections 640a and 640c–1 of this title\] may be cited as the ‘Tribally Controlled Colleges and Universities Assistance Act of 1978’.”
 
-[Pub. L. 95–471, title IV, § 401][/us/pl/95/471/s401], as added by [Pub. L. 101–392, title III, § 312][/us/pl/101/392/s312], Sept. 25, 1990, [104 Stat. 804][/us/stat/104/804], provided that: 
+[Pub. L. 95–471, title IV][/us/pl/95/471/tIV], § 401, as added by [Pub. L. 101–392, title III][/us/pl/101/392/tIII], § 312, Sept. 25, 1990, [104 Stat. 804][/us/stat/104/804], provided that: 
 
 > “This title \[enacting subchapter III of this chapter\] may be cited as the ‘Tribal Economic Development and Technology Related Education Assistance Act of 1990’.”
 
  __Additional Conforming Amendments__ 
 
-[Pub. L. 105–244, title IX, § 901(c)][/us/pl/105/244/s901/c], Oct. 7, 1998, [112 Stat. 1828][/us/stat/112/1828], provided that:
+[Pub. L. 105–244, title IX][/us/pl/105/244/tIX], § 901(c), Oct. 7, 1998, [112 Stat. 1828][/us/stat/112/1828], provided that:
 
 >     “(1)  __Recommended legislation__  __.—__ 
 
@@ -141,7 +141,7 @@
 
  __References to Tribally Controlled Community College Assistance Act of 1978__ 
 
-[Pub. L. 105–244, title IX, § 901(d)][/us/pl/105/244/s901/d], Oct. 7, 1998, [112 Stat. 1828][/us/stat/112/1828], provided that: 
+[Pub. L. 105–244, title IX][/us/pl/105/244/tIX], § 901(d), Oct. 7, 1998, [112 Stat. 1828][/us/stat/112/1828], provided that: 
 
 > “Any reference to a section or other provision of the Tribally Controlled Community College Assistance Act of 1978 shall be deemed to be a reference to the Tribally Controlled College or University Assistance Act of 1978 \[now Tribally Controlled Colleges and Universities Assistance Act of 1978\].”
 
@@ -175,15 +175,15 @@
 ----------
 
 [/us/usc/t43/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1601
-[/us/pl/95/471/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F471%2Fs2
+[/us/pl/95/471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F471
 [/us/stat/92/1325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1325
-[/us/pl/98/192/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F192%2Fs1
+[/us/pl/98/192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F192
 [/us/stat/97/1335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1335
-[/us/pl/99/428/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F428%2Fs3
+[/us/pl/99/428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F428
 [/us/stat/100/982]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F982
-[/us/pl/105/244/s102/a/8/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs102%2Fa%2F8%2FB
+[/us/pl/105/244/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtI
 [/us/stat/112/1619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1619
-[/us/pl/110/315/s941/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs941%2Fa
+[/us/pl/110/315/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtIX
 [/us/stat/122/3460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3460
 [/us/pl/95/471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F471
 [/us/stat/92/1325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1325
@@ -192,45 +192,45 @@
 [/us/pl/92/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F203
 [/us/stat/85/688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F688
 [/us/usc/t43/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1601
-[/us/pl/110/315/s941/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs941%2Fa
-[/us/pl/110/315/s941/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs941%2Fb
-[/us/pl/110/315/s941/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs941%2Fc%2F1
-[/us/pl/110/315/s941/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs941%2Fc%2F2
-[/us/pl/110/315/s941/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs941%2Fc%2F3
-[/us/pl/105/244/s901/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs901%2Fb%2F5
-[/us/pl/105/244/s102/a/8/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs102%2Fa%2F8%2FB
-[/us/pl/105/244/s901/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs901%2Fb%2F5
-[/us/pl/105/244/s901/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs901%2Fb%2F5
-[/us/pl/105/244/s901/b/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs901%2Fb%2F9
-[/us/pl/99/428/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F428%2Fs3%2Fa
-[/us/pl/99/428/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F428%2Fs3%2Fb
-[/us/pl/98/192/s1/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F192%2Fs1%2F1
-[/us/pl/98/192/s1/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F192%2Fs1%2F2
-[/us/pl/98/192/s1/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F192%2Fs1%2F3
-[/us/pl/98/192/s1/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F192%2Fs1%2F4
-[/us/pl/98/192/s1/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F192%2Fs1%2F4
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/99/428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F428
+[/us/pl/99/428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F428
+[/us/pl/98/192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F192
+[/us/pl/98/192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F192
+[/us/pl/98/192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F192
+[/us/pl/98/192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F192
+[/us/pl/98/192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F192
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
 [/us/pl/105/244/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs3
 [/us/usc/t20/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1001
-[/us/pl/99/428/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F428%2Fs1
+[/us/pl/99/428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F428
 [/us/stat/100/982]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F982
-[/us/pl/95/471/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F471%2Fs1
+[/us/pl/95/471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F471
 [/us/stat/92/1325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1325
-[/us/pl/105/244/s901/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs901%2Fb%2F1
+[/us/pl/105/244/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtIX
 [/us/stat/112/1827]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1827
-[/us/pl/110/315/s941/k/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs941%2Fk%2F1
+[/us/pl/110/315/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtIX
 [/us/stat/122/3465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3465
 [/us/usc/t25/s640c–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs640c%E2%80%931
 [/us/usc/t25/s640c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs640c
-[/us/pl/95/471/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F471%2Fs401
-[/us/pl/101/392/s312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F392%2Fs312
+[/us/pl/95/471/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F471%2FtIV
+[/us/pl/101/392/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F392%2FtIII
 [/us/stat/104/804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F804
-[/us/pl/105/244/s901/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs901%2Fc
+[/us/pl/105/244/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtIX
 [/us/stat/112/1828]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1828
 [/us/pl/105/244/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs3
 [/us/usc/t20/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1001
-[/us/pl/105/244/s901/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs901%2Fd
+[/us/pl/105/244/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtIX
 [/us/stat/112/1828]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1828
 [/us/usc/t20/s7401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7401
 [/us/usc/t20/s7401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7401

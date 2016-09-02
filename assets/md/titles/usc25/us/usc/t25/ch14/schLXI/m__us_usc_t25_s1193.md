@@ -17,7 +17,7 @@
 
     Until distributed such funds shall remain tribal funds and the shares herein designated for the eligible members shall constitute inheritable property from and after December 17, 1965.
 
-([Pub. L. 91–259, § 3][/us/pl/91/259/s3], May 21, 1970, [84 Stat. 254][/us/stat/84/254].)
+([Pub. L. 91–259][/us/pl/91/259], § 3, May 21, 1970, [84 Stat. 254][/us/stat/84/254].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/91/259/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F259%2Fs3
+[/us/pl/91/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F259
 [/us/stat/84/254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F254
 
 

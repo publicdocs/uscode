@@ -17,7 +17,7 @@
 
     Restricted lands of deceased Indians may be leased under sections 415 to 415d of this title, for the benefit of their heirs or devisees, in the circumstances and by the persons prescribed in [section 380 of this title][/us/usc/t25/s380]: Provided, That if the authority of the Secretary under this section is delegated to any subordinate official, then any heir or devisee shall have the right to appeal the action of any such official to the Secretary under such rules and regulations as he may prescribe.
 
-([Aug. 9, 1955, ch. 615, § 2][/us/act/1955-08-09/ch615/s2], [69 Stat. 539][/us/stat/69/539].)
+([Aug. 9, 1955, ch. 615][/us/act/1955-08-09/ch615], § 2, [69 Stat. 539][/us/stat/69/539].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t25/s380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs380
-[/us/act/1955-08-09/ch615/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-09%2Fch615%2Fs2
+[/us/act/1955-08-09/ch615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-09%2Fch615
 [/us/stat/69/539]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F539
 
 

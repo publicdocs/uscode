@@ -39,7 +39,7 @@
 
         (2) State funds may not be obligated or expended, directly or indirectly, for annual payments under any such lease.
 
-([Pub. L. 101–503, § 5][/us/pl/101/503/s5], Nov. 3, 1990, [104 Stat. 1295][/us/stat/104/1295].)
+([Pub. L. 101–503][/us/pl/101/503], § 5, Nov. 3, 1990, [104 Stat. 1295][/us/stat/104/1295].)
 
 ----------
 
@@ -48,7 +48,7 @@
 ----------
 ----------
 
-[/us/pl/101/503/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F503%2Fs5
+[/us/pl/101/503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F503
 [/us/stat/104/1295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1295
 
 

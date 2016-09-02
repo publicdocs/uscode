@@ -55,13 +55,13 @@
 
         (3) Any disagreement over reporting requirements shall be subject to the declination criteria and procedures set forth in [section 450f of this title][/us/usc/t25/s450f].
 
-([Pub. L. 93–638, § 5][/us/pl/93/638/s5], formerly § 5 and title I, § 108, Jan. 4, 1975, [88 Stat. 2204][/us/stat/88/2204], 2212; renumbered and amended [Pub. L. 100–472, title I, § 104][/us/pl/100/472/s104], title II, § 208, Oct. 5, 1988, [102 Stat. 2287][/us/stat/102/2287], 2296; [Pub. L. 100–581, title II, § 209][/us/pl/100/581/s209], Nov. 1, 1988, [102 Stat. 2940][/us/stat/102/2940]; [Pub. L. 101–301, § 2(a)(4)][/us/pl/101/301/s2/a/4], May 24, 1990, [104 Stat. 206][/us/stat/104/206]; [Pub. L. 101–644, title II, § 202(3)][/us/pl/101/644/s202/3], Nov. 29, 1990, [104 Stat. 4665][/us/stat/104/4665]; [Pub. L. 103–413, title I, § 102(2)][/us/pl/103/413/s102/2], Oct. 25, 1994, [108 Stat. 4250][/us/stat/108/4250].)
+([Pub. L. 93–638][/us/pl/93/638], § 5, formerly § 5 and title I, § 108, Jan. 4, 1975, [88 Stat. 2204][/us/stat/88/2204], 2212; renumbered and amended [Pub. L. 100–472, title I][/us/pl/100/472/tI], § 104, title II, § 208, Oct. 5, 1988, [102 Stat. 2287][/us/stat/102/2287], 2296; [Pub. L. 100–581, title II][/us/pl/100/581/tII], § 209, Nov. 1, 1988, [102 Stat. 2940][/us/stat/102/2940]; [Pub. L. 101–301][/us/pl/101/301], § 2(a)(4), May 24, 1990, [104 Stat. 206][/us/stat/104/206]; [Pub. L. 101–644, title II][/us/pl/101/644/tII], § 202(3), Nov. 29, 1990, [104 Stat. 4665][/us/stat/104/4665]; [Pub. L. 103–413, title I][/us/pl/103/413/tI], § 102(2), Oct. 25, 1994, [108 Stat. 4250][/us/stat/108/4250].)
 
  __References in Text__ 
 
     This subchapter, referred to in subsecs. (a)(1) and (f)(1), was in the original “this Act”, meaning [Pub. L. 93–638][/us/pl/93/638], Jan. 4, 1975, [88 Stat. 2203][/us/stat/88/2203], known as the Indian Self-Determination and Education Assistance Act, which is classified principally to this subchapter. For complete classification of this Act to the Code, see Short Title note set out under [section 450 of this title][/us/usc/t25/s450] and Tables.
 
-    [Section 450j–1(a)(3) of this title][/us/usc/t25/s450j–1/a/3], referred to in subsec. (d), was repealed and a new subsec. (a)(3) of section 450j–1 was added by [Pub. L. 103–413, title I, § 102(14)(C)][/us/pl/103/413/s102/14/C], Oct. 25, 1994, [108 Stat. 4257][/us/stat/108/4257]. See [section 450j–1(a)(4) of this title][/us/usc/t25/s450j–1/a/4].
+    [Section 450j–1(a)(3) of this title][/us/usc/t25/s450j–1/a/3], referred to in subsec. (d), was repealed and a new subsec. (a)(3) of section 450j–1 was added by [Pub. L. 103–413, title I][/us/pl/103/413/tI], § 102(14)(C), Oct. 25, 1994, [108 Stat. 4257][/us/stat/108/4257]. See [section 450j–1(a)(4) of this title][/us/usc/t25/s450j–1/a/4].
 
  __Amendments__ 
 
@@ -71,13 +71,13 @@
 
     Subsec. (d). [Pub. L. 101–644][/us/pl/101/644] substituted “Except as provided in section 13a or 450j–1(a)(3) of this title,” for “Any” and inserted “through the respective Secretary” before period at end.
 
-    1988—Subsec. (a). [Pub. L. 100–472, § 104(a)][/us/pl/100/472/s104/a], amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Each recipient of Federal financial assistance from the Secretary of Interior or the Secretary of Health Education, and Welfare, under this Act, shall keep such records as the appropriate Secretary shall prescribe, including records which fully disclose the amount and disposition by such recipient of the proceeds of such assistance, the cost of the project or undertaking in connection with which such assistance is given or used, the amount of that portion of the cost of the project or undertaking supplied by other sources, and such other records as will facilitate an effective audit.”
+    1988—Subsec. (a). [Pub. L. 100–472][/us/pl/100/472], § 104(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Each recipient of Federal financial assistance from the Secretary of Interior or the Secretary of Health Education, and Welfare, under this Act, shall keep such records as the appropriate Secretary shall prescribe, including records which fully disclose the amount and disposition by such recipient of the proceeds of such assistance, the cost of the project or undertaking in connection with which such assistance is given or used, the amount of that portion of the cost of the project or undertaking supplied by other sources, and such other records as will facilitate an effective audit.”
 
     Subsec. (e). [Pub. L. 100–581][/us/pl/100/581] substituted “to each tribe” for “to tribes”.
 
-    [Pub. L. 100–472, § 104(b)][/us/pl/100/472/s104/b], added subsec. (e).
+    [Pub. L. 100–472][/us/pl/100/472], § 104(b), added subsec. (e).
 
-    Subsec. (f). [Pub. L. 100–472, § 208][/us/pl/100/472/s208], redesignated section 450l of this title as subsec. (f) of this section and inserted “through regulations promulgated under sections 552 and 553 of title 5”.
+    Subsec. (f). [Pub. L. 100–472][/us/pl/100/472], § 208, redesignated section 450l of this title as subsec. (f) of this section and inserted “through regulations promulgated under sections 552 and 553 of title 5”.
 
 ----------
 
@@ -87,23 +87,23 @@
 ----------
 
 [/us/usc/t25/s450f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450f
-[/us/pl/93/638/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638%2Fs5
+[/us/pl/93/638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638
 [/us/stat/88/2204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2204
-[/us/pl/100/472/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F472%2Fs104
+[/us/pl/100/472/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F472%2FtI
 [/us/stat/102/2287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2287
-[/us/pl/100/581/s209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F581%2Fs209
+[/us/pl/100/581/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F581%2FtII
 [/us/stat/102/2940]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2940
-[/us/pl/101/301/s2/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F301%2Fs2%2Fa%2F4
+[/us/pl/101/301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F301
 [/us/stat/104/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F206
-[/us/pl/101/644/s202/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F644%2Fs202%2F3
+[/us/pl/101/644/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F644%2FtII
 [/us/stat/104/4665]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4665
-[/us/pl/103/413/s102/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F413%2Fs102%2F2
+[/us/pl/103/413/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F413%2FtI
 [/us/stat/108/4250]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4250
 [/us/pl/93/638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638
 [/us/stat/88/2203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2203
 [/us/usc/t25/s450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450
 [/us/usc/t25/s450j–1/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450j%E2%80%931%2Fa%2F3
-[/us/pl/103/413/s102/14/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F413%2Fs102%2F14%2FC
+[/us/pl/103/413/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F413%2FtI
 [/us/stat/108/4257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4257
 [/us/usc/t25/s450j–1/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450j%E2%80%931%2Fa%2F4
 [/us/pl/103/413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F413
@@ -111,9 +111,9 @@
 [/us/stat/98/2327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2327
 [/us/usc/t31/s7501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs7501
 [/us/pl/101/644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F644
-[/us/pl/100/472/s104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F472%2Fs104%2Fa
+[/us/pl/100/472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F472
 [/us/pl/100/581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F581
-[/us/pl/100/472/s104/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F472%2Fs104%2Fb
-[/us/pl/100/472/s208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F472%2Fs208
+[/us/pl/100/472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F472
+[/us/pl/100/472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F472
 
 

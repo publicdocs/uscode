@@ -57,7 +57,7 @@
 
             The Secretary may modify regulations promulgated under this section or the Tribally Controlled Schools Act of 1988 \[[25 U.S.C. 2501][/us/usc/t25/s2501] et seq.\], only in accordance with this section.
 
-([Pub. L. 95–561, title XI, § 1138][/us/pl/95/561/s1138], as added [Pub. L. 107–110, title X, § 1042][/us/pl/107/110/s1042], Jan. 8, 2002, [115 Stat. 2057][/us/stat/115/2057].)
+([Pub. L. 95–561, title XI][/us/pl/95/561/tXI], § 1138, as added [Pub. L. 107–110, title X][/us/pl/107/110/tX], § 1042, Jan. 8, 2002, [115 Stat. 2057][/us/stat/115/2057].)
 
  __References in Text__ 
 
@@ -69,9 +69,9 @@
 
  __Prior Provisions__ 
 
-    A prior section 2018, [Pub. L. 95–561, title XI, § 1138][/us/pl/95/561/s1138], as added [Pub. L. 103–382, title III, § 381][/us/pl/103/382/s381], Oct. 20, 1994, [108 Stat. 4011][/us/stat/108/4011], related to rights of Indian students, prior to the general amendment of this chapter by [Pub. L. 107–110][/us/pl/107/110]. See [section 2016 of this title][/us/usc/t25/s2016].
+    A prior section 2018, [Pub. L. 95–561, title XI][/us/pl/95/561/tXI], § 1138, as added [Pub. L. 103–382, title III][/us/pl/103/382/tIII], § 381, Oct. 20, 1994, [108 Stat. 4011][/us/stat/108/4011], related to rights of Indian students, prior to the general amendment of this chapter by [Pub. L. 107–110][/us/pl/107/110]. See [section 2016 of this title][/us/usc/t25/s2016].
 
-    Another prior section 2018, [Pub. L. 95–561, title XI, § 1138][/us/pl/95/561/s1138], Nov. 1, 1978, [92 Stat. 2327][/us/stat/92/2327]; [Pub. L. 98–511, title V, § 510][/us/pl/98/511/s510], Oct. 19, 1984, [98 Stat. 2397][/us/stat/98/2397], related to regulations implementing administrative provisions, prior to the general amendment of this chapter by [Pub. L. 103–382][/us/pl/103/382].
+    Another prior section 2018, [Pub. L. 95–561, title XI][/us/pl/95/561/tXI], § 1138, Nov. 1, 1978, [92 Stat. 2327][/us/stat/92/2327]; [Pub. L. 98–511, title V][/us/pl/98/511/tV], § 510, Oct. 19, 1984, [98 Stat. 2397][/us/stat/98/2397], related to regulations implementing administrative provisions, prior to the general amendment of this chapter by [Pub. L. 103–382][/us/pl/103/382].
 
 ----------
 
@@ -84,8 +84,8 @@
 [/us/usc/t25/s2501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs2501
 [/us/usc/t25/s2501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs2501
 [/us/usc/t25/s2501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs2501
-[/us/pl/95/561/s1138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2Fs1138
-[/us/pl/107/110/s1042]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2Fs1042
+[/us/pl/95/561/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2FtXI
+[/us/pl/107/110/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2FtX
 [/us/stat/115/2057]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F2057
 [/us/pl/100/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297
 [/us/stat/102/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F385
@@ -93,14 +93,14 @@
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770
 [/us/pl/107/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110
-[/us/pl/95/561/s1138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2Fs1138
-[/us/pl/103/382/s381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs381
+[/us/pl/95/561/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2FtXI
+[/us/pl/103/382/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2FtIII
 [/us/stat/108/4011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4011
 [/us/pl/107/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110
 [/us/usc/t25/s2016]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs2016
-[/us/pl/95/561/s1138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2Fs1138
+[/us/pl/95/561/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2FtXI
 [/us/stat/92/2327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2327
-[/us/pl/98/511/s510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F511%2Fs510
+[/us/pl/98/511/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F511%2FtV
 [/us/stat/98/2397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2397
 [/us/pl/103/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382
 

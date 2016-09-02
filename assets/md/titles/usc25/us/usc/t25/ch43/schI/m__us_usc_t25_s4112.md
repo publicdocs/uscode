@@ -111,31 +111,31 @@
 
         The requirements relating to the contents of plans under this section shall be established by regulation, pursuant to [section 4116 of this title][/us/usc/t25/s4116].
 
-([Pub. L. 104–330, title I, § 102][/us/pl/104/330/s102], Oct. 26, 1996, [110 Stat. 4023][/us/stat/110/4023]; [Pub. L. 105–276, title V, § 595(e)(5)][/us/pl/105/276/s595/e/5], Oct. 21, 1998, [112 Stat. 2657][/us/stat/112/2657]; [Pub. L. 106–568, title X, § 1003(b)][/us/pl/106/568/s1003/b], (c), Dec. 27, 2000, [114 Stat. 2926][/us/stat/114/2926]; [Pub. L. 106–569, title V, § 503(b)][/us/pl/106/569/s503/b], (c), Dec. 27, 2000, [114 Stat. 2962][/us/stat/114/2962]; [Pub. L. 110–411, title I, § 102][/us/pl/110/411/s102], Oct. 14, 2008, [122 Stat. 4321][/us/stat/122/4321].)
+([Pub. L. 104–330, title I][/us/pl/104/330/tI], § 102, Oct. 26, 1996, [110 Stat. 4023][/us/stat/110/4023]; [Pub. L. 105–276, title V][/us/pl/105/276/tV], § 595(e)(5), Oct. 21, 1998, [112 Stat. 2657][/us/stat/112/2657]; [Pub. L. 106–568, title X][/us/pl/106/568/tX], § 1003(b), (c), Dec. 27, 2000, [114 Stat. 2926][/us/stat/114/2926]; [Pub. L. 106–569, title V][/us/pl/106/569/tV], § 503(b), (c), Dec. 27, 2000, [114 Stat. 2962][/us/stat/114/2962]; [Pub. L. 110–411, title I][/us/pl/110/411/tI], § 102, Oct. 14, 2008, [122 Stat. 4321][/us/stat/122/4321].)
 
  __References in Text__ 
 
     This chapter, referred to in subsec. (b)(2), was in the original “this Act”, meaning [Pub. L. 104–330][/us/pl/104/330], Oct. 26, 1996, [110 Stat. 4016][/us/stat/110/4016], known as the Native American Housing Assistance and Self-Determination Act of 1996. For complete classification of this Act to the Code, see Short Title note set out under [section 4101 of this title][/us/usc/t25/s4101] and Tables.
 
-    The United States Housing Act of 1937, referred to in subsec. (b)(2)(A)(v), is [act Sept. 1, 1937, ch. 896][/us/act/1937-09-01/ch896], as revised generally by [Pub. L. 93–383, title II, § 201(a)][/us/pl/93/383/s201/a], Aug. 22, 1974, [88 Stat. 653][/us/stat/88/653], which is classified generally to chapter 8 (§ 1437 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 1437 of Title 42][/us/usc/t42/s1437] and Tables.
+    The United States Housing Act of 1937, referred to in subsec. (b)(2)(A)(v), is [act Sept. 1, 1937, ch. 896][/us/act/1937-09-01/ch896], as revised generally by [Pub. L. 93–383, title II][/us/pl/93/383/tII], § 201(a), Aug. 22, 1974, [88 Stat. 653][/us/stat/88/653], which is classified generally to chapter 8 (§ 1437 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 1437 of Title 42][/us/usc/t42/s1437] and Tables.
 
     The Civil Rights Act of 1968, referred to in subsec. (b)(2)(D)(i), is [Pub. L. 90–284][/us/pl/90/284], Apr. 11, 1968, [82 Stat. 73][/us/stat/82/73]. Title II of the Act, popularly known as the Indian Civil Rights Act of 1968, is classified generally to subchapter I (§ 1301 et seq.) of chapter 15 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 3601 of Title 42][/us/usc/t42/s3601], The Public Health and Welfare, and Tables.
 
  __Amendments__ 
 
-    2008—Subsec. (a)(1)(A). [Pub. L. 110–411, § 102(1)(A)][/us/pl/110/411/s102/1/A], added subpar. (A) and struck out former subpar. (A) which read as follows: “for an Indian tribe to submit to the Secretary, for each fiscal year, a housing plan under this section for the tribe; or”.
+    2008—Subsec. (a)(1)(A). [Pub. L. 110–411][/us/pl/110/411], § 102(1)(A), added subpar. (A) and struck out former subpar. (A) which read as follows: “for an Indian tribe to submit to the Secretary, for each fiscal year, a housing plan under this section for the tribe; or”.
 
-    Subsec. (a)(1)(B). [Pub. L. 110–411, § 102(1)(B)][/us/pl/110/411/s102/1/B], substituted “subsection (c)” for “subsection (d)”.
+    Subsec. (a)(1)(B). [Pub. L. 110–411][/us/pl/110/411], § 102(1)(B), substituted “subsection (c)” for “subsection (d)”.
 
-    Subsecs. (b), (c). [Pub. L. 110–411, § 102(2)][/us/pl/110/411/s102/2], (3), added subsec. (b), redesignated subsec. (d) as (c), and struck out former subsecs. (b) and (c) which required housing plans to contain certain information relating to a 5-year period and a 1-year period, respectively.
+    Subsecs. (b), (c). [Pub. L. 110–411][/us/pl/110/411], § 102(2), (3), added subsec. (b), redesignated subsec. (d) as (c), and struck out former subsecs. (b) and (c) which required housing plans to contain certain information relating to a 5-year period and a 1-year period, respectively.
 
-    Subsec. (d). [Pub. L. 110–411, § 102(3)][/us/pl/110/411/s102/3], (4), redesignated subsec. (e) as (d) and substituted “subsection (c)” for “subsection (d)”. Former subsec. (d) redesignated (c).
+    Subsec. (d). [Pub. L. 110–411][/us/pl/110/411], § 102(3), (4), redesignated subsec. (e) as (d) and substituted “subsection (c)” for “subsection (d)”. Former subsec. (d) redesignated (c).
 
-    Subsecs. (e), (f). [Pub. L. 110–411, § 102(3)][/us/pl/110/411/s102/3], redesignated subsecs. (e) and (f) as (d) and (e), respectively.
+    Subsecs. (e), (f). [Pub. L. 110–411][/us/pl/110/411], § 102(3), redesignated subsecs. (e) and (f) as (d) and (e), respectively.
 
-    2000—Subsec. (c)(6). [Pub. L. 106–568, § 1003(b)][/us/pl/106/568/s1003/b], and [Pub. L. 106–569, § 503(b)][/us/pl/106/569/s503/b], amended subsec. (c) identically, adding par. (6).
+    2000—Subsec. (c)(6). [Pub. L. 106–568][/us/pl/106/568], § 1003(b), and [Pub. L. 106–569][/us/pl/106/569], § 503(b), amended subsec. (c) identically, adding par. (6).
 
-    Subsecs. (f), (g). [Pub. L. 106–568, § 1003(c)][/us/pl/106/568/s1003/c], and [Pub. L. 106–569, § 503(c)][/us/pl/106/569/s503/c], amended section identically, redesignating subsec. (g) as (f) and striking out heading and text of former subsec. (f). Text read as follows:
+    Subsecs. (f), (g). [Pub. L. 106–568][/us/pl/106/568], § 1003(c), and [Pub. L. 106–569][/us/pl/106/569], § 503(c), amended section identically, redesignating subsec. (g) as (f) and striking out heading and text of former subsec. (f). Text read as follows:
 
     “(1) Separate requirements.—The Secretary may—
 
@@ -162,35 +162,35 @@
 [/us/usc/t25/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1301
 [/us/usc/t25/s4114/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs4114%2Fb
 [/us/usc/t25/s4116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs4116
-[/us/pl/104/330/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330%2Fs102
+[/us/pl/104/330/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330%2FtI
 [/us/stat/110/4023]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F4023
-[/us/pl/105/276/s595/e/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs595%2Fe%2F5
+[/us/pl/105/276/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2FtV
 [/us/stat/112/2657]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2657
-[/us/pl/106/568/s1003/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F568%2Fs1003%2Fb
+[/us/pl/106/568/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F568%2FtX
 [/us/stat/114/2926]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2926
-[/us/pl/106/569/s503/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs503%2Fb
+[/us/pl/106/569/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2FtV
 [/us/stat/114/2962]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2962
-[/us/pl/110/411/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F411%2Fs102
+[/us/pl/110/411/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F411%2FtI
 [/us/stat/122/4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4321
 [/us/pl/104/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330
 [/us/stat/110/4016]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F4016
 [/us/usc/t25/s4101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs4101
 [/us/act/1937-09-01/ch896]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-09-01%2Fch896
-[/us/pl/93/383/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2Fs201%2Fa
+[/us/pl/93/383/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2FtII
 [/us/stat/88/653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F653
 [/us/usc/t42/s1437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437
 [/us/pl/90/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F284
 [/us/stat/82/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F73
 [/us/usc/t42/s3601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3601
-[/us/pl/110/411/s102/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F411%2Fs102%2F1%2FA
-[/us/pl/110/411/s102/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F411%2Fs102%2F1%2FB
-[/us/pl/110/411/s102/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F411%2Fs102%2F2
-[/us/pl/110/411/s102/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F411%2Fs102%2F3
-[/us/pl/110/411/s102/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F411%2Fs102%2F3
-[/us/pl/106/568/s1003/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F568%2Fs1003%2Fb
-[/us/pl/106/569/s503/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs503%2Fb
-[/us/pl/106/568/s1003/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F568%2Fs1003%2Fc
-[/us/pl/106/569/s503/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs503%2Fc
+[/us/pl/110/411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F411
+[/us/pl/110/411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F411
+[/us/pl/110/411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F411
+[/us/pl/110/411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F411
+[/us/pl/110/411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F411
+[/us/pl/106/568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F568
+[/us/pl/106/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569
+[/us/pl/106/568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F568
+[/us/pl/106/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569
 [/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
 [/us/usc/t25/s4116/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs4116%2Fa
 [/us/usc/t25/s4113/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs4113%2Fe

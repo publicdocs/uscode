@@ -131,7 +131,7 @@
 
         (5) For purposes of this subsection, any Indian tribe or community that lacks the operation and maintenance capability to enable its sanitation system to meet pollution control laws may not be treated as having a level I or II sanitation deficiency.
 
-([Pub. L. 94–437, title III, § 302][/us/pl/94/437/s302], Sept. 30, 1976, [90 Stat. 1407][/us/stat/90/1407]; [Pub. L. 100–713, title III, § 302][/us/pl/100/713/s302], Nov. 23, 1988, [102 Stat. 4814][/us/stat/102/4814]; [Pub. L. 102–573, title III][/us/pl/102/573], §§ 302, 307(b)(1), Oct. 29, 1992, [106 Stat. 4560][/us/stat/106/4560], 4564.)
+([Pub. L. 94–437, title III][/us/pl/94/437/tIII], § 302, Sept. 30, 1976, [90 Stat. 1407][/us/stat/90/1407]; [Pub. L. 100–713, title III][/us/pl/100/713/tIII], § 302, Nov. 23, 1988, [102 Stat. 4814][/us/stat/102/4814]; [Pub. L. 102–573, title III][/us/pl/102/573/tIII], §§ 302, 307(b)(1), Oct. 29, 1992, [106 Stat. 4560][/us/stat/106/4560], 4564.)
 
  __References in Text__ 
 
@@ -141,15 +141,15 @@
 
  __Amendments__ 
 
-    1992—Subsec. (e). [Pub. L. 102–573, § 302(1)][/us/pl/102/573/s302/1], amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “The provisions of this section shall not diminish the primary responsibility of the Indian family, community, or tribe to establish, collect, and utilize reasonable user fees, or otherwise set aside funding, for the purpose of operating and maintaining sanitation facilities.”
+    1992—Subsec. (e). [Pub. L. 102–573][/us/pl/102/573], § 302(1), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “The provisions of this section shall not diminish the primary responsibility of the Indian family, community, or tribe to establish, collect, and utilize reasonable user fees, or otherwise set aside funding, for the purpose of operating and maintaining sanitation facilities.”
 
-    Subsec. (f)(1). [Pub. L. 102–573, § 302(2)][/us/pl/102/573/s302/2], substituted “this section” for “subsection (h)”.
+    Subsec. (f)(1). [Pub. L. 102–573][/us/pl/102/573], § 302(2), substituted “this section” for “subsection (h)”.
 
-    Subsec. (g)(1). [Pub. L. 102–573, § 302(3)(A)][/us/pl/102/573/s302/3/A], substituted “The Secretary shall submit to the President, for inclusion in each report required to be transmitted to the Congress under [section 1671 of this title][/us/usc/t25/s1671], a report” for “The Secretary shall submit to the Congress an annual report”.
+    Subsec. (g)(1). [Pub. L. 102–573][/us/pl/102/573], § 302(3)(A), substituted “The Secretary shall submit to the President, for inclusion in each report required to be transmitted to the Congress under [section 1671 of this title][/us/usc/t25/s1671], a report” for “The Secretary shall submit to the Congress an annual report”.
 
-    Subsec. (g)(2) to (6). [Pub. L. 102–573, § 302(3)(B)][/us/pl/102/573/s302/3/B], redesignated pars. (3) to (6) as (2) to (5), respectively, and struck out former par. (2) which read as follows: “The first report required under paragraph (1) shall be submitted by no later than the date that is 180 days after November 23, 1988, and, beginning in 1990, each subsequent annual report shall be submitted by the date that is 60 days after the date on which the President submits the budget to the Congress under [section 1105 of title 31][/us/usc/t31/s1105].”
+    Subsec. (g)(2) to (6). [Pub. L. 102–573][/us/pl/102/573], § 302(3)(B), redesignated pars. (3) to (6) as (2) to (5), respectively, and struck out former par. (2) which read as follows: “The first report required under paragraph (1) shall be submitted by no later than the date that is 180 days after November 23, 1988, and, beginning in 1990, each subsequent annual report shall be submitted by the date that is 60 days after the date on which the President submits the budget to the Congress under [section 1105 of title 31][/us/usc/t31/s1105].”
 
-    Subsec. (h). [Pub. L. 102–573, § 307(b)(1)][/us/pl/102/573/s307/b/1], struck out subsec. (h) which authorized appropriations to carry out subsec. (b)(2) for fiscal years 1990 to 1992.
+    Subsec. (h). [Pub. L. 102–573][/us/pl/102/573], § 307(b)(1), struck out subsec. (h) which authorized appropriations to carry out subsec. (b)(2) for fiscal years 1990 to 1992.
 
     1988—[Pub. L. 100–713][/us/pl/100/713] amended section generally, substituting subsecs. (a) to (h) relating to safe water and sanitary waste disposal facilities for former subsecs. (a) to (c) relating to construction of safe water and sanitary waste disposal facilities.
 
@@ -167,11 +167,11 @@
 [/us/usc/t25/s450f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450f
 [/us/usc/t25/s1671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1671
 [/us/usc/t25/s450f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450f
-[/us/pl/94/437/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437%2Fs302
+[/us/pl/94/437/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437%2FtIII
 [/us/stat/90/1407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1407
-[/us/pl/100/713/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F713%2Fs302
+[/us/pl/100/713/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F713%2FtIII
 [/us/stat/102/4814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4814
-[/us/pl/102/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573
+[/us/pl/102/573/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2FtIII
 [/us/stat/106/4560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4560
 [/us/pl/93/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383
 [/us/stat/88/633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F633
@@ -179,13 +179,13 @@
 [/us/pl/93/638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638
 [/us/stat/88/2206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2206
 [/us/usc/t25/s450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450
-[/us/pl/102/573/s302/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2Fs302%2F1
-[/us/pl/102/573/s302/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2Fs302%2F2
-[/us/pl/102/573/s302/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2Fs302%2F3%2FA
+[/us/pl/102/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573
+[/us/pl/102/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573
+[/us/pl/102/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573
 [/us/usc/t25/s1671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1671
-[/us/pl/102/573/s302/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2Fs302%2F3%2FB
+[/us/pl/102/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573
 [/us/usc/t31/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105
-[/us/pl/102/573/s307/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2Fs307%2Fb%2F1
+[/us/pl/102/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573
 [/us/pl/100/713]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F713
 
 

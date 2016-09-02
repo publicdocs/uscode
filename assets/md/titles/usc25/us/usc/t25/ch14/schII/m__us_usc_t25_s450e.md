@@ -31,7 +31,7 @@
 
         Notwithstanding subsections (a) and (b), with respect to any self-determination contract, or portion of a self-determination contract, that is intended to benefit one tribe, the tribal employment or contract preference laws adopted by such tribe shall govern with respect to the administration of the contract or portion of the contract.
 
-([Pub. L. 93–638, § 7][/us/pl/93/638/s7], Jan. 4, 1975, [88 Stat. 2205][/us/stat/88/2205]; [Pub. L. 103–413, title I, § 102(3)][/us/pl/103/413/s102/3], (4), Oct. 25, 1994, [108 Stat. 4251][/us/stat/108/4251].)
+([Pub. L. 93–638][/us/pl/93/638], § 7, Jan. 4, 1975, [88 Stat. 2205][/us/stat/88/2205]; [Pub. L. 103–413, title I][/us/pl/103/413/tI], § 102(3), (4), Oct. 25, 1994, [108 Stat. 4251][/us/stat/108/4251].)
 
  __References in Text__ 
 
@@ -45,13 +45,13 @@
 
     This subchapter, referred to in subsecs. (a) and (b), was in the original “this Act”, meaning [Pub. L. 93–638][/us/pl/93/638], Jan. 4, 1975, [88 Stat. 2203][/us/stat/88/2203], known as the Indian Self-Determination and Education Assistance Act, which is classified principally to this subchapter. For complete classification of this Act to the Code, see Short Title note set out under [section 450 of this title][/us/usc/t25/s450] and Tables.
 
-    In subsec. (a), “sections 3141–3144, 3146, and 3147 of title 40” substituted for “the Davis-Bacon Act of March 3, 1931 ([46 Stat. 1494][/us/stat/46/1494]), as amended” and “[section 3145 of title 40][/us/usc/t40/s3145]” substituted for “[section 2 of the Act of June 13, 1934][/us/act/1934-06-13/s2] ([48 Stat. 948][/us/stat/48/948], [40 U.S.C. 276c][/us/usc/t40/s276c])” on authority of [Pub. L. 107–217, § 5(c)][/us/pl/107/217/s5/c], Aug. 21, 2002, [116 Stat. 1303][/us/stat/116/1303], the first section of which enacted Title 40, Public Buildings, Property, and Works.
+    In subsec. (a), “sections 3141–3144, 3146, and 3147 of title 40” substituted for “the Davis-Bacon Act of March 3, 1931 ([46 Stat. 1494][/us/stat/46/1494]), as amended” and “[section 3145 of title 40][/us/usc/t40/s3145]” substituted for “[section 2 of the Act of June 13, 1934][/us/act/1934-06-13/s2] ([48 Stat. 948][/us/stat/48/948], [40 U.S.C. 276c][/us/usc/t40/s276c])” on authority of [Pub. L. 107–217][/us/pl/107/217], § 5(c), Aug. 21, 2002, [116 Stat. 1303][/us/stat/116/1303], the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
  __Amendments__ 
 
-    1994—Subsec. (a). [Pub. L. 103–413, § 102(3)][/us/pl/103/413/s102/3], substituted “or subcontractors (excluding tribes and tribal organizations)” for “of subcontractors”.
+    1994—Subsec. (a). [Pub. L. 103–413][/us/pl/103/413], § 102(3), substituted “or subcontractors (excluding tribes and tribal organizations)” for “of subcontractors”.
 
-    Subsec. (c). [Pub. L. 103–413, § 102(4)][/us/pl/103/413/s102/4], added subsec. (c).
+    Subsec. (c). [Pub. L. 103–413][/us/pl/103/413], § 102(4), added subsec. (c).
 
 ----------
 
@@ -64,9 +64,9 @@
 [/us/stat/48/596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F596
 [/us/usc/t25/s452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs452
 [/us/usc/t25/s1452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1452
-[/us/pl/93/638/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638%2Fs7
+[/us/pl/93/638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638
 [/us/stat/88/2205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2205
-[/us/pl/103/413/s102/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F413%2Fs102%2F3
+[/us/pl/103/413/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F413%2FtI
 [/us/stat/108/4251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4251
 [/us/act/1931-03-03/ch411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1931-03-03%2Fch411
 [/us/stat/46/1494]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F1494
@@ -83,9 +83,9 @@
 [/us/act/1934-06-13/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-13%2Fs2
 [/us/stat/48/948]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F948
 [/us/usc/t40/s276c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs276c
-[/us/pl/107/217/s5/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs5%2Fc
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1303
-[/us/pl/103/413/s102/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F413%2Fs102%2F3
-[/us/pl/103/413/s102/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F413%2Fs102%2F4
+[/us/pl/103/413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F413
+[/us/pl/103/413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F413
 
 

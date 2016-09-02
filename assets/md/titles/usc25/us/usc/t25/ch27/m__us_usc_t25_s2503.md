@@ -125,7 +125,7 @@
 
                 A tribe or organization described in subparagraph (A) may enforce its rights under subsection (a)(2) and this paragraph, including rights relating to any denial or failure to act on such tribe’s or organization’s request, pursuant to the dispute authority described in section 2508(e) 5 of this title.
 
-([Pub. L. 100–297, title V, § 5204][/us/pl/100/297/s5204], as added [Pub. L. 107–110, title X, § 1043][/us/pl/107/110/s1043], Jan. 8, 2002, [115 Stat. 2066][/us/stat/115/2066].)
+([Pub. L. 100–297, title V][/us/pl/100/297/tV], § 5204, as added [Pub. L. 107–110, title X][/us/pl/107/110/tX], § 1043, Jan. 8, 2002, [115 Stat. 2066][/us/stat/115/2066].)
 
  __References in Text__ 
 
@@ -139,7 +139,7 @@
 
  __Prior Provisions__ 
 
-    A prior section 2503, [Pub. L. 100–297, title V, § 5204][/us/pl/100/297/s5204], Apr. 28, 1988, [102 Stat. 386][/us/stat/102/386]; [Pub. L. 100–427, § 10(a)][/us/pl/100/427/s10/a], (b), Sept. 9, 1988, [102 Stat. 1607][/us/stat/102/1607]; [Pub. L. 102–119, § 26(f)][/us/pl/102/119/s26/f], Oct. 7, 1991, [105 Stat. 607][/us/stat/105/607]; [Pub. L. 103–382, title III, § 394(m)(1)][/us/pl/103/382/s394/m/1], Oct. 20, 1994, [108 Stat. 4029][/us/stat/108/4029], authorized grants, prior to repeal by [Pub. L. 107–110, title X, § 1043][/us/pl/107/110/s1043], Jan. 8, 2002, [115 Stat. 2063][/us/stat/115/2063]. See [section 2502 of this title][/us/usc/t25/s2502].
+    A prior section 2503, [Pub. L. 100–297, title V][/us/pl/100/297/tV], § 5204, Apr. 28, 1988, [102 Stat. 386][/us/stat/102/386]; [Pub. L. 100–427][/us/pl/100/427], § 10(a), (b), Sept. 9, 1988, [102 Stat. 1607][/us/stat/102/1607]; [Pub. L. 102–119][/us/pl/102/119], § 26(f), Oct. 7, 1991, [105 Stat. 607][/us/stat/105/607]; [Pub. L. 103–382, title III][/us/pl/103/382/tIII], § 394(m)(1), Oct. 20, 1994, [108 Stat. 4029][/us/stat/108/4029], authorized grants, prior to repeal by [Pub. L. 107–110, title X][/us/pl/107/110/tX], § 1043, Jan. 8, 2002, [115 Stat. 2063][/us/stat/115/2063]. See [section 2502 of this title][/us/usc/t25/s2502].
 
  __Effective Date__ 
 
@@ -164,8 +164,8 @@
 [/us/usc/t20/s6301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6301
 [/us/usc/t20/s1400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1400
 [/us/usc/t25/s2005/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs2005%2Fa
-[/us/pl/100/297/s5204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297%2Fs5204
-[/us/pl/107/110/s1043]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2Fs1043
+[/us/pl/100/297/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297%2FtV
+[/us/pl/107/110/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2FtX
 [/us/stat/115/2066]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F2066
 [/us/pl/89/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10
 [/us/stat/79/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F27
@@ -181,15 +181,15 @@
 [/us/usc/t25/s2005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs2005
 [/us/pl/95/561/s1124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2Fs1124
 [/us/usc/t25/s2004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs2004
-[/us/pl/100/297/s5204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297%2Fs5204
+[/us/pl/100/297/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297%2FtV
 [/us/stat/102/386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F386
-[/us/pl/100/427/s10/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F427%2Fs10%2Fa
+[/us/pl/100/427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F427
 [/us/stat/102/1607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1607
-[/us/pl/102/119/s26/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F119%2Fs26%2Ff
+[/us/pl/102/119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F119
 [/us/stat/105/607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F607
-[/us/pl/103/382/s394/m/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs394%2Fm%2F1
+[/us/pl/103/382/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2FtIII
 [/us/stat/108/4029]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4029
-[/us/pl/107/110/s1043]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2Fs1043
+[/us/pl/107/110/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2FtX
 [/us/stat/115/2063]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F2063
 [/us/usc/t25/s2502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs2502
 [/us/pl/107/110/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2Fs5

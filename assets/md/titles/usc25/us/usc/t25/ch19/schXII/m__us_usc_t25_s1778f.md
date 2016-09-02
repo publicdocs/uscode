@@ -23,7 +23,7 @@
 
         The United States hereby approves and confirms the releases and waivers required by the Settlement Agreement and this subchapter.
 
-([Pub. L. 106–568, title VI, § 608][/us/pl/106/568/s608], Dec. 27, 2000, [114 Stat. 2912][/us/stat/114/2912].)
+([Pub. L. 106–568, title VI][/us/pl/106/568/tVI], § 608, Dec. 27, 2000, [114 Stat. 2912][/us/stat/114/2912].)
 
  __Effective Date__ 
 
@@ -37,7 +37,7 @@
 ----------
 
 [/us/usc/t25/s1778]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1778
-[/us/pl/106/568/s608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F568%2Fs608
+[/us/pl/106/568/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F568%2FtVI
 [/us/stat/114/2912]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2912
 [/us/pl/106/568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F568
 [/us/pl/106/568/s611/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F568%2Fs611%2Fb

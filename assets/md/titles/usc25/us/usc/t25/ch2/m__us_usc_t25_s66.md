@@ -19,7 +19,7 @@
 
     The pay of any superintendent who performs agency duties in addition to those of his superintendency may be increased by the Commissioner of Indian Affairs, in his discretion, to an extent not exceeding $300 per annum.
 
-([Mar. 1, 1907, ch. 2285][/us/act/1907-03-01/ch2285], [34 Stat. 1020][/us/stat/34/1020]; [Pub. L. 92–310, title II, § 229(d)][/us/pl/92/310/s229/d], June 6, 1972, [86 Stat. 208][/us/stat/86/208].)
+([Mar. 1, 1907, ch. 2285][/us/act/1907-03-01/ch2285], [34 Stat. 1020][/us/stat/34/1020]; [Pub. L. 92–310, title II][/us/pl/92/310/tII], § 229(d), June 6, 1972, [86 Stat. 208][/us/stat/86/208].)
 
  __Amendments__ 
 
@@ -38,7 +38,7 @@
 
 [/us/act/1907-03-01/ch2285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1907-03-01%2Fch2285
 [/us/stat/34/1020]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F34%2F1020
-[/us/pl/92/310/s229/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F310%2Fs229%2Fd
+[/us/pl/92/310/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F310%2FtII
 [/us/stat/86/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F208
 [/us/pl/92/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F310
 [/us/stat/64/1262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1262

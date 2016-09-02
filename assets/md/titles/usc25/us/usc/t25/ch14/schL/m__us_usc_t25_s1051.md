@@ -17,7 +17,7 @@
 
     The Secretary of the Interior shall prepare a roll of all persons who meet both of the following requirements for eligibility: (1) They were born on or prior to and living on August 30, 1964; and (2) their name or the name of an ancestor through whom they claim eligibility appears either on the census roll of the Naalem (Nehalem) Band of Tillamook Indians dated January 28, 1898, or on the annuity payment roll of the Tillamook Band of Tillamook Indians prepared in 1914 under the provisions of the Act of August 24, 1912 (37 Stat. L., 519–535). Applications for enrollment must be filed with the area director of the Bureau of Indian Affairs, Portland, Oregon, within six months after August 30, 1964, on forms prescribed for that purpose. The determination of the Secretary regarding the eligibility for enrollment of an applicant shall be final.
 
-([Pub. L. 88–506, § 1][/us/pl/88/506/s1], Aug. 30, 1964, [78 Stat. 639][/us/stat/78/639].)
+([Pub. L. 88–506][/us/pl/88/506], § 1, Aug. 30, 1964, [78 Stat. 639][/us/stat/78/639].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/88/506/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F506%2Fs1
+[/us/pl/88/506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F506
 [/us/stat/78/639]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F639
 [/us/act/1912-08-24/ch388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1912-08-24%2Fch388
 [/us/stat/37/519-534]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F37%2F519-534

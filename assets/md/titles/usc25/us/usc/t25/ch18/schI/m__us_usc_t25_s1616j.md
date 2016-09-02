@@ -63,7 +63,7 @@
 
         (2) necessary for providing health care services to Indians.
 
-([Pub. L. 94–437, title I, § 117][/us/pl/94/437/s117], as added [Pub. L. 100–713, title I, § 109][/us/pl/100/713/s109], Nov. 23, 1988, [102 Stat. 4799][/us/stat/102/4799]; amended [Pub. L. 102–573, title I, § 104(d)][/us/pl/102/573/s104/d], Oct. 29, 1992, [106 Stat. 4533][/us/stat/106/4533].)
+([Pub. L. 94–437, title I][/us/pl/94/437/tI], § 117, as added [Pub. L. 100–713, title I][/us/pl/100/713/tI], § 109, Nov. 23, 1988, [102 Stat. 4799][/us/stat/102/4799]; amended [Pub. L. 102–573, title I][/us/pl/102/573/tI], § 104(d), Oct. 29, 1992, [106 Stat. 4533][/us/stat/106/4533].)
 
  __References in Text__ 
 
@@ -82,10 +82,10 @@
 
 [/us/usc/t25/s1616i/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1616i%2Fb%2F1
 [/us/usc/t25/s450f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450f
-[/us/pl/94/437/s117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437%2Fs117
-[/us/pl/100/713/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F713%2Fs109
+[/us/pl/94/437/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437%2FtI
+[/us/pl/100/713/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F713%2FtI
 [/us/stat/102/4799]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4799
-[/us/pl/102/573/s104/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2Fs104%2Fd
+[/us/pl/102/573/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2FtI
 [/us/stat/106/4533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4533
 [/us/pl/93/638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638
 [/us/stat/88/2206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2206

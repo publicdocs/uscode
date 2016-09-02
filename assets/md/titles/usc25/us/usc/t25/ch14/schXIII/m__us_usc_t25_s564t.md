@@ -17,7 +17,7 @@
 
     Nothing contained in this subchapter shall deprive the tribe or its constituent parts of any right, privilege, or benefit granted by the Act of August 13, 1946 ([60 Stat. 1049][/us/stat/60/1049]) \[[25 U.S.C. 70][/us/usc/t25/s70] et seq.\].
 
-([Aug. 13, 1954, ch. 732, § 21][/us/act/1954-08-13/ch732/s21], [68 Stat. 723][/us/stat/68/723].)
+([Aug. 13, 1954, ch. 732][/us/act/1954-08-13/ch732], § 21, [68 Stat. 723][/us/stat/68/723].)
 
  __References in Text__ 
 
@@ -32,7 +32,7 @@
 
 [/us/stat/60/1049]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F1049
 [/us/usc/t25/s70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs70
-[/us/act/1954-08-13/ch732/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-13%2Fch732%2Fs21
+[/us/act/1954-08-13/ch732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-13%2Fch732
 [/us/stat/68/723]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F723
 [/us/act/1946-08-13/ch959]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-13%2Fch959
 [/us/stat/60/1049]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F1049

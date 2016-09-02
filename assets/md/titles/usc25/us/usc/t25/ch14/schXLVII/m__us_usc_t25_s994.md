@@ -17,7 +17,7 @@
 
     No part of any funds which may be distributed in accordance with the provisions of this subchapter shall be subject to Federal or State income tax.
 
-([Pub. L. 87–775, § 4][/us/pl/87/775/s4], Oct. 9, 1962, [76 Stat. 776][/us/stat/76/776].)
+([Pub. L. 87–775][/us/pl/87/775], § 4, Oct. 9, 1962, [76 Stat. 776][/us/stat/76/776].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/87/775/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F775%2Fs4
+[/us/pl/87/775]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F775
 [/us/stat/76/776]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F776
 
 

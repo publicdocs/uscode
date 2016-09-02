@@ -17,7 +17,7 @@
 
     The Secretary is authorized and directed to cancel any indebtedness payable to the United States by the tribe arising out of any loan made by the United States to such tribe, and any indebtedness, whether payable to the United States or to the tribe, arising out of a loan made from the proceeds thereof to an individual Indian.
 
-([Sept. 1, 1954, ch. 1207, § 16][/us/act/1954-09-01/ch1207/s16], [68 Stat. 1103][/us/stat/68/1103].)
+([Sept. 1, 1954, ch. 1207][/us/act/1954-09-01/ch1207], § 16, [68 Stat. 1103][/us/stat/68/1103].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1954-09-01/ch1207/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-09-01%2Fch1207%2Fs16
+[/us/act/1954-09-01/ch1207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-09-01%2Fch1207
 [/us/stat/68/1103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F1103
 
 

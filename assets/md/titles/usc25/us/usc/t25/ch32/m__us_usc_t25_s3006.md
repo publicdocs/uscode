@@ -93,7 +93,7 @@
 
         The committee established under subsection (a) shall terminate at the end of the 120-day period beginning on the day the Secretary certifies, in a report submitted to Congress, that the work of the committee has been completed.
 
-([Pub. L. 101–601, § 8][/us/pl/101/601/s8], Nov. 16, 1990, [104 Stat. 3055][/us/stat/104/3055].)
+([Pub. L. 101–601][/us/pl/101/601], § 8, Nov. 16, 1990, [104 Stat. 3055][/us/stat/104/3055].)
 
  __References in Text__ 
 
@@ -111,7 +111,7 @@
 ----------
 
 [/us/usc/t25/s3013]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs3013
-[/us/pl/101/601/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F601%2Fs8
+[/us/pl/101/601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F601
 [/us/stat/104/3055]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3055
 [/us/pl/101/601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F601
 [/us/stat/104/3048]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3048

@@ -55,7 +55,7 @@
 
         If any Service facility which has been renovated or modernized by an Indian tribe under this section ceases to be used as a Service facility during the 20-year period beginning on the date such renovation or modernization is completed, such Indian tribe shall be entitled to recover from the United States an amount which bears the same ratio to the value of such facility at the time of such cessation as the value of such renovation or modernization (less the total amount of any funds provided specifically for such facility under any Federal program that were expended for such renovation or modernization) bore to the value of such facility at the time of the completion of such renovation or modernization.
 
-([Pub. L. 94–437, title III, § 305][/us/pl/94/437/s305], as added [Pub. L. 96–537, § 5][/us/pl/96/537/s5], Dec. 17, 1980, [94 Stat. 3175][/us/stat/94/3175]; amended [Pub. L. 100–713, title III, § 303(a)][/us/pl/100/713/s303/a], Nov. 23, 1988, [102 Stat. 4816][/us/stat/102/4816]; [Pub. L. 102–573, title III, § 305][/us/pl/102/573/s305], Oct. 29, 1992, [106 Stat. 4563][/us/stat/106/4563].)
+([Pub. L. 94–437, title III][/us/pl/94/437/tIII], § 305, as added [Pub. L. 96–537][/us/pl/96/537], § 5, Dec. 17, 1980, [94 Stat. 3175][/us/stat/94/3175]; amended [Pub. L. 100–713, title III][/us/pl/100/713/tIII], § 303(a), Nov. 23, 1988, [102 Stat. 4816][/us/stat/102/4816]; [Pub. L. 102–573, title III][/us/pl/102/573/tIII], § 305, Oct. 29, 1992, [106 Stat. 4563][/us/stat/106/4563].)
 
  __References in Text__ 
 
@@ -76,12 +76,12 @@
 
 [/us/usc/t25/s450f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450f
 [/us/usc/t25/s1671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1671
-[/us/pl/94/437/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437%2Fs305
-[/us/pl/96/537/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F537%2Fs5
+[/us/pl/94/437/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437%2FtIII
+[/us/pl/96/537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F537
 [/us/stat/94/3175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3175
-[/us/pl/100/713/s303/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F713%2Fs303%2Fa
+[/us/pl/100/713/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F713%2FtIII
 [/us/stat/102/4816]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4816
-[/us/pl/102/573/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2Fs305
+[/us/pl/102/573/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2FtIII
 [/us/stat/106/4563]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4563
 [/us/pl/93/638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638
 [/us/stat/88/2206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2206

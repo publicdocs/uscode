@@ -67,7 +67,7 @@
 
         The Secretary of the Interior is authorized and directed to establish by rule procedures to insure that all funds appropriated under sections 640a to 640c–3 of this title are properly identified for grants to Diné College and that such funds are not commingled with appropriations historically expended by the Bureau of Indian Affairs for programs and projects normally provided on the Navajo Reservation for Navajo beneficiaries.
 
-([Pub. L. 92–189, § 5][/us/pl/92/189/s5], as added [Pub. L. 95–471, title II, § 203(a)][/us/pl/95/471/s203/a], Oct. 17, 1978, [92 Stat. 1330][/us/stat/92/1330]; amended [Pub. L. 96–374, title XIII, § 1351(a)][/us/pl/96/374/s1351/a], (b), Oct. 3, 1980, [94 Stat. 1501][/us/stat/94/1501]; [Pub. L. 98–192, § 14][/us/pl/98/192/s14], Dec. 1, 1983, [97 Stat. 1343][/us/stat/97/1343]; [Pub. L. 99–428, § 7][/us/pl/99/428/s7], Sept. 30, 1986, [100 Stat. 983][/us/stat/100/983]; [Pub. L. 100–297, title V, § 5401][/us/pl/100/297/s5401], Apr. 28, 1988, [102 Stat. 414][/us/stat/102/414]; [Pub. L. 101–477, § 2(a)][/us/pl/101/477/s2/a], Oct. 30, 1990, [104 Stat. 1153][/us/stat/104/1153]; [Pub. L. 102–325, title XIII, § 1301(d)][/us/pl/102/325/s1301/d], July 23, 1992, [106 Stat. 797][/us/stat/106/797]; [Pub. L. 105–244, title IX, § 902][/us/pl/105/244/s902], Oct. 7, 1998, [112 Stat. 1829][/us/stat/112/1829]; [Pub. L. 110–315, title IX, § 946(d)][/us/pl/110/315/s946/d], Aug. 14, 2008, [122 Stat. 3468][/us/stat/122/3468].)
+([Pub. L. 92–189][/us/pl/92/189], § 5, as added [Pub. L. 95–471, title II][/us/pl/95/471/tII], § 203(a), Oct. 17, 1978, [92 Stat. 1330][/us/stat/92/1330]; amended [Pub. L. 96–374, title XIII][/us/pl/96/374/tXIII], § 1351(a), (b), Oct. 3, 1980, [94 Stat. 1501][/us/stat/94/1501]; [Pub. L. 98–192][/us/pl/98/192], § 14, Dec. 1, 1983, [97 Stat. 1343][/us/stat/97/1343]; [Pub. L. 99–428][/us/pl/99/428], § 7, Sept. 30, 1986, [100 Stat. 983][/us/stat/100/983]; [Pub. L. 100–297, title V][/us/pl/100/297/tV], § 5401, Apr. 28, 1988, [102 Stat. 414][/us/stat/102/414]; [Pub. L. 101–477][/us/pl/101/477], § 2(a), Oct. 30, 1990, [104 Stat. 1153][/us/stat/104/1153]; [Pub. L. 102–325, title XIII][/us/pl/102/325/tXIII], § 1301(d), July 23, 1992, [106 Stat. 797][/us/stat/106/797]; [Pub. L. 105–244, title IX][/us/pl/105/244/tIX], § 902, Oct. 7, 1998, [112 Stat. 1829][/us/stat/112/1829]; [Pub. L. 110–315, title IX][/us/pl/110/315/tIX], § 946(d), Aug. 14, 2008, [122 Stat. 3468][/us/stat/122/3468].)
 
  __Codification__ 
 
@@ -75,19 +75,19 @@
 
  __Amendments__ 
 
-    2008—Subsec. (a)(1). [Pub. L. 110–315, § 946(d)(1)(A)][/us/pl/110/315/s946/d/1/A], substituted “such sums as are necessary for fiscal years 2009 through 2014” for “$2,000,000 for fiscal year 1999 and such sums as may be necessary for each of the 4 succeeding fiscal years”.
+    2008—Subsec. (a)(1). [Pub. L. 110–315][/us/pl/110/315], § 946(d)(1)(A), substituted “such sums as are necessary for fiscal years 2009 through 2014” for “$2,000,000 for fiscal year 1999 and such sums as may be necessary for each of the 4 succeeding fiscal years”.
 
-    Subsec. (a)(3). [Pub. L. 110–315, § 946(d)(1)(B)][/us/pl/110/315/s946/d/1/B], added par. (3).
+    Subsec. (a)(3). [Pub. L. 110–315][/us/pl/110/315], § 946(d)(1)(B), added par. (3).
 
-    Subsec. (b)(1). [Pub. L. 110–315, § 946(d)(2)(A)][/us/pl/110/315/s946/d/2/A], in introductory provisions, substituted “Diné College” for “the Navajo Community College” and “such sums as are necessary for fiscal years 2009 through 2014 to pay the cost of—” for “, for each fiscal year, an amount necessary to pay expenses incurred for—”.
+    Subsec. (b)(1). [Pub. L. 110–315][/us/pl/110/315], § 946(d)(2)(A), in introductory provisions, substituted “Diné College” for “the Navajo Community College” and “such sums as are necessary for fiscal years 2009 through 2014 to pay the cost of—” for “, for each fiscal year, an amount necessary to pay expenses incurred for—”.
 
-    Subsec. (b)(1)(A). [Pub. L. 110–315, § 946(d)(2)(B)][/us/pl/110/315/s946/d/2/B], substituted “College” for “college” in introductory provisions, semicolons for commas at end of cls. (i) and (iii), and “; and” for “, and” at end of cl. (ii).
+    Subsec. (b)(1)(A). [Pub. L. 110–315][/us/pl/110/315], § 946(d)(2)(B), substituted “College” for “college” in introductory provisions, semicolons for commas at end of cls. (i) and (iii), and “; and” for “, and” at end of cl. (ii).
 
-    Subsec. (b)(1)(B). [Pub. L. 110–315, § 946(d)(2)(C)][/us/pl/110/315/s946/d/2/C], substituted semicolon for comma at end.
+    Subsec. (b)(1)(B). [Pub. L. 110–315][/us/pl/110/315], § 946(d)(2)(C), substituted semicolon for comma at end.
 
-    Subsec. (b)(1)(E). [Pub. L. 110–315, § 946(d)(2)(D)][/us/pl/110/315/s946/d/2/D]–(F), added subpar. (E).
+    Subsec. (b)(1)(E). [Pub. L. 110–315][/us/pl/110/315], § 946(d)(2)(D)–(F), added subpar. (E).
 
-    Subsec. (c). [Pub. L. 110–315, § 946(d)(3)][/us/pl/110/315/s946/d/3], substituted “Diné College” for “the Navajo Community College”.
+    Subsec. (c). [Pub. L. 110–315][/us/pl/110/315], § 946(d)(3), substituted “Diné College” for “the Navajo Community College”.
 
     1998—Subsec. (a)(1). [Pub. L. 105–244][/us/pl/105/244] substituted “1999” for “1993”.
 
@@ -97,17 +97,17 @@
 
     1988—Subsec. (b)(1). [Pub. L. 100–297][/us/pl/100/297] amended par. (1) generally. Prior to amendment, par. (1) read as follows: “There is further authorized to be appropriated for grants to the Navajo Community College, for each fiscal year beginning on or after October 1, 1979, an amount equal to the amount necessary for operation and maintenance of the college, including, but not limited to, administrative, academic, and operations and maintenance costs.”
 
-    1986—Subsec. (a)(1). [Pub. L. 99–428, § 7(1)][/us/pl/99/428/s7/1], substituted “each of the fiscal years 1987, 1988, 1989, and 1990” for “the fiscal year beginning October 1, 1984, and for the three succeeding fiscal years”.
+    1986—Subsec. (a)(1). [Pub. L. 99–428][/us/pl/99/428], § 7(1), substituted “each of the fiscal years 1987, 1988, 1989, and 1990” for “the fiscal year beginning October 1, 1984, and for the three succeeding fiscal years”.
 
-    Subsec. (b)(1). [Pub. L. 99–428, § 7(2)][/us/pl/99/428/s7/2], substituted “for each fiscal year” for “for any fiscal year”.
+    Subsec. (b)(1). [Pub. L. 99–428][/us/pl/99/428], § 7(2), substituted “for each fiscal year” for “for any fiscal year”.
 
     1983—Subsec. (a)(1). [Pub. L. 98–192][/us/pl/98/192] substituted “October 1, 1984” for “October 1, 1979”.
 
-    1980—Subsec. (a)(1). [Pub. L. 96–374, § 1351(a)][/us/pl/96/374/s1351/a], substituted “three succeeding fiscal years” for “two succeeding fiscal years”.
+    1980—Subsec. (a)(1). [Pub. L. 96–374][/us/pl/96/374], § 1351(a), substituted “three succeeding fiscal years” for “two succeeding fiscal years”.
 
-    Subsec. (b)(1). [Pub. L. 96–374, § 1351(b)][/us/pl/96/374/s1351/b], added par. (1). Former par. (1), which authorized an appropriation for the Navajo Community College of $4,000 for each full-time equivalent student which the Secretary estimated would be in attendance during the year, was struck out.
+    Subsec. (b)(1). [Pub. L. 96–374][/us/pl/96/374], § 1351(b), added par. (1). Former par. (1), which authorized an appropriation for the Navajo Community College of $4,000 for each full-time equivalent student which the Secretary estimated would be in attendance during the year, was struck out.
 
-    Subsec. (b)(2), (3). [Pub. L. 96–374, § 1351(b)][/us/pl/96/374/s1351/b], redesignated par. (3) as (2). Former par. (2), which placed an upper limit on grants under this subsection, was struck out.
+    Subsec. (b)(2), (3). [Pub. L. 96–374][/us/pl/96/374], § 1351(b), redesignated par. (3) as (2). Former par. (2), which placed an upper limit on grants under this subsection, was struck out.
 
  __Effective Date of 1998 Amendment__ 
 
@@ -127,7 +127,7 @@
 
  __Fiscal Year Beginning__  __October 1, 1978__ 
 
-    [Pub. L. 95–471, title II, § 203(b)][/us/pl/95/471/s203/b], Oct. 17, 1978, [92 Stat. 1331][/us/stat/92/1331], provided that nothing in title II of [Pub. L. 95–471][/us/pl/95/471], the Navajo Community College Assistance Act of 1978, shall be deemed to authorize appropriations for the fiscal year beginning Oct. 1, 1978.
+    [Pub. L. 95–471, title II][/us/pl/95/471/tII], § 203(b), Oct. 17, 1978, [92 Stat. 1331][/us/stat/92/1331], provided that nothing in title II of [Pub. L. 95–471][/us/pl/95/471], the Navajo Community College Assistance Act of 1978, shall be deemed to authorize appropriations for the fiscal year beginning Oct. 1, 1978.
 
  __Definitions__ 
 
@@ -140,44 +140,44 @@
 ----------
 ----------
 
-[/us/pl/92/189/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F189%2Fs5
-[/us/pl/95/471/s203/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F471%2Fs203%2Fa
+[/us/pl/92/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F189
+[/us/pl/95/471/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F471%2FtII
 [/us/stat/92/1330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1330
-[/us/pl/96/374/s1351/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F374%2Fs1351%2Fa
+[/us/pl/96/374/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F374%2FtXIII
 [/us/stat/94/1501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1501
-[/us/pl/98/192/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F192%2Fs14
+[/us/pl/98/192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F192
 [/us/stat/97/1343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1343
-[/us/pl/99/428/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F428%2Fs7
+[/us/pl/99/428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F428
 [/us/stat/100/983]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F983
-[/us/pl/100/297/s5401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297%2Fs5401
+[/us/pl/100/297/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297%2FtV
 [/us/stat/102/414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F414
-[/us/pl/101/477/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F477%2Fs2%2Fa
+[/us/pl/101/477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F477
 [/us/stat/104/1153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1153
-[/us/pl/102/325/s1301/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs1301%2Fd
+[/us/pl/102/325/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2FtXIII
 [/us/stat/106/797]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F797
-[/us/pl/105/244/s902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs902
+[/us/pl/105/244/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtIX
 [/us/stat/112/1829]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1829
-[/us/pl/110/315/s946/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs946%2Fd
+[/us/pl/110/315/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtIX
 [/us/stat/122/3468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3468
 [/us/act/1950-04-19/ch92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-04-19%2Fch92
 [/us/stat/64/44]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F44
-[/us/pl/110/315/s946/d/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs946%2Fd%2F1%2FA
-[/us/pl/110/315/s946/d/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs946%2Fd%2F1%2FB
-[/us/pl/110/315/s946/d/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs946%2Fd%2F2%2FA
-[/us/pl/110/315/s946/d/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs946%2Fd%2F2%2FB
-[/us/pl/110/315/s946/d/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs946%2Fd%2F2%2FC
-[/us/pl/110/315/s946/d/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs946%2Fd%2F2%2FD
-[/us/pl/110/315/s946/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs946%2Fd%2F3
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
 [/us/pl/102/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325
 [/us/pl/101/477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F477
 [/us/pl/100/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297
-[/us/pl/99/428/s7/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F428%2Fs7%2F1
-[/us/pl/99/428/s7/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F428%2Fs7%2F2
+[/us/pl/99/428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F428
+[/us/pl/99/428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F428
 [/us/pl/98/192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F192
-[/us/pl/96/374/s1351/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F374%2Fs1351%2Fa
-[/us/pl/96/374/s1351/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F374%2Fs1351%2Fb
-[/us/pl/96/374/s1351/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F374%2Fs1351%2Fb
+[/us/pl/96/374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F374
+[/us/pl/96/374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F374
+[/us/pl/96/374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F374
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
 [/us/pl/105/244/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs3
@@ -191,7 +191,7 @@
 [/us/pl/96/374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F374
 [/us/pl/96/374/s1393/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F374%2Fs1393%2Fa
 [/us/usc/t20/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1001
-[/us/pl/95/471/s203/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F471%2Fs203%2Fb
+[/us/pl/95/471/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F471%2FtII
 [/us/stat/92/1331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1331
 [/us/pl/95/471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F471
 [/us/usc/t25/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1801

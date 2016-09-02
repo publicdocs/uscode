@@ -45,7 +45,7 @@
 
     (8) encourage all institutions of elementary, secondary and higher education, where appropriate, to include Native American languages in the curriculum in the same manner as foreign languages and to grant proficiency in Native American languages the same full academic credit as proficiency in foreign languages.
 
-([Pub. L. 101–477, title I, § 104][/us/pl/101/477/s104], Oct. 30, 1990, [104 Stat. 1155][/us/stat/104/1155].)
+([Pub. L. 101–477, title I][/us/pl/101/477/tI], § 104, Oct. 30, 1990, [104 Stat. 1155][/us/stat/104/1155].)
 
 ----------
 
@@ -54,7 +54,7 @@
 ----------
 ----------
 
-[/us/pl/101/477/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F477%2Fs104
+[/us/pl/101/477/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F477%2FtI
 [/us/stat/104/1155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1155
 
 

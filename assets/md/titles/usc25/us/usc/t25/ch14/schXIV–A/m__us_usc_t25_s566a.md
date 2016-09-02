@@ -17,7 +17,7 @@
 
     The tribe’s Constitution and Bylaws shall remain in full force and effect and nothing in this subchapter shall affect the power of the General Council to take any action under the Constitution and Bylaws.
 
-([Pub. L. 99–398, § 3][/us/pl/99/398/s3], Aug. 27, 1986, [100 Stat. 850][/us/stat/100/850].)
+([Pub. L. 99–398][/us/pl/99/398], § 3, Aug. 27, 1986, [100 Stat. 850][/us/stat/100/850].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/99/398/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F398%2Fs3
+[/us/pl/99/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F398
 [/us/stat/100/850]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F850
 
 

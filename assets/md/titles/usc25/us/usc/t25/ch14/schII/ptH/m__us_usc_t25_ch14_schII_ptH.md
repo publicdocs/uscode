@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    This part is comprised of title VIII, formerly title V, of [Pub. L. 93–638][/us/pl/93/638], which was formerly classified to part F (§ 458bbb et seq.) of this subchapter prior to redesignation by [Pub. L. 111–211, title II, § 231(d)(1)][/us/pl/111/211/s231/d/1], July 29, 2010, [124 Stat. 2278][/us/stat/124/2278].
+    This part is comprised of title VIII, formerly title V, of [Pub. L. 93–638][/us/pl/93/638], which was formerly classified to part F (§ 458bbb et seq.) of this subchapter prior to redesignation by [Pub. L. 111–211, title II][/us/pl/111/211/tII], § 231(d)(1), July 29, 2010, [124 Stat. 2278][/us/stat/124/2278].
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/pl/93/638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638
-[/us/pl/111/211/s231/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211%2Fs231%2Fd%2F1
+[/us/pl/111/211/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211%2FtII
 [/us/stat/124/2278]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2278
 
 

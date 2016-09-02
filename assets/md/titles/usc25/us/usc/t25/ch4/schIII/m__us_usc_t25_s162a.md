@@ -69,7 +69,7 @@
 
         (8) Appropriately managing the natural resources located within the boundaries of Indian reservations and trust lands.
 
-([June 24, 1938, ch. 648, § 1][/us/act/1938-06-24/ch648/s1], [52 Stat. 1037][/us/stat/52/1037]; [Pub. L. 98–146, title I][/us/pl/98/146], Nov. 4, 1983, [97 Stat. 929][/us/stat/97/929]; [Pub. L. 101–644, title III, § 302][/us/pl/101/644/s302], Nov. 29, 1990, [104 Stat. 4667][/us/stat/104/4667]; [Pub. L. 103–412, title I][/us/pl/103/412], §§ 101, 103(b), (c), Oct. 25, 1994, [108 Stat. 4240][/us/stat/108/4240], 4241.)
+([June 24, 1938, ch. 648][/us/act/1938-06-24/ch648], § 1, [52 Stat. 1037][/us/stat/52/1037]; [Pub. L. 98–146, title I][/us/pl/98/146/tI], Nov. 4, 1983, [97 Stat. 929][/us/stat/97/929]; [Pub. L. 101–644, title III][/us/pl/101/644/tIII], § 302, Nov. 29, 1990, [104 Stat. 4667][/us/stat/104/4667]; [Pub. L. 103–412, title I][/us/pl/103/412/tI], §§ 101, 103(b), (c), Oct. 25, 1994, [108 Stat. 4240][/us/stat/108/4240], 4241.)
 
  __References in Text__ 
 
@@ -77,11 +77,11 @@
 
  __Amendments__ 
 
-    1994—Subsec. (a). [Pub. L. 103–412, § 103(b)][/us/pl/103/412/s103/b], inserted “to withdraw from the United States Treasury and” after “prescribe,” in second sentence.
+    1994—Subsec. (a). [Pub. L. 103–412][/us/pl/103/412], § 103(b), inserted “to withdraw from the United States Treasury and” after “prescribe,” in second sentence.
 
-    Subsecs. (b), (c). [Pub. L. 103–412, § 103(c)][/us/pl/103/412/s103/c], redesignated subsec. (b), relating to investment of trust funds, as (c).
+    Subsecs. (b), (c). [Pub. L. 103–412][/us/pl/103/412], § 103(c), redesignated subsec. (b), relating to investment of trust funds, as (c).
 
-    Subsec. (d). [Pub. L. 103–412, § 101][/us/pl/103/412/s101], added subsec. (d).
+    Subsec. (d). [Pub. L. 103–412][/us/pl/103/412], § 101, added subsec. (d).
 
     1990—Subsec. (a). [Pub. L. 101–644][/us/pl/101/644], which directed the designation of existing provisions as subsec. (a) and the addition of subsec. (b), was executed by adding subsec. (b) relating to investment of trust funds. See 1983 Amendment note below.
 
@@ -89,9 +89,9 @@
 
  __Repeal of Inconsistent Provisions and Construction With Other Laws__ 
 
-    [Act June 24, 1938, ch. 648, § 2][/us/act/1938-06-24/ch648/s2], [52 Stat. 1037][/us/stat/52/1037], repealed [act May 25, 1918, ch. 86, § 28][/us/act/1918-05-25/ch86/s28], [40 Stat. 591][/us/stat/40/591], which was contained in former [section 162 of this title][/us/usc/t25/s162], and all other inconsistent acts.
+    [Act June 24, 1938, ch. 648][/us/act/1938-06-24/ch648], § 2, [52 Stat. 1037][/us/stat/52/1037], repealed [act May 25, 1918, ch. 86][/us/act/1918-05-25/ch86], § 28, [40 Stat. 591][/us/stat/40/591], which was contained in former [section 162 of this title][/us/usc/t25/s162], and all other inconsistent acts.
 
-[Act June 24, 1938, ch. 648, § 3][/us/act/1938-06-24/ch648/s3], [52 Stat. 1038][/us/stat/52/1038], provided: 
+[Act June 24, 1938, ch. 648][/us/act/1938-06-24/ch648], § 3, [52 Stat. 1038][/us/stat/52/1038], provided: 
 
 > “Nothing contained in this act shall be construed as affecting the provisions of the Federal Reserve Act or regulations issued thereunder relating to the payment of interest on deposits.”
 
@@ -107,26 +107,26 @@
 ----------
 
 [/us/usc/t25/s955]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs955
-[/us/act/1938-06-24/ch648/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-24%2Fch648%2Fs1
+[/us/act/1938-06-24/ch648]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-24%2Fch648
 [/us/stat/52/1037]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F1037
-[/us/pl/98/146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F146
+[/us/pl/98/146/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F146%2FtI
 [/us/stat/97/929]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F929
-[/us/pl/101/644/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F644%2Fs302
+[/us/pl/101/644/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F644%2FtIII
 [/us/stat/104/4667]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4667
-[/us/pl/103/412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F412
+[/us/pl/103/412/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F412%2FtI
 [/us/stat/108/4240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4240
 [/us/usc/t12/s264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs264
-[/us/pl/103/412/s103/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F412%2Fs103%2Fb
-[/us/pl/103/412/s103/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F412%2Fs103%2Fc
-[/us/pl/103/412/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F412%2Fs101
+[/us/pl/103/412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F412
+[/us/pl/103/412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F412
+[/us/pl/103/412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F412
 [/us/pl/101/644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F644
 [/us/pl/98/146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F146
-[/us/act/1938-06-24/ch648/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-24%2Fch648%2Fs2
+[/us/act/1938-06-24/ch648]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-24%2Fch648
 [/us/stat/52/1037]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F1037
-[/us/act/1918-05-25/ch86/s28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1918-05-25%2Fch86%2Fs28
+[/us/act/1918-05-25/ch86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1918-05-25%2Fch86
 [/us/stat/40/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F591
 [/us/usc/t25/s162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs162
-[/us/act/1938-06-24/ch648/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-24%2Fch648%2Fs3
+[/us/act/1938-06-24/ch648]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-24%2Fch648
 [/us/stat/52/1038]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F1038
 [/us/stat/64/1262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1262
 

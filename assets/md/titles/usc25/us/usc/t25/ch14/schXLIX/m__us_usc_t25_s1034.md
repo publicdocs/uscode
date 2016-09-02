@@ -17,7 +17,7 @@
 
     When the roll prepared pursuant to [section 1033 of this title][/us/usc/t25/s1033] has been completed and finally approved, the Secretary shall withdraw from the Treasury the funds placed to the credit of the Cherokee Band of Shawnee Indians in accordance with [section 1031 of this title][/us/usc/t25/s1031], together with the interest accumulated thereon, and shall distribute them in equal per capita shares to persons whose names appear on the roll: Provided, That no person who receives a per capita payment from funds credited to the Cherokee Band of Shawnee Indians shall be permitted to share in any per capita distribution of the funds credited to the Absentee and Eastern Bands of Shawnee Indians.
 
-([Pub. L. 88–457, § 4][/us/pl/88/457/s4], Aug. 20, 1964, [78 Stat. 555][/us/stat/78/555].)
+([Pub. L. 88–457][/us/pl/88/457], § 4, Aug. 20, 1964, [78 Stat. 555][/us/stat/78/555].)
 
 ----------
 
@@ -28,7 +28,7 @@
 
 [/us/usc/t25/s1033]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1033
 [/us/usc/t25/s1031]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1031
-[/us/pl/88/457/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F457%2Fs4
+[/us/pl/88/457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F457
 [/us/stat/78/555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F555
 
 

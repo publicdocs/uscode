@@ -17,7 +17,7 @@
 
     All tribal funds arising under [section 155 of this title][/us/usc/t25/s155] on June 13, 1930, included in the fund “Indian Money, Proceeds of Labor”, shall, on and after July 1, 1930, be carried on the books of the Treasury Department in separate accounts for the respective tribes, and all such funds with account balances exceeding $500 shall bear simple interest at the rate of 4 per centum per annum from July 1, 1930.
 
-([Feb. 12, 1929, ch. 178, § 2][/us/act/1929-02-12/ch178/s2], as added [June 13, 1930, ch. 483][/us/act/1930-06-13/ch483], [46 Stat. 584][/us/stat/46/584].)
+([Feb. 12, 1929, ch. 178][/us/act/1929-02-12/ch178], § 2, as added [June 13, 1930, ch. 483][/us/act/1930-06-13/ch483], [46 Stat. 584][/us/stat/46/584].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t25/s155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs155
-[/us/act/1929-02-12/ch178/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1929-02-12%2Fch178%2Fs2
+[/us/act/1929-02-12/ch178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1929-02-12%2Fch178
 [/us/act/1930-06-13/ch483]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-13%2Fch483
 [/us/stat/46/584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F584
 

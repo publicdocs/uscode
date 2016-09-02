@@ -17,7 +17,7 @@
 
     The Secretary is authorized to prescribe rules and regulations to effect the provisions of this subchapter, including the establishment of deadlines.
 
-([Pub. L. 92–557, § 8][/us/pl/92/557/s8], Oct. 25, 1972, [86 Stat. 1172][/us/stat/86/1172].)
+([Pub. L. 92–557][/us/pl/92/557], § 8, Oct. 25, 1972, [86 Stat. 1172][/us/stat/86/1172].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/92/557/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F557%2Fs8
+[/us/pl/92/557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F557
 [/us/stat/86/1172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1172
 
 

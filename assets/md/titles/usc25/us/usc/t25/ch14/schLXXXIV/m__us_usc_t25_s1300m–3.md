@@ -23,7 +23,7 @@
 
         Subject to the conditions imposed by this section, any real property conveyed or transferred under this section shall be taken in the name of the United States in trust for the Tribe and shall be part of the Tribe’s reservation.
 
-([Pub. L. 103–454, title III, § 305][/us/pl/103/454/s305], Nov. 2, 1994, [108 Stat. 4794][/us/stat/108/4794].)
+([Pub. L. 103–454, title III][/us/pl/103/454/tIII], § 305, Nov. 2, 1994, [108 Stat. 4794][/us/stat/108/4794].)
 
  __References in Text__ 
 
@@ -37,7 +37,7 @@
 ----------
 
 [/us/usc/t25/s461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs461
-[/us/pl/103/454/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F454%2Fs305
+[/us/pl/103/454/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F454%2FtIII
 [/us/stat/108/4794]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4794
 [/us/usc/t25/s461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs461
 

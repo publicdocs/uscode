@@ -17,7 +17,7 @@
 
     For each fiscal year, the Secretary shall allocate any amounts made available for assistance under this chapter for the fiscal year, in accordance with the formula established pursuant to [section 4152 of this title][/us/usc/t25/s4152], among Indian tribes that comply with the requirements under this chapter for a grant under this chapter.
 
-([Pub. L. 104–330, title III, § 301][/us/pl/104/330/s301], Oct. 26, 1996, [110 Stat. 4036][/us/stat/110/4036].)
+([Pub. L. 104–330, title III][/us/pl/104/330/tIII], § 301, Oct. 26, 1996, [110 Stat. 4036][/us/stat/110/4036].)
 
  __References in Text__ 
 
@@ -35,7 +35,7 @@
 ----------
 
 [/us/usc/t25/s4152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs4152
-[/us/pl/104/330/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330%2Fs301
+[/us/pl/104/330/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330%2FtIII
 [/us/stat/110/4036]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F4036
 [/us/pl/104/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330
 [/us/stat/110/4016]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F4016

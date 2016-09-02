@@ -33,13 +33,13 @@
 
         For the purposes of providing the training required by subsection (a), there are authorized to be appropriated $2,000,000 for fiscal year 1993 and such sums as are necessary for each of fiscal years 2011 through 2015.
 
-([Pub. L. 99–570, title IV, § 4218][/us/pl/99/570/s4218], Oct. 27, 1986, [100 Stat. 3207–146][/us/stat/100/3207-146]; [Pub. L. 100–690, title II, § 2209][/us/pl/100/690/s2209], Nov. 18, 1988, [102 Stat. 4219][/us/stat/102/4219]; [Pub. L. 102–573, title VII, § 703(9)][/us/pl/102/573/s703/9], Oct. 29, 1992, [106 Stat. 4584][/us/stat/106/4584]; [Pub. L. 111–211, title II, § 241(f)][/us/pl/111/211/s241/f], July 29, 2010, [124 Stat. 2291][/us/stat/124/2291].)
+([Pub. L. 99–570, title IV][/us/pl/99/570/tIV], § 4218, Oct. 27, 1986, [100 Stat. 3207–146][/us/stat/100/3207-146]; [Pub. L. 100–690, title II][/us/pl/100/690/tII], § 2209, Nov. 18, 1988, [102 Stat. 4219][/us/stat/102/4219]; [Pub. L. 102–573, title VII][/us/pl/102/573/tVII], § 703(9), Oct. 29, 1992, [106 Stat. 4584][/us/stat/106/4584]; [Pub. L. 111–211, title II][/us/pl/111/211/tII], § 241(f), July 29, 2010, [124 Stat. 2291][/us/stat/124/2291].)
 
  __Amendments__ 
 
-    2010—Subsec. (a). [Pub. L. 111–211, § 241(f)(1)][/us/pl/111/211/s241/f/1], added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: “The Secretary of the Interior shall ensure, through the establishment of a new training program or through the supplement of existing training programs, that all Bureau of Indian Affairs and tribal law enforcement and judicial personnel shall have available training in the investigation and prosecution of offenses relating to illegal narcotics and in alcohol and substance abuse prevention and treatment. Any training provided to Bureau of Indian Affairs and tribal law enforcement and judicial personnel as provided in this subsection shall specifically include training in the problems of youth alcohol and substance abuse prevention and treatment. Such training shall be coordinated with the Indian Health Service in the carrying out of its responsibilities under [section 2475 of this title][/us/usc/t25/s2475].”
+    2010—Subsec. (a). [Pub. L. 111–211][/us/pl/111/211], § 241(f)(1), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: “The Secretary of the Interior shall ensure, through the establishment of a new training program or through the supplement of existing training programs, that all Bureau of Indian Affairs and tribal law enforcement and judicial personnel shall have available training in the investigation and prosecution of offenses relating to illegal narcotics and in alcohol and substance abuse prevention and treatment. Any training provided to Bureau of Indian Affairs and tribal law enforcement and judicial personnel as provided in this subsection shall specifically include training in the problems of youth alcohol and substance abuse prevention and treatment. Such training shall be coordinated with the Indian Health Service in the carrying out of its responsibilities under [section 2475 of this title][/us/usc/t25/s2475].”
 
-    Subsec. (b). [Pub. L. 111–211, § 241(f)(2)][/us/pl/111/211/s241/f/2], substituted “as are necessary for each of fiscal years 2011 through 2015.” for “as may be necessary for each of the fiscal years 1994, 1995, 1996, 1997, 1998, 1999 and 2000.”
+    Subsec. (b). [Pub. L. 111–211][/us/pl/111/211], § 241(f)(2), substituted “as are necessary for each of fiscal years 2011 through 2015.” for “as may be necessary for each of the fiscal years 1994, 1995, 1996, 1997, 1998, 1999 and 2000.”
 
     1992—Subsec. (b). [Pub. L. 102–573][/us/pl/102/573] amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “For the purpose of providing the training required by subsection (a) of this section, there are authorized to be appropriated $1,500,000 for each of the fiscal years 1989, 1990, 1991, and 1992.”
 
@@ -52,17 +52,17 @@
 ----------
 ----------
 
-[/us/pl/99/570/s4218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs4218
+[/us/pl/99/570/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2FtIV
 [/us/stat/100/3207-146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3207-146
-[/us/pl/100/690/s2209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs2209
+[/us/pl/100/690/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtII
 [/us/stat/102/4219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4219
-[/us/pl/102/573/s703/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2Fs703%2F9
+[/us/pl/102/573/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2FtVII
 [/us/stat/106/4584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4584
-[/us/pl/111/211/s241/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211%2Fs241%2Ff
+[/us/pl/111/211/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211%2FtII
 [/us/stat/124/2291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2291
-[/us/pl/111/211/s241/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211%2Fs241%2Ff%2F1
+[/us/pl/111/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211
 [/us/usc/t25/s2475]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs2475
-[/us/pl/111/211/s241/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211%2Fs241%2Ff%2F2
+[/us/pl/111/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211
 [/us/pl/102/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573
 [/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
 

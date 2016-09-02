@@ -31,7 +31,7 @@
 
     (7) to provide funding for programs and facilities operated by Indian tribes and tribal organizations in amounts that are not less than the amounts provided to programs and facilities operated directly by the Service.
 
-([Pub. L. 94–437, § 3][/us/pl/94/437/s3], Sept. 30, 1976, [90 Stat. 1401][/us/stat/90/1401]; [Pub. L. 102–573, § 3(b)][/us/pl/102/573/s3/b], Oct. 29, 1992, [106 Stat. 4526][/us/stat/106/4526]; [Pub. L. 111–148, title X, § 10221(a)][/us/pl/111/148/s10221/a], Mar. 23, 2010, [124 Stat. 935][/us/stat/124/935].)
+([Pub. L. 94–437][/us/pl/94/437], § 3, Sept. 30, 1976, [90 Stat. 1401][/us/stat/90/1401]; [Pub. L. 102–573][/us/pl/102/573], § 3(b), Oct. 29, 1992, [106 Stat. 4526][/us/stat/106/4526]; [Pub. L. 111–148, title X][/us/pl/111/148/tX], § 10221(a), Mar. 23, 2010, [124 Stat. 935][/us/stat/124/935].)
 
  __References in Text__ 
 
@@ -54,11 +54,11 @@
 ----------
 ----------
 
-[/us/pl/94/437/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437%2Fs3
+[/us/pl/94/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437
 [/us/stat/90/1401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1401
-[/us/pl/102/573/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2Fs3%2Fb
+[/us/pl/102/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573
 [/us/stat/106/4526]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4526
-[/us/pl/111/148/s10221/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10221%2Fa
+[/us/pl/111/148/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtX
 [/us/stat/124/935]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F935
 [/us/pl/94/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437
 [/us/stat/90/1400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1400

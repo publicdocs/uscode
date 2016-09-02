@@ -17,7 +17,7 @@
 
     The Band’s tribal land shall consist of all real property, including the land upon which the Tribal Hall is situated, now or on and after September 21, 1994, held by, or in trust for, the Band. The Secretary shall acquire real property for the Band. Any such real property shall be taken by the Secretary in the name of the United States in trust for the benefit of the Band and shall become part of the Band’s reservation.
 
-([Pub. L. 103–323, § 6][/us/pl/103/323/s6], Sept. 21, 1994, [108 Stat. 2154][/us/stat/108/2154].)
+([Pub. L. 103–323][/us/pl/103/323], § 6, Sept. 21, 1994, [108 Stat. 2154][/us/stat/108/2154].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/103/323/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F323%2Fs6
+[/us/pl/103/323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F323
 [/us/stat/108/2154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2154
 
 

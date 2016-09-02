@@ -65,11 +65,11 @@
 
         Each provision of this part and each provision of a compact or funding agreement shall be liberally construed for the benefit of the Indian tribe participating in self-governance and any ambiguity shall be resolved in favor of the Indian tribe.
 
-([Pub. L. 93–638, title V, § 512][/us/pl/93/638/s512], as added [Pub. L. 106–260, § 4][/us/pl/106/260/s4], Aug. 18, 2000, [114 Stat. 726][/us/stat/114/726].)
+([Pub. L. 93–638, title V][/us/pl/93/638/tV], § 512, as added [Pub. L. 106–260][/us/pl/106/260], § 4, Aug. 18, 2000, [114 Stat. 726][/us/stat/114/726].)
 
  __References in Text__ 
 
-    Title III, referred to in subsec. (c), means title III of [Pub. L. 93–638][/us/pl/93/638], as added by [Pub. L. 100–472, title II, § 209][/us/pl/100/472/s209], Oct. 5, 1988, [102 Stat. 2296][/us/stat/102/2296], and amended, which was set out as a note under [section 450f of this title][/us/usc/t25/s450f] prior to repeal by [Pub. L. 106–260, § 10][/us/pl/106/260/s10], Aug. 18, 2000, [114 Stat. 734][/us/stat/114/734].
+    Title III, referred to in subsec. (c), means title III of [Pub. L. 93–638][/us/pl/93/638], as added by [Pub. L. 100–472, title II][/us/pl/100/472/tII], § 209, Oct. 5, 1988, [102 Stat. 2296][/us/stat/102/2296], and amended, which was set out as a note under [section 450f of this title][/us/usc/t25/s450f] prior to repeal by [Pub. L. 106–260][/us/pl/106/260], § 10, Aug. 18, 2000, [114 Stat. 734][/us/stat/114/734].
 
     This subchapter, referred to in subsec. (d), was in the original “this Act”, meaning [Pub. L. 93–638][/us/pl/93/638], Jan. 4, 1975, [88 Stat. 2203][/us/stat/88/2203], known as the Indian Self-Determination and Education Assistance Act, which is classified principally to this subchapter. For complete classification of this Act to the Code, see Short Title note set out under [section 450 of this title][/us/usc/t25/s450] and Tables.
 
@@ -82,14 +82,14 @@
 
 [/us/usc/t25/s458aaa–16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs458aaa%E2%80%9316
 [/us/usc/t25/s458aaa–4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs458aaa%E2%80%934%2Fb
-[/us/pl/93/638/s512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638%2Fs512
-[/us/pl/106/260/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F260%2Fs4
+[/us/pl/93/638/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638%2FtV
+[/us/pl/106/260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F260
 [/us/stat/114/726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F726
 [/us/pl/93/638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638
-[/us/pl/100/472/s209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F472%2Fs209
+[/us/pl/100/472/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F472%2FtII
 [/us/stat/102/2296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2296
 [/us/usc/t25/s450f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450f
-[/us/pl/106/260/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F260%2Fs10
+[/us/pl/106/260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F260
 [/us/stat/114/734]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F734
 [/us/pl/93/638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638
 [/us/stat/88/2203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2203

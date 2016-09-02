@@ -27,11 +27,11 @@
 
     (5) Congress shares with the parties to such agreements a desire to settle such Indian claims in the State of Florida without additional cost to the United States.
 
-([Pub. L. 97–399, § 2][/us/pl/97/399/s2], Dec. 31, 1982, [96 Stat. 2012][/us/stat/96/2012].)
+([Pub. L. 97–399][/us/pl/97/399], § 2, Dec. 31, 1982, [96 Stat. 2012][/us/stat/96/2012].)
 
  __Short Title__ 
 
-[Pub. L. 97–399, § 1][/us/pl/97/399/s1], Dec. 31, 1982, [96 Stat. 2012][/us/stat/96/2012], provided: 
+[Pub. L. 97–399][/us/pl/97/399], § 1, Dec. 31, 1982, [96 Stat. 2012][/us/stat/96/2012], provided: 
 
 > “That this Act \[enacting this part\] may be cited as the ‘Florida Indian Land Claims Settlement Act of 1982’.”
 
@@ -42,9 +42,9 @@
 ----------
 ----------
 
-[/us/pl/97/399/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F399%2Fs2
+[/us/pl/97/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F399
 [/us/stat/96/2012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2012
-[/us/pl/97/399/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F399%2Fs1
+[/us/pl/97/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F399
 [/us/stat/96/2012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2012
 
 

@@ -19,7 +19,7 @@
 
     (b) Notwithstanding subsection (a), the Tribe may lease lands for any term of years to the Mashantucket Pequot Housing Authority, or any successor in interest to such Authority.
 
-([Pub. L. 98–134, § 8][/us/pl/98/134/s8], Oct. 18, 1983, [97 Stat. 855][/us/stat/97/855].)
+([Pub. L. 98–134][/us/pl/98/134], § 8, Oct. 18, 1983, [97 Stat. 855][/us/stat/97/855].)
 
  __Codification__ 
 
@@ -33,7 +33,7 @@
 ----------
 
 [/us/usc/t25/s177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs177
-[/us/pl/98/134/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F134%2Fs8
+[/us/pl/98/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F134
 [/us/stat/97/855]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F855
 [/us/pl/98/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F134
 

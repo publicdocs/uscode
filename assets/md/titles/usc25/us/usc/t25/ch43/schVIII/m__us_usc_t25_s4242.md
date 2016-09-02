@@ -29,11 +29,11 @@
 
         The Secretary may require the Director to submit to the Secretary such reports and other information as may be necessary in order for the Secretary to prepare the report required under subsection (a).
 
-([Pub. L. 104–330, title VIII, § 823][/us/pl/104/330/s823], as added [Pub. L. 106–568, title II, § 203][/us/pl/106/568/s203], Dec. 27, 2000, [114 Stat. 2895][/us/stat/114/2895], and [Pub. L. 106–569, title V, § 513][/us/pl/106/569/s513], Dec. 27, 2000, [114 Stat. 2989][/us/stat/114/2989].)
+([Pub. L. 104–330, title VIII][/us/pl/104/330/tVIII], § 823, as added [Pub. L. 106–568, title II][/us/pl/106/568/tII], § 203, Dec. 27, 2000, [114 Stat. 2895][/us/stat/114/2895], and [Pub. L. 106–569, title V][/us/pl/106/569/tV], § 513, Dec. 27, 2000, [114 Stat. 2989][/us/stat/114/2989].)
 
  __Codification__ 
 
-    [Pub. L. 106–568, § 203][/us/pl/106/568/s203], and [Pub. L. 106–569, § 513][/us/pl/106/569/s513], enacted identical sections 823 of [Pub. L. 104–330][/us/pl/104/330]. This section is based on the text of [section 823 of Pub. L. 104–330][/us/pl/104/330/s823], as added by [Pub. L. 106–569, § 513][/us/pl/106/569/s513].
+    [Pub. L. 106–568][/us/pl/106/568], § 203, and [Pub. L. 106–569][/us/pl/106/569], § 513, enacted identical sections 823 of [Pub. L. 104–330][/us/pl/104/330]. This section is based on the text of [section 823 of Pub. L. 104–330][/us/pl/104/330/s823], as added by [Pub. L. 106–569][/us/pl/106/569], § 513.
 
 ----------
 
@@ -43,15 +43,15 @@
 ----------
 
 [/us/usc/t12/s1715z–13b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1715z%E2%80%9313b
-[/us/pl/104/330/s823]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330%2Fs823
-[/us/pl/106/568/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F568%2Fs203
+[/us/pl/104/330/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330%2FtVIII
+[/us/pl/106/568/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F568%2FtII
 [/us/stat/114/2895]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2895
-[/us/pl/106/569/s513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs513
+[/us/pl/106/569/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2FtV
 [/us/stat/114/2989]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2989
-[/us/pl/106/568/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F568%2Fs203
-[/us/pl/106/569/s513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs513
+[/us/pl/106/568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F568
+[/us/pl/106/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569
 [/us/pl/104/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330
 [/us/pl/104/330/s823]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330%2Fs823
-[/us/pl/106/569/s513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs513
+[/us/pl/106/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569
 
 

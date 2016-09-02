@@ -17,7 +17,7 @@
 
     Not later than 18 months after September 21, 1994, the Bands shall submit to the Secretary membership rolls consisting of all individuals currently enrolled for membership in such Bands. The qualifications for inclusion on the membership rolls of the Bands shall be determined by the membership clauses in such Bands’ respective governing documents, in consultation with the Secretary. Upon completion of the rolls, the Secretary shall immediately publish notice of such in the Federal Register. The Bands shall ensure that such rolls are maintained and kept current.
 
-([Pub. L. 103–324, § 7][/us/pl/103/324/s7], Sept. 21, 1994, [108 Stat. 2159][/us/stat/108/2159].)
+([Pub. L. 103–324][/us/pl/103/324], § 7, Sept. 21, 1994, [108 Stat. 2159][/us/stat/108/2159].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/103/324/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F324%2Fs7
+[/us/pl/103/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F324
 [/us/stat/108/2159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2159
 
 

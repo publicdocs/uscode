@@ -55,7 +55,7 @@
 
         (3) including any written comments or reports submitted to the Secretary by any party named in paragraph (1).
 
-([Pub. L. 100–580, § 10][/us/pl/100/580/s10], Oct. 31, 1988, [102 Stat. 2934][/us/stat/102/2934].)
+([Pub. L. 100–580][/us/pl/100/580], § 10, Oct. 31, 1988, [102 Stat. 2934][/us/stat/102/2934].)
 
 ----------
 
@@ -64,7 +64,7 @@
 ----------
 ----------
 
-[/us/pl/100/580/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F580%2Fs10
+[/us/pl/100/580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F580
 [/us/stat/102/2934]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2934
 
 

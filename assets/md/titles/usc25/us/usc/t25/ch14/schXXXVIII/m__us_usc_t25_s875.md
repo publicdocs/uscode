@@ -17,7 +17,7 @@
 
     The Secretary is authorized to prescribe rules and regulations to carry out the provisions of this subchapter.
 
-([Pub. L. 85–395, § 5][/us/pl/85/395/s5], May 9, 1958, [72 Stat. 106][/us/stat/72/106].)
+([Pub. L. 85–395][/us/pl/85/395], § 5, May 9, 1958, [72 Stat. 106][/us/stat/72/106].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/85/395/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F395%2Fs5
+[/us/pl/85/395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F395
 [/us/stat/72/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F106
 
 

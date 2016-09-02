@@ -17,7 +17,7 @@
 
     The Tiwa Indians Act is hereby repealed.
 
-([Pub. L. 100–89, title I, § 106][/us/pl/100/89/s106], Aug. 18, 1987, [101 Stat. 668][/us/stat/101/668].)
+([Pub. L. 100–89, title I][/us/pl/100/89/tI], § 106, Aug. 18, 1987, [101 Stat. 668][/us/stat/101/668].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/100/89/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F89%2Fs106
+[/us/pl/100/89/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F89%2FtI
 [/us/stat/101/668]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F668
 [/us/pl/90/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F287
 [/us/stat/82/93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F93

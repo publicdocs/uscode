@@ -17,7 +17,7 @@
 
     No money paid to Indians under sections 684 to 686 of this title shall be subject to any lien or claim of attorneys or other persons. Before any payment is made under said sections, the Red Lake Band of Chippewa Indians of Minnesota shall, in such manner as may be prescribed by the Secretary of the Interior, ratify and accept the provisions of said sections.
 
-([Aug. 27, 1954, ch. 1011, § 2][/us/act/1954-08-27/ch1011/s2], [68 Stat. 879][/us/stat/68/879].)
+([Aug. 27, 1954, ch. 1011][/us/act/1954-08-27/ch1011], § 2, [68 Stat. 879][/us/stat/68/879].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1954-08-27/ch1011/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-27%2Fch1011%2Fs2
+[/us/act/1954-08-27/ch1011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-27%2Fch1011
 [/us/stat/68/879]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F879
 
 

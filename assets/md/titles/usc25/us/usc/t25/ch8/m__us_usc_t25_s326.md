@@ -17,7 +17,7 @@
 
     Sections 323 to 328 of this title shall not in any manner amend or repeal the provisions of the Federal Water Power Act of June 10, 1920 ([41 Stat. 1063][/us/stat/41/1063]), as amended by the Act of August 26, 1935 ([49 Stat. 838][/us/stat/49/838]) \[[16 U.S.C. 791a][/us/usc/t16/s791a] et seq.\], nor shall any existing statutory authority empowering the Secretary of the Interior to grant rights-of-way over Indian lands be repealed.
 
-([Feb. 5, 1948, ch. 45, § 4][/us/act/1948-02-05/ch45/s4], [62 Stat. 18][/us/stat/62/18].)
+([Feb. 5, 1948, ch. 45][/us/act/1948-02-05/ch45], § 4, [62 Stat. 18][/us/stat/62/18].)
 
  __References in Text__ 
 
@@ -37,7 +37,7 @@
 [/us/stat/41/1063]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F1063
 [/us/stat/49/838]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F838
 [/us/usc/t16/s791a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs791a
-[/us/act/1948-02-05/ch45/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-02-05%2Fch45%2Fs4
+[/us/act/1948-02-05/ch45]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-02-05%2Fch45
 [/us/stat/62/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F18
 [/us/act/1920-06-10/ch285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-06-10%2Fch285
 [/us/stat/41/1063]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F1063

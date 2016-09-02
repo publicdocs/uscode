@@ -27,7 +27,7 @@
 
         (2) to administer or operate any program or activity under or in connection with any such contract, agreement, or arrangement, to enter into subcontracts or award grants to provide for the administration of any such program or activity, or to conduct any other activity under or in connection with any such contract, agreement, or arrangement.
 
-([Pub. L. 100–89, title I, § 104][/us/pl/100/89/s104], Aug. 18, 1987, [101 Stat. 667][/us/stat/101/667].)
+([Pub. L. 100–89, title I][/us/pl/100/89/tI], § 104, Aug. 18, 1987, [101 Stat. 667][/us/stat/101/667].)
 
  __References in Text__ 
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/100/89/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F89%2Fs104
+[/us/pl/100/89/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F89%2FtI
 [/us/stat/101/667]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F667
 [/us/pl/100/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F89
 [/us/stat/101/666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F666

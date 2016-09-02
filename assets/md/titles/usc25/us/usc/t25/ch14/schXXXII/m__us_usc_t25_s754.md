@@ -17,7 +17,7 @@
 
     Pending the completion of the property dispositions provided for in this subchapter, the funds now on deposit, or hereafter deposited, in the United States Treasury to the credit of the tribe shall be available for advance to the tribe, or for expenditure, for such purposes as may be designated by the governing body of the tribe and approved by the Secretary.
 
-([Sept. 1, 1954, ch. 1207, § 14][/us/act/1954-09-01/ch1207/s14], [68 Stat. 1103][/us/stat/68/1103].)
+([Sept. 1, 1954, ch. 1207][/us/act/1954-09-01/ch1207], § 14, [68 Stat. 1103][/us/stat/68/1103].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1954-09-01/ch1207/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-09-01%2Fch1207%2Fs14
+[/us/act/1954-09-01/ch1207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-09-01%2Fch1207
 [/us/stat/68/1103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F1103
 
 

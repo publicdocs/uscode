@@ -17,11 +17,11 @@
 
     It shall be the duty of the President to dispense with the services of such Indian agents and superintendents as may be practicable; and where it is practicable he shall require the same person to perform the duties of two agencies or superintendencies for one salary.
 
-(R.S. § 2053; [June 22, 1874, ch. 389, § 1][/us/act/1874-06-22/ch389/s1], [18 Stat. 147][/us/stat/18/147]; [Mar. 3, 1875, ch. 132, § 1][/us/act/1875-03-03/ch132/s1], [18 Stat. 421][/us/stat/18/421].)
+(R.S. § 2053; [June 22, 1874, ch. 389][/us/act/1874-06-22/ch389], § 1, [18 Stat. 147][/us/stat/18/147]; [Mar. 3, 1875, ch. 132][/us/act/1875-03-03/ch132], § 1, [18 Stat. 421][/us/stat/18/421].)
 
  __Codification__ 
 
-    R.S. § 2053 derived from [act Feb. 14, 1873, ch. 138, § 1][/us/act/1873-02-14/ch138/s1], [17 Stat. 437][/us/stat/17/437].
+    R.S. § 2053 derived from [act Feb. 14, 1873, ch. 138][/us/act/1873-02-14/ch138], § 1, [17 Stat. 437][/us/stat/17/437].
 
  __Indian Agents__ 
 
@@ -34,11 +34,11 @@
 ----------
 ----------
 
-[/us/act/1874-06-22/ch389/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1874-06-22%2Fch389%2Fs1
+[/us/act/1874-06-22/ch389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1874-06-22%2Fch389
 [/us/stat/18/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F18%2F147
-[/us/act/1875-03-03/ch132/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1875-03-03%2Fch132%2Fs1
+[/us/act/1875-03-03/ch132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1875-03-03%2Fch132
 [/us/stat/18/421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F18%2F421
-[/us/act/1873-02-14/ch138/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1873-02-14%2Fch138%2Fs1
+[/us/act/1873-02-14/ch138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1873-02-14%2Fch138
 [/us/stat/17/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F17%2F437
 
 

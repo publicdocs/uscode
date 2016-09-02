@@ -85,17 +85,17 @@
 
         (6) To promote economic self-sufficiency and political self-determination for Indian tribes and members of Indian tribes.
 
-([Pub. L. 106–464, § 2][/us/pl/106/464/s2], Nov. 7, 2000, [114 Stat. 2012][/us/stat/114/2012].)
+([Pub. L. 106–464][/us/pl/106/464], § 2, Nov. 7, 2000, [114 Stat. 2012][/us/stat/114/2012].)
 
  __Short Title__ 
 
-[Pub. L. 106–464, § 1][/us/pl/106/464/s1], Nov. 7, 2000, [114 Stat. 2012][/us/stat/114/2012], provided that: 
+[Pub. L. 106–464][/us/pl/106/464], § 1, Nov. 7, 2000, [114 Stat. 2012][/us/stat/114/2012], provided that: 
 
 > “This Act \[enacting this chapter\] may be cited as the ‘Native American Business Development, Trade Promotion, and Tourism Act of 2000’.”
 
  __General Accounting Office Study__ 
 
-    [Pub. L. 106–568, title IV, § 421][/us/pl/106/568/s421], Dec. 27, 2000, [114 Stat. 2906][/us/stat/114/2906], directed the Comptroller General to conduct a study and make findings and recommendations with respect to Federal programs designed to assist Indian tribes and tribal members with economic development, job creation, entrepreneurship, and business development, and to report to Congress not later than 1 year after Dec. 27, 2000.
+    [Pub. L. 106–568, title IV][/us/pl/106/568/tIV], § 421, Dec. 27, 2000, [114 Stat. 2906][/us/stat/114/2906], directed the Comptroller General to conduct a study and make findings and recommendations with respect to Federal programs designed to assist Indian tribes and tribal members with economic development, job creation, entrepreneurship, and business development, and to report to Congress not later than 1 year after Dec. 27, 2000.
 
  __Indian Tribal Regulatory Reform and Business Development__ 
 
@@ -310,11 +310,11 @@
 ----------
 ----------
 
-[/us/pl/106/464/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F464%2Fs2
+[/us/pl/106/464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F464
 [/us/stat/114/2012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2012
-[/us/pl/106/464/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F464%2Fs1
+[/us/pl/106/464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F464
 [/us/stat/114/2012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2012
-[/us/pl/106/568/s421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F568%2Fs421
+[/us/pl/106/568/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F568%2FtIV
 [/us/stat/114/2906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2906
 [/us/pl/106/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F447
 [/us/stat/114/1934]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1934

@@ -17,7 +17,7 @@
 
     On and after August 24, 1912 teachers in schools operated by the Bureau of Indian Affairs may be allowed, in addition to annual leave, educational leave not to exceed thirty workdays per calendar year, or sixty workdays in every alternate year, for attendance at educational gatherings, conventions, institutions, or training schools, if the interest of the Government requires, under such regulations as the Secretary of the Interior may prescribe; and no additional salary or expense on account of such leave of absence shall be incurred.
 
-([Aug. 24, 1912, ch. 388, § 1][/us/act/1912-08-24/ch388/s1], [37 Stat. 519][/us/stat/37/519]; [Aug. 24, 1922, ch. 286][/us/act/1922-08-24/ch286], [42 Stat. 829][/us/stat/42/829]; [May 8, 1928, ch. 510][/us/act/1928-05-08/ch510], [45 Stat. 493][/us/stat/45/493]; [Pub. L. 85–89][/us/pl/85/89], July 10, 1957, [71 Stat. 282][/us/stat/71/282].)
+([Aug. 24, 1912, ch. 388][/us/act/1912-08-24/ch388], § 1, [37 Stat. 519][/us/stat/37/519]; [Aug. 24, 1922, ch. 286][/us/act/1922-08-24/ch286], [42 Stat. 829][/us/stat/42/829]; [May 8, 1928, ch. 510][/us/act/1928-05-08/ch510], [45 Stat. 493][/us/stat/45/493]; [Pub. L. 85–89][/us/pl/85/89], July 10, 1957, [71 Stat. 282][/us/stat/71/282].)
 
  __Amendments__ 
 
@@ -38,7 +38,7 @@
 ----------
 ----------
 
-[/us/act/1912-08-24/ch388/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1912-08-24%2Fch388%2Fs1
+[/us/act/1912-08-24/ch388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1912-08-24%2Fch388
 [/us/stat/37/519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F37%2F519
 [/us/act/1922-08-24/ch286]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-08-24%2Fch286
 [/us/stat/42/829]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F829

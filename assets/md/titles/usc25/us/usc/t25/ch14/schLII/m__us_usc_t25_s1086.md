@@ -21,7 +21,7 @@
 
     14X7735 Interest and Accruals on Interest, Proceeds of Labor, Hoh Indians, Washington.
 
-([Pub. L. 89–655, § 6][/us/pl/89/655/s6], Oct. 14, 1966, [80 Stat. 905][/us/stat/80/905].)
+([Pub. L. 89–655][/us/pl/89/655], § 6, Oct. 14, 1966, [80 Stat. 905][/us/stat/80/905].)
 
 ----------
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t25/s1081]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1081
-[/us/pl/89/655/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F655%2Fs6
+[/us/pl/89/655]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F655
 [/us/stat/80/905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F905
 
 

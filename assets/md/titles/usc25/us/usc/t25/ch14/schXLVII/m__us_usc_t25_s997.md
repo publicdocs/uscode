@@ -17,7 +17,7 @@
 
     All costs incident to making the payments authorized by this subchapter shall be paid by appropriate withdrawals from the judgment fund and interest on the judgment fund, using the interest fund first.
 
-([Pub. L. 87–775, § 7][/us/pl/87/775/s7], Oct. 9, 1962, [76 Stat. 777][/us/stat/76/777].)
+([Pub. L. 87–775][/us/pl/87/775], § 7, Oct. 9, 1962, [76 Stat. 777][/us/stat/76/777].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/87/775/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F775%2Fs7
+[/us/pl/87/775]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F775
 [/us/stat/76/777]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F777
 
 

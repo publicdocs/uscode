@@ -37,7 +37,7 @@
 
         Beginning on the date funds are withdrawn pursuant to this section, any trust responsibility or liability of the United States with respect to such funds shall cease except as provided for in [section 4027 of this title][/us/usc/t25/s4027].
 
-([Pub. L. 103–412, title II, § 202][/us/pl/103/412/s202], Oct. 25, 1994, [108 Stat. 4242][/us/stat/108/4242].)
+([Pub. L. 103–412, title II][/us/pl/103/412/tII], § 202, Oct. 25, 1994, [108 Stat. 4242][/us/stat/108/4242].)
 
 ----------
 
@@ -47,7 +47,7 @@
 ----------
 
 [/us/usc/t25/s4027]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs4027
-[/us/pl/103/412/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F412%2Fs202
+[/us/pl/103/412/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F412%2FtII
 [/us/stat/108/4242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4242
 
 

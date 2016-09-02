@@ -17,7 +17,7 @@
 
     The Secretary shall, by contract or otherwise, provide training for individuals in the administration and planning of tribal health programs.
 
-([Pub. L. 94–437, title I, § 121][/us/pl/94/437/s121], as added [Pub. L. 102–573, title I, § 113][/us/pl/102/573/s113], Oct. 29, 1992, [106 Stat. 4542][/us/stat/106/4542].)
+([Pub. L. 94–437, title I][/us/pl/94/437/tI], § 121, as added [Pub. L. 102–573, title I][/us/pl/102/573/tI], § 113, Oct. 29, 1992, [106 Stat. 4542][/us/stat/106/4542].)
 
 ----------
 
@@ -26,8 +26,8 @@
 ----------
 ----------
 
-[/us/pl/94/437/s121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437%2Fs121
-[/us/pl/102/573/s113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2Fs113
+[/us/pl/94/437/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437%2FtI
+[/us/pl/102/573/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2FtI
 [/us/stat/106/4542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4542
 
 

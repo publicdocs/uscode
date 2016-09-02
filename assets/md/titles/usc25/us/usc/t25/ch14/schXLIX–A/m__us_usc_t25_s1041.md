@@ -29,11 +29,11 @@
 
     (6) On March 13, 2000, a second resolution was adopted by the Tribal Council of the Cherokee Nation (Resolution 15–00) supporting the submission of this legislation to Congress for enactment.
 
-([Pub. L. 106–568, title VII, § 702][/us/pl/106/568/s702], Dec. 27, 2000, [114 Stat. 2913][/us/stat/114/2913].)
+([Pub. L. 106–568, title VII][/us/pl/106/568/tVII], § 702, Dec. 27, 2000, [114 Stat. 2913][/us/stat/114/2913].)
 
  __Short Title of 2000 Amendment__ 
 
-[Pub. L. 106–568, title VII, § 701][/us/pl/106/568/s701], Dec. 27, 2000, [114 Stat. 2913][/us/stat/114/2913], provided that: 
+[Pub. L. 106–568, title VII][/us/pl/106/568/tVII], § 701, Dec. 27, 2000, [114 Stat. 2913][/us/stat/114/2913], provided that: 
 
 > “This title \[enacting this subchapter\] may be cited as the ‘Shawnee Tribe Status Act of 2000’.”
 
@@ -45,9 +45,9 @@
 ----------
 
 [/us/stat/14/799]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F14%2F799
-[/us/pl/106/568/s702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F568%2Fs702
+[/us/pl/106/568/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F568%2FtVII
 [/us/stat/114/2913]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2913
-[/us/pl/106/568/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F568%2Fs701
+[/us/pl/106/568/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F568%2FtVII
 [/us/stat/114/2913]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2913
 
 

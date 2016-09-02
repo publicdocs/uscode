@@ -67,13 +67,13 @@
 
             None of the funds made available under this subchapter may be allocated or otherwise assigned to authorized purposes of the Arkansas River Multipurpose Project as authorized by the River and Harbor Act of 1946,1 as amended by the Flood Control Act of 1948 and the Flood Control Act of 1950.
 
-([Pub. L. 107–331, title VI, § 606][/us/pl/107/331/s606], Dec. 13, 2002, [116 Stat. 2851][/us/stat/116/2851].)
+([Pub. L. 107–331, title VI][/us/pl/107/331/tVI], § 606, Dec. 13, 2002, [116 Stat. 2851][/us/stat/116/2851].)
 
  __References in Text__ 
 
     Section 1779c(c) and (d) of this title, referred to in subsec. (b)(1)(A), was in the original “sections 205(c) and (d)” and was translated as reading “section 605(c) and (d)”, meaning section 605(c) and (d) of [Pub. L. 107–331][/us/pl/107/331], to reflect the probable intent of Congress.
 
-    The River and Harbor Act of 1946, as amended by the Flood Control Act of 1948 and the Flood Control Act of 1950, referred to in subsec. (b)(4), probably means the [act July 24, 1946, ch. 596][/us/act/1946-07-24/ch596], [60 Stat. 641][/us/stat/60/641], known as the Flood Control Act of 1946, as amended by [act June 30, 1948, ch. 771][/us/act/1948-06-30/ch771], title II, [62 Stat. 1175][/us/stat/62/1175], and [act May 17, 1950, ch. 188][/us/act/1950-05-17/ch188], title II, [64 Stat. 170][/us/stat/64/170]. For complete classification of these acts to the Code, see Tables.
+    The River and Harbor Act of 1946, as amended by the Flood Control Act of 1948 and the Flood Control Act of 1950, referred to in subsec. (b)(4), probably means the [act July 24, 1946, ch. 596][/us/act/1946-07-24/ch596], [60 Stat. 641][/us/stat/60/641], known as the Flood Control Act of 1946, as amended by [act June 30, 1948, ch. 771, title II][/us/act/1948-06-30/ch771/tII], [62 Stat. 1175][/us/stat/62/1175], and [act May 17, 1950, ch. 188, title II][/us/act/1950-05-17/ch188/tII], [64 Stat. 170][/us/stat/64/170]. For complete classification of these acts to the Code, see Tables.
 
 ----------
 
@@ -86,14 +86,14 @@
 [/us/usc/t25/s1779c/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1779c%2Fd
 [/us/usc/t25/s465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs465
 [/us/usc/t25/s1779e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1779e
-[/us/pl/107/331/s606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F331%2Fs606
+[/us/pl/107/331/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F331%2FtVI
 [/us/stat/116/2851]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2851
 [/us/pl/107/331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F331
 [/us/act/1946-07-24/ch596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-07-24%2Fch596
 [/us/stat/60/641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F641
-[/us/act/1948-06-30/ch771]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-30%2Fch771
+[/us/act/1948-06-30/ch771/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-30%2Fch771%2FtII
 [/us/stat/62/1175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F1175
-[/us/act/1950-05-17/ch188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-05-17%2Fch188
+[/us/act/1950-05-17/ch188/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-05-17%2Fch188%2FtII
 [/us/stat/64/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F170
 
 

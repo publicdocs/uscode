@@ -39,7 +39,7 @@
 
         The non-Federal entity shall actively consult with Indian tribes and tribal organizations in the development and conduct of the surveys, including updates thereof, under this section. Indian tribes and tribal organizations shall have the opportunity to review and make recommendations regarding the findings of the survey, including updates thereof, prior to final publication of the survey or any update thereof. After Indian tribes and tribal organizations have reviewed and commented on the results of the survey, or any update thereof, the non-Federal entity shall report its findings, together with the comments and recommendations of the Indian tribes and tribal organizations, to the Secretary, the Committee on Indian Affairs of the Senate, and the Subcommittee on Native American Affairs of the Committee on Natural Resources of the House of Representatives.
 
-([Pub. L. 103–176, title I, § 102][/us/pl/103/176/s102], Dec. 3, 1993, [107 Stat. 2006][/us/stat/107/2006].)
+([Pub. L. 103–176, title I][/us/pl/103/176/tI], § 102, Dec. 3, 1993, [107 Stat. 2006][/us/stat/107/2006].)
 
  __Change of Name__ 
 
@@ -52,7 +52,7 @@
 ----------
 ----------
 
-[/us/pl/103/176/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F176%2Fs102
+[/us/pl/103/176/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F176%2FtI
 [/us/stat/107/2006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2006
 
 

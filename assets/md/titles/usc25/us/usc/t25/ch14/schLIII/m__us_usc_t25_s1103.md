@@ -17,7 +17,7 @@
 
     The Secretary shall distribute a share payable to a living enrollee directly to such enrollee or in such manner as is deemed by the Secretary to be in the enrollee’s best interest. The Secretary shall distribute the per capita share of a deceased enrollee to his heirs or legatees upon proof of death and inheritance satisfactory to the Secretary whose findings upon such proof shall be final and conclusive. Sums payable to enrollees or their heirs or legatees who are less than twenty-one years of age or who are under a legal disability shall be paid to the persons whom the Secretary determines will best protect their interests. Proportional shares of heirs or legatees amounting to $5 or less shall not be distributed and shall remain to the credit of the Nooksack Tribe. Any sum of money remaining to the credit of the Nooksack Tribe as a result of this judgment, three years after October 14, 1966, shall escheat to the United States and shall be deposited in the Treasury of the United States in miscellaneous receipts.
 
-([Pub. L. 89–656, § 3][/us/pl/89/656/s3], Oct. 14, 1966, [80 Stat. 906][/us/stat/80/906].)
+([Pub. L. 89–656][/us/pl/89/656], § 3, Oct. 14, 1966, [80 Stat. 906][/us/stat/80/906].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/89/656/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F656%2Fs3
+[/us/pl/89/656]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F656
 [/us/stat/80/906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F906
 
 

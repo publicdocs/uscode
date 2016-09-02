@@ -17,7 +17,7 @@
 
     If any provision of this subchapter, or the application of any provision to any person, entity or circumstance, is held invalid, the remainder of this subchapter shall not be affected thereby.
 
-([Pub. L. 93–531, § 24][/us/pl/93/531/s24], Dec. 22, 1974, [88 Stat. 1722][/us/stat/88/1722].)
+([Pub. L. 93–531][/us/pl/93/531], § 24, Dec. 22, 1974, [88 Stat. 1722][/us/stat/88/1722].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/93/531/s24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F531%2Fs24
+[/us/pl/93/531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F531
 [/us/stat/88/1722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1722
 
 

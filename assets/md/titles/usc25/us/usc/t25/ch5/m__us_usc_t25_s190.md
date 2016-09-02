@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t25/ch5/m__us_usc_t25_s187.md) | [Next](./../../../..//us/usc/t25/ch5/m__us_usc_t25_s191.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs190)
+[Previous](./../../../..//us/usc/t25/ch5/m__us_usc_t25_s188 _us_usc_t25_s189.md) | [Next](./../../../..//us/usc/t25/ch5/m__us_usc_t25_s191.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs190)
 
 ## § 190. Sale of plants or tracts not needed for administrative or allotment purposes
 
@@ -21,11 +21,11 @@
 
     The net proceeds of sale of any tribal site, plant, or tract shall be deposited in the Treasury of the United States to the credit of the Indians owning the same, to be disposed of for their benefit in accordance with existing law.
 
-([Apr. 12, 1924, ch. 93][/us/act/1924-04-12/ch93], [43 Stat. 93][/us/stat/43/93]; [Oct. 31, 1951, ch. 654, § 2(16)][/us/act/1951-10-31/ch654/s2/16], [65 Stat. 707][/us/stat/65/707].)
+([Apr. 12, 1924, ch. 93][/us/act/1924-04-12/ch93], [43 Stat. 93][/us/stat/43/93]; [Oct. 31, 1951, ch. 654][/us/act/1951-10-31/ch654], § 2(16), [65 Stat. 707][/us/stat/65/707].)
 
  __Codification__ 
 
-    In text, “chapters 1 to 11 of title 40 and division C (except sections 3302, 3306(f), 3307(e), 3501(b), 3509, 3906, 4104, 4710, and 4711) of subtitle I of title 41” substituted for “the Federal Property and Administrative Services Act of 1949, as amended” on authority of [Pub. L. 107–217, § 5(c)][/us/pl/107/217/s5/c], Aug. 21, 2002, [116 Stat. 1303][/us/stat/116/1303], which Act enacted Title 40, Public Buildings, Property, and Works, and [Pub. L. 111–350, § 6(c)][/us/pl/111/350/s6/c], Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
+    In text, “chapters 1 to 11 of title 40 and division C (except sections 3302, 3306(f), 3307(e), 3501(b), 3509, 3906, 4104, 4710, and 4711) of subtitle I of title 41” substituted for “the Federal Property and Administrative Services Act of 1949, as amended” on authority of [Pub. L. 107–217][/us/pl/107/217], § 5(c), Aug. 21, 2002, [116 Stat. 1303][/us/stat/116/1303], which Act enacted Title 40, Public Buildings, Property, and Works, and [Pub. L. 111–350][/us/pl/111/350], § 6(c), Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
 
  __Amendments__ 
 
@@ -37,18 +37,18 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t25/ch5/m__us_usc_t25_s187.md) | [Next](./../../../..//us/usc/t25/ch5/m__us_usc_t25_s191.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs190)
+[Previous](./../../../..//us/usc/t25/ch5/m__us_usc_t25_s188 _us_usc_t25_s189.md) | [Next](./../../../..//us/usc/t25/ch5/m__us_usc_t25_s191.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs190)
 
 ----------
 ----------
 
 [/us/act/1924-04-12/ch93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1924-04-12%2Fch93
 [/us/stat/43/93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F43%2F93
-[/us/act/1951-10-31/ch654/s2/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-10-31%2Fch654%2Fs2%2F16
+[/us/act/1951-10-31/ch654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-10-31%2Fch654
 [/us/stat/65/707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F65%2F707
-[/us/pl/107/217/s5/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs5%2Fc
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1303
-[/us/pl/111/350/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs6%2Fc
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3854
 [/us/stat/64/1262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1262
 

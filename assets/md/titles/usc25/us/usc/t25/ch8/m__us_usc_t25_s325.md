@@ -17,7 +17,7 @@
 
     No grant of a right-of-way shall be made without the payment of such compensation as the Secretary of the Interior shall determine to be just. The compensation received on behalf of the Indian owners shall be disposed of under rules and regulations to be prescribed by the Secretary of the Interior.
 
-([Feb. 5, 1948, ch. 45, § 3][/us/act/1948-02-05/ch45/s3], [62 Stat. 18][/us/stat/62/18].)
+([Feb. 5, 1948, ch. 45][/us/act/1948-02-05/ch45], § 3, [62 Stat. 18][/us/stat/62/18].)
 
  __Transfer of Functions__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1948-02-05/ch45/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-02-05%2Fch45%2Fs3
+[/us/act/1948-02-05/ch45]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-02-05%2Fch45
 [/us/stat/62/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F18
 [/us/stat/93/1373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1373
 [/us/usc/t15/s719e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs719e

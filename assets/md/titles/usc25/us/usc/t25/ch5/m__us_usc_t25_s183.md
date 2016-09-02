@@ -17,7 +17,7 @@
 
     Whenever the marriage of any white man with any Indian woman, a member of any such tribe of Indians, is required or offered to be proved in any judicial proceeding, evidence of the admission of such fact by the party against whom the proceeding is had, or evidence of general repute, or of cohabitation as married persons, or any other circumstantial or presumptive evidence from which the fact may be inferred, shall be competent.
 
-([Aug. 9, 1888, ch. 818, § 3][/us/act/1888-08-09/ch818/s3], [25 Stat. 392][/us/stat/25/392].)
+([Aug. 9, 1888, ch. 818][/us/act/1888-08-09/ch818], § 3, [25 Stat. 392][/us/stat/25/392].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1888-08-09/ch818/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1888-08-09%2Fch818%2Fs3
+[/us/act/1888-08-09/ch818]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1888-08-09%2Fch818
 [/us/stat/25/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F25%2F392
 
 

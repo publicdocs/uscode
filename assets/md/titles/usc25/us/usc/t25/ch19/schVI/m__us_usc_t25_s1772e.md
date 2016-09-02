@@ -17,7 +17,7 @@
 
     The compact defining the scope of Seminole water rights and their utilization by the tribe shall have the force and effect of Federal law for the purposes of enforcement of the rights and obligations of the tribe.
 
-([Pub. L. 100–228, § 7][/us/pl/100/228/s7], Dec. 31, 1987, [101 Stat. 1560][/us/stat/101/1560].)
+([Pub. L. 100–228][/us/pl/100/228], § 7, Dec. 31, 1987, [101 Stat. 1560][/us/stat/101/1560].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/100/228/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F228%2Fs7
+[/us/pl/100/228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F228
 [/us/stat/101/1560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1560
 
 

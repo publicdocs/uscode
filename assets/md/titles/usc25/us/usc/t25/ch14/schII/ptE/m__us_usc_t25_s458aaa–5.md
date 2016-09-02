@@ -99,7 +99,7 @@
 
         For the period for which, and to the extent to which, funding is provided under this part or under the compact or funding agreement, the Indian tribe shall not be entitled to contract with the Secretary for such funds under [section 450f of this title][/us/usc/t25/s450f], except that such Indian tribe shall be eligible for new programs on the same basis as other Indian tribes.
 
-([Pub. L. 93–638, title V, § 506][/us/pl/93/638/s506], as added [Pub. L. 106–260, § 4][/us/pl/106/260/s4], Aug. 18, 2000, [114 Stat. 717][/us/stat/114/717].)
+([Pub. L. 93–638, title V][/us/pl/93/638/tV], § 506, as added [Pub. L. 106–260][/us/pl/106/260], § 4, Aug. 18, 2000, [114 Stat. 717][/us/stat/114/717].)
 
  __References in Text__ 
 
@@ -116,8 +116,8 @@
 [/us/usc/t25/s450j–1/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450j%E2%80%931%2Ff
 [/us/usc/t25/s458aaa–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs458aaa%E2%80%934
 [/us/usc/t25/s450f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450f
-[/us/pl/93/638/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638%2Fs506
-[/us/pl/106/260/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F260%2Fs4
+[/us/pl/93/638/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638%2FtV
+[/us/pl/106/260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F260
 [/us/stat/114/717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F717
 [/us/pl/93/638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638
 [/us/usc/t25/s450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450

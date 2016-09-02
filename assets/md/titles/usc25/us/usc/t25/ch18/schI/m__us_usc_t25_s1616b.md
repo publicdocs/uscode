@@ -19,13 +19,13 @@
 
     (b) The Secretary, acting through the Service, shall assign one individual in each area office to be responsible on a full-time basis for recruitment activities.
 
-([Pub. L. 94–437, title I, § 109][/us/pl/94/437/s109], as added [Pub. L. 100–713, title I, § 108][/us/pl/100/713/s108], Nov. 23, 1988, [102 Stat. 4794][/us/stat/102/4794]; amended [Pub. L. 102–573, title I, § 107][/us/pl/102/573/s107], Oct. 29, 1992, [106 Stat. 4538][/us/stat/106/4538].)
+([Pub. L. 94–437, title I][/us/pl/94/437/tI], § 109, as added [Pub. L. 100–713, title I][/us/pl/100/713/tI], § 108, Nov. 23, 1988, [102 Stat. 4794][/us/stat/102/4794]; amended [Pub. L. 102–573, title I][/us/pl/102/573/tI], § 107, Oct. 29, 1992, [106 Stat. 4538][/us/stat/106/4538].)
 
  __Amendments__ 
 
-    1992—[Pub. L. 102–573, § 107(1)][/us/pl/102/573/s107/1], substituted “Recruitment activities” for “Travel expenses for recruitment” in section catchline.
+    1992—[Pub. L. 102–573][/us/pl/102/573], § 107(1), substituted “Recruitment activities” for “Travel expenses for recruitment” in section catchline.
 
-    Subsec. (b). [Pub. L. 102–573, § 107(2)][/us/pl/102/573/s107/2], amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “There are authorized to be appropriated $100,000 for each of the fiscal years 1990, 1991, and 1992, for the purpose of carrying out the provisions of this section.”
+    Subsec. (b). [Pub. L. 102–573][/us/pl/102/573], § 107(2), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “There are authorized to be appropriated $100,000 for each of the fiscal years 1990, 1991, and 1992, for the purpose of carrying out the provisions of this section.”
 
 ----------
 
@@ -35,12 +35,12 @@
 ----------
 
 [/us/usc/t25/s1616a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1616a
-[/us/pl/94/437/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437%2Fs109
-[/us/pl/100/713/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F713%2Fs108
+[/us/pl/94/437/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437%2FtI
+[/us/pl/100/713/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F713%2FtI
 [/us/stat/102/4794]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4794
-[/us/pl/102/573/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2Fs107
+[/us/pl/102/573/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2FtI
 [/us/stat/106/4538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4538
-[/us/pl/102/573/s107/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2Fs107%2F1
-[/us/pl/102/573/s107/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2Fs107%2F2
+[/us/pl/102/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573
+[/us/pl/102/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573
 
 

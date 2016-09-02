@@ -27,11 +27,11 @@
 
     (5) the term “final membership roll” means the final membership roll of the tribe published on July 20, 1956, on pages 5454–5462 of volume 21 of the Federal Register.
 
-([Pub. L. 95–195, § 2][/us/pl/95/195/s2], Nov. 18, 1977, [91 Stat. 1415][/us/stat/91/1415].)
+([Pub. L. 95–195][/us/pl/95/195], § 2, Nov. 18, 1977, [91 Stat. 1415][/us/stat/91/1415].)
 
  __Short Title__ 
 
-[Pub. L. 95–195, § 1][/us/pl/95/195/s1], Nov. 18, 1977, [91 Stat. 1415][/us/stat/91/1415], provided: 
+[Pub. L. 95–195][/us/pl/95/195], § 1, Nov. 18, 1977, [91 Stat. 1415][/us/stat/91/1415], provided: 
 
 > “That this Act \[enacting this subchapter\] may be cited as the ‘Siletz Indian Tribe Restoration Act’.”
 
@@ -44,9 +44,9 @@
 
 [/us/usc/t25/s711c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs711c
 [/us/usc/t25/s711b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs711b
-[/us/pl/95/195/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F195%2Fs2
+[/us/pl/95/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F195
 [/us/stat/91/1415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1415
-[/us/pl/95/195/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F195%2Fs1
+[/us/pl/95/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F195
 [/us/stat/91/1415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1415
 
 

@@ -17,7 +17,7 @@
 
     The Secretary of the Interior is granted authority to disburse to the heirs or legatees of deceased members of the Five Civilized Tribes any sum of money on deposit to the credit of such deceased Indian or Indians, not exceeding $500, where said decedent died seized of no lands or the lands have since been lawfully alienated. Said funds shall be disbursed on proof of death and heirship or bequest satisfactory to the Secretary of the Interior and his finding thereon shall be final and conclusive: Provided, That such transfer of funds so disbursed shall not be taxable.
 
-([Aug. 12, 1953, ch. 409, § 1][/us/act/1953-08-12/ch409/s1], [67 Stat. 558][/us/stat/67/558].)
+([Aug. 12, 1953, ch. 409][/us/act/1953-08-12/ch409], § 1, [67 Stat. 558][/us/stat/67/558].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1953-08-12/ch409/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-08-12%2Fch409%2Fs1
+[/us/act/1953-08-12/ch409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-08-12%2Fch409
 [/us/stat/67/558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F558
 
 

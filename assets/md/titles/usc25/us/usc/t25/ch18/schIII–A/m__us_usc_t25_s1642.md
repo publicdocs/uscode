@@ -41,7 +41,7 @@
 
         Nothing in this section shall be construed as affecting the use of any amounts not referred to in subsection (a).
 
-([Pub. L. 94–437, title IV, § 402][/us/pl/94/437/s402], Sept. 30, 1976, [90 Stat. 1409][/us/stat/90/1409]; [Pub. L. 100–713, title IV, § 401(a)][/us/pl/100/713/s401/a], (b), Nov. 23, 1988, [102 Stat. 4818][/us/stat/102/4818]; [Pub. L. 102–573, title IV, § 401(b)(1)][/us/pl/102/573/s401/b/1], Oct. 29, 1992, [106 Stat. 4565][/us/stat/106/4565]; [Pub. L. 111–148, title X, § 10221(a)][/us/pl/111/148/s10221/a], Mar. 23, 2010, [124 Stat. 935][/us/stat/124/935].)
+([Pub. L. 94–437, title IV][/us/pl/94/437/tIV], § 402, Sept. 30, 1976, [90 Stat. 1409][/us/stat/90/1409]; [Pub. L. 100–713, title IV][/us/pl/100/713/tIV], § 401(a), (b), Nov. 23, 1988, [102 Stat. 4818][/us/stat/102/4818]; [Pub. L. 102–573, title IV][/us/pl/102/573/tIV], § 401(b)(1), Oct. 29, 1992, [106 Stat. 4565][/us/stat/106/4565]; [Pub. L. 111–148, title X][/us/pl/111/148/tX], § 10221(a), Mar. 23, 2010, [124 Stat. 935][/us/stat/124/935].)
 
  __References in Text__ 
 
@@ -61,19 +61,19 @@
 
     1992—[Pub. L. 102–573][/us/pl/102/573] amended section generally, substituting subsecs. (a) and (b) for former subsecs. (a) to (e). See Codification note above.
 
-    1988—Subsec. (b). [Pub. L. 100–713, § 401(b)][/us/pl/100/713/s401/b], struck out subsec. (b) which authorized Secretary of Health and Human Services to enter into agreements to reimburse State agencies for health care and services provided in Indian Health Service facilities to Indians eligible for medical assistance under title XIX of the Social Security Act.
+    1988—Subsec. (b). [Pub. L. 100–713][/us/pl/100/713], § 401(b), struck out subsec. (b) which authorized Secretary of Health and Human Services to enter into agreements to reimburse State agencies for health care and services provided in Indian Health Service facilities to Indians eligible for medical assistance under title XIX of the Social Security Act.
 
-    Subsec. (c). [Pub. L. 100–713, § 401(a)][/us/pl/100/713/s401/a], substituted “skilled nursing facility, or any other type of facility which provides services of a type otherwise covered under a State plan for medical assistance approved under title XIX of the Social Security Act” for “or skilled nursing facility”, “such a State plan” for “a State plan approved under title XIX of the Social Security Act”, and “In making payments from such fund, the Secretary shall ensure that each service unit of the Indian Health Service receives at least 50 percent of the amounts to which the facilities of the Indian Health Service, for which such service unit makes collections, are entitled by reason of section 1911 of the Social Security Act, if such amount is necessary for the purpose of making improvements in such facilities in order to achieve compliance with the conditions and requirements of title XIX of the Social Security Act. This subsection shall” for “The preceding sentence shall”.
+    Subsec. (c). [Pub. L. 100–713][/us/pl/100/713], § 401(a), substituted “skilled nursing facility, or any other type of facility which provides services of a type otherwise covered under a State plan for medical assistance approved under title XIX of the Social Security Act” for “or skilled nursing facility”, “such a State plan” for “a State plan approved under title XIX of the Social Security Act”, and “In making payments from such fund, the Secretary shall ensure that each service unit of the Indian Health Service receives at least 50 percent of the amounts to which the facilities of the Indian Health Service, for which such service unit makes collections, are entitled by reason of section 1911 of the Social Security Act, if such amount is necessary for the purpose of making improvements in such facilities in order to achieve compliance with the conditions and requirements of title XIX of the Social Security Act. This subsection shall” for “The preceding sentence shall”.
 
  __Effective Date of 1992 Amendment__ 
 
-[Pub. L. 102–573, title IV, § 401(b)(2)][/us/pl/102/573/s401/b/2], Oct. 29, 1992, [106 Stat. 4565][/us/stat/106/4565], provided that: 
+[Pub. L. 102–573, title IV][/us/pl/102/573/tIV], § 401(b)(2), Oct. 29, 1992, [106 Stat. 4565][/us/stat/106/4565], provided that: 
 
 > “The increase (from 50 percent) in the percentage of the payments from the fund to be made to each service unit of the Service specified in the amendment made by paragraph (1) \[amending this section\] shall take effect beginning with payments made on January 1, 1993.”
 
  __Effective Date of 1988 Amendment__ 
 
-[Pub. L. 100–713, title IV, § 401(c)][/us/pl/100/713/s401/c], Nov. 23, 1988, [102 Stat. 4818][/us/stat/102/4818], provided that: 
+[Pub. L. 100–713, title IV][/us/pl/100/713/tIV], § 401(c), Nov. 23, 1988, [102 Stat. 4818][/us/stat/102/4818], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall apply to services performed on or after the date of the enactment of this Act \[Nov. 23, 1988\].”
 
@@ -87,13 +87,13 @@
 [/us/usc/t42/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs301
 [/us/usc/t25/s450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450
 [/us/usc/t25/s1644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1644
-[/us/pl/94/437/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437%2Fs402
+[/us/pl/94/437/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437%2FtIV
 [/us/stat/90/1409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1409
-[/us/pl/100/713/s401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F713%2Fs401%2Fa
+[/us/pl/100/713/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F713%2FtIV
 [/us/stat/102/4818]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4818
-[/us/pl/102/573/s401/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2Fs401%2Fb%2F1
+[/us/pl/102/573/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2FtIV
 [/us/stat/106/4565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4565
-[/us/pl/111/148/s10221/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10221%2Fa
+[/us/pl/111/148/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtX
 [/us/stat/124/935]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F935
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620
@@ -110,11 +110,11 @@
 [/us/usc/t42/s1396d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396d
 [/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 [/us/pl/102/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573
-[/us/pl/100/713/s401/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F713%2Fs401%2Fb
-[/us/pl/100/713/s401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F713%2Fs401%2Fa
-[/us/pl/102/573/s401/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2Fs401%2Fb%2F2
+[/us/pl/100/713]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F713
+[/us/pl/100/713]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F713
+[/us/pl/102/573/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2FtIV
 [/us/stat/106/4565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4565
-[/us/pl/100/713/s401/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F713%2Fs401%2Fc
+[/us/pl/100/713/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F713%2FtIV
 [/us/stat/102/4818]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4818
 
 

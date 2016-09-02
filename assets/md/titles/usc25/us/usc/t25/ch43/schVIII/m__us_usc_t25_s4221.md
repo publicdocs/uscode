@@ -87,7 +87,7 @@
 
             (iii) birth records of the State of Hawaii.
 
-([Pub. L. 104–330, title VIII, § 801][/us/pl/104/330/s801], as added [Pub. L. 106–568, title II, § 203][/us/pl/106/568/s203], Dec. 27, 2000, [114 Stat. 2876][/us/stat/114/2876], and [Pub. L. 106–569, title V, § 513][/us/pl/106/569/s513], Dec. 27, 2000, [114 Stat. 2969][/us/stat/114/2969].)
+([Pub. L. 104–330, title VIII][/us/pl/104/330/tVIII], § 801, as added [Pub. L. 106–568, title II][/us/pl/106/568/tII], § 203, Dec. 27, 2000, [114 Stat. 2876][/us/stat/114/2876], and [Pub. L. 106–569, title V][/us/pl/106/569/tV], § 513, Dec. 27, 2000, [114 Stat. 2969][/us/stat/114/2969].)
 
  __References in Text__ 
 
@@ -97,21 +97,21 @@
 
  __Codification__ 
 
-    [Pub. L. 106–568, § 203][/us/pl/106/568/s203], and [Pub. L. 106–569, § 513][/us/pl/106/569/s513], enacted substantially identical sections 801 of [Pub. L. 104–330][/us/pl/104/330]. This section is based on the text of [section 801 of Pub. L. 104–330][/us/pl/104/330/s801], as added by [Pub. L. 106–569, § 513][/us/pl/106/569/s513].
+    [Pub. L. 106–568][/us/pl/106/568], § 203, and [Pub. L. 106–569][/us/pl/106/569], § 513, enacted substantially identical sections 801 of [Pub. L. 104–330][/us/pl/104/330]. This section is based on the text of [section 801 of Pub. L. 104–330][/us/pl/104/330/s801], as added by [Pub. L. 106–569][/us/pl/106/569], § 513.
 
  __Effective Date__ 
 
-[Pub. L. 104–330, title VIII, § 808][/us/pl/104/330/s808], as added by [Pub. L. 106–569, title V, § 513][/us/pl/106/569/s513], Dec. 27, 2000, [114 Stat. 2979][/us/stat/114/2979], provided that: 
+[Pub. L. 104–330, title VIII][/us/pl/104/330/tVIII], § 808, as added by [Pub. L. 106–569, title V][/us/pl/106/569/tV], § 513, Dec. 27, 2000, [114 Stat. 2979][/us/stat/114/2979], provided that: 
 
 > “Except as otherwise expressly provided in this title \[enacting this subchapter\], this title shall take effect on the date of the enactment of the American Homeownership and Economic Opportunity Act of 2000 \[[Pub. L. 106–569][/us/pl/106/569], approved Dec. 27, 2000\].”
 
-[Pub. L. 104–330, title VIII, § 808][/us/pl/104/330/s808], as added by [Pub. L. 106–568, title II, § 203][/us/pl/106/568/s203], Dec. 27, 2000, [114 Stat. 2885][/us/stat/114/2885], provided that: 
+[Pub. L. 104–330, title VIII][/us/pl/104/330/tVIII], § 808, as added by [Pub. L. 106–568, title II][/us/pl/106/568/tII], § 203, Dec. 27, 2000, [114 Stat. 2885][/us/stat/114/2885], provided that: 
 
 > “Except as otherwise expressly provided in this title \[enacting this subchapter\], this title shall take effect on the date of the enactment of the Native American Housing Assistance and Self-Determination Amendments of 2000 \[probably should be the Hawaiian Homelands Ownership Act of 2000, title II of [Pub. L. 106–568][/us/pl/106/568], approved Dec. 27, 2000\].”
 
  __Findings__ 
 
-[Pub. L. 106–569, title V, § 512][/us/pl/106/569/s512], Dec. 27, 2000, [114 Stat. 2966][/us/stat/114/2966], provided that: 
+[Pub. L. 106–569, title V][/us/pl/106/569/tV], § 512, Dec. 27, 2000, [114 Stat. 2966][/us/stat/114/2966], provided that: 
 
 > “The Congress finds that—
 
@@ -231,9 +231,9 @@
 
 >         “(E) the inclusion of Native Hawaiians in the definition under section 3764 \[now 3765\] of title 38, United States Code, applicable to subchapter V of chapter 37 of title 38, United States Code (relating to a housing loan program for Native American veterans); and
 
->         “(F) the enactment of the Hawaiian Home Lands Recovery Act ([109 Stat. 357][/us/stat/109/357]; [48 U.S.C. 491][/us/usc/t48/s491], note prec.) \[[Pub. L. 104–42, title II][/us/pl/104/42]\] which establishes a process for the conveyance of Federal lands to the Department of Hawaiian Homes Lands that are equivalent in value to lands acquired by the United States from the Hawaiian Home Lands inventory.”
+>         “(F) the enactment of the Hawaiian Home Lands Recovery Act ([109 Stat. 357][/us/stat/109/357]; [48 U.S.C. 491][/us/usc/t48/s491], note prec.) \[[Pub. L. 104–42, title II][/us/pl/104/42/tII]\] which establishes a process for the conveyance of Federal lands to the Department of Hawaiian Homes Lands that are equivalent in value to lands acquired by the United States from the Hawaiian Home Lands inventory.”
 
-    Substantially identical provisions were contained in [Pub. L. 106–568, title II, § 202][/us/pl/106/568/s202], Dec. 27, 2000, [114 Stat. 2872][/us/stat/114/2872].
+    Substantially identical provisions were contained in [Pub. L. 106–568, title II][/us/pl/106/568/tII], § 202, Dec. 27, 2000, [114 Stat. 2872][/us/stat/114/2872].
 
 ----------
 
@@ -244,30 +244,30 @@
 
 [/us/stat/42/108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F108
 [/us/stat/42/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F110
-[/us/pl/104/330/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330%2Fs801
-[/us/pl/106/568/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F568%2Fs203
+[/us/pl/104/330/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330%2FtVIII
+[/us/pl/106/568/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F568%2FtII
 [/us/stat/114/2876]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2876
-[/us/pl/106/569/s513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs513
+[/us/pl/106/569/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2FtV
 [/us/stat/114/2969]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2969
 [/us/act/1921-07-09/ch42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1921-07-09%2Fch42
 [/us/stat/42/108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F108
 [/us/pl/104/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330
 [/us/stat/110/4016]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F4016
 [/us/usc/t25/s4101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs4101
-[/us/pl/106/568/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F568%2Fs203
-[/us/pl/106/569/s513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs513
+[/us/pl/106/568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F568
+[/us/pl/106/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569
 [/us/pl/104/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330
 [/us/pl/104/330/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330%2Fs801
-[/us/pl/106/569/s513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs513
-[/us/pl/104/330/s808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330%2Fs808
-[/us/pl/106/569/s513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs513
+[/us/pl/106/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569
+[/us/pl/104/330/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330%2FtVIII
+[/us/pl/106/569/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2FtV
 [/us/stat/114/2979]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2979
 [/us/pl/106/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569
-[/us/pl/104/330/s808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330%2Fs808
-[/us/pl/106/568/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F568%2Fs203
+[/us/pl/104/330/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330%2FtVIII
+[/us/pl/106/568/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F568%2FtII
 [/us/stat/114/2885]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2885
 [/us/pl/106/568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F568
-[/us/pl/106/569/s512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs512
+[/us/pl/106/569/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2FtV
 [/us/stat/114/2966]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2966
 [/us/stat/42/108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F108
 [/us/usc/t48/s691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs691
@@ -295,8 +295,8 @@
 [/us/pl/101/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F235
 [/us/stat/109/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F357
 [/us/usc/t48/s491]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs491
-[/us/pl/104/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F42
-[/us/pl/106/568/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F568%2Fs202
+[/us/pl/104/42/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F42%2FtII
+[/us/pl/106/568/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F568%2FtII
 [/us/stat/114/2872]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2872
 
 

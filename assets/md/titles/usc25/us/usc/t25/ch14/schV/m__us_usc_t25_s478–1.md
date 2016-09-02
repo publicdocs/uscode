@@ -23,7 +23,7 @@
 
     (3) all lands owned by Indians that are subject to a restriction imposed by the United States on alienation of the rights of the Indians in the lands.
 
-([Pub. L. 101–301, § 3(a)][/us/pl/101/301/s3/a], May 24, 1990, [104 Stat. 207][/us/stat/104/207].)
+([Pub. L. 101–301][/us/pl/101/301], § 3(a), May 24, 1990, [104 Stat. 207][/us/stat/104/207].)
 
 ----------
 
@@ -33,7 +33,7 @@
 ----------
 
 [/us/usc/t25/s478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs478
-[/us/pl/101/301/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F301%2Fs3%2Fa
+[/us/pl/101/301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F301
 [/us/stat/104/207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F207
 
 

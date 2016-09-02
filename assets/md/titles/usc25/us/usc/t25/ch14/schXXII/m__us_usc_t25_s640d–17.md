@@ -41,7 +41,7 @@
 
         All applicable provisional and final remedies and special proceedings provided for by the Federal Rules of Civil Procedure and all other remedies and processes available for the enforcement and collection of judgments in the district courts of the United States may be used in the enforcement and collection of judgments obtained pursuant to the provisions of this subchapter.
 
-([Pub. L. 93–531, § 18][/us/pl/93/531/s18], Dec. 22, 1974, [88 Stat. 1721][/us/stat/88/1721].)
+([Pub. L. 93–531][/us/pl/93/531], § 18, Dec. 22, 1974, [88 Stat. 1721][/us/stat/88/1721].)
 
 ----------
 
@@ -50,7 +50,7 @@
 ----------
 ----------
 
-[/us/pl/93/531/s18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F531%2Fs18
+[/us/pl/93/531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F531
 [/us/stat/88/1721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1721
 
 

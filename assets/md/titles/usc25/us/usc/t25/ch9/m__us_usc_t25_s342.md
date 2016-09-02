@@ -17,7 +17,7 @@
 
     Nothing in this act shall be so construed as to prevent the removal of the Southern Ute Indians from their present reservation in southwestern Colorado to a new reservation by and with the consent of a majority of the adult male members of said tribe.
 
-([Feb. 8, 1887, ch. 119, § 11][/us/act/1887-02-08/ch119/s11], [24 Stat. 391][/us/stat/24/391].)
+([Feb. 8, 1887, ch. 119][/us/act/1887-02-08/ch119], § 11, [24 Stat. 391][/us/stat/24/391].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1887-02-08/ch119/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1887-02-08%2Fch119%2Fs11
+[/us/act/1887-02-08/ch119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1887-02-08%2Fch119
 [/us/stat/24/391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F24%2F391
 [/us/act/1887-02-08/ch119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1887-02-08%2Fch119
 [/us/stat/24/388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F24%2F388

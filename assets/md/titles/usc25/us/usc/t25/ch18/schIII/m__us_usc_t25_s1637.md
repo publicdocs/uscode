@@ -145,7 +145,7 @@
 
         The Secretary shall ensure that the planning, design, construction, renovation, and expansion needs of Service and non-Service facilities that are the subject of a contract or compact under the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450][/us/usc/t25/s450] et seq.) for health services are fully and equitably integrated into the implementation of the health care delivery demonstration projects under this section.
 
-([Pub. L. 94–437, title III, § 307][/us/pl/94/437/s307], as added [Pub. L. 101–630, title V, § 504][/us/pl/101/630/s504], Nov. 28, 1990, [104 Stat. 4562][/us/stat/104/4562]; amended [Pub. L. 102–573, title III][/us/pl/102/573], §§ 304, 307(b)(2), title VII, § 701(c)(2), title IX, § 902(4)(A), Oct. 29, 1992, [106 Stat. 4562][/us/stat/106/4562], 4564, 4572, 4591; [Pub. L. 111–148, title X, § 10221(a)][/us/pl/111/148/s10221/a], Mar. 23, 2010, [124 Stat. 935][/us/stat/124/935].)
+([Pub. L. 94–437, title III][/us/pl/94/437/tIII], § 307, as added [Pub. L. 101–630, title V][/us/pl/101/630/tV], § 504, Nov. 28, 1990, [104 Stat. 4562][/us/stat/104/4562]; amended [Pub. L. 102–573, title III][/us/pl/102/573/tIII], §§ 304, 307(b)(2), title VII, § 701(c)(2), title IX, § 902(4)(A), Oct. 29, 1992, [106 Stat. 4562][/us/stat/106/4562], 4564, 4572, 4591; [Pub. L. 111–148, title X][/us/pl/111/148/tX], § 10221(a), Mar. 23, 2010, [124 Stat. 935][/us/stat/124/935].)
 
  __References in Text__ 
 
@@ -161,19 +161,19 @@
 
     2010—[Pub. L. 111–148][/us/pl/111/148] amended section generally. Prior to amendment, section authorized contracts and grants to carry out an Indian health care delivery demonstration project and related to use of funds, criteria, technical assistance, service to ineligible persons, equitable treatment, equitable integration of facilities, and report to Congress.
 
-    1992—[Pub. L. 102–573, § 902(4)(A)][/us/pl/102/573/s902/4/A], made technical amendment to section catchline.
+    1992—[Pub. L. 102–573][/us/pl/102/573], § 902(4)(A), made technical amendment to section catchline.
 
-    Subsec. (c)(1)(A). [Pub. L. 102–573, § 304(a)(1)][/us/pl/102/573/s304/a/1], inserted “or program” after “facility” in two places.
+    Subsec. (c)(1)(A). [Pub. L. 102–573][/us/pl/102/573], § 304(a)(1), inserted “or program” after “facility” in two places.
 
-    Subsec. (c)(3)(A). [Pub. L. 102–573, § 304(a)(2)][/us/pl/102/573/s304/a/2], substituted “On or before September 30, 1995, the” for “The” and inserted “and for which a completed application has been received by the Secretary” after “paragraph (1)”.
+    Subsec. (c)(3)(A). [Pub. L. 102–573][/us/pl/102/573], § 304(a)(2), substituted “On or before September 30, 1995, the” for “The” and inserted “and for which a completed application has been received by the Secretary” after “paragraph (1)”.
 
-    Subsec. (c)(3)(B). [Pub. L. 102–573, § 304(a)(3)][/us/pl/102/573/s304/a/3], which directed amendment of subsec. (c) by striking subpar. (B) and inserting a new subpar. (B), was executed by making the amendment in par. (3) of subsec. (c) to reflect the probable intent of Congress. Prior to amendment, subpar. (B) read as follows: “After entering into contracts or awarding grants in accordance with subparagraph (A), and taking into account contracts entered into and grants awarded under such subparagraph, the Secretary may only enter into one contract or award one grant under this subsection with respect to a service area until the Secretary has entered into contracts or awarded grants for all service areas with respect to which the Secretary receives applications during the application period, as determined by the Secretary, which meet the criteria developed under paragraph (1).”
+    Subsec. (c)(3)(B). [Pub. L. 102–573][/us/pl/102/573], § 304(a)(3), which directed amendment of subsec. (c) by striking subpar. (B) and inserting a new subpar. (B), was executed by making the amendment in par. (3) of subsec. (c) to reflect the probable intent of Congress. Prior to amendment, subpar. (B) read as follows: “After entering into contracts or awarding grants in accordance with subparagraph (A), and taking into account contracts entered into and grants awarded under such subparagraph, the Secretary may only enter into one contract or award one grant under this subsection with respect to a service area until the Secretary has entered into contracts or awarded grants for all service areas with respect to which the Secretary receives applications during the application period, as determined by the Secretary, which meet the criteria developed under paragraph (1).”
 
-    Subsec. (e). [Pub. L. 102–573, § 701(c)(2)][/us/pl/102/573/s701/c/2], made technical amendment to the reference to [section 1680c of this title][/us/usc/t25/s1680c] to reflect renumbering of corresponding section of original act.
+    Subsec. (e). [Pub. L. 102–573][/us/pl/102/573], § 701(c)(2), made technical amendment to the reference to [section 1680c of this title][/us/usc/t25/s1680c] to reflect renumbering of corresponding section of original act.
 
-    Subsec. (h). [Pub. L. 102–573, § 304(b)][/us/pl/102/573/s304/b], amended subsec. (h) generally. Prior to amendment, subsec. (h) read as follows: “Within 90 days after the end of the period set out in subsection (a) of this section, the Secretary shall prepare and submit to Congress a report, together with legislative recommendations, on the findings and conclusions derived from the demonstration projects.”
+    Subsec. (h). [Pub. L. 102–573][/us/pl/102/573], § 304(b), amended subsec. (h) generally. Prior to amendment, subsec. (h) read as follows: “Within 90 days after the end of the period set out in subsection (a) of this section, the Secretary shall prepare and submit to Congress a report, together with legislative recommendations, on the findings and conclusions derived from the demonstration projects.”
 
-    Subsec. (i). [Pub. L. 102–573, § 307(b)(2)][/us/pl/102/573/s307/b/2], struck out subsec. (i) which authorized appropriation of such sums as necessary for fiscal years 1991 and 1992 for purpose of carrying out this section.
+    Subsec. (i). [Pub. L. 102–573][/us/pl/102/573], § 307(b)(2), struck out subsec. (i) which authorized appropriation of such sums as necessary for fiscal years 1991 and 1992 for purpose of carrying out this section.
 
 ----------
 
@@ -190,12 +190,12 @@
 [/us/usc/t25/s1680c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1680c
 [/us/usc/t25/s450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450
 [/us/usc/t25/s450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450
-[/us/pl/94/437/s307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437%2Fs307
-[/us/pl/101/630/s504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F630%2Fs504
+[/us/pl/94/437/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437%2FtIII
+[/us/pl/101/630/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F630%2FtV
 [/us/stat/104/4562]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4562
-[/us/pl/102/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573
+[/us/pl/102/573/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2FtIII
 [/us/stat/106/4562]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4562
-[/us/pl/111/148/s10221/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10221%2Fa
+[/us/pl/111/148/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtX
 [/us/stat/124/935]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F935
 [/us/pl/94/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437
 [/us/stat/90/1400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1400
@@ -206,13 +206,13 @@
 [/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 [/us/pl/111/148/s10221/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10221%2Fa
 [/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
-[/us/pl/102/573/s902/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2Fs902%2F4%2FA
-[/us/pl/102/573/s304/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2Fs304%2Fa%2F1
-[/us/pl/102/573/s304/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2Fs304%2Fa%2F2
-[/us/pl/102/573/s304/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2Fs304%2Fa%2F3
-[/us/pl/102/573/s701/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2Fs701%2Fc%2F2
+[/us/pl/102/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573
+[/us/pl/102/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573
+[/us/pl/102/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573
+[/us/pl/102/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573
+[/us/pl/102/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573
 [/us/usc/t25/s1680c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1680c
-[/us/pl/102/573/s304/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2Fs304%2Fb
-[/us/pl/102/573/s307/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2Fs307%2Fb%2F2
+[/us/pl/102/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573
+[/us/pl/102/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573
 
 

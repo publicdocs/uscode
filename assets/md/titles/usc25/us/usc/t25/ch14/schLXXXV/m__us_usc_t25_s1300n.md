@@ -17,11 +17,11 @@
 
     The Congress finds that in their 1997 Report to Congress, the Advisory Council on California Indian Policy specifically recommended the immediate legislative restoration of the Graton Rancheria.
 
-([Pub. L. 106–568, title XIV, § 1402][/us/pl/106/568/s1402], Dec. 27, 2000, [114 Stat. 2939][/us/stat/114/2939].)
+([Pub. L. 106–568, title XIV][/us/pl/106/568/tXIV], § 1402, Dec. 27, 2000, [114 Stat. 2939][/us/stat/114/2939].)
 
  __Short Title__ 
 
-[Pub. L. 106–568, title XIV, § 1401][/us/pl/106/568/s1401], Dec. 27, 2000, [114 Stat. 2939][/us/stat/114/2939], provided that: 
+[Pub. L. 106–568, title XIV][/us/pl/106/568/tXIV], § 1401, Dec. 27, 2000, [114 Stat. 2939][/us/stat/114/2939], provided that: 
 
 > “This title \[enacting this subchapter\] may be cited as the ‘Graton Rancheria Restoration Act’.”
 
@@ -32,9 +32,9 @@
 ----------
 ----------
 
-[/us/pl/106/568/s1402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F568%2Fs1402
+[/us/pl/106/568/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F568%2FtXIV
 [/us/stat/114/2939]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2939
-[/us/pl/106/568/s1401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F568%2Fs1401
+[/us/pl/106/568/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F568%2FtXIV
 [/us/stat/114/2939]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2939
 
 

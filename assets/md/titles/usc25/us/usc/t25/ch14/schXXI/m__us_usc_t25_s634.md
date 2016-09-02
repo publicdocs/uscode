@@ -17,7 +17,7 @@
 
     The Secretary of the Interior is authorized, under such regulations as he may prescribe, to make loans from the loan fund authorized by [section 631 of this title][/us/usc/t25/s631] to the Navajo Tribe, or any member or association of members thereof, or to the Hopi Tribe, or any member of association of members thereof, for such productive purposes as, in his judgment, will tend to promote the better utilization of the manpower and resources of the Navajo or Hopi Indians. Sums collected in repayment of such loans and sums collected as interest or other charges thereon shall be credited to the loan fund, and shall be available for the purpose for which the fund was established.
 
-([Apr. 19, 1950, ch. 92, § 4][/us/act/1950-04-19/ch92/s4], [64 Stat. 45][/us/stat/64/45].)
+([Apr. 19, 1950, ch. 92][/us/act/1950-04-19/ch92], § 4, [64 Stat. 45][/us/stat/64/45].)
 
  __Indian Revolving Loan Fund__ 
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t25/s631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs631
-[/us/act/1950-04-19/ch92/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-04-19%2Fch92%2Fs4
+[/us/act/1950-04-19/ch92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-04-19%2Fch92
 [/us/stat/64/45]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F45
 [/us/usc/t25/s1461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1461
 

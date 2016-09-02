@@ -29,7 +29,7 @@
 
     (f) the State of Connecticut is contributing twenty acres of land owned by the State of Connecticut to fulfill this subchapter. The State of Connecticut will construct and repair three sections of paved or gravel roadways within the reservation of the Tribe. The State of Connecticut has provided special services to the members of the Western Pequot Tribe residing within its borders. The United States has provided few, if any, special services to the Western Pequot Tribe and has denied that it had jurisdiction over or responsibility for said Tribe. In view of the provision of land by the State of Connecticut, the provision of paved roadways by the State of Connecticut, and the provision of special services by the State of Connecticut without being required to do so by Federal law, it is the intent of Congress that the State of Connecticut not be required to otherwise contribute directly to this claims settlement.
 
-([Pub. L. 98–134, § 2][/us/pl/98/134/s2], Oct. 18, 1983, [97 Stat. 851][/us/stat/97/851].)
+([Pub. L. 98–134][/us/pl/98/134], § 2, Oct. 18, 1983, [97 Stat. 851][/us/stat/97/851].)
 
  __Codification__ 
 
@@ -37,7 +37,7 @@
 
  __Short Title__ 
 
-[Pub. L. 98–134, § 1][/us/pl/98/134/s1], Oct. 18, 1983, [97 Stat. 851][/us/stat/97/851], provided: 
+[Pub. L. 98–134][/us/pl/98/134], § 1, Oct. 18, 1983, [97 Stat. 851][/us/stat/97/851], provided: 
 
 > “That this Act \[enacting this subchapter\] may be cited as the ‘Mashantucket Pequot Indian Claims Settlement Act’.”
 
@@ -48,10 +48,10 @@
 ----------
 ----------
 
-[/us/pl/98/134/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F134%2Fs2
+[/us/pl/98/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F134
 [/us/stat/97/851]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F851
 [/us/pl/98/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F134
-[/us/pl/98/134/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F134%2Fs1
+[/us/pl/98/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F134
 [/us/stat/97/851]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F851
 
 

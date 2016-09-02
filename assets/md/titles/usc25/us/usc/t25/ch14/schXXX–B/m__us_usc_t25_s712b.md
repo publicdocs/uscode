@@ -35,7 +35,7 @@
 
         Until the tribe adopts a final governing document, the tribe’s governing body shall consist of its current board of directors elected at the tribe’s annual meeting of August 10, 1986, or such new board members as are selected under election procedures of the interim governing document identified at subsection (d).
 
-([Pub. L. 97–391, § 4][/us/pl/97/391/s4], Dec. 29, 1982, [96 Stat. 1961][/us/stat/96/1961]; [Pub. L. 100–139, § 7(a)][/us/pl/100/139/s7/a], Oct. 26, 1987, [101 Stat. 828][/us/stat/101/828].)
+([Pub. L. 97–391][/us/pl/97/391], § 4, Dec. 29, 1982, [96 Stat. 1961][/us/stat/96/1961]; [Pub. L. 100–139][/us/pl/100/139], § 7(a), Oct. 26, 1987, [101 Stat. 828][/us/stat/101/828].)
 
  __Amendments__ 
 
@@ -48,9 +48,9 @@
 ----------
 ----------
 
-[/us/pl/97/391/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F391%2Fs4
+[/us/pl/97/391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F391
 [/us/stat/96/1961]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1961
-[/us/pl/100/139/s7/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F139%2Fs7%2Fa
+[/us/pl/100/139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F139
 [/us/stat/101/828]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F828
 [/us/pl/100/139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F139
 

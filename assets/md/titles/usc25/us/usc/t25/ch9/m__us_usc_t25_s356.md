@@ -17,7 +17,7 @@
 
     No undisputed claims to be paid from individual moneys of restricted allottees, or their heirs, or uncontested agricultural and mineral leases (excluding oil and gas leases) made by individual restricted Indian allottees, or their heirs, shall be forwarded to the Secretary of the Interior for approval, but all such undisputed claims or uncontested leases (except oil and gas leases) shall be paid, approved, rejected, or disapproved by the Superintendent for the Five Civilized Tribes of Oklahoma: Provided, however, That any party aggrieved by any decision or order of the Superintendent for the Five Civilized Tribes of Oklahoma may appeal from the same to the Secretary of the Interior within thirty days from the date of said decision or order.
 
-([Feb. 14, 1920, ch. 75, § 18][/us/act/1920-02-14/ch75/s18], [41 Stat. 426][/us/stat/41/426].)
+([Feb. 14, 1920, ch. 75][/us/act/1920-02-14/ch75], § 18, [41 Stat. 426][/us/stat/41/426].)
 
  __Codification__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/act/1920-02-14/ch75/s18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-02-14%2Fch75%2Fs18
+[/us/act/1920-02-14/ch75]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-02-14%2Fch75
 [/us/stat/41/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F426
 [/us/stat/64/1262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1262
 

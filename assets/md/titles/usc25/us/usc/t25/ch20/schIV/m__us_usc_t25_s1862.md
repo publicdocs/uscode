@@ -59,7 +59,7 @@
 
             (B) multiplying the quotient described in subparagraph (A) by the Indian student count of each such institution for the prior academic year.
 
-([Pub. L. 95–471, title V, § 502][/us/pl/95/471/s502], as added [Pub. L. 110–315, title IX, § 941(j)(1)][/us/pl/110/315/s941/j/1], Aug. 14, 2008, [122 Stat. 3463][/us/stat/122/3463].)
+([Pub. L. 95–471, title V][/us/pl/95/471/tV], § 502, as added [Pub. L. 110–315, title IX][/us/pl/110/315/tIX], § 941(j)(1), Aug. 14, 2008, [122 Stat. 3463][/us/stat/122/3463].)
 
 ----------
 
@@ -72,8 +72,8 @@
 [/us/usc/t25/s1864]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1864
 [/us/usc/t25/s1864]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1864
 [/us/usc/t20/s2327/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs2327%2Fh
-[/us/pl/95/471/s502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F471%2Fs502
-[/us/pl/110/315/s941/j/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs941%2Fj%2F1
+[/us/pl/95/471/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F471%2FtV
+[/us/pl/110/315/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtIX
 [/us/stat/122/3463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3463
 
 

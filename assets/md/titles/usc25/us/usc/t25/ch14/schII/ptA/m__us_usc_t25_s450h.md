@@ -55,31 +55,31 @@
 
         (2) the planning, designing, monitoring, and evaluating of Federal programs serving the tribe, including Federal administrative functions.
 
-([Pub. L. 93–638, title I, § 103][/us/pl/93/638/s103], formerly § 104, Jan. 4, 1975, [88 Stat. 2207][/us/stat/88/2207]; renumbered § 103 and amended [Pub. L. 100–472, title II, § 202][/us/pl/100/472/s202], Oct. 5, 1988, [102 Stat. 2289][/us/stat/102/2289]; [Pub. L. 101–644, title II, § 203(g)(1)][/us/pl/101/644/s203/g/1], Nov. 29, 1990, [104 Stat. 4666][/us/stat/104/4666].)
+([Pub. L. 93–638, title I][/us/pl/93/638/tI], § 103, formerly § 104, Jan. 4, 1975, [88 Stat. 2207][/us/stat/88/2207]; renumbered § 103 and amended [Pub. L. 100–472, title II][/us/pl/100/472/tII], § 202, Oct. 5, 1988, [102 Stat. 2289][/us/stat/102/2289]; [Pub. L. 101–644, title II][/us/pl/101/644/tII], § 203(g)(1), Nov. 29, 1990, [104 Stat. 4666][/us/stat/104/4666].)
 
  __References in Text__ 
 
-    [Section 450g of this title][/us/usc/t25/s450g], referred to in subsec. (b)(2), was in the original “section 103 of this Act”, meaning [section 103 of Pub. L. 93–638][/us/pl/93/638/s103], the Indian Self-Determination Act. Section 103(a) and (b) and the first sentence of [section 103(c) of Pub. L. 93–638][/us/pl/93/638/s103/c] were repealed, and the remainder of [section 103(c) of Pub. L. 93–638][/us/pl/93/638/s103/c] was redesignated as [section 102(d) of Pub. L. 93–638][/us/pl/93/638/s102/d] ([section 450f(d) of this title][/us/usc/t25/s450f/d]) by [Pub. L. 100–472, title II, § 201(b)(1)][/us/pl/100/472/s201/b/1], Oct. 5, 1988, [102 Stat. 2289][/us/stat/102/2289]. [Section 104 of Pub. L. 93–638][/us/pl/93/638/s104] was renumbered as [section 103 of Pub. L. 93–638][/us/pl/93/638/s103] by [section 202(a) of Pub. L. 100–472][/us/pl/100/472/s202/a], and is classified to this section.
+    [Section 450g of this title][/us/usc/t25/s450g], referred to in subsec. (b)(2), was in the original “section 103 of this Act”, meaning [section 103 of Pub. L. 93–638][/us/pl/93/638/s103], the Indian Self-Determination Act. Section 103(a) and (b) and the first sentence of [section 103(c) of Pub. L. 93–638][/us/pl/93/638/s103/c] were repealed, and the remainder of [section 103(c) of Pub. L. 93–638][/us/pl/93/638/s103/c] was redesignated as [section 102(d) of Pub. L. 93–638][/us/pl/93/638/s102/d] ([section 450f(d) of this title][/us/usc/t25/s450f/d]) by [Pub. L. 100–472, title II][/us/pl/100/472/tII], § 201(b)(1), Oct. 5, 1988, [102 Stat. 2289][/us/stat/102/2289]. [Section 104 of Pub. L. 93–638][/us/pl/93/638/s104] was renumbered as [section 103 of Pub. L. 93–638][/us/pl/93/638/s103] by [section 202(a) of Pub. L. 100–472][/us/pl/100/472/s202/a], and is classified to this section.
 
     This subchapter, referred to in subsec. (d)(1), was in the original “this Act”, meaning [Pub. L. 93–638][/us/pl/93/638], Jan. 4, 1975, [88 Stat. 2203][/us/stat/88/2203], known as the Indian Self-Determination and Education Assistance Act, which is classified principally to this subchapter. For complete classification of this Act to the Code, see Short Title note set out under [section 450 of this title][/us/usc/t25/s450] and Tables.
 
  __Prior Provisions__ 
 
-    A prior [section 103 of Pub. L. 93–638][/us/pl/93/638/s103] was classified to [section 450g of this title][/us/usc/t25/s450g] and was repealed in part and transferred in part by [Pub. L. 100–472, title II, § 201(b)(1)][/us/pl/100/472/s201/b/1], Oct. 5, 1988, [102 Stat. 2289][/us/stat/102/2289].
+    A prior [section 103 of Pub. L. 93–638][/us/pl/93/638/s103] was classified to [section 450g of this title][/us/usc/t25/s450g] and was repealed in part and transferred in part by [Pub. L. 100–472, title II][/us/pl/100/472/tII], § 201(b)(1), Oct. 5, 1988, [102 Stat. 2289][/us/stat/102/2289].
 
  __Amendments__ 
 
     1990—Subsec. (a)(3). [Pub. L. 101–644][/us/pl/101/644], which directed the substitution of “Indian country (as defined in chapter 53 of title 18)” for “reservation boundaries” in “section 301(a)(3) of the Indian Self-Determination Act ([25 U.S.C. 450h(a)(3)][/us/usc/t25/s450h/a/3])”, was executed to this section, section 103(a)(3) of that Act, to reflect the probable intent of Congress.
 
-    1988—Subsec. (a). [Pub. L. 100–472, § 202(b)][/us/pl/100/472/s202/b], inserted “or” at end of par. (2), substituted a period for “; or” at end of par. (3), and struck out par. (4) which read as follows: “the planning, designing, monitoring, and evaluating of Federal programs serving the tribe.”
+    1988—Subsec. (a). [Pub. L. 100–472][/us/pl/100/472], § 202(b), inserted “or” at end of par. (2), substituted a period for “; or” at end of par. (3), and struck out par. (4) which read as follows: “the planning, designing, monitoring, and evaluating of Federal programs serving the tribe.”
 
-    Subsec. (b). [Pub. L. 100–472, § 202(c)][/us/pl/100/472/s202/c], substituted “Health and Human Services” for “Health, Education, and Welfare”.
+    Subsec. (b). [Pub. L. 100–472][/us/pl/100/472], § 202(c), substituted “Health and Human Services” for “Health, Education, and Welfare”.
 
-    Subsecs. (d), (e). [Pub. L. 100–472, § 202(d)][/us/pl/100/472/s202/d], added subsecs. (d) and (e).
+    Subsecs. (d), (e). [Pub. L. 100–472][/us/pl/100/472], § 202(d), added subsecs. (d) and (e).
 
  __Authority of Secretary To Acquire Lands In Trust__ 
 
-[Pub. L. 101–644, title II, § 203(g)(2)][/us/pl/101/644/s203/g/2], Nov. 29, 1990, [104 Stat. 4666][/us/stat/104/4666], provided that: 
+[Pub. L. 101–644, title II][/us/pl/101/644/tII], § 203(g)(2), Nov. 29, 1990, [104 Stat. 4666][/us/stat/104/4666], provided that: 
 
 > “The amendment made by paragraph (1) \[amending this section\] shall not alter or otherwise modify or affect existing prohibitions or limitations on the Secretary’s authority to acquire lands in trust.”
 
@@ -95,11 +95,11 @@
 [/us/usc/t25/s450k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450k
 [/us/usc/t25/s450f/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450f%2Fa%2F1
 [/us/usc/t25/s450f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450f
-[/us/pl/93/638/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638%2Fs103
+[/us/pl/93/638/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638%2FtI
 [/us/stat/88/2207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2207
-[/us/pl/100/472/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F472%2Fs202
+[/us/pl/100/472/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F472%2FtII
 [/us/stat/102/2289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2289
-[/us/pl/101/644/s203/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F644%2Fs203%2Fg%2F1
+[/us/pl/101/644/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F644%2FtII
 [/us/stat/104/4666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4666
 [/us/usc/t25/s450g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450g
 [/us/pl/93/638/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638%2Fs103
@@ -107,7 +107,7 @@
 [/us/pl/93/638/s103/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638%2Fs103%2Fc
 [/us/pl/93/638/s102/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638%2Fs102%2Fd
 [/us/usc/t25/s450f/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450f%2Fd
-[/us/pl/100/472/s201/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F472%2Fs201%2Fb%2F1
+[/us/pl/100/472/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F472%2FtII
 [/us/stat/102/2289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2289
 [/us/pl/93/638/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638%2Fs104
 [/us/pl/93/638/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638%2Fs103
@@ -117,14 +117,14 @@
 [/us/usc/t25/s450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450
 [/us/pl/93/638/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638%2Fs103
 [/us/usc/t25/s450g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450g
-[/us/pl/100/472/s201/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F472%2Fs201%2Fb%2F1
+[/us/pl/100/472/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F472%2FtII
 [/us/stat/102/2289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2289
 [/us/pl/101/644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F644
 [/us/usc/t25/s450h/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450h%2Fa%2F3
-[/us/pl/100/472/s202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F472%2Fs202%2Fb
-[/us/pl/100/472/s202/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F472%2Fs202%2Fc
-[/us/pl/100/472/s202/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F472%2Fs202%2Fd
-[/us/pl/101/644/s203/g/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F644%2Fs203%2Fg%2F2
+[/us/pl/100/472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F472
+[/us/pl/100/472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F472
+[/us/pl/100/472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F472
+[/us/pl/101/644/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F644%2FtII
 [/us/stat/104/4666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4666
 
 

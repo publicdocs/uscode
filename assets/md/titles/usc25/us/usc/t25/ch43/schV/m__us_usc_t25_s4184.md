@@ -17,7 +17,7 @@
 
     Nothing in this chapter or an amendment made by this chapter prohibits or prevents any participating jurisdiction (within the meaning of the HOME Investment Partnerships Act ([42 U.S.C. 12721][/us/usc/t42/s12721] et seq.)) from providing any amounts made available to the participating jurisdiction under that Act ([42 U.S.C. 12721][/us/usc/t42/s12721] et seq.) to an Indian tribe or a tribally designated housing entity for use in accordance with that Act ([42 U.S.C. 12721][/us/usc/t42/s12721] et seq.).
 
-([Pub. L. 104–330, title V, § 509][/us/pl/104/330/s509], as added [Pub. L. 110–411, title V, § 501(a)][/us/pl/110/411/s501/a], Oct. 14, 2008, [122 Stat. 4331][/us/stat/122/4331].)
+([Pub. L. 104–330, title V][/us/pl/104/330/tV], § 509, as added [Pub. L. 110–411, title V][/us/pl/110/411/tV], § 501(a), Oct. 14, 2008, [122 Stat. 4331][/us/stat/122/4331].)
 
  __References in Text__ 
 
@@ -35,8 +35,8 @@
 [/us/usc/t42/s12721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12721
 [/us/usc/t42/s12721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12721
 [/us/usc/t42/s12721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12721
-[/us/pl/104/330/s509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330%2Fs509
-[/us/pl/110/411/s501/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F411%2Fs501%2Fa
+[/us/pl/104/330/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330%2FtV
+[/us/pl/110/411/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F411%2FtV
 [/us/stat/122/4331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4331
 [/us/pl/104/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330
 [/us/stat/110/4016]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F4016

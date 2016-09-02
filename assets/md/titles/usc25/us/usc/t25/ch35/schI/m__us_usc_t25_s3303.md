@@ -31,7 +31,7 @@
 
         Grants provided under this subchapter may not be terminated, modified, suspended, or reduced only for the convenience of the administering agency.
 
-([Pub. L. 102–325, title XIII, § 1313][/us/pl/102/325/s1313], July 23, 1992, [106 Stat. 798][/us/stat/106/798].)
+([Pub. L. 102–325, title XIII][/us/pl/102/325/tXIII], § 1313, July 23, 1992, [106 Stat. 798][/us/stat/106/798].)
 
 ----------
 
@@ -41,7 +41,7 @@
 ----------
 
 [/us/usc/t25/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs13
-[/us/pl/102/325/s1313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs1313
+[/us/pl/102/325/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2FtXIII
 [/us/stat/106/798]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F798
 
 

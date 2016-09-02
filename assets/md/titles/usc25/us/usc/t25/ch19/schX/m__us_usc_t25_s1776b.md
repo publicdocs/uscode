@@ -41,7 +41,7 @@
 
             If, with respect to the enforcement of the Settlement Agreement, the remedies available under the provisions referred to in paragraph (1) do not provide adequate or complete relief, the Settlement Agreement shall be subject to the enforcement provisions under [section 1505 of title 28][/us/usc/t28/s1505].
 
-([Pub. L. 103–444, § 4][/us/pl/103/444/s4], Nov. 2, 1994, [108 Stat. 4634][/us/stat/108/4634].)
+([Pub. L. 103–444][/us/pl/103/444], § 4, Nov. 2, 1994, [108 Stat. 4634][/us/stat/108/4634].)
 
 ----------
 
@@ -52,7 +52,7 @@
 
 [/us/usc/t25/s1776g/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1776g%2Fa
 [/us/usc/t28/s1505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1505
-[/us/pl/103/444/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F444%2Fs4
+[/us/pl/103/444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F444
 [/us/stat/108/4634]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4634
 
 

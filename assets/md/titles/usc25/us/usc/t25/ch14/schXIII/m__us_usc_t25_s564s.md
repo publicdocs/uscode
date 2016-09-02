@@ -17,7 +17,7 @@
 
     The Secretary is authorized to set off against any indebtedness payable to the tribe or to the United States by an individual member of the tribe or payable to the United States by the tribe, any funds payable to such individual or tribe under this subchapter and to deposit the amounts set off to the credit of the tribe or the United States as the case may be.
 
-([Aug. 13, 1954, ch. 732, § 20][/us/act/1954-08-13/ch732/s20], [68 Stat. 723][/us/stat/68/723].)
+([Aug. 13, 1954, ch. 732][/us/act/1954-08-13/ch732], § 20, [68 Stat. 723][/us/stat/68/723].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1954-08-13/ch732/s20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-13%2Fch732%2Fs20
+[/us/act/1954-08-13/ch732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-13%2Fch732
 [/us/stat/68/723]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F723
 
 

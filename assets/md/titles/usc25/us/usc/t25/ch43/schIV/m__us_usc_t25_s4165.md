@@ -65,7 +65,7 @@
 
         Subject to [section 4161(a) of this title][/us/usc/t25/s4161/a], after reviewing the reports and audits relating to a recipient that are submitted to the Secretary under this section, the Secretary may adjust the amount of a grant made to a recipient under this chapter in accordance with the findings of the Secretary with respect to those reports and audits.
 
-([Pub. L. 104–330, title IV, § 405][/us/pl/104/330/s405], Oct. 26, 1996, [110 Stat. 4040][/us/stat/110/4040]; [Pub. L. 106–568, title X, § 1003(f)(2)][/us/pl/106/568/s1003/f/2], Dec. 27, 2000, [114 Stat. 2927][/us/stat/114/2927]; [Pub. L. 106–569, title V, § 503(e)(2)][/us/pl/106/569/s503/e/2], Dec. 27, 2000, [114 Stat. 2963][/us/stat/114/2963].)
+([Pub. L. 104–330, title IV][/us/pl/104/330/tIV], § 405, Oct. 26, 1996, [110 Stat. 4040][/us/stat/110/4040]; [Pub. L. 106–568, title X][/us/pl/106/568/tX], § 1003(f)(2), Dec. 27, 2000, [114 Stat. 2927][/us/stat/114/2927]; [Pub. L. 106–569, title V][/us/pl/106/569/tV], § 503(e)(2), Dec. 27, 2000, [114 Stat. 2963][/us/stat/114/2963].)
 
  __References in Text__ 
 
@@ -88,11 +88,11 @@
 
 [/us/usc/t25/s4164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs4164
 [/us/usc/t25/s4161/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs4161%2Fa
-[/us/pl/104/330/s405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330%2Fs405
+[/us/pl/104/330/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330%2FtIV
 [/us/stat/110/4040]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F4040
-[/us/pl/106/568/s1003/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F568%2Fs1003%2Ff%2F2
+[/us/pl/106/568/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F568%2FtX
 [/us/stat/114/2927]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2927
-[/us/pl/106/569/s503/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs503%2Fe%2F2
+[/us/pl/106/569/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2FtV
 [/us/stat/114/2963]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2963
 [/us/pl/104/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330
 [/us/stat/110/4016]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F4016

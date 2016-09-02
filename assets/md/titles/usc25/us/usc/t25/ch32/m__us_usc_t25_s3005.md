@@ -55,7 +55,7 @@
 
         Any museum which repatriates any item in good faith pursuant to this chapter shall not be liable for claims by an aggrieved party or for claims of breach of fiduciary duty, public trust, or violations of state  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be capitalized. </sup></sup>  law that are inconsistent with the provisions of this chapter.
 
-([Pub. L. 101–601, § 7][/us/pl/101/601/s7], Nov. 16, 1990, [104 Stat. 3054][/us/stat/104/3054].)
+([Pub. L. 101–601][/us/pl/101/601], § 7, Nov. 16, 1990, [104 Stat. 3054][/us/stat/104/3054].)
 
  __References in Text__ 
 
@@ -72,7 +72,7 @@
 [/us/usc/t25/s3004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs3004
 [/us/usc/t25/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs3003
 [/us/usc/t25/s3004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs3004
-[/us/pl/101/601/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F601%2Fs7
+[/us/pl/101/601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F601
 [/us/stat/104/3054]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3054
 [/us/pl/101/601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F601
 [/us/stat/104/3048]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3048

@@ -17,7 +17,7 @@
 
     The Congress reaffirms and acknowledges that the Central Council of Tlingit and Haida Indian Tribes of Alaska is a federally recognized Indian tribe.
 
-([Pub. L. 103–454, title II, § 203][/us/pl/103/454/s203], Nov. 2, 1994, [108 Stat. 4792][/us/stat/108/4792].)
+([Pub. L. 103–454, title II][/us/pl/103/454/tII], § 203, Nov. 2, 1994, [108 Stat. 4792][/us/stat/108/4792].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/103/454/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F454%2Fs203
+[/us/pl/103/454/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F454%2FtII
 [/us/stat/108/4792]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4792
 
 

@@ -23,7 +23,7 @@
 
     until after the authorized officials of the Seneca Nation execute new leases with all lessees who accept the Seneca Nation’s offer of a new lease, as filed with the Secretary under [section 1774b(a) of this title][/us/usc/t25/s1774b/a], and execute appropriate documents relinquishing all claims for payment of annual rents prior to February 20, 1991, with respect to such leases.
 
-([Pub. L. 101–503, § 7][/us/pl/101/503/s7], Nov. 3, 1990, [104 Stat. 1296][/us/stat/104/1296].)
+([Pub. L. 101–503][/us/pl/101/503], § 7, Nov. 3, 1990, [104 Stat. 1296][/us/stat/104/1296].)
 
 ----------
 
@@ -35,7 +35,7 @@
 [/us/usc/t25/s1774d/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1774d%2Fb
 [/us/usc/t25/s1774d/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1774d%2Fc
 [/us/usc/t25/s1774b/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1774b%2Fa
-[/us/pl/101/503/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F503%2Fs7
+[/us/pl/101/503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F503
 [/us/stat/104/1296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1296
 
 

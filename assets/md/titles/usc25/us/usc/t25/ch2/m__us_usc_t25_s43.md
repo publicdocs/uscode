@@ -17,7 +17,7 @@
 
     No person employed by the United States and paid for any other service shall be paid for interpreting.
 
-([Apr. 4, 1910, ch. 140, § 2][/us/act/1910-04-04/ch140/s2], [36 Stat. 272][/us/stat/36/272].)
+([Apr. 4, 1910, ch. 140][/us/act/1910-04-04/ch140], § 2, [36 Stat. 272][/us/stat/36/272].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1910-04-04/ch140/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1910-04-04%2Fch140%2Fs2
+[/us/act/1910-04-04/ch140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1910-04-04%2Fch140
 [/us/stat/36/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F272
 
 

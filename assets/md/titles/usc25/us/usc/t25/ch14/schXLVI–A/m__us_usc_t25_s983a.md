@@ -17,7 +17,7 @@
 
     Federal recognition is hereby extended to the Ponca Tribe of Nebraska. All Federal laws of general application to Indians and Indian tribes (including the Act of June 18, 1934 ([48 Stat. 984][/us/stat/48/984]; [25 U.S.C. 461][/us/usc/t25/s461], et seq.), popularly known as the Indian Reorganization Act) shall apply with respect to the Tribe and to the members.
 
-([Pub. L. 101–484, § 3][/us/pl/101/484/s3], Oct. 31, 1990, [104 Stat. 1167][/us/stat/104/1167].)
+([Pub. L. 101–484][/us/pl/101/484], § 3, Oct. 31, 1990, [104 Stat. 1167][/us/stat/104/1167].)
 
  __References in Text__ 
 
@@ -32,7 +32,7 @@
 
 [/us/stat/48/984]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F984
 [/us/usc/t25/s461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs461
-[/us/pl/101/484/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F484%2Fs3
+[/us/pl/101/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F484
 [/us/stat/104/1167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1167
 [/us/usc/t25/s461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs461
 

@@ -41,7 +41,7 @@
 
         All assistance provided pursuant to subsection (b) shall be made available on a site-specific basis in accordance with priorities developed by the Director. Priorities on specific Indian lands or Alaska Native lands shall be developed in consultation with the Indian tribal government or Alaska Native entity. The priorities shall take into account the relative severity of the threat to public health and the environment posed by each open dump and the availability of funds necessary for closure and postclosure maintenance.
 
-([Pub. L. 103–399, § 5][/us/pl/103/399/s5], Oct. 22, 1994, [108 Stat. 4166][/us/stat/108/4166].)
+([Pub. L. 103–399][/us/pl/103/399], § 5, Oct. 22, 1994, [108 Stat. 4166][/us/stat/108/4166].)
 
 ----------
 
@@ -50,7 +50,7 @@
 ----------
 ----------
 
-[/us/pl/103/399/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F399%2Fs5
+[/us/pl/103/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F399
 [/us/stat/108/4166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4166
 
 

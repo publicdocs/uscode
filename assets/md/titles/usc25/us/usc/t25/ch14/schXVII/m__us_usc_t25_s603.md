@@ -17,7 +17,7 @@
 
     Corrections in the roll prepared hereunder, by striking therefrom the name of any person erroneously placed on the roll or by adding to the roll the name of any person erroneously omitted therefrom, may be made at any time by the Yakima Tribal Council.
 
-([Aug. 9, 1946, ch. 933, § 3][/us/act/1946-08-09/ch933/s3], [60 Stat. 969][/us/stat/60/969].)
+([Aug. 9, 1946, ch. 933][/us/act/1946-08-09/ch933], § 3, [60 Stat. 969][/us/stat/60/969].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1946-08-09/ch933/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-09%2Fch933%2Fs3
+[/us/act/1946-08-09/ch933]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-09%2Fch933
 [/us/stat/60/969]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F969
 [/us/act/1946-08-09/ch933]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-09%2Fch933
 [/us/stat/60/968]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F968

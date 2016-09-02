@@ -17,7 +17,7 @@
 
     Loans may be made for any purpose which will promote the economic development of (a) the individual Indian borrower, including loans for educational purposes, and (b) the Indian organization and its members including loans by such organizations to other organizations and investments in other organizations regardless of whether they are organizations of Indians: Provided, That not more than 50 per centum of loan made to an organization shall be used by such organization for the purpose of making loans to or investments in non-Indian organizations.
 
-([Pub. L. 93–262, title I, § 102][/us/pl/93/262/s102], Apr. 12, 1974, [88 Stat. 78][/us/stat/88/78].)
+([Pub. L. 93–262, title I][/us/pl/93/262/tI], § 102, Apr. 12, 1974, [88 Stat. 78][/us/stat/88/78].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/93/262/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F262%2Fs102
+[/us/pl/93/262/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F262%2FtI
 [/us/stat/88/78]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F78
 
 

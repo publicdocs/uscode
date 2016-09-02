@@ -35,13 +35,13 @@
 
         The Director shall, at least once every 3 to 5 years, conduct a comprehensive evaluation of Bureau-operated schools. Such evaluation shall be in addition to any other program review or evaluation that may be required under Federal law.
 
-([Pub. L. 95–561, title XI, § 1135][/us/pl/95/561/s1135], as added [Pub. L. 107–110, title X, § 1042][/us/pl/107/110/s1042], Jan. 8, 2002, [115 Stat. 2056][/us/stat/115/2056].)
+([Pub. L. 95–561, title XI][/us/pl/95/561/tXI], § 1135, as added [Pub. L. 107–110, title X][/us/pl/107/110/tX], § 1042, Jan. 8, 2002, [115 Stat. 2056][/us/stat/115/2056].)
 
  __Prior Provisions__ 
 
-    A prior section 2015, [Pub. L. 95–561, title XI, § 1135][/us/pl/95/561/s1135], as added [Pub. L. 103–382, title III, § 381][/us/pl/103/382/s381], Oct. 20, 1994, [108 Stat. 4010][/us/stat/108/4010], related to uniform education procedures and practices, prior to the general amendment of this chapter by [Pub. L. 107–110][/us/pl/107/110].
+    A prior section 2015, [Pub. L. 95–561, title XI][/us/pl/95/561/tXI], § 1135, as added [Pub. L. 103–382, title III][/us/pl/103/382/tIII], § 381, Oct. 20, 1994, [108 Stat. 4010][/us/stat/108/4010], related to uniform education procedures and practices, prior to the general amendment of this chapter by [Pub. L. 107–110][/us/pl/107/110].
 
-    Another prior section 2015, [Pub. L. 95–561, title XI, § 1135][/us/pl/95/561/s1135], Nov. 1, 1978, [92 Stat. 2327][/us/stat/92/2327], related to recruitment policy for Indian educators and promotion plan for Bureau employees, prior to the general amendment of this chapter by [Pub. L. 103–382][/us/pl/103/382].
+    Another prior section 2015, [Pub. L. 95–561, title XI][/us/pl/95/561/tXI], § 1135, Nov. 1, 1978, [92 Stat. 2327][/us/stat/92/2327], related to recruitment policy for Indian educators and promotion plan for Bureau employees, prior to the general amendment of this chapter by [Pub. L. 103–382][/us/pl/103/382].
 
 ----------
 
@@ -52,14 +52,14 @@
 
 [/us/usc/t31/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105
 [/us/usc/t25/s2010]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs2010
-[/us/pl/95/561/s1135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2Fs1135
-[/us/pl/107/110/s1042]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2Fs1042
+[/us/pl/95/561/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2FtXI
+[/us/pl/107/110/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2FtX
 [/us/stat/115/2056]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F2056
-[/us/pl/95/561/s1135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2Fs1135
-[/us/pl/103/382/s381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs381
+[/us/pl/95/561/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2FtXI
+[/us/pl/103/382/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2FtIII
 [/us/stat/108/4010]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4010
 [/us/pl/107/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110
-[/us/pl/95/561/s1135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2Fs1135
+[/us/pl/95/561/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2FtXI
 [/us/stat/92/2327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2327
 [/us/pl/103/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382
 

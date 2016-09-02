@@ -81,7 +81,7 @@
 
         Notwithstanding any other provision of law, no portion of the principal of the Crow Tribal Trust Fund shall be available for withdrawal or disbursement or used for any purpose other than the purposes specified in this section and [section 1776h of this title][/us/usc/t25/s1776h].
 
-([Pub. L. 103–444, § 6][/us/pl/103/444/s6], Nov. 2, 1994, [108 Stat. 4638][/us/stat/108/4638]; amended [Pub. L. 103–435, § 23][/us/pl/103/435/s23], Nov. 2, 1994, [108 Stat. 4575][/us/stat/108/4575].)
+([Pub. L. 103–444][/us/pl/103/444], § 6, Nov. 2, 1994, [108 Stat. 4638][/us/stat/108/4638]; amended [Pub. L. 103–435][/us/pl/103/435], § 23, Nov. 2, 1994, [108 Stat. 4575][/us/stat/108/4575].)
 
  __Amendments__ 
 
@@ -100,9 +100,9 @@
 [/us/usc/t25/s161a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs161a
 [/us/usc/t25/s1776g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1776g
 [/us/usc/t25/s1776h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1776h
-[/us/pl/103/444/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F444%2Fs6
+[/us/pl/103/444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F444
 [/us/stat/108/4638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4638
-[/us/pl/103/435/s23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F435%2Fs23
+[/us/pl/103/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F435
 [/us/stat/108/4575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4575
 [/us/pl/103/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F435
 

@@ -17,7 +17,7 @@
 
     The Secretary is authorized to prescribe such regulations as may be necessary to carry out the purposes of sections 608 to 608c of this title.
 
-([July 28, 1955, ch. 423, § 4][/us/act/1955-07-28/ch423/s4], [69 Stat. 393][/us/stat/69/393].)
+([July 28, 1955, ch. 423][/us/act/1955-07-28/ch423], § 4, [69 Stat. 393][/us/stat/69/393].)
 
  __Codification__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1955-07-28/ch423/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-28%2Fch423%2Fs4
+[/us/act/1955-07-28/ch423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-28%2Fch423
 [/us/stat/69/393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F393
 [/us/act/1946-08-09/ch933]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-09%2Fch933
 [/us/stat/60/968]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F968

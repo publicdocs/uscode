@@ -17,7 +17,7 @@
 
     From and after July 14, 1954, each grant of exchange assignment of tribal lands on the Cheyenne River Sioux Reservation and the Standing Rock Sioux Reservation shall have the same force and effect, and shall confer the same rights, including all timber, mineral, and water rights now vested in or held by the Cheyenne River Sioux Tribe or the Standing Rock Sioux Tribe, upon the holder or holders thereof, that are conveyed by a trust patent issued pursuant to [section 348 of this title][/us/usc/t25/s348], as supplemented, except that the period of trust and tax exemption shall continue until otherwise directed by Congress.
 
-([July 14, 1954, ch. 472, § 1][/us/act/1954-07-14/ch472/s1], [68 Stat. 467][/us/stat/68/467].)
+([July 14, 1954, ch. 472][/us/act/1954-07-14/ch472], § 1, [68 Stat. 467][/us/stat/68/467].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t25/s348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs348
-[/us/act/1954-07-14/ch472/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-07-14%2Fch472%2Fs1
+[/us/act/1954-07-14/ch472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-07-14%2Fch472
 [/us/stat/68/467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F467
 
 

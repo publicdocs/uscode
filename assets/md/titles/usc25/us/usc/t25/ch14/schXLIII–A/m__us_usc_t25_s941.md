@@ -61,21 +61,21 @@
 
         (5) to restore the trust relationship between the Tribe and the United States.
 
-([Pub. L. 103–116, § 2][/us/pl/103/116/s2], Oct. 27, 1993, [107 Stat. 1118][/us/stat/107/1118].)
+([Pub. L. 103–116][/us/pl/103/116], § 2, Oct. 27, 1993, [107 Stat. 1118][/us/stat/107/1118].)
 
  __References in Text__ 
 
     The Indian Reorganization Act, referred to in subsec. (a)(4)(C), is [act June 18, 1934, ch. 576][/us/act/1934-06-18/ch576], [48 Stat. 984][/us/stat/48/984], as amended, which is classified generally to subchapter V (§ 461 et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 461 of this title][/us/usc/t25/s461] and Tables.
 
-    The Catawba Tribe of South Carolina Division of Assets Act and the 1959 Act, referred to in subsec. (a)(4)(D), (E), probably mean [Pub. L. 86–322][/us/pl/86/322], Sept. 21, 1959, [73 Stat. 592][/us/stat/73/592], which was classified generally to subchapter XLIII (§ 931 et seq.) of this chapter prior to repeal by [Pub. L. 103–116, § 4(c)][/us/pl/103/116/s4/c], Oct. 27, 1993, [107 Stat. 1121][/us/stat/107/1121].
+    The Catawba Tribe of South Carolina Division of Assets Act and the 1959 Act, referred to in subsec. (a)(4)(D), (E), probably mean [Pub. L. 86–322][/us/pl/86/322], Sept. 21, 1959, [73 Stat. 592][/us/stat/73/592], which was classified generally to subchapter XLIII (§ 931 et seq.) of this chapter prior to repeal by [Pub. L. 103–116][/us/pl/103/116], § 4(c), Oct. 27, 1993, [107 Stat. 1121][/us/stat/107/1121].
 
-    Legislation suspending until October 1, 1993, the running of any unexpired statute of limitation applicable to the Tribe’s land claim, referred to in subsec. (a)(6), is [Pub. L. 102–339, § 3][/us/pl/102/339/s3], Aug. 11, 1992, [106 Stat. 869][/us/stat/106/869], which is not classified to the Code.
+    Legislation suspending until October 1, 1993, the running of any unexpired statute of limitation applicable to the Tribe’s land claim, referred to in subsec. (a)(6), is [Pub. L. 102–339][/us/pl/102/339], § 3, Aug. 11, 1992, [106 Stat. 869][/us/stat/106/869], which is not classified to the Code.
 
     This subchapter, referred to in subsec. (b), was in the original “this Act”, meaning [Pub. L. 103–116][/us/pl/103/116], Oct. 27, 1993, [107 Stat. 1118][/us/stat/107/1118], known as the Catawba Indian Tribe of South Carolina Land Claims Settlement Act of 1993, which is classified generally to this subchapter. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
 
  __Effective Date__ 
 
-[Pub. L. 103–116, § 17][/us/pl/103/116/s17], Oct. 27, 1993, [107 Stat. 1138][/us/stat/107/1138], provided that: 
+[Pub. L. 103–116][/us/pl/103/116], § 17, Oct. 27, 1993, [107 Stat. 1138][/us/stat/107/1138], provided that: 
 
 > “Except for sections 7, 8, and 12 \[enacting sections 941e, 941f and 941j of this title\], the provisions of this Act \[see Short Title note below\] shall become effective upon the transfer of the Existing Reservation under section 12 \[enacting [section 941j of this title][/us/usc/t25/s941j]\] to the Secretary.”
 
@@ -83,7 +83,7 @@
 
  __Short Title__ 
 
-[Pub. L. 103–116, § 1][/us/pl/103/116/s1], Oct. 27, 1993, [107 Stat. 1118][/us/stat/107/1118], provided that: 
+[Pub. L. 103–116][/us/pl/103/116], § 1, Oct. 27, 1993, [107 Stat. 1118][/us/stat/107/1118], provided that: 
 
 > “This Act \[enacting this subchapter and repealing subchapter XLIII (§ 931 et seq.) of this chapter\] may be cited as the ‘Catawba Indian Tribe of South Carolina Land Claims Settlement Act of 1993’.”
 
@@ -96,24 +96,24 @@
 
 [/us/usc/t25/s461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs461
 [/us/usc/t25/s931–938]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs931%E2%80%93938
-[/us/pl/103/116/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F116%2Fs2
+[/us/pl/103/116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F116
 [/us/stat/107/1118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1118
 [/us/act/1934-06-18/ch576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-18%2Fch576
 [/us/stat/48/984]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F984
 [/us/usc/t25/s461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs461
 [/us/pl/86/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F322
 [/us/stat/73/592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F592
-[/us/pl/103/116/s4/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F116%2Fs4%2Fc
+[/us/pl/103/116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F116
 [/us/stat/107/1121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1121
-[/us/pl/102/339/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F339%2Fs3
+[/us/pl/102/339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F339
 [/us/stat/106/869]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F869
 [/us/pl/103/116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F116
 [/us/stat/107/1118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1118
-[/us/pl/103/116/s17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F116%2Fs17
+[/us/pl/103/116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F116
 [/us/stat/107/1138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1138
 [/us/usc/t25/s941j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs941j
 [/us/pl/103/116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F116
-[/us/pl/103/116/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F116%2Fs1
+[/us/pl/103/116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F116
 [/us/stat/107/1118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1118
 
 

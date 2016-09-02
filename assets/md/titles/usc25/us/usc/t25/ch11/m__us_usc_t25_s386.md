@@ -17,7 +17,7 @@
 
     The Secretary of the Interior is authorized and directed to require the owners of irrigable land under any irrigation system constructed for the benefit of Indians and to which water for irrigation purposes can be delivered to begin partial reimbursement of the construction charges, where reimbursement is required by law, at such times and in such amounts as he may deem best; all payments hereunder to be credited on a per acre basis in favor of the land in behalf of which such payments shall have been made and to be deducted from the total per acre charge assessable against said land.
 
-([Feb. 14, 1920, ch. 75, § 1][/us/act/1920-02-14/ch75/s1], [41 Stat. 409][/us/stat/41/409].)
+([Feb. 14, 1920, ch. 75][/us/act/1920-02-14/ch75], § 1, [41 Stat. 409][/us/stat/41/409].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1920-02-14/ch75/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-02-14%2Fch75%2Fs1
+[/us/act/1920-02-14/ch75]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-02-14%2Fch75
 [/us/stat/41/409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F409
 
 

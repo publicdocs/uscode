@@ -17,7 +17,7 @@
 
     There is authorized to be appropriated for the purposes of sections 309 and 309a of this title the sum of $25,000,000 for each fiscal year, and not to exceed $1,500,000 of such sum shall be available for administrative purposes.
 
-([Aug. 3, 1956, ch. 930, § 2][/us/act/1956-08-03/ch930/s2], [70 Stat. 986][/us/stat/70/986]; [Pub. L. 87–273][/us/pl/87/273], Sept. 22, 1961, [75 Stat. 571][/us/stat/75/571]; [Pub. L. 88–230, § 1(b)][/us/pl/88/230/s1/b], Dec. 23, 1963, [77 Stat. 471][/us/stat/77/471]; [Pub. L. 89–14][/us/pl/89/14], Apr. 22, 1965, [79 Stat. 74][/us/stat/79/74]; [Pub. L. 90–252][/us/pl/90/252], Feb. 3, 1968, [82 Stat. 4][/us/stat/82/4].)
+([Aug. 3, 1956, ch. 930][/us/act/1956-08-03/ch930], § 2, [70 Stat. 986][/us/stat/70/986]; [Pub. L. 87–273][/us/pl/87/273], Sept. 22, 1961, [75 Stat. 571][/us/stat/75/571]; [Pub. L. 88–230][/us/pl/88/230], § 1(b), Dec. 23, 1963, [77 Stat. 471][/us/stat/77/471]; [Pub. L. 89–14][/us/pl/89/14], Apr. 22, 1965, [79 Stat. 74][/us/stat/79/74]; [Pub. L. 90–252][/us/pl/90/252], Feb. 3, 1968, [82 Stat. 4][/us/stat/82/4].)
 
  __Amendments__ 
 
@@ -36,11 +36,11 @@
 ----------
 ----------
 
-[/us/act/1956-08-03/ch930/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-03%2Fch930%2Fs2
+[/us/act/1956-08-03/ch930]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-03%2Fch930
 [/us/stat/70/986]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F986
 [/us/pl/87/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F273
 [/us/stat/75/571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F571
-[/us/pl/88/230/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F230%2Fs1%2Fb
+[/us/pl/88/230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F230
 [/us/stat/77/471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F471
 [/us/pl/89/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F14
 [/us/stat/79/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F74

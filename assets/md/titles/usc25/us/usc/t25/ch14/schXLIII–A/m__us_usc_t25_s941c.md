@@ -31,7 +31,7 @@
 
         The Secretary shall not be accountable or incur any liability for the collection, deposit, or management of the non-Federal contributions made pursuant to section 5.2 of the Settlement Agreement, or payment of such funds pursuant to [section 941d(g) of this title][/us/usc/t25/s941d/g], until such time as such funds are received by the Secretary.
 
-([Pub. L. 103–116, § 5][/us/pl/103/116/s5], Oct. 27, 1993, [107 Stat. 1122][/us/stat/107/1122].)
+([Pub. L. 103–116][/us/pl/103/116], § 5, Oct. 27, 1993, [107 Stat. 1122][/us/stat/107/1122].)
 
 ----------
 
@@ -47,7 +47,7 @@
 [/us/usc/t25/s941i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs941i
 [/us/usc/t25/s941d/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs941d%2Fg
 [/us/usc/t25/s941d/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs941d%2Fg
-[/us/pl/103/116/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F116%2Fs5
+[/us/pl/103/116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F116
 [/us/stat/107/1122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1122
 
 

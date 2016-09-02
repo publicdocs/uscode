@@ -27,7 +27,7 @@
 
         Application for enrollment shall be filed with the Area Director of the Bureau of Indian Affairs, Sacramento, California, on forms prescribed for that purpose.
 
-([Pub. L. 90–507, § 1][/us/pl/90/507/s1], Sept. 21, 1968, [82 Stat. 860][/us/stat/82/860].)
+([Pub. L. 90–507][/us/pl/90/507], § 1, Sept. 21, 1968, [82 Stat. 860][/us/stat/82/860].)
 
  __Codification__ 
 
@@ -41,7 +41,7 @@
 ----------
 
 [/us/usc/t25/s660/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs660%2Fb
-[/us/pl/90/507/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F507%2Fs1
+[/us/pl/90/507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F507
 [/us/stat/82/860]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F860
 [/us/act/1928-05-18/ch624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-05-18%2Fch624
 [/us/stat/45/602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F45%2F602

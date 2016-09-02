@@ -27,7 +27,7 @@
 
         Amounts may be expended from the fund only upon deposit by the State of Massachusetts into the fund of an amount equal to that amount to be expended by the United States so that both the United States and the State of Massachusetts bear one-half of the cost of the acquisition of lands under [section 1771d of this title][/us/usc/t25/s1771d].
 
-([Pub. L. 100–95, § 3][/us/pl/100/95/s3], Aug. 18, 1987, [101 Stat. 704][/us/stat/101/704].)
+([Pub. L. 100–95][/us/pl/100/95], § 3, Aug. 18, 1987, [101 Stat. 704][/us/stat/101/704].)
 
 ----------
 
@@ -37,7 +37,7 @@
 ----------
 
 [/us/usc/t25/s1771d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1771d
-[/us/pl/100/95/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F95%2Fs3
+[/us/pl/100/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F95
 [/us/stat/101/704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F704
 
 

@@ -17,7 +17,7 @@
 
     For the purpose of properly distributing the supplies appropriated for the Indian Service, it is made the duty of each agent in charge of Indians and having supplies to distribute, to make out, at the commencement of each fiscal year, rolls of the Indians entitled to supplies at the agency, with the names of the Indians and of the heads of families or lodges, with the number in each family or lodge, and to give out supplies to the heads of families, and not to the heads of tribes or bands, and not to give out supplies for a greater length of time than one week in advance.
 
-([Mar. 3, 1875, ch. 132, § 4][/us/act/1875-03-03/ch132/s4], [18 Stat. 449][/us/stat/18/449].)
+([Mar. 3, 1875, ch. 132][/us/act/1875-03-03/ch132], § 4, [18 Stat. 449][/us/stat/18/449].)
 
  __Indian Agents__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1875-03-03/ch132/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1875-03-03%2Fch132%2Fs4
+[/us/act/1875-03-03/ch132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1875-03-03%2Fch132
 [/us/stat/18/449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F18%2F449
 [/us/usc/t25/s64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs64
 

@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t25/ch14/schIX/m__us_usc_t25_s530.md) | [Next](./../../../../..//us/usc/t25/ch14/schX/m__us_usc_t25_s541.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fch14%2FschX)
+[Previous](./../../../../..//us/usc/t25/ch14/schIX/m__us_usc_t25_s531...535.md) | [Next](./../../../../..//us/usc/t25/ch14/schX/m__us_usc_t25_s541.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fch14%2FschX)
 
 ### SUBCHAPTER X—KLAMATH TRIBE: DISPOSITION OF CERTAIN TRIBAL FUNDS
 
 ----------
 
-[Previous](./../../../../..//us/usc/t25/ch14/schIX/m__us_usc_t25_s530.md) | [Next](./../../../../..//us/usc/t25/ch14/schX/m__us_usc_t25_s541.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fch14%2FschX)
+[Previous](./../../../../..//us/usc/t25/ch14/schIX/m__us_usc_t25_s531...535.md) | [Next](./../../../../..//us/usc/t25/ch14/schX/m__us_usc_t25_s541.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fch14%2FschX)
 
 ----------
 ----------

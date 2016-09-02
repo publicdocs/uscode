@@ -55,7 +55,7 @@
 
         There is authorized to be appropriated $500,000 for the Federal share for the purchase of the lands referred to in subsection (c)(9).
 
-([Pub. L. 101–41, § 4][/us/pl/101/41/s4], June 21, 1989, [103 Stat. 85][/us/stat/103/85].)
+([Pub. L. 101–41][/us/pl/101/41], § 4, June 21, 1989, [103 Stat. 85][/us/stat/103/85].)
 
 ----------
 
@@ -64,7 +64,7 @@
 ----------
 ----------
 
-[/us/pl/101/41/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F41%2Fs4
+[/us/pl/101/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F41
 [/us/stat/103/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F85
 
 

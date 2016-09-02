@@ -17,7 +17,7 @@
 
     The Secretary may make such rules and regulations as are necessary to carry out the purposes of this subchapter.
 
-([Pub. L. 99–398, § 10][/us/pl/99/398/s10], Aug. 27, 1986, [100 Stat. 852][/us/stat/100/852].)
+([Pub. L. 99–398][/us/pl/99/398], § 10, Aug. 27, 1986, [100 Stat. 852][/us/stat/100/852].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/99/398/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F398%2Fs10
+[/us/pl/99/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F398
 [/us/stat/100/852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F852
 
 

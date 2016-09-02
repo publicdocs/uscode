@@ -35,7 +35,7 @@
 
     (i) “Surety Bond” means a bid bond, payment bond, or performance bond as those terms are defined in [section 694a of title 15][/us/usc/t15/s694a].
 
-([Pub. L. 93–262, § 3][/us/pl/93/262/s3], Apr. 12, 1974, [88 Stat. 77][/us/stat/88/77]; [Pub. L. 100–442, § 5(b)][/us/pl/100/442/s5/b], Sept. 22, 1988, [102 Stat. 1764][/us/stat/102/1764].)
+([Pub. L. 93–262][/us/pl/93/262], § 3, Apr. 12, 1974, [88 Stat. 77][/us/stat/88/77]; [Pub. L. 100–442][/us/pl/100/442], § 5(b), Sept. 22, 1988, [102 Stat. 1764][/us/stat/102/1764].)
 
  __References in Text__ 
 
@@ -57,9 +57,9 @@
 [/us/usc/t43/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1601
 [/us/usc/t15/s694a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs694a
 [/us/usc/t15/s694a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs694a
-[/us/pl/93/262/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F262%2Fs3
+[/us/pl/93/262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F262
 [/us/stat/88/77]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F77
-[/us/pl/100/442/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F442%2Fs5%2Fb
+[/us/pl/100/442]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F442
 [/us/stat/102/1764]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1764
 [/us/pl/92/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F203
 [/us/stat/85/688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F688

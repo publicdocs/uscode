@@ -29,7 +29,7 @@
 
         The Secretary may require recipients of grant amounts under this chapter to submit to the Secretary such reports and other information as may be necessary in order for the Secretary to make the report required by subsection (a).
 
-([Pub. L. 104–330, title IV, § 407][/us/pl/104/330/s407], Oct. 26, 1996, [110 Stat. 4041][/us/stat/110/4041].)
+([Pub. L. 104–330, title IV][/us/pl/104/330/tIV], § 407, Oct. 26, 1996, [110 Stat. 4041][/us/stat/110/4041].)
 
  __References in Text__ 
 
@@ -46,7 +46,7 @@
 ----------
 ----------
 
-[/us/pl/104/330/s407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330%2Fs407
+[/us/pl/104/330/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330%2FtIV
 [/us/stat/110/4041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F4041
 [/us/pl/104/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330
 [/us/stat/110/4016]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F4016

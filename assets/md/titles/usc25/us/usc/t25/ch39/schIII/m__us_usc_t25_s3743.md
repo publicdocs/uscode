@@ -17,7 +17,7 @@
 
     If any provision of this chapter, or the application of any provision of this chapter to any person or circumstance, is held invalid, the application of such provision or circumstance and the remainder of this chapter shall not be affected thereby.
 
-([Pub. L. 103–177, title III, § 303][/us/pl/103/177/s303], Dec. 3, 1993, [107 Stat. 2022][/us/stat/107/2022].)
+([Pub. L. 103–177, title III][/us/pl/103/177/tIII], § 303, Dec. 3, 1993, [107 Stat. 2022][/us/stat/107/2022].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/103/177/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F177%2Fs303
+[/us/pl/103/177/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F177%2FtIII
 [/us/stat/107/2022]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2022
 
 

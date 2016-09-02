@@ -17,7 +17,7 @@
 
     For the purposes of this subchapter Ute Indian blood shall be determined in accordance with the constitution and bylaws of the tribe and all tribal ordinances in force and effect on August 27, 1954.
 
-([Aug. 27, 1954, ch. 1009, § 3][/us/act/1954-08-27/ch1009/s3], [68 Stat. 868][/us/stat/68/868].)
+([Aug. 27, 1954, ch. 1009][/us/act/1954-08-27/ch1009], § 3, [68 Stat. 868][/us/stat/68/868].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1954-08-27/ch1009/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-27%2Fch1009%2Fs3
+[/us/act/1954-08-27/ch1009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-27%2Fch1009
 [/us/stat/68/868]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F868
 
 

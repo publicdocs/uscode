@@ -17,7 +17,7 @@
 
     The funds appropriated by the Act of December 26, 1969 ([83 Stat. 447][/us/stat/83/447], 453), to pay a judgment in favor of the petitioners, the Delaware Tribe of Indians in docket 298, and the Absentee Delaware Tribe of Western Oklahoma, and others, in docket 72, together with any interest thereon, after payment of attorney fees, litigation expenses, and such expenses as may be necessary in effecting the provisions of this subchapter, shall be distributed as provided herein.
 
-([Pub. L. 92–456, § 1][/us/pl/92/456/s1], Oct. 3, 1972, [86 Stat. 762][/us/stat/86/762].)
+([Pub. L. 92–456][/us/pl/92/456], § 1, Oct. 3, 1972, [86 Stat. 762][/us/stat/86/762].)
 
  __References in Text__ 
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/stat/83/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F447
-[/us/pl/92/456/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F456%2Fs1
+[/us/pl/92/456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F456
 [/us/stat/86/762]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F762
 [/us/pl/91/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F166
 [/us/stat/83/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F447

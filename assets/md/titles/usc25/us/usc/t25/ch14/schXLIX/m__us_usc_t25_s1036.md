@@ -17,7 +17,7 @@
 
     No part of any of the funds distributed in accordance with this subchapter shall be subject to Federal or State income tax.
 
-([Pub. L. 88–457, § 6][/us/pl/88/457/s6], Aug. 20, 1964, [78 Stat. 556][/us/stat/78/556].)
+([Pub. L. 88–457][/us/pl/88/457], § 6, Aug. 20, 1964, [78 Stat. 556][/us/stat/78/556].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/88/457/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F457%2Fs6
+[/us/pl/88/457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F457
 [/us/stat/78/556]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F556
 
 

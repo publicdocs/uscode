@@ -31,7 +31,7 @@
 
         The authority provided by this chapter is in addition to, and not in derogation of, any authority that existed before August 18, 1990. The provisions of this chapter alter neither the civil or criminal jurisdiction of the United States, Indian tribes, States, or other political subdivisions or agencies, nor the law enforcement, investigative, or judicial authority of any Indian tribe, State, or political subdivision or agency thereof, or of any department, agency, court, or official of the United States other than the Secretary.
 
-([Pub. L. 101–379, § 7][/us/pl/101/379/s7], Aug. 18, 1990, [104 Stat. 476][/us/stat/104/476].)
+([Pub. L. 101–379][/us/pl/101/379], § 7, Aug. 18, 1990, [104 Stat. 476][/us/stat/104/476].)
 
 ----------
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/101/379/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F379%2Fs7
+[/us/pl/101/379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F379
 [/us/stat/104/476]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F476
 
 

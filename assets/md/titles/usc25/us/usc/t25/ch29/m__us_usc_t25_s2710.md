@@ -321,7 +321,7 @@
 
         For purposes of this section, by not later than the date that is 90 days after the date on which any tribal gaming ordinance or resolution is submitted to the Chairman, the Chairman shall approve such ordinance or resolution if it meets the requirements of this section. Any such ordinance or resolution not acted upon at the end of that 90-day period shall be considered to have been approved by the Chairman, but only to the extent such ordinance or resolution is consistent with the provisions of this chapter.
 
-([Pub. L. 100–497, § 11][/us/pl/100/497/s11], Oct. 17, 1988, [102 Stat. 2472][/us/stat/102/2472].)
+([Pub. L. 100–497][/us/pl/100/497], § 11, Oct. 17, 1988, [102 Stat. 2472][/us/stat/102/2472].)
 
  __References in Text__ 
 
@@ -345,7 +345,7 @@ For information regarding constitutionality of certain provisions of [section 11
 [/us/usc/t25/s2711/e/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs2711%2Fe%2F1%2FD
 [/us/usc/t15/s1175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1175
 [/us/usc/t25/s2711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs2711
-[/us/pl/100/497/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F497%2Fs11
+[/us/pl/100/497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F497
 [/us/stat/102/2472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2472
 [/us/pl/100/497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F497
 [/us/stat/102/2467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2467

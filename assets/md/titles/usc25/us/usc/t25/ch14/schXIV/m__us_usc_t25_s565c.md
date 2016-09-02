@@ -17,7 +17,7 @@
 
     Funds remaining in the United States Treasury to the credit of the said Klamath Tribe, or any of its constituent parts or groups, after the distribution of funds resulting from Indian Claims Commission docket numbered 100 as provided by sections 565a and 565b of this title, together with any other funds which may be deposited in the United States Treasury, including without limitation funds accruing from other judgments against the United States ( <sup>\[1\]</sup>  <sup><sup> 1 So in original. No closing parenthesis was enacted. </sup></sup>  after payment of expenses, including attorney fees, payments for rights-of-way, trespass damages, or other revenues, together with any interest accrued thereon, shall, after deduction of the estimated cost of distribution, be distributed from time to time as determined by the Secretary to the members of the Klamath Tribe or to the members of any of its constituent parts or groups in the same manner as provided in sections 565a and 565b of this title.
 
-([Pub. L. 89–224, § 4][/us/pl/89/224/s4], Oct. 1, 1965, [79 Stat. 897][/us/stat/79/897].)
+([Pub. L. 89–224][/us/pl/89/224], § 4, Oct. 1, 1965, [79 Stat. 897][/us/stat/79/897].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/89/224/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F224%2Fs4
+[/us/pl/89/224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F224
 [/us/stat/79/897]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F897
 
 

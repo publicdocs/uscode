@@ -17,7 +17,7 @@
 
     The Secretary of the Interior is authorized to issue rules and regulations necessary for the purposes of sections 781 to 785 of this title.
 
-([Aug. 1, 1955, ch. 444, § 6][/us/act/1955-08-01/ch444/s6], [69 Stat. 432][/us/stat/69/432].)
+([Aug. 1, 1955, ch. 444][/us/act/1955-08-01/ch444], § 6, [69 Stat. 432][/us/stat/69/432].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1955-08-01/ch444/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-01%2Fch444%2Fs6
+[/us/act/1955-08-01/ch444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-01%2Fch444
 [/us/stat/69/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F432
 
 

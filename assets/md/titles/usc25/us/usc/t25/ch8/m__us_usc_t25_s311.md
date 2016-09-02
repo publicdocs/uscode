@@ -17,7 +17,7 @@
 
     The Secretary of the Interior is authorized to grant permission, upon compliance with such requirements as he may deem necessary, to the proper State or local authorities for the opening and establishment of public highways, in accordance with the laws of the State or Territory in which the lands are situated, through any Indian reservation or through any lands which have been allotted in severalty to any individual Indian under any laws or treaties but which have not been conveyed to the allottee with full power of alienation.
 
-([Mar. 3, 1901, ch. 832, § 4][/us/act/1901-03-03/ch832/s4], [31 Stat. 1084][/us/stat/31/1084].)
+([Mar. 3, 1901, ch. 832][/us/act/1901-03-03/ch832], § 4, [31 Stat. 1084][/us/stat/31/1084].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1901-03-03/ch832/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1901-03-03%2Fch832%2Fs4
+[/us/act/1901-03-03/ch832]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1901-03-03%2Fch832
 [/us/stat/31/1084]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F31%2F1084
 
 

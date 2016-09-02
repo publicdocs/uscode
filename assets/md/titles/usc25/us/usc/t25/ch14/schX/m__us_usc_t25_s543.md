@@ -17,7 +17,7 @@
 
     In no event shall any portion of the said judgment fund become liable, payable, or subject to any debt or debts contracted prior to the passage of this subchapter by any Indian of the Klamath Tribe except debts to the United States or to the tribe.
 
-([Aug. 7, 1939, ch. 552, § 3][/us/act/1939-08-07/ch552/s3], [53 Stat. 1253][/us/stat/53/1253].)
+([Aug. 7, 1939, ch. 552][/us/act/1939-08-07/ch552], § 3, [53 Stat. 1253][/us/stat/53/1253].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1939-08-07/ch552/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-08-07%2Fch552%2Fs3
+[/us/act/1939-08-07/ch552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-08-07%2Fch552
 [/us/stat/53/1253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F1253
 
 

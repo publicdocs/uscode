@@ -31,11 +31,11 @@
 
         Funds to carry out the purposes of this section may be drawn from general administrative appropriations to the Secretary made after October 17, 1978.
 
-([Pub. L. 95–471, title I, § 115][/us/pl/95/471/s115], formerly § 114, Oct. 17, 1978, [92 Stat. 1329][/us/stat/92/1329]; renumbered § 115, [Pub. L. 98–192, § 4(a)(1)][/us/pl/98/192/s4/a/1], Dec. 1, 1983, [97 Stat. 1336][/us/stat/97/1336].)
+([Pub. L. 95–471, title I][/us/pl/95/471/tI], § 115, formerly § 114, Oct. 17, 1978, [92 Stat. 1329][/us/stat/92/1329]; renumbered § 115, [Pub. L. 98–192][/us/pl/98/192], § 4(a)(1), Dec. 1, 1983, [97 Stat. 1336][/us/stat/97/1336].)
 
  __Promulgation of Regulations; Consultation__ 
 
-[Pub. L. 98–192, § 15][/us/pl/98/192/s15], Dec. 1, 1983, [97 Stat. 1343][/us/stat/97/1343], provided that: 
+[Pub. L. 98–192][/us/pl/98/192], § 15, Dec. 1, 1983, [97 Stat. 1343][/us/stat/97/1343], provided that: 
 
 > “In promulgating any regulations to implement the amendments made by this Act \[enacting sections 1804a and 1831 to 1836 of this title and amending sections 640c–1, 1801 to 1803, and 1805 to 1813 of this title\], the Secretary of the Interior shall consult with tribally controlled community colleges.”
 
@@ -46,11 +46,11 @@
 ----------
 ----------
 
-[/us/pl/95/471/s115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F471%2Fs115
+[/us/pl/95/471/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F471%2FtI
 [/us/stat/92/1329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1329
-[/us/pl/98/192/s4/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F192%2Fs4%2Fa%2F1
+[/us/pl/98/192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F192
 [/us/stat/97/1336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1336
-[/us/pl/98/192/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F192%2Fs15
+[/us/pl/98/192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F192
 [/us/stat/97/1343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1343
 
 

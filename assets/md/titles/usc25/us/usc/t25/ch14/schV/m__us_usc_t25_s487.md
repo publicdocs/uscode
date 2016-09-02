@@ -41,7 +41,7 @@
 
         The acquisition and sale of lands for the Spokane Tribe pursuant to this Act shall be upon request of the business council of the Spokane Tribe, evidenced by a resolution adopted in accordance with the constitution and bylaws of the tribe, and shall be in accordance with a land purchase and consolidation plan approved by the Secretary of the Interior, and except as it may otherwise be authorized or prescribed by the Secretary, shall be limited to lands situated within the boundary of the Spokane Reservation. Such acquisition by the Spokane Tribe, or individual members thereof, may be achieved by exchange of lands with Indians or non-Indians as well as outright purchase, with adjusting payments to approximate equal value. Moneys or credits received by the tribe in the sale of lands shall be used for the purchase of other lands, or for such other purpose as may be consistent with the land purchase and consolidation program, approved by the Secretary of the Interior.
 
-([Pub. L. 90–335, § 1(a)][/us/pl/90/335/s1/a]–(e), June 10, 1968, [82 Stat. 174][/us/stat/82/174]; [Pub. L. 93–286][/us/pl/93/286], May 21, 1974, [88 Stat. 142][/us/stat/88/142].)
+([Pub. L. 90–335][/us/pl/90/335], § 1(a)–(e), June 10, 1968, [82 Stat. 174][/us/stat/82/174]; [Pub. L. 93–286][/us/pl/93/286], May 21, 1974, [88 Stat. 142][/us/stat/88/142].)
 
  __References in Text__ 
 
@@ -63,7 +63,7 @@
 ----------
 
 [/us/usc/t28/s1446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1446
-[/us/pl/90/335/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F335%2Fs1%2Fa
+[/us/pl/90/335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F335
 [/us/stat/82/174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F174
 [/us/pl/93/286]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F286
 [/us/stat/88/142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F142

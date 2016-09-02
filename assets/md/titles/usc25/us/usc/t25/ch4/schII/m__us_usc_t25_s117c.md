@@ -19,7 +19,7 @@
 
     (b) Nothing in sections 117a to 117c of this title shall otherwise absolve the United States from any other responsibility to the Indians, including those which derive from the trust relationship and from any treaties, Executive orders, or agreements between the United States and any Indian tribe.
 
-([Pub. L. 98–64, § 3][/us/pl/98/64/s3], Aug. 2, 1983, [97 Stat. 365][/us/stat/97/365].)
+([Pub. L. 98–64][/us/pl/98/64], § 3, Aug. 2, 1983, [97 Stat. 365][/us/stat/97/365].)
 
 ----------
 
@@ -29,7 +29,7 @@
 ----------
 
 [/us/usc/t25/s117a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs117a
-[/us/pl/98/64/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F64%2Fs3
+[/us/pl/98/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F64
 [/us/stat/97/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F365
 
 

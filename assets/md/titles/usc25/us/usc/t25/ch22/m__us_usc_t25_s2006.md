@@ -101,7 +101,7 @@
 
         For the purpose of this section, the term “functions” includes powers and duties.
 
-([Pub. L. 95–561, title XI, § 1126][/us/pl/95/561/s1126], as added [Pub. L. 107–110, title X, § 1042][/us/pl/107/110/s1042], Jan. 8, 2002, [115 Stat. 2026][/us/stat/115/2026].)
+([Pub. L. 95–561, title XI][/us/pl/95/561/tXI], § 1126, as added [Pub. L. 107–110, title X][/us/pl/107/110/tX], § 1042, Jan. 8, 2002, [115 Stat. 2026][/us/stat/115/2026].)
 
  __References in Text__ 
 
@@ -111,9 +111,9 @@
 
  __Prior Provisions__ 
 
-    A prior section 2006, [Pub. L. 95–561, title XI, § 1126][/us/pl/95/561/s1126], as added [Pub. L. 103–382, title III, § 381][/us/pl/103/382/s381], Oct. 20, 1994, [108 Stat. 3988][/us/stat/108/3988], related to Bureau of Indian Affairs education functions, prior to the general amendment of this chapter by [Pub. L. 107–110][/us/pl/107/110].
+    A prior section 2006, [Pub. L. 95–561, title XI][/us/pl/95/561/tXI], § 1126, as added [Pub. L. 103–382, title III][/us/pl/103/382/tIII], § 381, Oct. 20, 1994, [108 Stat. 3988][/us/stat/108/3988], related to Bureau of Indian Affairs education functions, prior to the general amendment of this chapter by [Pub. L. 107–110][/us/pl/107/110].
 
-    Another prior section 2006, [Pub. L. 95–561, title XI, § 1126][/us/pl/95/561/s1126], Nov. 1, 1978, [92 Stat. 2319][/us/stat/92/2319]; [Pub. L. 96–46, § 2(b)(6)][/us/pl/96/46/s2/b/6], Aug. 6, 1979, [93 Stat. 341][/us/stat/93/341]; [Pub. L. 98–511, title V, § 504][/us/pl/98/511/s504], Oct. 19, 1984, [98 Stat. 2393][/us/stat/98/2393]; [Pub. L. 99–89, § 4][/us/pl/99/89/s4], Aug. 15, 1985, [99 Stat. 381][/us/stat/99/381]; [Pub. L. 100–427, § 1(c)(3)][/us/pl/100/427/s1/c/3], Sept. 9, 1988, [102 Stat. 1603][/us/stat/102/1603], related to Bureau of Indian Affairs education functions, prior to the general amendment of this chapter by [Pub. L. 103–382][/us/pl/103/382].
+    Another prior section 2006, [Pub. L. 95–561, title XI][/us/pl/95/561/tXI], § 1126, Nov. 1, 1978, [92 Stat. 2319][/us/stat/92/2319]; [Pub. L. 96–46][/us/pl/96/46], § 2(b)(6), Aug. 6, 1979, [93 Stat. 341][/us/stat/93/341]; [Pub. L. 98–511, title V][/us/pl/98/511/tV], § 504, Oct. 19, 1984, [98 Stat. 2393][/us/stat/98/2393]; [Pub. L. 99–89][/us/pl/99/89], § 4, Aug. 15, 1985, [99 Stat. 381][/us/stat/99/381]; [Pub. L. 100–427][/us/pl/100/427], § 1(c)(3), Sept. 9, 1988, [102 Stat. 1603][/us/stat/102/1603], related to Bureau of Indian Affairs education functions, prior to the general amendment of this chapter by [Pub. L. 103–382][/us/pl/103/382].
 
 ----------
 
@@ -125,8 +125,8 @@
 [/us/usc/t25/s450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450
 [/us/usc/t25/s2021/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs2021%2F12
 [/us/usc/t25/s2005/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs2005%2Fc
-[/us/pl/95/561/s1126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2Fs1126
-[/us/pl/107/110/s1042]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2Fs1042
+[/us/pl/95/561/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2FtXI
+[/us/pl/107/110/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2FtX
 [/us/stat/115/2026]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F2026
 [/us/pl/95/561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561
 [/us/stat/92/2143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2143
@@ -134,19 +134,19 @@
 [/us/pl/93/638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638
 [/us/stat/88/2203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2203
 [/us/usc/t25/s450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450
-[/us/pl/95/561/s1126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2Fs1126
-[/us/pl/103/382/s381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs381
+[/us/pl/95/561/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2FtXI
+[/us/pl/103/382/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2FtIII
 [/us/stat/108/3988]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3988
 [/us/pl/107/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110
-[/us/pl/95/561/s1126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2Fs1126
+[/us/pl/95/561/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2FtXI
 [/us/stat/92/2319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2319
-[/us/pl/96/46/s2/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F46%2Fs2%2Fb%2F6
+[/us/pl/96/46]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F46
 [/us/stat/93/341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F341
-[/us/pl/98/511/s504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F511%2Fs504
+[/us/pl/98/511/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F511%2FtV
 [/us/stat/98/2393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2393
-[/us/pl/99/89/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F89%2Fs4
+[/us/pl/99/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F89
 [/us/stat/99/381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F381
-[/us/pl/100/427/s1/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F427%2Fs1%2Fc%2F3
+[/us/pl/100/427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F427
 [/us/stat/102/1603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1603
 [/us/pl/103/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382
 

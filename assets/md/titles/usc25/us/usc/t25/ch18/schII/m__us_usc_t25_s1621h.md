@@ -247,7 +247,7 @@
 
         (5) The Secretary shall establish criteria for the review and approval of applications for grants made pursuant to this subsection.
 
-([Pub. L. 94–437, title II, § 209][/us/pl/94/437/s209], as added [Pub. L. 101–630, title V, § 503(b)][/us/pl/101/630/s503/b], Nov. 28, 1990, [104 Stat. 4557][/us/stat/104/4557]; amended [Pub. L. 102–573, title II][/us/pl/102/573], §§ 205, 217(b)(4), title IX, § 902(3), Oct. 29, 1992, [106 Stat. 4547][/us/stat/106/4547], 4559, 4591; [Pub. L. 111–148, title X, § 10221(a)][/us/pl/111/148/s10221/a], Mar. 23, 2010, [124 Stat. 935][/us/stat/124/935].)
+([Pub. L. 94–437, title II][/us/pl/94/437/tII], § 209, as added [Pub. L. 101–630, title V][/us/pl/101/630/tV], § 503(b), Nov. 28, 1990, [104 Stat. 4557][/us/stat/104/4557]; amended [Pub. L. 102–573, title II][/us/pl/102/573/tII], §§ 205, 217(b)(4), title IX, § 902(3), Oct. 29, 1992, [106 Stat. 4547][/us/stat/106/4547], 4559, 4591; [Pub. L. 111–148, title X][/us/pl/111/148/tX], § 10221(a), Mar. 23, 2010, [124 Stat. 935][/us/stat/124/935].)
 
  __References in Text__ 
 
@@ -269,15 +269,15 @@
 
     Subsec. (m)(6). [Pub. L. 111–148][/us/pl/111/148] struck out par. (6) which authorized appropriations for fiscal years 1993 to 2000.
 
-    1992—[Pub. L. 102–573, § 902(3)(A)][/us/pl/102/573/s902/3/A], made technical amendment to section catchline.
+    1992—[Pub. L. 102–573][/us/pl/102/573], § 902(3)(A), made technical amendment to section catchline.
 
-    Subsec. (b). [Pub. L. 102–573, § 902(3)(B)][/us/pl/102/573/s902/3/B], redesignated subsec. (c) as (b). Prior to amendment, no subsec. (b) had been enacted.
+    Subsec. (b). [Pub. L. 102–573][/us/pl/102/573], § 902(3)(B), redesignated subsec. (c) as (b). Prior to amendment, no subsec. (b) had been enacted.
 
     Subsec. (c). [Pub. L. 102–573][/us/pl/102/573], §§ 217(b)(4)(A), 902(3)(B), redesignated subsec. (d) as (c) and struck out par. (5) which authorized appropriations of $500,000 for fiscal year 1991 and $1,000,000 for fiscal year 1992 to carry out this subsec. Former subsec. (c) redesignated (b).
 
     Subsec. (d). [Pub. L. 102–573][/us/pl/102/573], §§ 217(b)(4)(A), (D), 902(3)(B), redesignated subsec. (e) as (d), substituted “this section” for “this subsection” in par. (3)(B), and struck out par. (6) which authorized appropriations of $500,000 for fiscal year 1991 and $5,000,000 for fiscal year 1992 to carry out this subsec., with certain amounts to be allocated for community education. Former subsec. (d) redesignated (c).
 
-    Subsec. (e). [Pub. L. 102–573, § 902(3)(B)][/us/pl/102/573/s902/3/B], redesignated subsec. (f) as (e). Former subsec. (e) redesignated (d).
+    Subsec. (e). [Pub. L. 102–573][/us/pl/102/573], § 902(3)(B), redesignated subsec. (f) as (e). Former subsec. (e) redesignated (d).
 
     Subsec. (f). [Pub. L. 102–573][/us/pl/102/573], §§ 217(b)(4)(A), 902(3)(B), redesignated subsec. (g) as (f) and struck out par. (4) which appropriated $1,200,000 for fiscal year 1992 to carry out this subsec. Former subsec. (f) redesignated (e).
 
@@ -291,11 +291,11 @@
 
     Subsec. (k). [Pub. L. 102–573][/us/pl/102/573], §§ 217(b)(4)(E), 902(3)(B), redesignated subsec. (l) as (k), and in par. (6) substituted “section” for “subsection” in second sentence and struck out first sentence which authorized appropriations of $2,000,000 for fiscal year 1991 and $3,000,000 for fiscal year 1992 to carry out purposes of this subsec. Former subsec. (k) redesignated (j).
 
-    Subsecs. (l), (m). [Pub. L. 102–573, § 205(2)][/us/pl/102/573/s205/2], added subsecs. (l) and (m). Former subsec. (l) redesignated (k).
+    Subsecs. (l), (m). [Pub. L. 102–573][/us/pl/102/573], § 205(2), added subsecs. (l) and (m). Former subsec. (l) redesignated (k).
 
  __Statement of Purposes__ 
 
-[Pub. L. 101–630, title V, § 503(a)][/us/pl/101/630/s503/a], Nov. 28, 1990, [104 Stat. 4556][/us/stat/104/4556], provided that: 
+[Pub. L. 101–630, title V][/us/pl/101/630/tV], § 503(a), Nov. 28, 1990, [104 Stat. 4556][/us/stat/104/4556], provided that: 
 
 > “The purposes of this section \[enacting this section\] are to—
 
@@ -327,12 +327,12 @@
 [/us/usc/t25/s1671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1671
 [/us/usc/t25/s450f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450f
 [/us/usc/t25/s450f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450f
-[/us/pl/94/437/s209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437%2Fs209
-[/us/pl/101/630/s503/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F630%2Fs503%2Fb
+[/us/pl/94/437/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437%2FtII
+[/us/pl/101/630/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F630%2FtV
 [/us/stat/104/4557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4557
-[/us/pl/102/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573
+[/us/pl/102/573/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2FtII
 [/us/stat/106/4547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4547
-[/us/pl/111/148/s10221/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10221%2Fa
+[/us/pl/111/148/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtX
 [/us/stat/124/935]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F935
 [/us/pl/99/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570
 [/us/stat/100/3207-137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3207-137
@@ -350,11 +350,11 @@
 [/us/pl/111/148/s10221/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10221%2Fa
 [/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 [/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
-[/us/pl/102/573/s902/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2Fs902%2F3%2FA
-[/us/pl/102/573/s902/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2Fs902%2F3%2FB
 [/us/pl/102/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573
 [/us/pl/102/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573
-[/us/pl/102/573/s902/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2Fs902%2F3%2FB
+[/us/pl/102/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573
+[/us/pl/102/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573
+[/us/pl/102/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573
 [/us/pl/102/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573
 [/us/pl/102/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573
 [/us/pl/102/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573
@@ -362,8 +362,8 @@
 [/us/pl/102/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573
 [/us/usc/t25/s1671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1671
 [/us/pl/102/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573
-[/us/pl/102/573/s205/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2Fs205%2F2
-[/us/pl/101/630/s503/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F630%2Fs503%2Fa
+[/us/pl/102/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573
+[/us/pl/101/630/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F630%2FtV
 [/us/stat/104/4556]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4556
 
 

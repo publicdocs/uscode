@@ -43,7 +43,7 @@
 
     (10) the term “congressional villages” means the villages of Carrollton, Great Valley, and Vandalia in the State of New York.
 
-([Pub. L. 101–503, § 3][/us/pl/101/503/s3], Nov. 3, 1990, [104 Stat. 1293][/us/stat/104/1293].)
+([Pub. L. 101–503][/us/pl/101/503], § 3, Nov. 3, 1990, [104 Stat. 1293][/us/stat/104/1293].)
 
  __References in Text__ 
 
@@ -61,7 +61,7 @@
 [/us/stat/18/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F18%2F330
 [/us/stat/26/558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F26%2F558
 [/us/usc/t25/s1774d/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1774d%2Fc
-[/us/pl/101/503/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F503%2Fs3
+[/us/pl/101/503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F503
 [/us/stat/104/1293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1293
 [/us/stat/18/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F18%2F330
 [/us/stat/26/558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F26%2F558

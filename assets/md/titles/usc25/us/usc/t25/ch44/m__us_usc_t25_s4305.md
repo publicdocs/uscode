@@ -71,7 +71,7 @@
 
         The demonstration projects conducted under this section shall include provisions to facilitate the development and financing of infrastructure, including the development of Indian reservation roads in a manner consistent with title 23.
 
-([Pub. L. 106–464, § 6][/us/pl/106/464/s6], Nov. 7, 2000, [114 Stat. 2016][/us/stat/114/2016].)
+([Pub. L. 106–464][/us/pl/106/464], § 6, Nov. 7, 2000, [114 Stat. 2016][/us/stat/114/2016].)
 
 ----------
 
@@ -80,7 +80,7 @@
 ----------
 ----------
 
-[/us/pl/106/464/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F464%2Fs6
+[/us/pl/106/464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F464
 [/us/stat/114/2016]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2016
 
 

@@ -17,7 +17,7 @@
 
     Payments to Indians made from moneys appropriated by Congress in satisfaction of the judgment of any court shall be made under the direction of the officers of the Interior Department charged by law with the supervision of Indian affairs, and all such payments shall be accounted for to the Treasury in conformity with law.
 
-([Mar. 3, 1911, ch. 210, § 28][/us/act/1911-03-03/ch210/s28], [36 Stat. 1077][/us/stat/36/1077].)
+([Mar. 3, 1911, ch. 210][/us/act/1911-03-03/ch210], § 28, [36 Stat. 1077][/us/stat/36/1077].)
 
  __Transfer of Functions__ 
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/act/1911-03-03/ch210/s28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch210%2Fs28
+[/us/act/1911-03-03/ch210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch210
 [/us/stat/36/1077]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F1077
 [/us/stat/64/1262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1262
 [/us/usc/t25/s53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs53

@@ -17,7 +17,7 @@
 
     All costs incurred by the Secretary in the preparation of the roll and in the payment of shares in accordance with the provisions of this subchapter shall be paid by appropriate withdrawals from the judgment fund, but the cost and expense of any litigation that may arise from the preparation of the roll or the payment of shares shall be paid by the United States.
 
-([Pub. L. 86–97, § 4][/us/pl/86/97/s4], July 17, 1959, [73 Stat. 222][/us/stat/73/222].)
+([Pub. L. 86–97][/us/pl/86/97], § 4, July 17, 1959, [73 Stat. 222][/us/stat/73/222].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/86/97/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F97%2Fs4
+[/us/pl/86/97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F97
 [/us/stat/73/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F222
 
 

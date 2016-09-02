@@ -17,7 +17,7 @@
 
     The amount of any judgment shall be placed in the Treasury of the United States to the credit of the Indians of California and shall draw interest at the rate of 4 per centum per annum and shall be thereafter subject to appropriation by Congress for educational, health, industrial, and other purposes for the benefit of said Indians, including the purchase of lands and building of homes, and no part of said judgment shall be paid out in per capita payments to said Indians: Provided, That the Secretary of the Treasury is authorized and directed to pay to the State of California, out of the proceeds of the judgment when appropriated, the amount decreed by the court to be due said State, as provided in [section 655 of this title][/us/usc/t25/s655].
 
-([May 18, 1928, ch. 624, § 6][/us/act/1928-05-18/ch624/s6], [45 Stat. 603][/us/stat/45/603].)
+([May 18, 1928, ch. 624][/us/act/1928-05-18/ch624], § 6, [45 Stat. 603][/us/stat/45/603].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t25/s655]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs655
-[/us/act/1928-05-18/ch624/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-05-18%2Fch624%2Fs6
+[/us/act/1928-05-18/ch624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-05-18%2Fch624
 [/us/stat/45/603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F45%2F603
 
 

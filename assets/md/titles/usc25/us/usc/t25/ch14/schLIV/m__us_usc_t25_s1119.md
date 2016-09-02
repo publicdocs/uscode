@@ -23,7 +23,7 @@
 
         The funds reserved shall be available for appropriate withdrawal by the Secretary.
 
-([Pub. L. 89–659, § 9][/us/pl/89/659/s9], Oct. 14, 1966, [80 Stat. 910][/us/stat/80/910].)
+([Pub. L. 89–659][/us/pl/89/659], § 9, Oct. 14, 1966, [80 Stat. 910][/us/stat/80/910].)
 
  __References in Text__ 
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/89/659/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F659%2Fs9
+[/us/pl/89/659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F659
 [/us/stat/80/910]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F910
 
 

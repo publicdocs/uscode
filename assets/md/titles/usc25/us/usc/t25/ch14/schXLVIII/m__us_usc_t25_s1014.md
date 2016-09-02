@@ -17,7 +17,7 @@
 
     All costs incurred by the Secretary in the preparation of the rolls and in the distribution of payment of pro rata shares in accordance with the provisions of this subchapter shall be paid by appropriate withdrawals from the judgment fund.
 
-([Pub. L. 88–464, § 4][/us/pl/88/464/s4], Aug. 20, 1964, [78 Stat. 563][/us/stat/78/563].)
+([Pub. L. 88–464][/us/pl/88/464], § 4, Aug. 20, 1964, [78 Stat. 563][/us/stat/78/563].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/88/464/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F464%2Fs4
+[/us/pl/88/464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F464
 [/us/stat/78/563]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F563
 
 

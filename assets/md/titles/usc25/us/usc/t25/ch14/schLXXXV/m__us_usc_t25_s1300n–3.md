@@ -31,7 +31,7 @@
 
         Any real property taken into trust for the benefit of the Tribe pursuant to this section shall be exempt from all local, State, and Federal taxation as of the date that such land is transferred to the Secretary.
 
-([Pub. L. 106–568, title XIV, § 1405][/us/pl/106/568/s1405], Dec. 27, 2000, [114 Stat. 2940][/us/stat/114/2940].)
+([Pub. L. 106–568, title XIV][/us/pl/106/568/tXIV], § 1405, Dec. 27, 2000, [114 Stat. 2940][/us/stat/114/2940].)
 
 ----------
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/106/568/s1405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F568%2Fs1405
+[/us/pl/106/568/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F568%2FtXIV
 [/us/stat/114/2940]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2940
 
 

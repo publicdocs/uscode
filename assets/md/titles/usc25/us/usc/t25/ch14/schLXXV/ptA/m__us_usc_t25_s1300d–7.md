@@ -17,7 +17,7 @@
 
     The sums payable to enrollees or their heirs or legatees who are minors or who are under a legal disability shall be paid in accordance with such procedures, including the establishment of trusts, as the Secretary of the Interior determines appropriate to protect the best interest of such persons after considering the recommendations of the governing bodies of the groups involved.
 
-([Pub. L. 92–555, title III, § 303][/us/pl/92/555/s303], Oct. 25, 1972, [86 Stat. 1170][/us/stat/86/1170].)
+([Pub. L. 92–555, title III][/us/pl/92/555/tIII], § 303, Oct. 25, 1972, [86 Stat. 1170][/us/stat/86/1170].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/92/555/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F555%2Fs303
+[/us/pl/92/555/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F555%2FtIII
 [/us/stat/86/1170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1170
 
 

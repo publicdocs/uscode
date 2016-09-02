@@ -27,11 +27,11 @@
 
     (5) the term “member”, when used with respect to the tribe, means an individual enrolled on the membership roll of the tribe in accordance with [section 713e of this title][/us/usc/t25/s713e].
 
-([Pub. L. 98–165, § 2][/us/pl/98/165/s2], Nov. 22, 1983, [97 Stat. 1064][/us/stat/97/1064].)
+([Pub. L. 98–165][/us/pl/98/165], § 2, Nov. 22, 1983, [97 Stat. 1064][/us/stat/97/1064].)
 
  __Short Title__ 
 
-[Pub. L. 98–165, § 1][/us/pl/98/165/s1], Nov. 22, 1983, [97 Stat. 1064][/us/stat/97/1064], provided that: 
+[Pub. L. 98–165][/us/pl/98/165], § 1, Nov. 22, 1983, [97 Stat. 1064][/us/stat/97/1064], provided that: 
 
 > “This Act \[enacting this subchapter\] may be cited as the ‘Grand Ronde Restoration Act’.”
 
@@ -46,9 +46,9 @@
 [/us/usc/t25/s713c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs713c
 [/us/usc/t25/s713d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs713d
 [/us/usc/t25/s713e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs713e
-[/us/pl/98/165/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F165%2Fs2
+[/us/pl/98/165]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F165
 [/us/stat/97/1064]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1064
-[/us/pl/98/165/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F165%2Fs1
+[/us/pl/98/165]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F165
 [/us/stat/97/1064]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1064
 
 

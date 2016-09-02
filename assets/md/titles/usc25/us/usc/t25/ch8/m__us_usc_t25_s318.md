@@ -17,7 +17,7 @@
 
     Congress reserves the right at any time to alter, amend, or repeal sections 312 to 318 of this title or any portion thereof.
 
-([Mar. 2, 1899, ch. 374, § 8][/us/act/1899-03-02/ch374/s8], [30 Stat. 992][/us/stat/30/992].)
+([Mar. 2, 1899, ch. 374][/us/act/1899-03-02/ch374], § 8, [30 Stat. 992][/us/stat/30/992].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1899-03-02/ch374/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1899-03-02%2Fch374%2Fs8
+[/us/act/1899-03-02/ch374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1899-03-02%2Fch374
 [/us/stat/30/992]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F30%2F992
 
 

@@ -23,7 +23,7 @@
 
         Tribal funds that revert to the tribe pursuant to this subchapter, including interest and income therefrom, may be advanced or expended for any purpose that is authorized by the principal chief of the Cherokee Nation and approved by the Secretary of the Interior.
 
-([Pub. L. 87–775, § 3][/us/pl/87/775/s3], Oct. 9, 1962, [76 Stat. 776][/us/stat/76/776].)
+([Pub. L. 87–775][/us/pl/87/775], § 3, Oct. 9, 1962, [76 Stat. 776][/us/stat/76/776].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/87/775/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F775%2Fs3
+[/us/pl/87/775]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F775
 [/us/stat/76/776]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F776
 
 

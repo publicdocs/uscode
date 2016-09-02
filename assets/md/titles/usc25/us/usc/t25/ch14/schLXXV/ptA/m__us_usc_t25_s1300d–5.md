@@ -17,7 +17,7 @@
 
     No person shall be eligible to be enrolled under this part who is not a citizen of the United States.
 
-([Pub. L. 92–555, title III, § 301][/us/pl/92/555/s301], Oct. 25, 1972, [86 Stat. 1170][/us/stat/86/1170].)
+([Pub. L. 92–555, title III][/us/pl/92/555/tIII], § 301, Oct. 25, 1972, [86 Stat. 1170][/us/stat/86/1170].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/92/555/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F555%2Fs301
+[/us/pl/92/555/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F555%2FtIII
 [/us/stat/86/1170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1170
 
 

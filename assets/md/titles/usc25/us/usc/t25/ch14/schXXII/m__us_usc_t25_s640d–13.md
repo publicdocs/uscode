@@ -35,7 +35,7 @@
 
         No payment shall be made pursuant to this section to or for any person who, after May 29, 1974, moved into an area partitioned pursuant to [section 640d–7 of this title][/us/usc/t25/s640d–7] or section 640d–2 or 640d–3 of this title to a tribe of which he is not a member.
 
-([Pub. L. 93–531, § 14][/us/pl/93/531/s14], Dec. 22, 1974, [88 Stat. 1718][/us/stat/88/1718]; [Pub. L. 100–666, § 4(b)][/us/pl/100/666/s4/b], Nov. 16, 1988, [102 Stat. 3930][/us/stat/102/3930].)
+([Pub. L. 93–531][/us/pl/93/531], § 14, Dec. 22, 1974, [88 Stat. 1718][/us/stat/88/1718]; [Pub. L. 100–666][/us/pl/100/666], § 4(b), Nov. 16, 1988, [102 Stat. 3930][/us/stat/102/3930].)
 
  __Amendments__ 
 
@@ -53,9 +53,9 @@
 [/us/usc/t25/s640d–14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs640d%E2%80%9314
 [/us/usc/t25/s640d–12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs640d%E2%80%9312
 [/us/usc/t25/s640d–7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs640d%E2%80%937
-[/us/pl/93/531/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F531%2Fs14
+[/us/pl/93/531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F531
 [/us/stat/88/1718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1718
-[/us/pl/100/666/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F666%2Fs4%2Fb
+[/us/pl/100/666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F666
 [/us/stat/102/3930]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3930
 [/us/pl/100/666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F666
 

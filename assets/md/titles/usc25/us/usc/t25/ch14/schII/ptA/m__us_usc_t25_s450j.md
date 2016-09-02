@@ -223,15 +223,15 @@
 
             Patient records that are deemed to be Federal records under those provisions of title 44 that are commonly referred to as the “Federal Records Act of 1950” pursuant to this subsection shall not be considered Federal records for the purposes of chapter 5 of title 5.
 
-([Pub. L. 93–638, title I, § 105][/us/pl/93/638/s105], formerly § 106, Jan. 4, 1975, [88 Stat. 2210][/us/stat/88/2210]; renumbered § 105 and amended [Pub. L. 100–472, title II, § 204][/us/pl/100/472/s204], Oct. 5, 1988, [102 Stat. 2291][/us/stat/102/2291]; [Pub. L. 101–301, § 2(a)(7)][/us/pl/101/301/s2/a/7], May 24, 1990, [104 Stat. 207][/us/stat/104/207]; [Pub. L. 101–644, title II, § 203(c)][/us/pl/101/644/s203/c]–(e), Nov. 29, 1990, [104 Stat. 4666][/us/stat/104/4666]; [Pub. L. 103–413, title I][/us/pl/103/413], §§ 102(10)–(13), 106, Oct. 25, 1994, [108 Stat. 4253–4255][/us/stat/108/4253-4255], 4270; [Pub. L. 104–109, § 7][/us/pl/104/109/s7], Feb. 12, 1996, [110 Stat. 764][/us/stat/110/764]; [Pub. L. 106–260][/us/pl/106/260], §§ 7, 8, Aug. 18, 2000, [114 Stat. 732][/us/stat/114/732], 733.)
+([Pub. L. 93–638, title I][/us/pl/93/638/tI], § 105, formerly § 106, Jan. 4, 1975, [88 Stat. 2210][/us/stat/88/2210]; renumbered § 105 and amended [Pub. L. 100–472, title II][/us/pl/100/472/tII], § 204, Oct. 5, 1988, [102 Stat. 2291][/us/stat/102/2291]; [Pub. L. 101–301][/us/pl/101/301], § 2(a)(7), May 24, 1990, [104 Stat. 207][/us/stat/104/207]; [Pub. L. 101–644, title II][/us/pl/101/644/tII], § 203(c)–(e), Nov. 29, 1990, [104 Stat. 4666][/us/stat/104/4666]; [Pub. L. 103–413, title I][/us/pl/103/413/tI], §§ 102(10)–(13), 106, Oct. 25, 1994, [108 Stat. 4253–4255][/us/stat/108/4253-4255], 4270; [Pub. L. 104–109][/us/pl/104/109], § 7, Feb. 12, 1996, [110 Stat. 764][/us/stat/110/764]; [Pub. L. 106–260][/us/pl/106/260], §§ 7, 8, Aug. 18, 2000, [114 Stat. 732][/us/stat/114/732], 733.)
 
  __References in Text__ 
 
     This subchapter, referred to in subsecs. (a)(3)(A)(iii), (C)(i), (d)(1), (e), (f)(3), (k), (l)(1), and (m)(1), (4)(C)(i), was in the original “this Act”, meaning [Pub. L. 93–638][/us/pl/93/638], Jan. 4, 1975, [88 Stat. 2203][/us/stat/88/2203], known as the Indian Self-Determination and Education Assistance Act, which is classified principally to this subchapter. For complete classification of this Act to the Code, see Short Title note set out under [section 450 of this title][/us/usc/t25/s450] and Tables.
 
-    [Section 9(c) of the Act of Aug. 2, 1946][/us/act/1946-08-02/s9/c], referred to in subsec. (a)(3)(C)(ii)(III), was section 9(c) of [act Aug. 2, 1946, ch. 744][/us/act/1946-08-02/ch744], [60 Stat. 809][/us/stat/60/809], which amended section 5 of former Title 41, Public Contracts, and was repealed by [Pub. L. 111–350, § 7(b)][/us/pl/111/350/s7/b], Jan. 4, 2011, [124 Stat. 3855][/us/stat/124/3855], which Act enacted Title 41, Public Contracts.
+    [Section 9(c) of the Act of Aug. 2, 1946][/us/act/1946-08-02/s9/c], referred to in subsec. (a)(3)(C)(ii)(III), was section 9(c) of [act Aug. 2, 1946, ch. 744][/us/act/1946-08-02/ch744], [60 Stat. 809][/us/stat/60/809], which amended section 5 of former Title 41, Public Contracts, and was repealed by [Pub. L. 111–350][/us/pl/111/350], § 7(b), Jan. 4, 2011, [124 Stat. 3855][/us/stat/124/3855], which Act enacted Title 41, Public Contracts.
 
-    The Small Business Act, referred to in subsec. (a)(3)(C)(ii)(X), is [Pub. L. 85–536, § 2][/us/pl/85/536/s2](1 et seq.), July 18, 1958, [72 Stat. 384][/us/stat/72/384], which is classified generally to chapter 14A (§ 631 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 631 of Title 15][/us/usc/t15/s631] and Tables.
+    The Small Business Act, referred to in subsec. (a)(3)(C)(ii)(X), is [Pub. L. 85–536][/us/pl/85/536], § 2(1 et seq.), July 18, 1958, [72 Stat. 384][/us/stat/72/384], which is classified generally to chapter 14A (§ 631 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 631 of Title 15][/us/usc/t15/s631] and Tables.
 
     Executive Order Nos. 12138, 11246, 11701 and 11758, referred to in subsec. (a)(3)(C)(ii)(XI), are Ex. Ord. No. 12138, May 18, 1979, 44 F.R. 29637, which is set out as a note under [section 631 of Title 15][/us/usc/t15/s631], Commerce and Trade, Ex. Ord. No. 11246, Sept. 24, 1965, 30 F.R. 12319, which is set out as a note under [section 2000e of Title 42][/us/usc/t42/s2000e], The Public Health and Welfare, Ex. Ord. No. 11701, Jan. 24, 1973, 38 F.R. 2675, which is set out as a note under [section 4212 of Title 38][/us/usc/t38/s4212], Veterans’ Benefits, and Ex. Ord. No. 11758, Jan. 15, 1974, 39 F.R. 2075, which is set out as a note under [section 701 of Title 29][/us/usc/t29/s701], Labor.
 
@@ -241,25 +241,25 @@
 
     Subsections (a)(2) and (b) of [section 450f of this title][/us/usc/t25/s450f], referred to in subsec. (m)(4)(C)(v), was in the original “sections 102(a)(2) and 102(b) of section 102”, and was translated as reading “subsections (a)(2) and (b) of section 102”, meaning [section 102 of Pub. L. 93–638][/us/pl/93/638/s102], to reflect the probable intent of Congress.
 
-    The Federal Records Act of 1950, referred to in subsec. (o), was title V of [act June 30, 1949, ch. 288][/us/act/1949-06-30/ch288], as added [Sept. 5, 1950, ch. 849, § 6(d)][/us/act/1950-09-05/ch849/s6/d], [64 Stat. 583][/us/stat/64/583], which was classified generally to sections 392 to 396 and 397 to 401 of former Title 44, Public Printing and Documents. Section 6(d) of act Sept. 5, 1950, was repealed by [Pub. L. 90–620][/us/pl/90/620], Oct. 22, 1968, [82 Stat. 1238][/us/stat/82/1238], the first section of which enacted Title 44, Public Printing and Documents. For disposition of sections of former Title 44, see Table at the beginning of Title 44. Title V of act June 30, 1949, was repealed by [Pub. L. 107–217, § 4][/us/pl/107/217/s4], Aug. 21, 2002, [116 Stat. 1303][/us/stat/116/1303].
+    The Federal Records Act of 1950, referred to in subsec. (o), was title V of [act June 30, 1949, ch. 288][/us/act/1949-06-30/ch288], as added [Sept. 5, 1950, ch. 849][/us/act/1950-09-05/ch849], § 6(d), [64 Stat. 583][/us/stat/64/583], which was classified generally to sections 392 to 396 and 397 to 401 of former Title 44, Public Printing and Documents. Section 6(d) of act Sept. 5, 1950, was repealed by [Pub. L. 90–620][/us/pl/90/620], Oct. 22, 1968, [82 Stat. 1238][/us/stat/82/1238], the first section of which enacted Title 44, Public Printing and Documents. For disposition of sections of former Title 44, see Table at the beginning of Title 44. Title V of act June 30, 1949, was repealed by [Pub. L. 107–217][/us/pl/107/217], § 4, Aug. 21, 2002, [116 Stat. 1303][/us/stat/116/1303].
 
  __Codification__ 
 
-    In subsec. (a)(3)(A), “division B (except sections 1123, 2303, 2304, and 2313) of subtitle I of title 41” substituted for “the Office of Federal Procurement Policy Act ([41 U.S.C. 401][/us/usc/t41/s401] et seq.)” and for “such Act” on authority of [Pub. L. 111–350, § 6(c)][/us/pl/111/350/s6/c], Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
+    In subsec. (a)(3)(A), “division B (except sections 1123, 2303, 2304, and 2313) of subtitle I of title 41” substituted for “the Office of Federal Procurement Policy Act ([41 U.S.C. 401][/us/usc/t41/s401] et seq.)” and for “such Act” on authority of [Pub. L. 111–350][/us/pl/111/350], § 6(c), Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
 
-    In subsec. (a)(3)(C)(ii)(I), “Chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” substituted for “The Federal Property and Administrative Services Act of 1949 ([40 U.S.C. 471][/us/usc/t40/s471] et seq.)” on authority of [Pub. L. 107–217, § 5(c)][/us/pl/107/217/s5/c], Aug. 21, 2002, [116 Stat. 1303][/us/stat/116/1303], which Act enacted Title 40, Public Buildings, Property, and Works, and [Pub. L. 111–350, § 6(c)][/us/pl/111/350/s6/c], Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
+    In subsec. (a)(3)(C)(ii)(I), “Chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” substituted for “The Federal Property and Administrative Services Act of 1949 ([40 U.S.C. 471][/us/usc/t40/s471] et seq.)” on authority of [Pub. L. 107–217][/us/pl/107/217], § 5(c), Aug. 21, 2002, [116 Stat. 1303][/us/stat/116/1303], which Act enacted Title 40, Public Buildings, Property, and Works, and [Pub. L. 111–350][/us/pl/111/350], § 6(c), Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
 
-    In subsec. (a)(3)(C)(ii)(II), “[Section 6101 of title 41][/us/usc/t41/s6101]” substituted for “Section 3709 of the Revised Statutes” on authority of [Pub. L. 111–350, § 6(c)][/us/pl/111/350/s6/c], Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
+    In subsec. (a)(3)(C)(ii)(II), “[Section 6101 of title 41][/us/usc/t41/s6101]” substituted for “Section 3709 of the Revised Statutes” on authority of [Pub. L. 111–350][/us/pl/111/350], § 6(c), Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
 
-    In subsec. (a)(3)(C)(ii)(IV), “Division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” substituted for “Title III of the Federal Property and Administrative Services Act of 1949 ([63 Stat. 393][/us/stat/63/393] et seq., chapter 288)” on authority of [Pub. L. 111–350, § 6(c)][/us/pl/111/350/s6/c], Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
+    In subsec. (a)(3)(C)(ii)(IV), “Division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” substituted for “Title III of the Federal Property and Administrative Services Act of 1949 ([63 Stat. 393][/us/stat/63/393] et seq., chapter 288)” on authority of [Pub. L. 111–350][/us/pl/111/350], § 6(c), Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
 
-    In subsec. (a)(3)(C)(ii)(VII), “[Section 3145 of title 40][/us/usc/t40/s3145]” substituted for “[Section 2 of the Act of June 13, 1934][/us/act/1934-06-13/s2] (48 Stat 948, chapter 483 \[482\])” on authority of [Pub. L. 107–217, § 5(c)][/us/pl/107/217/s5/c], Aug. 21, 2002, [116 Stat. 1303][/us/stat/116/1303], which Act enacted Title 40, Public Buildings, Property, and Works.
+    In subsec. (a)(3)(C)(ii)(VII), “[Section 3145 of title 40][/us/usc/t40/s3145]” substituted for “[Section 2 of the Act of June 13, 1934][/us/act/1934-06-13/s2] (48 Stat 948, chapter 483 \[482\])” on authority of [Pub. L. 107–217][/us/pl/107/217], § 5(c), Aug. 21, 2002, [116 Stat. 1303][/us/stat/116/1303], which Act enacted Title 40, Public Buildings, Property, and Works.
 
-    In subsec. (a)(3)(C)(ii)(VIII), “Chapter 65 of title 41” substituted for “Sections 1 through 12 of the Act of June 30, 1936 ([49 Stat. 2036][/us/stat/49/2036] et seq. chapter 881)” on authority of [Pub. L. 111–350, § 6(c)][/us/pl/111/350/s6/c], Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
+    In subsec. (a)(3)(C)(ii)(VIII), “Chapter 65 of title 41” substituted for “Sections 1 through 12 of the Act of June 30, 1936 ([49 Stat. 2036][/us/stat/49/2036] et seq. chapter 881)” on authority of [Pub. L. 111–350][/us/pl/111/350], § 6(c), Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
 
-    In subsec. (a)(3)(C)(ii)(IX), “Chapter 67 of title 41” substituted for “The Service Control \[Contract\] Act of 1965 ([41 U.S.C. 351][/us/usc/t41/s351] et seq.)” on authority of [Pub. L. 111–350, § 6(c)][/us/pl/111/350/s6/c], Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
+    In subsec. (a)(3)(C)(ii)(IX), “Chapter 67 of title 41” substituted for “The Service Control \[Contract\] Act of 1965 ([41 U.S.C. 351][/us/usc/t41/s351] et seq.)” on authority of [Pub. L. 111–350][/us/pl/111/350], § 6(c), Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
 
-    In subsec. (k), “[section 501 of title 40][/us/usc/t40/s501]” substituted for “section 201(a) of the Federal Property and Administrative Services Act of 1949 ([40 U.S.C. 481(a)][/us/usc/t40/s481/a])” on authority of [Pub. L. 107–217, § 5(c)][/us/pl/107/217/s5/c], Aug. 21, 2002, [116 Stat. 1303][/us/stat/116/1303], which Act enacted Title 40, Public Buildings, Property, and Works.
+    In subsec. (k), “[section 501 of title 40][/us/usc/t40/s501]” substituted for “section 201(a) of the Federal Property and Administrative Services Act of 1949 ([40 U.S.C. 481(a)][/us/usc/t40/s481/a])” on authority of [Pub. L. 107–217][/us/pl/107/217], § 5(c), Aug. 21, 2002, [116 Stat. 1303][/us/stat/116/1303], which Act enacted Title 40, Public Buildings, Property, and Works.
 
  __Prior Provisions__ 
 
@@ -267,53 +267,53 @@
 
  __Amendments__ 
 
-    2000—Subsec. (k). [Pub. L. 106–260, § 7][/us/pl/106/260/s7], substituted “deemed an executive agency and part of the Indian Health Service” for “deemed an executive agency” and inserted at end “For purposes of carrying out such contract, grant, or agreement, the Secretary shall, at the request of an Indian tribe, enter into an agreement for the acquisition, on behalf of the Indian tribe, of any goods, services, or supplies available to the Secretary from the General Services Administration or other Federal agencies that are not directly available to the Indian tribe under this section or under any other Federal law, including acquisitions from prime vendors. All such acquisitions shall be undertaken through the most efficient and speedy means practicable, including electronic ordering arrangements.”
+    2000—Subsec. (k). [Pub. L. 106–260][/us/pl/106/260], § 7, substituted “deemed an executive agency and part of the Indian Health Service” for “deemed an executive agency” and inserted at end “For purposes of carrying out such contract, grant, or agreement, the Secretary shall, at the request of an Indian tribe, enter into an agreement for the acquisition, on behalf of the Indian tribe, of any goods, services, or supplies available to the Secretary from the General Services Administration or other Federal agencies that are not directly available to the Indian tribe under this section or under any other Federal law, including acquisitions from prime vendors. All such acquisitions shall be undertaken through the most efficient and speedy means practicable, including electronic ordering arrangements.”
 
-    Subsec. (o). [Pub. L. 106–260, § 8][/us/pl/106/260/s8], added subsec. (o).
+    Subsec. (o). [Pub. L. 106–260][/us/pl/106/260], § 8, added subsec. (o).
 
-    1996—Subsec. (e). [Pub. L. 104–109][/us/pl/104/109] made technical amendment to directory language of [Pub. L. 103–413, § 102(11)][/us/pl/103/413/s102/11]. See 1994 Amendment note below.
+    1996—Subsec. (e). [Pub. L. 104–109][/us/pl/104/109] made technical amendment to directory language of [Pub. L. 103–413][/us/pl/103/413], § 102(11). See 1994 Amendment note below.
 
-    1994—Subsec. (a). [Pub. L. 103–413, § 102(10)][/us/pl/103/413/s102/10], added subsec. (a) and struck out former subsec. (a) which read as follows: “Contracts with tribal organizations pursuant to [section 450f of this title][/us/usc/t25/s450f] shall be in accordance with all Federal contracting laws and regulations except that, in the discretion of the appropriate Secretary, such contracts may be negotiated without advertising and need not conform with the provisions of sections 270a to 270d of title 40: Provided, That the appropriate Secretary may waive any provisions of such contracting laws or regulations which he determines are not appropriate for the purposes of the contract involved or inconsistent with the provisions of this Act: Provided further, That, except for construction contracts (or sub-contracts of such a construction contract), the Office of Federal Procurement Policy Act ([88 Stat. 796][/us/stat/88/796]; [41 U.S.C. 401][/us/usc/t41/s401] et seq.) and Federal acquisition regulations promulgated thereunder shall not apply to self-determination contracts.”
+    1994—Subsec. (a). [Pub. L. 103–413][/us/pl/103/413], § 102(10), added subsec. (a) and struck out former subsec. (a) which read as follows: “Contracts with tribal organizations pursuant to [section 450f of this title][/us/usc/t25/s450f] shall be in accordance with all Federal contracting laws and regulations except that, in the discretion of the appropriate Secretary, such contracts may be negotiated without advertising and need not conform with the provisions of sections 270a to 270d of title 40: Provided, That the appropriate Secretary may waive any provisions of such contracting laws or regulations which he determines are not appropriate for the purposes of the contract involved or inconsistent with the provisions of this Act: Provided further, That, except for construction contracts (or sub-contracts of such a construction contract), the Office of Federal Procurement Policy Act ([88 Stat. 796][/us/stat/88/796]; [41 U.S.C. 401][/us/usc/t41/s401] et seq.) and Federal acquisition regulations promulgated thereunder shall not apply to self-determination contracts.”
 
-    Subsec. (e). [Pub. L. 103–413, § 102(11)][/us/pl/103/413/s102/11], as amended by [Pub. L. 104–109][/us/pl/104/109], added subsec. (e) and struck out former subsec. (e) which read as follows: “Whenever an Indian tribe requests retrocession of the appropriate Secretary for any contract entered into pursuant to this Act, such retrocession shall become effective one year from the date of the request by the Indian tribe or at such date as may be mutually agreed by the Secretary and the Indian tribe.”
+    Subsec. (e). [Pub. L. 103–413][/us/pl/103/413], § 102(11), as amended by [Pub. L. 104–109][/us/pl/104/109], added subsec. (e) and struck out former subsec. (e) which read as follows: “Whenever an Indian tribe requests retrocession of the appropriate Secretary for any contract entered into pursuant to this Act, such retrocession shall become effective one year from the date of the request by the Indian tribe or at such date as may be mutually agreed by the Secretary and the Indian tribe.”
 
-    Subsec. (f)(2). [Pub. L. 103–413, § 102(12)][/us/pl/103/413/s102/12], added par. (2) and struck out former par. (2) which read as follows: “donate to an Indian tribe or tribal organization the title to any personal or real property found to be excess to the needs of the Bureau of Indian Affairs, the Indian Health Service, or the General Services Administration, including property and equipment purchased with funds under any self-determination contract or grant agreement; and”.
+    Subsec. (f)(2). [Pub. L. 103–413][/us/pl/103/413], § 102(12), added par. (2) and struck out former par. (2) which read as follows: “donate to an Indian tribe or tribal organization the title to any personal or real property found to be excess to the needs of the Bureau of Indian Affairs, the Indian Health Service, or the General Services Administration, including property and equipment purchased with funds under any self-determination contract or grant agreement; and”.
 
-    Subsec. (h). [Pub. L. 103–413, § 106][/us/pl/103/413/s106], struck out “and the rules and regulations adopted by the Secretaries of the Interior and Health and Human Services pursuant to [section 450k of this title][/us/usc/t25/s450k]” after “sections 450f and 450h of this title”.
+    Subsec. (h). [Pub. L. 103–413][/us/pl/103/413], § 106, struck out “and the rules and regulations adopted by the Secretaries of the Interior and Health and Human Services pursuant to [section 450k of this title][/us/usc/t25/s450k]” after “sections 450f and 450h of this title”.
 
-    Subsecs. (i) to (n). [Pub. L. 103–413, § 102(13)][/us/pl/103/413/s102/13], added subsecs. (i) to (n).
+    Subsecs. (i) to (n). [Pub. L. 103–413][/us/pl/103/413], § 102(13), added subsecs. (i) to (n).
 
     1990—Subsec. (a). [Pub. L. 101–301][/us/pl/101/301] substituted “sub-contracts of such a construction contract” for “sub-contracts in such cases where the tribal contractor has sub-contracted the activity”.
 
-    Subsec. (c)(1)(B). [Pub. L. 101–644, § 203(c)][/us/pl/101/644/s203/c], amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “for an indefinite term in the case of a mature contract.”
+    Subsec. (c)(1)(B). [Pub. L. 101–644][/us/pl/101/644], § 203(c), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “for an indefinite term in the case of a mature contract.”
 
-    Subsec. (d). [Pub. L. 101–644, § 203(d)][/us/pl/101/644/s203/d], amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows:
+    Subsec. (d). [Pub. L. 101–644][/us/pl/101/644], § 203(d), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows:
 
     “(1) No later than fiscal year 1990, the Secretary shall begin using the calendar year as the basis for contracts and agreements under this Act except for instances where the Secretary and the Indian tribe or tribal organization agree on a different period.
 
     “(2) The Secretary shall submit a report to the Congress within ninety days of October 5, 1988, on the amounts of any additional obligational authority needed to implement this subsection in fiscal year 1989.”
 
-    Subsec. (f)(2), (3). [Pub. L. 101–644, § 203(e)][/us/pl/101/644/s203/e], inserted “or real” after “personal”.
+    Subsec. (f)(2), (3). [Pub. L. 101–644][/us/pl/101/644], § 203(e), inserted “or real” after “personal”.
 
-    1988—Subsec. (a). [Pub. L. 100–472, § 204(b)][/us/pl/100/472/s204/b], (c), substituted “section 450f” for “sections 450f and 450g” and inserted proviso relating to nonapplication of Office of Federal Procurement Policy Act to self-determination contracts.
+    1988—Subsec. (a). [Pub. L. 100–472][/us/pl/100/472], § 204(b), (c), substituted “section 450f” for “sections 450f and 450g” and inserted proviso relating to nonapplication of Office of Federal Procurement Policy Act to self-determination contracts.
 
-    Subsec. (b). [Pub. L. 100–472, § 204(d)][/us/pl/100/472/s204/d], which directed the amendment of subsec. (b) by substituting “sections 450f and 450h” for “sections 450f, 450g, and 450h” was executed by substituting the new language for “section 450f, 450g, or 450h” as the probable intent of Congress.
+    Subsec. (b). [Pub. L. 100–472][/us/pl/100/472], § 204(d), which directed the amendment of subsec. (b) by substituting “sections 450f and 450h” for “sections 450f, 450g, and 450h” was executed by substituting the new language for “section 450f, 450g, or 450h” as the probable intent of Congress.
 
-    Subsec. (c). [Pub. L. 100–472, § 204(e)][/us/pl/100/472/s204/e], added subsec. (c) and struck out former subsec. (c) which read as follows: “Any contract requested by a tribe pursuant to sections 450f and 450g of this title shall be for a term not to exceed one year unless the appropriate Secretary determines that a longer term would be advisable: Provided, That such term may not exceed three years and shall be subject to the availability of appropriations: Provided, further, That the amounts of such contracts may be renegotiated annually to reflect factors, including but not limited to cost increases beyond the control of a tribal organization.”
+    Subsec. (c). [Pub. L. 100–472][/us/pl/100/472], § 204(e), added subsec. (c) and struck out former subsec. (c) which read as follows: “Any contract requested by a tribe pursuant to sections 450f and 450g of this title shall be for a term not to exceed one year unless the appropriate Secretary determines that a longer term would be advisable: Provided, That such term may not exceed three years and shall be subject to the availability of appropriations: Provided, further, That the amounts of such contracts may be renegotiated annually to reflect factors, including but not limited to cost increases beyond the control of a tribal organization.”
 
-    Subsec. (d). [Pub. L. 100–472, § 204(e)][/us/pl/100/472/s204/e], added subsec. (d) and struck out former subsec. (d) which related to revision or amendment of contracts or grants at request or with consent of tribal organization and effective date for retrocession of contracts.
+    Subsec. (d). [Pub. L. 100–472][/us/pl/100/472], § 204(e), added subsec. (d) and struck out former subsec. (d) which related to revision or amendment of contracts or grants at request or with consent of tribal organization and effective date for retrocession of contracts.
 
-    Subsec. (e). [Pub. L. 100–472, § 204(e)][/us/pl/100/472/s204/e], added subsec. (e) and struck out former subsec. (e) which authorized the Secretary to permit tribal organizations to use existing school buildings, hospitals, and other facilities and equipment therein in carrying out grants or contracts.
+    Subsec. (e). [Pub. L. 100–472][/us/pl/100/472], § 204(e), added subsec. (e) and struck out former subsec. (e) which authorized the Secretary to permit tribal organizations to use existing school buildings, hospitals, and other facilities and equipment therein in carrying out grants or contracts.
 
-    Subsec. (f). [Pub. L. 100–472, § 204(e)][/us/pl/100/472/s204/e], added subsec. (f). Former subsec. (f) redesignated (g).
+    Subsec. (f). [Pub. L. 100–472][/us/pl/100/472], § 204(e), added subsec. (f). Former subsec. (f) redesignated (g).
 
-    Subsec. (g). [Pub. L. 100–472, § 204(f)][/us/pl/100/472/s204/f], redesignated former subsec. (f) as (g) and substituted “section 450f” for “sections 450f and 450g”. Former subsec. (g) redesignated (h).
+    Subsec. (g). [Pub. L. 100–472][/us/pl/100/472], § 204(f), redesignated former subsec. (f) as (g) and substituted “section 450f” for “sections 450f and 450g”. Former subsec. (g) redesignated (h).
 
-    Subsec. (h). [Pub. L. 100–472, § 204(g)][/us/pl/100/472/s204/g], (h), redesignated former subsec. (g) as (h), substituted “sections 450f and 450h” for “sections 450f, 450g, and 450h”, and “Health and Human Services” for “Health, Education, and Welfare”. Former subsec. (h), which related to minimum amount of funds under terms of contracts, was struck out.
+    Subsec. (h). [Pub. L. 100–472][/us/pl/100/472], § 204(g), (h), redesignated former subsec. (g) as (h), substituted “sections 450f and 450h” for “sections 450f, 450g, and 450h”, and “Health and Human Services” for “Health, Education, and Welfare”. Former subsec. (h), which related to minimum amount of funds under terms of contracts, was struck out.
 
  __Continued Availability of Certain Funds__ 
 
-[Pub. L. 105–277, div. A, § 101(e)][/us/pl/105/277/s101/e] \[title I\], Oct. 21, 1998, [112 Stat. 2681–231][/us/stat/112/2681-231], 2681–246, provided in part that: 
+[Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(e) \[title I\], Oct. 21, 1998, [112 Stat. 2681–231][/us/stat/112/2681-231], 2681–246, provided in part that: 
 
 > “hereafter funds made available to tribes and tribal organizations through contracts, compact agreements, or grants, as authorized by the Indian Self-Determination Act of 1975 \[[25 U.S.C. 450f][/us/usc/t25/s450f] et seq.\] or grants authorized by the Indian Education Amendments of 1988 ([25 U.S.C. 2001][/us/usc/t25/s2001] and 2008A \[probably means prior versions of [25 U.S.C. 2001][/us/usc/t25/s2001] and 2008a\]) shall remain available until expended by the contractor or grantee”.
 
@@ -345,17 +345,17 @@
 [/us/usc/t25/s450f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450f
 [/us/usc/t25/s450f/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450f%2Fb
 [/us/usc/t5/s5911]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5911
-[/us/pl/93/638/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638%2Fs105
+[/us/pl/93/638/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638%2FtI
 [/us/stat/88/2210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2210
-[/us/pl/100/472/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F472%2Fs204
+[/us/pl/100/472/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F472%2FtII
 [/us/stat/102/2291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2291
-[/us/pl/101/301/s2/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F301%2Fs2%2Fa%2F7
+[/us/pl/101/301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F301
 [/us/stat/104/207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F207
-[/us/pl/101/644/s203/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F644%2Fs203%2Fc
+[/us/pl/101/644/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F644%2FtII
 [/us/stat/104/4666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4666
-[/us/pl/103/413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F413
+[/us/pl/103/413/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F413%2FtI
 [/us/stat/108/4253-4255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4253-4255
-[/us/pl/104/109/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F109%2Fs7
+[/us/pl/104/109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F109
 [/us/stat/110/764]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F764
 [/us/pl/106/260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F260
 [/us/stat/114/732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F732
@@ -365,9 +365,9 @@
 [/us/act/1946-08-02/s9/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-02%2Fs9%2Fc
 [/us/act/1946-08-02/ch744]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-02%2Fch744
 [/us/stat/60/809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F809
-[/us/pl/111/350/s7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs7%2Fb
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3855]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3855
-[/us/pl/85/536/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F536%2Fs2
+[/us/pl/85/536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F536
 [/us/stat/72/384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F384
 [/us/usc/t15/s631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs631
 [/us/usc/t15/s631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs631
@@ -381,70 +381,70 @@
 [/us/usc/t25/s450f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450f
 [/us/pl/93/638/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638%2Fs102
 [/us/act/1949-06-30/ch288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-06-30%2Fch288
-[/us/act/1950-09-05/ch849/s6/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-05%2Fch849%2Fs6%2Fd
+[/us/act/1950-09-05/ch849]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-05%2Fch849
 [/us/stat/64/583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F583
 [/us/pl/90/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F620
 [/us/stat/82/1238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1238
-[/us/pl/107/217/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs4
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1303
 [/us/usc/t41/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs401
-[/us/pl/111/350/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs6%2Fc
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3854
 [/us/usc/t40/s471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs471
-[/us/pl/107/217/s5/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs5%2Fc
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1303
-[/us/pl/111/350/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs6%2Fc
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3854
 [/us/usc/t41/s6101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs6101
-[/us/pl/111/350/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs6%2Fc
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3854
 [/us/stat/63/393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F393
-[/us/pl/111/350/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs6%2Fc
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3854
 [/us/usc/t40/s3145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs3145
 [/us/act/1934-06-13/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-13%2Fs2
-[/us/pl/107/217/s5/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs5%2Fc
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1303
 [/us/stat/49/2036]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F2036
-[/us/pl/111/350/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs6%2Fc
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3854
 [/us/usc/t41/s351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs351
-[/us/pl/111/350/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs6%2Fc
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3854
 [/us/usc/t40/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs501
 [/us/usc/t40/s481/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs481%2Fa
-[/us/pl/107/217/s5/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs5%2Fc
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1303
 [/us/pl/93/638/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638%2Fs105
 [/us/pl/100/472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F472
 [/us/usc/t25/s450i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450i
-[/us/pl/106/260/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F260%2Fs7
-[/us/pl/106/260/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F260%2Fs8
+[/us/pl/106/260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F260
+[/us/pl/106/260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F260
 [/us/pl/104/109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F109
-[/us/pl/103/413/s102/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F413%2Fs102%2F11
-[/us/pl/103/413/s102/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F413%2Fs102%2F10
+[/us/pl/103/413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F413
+[/us/pl/103/413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F413
 [/us/usc/t25/s450f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450f
 [/us/stat/88/796]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F796
 [/us/usc/t41/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs401
-[/us/pl/103/413/s102/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F413%2Fs102%2F11
+[/us/pl/103/413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F413
 [/us/pl/104/109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F109
-[/us/pl/103/413/s102/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F413%2Fs102%2F12
-[/us/pl/103/413/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F413%2Fs106
+[/us/pl/103/413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F413
+[/us/pl/103/413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F413
 [/us/usc/t25/s450k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450k
-[/us/pl/103/413/s102/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F413%2Fs102%2F13
+[/us/pl/103/413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F413
 [/us/pl/101/301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F301
-[/us/pl/101/644/s203/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F644%2Fs203%2Fc
-[/us/pl/101/644/s203/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F644%2Fs203%2Fd
-[/us/pl/101/644/s203/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F644%2Fs203%2Fe
-[/us/pl/100/472/s204/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F472%2Fs204%2Fb
-[/us/pl/100/472/s204/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F472%2Fs204%2Fd
-[/us/pl/100/472/s204/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F472%2Fs204%2Fe
-[/us/pl/100/472/s204/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F472%2Fs204%2Fe
-[/us/pl/100/472/s204/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F472%2Fs204%2Fe
-[/us/pl/100/472/s204/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F472%2Fs204%2Fe
-[/us/pl/100/472/s204/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F472%2Fs204%2Ff
-[/us/pl/100/472/s204/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F472%2Fs204%2Fg
-[/us/pl/105/277/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fe
+[/us/pl/101/644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F644
+[/us/pl/101/644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F644
+[/us/pl/101/644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F644
+[/us/pl/100/472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F472
+[/us/pl/100/472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F472
+[/us/pl/100/472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F472
+[/us/pl/100/472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F472
+[/us/pl/100/472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F472
+[/us/pl/100/472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F472
+[/us/pl/100/472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F472
+[/us/pl/100/472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F472
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-231
 [/us/usc/t25/s450f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450f
 [/us/usc/t25/s2001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs2001

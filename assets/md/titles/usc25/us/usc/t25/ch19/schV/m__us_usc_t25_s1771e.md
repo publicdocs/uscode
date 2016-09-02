@@ -45,7 +45,7 @@
 
         Any land held in trust by the Secretary for the benefit of the Wampanoag Tribal Council of Gay Head, Inc. shall be exempt from taxation or lien or “in lieu of payment” or other assessment by the State or any political subdivision of the State to the extent provided by the Settlement Agreement: Provided, however, That such taxation or lien or “in lieu of payment” or other assessment will only apply to lands which are zoned and utilized as commercial: Provided further, That this section shall not be interpreted as restricting the Tribe from entering into an agreement with the town of Gay Head to reimburse such town for the delivery of specific public services on the tribal lands.
 
-([Pub. L. 100–95, § 7][/us/pl/100/95/s7], Aug. 18, 1987, [101 Stat. 707][/us/stat/101/707].)
+([Pub. L. 100–95][/us/pl/100/95], § 7, Aug. 18, 1987, [101 Stat. 707][/us/stat/101/707].)
 
  __References in Text__ 
 
@@ -58,7 +58,7 @@
 ----------
 ----------
 
-[/us/pl/100/95/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F95%2Fs7
+[/us/pl/100/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F95
 [/us/stat/101/707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F707
 [/us/usc/t25/s415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs415
 [/us/usc/t25/s396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs396

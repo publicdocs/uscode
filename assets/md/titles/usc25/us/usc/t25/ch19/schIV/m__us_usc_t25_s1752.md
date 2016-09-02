@@ -43,7 +43,7 @@
 
     (7) The term “reservation” means the existing reservation of the Tribe as defined by chapter 824 of the Connecticut General Statutes and any settlement lands taken in trust by the United States for the Tribe.
 
-([Pub. L. 98–134, § 3][/us/pl/98/134/s3], Oct. 18, 1983, [97 Stat. 852][/us/stat/97/852].)
+([Pub. L. 98–134][/us/pl/98/134], § 3, Oct. 18, 1983, [97 Stat. 852][/us/stat/97/852].)
 
  __Codification__ 
 
@@ -57,7 +57,7 @@
 ----------
 
 [/us/usc/t25/s1751/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1751%2Fd
-[/us/pl/98/134/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F134%2Fs3
+[/us/pl/98/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F134
 [/us/stat/97/852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F852
 [/us/pl/98/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F134
 

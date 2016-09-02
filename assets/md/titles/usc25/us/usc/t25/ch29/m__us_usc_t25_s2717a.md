@@ -17,7 +17,7 @@
 
     In fiscal year 1990 and thereafter, fees collected pursuant to and as limited by [section 2717 of this title][/us/usc/t25/s2717] shall be available to carry out the duties of the Commission, to remain available until expended.
 
-([Pub. L. 101–121, title I][/us/pl/101/121], Oct. 23, 1989, [103 Stat. 718][/us/stat/103/718].)
+([Pub. L. 101–121, title I][/us/pl/101/121/tI], Oct. 23, 1989, [103 Stat. 718][/us/stat/103/718].)
 
  __Codification__ 
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t25/s2717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs2717
-[/us/pl/101/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F121
+[/us/pl/101/121/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F121%2FtI
 [/us/stat/103/718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F718
 
 

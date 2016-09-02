@@ -63,11 +63,11 @@
 
         the Service shall, at the request of such Indian, render appropriate medical care to such Indian for such illness or condition and may recover the costs of any medical care so rendered to which such Indian is entitled at the expense of such operator from such operator. Nothing in this subsection shall affect the rights of such Indian to recover damages other than such costs paid to the Service from the employer for such illness or condition.
 
-([Pub. L. 94–437, title VIII, § 807][/us/pl/94/437/s807], formerly title VII, § 707, as added [Pub. L. 96–537, § 8(b)][/us/pl/96/537/s8/b], Dec. 17, 1980, [94 Stat. 3179][/us/stat/94/3179]; amended [Pub. L. 102–285, § 10(b)][/us/pl/102/285/s10/b], May 18, 1992, [106 Stat. 172][/us/stat/106/172]; renumbered title VIII, § 807, and amended [Pub. L. 102–573, title VII, § 701(a)][/us/pl/102/573/s701/a], (b), title VIII, § 813(b), Oct. 29, 1992, [106 Stat. 4572][/us/stat/106/4572], 4590.)
+([Pub. L. 94–437, title VIII][/us/pl/94/437/tVIII], § 807, formerly title VII, § 707, as added [Pub. L. 96–537][/us/pl/96/537], § 8(b), Dec. 17, 1980, [94 Stat. 3179][/us/stat/94/3179]; amended [Pub. L. 102–285][/us/pl/102/285], § 10(b), May 18, 1992, [106 Stat. 172][/us/stat/106/172]; renumbered title VIII, § 807, and amended [Pub. L. 102–573, title VII][/us/pl/102/573/tVII], § 701(a), (b), title VIII, § 813(b), Oct. 29, 1992, [106 Stat. 4572][/us/stat/106/4572], 4590.)
 
  __Amendments__ 
 
-    1992—Subsec. (f). [Pub. L. 102–573, § 813(b)][/us/pl/102/573/s813/b], struck out subsec. (f) which authorized appropriation of $300,000 to carry out the study as provided in subsec. (a), such amount to be expended by the date eighteen months after Dec. 17, 1980.
+    1992—Subsec. (f). [Pub. L. 102–573][/us/pl/102/573], § 813(b), struck out subsec. (f) which authorized appropriation of $300,000 to carry out the study as provided in subsec. (a), such amount to be expended by the date eighteen months after Dec. 17, 1980.
 
  __Change of Name__ 
 
@@ -75,7 +75,7 @@
 
  __Nuclear Resource Development Health Hazards; Study and Report__ 
 
-[Pub. L. 100–713, title VII, § 717][/us/pl/100/713/s717], Nov. 23, 1988, [102 Stat. 4837][/us/stat/102/4837], provided that:
+[Pub. L. 100–713, title VII][/us/pl/100/713/tVII], § 717, Nov. 23, 1988, [102 Stat. 4837][/us/stat/102/4837], provided that:
 
 >     “(a)
 
@@ -102,18 +102,18 @@
 ----------
 ----------
 
-[/us/pl/94/437/s807]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437%2Fs807
-[/us/pl/96/537/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F537%2Fs8%2Fb
+[/us/pl/94/437/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437%2FtVIII
+[/us/pl/96/537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F537
 [/us/stat/94/3179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3179
-[/us/pl/102/285/s10/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F285%2Fs10%2Fb
+[/us/pl/102/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F285
 [/us/stat/106/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F172
-[/us/pl/102/573/s701/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2Fs701%2Fa
+[/us/pl/102/573/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2FtVII
 [/us/stat/106/4572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4572
-[/us/pl/102/573/s813/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2Fs813%2Fb
+[/us/pl/102/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573
 [/us/pl/102/285/s10/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F285%2Fs10%2Fb
 [/us/usc/t30/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1
 [/us/usc/t30/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1
-[/us/pl/100/713/s717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F713%2Fs717
+[/us/pl/100/713/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F713%2FtVII
 [/us/stat/102/4837]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4837
 
 

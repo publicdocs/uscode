@@ -305,7 +305,7 @@
 
             The Secretary is authorized to adopt such regulations as may be necessary to implement the provisions of this subsection. Such regulations may include provisions for giving notice of sales to prospective purchasers eligible to submit bids at sales conducted under paragraph (2)(I).
 
-([Pub. L. 97–459, title II, § 205][/us/pl/97/459/s205], Jan. 12, 1983, [96 Stat. 2517][/us/stat/96/2517]; [Pub. L. 98–608, § 1(2)][/us/pl/98/608/s1/2], Oct. 30, 1984, [98 Stat. 3171][/us/stat/98/3171]; [Pub. L. 106–462, title I, § 103(2)][/us/pl/106/462/s103/2], Nov. 7, 2000, [114 Stat. 1993][/us/stat/114/1993]; [Pub. L. 108–374][/us/pl/108/374], §§ 4, 6(a)(1), Oct. 27, 2004, [118 Stat. 1787][/us/stat/118/1787], 1797; [Pub. L. 109–157][/us/pl/109/157], §§ 2, 8(a)(1), Dec. 30, 2005, [119 Stat. 2949][/us/stat/119/2949], 2952; [Pub. L. 110–453, title II, § 207(b)][/us/pl/110/453/s207/b], Dec. 2, 2008, [122 Stat. 5030][/us/stat/122/5030].)
+([Pub. L. 97–459, title II][/us/pl/97/459/tII], § 205, Jan. 12, 1983, [96 Stat. 2517][/us/stat/96/2517]; [Pub. L. 98–608][/us/pl/98/608], § 1(2), Oct. 30, 1984, [98 Stat. 3171][/us/stat/98/3171]; [Pub. L. 106–462, title I][/us/pl/106/462/tI], § 103(2), Nov. 7, 2000, [114 Stat. 1993][/us/stat/114/1993]; [Pub. L. 108–374][/us/pl/108/374], §§ 4, 6(a)(1), Oct. 27, 2004, [118 Stat. 1787][/us/stat/118/1787], 1797; [Pub. L. 109–157][/us/pl/109/157], §§ 2, 8(a)(1), Dec. 30, 2005, [119 Stat. 2949][/us/stat/119/2949], 2952; [Pub. L. 110–453, title II][/us/pl/110/453/tII], § 207(b), Dec. 2, 2008, [122 Stat. 5030][/us/stat/122/5030].)
 
  __References in Text__ 
 
@@ -317,37 +317,37 @@
 
     2008—Subsec. (c)(2)(D)(i). [Pub. L. 110–453][/us/pl/110/453] substituted “by the Secretary” for “by Secretary” in concluding provisions.
 
-    2005—Subsec. (a). [Pub. L. 109–157, § 2(1)][/us/pl/109/157/s2/1], added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows: “Subject to subsection (b) of this section, any Indian tribe may purchase at no less than the fair market value part or all of the interests in any tract of trust or restricted land within that tribe’s reservation or otherwise subject to that tribe’s jurisdiction with the consent of the owners of such interests. The tribe may purchase all of the interests in such tract with the consent of the owners of undivided interests equal to at least 50 percent of the undivided interest in such tract. Interests owned by an Indian tribe in a tract may be included in the computation of the percentage of ownership of the undivided interests in that tract for purposes of determining whether the consent requirement under the preceding sentence has been met.”
+    2005—Subsec. (a). [Pub. L. 109–157][/us/pl/109/157], § 2(1), added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows: “Subject to subsection (b) of this section, any Indian tribe may purchase at no less than the fair market value part or all of the interests in any tract of trust or restricted land within that tribe’s reservation or otherwise subject to that tribe’s jurisdiction with the consent of the owners of such interests. The tribe may purchase all of the interests in such tract with the consent of the owners of undivided interests equal to at least 50 percent of the undivided interest in such tract. Interests owned by an Indian tribe in a tract may be included in the computation of the percentage of ownership of the undivided interests in that tract for purposes of determining whether the consent requirement under the preceding sentence has been met.”
 
-    Subsec. (c). [Pub. L. 109–157, § 2(2)][/us/pl/109/157/s2/2], redesignated subsec. (d) as (c). Prior to amendment, no subsec. (c) had been enacted.
+    Subsec. (c). [Pub. L. 109–157][/us/pl/109/157], § 2(2), redesignated subsec. (d) as (c). Prior to amendment, no subsec. (c) had been enacted.
 
-    Subsec. (c)(2)(G)(ii)(I). [Pub. L. 109–157, § 2(3)(A)(i)][/us/pl/109/157/s2/3/A/i], substituted “a value of the land that is equal to or greater than that of the earlier appraisal” for “a higher valuation of the land”.
+    Subsec. (c)(2)(G)(ii)(I). [Pub. L. 109–157][/us/pl/109/157], § 2(3)(A)(i), substituted “a value of the land that is equal to or greater than that of the earlier appraisal” for “a higher valuation of the land”.
 
-    Subsec. (c)(2)(I)(iii)(III). [Pub. L. 109–157, § 2(3)(A)(ii)(I)][/us/pl/109/157/s2/3/A/ii/I], inserted “(if any)” after “this section”.
+    Subsec. (c)(2)(I)(iii)(III). [Pub. L. 109–157][/us/pl/109/157], § 2(3)(A)(ii)(I), inserted “(if any)” after “this section”.
 
-    Subsec. (c)(2)(I)(iii)(IV)(aa). [Pub. L. 109–157, § 2(3)(A)(ii)(II)(aa)][/us/pl/109/157/s2/3/A/ii/II/aa], substituted “more” for “less”.
+    Subsec. (c)(2)(I)(iii)(IV)(aa). [Pub. L. 109–157][/us/pl/109/157], § 2(3)(A)(ii)(II)(aa), substituted “more” for “less”.
 
-    Subsec. (c)(2)(I)(iii)(IV)(bb). [Pub. L. 109–157, § 2(3)(A)(ii)(II)(bb)][/us/pl/109/157/s2/3/A/ii/II/bb], substituted “under paragraph (5)” for “to implement this section”.
+    Subsec. (c)(2)(I)(iii)(IV)(bb). [Pub. L. 109–157][/us/pl/109/157], § 2(3)(A)(ii)(II)(bb), substituted “under paragraph (5)” for “to implement this section”.
 
-    Subsec. (c)(5). [Pub. L. 109–157, § 2(3)(B)][/us/pl/109/157/s2/3/B], in second sentence, substituted “may” for “shall”.
+    Subsec. (c)(5). [Pub. L. 109–157][/us/pl/109/157], § 2(3)(B), in second sentence, substituted “may” for “shall”.
 
-    Subsec. (d). [Pub. L. 109–157, § 8(a)(1)][/us/pl/109/157/s8/a/1], amended directory language of [Pub. L. 108–374, § 4][/us/pl/108/374/s4]. See 2004 Amendment note below.
+    Subsec. (d). [Pub. L. 109–157][/us/pl/109/157], § 8(a)(1), amended directory language of [Pub. L. 108–374][/us/pl/108/374], § 4. See 2004 Amendment note below.
 
-    [Pub. L. 109–157, § 2(2)][/us/pl/109/157/s2/2], redesignated subsec. (d) as (c).
+    [Pub. L. 109–157][/us/pl/109/157], § 2(2), redesignated subsec. (d) as (c).
 
-    2004—Subsec. (a). [Pub. L. 108–374, § 6(a)(1)][/us/pl/108/374/s6/a/1], in second sentence, substituted “undivided interests equal to at least 50 percent of the undivided interest” for “over 50 per centum of the undivided interests”.
+    2004—Subsec. (a). [Pub. L. 108–374][/us/pl/108/374], § 6(a)(1), in second sentence, substituted “undivided interests equal to at least 50 percent of the undivided interest” for “over 50 per centum of the undivided interests”.
 
-    Subsec. (d). [Pub. L. 108–374, § 4][/us/pl/108/374/s4], as amended by [Pub. L. 109–157, § 8(a)(1)][/us/pl/109/157/s8/a/1], added subsec. (d).
+    Subsec. (d). [Pub. L. 108–374][/us/pl/108/374], § 4, as amended by [Pub. L. 109–157][/us/pl/109/157], § 8(a)(1), added subsec. (d).
 
-    2001—[Pub. L. 106–462, § 103(2)(A)(iii)][/us/pl/106/462/s103/2/A/iii], which directed substitution of subsec. (b) designation and heading and “Subsection (a) applies on the condition that—” for “: Provided, That—”, was executed by making the substitution for “Provided, That—” to reflect the probable intent of Congress and the amendment by [Pub. L. 106–462, § 103(2)(A)(ii)][/us/pl/106/462/s103/2/A/ii]. See below.
+    2001—[Pub. L. 106–462][/us/pl/106/462], § 103(2)(A)(iii), which directed substitution of subsec. (b) designation and heading and “Subsection (a) applies on the condition that—” for “: Provided, That—”, was executed by making the substitution for “Provided, That—” to reflect the probable intent of Congress and the amendment by [Pub. L. 106–462][/us/pl/106/462], § 103(2)(A)(ii). See below.
 
-    [Pub. L. 106–462, § 103(2)(A)(i)][/us/pl/106/462/s103/2/A/i], (ii), substituted subsec. (a) designation and heading and “Subject to subsection (b), any Indian” for “Any Indian” and “. Interests owned by an Indian tribe in a tract may be included in the computation of the percentage of ownership of the undivided interests in that tract for purposes of determining whether the consent requirement under the preceding sentence has been met.” for the colon before “Provided, That—”.
+    [Pub. L. 106–462][/us/pl/106/462], § 103(2)(A)(i), (ii), substituted subsec. (a) designation and heading and “Subject to subsection (b), any Indian” for “Any Indian” and “. Interests owned by an Indian tribe in a tract may be included in the computation of the percentage of ownership of the undivided interests in that tract for purposes of determining whether the consent requirement under the preceding sentence has been met.” for the colon before “Provided, That—”.
 
-    Subsec. (b)(2). [Pub. L. 106–462, § 103(2)(B)(ii)][/us/pl/106/462/s103/2/B/ii], inserted “and” at end.
+    Subsec. (b)(2). [Pub. L. 106–462][/us/pl/106/462], § 103(2)(B)(ii), inserted “and” at end.
 
-    [Pub. L. 106–462, § 103(2)(B)(i)][/us/pl/106/462/s103/2/B/i], which directed substitution of “if” for “If,”, was executed by making the substitution for “if,” to reflect the probable intent of Congress.
+    [Pub. L. 106–462][/us/pl/106/462], § 103(2)(B)(i), which directed substitution of “if” for “If,”, was executed by making the substitution for “if,” to reflect the probable intent of Congress.
 
-    Subsec. (b)(3). [Pub. L. 106–462, § 103(2)(C)][/us/pl/106/462/s103/2/C], added par. (3) and struck out former par. (3) which read as follows: “all purchases and sales initiated under this section shall be subject to approval by the Secretary.”
+    Subsec. (b)(3). [Pub. L. 106–462][/us/pl/106/462], § 103(2)(C), added par. (3) and struck out former par. (3) which read as follows: “all purchases and sales initiated under this section shall be subject to approval by the Secretary.”
 
     1984—[Pub. L. 98–608][/us/pl/98/608] amended section generally, substituting “the owners of such interests. The tribe may purchase all of the interests in such tract with the consent of the owners of over 50 per centum of the undivided interests in such tract” for “of over 50 per centum of the owners or with the consent of the owners of over 50 per centum of undivided interests in such tract” before proviso.
 
@@ -375,41 +375,41 @@
 [/us/usc/t25/s2203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs2203
 [/us/usc/t25/s2201/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs2201%2F6
 [/us/usc/t25/s2213/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs2213%2Fb
-[/us/pl/97/459/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F459%2Fs205
+[/us/pl/97/459/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F459%2FtII
 [/us/stat/96/2517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2517
-[/us/pl/98/608/s1/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F608%2Fs1%2F2
+[/us/pl/98/608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F608
 [/us/stat/98/3171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3171
-[/us/pl/106/462/s103/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F462%2Fs103%2F2
+[/us/pl/106/462/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F462%2FtI
 [/us/stat/114/1993]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1993
 [/us/pl/108/374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F374
 [/us/stat/118/1787]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1787
 [/us/pl/109/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F157
 [/us/stat/119/2949]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2949
-[/us/pl/110/453/s207/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F453%2Fs207%2Fb
+[/us/pl/110/453/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F453%2FtII
 [/us/stat/122/5030]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F5030
 [/us/pl/108/374/s8/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F374%2Fs8%2Fa%2F4
 [/us/usc/t25/s2201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs2201
 [/us/pl/97/459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F459
 [/us/pl/110/453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F453
-[/us/pl/109/157/s2/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F157%2Fs2%2F1
-[/us/pl/109/157/s2/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F157%2Fs2%2F2
-[/us/pl/109/157/s2/3/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F157%2Fs2%2F3%2FA%2Fi
-[/us/pl/109/157/s2/3/A/ii/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F157%2Fs2%2F3%2FA%2Fii%2FI
-[/us/pl/109/157/s2/3/A/ii/II/aa]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F157%2Fs2%2F3%2FA%2Fii%2FII%2Faa
-[/us/pl/109/157/s2/3/A/ii/II/bb]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F157%2Fs2%2F3%2FA%2Fii%2FII%2Fbb
-[/us/pl/109/157/s2/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F157%2Fs2%2F3%2FB
-[/us/pl/109/157/s8/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F157%2Fs8%2Fa%2F1
-[/us/pl/108/374/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F374%2Fs4
-[/us/pl/109/157/s2/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F157%2Fs2%2F2
-[/us/pl/108/374/s6/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F374%2Fs6%2Fa%2F1
-[/us/pl/108/374/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F374%2Fs4
-[/us/pl/109/157/s8/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F157%2Fs8%2Fa%2F1
-[/us/pl/106/462/s103/2/A/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F462%2Fs103%2F2%2FA%2Fiii
-[/us/pl/106/462/s103/2/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F462%2Fs103%2F2%2FA%2Fii
-[/us/pl/106/462/s103/2/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F462%2Fs103%2F2%2FA%2Fi
-[/us/pl/106/462/s103/2/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F462%2Fs103%2F2%2FB%2Fii
-[/us/pl/106/462/s103/2/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F462%2Fs103%2F2%2FB%2Fi
-[/us/pl/106/462/s103/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F462%2Fs103%2F2%2FC
+[/us/pl/109/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F157
+[/us/pl/109/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F157
+[/us/pl/109/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F157
+[/us/pl/109/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F157
+[/us/pl/109/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F157
+[/us/pl/109/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F157
+[/us/pl/109/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F157
+[/us/pl/109/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F157
+[/us/pl/108/374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F374
+[/us/pl/109/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F157
+[/us/pl/108/374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F374
+[/us/pl/108/374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F374
+[/us/pl/109/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F157
+[/us/pl/106/462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F462
+[/us/pl/106/462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F462
+[/us/pl/106/462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F462
+[/us/pl/106/462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F462
+[/us/pl/106/462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F462
+[/us/pl/106/462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F462
 [/us/pl/98/608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F608
 [/us/pl/98/608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F608
 [/us/pl/98/608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F608

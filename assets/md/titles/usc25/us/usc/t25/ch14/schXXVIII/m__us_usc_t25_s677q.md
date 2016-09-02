@@ -17,7 +17,7 @@
 
     The laws of the United States with respect to probate of wills, determination of heirship, and the administration of estates shall apply to the individual trust property of mixed-blood members of the tribe until Federal supervision is terminated. Thereafter, the laws of the several States, Territories, possessions, and the District of Columbia within which such mixed-blood members reside at the time of their death shall apply.
 
-([Aug. 27, 1954, ch. 1009, § 18][/us/act/1954-08-27/ch1009/s18], [68 Stat. 877][/us/stat/68/877].)
+([Aug. 27, 1954, ch. 1009][/us/act/1954-08-27/ch1009], § 18, [68 Stat. 877][/us/stat/68/877].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1954-08-27/ch1009/s18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-27%2Fch1009%2Fs18
+[/us/act/1954-08-27/ch1009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-27%2Fch1009
 [/us/stat/68/877]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F877
 
 

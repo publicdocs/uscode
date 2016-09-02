@@ -17,7 +17,7 @@
 
     The Secretary is hereby authorized to make such rules and regulations as are necessary to carry out the provisions of this subchapter.
 
-([Pub. L. 93–197, § 7][/us/pl/93/197/s7], Dec. 22, 1973, [87 Stat. 773][/us/stat/87/773].)
+([Pub. L. 93–197][/us/pl/93/197], § 7, Dec. 22, 1973, [87 Stat. 773][/us/stat/87/773].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/93/197/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F197%2Fs7
+[/us/pl/93/197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F197
 [/us/stat/87/773]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F773
 
 

@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t25/ch6/schI/m__us_usc_t25_s216.md) | [Next](./../../../../..//us/usc/t25/ch6/schI/m__us_usc_t25_s230.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs229)
+[Previous](./../../../../..//us/usc/t25/ch6/schI/m__us_usc_t25_s227 _us_usc_t25_s228.md) | [Next](./../../../../..//us/usc/t25/ch6/schI/m__us_usc_t25_s230.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs229)
 
 ## § 229. Injuries to property by Indians
 
@@ -21,7 +21,7 @@
 
  __Codification__ 
 
-    R.S. § 2156 derived from acts [June 30, 1834, ch. 161, § 17][/us/act/1834-06-30/ch161/s17], [4 Stat. 731][/us/stat/4/731]; [Feb. 28, 1859, ch. 66, § 8][/us/act/1859-02-28/ch66/s8], [11 Stat. 401][/us/stat/11/401].
+    R.S. § 2156 derived from acts [June 30, 1834, ch. 161][/us/act/1834-06-30/ch161], § 17, [4 Stat. 731][/us/stat/4/731]; [Feb. 28, 1859, ch. 66][/us/act/1859-02-28/ch66], § 8, [11 Stat. 401][/us/stat/11/401].
 
  __Transfer of Functions__ 
 
@@ -33,14 +33,14 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t25/ch6/schI/m__us_usc_t25_s216.md) | [Next](./../../../../..//us/usc/t25/ch6/schI/m__us_usc_t25_s230.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs229)
+[Previous](./../../../../..//us/usc/t25/ch6/schI/m__us_usc_t25_s227 _us_usc_t25_s228.md) | [Next](./../../../../..//us/usc/t25/ch6/schI/m__us_usc_t25_s230.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs229)
 
 ----------
 ----------
 
-[/us/act/1834-06-30/ch161/s17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1834-06-30%2Fch161%2Fs17
+[/us/act/1834-06-30/ch161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1834-06-30%2Fch161
 [/us/stat/4/731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F4%2F731
-[/us/act/1859-02-28/ch66/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1859-02-28%2Fch66%2Fs8
+[/us/act/1859-02-28/ch66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1859-02-28%2Fch66
 [/us/stat/11/401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F11%2F401
 [/us/stat/64/1262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1262
 [/us/usc/t25/s64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs64

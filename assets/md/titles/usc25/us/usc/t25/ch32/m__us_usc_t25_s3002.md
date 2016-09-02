@@ -63,7 +63,7 @@
 
         Nothing in this section shall prevent the governing body of an Indian tribe or Native Hawaiian organization from expressly relinquishing control over any Native American human remains, or title to or control over any funerary object, or sacred object.
 
-([Pub. L. 101–601, § 3][/us/pl/101/601/s3], Nov. 16, 1990, [104 Stat. 3050][/us/stat/104/3050].)
+([Pub. L. 101–601][/us/pl/101/601], § 3, Nov. 16, 1990, [104 Stat. 3050][/us/stat/104/3050].)
 
  __References in Text__ 
 
@@ -85,7 +85,7 @@
 [/us/usc/t25/s3006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs3006
 [/us/usc/t16/s470cc]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs470cc
 [/us/usc/t43/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1601
-[/us/pl/101/601/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F601%2Fs3
+[/us/pl/101/601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F601
 [/us/stat/104/3050]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3050
 [/us/pl/97/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164
 [/us/stat/96/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F25

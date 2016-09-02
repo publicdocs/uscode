@@ -89,7 +89,7 @@
 
         The term “undisposed of oil, gas, coal methane, or other minerals” means oil, gas, coal methane, or other minerals (excluding coal) that have not been conveyed to private parties or to the State of Montana by the United States.
 
-([Pub. L. 103–444, § 3][/us/pl/103/444/s3], Nov. 2, 1994, [108 Stat. 4633][/us/stat/108/4633].)
+([Pub. L. 103–444][/us/pl/103/444], § 3, Nov. 2, 1994, [108 Stat. 4633][/us/stat/108/4633].)
 
 ----------
 
@@ -98,7 +98,7 @@
 ----------
 ----------
 
-[/us/pl/103/444/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F444%2Fs3
+[/us/pl/103/444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F444
 [/us/stat/108/4633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4633
 
 

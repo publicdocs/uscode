@@ -197,7 +197,7 @@
 
         There are authorized to be appropriated $5,000,000 for each of fiscal years 2014 through 2018 to carry out subsection (f) and to provide training, technical assistance, data collection, and evaluation of the criminal justice systems of participating tribes.
 
-([Pub. L. 90–284, title II, § 204][/us/pl/90/284/s204], as added [Pub. L. 113–4, title IX, § 904][/us/pl/113/4/s904], Mar. 7, 2013, [127 Stat. 120][/us/stat/127/120].)
+([Pub. L. 90–284, title II][/us/pl/90/284/tII], § 204, as added [Pub. L. 113–4, title IX][/us/pl/113/4/tIX], § 904, Mar. 7, 2013, [127 Stat. 120][/us/stat/127/120].)
 
  __References in Text__ 
 
@@ -205,7 +205,7 @@
 
  __Effective Dates; Pilot Project__ 
 
-[Pub. L. 113–4, title IX, § 908][/us/pl/113/4/s908], Mar. 7, 2013, [127 Stat. 125][/us/stat/127/125], provided that:
+[Pub. L. 113–4, title IX][/us/pl/113/4/tIX], § 908, Mar. 7, 2013, [127 Stat. 125][/us/stat/127/125], provided that:
 
 >     “(a)  __General Effective Date__  __.—__ 
 
@@ -245,12 +245,12 @@
 [/us/usc/t25/s1303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1303
 [/us/usc/t25/s1303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1303
 [/us/usc/t18/s3771/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3771%2Fa
-[/us/pl/90/284/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F284%2Fs204
-[/us/pl/113/4/s904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs904
+[/us/pl/90/284/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F284%2FtII
+[/us/pl/113/4/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2FtIX
 [/us/stat/127/120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F120
 [/us/pl/90/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F284
 [/us/stat/82/77]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F77
-[/us/pl/113/4/s908]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs908
+[/us/pl/113/4/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2FtIX
 [/us/stat/127/125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F125
 [/us/usc/t18/s2261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2261
 [/us/pl/90/284/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F284%2Fs204

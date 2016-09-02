@@ -23,7 +23,7 @@
 
         Health programs operated by the Indian Health Service, Indian tribes, tribal organizations, and Urban Indian organizations (as those terms are defined in [section 1603 of this title][/us/usc/t25/s1603]) shall be the payer of last resort for services provided by such Service, tribes, or organizations to individuals eligible for services through such programs, notwithstanding any Federal, State, or local law to the contrary.
 
-([Pub. L. 111–148, title II, § 2901(a)][/us/pl/111/148/s2901/a], (b), Mar. 23, 2010, [124 Stat. 333][/us/stat/124/333].)
+([Pub. L. 111–148, title II][/us/pl/111/148/tII], § 2901(a), (b), Mar. 23, 2010, [124 Stat. 333][/us/stat/124/333].)
 
  __Codification__ 
 
@@ -40,7 +40,7 @@
 
 [/us/usc/t42/s18071/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs18071%2Fd
 [/us/usc/t25/s1603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1603
-[/us/pl/111/148/s2901/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs2901%2Fa
+[/us/pl/111/148/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtII
 [/us/stat/124/333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F333
 [/us/pl/111/148/s2901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs2901
 

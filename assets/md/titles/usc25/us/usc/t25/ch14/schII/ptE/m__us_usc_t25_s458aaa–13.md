@@ -55,7 +55,7 @@
 
         Not later than 180 days after August 18, 2000, the Secretary shall, after consultation with Indian tribes, submit a written report to the Committee on Resources of the House of Representatives and the Committee on Indian Affairs of the Senate that describes the method or methods used to determine the individual tribal share of funds controlled by all components of the Indian Health Service (including funds assessed by any other Federal agency) for inclusion in self-governance compacts or funding agreements.
 
-([Pub. L. 93–638, title V, § 514][/us/pl/93/638/s514], as added [Pub. L. 106–260, § 4][/us/pl/106/260/s4], Aug. 18, 2000, [114 Stat. 728][/us/stat/114/728].)
+([Pub. L. 93–638, title V][/us/pl/93/638/tV], § 514, as added [Pub. L. 106–260][/us/pl/106/260], § 4, Aug. 18, 2000, [114 Stat. 728][/us/stat/114/728].)
 
  __References in Text__ 
 
@@ -74,8 +74,8 @@
 ----------
 ----------
 
-[/us/pl/93/638/s514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638%2Fs514
-[/us/pl/106/260/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F260%2Fs4
+[/us/pl/93/638/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638%2FtV
+[/us/pl/106/260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F260
 [/us/stat/114/728]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F728
 [/us/pl/93/638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638
 [/us/usc/t25/s450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450

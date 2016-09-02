@@ -17,7 +17,7 @@
 
     The funds appropriated to the credit of the Confederated Salish and Kootenai Tribes of the Flathead Reservation, Montana, in satisfaction of judgments awarded in paragraphs 7 and 10 in docket numbered 50233, United States Court of Claims, including interest thereon, after payment of attorneys fees and other litigation expenses, shall be used as follows: 85 per centum thereof shall be distributed in equal per capita shares to each person who is enrolled or entitled to be enrolled on March 17, 1972; the remainder may be advanced, expended, invested or reinvested for any purposes that are authorized by the tribal governing body and approved by the Secretary of the Interior.
 
-([Pub. L. 92–253, § 1][/us/pl/92/253/s1], Mar. 17, 1972, [86 Stat. 64][/us/stat/86/64].)
+([Pub. L. 92–253][/us/pl/92/253], § 1, Mar. 17, 1972, [86 Stat. 64][/us/stat/86/64].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/92/253/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F253%2Fs1
+[/us/pl/92/253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F253
 [/us/stat/86/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F64
 [/us/pl/97/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164
 [/us/stat/96/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F25

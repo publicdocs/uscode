@@ -17,13 +17,13 @@
 
     No grant of a right-of-way over and across any lands belonging to a tribe organized under the Act of June 18, 1934 ([48 Stat. 984][/us/stat/48/984]), as amended \[[25 U.S.C. 461][/us/usc/t25/s461] et seq.\]; the Act of May 1, 1936 ([49 Stat. 1250][/us/stat/49/1250]) \[[25 U.S.C. 473a][/us/usc/t25/s473a], 496\]; or the Act of June 26, 1936 ([49 Stat. 1967][/us/stat/49/1967]) \[[25 U.S.C. 501][/us/usc/t25/s501] et seq.\], shall be made without the consent of the proper tribal officials. Rights-of-way over and across lands of individual Indians may be granted without the consent of the individual Indian owners if (1) the land is owned by more than one person, and the owners or owner of a majority of the interests therein consent to the grant; (2) the whereabouts of the owner of the land or an interest therein are unknown, and the owners or owner of any interests therein whose whereabouts are known, or a majority thereof, consent to the grant; (3) the heirs or devisees of a deceased owner of the land or an interest therein have not been determined, and the Secretary of the Interior finds that the grant will cause no substantial injury to the land or any owner thereof; or (4) the owners of interests in the land are so numerous that the Secretary finds it would be impracticable to obtain their consent, and also finds that the grant will cause no substantial injury to the land or any owner thereof.
 
-([Feb. 5, 1948, ch. 45, § 2][/us/act/1948-02-05/ch45/s2], [62 Stat. 18][/us/stat/62/18].)
+([Feb. 5, 1948, ch. 45][/us/act/1948-02-05/ch45], § 2, [62 Stat. 18][/us/stat/62/18].)
 
  __References in Text__ 
 
     Act of June 18, 1934, referred to in text, popularly known as the Indian Reorganization Act, is classified generally to subchapter V (§ 461 et seq.) of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 461 of this title][/us/usc/t25/s461] and Tables.
 
-    [Section 496 of this title][/us/usc/t25/s496], referred to in text, was repealed by [Pub. L. 94–579, title VII, § 704(a)][/us/pl/94/579/s704/a], Oct. 21, 1976, [90 Stat. 2792][/us/stat/90/2792].
+    [Section 496 of this title][/us/usc/t25/s496], referred to in text, was repealed by [Pub. L. 94–579, title VII][/us/pl/94/579/tVII], § 704(a), Oct. 21, 1976, [90 Stat. 2792][/us/stat/90/2792].
 
     Act of June 26, 1936, referred to in text, popularly known as the Oklahoma Welfare Act, is classified generally to subchapter VIII (§ 501 et seq.) of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 501 of this title][/us/usc/t25/s501] and Tables.
 
@@ -44,11 +44,11 @@
 [/us/usc/t25/s473a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs473a
 [/us/stat/49/1967]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1967
 [/us/usc/t25/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs501
-[/us/act/1948-02-05/ch45/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-02-05%2Fch45%2Fs2
+[/us/act/1948-02-05/ch45]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-02-05%2Fch45
 [/us/stat/62/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F18
 [/us/usc/t25/s461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs461
 [/us/usc/t25/s496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs496
-[/us/pl/94/579/s704/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F579%2Fs704%2Fa
+[/us/pl/94/579/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F579%2FtVII
 [/us/stat/90/2792]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2792
 [/us/usc/t25/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs501
 [/us/stat/93/1373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1373

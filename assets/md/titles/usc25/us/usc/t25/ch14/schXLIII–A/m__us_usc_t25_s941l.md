@@ -23,7 +23,7 @@
 
         The Tribe shall have the rights and responsibilities set forth in the Settlement Agreement and the State Act with respect to the conduct of games of chance. Except as specifically set forth in the Settlement Agreement and the State Act, all laws, ordinances, and regulations of the State, and its political subdivisions, shall govern the regulation of gambling devices and the conduct of gambling or wagering by the Tribe on and off the Reservation.
 
-([Pub. L. 103–116, § 14][/us/pl/103/116/s14], Oct. 27, 1993, [107 Stat. 1136][/us/stat/107/1136].)
+([Pub. L. 103–116][/us/pl/103/116], § 14, Oct. 27, 1993, [107 Stat. 1136][/us/stat/107/1136].)
 
  __References in Text__ 
 
@@ -37,7 +37,7 @@
 ----------
 
 [/us/usc/t25/s2701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs2701
-[/us/pl/103/116/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F116%2Fs14
+[/us/pl/103/116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F116
 [/us/stat/107/1136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1136
 [/us/pl/100/497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F497
 [/us/stat/102/2467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2467

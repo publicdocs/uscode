@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t25/ch2/m__us_usc_t25_ch2.md) | [Next](./../../../..//us/usc/t25/ch2/m__us_usc_t25_s25a.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs25)
+[Previous](./../../../..//us/usc/t25/ch2/m__us_usc_t25_s23 _us_usc_t25_s24.md) | [Next](./../../../..//us/usc/t25/ch2/m__us_usc_t25_s25a.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs25)
 
 ## § 25. Superintendent for Five Civilized Tribes
 
     The offices of the Commissioner of the Five Civilized Tribes and superintendent of Union Agency, in Oklahoma, are abolished as of September 1, 1914, and in lieu thereof there shall be appointed by the President, by and with the advice and consent of the Senate, a Superintendent for the Five Civilized Tribes, with his office located in the State of Oklahoma, at a salary of $5,000 per annum, and said superintendent shall exercise the authority and perform the duties exercised prior to September 1, 1914, by the Commissioner to the Five Civilized Tribes and the superintendent of the Union Agency, with authority to reorganize the department and to eliminate all unnecessary clerks, subject to the approval of the Secretary of the Interior.
 
-([Aug. 1, 1914, ch. 222, § 17][/us/act/1914-08-01/ch222/s17], [38 Stat. 598][/us/stat/38/598].)
+([Aug. 1, 1914, ch. 222][/us/act/1914-08-01/ch222], § 17, [38 Stat. 598][/us/stat/38/598].)
 
  __Transfer of Functions__ 
 
@@ -25,12 +25,12 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t25/ch2/m__us_usc_t25_ch2.md) | [Next](./../../../..//us/usc/t25/ch2/m__us_usc_t25_s25a.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs25)
+[Previous](./../../../..//us/usc/t25/ch2/m__us_usc_t25_s23 _us_usc_t25_s24.md) | [Next](./../../../..//us/usc/t25/ch2/m__us_usc_t25_s25a.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs25)
 
 ----------
 ----------
 
-[/us/act/1914-08-01/ch222/s17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1914-08-01%2Fch222%2Fs17
+[/us/act/1914-08-01/ch222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1914-08-01%2Fch222
 [/us/stat/38/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F598
 [/us/stat/64/1262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1262
 

@@ -17,7 +17,7 @@
 
     Notwithstanding any other law (including regulations), in making loans under [section 488 of this title][/us/usc/t25/s488], borrowers who are Indian tribes, members of Indian tribes, or tribal corporations shall only be required to obtain 1 appraisal under an appraisal standard recognized as of February 7, 2014, by the Secretary or the Secretary of the Interior.
 
-([Pub. L. 113–79, title V, § 5403][/us/pl/113/79/s5403], Feb. 7, 2014, [128 Stat. 840][/us/stat/128/840].)
+([Pub. L. 113–79, title V][/us/pl/113/79/tV], § 5403, Feb. 7, 2014, [128 Stat. 840][/us/stat/128/840].)
 
  __Definition of “Secretary”__ 
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t25/s488]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs488
-[/us/pl/113/79/s5403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs5403
+[/us/pl/113/79/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtV
 [/us/stat/128/840]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F840
 [/us/usc/t7/s9001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs9001
 

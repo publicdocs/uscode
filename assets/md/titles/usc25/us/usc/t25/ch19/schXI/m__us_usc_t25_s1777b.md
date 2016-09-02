@@ -17,7 +17,7 @@
 
     The Settlement Agreement is hereby approved and ratified.
 
-([Pub. L. 106–425, § 4][/us/pl/106/425/s4], Nov. 1, 2000, [114 Stat. 1892][/us/stat/114/1892].)
+([Pub. L. 106–425][/us/pl/106/425], § 4, Nov. 1, 2000, [114 Stat. 1892][/us/stat/114/1892].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/106/425/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F425%2Fs4
+[/us/pl/106/425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F425
 [/us/stat/114/1892]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1892
 
 

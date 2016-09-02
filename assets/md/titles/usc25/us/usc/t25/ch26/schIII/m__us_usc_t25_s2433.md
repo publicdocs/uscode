@@ -61,7 +61,7 @@
 
             (B) to require a lease of tribal facilities to the United States to qualify for financial assistance for the facilities under this chapter or any other Act.
 
-([Pub. L. 99–570, title IV, § 4213][/us/pl/99/570/s4213], Oct. 27, 1986, [100 Stat. 3207–144][/us/stat/100/3207-144]; [Pub. L. 100–690, title II, § 2207][/us/pl/100/690/s2207], Nov. 18, 1988, [102 Stat. 4218][/us/stat/102/4218]; [Pub. L. 101–272][/us/pl/101/272], Apr. 18, 1990, [104 Stat. 137][/us/stat/104/137]; [Pub. L. 102–573, title VII, § 703(5)][/us/pl/102/573/s703/5], Oct. 29, 1992, [106 Stat. 4583][/us/stat/106/4583]; [Pub. L. 111–211, title II, § 241(c)][/us/pl/111/211/s241/c], July 29, 2010, [124 Stat. 2290][/us/stat/124/2290].)
+([Pub. L. 99–570, title IV][/us/pl/99/570/tIV], § 4213, Oct. 27, 1986, [100 Stat. 3207–144][/us/stat/100/3207-144]; [Pub. L. 100–690, title II][/us/pl/100/690/tII], § 2207, Nov. 18, 1988, [102 Stat. 4218][/us/stat/102/4218]; [Pub. L. 101–272][/us/pl/101/272], Apr. 18, 1990, [104 Stat. 137][/us/stat/104/137]; [Pub. L. 102–573, title VII][/us/pl/102/573/tVII], § 703(5), Oct. 29, 1992, [106 Stat. 4583][/us/stat/106/4583]; [Pub. L. 111–211, title II][/us/pl/111/211/tII], § 241(c), July 29, 2010, [124 Stat. 2290][/us/stat/124/2290].)
 
  __References in Text__ 
 
@@ -73,11 +73,11 @@
 
  __Amendments__ 
 
-    2010—Subsec. (e)(1). [Pub. L. 111–211, § 241(c)(1)][/us/pl/111/211/s241/c/1], substituted “each of fiscal years 2011 through 2015.” for “fiscal year 1993 and such sums as may be necessary for each of the fiscal years 1994, 1995, 1996, 1997, 1998, 1999, and 2000.”
+    2010—Subsec. (e)(1). [Pub. L. 111–211][/us/pl/111/211], § 241(c)(1), substituted “each of fiscal years 2011 through 2015.” for “fiscal year 1993 and such sums as may be necessary for each of the fiscal years 1994, 1995, 1996, 1997, 1998, 1999, and 2000.”
 
-    Subsec. (e)(2). [Pub. L. 111–211, § 241(c)(2)][/us/pl/111/211/s241/c/2], substituted “each of fiscal years 2011 through 2015.” for “each of the fiscal years 1994, 1995, 1996, 1997, 1998, 1999, and 2000.”
+    Subsec. (e)(2). [Pub. L. 111–211][/us/pl/111/211], § 241(c)(2), substituted “each of fiscal years 2011 through 2015.” for “each of the fiscal years 1994, 1995, 1996, 1997, 1998, 1999, and 2000.”
 
-    Subsec. (e)(4), (5). [Pub. L. 111–211, § 241(c)(3)][/us/pl/111/211/s241/c/3], realigned margins.
+    Subsec. (e)(4), (5). [Pub. L. 111–211][/us/pl/111/211], § 241(c)(3), realigned margins.
 
     1992—Subsec. (e)(1), (2). [Pub. L. 102–573][/us/pl/102/573] amended pars. (1) and (2) generally. Prior to amendment, pars. (1) and (2) read as follows:
 
@@ -85,15 +85,15 @@
 
     “(2) For the staffing and operation of emergency shelters and half-way houses, there is authorized to be appropriated $3,000,000 for the fiscal year 1989 and $3,000,000 for fiscal year 1990. An amount equal to the amount of funds appropriated pursuant to this paragraph for fiscal year 1990 shall be included in the base budget of the Bureau of Indian Affairs and funding thereafter shall be pursuant to [section 13 of this title][/us/usc/t25/s13].”
 
-    1990—Subsec. (e)(1). [Pub. L. 101–272, § 1(1)][/us/pl/101/272/s1/1], inserted “, or purchase or lease of land or facilities for,” after “renovation of”.
+    1990—Subsec. (e)(1). [Pub. L. 101–272][/us/pl/101/272], § 1(1), inserted “, or purchase or lease of land or facilities for,” after “renovation of”.
 
-    Subsec. (e)(3). [Pub. L. 101–272, § 1(2)][/us/pl/101/272/s1/2], inserted “or available for grants” after “subject to contracting”.
+    Subsec. (e)(3). [Pub. L. 101–272][/us/pl/101/272], § 1(2), inserted “or available for grants” after “subject to contracting”.
 
-    Subsec. (e)(4), (5). [Pub. L. 101–272, § 1(3)][/us/pl/101/272/s1/3], added pars. (4) and (5).
+    Subsec. (e)(4), (5). [Pub. L. 101–272][/us/pl/101/272], § 1(3), added pars. (4) and (5).
 
-    1988—Subsec. (a). [Pub. L. 100–690, § 2207(a)][/us/pl/100/690/s2207/a], inserted provisions which permitted half-way houses to be used as either intake facilities or aftercare facilities, and authorized Indian Health Service, Bureau of Indian Affairs, and tribes to use resources to staff and operate such facilities.
+    1988—Subsec. (a). [Pub. L. 100–690][/us/pl/100/690], § 2207(a), inserted provisions which permitted half-way houses to be used as either intake facilities or aftercare facilities, and authorized Indian Health Service, Bureau of Indian Affairs, and tribes to use resources to staff and operate such facilities.
 
-    Subsec. (e). [Pub. L. 100–690, § 2207(b)][/us/pl/100/690/s2207/b], amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “For the planning and design, construction, and renovation of emergency shelters or half-way houses to provide emergency care for Indian youth, there is authorized to be appropriated $5,000,000 for each of the fiscal years 1987, 1988, and 1989. For the operation of emergency shelters or half-way houses there is authorized to be appropriated $3,000,000 for each of the fiscal years 1987, 1988, and 1989. The Secretary of the Interior shall allocate funds appropriated pursuant to this subsection on the basis of priority of need of the various Indian tribes and such funds, when allocated, shall be subject to contracting pursuant to the Indian Self-Determination Act.”
+    Subsec. (e). [Pub. L. 100–690][/us/pl/100/690], § 2207(b), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “For the planning and design, construction, and renovation of emergency shelters or half-way houses to provide emergency care for Indian youth, there is authorized to be appropriated $5,000,000 for each of the fiscal years 1987, 1988, and 1989. For the operation of emergency shelters or half-way houses there is authorized to be appropriated $3,000,000 for each of the fiscal years 1987, 1988, and 1989. The Secretary of the Interior shall allocate funds appropriated pursuant to this subsection on the basis of priority of need of the various Indian tribes and such funds, when allocated, shall be subject to contracting pursuant to the Indian Self-Determination Act.”
 
 ----------
 
@@ -109,15 +109,15 @@
 [/us/usc/t25/s2411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs2411
 [/us/usc/t25/s450f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450f
 [/us/usc/t25/s450f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450f
-[/us/pl/99/570/s4213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs4213
+[/us/pl/99/570/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2FtIV
 [/us/stat/100/3207-144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3207-144
-[/us/pl/100/690/s2207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs2207
+[/us/pl/100/690/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtII
 [/us/stat/102/4218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4218
 [/us/pl/101/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F272
 [/us/stat/104/137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F137
-[/us/pl/102/573/s703/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2Fs703%2F5
+[/us/pl/102/573/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2FtVII
 [/us/stat/106/4583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4583
-[/us/pl/111/211/s241/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211%2Fs241%2Fc
+[/us/pl/111/211/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211%2FtII
 [/us/stat/124/2290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2290
 [/us/pl/93/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F415
 [/us/stat/88/1109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1109
@@ -128,15 +128,15 @@
 [/us/pl/99/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570
 [/us/stat/100/3207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3207
 [/us/usc/t21/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs801
-[/us/pl/111/211/s241/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211%2Fs241%2Fc%2F1
-[/us/pl/111/211/s241/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211%2Fs241%2Fc%2F2
-[/us/pl/111/211/s241/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211%2Fs241%2Fc%2F3
+[/us/pl/111/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211
+[/us/pl/111/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211
+[/us/pl/111/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211
 [/us/pl/102/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573
 [/us/usc/t25/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs13
-[/us/pl/101/272/s1/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F272%2Fs1%2F1
-[/us/pl/101/272/s1/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F272%2Fs1%2F2
-[/us/pl/101/272/s1/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F272%2Fs1%2F3
-[/us/pl/100/690/s2207/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs2207%2Fa
-[/us/pl/100/690/s2207/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs2207%2Fb
+[/us/pl/101/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F272
+[/us/pl/101/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F272
+[/us/pl/101/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F272
+[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
+[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
 
 

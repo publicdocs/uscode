@@ -17,7 +17,7 @@
 
     Notwithstanding any other provision of existing law, the tribal funds now on deposit or hereafter deposited in the United States Treasury to the credit of the Ute Indian Tribe of the Uintah and Ouray Reservation may be expended or advanced for such purposes, including per capita payments, as may be designated by the Tribal Business Committee of said tribe and approved by the Secretary of the Interior: Provided, That the aggregate amount of the expenditures and advances authorized by this section exclusive of per capita payments from interest shall not exceed 33⅓ per centum of such tribal funds now on deposit: Provided further, That with the exception of a $1,000 per capita payment which is authorized, no per capita payment shall be approved by the Secretary of the Interior from the principal of any judgment obtained under the Jurisdictional Act of June 28, 1938 ([52 Stat. 1209][/us/stat/52/1209]), as amended, without further legislation: Provided further, That any funds advanced for loans by the tribe to individual Indians or associations of Indians shall be subject to regulations established for the making of loans from the revolving loan fund authorized by [section 470 of this title][/us/usc/t25/s470]: Provided further, That no part of the funds authorized to be expended or advanced by this section shall be paid or delivered to or received by any agent or attorney on account of services rendered in connection with the preparation or prosecution of the suit or suits in the Court of Claims which resulted in any or all of the judgments handed down by said court on July 13, 1950, unless approved by the said court in the proceeding now pending before said court for the adjudication of attorneys’ fees, or to any agent or attorney on account of any contract for services rendered or to be rendered in the preparation of any suit against the United States.
 
-([Aug. 21, 1951, ch. 338, § 1][/us/act/1951-08-21/ch338/s1], [65 Stat. 193][/us/stat/65/193]; [June 29, 1954, ch. 412][/us/act/1954-06-29/ch412], [68 Stat. 321][/us/stat/68/321].)
+([Aug. 21, 1951, ch. 338][/us/act/1951-08-21/ch338], § 1, [65 Stat. 193][/us/stat/65/193]; [June 29, 1954, ch. 412][/us/act/1954-06-29/ch412], [68 Stat. 321][/us/stat/68/321].)
 
  __References in Text__ 
 
@@ -38,7 +38,7 @@
 
 [/us/stat/52/1209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F1209
 [/us/usc/t25/s470]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs470
-[/us/act/1951-08-21/ch338/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-08-21%2Fch338%2Fs1
+[/us/act/1951-08-21/ch338]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-08-21%2Fch338
 [/us/stat/65/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F65%2F193
 [/us/act/1954-06-29/ch412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-06-29%2Fch412
 [/us/stat/68/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F321

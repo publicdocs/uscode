@@ -23,11 +23,11 @@
 
     (3) “Secretary” means the Secretary of the Interior.
 
-([Pub. L. 97–382, § 2][/us/pl/97/382/s2], Dec. 22, 1982, [96 Stat. 1938][/us/stat/96/1938].)
+([Pub. L. 97–382][/us/pl/97/382], § 2, Dec. 22, 1982, [96 Stat. 1938][/us/stat/96/1938].)
 
  __Short Title__ 
 
-[Pub. L. 97–382, § 1][/us/pl/97/382/s1], Dec. 22, 1982, [96 Stat. 1938][/us/stat/96/1938], provided: 
+[Pub. L. 97–382][/us/pl/97/382], § 1, Dec. 22, 1982, [96 Stat. 1938][/us/stat/96/1938], provided: 
 
 > “That this Act \[enacting this chapter\] may be cited as the ‘Indian Mineral Development Act of 1982’.”
 
@@ -38,9 +38,9 @@
 ----------
 ----------
 
-[/us/pl/97/382/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F382%2Fs2
+[/us/pl/97/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F382
 [/us/stat/96/1938]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1938
-[/us/pl/97/382/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F382%2Fs1
+[/us/pl/97/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F382
 [/us/stat/96/1938]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1938
 
 

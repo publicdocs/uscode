@@ -21,7 +21,7 @@
 
  __Codification__ 
 
-    R.S. § 2081 derived from [act Mar. 3, 1865, ch. 127, § 3][/us/act/1865-03-03/ch127/s3], [13 Stat. 561][/us/stat/13/561].
+    R.S. § 2081 derived from [act Mar. 3, 1865, ch. 127][/us/act/1865-03-03/ch127], § 3, [13 Stat. 561][/us/stat/13/561].
 
 ----------
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1865-03-03/ch127/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1865-03-03%2Fch127%2Fs3
+[/us/act/1865-03-03/ch127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1865-03-03%2Fch127
 [/us/stat/13/561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F13%2F561
 
 

@@ -27,11 +27,11 @@
 
     (5) that the States, exercising their recognized jurisdiction over Indian child custody proceedings through administrative and judicial bodies, have often failed to recognize the essential tribal relations of Indian people and the cultural and social standards prevailing in Indian communities and families.
 
-([Pub. L. 95–608, § 2][/us/pl/95/608/s2], Nov. 8, 1978, [92 Stat. 3069][/us/stat/92/3069].)
+([Pub. L. 95–608][/us/pl/95/608], § 2, Nov. 8, 1978, [92 Stat. 3069][/us/stat/92/3069].)
 
  __Short Title__ 
 
-[Pub. L. 95–608, § 1][/us/pl/95/608/s1], Nov. 8, 1987, [92 Stat. 3069][/us/stat/92/3069], provided: 
+[Pub. L. 95–608][/us/pl/95/608], § 1, Nov. 8, 1987, [92 Stat. 3069][/us/stat/92/3069], provided: 
 
 > “That this Act \[enacting this chapter\] may be cited as the ‘Indian Child Welfare Act of 1978’.”
 
@@ -42,9 +42,9 @@
 ----------
 ----------
 
-[/us/pl/95/608/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F608%2Fs2
+[/us/pl/95/608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F608
 [/us/stat/92/3069]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3069
-[/us/pl/95/608/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F608%2Fs1
+[/us/pl/95/608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F608
 [/us/stat/92/3069]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3069
 
 

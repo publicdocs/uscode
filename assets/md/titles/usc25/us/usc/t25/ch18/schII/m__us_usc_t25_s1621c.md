@@ -57,7 +57,7 @@
 
                 Any activity carried out by a diabetes control officer under subparagraph (A) that is the subject of a contract or compact under the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450][/us/usc/t25/s450] et seq.), and any funds made available to carry out such an activity, shall not be divisible for purposes of that Act.
 
-([Pub. L. 94–437, title II, § 204][/us/pl/94/437/s204], as added [Pub. L. 100–713, title II, § 203(c)][/us/pl/100/713/s203/c], Nov. 23, 1988, [102 Stat. 4806][/us/stat/102/4806]; amended [Pub. L. 102–573, title II][/us/pl/102/573], §§ 204, 217(b)(3), title IX, § 901(2), Oct. 29, 1992, [106 Stat. 4546][/us/stat/106/4546], 4559, 4590; [Pub. L. 111–148, title X, § 10221(a)][/us/pl/111/148/s10221/a], Mar. 23, 2010, [124 Stat. 935][/us/stat/124/935].)
+([Pub. L. 94–437, title II][/us/pl/94/437/tII], § 204, as added [Pub. L. 100–713, title II][/us/pl/100/713/tII], § 203(c), Nov. 23, 1988, [102 Stat. 4806][/us/stat/102/4806]; amended [Pub. L. 102–573, title II][/us/pl/102/573/tII], §§ 204, 217(b)(3), title IX, § 901(2), Oct. 29, 1992, [106 Stat. 4546][/us/stat/106/4546], 4559, 4590; [Pub. L. 111–148, title X][/us/pl/111/148/tX], § 10221(a), Mar. 23, 2010, [124 Stat. 935][/us/stat/124/935].)
 
  __References in Text__ 
 
@@ -75,9 +75,9 @@
 
     Subsec. (c)(1). [Pub. L. 111–148][/us/pl/111/148] struck out “through fiscal year 2000” before “each model diabetes project” in introductory provisions prior to general amendment of section. See above.
 
-    1992—Subsec. (a). [Pub. L. 102–573, § 901(2)][/us/pl/102/573/s901/2], redesignated par. (1) as entire subsec., redesignated subpars. (A) and (B) as pars. (1) and (2), respectively, substituted “paragraph (1)” for “subparagraph (A)” in par. (2), and struck out former par. (2) which read as follows: “Within 18 months after November 23, 1988, the Secretary shall prepare and transmit to the President and the Congress a report describing the determinations made and measures taken under paragraph (1) and making recommendations for additional funding to prevent, treat, and control diabetes among Indians.”
+    1992—Subsec. (a). [Pub. L. 102–573][/us/pl/102/573], § 901(2), redesignated par. (1) as entire subsec., redesignated subpars. (A) and (B) as pars. (1) and (2), respectively, substituted “paragraph (1)” for “subparagraph (A)” in par. (2), and struck out former par. (2) which read as follows: “Within 18 months after November 23, 1988, the Secretary shall prepare and transmit to the President and the Congress a report describing the determinations made and measures taken under paragraph (1) and making recommendations for additional funding to prevent, treat, and control diabetes among Indians.”
 
-    Subsec. (c). [Pub. L. 102–573, § 204(1)][/us/pl/102/573/s204/1], amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows:
+    Subsec. (c). [Pub. L. 102–573][/us/pl/102/573], § 204(1), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows:
 
     “(1) The Secretary shall continue to maintain during fiscal years 1988 through 1991 each of the following model diabetes projects which are in existence on November 23, 1988:
 
@@ -107,9 +107,9 @@
 
     “(E) the States of Alaska, California, Minnesota, Montana, Oregon, and Utah.”
 
-    Subsec. (d)(4). [Pub. L. 102–573, § 204(2)][/us/pl/102/573/s204/2], added par. (4).
+    Subsec. (d)(4). [Pub. L. 102–573][/us/pl/102/573], § 204(2), added par. (4).
 
-    Subsec. (e). [Pub. L. 102–573, § 217(b)(3)][/us/pl/102/573/s217/b/3], substituted “this section” for “subsection (c) of this section” and struck out at beginning “There are authorized to be appropriated such sums as may be necessary to carry out the provisions of this section.”
+    Subsec. (e). [Pub. L. 102–573][/us/pl/102/573], § 217(b)(3), substituted “this section” for “subsection (c) of this section” and struck out at beginning “There are authorized to be appropriated such sums as may be necessary to carry out the provisions of this section.”
 
 ----------
 
@@ -121,12 +121,12 @@
 [/us/pl/108/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F87
 [/us/usc/t42/s254c–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs254c%E2%80%933
 [/us/usc/t25/s450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450
-[/us/pl/94/437/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437%2Fs204
-[/us/pl/100/713/s203/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F713%2Fs203%2Fc
+[/us/pl/94/437/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437%2FtII
+[/us/pl/100/713/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F713%2FtII
 [/us/stat/102/4806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4806
-[/us/pl/102/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573
+[/us/pl/102/573/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2FtII
 [/us/stat/106/4546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4546
-[/us/pl/111/148/s10221/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10221%2Fa
+[/us/pl/111/148/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtX
 [/us/stat/124/935]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F935
 [/us/pl/108/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F87
 [/us/pl/108/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F87
@@ -139,9 +139,9 @@
 [/us/pl/111/148/s10221/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10221%2Fa
 [/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 [/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
-[/us/pl/102/573/s901/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2Fs901%2F2
-[/us/pl/102/573/s204/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2Fs204%2F1
-[/us/pl/102/573/s204/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2Fs204%2F2
-[/us/pl/102/573/s217/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2Fs217%2Fb%2F3
+[/us/pl/102/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573
+[/us/pl/102/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573
+[/us/pl/102/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573
+[/us/pl/102/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573
 
 

@@ -11,11 +11,11 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t25/ch9/m__us_usc_t25_ch9.md) | [Next](./../../../..//us/usc/t25/ch9/m__us_usc_t25_s334.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs331)
+[Previous](./../../../..//us/usc/t25/ch9/m__us_usc_t25_ch9.md) | [Next](./../../../..//us/usc/t25/ch9/m__us_usc_t25_s332 _us_usc_t25_s333.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs331)
 
-## § 331. Repealed. [Pub. L. 106–462, title I, § 106(a)(1)][/us/pl/106/462/s106/a/1], Nov. 7, 2000, [114 Stat. 2007][/us/stat/114/2007]
+## § 331. Repealed. [Pub. L. 106–462, title I][/us/pl/106/462/tI], § 106(a)(1), Nov. 7, 2000, [114 Stat. 2007][/us/stat/114/2007]
 
-    Section, acts [Feb. 8, 1887, ch. 119, § 1][/us/act/1887-02-08/ch119/s1], [24 Stat. 388][/us/stat/24/388]; [Feb. 28, 1891, ch. 383, § 1][/us/act/1891-02-28/ch383/s1], [26 Stat. 794][/us/stat/26/794]; [June 25, 1910, ch. 431, § 17][/us/act/1910-06-25/ch431/s17], [36 Stat. 859][/us/stat/36/859], related to allotments of irrigable and nonirrigable land on reservations.
+    Section, acts [Feb. 8, 1887, ch. 119][/us/act/1887-02-08/ch119], § 1, [24 Stat. 388][/us/stat/24/388]; [Feb. 28, 1891, ch. 383][/us/act/1891-02-28/ch383], § 1, [26 Stat. 794][/us/stat/26/794]; [June 25, 1910, ch. 431][/us/act/1910-06-25/ch431], § 17, [36 Stat. 859][/us/stat/36/859], related to allotments of irrigable and nonirrigable land on reservations.
 
  __Codification__ 
 
@@ -23,7 +23,7 @@
 
  __Short Title of 1987 Amendment__ 
 
-[Pub. L. 100–153, § 1][/us/pl/100/153/s1], Nov. 5, 1987, [101 Stat. 886][/us/stat/101/886], provided that: 
+[Pub. L. 100–153][/us/pl/100/153], § 1, Nov. 5, 1987, [101 Stat. 886][/us/stat/101/886], provided that: 
 
 > “This Act \[amending sections 373, 1401, and 2301 of this title and [section 4421 of Title 20][/us/usc/t20/s4421], Education, and amending provisions set out as a note under this section\] may be cited as the ‘Indian Law Technical Amendments of 1987’.”
 
@@ -33,21 +33,21 @@
 
  __Blackfeet Reservation, Montana__ 
 
-    [Act June 30, 1919, ch. 4, § 10][/us/act/1919-06-30/ch4/s10], [41 Stat. 16][/us/stat/41/16], which provided for the allotment of lands within the Blackfeet Indian Reservation in Montana, was amended by [act June 4, 1953, ch. 99, § 1][/us/act/1953-06-04/ch99/s1], [67 Stat. 42][/us/stat/67/42], in order to remove the restrictions on alienation of the homestead allotments by making 80 acres of each allotment subject to sale, partition, issuance of patent in fee, or other disposition in accordance with the laws relating to the other allotments on the Reservation.
+    [Act June 30, 1919, ch. 4][/us/act/1919-06-30/ch4], § 10, [41 Stat. 16][/us/stat/41/16], which provided for the allotment of lands within the Blackfeet Indian Reservation in Montana, was amended by [act June 4, 1953, ch. 99][/us/act/1953-06-04/ch99], § 1, [67 Stat. 42][/us/stat/67/42], in order to remove the restrictions on alienation of the homestead allotments by making 80 acres of each allotment subject to sale, partition, issuance of patent in fee, or other disposition in accordance with the laws relating to the other allotments on the Reservation.
 
     Act June 30, 1919, had provided that the 80-acre homestead allotment should remain inalienable. This restriction was removed on the alienation of homestead allotments after the death of the original allottee by [act June 2, 1924, ch. 231][/us/act/1924-06-02/ch231], [43 Stat. 252][/us/stat/43/252], formerly set out as a note under this section. The restriction was completely removed by section 1 of [act June 4, 1953, ch. 99][/us/act/1953-06-04/ch99], [67 Stat. 42][/us/stat/67/42]. Section 2 of [act June 4, 1953, ch. 99][/us/act/1953-06-04/ch99], [67 Stat. 42][/us/stat/67/42], repealed act June 2, 1924.
 
  __Creek Nation__ 
 
-[Act Mar. 2, 1917, ch. 146, § 18][/us/act/1917-03-02/ch146/s18], [39 Stat. 986][/us/stat/39/986], provided in part as follows: 
+[Act Mar. 2, 1917, ch. 146][/us/act/1917-03-02/ch146], § 18, [39 Stat. 986][/us/stat/39/986], provided in part as follows: 
 
 > “Hereafter no allotments of land shall be made to members of the Creek Nation”.
 
  __Crow Indian Reservation__ 
 
-    [Act June 4, 1920, ch. 224, § 6][/us/act/1920-06-04/ch224/s6], [41 Stat. 753][/us/stat/41/753], as amended by acts [May 25, 1926, ch. 403][/us/act/1926-05-25/ch403], [44 Stat. 658][/us/stat/44/658]; Sept. 16, 1959, [Pub. L. 96–283][/us/pl/96/283], [73 Stat. 565][/us/stat/73/565]; May 17, 1968, [Pub. L. 90–308][/us/pl/90/308], [82 Stat. 123][/us/stat/82/123], provided for a reservation in perpetuity, for the benefit of the Crow Indian Tribe, of the minerals on or underlying the allotted lands on the Crow Indian Reservation.
+    [Act June 4, 1920, ch. 224][/us/act/1920-06-04/ch224], § 6, [41 Stat. 753][/us/stat/41/753], as amended by acts [May 25, 1926, ch. 403][/us/act/1926-05-25/ch403], [44 Stat. 658][/us/stat/44/658]; Sept. 16, 1959, [Pub. L. 96–283][/us/pl/96/283], [73 Stat. 565][/us/stat/73/565]; May 17, 1968, [Pub. L. 90–308][/us/pl/90/308], [82 Stat. 123][/us/stat/82/123], provided for a reservation in perpetuity, for the benefit of the Crow Indian Tribe, of the minerals on or underlying the allotted lands on the Crow Indian Reservation.
 
-    [Act Aug. 15, 1953, ch. 502, § 4][/us/act/1953-08-15/ch502/s4], [67 Stat. 587][/us/stat/67/587], repealed [act June 4, 1920, ch. 224, § 9][/us/act/1920-06-04/ch224/s9], [41 Stat. 754][/us/stat/41/754], formerly set out as a note under this section. The act June 4, 1920, provided for allotment of lands of the Crow Tribe and section 9 of the act had provided that lands of the Crow Reservation should “be subject to all laws of the United States prohibiting the introduction of intoxicating liquors into the Indian country until otherwise provided by Congress”.
+    [Act Aug. 15, 1953, ch. 502][/us/act/1953-08-15/ch502], § 4, [67 Stat. 587][/us/stat/67/587], repealed [act June 4, 1920, ch. 224][/us/act/1920-06-04/ch224], § 9, [41 Stat. 754][/us/stat/41/754], formerly set out as a note under this section. The act June 4, 1920, provided for allotment of lands of the Crow Tribe and section 9 of the act had provided that lands of the Crow Reservation should “be subject to all laws of the United States prohibiting the introduction of intoxicating liquors into the Indian country until otherwise provided by Congress”.
 
     [Act June 4, 1953, ch. 100][/us/act/1953-06-04/ch100], [67 Stat. 42][/us/stat/67/42], permitted the Indian owners of homestead, irrigable, or agricultural land on the Crow Indian Reservation in Montana to sell such land, upon application in writing and subject to the approval of the Secretary of the Interior or his authorized representative. Restrictions against such sales were contained in [act June 4, 1920, ch. 224][/us/act/1920-06-04/ch224], [41 Stat. 751][/us/stat/41/751]. The act of June 4, 1920, set out as a note below, provided for the allotment of lands on the Crow Reservation.
 
@@ -165,7 +165,7 @@
 
 >     “(4) the term ‘Osage Tribe Allotment Act’ means the Act approved June 28, 1906, and entitled ‘An Act for the division of the lands and funds of the Osage Indians in Oklahoma Territory, and for other purposes’ ([34 Stat. 539][/us/stat/34/539]).”
 
-[Pub. L. 95–496][/us/pl/95/496], §§ 3–11, Oct. 21, 1978, [92 Stat. 1660–1664][/us/stat/92/1660-1664], as amended by [Pub. L. 98–605, § 2][/us/pl/98/605/s2], Oct. 30, 1984, [98 Stat. 3163][/us/stat/98/3163], provided that:
+[Pub. L. 95–496][/us/pl/95/496], §§ 3–11, Oct. 21, 1978, [92 Stat. 1660–1664][/us/stat/92/1660-1664], as amended by [Pub. L. 98–605][/us/pl/98/605], § 2, Oct. 30, 1984, [98 Stat. 3163][/us/stat/98/3163], provided that:
 
 > “Sec. 3.
 
@@ -173,15 +173,15 @@
 
 >     “(b) Any Osage Indian having received a certificate of competency under paragraph 7 of [section 2 of the Act of June 28, 1906][/us/act/1906-06-28/s2] ([34 Stat. 539][/us/stat/34/539], 542); [section 3 of the Act of March 2, 1929][/us/act/1929-03-02/s3] ([45 Stat. 1478][/us/stat/45/1478], 1480) \[amending [act Feb. 27, 1925, ch. 359][/us/act/1925-02-27/ch359], [43 Stat. 1008][/us/stat/43/1008], which is set out below\]; or the Act of February 5, 1948 ([62 Stat. 18][/us/stat/62/18]) \[[Act Feb. 5, 1948, ch. 46][/us/act/1948-02-05/ch46], [62 Stat. 18][/us/stat/62/18]\], may make application to the Secretary of the Interior to revoke such certificate and the Secretary shall revoke such certificate: Provided, That revocation of any certificate shall not affect the legality of any transactions heretofore made by reason of the issuance of any such certificate. Restrictions against alienation of lands heretofore removed are not reimposed.
 
->     “(c) \[Amended act Feb. 27, 1925, set out below, [act Mar. 2, 1929, ch. 493, § 4][/us/act/1929-03-02/ch493/s4], [45 Stat. 1480][/us/stat/45/1480], and [June 24, 1938, ch. 645][/us/act/1938-06-24/ch645], §§ 1, 3, [52 Stat. 1034][/us/stat/52/1034], 1035.
+>     “(c) \[Amended act Feb. 27, 1925, set out below, [act Mar. 2, 1929, ch. 493][/us/act/1929-03-02/ch493], § 4, [45 Stat. 1480][/us/stat/45/1480], and [June 24, 1938, ch. 645][/us/act/1938-06-24/ch645], §§ 1, 3, [52 Stat. 1034][/us/stat/52/1034], 1035.
 
 > “Sec. 4. In order to conserve natural resources and provide for the greatest ultimate recovery of oil and gas underlying the Osage mineral estate, the Secretary of the Interior is authorized to establish rules and regulations under which oil and gas leases producing from a common source of supply may be unitized.
 
 > “Sec. 5.
 
->      (a) __\[Amended__  __[__  __act Apr. 18, 1912, ch. 83, § 8__  __][/us/act/1912-04-18/ch83/s8]__  __,__  __[__  __37 Stat. 88__  __][/us/stat/37/88]__  __.\]__ 
+>      (a) __\[Amended__  __[__  __act Apr. 18, 1912, ch. 83__  __][/us/act/1912-04-18/ch83]__  __, § 8,__  __[__  __37 Stat. 88__  __][/us/stat/37/88]__  __.\]__ 
 
->     “(b) __\[Amended__  __[__  __act Apr. 18, 1912, ch. 83, § 3__  __][/us/act/1912-04-18/ch83/s3]__  __,__  __[__  __37 Stat. 86__  __][/us/stat/37/86]__  __.\]__ 
+>     “(b) __\[Amended__  __[__  __act Apr. 18, 1912, ch. 83__  __][/us/act/1912-04-18/ch83]__  __, § 3,__  __[__  __37 Stat. 86__  __][/us/stat/37/86]__  __.\]__ 
 
 >     “(c) __\[Amended act__  __Feb. 27, 1925__  __, set out below.\]__ 
 
@@ -319,9 +319,9 @@
 
     “(7) the term ‘Osage Indians Act of 1925’ means the Act approved February 27, 1925, and entitled ‘An Act To amend the Act of Congress of March 3, 1921, entitled “An Act to amend section 3 of the Act of Congress of June 28, 1906, entitled ‘An Act of Congress for the division of the lands and funds of the Osage Indians in Oklahoma, and for other purposes.’ ” ’ ([43 Stat. 1008][/us/stat/43/1008]) \[set out below\].”
 
-    [Pub. L. 95–496, § 3(a)][/us/pl/95/496/s3/a], Oct. 21, 1978, [92 Stat. 1660][/us/stat/92/1660], repealed [act Feb. 5, 1948, ch. 46][/us/act/1948-02-05/ch46], [62 Stat. 18][/us/stat/62/18], which related to issuance of certificates of competency to members of the Osage Tribe of less than one-half Indian blood upon attaining age twenty-one.
+    [Pub. L. 95–496][/us/pl/95/496], § 3(a), Oct. 21, 1978, [92 Stat. 1660][/us/stat/92/1660], repealed [act Feb. 5, 1948, ch. 46][/us/act/1948-02-05/ch46], [62 Stat. 18][/us/stat/62/18], which related to issuance of certificates of competency to members of the Osage Tribe of less than one-half Indian blood upon attaining age twenty-one.
 
-[Act Aug. 4, 1947, ch. 474, § 1][/us/act/1947-08-04/ch474/s1], [61 Stat. 747][/us/stat/61/747], as amended by [Pub. L. 85–857, § 13(n)][/us/pl/85/857/s13/n], Sept. 2, 1958, [72 Stat. 1266][/us/stat/72/1266], provided: 
+[Act Aug. 4, 1947, ch. 474][/us/act/1947-08-04/ch474], § 1, [61 Stat. 747][/us/stat/61/747], as amended by [Pub. L. 85–857][/us/pl/85/857], § 13(n), Sept. 2, 1958, [72 Stat. 1266][/us/stat/72/1266], provided: 
 
 > “That the provisions of section 6 of the Act approved February 27, 1925 ([43 Stat. 1008][/us/stat/43/1008]) \[set out in note below\], as amended by section 5 of the Act approved March 2, 1929, ([45 Stat. 1478][/us/stat/45/1478]) \[set out in note below\], which make invalid contracts of debt entered into by certain members of the Osage Tribe of Indians, shall not apply to any debt contracted pursuant to title III of the Servicemen’s Readjustment Act of 1944 or chapter 37 of title 38, United States Code, by any member of such tribe who, by reason of his service in the armed forces of the United States during World War II, is eligible for the benefits of such title III or chapter 37; and any other member of the Osage Tribe upon attaining the age of twenty-one years may contract a valid debt without approval of the Secretary of the Interior: Provided, That the Osage lands and funds and any other property which has heretofore or which may hereafter be held in trust or under supervision of the United States for such Osage Indians not having a certificate of competency shall not be subject to lien, levy, attachment, or forced sale to satisfy any debt or obligation contracted or incurred prior to the issuance of a certificate of competency.”
 
@@ -343,7 +343,7 @@
 
 >     “Sec. 7. Except as provided in sections 5(d) and 7 of the Act approved October 21, 1978, and entitled ‘An Act to amend certain laws relating to the Osage Tribe of Oklahoma, and for other purposes.’, on or after October 21, 1978 \[[Pub. L. 95–496][/us/pl/95/496], set out above\], none but heirs of Indian blood and children legally adopted by a court of competent jurisdiction and parents, Indian or non-Indian, shall inherit, in accordance with the laws of the State of Oklahoma relating to intestate succession from Osage Indians any right, title, or interest to any restricted land, moneys, or Osage headright or mineral interest. No adopted child of any Osage Indian who is not an Osage Indian shall be eligible to inherit, as the collateral heir (within the meaning of the laws of the State of Oklahoma relating to intestate succession) of any Osage Indian decedent, any property or interest in property held in trust by the Secretary of the Interior for the benefit of such decedent.”
 
-[Act Mar. 2, 1929, ch. 493, § 5][/us/act/1929-03-02/ch493/s5], [45 Stat. 1481][/us/stat/45/1481], provided that: 
+[Act Mar. 2, 1929, ch. 493][/us/act/1929-03-02/ch493], § 5, [45 Stat. 1481][/us/stat/45/1481], provided that: 
 
 > “The restrictions concerning lands and funds of allotted Osage Indians, as provided in this Act and all prior Acts now in force, shall apply to unallotted Osage Indians born since July 1, 1907, or after the passage of this Act, and to their heirs of Osage Indian blood, except that the provisions of section 6 of the Act of Congress approved February 27, 1925 \[set out below\], with reference to the validity of contracts for debt, shall not apply to any allotted or unallotted Osage Indian of less than one-half degree Indian blood: Provided, That the Osage lands and funds and any other property which has heretofore or which may hereafter be held in trust or under supervision of the United States for such Osage Indians of less than one-half degree Indian blood not having a certificate of competency shall not be subject to forced sale to satisfy any debt or obligation contracted or incurred prior to the issuance of a certificate of competency: Provided further, That the Secretary of the Interior is hereby authorized in his discretion to grant a certificate of competency to any unallotted Osage Indian when in the judgment of the said Secretary such member is fully competent and capable of transacting his or her own affair.”
 
@@ -397,7 +397,7 @@
 
 > “Sec. 9. Nothing herein contained shall in any manner be construed to deprive any of the Pueblo Indians of a prior right to the use of water from streams running through or bordering on their respective pueblos for domestic, stock-water, and irrigation purposes for the lands remaining in Indian ownership, and such water rights shall not be subject to loss by nonuse or abandonment thereof as long as title to said lands shall remain in the Indians.”
 
-[Act June 7, 1924, ch. 331][/us/act/1924-06-07/ch331], [43 Stat. 636][/us/stat/43/636], as amended by [act May 31, 1933, ch. 45, § 7][/us/act/1933-05-31/ch45/s7], [48 Stat. 111][/us/stat/48/111]; [Pub. L. 109–133, § 1][/us/pl/109/133/s1], Dec. 20, 2005, [119 Stat. 2573][/us/stat/119/2573], provided:
+[Act June 7, 1924, ch. 331][/us/act/1924-06-07/ch331], [43 Stat. 636][/us/stat/43/636], as amended by [act May 31, 1933, ch. 45][/us/act/1933-05-31/ch45], § 7, [48 Stat. 111][/us/stat/48/111]; [Pub. L. 109–133][/us/pl/109/133], § 1, Dec. 20, 2005, [119 Stat. 2573][/us/stat/119/2573], provided:
 
 >     “That in order to quiet title to various lots, parcels, and tracts of land in the State of New Mexico for which claim shall be made by or on behalf of the Pueblo Indians of said State as hereinafter provided, the United States of America, in its sovereign capacity as guardian of said Pueblo Indians shall, by its Attorney General, file in the District Court of the United States for the District of New Mexico, its bill or bills of complaint with a prayer for discovery of the nature of any claim or claims of any kind whatsoever adverse to the claim of said Pueblo Indians, as hereinafter determined.
 
@@ -479,7 +479,7 @@
 
  __White Earth Reservation Land Settlement__ 
 
-[Pub. L. 99–264][/us/pl/99/264], Mar. 24, 1986, [100 Stat. 61][/us/stat/100/61], as amended by [Pub. L. 100–153, § 6(a)][/us/pl/100/153/s6/a], (b), Nov. 5, 1987, [101 Stat. 887][/us/stat/101/887]; [Pub. L. 100–212, § 4][/us/pl/100/212/s4], Dec. 24, 1987, [101 Stat. 1443][/us/stat/101/1443]; [Pub. L. 101–301, § 8][/us/pl/101/301/s8], May 24, 1990, [104 Stat. 210][/us/stat/104/210]; [Pub. L. 102–572, title IX, § 902(b)(2)][/us/pl/102/572/s902/b/2], Oct. 29, 1992, [106 Stat. 4516][/us/stat/106/4516]; [Pub. L. 103–263, § 4][/us/pl/103/263/s4], May 31, 1994, [108 Stat. 708][/us/stat/108/708], provided: 
+[Pub. L. 99–264][/us/pl/99/264], Mar. 24, 1986, [100 Stat. 61][/us/stat/100/61], as amended by [Pub. L. 100–153][/us/pl/100/153], § 6(a), (b), Nov. 5, 1987, [101 Stat. 887][/us/stat/101/887]; [Pub. L. 100–212][/us/pl/100/212], § 4, Dec. 24, 1987, [101 Stat. 1443][/us/stat/101/1443]; [Pub. L. 101–301][/us/pl/101/301], § 8, May 24, 1990, [104 Stat. 210][/us/stat/104/210]; [Pub. L. 102–572, title IX][/us/pl/102/572/tIX], § 902(b)(2), Oct. 29, 1992, [106 Stat. 4516][/us/stat/106/4516]; [Pub. L. 103–263][/us/pl/103/263], § 4, May 31, 1994, [108 Stat. 708][/us/stat/108/708], provided: 
 
 > “That this Act may be cited as the ‘White Earth Reservation Land Settlement Act of 1985’.
 
@@ -699,36 +699,30 @@
 
 > “That the Secretary of the Interior be, and he is hereby, authorized in his discretion, to cancel any restricted fee patents that have been issued to Indians of the Winnebago Reservation in Nebraska, under the provisions of the Act of Congress of February 21, 1863 (Twelfth Statutes at Large, page 658), and to issue in lieu thereof, to the original allottees, or heirs, trust patents of the form and subject to all the provisions set out in the general allotment act of February 8, 1887 (Twenty-fourth Statutes at Large, page 388), as amended: Provided, That the trust period shall be ten years from the date of issuance of the lieu trust patents.”
 
-§§ 332, 333. __Repealed.__  __[__  __Pub. L. 106–462, title I, § 106(a)(1)__  __][/us/pl/106/462/s106/a/1]__  __,__  __Nov. 7, 2000__  __,__  __[__  __114 Stat. 2007__  __][/us/stat/114/2007]__ 
-
-    Section 332, [act Feb. 8, 1887, ch. 119, § 2][/us/act/1887-02-08/ch119/s2], [24 Stat. 388][/us/stat/24/388], related to selection of allotments.
-
-    Section 333, acts [Feb. 8, 1887, ch. 119, § 3][/us/act/1887-02-08/ch119/s3], [24 Stat. 389][/us/stat/24/389]; [June 25, 1910, ch. 431, § 9][/us/act/1910-06-25/ch431/s9], [36 Stat. 858][/us/stat/36/858]; 1946 Reorg. Plan No. 3, § 403, eff. July 16, 1946, 11 F.R. 7876, [60 Stat. 1100][/us/stat/60/1100], related to making of allotments by agents.
-
 ----------
 
-[Previous](./../../../..//us/usc/t25/ch9/m__us_usc_t25_ch9.md) | [Next](./../../../..//us/usc/t25/ch9/m__us_usc_t25_s334.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs331)
+[Previous](./../../../..//us/usc/t25/ch9/m__us_usc_t25_ch9.md) | [Next](./../../../..//us/usc/t25/ch9/m__us_usc_t25_s332 _us_usc_t25_s333.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs331)
 
 ----------
 ----------
 
-[/us/pl/106/462/s106/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F462%2Fs106%2Fa%2F1
+[/us/pl/106/462/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F462%2FtI
 [/us/stat/114/2007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2007
-[/us/act/1887-02-08/ch119/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1887-02-08%2Fch119%2Fs1
+[/us/act/1887-02-08/ch119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1887-02-08%2Fch119
 [/us/stat/24/388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F24%2F388
-[/us/act/1891-02-28/ch383/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1891-02-28%2Fch383%2Fs1
+[/us/act/1891-02-28/ch383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1891-02-28%2Fch383
 [/us/stat/26/794]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F26%2F794
-[/us/act/1910-06-25/ch431/s17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1910-06-25%2Fch431%2Fs17
+[/us/act/1910-06-25/ch431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1910-06-25%2Fch431
 [/us/stat/36/859]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F859
 [/us/pl/106/462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F462
-[/us/pl/100/153/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F153%2Fs1
+[/us/pl/100/153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F153
 [/us/stat/101/886]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F886
 [/us/usc/t20/s4421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs4421
 [/us/act/1887-02-08/ch119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1887-02-08%2Fch119
 [/us/stat/24/388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F24%2F388
-[/us/act/1919-06-30/ch4/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1919-06-30%2Fch4%2Fs10
+[/us/act/1919-06-30/ch4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1919-06-30%2Fch4
 [/us/stat/41/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F16
-[/us/act/1953-06-04/ch99/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-06-04%2Fch99%2Fs1
+[/us/act/1953-06-04/ch99]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-06-04%2Fch99
 [/us/stat/67/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F42
 [/us/act/1924-06-02/ch231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1924-06-02%2Fch231
 [/us/stat/43/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F43%2F252
@@ -736,9 +730,9 @@
 [/us/stat/67/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F42
 [/us/act/1953-06-04/ch99]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-06-04%2Fch99
 [/us/stat/67/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F42
-[/us/act/1917-03-02/ch146/s18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-03-02%2Fch146%2Fs18
+[/us/act/1917-03-02/ch146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-03-02%2Fch146
 [/us/stat/39/986]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F986
-[/us/act/1920-06-04/ch224/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-06-04%2Fch224%2Fs6
+[/us/act/1920-06-04/ch224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-06-04%2Fch224
 [/us/stat/41/753]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F753
 [/us/act/1926-05-25/ch403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1926-05-25%2Fch403
 [/us/stat/44/658]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F658
@@ -746,9 +740,9 @@
 [/us/stat/73/565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F565
 [/us/pl/90/308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F308
 [/us/stat/82/123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F123
-[/us/act/1953-08-15/ch502/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-08-15%2Fch502%2Fs4
+[/us/act/1953-08-15/ch502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-08-15%2Fch502
 [/us/stat/67/587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F587
-[/us/act/1920-06-04/ch224/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-06-04%2Fch224%2Fs9
+[/us/act/1920-06-04/ch224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-06-04%2Fch224
 [/us/stat/41/754]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F754
 [/us/act/1953-06-04/ch100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-06-04%2Fch100
 [/us/stat/67/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F42
@@ -775,7 +769,7 @@
 [/us/stat/34/539]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F34%2F539
 [/us/pl/95/496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F496
 [/us/stat/92/1660-1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1660-1664
-[/us/pl/98/605/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F605%2Fs2
+[/us/pl/98/605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F605
 [/us/stat/98/3163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3163
 [/us/act/1948-02-05/ch46]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-02-05%2Fch46
 [/us/stat/62/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F18
@@ -788,25 +782,25 @@
 [/us/stat/62/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F18
 [/us/act/1948-02-05/ch46]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-02-05%2Fch46
 [/us/stat/62/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F18
-[/us/act/1929-03-02/ch493/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1929-03-02%2Fch493%2Fs4
+[/us/act/1929-03-02/ch493]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1929-03-02%2Fch493
 [/us/stat/45/1480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F45%2F1480
 [/us/act/1938-06-24/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-24%2Fch645
 [/us/stat/52/1034]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F1034
-[/us/act/1912-04-18/ch83/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1912-04-18%2Fch83%2Fs8
+[/us/act/1912-04-18/ch83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1912-04-18%2Fch83
 [/us/stat/37/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F37%2F88
-[/us/act/1912-04-18/ch83/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1912-04-18%2Fch83%2Fs3
+[/us/act/1912-04-18/ch83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1912-04-18%2Fch83
 [/us/stat/37/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F37%2F86
 [/us/usc/t1/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft1%2Fs1
 [/us/stat/34/539]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F34%2F539
 [/us/stat/37/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F37%2F86
 [/us/stat/43/1008]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F43%2F1008
-[/us/pl/95/496/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F496%2Fs3%2Fa
+[/us/pl/95/496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F496
 [/us/stat/92/1660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1660
 [/us/act/1948-02-05/ch46]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-02-05%2Fch46
 [/us/stat/62/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F18
-[/us/act/1947-08-04/ch474/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-08-04%2Fch474%2Fs1
+[/us/act/1947-08-04/ch474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-08-04%2Fch474
 [/us/stat/61/747]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F747
-[/us/pl/85/857/s13/n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F857%2Fs13%2Fn
+[/us/pl/85/857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F857
 [/us/stat/72/1266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1266
 [/us/stat/43/1008]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F43%2F1008
 [/us/stat/45/1478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F45%2F1478
@@ -821,7 +815,7 @@
 [/us/pl/98/605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F605
 [/us/stat/98/3163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3163
 [/us/pl/95/496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F496
-[/us/act/1929-03-02/ch493/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1929-03-02%2Fch493%2Fs5
+[/us/act/1929-03-02/ch493]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1929-03-02%2Fch493
 [/us/stat/45/1481]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F45%2F1481
 [/us/act/1924-04-12/ch95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1924-04-12%2Fch95
 [/us/stat/43/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F43%2F94
@@ -845,21 +839,21 @@
 [/us/act/1924-06-07/s19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1924-06-07%2Fs19
 [/us/act/1924-06-07/ch331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1924-06-07%2Fch331
 [/us/stat/43/636]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F43%2F636
-[/us/act/1933-05-31/ch45/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-05-31%2Fch45%2Fs7
+[/us/act/1933-05-31/ch45]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-05-31%2Fch45
 [/us/stat/48/111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F111
-[/us/pl/109/133/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F133%2Fs1
+[/us/pl/109/133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F133
 [/us/stat/119/2573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2573
 [/us/pl/99/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F264
 [/us/stat/100/61]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F61
-[/us/pl/100/153/s6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F153%2Fs6%2Fa
+[/us/pl/100/153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F153
 [/us/stat/101/887]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F887
-[/us/pl/100/212/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F212%2Fs4
+[/us/pl/100/212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F212
 [/us/stat/101/1443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1443
-[/us/pl/101/301/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F301%2Fs8
+[/us/pl/101/301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F301
 [/us/stat/104/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F210
-[/us/pl/102/572/s902/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2Fs902%2Fb%2F2
+[/us/pl/102/572/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2FtIX
 [/us/stat/106/4516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4516
-[/us/pl/103/263/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F263%2Fs4
+[/us/pl/103/263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F263
 [/us/stat/108/708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F708
 [/us/stat/25/642]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F25%2F642
 [/us/stat/24/388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F24%2F388
@@ -874,14 +868,5 @@
 [/us/usc/t42/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs301
 [/us/act/1925-03-03/ch431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1925-03-03%2Fch431
 [/us/stat/43/1114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F43%2F1114
-[/us/pl/106/462/s106/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F462%2Fs106%2Fa%2F1
-[/us/stat/114/2007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2007
-[/us/act/1887-02-08/ch119/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1887-02-08%2Fch119%2Fs2
-[/us/stat/24/388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F24%2F388
-[/us/act/1887-02-08/ch119/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1887-02-08%2Fch119%2Fs3
-[/us/stat/24/389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F24%2F389
-[/us/act/1910-06-25/ch431/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1910-06-25%2Fch431%2Fs9
-[/us/stat/36/858]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F858
-[/us/stat/60/1100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F1100
 
 

@@ -17,7 +17,7 @@
 
     The Commissioner of Indian Affairs is authorized in his discretion to withhold any annuities or other payments due to Osage Indian minors, above six years of age, whose parents fail, neglect, or refuse to place such minors in some established school for a reasonable portion of each year and to keep such children in regular attendance thereof. The Commissioner of Indian Affairs is authorized to make such rules and regulations as may be necessary to put this provision into force and effect.
 
-([June 30, 1913, ch. 4, § 18][/us/act/1913-06-30/ch4/s18], [38 Stat. 96][/us/stat/38/96].)
+([June 30, 1913, ch. 4][/us/act/1913-06-30/ch4], § 18, [38 Stat. 96][/us/stat/38/96].)
 
  __Transfer of Functions__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1913-06-30/ch4/s18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-06-30%2Fch4%2Fs18
+[/us/act/1913-06-30/ch4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-06-30%2Fch4
 [/us/stat/38/96]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F96
 [/us/stat/64/1262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1262
 

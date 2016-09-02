@@ -21,7 +21,7 @@
 
  __Codification__ 
 
-    R.S. § 2104 derived from [act May 21, 1872, ch. 177, § 3][/us/act/1872-05-21/ch177/s3], [17 Stat. 137][/us/stat/17/137].
+    R.S. § 2104 derived from [act May 21, 1872, ch. 177][/us/act/1872-05-21/ch177], § 3, [17 Stat. 137][/us/stat/17/137].
 
  __Transfer of Functions__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/act/1872-05-21/ch177/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1872-05-21%2Fch177%2Fs3
+[/us/act/1872-05-21/ch177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1872-05-21%2Fch177
 [/us/stat/17/137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F17%2F137
 [/us/stat/64/1262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1262
 

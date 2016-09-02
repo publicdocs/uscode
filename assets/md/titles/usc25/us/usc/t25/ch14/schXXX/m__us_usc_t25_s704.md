@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Section, [act Aug. 13, 1954, ch. 733, § 14][/us/act/1954-08-13/ch733/s14], [68 Stat. 727][/us/stat/68/727], which revoked corporate charter of Confederated Tribes of Grand Ronde Community of Oregon and provided for termination of Federal power with regard to tribe, was omitted in view of Federal recognition and restoration of corporate charter of Confederated Tribes of Grand Ronde Community of Oregon by [section 713b of this title][/us/usc/t25/s713b].
+    Section, [act Aug. 13, 1954, ch. 733][/us/act/1954-08-13/ch733], § 14, [68 Stat. 727][/us/stat/68/727], which revoked corporate charter of Confederated Tribes of Grand Ronde Community of Oregon and provided for termination of Federal power with regard to tribe, was omitted in view of Federal recognition and restoration of corporate charter of Confederated Tribes of Grand Ronde Community of Oregon by [section 713b of this title][/us/usc/t25/s713b].
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1954-08-13/ch733/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-13%2Fch733%2Fs14
+[/us/act/1954-08-13/ch733]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-13%2Fch733
 [/us/stat/68/727]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F727
 [/us/usc/t25/s713b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs713b
 

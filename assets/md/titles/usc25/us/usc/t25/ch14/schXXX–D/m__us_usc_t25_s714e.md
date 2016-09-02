@@ -35,7 +35,7 @@
 
         The State of Oregon shall exercise criminal and civil jurisdiction over the reservation, and over the individuals on the reservation, in accordance with [section 1162 of title 18][/us/usc/t18/s1162] and [section 1360 of title 28][/us/usc/t28/s1360], respectively.
 
-([Pub. L. 98–481, § 7][/us/pl/98/481/s7], Oct. 17, 1984, [98 Stat. 2253][/us/stat/98/2253]; [Pub. L. 105–256, § 5][/us/pl/105/256/s5], Oct. 14, 1998, [112 Stat. 1897][/us/stat/112/1897].)
+([Pub. L. 98–481][/us/pl/98/481], § 7, Oct. 17, 1984, [98 Stat. 2253][/us/stat/98/2253]; [Pub. L. 105–256][/us/pl/105/256], § 5, Oct. 14, 1998, [112 Stat. 1897][/us/stat/112/1897].)
 
  __Amendments__ 
 
@@ -50,9 +50,9 @@
 
 [/us/usc/t18/s1162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1162
 [/us/usc/t28/s1360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1360
-[/us/pl/98/481/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F481%2Fs7
+[/us/pl/98/481]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F481
 [/us/stat/98/2253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2253
-[/us/pl/105/256/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F256%2Fs5
+[/us/pl/105/256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F256
 [/us/stat/112/1897]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1897
 [/us/pl/105/256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F256
 

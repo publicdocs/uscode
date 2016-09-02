@@ -23,7 +23,7 @@
 
         The activities required to be performed by the Director under this chapter shall be coordinated with activities related to solid waste and sanitation facilities funded pursuant to other authorizations.
 
-([Pub. L. 103–399, § 8][/us/pl/103/399/s8], Oct. 22, 1994, [108 Stat. 4168][/us/stat/108/4168].)
+([Pub. L. 103–399][/us/pl/103/399], § 8, Oct. 22, 1994, [108 Stat. 4168][/us/stat/108/4168].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/103/399/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F399%2Fs8
+[/us/pl/103/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F399
 [/us/stat/108/4168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4168
 
 

@@ -17,7 +17,7 @@
 
     Prior to any revision of or amendment to rules or regulations promulgated pursuant to this chapter, the Secretary shall consult with Indian tribes and appropriate national or regional Indian organizations and shall publish any proposed revision or amendment in the Federal Register not less than sixty days prior to the effective date of such revision or amendment in order to provide adequate notice to, and receive comments from, other interested parties.
 
-([Pub. L. 94–437, title VIII, § 802][/us/pl/94/437/s802], formerly title VII, § 702, Sept. 30, 1976, [90 Stat. 1413][/us/stat/90/1413]; renumbered title VIII, § 802, and amended [Pub. L. 102–573, title VII, § 701(a)][/us/pl/102/573/s701/a], (b), title VIII, § 802, Oct. 29, 1992, [106 Stat. 4572][/us/stat/106/4572], 4585.)
+([Pub. L. 94–437, title VIII][/us/pl/94/437/tVIII], § 802, formerly title VII, § 702, Sept. 30, 1976, [90 Stat. 1413][/us/stat/90/1413]; renumbered title VIII, § 802, and amended [Pub. L. 102–573, title VII][/us/pl/102/573/tVII], § 701(a), (b), title VIII, § 802, Oct. 29, 1992, [106 Stat. 4572][/us/stat/106/4572], 4585.)
 
  __References in Text__ 
 
@@ -25,7 +25,7 @@
 
  __Amendments__ 
 
-    1992—[Pub. L. 102–573, § 802][/us/pl/102/573/s802], amended section generally, substituting present provisions for former provisions relating in subsec. (a) to consideration, formulation, proposal, and promulgation of regulations and in subsec. (b) to revision and amendment of regulations.
+    1992—[Pub. L. 102–573][/us/pl/102/573], § 802, amended section generally, substituting present provisions for former provisions relating in subsec. (a) to consideration, formulation, proposal, and promulgation of regulations and in subsec. (b) to revision and amendment of regulations.
 
 ----------
 
@@ -34,13 +34,13 @@
 ----------
 ----------
 
-[/us/pl/94/437/s802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437%2Fs802
+[/us/pl/94/437/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437%2FtVIII
 [/us/stat/90/1413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1413
-[/us/pl/102/573/s701/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2Fs701%2Fa
+[/us/pl/102/573/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2FtVII
 [/us/stat/106/4572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4572
 [/us/pl/94/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437
 [/us/stat/90/1400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1400
 [/us/usc/t25/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1601
-[/us/pl/102/573/s802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2Fs802
+[/us/pl/102/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573
 
 

@@ -17,7 +17,7 @@
 
     Every person whose name appears on the roll prepared hereunder who holds no vested right, title, or interest in or to any restricted or trust land on the Yakima Reservation or within the area ceded by the treaty of June 9, 1855, and who has failed to maintain any tribal affiliations or a residence on the reservation or within the ceded area for a period of five consecutive years, shall no longer be considered a member of the Yakima Tribes, and his name shall be removed from the rolls. It shall be the duty of the Yakima Tribal Council to determine, subject to review by the Secretary of the Interior, loss of membership in each case.
 
-([Aug. 9, 1946, ch. 933, § 4][/us/act/1946-08-09/ch933/s4], [60 Stat. 969][/us/stat/60/969].)
+([Aug. 9, 1946, ch. 933][/us/act/1946-08-09/ch933], § 4, [60 Stat. 969][/us/stat/60/969].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1946-08-09/ch933/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-09%2Fch933%2Fs4
+[/us/act/1946-08-09/ch933]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-09%2Fch933
 [/us/stat/60/969]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F969
 [/us/act/1946-08-09/ch933]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-09%2Fch933
 [/us/stat/60/968]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F968

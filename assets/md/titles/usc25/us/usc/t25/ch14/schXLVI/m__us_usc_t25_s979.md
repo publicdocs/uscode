@@ -17,7 +17,7 @@
 
     Such amounts of tribal funds as may be needed to meet the expenses of the tribe under this subchapter, as approved by the Secretary of the Interior, shall be available for expenditure. There is authorized to be appropriated out of any moneys in the Treasury not otherwise appropriated such sums as may be necessary to reimburse the tribe for such expenditures, and carry out the responsibilities of the Secretary under the provisions of this subchapter.
 
-([Pub. L. 87–629, § 9][/us/pl/87/629/s9], Sept. 5, 1962, [76 Stat. 430][/us/stat/76/430].)
+([Pub. L. 87–629][/us/pl/87/629], § 9, Sept. 5, 1962, [76 Stat. 430][/us/stat/76/430].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/87/629/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F629%2Fs9
+[/us/pl/87/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F629
 [/us/stat/76/430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F430
 
 

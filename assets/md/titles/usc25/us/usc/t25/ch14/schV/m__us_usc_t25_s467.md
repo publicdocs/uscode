@@ -17,7 +17,7 @@
 
     The Secretary of the Interior is hereby authorized to proclaim new Indian reservations on lands acquired pursuant to any authority conferred by this Act, or to add such lands to existing reservations: Provided, That lands added to existing reservations shall be designated for the exclusive use of Indians entitled by enrollment or by tribal membership to residence at such reservations.
 
-([June 18, 1934, ch. 576, § 7][/us/act/1934-06-18/ch576/s7], [48 Stat. 986][/us/stat/48/986].)
+([June 18, 1934, ch. 576][/us/act/1934-06-18/ch576], § 7, [48 Stat. 986][/us/stat/48/986].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1934-06-18/ch576/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-18%2Fch576%2Fs7
+[/us/act/1934-06-18/ch576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-18%2Fch576
 [/us/stat/48/986]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F986
 [/us/usc/t25/s461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs461
 

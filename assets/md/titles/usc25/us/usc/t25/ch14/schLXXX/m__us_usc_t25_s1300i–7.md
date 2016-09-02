@@ -17,7 +17,7 @@
 
     The existing govening  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “governing”. </sup></sup>  documents of the Hoopa Valley Tribe and the governing body established and elected thereunder, as heretofore recognized by the Secretary, are hereby ratified and confirmed.
 
-([Pub. L. 100–580, § 8][/us/pl/100/580/s8], Oct. 31, 1988, [102 Stat. 2932][/us/stat/102/2932].)
+([Pub. L. 100–580][/us/pl/100/580], § 8, Oct. 31, 1988, [102 Stat. 2932][/us/stat/102/2932].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/100/580/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F580%2Fs8
+[/us/pl/100/580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F580
 [/us/stat/102/2932]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2932
 
 

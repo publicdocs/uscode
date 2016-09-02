@@ -17,7 +17,7 @@
 
     No part of the expenses of the public lands service shall be deducted from the proceeds of Indian lands sold through the Bureau of Land Management, except as authorized by the treaty or agreement providing for the disposition of the lands.
 
-([July 4, 1884, ch. 180, § 10][/us/act/1884-07-04/ch180/s10], [23 Stat. 98][/us/stat/23/98]; 1946 Reorg. Plan No. 3, § 403, eff. July 16, 1946, 11 F.R. 7876, [60 Stat. 1100][/us/stat/60/1100].)
+([July 4, 1884, ch. 180][/us/act/1884-07-04/ch180], § 10, [23 Stat. 98][/us/stat/23/98]; 1946 Reorg. Plan No. 3, § 403, eff. July 16, 1946, 11 F.R. 7876, [60 Stat. 1100][/us/stat/60/1100].)
 
  __Transfer of Functions__ 
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/act/1884-07-04/ch180/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1884-07-04%2Fch180%2Fs10
+[/us/act/1884-07-04/ch180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1884-07-04%2Fch180
 [/us/stat/23/98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F23%2F98
 [/us/stat/60/1100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F1100
 [/us/stat/64/1262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1262

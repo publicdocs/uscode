@@ -39,7 +39,7 @@
 
         Except as specifically provided in this subchapter, nothing in this subchapter shall alter any property right or obligation, any contractual right or obligation, or any obligation for taxes levied.
 
-([Pub. L. 101–42, § 3][/us/pl/101/42/s3], June 28, 1989, [103 Stat. 91][/us/stat/103/91].)
+([Pub. L. 101–42][/us/pl/101/42], § 3, June 28, 1989, [103 Stat. 91][/us/stat/103/91].)
 
  __References in Text__ 
 
@@ -61,7 +61,7 @@
 [/us/usc/t26/s7871]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs7871
 [/us/stat/48/984]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F984
 [/us/usc/t25/s461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs461
-[/us/pl/101/42/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F42%2Fs3
+[/us/pl/101/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F42
 [/us/stat/103/91]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F91
 [/us/act/1954-08-13/ch733]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-13%2Fch733
 [/us/stat/68/724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F724

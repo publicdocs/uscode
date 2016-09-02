@@ -57,11 +57,11 @@
 
         Nothing in this section or in the Settlement Agreement shall be construed to impair, eliminate, or in any way affect the title of any individual Indian to land held by such individual in fee or in trust, nor shall it affect the personal claim of any individual Indian as to claims regarding past sales of allotted lands or any claim which is pursued under any law of general applicability that protects non-Indians as well as Indians.
 
-([Pub. L. 101–41, § 3][/us/pl/101/41/s3], June 21, 1989, [103 Stat. 84][/us/stat/103/84].)
+([Pub. L. 101–41][/us/pl/101/41], § 3, June 21, 1989, [103 Stat. 84][/us/stat/103/84].)
 
  __Effective Date__ 
 
-[Pub. L. 101–41, § 13][/us/pl/101/41/s13], June 21, 1989, [103 Stat. 90][/us/stat/103/90], provided that: 
+[Pub. L. 101–41][/us/pl/101/41], § 13, June 21, 1989, [103 Stat. 90][/us/stat/103/90], provided that: 
 
 > “Sections 3 and 9 \[this section and [section 1773g of this title][/us/usc/t25/s1773g]\] shall take effect on the effective date of the Settlement Agreement and when all terms are met as stated under section X of the Settlement Agreement.”
 
@@ -72,9 +72,9 @@
 ----------
 ----------
 
-[/us/pl/101/41/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F41%2Fs3
+[/us/pl/101/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F41
 [/us/stat/103/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F84
-[/us/pl/101/41/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F41%2Fs13
+[/us/pl/101/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F41
 [/us/stat/103/90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F90
 [/us/usc/t25/s1773g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1773g
 

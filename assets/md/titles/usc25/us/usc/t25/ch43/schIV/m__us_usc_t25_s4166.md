@@ -17,7 +17,7 @@
 
     To the extent that the financial transactions of Indian tribes and recipients of grant amounts under this chapter relate to amounts provided under this chapter, such transactions may be audited by the Comptroller General of the United States under such rules and regulations as may be prescribed by the Comptroller General. The representatives of the Government Accountability Office shall have access to all books, accounts, records, reports, files, and other papers, things, or property belonging to or in use by such tribes and recipients pertaining to such financial transactions and necessary to facilitate the audit.
 
-([Pub. L. 104–330, title IV, § 406][/us/pl/104/330/s406], Oct. 26, 1996, [110 Stat. 4041][/us/stat/110/4041]; [Pub. L. 108–271, § 8(b)][/us/pl/108/271/s8/b], July 7, 2004, [118 Stat. 814][/us/stat/118/814].)
+([Pub. L. 104–330, title IV][/us/pl/104/330/tIV], § 406, Oct. 26, 1996, [110 Stat. 4041][/us/stat/110/4041]; [Pub. L. 108–271][/us/pl/108/271], § 8(b), July 7, 2004, [118 Stat. 814][/us/stat/118/814].)
 
  __References in Text__ 
 
@@ -38,9 +38,9 @@
 ----------
 ----------
 
-[/us/pl/104/330/s406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330%2Fs406
+[/us/pl/104/330/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330%2FtIV
 [/us/stat/110/4041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F4041
-[/us/pl/108/271/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271%2Fs8%2Fb
+[/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
 [/us/stat/118/814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F814
 [/us/pl/104/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330
 [/us/stat/110/4016]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F4016

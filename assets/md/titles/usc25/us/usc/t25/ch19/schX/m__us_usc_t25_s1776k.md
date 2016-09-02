@@ -17,7 +17,7 @@
 
     There are authorized to be appropriated to the Department of the Interior such sums as are necessary to carry out this subchapter.
 
-([Pub. L. 103–444, § 13][/us/pl/103/444/s13], Nov. 2, 1994, [108 Stat. 4643][/us/stat/108/4643].)
+([Pub. L. 103–444][/us/pl/103/444], § 13, Nov. 2, 1994, [108 Stat. 4643][/us/stat/108/4643].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/103/444/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F444%2Fs13
+[/us/pl/103/444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F444
 [/us/stat/108/4643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4643
 
 

@@ -27,7 +27,7 @@
 
     are extended over and made applicable to the Pueblo Indians of New Mexico and their lands, whether owned by the Pueblo Indians or held in trust or set aside for their use and occupancy by Executive order or otherwise, under such rules, regulations, and conditions as the Secretary of the Interior may prescribe.
 
-([Apr. 21, 1928, ch. 400, § 1][/us/act/1928-04-21/ch400/s1], [45 Stat. 442][/us/stat/45/442]; [Pub. L. 94–416, § 3][/us/pl/94/416/s3], Sept. 17, 1976, [90 Stat. 1275][/us/stat/90/1275].)
+([Apr. 21, 1928, ch. 400][/us/act/1928-04-21/ch400], § 1, [45 Stat. 442][/us/stat/45/442]; [Pub. L. 94–416][/us/pl/94/416], § 3, Sept. 17, 1976, [90 Stat. 1275][/us/stat/90/1275].)
 
  __Amendments__ 
 
@@ -45,9 +45,9 @@
 ----------
 
 [/us/usc/t25/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs321
-[/us/act/1928-04-21/ch400/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-04-21%2Fch400%2Fs1
+[/us/act/1928-04-21/ch400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-04-21%2Fch400
 [/us/stat/45/442]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F45%2F442
-[/us/pl/94/416/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F416%2Fs3
+[/us/pl/94/416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F416
 [/us/stat/90/1275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1275
 [/us/pl/94/416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F416
 [/us/usc/t43/s935]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs935

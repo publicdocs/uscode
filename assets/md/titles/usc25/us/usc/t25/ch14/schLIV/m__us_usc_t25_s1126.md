@@ -17,7 +17,7 @@
 
     On completion of the roll by the Secretary of the Interior, the balance of the funds appropriated to satisfy the judgments in dockets numbered 255 and 124–C, dockets numbered 256, 124–D, E, and F, and dockets numbered 131 and 253, and interest accumulated thereon, shall be distributed equally to the individuals enrolled.
 
-([Pub. L. 92–309, § 5][/us/pl/92/309/s5], June 2, 1972, [86 Stat. 200][/us/stat/86/200].)
+([Pub. L. 92–309][/us/pl/92/309], § 5, June 2, 1972, [86 Stat. 200][/us/stat/86/200].)
 
  __Codification__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/92/309/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F309%2Fs5
+[/us/pl/92/309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F309
 [/us/stat/86/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F200
 [/us/pl/89/659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F659
 [/us/stat/80/909]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F909

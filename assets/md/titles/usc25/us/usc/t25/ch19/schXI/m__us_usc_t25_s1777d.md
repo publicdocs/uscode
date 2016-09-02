@@ -39,7 +39,7 @@
 
         (2) affect actions taken prior to November 1, 2000, to manage federally administered lands within the boundaries of the Santo Domingo Pueblo Grant.
 
-([Pub. L. 106–425, § 6][/us/pl/106/425/s6], Nov. 1, 2000, [114 Stat. 1895][/us/stat/114/1895].)
+([Pub. L. 106–425][/us/pl/106/425], § 6, Nov. 1, 2000, [114 Stat. 1895][/us/stat/114/1895].)
 
  __References in Text__ 
 
@@ -61,7 +61,7 @@
 [/us/act/1924-06-07/s17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1924-06-07%2Fs17
 [/us/stat/43/641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F43%2F641
 [/us/usc/t25/s1777c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1777c
-[/us/pl/106/425/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F425%2Fs6
+[/us/pl/106/425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F425
 [/us/stat/114/1895]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1895
 [/us/act/1924-06-07/ch331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1924-06-07%2Fch331
 [/us/stat/43/636]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F43%2F636

@@ -27,7 +27,7 @@
 
         The Secretary of the Interior is authorized to transfer, upon request of the Navajo Tribal Council, to any corporation owned by the tribe and organized pursuant to State law, or to any municipal corporation organized under State law, legal title to or a leasehold interest in any unallotted lands held for the Navajo Indian Tribe, and thereafter the United States shall have no responsibility or liability for, but on request of the tribe shall render advice and assistance in, the management, use, or disposition of such lands.
 
-([Apr. 19, 1950, ch. 92, § 5][/us/act/1950-04-19/ch92/s5], [64 Stat. 46][/us/stat/64/46]; [Pub. L. 86–505, § 1][/us/pl/86/505/s1], June 11, 1960, [74 Stat. 199][/us/stat/74/199].)
+([Apr. 19, 1950, ch. 92][/us/act/1950-04-19/ch92], § 5, [64 Stat. 46][/us/stat/64/46]; [Pub. L. 86–505][/us/pl/86/505], § 1, June 11, 1960, [74 Stat. 199][/us/stat/74/199].)
 
  __Amendments__ 
 
@@ -41,9 +41,9 @@
 ----------
 
 [/us/usc/t25/s380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs380
-[/us/act/1950-04-19/ch92/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-04-19%2Fch92%2Fs5
+[/us/act/1950-04-19/ch92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-04-19%2Fch92
 [/us/stat/64/46]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F46
-[/us/pl/86/505/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F505%2Fs1
+[/us/pl/86/505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F505
 [/us/stat/74/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F199
 [/us/pl/86/505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F505
 

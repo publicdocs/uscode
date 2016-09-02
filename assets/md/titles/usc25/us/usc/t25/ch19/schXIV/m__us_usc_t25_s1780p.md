@@ -17,7 +17,7 @@
 
     There are authorized to be appropriated such funds as are necessary to carry out this subchapter.
 
-([Pub. L. 109–286, § 18][/us/pl/109/286/s18], Sept. 27, 2006, [120 Stat. 1230][/us/stat/120/1230].)
+([Pub. L. 109–286][/us/pl/109/286], § 18, Sept. 27, 2006, [120 Stat. 1230][/us/stat/120/1230].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/109/286/s18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F286%2Fs18
+[/us/pl/109/286]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F286
 [/us/stat/120/1230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1230
 
 

@@ -21,7 +21,7 @@
 
     (b) The Secretary shall distribute a share payable to a living enrollee directly to such enrollee. The per capita share of a deceased enrollee shall be paid to his heirs or legatees upon proof of death and inheritance satisfactory to the Secretary, whose findings upon such proof shall be final and conclusive. A share or interest therein payable to enrollees or their heirs or legatees who are less than twenty-one years of age or who are under legal disability shall be paid in accordance with such procedures, including the establishment of trusts, as the Secretary determines appropriate to protect the best interest of such persons.
 
-([Pub. L. 92–206, § 6][/us/pl/92/206/s6], Dec. 18, 1971, [85 Stat. 738][/us/stat/85/738].)
+([Pub. L. 92–206][/us/pl/92/206], § 6, Dec. 18, 1971, [85 Stat. 738][/us/stat/85/738].)
 
 ----------
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/92/206/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F206%2Fs6
+[/us/pl/92/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F206
 [/us/stat/85/738]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F738
 
 

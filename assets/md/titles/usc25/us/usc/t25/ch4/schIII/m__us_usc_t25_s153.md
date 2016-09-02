@@ -21,7 +21,7 @@
 
  __Codification__ 
 
-    R.S. § 2094 derived from [act Jan. 9, 1837, ch. 1, § 2][/us/act/1837-01-09/ch1/s2], [5 Stat. 135][/us/stat/5/135].
+    R.S. § 2094 derived from [act Jan. 9, 1837, ch. 1][/us/act/1837-01-09/ch1], § 2, [5 Stat. 135][/us/stat/5/135].
 
 ----------
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t25/s152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs152
-[/us/act/1837-01-09/ch1/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1837-01-09%2Fch1%2Fs2
+[/us/act/1837-01-09/ch1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1837-01-09%2Fch1
 [/us/stat/5/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F5%2F135
 
 

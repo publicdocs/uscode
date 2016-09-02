@@ -25,11 +25,11 @@
 
     (d) All children of one-fourth or more blood of the Yakima Tribes born after August 9, 1946, to a parent who is an enrolled member and maintains a domicile on the Yakima Reservation or within the area ceded by the treaty of June 9, 1855, at the time of the birth of the child.
 
-([Aug. 9, 1946, ch. 933, § 1][/us/act/1946-08-09/ch933/s1], [60 Stat. 968][/us/stat/60/968].)
+([Aug. 9, 1946, ch. 933][/us/act/1946-08-09/ch933], § 1, [60 Stat. 968][/us/stat/60/968].)
 
  __Redesignation of Yakima Indian Nation to Yakama Indian Nation__ 
 
-[Pub. L. 103–435, § 17][/us/pl/103/435/s17], Nov. 2, 1994, [108 Stat. 4573][/us/stat/108/4573], provided that:
+[Pub. L. 103–435][/us/pl/103/435], § 17, Nov. 2, 1994, [108 Stat. 4573][/us/stat/108/4573], provided that:
 
 >     “(a)  __Redesignation__  __.—__ 
 
@@ -48,9 +48,9 @@
 
 [/us/stat/12/951]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F12%2F951
 [/us/stat/12/951]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F12%2F951
-[/us/act/1946-08-09/ch933/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-09%2Fch933%2Fs1
+[/us/act/1946-08-09/ch933]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-09%2Fch933
 [/us/stat/60/968]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F968
-[/us/pl/103/435/s17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F435%2Fs17
+[/us/pl/103/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F435
 [/us/stat/108/4573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4573
 
 

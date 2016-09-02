@@ -27,11 +27,11 @@
 
     (5) because of its distance from Keweenaw Bay and the failure of the United States to recognize the independent status of the tribe, the Lac Vieux Desert Band and its members receive only limited benefits to which the tribe and its members are entitled.
 
-([Pub. L. 100–420, § 2][/us/pl/100/420/s2], Sept. 8, 1988, [102 Stat. 1577][/us/stat/102/1577].)
+([Pub. L. 100–420][/us/pl/100/420], § 2, Sept. 8, 1988, [102 Stat. 1577][/us/stat/102/1577].)
 
  __Short Title__ 
 
-[Pub. L. 100–420, § 1][/us/pl/100/420/s1], Sept. 8, 1988, [102 Stat. 1577][/us/stat/102/1577], provided that: 
+[Pub. L. 100–420][/us/pl/100/420], § 1, Sept. 8, 1988, [102 Stat. 1577][/us/stat/102/1577], provided that: 
 
 > “This Act \[enacting this subchapter\] may be cited as the ‘Lac Vieux Desert Band of Lake Superior Chippewa Indians Act’.”
 
@@ -44,9 +44,9 @@
 
 [/us/stat/7/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F7%2F591
 [/us/stat/10/1109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F10%2F1109
-[/us/pl/100/420/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F420%2Fs2
+[/us/pl/100/420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F420
 [/us/stat/102/1577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1577
-[/us/pl/100/420/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F420%2Fs1
+[/us/pl/100/420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F420
 [/us/stat/102/1577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1577
 
 

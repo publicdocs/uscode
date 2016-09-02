@@ -61,7 +61,7 @@
 
     (10) “without regard to waste” means, with respect to a life estate interest in land, that the holder of such estate is entitled to the receipt of all income, including bonuses and royalties, from such land to the exclusion of the remaindermen.
 
-([Pub. L. 97–459, title II, § 202][/us/pl/97/459/s202], Jan. 12, 1983, [96 Stat. 2517][/us/stat/96/2517]; [Pub. L. 106–462, title I, § 103(1)][/us/pl/106/462/s103/1], Nov. 7, 2000, [114 Stat. 1992][/us/stat/114/1992]; [Pub. L. 108–374, § 6(b)][/us/pl/108/374/s6/b], Oct. 27, 2004, [118 Stat. 1804][/us/stat/118/1804]; [Pub. L. 110–453, title II, § 207(a)][/us/pl/110/453/s207/a], Dec. 2, 2008, [122 Stat. 5030][/us/stat/122/5030].)
+([Pub. L. 97–459, title II][/us/pl/97/459/tII], § 202, Jan. 12, 1983, [96 Stat. 2517][/us/stat/96/2517]; [Pub. L. 106–462, title I][/us/pl/106/462/tI], § 103(1), Nov. 7, 2000, [114 Stat. 1992][/us/stat/114/1992]; [Pub. L. 108–374][/us/pl/108/374], § 6(b), Oct. 27, 2004, [118 Stat. 1804][/us/stat/118/1804]; [Pub. L. 110–453, title II][/us/pl/110/453/tII], § 207(a), Dec. 2, 2008, [122 Stat. 5030][/us/stat/122/5030].)
 
  __References in Text__ 
 
@@ -71,25 +71,25 @@
 
  __Amendments__ 
 
-    2008—Par. (4). [Pub. L. 110–453, § 207(a)(1)][/us/pl/110/453/s207/a/1], designated existing provisions as cls. (i) and (ii) and, in cl. (ii), substituted “an interest in land, the title to which interest” for “an interest in land, title to which”.
+    2008—Par. (4). [Pub. L. 110–453][/us/pl/110/453], § 207(a)(1), designated existing provisions as cls. (i) and (ii) and, in cl. (ii), substituted “an interest in land, the title to which interest” for “an interest in land, title to which”.
 
-    Par. (7). [Pub. L. 110–453, § 207(a)(2)][/us/pl/110/453/s207/a/2], added par. (7) and struck out former par. (7) which read as follows: “ ‘land’ means any real property, and includes within its meaning for purposes of this chapter improvements permanently affixed to real property;”.
+    Par. (7). [Pub. L. 110–453][/us/pl/110/453], § 207(a)(2), added par. (7) and struck out former par. (7) which read as follows: “ ‘land’ means any real property, and includes within its meaning for purposes of this chapter improvements permanently affixed to real property;”.
 
-    2004—Par. (2). [Pub. L. 108–374, § 6(b)(1)][/us/pl/108/374/s6/b/1], added par. (2) and struck out former par. (2) which read as follows: “ ‘Indian’ means any person who is a member of any Indian tribe or is eligible to become a member of any Indian tribe, or any person who has been found to meet the definition of ‘Indian’ under a provision of Federal law if the Secretary determines that using such law’s definition of Indian is consistent with the purposes of this chapter;”.
+    2004—Par. (2). [Pub. L. 108–374][/us/pl/108/374], § 6(b)(1), added par. (2) and struck out former par. (2) which read as follows: “ ‘Indian’ means any person who is a member of any Indian tribe or is eligible to become a member of any Indian tribe, or any person who has been found to meet the definition of ‘Indian’ under a provision of Federal law if the Secretary determines that using such law’s definition of Indian is consistent with the purposes of this chapter;”.
 
-    Par. (4). [Pub. L. 108–374, § 6(b)(2)][/us/pl/108/374/s6/b/2], added par. (4) and struck out former par. (4) which read as follows: “ ‘trust or restricted lands’ means lands, title to which is held by the United States in trust for an Indian or an Indian tribe or lands title to which is held by Indians or an Indian tribe subject to a restriction by the United States against alienation; and”.
+    Par. (4). [Pub. L. 108–374][/us/pl/108/374], § 6(b)(2), added par. (4) and struck out former par. (4) which read as follows: “ ‘trust or restricted lands’ means lands, title to which is held by the United States in trust for an Indian or an Indian tribe or lands title to which is held by Indians or an Indian tribe subject to a restriction by the United States against alienation; and”.
 
-    Pars. (6) to (10). [Pub. L. 108–374, § 6(b)(3)][/us/pl/108/374/s6/b/3], added pars. (6) to (10).
+    Pars. (6) to (10). [Pub. L. 108–374][/us/pl/108/374], § 6(b)(3), added pars. (6) to (10).
 
-    2000—Par. (1). [Pub. L. 106–462, § 103(1)(A)][/us/pl/106/462/s103/1/A], substituted “(1)‘Indian tribe’ or ‘tribe’ ” for “(1) ‘tribe’ ”.
+    2000—Par. (1). [Pub. L. 106–462][/us/pl/106/462], § 103(1)(A), substituted “(1)‘Indian tribe’ or ‘tribe’ ” for “(1) ‘tribe’ ”.
 
-    Par. (2). [Pub. L. 106–462, § 103(1)(B)][/us/pl/106/462/s103/1/B], added par. (2) and struck out former par. (2) which read as follows: “ ‘Indian’ means any person who is a member of a tribe or any person who is recognized as an Indian by the Secretary of the Interior;”.
+    Par. (2). [Pub. L. 106–462][/us/pl/106/462], § 103(1)(B), added par. (2) and struck out former par. (2) which read as follows: “ ‘Indian’ means any person who is a member of a tribe or any person who is recognized as an Indian by the Secretary of the Interior;”.
 
-    Par. (5). [Pub. L. 106–462, § 103(1)(C)][/us/pl/106/462/s103/1/C]–(E), added par. (5).
+    Par. (5). [Pub. L. 106–462][/us/pl/106/462], § 103(1)(C)–(E), added par. (5).
 
  __Notice; Effective Date of 2004 Amendment__ 
 
-[Pub. L. 108–374, § 8][/us/pl/108/374/s8], Oct. 27, 2004, [118 Stat. 1809][/us/stat/118/1809], as amended by [Pub. L. 109–221, title V, § 501(b)(3)][/us/pl/109/221/s501/b/3], May 12, 2006, [120 Stat. 344][/us/stat/120/344], provided that:
+[Pub. L. 108–374][/us/pl/108/374], § 8, Oct. 27, 2004, [118 Stat. 1809][/us/stat/118/1809], as amended by [Pub. L. 109–221, title V][/us/pl/109/221/tV], § 501(b)(3), May 12, 2006, [120 Stat. 344][/us/stat/120/344], provided that:
 
 >     “(a) __Notice.—__ 
 
@@ -147,49 +147,49 @@
 
  __Short Title of 2005 Amendment__ 
 
-[Pub. L. 109–157, § 1][/us/pl/109/157/s1], Dec. 30, 2005, [119 Stat. 2949][/us/stat/119/2949], provided that: 
+[Pub. L. 109–157][/us/pl/109/157], § 1, Dec. 30, 2005, [119 Stat. 2949][/us/stat/119/2949], provided that: 
 
 > “This Act \[amending sections 464, 2204 to 2206, 2212, 2214, and 2216 of this title, enacting provisions set out as a note under [section 464 of this title][/us/usc/t25/s464], and amending provisions set out as a note under this section\] may be cited as the ‘Indian Land Probate Reform Technical Corrections Act of 2005’.”
 
  __Short Title of 2004 Amendment__ 
 
-[Pub. L. 108–374, § 1][/us/pl/108/374/s1], Oct. 27, 2004, [118 Stat. 1773][/us/stat/118/1773], provided that: 
+[Pub. L. 108–374][/us/pl/108/374], § 1, Oct. 27, 2004, [118 Stat. 1773][/us/stat/118/1773], provided that: 
 
 > “This Act \[enacting sections 2220 and 2221 of this title, amending this section and sections 348, 464, 2204 to 2206, 2212 to 2216, and 2218 of this title, and enacting provisions set out as notes under this section\] may be cited as the ‘American Indian Probate Reform Act of 2004’.”
 
  __Short Title of 2000 Amendment__ 
 
-[Pub. L. 106–462, § 1][/us/pl/106/462/s1], Nov. 7, 2000, [114 Stat. 1991][/us/stat/114/1991], provided that: 
+[Pub. L. 106–462][/us/pl/106/462], § 1, Nov. 7, 2000, [114 Stat. 1991][/us/stat/114/1991], provided that: 
 
 > “This Act \[enacting sections 2205, 2206, and 2212 to 2219 of this title, amending this section and sections 348, 372, 373, 464, 2204, and 2207 of this title, repealing sections 331 to 333, 2205, and 2206 of this title, and enacting provisions set out as notes under this section and sections 396 and 2206 of this title\] may be cited as the ‘Indian Land Consolidation Act Amendments of 2000’.”
 
  __Short Title of 1991 Amendment__ 
 
-[Pub. L. 102–238, § 1][/us/pl/102/238/s1], Dec. 17, 1991, [105 Stat. 1908][/us/stat/105/1908], provided that: 
+[Pub. L. 102–238][/us/pl/102/238], § 1, Dec. 17, 1991, [105 Stat. 1908][/us/stat/105/1908], provided that: 
 
 > “This Act \[amending sections 2203, 2703, and 2718 of this title, enacting provisions set out as a note under [section 1437f of Title 42][/us/usc/t42/s1437f], The Public Health and Welfare, and repealing provisions set out as a note under [section 1437f of Title 42][/us/usc/t42/s1437f]\] may be cited as the ‘Technical Amendments to Various Indian Laws Act of 1991’.”
 
  __Short Title__ 
 
-[Pub. L. 97–459, title II, § 201][/us/pl/97/459/s201], Jan. 12, 1983, [96 Stat. 2517][/us/stat/96/2517], provided that: 
+[Pub. L. 97–459, title II][/us/pl/97/459/tII], § 201, Jan. 12, 1983, [96 Stat. 2517][/us/stat/96/2517], provided that: 
 
 > “This title \[enacting this chapter\] may be cited as the ‘Indian Land Consolidation Act’.”
 
  __Regulations__ 
 
-[Pub. L. 108–374, § 10][/us/pl/108/374/s10], Oct. 27, 2004, [118 Stat. 1810][/us/stat/118/1810], provided that: 
+[Pub. L. 108–374][/us/pl/108/374], § 10, Oct. 27, 2004, [118 Stat. 1810][/us/stat/118/1810], provided that: 
 
 > “The Secretary is authorized to adopt such regulations as may be necessary to implement the provisions of this Act \[see Short Title of 2004 Amendment note above\].”
 
  __Severability__ 
 
-[Pub. L. 108–374, § 9][/us/pl/108/374/s9], Oct. 27, 2004, [118 Stat. 1810][/us/stat/118/1810], as amended by [Pub. L. 109–157, § 8(a)(2)][/us/pl/109/157/s8/a/2], Dec. 30, 2005, [119 Stat. 2952][/us/stat/119/2952], provided that: 
+[Pub. L. 108–374][/us/pl/108/374], § 9, Oct. 27, 2004, [118 Stat. 1810][/us/stat/118/1810], as amended by [Pub. L. 109–157][/us/pl/109/157], § 8(a)(2), Dec. 30, 2005, [119 Stat. 2952][/us/stat/119/2952], provided that: 
 
 > “If any provision of this Act \[see Short Title of 2004 Amendment note above\] or of any amendment made by this Act, or the application of any such provision to any person or circumstance, is held to be invalid for any reason, the remainder of this Act and of amendments made by this Act, and the application of the provisions and of the amendments made by this Act to any other person or circumstance shall not be affected by such holding, except that each of subclauses (II), (III), and (IV) of section 205(c)(2)(I)(i) of the Indian Land Consolidation Act ([25 U.S.C. 2204(c)(2)(I)(i)][/us/usc/t25/s2204/c/2/I/i]) is deemed to be inseverable from the other 2, such that if any 1 of those 3 subclauses is held to be invalid for any reason, neither of the other 2 of such subclauses shall be given effect.”
 
  __Congressional Findings__ 
 
-[Pub. L. 108–374, § 2][/us/pl/108/374/s2], Oct. 27, 2004, [118 Stat. 1773][/us/stat/118/1773], provided that: 
+[Pub. L. 108–374][/us/pl/108/374], § 2, Oct. 27, 2004, [118 Stat. 1773][/us/stat/118/1773], provided that: 
 
 > “Congress finds that—
 
@@ -235,7 +235,7 @@
 
 >     “(5) the provisions of a uniform Federal probate code and other forth \[sic\] in this Act \[see Short Title of 2004 Amendment note above\] should operate to further the policy of the United States as stated in the Indian Land Consolidated Act Amendments of 2000, [Public Law 106–462][/us/pl/106/462], \[§\]102, November 7, 2000, [114 Stat. 1992][/us/stat/114/1992] \[set out as a note below\].”
 
-[Pub. L. 106–462, title I, § 101][/us/pl/106/462/s101], Nov. 7, 2000, [114 Stat. 1991][/us/stat/114/1991], provided that: 
+[Pub. L. 106–462, title I][/us/pl/106/462/tI], § 101, Nov. 7, 2000, [114 Stat. 1991][/us/stat/114/1991], provided that: 
 
 > “Congress finds that—
 
@@ -275,7 +275,7 @@
 
  __Declaration of Policy__ 
 
-[Pub. L. 106–462, title I, § 102][/us/pl/106/462/s102], Nov. 7, 2000, [114 Stat. 1992][/us/stat/114/1992], provided that: 
+[Pub. L. 106–462, title I][/us/pl/106/462/tI], § 102, Nov. 7, 2000, [114 Stat. 1992][/us/stat/114/1992], provided that: 
 
 > “It is the policy of the United States—
 
@@ -291,7 +291,7 @@
 
  __Authorization of Appropriations__ 
 
-[Pub. L. 106–462, title I, § 105][/us/pl/106/462/s105], Nov. 7, 2000, [114 Stat. 2007][/us/stat/114/2007], provided that: 
+[Pub. L. 106–462, title I][/us/pl/106/462/tI], § 105, Nov. 7, 2000, [114 Stat. 2007][/us/stat/114/2007], provided that: 
 
 > “There are authorized to be appropriated not to exceed $8,000,000 for fiscal year 2001 and each subsequent fiscal year to carry out the provisions of this title \[enacting sections 2205, 2206, and 2212 to 2219 of this title, amending this section and sections 348, 372, 373, 464, 2204, and 2207 of this title, repealing sections 331 to 333, 2205, and 2206 of this title, and enacting provisions set out as notes under this section and [section 2206 of this title][/us/usc/t25/s2206]\] (and the amendments made by this title) that are not otherwise funded under the authority provided for in any other provision of Federal law.”
 
@@ -306,67 +306,67 @@
 [/us/usc/t25/s2206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs2206
 [/us/usc/t25/s2206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs2206
 [/us/usc/t25/s2206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs2206
-[/us/pl/97/459/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F459%2Fs202
+[/us/pl/97/459/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F459%2FtII
 [/us/stat/96/2517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2517
-[/us/pl/106/462/s103/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F462%2Fs103%2F1
+[/us/pl/106/462/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F462%2FtI
 [/us/stat/114/1992]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1992
-[/us/pl/108/374/s6/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F374%2Fs6%2Fb
+[/us/pl/108/374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F374
 [/us/stat/118/1804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1804
-[/us/pl/110/453/s207/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F453%2Fs207%2Fa
+[/us/pl/110/453/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F453%2FtII
 [/us/stat/122/5030]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F5030
 [/us/act/1934-06-18/ch576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-18%2Fch576
 [/us/stat/48/984]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F984
 [/us/usc/t25/s479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs479
 [/us/usc/t25/s461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs461
 [/us/pl/97/459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F459
-[/us/pl/110/453/s207/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F453%2Fs207%2Fa%2F1
-[/us/pl/110/453/s207/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F453%2Fs207%2Fa%2F2
-[/us/pl/108/374/s6/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F374%2Fs6%2Fb%2F1
-[/us/pl/108/374/s6/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F374%2Fs6%2Fb%2F2
-[/us/pl/108/374/s6/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F374%2Fs6%2Fb%2F3
-[/us/pl/106/462/s103/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F462%2Fs103%2F1%2FA
-[/us/pl/106/462/s103/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F462%2Fs103%2F1%2FB
-[/us/pl/106/462/s103/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F462%2Fs103%2F1%2FC
-[/us/pl/108/374/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F374%2Fs8
+[/us/pl/110/453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F453
+[/us/pl/110/453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F453
+[/us/pl/108/374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F374
+[/us/pl/108/374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F374
+[/us/pl/108/374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F374
+[/us/pl/106/462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F462
+[/us/pl/106/462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F462
+[/us/pl/106/462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F462
+[/us/pl/108/374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F374
 [/us/stat/118/1809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1809
-[/us/pl/109/221/s501/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F221%2Fs501%2Fb%2F3
+[/us/pl/109/221/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F221%2FtV
 [/us/stat/120/344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F344
 [/us/usc/t25/s2206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs2206
 [/us/usc/t25/s2206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs2206
-[/us/pl/109/157/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F157%2Fs1
+[/us/pl/109/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F157
 [/us/stat/119/2949]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2949
 [/us/usc/t25/s464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs464
-[/us/pl/108/374/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F374%2Fs1
+[/us/pl/108/374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F374
 [/us/stat/118/1773]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1773
-[/us/pl/106/462/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F462%2Fs1
+[/us/pl/106/462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F462
 [/us/stat/114/1991]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1991
-[/us/pl/102/238/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F238%2Fs1
+[/us/pl/102/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F238
 [/us/stat/105/1908]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1908
 [/us/usc/t42/s1437f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437f
 [/us/usc/t42/s1437f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437f
-[/us/pl/97/459/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F459%2Fs201
+[/us/pl/97/459/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F459%2FtII
 [/us/stat/96/2517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2517
-[/us/pl/108/374/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F374%2Fs10
+[/us/pl/108/374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F374
 [/us/stat/118/1810]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1810
-[/us/pl/108/374/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F374%2Fs9
+[/us/pl/108/374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F374
 [/us/stat/118/1810]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1810
-[/us/pl/109/157/s8/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F157%2Fs8%2Fa%2F2
+[/us/pl/109/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F157
 [/us/stat/119/2952]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2952
 [/us/usc/t25/s2204/c/2/I/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs2204%2Fc%2F2%2FI%2Fi
-[/us/pl/108/374/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F374%2Fs2
+[/us/pl/108/374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F374
 [/us/stat/118/1773]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1773
 [/us/usc/t25/s331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs331
 [/us/usc/t25/s2205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs2205
 [/us/pl/106/462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F462
 [/us/stat/114/1992]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1992
-[/us/pl/106/462/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F462%2Fs101
+[/us/pl/106/462/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F462%2FtI
 [/us/stat/114/1991]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1991
 [/us/usc/t25/s2206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs2206
 [/us/usc/t25/s2206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs2206
 [/us/usc/t25/s2206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs2206
-[/us/pl/106/462/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F462%2Fs102
+[/us/pl/106/462/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F462%2FtI
 [/us/stat/114/1992]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1992
-[/us/pl/106/462/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F462%2Fs105
+[/us/pl/106/462/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F462%2FtI
 [/us/stat/114/2007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2007
 [/us/usc/t25/s2206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs2206
 

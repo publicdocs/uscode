@@ -27,7 +27,7 @@
 
         The remainder of said judgment fund, including interest thereon, after making the segregation provided for in [section 572 of this title][/us/usc/t25/s572], and after setting aside the respective amounts authorized by this section, shall be available for appropriation, upon the recommendation of the Secretary of the Interior, and with the consent of the tribe, for purposes of benefit to the tribe, including the establishment and administration of productive enterprises for the benefit of said tribe, and any income derived from such enterprises shall be credited to the Shoshone tribal judgment fund: Provided, That should such enterprises also benefit the Arapaho Tribe repayment proportionate to the benefit to the Arap­aho Tribe shall be made into the Shoshone judgment fund by the Arapaho Tribe out of such tribal income as the Arapaho Tribe may enjoy.
 
-([July 27, 1939, ch. 387, § 3][/us/act/1939-07-27/ch387/s3], [53 Stat. 1129][/us/stat/53/1129].)
+([July 27, 1939, ch. 387][/us/act/1939-07-27/ch387], § 3, [53 Stat. 1129][/us/stat/53/1129].)
 
 ----------
 
@@ -38,7 +38,7 @@
 
 [/us/usc/t25/s576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs576
 [/us/usc/t25/s572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs572
-[/us/act/1939-07-27/ch387/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-07-27%2Fch387%2Fs3
+[/us/act/1939-07-27/ch387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-07-27%2Fch387
 [/us/stat/53/1129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F1129
 
 

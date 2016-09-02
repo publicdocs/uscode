@@ -19,7 +19,7 @@
 
     The preference right of the Secretary to purchase shall be considered as waived where notice of the pendency of sale is given in writing to the Superintendent of the Five Civilized Tribes for at least ten days prior to the date of sale and the Secretary does not within that time exercise the preferential right to purchase.
 
-([June 26, 1936, ch. 831, § 2][/us/act/1936-06-26/ch831/s2], [49 Stat. 1967][/us/stat/49/1967]; [Aug. 4, 1947, ch. 458, § 10][/us/act/1947-08-04/ch458/s10], [61 Stat. 734][/us/stat/61/734].)
+([June 26, 1936, ch. 831][/us/act/1936-06-26/ch831], § 2, [49 Stat. 1967][/us/stat/49/1967]; [Aug. 4, 1947, ch. 458][/us/act/1947-08-04/ch458], § 10, [61 Stat. 734][/us/stat/61/734].)
 
  __Amendments__ 
 
@@ -32,9 +32,9 @@
 ----------
 ----------
 
-[/us/act/1936-06-26/ch831/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-26%2Fch831%2Fs2
+[/us/act/1936-06-26/ch831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-26%2Fch831
 [/us/stat/49/1967]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1967
-[/us/act/1947-08-04/ch458/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-08-04%2Fch458%2Fs10
+[/us/act/1947-08-04/ch458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-08-04%2Fch458
 [/us/stat/61/734]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F734
 
 

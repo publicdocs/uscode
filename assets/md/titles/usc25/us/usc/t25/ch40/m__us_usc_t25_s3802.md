@@ -25,7 +25,7 @@
 
     (4) The term “Indian tribe” means any Indian tribe, band, nation, pueblo, or other organized group or community, including any Alaska Native village or regional corporation as defined in or established pursuant to the Alaska Native Claims Settlement Act \[[43 U.S.C. 1601][/us/usc/t43/s1601] et seq.\], which is recognized as eligible for the special programs and services provided by the United States to Indian tribes because of their status as Indians.
 
-([Pub. L. 103–302, § 3][/us/pl/103/302/s3], Aug. 23, 1994, [108 Stat. 1560][/us/stat/108/1560]; [Pub. L. 104–303, title II, § 215(d)][/us/pl/104/303/s215/d], Oct. 12, 1996, [110 Stat. 3694][/us/stat/110/3694].)
+([Pub. L. 103–302][/us/pl/103/302], § 3, Aug. 23, 1994, [108 Stat. 1560][/us/stat/108/1560]; [Pub. L. 104–303, title II][/us/pl/104/303/tII], § 215(d), Oct. 12, 1996, [110 Stat. 3694][/us/stat/110/3694].)
 
  __References in Text__ 
 
@@ -44,9 +44,9 @@
 
 [/us/usc/t33/s467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs467
 [/us/usc/t43/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1601
-[/us/pl/103/302/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F302%2Fs3
+[/us/pl/103/302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F302
 [/us/stat/108/1560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1560
-[/us/pl/104/303/s215/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303%2Fs215%2Fd
+[/us/pl/104/303/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303%2FtII
 [/us/stat/110/3694]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3694
 [/us/pl/92/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F203
 [/us/stat/85/688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F688

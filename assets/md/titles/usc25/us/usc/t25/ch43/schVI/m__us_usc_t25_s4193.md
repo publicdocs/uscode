@@ -17,7 +17,7 @@
 
     The Secretary may make, and contract to make, grants, in such amounts as may be approved in appropriations Acts, to or on behalf of an Indian tribe or housing entity issuing notes or other obligations guaranteed under this subchapter, to cover not to exceed 30 percent of the net interest cost (including such servicing, underwriting, or other costs as may be specified in regulations of the Secretary) to the borrowing entity or agency of such obligations. The Secretary may also, to the extent approved in appropriations Acts, assist the issuer of a note or other obligation guaranteed under this subchapter in the payment of all or a portion of the principal and interest amount due under the note or other obligation, if the Secretary determines that the issuer is unable to pay the amount because of circumstances of extreme hardship beyond the control of the issuer.
 
-([Pub. L. 104–330, title VI, § 603][/us/pl/104/330/s603], Oct. 26, 1996, [110 Stat. 4047][/us/stat/110/4047].)
+([Pub. L. 104–330, title VI][/us/pl/104/330/tVI], § 603, Oct. 26, 1996, [110 Stat. 4047][/us/stat/110/4047].)
 
  __Effective Date__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/104/330/s603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330%2Fs603
+[/us/pl/104/330/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330%2FtVI
 [/us/stat/110/4047]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F4047
 [/us/pl/104/330/s606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330%2Fs606
 [/us/usc/t25/s4191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs4191

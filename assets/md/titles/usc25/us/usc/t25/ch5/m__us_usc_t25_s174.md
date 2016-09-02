@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t25/ch5/m__us_usc_t25_ch5.md) | [Next](./../../../..//us/usc/t25/ch5/m__us_usc_t25_s175.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs174)
+[Previous](./../../../..//us/usc/t25/ch5/m__us_usc_t25_s171...173.md) | [Next](./../../../..//us/usc/t25/ch5/m__us_usc_t25_s175.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs174)
 
 ## § 174. Superintendence by President over tribes west of Mississippi
 
@@ -29,7 +29,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t25/ch5/m__us_usc_t25_ch5.md) | [Next](./../../../..//us/usc/t25/ch5/m__us_usc_t25_s175.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs174)
+[Previous](./../../../..//us/usc/t25/ch5/m__us_usc_t25_s171...173.md) | [Next](./../../../..//us/usc/t25/ch5/m__us_usc_t25_s175.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs174)
 
 ----------
 ----------

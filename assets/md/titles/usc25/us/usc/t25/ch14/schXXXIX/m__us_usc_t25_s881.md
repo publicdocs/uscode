@@ -17,7 +17,7 @@
 
     The funds on deposit in the Treasury of the United States to the credit of the Citizen Band of Potawatomi Indians of Oklahoma that were appropriated by the Act of July 22, 1969 ([Public Law 91–47][/us/pl/91/47]) to pay a judgment by the Indian Claims Commission in docket numbered 96 dated August 27, 1968, and the interest thereon, including the interest accruing thereon, after payment of attorney fees and expenses, may be advanced or expended for any purpose that is authorized by the tribal governing body and approved by the Secretary of the Interior. Any part of such funds that may be distributed per capita to the members of the band shall not be subject to Federal or State income tax.
 
-([Pub. L. 91–401, § 1][/us/pl/91/401/s1], Sept. 16, 1970, [84 Stat. 838][/us/stat/84/838].)
+([Pub. L. 91–401][/us/pl/91/401], § 1, Sept. 16, 1970, [84 Stat. 838][/us/stat/84/838].)
 
  __References in Text__ 
 
@@ -33,7 +33,7 @@
 ----------
 
 [/us/pl/91/47]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F47
-[/us/pl/91/401/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F401%2Fs1
+[/us/pl/91/401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F401
 [/us/stat/84/838]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F838
 [/us/pl/91/47]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F47
 [/us/stat/83/49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F49

@@ -17,7 +17,7 @@
 
     All of the right, title, and interest of the United States in all the minerals including gas and oil underlying the submarginal lands declared to be held in trust for the Stockbridge Munsee Indian Community by the Act of October 9, 1972 ([86 Stat. 795][/us/stat/86/795]), are hereby declared to be held by the United States in trust for the Stockbridge Munsee Indian Community.
 
-([Pub. L. 94–114, § 3(a)][/us/pl/94/114/s3/a], Oct. 17, 1975, [89 Stat. 578][/us/stat/89/578].)
+([Pub. L. 94–114][/us/pl/94/114], § 3(a), Oct. 17, 1975, [89 Stat. 578][/us/stat/89/578].)
 
  __References in Text__ 
 
@@ -35,7 +35,7 @@
 ----------
 
 [/us/stat/86/795]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F795
-[/us/pl/94/114/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F114%2Fs3%2Fa
+[/us/pl/94/114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F114
 [/us/stat/89/578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F578
 [/us/pl/92/480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F480
 [/us/stat/86/795]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F795

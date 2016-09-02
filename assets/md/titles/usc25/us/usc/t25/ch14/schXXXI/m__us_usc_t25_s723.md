@@ -17,7 +17,7 @@
 
     Effective on the date of the proclamation provided for in [section 722 of this title][/us/usc/t25/s722], all powers of the Secretary of the Interior or any other officer of the United States to take, review, or approve any action under the constitution and bylaws of the Alabama and Coushatta Tribes of Texas approved on August 19, 1938, pursuant to the Act of June 18, 1934 ([48 Stat. 984][/us/stat/48/984]) \[[25 U.S.C. 461][/us/usc/t25/s461] et seq.\], are terminated. Any powers conferred upon the tribe by its constitution and bylaws that are inconsistent with the provisions of this subchapter are terminated. Such termination shall not affect the power of the tribe to take any action under its constitution and bylaws that is consistent with this subchapter without the participation of the Secretary or other officer of the United States in such action.
 
-([Aug. 23, 1954, ch. 831, § 3][/us/act/1954-08-23/ch831/s3], [68 Stat. 769][/us/stat/68/769].)
+([Aug. 23, 1954, ch. 831][/us/act/1954-08-23/ch831], § 3, [68 Stat. 769][/us/stat/68/769].)
 
  __References in Text__ 
 
@@ -33,7 +33,7 @@
 [/us/usc/t25/s722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs722
 [/us/stat/48/984]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F984
 [/us/usc/t25/s461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs461
-[/us/act/1954-08-23/ch831/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-23%2Fch831%2Fs3
+[/us/act/1954-08-23/ch831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-23%2Fch831
 [/us/stat/68/769]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F769
 [/us/usc/t25/s461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs461
 

@@ -17,7 +17,7 @@
 
     The Secretary of the Interior shall prepare membership rolls for the Quileute and Hoh Tribes. No person shall be eligible to have his name placed on either membership roll who at the same time is a member of any other tribe, and no person shall be permitted to be enrolled in both the Quileute and Hoh Tribes: Provided, That persons eligible for enrollment or already enrolled with other tribes may relinquish that membership through filing a formal statement of relinquishment with the Secretary according to rules and regulations which he may prescribe.
 
-([Pub. L. 89–655, § 2][/us/pl/89/655/s2], Oct. 14, 1966, [80 Stat. 905][/us/stat/80/905].)
+([Pub. L. 89–655][/us/pl/89/655], § 2, Oct. 14, 1966, [80 Stat. 905][/us/stat/80/905].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/89/655/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F655%2Fs2
+[/us/pl/89/655]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F655
 [/us/stat/80/905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F905
 
 

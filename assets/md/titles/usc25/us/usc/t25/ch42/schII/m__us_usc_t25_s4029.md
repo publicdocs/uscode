@@ -23,7 +23,7 @@
 
         The lack of promulgated regulations shall not limit the effect of this subchapter.
 
-([Pub. L. 103–412, title II, § 209][/us/pl/103/412/s209], Oct. 25, 1994, [108 Stat. 4243][/us/stat/108/4243].)
+([Pub. L. 103–412, title II][/us/pl/103/412/tII], § 209, Oct. 25, 1994, [108 Stat. 4243][/us/stat/108/4243].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/103/412/s209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F412%2Fs209
+[/us/pl/103/412/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F412%2FtII
 [/us/stat/108/4243]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4243
 
 

@@ -17,7 +17,7 @@
 
     There shall be credited to each trust-fund account established under [section 385a of this title][/us/usc/t25/s385a] the excess, if any, of (1) the unexpended balance of any repealed special fund appropriation to which operation and maintenance collections were credited prior to July 1, 1935, and (2) the amount of receipts covered into the Treasury pursuant to section 4 of the Permanent Appropriation Repeal Act, 1934 ([48 Stat. 1227][/us/stat/48/1227]), over expenditures from appropriations provided for the operation and maintenance of the irrigation project from which such unexpended balance or receipts were derived, and the amount so credited shall be subject to expenditure as prescribed in [section 385a of this title][/us/usc/t25/s385a].
 
-([Aug. 7, 1946, ch. 802, § 2][/us/act/1946-08-07/ch802/s2], [60 Stat. 895][/us/stat/60/895].)
+([Aug. 7, 1946, ch. 802][/us/act/1946-08-07/ch802], § 2, [60 Stat. 895][/us/stat/60/895].)
 
  __References in Text__ 
 
@@ -25,7 +25,7 @@
 
  __Codification__ 
 
-    Section was formerly classified to [section 725s–2 of Title 31][/us/usc/t31/s725s–2] prior to the general revision and enactment of Title 31, Money and Finance, by [Pub. L. 97–258, § 1][/us/pl/97/258/s1], Sept. 13, 1982, [96 Stat. 877][/us/stat/96/877].
+    Section was formerly classified to [section 725s–2 of Title 31][/us/usc/t31/s725s–2] prior to the general revision and enactment of Title 31, Money and Finance, by [Pub. L. 97–258][/us/pl/97/258], § 1, Sept. 13, 1982, [96 Stat. 877][/us/stat/96/877].
 
 ----------
 
@@ -37,14 +37,14 @@
 [/us/usc/t25/s385a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs385a
 [/us/stat/48/1227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1227
 [/us/usc/t25/s385a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs385a
-[/us/act/1946-08-07/ch802/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-07%2Fch802%2Fs2
+[/us/act/1946-08-07/ch802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-07%2Fch802
 [/us/stat/60/895]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F895
 [/us/act/1934-06-26/ch756]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-26%2Fch756
 [/us/stat/48/1227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1227
 [/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/877]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F877
 [/us/usc/t31/s725s–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs725s%E2%80%932
-[/us/pl/97/258/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs1
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/877]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F877
 
 

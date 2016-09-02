@@ -39,11 +39,11 @@
 
         Notwithstanding any other provision of this section, the Secretary is directed to reserve subsurface rights in tribal property from any sale or division of such property, and to require any trustee or trustees to whom title to tribal property is transferred to retain title to the subsurface rights in such property for not less than 10 years.
 
-([Sept. 1, 1954, ch. 1207, § 5][/us/act/1954-09-01/ch1207/s5], [68 Stat. 1100][/us/stat/68/1100].)
+([Sept. 1, 1954, ch. 1207][/us/act/1954-09-01/ch1207], § 5, [68 Stat. 1100][/us/stat/68/1100].)
 
  __Discontinuance of Irrigation Works; Transfer of Title__ 
 
-    [Act Sept. 1, 1954, ch. 1207, § 22][/us/act/1954-09-01/ch1207/s22], [68 Stat. 1104][/us/stat/68/1104], provided that not later than two years after Sept. 1, 1954, the management and operation of irrigation works for Indian lands of the tribe by the Bureau of Indian Affairs was to be discontinued, and that, upon such discontinuance, the Secretary was to cancel the unpaid irrigation operation and maintenance assessments and reimbursable irrigation construction charges against such lands and transfer the title to such irrigation works to water users, water user’s associations organized for such purpose, or to corporations organized, or trustees designated, as provided in this section.
+    [Act Sept. 1, 1954, ch. 1207][/us/act/1954-09-01/ch1207], § 22, [68 Stat. 1104][/us/stat/68/1104], provided that not later than two years after Sept. 1, 1954, the management and operation of irrigation works for Indian lands of the tribe by the Bureau of Indian Affairs was to be discontinued, and that, upon such discontinuance, the Secretary was to cancel the unpaid irrigation operation and maintenance assessments and reimbursable irrigation construction charges against such lands and transfer the title to such irrigation works to water users, water user’s associations organized for such purpose, or to corporations organized, or trustees designated, as provided in this section.
 
 ----------
 
@@ -52,9 +52,9 @@
 ----------
 ----------
 
-[/us/act/1954-09-01/ch1207/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-09-01%2Fch1207%2Fs5
+[/us/act/1954-09-01/ch1207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-09-01%2Fch1207
 [/us/stat/68/1100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F1100
-[/us/act/1954-09-01/ch1207/s22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-09-01%2Fch1207%2Fs22
+[/us/act/1954-09-01/ch1207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-09-01%2Fch1207
 [/us/stat/68/1104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F1104
 
 

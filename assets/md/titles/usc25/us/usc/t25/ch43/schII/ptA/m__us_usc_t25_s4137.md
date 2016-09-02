@@ -55,7 +55,7 @@
 
             (B) the prompt notification in writing to any rejected applicant of that rejection and the grounds for that rejection.
 
-([Pub. L. 104–330, title II, § 207][/us/pl/104/330/s207], Oct. 26, 1996, [110 Stat. 4034][/us/stat/110/4034]; [Pub. L. 105–276, title V, § 595(b)][/us/pl/105/276/s595/b], (e)(9), Oct. 21, 1998, [112 Stat. 2656][/us/stat/112/2656], 2658.)
+([Pub. L. 104–330, title II][/us/pl/104/330/tII], § 207, Oct. 26, 1996, [110 Stat. 4034][/us/stat/110/4034]; [Pub. L. 105–276, title V][/us/pl/105/276/tV], § 595(b), (e)(9), Oct. 21, 1998, [112 Stat. 2656][/us/stat/112/2656], 2658.)
 
  __References in Text__ 
 
@@ -63,11 +63,11 @@
 
  __Amendments__ 
 
-    1998—Subsec. (b). [Pub. L. 105–276, § 595(b)(1)][/us/pl/105/276/s595/b/1], (2), in heading substituted “Tenant and homebuyer selection” for “Tenant selection” and, in introductory provisions, inserted “and homebuyer” after “tenant”.
+    1998—Subsec. (b). [Pub. L. 105–276][/us/pl/105/276], § 595(b)(1), (2), in heading substituted “Tenant and homebuyer selection” for “Tenant selection” and, in introductory provisions, inserted “and homebuyer” after “tenant”.
 
-    Subsec. (b)(3)(A). [Pub. L. 105–276, § 595(b)(3)][/us/pl/105/276/s595/b/3], inserted “and homebuyers” after “tenants”.
+    Subsec. (b)(3)(A). [Pub. L. 105–276][/us/pl/105/276], § 595(b)(3), inserted “and homebuyers” after “tenants”.
 
-    Subsec. (b)(3)(B). [Pub. L. 105–276, § 595(e)(9)][/us/pl/105/276/s595/e/9], substituted “to any rejected applicant of that rejection and the grounds for that rejection” for “of any rejected applicant of the grounds for any rejection”.
+    Subsec. (b)(3)(B). [Pub. L. 105–276][/us/pl/105/276], § 595(e)(9), substituted “to any rejected applicant of that rejection and the grounds for that rejection” for “of any rejected applicant of the grounds for any rejection”.
 
  __Effective Date__ 
 
@@ -80,16 +80,16 @@
 ----------
 ----------
 
-[/us/pl/104/330/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330%2Fs207
+[/us/pl/104/330/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330%2FtII
 [/us/stat/110/4034]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F4034
-[/us/pl/105/276/s595/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs595%2Fb
+[/us/pl/105/276/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2FtV
 [/us/stat/112/2656]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2656
 [/us/pl/104/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330
 [/us/stat/110/4016]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F4016
 [/us/usc/t25/s4101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs4101
-[/us/pl/105/276/s595/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs595%2Fb%2F1
-[/us/pl/105/276/s595/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs595%2Fb%2F3
-[/us/pl/105/276/s595/e/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs595%2Fe%2F9
+[/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
+[/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
+[/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
 [/us/pl/104/330/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330%2Fs107
 [/us/usc/t25/s4101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs4101
 

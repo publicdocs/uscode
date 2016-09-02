@@ -19,7 +19,7 @@
 
     (b) The Band and its members are eligible for all special programs and services provided by the United States to Indians because of their status as Indians.
 
-([Pub. L. 100–420, § 4][/us/pl/100/420/s4], Sept. 8, 1988, [102 Stat. 1577][/us/stat/102/1577].)
+([Pub. L. 100–420][/us/pl/100/420], § 4, Sept. 8, 1988, [102 Stat. 1577][/us/stat/102/1577].)
 
  __References in Text__ 
 
@@ -34,7 +34,7 @@
 
 [/us/stat/48/984]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F984
 [/us/usc/t25/s461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs461
-[/us/pl/100/420/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F420%2Fs4
+[/us/pl/100/420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F420
 [/us/stat/102/1577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1577
 [/us/usc/t25/s461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs461
 

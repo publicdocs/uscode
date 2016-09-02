@@ -27,7 +27,7 @@
 
     (5) To assist in the development of tribal judicial systems by supplementing prior congressional efforts such as the Indian Tribal Justice Act \[[25 U.S.C. 3601][/us/usc/t25/s3601] et seq.\] ([Public Law 103–176][/us/pl/103/176]).
 
-([Pub. L. 106–559, § 3][/us/pl/106/559/s3], Dec. 21, 2000, [114 Stat. 2779][/us/stat/114/2779].)
+([Pub. L. 106–559][/us/pl/106/559], § 3, Dec. 21, 2000, [114 Stat. 2779][/us/stat/114/2779].)
 
  __References in Text__ 
 
@@ -44,7 +44,7 @@
 
 [/us/usc/t25/s3601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs3601
 [/us/pl/103/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F176
-[/us/pl/106/559/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F559%2Fs3
+[/us/pl/106/559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F559
 [/us/stat/114/2779]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2779
 [/us/pl/106/559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F559
 [/us/stat/114/2778]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2778

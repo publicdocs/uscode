@@ -11,52 +11,16 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t25/ch35/schII/m__us_usc_t25_s3325.md) | [Next](./../../../../..//us/usc/t25/ch35/schIV/m__us_usc_t25_ch35_schIV.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fch35%2FschIII)
+[Previous](./../../../../..//us/usc/t25/ch35/schII/m__us_usc_t25_s3325.md) | [Next](./../../../../..//us/usc/t25/ch35/schIII/m__us_usc_t25_s3331...3338.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fch35%2FschIII)
 
 ### SUBCHAPTER III—TRIBAL DEVELOPMENT STUDENT ASSISTANCE REVOLVING LOAN PROGRAM
 
-§§ 3331 to 3338. __Repealed.__  __[__  __Pub. L. 105–332, § 6(b)(1)__  __][/us/pl/105/332/s6/b/1]__  __,__  __Oct. 31, 1998__  __,__  __[__  __112 Stat. 3128__  __][/us/stat/112/3128]__ 
-
-    Section 3331, [Pub. L. 102–325, title XIII, § 1341][/us/pl/102/325/s1341], July 23, 1992, [106 Stat. 809][/us/stat/106/809], provided that subchapter could be cited as the “Tribal Development Student Assistance Act”.
-
-    Section 3332, [Pub. L. 102–325, title XIII, § 1342][/us/pl/102/325/s1342], July 23, 1992, [106 Stat. 809][/us/stat/106/809], declared congressional findings and purposes.
-
-    Section 3333, [Pub. L. 102–325, title XIII, § 1343][/us/pl/102/325/s1343], July 23, 1992, [106 Stat. 809][/us/stat/106/809], related to revolving fund.
-
-    Section 3334, [Pub. L. 102–325, title XIII, § 1344][/us/pl/102/325/s1344], July 23, 1992, [106 Stat. 810][/us/stat/106/810], related to eligible recipients.
-
-    Section 3335, [Pub. L. 102–325, title XIII, § 1345][/us/pl/102/325/s1345], July 23, 1992, [106 Stat. 810][/us/stat/106/810], related to terms of loans.
-
-    Section 3336, [Pub. L. 102–325, title XIII, § 1346][/us/pl/102/325/s1346], July 23, 1992, [106 Stat. 811][/us/stat/106/811], related to service fulfillment and conditions, repayments, and waivers.
-
-    Section, 3337, [Pub. L. 102–325, title XIII, § 1347][/us/pl/102/325/s1347], July 23, 1992, [106 Stat. 812][/us/stat/106/812], related to administration.
-
-    Section 3338, [Pub. L. 102–325, title XIII, § 1348][/us/pl/102/325/s1348], July 23, 1992, [106 Stat. 812][/us/stat/106/812], authorized appropriations.
-
 ----------
 
-[Previous](./../../../../..//us/usc/t25/ch35/schII/m__us_usc_t25_s3325.md) | [Next](./../../../../..//us/usc/t25/ch35/schIV/m__us_usc_t25_ch35_schIV.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fch35%2FschIII)
+[Previous](./../../../../..//us/usc/t25/ch35/schII/m__us_usc_t25_s3325.md) | [Next](./../../../../..//us/usc/t25/ch35/schIII/m__us_usc_t25_s3331...3338.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fch35%2FschIII)
 
 ----------
 ----------
 
-[/us/pl/105/332/s6/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F332%2Fs6%2Fb%2F1
-[/us/stat/112/3128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3128
-[/us/pl/102/325/s1341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs1341
-[/us/stat/106/809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F809
-[/us/pl/102/325/s1342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs1342
-[/us/stat/106/809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F809
-[/us/pl/102/325/s1343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs1343
-[/us/stat/106/809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F809
-[/us/pl/102/325/s1344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs1344
-[/us/stat/106/810]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F810
-[/us/pl/102/325/s1345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs1345
-[/us/stat/106/810]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F810
-[/us/pl/102/325/s1346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs1346
-[/us/stat/106/811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F811
-[/us/pl/102/325/s1347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs1347
-[/us/stat/106/812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F812
-[/us/pl/102/325/s1348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs1348
-[/us/stat/106/812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F812
 
 

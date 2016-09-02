@@ -27,7 +27,7 @@
 
     including all interest and investment income accrued thereon while such funds are so held in trust, shall be subject to Federal or State income taxes, nor shall such funds nor their availability be considered as income or resources nor otherwise utilized as the basis for denying or reducing the financial assistance or other benefits to which such household or member would otherwise be entitled under the Social Security Act \[[42 U.S.C. 301][/us/usc/t42/s301] et seq.\] or, except for per capita shares in excess of $2,000, any Federal or federally assisted program.
 
-([Pub. L. 93–134, § 7][/us/pl/93/134/s7], Oct. 19, 1973, [87 Stat. 468][/us/stat/87/468]; [Pub. L. 97–458, § 4][/us/pl/97/458/s4], Jan. 12, 1983, [96 Stat. 2513][/us/stat/96/2513]; [Pub. L. 106–568, title VIII, § 818][/us/pl/106/568/s818], Dec. 27, 2000, [114 Stat. 2918][/us/stat/114/2918]; [Pub. L. 113–290, § 2][/us/pl/113/290/s2], Dec. 19, 2014, [128 Stat. 3291][/us/stat/128/3291].)
+([Pub. L. 93–134][/us/pl/93/134], § 7, Oct. 19, 1973, [87 Stat. 468][/us/stat/87/468]; [Pub. L. 97–458][/us/pl/97/458], § 4, Jan. 12, 1983, [96 Stat. 2513][/us/stat/96/2513]; [Pub. L. 106–568, title VIII][/us/pl/106/568/tVIII], § 818, Dec. 27, 2000, [114 Stat. 2918][/us/stat/114/2918]; [Pub. L. 113–290][/us/pl/113/290], § 2, Dec. 19, 2014, [128 Stat. 3291][/us/stat/128/3291].)
 
  __References in Text__ 
 
@@ -50,13 +50,13 @@
 
 [/us/stat/10/1109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F10%2F1109
 [/us/usc/t42/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs301
-[/us/pl/93/134/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F134%2Fs7
+[/us/pl/93/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F134
 [/us/stat/87/468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F468
-[/us/pl/97/458/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F458%2Fs4
+[/us/pl/97/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F458
 [/us/stat/96/2513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2513
-[/us/pl/106/568/s818]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F568%2Fs818
+[/us/pl/106/568/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F568%2FtVIII
 [/us/stat/114/2918]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2918
-[/us/pl/113/290/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F290%2Fs2
+[/us/pl/113/290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F290
 [/us/stat/128/3291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3291
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620

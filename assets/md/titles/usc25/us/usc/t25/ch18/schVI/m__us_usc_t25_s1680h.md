@@ -43,7 +43,7 @@
 
         (3) An Indian tribe or tribal organization that has entered into a written agreement with the Secretary under this subsection, and that breaches or terminates without cause such agreement, shall be liable to the United States for the amount that has been paid to the tribe, or paid to a third party on the tribe’s behalf, under the agreement. The Secretary has the right to recover tangible property (including supplies), and equipment, less depreciation, and any funds expended for operations and maintenance under this section. The preceding sentence does not apply to any funds expended for the delivery of health care services, or for personnel or staffing, shall be recoverable. <sup>\[1\]</sup>  <sup><sup> 1 So in original. The words “, shall be recoverable” probably should not appear. </sup></sup> 
 
-([Pub. L. 94–437, title VIII, § 818][/us/pl/94/437/s818], formerly title VII, § 718, as added [Pub. L. 100–713, title VII, § 713][/us/pl/100/713/s713], Nov. 23, 1988, [102 Stat. 4833][/us/stat/102/4833]; renumbered title VIII, § 818, and amended [Pub. L. 102–573, title VII, § 701(a)][/us/pl/102/573/s701/a], (b), title VIII, § 808, Oct. 29, 1992, [106 Stat. 4572][/us/stat/106/4572], 4586.)
+([Pub. L. 94–437, title VIII][/us/pl/94/437/tVIII], § 818, formerly title VII, § 718, as added [Pub. L. 100–713, title VII][/us/pl/100/713/tVII], § 713, Nov. 23, 1988, [102 Stat. 4833][/us/stat/102/4833]; renumbered title VIII, § 818, and amended [Pub. L. 102–573, title VII][/us/pl/102/573/tVII], § 701(a), (b), title VIII, § 808, Oct. 29, 1992, [106 Stat. 4572][/us/stat/106/4572], 4586.)
 
  __References in Text__ 
 
@@ -51,11 +51,11 @@
 
  __Amendments__ 
 
-    1992—Subsec. (d)(1). [Pub. L. 102–573, § 808(1)(A)][/us/pl/102/573/s808/1/A], inserted before period at end “, or, in the case of a demonstration project for which a grant is made after September 30, 1990, three years after the date on which such grant is made”.
+    1992—Subsec. (d)(1). [Pub. L. 102–573][/us/pl/102/573], § 808(1)(A), inserted before period at end “, or, in the case of a demonstration project for which a grant is made after September 30, 1990, three years after the date on which such grant is made”.
 
-    Subsec. (d)(2). [Pub. L. 102–573, § 808(1)(B)][/us/pl/102/573/s808/1/B], substituted “1996” for “1994”.
+    Subsec. (d)(2). [Pub. L. 102–573][/us/pl/102/573], § 808(1)(B), substituted “1996” for “1994”.
 
-    Subsec. (e). [Pub. L. 102–573, § 808(2)][/us/pl/102/573/s808/2], amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “There are authorized to be appropriated such sums as may be necessary to carry out the purposes of this section.”
+    Subsec. (e). [Pub. L. 102–573][/us/pl/102/573], § 808(2), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “There are authorized to be appropriated such sums as may be necessary to carry out the purposes of this section.”
 
 ----------
 
@@ -65,16 +65,16 @@
 ----------
 
 [/us/usc/t42/s300w]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300w
-[/us/pl/94/437/s818]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437%2Fs818
-[/us/pl/100/713/s713]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F713%2Fs713
+[/us/pl/94/437/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437%2FtVIII
+[/us/pl/100/713/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F713%2FtVII
 [/us/stat/102/4833]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4833
-[/us/pl/102/573/s701/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2Fs701%2Fa
+[/us/pl/102/573/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2FtVII
 [/us/stat/106/4572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4572
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
 [/us/stat/58/682]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F58%2F682
 [/us/usc/t42/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs201
-[/us/pl/102/573/s808/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2Fs808%2F1%2FA
-[/us/pl/102/573/s808/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2Fs808%2F1%2FB
-[/us/pl/102/573/s808/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2Fs808%2F2
+[/us/pl/102/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573
+[/us/pl/102/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573
+[/us/pl/102/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573
 
 

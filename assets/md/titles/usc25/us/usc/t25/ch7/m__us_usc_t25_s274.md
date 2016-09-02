@@ -17,7 +17,7 @@
 
     The Commissioner of Indian Affairs shall employ Indian girls as assistant matrons and Indian boys as farmers and industrial teachers in all Indian schools when it is practicable to do so.
 
-([June 7, 1897, ch. 3, § 1][/us/act/1897-06-07/ch3/s1], [30 Stat. 83][/us/stat/30/83].)
+([June 7, 1897, ch. 3][/us/act/1897-06-07/ch3], § 1, [30 Stat. 83][/us/stat/30/83].)
 
  __Transfer of Functions__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1897-06-07/ch3/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1897-06-07%2Fch3%2Fs1
+[/us/act/1897-06-07/ch3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1897-06-07%2Fch3
 [/us/stat/30/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F30%2F83
 [/us/stat/64/1262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1262
 

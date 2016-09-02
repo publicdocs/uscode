@@ -17,7 +17,7 @@
 
     Until a new tribal constitution and bylaws are adopted and become effective under [section 1300m–6 of this title][/us/usc/t25/s1300m–6], the Tribe’s governing body shall be an Interim Council. The initial membership of the Interim Council shall consist of the members of the Tribal Council of the Tribe on November 2, 1994, and the Interim Council shall continue to operate in the manner prescribed for the Tribal Council under the tribal constitution adopted December 18, 1993. Any new members filling vacancies on the Interim Council shall meet the membership criteria set forth in [section 1300m–4(b) of this title][/us/usc/t25/s1300m–4/b] and be elected in the same manner as are Tribal Council members under the tribal constitution adopted December 18, 1993.
 
-([Pub. L. 103–454, title III, § 307][/us/pl/103/454/s307], Nov. 2, 1994, [108 Stat. 4795][/us/stat/108/4795].)
+([Pub. L. 103–454, title III][/us/pl/103/454/tIII], § 307, Nov. 2, 1994, [108 Stat. 4795][/us/stat/108/4795].)
 
 ----------
 
@@ -28,7 +28,7 @@
 
 [/us/usc/t25/s1300m–6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1300m%E2%80%936
 [/us/usc/t25/s1300m–4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1300m%E2%80%934%2Fb
-[/us/pl/103/454/s307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F454%2Fs307
+[/us/pl/103/454/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F454%2FtIII
 [/us/stat/108/4795]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4795
 
 

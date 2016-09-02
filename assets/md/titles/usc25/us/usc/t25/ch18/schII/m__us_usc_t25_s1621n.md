@@ -103,7 +103,7 @@
 
         There are authorized to be appropriated to carry out this section $15,000,000 for fiscal year 1993 and such sums as may be necessary for each of the fiscal years 1994, 1995, 1996, 1997, 1998, 1999, and 2000.
 
-([Pub. L. 94–437, title II, § 215][/us/pl/94/437/s215], as added [Pub. L. 102–573, title II, § 211][/us/pl/102/573/s211], Oct. 29, 1992, [106 Stat. 4553][/us/stat/106/4553].)
+([Pub. L. 94–437, title II][/us/pl/94/437/tII], § 215, as added [Pub. L. 102–573, title II][/us/pl/102/573/tII], § 211, Oct. 29, 1992, [106 Stat. 4553][/us/stat/106/4553].)
 
 ----------
 
@@ -112,8 +112,8 @@
 ----------
 ----------
 
-[/us/pl/94/437/s215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437%2Fs215
-[/us/pl/102/573/s211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2Fs211
+[/us/pl/94/437/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437%2FtII
+[/us/pl/102/573/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2FtII
 [/us/stat/106/4553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4553
 
 

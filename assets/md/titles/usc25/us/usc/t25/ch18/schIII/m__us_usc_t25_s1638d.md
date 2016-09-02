@@ -17,7 +17,7 @@
 
     Money before, on, and after September 30, 1994, collected for meals served at Indian Health Service facilities will be credited to the appropriations from which the services were furnished and shall be credited to the appropriation when received.
 
-([Pub. L. 103–332, title II][/us/pl/103/332], Sept. 30, 1994, [108 Stat. 2530][/us/stat/108/2530].)
+([Pub. L. 103–332, title II][/us/pl/103/332/tII], Sept. 30, 1994, [108 Stat. 2530][/us/stat/108/2530].)
 
  __Codification__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/103/332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F332
+[/us/pl/103/332/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F332%2FtII
 [/us/stat/108/2530]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2530
 
 

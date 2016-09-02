@@ -17,7 +17,7 @@
 
     Upon receipt of the plan from a tribal government, the Secretary of the Interior shall consult with the Secretary of each Federal agency providing funds to be used to implement the plan, and with the tribal government submitting the plan. The parties so consulting shall identify any waivers of statutory requirements or of Federal agency regulations, policies, or procedures necessary to enable the tribal government to implement its plan. Notwithstanding any other provision of law, the Secretary of the affected agency shall have the authority to waive any statutory requirement, regulation, policy, or procedure promulgated by that agency that has been so identified by such tribal government or agency, unless the Secretary of the affected agency determines that such a waiver is inconsistent with the purposes of this chapter or those provisions of the statute from which the program involved derives its authority which are specifically applicable to Indian programs.
 
-([Pub. L. 102–477, § 7][/us/pl/102/477/s7], Oct. 23, 1992, [106 Stat. 2303][/us/stat/106/2303]; [Pub. L. 106–568, title XI, § 1103(c)][/us/pl/106/568/s1103/c], Dec. 27, 2000, [114 Stat. 2932][/us/stat/114/2932].)
+([Pub. L. 102–477][/us/pl/102/477], § 7, Oct. 23, 1992, [106 Stat. 2303][/us/stat/106/2303]; [Pub. L. 106–568, title XI][/us/pl/106/568/tXI], § 1103(c), Dec. 27, 2000, [114 Stat. 2932][/us/stat/114/2932].)
 
  __Amendments__ 
 
@@ -30,9 +30,9 @@
 ----------
 ----------
 
-[/us/pl/102/477/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F477%2Fs7
+[/us/pl/102/477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F477
 [/us/stat/106/2303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2303
-[/us/pl/106/568/s1103/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F568%2Fs1103%2Fc
+[/us/pl/106/568/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F568%2FtXI
 [/us/stat/114/2932]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2932
 [/us/pl/106/568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F568
 

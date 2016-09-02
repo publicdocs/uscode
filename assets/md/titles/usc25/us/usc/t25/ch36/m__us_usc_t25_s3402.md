@@ -33,7 +33,7 @@
 
         Except where otherwise provided, the term “Secretary” means the Secretary of the Interior.
 
-([Pub. L. 102–477, § 3][/us/pl/102/477/s3], Oct. 23, 1992, [106 Stat. 2302][/us/stat/106/2302]; [Pub. L. 106–568, title XI, § 1103(a)][/us/pl/106/568/s1103/a], Dec. 27, 2000, [114 Stat. 2931][/us/stat/114/2931].)
+([Pub. L. 102–477][/us/pl/102/477], § 3, Oct. 23, 1992, [106 Stat. 2302][/us/stat/106/2302]; [Pub. L. 106–568, title XI][/us/pl/106/568/tXI], § 1103(a), Dec. 27, 2000, [114 Stat. 2931][/us/stat/114/2931].)
 
  __Amendments__ 
 
@@ -49,9 +49,9 @@
 [/us/usc/t5/s551/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs551%2F1
 [/us/usc/t25/s450b/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450b%2Fe
 [/us/usc/t25/s450b/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450b%2Fd
-[/us/pl/102/477/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F477%2Fs3
+[/us/pl/102/477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F477
 [/us/stat/106/2302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2302
-[/us/pl/106/568/s1103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F568%2Fs1103%2Fa
+[/us/pl/106/568/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F568%2FtXI
 [/us/stat/114/2931]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2931
 [/us/pl/106/568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F568
 

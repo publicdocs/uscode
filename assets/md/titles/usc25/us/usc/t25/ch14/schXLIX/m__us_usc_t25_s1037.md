@@ -17,7 +17,7 @@
 
     All costs incurred by the Secretary in the preparation of the roll and in the payment of the per capita shares in accordance with the provisions of this subchapter shall be paid by withdrawals from the judgment fund of the appropriate band.
 
-([Pub. L. 88–457, § 7][/us/pl/88/457/s7], Aug. 20, 1964, [78 Stat. 556][/us/stat/78/556].)
+([Pub. L. 88–457][/us/pl/88/457], § 7, Aug. 20, 1964, [78 Stat. 556][/us/stat/78/556].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/88/457/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F457%2Fs7
+[/us/pl/88/457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F457
 [/us/stat/78/556]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F556
 
 

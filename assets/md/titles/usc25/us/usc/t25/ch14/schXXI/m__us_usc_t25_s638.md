@@ -17,7 +17,7 @@
 
     The Tribal Councils of the Navajo and Hopi Tribes and the Indian communities affected shall be kept informed and afforded opportunity to consider from their inception plans pertaining to the program authorized by this subchapter. In the administration of the program, the Secretary of the Interior shall consider the recommendations of the tribal councils and shall follow such recommendations whenever he deems them feasible and consistent with the objectives of this subchapter.
 
-([Apr. 19, 1950, ch. 92, § 8][/us/act/1950-04-19/ch92/s8], [64 Stat. 46][/us/stat/64/46].)
+([Apr. 19, 1950, ch. 92][/us/act/1950-04-19/ch92], § 8, [64 Stat. 46][/us/stat/64/46].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1950-04-19/ch92/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-04-19%2Fch92%2Fs8
+[/us/act/1950-04-19/ch92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-04-19%2Fch92
 [/us/stat/64/46]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F46
 
 

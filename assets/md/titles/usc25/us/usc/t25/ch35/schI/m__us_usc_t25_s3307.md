@@ -41,7 +41,7 @@
 
         (2) The terms “Indian” and “Indian tribe” have the same meaning given those terms in sections  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “section”. </sup></sup>  4(d) and (e), respectively, of the Indian Self Determination and Education Assistance Act \[[25 U.S.C. 450b(d)][/us/usc/t25/s450b/d], (e)\].
 
-([Pub. L. 102–325, title XIII, § 1317][/us/pl/102/325/s1317], July 23, 1992, [106 Stat. 802][/us/stat/106/802].)
+([Pub. L. 102–325, title XIII][/us/pl/102/325/tXIII], § 1317, July 23, 1992, [106 Stat. 802][/us/stat/106/802].)
 
  __References in Text__ 
 
@@ -62,7 +62,7 @@
 [/us/usc/t25/s450c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450c
 [/us/usc/t25/s450f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450f
 [/us/usc/t25/s450b/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450b%2Fd
-[/us/pl/102/325/s1317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs1317
+[/us/pl/102/325/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2FtXIII
 [/us/stat/106/802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F802
 [/us/pl/93/638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638
 [/us/stat/88/2206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2206

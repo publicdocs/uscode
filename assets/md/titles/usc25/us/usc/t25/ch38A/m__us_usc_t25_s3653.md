@@ -49,7 +49,7 @@
 
         The term “tribal court”, “tribal court system”, or “tribal justice system” means the entire judicial branch, and employees thereof, of an Indian tribe, including, but not limited to, traditional methods and fora for dispute resolution, trial courts, appellate courts, including inter-tribal appellate courts, alternative dispute resolution systems, and circuit rider systems, established by inherent tribunal authority whether or not they constitute a court of record.
 
-([Pub. L. 106–559, § 4][/us/pl/106/559/s4], Dec. 21, 2000, [114 Stat. 2779][/us/stat/114/2779]; [Pub. L. 111–211, title II, § 214(a)(1)][/us/pl/111/211/s214/a/1], July 29, 2010, [124 Stat. 2270][/us/stat/124/2270].)
+([Pub. L. 106–559][/us/pl/106/559], § 4, Dec. 21, 2000, [114 Stat. 2779][/us/stat/114/2779]; [Pub. L. 111–211, title II][/us/pl/111/211/tII], § 214(a)(1), July 29, 2010, [124 Stat. 2270][/us/stat/124/2270].)
 
  __Amendments__ 
 
@@ -67,9 +67,9 @@
 [/us/usc/t25/s1903/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1903%2F10
 [/us/usc/t25/s1452/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1452%2Fd
 [/us/usc/t26/s501/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs501%2Fc%2F3
-[/us/pl/106/559/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F559%2Fs4
+[/us/pl/106/559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F559
 [/us/stat/114/2779]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2779
-[/us/pl/111/211/s214/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211%2Fs214%2Fa%2F1
+[/us/pl/111/211/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211%2FtII
 [/us/stat/124/2270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2270
 [/us/pl/111/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211
 

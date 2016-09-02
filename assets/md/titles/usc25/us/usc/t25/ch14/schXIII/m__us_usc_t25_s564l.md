@@ -35,7 +35,7 @@
 
         Nothing contained in any other section of this subchapter shall affect in any way the laws applicable to irrigation projects on the Klamath Reservation.
 
-([Aug. 13, 1954, ch. 732, § 13][/us/act/1954-08-13/ch732/s13], [68 Stat. 721][/us/stat/68/721].)
+([Aug. 13, 1954, ch. 732][/us/act/1954-08-13/ch732], § 13, [68 Stat. 721][/us/stat/68/721].)
 
  __References in Text__ 
 
@@ -51,7 +51,7 @@
 [/us/usc/t43/s499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs499
 [/us/usc/t25/s564q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs564q
 [/us/usc/t25/s386a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs386a
-[/us/act/1954-08-13/ch732/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-13%2Fch732%2Fs13
+[/us/act/1954-08-13/ch732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-13%2Fch732
 [/us/stat/68/721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F721
 [/us/usc/t25/s387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs387
 [/us/act/1946-07-01/ch529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-07-01%2Fch529

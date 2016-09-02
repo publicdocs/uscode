@@ -17,7 +17,7 @@
 
     In the event that any provision of [section 1753 of this title][/us/usc/t25/s1753] is held invalid, it is the intent of Congress that the entire subchapter be invalidated. In the event that any other section or provision of this subchapter is held invalid, it is the intent of Congress that the remaining sections of this subchapter shall continue in full force and effect.
 
-([Pub. L. 98–134, § 11][/us/pl/98/134/s11], Oct. 18, 1983, [97 Stat. 856][/us/stat/97/856].)
+([Pub. L. 98–134][/us/pl/98/134], § 11, Oct. 18, 1983, [97 Stat. 856][/us/stat/97/856].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t25/s1753]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1753
-[/us/pl/98/134/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F134%2Fs11
+[/us/pl/98/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F134
 [/us/stat/97/856]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F856
 
 

@@ -27,7 +27,7 @@
 
         No part of any per capita payment shall be subject to any debt or debts, other than to the United States, created prior to May 9, 1958, by a person of Indian blood, and such per capita payments shall not be taxable.
 
-([Pub. L. 85–395, § 3][/us/pl/85/395/s3], May 9, 1958, [72 Stat. 106][/us/stat/72/106]; [Pub. L. 86–540][/us/pl/86/540], June 29, 1960, [74 Stat. 252][/us/stat/74/252].)
+([Pub. L. 85–395][/us/pl/85/395], § 3, May 9, 1958, [72 Stat. 106][/us/stat/72/106]; [Pub. L. 86–540][/us/pl/86/540], June 29, 1960, [74 Stat. 252][/us/stat/74/252].)
 
  __Amendments__ 
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/85/395/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F395%2Fs3
+[/us/pl/85/395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F395
 [/us/stat/72/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F106
 [/us/pl/86/540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F540
 [/us/stat/74/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F252

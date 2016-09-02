@@ -29,13 +29,13 @@
 
         Any proposed transfer of real property contained in the plan developed by the Secretary under subsection (a) shall be consistent with the requirements of section 1300l–2 of this title.
 
-([Pub. L. 103–434, title II, § 203][/us/pl/103/434/s203], Oct. 31, 1994, [108 Stat. 4533][/us/stat/108/4533]; [Pub. L. 104–109, § 8(a)][/us/pl/104/109/s8/a], Feb. 12, 1996, [110 Stat. 764][/us/stat/110/764].)
+([Pub. L. 103–434, title II][/us/pl/103/434/tII], § 203, Oct. 31, 1994, [108 Stat. 4533][/us/stat/108/4533]; [Pub. L. 104–109][/us/pl/104/109], § 8(a), Feb. 12, 1996, [110 Stat. 764][/us/stat/110/764].)
 
  __Amendments__ 
 
-    1996—Subsec. (a)(2). [Pub. L. 104–109, § 8(a)(1)][/us/pl/104/109/s8/a/1], made technical amendment to reference to section 1300l–5 of this title, to correct reference to corresponding section of original act.
+    1996—Subsec. (a)(2). [Pub. L. 104–109][/us/pl/104/109], § 8(a)(1), made technical amendment to reference to section 1300l–5 of this title, to correct reference to corresponding section of original act.
 
-    Subsec. (b). [Pub. L. 104–109, § 8(a)(2)][/us/pl/104/109/s8/a/2], made technical amendment to reference to section 1300l–2 of this title, to correct reference to corresponding section of original act.
+    Subsec. (b). [Pub. L. 104–109][/us/pl/104/109], § 8(a)(2), made technical amendment to reference to section 1300l–2 of this title, to correct reference to corresponding section of original act.
 
 ----------
 
@@ -44,11 +44,11 @@
 ----------
 ----------
 
-[/us/pl/103/434/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F434%2Fs203
+[/us/pl/103/434/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F434%2FtII
 [/us/stat/108/4533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4533
-[/us/pl/104/109/s8/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F109%2Fs8%2Fa
+[/us/pl/104/109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F109
 [/us/stat/110/764]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F764
-[/us/pl/104/109/s8/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F109%2Fs8%2Fa%2F1
-[/us/pl/104/109/s8/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F109%2Fs8%2Fa%2F2
+[/us/pl/104/109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F109
+[/us/pl/104/109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F109
 
 

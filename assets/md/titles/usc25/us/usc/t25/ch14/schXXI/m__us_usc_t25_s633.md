@@ -17,7 +17,7 @@
 
     Navajo and Hopi Indians shall be given, whenever practicable, preference in employment on all projects undertaken pursuant to this subchapter, and, in furtherance of this policy may be given employment on such projects without regard to the provisions of the civil-service and classification laws. To the fullest extent possible, Indian workers on such projects shall receive on-the-job training in order to enable them to become qualified for more skilled employment.
 
-([Apr. 19, 1950, ch. 92, § 3][/us/act/1950-04-19/ch92/s3], [64 Stat. 45][/us/stat/64/45].)
+([Apr. 19, 1950, ch. 92][/us/act/1950-04-19/ch92], § 3, [64 Stat. 45][/us/stat/64/45].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1950-04-19/ch92/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-04-19%2Fch92%2Fs3
+[/us/act/1950-04-19/ch92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-04-19%2Fch92
 [/us/stat/64/45]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F45
 
 

@@ -17,7 +17,7 @@
 
     The Confederated Tribes of the Colville Reservation, acting through the chairman of its business council, and the Yakima Tribes of Indians of the Yakima Reservation, acting through the chairman of its tribal council, for and on behalf of said tribes and each and all their constituent tribal groups, are each hereby authorized to commence or defend in the United States Court of Claims an action against each other making claims to a share in the funds that are on deposit in the Treasury of the United States to pay a judgment of the Indian Claims Commission dated April 5, 1965, in dockets numbered 161, 222, and 224, and the interest on said funds; and jurisdiction is hereby conferred upon said court to hear such claims and to render judgment and decree thereon making such division of such funds and the interest on such funds, as may be just and fair in law and equity, between the Confederated Tribes of the Colville Reservation and its constituent tribal groups on the one hand, and the Yakima Tribes of Indians of the Yakima Reservation and its constituent tribal groups on the other hand.
 
-([Pub. L. 90–278, § 1][/us/pl/90/278/s1], Mar. 30, 1968, [82 Stat. 69][/us/stat/82/69].)
+([Pub. L. 90–278][/us/pl/90/278], § 1, Mar. 30, 1968, [82 Stat. 69][/us/stat/82/69].)
 
  __References in Text__ 
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/90/278/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F278%2Fs1
+[/us/pl/90/278]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F278
 [/us/stat/82/69]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F69
 [/us/pl/97/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164
 [/us/stat/96/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F25

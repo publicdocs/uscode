@@ -19,7 +19,7 @@
 
     (b) Individuals who are or become members of the Lac Vieux Desert Band and who are eligible for per capita shares out of funds apportioned to the Keweenaw Bay Indian Community or Sokaogan Chippewa Community shall continue to be eligible for such per capita payments notwithstanding their relinquishment of their enrollment in either community pursuant to [section 1300h–3 of this title][/us/usc/t25/s1300h–3].
 
-([Pub. L. 100–420, § 8][/us/pl/100/420/s8], Sept. 8, 1988, [102 Stat. 1579][/us/stat/102/1579].)
+([Pub. L. 100–420][/us/pl/100/420], § 8, Sept. 8, 1988, [102 Stat. 1579][/us/stat/102/1579].)
 
 ----------
 
@@ -29,7 +29,7 @@
 ----------
 
 [/us/usc/t25/s1300h–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1300h%E2%80%933
-[/us/pl/100/420/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F420%2Fs8
+[/us/pl/100/420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F420
 [/us/stat/102/1579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1579
 
 

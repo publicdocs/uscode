@@ -51,7 +51,7 @@
 
         For purposes of section 764 and 765 of this title, a member who is eighteen years of age or older is entitled and eligible to be given notice of, attend, participate in, and vote at, general council meetings and to nominate candidates for, to run for any office in, and to vote in, elections of members to the Interim Council and to other tribal councils.
 
-([Pub. L. 96–227, § 4][/us/pl/96/227/s4], Apr. 3, 1980, [94 Stat. 318][/us/stat/94/318]; [Pub. L. 109–126, § 4][/us/pl/109/126/s4], Dec. 7, 2005, [119 Stat. 2547][/us/stat/119/2547].)
+([Pub. L. 96–227][/us/pl/96/227], § 4, Apr. 3, 1980, [94 Stat. 318][/us/stat/94/318]; [Pub. L. 109–126][/us/pl/109/126], § 4, Dec. 7, 2005, [119 Stat. 2547][/us/stat/119/2547].)
 
  __References in Text__ 
 
@@ -69,9 +69,9 @@
 ----------
 
 [/us/stat/82/1147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1147
-[/us/pl/96/227/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F227%2Fs4
+[/us/pl/96/227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F227
 [/us/stat/94/318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F318
-[/us/pl/109/126/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F126%2Fs4
+[/us/pl/109/126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F126
 [/us/stat/119/2547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2547
 [/us/pl/90/584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F584
 [/us/stat/82/1147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1147

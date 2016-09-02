@@ -17,7 +17,7 @@
 
     The Secretary of the Interior is authorized to prescribe rules and regulations to carry out the provisions of this subchapter.
 
-([Pub. L. 90–117, § 7][/us/pl/90/117/s7], Oct. 31, 1967, [81 Stat. 338][/us/stat/81/338].)
+([Pub. L. 90–117][/us/pl/90/117], § 7, Oct. 31, 1967, [81 Stat. 338][/us/stat/81/338].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/90/117/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F117%2Fs7
+[/us/pl/90/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F117
 [/us/stat/81/338]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F338
 
 

@@ -17,7 +17,7 @@
 
     When, in the judgment of the Secretary of the Interior, any Indian tribe, or part thereof, who are receiving rations and clothing and other supplies under the Act of July 1, 1898, chapter 545, are sufficiently advanced in civilization to purchase such rations and clothing and other supplies judiciously, they may commute the same and pay the value thereof in money per capita to such tribe or part thereof, the manner of such payment to be prescribed by the Secretary of the Interior.
 
-([July 1, 1898, ch. 545, § 7][/us/act/1898-07-01/ch545/s7], [30 Stat. 596][/us/stat/30/596].)
+([July 1, 1898, ch. 545][/us/act/1898-07-01/ch545], § 7, [30 Stat. 596][/us/stat/30/596].)
 
  __References in Text__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/act/1898-07-01/ch545/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1898-07-01%2Fch545%2Fs7
+[/us/act/1898-07-01/ch545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1898-07-01%2Fch545
 [/us/stat/30/596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F30%2F596
 [/us/act/1898-07-01/ch545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1898-07-01%2Fch545
 [/us/stat/30/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F30%2F573

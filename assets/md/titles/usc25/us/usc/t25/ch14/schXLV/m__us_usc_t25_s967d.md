@@ -17,7 +17,7 @@
 
     The Secretary of the Interior is authorized to prescribe rules and regulations to carry out the provisions of sections 967a to 967d of this title.
 
-([Pub. L. 89–717, § 4][/us/pl/89/717/s4], Nov. 2, 1966, [80 Stat. 1115][/us/stat/80/1115].)
+([Pub. L. 89–717][/us/pl/89/717], § 4, Nov. 2, 1966, [80 Stat. 1115][/us/stat/80/1115].)
 
  __Codification__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/89/717/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F717%2Fs4
+[/us/pl/89/717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F717
 [/us/stat/80/1115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1115
 [/us/pl/87/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F235
 [/us/stat/75/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F508

@@ -17,7 +17,7 @@
 
     Any United States Indian agent, superintendent, or other disbursing agent of the Indian Service may deposit Indian moneys, individual or tribal, coming into his hands as custodian, in such national bank or banks as he may select: Provided, That the bank or banks so selected by him shall first execute to said disbursing agent a bond, with approved surety, in such an amount as will properly safeguard the funds to be deposited. Such bond shall be subject to the approval of the Secretary of the Interior.
 
-([Apr. 30, 1908, ch. 153][/us/act/1908-04-30/ch153], [35 Stat. 73][/us/stat/35/73]; [June 25, 1910, ch. 431, § 1][/us/act/1910-06-25/ch431/s1], [36 Stat. 855][/us/stat/36/855]; [Mar. 3, 1928, ch. 122][/us/act/1928-03-03/ch122], [45 Stat. 161][/us/stat/45/161]; [Apr. 30, 1934, ch. 169][/us/act/1934-04-30/ch169], [48 Stat. 648][/us/stat/48/648].)
+([Apr. 30, 1908, ch. 153][/us/act/1908-04-30/ch153], [35 Stat. 73][/us/stat/35/73]; [June 25, 1910, ch. 431][/us/act/1910-06-25/ch431], § 1, [36 Stat. 855][/us/stat/36/855]; [Mar. 3, 1928, ch. 122][/us/act/1928-03-03/ch122], [45 Stat. 161][/us/stat/45/161]; [Apr. 30, 1934, ch. 169][/us/act/1934-04-30/ch169], [48 Stat. 648][/us/stat/48/648].)
 
  __Codification__ 
 
@@ -42,7 +42,7 @@
 
 [/us/act/1908-04-30/ch153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1908-04-30%2Fch153
 [/us/stat/35/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F35%2F73
-[/us/act/1910-06-25/ch431/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1910-06-25%2Fch431%2Fs1
+[/us/act/1910-06-25/ch431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1910-06-25%2Fch431
 [/us/stat/36/855]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F855
 [/us/act/1928-03-03/ch122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-03-03%2Fch122
 [/us/stat/45/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F45%2F161

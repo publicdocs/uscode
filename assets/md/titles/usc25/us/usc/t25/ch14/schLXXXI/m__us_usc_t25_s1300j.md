@@ -37,7 +37,7 @@
 
     (10) The United States Government, the government of the State of Michigan, and local governments have had continuous dealings with the recognized political leaders of the Band from 1795 until the present.
 
-([Pub. L. 103–323, § 1][/us/pl/103/323/s1], Sept. 21, 1994, [108 Stat. 2152][/us/stat/108/2152].)
+([Pub. L. 103–323][/us/pl/103/323], § 1, Sept. 21, 1994, [108 Stat. 2152][/us/stat/108/2152].)
 
  __References in Text__ 
 
@@ -65,7 +65,7 @@
 [/us/usc/t25/s461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs461
 [/us/usc/t25/s461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs461
 [/us/usc/t25/s461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs461
-[/us/pl/103/323/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F323%2Fs1
+[/us/pl/103/323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F323
 [/us/stat/108/2152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2152
 [/us/act/1934-06-18/ch576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-18%2Fch576
 [/us/stat/48/984]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F984

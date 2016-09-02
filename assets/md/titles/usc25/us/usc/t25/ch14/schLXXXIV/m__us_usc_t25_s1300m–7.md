@@ -17,7 +17,7 @@
 
     The Secretary may promulgate such regulations as may be necessary to carry out the provisions of this subchapter.
 
-([Pub. L. 103–454, title III, § 309][/us/pl/103/454/s309], Nov. 2, 1994, [108 Stat. 4796][/us/stat/108/4796].)
+([Pub. L. 103–454, title III][/us/pl/103/454/tIII], § 309, Nov. 2, 1994, [108 Stat. 4796][/us/stat/108/4796].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/103/454/s309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F454%2Fs309
+[/us/pl/103/454/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F454%2FtIII
 [/us/stat/108/4796]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4796
 
 

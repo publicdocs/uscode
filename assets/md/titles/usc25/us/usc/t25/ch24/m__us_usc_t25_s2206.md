@@ -837,7 +837,7 @@
 
                 (ii) the devisee in trust or restricted status under subsection (b)(1).
 
-([Pub. L. 97–459, title II, § 207][/us/pl/97/459/s207], as added [Pub. L. 106–462, title I, § 103(4)][/us/pl/106/462/s103/4], Nov. 7, 2000, [114 Stat. 1995][/us/stat/114/1995]; amended [Pub. L. 108–374][/us/pl/108/374], §§ 3, 6(a)(2), (4), (e), Oct. 27, 2004, [118 Stat. 1774][/us/stat/118/1774], 1797, 1800, 1805; [Pub. L. 109–157, § 4][/us/pl/109/157/s4], Dec. 30, 2005, [119 Stat. 2950][/us/stat/119/2950]; [Pub. L. 109–221, title V, § 501(a)][/us/pl/109/221/s501/a], May 12, 2006, [120 Stat. 343][/us/stat/120/343]; [Pub. L. 110–453, title II, § 207(c)][/us/pl/110/453/s207/c], Dec. 2, 2008, [122 Stat. 5030][/us/stat/122/5030].)
+([Pub. L. 97–459, title II][/us/pl/97/459/tII], § 207, as added [Pub. L. 106–462, title I][/us/pl/106/462/tI], § 103(4), Nov. 7, 2000, [114 Stat. 1995][/us/stat/114/1995]; amended [Pub. L. 108–374][/us/pl/108/374], §§ 3, 6(a)(2), (4), (e), Oct. 27, 2004, [118 Stat. 1774][/us/stat/118/1774], 1797, 1800, 1805; [Pub. L. 109–157][/us/pl/109/157], § 4, Dec. 30, 2005, [119 Stat. 2950][/us/stat/119/2950]; [Pub. L. 109–221, title V][/us/pl/109/221/tV], § 501(a), May 12, 2006, [120 Stat. 343][/us/stat/120/343]; [Pub. L. 110–453, title II][/us/pl/110/453/tII], § 207(c), Dec. 2, 2008, [122 Stat. 5030][/us/stat/122/5030].)
 
  __References in Text__ 
 
@@ -859,115 +859,115 @@
 
  __Prior Provisions__ 
 
-    A prior section 2206, [Pub. L. 97–459, title II, § 207][/us/pl/97/459/s207], Jan. 12, 1983, [96 Stat. 2519][/us/stat/96/2519]; [Pub. L. 98–608, § 1(4)][/us/pl/98/608/s1/4], Oct. 30, 1984, [98 Stat. 3172][/us/stat/98/3172]; [Pub. L. 101–644, title III, § 301(a)][/us/pl/101/644/s301/a], Nov. 29, 1990, [104 Stat. 4666][/us/stat/104/4666], related to escheat to tribe of trust or restricted or controlled lands, fractional interests, and Indian tribal codes, prior to repeal by [Pub. L. 106–462, title I, § 103(4)][/us/pl/106/462/s103/4], Nov. 7, 2000, [114 Stat. 1995][/us/stat/114/1995].
+    A prior section 2206, [Pub. L. 97–459, title II][/us/pl/97/459/tII], § 207, Jan. 12, 1983, [96 Stat. 2519][/us/stat/96/2519]; [Pub. L. 98–608][/us/pl/98/608], § 1(4), Oct. 30, 1984, [98 Stat. 3172][/us/stat/98/3172]; [Pub. L. 101–644, title III][/us/pl/101/644/tIII], § 301(a), Nov. 29, 1990, [104 Stat. 4666][/us/stat/104/4666], related to escheat to tribe of trust or restricted or controlled lands, fractional interests, and Indian tribal codes, prior to repeal by [Pub. L. 106–462, title I][/us/pl/106/462/tI], § 103(4), Nov. 7, 2000, [114 Stat. 1995][/us/stat/114/1995].
 
  __Amendments__ 
 
-    2008—Subsec. (a)(2). [Pub. L. 110–453, § 207(c)(1)(B)][/us/pl/110/453/s207/c/1/B], added par. (2) relating to intestate descent of permanent improvements.
+    2008—Subsec. (a)(2). [Pub. L. 110–453][/us/pl/110/453], § 207(c)(1)(B), added par. (2) relating to intestate descent of permanent improvements.
 
-    Subsec. (a)(2)(D)(i). [Pub. L. 110–453, § 207(c)(1)(A)(i)][/us/pl/110/453/s207/c/1/A/i], substituted “clauses (ii) through (v)” for “clauses (ii) through (iv)”.
+    Subsec. (a)(2)(D)(i). [Pub. L. 110–453][/us/pl/110/453], § 207(c)(1)(A)(i), substituted “clauses (ii) through (v)” for “clauses (ii) through (iv)”.
 
-    Subsec. (a)(2)(D)(iv)(II). [Pub. L. 110–453, § 207(c)(1)(A)(ii)][/us/pl/110/453/s207/c/1/A/ii], which directed substitution of “descent” for “decedent”, was executed by making the substitution only in introductory provisions after “order of”, to reflect the probable intent of Congress.
+    Subsec. (a)(2)(D)(iv)(II). [Pub. L. 110–453][/us/pl/110/453], § 207(c)(1)(A)(ii), which directed substitution of “descent” for “decedent”, was executed by making the substitution only in introductory provisions after “order of”, to reflect the probable intent of Congress.
 
-    Subsec. (a)(2)(D)(v). [Pub. L. 110–453, § 207(c)(1)(A)(iii)][/us/pl/110/453/s207/c/1/A/iii], added cl. (v) and struck out former cl. (v). Prior to amendment, text read as follows: “This subparagraph shall not be construed to limit a person’s right to devise any trust or restricted interest by way of a valid will in accordance with subsection (b) of this section.”
+    Subsec. (a)(2)(D)(v). [Pub. L. 110–453][/us/pl/110/453], § 207(c)(1)(A)(iii), added cl. (v) and struck out former cl. (v). Prior to amendment, text read as follows: “This subparagraph shall not be construed to limit a person’s right to devise any trust or restricted interest by way of a valid will in accordance with subsection (b) of this section.”
 
-    Subsec. (b)(2)(B). [Pub. L. 110–453, § 207(c)(2)][/us/pl/110/453/s207/c/2], designated introductory provisions and cls. (i) to (iii) as cl. (i), inserted heading, and substituted “Subject to clauses (ii) and (iii), any interest’;” for “Any interest”, redesignated former cls. (i) to (iii) as subcls. (I) to (III), respectively, of cl. (i) and realigned margins, substituted period for semicolon at end of subcl. (III), added cl. (ii), and designated concluding provisions as cl. (iii), inserted heading, and substituted “Except as provided in clause (ii), nothing; and” for “provided that nothing”.
+    Subsec. (b)(2)(B). [Pub. L. 110–453][/us/pl/110/453], § 207(c)(2), designated introductory provisions and cls. (i) to (iii) as cl. (i), inserted heading, and substituted “Subject to clauses (ii) and (iii), any interest’;” for “Any interest”, redesignated former cls. (i) to (iii) as subcls. (I) to (III), respectively, of cl. (i) and realigned margins, substituted period for semicolon at end of subcl. (III), added cl. (ii), and designated concluding provisions as cl. (iii), inserted heading, and substituted “Except as provided in clause (ii), nothing; and” for “provided that nothing”.
 
-    Subsec. (h)(1). [Pub. L. 110–453, § 207(c)(3)][/us/pl/110/453/s207/c/3], designated existing provisions as subpar. (A), inserted heading, and added subpars. (B) and (C).
+    Subsec. (h)(1). [Pub. L. 110–453][/us/pl/110/453], § 207(c)(3), designated existing provisions as subpar. (A), inserted heading, and added subpars. (B) and (C).
 
-    Subsecs. (i)(4)(C), (j)(2)(A)(ii). [Pub. L. 110–453, § 207(c)(4)][/us/pl/110/453/s207/c/4], (5), substituted “interest in land” for “interest land”.
+    Subsecs. (i)(4)(C), (j)(2)(A)(ii). [Pub. L. 110–453][/us/pl/110/453], § 207(c)(4), (5), substituted “interest in land” for “interest land”.
 
-    Subsec. (k). [Pub. L. 110–453, § 207(c)(6)][/us/pl/110/453/s207/c/6], inserted “a” after “receiving” in introductory provisions.
+    Subsec. (k). [Pub. L. 110–453][/us/pl/110/453], § 207(c)(6), inserted “a” after “receiving” in introductory provisions.
 
-    Subsec. (o)(3). [Pub. L. 110–453, § 207(c)(7)(A)][/us/pl/110/453/s207/c/7/A], substituted “Request to purchase; consent requirements; multiple requests to purchase” for “Request to purchase; auction; consent requirements” in heading, designated introductory provisions and subpars. (A) and (B) as subpar. (A) and inserted heading, redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, of subpar. (A) and realigned margins, added subpar. (B), and struck out former concluding provisions which read as follows: “If the Secretary receives more than 1 request to purchase the same interest, the Secretary shall sell the interest by public auction or sealed bid (as determined by the Secretary) at not less than the appraised fair market value to the eligible purchaser submitting the highest bid.”
+    Subsec. (o)(3). [Pub. L. 110–453][/us/pl/110/453], § 207(c)(7)(A), substituted “Request to purchase; consent requirements; multiple requests to purchase” for “Request to purchase; auction; consent requirements” in heading, designated introductory provisions and subpars. (A) and (B) as subpar. (A) and inserted heading, redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, of subpar. (A) and realigned margins, added subpar. (B), and struck out former concluding provisions which read as follows: “If the Secretary receives more than 1 request to purchase the same interest, the Secretary shall sell the interest by public auction or sealed bid (as determined by the Secretary) at not less than the appraised fair market value to the eligible purchaser submitting the highest bid.”
 
-    Subsec. (o)(4). [Pub. L. 110–453, § 207(c)(7)(B)][/us/pl/110/453/s207/c/7/B], inserted “and” at end of subpar. (A), substituted period for “; and” at end of subpar. (B), and struck out subpar. (C) which read as follows: “if the Secretary receives more than 1 request to purchase the interest by a person described in subparagraph (B), provide notice of the manner (auction or sealed bid), time and place of the sale, a description, and the appraised fair market value, of the interest to be sold—
+    Subsec. (o)(4). [Pub. L. 110–453][/us/pl/110/453], § 207(c)(7)(B), inserted “and” at end of subpar. (A), substituted period for “; and” at end of subpar. (B), and struck out subpar. (C) which read as follows: “if the Secretary receives more than 1 request to purchase the interest by a person described in subparagraph (B), provide notice of the manner (auction or sealed bid), time and place of the sale, a description, and the appraised fair market value, of the interest to be sold—
 
     “(i) to the heirs or other devisees and the Indian tribe with jurisdiction over the interest, by first class mail; and
 
     “(ii) to all other eligible purchasers, by posting written notice in at least 5 conspicuous places in the vicinity of the place of hearing.”
 
-    Subsec. (o)(5)(A). [Pub. L. 110–453, § 207(c)(7)(C)(i)(I)][/us/pl/110/453/s207/c/7/C/i/I], in introductory provisions, inserted “or surviving spouse” after “heir”, substituted “paragraph (3)(A)(ii)” for “paragraph (3)(B)”, and struck out “auction and” after “required for the”.
+    Subsec. (o)(5)(A). [Pub. L. 110–453][/us/pl/110/453], § 207(c)(7)(C)(i)(I), in introductory provisions, inserted “or surviving spouse” after “heir”, substituted “paragraph (3)(A)(ii)” for “paragraph (3)(B)”, and struck out “auction and” after “required for the”.
 
-    Subsec. (o)(5)(A)(ii). [Pub. L. 110–453, § 207(c)(7)(C)(i)(III)(aa)][/us/pl/110/453/s207/c/7/C/i/III/aa], (bb), substituted “sale” for “auction” and “, at the time of death of the applicable decedent, the interest of the decedent in the land represented” for “the interest passing to such heir represents”.
+    Subsec. (o)(5)(A)(ii). [Pub. L. 110–453][/us/pl/110/453], § 207(c)(7)(C)(i)(III)(aa), (bb), substituted “sale” for “auction” and “, at the time of death of the applicable decedent, the interest of the decedent in the land represented” for “the interest passing to such heir represents”.
 
-    Subsec. (o)(5)(A)(iii). [Pub. L. 110–453, § 207(c)(7)(C)(i)(II)][/us/pl/110/453/s207/c/7/C/i/II], (III)(cc), (IV), added cl. (iii).
+    Subsec. (o)(5)(A)(iii). [Pub. L. 110–453][/us/pl/110/453], § 207(c)(7)(C)(i)(II), (III)(cc), (IV), added cl. (iii).
 
-    Subsec. (o)(5)(B). [Pub. L. 110–453, § 207(c)(7)(C)(ii)][/us/pl/110/453/s207/c/7/C/ii], inserted “or surviving spouse” after “heir” in two places and substituted “interest of the heir or surviving spouse” for “heir’s interest”.
+    Subsec. (o)(5)(B). [Pub. L. 110–453][/us/pl/110/453], § 207(c)(7)(C)(ii), inserted “or surviving spouse” after “heir” in two places and substituted “interest of the heir or surviving spouse” for “heir’s interest”.
 
-    2006—Subsec. (g)(2). [Pub. L. 109–221, § 501(a)(1)][/us/pl/109/221/s501/a/1], substituted “specified in paragraph (1)” for “described in paragraph (1)” in introductory provisions and “identified in such law” for “identified in Federal law” in subpar. (B).
+    2006—Subsec. (g)(2). [Pub. L. 109–221][/us/pl/109/221], § 501(a)(1), substituted “specified in paragraph (1)” for “described in paragraph (1)” in introductory provisions and “identified in such law” for “identified in Federal law” in subpar. (B).
 
-    Subsec. (g)(3). [Pub. L. 109–221, § 501(a)(2)][/us/pl/109/221/s501/a/2], added par. (3) and struck out former par. (3). Text read as follows: “Except to the extent that this chapter otherwise affects the application of a Federal law described in paragraph (2), nothing in this subsection limits the application of this chapter to trust or restricted land, interests in such land, or any other trust or restricted interests or assets.”
+    Subsec. (g)(3). [Pub. L. 109–221][/us/pl/109/221], § 501(a)(2), added par. (3) and struck out former par. (3). Text read as follows: “Except to the extent that this chapter otherwise affects the application of a Federal law described in paragraph (2), nothing in this subsection limits the application of this chapter to trust or restricted land, interests in such land, or any other trust or restricted interests or assets.”
 
-    2005—Subsec. (a)(2)(D)(iv)(I)(aa). [Pub. L. 109–157, § 4(b)(1)][/us/pl/109/157/s4/b/1], substituted “this subparagraph” for “clause (iii)”.
+    2005—Subsec. (a)(2)(D)(iv)(I)(aa). [Pub. L. 109–157][/us/pl/109/157], § 4(b)(1), substituted “this subparagraph” for “clause (iii)”.
 
-    Subsec. (a)(2)(D)(iv)(I)(aa)(BB). [Pub. L. 109–157, § 4(b)(2)][/us/pl/109/157/s4/b/2], substituted “not more than 1 co-owner” for “any co-owner”.
+    Subsec. (a)(2)(D)(iv)(I)(aa)(BB). [Pub. L. 109–157][/us/pl/109/157], § 4(b)(2), substituted “not more than 1 co-owner” for “any co-owner”.
 
-    Subsec. (c). [Pub. L. 109–157, § 4(c)][/us/pl/109/157/s4/c], reenacted heading without change.
+    Subsec. (c). [Pub. L. 109–157][/us/pl/109/157], § 4(c), reenacted heading without change.
 
-    Subsec. (f)(3). [Pub. L. 109–157, § 4(d)][/us/pl/109/157/s4/d], inserted “, including noncompetitive grants,” after “award grants” in introductory provisions.
+    Subsec. (f)(3). [Pub. L. 109–157][/us/pl/109/157], § 4(d), inserted “, including noncompetitive grants,” after “award grants” in introductory provisions.
 
-    Subsec. (g). [Pub. L. 109–157, § 4(a)(1)][/us/pl/109/157/s4/a/1], redesignated subsec. (h) as (g).
+    Subsec. (g). [Pub. L. 109–157][/us/pl/109/157], § 4(a)(1), redesignated subsec. (h) as (g).
 
-    Subsec. (g)(2). [Pub. L. 109–157, § 4(a)(2)(A)(i)][/us/pl/109/157/s4/a/2/A/i], inserted “specifically” after “pertains” in introductory provisions.
+    Subsec. (g)(2). [Pub. L. 109–157][/us/pl/109/157], § 4(a)(2)(A)(i), inserted “specifically” after “pertains” in introductory provisions.
 
-    Subsec. (g)(2)(B). [Pub. L. 109–157, § 4(a)(2)(A)(ii)][/us/pl/109/157/s4/a/2/A/ii], added subpar. (B) and struck out former subpar. (B) which read as follows: “the allotted lands of 1 or more specific Indian tribes that are expressly identified in such law.”
+    Subsec. (g)(2)(B). [Pub. L. 109–157][/us/pl/109/157], § 4(a)(2)(A)(ii), added subpar. (B) and struck out former subpar. (B) which read as follows: “the allotted lands of 1 or more specific Indian tribes that are expressly identified in such law.”
 
-    Subsec. (g)(3). [Pub. L. 109–157, § 4(a)(2)(B)][/us/pl/109/157/s4/a/2/B], added par. (3).
+    Subsec. (g)(3). [Pub. L. 109–157][/us/pl/109/157], § 4(a)(2)(B), added par. (3).
 
-    Subsec. (h). [Pub. L. 109–157, § 4(a)(1)][/us/pl/109/157/s4/a/1], redesignated subsec. (i) as (h). Former subsec. (h) redesignated (g).
+    Subsec. (h). [Pub. L. 109–157][/us/pl/109/157], § 4(a)(1), redesignated subsec. (i) as (h). Former subsec. (h) redesignated (g).
 
-    Subsec. (h)(6). [Pub. L. 109–157, § 4(a)(3)(A)][/us/pl/109/157/s4/a/3/A], made technical amendment to reference in original act which appears in text as reference to [section 2205 of this title][/us/usc/t25/s2205].
+    Subsec. (h)(6). [Pub. L. 109–157][/us/pl/109/157], § 4(a)(3)(A), made technical amendment to reference in original act which appears in text as reference to [section 2205 of this title][/us/usc/t25/s2205].
 
-    Subsec. (h)(7). [Pub. L. 109–157, § 4(a)(3)(B)][/us/pl/109/157/s4/a/3/B], inserted “in trust or restricted status” after “testator”.
+    Subsec. (h)(7). [Pub. L. 109–157][/us/pl/109/157], § 4(a)(3)(B), inserted “in trust or restricted status” after “testator”.
 
-    Subsec. (i). [Pub. L. 109–157, § 4(a)(1)][/us/pl/109/157/s4/a/1], redesignated subsec. (j) as (i). Former subsec. (i) redesignated (h).
+    Subsec. (i). [Pub. L. 109–157][/us/pl/109/157], § 4(a)(1), redesignated subsec. (j) as (i). Former subsec. (i) redesignated (h).
 
-    Subsec. (j). [Pub. L. 109–157, § 4(a)(1)][/us/pl/109/157/s4/a/1], redesignated subsec. (k) as (j). Former subsec. (j) redesignated (i).
+    Subsec. (j). [Pub. L. 109–157][/us/pl/109/157], § 4(a)(1), redesignated subsec. (k) as (j). Former subsec. (j) redesignated (i).
 
-    Subsec. (j)(2)(A)(ii)(I). [Pub. L. 109–157, § 4(a)(4)(A)(i)][/us/pl/109/157/s4/a/4/A/i], substituted “the date that is 1 year after the date on which the Secretary publishes a notice of certification under section 8(a)(4) of the American Indian Probate Reform Act of 2004 ([25 U.S.C. 2201][/us/usc/t25/s2201] note; [Public Law 108–374][/us/pl/108/374])” for “October 27, 2004”.
+    Subsec. (j)(2)(A)(ii)(I). [Pub. L. 109–157][/us/pl/109/157], § 4(a)(4)(A)(i), substituted “the date that is 1 year after the date on which the Secretary publishes a notice of certification under section 8(a)(4) of the American Indian Probate Reform Act of 2004 ([25 U.S.C. 2201][/us/usc/t25/s2201] note; [Public Law 108–374][/us/pl/108/374])” for “October 27, 2004”.
 
-    Subsec. (j)(2)(A)(iii). [Pub. L. 109–157, § 4(a)(4)(A)(ii)][/us/pl/109/157/s4/a/4/A/ii], struck out “the provisions of” before “subsection (a)(2)(A)” and made technical amendment to reference in original act which appears in text as reference to subsection (a)(2)(A) in introductory provisions.
+    Subsec. (j)(2)(A)(iii). [Pub. L. 109–157][/us/pl/109/157], § 4(a)(4)(A)(ii), struck out “the provisions of” before “subsection (a)(2)(A)” and made technical amendment to reference in original act which appears in text as reference to subsection (a)(2)(A) in introductory provisions.
 
-    Subsec. (j)(8)(D). [Pub. L. 109–157, § 4(a)(4)(B)][/us/pl/109/157/s4/a/4/B], struck out “the provisions of” before “subsection (a)(2)(D)” and made technical amendment to reference in original act which appears in text as reference to subsection (a)(2)(D).
+    Subsec. (j)(8)(D). [Pub. L. 109–157][/us/pl/109/157], § 4(a)(4)(B), struck out “the provisions of” before “subsection (a)(2)(D)” and made technical amendment to reference in original act which appears in text as reference to subsection (a)(2)(D).
 
-    Subsec. (j)(9)(C). [Pub. L. 109–157, § 4(a)(4)(C)][/us/pl/109/157/s4/a/4/C], made technical amendment to reference in original act which appears in text as reference to subsection (e) and substituted “subsection (o)” for “subsection (p)”.
+    Subsec. (j)(9)(C). [Pub. L. 109–157][/us/pl/109/157], § 4(a)(4)(C), made technical amendment to reference in original act which appears in text as reference to subsection (e) and substituted “subsection (o)” for “subsection (p)”.
 
-    Subsecs. (k) to (n). [Pub. L. 109–157, § 4(a)(1)][/us/pl/109/157/s4/a/1], redesignated subsecs. (l) to (o) as (k) to (n), respectively. Former subsec. (k) redesignated (j).
+    Subsecs. (k) to (n). [Pub. L. 109–157][/us/pl/109/157], § 4(a)(1), redesignated subsecs. (l) to (o) as (k) to (n), respectively. Former subsec. (k) redesignated (j).
 
-    Subsec. (o). [Pub. L. 109–157, § 4(a)(1)][/us/pl/109/157/s4/a/1], redesignated subsec. (p) as (o). Former subsec. (o) redesignated (n).
+    Subsec. (o). [Pub. L. 109–157][/us/pl/109/157], § 4(a)(1), redesignated subsec. (p) as (o). Former subsec. (o) redesignated (n).
 
-    Subsec. (o)(2). [Pub. L. 109–157, § 4(a)(5)(A)(i)][/us/pl/109/157/s4/a/5/A/i], substituted “subparagraph (A) or (D) of subsection (a)(2)” for “subsection (a)(2)(A) or (D)” in introductory provisions.
+    Subsec. (o)(2). [Pub. L. 109–157][/us/pl/109/157], § 4(a)(5)(A)(i), substituted “subparagraph (A) or (D) of subsection (a)(2)” for “subsection (a)(2)(A) or (D)” in introductory provisions.
 
-    Subsec. (o)(2)(A). [Pub. L. 109–157, § 4(a)(5)(A)(ii)][/us/pl/109/157/s4/a/5/A/ii], made technical amendment to reference in original act which appears in text as reference to subsection (b)(1)(A).
+    Subsec. (o)(2)(A). [Pub. L. 109–157][/us/pl/109/157], § 4(a)(5)(A)(ii), made technical amendment to reference in original act which appears in text as reference to subsection (b)(1)(A).
 
-    Subsec. (o)(3)(B). [Pub. L. 109–157, § 4(a)(5)(B)][/us/pl/109/157/s4/a/5/B], substituted “subparagraph (A) or (D) of subsection (a)(2)” for “subsection (a)(2)(A) or (D)”.
+    Subsec. (o)(3)(B). [Pub. L. 109–157][/us/pl/109/157], § 4(a)(5)(B), substituted “subparagraph (A) or (D) of subsection (a)(2)” for “subsection (a)(2)(A) or (D)”.
 
-    Subsec. (o)(6). [Pub. L. 109–157, § 4(a)(5)(C)][/us/pl/109/157/s4/a/5/C], designated first sentence as subpar. (A), inserted subpar. heading, added subpar. (B), and struck out former second sentence which read as follows: “The proceeds attributable to an heir or devisee shall be held in an account as trust personalty if the interest sold would have otherwise passed to the heir or devisee in trust or restricted status.”
+    Subsec. (o)(6). [Pub. L. 109–157][/us/pl/109/157], § 4(a)(5)(C), designated first sentence as subpar. (A), inserted subpar. heading, added subpar. (B), and struck out former second sentence which read as follows: “The proceeds attributable to an heir or devisee shall be held in an account as trust personalty if the interest sold would have otherwise passed to the heir or devisee in trust or restricted status.”
 
-    2004—Subsec. (a). [Pub. L. 108–374, § 3(a)][/us/pl/108/374/s3/a], added subsec. (a) and struck out heading and text of former subsec. (a) which related to testamentary disposition.
+    2004—Subsec. (a). [Pub. L. 108–374][/us/pl/108/374], § 3(a), added subsec. (a) and struck out heading and text of former subsec. (a) which related to testamentary disposition.
 
-    Subsec. (b). [Pub. L. 108–374, § 3(b)][/us/pl/108/374/s3/b], added subsec. (b) and struck out heading and text of former subsec. (b) which related to intestate succession.
+    Subsec. (b). [Pub. L. 108–374][/us/pl/108/374], § 3(b), added subsec. (b) and struck out heading and text of former subsec. (b) which related to intestate succession.
 
-    Subsec. (c). [Pub. L. 108–374, § 3(c)][/us/pl/108/374/s3/c], added text of subsec. (c) and struck out text of former subsec. (c) which related to ownership interests in the same parcel of trust or restricted lands devised or passed to more than one person.
+    Subsec. (c). [Pub. L. 108–374][/us/pl/108/374], § 3(c), added text of subsec. (c) and struck out text of former subsec. (c) which related to ownership interests in the same parcel of trust or restricted lands devised or passed to more than one person.
 
-    Subsec. (f)(1). [Pub. L. 108–374, § 6(e)(1)][/us/pl/108/374/s6/e/1], added par. (1) and struck out heading and text of former par. (1). Text read as follows: “The Secretary shall provide estate planning assistance in accordance with this subsection, to the extent amounts are appropriated for such purpose.”
+    Subsec. (f)(1). [Pub. L. 108–374][/us/pl/108/374], § 6(e)(1), added par. (1) and struck out heading and text of former par. (1). Text read as follows: “The Secretary shall provide estate planning assistance in accordance with this subsection, to the extent amounts are appropriated for such purpose.”
 
-    Subsec. (f)(2)(B) to (D). [Pub. L. 108–374, § 6(e)(2)][/us/pl/108/374/s6/e/2], added subpars. (B) and (C) and redesignated former subpar. (B) as (D).
+    Subsec. (f)(2)(B) to (D). [Pub. L. 108–374][/us/pl/108/374], § 6(e)(2), added subpars. (B) and (C) and redesignated former subpar. (B) as (D).
 
-    Subsec. (f)(3), (4). [Pub. L. 108–374, § 6(e)(3)][/us/pl/108/374/s6/e/3], added pars. (3) and (4) and struck out heading and text of former par. (3). Text read as follows: “In carrying out this section, the Secretary may enter into contracts with entities that have expertise in Indian estate planning and tribal probate codes.”
+    Subsec. (f)(3), (4). [Pub. L. 108–374][/us/pl/108/374], § 6(e)(3), added pars. (3) and (4) and struck out heading and text of former par. (3). Text read as follows: “In carrying out this section, the Secretary may enter into contracts with entities that have expertise in Indian estate planning and tribal probate codes.”
 
-    Subsec. (g). [Pub. L. 108–374, § 6(a)(4)][/us/pl/108/374/s6/a/4], struck out heading and text of subsec. (g) which related to notification to Indian tribes and owners of trust or restricted lands of amendments made by the Indian Land Consolidation Act Amendments of 2000.
+    Subsec. (g). [Pub. L. 108–374][/us/pl/108/374], § 6(a)(4), struck out heading and text of subsec. (g) which related to notification to Indian tribes and owners of trust or restricted lands of amendments made by the Indian Land Consolidation Act Amendments of 2000.
 
-    Subsecs. (h) to (k). [Pub. L. 108–374, § 3(d)][/us/pl/108/374/s3/d], added subsecs. (h) to (k).
+    Subsecs. (h) to (k). [Pub. L. 108–374][/us/pl/108/374], § 3(d), added subsecs. (h) to (k).
 
-    Subsecs. (l) to (o). [Pub. L. 108–374, § 6(e)(4)][/us/pl/108/374/s6/e/4], which directed amendment of section by adding subsecs. (l) to (o) at end, was executed by adding those subsecs. after subsec. (k), to reflect the probable intent of Congress.
+    Subsecs. (l) to (o). [Pub. L. 108–374][/us/pl/108/374], § 6(e)(4), which directed amendment of section by adding subsecs. (l) to (o) at end, was executed by adding those subsecs. after subsec. (k), to reflect the probable intent of Congress.
 
-    Subsec. (p). [Pub. L. 108–374, § 6(a)(2)][/us/pl/108/374/s6/a/2], added subsec. (p).
+    Subsec. (p). [Pub. L. 108–374][/us/pl/108/374], § 6(a)(2), added subsec. (p).
 
  __Effective Date of 2008 Amendment__ 
 
-[Pub. L. 110–453, title II, § 207(f)][/us/pl/110/453/s207/f], Dec. 2, 2008, [122 Stat. 5033][/us/stat/122/5033], provided that:
+[Pub. L. 110–453, title II][/us/pl/110/453/tII], § 207(f), Dec. 2, 2008, [122 Stat. 5033][/us/stat/122/5033], provided that:
 
 >     “(1)  __Testamentary disposition__  __.—__ 
 
@@ -987,7 +987,7 @@
 
  __Judicial Review__ 
 
-    [Pub. L. 106–462, title I, § 104][/us/pl/106/462/s104], Nov. 7, 2000, [114 Stat. 2006][/us/stat/114/2006], provided that after the Secretary of the Interior provided the certification required under former subsec. (g)(4) of this section, the owner of an interest in trust or restricted land could bring an administrative action to challenge the application of this section to the devise or descent of his or her interest or interests in trust or restricted lands, and could seek judicial review of the final decision of the Secretary with respect to such challenge.
+    [Pub. L. 106–462, title I][/us/pl/106/462/tI], § 104, Nov. 7, 2000, [114 Stat. 2006][/us/stat/114/2006], provided that after the Secretary of the Interior provided the certification required under former subsec. (g)(4) of this section, the owner of an interest in trust or restricted land could bring an administrative action to challenge the application of this section to the devise or descent of his or her interest or interests in trust or restricted lands, and could seek judicial review of the final decision of the Secretary with respect to such challenge.
 
 ----------
 
@@ -1023,16 +1023,16 @@
 [/us/pl/108/374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F374
 [/us/usc/t25/s372a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs372a
 [/us/usc/t25/s2212/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs2212%2Fa%2F1
-[/us/pl/97/459/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F459%2Fs207
-[/us/pl/106/462/s103/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F462%2Fs103%2F4
+[/us/pl/97/459/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F459%2FtII
+[/us/pl/106/462/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F462%2FtI
 [/us/stat/114/1995]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1995
 [/us/pl/108/374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F374
 [/us/stat/118/1774]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1774
-[/us/pl/109/157/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F157%2Fs4
+[/us/pl/109/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F157
 [/us/stat/119/2950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2950
-[/us/pl/109/221/s501/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F221%2Fs501%2Fa
+[/us/pl/109/221/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F221%2FtV
 [/us/stat/120/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F343
-[/us/pl/110/453/s207/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F453%2Fs207%2Fc
+[/us/pl/110/453/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F453%2FtII
 [/us/stat/122/5030]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F5030
 [/us/pl/97/459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F459
 [/us/pl/97/459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F459
@@ -1059,67 +1059,67 @@
 [/us/stat/54/746]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F746
 [/us/usc/t25/s372a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs372a
 [/us/usc/t25/s372a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs372a
-[/us/pl/97/459/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F459%2Fs207
+[/us/pl/97/459/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F459%2FtII
 [/us/stat/96/2519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2519
-[/us/pl/98/608/s1/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F608%2Fs1%2F4
+[/us/pl/98/608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F608
 [/us/stat/98/3172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3172
-[/us/pl/101/644/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F644%2Fs301%2Fa
+[/us/pl/101/644/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F644%2FtIII
 [/us/stat/104/4666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4666
-[/us/pl/106/462/s103/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F462%2Fs103%2F4
+[/us/pl/106/462/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F462%2FtI
 [/us/stat/114/1995]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1995
-[/us/pl/110/453/s207/c/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F453%2Fs207%2Fc%2F1%2FB
-[/us/pl/110/453/s207/c/1/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F453%2Fs207%2Fc%2F1%2FA%2Fi
-[/us/pl/110/453/s207/c/1/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F453%2Fs207%2Fc%2F1%2FA%2Fii
-[/us/pl/110/453/s207/c/1/A/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F453%2Fs207%2Fc%2F1%2FA%2Fiii
-[/us/pl/110/453/s207/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F453%2Fs207%2Fc%2F2
-[/us/pl/110/453/s207/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F453%2Fs207%2Fc%2F3
-[/us/pl/110/453/s207/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F453%2Fs207%2Fc%2F4
-[/us/pl/110/453/s207/c/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F453%2Fs207%2Fc%2F6
-[/us/pl/110/453/s207/c/7/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F453%2Fs207%2Fc%2F7%2FA
-[/us/pl/110/453/s207/c/7/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F453%2Fs207%2Fc%2F7%2FB
-[/us/pl/110/453/s207/c/7/C/i/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F453%2Fs207%2Fc%2F7%2FC%2Fi%2FI
-[/us/pl/110/453/s207/c/7/C/i/III/aa]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F453%2Fs207%2Fc%2F7%2FC%2Fi%2FIII%2Faa
-[/us/pl/110/453/s207/c/7/C/i/II]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F453%2Fs207%2Fc%2F7%2FC%2Fi%2FII
-[/us/pl/110/453/s207/c/7/C/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F453%2Fs207%2Fc%2F7%2FC%2Fii
-[/us/pl/109/221/s501/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F221%2Fs501%2Fa%2F1
-[/us/pl/109/221/s501/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F221%2Fs501%2Fa%2F2
-[/us/pl/109/157/s4/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F157%2Fs4%2Fb%2F1
-[/us/pl/109/157/s4/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F157%2Fs4%2Fb%2F2
-[/us/pl/109/157/s4/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F157%2Fs4%2Fc
-[/us/pl/109/157/s4/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F157%2Fs4%2Fd
-[/us/pl/109/157/s4/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F157%2Fs4%2Fa%2F1
-[/us/pl/109/157/s4/a/2/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F157%2Fs4%2Fa%2F2%2FA%2Fi
-[/us/pl/109/157/s4/a/2/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F157%2Fs4%2Fa%2F2%2FA%2Fii
-[/us/pl/109/157/s4/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F157%2Fs4%2Fa%2F2%2FB
-[/us/pl/109/157/s4/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F157%2Fs4%2Fa%2F1
-[/us/pl/109/157/s4/a/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F157%2Fs4%2Fa%2F3%2FA
+[/us/pl/110/453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F453
+[/us/pl/110/453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F453
+[/us/pl/110/453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F453
+[/us/pl/110/453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F453
+[/us/pl/110/453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F453
+[/us/pl/110/453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F453
+[/us/pl/110/453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F453
+[/us/pl/110/453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F453
+[/us/pl/110/453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F453
+[/us/pl/110/453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F453
+[/us/pl/110/453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F453
+[/us/pl/110/453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F453
+[/us/pl/110/453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F453
+[/us/pl/110/453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F453
+[/us/pl/109/221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F221
+[/us/pl/109/221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F221
+[/us/pl/109/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F157
+[/us/pl/109/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F157
+[/us/pl/109/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F157
+[/us/pl/109/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F157
+[/us/pl/109/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F157
+[/us/pl/109/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F157
+[/us/pl/109/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F157
+[/us/pl/109/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F157
+[/us/pl/109/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F157
+[/us/pl/109/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F157
 [/us/usc/t25/s2205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs2205
-[/us/pl/109/157/s4/a/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F157%2Fs4%2Fa%2F3%2FB
-[/us/pl/109/157/s4/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F157%2Fs4%2Fa%2F1
-[/us/pl/109/157/s4/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F157%2Fs4%2Fa%2F1
-[/us/pl/109/157/s4/a/4/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F157%2Fs4%2Fa%2F4%2FA%2Fi
+[/us/pl/109/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F157
+[/us/pl/109/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F157
+[/us/pl/109/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F157
+[/us/pl/109/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F157
 [/us/usc/t25/s2201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs2201
 [/us/pl/108/374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F374
-[/us/pl/109/157/s4/a/4/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F157%2Fs4%2Fa%2F4%2FA%2Fii
-[/us/pl/109/157/s4/a/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F157%2Fs4%2Fa%2F4%2FB
-[/us/pl/109/157/s4/a/4/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F157%2Fs4%2Fa%2F4%2FC
-[/us/pl/109/157/s4/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F157%2Fs4%2Fa%2F1
-[/us/pl/109/157/s4/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F157%2Fs4%2Fa%2F1
-[/us/pl/109/157/s4/a/5/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F157%2Fs4%2Fa%2F5%2FA%2Fi
-[/us/pl/109/157/s4/a/5/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F157%2Fs4%2Fa%2F5%2FA%2Fii
-[/us/pl/109/157/s4/a/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F157%2Fs4%2Fa%2F5%2FB
-[/us/pl/109/157/s4/a/5/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F157%2Fs4%2Fa%2F5%2FC
-[/us/pl/108/374/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F374%2Fs3%2Fa
-[/us/pl/108/374/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F374%2Fs3%2Fb
-[/us/pl/108/374/s3/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F374%2Fs3%2Fc
-[/us/pl/108/374/s6/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F374%2Fs6%2Fe%2F1
-[/us/pl/108/374/s6/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F374%2Fs6%2Fe%2F2
-[/us/pl/108/374/s6/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F374%2Fs6%2Fe%2F3
-[/us/pl/108/374/s6/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F374%2Fs6%2Fa%2F4
-[/us/pl/108/374/s3/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F374%2Fs3%2Fd
-[/us/pl/108/374/s6/e/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F374%2Fs6%2Fe%2F4
-[/us/pl/108/374/s6/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F374%2Fs6%2Fa%2F2
-[/us/pl/110/453/s207/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F453%2Fs207%2Ff
+[/us/pl/109/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F157
+[/us/pl/109/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F157
+[/us/pl/109/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F157
+[/us/pl/109/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F157
+[/us/pl/109/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F157
+[/us/pl/109/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F157
+[/us/pl/109/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F157
+[/us/pl/109/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F157
+[/us/pl/109/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F157
+[/us/pl/108/374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F374
+[/us/pl/108/374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F374
+[/us/pl/108/374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F374
+[/us/pl/108/374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F374
+[/us/pl/108/374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F374
+[/us/pl/108/374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F374
+[/us/pl/108/374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F374
+[/us/pl/108/374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F374
+[/us/pl/108/374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F374
+[/us/pl/108/374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F374
+[/us/pl/110/453/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F453%2FtII
 [/us/stat/122/5033]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F5033
 [/us/usc/t25/s2206/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs2206%2Fb
 [/us/usc/t25/s2206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs2206
@@ -1132,7 +1132,7 @@
 [/us/pl/108/374/s6/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F374%2Fs6%2Fa%2F4
 [/us/pl/108/374/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F374%2Fs8%2Fb
 [/us/usc/t25/s2201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs2201
-[/us/pl/106/462/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F462%2Fs104
+[/us/pl/106/462/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F462%2FtI
 [/us/stat/114/2006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2006
 
 

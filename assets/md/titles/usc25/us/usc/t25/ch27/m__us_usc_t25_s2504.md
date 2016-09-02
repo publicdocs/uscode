@@ -173,7 +173,7 @@
 
         The Bureau shall submit an annual report to the Congress on all applications received, and actions taken (including the costs associated with such actions), under this section at the same time that the President is required to submit to Congress the budget under [section 1105 of title 31][/us/usc/t31/s1105].
 
-([Pub. L. 100–297, title V, § 5205][/us/pl/100/297/s5205], as added [Pub. L. 107–110, title X, § 1043][/us/pl/107/110/s1043], Jan. 8, 2002, [115 Stat. 2068][/us/stat/115/2068].)
+([Pub. L. 100–297, title V][/us/pl/100/297/tV], § 5205, as added [Pub. L. 107–110, title X][/us/pl/107/110/tX], § 1043, Jan. 8, 2002, [115 Stat. 2068][/us/stat/115/2068].)
 
  __References in Text__ 
 
@@ -185,7 +185,7 @@
 
  __Prior Provisions__ 
 
-    A prior section 2504, [Pub. L. 100–297, title V, § 5205][/us/pl/100/297/s5205], Apr. 28, 1988, [102 Stat. 387][/us/stat/102/387]; [Pub. L. 100–427, § 10(c)][/us/pl/100/427/s10/c], Sept. 9, 1988, [102 Stat. 1608][/us/stat/102/1608]; [Pub. L. 101–301, § 5(g)][/us/pl/101/301/s5/g], May 24, 1990, [104 Stat. 209][/us/stat/104/209]; [Pub. L. 102–119, § 26(f)][/us/pl/102/119/s26/f], Oct. 7, 1991, [105 Stat. 607][/us/stat/105/607]; [Pub. L. 103–382, title III][/us/pl/103/382], §§ 382(a), (b), 394(m)(2), Oct. 20, 1994, [108 Stat. 4017][/us/stat/108/4017], 4029, related to composition of grants, prior to repeal by [Pub. L. 107–110, title X, § 1043][/us/pl/107/110/s1043], Jan. 8, 2002, [115 Stat. 2063][/us/stat/115/2063]. See [section 2503 of this title][/us/usc/t25/s2503].
+    A prior section 2504, [Pub. L. 100–297, title V][/us/pl/100/297/tV], § 5205, Apr. 28, 1988, [102 Stat. 387][/us/stat/102/387]; [Pub. L. 100–427][/us/pl/100/427], § 10(c), Sept. 9, 1988, [102 Stat. 1608][/us/stat/102/1608]; [Pub. L. 101–301][/us/pl/101/301], § 5(g), May 24, 1990, [104 Stat. 209][/us/stat/104/209]; [Pub. L. 102–119][/us/pl/102/119], § 26(f), Oct. 7, 1991, [105 Stat. 607][/us/stat/105/607]; [Pub. L. 103–382, title III][/us/pl/103/382/tIII], §§ 382(a), (b), 394(m)(2), Oct. 20, 1994, [108 Stat. 4017][/us/stat/108/4017], 4029, related to composition of grants, prior to repeal by [Pub. L. 107–110, title X][/us/pl/107/110/tX], § 1043, Jan. 8, 2002, [115 Stat. 2063][/us/stat/115/2063]. See [section 2503 of this title][/us/usc/t25/s2503].
 
  __Effective Date__ 
 
@@ -205,8 +205,8 @@
 [/us/usc/t25/s2000]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs2000
 [/us/usc/t25/s450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450
 [/us/usc/t31/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105
-[/us/pl/100/297/s5205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297%2Fs5205
-[/us/pl/107/110/s1043]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2Fs1043
+[/us/pl/100/297/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297%2FtV
+[/us/pl/107/110/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2FtX
 [/us/stat/115/2068]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F2068
 [/us/pl/95/561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561
 [/us/stat/92/2143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2143
@@ -216,17 +216,17 @@
 [/us/usc/t25/s450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450
 [/us/pl/100/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297
 [/us/usc/t25/s2501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs2501
-[/us/pl/100/297/s5205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297%2Fs5205
+[/us/pl/100/297/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297%2FtV
 [/us/stat/102/387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F387
-[/us/pl/100/427/s10/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F427%2Fs10%2Fc
+[/us/pl/100/427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F427
 [/us/stat/102/1608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1608
-[/us/pl/101/301/s5/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F301%2Fs5%2Fg
+[/us/pl/101/301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F301
 [/us/stat/104/209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F209
-[/us/pl/102/119/s26/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F119%2Fs26%2Ff
+[/us/pl/102/119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F119
 [/us/stat/105/607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F607
-[/us/pl/103/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382
+[/us/pl/103/382/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2FtIII
 [/us/stat/108/4017]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4017
-[/us/pl/107/110/s1043]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2Fs1043
+[/us/pl/107/110/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2FtX
 [/us/stat/115/2063]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F2063
 [/us/usc/t25/s2503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs2503
 [/us/pl/107/110/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2Fs5

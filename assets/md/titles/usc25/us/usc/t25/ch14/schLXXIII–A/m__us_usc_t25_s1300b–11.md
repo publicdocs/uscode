@@ -23,11 +23,11 @@
 
         Congress therefore declares that the Band should be recognized by the United States; that the right of the members of the Band to pass and repass the borders of the United States should be clarified; that services which the United States provides to Indians because of their status as Indians should be provided to members of the Band in Maverick County, Texas; and, that land in the State of Texas should be taken in trust by the United States for the benefit of the Band.
 
-([Pub. L. 97–429, § 2][/us/pl/97/429/s2], Jan. 8, 1983, [96 Stat. 2269][/us/stat/96/2269].)
+([Pub. L. 97–429][/us/pl/97/429], § 2, Jan. 8, 1983, [96 Stat. 2269][/us/stat/96/2269].)
 
  __Short Title__ 
 
-[Pub. L. 97–429, § 1][/us/pl/97/429/s1], Jan. 8, 1983, [96 Stat. 2269][/us/stat/96/2269], provided: 
+[Pub. L. 97–429][/us/pl/97/429], § 1, Jan. 8, 1983, [96 Stat. 2269][/us/stat/96/2269], provided: 
 
 > “That this Act \[enacting this subchapter\] may be cited as the ‘Texas Band of Kickapoo Act’.”
 
@@ -38,9 +38,9 @@
 ----------
 ----------
 
-[/us/pl/97/429/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F429%2Fs2
+[/us/pl/97/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F429
 [/us/stat/96/2269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2269
-[/us/pl/97/429/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F429%2Fs1
+[/us/pl/97/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F429
 [/us/stat/96/2269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2269
 
 

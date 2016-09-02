@@ -17,7 +17,7 @@
 
     Notwithstanding anything contained in this subchapter to the contrary, the Secretary shall make reasonable provision for the use of and right of access to identified religious shrines for the members of each tribe on the reservation of the other tribe where such use and access are for religious purposes.
 
-([Pub. L. 93–531, § 21][/us/pl/93/531/s21], Dec. 22, 1974, [88 Stat. 1722][/us/stat/88/1722].)
+([Pub. L. 93–531][/us/pl/93/531], § 21, Dec. 22, 1974, [88 Stat. 1722][/us/stat/88/1722].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/93/531/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F531%2Fs21
+[/us/pl/93/531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F531
 [/us/stat/88/1722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1722
 
 

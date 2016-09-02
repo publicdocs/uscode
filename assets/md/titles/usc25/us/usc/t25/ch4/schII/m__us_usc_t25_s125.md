@@ -17,7 +17,7 @@
 
     No moneys shall be expended from tribal or individual funds belonging to the Quapaw or other tribes of Indians of the Quapaw Agency in the State of Oklahoma without specific authority of law.
 
-([June 30, 1919, ch. 4, § 17][/us/act/1919-06-30/ch4/s17], [41 Stat. 20][/us/stat/41/20].)
+([June 30, 1919, ch. 4][/us/act/1919-06-30/ch4], § 17, [41 Stat. 20][/us/stat/41/20].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1919-06-30/ch4/s17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1919-06-30%2Fch4%2Fs17
+[/us/act/1919-06-30/ch4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1919-06-30%2Fch4
 [/us/stat/41/20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F20
 
 

@@ -39,17 +39,17 @@
 
     (11) the provision of adequate technical assistance to tribal courts and legal assistance to both individuals and tribal courts is an essential element in the development of strong tribal court systems.
 
-([Pub. L. 106–559, § 2][/us/pl/106/559/s2], Dec. 21, 2000, [114 Stat. 2778][/us/stat/114/2778].)
+([Pub. L. 106–559][/us/pl/106/559], § 2, Dec. 21, 2000, [114 Stat. 2778][/us/stat/114/2778].)
 
  __Short Title__ 
 
-[Pub. L. 106–559, § 1][/us/pl/106/559/s1], Dec. 21, 2000, [114 Stat. 2778][/us/stat/114/2778], provided that: 
+[Pub. L. 106–559][/us/pl/106/559], § 1, Dec. 21, 2000, [114 Stat. 2778][/us/stat/114/2778], provided that: 
 
 > “This Act \[enacting this chapter and amending [section 3621 of this title][/us/usc/t25/s3621] and sections 1629e and 1629g of Title 43, Public Lands\] may be cited as the ‘Indian Tribal Justice Technical and Legal Assistance Act of 2000’.”
 
  __Availability of Funds for Courts or Law Enforcement Officers of Certain Tribes or Villages__ 
 
-    [Pub. L. 108–199, div. B, title I, § 112(a)(1)][/us/pl/108/199/s112/a/1], Jan. 23, 2004, [118 Stat. 62][/us/stat/118/62], which prohibited use of funds provided in div. B of [Pub. L. 108–199][/us/pl/108/199] or on or after Jan. 23, 2004, for courts or law enforcement officers for a tribe or village in which fewer than 25 Native members live in the village year round or that is located within certain areas, was repealed by [Pub. L. 111–211, title II, § 247(e)(1)][/us/pl/111/211/s247/e/1], July 29, 2010, [124 Stat. 2297][/us/stat/124/2297].
+    [Pub. L. 108–199, div. B, title I][/us/pl/108/199/dB/tI], § 112(a)(1), Jan. 23, 2004, [118 Stat. 62][/us/stat/118/62], which prohibited use of funds provided in div. B of [Pub. L. 108–199][/us/pl/108/199] or on or after Jan. 23, 2004, for courts or law enforcement officers for a tribe or village in which fewer than 25 Native members live in the village year round or that is located within certain areas, was repealed by [Pub. L. 111–211, title II][/us/pl/111/211/tII], § 247(e)(1), July 29, 2010, [124 Stat. 2297][/us/stat/124/2297].
 
 ----------
 
@@ -58,15 +58,15 @@
 ----------
 ----------
 
-[/us/pl/106/559/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F559%2Fs2
+[/us/pl/106/559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F559
 [/us/stat/114/2778]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2778
-[/us/pl/106/559/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F559%2Fs1
+[/us/pl/106/559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F559
 [/us/stat/114/2778]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2778
 [/us/usc/t25/s3621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs3621
-[/us/pl/108/199/s112/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2Fs112%2Fa%2F1
+[/us/pl/108/199/dB/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2FdB%2FtI
 [/us/stat/118/62]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F62
 [/us/pl/108/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199
-[/us/pl/111/211/s247/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211%2Fs247%2Fe%2F1
+[/us/pl/111/211/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211%2FtII
 [/us/stat/124/2297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2297
 
 

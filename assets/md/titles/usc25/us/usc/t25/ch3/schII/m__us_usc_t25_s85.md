@@ -17,7 +17,7 @@
 
     No contract made with any Indian, where such contract relates to the tribal funds or property in the hands of the United States, shall be valid, nor shall any payment for services rendered in relation thereto be made unless the consent of the United States has previously been given.
 
-([June 30, 1913, ch. 4, § 18][/us/act/1913-06-30/ch4/s18], [38 Stat. 97][/us/stat/38/97].)
+([June 30, 1913, ch. 4][/us/act/1913-06-30/ch4], § 18, [38 Stat. 97][/us/stat/38/97].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1913-06-30/ch4/s18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-06-30%2Fch4%2Fs18
+[/us/act/1913-06-30/ch4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-06-30%2Fch4
 [/us/stat/38/97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F97
 
 

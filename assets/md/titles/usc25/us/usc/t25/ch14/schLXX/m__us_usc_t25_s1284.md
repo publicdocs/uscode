@@ -17,7 +17,7 @@
 
     The Secretary of the Interior is authorized to prescribe rules and regulations to effect the provisions of this subchapter.
 
-([Pub. L. 92–438, § 4][/us/pl/92/438/s4], Sept. 29, 1972, [86 Stat. 741][/us/stat/86/741].)
+([Pub. L. 92–438][/us/pl/92/438], § 4, Sept. 29, 1972, [86 Stat. 741][/us/stat/86/741].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/92/438/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F438%2Fs4
+[/us/pl/92/438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F438
 [/us/stat/86/741]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F741
 
 

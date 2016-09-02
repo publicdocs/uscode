@@ -135,7 +135,7 @@
 
             In the event of a conflict between Federal and State law under this subsection, Federal law shall control.
 
-([Pub. L. 101–42, § 5][/us/pl/101/42/s5], June 28, 1989, [103 Stat. 92][/us/stat/103/92]; [Pub. L. 104–208, div. B, title V, § 501][/us/pl/104/208/s501], Sept. 30, 1996, [110 Stat. 3009–537][/us/stat/110/3009-537].)
+([Pub. L. 101–42][/us/pl/101/42], § 5, June 28, 1989, [103 Stat. 92][/us/stat/103/92]; [Pub. L. 104–208, div. B, title V][/us/pl/104/208/dB/tV], § 501, Sept. 30, 1996, [110 Stat. 3009–537][/us/stat/110/3009-537].)
 
  __References in Text__ 
 
@@ -171,9 +171,9 @@
 [/us/pl/101/630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F630
 [/us/usc/t25/s3107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs3107
 [/us/usc/t25/s450f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450f
-[/us/pl/101/42/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F42%2Fs5
+[/us/pl/101/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F42
 [/us/stat/103/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F92
-[/us/pl/104/208/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs501
+[/us/pl/104/208/dB/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdB%2FtV
 [/us/stat/110/3009-537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-537
 [/us/usc/t25/s461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs461
 [/us/usc/t43/s1181a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1181a

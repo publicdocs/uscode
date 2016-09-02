@@ -45,7 +45,7 @@
 
         The term “transfer” includes any sale, grant, lease, allotment, partition, or conveyance, any transaction the purpose of which is to effect a sale, grant, lease, allotment, partition, or conveyance, or any event that results in a change of possession or control of land or natural resources.
 
-([Pub. L. 103–377, § 3][/us/pl/103/377/s3], Oct. 19, 1994, [108 Stat. 3502][/us/stat/108/3502].)
+([Pub. L. 103–377][/us/pl/103/377], § 3, Oct. 19, 1994, [108 Stat. 3502][/us/stat/108/3502].)
 
 ----------
 
@@ -54,7 +54,7 @@
 ----------
 ----------
 
-[/us/pl/103/377/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F377%2Fs3
+[/us/pl/103/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F377
 [/us/stat/108/3502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3502
 
 

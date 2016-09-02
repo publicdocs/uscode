@@ -35,7 +35,7 @@
 
         For the purpose of implementing subsection (d), the State of Wisconsin may establish such local government bodies, political subdivisions, and service arrangements as will best provide the State or local government services required by the people in the territory constituting, on December 22, 1973, the county of Menominee.
 
-([Pub. L. 93–197, § 6][/us/pl/93/197/s6], Dec. 22, 1973, [87 Stat. 772][/us/stat/87/772].)
+([Pub. L. 93–197][/us/pl/93/197], § 6, Dec. 22, 1973, [87 Stat. 772][/us/stat/87/772].)
 
 ----------
 
@@ -44,7 +44,7 @@
 ----------
 ----------
 
-[/us/pl/93/197/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F197%2Fs6
+[/us/pl/93/197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F197
 [/us/stat/87/772]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F772
 
 

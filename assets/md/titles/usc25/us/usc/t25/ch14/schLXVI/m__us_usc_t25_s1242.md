@@ -23,7 +23,7 @@
 
     c. those who participated in the Mississippi, Pillager, and Lake Winnibigoshish Chippewa Band awards under the provisions of sections 594 and 594a of this title.
 
-([Pub. L. 92–59, § 2][/us/pl/92/59/s2], July 29, 1971, [85 Stat. 158][/us/stat/85/158].)
+([Pub. L. 92–59][/us/pl/92/59], § 2, July 29, 1971, [85 Stat. 158][/us/stat/85/158].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/92/59/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F59%2Fs2
+[/us/pl/92/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F59
 [/us/stat/85/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F158
 
 

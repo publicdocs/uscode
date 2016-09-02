@@ -39,7 +39,7 @@
 
     (6) the term “Tiwa Indians Act” means the Act entitled “An Act relating to the Tiwa Indians of Texas.” and approved April 12, 1968 ([82 Stat. 93][/us/stat/82/93]).
 
-([Pub. L. 100–89, title I, § 101][/us/pl/100/89/s101], Aug. 18, 1987, [101 Stat. 666][/us/stat/101/666].)
+([Pub. L. 100–89, title I][/us/pl/100/89/tI], § 101, Aug. 18, 1987, [101 Stat. 666][/us/stat/101/666].)
 
  __References in Text__ 
 
@@ -63,7 +63,7 @@
 [/us/usc/t25/s1300g–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1300g%E2%80%931
 [/us/usc/t25/s1300g–4/g/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1300g%E2%80%934%2Fg%2F2
 [/us/stat/82/93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F93
-[/us/pl/100/89/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F89%2Fs101
+[/us/pl/100/89/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F89%2FtI
 [/us/stat/101/666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F666
 [/us/pl/90/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F287
 [/us/stat/82/93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F93

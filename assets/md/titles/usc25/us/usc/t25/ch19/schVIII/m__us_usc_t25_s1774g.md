@@ -17,7 +17,7 @@
 
     Notwithstanding any other provision of law, any action to contest the constitutionality or validity under law of this subchapter shall be barred unless the action is filed on or before the date which is 180 days after November 3, 1990. Exclusive jurisdiction over any such action is hereby vested in the United States District Court for the Western District of New York.
 
-([Pub. L. 101–503, § 9][/us/pl/101/503/s9], Nov. 3, 1990, [104 Stat. 1297][/us/stat/104/1297].)
+([Pub. L. 101–503][/us/pl/101/503], § 9, Nov. 3, 1990, [104 Stat. 1297][/us/stat/104/1297].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/101/503/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F503%2Fs9
+[/us/pl/101/503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F503
 [/us/stat/104/1297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1297
 
 

@@ -31,7 +31,7 @@
 
         The validity of the organization of the Wyandotte Indian Tribe of Oklahoma under [section 3 of the Act of June 26, 1936][/us/act/1936-06-26/s3] ([49 Stat. 1967][/us/stat/49/1967]; [25 U.S.C. 503][/us/usc/t25/s503]), and the continued application of said Act \[[25 U.S.C. 501][/us/usc/t25/s501] et seq.\] to such tribe and its members is hereby confirmed.
 
-([Pub. L. 95–281, § 2][/us/pl/95/281/s2], May 15, 1978, [92 Stat. 246][/us/stat/92/246].)
+([Pub. L. 95–281][/us/pl/95/281], § 2, May 15, 1978, [92 Stat. 246][/us/stat/92/246].)
 
  __References in Text__ 
 
@@ -65,7 +65,7 @@
 [/us/stat/49/1967]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1967
 [/us/usc/t25/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs503
 [/us/usc/t25/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs501
-[/us/pl/95/281/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F281%2Fs2
+[/us/pl/95/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F281
 [/us/stat/92/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F246
 [/us/usc/t25/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs501
 [/us/act/1954-08-13/ch732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-13%2Fch732

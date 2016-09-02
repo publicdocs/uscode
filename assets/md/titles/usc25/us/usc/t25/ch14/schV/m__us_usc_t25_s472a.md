@@ -59,23 +59,23 @@
 
         (3) The term “Bureau of Indian Affairs” means (A) the Bureau of Indian Affairs and (B) all other organizational units in the Department of the Interior directly and primarily related to providing services to Indians and in which positions are filled in accordance with the Indian preference laws.
 
-([Pub. L. 96–135, § 2][/us/pl/96/135/s2], Dec. 5, 1979, [93 Stat. 1057][/us/stat/93/1057]; [Pub. L. 96–88, title V, § 509(b)][/us/pl/96/88/s509/b], Oct. 17, 1979, [93 Stat. 695][/us/stat/93/695]; [Pub. L. 100–581, title II, § 205][/us/pl/100/581/s205], Nov. 1, 1988, [102 Stat. 2940][/us/stat/102/2940]; [Pub. L. 101–509, title V, § 529][/us/pl/101/509/s529] \[title I, § 112(c)\], Nov. 5, 1990, [104 Stat. 1427][/us/stat/104/1427], 1454; [Pub. L. 105–362, title VIII, § 801(e)][/us/pl/105/362/s801/e], title XIII, § 1302(d), Nov. 10, 1998, [112 Stat. 3288][/us/stat/112/3288], 3294.)
+([Pub. L. 96–135][/us/pl/96/135], § 2, Dec. 5, 1979, [93 Stat. 1057][/us/stat/93/1057]; [Pub. L. 96–88, title V][/us/pl/96/88/tV], § 509(b), Oct. 17, 1979, [93 Stat. 695][/us/stat/93/695]; [Pub. L. 100–581, title II][/us/pl/100/581/tII], § 205, Nov. 1, 1988, [102 Stat. 2940][/us/stat/102/2940]; [Pub. L. 101–509, title V][/us/pl/101/509/tV], § 529 \[title I, § 112(c)\], Nov. 5, 1990, [104 Stat. 1427][/us/stat/104/1427], 1454; [Pub. L. 105–362, title VIII][/us/pl/105/362/tVIII], § 801(e), title XIII, § 1302(d), Nov. 10, 1998, [112 Stat. 3288][/us/stat/112/3288], 3294.)
 
  __References in Text__ 
 
-    [Section 2011(f) of this title][/us/usc/t25/s2011/f], referred to in subsec. (c)(2), was in the original a reference to section 1131 of the Education Amendments of 1978, [Pub. L. 95–561][/us/pl/95/561]. [Section 1131 of Pub. L. 95–561][/us/pl/95/561/s1131] was omitted in the general amendment of chapter 22 (§ 2001 et seq.) of this title by [Pub. L. 103–382, title III, § 381][/us/pl/103/382/s381], Oct. 20, 1994, [108 Stat. 3979][/us/stat/108/3979]. [Pub. L. 103–382][/us/pl/103/382] enacted a new [section 1131 of Pub. L. 95–561][/us/pl/95/561/s1131], relating to policy for Indian control of Indian education, which is classified to [section 2011 of this title][/us/usc/t25/s2011]. Provisions relating to waivers of education personnel actions are now contained in [section 2012(f) of this title][/us/usc/t25/s2012/f].
+    [Section 2011(f) of this title][/us/usc/t25/s2011/f], referred to in subsec. (c)(2), was in the original a reference to section 1131 of the Education Amendments of 1978, [Pub. L. 95–561][/us/pl/95/561]. [Section 1131 of Pub. L. 95–561][/us/pl/95/561/s1131] was omitted in the general amendment of chapter 22 (§ 2001 et seq.) of this title by [Pub. L. 103–382, title III][/us/pl/103/382/tIII], § 381, Oct. 20, 1994, [108 Stat. 3979][/us/stat/108/3979]. [Pub. L. 103–382][/us/pl/103/382] enacted a new [section 1131 of Pub. L. 95–561][/us/pl/95/561/s1131], relating to policy for Indian control of Indian education, which is classified to [section 2011 of this title][/us/usc/t25/s2011]. Provisions relating to waivers of education personnel actions are now contained in [section 2012(f) of this title][/us/usc/t25/s2012/f].
 
  __Amendments__ 
 
-    1998—Subsec. (d). [Pub. L. 105–362, § 801(e)(3)][/us/pl/105/362/s801/e/3], struck out par. (1) designation and struck out par. (2) which read as follows: “The Secretaries of the Interior and Health and Human Services, and the Director of the Office of Personnel Management shall each submit a report to Congress following the close of each fiscal year with respect to the actions which they took in such fiscal year to place non-Indian employees of the Bureau of Indian Affairs and the Indian Health Service in other Federal positions.”
+    1998—Subsec. (d). [Pub. L. 105–362][/us/pl/105/362], § 801(e)(3), struck out par. (1) designation and struck out par. (2) which read as follows: “The Secretaries of the Interior and Health and Human Services, and the Director of the Office of Personnel Management shall each submit a report to Congress following the close of each fiscal year with respect to the actions which they took in such fiscal year to place non-Indian employees of the Bureau of Indian Affairs and the Indian Health Service in other Federal positions.”
 
-    [Pub. L. 105–362, § 801(e)(1)][/us/pl/105/362/s801/e/1], (2), redesignated subsec. (e) as (d) and struck out former subsec. (d) which read as follows: “The Secretaries of the Interior and Health and Human Services shall each submit to the Congress a report following the close of each fiscal year with respect to the actions which they took in such fiscal year to recruit and train Indians to qualify such Indians for positions which are subject to preference under the Indian preference laws. Such report shall also include information as to the grade levels and occupational classifications of Indian and non-Indian employees in the Bureau of Indian Affairs and the Indian Health Service.”
+    [Pub. L. 105–362][/us/pl/105/362], § 801(e)(1), (2), redesignated subsec. (e) as (d) and struck out former subsec. (d) which read as follows: “The Secretaries of the Interior and Health and Human Services shall each submit to the Congress a report following the close of each fiscal year with respect to the actions which they took in such fiscal year to recruit and train Indians to qualify such Indians for positions which are subject to preference under the Indian preference laws. Such report shall also include information as to the grade levels and occupational classifications of Indian and non-Indian employees in the Bureau of Indian Affairs and the Indian Health Service.”
 
-    Subsec. (e). [Pub. L. 105–362, § 1302(d)][/us/pl/105/362/s1302/d], which directed the amendment of subsec. (e) by striking out par. (1) designation after “(e)” and striking out par. (2), could not be executed because par. (1) designation did not immediately follow “(e)” subsequent to amendment by [Pub. L. 105–362, § 801(e)(2)][/us/pl/105/362/s801/e/2]. See above.
+    Subsec. (e). [Pub. L. 105–362][/us/pl/105/362], § 1302(d), which directed the amendment of subsec. (e) by striking out par. (1) designation after “(e)” and striking out par. (2), could not be executed because par. (1) designation did not immediately follow “(e)” subsequent to amendment by [Pub. L. 105–362][/us/pl/105/362], § 801(e)(2). See above.
 
-    [Pub. L. 105–362, § 801(e)(2)][/us/pl/105/362/s801/e/2], redesignated subsec. (f) as (e). Former subsec. (e) redesignated (d).
+    [Pub. L. 105–362][/us/pl/105/362], § 801(e)(2), redesignated subsec. (f) as (e). Former subsec. (e) redesignated (d).
 
-    Subsec. (f). [Pub. L. 105–362, § 801(e)(2)][/us/pl/105/362/s801/e/2], redesignated subsec. (f) as (e).
+    Subsec. (f). [Pub. L. 105–362][/us/pl/105/362], § 801(e)(2), redesignated subsec. (f) as (e).
 
     1990—Subsec. (b)(2). [Pub. L. 101–509][/us/pl/101/509] substituted “a Deputy Secretary” for “an Under Secretary” before “or Assistant Secretary”.
 
@@ -100,31 +100,31 @@
 [/us/usc/t5/s8336/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8336%2Fj
 [/us/usc/t43/s1602/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1602%2Fc
 [/us/usc/t25/s472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs472
-[/us/pl/96/135/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F135%2Fs2
+[/us/pl/96/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F135
 [/us/stat/93/1057]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1057
-[/us/pl/96/88/s509/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs509%2Fb
+[/us/pl/96/88/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2FtV
 [/us/stat/93/695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F695
-[/us/pl/100/581/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F581%2Fs205
+[/us/pl/100/581/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F581%2FtII
 [/us/stat/102/2940]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2940
-[/us/pl/101/509/s529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2Fs529
+[/us/pl/101/509/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2FtV
 [/us/stat/104/1427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1427
-[/us/pl/105/362/s801/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362%2Fs801%2Fe
+[/us/pl/105/362/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362%2FtVIII
 [/us/stat/112/3288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3288
 [/us/usc/t25/s2011/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs2011%2Ff
 [/us/pl/95/561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561
 [/us/pl/95/561/s1131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2Fs1131
-[/us/pl/103/382/s381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs381
+[/us/pl/103/382/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2FtIII
 [/us/stat/108/3979]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3979
 [/us/pl/103/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382
 [/us/pl/95/561/s1131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2Fs1131
 [/us/usc/t25/s2011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs2011
 [/us/usc/t25/s2012/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs2012%2Ff
-[/us/pl/105/362/s801/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362%2Fs801%2Fe%2F3
-[/us/pl/105/362/s801/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362%2Fs801%2Fe%2F1
-[/us/pl/105/362/s1302/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362%2Fs1302%2Fd
-[/us/pl/105/362/s801/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362%2Fs801%2Fe%2F2
-[/us/pl/105/362/s801/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362%2Fs801%2Fe%2F2
-[/us/pl/105/362/s801/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362%2Fs801%2Fe%2F2
+[/us/pl/105/362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362
+[/us/pl/105/362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362
+[/us/pl/105/362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362
+[/us/pl/105/362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362
+[/us/pl/105/362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362
+[/us/pl/105/362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362
 [/us/pl/101/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509
 [/us/pl/100/581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F581
 [/us/pl/96/88/s509/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs509%2Fb

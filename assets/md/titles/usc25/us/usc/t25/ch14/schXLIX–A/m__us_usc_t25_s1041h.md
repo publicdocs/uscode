@@ -17,7 +17,7 @@
 
     No provision of this subchapter shall be construed to constitute an amendment, modification, or interpretation of any treaty to which a tribe referred to in this subchapter is a party nor to any right secured to such a tribe or to any other tribe by any treaty.
 
-([Pub. L. 106–568, title VII, § 710][/us/pl/106/568/s710], Dec. 27, 2000, [114 Stat. 2916][/us/stat/114/2916].)
+([Pub. L. 106–568, title VII][/us/pl/106/568/tVII], § 710, Dec. 27, 2000, [114 Stat. 2916][/us/stat/114/2916].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/106/568/s710]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F568%2Fs710
+[/us/pl/106/568/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F568%2FtVII
 [/us/stat/114/2916]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2916
 
 

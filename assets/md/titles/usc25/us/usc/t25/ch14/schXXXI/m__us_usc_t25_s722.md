@@ -17,7 +17,7 @@
 
     Upon the conveyance to the State of Texas of the lands held in trust by the United States for the Alabama and Coushatta Tribes of Texas, the Secretary of the Interior shall publish in the Federal Register a proclamation declaring that the Federal trust relationship to such tribe and its members has terminated. Thereafter such tribe and its members shall not be entitled to any of the services performed by the United States for Indians because of their status as Indians: Provided, That after August 21, 1954 such Indians shall be eligible for admission, on the same terms that apply to other Indians, to hospitals and schools maintained by the United States.
 
-([Aug. 23, 1954, ch. 831, § 2][/us/act/1954-08-23/ch831/s2], [68 Stat. 769][/us/stat/68/769].)
+([Aug. 23, 1954, ch. 831][/us/act/1954-08-23/ch831], § 2, [68 Stat. 769][/us/stat/68/769].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1954-08-23/ch831/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-23%2Fch831%2Fs2
+[/us/act/1954-08-23/ch831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-23%2Fch831
 [/us/stat/68/769]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F769
 
 

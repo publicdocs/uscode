@@ -17,11 +17,11 @@
 
     For the purposes of sections 1932 and 1933 of this title, the term “Indian” shall include persons defined in section 1603(c)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title.
 
-([Pub. L. 95–608, title II, § 204][/us/pl/95/608/s204], Nov. 8, 1978, [92 Stat. 3077][/us/stat/92/3077].)
+([Pub. L. 95–608, title II][/us/pl/95/608/tII], § 204, Nov. 8, 1978, [92 Stat. 3077][/us/stat/92/3077].)
 
  __References in Text__ 
 
-    [Section 1603(c) of this title][/us/usc/t25/s1603/c], referred to in text, was redesignated [section 1603(13) of this title][/us/usc/t25/s1603/13] by [Pub. L. 111–148, title X, § 10221(a)][/us/pl/111/148/s10221/a], Mar. 23, 2010, [124 Stat. 935][/us/stat/124/935].
+    [Section 1603(c) of this title][/us/usc/t25/s1603/c], referred to in text, was redesignated [section 1603(13) of this title][/us/usc/t25/s1603/13] by [Pub. L. 111–148, title X][/us/pl/111/148/tX], § 10221(a), Mar. 23, 2010, [124 Stat. 935][/us/stat/124/935].
 
 ----------
 
@@ -30,11 +30,11 @@
 ----------
 ----------
 
-[/us/pl/95/608/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F608%2Fs204
+[/us/pl/95/608/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F608%2FtII
 [/us/stat/92/3077]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3077
 [/us/usc/t25/s1603/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1603%2Fc
 [/us/usc/t25/s1603/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1603%2F13
-[/us/pl/111/148/s10221/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10221%2Fa
+[/us/pl/111/148/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtX
 [/us/stat/124/935]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F935
 
 

@@ -23,7 +23,7 @@
 
         Such agreements may be revoked by either party upon one hundred and eighty days’ written notice to the other party. Such revocation shall not affect any action or proceeding over which a court has already assumed jurisdiction, unless the agreement provides otherwise.
 
-([Pub. L. 95–608, title I, § 109][/us/pl/95/608/s109], Nov. 8, 1978, [92 Stat. 3074][/us/stat/92/3074].)
+([Pub. L. 95–608, title I][/us/pl/95/608/tI], § 109, Nov. 8, 1978, [92 Stat. 3074][/us/stat/92/3074].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/95/608/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F608%2Fs109
+[/us/pl/95/608/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F608%2FtI
 [/us/stat/92/3074]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3074
 
 

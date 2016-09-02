@@ -19,7 +19,7 @@
 
     The stock of any corporation organized by the mixed-blood group for the purpose of empowering the officers of such corporation to act as the authorized representatives of said mixed-blood group in the joint management with the tribe and in the distribution and  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “of”. </sup></sup>  unadjudicated or unliquidated claims against the United States, all gas, oil, and mineral rights of every kind, and all other assets not susceptible to equitable and practicable distribution shall not be subject to mortgage, pledge, hypothecation, levy, execution, attachment or other similar process, while such stock remains in the ownership of the original stockholder or his heirs or legatees, but the interest of stockholders in any distribution by such corporation shall be subject to the usual processes of the law.
 
-([Aug. 27, 1954, ch. 1009, § 10][/us/act/1954-08-27/ch1009/s10], [68 Stat. 873][/us/stat/68/873]; [Pub. L. 87–698][/us/pl/87/698], Sept. 25, 1962, [76 Stat. 597][/us/stat/76/597].)
+([Aug. 27, 1954, ch. 1009][/us/act/1954-08-27/ch1009], § 10, [68 Stat. 873][/us/stat/68/873]; [Pub. L. 87–698][/us/pl/87/698], Sept. 25, 1962, [76 Stat. 597][/us/stat/76/597].)
 
  __References in Text__ 
 
@@ -37,7 +37,7 @@
 ----------
 
 [/us/usc/t25/s677g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs677g
-[/us/act/1954-08-27/ch1009/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-27%2Fch1009%2Fs10
+[/us/act/1954-08-27/ch1009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-27%2Fch1009
 [/us/stat/68/873]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F873
 [/us/pl/87/698]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F698
 [/us/stat/76/597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F597

@@ -17,7 +17,7 @@
 
     No white man, not otherwise a member of any tribe of Indians, who may after August 9, 1888, marry an Indian woman, member of any Indian tribe in the United States, or any of its Territories except the Five Civilized Tribes in the Indian Territory, shall by such marriage after August 9, 1888, acquire any right to any tribal property, privilege, or interest whatever to which any member of such tribe is entitled.
 
-([Aug. 9, 1888, ch. 818, § 1][/us/act/1888-08-09/ch818/s1], [25 Stat. 392][/us/stat/25/392].)
+([Aug. 9, 1888, ch. 818][/us/act/1888-08-09/ch818], § 1, [25 Stat. 392][/us/stat/25/392].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1888-08-09/ch818/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1888-08-09%2Fch818%2Fs1
+[/us/act/1888-08-09/ch818]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1888-08-09%2Fch818
 [/us/stat/25/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F25%2F392
 
 

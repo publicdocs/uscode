@@ -17,7 +17,7 @@
 
     The benefits available to the Crow Tribe under the terms and conditions of this subchapter and the Settlement Agreement shall constitute full and complete satisfaction of all claims by the Crow Tribe and the members of the Crow Tribe arising from or related to the erroneous survey of the 107th meridian described in [section 1776(a)(3) of this title][/us/usc/t25/s1776/a/3].
 
-([Pub. L. 103–444, § 12][/us/pl/103/444/s12], Nov. 2, 1994, [108 Stat. 4642][/us/stat/108/4642].)
+([Pub. L. 103–444][/us/pl/103/444], § 12, Nov. 2, 1994, [108 Stat. 4642][/us/stat/108/4642].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t25/s1776/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1776%2Fa%2F3
-[/us/pl/103/444/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F444%2Fs12
+[/us/pl/103/444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F444
 [/us/stat/108/4642]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4642
 
 

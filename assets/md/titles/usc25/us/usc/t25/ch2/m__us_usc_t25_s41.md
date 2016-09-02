@@ -21,7 +21,7 @@
 
  __Codification__ 
 
-    R.S. § 2067 derived from [act Mar. 3, 1863, ch. 99, § 1][/us/act/1863-03-03/ch99/s1], [12 Stat. 792][/us/stat/12/792].
+    R.S. § 2067 derived from [act Mar. 3, 1863, ch. 99][/us/act/1863-03-03/ch99], § 1, [12 Stat. 792][/us/stat/12/792].
 
  __Transfer of Functions__ 
 
@@ -38,7 +38,7 @@
 ----------
 ----------
 
-[/us/act/1863-03-03/ch99/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1863-03-03%2Fch99%2Fs1
+[/us/act/1863-03-03/ch99]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1863-03-03%2Fch99
 [/us/stat/12/792]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F12%2F792
 [/us/stat/64/1262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1262
 [/us/usc/t25/s64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs64

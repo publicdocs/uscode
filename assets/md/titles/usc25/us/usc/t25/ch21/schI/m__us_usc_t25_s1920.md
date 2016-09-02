@@ -17,7 +17,7 @@
 
     Where any petitioner in an Indian child custody proceeding before a State court has improperly removed the child from custody of the parent or Indian custodian or has improperly retained custody after a visit or other temporary relinquishment of custody, the court shall decline jurisdiction over such petition and shall forthwith return the child to his parent or Indian custodian unless returning the child to his parent or custodian would subject the child to a substantial and immediate danger or threat of such danger.
 
-([Pub. L. 95–608, title I, § 110][/us/pl/95/608/s110], Nov. 8, 1978, [92 Stat. 3075][/us/stat/92/3075].)
+([Pub. L. 95–608, title I][/us/pl/95/608/tI], § 110, Nov. 8, 1978, [92 Stat. 3075][/us/stat/92/3075].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/95/608/s110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F608%2Fs110
+[/us/pl/95/608/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F608%2FtI
 [/us/stat/92/3075]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3075
 
 

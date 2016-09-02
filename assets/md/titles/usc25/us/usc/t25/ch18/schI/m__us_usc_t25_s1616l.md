@@ -133,7 +133,7 @@
 
         Nothing in this section shall restrict the ability of the Service, an Indian tribe, or a tribal organization to participate in any program or to provide any service authorized by any other Federal law.
 
-([Pub. L. 94–437, title I, § 119][/us/pl/94/437/s119], as added [Pub. L. 102–573, title I, § 111][/us/pl/102/573/s111], Oct. 29, 1992, [106 Stat. 4539][/us/stat/106/4539]; amended [Pub. L. 111–148, title X, § 10221(a)][/us/pl/111/148/s10221/a], (b)(1), Mar. 23, 2010, [124 Stat. 935][/us/stat/124/935].)
+([Pub. L. 94–437, title I][/us/pl/94/437/tI], § 119, as added [Pub. L. 102–573, title I][/us/pl/102/573/tI], § 111, Oct. 29, 1992, [106 Stat. 4539][/us/stat/106/4539]; amended [Pub. L. 111–148, title X][/us/pl/111/148/tX], § 10221(a), (b)(1), Mar. 23, 2010, [124 Stat. 935][/us/stat/124/935].)
 
  __Codification__ 
 
@@ -141,13 +141,13 @@
 
  __Amendments__ 
 
-    2010—[Pub. L. 111–148, § 10221(a)][/us/pl/111/148/s10221/a], amended section generally. Prior to amendment, section related to maintenance of Community Health Aide Program for Alaska and related training, curriculum, and establishment and maintenance of Certification Board.
+    2010—[Pub. L. 111–148][/us/pl/111/148], § 10221(a), amended section generally. Prior to amendment, section related to maintenance of Community Health Aide Program for Alaska and related training, curriculum, and establishment and maintenance of Certification Board.
 
-    Subsec. (d)(2). [Pub. L. 111–148, § 10221(b)(1)(A)(i)][/us/pl/111/148/s10221/b/1/A/i], substituted “Subject to paragraphs (3) and (4), in establishing” for “In establishing” in introductory provisions.
+    Subsec. (d)(2). [Pub. L. 111–148][/us/pl/111/148], § 10221(b)(1)(A)(i), substituted “Subject to paragraphs (3) and (4), in establishing” for “In establishing” in introductory provisions.
 
-    Subsec. (d)(3), (4). [Pub. L. 111–148, § 10221(b)(1)(A)(ii)][/us/pl/111/148/s10221/b/1/A/ii], added pars. (3) and (4).
+    Subsec. (d)(3), (4). [Pub. L. 111–148][/us/pl/111/148], § 10221(b)(1)(A)(ii), added pars. (3) and (4).
 
-    Subsec. (e). [Pub. L. 111–148, § 10221(b)(1)(B)][/us/pl/111/148/s10221/b/1/B], added subsec. (e).
+    Subsec. (e). [Pub. L. 111–148][/us/pl/111/148], § 10221(b)(1)(B), added subsec. (e).
 
 ----------
 
@@ -158,17 +158,17 @@
 
 [/us/usc/t25/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs13
 [/us/usc/t25/s1602/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1602%2F2
-[/us/pl/94/437/s119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437%2Fs119
-[/us/pl/102/573/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2Fs111
+[/us/pl/94/437/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437%2FtI
+[/us/pl/102/573/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2FtI
 [/us/stat/106/4539]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4539
-[/us/pl/111/148/s10221/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10221%2Fa
+[/us/pl/111/148/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtX
 [/us/stat/124/935]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F935
 [/us/pl/111/148/s10221/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10221%2Fa
 [/us/pl/111/148/s10221/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10221%2Fa
 [/us/pl/111/148/s10221/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10221%2Fb%2F1
-[/us/pl/111/148/s10221/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10221%2Fa
-[/us/pl/111/148/s10221/b/1/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10221%2Fb%2F1%2FA%2Fi
-[/us/pl/111/148/s10221/b/1/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10221%2Fb%2F1%2FA%2Fii
-[/us/pl/111/148/s10221/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10221%2Fb%2F1%2FB
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 
 

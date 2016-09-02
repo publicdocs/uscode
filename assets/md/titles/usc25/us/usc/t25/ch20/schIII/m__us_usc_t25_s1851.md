@@ -39,7 +39,7 @@
 
         Institutions which receive funds under other subchapters of this chapter or the Navajo Community College Act \[[25 U.S.C. 640a][/us/usc/t25/s640a] et seq.\] may apply for grants under this subchapter either individually or as consortia. Each applicant shall act in cooperation with an Indian tribe or tribes in developing and implementing a grant under this subchapter. <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup> 
 
-([Pub. L. 95–471, title IV, § 402][/us/pl/95/471/s402], as added [Pub. L. 101–392, title III, § 312][/us/pl/101/392/s312], Sept. 25, 1990, [104 Stat. 804][/us/stat/104/804]; amended [Pub. L. 105–244, title IX, § 901(b)(6)][/us/pl/105/244/s901/b/6], Oct. 7, 1998, [112 Stat. 1828][/us/stat/112/1828].)
+([Pub. L. 95–471, title IV][/us/pl/95/471/tIV], § 402, as added [Pub. L. 101–392, title III][/us/pl/101/392/tIII], § 312, Sept. 25, 1990, [104 Stat. 804][/us/stat/104/804]; amended [Pub. L. 105–244, title IX][/us/pl/105/244/tIX], § 901(b)(6), Oct. 7, 1998, [112 Stat. 1828][/us/stat/112/1828].)
 
  __References in Text__ 
 
@@ -72,10 +72,10 @@
 
 [/us/usc/t25/s640a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs640a
 [/us/usc/t25/s640a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs640a
-[/us/pl/95/471/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F471%2Fs402
-[/us/pl/101/392/s312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F392%2Fs312
+[/us/pl/95/471/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F471%2FtIV
+[/us/pl/101/392/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F392%2FtIII
 [/us/stat/104/804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F804
-[/us/pl/105/244/s901/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs901%2Fb%2F6
+[/us/pl/105/244/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtIX
 [/us/stat/112/1828]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1828
 [/us/pl/92/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F189
 [/us/stat/85/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F646

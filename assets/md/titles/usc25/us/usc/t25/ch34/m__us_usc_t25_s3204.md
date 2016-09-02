@@ -39,7 +39,7 @@
 
         The Secretary shall complete the study conducted pursuant to this section and shall submit such study, together with recommendations and draft legislation to implement such recommendations, to the Congress within 180 days after November 28, 1990.
 
-([Pub. L. 101–630, title IV, § 405][/us/pl/101/630/s405], Nov. 28, 1990, [104 Stat. 4549][/us/stat/104/4549].)
+([Pub. L. 101–630, title IV][/us/pl/101/630/tIV], § 405, Nov. 28, 1990, [104 Stat. 4549][/us/stat/104/4549].)
 
 ----------
 
@@ -48,7 +48,7 @@
 ----------
 ----------
 
-[/us/pl/101/630/s405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F630%2Fs405
+[/us/pl/101/630/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F630%2FtIV
 [/us/stat/104/4549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4549
 
 

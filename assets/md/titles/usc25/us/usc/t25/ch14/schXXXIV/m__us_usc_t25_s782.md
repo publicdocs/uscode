@@ -23,7 +23,7 @@
 
         Before a payment authorized by sections 781 to 785 of this title is made to an heir or legatee of a deceased person, proof of death and heirship or bequest satisfactory to the Secretary of the Interior shall be submitted to him, and his findings with respect thereto shall be final and conclusive. Where satisfactory proof of death and heirship or bequest is already available to the Secretary, no additional submission shall be required.
 
-([Aug. 1, 1955, ch. 444, § 3][/us/act/1955-08-01/ch444/s3], [69 Stat. 432][/us/stat/69/432].)
+([Aug. 1, 1955, ch. 444][/us/act/1955-08-01/ch444], § 3, [69 Stat. 432][/us/stat/69/432].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/act/1955-08-01/ch444/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-01%2Fch444%2Fs3
+[/us/act/1955-08-01/ch444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-01%2Fch444
 [/us/stat/69/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F432
 
 

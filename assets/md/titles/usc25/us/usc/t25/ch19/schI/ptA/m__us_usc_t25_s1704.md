@@ -35,7 +35,7 @@
 
         The payment for each option may be retained by the party granting the option if the property transfer contemplated by the option agreement is not completed in accordance with the terms of the option agreement.
 
-([Pub. L. 95–395, § 5][/us/pl/95/395/s5], Sept. 30, 1978, [92 Stat. 814][/us/stat/92/814].)
+([Pub. L. 95–395][/us/pl/95/395], § 5, Sept. 30, 1978, [92 Stat. 814][/us/stat/92/814].)
 
 ----------
 
@@ -46,7 +46,7 @@
 
 [/us/usc/t25/s1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1703
 [/us/usc/t25/s1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1703
-[/us/pl/95/395/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F395%2Fs5
+[/us/pl/95/395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F395
 [/us/stat/92/814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F814
 
 

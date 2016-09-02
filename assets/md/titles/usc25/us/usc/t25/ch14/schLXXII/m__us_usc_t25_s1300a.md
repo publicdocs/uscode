@@ -17,7 +17,7 @@
 
     The Secretary of the Interior shall set aside for the benefit of the Payson Indian Band, at Payson, Arizona, 3.5 per centum of the net judgment funds described in [section 1300 of this title][/us/usc/t25/s1300], which shall be disposed of pursuant to [section 1300a–2 of this title][/us/usc/t25/s1300a–2].
 
-([Pub. L. 92–461, § 2][/us/pl/92/461/s2], Oct. 6, 1972, [86 Stat. 769][/us/stat/86/769].)
+([Pub. L. 92–461][/us/pl/92/461], § 2, Oct. 6, 1972, [86 Stat. 769][/us/stat/86/769].)
 
 ----------
 
@@ -28,7 +28,7 @@
 
 [/us/usc/t25/s1300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1300
 [/us/usc/t25/s1300a–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1300a%E2%80%932
-[/us/pl/92/461/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F461%2Fs2
+[/us/pl/92/461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F461
 [/us/stat/86/769]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F769
 
 

@@ -17,7 +17,7 @@
 
     The Secretary of the Interior is authorized, in his discretion, and whenever for good and sufficient reason he shall consider it to be for the best interest of the Indians, in making allotments under the act of February 8, 1887, to permit any Indian to whom a patent has been issued for land on the reservation to which such Indian belongs, under treaty or existing law, to surrender such patent with formal relinquishment by such Indian to the United States of all his or her right, title, and interest in the land conveyed thereby, properly indorsed thereon, and to cancel such surrendered patent: Provided, That the Indian so surrendering the same shall make a selection, in lieu thereof, of other land and receive patent therefor, under the provisions of the act of February 8, 1887.
 
-([Oct. 19, 1888, ch. 1214, § 2][/us/act/1888-10-19/ch1214/s2], [25 Stat. 612][/us/stat/25/612].)
+([Oct. 19, 1888, ch. 1214][/us/act/1888-10-19/ch1214], § 2, [25 Stat. 612][/us/stat/25/612].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1888-10-19/ch1214/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1888-10-19%2Fch1214%2Fs2
+[/us/act/1888-10-19/ch1214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1888-10-19%2Fch1214
 [/us/stat/25/612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F25%2F612
 [/us/stat/24/388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F24%2F388
 [/us/usc/t25/s331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs331

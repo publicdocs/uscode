@@ -23,7 +23,7 @@
 
         The activities required under subchapter II may only be funded from appropriations made pursuant to this chapter. To the greatest extent possible, such activities shall be coordinated with activities funded from other sources.
 
-([Pub. L. 103–177, title III, § 305][/us/pl/103/177/s305], Dec. 3, 1993, [107 Stat. 2023][/us/stat/107/2023].)
+([Pub. L. 103–177, title III][/us/pl/103/177/tIII], § 305, Dec. 3, 1993, [107 Stat. 2023][/us/stat/107/2023].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/103/177/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F177%2Fs305
+[/us/pl/103/177/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F177%2FtIII
 [/us/stat/107/2023]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2023
 
 

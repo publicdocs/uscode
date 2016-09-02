@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t25/ch26/schVI/m__us_usc_t25_s2471.md) | [Next](./../../../..//us/usc/t25/ch27/m__us_usc_t25_s2501.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fch27)
+[Previous](./../../../..//us/usc/t25/ch26/schVI/m__us_usc_t25_s2472...2478.md) | [Next](./../../../..//us/usc/t25/ch27/m__us_usc_t25_s2501.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fch27)
 
 ## CHAPTER 27—TRIBALLY CONTROLLED SCHOOL GRANTS
 
@@ -123,7 +123,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t25/ch26/schVI/m__us_usc_t25_s2471.md) | [Next](./../../../..//us/usc/t25/ch27/m__us_usc_t25_s2501.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fch27)
+[Previous](./../../../..//us/usc/t25/ch26/schVI/m__us_usc_t25_s2472...2478.md) | [Next](./../../../..//us/usc/t25/ch27/m__us_usc_t25_s2501.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fch27)
 
 ----------
 ----------

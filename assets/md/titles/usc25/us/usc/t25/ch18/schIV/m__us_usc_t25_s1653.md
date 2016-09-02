@@ -135,7 +135,7 @@
 
             (C) the assessment required under paragraph (2).
 
-([Pub. L. 94–437, title V, § 503][/us/pl/94/437/s503], as added [Pub. L. 100–713, title V, § 501][/us/pl/100/713/s501], Nov. 23, 1988, [102 Stat. 4821][/us/stat/102/4821]; amended [Pub. L. 101–630, title V, § 505][/us/pl/101/630/s505], Nov. 28, 1990, [104 Stat. 4564][/us/stat/104/4564]; [Pub. L. 102–573, title V][/us/pl/102/573], §§ 501(b)(1), 505(b)(1), Oct. 29, 1992, [106 Stat. 4567][/us/stat/106/4567], 4570.)
+([Pub. L. 94–437, title V][/us/pl/94/437/tV], § 503, as added [Pub. L. 100–713, title V][/us/pl/100/713/tV], § 501, Nov. 23, 1988, [102 Stat. 4821][/us/stat/102/4821]; amended [Pub. L. 101–630, title V][/us/pl/101/630/tV], § 505, Nov. 28, 1990, [104 Stat. 4564][/us/stat/104/4564]; [Pub. L. 102–573, title V][/us/pl/102/573/tV], §§ 501(b)(1), 505(b)(1), Oct. 29, 1992, [106 Stat. 4567][/us/stat/106/4567], 4570.)
 
  __References in Text__ 
 
@@ -143,37 +143,37 @@
 
  __Prior Provisions__ 
 
-    A prior section 1653, [Pub. L. 94–437, title V, § 503][/us/pl/94/437/s503], Sept. 30, 1976, [90 Stat. 1410][/us/stat/90/1410]; [Pub. L. 96–537, § 7][/us/pl/96/537/s7], Dec. 17, 1980, [94 Stat. 3177][/us/stat/94/3177], related to contract eligibility, prior to the general revision of this subchapter by [Pub. L. 100–713][/us/pl/100/713].
+    A prior section 1653, [Pub. L. 94–437, title V][/us/pl/94/437/tV], § 503, Sept. 30, 1976, [90 Stat. 1410][/us/stat/90/1410]; [Pub. L. 96–537][/us/pl/96/537], § 7, Dec. 17, 1980, [94 Stat. 3177][/us/stat/94/3177], related to contract eligibility, prior to the general revision of this subchapter by [Pub. L. 100–713][/us/pl/100/713].
 
  __Amendments__ 
 
-    1992—[Pub. L. 102–573, § 501(b)(1)(G)][/us/pl/102/573/s501/b/1/G], inserted “and grants” in section catchline.
+    1992—[Pub. L. 102–573][/us/pl/102/573], § 501(b)(1)(G), inserted “and grants” in section catchline.
 
-    Subsec. (a). [Pub. L. 102–573, § 501(b)(1)(A)][/us/pl/102/573/s501/b/1/A], inserted “, or make grants to,” after “contracts with” and “or grant” after “such contract”.
+    Subsec. (a). [Pub. L. 102–573][/us/pl/102/573], § 501(b)(1)(A), inserted “, or make grants to,” after “contracts with” and “or grant” after “such contract”.
 
-    Subsec. (b). [Pub. L. 102–573, § 501(b)(1)(B)][/us/pl/102/573/s501/b/1/B], inserted “or receive grants” after “enter into contracts” in introductory provisions and “or to meet the requirements for receiving a grant” after “Secretary” in par. (5).
+    Subsec. (b). [Pub. L. 102–573][/us/pl/102/573], § 501(b)(1)(B), inserted “or receive grants” after “enter into contracts” in introductory provisions and “or to meet the requirements for receiving a grant” after “Secretary” in par. (5).
 
-    Subsec. (c). [Pub. L. 102–573, § 505(b)(1)(A)][/us/pl/102/573/s505/b/1/A], struck out par. (1) designation before “The Secretary, acting” and struck out par. (2) which authorized appropriation of $1,000,000 for fiscal year 1992 to carry out this subsec.
+    Subsec. (c). [Pub. L. 102–573][/us/pl/102/573], § 505(b)(1)(A), struck out par. (1) designation before “The Secretary, acting” and struck out par. (2) which authorized appropriation of $1,000,000 for fiscal year 1992 to carry out this subsec.
 
-    Subsec. (c)(1). [Pub. L. 102–573, § 501(b)(1)(C)][/us/pl/102/573/s501/b/1/C], inserted before period at end “or receiving grants under subsection (a)”.
+    Subsec. (c)(1). [Pub. L. 102–573][/us/pl/102/573], § 501(b)(1)(C), inserted before period at end “or receiving grants under subsection (a)”.
 
-    Subsec. (d)(1). [Pub. L. 102–573, § 501(b)(1)(D)][/us/pl/102/573/s501/b/1/D], inserted before period at end “or receiving grants under subsection (a)”.
+    Subsec. (d)(1). [Pub. L. 102–573][/us/pl/102/573], § 501(b)(1)(D), inserted before period at end “or receiving grants under subsection (a)”.
 
-    Subsec. (d)(4). [Pub. L. 102–573, § 505(b)(1)(B)][/us/pl/102/573/s505/b/1/B], struck out par. (4) which authorized appropriation of $1,000,000 for fiscal year 1992 to carry out this subsec.
+    Subsec. (d)(4). [Pub. L. 102–573][/us/pl/102/573], § 505(b)(1)(B), struck out par. (4) which authorized appropriation of $1,000,000 for fiscal year 1992 to carry out this subsec.
 
-    Subsec. (e)(1). [Pub. L. 102–573, § 501(b)(1)(E)][/us/pl/102/573/s501/b/1/E], inserted before period at end “or receiving grants under subsection (a)”.
+    Subsec. (e)(1). [Pub. L. 102–573][/us/pl/102/573], § 501(b)(1)(E), inserted before period at end “or receiving grants under subsection (a)”.
 
-    Subsec. (e)(4). [Pub. L. 102–573, § 505(b)(1)(C)][/us/pl/102/573/s505/b/1/C], struck out par. (4) which authorized appropriations of $500,000 for fiscal year 1991 and $2,000,000 for fiscal year 1992 to carry out this subsec.
+    Subsec. (e)(4). [Pub. L. 102–573][/us/pl/102/573], § 505(b)(1)(C), struck out par. (4) which authorized appropriations of $500,000 for fiscal year 1991 and $2,000,000 for fiscal year 1992 to carry out this subsec.
 
-    Subsec. (f)(1). [Pub. L. 102–573, § 501(b)(1)(F)][/us/pl/102/573/s501/b/1/F], inserted “or receiving grants under subsection (a)” after “pursuant to this section”.
+    Subsec. (f)(1). [Pub. L. 102–573][/us/pl/102/573], § 501(b)(1)(F), inserted “or receiving grants under subsection (a)” after “pursuant to this section”.
 
-    Subsec. (f)(5). [Pub. L. 102–573, § 505(b)(1)(D)][/us/pl/102/573/s505/b/1/D], struck out par. (5) which authorized appropriations of $500,000 for fiscal year 1991 and $2,000,000 for fiscal year 1992 to carry out this subsec.
+    Subsec. (f)(5). [Pub. L. 102–573][/us/pl/102/573], § 505(b)(1)(D), struck out par. (5) which authorized appropriations of $500,000 for fiscal year 1991 and $2,000,000 for fiscal year 1992 to carry out this subsec.
 
     1990—Subsecs. (c) to (f). [Pub. L. 101–630][/us/pl/101/630] added subsecs. (c) to (f).
 
  __Facilities Assessment__ 
 
-[Pub. L. 101–630, title V, § 506(a)][/us/pl/101/630/s506/a], (b), Nov. 28, 1990, [104 Stat. 4566][/us/stat/104/4566], provided that:
+[Pub. L. 101–630, title V][/us/pl/101/630/tV], § 506(a), (b), Nov. 28, 1990, [104 Stat. 4566][/us/stat/104/4566], provided that:
 
 >     “(a)  __Survey__  __.—__ 
 
@@ -202,34 +202,34 @@
 
 [/us/usc/t25/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs13
 [/us/usc/t25/s1901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1901
-[/us/pl/94/437/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437%2Fs503
-[/us/pl/100/713/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F713%2Fs501
+[/us/pl/94/437/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437%2FtV
+[/us/pl/100/713/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F713%2FtV
 [/us/stat/102/4821]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4821
-[/us/pl/101/630/s505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F630%2Fs505
+[/us/pl/101/630/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F630%2FtV
 [/us/stat/104/4564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4564
-[/us/pl/102/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573
+[/us/pl/102/573/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2FtV
 [/us/stat/106/4567]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4567
 [/us/pl/95/608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F608
 [/us/stat/92/3069]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3069
 [/us/usc/t25/s1901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1901
-[/us/pl/94/437/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437%2Fs503
+[/us/pl/94/437/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437%2FtV
 [/us/stat/90/1410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1410
-[/us/pl/96/537/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F537%2Fs7
+[/us/pl/96/537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F537
 [/us/stat/94/3177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3177
 [/us/pl/100/713]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F713
-[/us/pl/102/573/s501/b/1/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2Fs501%2Fb%2F1%2FG
-[/us/pl/102/573/s501/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2Fs501%2Fb%2F1%2FA
-[/us/pl/102/573/s501/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2Fs501%2Fb%2F1%2FB
-[/us/pl/102/573/s505/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2Fs505%2Fb%2F1%2FA
-[/us/pl/102/573/s501/b/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2Fs501%2Fb%2F1%2FC
-[/us/pl/102/573/s501/b/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2Fs501%2Fb%2F1%2FD
-[/us/pl/102/573/s505/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2Fs505%2Fb%2F1%2FB
-[/us/pl/102/573/s501/b/1/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2Fs501%2Fb%2F1%2FE
-[/us/pl/102/573/s505/b/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2Fs505%2Fb%2F1%2FC
-[/us/pl/102/573/s501/b/1/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2Fs501%2Fb%2F1%2FF
-[/us/pl/102/573/s505/b/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2Fs505%2Fb%2F1%2FD
+[/us/pl/102/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573
+[/us/pl/102/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573
+[/us/pl/102/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573
+[/us/pl/102/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573
+[/us/pl/102/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573
+[/us/pl/102/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573
+[/us/pl/102/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573
+[/us/pl/102/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573
+[/us/pl/102/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573
+[/us/pl/102/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573
+[/us/pl/102/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573
 [/us/pl/101/630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F630
-[/us/pl/101/630/s506/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F630%2Fs506%2Fa
+[/us/pl/101/630/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F630%2FtV
 [/us/stat/104/4566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4566
 [/us/usc/t25/s1651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1651
 [/us/usc/t25/s1651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1651

@@ -17,7 +17,7 @@
 
     Bonds issued by authority of this subchapter and bearing the signatures of tribal officers in office on the date of the signing thereof shall be valid and binding obligations, not withstanding that before the delivery thereof and payment therefor any or all of the persons whose signatures appear thereon have ceased to be officers of the Hopi Tribal Council.
 
-([Pub. L. 91–264, § 4][/us/pl/91/264/s4], May 22, 1970, [84 Stat. 261][/us/stat/84/261].)
+([Pub. L. 91–264][/us/pl/91/264], § 4, May 22, 1970, [84 Stat. 261][/us/stat/84/261].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/91/264/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F264%2Fs4
+[/us/pl/91/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F264
 [/us/stat/84/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F261
 
 

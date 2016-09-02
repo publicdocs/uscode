@@ -17,7 +17,7 @@
 
     Any Indian allotment held under a trust patent may be leased by the allottee for a period not to exceed five years, subject to and in conformity with such rules and regulations as the Secretary of the Interior may prescribe, and the proceeds of any such lease shall be paid to the allottee or his heirs, or expended for his or their benefit, in the discretion of the Secretary of the Interior.
 
-([June 25, 1910, ch. 431, § 4][/us/act/1910-06-25/ch431/s4], [36 Stat. 856][/us/stat/36/856].)
+([June 25, 1910, ch. 431][/us/act/1910-06-25/ch431], § 4, [36 Stat. 856][/us/stat/36/856].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1910-06-25/ch431/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1910-06-25%2Fch431%2Fs4
+[/us/act/1910-06-25/ch431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1910-06-25%2Fch431
 [/us/stat/36/856]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F856
 
 

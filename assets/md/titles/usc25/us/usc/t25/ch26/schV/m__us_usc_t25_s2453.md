@@ -41,7 +41,7 @@
 
         (2) For the purpose of staffing and operating juvenile detention centers, there are authorized to be appropriated $7,000,000 for each of fiscal years 2011 through 2015.
 
-([Pub. L. 99–570, title IV, § 4220][/us/pl/99/570/s4220], Oct. 27, 1986, [100 Stat. 3207–147][/us/stat/100/3207-147]; [Pub. L. 100–690, title II, § 2211][/us/pl/100/690/s2211], Nov. 18, 1988, [102 Stat. 4219][/us/stat/102/4219]; [Pub. L. 102–573, title VII, § 703(10)][/us/pl/102/573/s703/10], Oct. 29, 1992, [106 Stat. 4584][/us/stat/106/4584]; [Pub. L. 111–211, title II, § 241(g)][/us/pl/111/211/s241/g], July 29, 2010, [124 Stat. 2291][/us/stat/124/2291].)
+([Pub. L. 99–570, title IV][/us/pl/99/570/tIV], § 4220, Oct. 27, 1986, [100 Stat. 3207–147][/us/stat/100/3207-147]; [Pub. L. 100–690, title II][/us/pl/100/690/tII], § 2211, Nov. 18, 1988, [102 Stat. 4219][/us/stat/102/4219]; [Pub. L. 102–573, title VII][/us/pl/102/573/tVII], § 703(10), Oct. 29, 1992, [106 Stat. 4584][/us/stat/106/4584]; [Pub. L. 111–211, title II][/us/pl/111/211/tII], § 241(g), July 29, 2010, [124 Stat. 2291][/us/stat/124/2291].)
 
  __References in Text__ 
 
@@ -49,11 +49,11 @@
 
  __Amendments__ 
 
-    2010—Subsec. (a). [Pub. L. 111–211, § 241(g)(1)][/us/pl/111/211/s241/g/1], designated first sentence as par. (1) and second sentence as par. (2), inserted headings, and added par. (3).
+    2010—Subsec. (a). [Pub. L. 111–211][/us/pl/111/211], § 241(g)(1), designated first sentence as par. (1) and second sentence as par. (2), inserted headings, and added par. (3).
 
-    Subsec. (b)(1). [Pub. L. 111–211, § 241(g)(2)(A)][/us/pl/111/211/s241/g/2/A], substituted “for each of fiscal years 2011 through 2015” for “for fiscal year 1993 and such sums as may be necessary for each of the fiscal years 1994, 1995, 1996, 1997, 1998, 1999, and 2000”.
+    Subsec. (b)(1). [Pub. L. 111–211][/us/pl/111/211], § 241(g)(2)(A), substituted “for each of fiscal years 2011 through 2015” for “for fiscal year 1993 and such sums as may be necessary for each of the fiscal years 1994, 1995, 1996, 1997, 1998, 1999, and 2000”.
 
-    Subsec. (b)(2). [Pub. L. 111–211, § 241(g)(2)][/us/pl/111/211/s241/g/2], substituted “for each of fiscal years 2011 through 2015” for “for fiscal year 1993 and such sums as may be necessary for each of the fiscal years 1994, 1995, 1996, 1997, 1998, 1999, and 2000” and realigned margins.
+    Subsec. (b)(2). [Pub. L. 111–211][/us/pl/111/211], § 241(g)(2), substituted “for each of fiscal years 2011 through 2015” for “for fiscal year 1993 and such sums as may be necessary for each of the fiscal years 1994, 1995, 1996, 1997, 1998, 1999, and 2000” and realigned margins.
 
     1992—Subsec. (b). [Pub. L. 102–573][/us/pl/102/573] amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows:
 
@@ -71,20 +71,20 @@
 ----------
 
 [/us/usc/t42/s5601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5601
-[/us/pl/99/570/s4220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs4220
+[/us/pl/99/570/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2FtIV
 [/us/stat/100/3207-147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3207-147
-[/us/pl/100/690/s2211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs2211
+[/us/pl/100/690/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtII
 [/us/stat/102/4219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4219
-[/us/pl/102/573/s703/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2Fs703%2F10
+[/us/pl/102/573/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2FtVII
 [/us/stat/106/4584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4584
-[/us/pl/111/211/s241/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211%2Fs241%2Fg
+[/us/pl/111/211/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211%2FtII
 [/us/stat/124/2291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2291
 [/us/pl/93/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F415
 [/us/stat/88/1109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1109
 [/us/usc/t42/s5601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5601
-[/us/pl/111/211/s241/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211%2Fs241%2Fg%2F1
-[/us/pl/111/211/s241/g/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211%2Fs241%2Fg%2F2%2FA
-[/us/pl/111/211/s241/g/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211%2Fs241%2Fg%2F2
+[/us/pl/111/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211
+[/us/pl/111/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211
+[/us/pl/111/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211
 [/us/pl/102/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573
 [/us/usc/t25/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs13
 [/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690

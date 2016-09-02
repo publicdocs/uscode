@@ -17,7 +17,7 @@
 
     The Secretary of the Interior is authorized to prescribe rules and regulations to carry out the provisions of sections 788a to 788d of this title, including establishing an appropriate deadline for filing applications.
 
-([Pub. L. 90–504, § 4][/us/pl/90/504/s4], Sept. 21, 1968, [82 Stat. 855][/us/stat/82/855].)
+([Pub. L. 90–504][/us/pl/90/504], § 4, Sept. 21, 1968, [82 Stat. 855][/us/stat/82/855].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/90/504/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F504%2Fs4
+[/us/pl/90/504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F504
 [/us/stat/82/855]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F855
 
 

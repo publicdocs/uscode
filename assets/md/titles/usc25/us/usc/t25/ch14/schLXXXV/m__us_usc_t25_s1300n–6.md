@@ -23,7 +23,7 @@
 
         Not later than 120 days after the Tribe ratifies a final constitution under subsection (a), the Secretary shall conduct an election by secret ballot for the purpose of electing tribal officials as provided in such tribal constitution. Such election shall be conducted consistent with the procedures specified in subsection (a) except to the extent that such procedures conflict with the tribal constitution.
 
-([Pub. L. 106–568, title XIV, § 1408][/us/pl/106/568/s1408], Dec. 27, 2000, [114 Stat. 2941][/us/stat/114/2941].)
+([Pub. L. 106–568, title XIV][/us/pl/106/568/tXIV], § 1408, Dec. 27, 2000, [114 Stat. 2941][/us/stat/114/2941].)
 
 ----------
 
@@ -33,7 +33,7 @@
 ----------
 
 [/us/usc/t25/s1300n–4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1300n%E2%80%934%2Fa
-[/us/pl/106/568/s1408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F568%2Fs1408
+[/us/pl/106/568/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F568%2FtXIV
 [/us/stat/114/2941]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2941
 
 

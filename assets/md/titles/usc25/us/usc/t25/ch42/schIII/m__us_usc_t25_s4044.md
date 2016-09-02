@@ -29,11 +29,11 @@
 
     (3) a statement by the Secretary with regard to each account balance disputed by the account holder outlining efforts the Secretary will undertake to resolve the dispute.
 
-([Pub. L. 103–412, title III, § 304][/us/pl/103/412/s304], Oct. 25, 1994, [108 Stat. 4248][/us/stat/108/4248].)
+([Pub. L. 103–412, title III][/us/pl/103/412/tIII], § 304, Oct. 25, 1994, [108 Stat. 4248][/us/stat/108/4248].)
 
  __Settlement of Tribal Claims__ 
 
-[Pub. L. 107–153, § 1][/us/pl/107/153/s1], Mar. 19, 2002, [116 Stat. 79][/us/stat/116/79], as amended by [Pub. L. 109–158, § 1][/us/pl/109/158/s1], Dec. 30, 2005, [119 Stat. 2954][/us/stat/119/2954], provided that:
+[Pub. L. 107–153][/us/pl/107/153], § 1, Mar. 19, 2002, [116 Stat. 79][/us/stat/116/79], as amended by [Pub. L. 109–158][/us/pl/109/158], § 1, Dec. 30, 2005, [119 Stat. 2954][/us/stat/119/2954], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -50,11 +50,11 @@
 ----------
 ----------
 
-[/us/pl/103/412/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F412%2Fs304
+[/us/pl/103/412/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F412%2FtIII
 [/us/stat/108/4248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4248
-[/us/pl/107/153/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F153%2Fs1
+[/us/pl/107/153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F153
 [/us/stat/116/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F79
-[/us/pl/109/158/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F158%2Fs1
+[/us/pl/109/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F158
 [/us/stat/119/2954]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2954
 [/us/usc/t25/s4044]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs4044
 

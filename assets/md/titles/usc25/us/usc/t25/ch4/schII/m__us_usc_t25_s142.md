@@ -13,9 +13,9 @@
 
 [Previous](./../../../../..//us/usc/t25/ch4/schII/m__us_usc_t25_s141.md) | [Next](./../../../../..//us/usc/t25/ch4/schII/m__us_usc_t25_s143.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs142)
 
-## § 142. Repealed. [May 29, 1928, ch. 901, § 1(87)][/us/act/1928-05-29/ch901/s1/87], [45 Stat. 992][/us/stat/45/992]
+## § 142. Repealed. [May 29, 1928, ch. 901][/us/act/1928-05-29/ch901], § 1(87), [45 Stat. 992][/us/stat/45/992]
 
-    Section, [act May 18, 1916, ch. 125, § 27][/us/act/1916-05-18/ch125/s27], [39 Stat. 158][/us/stat/39/158], related to annual reports to Congress of tribal financial matters.
+    Section, [act May 18, 1916, ch. 125][/us/act/1916-05-18/ch125], § 27, [39 Stat. 158][/us/stat/39/158], related to annual reports to Congress of tribal financial matters.
 
 ----------
 
@@ -24,9 +24,9 @@
 ----------
 ----------
 
-[/us/act/1928-05-29/ch901/s1/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-05-29%2Fch901%2Fs1%2F87
+[/us/act/1928-05-29/ch901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-05-29%2Fch901
 [/us/stat/45/992]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F45%2F992
-[/us/act/1916-05-18/ch125/s27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-05-18%2Fch125%2Fs27
+[/us/act/1916-05-18/ch125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-05-18%2Fch125
 [/us/stat/39/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F158
 
 

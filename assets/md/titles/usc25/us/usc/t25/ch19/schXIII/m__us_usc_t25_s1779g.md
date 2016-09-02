@@ -17,7 +17,7 @@
 
     This subchapter shall not be construed to resolve any right, title, or interest of any Indian nation or of any claimant tribe, except their past, present, or future claims relating to right, title, or interest in or to the Riverbed and the obligations and liabilities of the United States thereto.
 
-([Pub. L. 107–331, title VI, § 609][/us/pl/107/331/s609], Dec. 13, 2002, [116 Stat. 2855][/us/stat/116/2855].)
+([Pub. L. 107–331, title VI][/us/pl/107/331/tVI], § 609, Dec. 13, 2002, [116 Stat. 2855][/us/stat/116/2855].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/107/331/s609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F331%2Fs609
+[/us/pl/107/331/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F331%2FtVI
 [/us/stat/116/2855]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2855
 
 

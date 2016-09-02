@@ -17,7 +17,7 @@
 
     Nothing in this subchapter shall abrogate any water rights of a tribe or its members.
 
-([Sept. 1, 1954, ch. 1207, § 12][/us/act/1954-09-01/ch1207/s12], [68 Stat. 1103][/us/stat/68/1103].)
+([Sept. 1, 1954, ch. 1207][/us/act/1954-09-01/ch1207], § 12, [68 Stat. 1103][/us/stat/68/1103].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1954-09-01/ch1207/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-09-01%2Fch1207%2Fs12
+[/us/act/1954-09-01/ch1207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-09-01%2Fch1207
 [/us/stat/68/1103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F1103
 
 

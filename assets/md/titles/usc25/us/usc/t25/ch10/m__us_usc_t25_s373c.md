@@ -17,7 +17,7 @@
 
     The provisions of sections 373a and 373b of this title shall not apply to the Indians of the Five Civilized Tribes or the Osage Reservation, in Oklahoma.
 
-([Nov. 24, 1942, ch. 640, § 3][/us/act/1942-11-24/ch640/s3], [56 Stat. 1022][/us/stat/56/1022].)
+([Nov. 24, 1942, ch. 640][/us/act/1942-11-24/ch640], § 3, [56 Stat. 1022][/us/stat/56/1022].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1942-11-24/ch640/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-11-24%2Fch640%2Fs3
+[/us/act/1942-11-24/ch640]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-11-24%2Fch640
 [/us/stat/56/1022]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F56%2F1022
 
 

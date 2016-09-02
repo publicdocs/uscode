@@ -27,7 +27,7 @@
 
         (2) their name or the name of a lineal ancestor is on or is eligible to be on the constructed base census roll as of 1940 of the Absentee Delaware Tribe of Western Oklahoma, approved by the Secretary.
 
-([Pub. L. 92–456, § 2][/us/pl/92/456/s2], Oct. 3, 1972, [86 Stat. 762][/us/stat/86/762].)
+([Pub. L. 92–456][/us/pl/92/456], § 2, Oct. 3, 1972, [86 Stat. 762][/us/stat/86/762].)
 
 ----------
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/92/456/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F456%2Fs2
+[/us/pl/92/456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F456
 [/us/stat/86/762]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F762
 
 

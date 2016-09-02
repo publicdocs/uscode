@@ -17,7 +17,7 @@
 
     The unclaimed and unpaid share of the funds, and the accrued interest thereon, appropriated by chapter XII of the Third Supplemental Appropriation Act, 1952 ([66 Stat. 101][/us/stat/66/101], 121), in payment of the judgment entered by the Indian Claims Commission in favor of the Loyal Creek Band or Group of Indians et al., docket numbered 1, and which were authorized to be distributed by [section 781(c) of this title][/us/usc/t25/s781/c], shall be deposited in the Treasury of the United States to the credit of the Creek Nation of Indians of Oklahoma.
 
-([Pub. L. 90–76, § 1][/us/pl/90/76/s1], Aug. 29, 1967, [81 Stat. 177][/us/stat/81/177].)
+([Pub. L. 90–76][/us/pl/90/76], § 1, Aug. 29, 1967, [81 Stat. 177][/us/stat/81/177].)
 
  __References in Text__ 
 
@@ -34,7 +34,7 @@
 
 [/us/stat/66/101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F101
 [/us/usc/t25/s781/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs781%2Fc
-[/us/pl/90/76/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F76%2Fs1
+[/us/pl/90/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F76
 [/us/stat/81/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F177
 [/us/act/1952-06-05/ch369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-06-05%2Fch369
 [/us/stat/66/101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F101

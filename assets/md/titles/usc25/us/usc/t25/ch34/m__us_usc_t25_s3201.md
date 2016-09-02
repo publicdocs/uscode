@@ -65,7 +65,7 @@
 
         (9) authorize other actions necessary to ensure effective child protection on Indian reservations.
 
-([Pub. L. 101–630, title IV, § 402][/us/pl/101/630/s402], Nov. 28, 1990, [104 Stat. 4544][/us/stat/104/4544].)
+([Pub. L. 101–630, title IV][/us/pl/101/630/tIV], § 402, Nov. 28, 1990, [104 Stat. 4544][/us/stat/104/4544].)
 
  __References in Text__ 
 
@@ -73,7 +73,7 @@
 
  __Short Title__ 
 
-[Pub. L. 101–630, title IV, § 401][/us/pl/101/630/s401], Nov. 28, 1990, [104 Stat. 4544][/us/stat/104/4544], provided that: 
+[Pub. L. 101–630, title IV][/us/pl/101/630/tIV], § 401, Nov. 28, 1990, [104 Stat. 4544][/us/stat/104/4544], provided that: 
 
 > “This title \[enacting this chapter and [section 1169 of Title 18][/us/usc/t18/s1169], Crimes and Criminal Procedure\] may be cited as the ‘Indian Child Protection and Family Violence Prevention Act’.”
 
@@ -84,11 +84,11 @@
 ----------
 ----------
 
-[/us/pl/101/630/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F630%2Fs402
+[/us/pl/101/630/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F630%2FtIV
 [/us/stat/104/4544]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4544
 [/us/pl/101/630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F630
 [/us/stat/104/4544]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4544
-[/us/pl/101/630/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F630%2Fs401
+[/us/pl/101/630/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F630%2FtIV
 [/us/stat/104/4544]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4544
 [/us/usc/t18/s1169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1169
 

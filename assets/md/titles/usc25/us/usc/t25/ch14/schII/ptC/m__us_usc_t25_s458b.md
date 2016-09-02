@@ -17,7 +17,7 @@
 
     No funds from any contract or grant pursuant to this part shall be made available by any Federal agency directly to other than public agencies and Indian tribes, institutions, and organizations: Provided, That school districts, State education agencies, and Indian tribes, institutions, and organizations assisted by this part may use funds provided herein to contract for necessary services with any appropriate individual, organization, or corporation.
 
-([Pub. L. 93–638, title II, § 206][/us/pl/93/638/s206], Jan. 4, 1975, [88 Stat. 2216][/us/stat/88/2216].)
+([Pub. L. 93–638, title II][/us/pl/93/638/tII], § 206, Jan. 4, 1975, [88 Stat. 2216][/us/stat/88/2216].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/93/638/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638%2Fs206
+[/us/pl/93/638/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638%2FtII
 [/us/stat/88/2216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2216
 
 

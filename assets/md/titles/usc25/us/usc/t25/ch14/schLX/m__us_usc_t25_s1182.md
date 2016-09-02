@@ -17,7 +17,7 @@
 
     There shall be withdrawn from the funds on deposit in the Treasury of the United States to the credit of the Delaware Nation that were appropriated by the Act of October 7, 1964 ([78 Stat. 1033][/us/stat/78/1033]), and the interest accrued thereon, using the interest fund first, $7,000, which shall be divided equally between the Cherokee Delawares and the Delaware Tribe of Indians of Western Oklahoma, and shall be available for claims expenses incurred by the duly authorized personnel of the two tribal groups, as set forth in their joint resolution numbered 4–68 adopted on September 9, 1967.
 
-([Pub. L. 90–508, § 2][/us/pl/90/508/s2], Sept. 21, 1968, [82 Stat. 861][/us/stat/82/861].)
+([Pub. L. 90–508][/us/pl/90/508], § 2, Sept. 21, 1968, [82 Stat. 861][/us/stat/82/861].)
 
  __References in Text__ 
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/stat/78/1033]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F1033
-[/us/pl/90/508/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F508%2Fs2
+[/us/pl/90/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F508
 [/us/stat/82/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F861
 [/us/pl/88/635]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F635
 [/us/stat/78/1033]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F1033

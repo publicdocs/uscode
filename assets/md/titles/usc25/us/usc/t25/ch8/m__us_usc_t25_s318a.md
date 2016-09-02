@@ -25,7 +25,7 @@
 
  __Appropriations for Fiscal Years 1950 and 1951__ 
 
-    [Act June 29, 1948, ch. 732, § 4(c)][/us/act/1948-06-29/ch732/s4/c], [62 Stat. 1105][/us/stat/62/1105], authorized the appropriation of $6,000,000 for fiscal years 1950 and 1951, respectively, for the carrying out of the provisions of this section.
+    [Act June 29, 1948, ch. 732][/us/act/1948-06-29/ch732], § 4(c), [62 Stat. 1105][/us/stat/62/1105], authorized the appropriation of $6,000,000 for fiscal years 1950 and 1951, respectively, for the carrying out of the provisions of this section.
 
 ----------
 
@@ -42,7 +42,7 @@
 [/us/pl/85/767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F767
 [/us/stat/72/919]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F919
 [/us/usc/t50/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3
-[/us/act/1948-06-29/ch732/s4/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-29%2Fch732%2Fs4%2Fc
+[/us/act/1948-06-29/ch732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-29%2Fch732
 [/us/stat/62/1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F1105
 
 

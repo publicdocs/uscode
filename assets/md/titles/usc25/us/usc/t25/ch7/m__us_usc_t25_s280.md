@@ -17,7 +17,7 @@
 
     The Secretary of the Interior is authorized and directed to issue a patent to the duly authorized missionary board, or other proper authority, of any religious organization engaged in mission or school work on any Indian reservation for such lands thereon as were prior to September 21, 1922, set apart to and were on that date being actually and beneficially used and occupied by such organization solely for mission or school purposes, the area so patented to not exceed one hundred and sixty acres to any one organization at any station: Provided, That such patent shall provide that when no longer used for mission or school purposes said lands shall revert to the Indian owners.
 
-([Sept. 21, 1922, ch. 367, § 3][/us/act/1922-09-21/ch367/s3], [42 Stat. 995][/us/stat/42/995].)
+([Sept. 21, 1922, ch. 367][/us/act/1922-09-21/ch367], § 3, [42 Stat. 995][/us/stat/42/995].)
 
  __Transfer of Functions__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1922-09-21/ch367/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch367%2Fs3
+[/us/act/1922-09-21/ch367]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch367
 [/us/stat/42/995]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F995
 [/us/stat/64/1262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1262
 

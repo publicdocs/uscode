@@ -21,7 +21,7 @@
 
     (b) The supplemental membership roll as of April 12, 1960, approved by the Bureau of Indian Affairs on January 27, 1961, and also any other persons born after July 1, 1949, and living on or at any time between December 17, 1965, and May 21, 1970, who were either enrolled as of May 21, 1970, or became entitled to enrollment under section (b), article IV of the constitution and bylaws of the Confederated Tribes adopted November 4, 1949, as determined by the Secretary of the Interior or his authorized representative.
 
-([Pub. L. 91–259, § 2][/us/pl/91/259/s2], May 21, 1970, [84 Stat. 254][/us/stat/84/254].)
+([Pub. L. 91–259][/us/pl/91/259], § 2, May 21, 1970, [84 Stat. 254][/us/stat/84/254].)
 
 ----------
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/91/259/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F259%2Fs2
+[/us/pl/91/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F259
 [/us/stat/84/254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F254
 
 

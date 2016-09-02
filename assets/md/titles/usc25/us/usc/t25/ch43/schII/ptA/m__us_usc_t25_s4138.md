@@ -27,7 +27,7 @@
 
         An Indian tribe or tribally designated housing entity receiving information under this section may use such information only for the purposes provided in this section and such information may not be disclosed to any person who is not an officer, employee, or authorized representative of the tribe or entity or the owner of housing assisted under this chapter, and who has a job-related need to have access to the information for the purposes under this section. For judicial eviction proceedings, disclosures may be made to the extent necessary. The Secretary shall, by regulation, establish procedures necessary to ensure that information provided under this section to any tribe or entity is used, and confidentiality is maintained, as required under this section.
 
-([Pub. L. 104–330, title II, § 208][/us/pl/104/330/s208], Oct. 26, 1996, [110 Stat. 4035][/us/stat/110/4035]; [Pub. L. 105–276, title V, § 595(e)(10)][/us/pl/105/276/s595/e/10], Oct. 21, 1998, [112 Stat. 2658][/us/stat/112/2658]; [Pub. L. 110–411, title II, § 205][/us/pl/110/411/s205], Oct. 14, 2008, [122 Stat. 4326][/us/stat/122/4326].)
+([Pub. L. 104–330, title II][/us/pl/104/330/tII], § 208, Oct. 26, 1996, [110 Stat. 4035][/us/stat/110/4035]; [Pub. L. 105–276, title V][/us/pl/105/276/tV], § 595(e)(10), Oct. 21, 1998, [112 Stat. 2658][/us/stat/112/2658]; [Pub. L. 110–411, title II][/us/pl/110/411/tII], § 205, Oct. 14, 2008, [122 Stat. 4326][/us/stat/122/4326].)
 
  __References in Text__ 
 
@@ -37,9 +37,9 @@
 
     2008—Subsec. (a). [Pub. L. 110–411][/us/pl/110/411] inserted “applicants for employment, and of” after “records of”.
 
-    1998—Subsec. (a). [Pub. L. 105–276, § 595(e)(10)(A)][/us/pl/105/276/s595/e/10/A], substituted “subsection (b)” for “paragraph (2)”.
+    1998—Subsec. (a). [Pub. L. 105–276][/us/pl/105/276], § 595(e)(10)(A), substituted “subsection (b)” for “paragraph (2)”.
 
-    Subsec. (b). [Pub. L. 105–276, § 595(e)(10)(B)][/us/pl/105/276/s595/e/10/B], substituted “subsection (a)” for “paragraph (1)”.
+    Subsec. (b). [Pub. L. 105–276][/us/pl/105/276], § 595(e)(10)(B), substituted “subsection (a)” for “paragraph (1)”.
 
  __Effective Date__ 
 
@@ -52,18 +52,18 @@
 ----------
 ----------
 
-[/us/pl/104/330/s208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330%2Fs208
+[/us/pl/104/330/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330%2FtII
 [/us/stat/110/4035]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F4035
-[/us/pl/105/276/s595/e/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs595%2Fe%2F10
+[/us/pl/105/276/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2FtV
 [/us/stat/112/2658]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2658
-[/us/pl/110/411/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F411%2Fs205
+[/us/pl/110/411/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F411%2FtII
 [/us/stat/122/4326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4326
 [/us/pl/104/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330
 [/us/stat/110/4016]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F4016
 [/us/usc/t25/s4101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs4101
 [/us/pl/110/411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F411
-[/us/pl/105/276/s595/e/10/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs595%2Fe%2F10%2FA
-[/us/pl/105/276/s595/e/10/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs595%2Fe%2F10%2FB
+[/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
+[/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
 [/us/pl/104/330/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330%2Fs107
 [/us/usc/t25/s4101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs4101
 

@@ -11,56 +11,16 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t25/ch12/m__us_usc_t25_s416j.md) | [Next](./../../../..//us/usc/t25/ch14/m__us_usc_t25_ch14.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fch13)
+[Previous](./../../../..//us/usc/t25/ch12/m__us_usc_t25_s416j.md) | [Next](./../../../..//us/usc/t25/ch13/m__us_usc_t25_s421...427.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fch13)
 
 ## CHAPTER 13—CEDED INDIAN LANDS
 
-§§ 421 to 427. __Transferred__ 
-
- __Codification__ 
-
-    Section 421, [act May 17, 1900, ch. 479, § 1][/us/act/1900-05-17/ch479/s1], [31 Stat. 179][/us/stat/31/179], which provided for free homesteads to settlers, commutation rights, and payments to Indians, was transferred to [section 179 of Title 43][/us/usc/t43/s179], Public Lands.
-
-    Section 422, [act Jan. 26, 1901, ch. 180][/us/act/1901-01-26/ch180], [31 Stat. 740][/us/stat/31/740], which related to right of settlers to commute entry, was transferred to [section 180 of Title 43][/us/usc/t43/s180].
-
-    Section 423, [act May 22, 1902, ch. 821, § 2][/us/act/1902-05-22/ch821/s2], [32 Stat. 203][/us/stat/32/203], which related to second homestead entry by certain settlers, was transferred to [section 187b of Title 43][/us/usc/t43/s187b].
-
-    Section 424, [act Mar. 3, 1901, ch. 832, § 1][/us/act/1901-03-03/ch832/s1], [31 Stat. 1077][/us/stat/31/1077], which related to negotiations for cession of lands, was transferred to [section 1195 of Title 43][/us/usc/t43/s1195].
-
-    Section 425, [act June 6, 1912, ch. 155][/us/act/1912-06-06/ch155], [37 Stat. 125][/us/stat/37/125], which related to classification and appraisement of unallotted and unreserved lands, was transferred to [section 1196 of Title 43][/us/usc/t43/s1196].
-
-    Section 426, [act Mar. 3, 1891, ch. 561, § 10][/us/act/1891-03-03/ch561/s10], [26 Stat. 1099][/us/stat/26/1099], which provided that [act Mar. 3, 1891, ch. 561][/us/act/1891-03-03/ch561], not affect agreements with any Indian tribe to dispose of land, was transferred to [section 1197 of Title 43][/us/usc/t43/s1197].
-
-    Section 427, [act Feb. 9, 1903, ch. 531][/us/act/1903-02-09/ch531], [32 Stat. 820][/us/stat/32/820], which extended town-site laws to ceded lands in Minnesota, was transferred to [section 731 of Title 43][/us/usc/t43/s731].
-
 ----------
 
-[Previous](./../../../..//us/usc/t25/ch12/m__us_usc_t25_s416j.md) | [Next](./../../../..//us/usc/t25/ch14/m__us_usc_t25_ch14.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fch13)
+[Previous](./../../../..//us/usc/t25/ch12/m__us_usc_t25_s416j.md) | [Next](./../../../..//us/usc/t25/ch13/m__us_usc_t25_s421...427.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fch13)
 
 ----------
 ----------
 
-[/us/act/1900-05-17/ch479/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1900-05-17%2Fch479%2Fs1
-[/us/stat/31/179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F31%2F179
-[/us/usc/t43/s179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs179
-[/us/act/1901-01-26/ch180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1901-01-26%2Fch180
-[/us/stat/31/740]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F31%2F740
-[/us/usc/t43/s180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs180
-[/us/act/1902-05-22/ch821/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1902-05-22%2Fch821%2Fs2
-[/us/stat/32/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F32%2F203
-[/us/usc/t43/s187b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs187b
-[/us/act/1901-03-03/ch832/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1901-03-03%2Fch832%2Fs1
-[/us/stat/31/1077]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F31%2F1077
-[/us/usc/t43/s1195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1195
-[/us/act/1912-06-06/ch155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1912-06-06%2Fch155
-[/us/stat/37/125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F37%2F125
-[/us/usc/t43/s1196]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1196
-[/us/act/1891-03-03/ch561/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1891-03-03%2Fch561%2Fs10
-[/us/stat/26/1099]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F26%2F1099
-[/us/act/1891-03-03/ch561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1891-03-03%2Fch561
-[/us/usc/t43/s1197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1197
-[/us/act/1903-02-09/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1903-02-09%2Fch531
-[/us/stat/32/820]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F32%2F820
-[/us/usc/t43/s731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs731
 
 

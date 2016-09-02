@@ -25,7 +25,7 @@
 
         (2) the State enacts appropriate legislation to carry out the commitments under the Settlement Agreement including the compact between the State, the district and the tribe, and the State and the district have given the waiver specified in paragraph 5c of such agreement.
 
-([Pub. L. 100–228, § 4][/us/pl/100/228/s4], Dec. 31, 1987, [101 Stat. 1557][/us/stat/101/1557].)
+([Pub. L. 100–228][/us/pl/100/228], § 4, Dec. 31, 1987, [101 Stat. 1557][/us/stat/101/1557].)
 
 ----------
 
@@ -35,7 +35,7 @@
 ----------
 
 [/us/usc/t25/s1772c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1772c
-[/us/pl/100/228/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F228%2Fs4
+[/us/pl/100/228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F228
 [/us/stat/101/1557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1557
 
 

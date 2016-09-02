@@ -23,7 +23,7 @@
 
         Persons whose ancestry is derived solely from one or more of the following groups and persons of mixed ancestry who elected to share, other than as heirs or legatees of enrollees, in any award granted to any of the following groups shall not share in the funds distributed pursuant to subsection (a) of this section: Northern Paiute, Southern Paiute, Mohave, Quechan (Yuma), Chemehuevi, Shoshone, Washoe, Klamath, Modoc, and Yahooskin Band of Snakes.
 
-([Pub. L. 90–507, § 2][/us/pl/90/507/s2], Sept. 21, 1968, [82 Stat. 860][/us/stat/82/860].)
+([Pub. L. 90–507][/us/pl/90/507], § 2, Sept. 21, 1968, [82 Stat. 860][/us/stat/82/860].)
 
  __References in Text__ 
 
@@ -49,7 +49,7 @@
 [/us/stat/60/348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F348
 [/us/stat/69/460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F460
 [/us/stat/74/512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F512
-[/us/pl/90/507/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F507%2Fs2
+[/us/pl/90/507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F507
 [/us/stat/82/860]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F860
 [/us/pl/88/635]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F635
 [/us/stat/78/1033]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F1033

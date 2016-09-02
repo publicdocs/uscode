@@ -17,7 +17,7 @@
 
     The Secretary may cancel, adjust, compromise, or reduce the amount of any loan or any portion thereof heretofore or hereafter made from the revolving loan fund established by this subchapter and its predecessor constituent funds which he determines to be uncollectable in whole or in part, or which is collectable only at an unreasonable cost, or when such action would, in his judgment, be in the best interests of the United States. He may also adjust, compromise, subordinate, or modify the terms of any mortgage, lease, assignment, contract, agreement, or other document taken to secure such loans.
 
-([Pub. L. 93–262, title I, § 105][/us/pl/93/262/s105], Apr. 12, 1974, [88 Stat. 78][/us/stat/88/78]; [Pub. L. 98–449, § 3][/us/pl/98/449/s3], Oct. 4, 1984, [98 Stat. 1725][/us/stat/98/1725].)
+([Pub. L. 93–262, title I][/us/pl/93/262/tI], § 105, Apr. 12, 1974, [88 Stat. 78][/us/stat/88/78]; [Pub. L. 98–449][/us/pl/98/449], § 3, Oct. 4, 1984, [98 Stat. 1725][/us/stat/98/1725].)
 
  __Amendments__ 
 
@@ -30,9 +30,9 @@
 ----------
 ----------
 
-[/us/pl/93/262/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F262%2Fs105
+[/us/pl/93/262/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F262%2FtI
 [/us/stat/88/78]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F78
-[/us/pl/98/449/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F449%2Fs3
+[/us/pl/98/449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F449
 [/us/stat/98/1725]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1725
 [/us/pl/98/449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F449
 [/us/usc/t25/s386a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs386a

@@ -21,7 +21,7 @@
 
     (2) provide substance abuse, mental health, and other related treatment services to offenders residing on Indian land.
 
-([Pub. L. 106–559, title II, § 203][/us/pl/106/559/s203], as added [Pub. L. 111–211, title II, § 245][/us/pl/111/211/s245], July 29, 2010, [124 Stat. 2295][/us/stat/124/2295].)
+([Pub. L. 106–559, title II][/us/pl/106/559/tII], § 203, as added [Pub. L. 111–211, title II][/us/pl/111/211/tII], § 245, July 29, 2010, [124 Stat. 2295][/us/stat/124/2295].)
 
 ----------
 
@@ -30,8 +30,8 @@
 ----------
 ----------
 
-[/us/pl/106/559/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F559%2Fs203
-[/us/pl/111/211/s245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211%2Fs245
+[/us/pl/106/559/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F559%2FtII
+[/us/pl/111/211/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211%2FtII
 [/us/stat/124/2295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2295
 
 

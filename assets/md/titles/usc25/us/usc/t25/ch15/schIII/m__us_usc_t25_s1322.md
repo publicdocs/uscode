@@ -27,7 +27,7 @@
 
         Any tribal ordinance or custom heretofore or hereafter adopted by an Indian tribe, band, or community in the exercise of any authority which it may possess shall, if not inconsistent with any applicable civil law of the State, be given full force and effect in the determination of civil causes of action pursuant to this section.
 
-([Pub. L. 90–284, title IV, § 402][/us/pl/90/284/s402], Apr. 11, 1968, [82 Stat. 79][/us/stat/82/79].)
+([Pub. L. 90–284, title IV][/us/pl/90/284/tIV], § 402, Apr. 11, 1968, [82 Stat. 79][/us/stat/82/79].)
 
 ----------
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/90/284/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F284%2Fs402
+[/us/pl/90/284/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F284%2FtIV
 [/us/stat/82/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F79
 
 

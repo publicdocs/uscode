@@ -23,7 +23,7 @@
 
         Nothing in this subchapter shall affect the status of the members of the tribe as citizens of the United States.
 
-([Aug. 13, 1954, ch. 732, § 18][/us/act/1954-08-13/ch732/s18], [68 Stat. 722][/us/stat/68/722].)
+([Aug. 13, 1954, ch. 732][/us/act/1954-08-13/ch732], § 18, [68 Stat. 722][/us/stat/68/722].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/act/1954-08-13/ch732/s18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-13%2Fch732%2Fs18
+[/us/act/1954-08-13/ch732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-13%2Fch732
 [/us/stat/68/722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F722
 
 

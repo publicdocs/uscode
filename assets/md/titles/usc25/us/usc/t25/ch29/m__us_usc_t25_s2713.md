@@ -37,7 +37,7 @@
 
         Nothing in this chapter precludes an Indian tribe from exercising regulatory authority provided under tribal law over a gaming establishment within the Indian tribe’s jurisdiction if such regulation is not inconsistent with this chapter or with any rules or regulations adopted by the Commission.
 
-([Pub. L. 100–497, § 14][/us/pl/100/497/s14], Oct. 17, 1988, [102 Stat. 2482][/us/stat/102/2482].)
+([Pub. L. 100–497][/us/pl/100/497], § 14, Oct. 17, 1988, [102 Stat. 2482][/us/stat/102/2482].)
 
  __References in Text__ 
 
@@ -50,7 +50,7 @@
 ----------
 ----------
 
-[/us/pl/100/497/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F497%2Fs14
+[/us/pl/100/497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F497
 [/us/stat/102/2482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2482
 [/us/pl/100/497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F497
 [/us/stat/102/2467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2467

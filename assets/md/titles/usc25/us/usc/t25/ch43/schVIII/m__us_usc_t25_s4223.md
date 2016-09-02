@@ -213,7 +213,7 @@
 
         As a condition of receiving grant amounts under this subchapter, the Department of Hawaiian Home Lands shall, to the extent practicable, provide for private nonprofit organizations experienced in the planning and development of affordable housing for Native Hawaiians to carry out affordable housing activities with those grant amounts.
 
-([Pub. L. 104–330, title VIII, § 803][/us/pl/104/330/s803], as added [Pub. L. 106–568, title II, § 203][/us/pl/106/568/s203], Dec. 27, 2000, [114 Stat. 2878][/us/stat/114/2878], and [Pub. L. 106–569, title V, § 513][/us/pl/106/569/s513], Dec. 27, 2000, [114 Stat. 2971][/us/stat/114/2971].)
+([Pub. L. 104–330, title VIII][/us/pl/104/330/tVIII], § 803, as added [Pub. L. 106–568, title II][/us/pl/106/568/tII], § 203, Dec. 27, 2000, [114 Stat. 2878][/us/stat/114/2878], and [Pub. L. 106–569, title V][/us/pl/106/569/tV], § 513, Dec. 27, 2000, [114 Stat. 2971][/us/stat/114/2971].)
 
  __References in Text__ 
 
@@ -223,7 +223,7 @@
 
  __Codification__ 
 
-    [Pub. L. 106–568, § 203][/us/pl/106/568/s203], and [Pub. L. 106–569, § 513][/us/pl/106/569/s513], enacted substantially identical sections 803 of [Pub. L. 104–330][/us/pl/104/330]. This section is based on the text of [section 803 of Pub. L. 104–330][/us/pl/104/330/s803], as added by [Pub. L. 106–569, § 513][/us/pl/106/569/s513]. [Section 803 of Pub. L. 104–330][/us/pl/104/330/s803], as added by [Pub. L. 106–568][/us/pl/106/568], referred to title VIII of the Act popularly known as the Civil Rights Act of 1968 instead of the Fair Housing Act in subsecs. (c)(2)(E)(i)(I) and (d)(1). Title VIII of the Civil Rights Act of 1968 is title VIII of [Pub. L. 90–284][/us/pl/90/284] which is known as the Fair Housing Act, see References in Text note above. The reference to “such title” in subsec. (c)(2)(E)(i)(I) probably refers to title VI of the Civil Rights Act of 1964 and title VIII of the Civil Rights Act of 1968 (the Fair Housing Act).
+    [Pub. L. 106–568][/us/pl/106/568], § 203, and [Pub. L. 106–569][/us/pl/106/569], § 513, enacted substantially identical sections 803 of [Pub. L. 104–330][/us/pl/104/330]. This section is based on the text of [section 803 of Pub. L. 104–330][/us/pl/104/330/s803], as added by [Pub. L. 106–569][/us/pl/106/569], § 513. [Section 803 of Pub. L. 104–330][/us/pl/104/330/s803], as added by [Pub. L. 106–568][/us/pl/106/568], referred to title VIII of the Act popularly known as the Civil Rights Act of 1968 instead of the Fair Housing Act in subsecs. (c)(2)(E)(i)(I) and (d)(1). Title VIII of the Civil Rights Act of 1968 is title VIII of [Pub. L. 90–284][/us/pl/90/284] which is known as the Fair Housing Act, see References in Text note above. The reference to “such title” in subsec. (c)(2)(E)(i)(I) probably refers to title VI of the Civil Rights Act of 1964 and title VIII of the Civil Rights Act of 1968 (the Fair Housing Act).
 
 ----------
 
@@ -237,10 +237,10 @@
 [/us/usc/t42/s3601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3601
 [/us/usc/t42/s2000d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2000d
 [/us/usc/t42/s3601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3601
-[/us/pl/104/330/s803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330%2Fs803
-[/us/pl/106/568/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F568%2Fs203
+[/us/pl/104/330/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330%2FtVIII
+[/us/pl/106/568/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F568%2FtII
 [/us/stat/114/2878]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2878
-[/us/pl/106/569/s513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs513
+[/us/pl/106/569/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2FtV
 [/us/stat/114/2971]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2971
 [/us/pl/88/352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F352
 [/us/stat/78/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F241
@@ -248,11 +248,11 @@
 [/us/pl/90/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F284
 [/us/stat/82/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F81
 [/us/usc/t42/s3601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3601
-[/us/pl/106/568/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F568%2Fs203
-[/us/pl/106/569/s513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs513
+[/us/pl/106/568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F568
+[/us/pl/106/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569
 [/us/pl/104/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330
 [/us/pl/104/330/s803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330%2Fs803
-[/us/pl/106/569/s513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs513
+[/us/pl/106/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569
 [/us/pl/104/330/s803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330%2Fs803
 [/us/pl/106/568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F568
 [/us/pl/90/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F284

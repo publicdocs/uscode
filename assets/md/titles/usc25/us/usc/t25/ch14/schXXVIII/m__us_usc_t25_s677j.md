@@ -17,7 +17,7 @@
 
     Notwithstanding any other provision of existing law, the tribal funds now on deposit or hereafter deposited in the United States Treasury to the credit of the tribe or either group thereof, shall be available for advance to the tribe or the respective groups, or for expenditure, for such purposes, including per capita payments, as may be designated by the Tribal Business Committee for the full-blood members, and by the authorized agents of the mixed-blood members, and in either event subject to the approval of the Secretary: Provided, That the aggregate amount of the expenditures and advances authorized by this section for the mixed-blood group shall not exceed 50 per centum of the total funds of said mixed-blood group after such division, until said mixed-blood group has adopted a plan approved by the Secretary for termination of Federal supervision of said mixed-blood group, as required under section 677l of this title. After such termination of Federal supervision, per capita payments to the mixed-blood group shall not be subject to approval of the Secretary.
 
-([Aug. 27, 1954, ch. 1009, § 11][/us/act/1954-08-27/ch1009/s11], [68 Stat. 873][/us/stat/68/873].)
+([Aug. 27, 1954, ch. 1009][/us/act/1954-08-27/ch1009], § 11, [68 Stat. 873][/us/stat/68/873].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1954-08-27/ch1009/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-27%2Fch1009%2Fs11
+[/us/act/1954-08-27/ch1009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-27%2Fch1009
 [/us/stat/68/873]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F873
 
 

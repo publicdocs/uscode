@@ -43,7 +43,7 @@
 
         A record of each such placement, under State law, of an Indian child shall be maintained by the State in which the placement was made, evidencing the efforts to comply with the order of preference specified in this section. Such record shall be made available at any time upon the request of the Secretary or the Indian child’s tribe.
 
-([Pub. L. 95–608, title I, § 105][/us/pl/95/608/s105], Nov. 8, 1978, [92 Stat. 3073][/us/stat/92/3073].)
+([Pub. L. 95–608, title I][/us/pl/95/608/tI], § 105, Nov. 8, 1978, [92 Stat. 3073][/us/stat/92/3073].)
 
 ----------
 
@@ -52,7 +52,7 @@
 ----------
 ----------
 
-[/us/pl/95/608/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F608%2Fs105
+[/us/pl/95/608/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F608%2FtI
 [/us/stat/92/3073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3073
 
 

@@ -17,7 +17,7 @@
 
     The Secretary shall identify, in the annual budget request of the President to the Congress under [section 1105 of title 31][/us/usc/t31/s1105] any funds proposed to be included in agreements authorized under this part.
 
-([Pub. L. 93–638, title IV, § 404][/us/pl/93/638/s404], as added [Pub. L. 103–413, title II, § 204][/us/pl/103/413/s204], Oct. 25, 1994, [108 Stat. 4275][/us/stat/108/4275].)
+([Pub. L. 93–638, title IV][/us/pl/93/638/tIV], § 404, as added [Pub. L. 103–413, title II][/us/pl/103/413/tII], § 204, Oct. 25, 1994, [108 Stat. 4275][/us/stat/108/4275].)
 
 ----------
 
@@ -27,8 +27,8 @@
 ----------
 
 [/us/usc/t31/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105
-[/us/pl/93/638/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638%2Fs404
-[/us/pl/103/413/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F413%2Fs204
+[/us/pl/93/638/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638%2FtIV
+[/us/pl/103/413/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F413%2FtII
 [/us/stat/108/4275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4275
 
 

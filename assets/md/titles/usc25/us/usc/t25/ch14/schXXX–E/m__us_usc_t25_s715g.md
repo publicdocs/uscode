@@ -23,7 +23,7 @@
 
         Not later than one hundred and twenty days after the Tribe adopts a constitution and bylaws, the Secretary shall conduct an election by secret ballot for the purpose of electing tribal officials as provided in the tribal constitution. Said election shall be conducted according to the procedures stated in paragraph  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “subsection”. </sup></sup>  (a) of this section except to the extent that said procedures conflict with the tribal constitution.
 
-([Pub. L. 101–42, § 9][/us/pl/101/42/s9], June 28, 1989, [103 Stat. 93][/us/stat/103/93].)
+([Pub. L. 101–42][/us/pl/101/42], § 9, June 28, 1989, [103 Stat. 93][/us/stat/103/93].)
 
 ----------
 
@@ -33,7 +33,7 @@
 ----------
 
 [/us/usc/t25/s476]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs476
-[/us/pl/101/42/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F42%2Fs9
+[/us/pl/101/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F42
 [/us/stat/103/93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F93
 
 

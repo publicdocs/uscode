@@ -17,7 +17,7 @@
 
     It is the purpose of this subchapter to provide grants for the operation and improvement of tribally controlled colleges or universities to insure continued and expanded educational opportunities for Indian students, and to allow for the improvement and expansion of the physical resources of such institutions.
 
-([Pub. L. 95–471, title I, § 101][/us/pl/95/471/s101], Oct. 17, 1978, [92 Stat. 1325][/us/stat/92/1325]; [Pub. L. 98–192, § 2][/us/pl/98/192/s2], Dec. 1, 1983, [97 Stat. 1336][/us/stat/97/1336]; [Pub. L. 105–244, title IX, § 901(b)(6)][/us/pl/105/244/s901/b/6], Oct. 7, 1998, [112 Stat. 1828][/us/stat/112/1828].)
+([Pub. L. 95–471, title I][/us/pl/95/471/tI], § 101, Oct. 17, 1978, [92 Stat. 1325][/us/stat/92/1325]; [Pub. L. 98–192][/us/pl/98/192], § 2, Dec. 1, 1983, [97 Stat. 1336][/us/stat/97/1336]; [Pub. L. 105–244, title IX][/us/pl/105/244/tIX], § 901(b)(6), Oct. 7, 1998, [112 Stat. 1828][/us/stat/112/1828].)
 
  __Amendments__ 
 
@@ -36,11 +36,11 @@
 ----------
 ----------
 
-[/us/pl/95/471/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F471%2Fs101
+[/us/pl/95/471/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F471%2FtI
 [/us/stat/92/1325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1325
-[/us/pl/98/192/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F192%2Fs2
+[/us/pl/98/192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F192
 [/us/stat/97/1336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1336
-[/us/pl/105/244/s901/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs901%2Fb%2F6
+[/us/pl/105/244/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtIX
 [/us/stat/112/1828]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1828
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
 [/us/pl/98/192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F192

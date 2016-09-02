@@ -27,7 +27,7 @@
 
         (3) subject to sections 409a and 410 of this title.
 
-([Pub. L. 86–339, § 5][/us/pl/86/339/s5], Sept. 21, 1959, [73 Stat. 604][/us/stat/73/604]; [Pub. L. 100–581, title II, § 216][/us/pl/100/581/s216], Nov. 1, 1988, [102 Stat. 2941][/us/stat/102/2941].)
+([Pub. L. 86–339][/us/pl/86/339], § 5, Sept. 21, 1959, [73 Stat. 604][/us/stat/73/604]; [Pub. L. 100–581, title II][/us/pl/100/581/tII], § 216, Nov. 1, 1988, [102 Stat. 2941][/us/stat/102/2941].)
 
  __Amendments__ 
 
@@ -42,9 +42,9 @@
 
 [/us/usc/t25/s953/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs953%2Fd
 [/us/usc/t25/s953/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs953%2Fd
-[/us/pl/86/339/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F339%2Fs5
+[/us/pl/86/339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F339
 [/us/stat/73/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F604
-[/us/pl/100/581/s216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F581%2Fs216
+[/us/pl/100/581/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F581%2FtII
 [/us/stat/102/2941]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2941
 [/us/pl/100/581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F581
 

@@ -37,7 +37,7 @@
 
         Future membership in the Tribe shall be as determined under the eligibility requirements set out in subsection (b)(2) or under such future membership ordinance as the Tribe may adopt.
 
-([Pub. L. 106–568, title VII, § 705][/us/pl/106/568/s705], Dec. 27, 2000, [114 Stat. 2915][/us/stat/114/2915].)
+([Pub. L. 106–568, title VII][/us/pl/106/568/tVII], § 705, Dec. 27, 2000, [114 Stat. 2915][/us/stat/114/2915].)
 
 ----------
 
@@ -47,7 +47,7 @@
 ----------
 
 [/us/stat/10/1053]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F10%2F1053
-[/us/pl/106/568/s705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F568%2Fs705
+[/us/pl/106/568/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F568%2FtVII
 [/us/stat/114/2915]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2915
 
 

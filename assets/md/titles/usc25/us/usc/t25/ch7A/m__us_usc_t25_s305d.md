@@ -55,7 +55,7 @@
 
         In lieu of, or in addition to, any criminal proceeding under subsection (c), the Board may recommend that the Attorney General initiate a civil action under [section 305e of this title][/us/usc/t25/s305e].
 
-([Aug. 27, 1935, ch. 748, § 5][/us/act/1935-08-27/ch748/s5], as added [Pub. L. 101–644, title I, § 103][/us/pl/101/644/s103], Nov. 29, 1990, [104 Stat. 4662][/us/stat/104/4662]; amended [Pub. L. 111–211, title I, § 102(a)][/us/pl/111/211/s102/a], July 29, 2010, [124 Stat. 2258][/us/stat/124/2258].)
+([Aug. 27, 1935, ch. 748][/us/act/1935-08-27/ch748], § 5, as added [Pub. L. 101–644, title I][/us/pl/101/644/tI], § 103, Nov. 29, 1990, [104 Stat. 4662][/us/stat/104/4662]; amended [Pub. L. 111–211, title I][/us/pl/111/211/tI], § 102(a), July 29, 2010, [124 Stat. 2258][/us/stat/124/2258].)
 
  __References in Text__ 
 
@@ -63,7 +63,7 @@
 
  __Prior Provisions__ 
 
-    A prior section, [act Aug. 27, 1935, ch. 748, § 5][/us/act/1935-08-27/ch748/s5], [49 Stat. 892][/us/stat/49/892], related to counterfeiting of a trade mark and penalty, prior to repeal by [act June 25, 1948, ch. 645, § 21][/us/act/1948-06-25/ch645/s21], [62 Stat. 862][/us/stat/62/862], effective Sept. 1, 1948. See [section 1158 of Title 18][/us/usc/t18/s1158], Crimes and Criminal Procedure.
+    A prior section, [act Aug. 27, 1935, ch. 748][/us/act/1935-08-27/ch748], § 5, [49 Stat. 892][/us/stat/49/892], related to counterfeiting of a trade mark and penalty, prior to repeal by [act June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], § 21, [62 Stat. 862][/us/stat/62/862], effective Sept. 1, 1948. See [section 1158 of Title 18][/us/usc/t18/s1158], Crimes and Criminal Procedure.
 
  __Amendments__ 
 
@@ -85,16 +85,16 @@
 [/us/usc/t18/s1159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1159
 [/us/usc/t18/s1159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1159
 [/us/usc/t25/s305e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs305e
-[/us/act/1935-08-27/ch748/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-27%2Fch748%2Fs5
-[/us/pl/101/644/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F644%2Fs103
+[/us/act/1935-08-27/ch748]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-27%2Fch748
+[/us/pl/101/644/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F644%2FtI
 [/us/stat/104/4662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4662
-[/us/pl/111/211/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211%2Fs102%2Fa
+[/us/pl/111/211/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211%2FtI
 [/us/stat/124/2258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2258
 [/us/act/1935-08-27/ch748]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-27%2Fch748
 [/us/stat/49/891]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F891
-[/us/act/1935-08-27/ch748/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-27%2Fch748%2Fs5
+[/us/act/1935-08-27/ch748]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-27%2Fch748
 [/us/stat/49/892]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F892
-[/us/act/1948-06-25/ch645/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645%2Fs21
+[/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/862]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F862
 [/us/usc/t18/s1158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1158
 [/us/pl/111/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211

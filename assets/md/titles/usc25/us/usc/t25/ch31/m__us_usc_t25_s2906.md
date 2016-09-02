@@ -17,7 +17,7 @@
 
     Nothing in this chapter shall be construed as precluding the use of Federal funds to teach English to Native Americans.
 
-([Pub. L. 101–477, title I, § 107][/us/pl/101/477/s107], Oct. 30, 1990, [104 Stat. 1156][/us/stat/104/1156].)
+([Pub. L. 101–477, title I][/us/pl/101/477/tI], § 107, Oct. 30, 1990, [104 Stat. 1156][/us/stat/104/1156].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/101/477/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F477%2Fs107
+[/us/pl/101/477/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F477%2FtI
 [/us/stat/104/1156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1156
 
 

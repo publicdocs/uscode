@@ -17,7 +17,7 @@
 
     Within sixty days of October 1, 1965, the Secretary of the Interior shall commence to pay the share due to each living person whose name appears on the final roll of August 13, 1954. As to members who have died since promulgation of the final roll of August 13, 1954, the Secretary shall mail a notice of distribution of funds and a form for presentation of a claim thereunder to all known heirs or legatees of such deceased enrollees. All such claims shall be filed with the area director of the Bureau of Indian Affairs, Portland, Oregon, within two years following October 1, 1965. From and after that date, all claims and the right to file claims for any distribution from the judgment in docket numbered 100 shall be forever barred.
 
-([Pub. L. 89–224, § 3][/us/pl/89/224/s3], Oct. 1, 1965, [79 Stat. 897][/us/stat/79/897].)
+([Pub. L. 89–224][/us/pl/89/224], § 3, Oct. 1, 1965, [79 Stat. 897][/us/stat/79/897].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/89/224/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F224%2Fs3
+[/us/pl/89/224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F224
 [/us/stat/79/897]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F897
 
 

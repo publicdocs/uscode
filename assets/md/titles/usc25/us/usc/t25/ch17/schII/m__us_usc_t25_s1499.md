@@ -19,7 +19,7 @@
 
     (b) The method by which an issue of bonds guaranteed under this section may be sold shall be subject to approval by the Secretary.
 
-([Pub. L. 93–262, title II, § 220][/us/pl/93/262/s220], as added [Pub. L. 100–442, § 6][/us/pl/100/442/s6], Sept. 22, 1988, [102 Stat. 1764][/us/stat/102/1764].)
+([Pub. L. 93–262, title II][/us/pl/93/262/tII], § 220, as added [Pub. L. 100–442][/us/pl/100/442], § 6, Sept. 22, 1988, [102 Stat. 1764][/us/stat/102/1764].)
 
 ----------
 
@@ -28,8 +28,8 @@
 ----------
 ----------
 
-[/us/pl/93/262/s220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F262%2Fs220
-[/us/pl/100/442/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F442%2Fs6
+[/us/pl/93/262/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F262%2FtII
+[/us/pl/100/442]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F442
 [/us/stat/102/1764]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1764
 
 

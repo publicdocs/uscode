@@ -17,7 +17,7 @@
 
     The funds distributed under the provisions of this subchapter shall not be subject to Federal or State income tax.
 
-([Pub. L. 90–508, § 5][/us/pl/90/508/s5], Sept. 21, 1968, [82 Stat. 862][/us/stat/82/862].)
+([Pub. L. 90–508][/us/pl/90/508], § 5, Sept. 21, 1968, [82 Stat. 862][/us/stat/82/862].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/90/508/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F508%2Fs5
+[/us/pl/90/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F508
 [/us/stat/82/862]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F862
 
 

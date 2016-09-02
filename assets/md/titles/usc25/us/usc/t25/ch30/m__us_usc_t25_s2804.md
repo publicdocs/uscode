@@ -93,7 +93,7 @@
 
         (2) the Indian Law Enforcement Foundation established under section 458ccc–1(a)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title.
 
-([Pub. L. 101–379, § 5][/us/pl/101/379/s5], Aug. 18, 1990, [104 Stat. 476][/us/stat/104/476]; [Pub. L. 111–211, title II, § 231(b)][/us/pl/111/211/s231/b], (e), July 29, 2010, [124 Stat. 2273][/us/stat/124/2273], 2278.)
+([Pub. L. 101–379][/us/pl/101/379], § 5, Aug. 18, 1990, [104 Stat. 476][/us/stat/104/476]; [Pub. L. 111–211, title II][/us/pl/111/211/tII], § 231(b), (e), July 29, 2010, [124 Stat. 2273][/us/stat/124/2273], 2278.)
 
  __References in Text__ 
 
@@ -101,9 +101,9 @@
 
  __Amendments__ 
 
-    2010—Subsec. (a). [Pub. L. 111–211, § 231(b)][/us/pl/111/211/s231/b], inserted heading, designated first sentence as par. (1), inserted par. (1) heading, substituted “Not later than 180 days after July 29, 2010, the Secretary shall establish procedures to enter into memoranda of agreement” for “The Secretary may enter into an agreement”, designated second sentence as par. (2), inserted par. (2) heading, and added par. (3).
+    2010—Subsec. (a). [Pub. L. 111–211][/us/pl/111/211], § 231(b), inserted heading, designated first sentence as par. (1), inserted par. (1) heading, substituted “Not later than 180 days after July 29, 2010, the Secretary shall establish procedures to enter into memoranda of agreement” for “The Secretary may enter into an agreement”, designated second sentence as par. (2), inserted par. (2) heading, and added par. (3).
 
-    Subsec. (g). [Pub. L. 111–211, § 231(e)][/us/pl/111/211/s231/e], added subsec. (g).
+    Subsec. (g). [Pub. L. 111–211][/us/pl/111/211], § 231(e), added subsec. (g).
 
 ----------
 
@@ -116,15 +116,15 @@
 [/us/usc/t25/s2802/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs2802%2Fc
 [/us/usc/t31/s1535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1535
 [/us/usc/t5/s3374/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3374%2Fc%2F2
-[/us/pl/101/379/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F379%2Fs5
+[/us/pl/101/379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F379
 [/us/stat/104/476]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F476
-[/us/pl/111/211/s231/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211%2Fs231%2Fb
+[/us/pl/111/211/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211%2FtII
 [/us/stat/124/2273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2273
 [/us/usc/t25/s458ccc–1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs458ccc%E2%80%931%2Fa
 [/us/pl/93/638/s702/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638%2Fs702%2Fa
 [/us/pl/93/638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638
 [/us/pl/93/638/s702/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638%2Fs702%2Fa
-[/us/pl/111/211/s231/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211%2Fs231%2Fb
-[/us/pl/111/211/s231/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211%2Fs231%2Fe
+[/us/pl/111/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211
+[/us/pl/111/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211
 
 

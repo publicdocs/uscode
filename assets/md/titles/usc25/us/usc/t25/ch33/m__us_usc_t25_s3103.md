@@ -139,7 +139,7 @@
 
     (15) “tribal integrated resource management plan” means a document, approved by an Indian tribe and the Secretary, which provides coordination for the comprehensive management of such tribe’s natural resources.
 
-([Pub. L. 101–630, title III, § 304][/us/pl/101/630/s304], Nov. 28, 1990, [104 Stat. 4533][/us/stat/104/4533].)
+([Pub. L. 101–630, title III][/us/pl/101/630/tIII], § 304, Nov. 28, 1990, [104 Stat. 4533][/us/stat/104/4533].)
 
 ----------
 
@@ -149,7 +149,7 @@
 ----------
 
 [/us/usc/t43/s1602/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1602%2Fb
-[/us/pl/101/630/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F630%2Fs304
+[/us/pl/101/630/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F630%2FtIII
 [/us/stat/104/4533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4533
 
 

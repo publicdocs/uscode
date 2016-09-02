@@ -25,7 +25,7 @@
 
  __Codification__ 
 
-    R.S. § 2076 derived from [act June 30, 1834, ch. 162, § 10][/us/act/1834-06-30/ch162/s10], [4 Stat. 737][/us/stat/4/737].
+    R.S. § 2076 derived from [act June 30, 1834, ch. 162][/us/act/1834-06-30/ch162], § 10, [4 Stat. 737][/us/stat/4/737].
 
 ----------
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/act/1834-06-30/ch162/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1834-06-30%2Fch162%2Fs10
+[/us/act/1834-06-30/ch162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1834-06-30%2Fch162
 [/us/stat/4/737]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F4%2F737
 
 

@@ -91,7 +91,7 @@
 
     (10) The term “Secretary” means the Secretary of the Interior.
 
-([Pub. L. 100–497, § 4][/us/pl/100/497/s4], Oct. 17, 1988, [102 Stat. 2467][/us/stat/102/2467]; [Pub. L. 102–238, § 2(a)][/us/pl/102/238/s2/a], Dec. 17, 1991, [105 Stat. 1908][/us/stat/105/1908]; [Pub. L. 102–497, § 16][/us/pl/102/497/s16], Oct. 24, 1992, [106 Stat. 3261][/us/stat/106/3261].)
+([Pub. L. 100–497][/us/pl/100/497], § 4, Oct. 17, 1988, [102 Stat. 2467][/us/stat/102/2467]; [Pub. L. 102–238][/us/pl/102/238], § 2(a), Dec. 17, 1991, [105 Stat. 1908][/us/stat/105/1908]; [Pub. L. 102–497][/us/pl/102/497], § 16, Oct. 24, 1992, [106 Stat. 3261][/us/stat/106/3261].)
 
  __References in Text__ 
 
@@ -105,13 +105,13 @@
 
  __Class II Gaming With Respect to Indian Tribes in Wisconsin or Montana Engaged in Negotiating Tribal-State Compacts__ 
 
-[Pub. L. 101–301, § 6][/us/pl/101/301/s6], May 24, 1990, [104 Stat. 209][/us/stat/104/209], provided that: 
+[Pub. L. 101–301][/us/pl/101/301], § 6, May 24, 1990, [104 Stat. 209][/us/stat/104/209], provided that: 
 
 > “Notwithstanding any other provision of law, the term ‘class II gaming’ includes, for purposes of applying [Public Law 100–497][/us/pl/100/497] \[[25 U.S.C. 2701][/us/usc/t25/s2701] et seq.\] with respect to any Indian tribe located in the State of Wisconsin or the State of Montana, during the 1-year period beginning on the date of enactment of this Act \[May 24, 1990\], any gaming described in [section 4(7)(B)(ii) of Public Law 100–497][/us/pl/100/497/s4/7/B/ii] \[[25 U.S.C. 2703(7)(B)(ii)][/us/usc/t25/s2703/7/B/ii]\] that was legally operated on Indian lands on or before May 1, 1988, if the Indian tribe having jurisdiction over the lands on which such gaming was operated made a request, by no later than November 16, 1988, to the State in which such gaming is operated to negotiate a Tribal-State compact under [section 11(d)(3) of Public Law 100–497][/us/pl/100/497/s11/d/3] \[[25 U.S.C. 2710(d)(3)][/us/usc/t25/s2710/d/3]\].”
 
  __Tribal-State Compact Covering Indian Tribes in Minnesota; Operation of Class II Games; Allowance of Additional Year for Negotiations__ 
 
-[Pub. L. 101–121, title I, § 118][/us/pl/101/121/s118], Oct. 23, 1989, [103 Stat. 722][/us/stat/103/722], provided that: 
+[Pub. L. 101–121, title I][/us/pl/101/121/tI], § 118, Oct. 23, 1989, [103 Stat. 722][/us/stat/103/722], provided that: 
 
 > “Notwithstanding any other provision of law, the term ‘Class II gaming’ in [Public Law 100–497][/us/pl/100/497] \[[25 U.S.C. 2701][/us/usc/t25/s2701] et seq.\], for any Indian tribe located in the State of Minnesota, includes, during the period commencing on the date of enactment of this Act \[Oct. 23, 1989\] and continuing for 365 days from that date, any gaming described in [section 4(7)(B)(ii) of Public Law 100–497][/us/pl/100/497/s4/7/B/ii] \[[25 U.S.C. 2703(7)(B)(ii)][/us/usc/t25/s2703/7/B/ii]\] that was legally operated on Indian lands on or before May 1, 1988, if the Indian tribe having jurisdication \[sic\] over the lands on which such gaming was operated, requested the State of Minnesota, no later than 30 days after the date of enactment of [Public Law 100–497][/us/pl/100/497] \[Oct. 17, 1988\], to negotiate a tribal-state compact pursuant to [section 11(d)(3) of Public Law 100–497][/us/pl/100/497/s11/d/3] \[[25 U.S.C. 2710(d)(3)][/us/usc/t25/s2710/d/3]\].”
 
@@ -125,18 +125,18 @@
 [/us/usc/t25/s2704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs2704
 [/us/usc/t25/s2710/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs2710%2Fd%2F3
 [/us/usc/t25/s2710/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs2710%2Fd%2F3
-[/us/pl/100/497/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F497%2Fs4
+[/us/pl/100/497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F497
 [/us/stat/102/2467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2467
-[/us/pl/102/238/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F238%2Fs2%2Fa
+[/us/pl/102/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F238
 [/us/stat/105/1908]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1908
-[/us/pl/102/497/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F497%2Fs16
+[/us/pl/102/497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F497
 [/us/stat/106/3261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3261
 [/us/pl/100/497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F497
 [/us/stat/102/2467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2467
 [/us/usc/t25/s2701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs2701
 [/us/pl/102/497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F497
 [/us/pl/102/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F238
-[/us/pl/101/301/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F301%2Fs6
+[/us/pl/101/301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F301
 [/us/stat/104/209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F209
 [/us/pl/100/497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F497
 [/us/usc/t25/s2701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs2701
@@ -144,7 +144,7 @@
 [/us/usc/t25/s2703/7/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs2703%2F7%2FB%2Fii
 [/us/pl/100/497/s11/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F497%2Fs11%2Fd%2F3
 [/us/usc/t25/s2710/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs2710%2Fd%2F3
-[/us/pl/101/121/s118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F121%2Fs118
+[/us/pl/101/121/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F121%2FtI
 [/us/stat/103/722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F722
 [/us/pl/100/497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F497
 [/us/usc/t25/s2701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs2701

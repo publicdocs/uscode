@@ -35,7 +35,7 @@
 
         Except as provided in this subchapter, no provision of this subchapter shall be construed to constitute a jurisdictional act, to confer jurisdiction to sue, or to grant implied consent to any Indian, Indian nation, or tribe or band of Indians to sue the United States or any of its officers with respect to the claims extinguished by the operation of this subchapter.
 
-([Pub. L. 98–134, § 7][/us/pl/98/134/s7], Oct. 18, 1983, [97 Stat. 855][/us/stat/97/855].)
+([Pub. L. 98–134][/us/pl/98/134], § 7, Oct. 18, 1983, [97 Stat. 855][/us/stat/97/855].)
 
  __Codification__ 
 
@@ -48,7 +48,7 @@
 ----------
 ----------
 
-[/us/pl/98/134/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F134%2Fs7
+[/us/pl/98/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F134
 [/us/stat/97/855]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F855
 [/us/pl/98/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F134
 

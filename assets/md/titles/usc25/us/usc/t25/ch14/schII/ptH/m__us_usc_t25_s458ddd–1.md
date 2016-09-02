@@ -39,11 +39,11 @@
 
         Notwithstanding any other provision of this section, the Secretary may continue to provide facilities and necessary support services to the Foundation after the termination of the 5-year period specified in subsection (a), on a space available, reimbursable cost basis.
 
-([Pub. L. 93–638, title VIII, § 802][/us/pl/93/638/s802], formerly title V, § 502, as added [Pub. L. 106–568, title XIII, § 1302][/us/pl/106/568/s1302], Dec. 27, 2000, [114 Stat. 2938][/us/stat/114/2938]; renumbered title VIII, § 802, and amended [Pub. L. 111–211, title II, § 231(d)][/us/pl/111/211/s231/d], July 29, 2010, [124 Stat. 2278][/us/stat/124/2278].)
+([Pub. L. 93–638, title VIII][/us/pl/93/638/tVIII], § 802, formerly title V, § 502, as added [Pub. L. 106–568, title XIII][/us/pl/106/568/tXIII], § 1302, Dec. 27, 2000, [114 Stat. 2938][/us/stat/114/2938]; renumbered title VIII, § 802, and amended [Pub. L. 111–211, title II][/us/pl/111/211/tII], § 231(d), July 29, 2010, [124 Stat. 2278][/us/stat/124/2278].)
 
  __Amendments__ 
 
-    2010—Subsec. (a)(2). [Pub. L. 111–211, § 231(d)(3)][/us/pl/111/211/s231/d/3], substituted “section 458ddd” for “section 458bbb”.
+    2010—Subsec. (a)(2). [Pub. L. 111–211][/us/pl/111/211], § 231(d)(3), substituted “section 458ddd” for “section 458bbb”.
 
 ----------
 
@@ -53,11 +53,11 @@
 ----------
 
 [/us/usc/t25/s458ddd]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs458ddd
-[/us/pl/93/638/s802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638%2Fs802
-[/us/pl/106/568/s1302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F568%2Fs1302
+[/us/pl/93/638/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638%2FtVIII
+[/us/pl/106/568/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F568%2FtXIII
 [/us/stat/114/2938]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2938
-[/us/pl/111/211/s231/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211%2Fs231%2Fd
+[/us/pl/111/211/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211%2FtII
 [/us/stat/124/2278]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2278
-[/us/pl/111/211/s231/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211%2Fs231%2Fd%2F3
+[/us/pl/111/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211
 
 

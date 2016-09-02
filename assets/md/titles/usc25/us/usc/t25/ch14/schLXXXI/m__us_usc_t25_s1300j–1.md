@@ -17,7 +17,7 @@
 
     Federal recognition of the Pokagon Band of Potawatomi Indians is hereby affirmed. Except as otherwise provided in this subchapter, all Federal laws of general application to Indians and Indian tribes, including the Act of June 18, 1934 ([25 U.S.C. 461][/us/usc/t25/s461] et seq.; commonly referred to as the “Indian Reorganization Act”), shall apply with respect to the Band and its members.
 
-([Pub. L. 103–323, § 2][/us/pl/103/323/s2], Sept. 21, 1994, [108 Stat. 2153][/us/stat/108/2153].)
+([Pub. L. 103–323][/us/pl/103/323], § 2, Sept. 21, 1994, [108 Stat. 2153][/us/stat/108/2153].)
 
  __References in Text__ 
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t25/s461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs461
-[/us/pl/103/323/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F323%2Fs2
+[/us/pl/103/323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F323
 [/us/stat/108/2153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2153
 [/us/act/1934-06-18/ch576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-18%2Fch576
 [/us/stat/48/984]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F984

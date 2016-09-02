@@ -129,7 +129,7 @@
 
         (5) once the Pueblo has acquired title to the former National Forest System lands, these lands may be conveyed by the Pueblo to the Secretary of the Interior who shall accept and hold such lands in the name of the United States in trust for the benefit of the Pueblo.
 
-([Pub. L. 106–425, § 5][/us/pl/106/425/s5], Nov. 1, 2000, [114 Stat. 1892][/us/stat/114/1892].)
+([Pub. L. 106–425][/us/pl/106/425], § 5, Nov. 1, 2000, [114 Stat. 1892][/us/stat/114/1892].)
 
  __References in Text__ 
 
@@ -157,7 +157,7 @@
 [/us/usc/t25/s1401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1401
 [/us/usc/t25/s4023]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs4023
 [/us/usc/t16/s484a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs484a
-[/us/pl/106/425/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F425%2Fs5
+[/us/pl/106/425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F425
 [/us/stat/114/1892]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1892
 [/us/act/1834-06-30/ch161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1834-06-30%2Fch161
 [/us/stat/4/729]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F4%2F729

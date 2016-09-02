@@ -17,7 +17,7 @@
 
     The Secretary is authorized and directed to withdraw the funds on deposit in the Treasury of the United States to the credit of the Nehalem and Tillamook Bands of Indians that were appropriated by the Act of May 17, 1963 ([77 Stat. 43][/us/stat/77/43]), in satisfaction of a judgment obtained by the bands in the Indian Claims Commission against the United States in Docket Numbered 240 together with the interest accrued thereon and to pro rate such funds among those persons whose names appear on the roll prepared pursuant to [section 1051 of this title][/us/usc/t25/s1051]. The Secretary shall distribute shares payable to living persons enrolled pursuant to [section 1051 of this title][/us/usc/t25/s1051] and shares payable to the heirs and legatees of deceased persons enrolled pursuant to [section 1051 of this title][/us/usc/t25/s1051] according to such rules and regulations as he may prescribe.
 
-([Pub. L. 88–506, § 2][/us/pl/88/506/s2], Aug. 30, 1964, [78 Stat. 639][/us/stat/78/639].)
+([Pub. L. 88–506][/us/pl/88/506], § 2, Aug. 30, 1964, [78 Stat. 639][/us/stat/78/639].)
 
  __References in Text__ 
 
@@ -36,7 +36,7 @@
 [/us/usc/t25/s1051]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1051
 [/us/usc/t25/s1051]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1051
 [/us/usc/t25/s1051]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1051
-[/us/pl/88/506/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F506%2Fs2
+[/us/pl/88/506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F506
 [/us/stat/78/639]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F639
 [/us/pl/88/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F25
 [/us/stat/77/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F43

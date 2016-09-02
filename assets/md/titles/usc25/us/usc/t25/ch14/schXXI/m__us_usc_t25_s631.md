@@ -47,7 +47,7 @@
 
     Funds so appropriated shall be available for administration, investigations, plans, construction, and all other objects necessary for or appropriate to the carrying out of the provisions of this subchapter. Such further sums as may be necessary for or appropriate to the annual operation and maintenance of the projects herein enumerated are also authorized to be appropriated. Funds appropriated under these authorizations shall be in addition to funds made available for use on the Navajo and Hopi Reservations, or with respect to Indians of the Navajo Tribes, out of appropriations heretofore or hereafter granted for the benefit, care, or assistance of Indians in general, or made pursuant to other authorizations now in effect.
 
-([Apr. 19, 1950, ch. 92, § 1][/us/act/1950-04-19/ch92/s1], [64 Stat. 44][/us/stat/64/44]; [Pub. L. 85–740][/us/pl/85/740], Aug. 23, 1958, [72 Stat. 834][/us/stat/72/834].)
+([Apr. 19, 1950, ch. 92][/us/act/1950-04-19/ch92], § 1, [64 Stat. 44][/us/stat/64/44]; [Pub. L. 85–740][/us/pl/85/740], Aug. 23, 1958, [72 Stat. 834][/us/stat/72/834].)
 
  __Amendments__ 
 
@@ -64,7 +64,7 @@
 ----------
 ----------
 
-[/us/act/1950-04-19/ch92/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-04-19%2Fch92%2Fs1
+[/us/act/1950-04-19/ch92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-04-19%2Fch92
 [/us/stat/64/44]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F44
 [/us/pl/85/740]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F740
 [/us/stat/72/834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F834

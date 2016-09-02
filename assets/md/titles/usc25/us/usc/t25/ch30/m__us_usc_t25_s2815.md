@@ -23,7 +23,7 @@
 
     (3) developing successful cooperative relationships that effectively combat crime in Indian country and nearby communities.
 
-([Pub. L. 111–211, title II, § 222][/us/pl/111/211/s222], July 29, 2010, [124 Stat. 2272][/us/stat/124/2272].)
+([Pub. L. 111–211, title II][/us/pl/111/211/tII], § 222, July 29, 2010, [124 Stat. 2272][/us/stat/124/2272].)
 
  __Codification__ 
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/111/211/s222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211%2Fs222
+[/us/pl/111/211/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211%2FtII
 [/us/stat/124/2272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2272
 [/us/pl/111/211/s203/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211%2Fs203%2Fa
 [/us/usc/t25/s2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs2801

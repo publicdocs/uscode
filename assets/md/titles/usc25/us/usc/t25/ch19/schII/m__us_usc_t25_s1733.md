@@ -17,7 +17,7 @@
 
     There is hereby authorized to be appropriated $81,500,000 for the fiscal year beginning October 1, 1980, for transfer to the funds established by [section 1724 of this title][/us/usc/t25/s1724].
 
-([Pub. L. 96–420, § 14][/us/pl/96/420/s14], Oct. 10, 1980, [94 Stat. 1797][/us/stat/94/1797].)
+([Pub. L. 96–420][/us/pl/96/420], § 14, Oct. 10, 1980, [94 Stat. 1797][/us/stat/94/1797].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t25/s1724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1724
-[/us/pl/96/420/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F420%2Fs14
+[/us/pl/96/420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F420
 [/us/stat/94/1797]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1797
 
 

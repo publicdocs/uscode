@@ -17,7 +17,7 @@
 
     The Secretary of the Interior (hereinafter called the “Secretary”) is authorized and directed to do whatever is necessary and proper to equalize as nearly as possible the values of all allotments of land on the Agua Caliente (Palm Springs) Reservation in California in accordance with the provisions of this subchapter.
 
-([Pub. L. 86–339, § 1][/us/pl/86/339/s1], Sept. 21, 1959, [73 Stat. 602][/us/stat/73/602].)
+([Pub. L. 86–339][/us/pl/86/339], § 1, Sept. 21, 1959, [73 Stat. 602][/us/stat/73/602].)
 
  __Short Title__ 
 
@@ -110,7 +110,7 @@
 ----------
 ----------
 
-[/us/pl/86/339/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F339%2Fs1
+[/us/pl/86/339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F339
 [/us/stat/73/602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F602
 [/us/pl/86/339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F339
 [/us/stat/73/602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F602

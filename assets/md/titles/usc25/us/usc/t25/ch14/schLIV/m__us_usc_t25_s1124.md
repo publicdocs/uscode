@@ -17,7 +17,7 @@
 
     The Secretary of the Interior shall bring current to June 2, 1972, the roll prepared pursuant to [section 1114 of this title][/us/usc/t25/s1114], by (a) adding the names of persons living on June 2, 1972, who were eligible for enrollment under [section 1114 of this title][/us/usc/t25/s1114] but were not enrolled, (b) by adding the names of children born to enrollees on or prior to June 2, 1972, and who are living on said date, (c) by adding the names of children born to persons who were eligible for enrollment under [section 1114 of this title][/us/usc/t25/s1114] but who were not enrolled, regardless of whether such persons are living or deceased on June 2, 1972, provided said children of such persons are living on June 2, 1972, and (d) by deleting the names of persons who are deceased as of June 2, 1972.
 
-([Pub. L. 92–309, § 3][/us/pl/92/309/s3], June 2, 1972, [86 Stat. 200][/us/stat/86/200].)
+([Pub. L. 92–309][/us/pl/92/309], § 3, June 2, 1972, [86 Stat. 200][/us/stat/86/200].)
 
  __Codification__ 
 
@@ -33,7 +33,7 @@
 [/us/usc/t25/s1114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1114
 [/us/usc/t25/s1114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1114
 [/us/usc/t25/s1114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1114
-[/us/pl/92/309/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F309%2Fs3
+[/us/pl/92/309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F309
 [/us/stat/86/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F200
 [/us/pl/89/659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F659
 [/us/stat/80/909]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F909

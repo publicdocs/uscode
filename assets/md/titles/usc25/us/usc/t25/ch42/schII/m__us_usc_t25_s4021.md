@@ -21,7 +21,7 @@
 
     (2) otherwise demonstrate how the principles of self-determination can work with respect to the management of such trust funds, in a manner consistent with the trust responsibility of the United States.
 
-([Pub. L. 103–412, title II, § 201][/us/pl/103/412/s201], Oct. 25, 1994, [108 Stat. 4242][/us/stat/108/4242].)
+([Pub. L. 103–412, title II][/us/pl/103/412/tII], § 201, Oct. 25, 1994, [108 Stat. 4242][/us/stat/108/4242].)
 
 ----------
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/103/412/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F412%2Fs201
+[/us/pl/103/412/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F412%2FtII
 [/us/stat/108/4242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4242
 
 

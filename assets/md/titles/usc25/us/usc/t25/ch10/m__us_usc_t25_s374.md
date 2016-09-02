@@ -17,7 +17,7 @@
 
     The authority delegated to judges of the United States courts by [section 24 of title 35][/us/usc/t35/s24] is conferred upon the Secretary of the Interior to require the attendance of witnesses at hearings, upon proper showing by any of the parties to determine the heirs of decedents, held in accordance with sections 372 and 373 of this title, under such rules and regulations as he may prescribe.
 
-([Aug. 1, 1914, ch. 222, § 1][/us/act/1914-08-01/ch222/s1], [38 Stat. 586][/us/stat/38/586].)
+([Aug. 1, 1914, ch. 222][/us/act/1914-08-01/ch222], § 1, [38 Stat. 586][/us/stat/38/586].)
 
  __Codification__ 
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t35/s24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft35%2Fs24
-[/us/act/1914-08-01/ch222/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1914-08-01%2Fch222%2Fs1
+[/us/act/1914-08-01/ch222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1914-08-01%2Fch222
 [/us/stat/38/586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F586
 [/us/usc/t35/s24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft35%2Fs24
 [/us/usc/t35/s56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft35%2Fs56

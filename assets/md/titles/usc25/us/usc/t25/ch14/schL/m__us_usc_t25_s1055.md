@@ -17,7 +17,7 @@
 
     The Secretary of the Interior is authorized to prescribe rules and regulations to carry out the provisions of this subchapter.
 
-([Pub. L. 88–506, § 5][/us/pl/88/506/s5], Aug. 30, 1964, [78 Stat. 639][/us/stat/78/639].)
+([Pub. L. 88–506][/us/pl/88/506], § 5, Aug. 30, 1964, [78 Stat. 639][/us/stat/78/639].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/88/506/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F506%2Fs5
+[/us/pl/88/506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F506
 [/us/stat/78/639]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F639
 
 

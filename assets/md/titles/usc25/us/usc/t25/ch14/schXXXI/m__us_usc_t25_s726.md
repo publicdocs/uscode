@@ -17,7 +17,7 @@
 
     On and after the date of the proclamation to be issued in accordance with the provisions of [section 722 of this title][/us/usc/t25/s722], all statutes of the United States which affect Indians because of their status as Indians shall no longer be applicable to the Alabama and Coushatta Tribes of Texas or the members thereof, except as provided in said section and the laws of the several States shall apply to the tribe and its members in the same manner as they apply to other citizens or persons within their jurisdiction.
 
-([Aug. 23, 1954, ch. 831, § 6][/us/act/1954-08-23/ch831/s6], [68 Stat. 769][/us/stat/68/769].)
+([Aug. 23, 1954, ch. 831][/us/act/1954-08-23/ch831], § 6, [68 Stat. 769][/us/stat/68/769].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t25/s722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs722
-[/us/act/1954-08-23/ch831/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-23%2Fch831%2Fs6
+[/us/act/1954-08-23/ch831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-23%2Fch831
 [/us/stat/68/769]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F769
 
 

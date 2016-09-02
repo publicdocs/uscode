@@ -55,11 +55,11 @@
 
         The Secretary of Agriculture, through the Forest Service, is authorized to provide, upon the request of the Secretary of the Interior, on a nonreimbursable basis, technical assistance in the conduct of such research and evaluation activities as may be necessary for the completion of any reports or assessments required by this chapter.
 
-([Pub. L. 101–630, title III, § 312][/us/pl/101/630/s312], Nov. 28, 1990, [104 Stat. 4539][/us/stat/104/4539]; [Pub. L. 103–437, § 10(f)][/us/pl/103/437/s10/f], Nov. 2, 1994, [108 Stat. 4589][/us/stat/108/4589].)
+([Pub. L. 101–630, title III][/us/pl/101/630/tIII], § 312, Nov. 28, 1990, [104 Stat. 4539][/us/stat/104/4539]; [Pub. L. 103–437][/us/pl/103/437], § 10(f), Nov. 2, 1994, [108 Stat. 4589][/us/stat/108/4589].)
 
  __Amendments__ 
 
-    1994—Subsec. (a)(4). [Pub. L. 103–437, § 10(f)(1)][/us/pl/103/437/s10/f/1], substituted “Committee on Indian” for “Select Committee on Indian” and “Natural Resources” for “Interior and Insular Affairs”.
+    1994—Subsec. (a)(4). [Pub. L. 103–437][/us/pl/103/437], § 10(f)(1), substituted “Committee on Indian” for “Select Committee on Indian” and “Natural Resources” for “Interior and Insular Affairs”.
 
     Subsec. (c). [Pub. L. 103–437][/us/pl/103/437], inserted “the” after “report to” and substituted “Committee on Indian” for “Select Committee on Indian” and “Natural Resources” for “Interior and Insular Affairs”.
 
@@ -70,11 +70,11 @@
 ----------
 ----------
 
-[/us/pl/101/630/s312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F630%2Fs312
+[/us/pl/101/630/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F630%2FtIII
 [/us/stat/104/4539]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4539
-[/us/pl/103/437/s10/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437%2Fs10%2Ff
+[/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
 [/us/stat/108/4589]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4589
-[/us/pl/103/437/s10/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437%2Fs10%2Ff%2F1
+[/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
 [/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
 
 

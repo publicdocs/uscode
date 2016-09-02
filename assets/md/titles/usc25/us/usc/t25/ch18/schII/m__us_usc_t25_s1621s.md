@@ -27,7 +27,7 @@
 
         The Service shall pay a completed contract care service claim within 30 days after completion of the claim.
 
-([Pub. L. 94–437, title II, § 220][/us/pl/94/437/s220], as added [Pub. L. 102–573, title II, § 215][/us/pl/102/573/s215], Oct. 29, 1992, [106 Stat. 4558][/us/stat/106/4558].)
+([Pub. L. 94–437, title II][/us/pl/94/437/tII], § 220, as added [Pub. L. 102–573, title II][/us/pl/102/573/tII], § 215, Oct. 29, 1992, [106 Stat. 4558][/us/stat/106/4558].)
 
 ----------
 
@@ -36,8 +36,8 @@
 ----------
 ----------
 
-[/us/pl/94/437/s220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437%2Fs220
-[/us/pl/102/573/s215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2Fs215
+[/us/pl/94/437/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437%2FtII
+[/us/pl/102/573/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2FtII
 [/us/stat/106/4558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4558
 
 

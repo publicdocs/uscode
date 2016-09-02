@@ -35,7 +35,7 @@
 
             Nothing in this subchapter may affect the right of the town of Montville to participate, under any applicable law, in decisionmaking processes concerning the acquisition of any lands by the Federal Government to be held in trust for the Mohegan Tribe.
 
-([Pub. L. 103–377, § 5][/us/pl/103/377/s5], Oct. 19, 1994, [108 Stat. 3504][/us/stat/108/3504].)
+([Pub. L. 103–377][/us/pl/103/377], § 5, Oct. 19, 1994, [108 Stat. 3504][/us/stat/108/3504].)
 
 ----------
 
@@ -44,7 +44,7 @@
 ----------
 ----------
 
-[/us/pl/103/377/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F377%2Fs5
+[/us/pl/103/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F377
 [/us/stat/108/3504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3504
 
 

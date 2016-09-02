@@ -71,7 +71,7 @@
 
     (8) when requested, assist (with or without reimbursement) any Federal, tribal, State, or local law enforcement agency in the enforcement or carrying out of the laws or regulations the agency enforces or administers.
 
-([Pub. L. 101–379, § 4][/us/pl/101/379/s4], Aug. 18, 1990, [104 Stat. 475][/us/stat/104/475]; [Pub. L. 109–162, title IX, § 908(b)][/us/pl/109/162/s908/b], Jan. 5, 2006, [119 Stat. 3083][/us/stat/119/3083]; [Pub. L. 111–211, title II, § 211(c)][/us/pl/111/211/s211/c], July 29, 2010, [124 Stat. 2266][/us/stat/124/2266].)
+([Pub. L. 101–379][/us/pl/101/379], § 4, Aug. 18, 1990, [104 Stat. 475][/us/stat/104/475]; [Pub. L. 109–162, title IX][/us/pl/109/162/tIX], § 908(b), Jan. 5, 2006, [119 Stat. 3083][/us/stat/119/3083]; [Pub. L. 111–211, title II][/us/pl/111/211/tII], § 211(c), July 29, 2010, [124 Stat. 2266][/us/stat/124/2266].)
 
  __References in Text__ 
 
@@ -81,11 +81,11 @@
 
  __Amendments__ 
 
-    2010—Par. (2)(A). [Pub. L. 111–211, § 211(c)(1)][/us/pl/111/211/s211/c/1], substituted “or offenses processed by the Central Violations Bureau); or” for “), or”.
+    2010—Par. (2)(A). [Pub. L. 111–211][/us/pl/111/211], § 211(c)(1), substituted “or offenses processed by the Central Violations Bureau); or” for “), or”.
 
-    Par. (3)(B), (C). [Pub. L. 111–211, § 211(c)(2)(B)][/us/pl/111/211/s211/c/2/B], substituted “probable cause” for “reasonable grounds”.
+    Par. (3)(B), (C). [Pub. L. 111–211][/us/pl/111/211], § 211(c)(2)(B), substituted “probable cause” for “reasonable grounds”.
 
-    Par. (3)(D). [Pub. L. 111–211, § 211(c)(2)(A)][/us/pl/111/211/s211/c/2/A], (C), (D), added subpar. (D).
+    Par. (3)(D). [Pub. L. 111–211][/us/pl/111/211], § 211(c)(2)(A), (C), (D), added subpar. (D).
 
     2006—Par. (3)(C). [Pub. L. 109–162][/us/pl/109/162] added subpar. (C).
 
@@ -99,11 +99,11 @@
 [/us/usc/t21/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs801
 [/us/usc/t21/s862a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs862a
 [/us/usc/t21/s865]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs865
-[/us/pl/101/379/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F379%2Fs4
+[/us/pl/101/379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F379
 [/us/stat/104/475]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F475
-[/us/pl/109/162/s908/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs908%2Fb
+[/us/pl/109/162/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2FtIX
 [/us/stat/119/3083]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3083
-[/us/pl/111/211/s211/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211%2Fs211%2Fc
+[/us/pl/111/211/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211%2FtII
 [/us/stat/124/2266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2266
 [/us/pl/91/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513
 [/us/stat/84/1242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1242
@@ -115,9 +115,9 @@
 [/us/usc/t26/s32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs32
 [/us/usc/t26/s32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs32
 [/us/usc/t42/s1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1305
-[/us/pl/111/211/s211/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211%2Fs211%2Fc%2F1
-[/us/pl/111/211/s211/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211%2Fs211%2Fc%2F2%2FB
-[/us/pl/111/211/s211/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211%2Fs211%2Fc%2F2%2FA
+[/us/pl/111/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211
+[/us/pl/111/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211
+[/us/pl/111/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211
 [/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
 
 

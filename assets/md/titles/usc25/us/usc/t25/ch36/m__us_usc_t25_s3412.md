@@ -17,7 +17,7 @@
 
     The Secretary of the Interior, Secretary of Labor, Secretary of Health and Human Services, or the Secretary of Education, as appropriate, is authorized to take such action as may be necessary to provide for an interagency transfer of funds otherwise available to a tribal government in order to further the purposes of this chapter.
 
-([Pub. L. 102–477, § 13][/us/pl/102/477/s13], Oct. 23, 1992, [106 Stat. 2304][/us/stat/106/2304].)
+([Pub. L. 102–477][/us/pl/102/477], § 13, Oct. 23, 1992, [106 Stat. 2304][/us/stat/106/2304].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/102/477/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F477%2Fs13
+[/us/pl/102/477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F477
 [/us/stat/106/2304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2304
 
 

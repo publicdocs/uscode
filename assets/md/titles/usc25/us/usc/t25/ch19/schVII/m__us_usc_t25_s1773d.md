@@ -59,17 +59,17 @@
 
         (5) There is authorized to be appropriated $18,800,000 for the Federal share of the trust fund.
 
-([Pub. L. 101–41, § 6][/us/pl/101/41/s6], June 21, 1989, [103 Stat. 86][/us/stat/103/86].)
+([Pub. L. 101–41][/us/pl/101/41], § 6, June 21, 1989, [103 Stat. 86][/us/stat/103/86].)
 
  __Use of Funds To Fulfill Board of Trustees’ Fiduciary and Administrative Responsibilities__ 
 
-[Pub. L. 102–154, title I][/us/pl/102/154], Nov. 13, 1991, [105 Stat. 1005][/us/stat/105/1005], provided: 
+[Pub. L. 102–154, title I][/us/pl/102/154/tI], Nov. 13, 1991, [105 Stat. 1005][/us/stat/105/1005], provided: 
 
 > “That income earned on funds appropriated by [Public Law 101–121][/us/pl/101/121], October 23, 1989, [103 Stat. 701][/us/stat/103/701], 715\[,\] for the purposes of section 6(b) of the Puyallup Tribe of Indians Settlement Act of 1989, [Public Law 101–41][/us/pl/101/41], June 21, 1989, [103 Stat. 83][/us/stat/103/83] \[[25 U.S.C. 1773d(b)][/us/usc/t25/s1773d/b]\], may be utilized by the Permanent Trust Fund Board of Trustees to secure necessary and appropriate financial, auditing, accounting, insurance and other administrative services to fulfill the Board of Trustees’ fiduciary and administrative responsibilities: Provided further, That no more than 5 per centum of the income in any year may be utilized for such purposes”.
 
     Similar provisions were contained in the following prior appropriation act:
 
-    [Pub. L. 101–512, title I][/us/pl/101/512], Nov. 5, 1990, [104 Stat. 1931][/us/stat/104/1931].
+    [Pub. L. 101–512, title I][/us/pl/101/512/tI], Nov. 5, 1990, [104 Stat. 1931][/us/stat/104/1931].
 
 ----------
 
@@ -79,16 +79,16 @@
 ----------
 
 [/us/usc/t25/s162a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs162a
-[/us/pl/101/41/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F41%2Fs6
+[/us/pl/101/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F41
 [/us/stat/103/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F86
-[/us/pl/102/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F154
+[/us/pl/102/154/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F154%2FtI
 [/us/stat/105/1005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1005
 [/us/pl/101/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F121
 [/us/stat/103/701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F701
 [/us/pl/101/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F41
 [/us/stat/103/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F83
 [/us/usc/t25/s1773d/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1773d%2Fb
-[/us/pl/101/512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F512
+[/us/pl/101/512/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F512%2FtI
 [/us/stat/104/1931]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1931
 
 

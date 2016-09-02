@@ -17,7 +17,7 @@
 
     The Secretary of the Interior is authorized, in his discretion, to cancel any patent in fee simple issued to an Indian allottee or to his heirs before the end of the period of trust described in the original or trust patent issued to such allottee, or before the expiration of any extension of such period of trust by the President, where such patent in fee simple was issued without the consent or an application therefor by the allottee or by his heirs: Provided, That the patentee has not mortgaged or sold any part of the land described in such patent: Provided also, That upon cancellation of such patent in fee simple the land shall have the same status as though such fee patent had never been issued.
 
-([Feb. 26, 1927, ch. 215, § 1][/us/act/1927-02-26/ch215/s1], [44 Stat. 1247][/us/stat/44/1247].)
+([Feb. 26, 1927, ch. 215][/us/act/1927-02-26/ch215], § 1, [44 Stat. 1247][/us/stat/44/1247].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1927-02-26/ch215/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-02-26%2Fch215%2Fs1
+[/us/act/1927-02-26/ch215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-02-26%2Fch215
 [/us/stat/44/1247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F1247
 
 

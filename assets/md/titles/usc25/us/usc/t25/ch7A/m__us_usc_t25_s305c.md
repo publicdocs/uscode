@@ -17,7 +17,7 @@
 
     There is authorized to be appropriated out of any sums in the Treasury not otherwise appropriated such sums as may be necessary to defray the expenses of the Board and carry out the purposes and provisions of this Act. All income derived by the Board from any source shall be covered into the Treasury of the United States and shall constitute a special fund which is appropriated and made available until expended for carrying out the purposes and provisions of this Act. Out of the funds available to it at any time the Board may authorize such expenditures, consistent with the provisions of this Act, as it may determine to be necessary for the accomplishment of the purposes and objectives of this Act.
 
-([Aug. 27, 1935, ch. 748, § 4][/us/act/1935-08-27/ch748/s4], [49 Stat. 892][/us/stat/49/892].)
+([Aug. 27, 1935, ch. 748][/us/act/1935-08-27/ch748], § 4, [49 Stat. 892][/us/stat/49/892].)
 
  __References in Text__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/act/1935-08-27/ch748/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-27%2Fch748%2Fs4
+[/us/act/1935-08-27/ch748]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-27%2Fch748
 [/us/stat/49/892]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F892
 [/us/act/1935-08-27/ch748]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-27%2Fch748
 [/us/stat/49/891]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F891

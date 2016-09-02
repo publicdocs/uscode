@@ -17,7 +17,7 @@
 
     None of the appropriations made for the Indian Service shall be paid to any band of Indians or any portion of any band while at war with the United States or with the white citizens of any of the States or Territories.
 
-([Mar. 3, 1875, ch. 132, § 2][/us/act/1875-03-03/ch132/s2], [18 Stat. 449][/us/stat/18/449].)
+([Mar. 3, 1875, ch. 132][/us/act/1875-03-03/ch132], § 2, [18 Stat. 449][/us/stat/18/449].)
 
  __Transfer of Functions__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1875-03-03/ch132/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1875-03-03%2Fch132%2Fs2
+[/us/act/1875-03-03/ch132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1875-03-03%2Fch132
 [/us/stat/18/449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F18%2F449
 [/us/stat/64/1262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1262
 

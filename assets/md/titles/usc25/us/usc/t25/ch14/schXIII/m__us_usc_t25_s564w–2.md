@@ -27,7 +27,7 @@
 
         The homesite provisions of [section 564w–1(g) of this title][/us/usc/t25/s564w–1/g] shall apply to the lands acquired by the Secretary pursuant to this subchapter.
 
-([Aug. 13, 1954, ch. 732, § 29][/us/act/1954-08-13/ch732/s29], as added [Pub. L. 93–102][/us/pl/93/102], Aug. 16, 1973, [87 Stat. 349][/us/stat/87/349].)
+([Aug. 13, 1954, ch. 732][/us/act/1954-08-13/ch732], § 29, as added [Pub. L. 93–102][/us/pl/93/102], Aug. 16, 1973, [87 Stat. 349][/us/stat/87/349].)
 
 ----------
 
@@ -37,7 +37,7 @@
 ----------
 
 [/us/usc/t25/s564w–1/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs564w%E2%80%931%2Fg
-[/us/act/1954-08-13/ch732/s29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-13%2Fch732%2Fs29
+[/us/act/1954-08-13/ch732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-13%2Fch732
 [/us/pl/93/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F102
 [/us/stat/87/349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F349
 

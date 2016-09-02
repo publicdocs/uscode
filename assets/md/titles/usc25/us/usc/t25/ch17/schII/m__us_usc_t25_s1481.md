@@ -27,17 +27,17 @@
 
         The Secretary may guarantee or insure loans under subsection (a) to both for-profit and nonprofit borrowers.
 
-([Pub. L. 93–262, title II, § 201][/us/pl/93/262/s201], Apr. 12, 1974, [88 Stat. 79][/us/stat/88/79]; [Pub. L. 98–449, § 4][/us/pl/98/449/s4], Oct. 4, 1984, [98 Stat. 1725][/us/stat/98/1725]; [Pub. L. 109–221, title IV, § 401(a)][/us/pl/109/221/s401/a], May 12, 2006, [120 Stat. 341][/us/stat/120/341].)
+([Pub. L. 93–262, title II][/us/pl/93/262/tII], § 201, Apr. 12, 1974, [88 Stat. 79][/us/stat/88/79]; [Pub. L. 98–449][/us/pl/98/449], § 4, Oct. 4, 1984, [98 Stat. 1725][/us/stat/98/1725]; [Pub. L. 109–221, title IV][/us/pl/109/221/tIV], § 401(a), May 12, 2006, [120 Stat. 341][/us/stat/120/341].)
 
  __Amendments__ 
 
-    2006—[Pub. L. 109–221, § 401(a)(1)][/us/pl/109/221/s401/a/1], (2), (4), inserted section catchline, designated existing provisions as subsec. (a) and inserted heading, substituted “the Secretary may—
+    2006—[Pub. L. 109–221][/us/pl/109/221], § 401(a)(1), (2), (4), inserted section catchline, designated existing provisions as subsec. (a) and inserted heading, substituted “the Secretary may—
 
     “(1) guarantee”
 
     for “Secretary is authorized (a) to guarantee”, and added subsec. (b).
 
-    [Pub. L. 109–221, § 401(a)(3)][/us/pl/109/221/s401/a/3], which directed substitution of “members; or
+    [Pub. L. 109–221][/us/pl/109/221], § 401(a)(3), which directed substitution of “members; or
 
     “(2) insure”
 
@@ -52,14 +52,14 @@
 ----------
 ----------
 
-[/us/pl/93/262/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F262%2Fs201
+[/us/pl/93/262/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F262%2FtII
 [/us/stat/88/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F79
-[/us/pl/98/449/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F449%2Fs4
+[/us/pl/98/449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F449
 [/us/stat/98/1725]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1725
-[/us/pl/109/221/s401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F221%2Fs401%2Fa
+[/us/pl/109/221/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F221%2FtIV
 [/us/stat/120/341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F341
-[/us/pl/109/221/s401/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F221%2Fs401%2Fa%2F1
-[/us/pl/109/221/s401/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F221%2Fs401%2Fa%2F3
+[/us/pl/109/221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F221
+[/us/pl/109/221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F221
 [/us/pl/98/449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F449
 [/us/pl/98/449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F449
 

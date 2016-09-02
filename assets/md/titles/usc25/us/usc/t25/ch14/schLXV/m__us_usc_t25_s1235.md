@@ -17,7 +17,7 @@
 
     The roll prepared by the Secretary of the Interior pursuant to this subchapter shall not be deemed to constitute the membership roll of the Chemehuevi Tribe.
 
-([Pub. L. 91–417, § 5][/us/pl/91/417/s5], Sept. 25, 1970, [84 Stat. 868][/us/stat/84/868].)
+([Pub. L. 91–417][/us/pl/91/417], § 5, Sept. 25, 1970, [84 Stat. 868][/us/stat/84/868].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/91/417/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F417%2Fs5
+[/us/pl/91/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F417
 [/us/stat/84/868]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F868
 
 

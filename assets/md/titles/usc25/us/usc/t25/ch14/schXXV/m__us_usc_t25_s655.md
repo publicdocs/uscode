@@ -17,7 +17,7 @@
 
     In the event that the court renders judgment against the United States under the provisions of this subchapter, it shall decree such amount as it finds reasonable to be paid to the State of California to reimburse the State for all necessary costs and expenses incurred by said State, other than attorney fees: Provided, That no reimbursement shall be made to the State of California for the services rendered by its attorney general.
 
-([May 18, 1928, ch. 624, § 5][/us/act/1928-05-18/ch624/s5], [45 Stat. 602][/us/stat/45/602].)
+([May 18, 1928, ch. 624][/us/act/1928-05-18/ch624], § 5, [45 Stat. 602][/us/stat/45/602].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1928-05-18/ch624/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-05-18%2Fch624%2Fs5
+[/us/act/1928-05-18/ch624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-05-18%2Fch624
 [/us/stat/45/602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F45%2F602
 
 

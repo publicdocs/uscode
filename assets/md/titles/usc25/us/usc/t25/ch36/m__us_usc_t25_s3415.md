@@ -23,7 +23,7 @@
 
         Not later than five years after October 23, 1992, the Secretary shall submit a report to the Committee on Indian Affairs of the Senate and the Committee on Natural Resources and the Committee on Education and Labor of the House of Representatives on the results of the implementation of the demonstration program authorized under this chapter. Such report shall identify statutory barriers to the ability of tribal governments to integrate more effectively their employment, training, and related services in a manner consistent with the purposes of this chapter.
 
-([Pub. L. 102–477, § 16][/us/pl/102/477/s16], Oct. 23, 1992, [106 Stat. 2305][/us/stat/106/2305]; [Pub. L. 103–437, § 10(e)(1)][/us/pl/103/437/s10/e/1], (2)(C), Nov. 2, 1994, [108 Stat. 4589][/us/stat/108/4589].)
+([Pub. L. 102–477][/us/pl/102/477], § 16, Oct. 23, 1992, [106 Stat. 2305][/us/stat/106/2305]; [Pub. L. 103–437][/us/pl/103/437], § 10(e)(1), (2)(C), Nov. 2, 1994, [108 Stat. 4589][/us/stat/108/4589].)
 
  __Amendments__ 
 
@@ -40,9 +40,9 @@
 ----------
 ----------
 
-[/us/pl/102/477/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F477%2Fs16
+[/us/pl/102/477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F477
 [/us/stat/106/2305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2305
-[/us/pl/103/437/s10/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437%2Fs10%2Fe%2F1
+[/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
 [/us/stat/108/4589]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4589
 [/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
 

@@ -49,11 +49,11 @@
 
         (3) The scope of tribal sovereignty over transferred lands, with the specific exceptions of law relating to cigarettes, gambling and alcohol described in this subsection, shall be as required by applicable law with regard to existing tribal lands held in reservation or Federal trust status. Such transfer shall not confer upon the tribe, or upon the lands within the reservation, any additional water rights. Tribal water rights shall be deemed to be defined in the compact.
 
-([Pub. L. 100–228, § 6][/us/pl/100/228/s6], Dec. 31, 1987, [101 Stat. 1559][/us/stat/101/1559].)
+([Pub. L. 100–228][/us/pl/100/228], § 6, Dec. 31, 1987, [101 Stat. 1559][/us/stat/101/1559].)
 
  __References in Text__ 
 
-    [Section 7 of the Act of August 15, 1953][/us/act/1953-08-15/s7], referred to in subsec. (d)(1), is section 7 of [act Aug. 15, 1953, ch. 505][/us/act/1953-08-15/ch505], [67 Stat. 590][/us/stat/67/590], which was set out as a note under [section 1360 of Title 28][/us/usc/t28/s1360], Judiciary and Judicial Procedure, and was repealed by [Pub. L. 90–284, title IV, § 403(b)][/us/pl/90/284/s403/b], Apr. 11, 1968, [82 Stat. 79][/us/stat/82/79].
+    [Section 7 of the Act of August 15, 1953][/us/act/1953-08-15/s7], referred to in subsec. (d)(1), is section 7 of [act Aug. 15, 1953, ch. 505][/us/act/1953-08-15/ch505], [67 Stat. 590][/us/stat/67/590], which was set out as a note under [section 1360 of Title 28][/us/usc/t28/s1360], Judiciary and Judicial Procedure, and was repealed by [Pub. L. 90–284, title IV][/us/pl/90/284/tIV], § 403(b), Apr. 11, 1968, [82 Stat. 79][/us/stat/82/79].
 
 ----------
 
@@ -67,13 +67,13 @@
 [/us/usc/t25/s1323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1323
 [/us/usc/t18/s1162/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1162%2Fb
 [/us/usc/t28/s1360/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1360%2Fb
-[/us/pl/100/228/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F228%2Fs6
+[/us/pl/100/228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F228
 [/us/stat/101/1559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1559
 [/us/act/1953-08-15/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-08-15%2Fs7
 [/us/act/1953-08-15/ch505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-08-15%2Fch505
 [/us/stat/67/590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F590
 [/us/usc/t28/s1360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1360
-[/us/pl/90/284/s403/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F284%2Fs403%2Fb
+[/us/pl/90/284/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F284%2FtIV
 [/us/stat/82/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F79
 
 

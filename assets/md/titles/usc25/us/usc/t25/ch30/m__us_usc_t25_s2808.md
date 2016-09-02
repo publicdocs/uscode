@@ -17,7 +17,7 @@
 
     Any expenses incurred by the Secretary under this chapter shall be paid from funds appropriated under [section 13 of this title][/us/usc/t25/s13].
 
-([Pub. L. 101–379, § 9][/us/pl/101/379/s9], Aug. 18, 1990, [104 Stat. 477][/us/stat/104/477].)
+([Pub. L. 101–379][/us/pl/101/379], § 9, Aug. 18, 1990, [104 Stat. 477][/us/stat/104/477].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t25/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs13
-[/us/pl/101/379/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F379%2Fs9
+[/us/pl/101/379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F379
 [/us/stat/104/477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F477
 
 

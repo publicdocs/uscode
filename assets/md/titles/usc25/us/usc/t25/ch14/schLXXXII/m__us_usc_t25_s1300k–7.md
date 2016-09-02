@@ -33,13 +33,13 @@
 
             The Band shall ensure that the rolls are maintained and kept current.
 
-([Pub. L. 103–324, § 9][/us/pl/103/324/s9], as added [Pub. L. 103–435, § 21][/us/pl/103/435/s21], Nov. 2, 1994, [108 Stat. 4574][/us/stat/108/4574]; amended [Pub. L. 104–109, § 2(b)][/us/pl/104/109/s2/b], Feb. 12, 1996, [110 Stat. 763][/us/stat/110/763].)
+([Pub. L. 103–324][/us/pl/103/324], § 9, as added [Pub. L. 103–435][/us/pl/103/435], § 21, Nov. 2, 1994, [108 Stat. 4574][/us/stat/108/4574]; amended [Pub. L. 104–109][/us/pl/104/109], § 2(b), Feb. 12, 1996, [110 Stat. 763][/us/stat/110/763].)
 
  __Amendments__ 
 
-    1996—Subsec. (a). [Pub. L. 104–109, § 2(b)(1)][/us/pl/104/109/s2/b/1], substituted “the Bands shall submit” for “the Band shall submit” and “members of the respective Bands” for “members of the Band”.
+    1996—Subsec. (a). [Pub. L. 104–109][/us/pl/104/109], § 2(b)(1), substituted “the Bands shall submit” for “the Band shall submit” and “members of the respective Bands” for “members of the Band”.
 
-    Subsec. (b)(1). [Pub. L. 104–109, § 2(b)(2)][/us/pl/104/109/s2/b/2], in first sentence substituted “each of the Bands shall submit to the Secretary a membership roll that contains the names of all individuals that are eligible for membership in such Band” for “the Band shall submit to the Secretary membership rolls that contain the names of all individuals eligible for membership in such Band” and in second sentence substituted “Each such Band, in consultation” for “The Band, in consultation”.
+    Subsec. (b)(1). [Pub. L. 104–109][/us/pl/104/109], § 2(b)(2), in first sentence substituted “each of the Bands shall submit to the Secretary a membership roll that contains the names of all individuals that are eligible for membership in such Band” for “the Band shall submit to the Secretary membership rolls that contain the names of all individuals eligible for membership in such Band” and in second sentence substituted “Each such Band, in consultation” for “The Band, in consultation”.
 
 ----------
 
@@ -48,12 +48,12 @@
 ----------
 ----------
 
-[/us/pl/103/324/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F324%2Fs9
-[/us/pl/103/435/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F435%2Fs21
+[/us/pl/103/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F324
+[/us/pl/103/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F435
 [/us/stat/108/4574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4574
-[/us/pl/104/109/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F109%2Fs2%2Fb
+[/us/pl/104/109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F109
 [/us/stat/110/763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F763
-[/us/pl/104/109/s2/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F109%2Fs2%2Fb%2F1
-[/us/pl/104/109/s2/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F109%2Fs2%2Fb%2F2
+[/us/pl/104/109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F109
+[/us/pl/104/109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F109
 
 

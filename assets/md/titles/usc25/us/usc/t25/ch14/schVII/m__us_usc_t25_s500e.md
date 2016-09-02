@@ -17,7 +17,7 @@
 
     Except as herein otherwise specially provided, none of the moneys collected or received by the Secretary of the Interior in his administration of this subchapter shall be paid into the Treas­ury, but all such moneys shall constitute a revolving fund to be administered by the Secretary of the Interior for the purposes of this subchapter.
 
-([Sept. 1, 1937, ch. 897, § 6][/us/act/1937-09-01/ch897/s6], [50 Stat. 900][/us/stat/50/900].)
+([Sept. 1, 1937, ch. 897][/us/act/1937-09-01/ch897], § 6, [50 Stat. 900][/us/stat/50/900].)
 
  __References in Text__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/act/1937-09-01/ch897/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-09-01%2Fch897%2Fs6
+[/us/act/1937-09-01/ch897]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-09-01%2Fch897
 [/us/stat/50/900]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F50%2F900
 [/us/usc/t48/s250e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs250e
 

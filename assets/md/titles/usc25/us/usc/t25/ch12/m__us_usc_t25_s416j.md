@@ -17,7 +17,7 @@
 
     Nothing in sections 416 to 416j of this title shall authorize the Secretary to approve any development which would detract from the scenic, historic, and religious values of the Mission San Xavier del Bac owned by the Franciscan Order of Friars Minor and located on the San Xavier Reservation.
 
-([Pub. L. 89–715, § 11][/us/pl/89/715/s11], Nov. 2, 1966, [80 Stat. 1114][/us/stat/80/1114].)
+([Pub. L. 89–715][/us/pl/89/715], § 11, Nov. 2, 1966, [80 Stat. 1114][/us/stat/80/1114].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/89/715/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F715%2Fs11
+[/us/pl/89/715]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F715
 [/us/stat/80/1114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1114
 
 

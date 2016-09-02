@@ -17,7 +17,7 @@
 
     There is authorized to be appropriated, out of any funds in the Treasury not otherwise appropriated, the sum of $20,000,000 to be established as a revolving fund from which the Secretary of the Interior, under such rules and regulations as he may prescribe, may make loans to Indian chartered corporations for the purpose of promoting the economic development of such tribes and of their members, and may defray the expenses of administering such loans. Repayment of amounts loaned under this authorization shall be credited to the revolving fund and shall be available for the purposes for which the fund is established.
 
-([June 18, 1934, ch. 576, § 10][/us/act/1934-06-18/ch576/s10], [48 Stat. 986][/us/stat/48/986]; [Pub. L. 86–533, § 1(16)][/us/pl/86/533/s1/16], June 29, 1960, [74 Stat. 248][/us/stat/74/248]; [Pub. L. 87–250][/us/pl/87/250], Sept. 15, 1961, [75 Stat. 520][/us/stat/75/520].)
+([June 18, 1934, ch. 576][/us/act/1934-06-18/ch576], § 10, [48 Stat. 986][/us/stat/48/986]; [Pub. L. 86–533][/us/pl/86/533], § 1(16), June 29, 1960, [74 Stat. 248][/us/stat/74/248]; [Pub. L. 87–250][/us/pl/87/250], Sept. 15, 1961, [75 Stat. 520][/us/stat/75/520].)
 
  __Amendments__ 
 
@@ -36,9 +36,9 @@
 ----------
 ----------
 
-[/us/act/1934-06-18/ch576/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-18%2Fch576%2Fs10
+[/us/act/1934-06-18/ch576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-18%2Fch576
 [/us/stat/48/986]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F986
-[/us/pl/86/533/s1/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F533%2Fs1%2F16
+[/us/pl/86/533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F533
 [/us/stat/74/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F248
 [/us/pl/87/250]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F250
 [/us/stat/75/520]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F520

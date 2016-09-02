@@ -17,7 +17,7 @@
 
     Nothing in this chapter shall affect, nor shall any Minerals Agreement approved pursuant to this chapter be subject to or limited by, sections 396a to 396g of this title, or any other law authorizing the development or disposition of the mineral resources of an Indian or Indian tribe.
 
-([Pub. L. 97–382, § 6][/us/pl/97/382/s6], Dec. 22, 1982, [96 Stat. 1940][/us/stat/96/1940].)
+([Pub. L. 97–382][/us/pl/97/382], § 6, Dec. 22, 1982, [96 Stat. 1940][/us/stat/96/1940].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/97/382/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F382%2Fs6
+[/us/pl/97/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F382
 [/us/stat/96/1940]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1940
 
 

@@ -23,7 +23,7 @@
 
     Title to any lands or rights acquired pursuant to this Act or the Act of July 28, 1955 ([69 Stat. 392][/us/stat/69/392]), as amended ([25 U.S.C. 608][/us/usc/t25/s608] et seq.) shall be taken in the name of the United States in trust for the Indian tribe or individual Indian for which the land is acquired, and such lands or rights shall be exempt from State and local taxation.
 
-([June 18, 1934, ch. 576, § 5][/us/act/1934-06-18/ch576/s5], [48 Stat. 985][/us/stat/48/985]; [Pub. L. 100–581, title II, § 214][/us/pl/100/581/s214], Nov. 1, 1988, [102 Stat. 2941][/us/stat/102/2941].)
+([June 18, 1934, ch. 576][/us/act/1934-06-18/ch576], § 5, [48 Stat. 985][/us/stat/48/985]; [Pub. L. 100–581, title II][/us/pl/100/581/tII], § 214, Nov. 1, 1988, [102 Stat. 2941][/us/stat/102/2941].)
 
  __References in Text__ 
 
@@ -70,9 +70,9 @@
 
 [/us/stat/69/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F392
 [/us/usc/t25/s608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs608
-[/us/act/1934-06-18/ch576/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-18%2Fch576%2Fs5
+[/us/act/1934-06-18/ch576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-18%2Fch576
 [/us/stat/48/985]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F985
-[/us/pl/100/581/s214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F581%2Fs214
+[/us/pl/100/581/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F581%2FtII
 [/us/stat/102/2941]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2941
 [/us/usc/t25/s461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs461
 [/us/act/1955-07-28/ch423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-28%2Fch423

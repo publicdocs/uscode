@@ -17,7 +17,7 @@
 
     Notwithstanding any other provision of law, a contractor of a Federal agency under any Act of Congress may be allowed an additional amount of compensation equal to 5 percent of the amount paid, or to be paid, to a subcontractor or supplier, in carrying out the contract if such subcontractor or supplier is an Indian organization or Indian-owned economic enterprise as defined in this chapter.
 
-([Pub. L. 93–262, title V, § 504][/us/pl/93/262/s504], added [Pub. L. 100–442, § 7][/us/pl/100/442/s7], Sept. 22, 1988, [102 Stat. 1765][/us/stat/102/1765].)
+([Pub. L. 93–262, title V][/us/pl/93/262/tV], § 504, added [Pub. L. 100–442][/us/pl/100/442], § 7, Sept. 22, 1988, [102 Stat. 1765][/us/stat/102/1765].)
 
 ----------
 
@@ -26,8 +26,8 @@
 ----------
 ----------
 
-[/us/pl/93/262/s504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F262%2Fs504
-[/us/pl/100/442/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F442%2Fs7
+[/us/pl/93/262/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F262%2FtV
+[/us/pl/100/442]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F442
 [/us/stat/102/1765]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1765
 
 

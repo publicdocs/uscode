@@ -29,7 +29,7 @@
 
         (2) The livestock reduction program required under subsection (a) of this section shall be completed within eighteen months after July 8, 1980.
 
-([Pub. L. 93–531, § 19][/us/pl/93/531/s19], Dec. 22, 1974, [88 Stat. 1721][/us/stat/88/1721]; [Pub. L. 96–305, § 8][/us/pl/96/305/s8], July 8, 1980, [94 Stat. 932][/us/stat/94/932].)
+([Pub. L. 93–531][/us/pl/93/531], § 19, Dec. 22, 1974, [88 Stat. 1721][/us/stat/88/1721]; [Pub. L. 96–305][/us/pl/96/305], § 8, July 8, 1980, [94 Stat. 932][/us/stat/94/932].)
 
  __Amendments__ 
 
@@ -44,9 +44,9 @@
 
 [/us/usc/t25/s640d–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs640d%E2%80%933
 [/us/usc/t25/s640d–7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs640d%E2%80%937
-[/us/pl/93/531/s19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F531%2Fs19
+[/us/pl/93/531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F531
 [/us/stat/88/1721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1721
-[/us/pl/96/305/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F305%2Fs8
+[/us/pl/96/305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F305
 [/us/stat/94/932]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F932
 [/us/pl/96/305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F305
 

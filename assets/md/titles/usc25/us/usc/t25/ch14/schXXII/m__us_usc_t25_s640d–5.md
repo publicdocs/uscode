@@ -33,7 +33,7 @@
 
     (h) Any claim the Hopi Tribe may have against the Navajo Tribe for the determination and recovery of the fair value of the grazing and agricultural use of the lands within the joint use area by the Navajo Tribe and its individual members, since September 28, 1962, shall be for one-half of such value.
 
-([Pub. L. 93–531, § 6][/us/pl/93/531/s6], Dec. 22, 1974, [88 Stat. 1714][/us/stat/88/1714].)
+([Pub. L. 93–531][/us/pl/93/531], § 6, Dec. 22, 1974, [88 Stat. 1714][/us/stat/88/1714].)
 
 ----------
 
@@ -44,7 +44,7 @@
 
 [/us/usc/t25/s640d–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs640d%E2%80%933
 [/us/usc/t25/s640d–2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs640d%E2%80%932%2Fb
-[/us/pl/93/531/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F531%2Fs6
+[/us/pl/93/531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F531
 [/us/stat/88/1714]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1714
 
 

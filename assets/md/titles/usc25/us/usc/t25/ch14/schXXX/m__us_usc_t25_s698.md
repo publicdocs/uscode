@@ -17,7 +17,7 @@
 
     The Secretary is authorized, in his discretion, to transfer to any tribe or any member or group of members thereof any federally owned property acquired, withdrawn, or used for the administration of the affairs of the tribes subject to this subchapter which he deems necessary for Indian use, or to transfer to a public or nonprofit body any such property which he deems necessary for public use and from which members of the tribes will derive benefits.
 
-([Aug. 13, 1954, ch. 733, § 8][/us/act/1954-08-13/ch733/s8], [68 Stat. 726][/us/stat/68/726].)
+([Aug. 13, 1954, ch. 733][/us/act/1954-08-13/ch733], § 8, [68 Stat. 726][/us/stat/68/726].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1954-08-13/ch733/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-13%2Fch733%2Fs8
+[/us/act/1954-08-13/ch733]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-13%2Fch733
 [/us/stat/68/726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F726
 
 

@@ -17,7 +17,7 @@
 
     There is hereby established in the United States Treasury a fund to be known as the Rhode Island Indian Claims Settlement Fund into which $3,500,000 shall be deposited following the appropriation authorized by [section 1710 of this title][/us/usc/t25/s1710].
 
-([Pub. L. 95–395, § 4][/us/pl/95/395/s4], Sept. 30, 1978, [92 Stat. 814][/us/stat/92/814].)
+([Pub. L. 95–395][/us/pl/95/395], § 4, Sept. 30, 1978, [92 Stat. 814][/us/stat/92/814].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t25/s1710]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1710
-[/us/pl/95/395/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F395%2Fs4
+[/us/pl/95/395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F395
 [/us/stat/92/814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F814
 
 

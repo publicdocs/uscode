@@ -467,7 +467,7 @@
 
         The Secretary of the Interior shall cause to be published in the Federal Register the boundaries and descriptions of the lands conveyed by this subchapter. The acreages set out in the preceding subsection are estimates and shall not be construed as expanding or limiting the grant of the United States as defined in [section 459 of this title][/us/usc/t25/s459].
 
-([Pub. L. 94–114, § 2][/us/pl/94/114/s2], Oct. 17, 1975, [89 Stat. 578][/us/stat/89/578]; [Pub. L. 97–434, § 1(b)][/us/pl/97/434/s1/b], Jan. 8, 1983, [96 Stat. 2280][/us/stat/96/2280].)
+([Pub. L. 94–114][/us/pl/94/114], § 2, Oct. 17, 1975, [89 Stat. 578][/us/stat/89/578]; [Pub. L. 97–434][/us/pl/97/434], § 1(b), Jan. 8, 1983, [96 Stat. 2280][/us/stat/96/2280].)
 
  __Amendments__ 
 
@@ -486,9 +486,9 @@
 
 [/us/usc/t25/s459/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs459%2Fa
 [/us/usc/t25/s459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs459
-[/us/pl/94/114/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F114%2Fs2
+[/us/pl/94/114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F114
 [/us/stat/89/578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F578
-[/us/pl/97/434/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F434%2Fs1%2Fb
+[/us/pl/97/434]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F434
 [/us/stat/96/2280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2280
 [/us/pl/97/434]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F434
 [/us/usc/t25/s459/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs459%2Fa

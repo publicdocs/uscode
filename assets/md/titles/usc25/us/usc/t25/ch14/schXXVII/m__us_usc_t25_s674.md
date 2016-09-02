@@ -17,7 +17,7 @@
 
     Notwithstanding any other provisions of existing laws, the tribal funds now on deposit or hereafter deposited in the United States Treasury to the credit of the Ute Mountain Tribe of the Ute Mountain Reservation, may be expended or advanced for such purposes and in a manner, including per capita payments, the purchase of land or any interests therein or improvements thereon and water rights, as may be designated by the Ute Mountain Tribal Council and approved by the Secretary of the Interior: Provided, That the purchase of taxable lands under this authority shall not operate to remove such lands from the tax rolls: Provided further, That neither the transfer to the tribe of tribal funds, nor the distribution thereof to individual members of the tribe, as provided herein, from those funds consisting of compensation for lands acquired by the United States Government, shall be subject to Federal tax: And provided further, That any funds advanced for loans by the tribe to individual Indians or associations of Indians shall be subject to regulations established for the making of loans from the revolving loan fund authorized by [section 470 of this title][/us/usc/t25/s470].
 
-([Aug. 12, 1953, ch. 406, § 1][/us/act/1953-08-12/ch406/s1], [67 Stat. 540][/us/stat/67/540].)
+([Aug. 12, 1953, ch. 406][/us/act/1953-08-12/ch406], § 1, [67 Stat. 540][/us/stat/67/540].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t25/s470]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs470
-[/us/act/1953-08-12/ch406/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-08-12%2Fch406%2Fs1
+[/us/act/1953-08-12/ch406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-08-12%2Fch406
 [/us/stat/67/540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F540
 
 

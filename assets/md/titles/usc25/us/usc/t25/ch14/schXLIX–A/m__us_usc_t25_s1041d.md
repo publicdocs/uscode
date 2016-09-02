@@ -23,7 +23,7 @@
 
         Notwithstanding subsection (a), the Tribe shall have a right to reorganize its tribal government pursuant to [section 503 of this title][/us/usc/t25/s503].
 
-([Pub. L. 106–568, title VII, § 706][/us/pl/106/568/s706], Dec. 27, 2000, [114 Stat. 2915][/us/stat/114/2915].)
+([Pub. L. 106–568, title VII][/us/pl/106/568/tVII], § 706, Dec. 27, 2000, [114 Stat. 2915][/us/stat/114/2915].)
 
 ----------
 
@@ -33,7 +33,7 @@
 ----------
 
 [/us/usc/t25/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs503
-[/us/pl/106/568/s706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F568%2Fs706
+[/us/pl/106/568/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F568%2FtVII
 [/us/stat/114/2915]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2915
 
 

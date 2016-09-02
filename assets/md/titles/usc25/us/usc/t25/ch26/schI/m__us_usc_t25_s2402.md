@@ -25,7 +25,7 @@
 
     (4) to  <sup>\[1\]</sup>  <sup><sup> 1 So in original. </sup></sup>  modify or supplement existing programs and authorities in the areas of education, family and social services, law enforcement and judicial services, and health services to further the purposes of this chapter.
 
-([Pub. L. 99–570, title IV, § 4203][/us/pl/99/570/s4203], Oct. 27, 1986, [100 Stat. 3207–138][/us/stat/100/3207-138].)
+([Pub. L. 99–570, title IV][/us/pl/99/570/tIV], § 4203, Oct. 27, 1986, [100 Stat. 3207–138][/us/stat/100/3207-138].)
 
 ----------
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/pl/99/570/s4203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs4203
+[/us/pl/99/570/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2FtIV
 [/us/stat/100/3207-138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3207-138
 
 

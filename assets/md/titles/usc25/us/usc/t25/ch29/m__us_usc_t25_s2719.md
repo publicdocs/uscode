@@ -73,7 +73,7 @@
 
         (2) The provisions of this subsection shall apply notwithstanding any other provision of law enacted before, on, or after October 17, 1988, unless such other provision of law specifically cites this subsection.
 
-([Pub. L. 100–497, § 20][/us/pl/100/497/s20], Oct. 17, 1988, [102 Stat. 2485][/us/stat/102/2485].)
+([Pub. L. 100–497][/us/pl/100/497], § 20, Oct. 17, 1988, [102 Stat. 2485][/us/stat/102/2485].)
 
  __References in Text__ 
 
@@ -87,7 +87,7 @@
 ----------
 
 [/us/usc/t25/s2710/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs2710%2Fd%2F3
-[/us/pl/100/497/s20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F497%2Fs20
+[/us/pl/100/497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F497
 [/us/stat/102/2485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2485
 [/us/pl/100/497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F497
 [/us/stat/102/2467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2467

@@ -17,7 +17,7 @@
 
     Prior to and concurrent with the making or guaranteeing of any loan under subchapters I and II of this chapter and with the making of a grant under subchapter IV of this chapter, the purpose of which is to fund the development of an economic enterprise, the Secretary shall insure that the loan or grant applicant shall be provided competent management and technical assistance for preparation of the application and/or administration of funds granted consistent with the nature of the enterprise proposed to be or in fact funded.
 
-([Pub. L. 93–262, title V, § 501][/us/pl/93/262/s501], Apr. 12, 1974, [88 Stat. 83][/us/stat/88/83]; [Pub. L. 98–449, § 12][/us/pl/98/449/s12], Oct. 4, 1984, [98 Stat. 1726][/us/stat/98/1726].)
+([Pub. L. 93–262, title V][/us/pl/93/262/tV], § 501, Apr. 12, 1974, [88 Stat. 83][/us/stat/88/83]; [Pub. L. 98–449][/us/pl/98/449], § 12, Oct. 4, 1984, [98 Stat. 1726][/us/stat/98/1726].)
 
  __Amendments__ 
 
@@ -30,9 +30,9 @@
 ----------
 ----------
 
-[/us/pl/93/262/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F262%2Fs501
+[/us/pl/93/262/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F262%2FtV
 [/us/stat/88/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F83
-[/us/pl/98/449/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F449%2Fs12
+[/us/pl/98/449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F449
 [/us/stat/98/1726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1726
 [/us/pl/98/449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F449
 

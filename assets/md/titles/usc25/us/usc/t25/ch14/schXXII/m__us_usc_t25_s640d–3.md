@@ -17,7 +17,7 @@
 
     If the negotiating teams fail to reach full agreement within the time period allowed in [section 640d–2(a) of this title][/us/usc/t25/s640d–2/a] or if one or both of the tribes are in default under the provisions of section 640d–1(b) or (d) of this title, the Mediator, within ninety days thereafter, shall prepare and submit to the District Court a report containing his recommendations for the settlement of the interests and rights set out in [section 640d(a) of this title][/us/usc/t25/s640d/a] which shall be most reasonable and equitable in light of the law and circumstances and consistent with the provisions of this subchapter. Following the District Court’s review of the report and recommendations (which are not binding thereon) and any further proceedings which the District Court may schedule, the District Court is authorized to make a final adjudication, including partition of the joint use area, and enter the judgments in the supplemental proceedings in the Healing case.
 
-([Pub. L. 93–531, § 4][/us/pl/93/531/s4], Dec. 22, 1974, [88 Stat. 1713][/us/stat/88/1713]; [Pub. L. 98–620, title IV, § 402(27)][/us/pl/98/620/s402/27], Nov. 8, 1984, [98 Stat. 3359][/us/stat/98/3359].)
+([Pub. L. 93–531][/us/pl/93/531], § 4, Dec. 22, 1974, [88 Stat. 1713][/us/stat/88/1713]; [Pub. L. 98–620, title IV][/us/pl/98/620/tIV], § 402(27), Nov. 8, 1984, [98 Stat. 3359][/us/stat/98/3359].)
 
  __Amendments__ 
 
@@ -36,9 +36,9 @@
 
 [/us/usc/t25/s640d–2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs640d%E2%80%932%2Fa
 [/us/usc/t25/s640d/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs640d%2Fa
-[/us/pl/93/531/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F531%2Fs4
+[/us/pl/93/531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F531
 [/us/stat/88/1713]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1713
-[/us/pl/98/620/s402/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620%2Fs402%2F27
+[/us/pl/98/620/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620%2FtIV
 [/us/stat/98/3359]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3359
 [/us/pl/98/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620
 [/us/pl/98/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620

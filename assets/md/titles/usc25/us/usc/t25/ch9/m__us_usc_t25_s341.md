@@ -17,7 +17,7 @@
 
     Nothing in this act shall be so construed as to affect the right and power of Congress to grant the right of way through any lands granted to an Indian, or a tribe of Indians, for railroads or other highways, or telegraph lines, for the public use, or to condemn such lands to public uses, upon making just compensation.
 
-([Feb. 8, 1887, ch. 119, § 10][/us/act/1887-02-08/ch119/s10], [24 Stat. 391][/us/stat/24/391].)
+([Feb. 8, 1887, ch. 119][/us/act/1887-02-08/ch119], § 10, [24 Stat. 391][/us/stat/24/391].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1887-02-08/ch119/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1887-02-08%2Fch119%2Fs10
+[/us/act/1887-02-08/ch119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1887-02-08%2Fch119
 [/us/stat/24/391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F24%2F391
 [/us/act/1887-02-08/ch119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1887-02-08%2Fch119
 [/us/stat/24/388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F24%2F388

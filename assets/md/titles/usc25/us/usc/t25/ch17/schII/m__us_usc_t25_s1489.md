@@ -17,7 +17,7 @@
 
     Any loan made by any national bank or Federal savings and loan association, or by any bank, trust company, building and loan association, or insurance company authorized to do business in the District of Columbia, at least 20 per centum of which is guaranteed hereunder, may be made without regard to the limitations and restrictions of any other Federal statute with respect to (a) ratio of amount of loan to the value of the property; (b) maturity of loans; (c) requirement of mortgage or other security; (d) priority of lien; or (e) percentage of assets which may be invested in real estate loans.
 
-([Pub. L. 93–262, title II, § 209][/us/pl/93/262/s209], Apr. 12, 1974, [88 Stat. 80][/us/stat/88/80].)
+([Pub. L. 93–262, title II][/us/pl/93/262/tII], § 209, Apr. 12, 1974, [88 Stat. 80][/us/stat/88/80].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/93/262/s209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F262%2Fs209
+[/us/pl/93/262/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F262%2FtII
 [/us/stat/88/80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F80
 
 

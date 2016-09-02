@@ -17,7 +17,7 @@
 
     The Secretary of the Interior is hereby authorized to receive and expend, for the purposes of this subchapter, properly authorized loans, grants, or allocations made to him for said purposes by Federal agencies.
 
-([Sept. 1, 1937, ch. 897, § 5][/us/act/1937-09-01/ch897/s5], [50 Stat. 900][/us/stat/50/900].)
+([Sept. 1, 1937, ch. 897][/us/act/1937-09-01/ch897], § 5, [50 Stat. 900][/us/stat/50/900].)
 
  __Codification__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1937-09-01/ch897/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-09-01%2Fch897%2Fs5
+[/us/act/1937-09-01/ch897]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-09-01%2Fch897
 [/us/stat/50/900]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F50%2F900
 [/us/usc/t48/s250d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs250d
 

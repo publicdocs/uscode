@@ -17,7 +17,7 @@
 
     The Secretary of the Interior shall take the necessary steps to provide for the distribution and use of the money appropriated to the Miami Indians of Indiana and Oklahoma in satisfaction of judgments awarded by the Indian Claims Commission in dockets numbered 67 and 124, 124–A, and 251 as hereinafter provided.
 
-([Pub. L. 89–659, § 1][/us/pl/89/659/s1], Oct. 14, 1966, [80 Stat. 909][/us/stat/80/909].)
+([Pub. L. 89–659][/us/pl/89/659], § 1, Oct. 14, 1966, [80 Stat. 909][/us/stat/80/909].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/89/659/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F659%2Fs1
+[/us/pl/89/659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F659
 [/us/stat/80/909]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F909
 
 

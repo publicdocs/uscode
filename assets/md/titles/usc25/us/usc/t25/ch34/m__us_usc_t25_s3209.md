@@ -65,7 +65,7 @@
 
         There are authorized to be appropriated to carry out the provisions of this section $3,000,000 for each of the fiscal years 1992, 1993, 1994, 1995, 1996, and 1997.
 
-([Pub. L. 101–630, title IV, § 410][/us/pl/101/630/s410], Nov. 28, 1990, [104 Stat. 4552][/us/stat/104/4552]; [Pub. L. 104–16, § 1][/us/pl/104/16/s1], June 21, 1995, [109 Stat. 190][/us/stat/109/190].)
+([Pub. L. 101–630, title IV][/us/pl/101/630/tIV], § 410, Nov. 28, 1990, [104 Stat. 4552][/us/stat/104/4552]; [Pub. L. 104–16][/us/pl/104/16], § 1, June 21, 1995, [109 Stat. 190][/us/stat/109/190].)
 
  __References in Text__ 
 
@@ -89,9 +89,9 @@
 ----------
 
 [/us/usc/t25/s450f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450f
-[/us/pl/101/630/s410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F630%2Fs410
+[/us/pl/101/630/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F630%2FtIV
 [/us/stat/104/4552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4552
-[/us/pl/104/16/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F16%2Fs1
+[/us/pl/104/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F16
 [/us/stat/109/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F190
 [/us/pl/101/630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F630
 [/us/stat/104/4544]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4544

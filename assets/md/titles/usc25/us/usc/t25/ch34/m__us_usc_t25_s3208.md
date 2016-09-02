@@ -65,7 +65,7 @@
 
         there  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be capitalized. </sup></sup>  is hereby authorized to be appropriated to carry out the provisions of this section $10,000,000 for each of the fiscal years 1992, 1993, 1994, 1995, 1996, and 1997.
 
-([Pub. L. 101–630, title IV, § 409][/us/pl/101/630/s409], Nov. 28, 1990, [104 Stat. 4551][/us/stat/104/4551]; [Pub. L. 104–16, § 1][/us/pl/104/16/s1], June 21, 1995, [109 Stat. 190][/us/stat/109/190].)
+([Pub. L. 101–630, title IV][/us/pl/101/630/tIV], § 409, Nov. 28, 1990, [104 Stat. 4551][/us/stat/104/4551]; [Pub. L. 104–16][/us/pl/104/16], § 1, June 21, 1995, [109 Stat. 190][/us/stat/109/190].)
 
  __Amendments__ 
 
@@ -78,9 +78,9 @@
 ----------
 ----------
 
-[/us/pl/101/630/s409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F630%2Fs409
+[/us/pl/101/630/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F630%2FtIV
 [/us/stat/104/4551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4551
-[/us/pl/104/16/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F16%2Fs1
+[/us/pl/104/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F16
 [/us/stat/109/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F190
 [/us/pl/104/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F16
 

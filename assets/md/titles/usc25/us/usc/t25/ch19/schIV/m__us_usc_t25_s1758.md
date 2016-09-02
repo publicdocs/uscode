@@ -27,7 +27,7 @@
 
         Notwithstanding any other provision of law, the Tribe and members of the Tribe shall be eligible for all Federal services and benefits furnished to federally recognized Indian tribes as of October 18, 1983.
 
-([Pub. L. 98–134, § 9][/us/pl/98/134/s9], Oct. 18, 1983, [97 Stat. 855][/us/stat/97/855].)
+([Pub. L. 98–134][/us/pl/98/134], § 9, Oct. 18, 1983, [97 Stat. 855][/us/stat/97/855].)
 
  __Codification__ 
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/98/134/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F134%2Fs9
+[/us/pl/98/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F134
 [/us/stat/97/855]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F855
 [/us/pl/98/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F134
 

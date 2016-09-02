@@ -27,11 +27,11 @@
 
     (5) The term “State” means the State of Nebraska.
 
-([Pub. L. 101–484, § 2][/us/pl/101/484/s2], Oct. 31, 1990, [104 Stat. 1167][/us/stat/104/1167].)
+([Pub. L. 101–484][/us/pl/101/484], § 2, Oct. 31, 1990, [104 Stat. 1167][/us/stat/104/1167].)
 
  __Short Title__ 
 
-[Pub. L. 101–484, § 1][/us/pl/101/484/s1], Oct. 31, 1990, [104 Stat. 1167][/us/stat/104/1167], provided that: 
+[Pub. L. 101–484][/us/pl/101/484], § 1, Oct. 31, 1990, [104 Stat. 1167][/us/stat/104/1167], provided that: 
 
 > “This Act \[enacting this subchapter\] may be cited as the ‘Ponca Restoration Act’.”
 
@@ -43,9 +43,9 @@
 ----------
 
 [/us/usc/t25/s983e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs983e
-[/us/pl/101/484/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F484%2Fs2
+[/us/pl/101/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F484
 [/us/stat/104/1167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1167
-[/us/pl/101/484/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F484%2Fs1
+[/us/pl/101/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F484
 [/us/stat/104/1167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1167
 
 

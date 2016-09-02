@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Section, [Pub. L. 94–437, title IV, § 404][/us/pl/94/437/s404], as added [Pub. L. 96–537, § 6][/us/pl/96/537/s6], Dec. 17, 1980, [94 Stat. 3176][/us/stat/94/3176], which related to grants to and contracts with tribal organizations, was transferred to [section 1644 of this title][/us/usc/t25/s1644].
+    Section, [Pub. L. 94–437, title IV][/us/pl/94/437/tIV], § 404, as added [Pub. L. 96–537][/us/pl/96/537], § 6, Dec. 17, 1980, [94 Stat. 3176][/us/stat/94/3176], which related to grants to and contracts with tribal organizations, was transferred to [section 1644 of this title][/us/usc/t25/s1644].
 
 ----------
 
@@ -26,8 +26,8 @@
 ----------
 ----------
 
-[/us/pl/94/437/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437%2Fs404
-[/us/pl/96/537/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F537%2Fs6
+[/us/pl/94/437/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437%2FtIV
+[/us/pl/96/537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F537
 [/us/stat/94/3176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3176
 [/us/usc/t25/s1644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1644
 

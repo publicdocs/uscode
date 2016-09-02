@@ -17,7 +17,7 @@
 
     The Secretary of the Interior is authorized in his discretion to restore to tribal ownership the undisposed of surplus lands of the Umatilla Indian Reservation, Oregon, heretofore opened to entry or other form of disposal under the public-land laws: Provided, That restoration shall be subject to any existing valid rights.
 
-([Aug. 10, 1939, ch. 662, § 1][/us/act/1939-08-10/ch662/s1], [53 Stat. 1351][/us/stat/53/1351].)
+([Aug. 10, 1939, ch. 662][/us/act/1939-08-10/ch662], § 1, [53 Stat. 1351][/us/stat/53/1351].)
 
  __Inheritance of Trust or Restricted Lands__ 
 
@@ -76,7 +76,7 @@
 ----------
 ----------
 
-[/us/act/1939-08-10/ch662/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-08-10%2Fch662%2Fs1
+[/us/act/1939-08-10/ch662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-08-10%2Fch662
 [/us/stat/53/1351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F1351
 [/us/pl/95/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F264
 [/us/stat/92/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F202

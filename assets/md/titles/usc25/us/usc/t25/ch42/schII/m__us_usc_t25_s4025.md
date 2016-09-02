@@ -33,7 +33,7 @@
 
         (5) such other purposes related to this subchapter that the Secretary deems appropriate.
 
-([Pub. L. 103–412, title II, § 205][/us/pl/103/412/s205], Oct. 25, 1994, [108 Stat. 4243][/us/stat/108/4243].)
+([Pub. L. 103–412, title II][/us/pl/103/412/tII], § 205, Oct. 25, 1994, [108 Stat. 4243][/us/stat/108/4243].)
 
 ----------
 
@@ -42,7 +42,7 @@
 ----------
 ----------
 
-[/us/pl/103/412/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F412%2Fs205
+[/us/pl/103/412/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F412%2FtII
 [/us/stat/108/4243]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4243
 
 

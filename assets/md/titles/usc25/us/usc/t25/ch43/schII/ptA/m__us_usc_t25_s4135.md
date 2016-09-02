@@ -47,13 +47,13 @@
 
         The provisions of paragraph (2) of subsection (a) regarding binding commitments for the remaining useful life of property shall not apply to a family or household member who subsequently takes ownership of a homeownership unit.
 
-([Pub. L. 104–330, title II, § 205][/us/pl/104/330/s205], Oct. 26, 1996, [110 Stat. 4033][/us/stat/110/4033]; [Pub. L. 105–276, title V, § 595(e)(8)][/us/pl/105/276/s595/e/8], Oct. 21, 1998, [112 Stat. 2657][/us/stat/112/2657]; [Pub. L. 110–411, title II, § 204][/us/pl/110/411/s204], Oct. 14, 2008, [122 Stat. 4326][/us/stat/122/4326].)
+([Pub. L. 104–330, title II][/us/pl/104/330/tII], § 205, Oct. 26, 1996, [110 Stat. 4033][/us/stat/110/4033]; [Pub. L. 105–276, title V][/us/pl/105/276/tV], § 595(e)(8), Oct. 21, 1998, [112 Stat. 2657][/us/stat/112/2657]; [Pub. L. 110–411, title II][/us/pl/110/411/tII], § 204, Oct. 14, 2008, [122 Stat. 4326][/us/stat/122/4326].)
 
  __References in Text__ 
 
     This chapter, referred to in subsecs. (a) and (b), was in the original “this Act”, meaning [Pub. L. 104–330][/us/pl/104/330], Oct. 26, 1996, [110 Stat. 4016][/us/stat/110/4016], known as the Native American Housing Assistance and Self-Determination Act of 1996. For complete classification of this Act to the Code, see Short Title note set out under [section 4101 of this title][/us/usc/t25/s4101] and Tables.
 
-    [Section 1437bb of title 42][/us/usc/t42/s1437bb], referred to in subsec. (a)(2), was repealed by [Pub. L. 104–330, title V, § 501(a)][/us/pl/104/330/s501/a], Oct. 26, 1996, [110 Stat. 4041][/us/stat/110/4041], effective Oct. 1, 1997.
+    [Section 1437bb of title 42][/us/usc/t42/s1437bb], referred to in subsec. (a)(2), was repealed by [Pub. L. 104–330, title V][/us/pl/104/330/tV], § 501(a), Oct. 26, 1996, [110 Stat. 4041][/us/stat/110/4041], effective Oct. 1, 1997.
 
     For the date of the effectiveness of this chapter, referred to in subsec. (a)(2), as Oct. 1, 1997, except as otherwise expressly provided, see [section 107 of Pub. L. 104–330][/us/pl/104/330/s107], set out as an Effective Date note under [section 4101 of this title][/us/usc/t25/s4101].
 
@@ -76,17 +76,17 @@
 
 [/us/usc/t42/s1437bb]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437bb
 [/us/usc/t25/s4131/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs4131%2Fb%2F2
-[/us/pl/104/330/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330%2Fs205
+[/us/pl/104/330/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330%2FtII
 [/us/stat/110/4033]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F4033
-[/us/pl/105/276/s595/e/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs595%2Fe%2F8
+[/us/pl/105/276/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2FtV
 [/us/stat/112/2657]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2657
-[/us/pl/110/411/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F411%2Fs204
+[/us/pl/110/411/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F411%2FtII
 [/us/stat/122/4326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4326
 [/us/pl/104/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330
 [/us/stat/110/4016]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F4016
 [/us/usc/t25/s4101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs4101
 [/us/usc/t42/s1437bb]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437bb
-[/us/pl/104/330/s501/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330%2Fs501%2Fa
+[/us/pl/104/330/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330%2FtV
 [/us/stat/110/4041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F4041
 [/us/pl/104/330/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330%2Fs107
 [/us/usc/t25/s4101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs4101

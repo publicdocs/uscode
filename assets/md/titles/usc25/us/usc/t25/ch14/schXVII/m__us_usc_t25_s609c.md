@@ -43,7 +43,7 @@
 
         The Secretary shall provide a monthly report to each tribal governing body which has approved one or more plans pursuant to subsection (c). Each such report shall include the amount and purpose of every disbursement made during each month under such plans.
 
-([Pub. L. 95–433, § 1][/us/pl/95/433/s1], Oct. 10, 1978, [92 Stat. 1047][/us/stat/92/1047]; [Pub. L. 103–435, § 17(b)][/us/pl/103/435/s17/b], Nov. 2, 1994, [108 Stat. 4573][/us/stat/108/4573].)
+([Pub. L. 95–433][/us/pl/95/433], § 1, Oct. 10, 1978, [92 Stat. 1047][/us/stat/92/1047]; [Pub. L. 103–435][/us/pl/103/435], § 17(b), Nov. 2, 1994, [108 Stat. 4573][/us/stat/108/4573].)
 
  __References in Text__ 
 
@@ -72,9 +72,9 @@
 [/us/usc/t25/s1401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1401
 [/us/stat/82/47]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F47
 [/us/usc/t25/s609c–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs609c%E2%80%931
-[/us/pl/95/433/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F433%2Fs1
+[/us/pl/95/433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F433
 [/us/stat/92/1047]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1047
-[/us/pl/103/435/s17/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F435%2Fs17%2Fb
+[/us/pl/103/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F435
 [/us/stat/108/4573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4573
 [/us/pl/93/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F134
 [/us/stat/87/466]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F466

@@ -37,7 +37,7 @@
 
         Not later than one hundred and twenty days after the tribe adopts a constitution and bylaws, the Interim Council shall conduct an election by secret ballot for the purpose of electing the individuals who will serve as tribal officials as provided in the tribal constitution and bylaws. For the purpose of this election and notwithstanding any provision in the tribal constitution and bylaws to the contrary, absentee balloting shall be permitted.
 
-([Pub. L. 95–195, § 6][/us/pl/95/195/s6], Nov. 18, 1977, [91 Stat. 1417][/us/stat/91/1417].)
+([Pub. L. 95–195][/us/pl/95/195], § 6, Nov. 18, 1977, [91 Stat. 1417][/us/stat/91/1417].)
 
 ----------
 
@@ -49,7 +49,7 @@
 [/us/usc/t25/s476]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs476
 [/us/usc/t25/s711b/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs711b%2Fc%2F2
 [/us/usc/t25/s711b/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs711b%2Fd
-[/us/pl/95/195/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F195%2Fs6
+[/us/pl/95/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F195
 [/us/stat/91/1417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1417
 
 

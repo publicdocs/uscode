@@ -37,7 +37,7 @@
 
         In hearings held pursuant to subsection (a), subpoenas may be issued for the attendance and testimony of witnesses and the production of relevant papers, books, and documents. Witnesses so summoned shall be paid the same fees and mileage that are paid to witnesses in the courts of the United States.
 
-([Pub. L. 101–601, § 9][/us/pl/101/601/s9], Nov. 16, 1990, [104 Stat. 3057][/us/stat/104/3057].)
+([Pub. L. 101–601][/us/pl/101/601], § 9, Nov. 16, 1990, [104 Stat. 3057][/us/stat/104/3057].)
 
  __References in Text__ 
 
@@ -50,7 +50,7 @@
 ----------
 ----------
 
-[/us/pl/101/601/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F601%2Fs9
+[/us/pl/101/601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F601
 [/us/stat/104/3057]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3057
 [/us/pl/101/601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F601
 [/us/stat/104/3048]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3048

@@ -17,7 +17,7 @@
 
     All property conveyed to tribes pursuant to this subchapter and all the receipts therefrom referred to in [section 459d of this title][/us/usc/t25/s459d], shall be exempt from Federal, State, and local taxation so long as such property is held in trust by the United States. Any distribution of such receipts to tribal members shall neither be considered as income or resources of such members for purposes of any such taxation nor as income, resources, or otherwise utilized as the basis for denying or reducing the financial assistance or other benefits to which such member or his household would otherwise be entitled to under the Social Security Act \[[42 U.S.C. 301][/us/usc/t42/s301] et seq.\] or any other Federal or federally assisted program.
 
-([Pub. L. 94–114, § 6][/us/pl/94/114/s6], Oct. 17, 1975, [89 Stat. 579][/us/stat/89/579].)
+([Pub. L. 94–114][/us/pl/94/114], § 6, Oct. 17, 1975, [89 Stat. 579][/us/stat/89/579].)
 
  __References in Text__ 
 
@@ -32,7 +32,7 @@
 
 [/us/usc/t25/s459d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs459d
 [/us/usc/t42/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs301
-[/us/pl/94/114/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F114%2Fs6
+[/us/pl/94/114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F114
 [/us/stat/89/579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F579
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620

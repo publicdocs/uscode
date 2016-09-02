@@ -41,7 +41,7 @@
 
         Indian tribes which adopt the regulations promulgated by the Secretary pursuant to subsection (a) shall have concurrent civil jurisdiction to enforce the provisions of this section and the regulation promulgated thereunder. The Bureau of Indian Affairs and other agencies of the Federal Government shall, at the request of the tribe, defer to tribal prosecutions of forest trespass cases. Tribal court judgments regarding forest trespass shall be entitled to full faith and credit in Federal and State courts to the same extent as a Federal court judgment obtained under this section.
 
-([Pub. L. 101–630, title III, § 307][/us/pl/101/630/s307], Nov. 28, 1990, [104 Stat. 4537][/us/stat/104/4537].)
+([Pub. L. 101–630, title III][/us/pl/101/630/tIII], § 307, Nov. 28, 1990, [104 Stat. 4537][/us/stat/104/4537].)
 
 ----------
 
@@ -50,7 +50,7 @@
 ----------
 ----------
 
-[/us/pl/101/630/s307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F630%2Fs307
+[/us/pl/101/630/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F630%2FtIII
 [/us/stat/104/4537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4537
 
 

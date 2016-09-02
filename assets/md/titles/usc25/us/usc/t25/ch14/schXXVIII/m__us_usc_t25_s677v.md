@@ -17,7 +17,7 @@
 
     Upon removal of Federal restrictions on the property of each individual mixed-blood member of the tribe, the Secretary shall publish in the Federal Register a proclamation declaring that the Federal trust relationship to such individual is terminated. Thereafter, such individual shall not be entitled to any of the services performed for Indians because of his status as an Indian. All statutes of the United States which affect Indians because of their status as Indians shall no longer be applicable to such member over which supervision has been terminated, and the laws of the several States shall apply to such member in the same manner as they apply to other citizens within their jurisdiction.
 
-([Aug. 27, 1954, ch. 1009, § 23][/us/act/1954-08-27/ch1009/s23], [68 Stat. 877][/us/stat/68/877].)
+([Aug. 27, 1954, ch. 1009][/us/act/1954-08-27/ch1009], § 23, [68 Stat. 877][/us/stat/68/877].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1954-08-27/ch1009/s23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-27%2Fch1009%2Fs23
+[/us/act/1954-08-27/ch1009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-27%2Fch1009
 [/us/stat/68/877]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F877
 
 

@@ -19,7 +19,7 @@
 
     (b) All funds held in trust by the United States and carried in principal accounts on the books of the United States Treasury to the credit of individual Indians shall be invested by the Secretary of the Treasury, at the request of the Secretary of the Interior, in public debt securities with maturities suitable to the needs of the fund involved, as determined by the Secretary of the Interior, and bearing interest at rates determined by the Secretary of the Treasury, taking into consideration current market yields on outstanding marketable obligations of the United States of comparable securities.
 
-([Feb. 12, 1929, ch. 178, § 1][/us/act/1929-02-12/ch178/s1], [45 Stat. 1164][/us/stat/45/1164]; [June 13, 1930, ch. 483][/us/act/1930-06-13/ch483], [46 Stat. 584][/us/stat/46/584]; [Pub. L. 98–451][/us/pl/98/451], Oct. 4, 1984, [98 Stat. 1729][/us/stat/98/1729]; [Pub. L. 103–412, title I, § 103(a)][/us/pl/103/412/s103/a], Oct. 25, 1994, [108 Stat. 4241][/us/stat/108/4241].)
+([Feb. 12, 1929, ch. 178][/us/act/1929-02-12/ch178], § 1, [45 Stat. 1164][/us/stat/45/1164]; [June 13, 1930, ch. 483][/us/act/1930-06-13/ch483], [46 Stat. 584][/us/stat/46/584]; [Pub. L. 98–451][/us/pl/98/451], Oct. 4, 1984, [98 Stat. 1729][/us/stat/98/1729]; [Pub. L. 103–412, title I][/us/pl/103/412/tI], § 103(a), Oct. 25, 1994, [108 Stat. 4241][/us/stat/108/4241].)
 
  __Amendments__ 
 
@@ -31,7 +31,7 @@
 
  __Effective Date of 1994 Amendment__ 
 
-[Pub. L. 103–412, title I, § 103(d)][/us/pl/103/412/s103/d], Oct. 25, 1994, [108 Stat. 4241][/us/stat/108/4241], provided that: 
+[Pub. L. 103–412, title I][/us/pl/103/412/tI], § 103(d), Oct. 25, 1994, [108 Stat. 4241][/us/stat/108/4241], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply to interest earned on amounts deposited or invested on or after the date of the enactment of this Act \[Oct. 25, 1994\].”
 
@@ -46,17 +46,17 @@
 ----------
 ----------
 
-[/us/act/1929-02-12/ch178/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1929-02-12%2Fch178%2Fs1
+[/us/act/1929-02-12/ch178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1929-02-12%2Fch178
 [/us/stat/45/1164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F45%2F1164
 [/us/act/1930-06-13/ch483]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-13%2Fch483
 [/us/stat/46/584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F584
 [/us/pl/98/451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F451
 [/us/stat/98/1729]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1729
-[/us/pl/103/412/s103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F412%2Fs103%2Fa
+[/us/pl/103/412/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F412%2FtI
 [/us/stat/108/4241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4241
 [/us/pl/103/412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F412
 [/us/pl/98/451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F451
-[/us/pl/103/412/s103/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F412%2Fs103%2Fd
+[/us/pl/103/412/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F412%2FtI
 [/us/stat/108/4241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4241
 [/us/stat/64/1280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1280
 

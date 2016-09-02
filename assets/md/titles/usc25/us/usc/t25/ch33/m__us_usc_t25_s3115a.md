@@ -145,11 +145,11 @@
 
         Not later than 4 years after July 22, 2004, the Secretary shall submit to Congress a report that describes the Indian tribal requests received and agreements or contracts that have been entered into under this section.
 
-([Pub. L. 108–278, § 2][/us/pl/108/278/s2], July 22, 2004, [118 Stat. 868][/us/stat/118/868].)
+([Pub. L. 108–278][/us/pl/108/278], § 2, July 22, 2004, [118 Stat. 868][/us/stat/118/868].)
 
  __References in Text__ 
 
-    Section 347 of the Department of the Interior and Related Agencies Appropriations Act, 1999, referred to in subsecs. (b)(1) and (f)(1), was section § 101(e) \[title III, § 347\] of [Pub. L. 105–277, div. A][/us/pl/105/277], as amended, which was set out as a note under [section 2104 of Title 16][/us/usc/t16/s2104], Conservation, prior to repeal by [Pub. L. 113–79, title VIII, § 8205(b)][/us/pl/113/79/s8205/b], Feb. 7, 2014, [128 Stat. 921][/us/stat/128/921]. Provisions similar to § 101(e) \[title III, § 347\] of [Pub. L. 105–277, div. A][/us/pl/105/277], as amended, were enacted by [Pub. L. 108–148, title VI, § 604][/us/pl/108/148/s604], as added [Pub. L. 113–79, title VIII, § 8205(a)][/us/pl/113/79/s8205/a], Feb. 7, 2014, [128 Stat. 918][/us/stat/128/918] and are classified to [section 6591c of Title 16][/us/usc/t16/s6591c], Conservation.
+    Section 347 of the Department of the Interior and Related Agencies Appropriations Act, 1999, referred to in subsecs. (b)(1) and (f)(1), was section § 101(e) \[title III, § 347\] of [Pub. L. 105–277, div. A][/us/pl/105/277/dA], as amended, which was set out as a note under [section 2104 of Title 16][/us/usc/t16/s2104], Conservation, prior to repeal by [Pub. L. 113–79, title VIII][/us/pl/113/79/tVIII], § 8205(b), Feb. 7, 2014, [128 Stat. 921][/us/stat/128/921]. Provisions similar to § 101(e) \[title III, § 347\] of [Pub. L. 105–277, div. A][/us/pl/105/277/dA], as amended, were enacted by [Pub. L. 108–148, title VI][/us/pl/108/148/tVI], § 604, as added [Pub. L. 113–79, title VIII][/us/pl/113/79/tVIII], § 8205(a), Feb. 7, 2014, [128 Stat. 918][/us/stat/128/918] and are classified to [section 6591c of Title 16][/us/usc/t16/s6591c], Conservation.
 
     This section, referred to in subsecs. (f) and (g), was in the original “this Act”, meaning [Pub. L. 108–278][/us/pl/108/278], July 22, 2004, [118 Stat. 868][/us/stat/118/868], which enacted this section and provisions set out as a note under [section 3101 of this title][/us/usc/t25/s3101].
 
@@ -174,15 +174,15 @@
 [/us/usc/t16/s2104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs2104
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/stat/117/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F275
-[/us/pl/108/278/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F278%2Fs2
+[/us/pl/108/278]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F278
 [/us/stat/118/868]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F868
-[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/usc/t16/s2104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs2104
-[/us/pl/113/79/s8205/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs8205%2Fb
+[/us/pl/113/79/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtVIII
 [/us/stat/128/921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F921
-[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
-[/us/pl/108/148/s604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F148%2Fs604
-[/us/pl/113/79/s8205/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs8205%2Fa
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
+[/us/pl/108/148/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F148%2FtVI
+[/us/pl/113/79/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtVIII
 [/us/stat/128/918]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F918
 [/us/usc/t16/s6591c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs6591c
 [/us/pl/108/278]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F278

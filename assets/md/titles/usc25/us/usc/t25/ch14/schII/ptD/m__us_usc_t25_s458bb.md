@@ -43,11 +43,11 @@
 
         (2) internal tribal government planning and organizational preparation.
 
-([Pub. L. 93–638, title IV, § 402][/us/pl/93/638/s402], as added [Pub. L. 103–413, title II, § 204][/us/pl/103/413/s204], Oct. 25, 1994, [108 Stat. 4272][/us/stat/108/4272]; amended [Pub. L. 104–208, div. A, title I, § 101(d)][/us/pl/104/208/s101/d] \[title I, § 117\], Sept. 30, 1996, [110 Stat. 3009–181][/us/stat/110/3009-181], 3009–201.)
+([Pub. L. 93–638, title IV][/us/pl/93/638/tIV], § 402, as added [Pub. L. 103–413, title II][/us/pl/103/413/tII], § 204, Oct. 25, 1994, [108 Stat. 4272][/us/stat/108/4272]; amended [Pub. L. 104–208, div. A, title I][/us/pl/104/208/dA/tI], § 101(d) \[title I, § 117\], Sept. 30, 1996, [110 Stat. 3009–181][/us/stat/110/3009-181], 3009–201.)
 
  __References in Text__ 
 
-    Title III, referred to in subsec. (a), means title III of [Pub. L. 93–638][/us/pl/93/638], as added by [Pub. L. 100–472, title II, § 209][/us/pl/100/472/s209], Oct. 5, 1988, [102 Stat. 2296][/us/stat/102/2296], and amended, which was set out as a note under [section 450f of this title][/us/usc/t25/s450f] prior to repeal by [Pub. L. 106–260, § 10][/us/pl/106/260/s10], Aug. 18, 2000, [114 Stat. 734][/us/stat/114/734].
+    Title III, referred to in subsec. (a), means title III of [Pub. L. 93–638][/us/pl/93/638], as added by [Pub. L. 100–472, title II][/us/pl/100/472/tII], § 209, Oct. 5, 1988, [102 Stat. 2296][/us/stat/102/2296], and amended, which was set out as a note under [section 450f of this title][/us/usc/t25/s450f] prior to repeal by [Pub. L. 106–260][/us/pl/106/260], § 10, Aug. 18, 2000, [114 Stat. 734][/us/stat/114/734].
 
  __Amendments__ 
 
@@ -60,16 +60,16 @@
 ----------
 ----------
 
-[/us/pl/93/638/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638%2Fs402
-[/us/pl/103/413/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F413%2Fs204
+[/us/pl/93/638/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638%2FtIV
+[/us/pl/103/413/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F413%2FtII
 [/us/stat/108/4272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4272
-[/us/pl/104/208/s101/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Fd
+[/us/pl/104/208/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtI
 [/us/stat/110/3009-181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-181
 [/us/pl/93/638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638
-[/us/pl/100/472/s209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F472%2Fs209
+[/us/pl/100/472/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F472%2FtII
 [/us/stat/102/2296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2296
 [/us/usc/t25/s450f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450f
-[/us/pl/106/260/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F260%2Fs10
+[/us/pl/106/260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F260
 [/us/stat/114/734]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F734
 [/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
 

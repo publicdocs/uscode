@@ -33,7 +33,7 @@
 
     (5) limit the application of any State or Federal law pertaining to theft or stolen property.
 
-([Pub. L. 101–601, § 11][/us/pl/101/601/s11], Nov. 16, 1990, [104 Stat. 3057][/us/stat/104/3057].)
+([Pub. L. 101–601][/us/pl/101/601], § 11, Nov. 16, 1990, [104 Stat. 3057][/us/stat/104/3057].)
 
  __References in Text__ 
 
@@ -46,7 +46,7 @@
 ----------
 ----------
 
-[/us/pl/101/601/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F601%2Fs11
+[/us/pl/101/601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F601
 [/us/stat/104/3057]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3057
 [/us/pl/101/601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F601
 [/us/stat/104/3048]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3048

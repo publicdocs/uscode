@@ -55,7 +55,7 @@
 
     “Metalliferous” defined—Wherever the term “metalliferous” is used in this section it shall be defined and construed by the Secretary of the Interior to include magnesite, gypsum, limestone, and asbestos.
 
-([June 30, 1919, ch. 4, § 26][/us/act/1919-06-30/ch4/s26], [41 Stat. 31][/us/stat/41/31]; [Mar. 3, 1921, ch. 119][/us/act/1921-03-03/ch119], [41 Stat. 1231][/us/stat/41/1231]; [Dec. 16, 1926, ch. 12][/us/act/1926-12-16/ch12], [44 Stat. 922][/us/stat/44/922]; [Pub. L. 94–550, § 10][/us/pl/94/550/s10], Oct. 18, 1976, [90 Stat. 2536][/us/stat/90/2536].)
+([June 30, 1919, ch. 4][/us/act/1919-06-30/ch4], § 26, [41 Stat. 31][/us/stat/41/31]; [Mar. 3, 1921, ch. 119][/us/act/1921-03-03/ch119], [41 Stat. 1231][/us/stat/41/1231]; [Dec. 16, 1926, ch. 12][/us/act/1926-12-16/ch12], [44 Stat. 922][/us/stat/44/922]; [Pub. L. 94–550][/us/pl/94/550], § 10, Oct. 18, 1976, [90 Stat. 2536][/us/stat/90/2536].)
 
  __References in Text__ 
 
@@ -83,13 +83,13 @@
 ----------
 
 [/us/usc/t28/s1746]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1746
-[/us/act/1919-06-30/ch4/s26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1919-06-30%2Fch4%2Fs26
+[/us/act/1919-06-30/ch4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1919-06-30%2Fch4
 [/us/stat/41/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F31
 [/us/act/1921-03-03/ch119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1921-03-03%2Fch119
 [/us/stat/41/1231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F1231
 [/us/act/1926-12-16/ch12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1926-12-16%2Fch12
 [/us/stat/44/922]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F922
-[/us/pl/94/550/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F550%2Fs10
+[/us/pl/94/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F550
 [/us/stat/90/2536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2536
 [/us/pl/94/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F550
 [/us/usc/t28/s1746]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1746

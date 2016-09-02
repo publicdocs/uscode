@@ -27,7 +27,7 @@
 
         (3) the fair market value of the habitations and improvements owned by the heads of households identified by the Commissioner is  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “as”. </sup></sup>  being among the persons named in clause (1) of this subsection.
 
-([Pub. L. 93–531, § 13][/us/pl/93/531/s13], Dec. 22, 1974, [88 Stat. 1717][/us/stat/88/1717]; [Pub. L. 96–305, § 6][/us/pl/96/305/s6], July 8, 1980, [94 Stat. 932][/us/stat/94/932]; [Pub. L. 100–666, § 4(d)][/us/pl/100/666/s4/d], Nov. 16, 1988, [102 Stat. 3931][/us/stat/102/3931]; [Pub. L. 101–121, title I, § 120][/us/pl/101/121/s120], Oct. 23, 1989, [103 Stat. 722][/us/stat/103/722].)
+([Pub. L. 93–531][/us/pl/93/531], § 13, Dec. 22, 1974, [88 Stat. 1717][/us/stat/88/1717]; [Pub. L. 96–305][/us/pl/96/305], § 6, July 8, 1980, [94 Stat. 932][/us/stat/94/932]; [Pub. L. 100–666][/us/pl/100/666], § 4(d), Nov. 16, 1988, [102 Stat. 3931][/us/stat/102/3931]; [Pub. L. 101–121, title I][/us/pl/101/121/tI], § 120, Oct. 23, 1989, [103 Stat. 722][/us/stat/103/722].)
 
  __Amendments__ 
 
@@ -44,13 +44,13 @@
 ----------
 ----------
 
-[/us/pl/93/531/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F531%2Fs13
+[/us/pl/93/531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F531
 [/us/stat/88/1717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1717
-[/us/pl/96/305/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F305%2Fs6
+[/us/pl/96/305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F305
 [/us/stat/94/932]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F932
-[/us/pl/100/666/s4/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F666%2Fs4%2Fd
+[/us/pl/100/666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F666
 [/us/stat/102/3931]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3931
-[/us/pl/101/121/s120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F121%2Fs120
+[/us/pl/101/121/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F121%2FtI
 [/us/stat/103/722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F722
 [/us/pl/101/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F121
 [/us/usc/t25/s640d–30/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs640d%E2%80%9330%2Fd

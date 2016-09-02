@@ -23,7 +23,7 @@
 
         [Section 7 of the Act of August 15, 1953][/us/act/1953-08-15/s7] ([67 Stat. 588][/us/stat/67/588]), is hereby repealed, but such repeal shall not affect any cession of jurisdiction made pursuant to such section prior to its repeal.
 
-([Pub. L. 90–284, title IV, § 403][/us/pl/90/284/s403], Apr. 11, 1968, [82 Stat. 79][/us/stat/82/79].)
+([Pub. L. 90–284, title IV][/us/pl/90/284/tIV], § 403, Apr. 11, 1968, [82 Stat. 79][/us/stat/82/79].)
 
  __References in Text__ 
 
@@ -50,7 +50,7 @@
 [/us/stat/67/588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F588
 [/us/act/1953-08-15/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-08-15%2Fs7
 [/us/stat/67/588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F588
-[/us/pl/90/284/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F284%2Fs403
+[/us/pl/90/284/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F284%2FtIV
 [/us/stat/82/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F79
 [/us/act/1953-08-15/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-08-15%2Fs7
 [/us/act/1953-08-15/ch505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-08-15%2Fch505

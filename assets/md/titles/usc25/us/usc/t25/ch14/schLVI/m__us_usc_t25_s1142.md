@@ -17,7 +17,7 @@
 
     The Secretary of the Interior shall prepare rolls of all persons born on or prior to and living on September 27, 1967 (a) whose names appear on the membership roll of the Oneida Tribe of Indians of Wisconsin; or (b) whose names appear on the membership roll of the Stockbridge-Munsee Indian Community of Wisconsin; or (c) who are Brotherton Indians of Wisconsin of at least one-fourth degree Emigrant New York Indian blood and not members of either of the organized groups mentioned in (a) or (b).
 
-([Pub. L. 90–93, § 2][/us/pl/90/93/s2], Sept. 27, 1967, [81 Stat. 229][/us/stat/81/229].)
+([Pub. L. 90–93][/us/pl/90/93], § 2, Sept. 27, 1967, [81 Stat. 229][/us/stat/81/229].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/90/93/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F93%2Fs2
+[/us/pl/90/93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F93
 [/us/stat/81/229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F229
 
 

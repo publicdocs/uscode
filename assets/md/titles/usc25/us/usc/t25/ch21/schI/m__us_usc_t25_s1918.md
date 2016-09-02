@@ -43,7 +43,7 @@
 
         Assumption of jurisdiction under this section shall not affect any action or proceeding over which a court has already assumed jurisdiction, except as may be provided pursuant to any agreement under [section 1919 of this title][/us/usc/t25/s1919].
 
-([Pub. L. 95–608, title I, § 108][/us/pl/95/608/s108], Nov. 8, 1978, [92 Stat. 3074][/us/stat/92/3074].)
+([Pub. L. 95–608, title I][/us/pl/95/608/tI], § 108, Nov. 8, 1978, [92 Stat. 3074][/us/stat/92/3074].)
 
  __References in Text__ 
 
@@ -62,7 +62,7 @@
 [/us/usc/t25/s1911/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1911%2Fb
 [/us/usc/t25/s1911/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1911%2Fa
 [/us/usc/t25/s1919]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1919
-[/us/pl/95/608/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F608%2Fs108
+[/us/pl/95/608/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F608%2FtI
 [/us/stat/92/3074]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3074
 [/us/act/1953-08-15/ch505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-08-15%2Fch505
 [/us/stat/67/588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F588

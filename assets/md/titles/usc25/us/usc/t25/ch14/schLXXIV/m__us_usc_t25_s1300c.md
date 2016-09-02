@@ -17,7 +17,7 @@
 
     The funds appropriated by the Act of July 22, 1969 ([83 Stat. 49][/us/stat/83/49]), to pay a judgment to the Yankton Sioux Tribe in Indian Claims Commission docket numbered 332–A, together with the interest thereon, after payment of attorney fees and litigation expenses, and such other expenses as may be necessary in effecting the provisions of this subchapter, shall be distributed as provided herein.
 
-([Pub. L. 92–468, § 1][/us/pl/92/468/s1], Oct. 6, 1972, [86 Stat. 782][/us/stat/86/782].)
+([Pub. L. 92–468][/us/pl/92/468], § 1, Oct. 6, 1972, [86 Stat. 782][/us/stat/86/782].)
 
  __References in Text__ 
 
@@ -35,7 +35,7 @@
 ----------
 
 [/us/stat/83/49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F49
-[/us/pl/92/468/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F468%2Fs1
+[/us/pl/92/468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F468
 [/us/stat/86/782]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F782
 [/us/pl/91/47]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F47
 [/us/stat/83/49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F49

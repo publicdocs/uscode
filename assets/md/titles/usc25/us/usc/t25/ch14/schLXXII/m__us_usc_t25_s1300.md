@@ -17,7 +17,7 @@
 
     The funds appropriated by the Act of July 22, 1969 ([83 Stat. 49][/us/stat/83/49], 62), to pay a judgment to the Yavapai Indians in Indian Claims Commission dockets numbered 22–E and 22–F, together with any interest thereon, after payment of attorney fees and litigation expenses and the costs of carrying out the provisions of this subchapter, shall be distributed as provided in such sections.
 
-([Pub. L. 92–461, § 1][/us/pl/92/461/s1], Oct. 6, 1972, [86 Stat. 768][/us/stat/86/768].)
+([Pub. L. 92–461][/us/pl/92/461], § 1, Oct. 6, 1972, [86 Stat. 768][/us/stat/86/768].)
 
  __References in Text__ 
 
@@ -33,7 +33,7 @@
 ----------
 
 [/us/stat/83/49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F49
-[/us/pl/92/461/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F461%2Fs1
+[/us/pl/92/461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F461
 [/us/stat/86/768]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F768
 [/us/pl/91/47]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F47
 [/us/stat/83/49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F49

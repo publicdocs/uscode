@@ -43,7 +43,7 @@
 
         (2) shall prepare and submit a report to Congress biennially on the use of funds under this section and on the progress made toward the prevention, control, and elimination of communicable and infectious diseases among Indians and urban Indians.
 
-([Pub. L. 94–437, title II, § 218][/us/pl/94/437/s218], as added [Pub. L. 102–573, title II, § 214][/us/pl/102/573/s214], Oct. 29, 1992, [106 Stat. 4556][/us/stat/106/4556]; amended [Pub. L. 103–437, § 10(e)(1)][/us/pl/103/437/s10/e/1], (2)(B), Nov. 2, 1994, [108 Stat. 4589][/us/stat/108/4589]; [Pub. L. 111–148, title X, § 10221(a)][/us/pl/111/148/s10221/a], Mar. 23, 2010, [124 Stat. 935][/us/stat/124/935].)
+([Pub. L. 94–437, title II][/us/pl/94/437/tII], § 218, as added [Pub. L. 102–573, title II][/us/pl/102/573/tII], § 214, Oct. 29, 1992, [106 Stat. 4556][/us/stat/106/4556]; amended [Pub. L. 103–437][/us/pl/103/437], § 10(e)(1), (2)(B), Nov. 2, 1994, [108 Stat. 4589][/us/stat/108/4589]; [Pub. L. 111–148, title X][/us/pl/111/148/tX], § 10221(a), Mar. 23, 2010, [124 Stat. 935][/us/stat/124/935].)
 
  __Codification__ 
 
@@ -62,12 +62,12 @@
 ----------
 ----------
 
-[/us/pl/94/437/s218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437%2Fs218
-[/us/pl/102/573/s214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2Fs214
+[/us/pl/94/437/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437%2FtII
+[/us/pl/102/573/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2FtII
 [/us/stat/106/4556]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4556
-[/us/pl/103/437/s10/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437%2Fs10%2Fe%2F1
+[/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
 [/us/stat/108/4589]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4589
-[/us/pl/111/148/s10221/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10221%2Fa
+[/us/pl/111/148/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtX
 [/us/stat/124/935]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F935
 [/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 [/us/pl/111/148/s10221/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10221%2Fa

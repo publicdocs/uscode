@@ -65,7 +65,7 @@
 
         The Commissioner is authorized to grant not to exceed ten additional life estate leases to Hopi heads of household residing on Navajo-partitioned lands under such terms of this section as may be appropriate.
 
-([Pub. L. 93–531, § 30][/us/pl/93/531/s30], as added [Pub. L. 96–305, § 11][/us/pl/96/305/s11], July 8, 1980, [94 Stat. 934][/us/stat/94/934]; amended [Pub. L. 100–666, § 4(b)][/us/pl/100/666/s4/b], Nov. 16, 1988, [102 Stat. 3930][/us/stat/102/3930].)
+([Pub. L. 93–531][/us/pl/93/531], § 30, as added [Pub. L. 96–305][/us/pl/96/305], § 11, July 8, 1980, [94 Stat. 934][/us/stat/94/934]; amended [Pub. L. 100–666][/us/pl/100/666], § 4(b), Nov. 16, 1988, [102 Stat. 3930][/us/stat/102/3930].)
 
  __Codification__ 
 
@@ -86,10 +86,10 @@
 [/us/usc/t25/s640d–14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs640d%E2%80%9314
 [/us/usc/t25/s640d–14/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs640d%E2%80%9314%2Fb
 [/us/usc/t25/s640d–14/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs640d%E2%80%9314%2Fa
-[/us/pl/93/531/s30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F531%2Fs30
-[/us/pl/96/305/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F305%2Fs11
+[/us/pl/93/531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F531
+[/us/pl/96/305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F305
 [/us/stat/94/934]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F934
-[/us/pl/100/666/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F666%2Fs4%2Fb
+[/us/pl/100/666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F666
 [/us/stat/102/3930]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3930
 [/us/usc/t25/s640d–4/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs640d%E2%80%934%2Fa%2F4
 [/us/pl/100/666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F666

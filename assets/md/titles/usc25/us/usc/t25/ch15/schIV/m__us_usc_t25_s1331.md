@@ -17,7 +17,7 @@
 
     Notwithstanding any other provision of law, if any application made by an Indian, Indian tribe, Indian council, or any band or group of Indians under any law requiring the approval of the Secretary of the Interior or the Commissioner of Indian Affairs of contracts or agreements relating to the employment of legal counsel (including the choice of counsel and the fixing of fees) by any such Indians, tribe, council, band, or group is neither granted nor denied within ninety days following the making of such application, such approval shall be deemed to have been granted.
 
-([Pub. L. 90–284, title VI, § 601][/us/pl/90/284/s601], Apr. 11, 1968, [82 Stat. 80][/us/stat/82/80].)
+([Pub. L. 90–284, title VI][/us/pl/90/284/tVI], § 601, Apr. 11, 1968, [82 Stat. 80][/us/stat/82/80].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/90/284/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F284%2Fs601
+[/us/pl/90/284/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F284%2FtVI
 [/us/stat/82/80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F80
 
 

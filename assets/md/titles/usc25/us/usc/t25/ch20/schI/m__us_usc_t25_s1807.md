@@ -31,23 +31,23 @@
 
         In making grants pursuant to this section, the Secretary shall, to the extent practicable, consult with national Indian organizations and with tribal governments chartering the institutions being considered.
 
-([Pub. L. 95–471, title I, § 107][/us/pl/95/471/s107], formerly § 106, Oct. 17, 1978, [92 Stat. 1327][/us/stat/92/1327]; [Pub. L. 97–375, title I, § 108(c)][/us/pl/97/375/s108/c], Dec. 21, 1982, [96 Stat. 1820][/us/stat/96/1820]; renumbered § 107 and amended [Pub. L. 98–192][/us/pl/98/192], §§ 3(b), 4(a)(1), (b)(2), 6(b), Dec. 1, 1983, [97 Stat. 1336][/us/stat/97/1336], 1337; [Pub. L. 105–244, title IX, § 901(b)(4)][/us/pl/105/244/s901/b/4]–(6), Oct. 7, 1998, [112 Stat. 1828][/us/stat/112/1828].)
+([Pub. L. 95–471, title I][/us/pl/95/471/tI], § 107, formerly § 106, Oct. 17, 1978, [92 Stat. 1327][/us/stat/92/1327]; [Pub. L. 97–375, title I][/us/pl/97/375/tI], § 108(c), Dec. 21, 1982, [96 Stat. 1820][/us/stat/96/1820]; renumbered § 107 and amended [Pub. L. 98–192][/us/pl/98/192], §§ 3(b), 4(a)(1), (b)(2), 6(b), Dec. 1, 1983, [97 Stat. 1336][/us/stat/97/1336], 1337; [Pub. L. 105–244, title IX][/us/pl/105/244/tIX], § 901(b)(4)–(6), Oct. 7, 1998, [112 Stat. 1828][/us/stat/112/1828].)
 
  __Amendments__ 
 
-    1998—[Pub. L. 105–244, § 901(b)(4)][/us/pl/105/244/s901/b/4], substituted “colleges or universities” for “community colleges” in section catchline.
+    1998—[Pub. L. 105–244][/us/pl/105/244], § 901(b)(4), substituted “colleges or universities” for “community colleges” in section catchline.
 
-    Subsec. (a). [Pub. L. 105–244, § 901(b)(5)][/us/pl/105/244/s901/b/5], (6), substituted “colleges or universities” for “community colleges” and “college or university” for “community college”.
+    Subsec. (a). [Pub. L. 105–244][/us/pl/105/244], § 901(b)(5), (6), substituted “colleges or universities” for “community colleges” and “college or university” for “community college”.
 
-    Subsec. (b). [Pub. L. 105–244, § 901(b)(5)][/us/pl/105/244/s901/b/5], substituted “college or university” for “community college”.
+    Subsec. (b). [Pub. L. 105–244][/us/pl/105/244], § 901(b)(5), substituted “college or university” for “community college”.
 
-    1983—Subsec. (a). [Pub. L. 98–192, § 6(b)(1)][/us/pl/98/192/s6/b/1], substituted “eligibility” for “feasibility”.
+    1983—Subsec. (a). [Pub. L. 98–192][/us/pl/98/192], § 6(b)(1), substituted “eligibility” for “feasibility”.
 
-    [Pub. L. 98–192, § 4(b)(2)][/us/pl/98/192/s4/b/2], made a technical amendment to reference to [section 1806 of this title][/us/usc/t25/s1806] to reflect renumbering of that section.
+    [Pub. L. 98–192][/us/pl/98/192], § 4(b)(2), made a technical amendment to reference to [section 1806 of this title][/us/usc/t25/s1806] to reflect renumbering of that section.
 
-    [Pub. L. 98–192, § 3(b)][/us/pl/98/192/s3/b], inserted provision that such application include a description of the recordkeeping procedures for expenditure of funds as will allow Secretary to audit and monitor programs conducted with such funds.
+    [Pub. L. 98–192][/us/pl/98/192], § 3(b), inserted provision that such application include a description of the recordkeeping procedures for expenditure of funds as will allow Secretary to audit and monitor programs conducted with such funds.
 
-    Subsec. (b). [Pub. L. 98–192, § 6(b)(2)][/us/pl/98/192/s6/b/2], substituted “Secretary of Education” for “Assistant Secretary of Education of the Department of Health, Education, and Welfare”.
+    Subsec. (b). [Pub. L. 98–192][/us/pl/98/192], § 6(b)(2), substituted “Secretary of Education” for “Assistant Secretary of Education of the Department of Health, Education, and Welfare”.
 
     1982—Subsec. (e). [Pub. L. 97–375][/us/pl/97/375] struck out subsec. (e) which directed the Secretary to report to Congress on Jan. 15 of each year the current status of tribally controlled community colleges and his recommendations for needed action.
 
@@ -63,22 +63,22 @@
 ----------
 
 [/us/usc/t25/s1806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1806
-[/us/pl/95/471/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F471%2Fs107
+[/us/pl/95/471/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F471%2FtI
 [/us/stat/92/1327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1327
-[/us/pl/97/375/s108/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F375%2Fs108%2Fc
+[/us/pl/97/375/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F375%2FtI
 [/us/stat/96/1820]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1820
 [/us/pl/98/192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F192
 [/us/stat/97/1336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1336
-[/us/pl/105/244/s901/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs901%2Fb%2F4
+[/us/pl/105/244/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtIX
 [/us/stat/112/1828]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1828
-[/us/pl/105/244/s901/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs901%2Fb%2F4
-[/us/pl/105/244/s901/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs901%2Fb%2F5
-[/us/pl/105/244/s901/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs901%2Fb%2F5
-[/us/pl/98/192/s6/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F192%2Fs6%2Fb%2F1
-[/us/pl/98/192/s4/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F192%2Fs4%2Fb%2F2
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/98/192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F192
+[/us/pl/98/192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F192
 [/us/usc/t25/s1806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1806
-[/us/pl/98/192/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F192%2Fs3%2Fb
-[/us/pl/98/192/s6/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F192%2Fs6%2Fb%2F2
+[/us/pl/98/192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F192
+[/us/pl/98/192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F192
 [/us/pl/97/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F375
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244

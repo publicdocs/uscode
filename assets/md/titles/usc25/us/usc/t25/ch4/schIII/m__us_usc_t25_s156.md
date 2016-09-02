@@ -17,7 +17,7 @@
 
     The net receipts from the sales of surplus and unallotted lands and other tribal property belonging to any of the Five Civilized Tribes, after deducting the necessary expense of advertising and sale, may be deposited in national or State banks in the State of Oklahoma in the discretion of the Secretary of the Interior, such depositories to be designated by him under such rules and regulations governing the rate of interest thereon, the time of deposit and withdrawal thereof, and the security therefor, as he may prescribe. The interest accruing on such funds may be used to defray the expense of the per capita payments of such funds.
 
-([Mar. 3, 1911, ch. 210, § 17][/us/act/1911-03-03/ch210/s17], [36 Stat. 1070][/us/stat/36/1070].)
+([Mar. 3, 1911, ch. 210][/us/act/1911-03-03/ch210], § 17, [36 Stat. 1070][/us/stat/36/1070].)
 
  __Transfer of Functions__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1911-03-03/ch210/s17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch210%2Fs17
+[/us/act/1911-03-03/ch210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch210
 [/us/stat/36/1070]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F1070
 [/us/stat/64/1262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1262
 

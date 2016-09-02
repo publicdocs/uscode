@@ -49,7 +49,7 @@
 
                 (ii) is not waived by anything in the State Agreement or by subsequent events occurring between the withdrawal action and commencement of the reinstated action.
 
-([Pub. L. 103–377, § 9][/us/pl/103/377/s9], Oct. 19, 1994, [108 Stat. 3506][/us/stat/108/3506].)
+([Pub. L. 103–377][/us/pl/103/377], § 9, Oct. 19, 1994, [108 Stat. 3506][/us/stat/108/3506].)
 
 ----------
 
@@ -62,7 +62,7 @@
 [/us/usc/t25/s1775b/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1775b%2Fa%2F1
 [/us/usc/t25/s1775b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1775b
 [/us/usc/t25/s1775b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1775b
-[/us/pl/103/377/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F377%2Fs9
+[/us/pl/103/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F377
 [/us/stat/108/3506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3506
 
 

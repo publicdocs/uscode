@@ -39,7 +39,7 @@
 
         Except as specifically provided in this subchapter, nothing in this subchapter shall alter any property right or obligation, any contractual right or obligation, or any obligation for taxes levied.
 
-([Pub. L. 103–454, title III, § 303][/us/pl/103/454/s303], Nov. 2, 1994, [108 Stat. 4793][/us/stat/108/4793].)
+([Pub. L. 103–454, title III][/us/pl/103/454/tIII], § 303, Nov. 2, 1994, [108 Stat. 4793][/us/stat/108/4793].)
 
  __References in Text__ 
 
@@ -57,7 +57,7 @@
 [/us/pl/85/671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F671
 [/us/stat/72/619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F619
 [/us/usc/t25/s461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs461
-[/us/pl/103/454/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F454%2Fs303
+[/us/pl/103/454/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F454%2FtIII
 [/us/stat/108/4793]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4793
 [/us/pl/85/671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F671
 [/us/stat/72/619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F619

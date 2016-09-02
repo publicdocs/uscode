@@ -37,17 +37,17 @@
 
     (7) the State, the district, and the tribe have entered into a compact which, if approved by Congress and the Florida Legislature, creates specifically defined water rights in lieu of the undefined water rights claimed by the tribe.
 
-([Pub. L. 100–228, § 2][/us/pl/100/228/s2], Dec. 31, 1987, [101 Stat. 1556][/us/stat/101/1556].)
+([Pub. L. 100–228][/us/pl/100/228], § 2, Dec. 31, 1987, [101 Stat. 1556][/us/stat/101/1556].)
 
  __Effective Date__ 
 
-[Pub. L. 100–228, § 10][/us/pl/100/228/s10], Dec. 31, 1987, [101 Stat. 1561][/us/stat/101/1561], provided that: 
+[Pub. L. 100–228][/us/pl/100/228], § 10, Dec. 31, 1987, [101 Stat. 1561][/us/stat/101/1561], provided that: 
 
 > “This Act \[enacting this subchapter\] shall take effect upon the date of its enactment \[Dec. 31, 1987\].”
 
  __Short Title__ 
 
-[Pub. L. 100–228, § 1][/us/pl/100/228/s1], Dec. 31, 1987, [101 Stat. 1556][/us/stat/101/1556], provided that: 
+[Pub. L. 100–228][/us/pl/100/228], § 1, Dec. 31, 1987, [101 Stat. 1556][/us/stat/101/1556], provided that: 
 
 > “This Act \[enacting this subchapter\] may be cited as the ‘Seminole Indian Land Claims Settlement Act of 1987’.”
 
@@ -58,11 +58,11 @@
 ----------
 ----------
 
-[/us/pl/100/228/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F228%2Fs2
+[/us/pl/100/228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F228
 [/us/stat/101/1556]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1556
-[/us/pl/100/228/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F228%2Fs10
+[/us/pl/100/228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F228
 [/us/stat/101/1561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1561
-[/us/pl/100/228/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F228%2Fs1
+[/us/pl/100/228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F228
 [/us/stat/101/1556]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1556
 
 

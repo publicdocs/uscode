@@ -21,7 +21,7 @@
 
  __Codification__ 
 
-    R.S. § 2088 derived from [act June 30, 1834, ch. 162, § 13][/us/act/1834-06-30/ch162/s13], [4 Stat. 737][/us/stat/4/737].
+    R.S. § 2088 derived from [act June 30, 1834, ch. 162][/us/act/1834-06-30/ch162], § 13, [4 Stat. 737][/us/stat/4/737].
 
  __Transfer of Functions__ 
 
@@ -38,7 +38,7 @@
 ----------
 ----------
 
-[/us/act/1834-06-30/ch162/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1834-06-30%2Fch162%2Fs13
+[/us/act/1834-06-30/ch162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1834-06-30%2Fch162
 [/us/stat/4/737]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F4%2F737
 [/us/stat/64/1262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1262
 [/us/usc/t25/s64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs64

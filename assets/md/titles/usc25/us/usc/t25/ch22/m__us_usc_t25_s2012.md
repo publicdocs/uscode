@@ -513,7 +513,7 @@
 
         The Secretary is authorized to provide annual stipends to teachers who become certified by the National Board of Professional Teaching Standards, the National Council on Teacher Quality, or other nationally recognized certification or credentialing organizations.
 
-([Pub. L. 95–561, title XI, § 1132][/us/pl/95/561/s1132], as added [Pub. L. 107–110, title X, § 1042][/us/pl/107/110/s1042], Jan. 8, 2002, [115 Stat. 2044][/us/stat/115/2044].)
+([Pub. L. 95–561, title XI][/us/pl/95/561/tXI], § 1132, as added [Pub. L. 107–110, title X][/us/pl/107/110/tX], § 1042, Jan. 8, 2002, [115 Stat. 2044][/us/stat/115/2044].)
 
  __References in Text__ 
 
@@ -525,27 +525,27 @@
 
  __Prior Provisions__ 
 
-    A prior section 2012, [Pub. L. 95–561, title XI, § 1132][/us/pl/95/561/s1132], as added [Pub. L. 103–382, title III, § 381][/us/pl/103/382/s381], Oct. 20, 1994, [108 Stat. 4002][/us/stat/108/4002]; amended [Pub. L. 105–362, title VIII, § 801(c)(3)][/us/pl/105/362/s801/c/3], Nov. 10, 1998, [112 Stat. 3288][/us/stat/112/3288], related to education personnel, prior to the general amendment of this chapter by [Pub. L. 107–110][/us/pl/107/110].
+    A prior section 2012, [Pub. L. 95–561, title XI][/us/pl/95/561/tXI], § 1132, as added [Pub. L. 103–382, title III][/us/pl/103/382/tIII], § 381, Oct. 20, 1994, [108 Stat. 4002][/us/stat/108/4002]; amended [Pub. L. 105–362, title VIII][/us/pl/105/362/tVIII], § 801(c)(3), Nov. 10, 1998, [112 Stat. 3288][/us/stat/112/3288], related to education personnel, prior to the general amendment of this chapter by [Pub. L. 107–110][/us/pl/107/110].
 
-    Another prior section 2012, [Pub. L. 95–561, title XI, § 1132][/us/pl/95/561/s1132], Nov. 1, 1978, [92 Stat. 2326][/us/stat/92/2326]; [Pub. L. 96–46, § 2(b)(9)][/us/pl/96/46/s2/b/9], Aug. 6, 1979, [93 Stat. 341][/us/stat/93/341]; [Pub. L. 98–511, title V, § 508][/us/pl/98/511/s508], Oct. 19, 1984, [98 Stat. 2397][/us/stat/98/2397], related to establishment of a computerized management information system, prior to the general amendment of this chapter by [Pub. L. 103–382][/us/pl/103/382].
+    Another prior section 2012, [Pub. L. 95–561, title XI][/us/pl/95/561/tXI], § 1132, Nov. 1, 1978, [92 Stat. 2326][/us/stat/92/2326]; [Pub. L. 96–46][/us/pl/96/46], § 2(b)(9), Aug. 6, 1979, [93 Stat. 341][/us/stat/93/341]; [Pub. L. 98–511, title V][/us/pl/98/511/tV], § 508, Oct. 19, 1984, [98 Stat. 2397][/us/stat/98/2397], related to establishment of a computerized management information system, prior to the general amendment of this chapter by [Pub. L. 103–382][/us/pl/103/382].
 
  __Adjustments to Rates of Basic Compensation or Annual Salary Rates for Education Positions__ 
 
-[Pub. L. 104–208, div. A, title I, § 101(d)][/us/pl/104/208/s101/d] \[title I\], Sept. 30, 1996, [110 Stat. 3009–181][/us/stat/110/3009-181], 3009–193, provided in part: 
+[Pub. L. 104–208, div. A, title I][/us/pl/104/208/dA/tI], § 101(d) \[title I\], Sept. 30, 1996, [110 Stat. 3009–181][/us/stat/110/3009-181], 3009–193, provided in part: 
 
 > “That in fiscal year 1997 and thereafter, notwithstanding the provisions of \[former\] [25 U.S.C. 2012(h)(1)(A)][/us/usc/t25/s2012/h/1/A] and (B) \[see now [25 U.S.C. 2012(g)(1)(A)][/us/usc/t25/s2012/g/1/A], (B)\], upon the recommendation of either (i) a local school board and school supervisor for an education position in a Bureau of Indian Affairs operated school, or (ii) an Agency school board and education line officer for an Agency education position, the Secretary \[of the Interior\] shall establish adjustments to the rates of basic compensation or annual salary rates established under \[former\] [25 U.S.C. 2012(h)(1)(A)][/us/usc/t25/s2012/h/1/A] and (B) for education positions at the school or the Agency, at a level not less than that for comparable positions in the nearest public school district, and the adjustment shall be deemed to be a change to basic pay and shall not be subject to collective bargaining: Provided further, That any reduction to rates of basic compensation or annual salary rates below the rates established under \[former\] [25 U.S.C. 2012(h)(1)(A)][/us/usc/t25/s2012/h/1/A] and (B) shall apply only to educators appointed after June 30, 1997, and shall not affect the right of an individual employed on June 30, 1997, in an education position, to receive the compensation attached to such position under \[former\] [25 U.S.C. 2012(h)(1)(A)][/us/usc/t25/s2012/h/1/A] and (B) so long as the individual remains in the same position at the same school”.
 
     Similar provisions were contained in the following prior appropriation act:
 
-    [Pub. L. 104–134, title I, § 101(c)][/us/pl/104/134/s101/c] \[title I\], Apr. 26, 1996, [110 Stat. 1321–156][/us/stat/110/1321-156], 1321–171; renumbered title I, [Pub. L. 104–140, § 1(a)][/us/pl/104/140/s1/a], May 2, 1996, [110 Stat. 1327][/us/stat/110/1327].
+    [Pub. L. 104–134, title I][/us/pl/104/134/tI], § 101(c) \[title I\], Apr. 26, 1996, [110 Stat. 1321–156][/us/stat/110/1321-156], 1321–171; renumbered title I, [Pub. L. 104–140][/us/pl/104/140], § 1(a), May 2, 1996, [110 Stat. 1327][/us/stat/110/1327].
 
-[Pub. L. 105–83, title I][/us/pl/105/83], Nov. 14, 1997, [111 Stat. 1555][/us/stat/111/1555], provided in part: 
+[Pub. L. 105–83, title I][/us/pl/105/83/tI], Nov. 14, 1997, [111 Stat. 1555][/us/stat/111/1555], provided in part: 
 
 > “That beginning in fiscal year 1998 and thereafter and notwithstanding \[former\] [25 U.S.C. 2012(h)(1)(B)][/us/usc/t25/s2012/h/1/B] \[see now [25 U.S.C. 2012(g)(1)(B)][/us/usc/t25/s2012/g/1/B]\], when the rates of basic compensation for teachers and counselors at Bureau-operated schools are established at the rates of basic compensation applicable to comparable positions in overseas schools under the Defense Department Overseas Teachers Pay and Personnel Practices Act \[[20 U.S.C. 901][/us/usc/t20/s901] et seq.\], such rates shall become effective with the start of the next academic year following the issuance of the Department of Defense salary schedule and shall not be effected retroactively”.
 
     Similar provisions were contained in the following prior appropriation act:
 
-    [Pub. L. 104–208, div. A, title I, § 101(d)][/us/pl/104/208/s101/d] \[title I\], Sept. 30, 1996, [110 Stat. 3009–181][/us/stat/110/3009-181], 3009–193.
+    [Pub. L. 104–208, div. A, title I][/us/pl/104/208/dA/tI], § 101(d) \[title I\], Sept. 30, 1996, [110 Stat. 3009–181][/us/stat/110/3009-181], 3009–193.
 
 ----------
 
@@ -561,8 +561,8 @@
 [/us/usc/t5/s5533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5533
 [/us/usc/t31/s1342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1342
 [/us/usc/t5/s7511/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs7511%2Fa%2F5
-[/us/pl/95/561/s1132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2Fs1132
-[/us/pl/107/110/s1042]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2Fs1042
+[/us/pl/95/561/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2FtXI
+[/us/pl/107/110/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2FtX
 [/us/stat/115/2044]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F2044
 [/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332
 [/us/pl/86/91]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F91
@@ -572,36 +572,36 @@
 [/us/usc/t25/s2011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs2011
 [/us/pl/103/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382
 [/us/usc/t25/s2011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs2011
-[/us/pl/95/561/s1132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2Fs1132
-[/us/pl/103/382/s381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs381
+[/us/pl/95/561/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2FtXI
+[/us/pl/103/382/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2FtIII
 [/us/stat/108/4002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4002
-[/us/pl/105/362/s801/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362%2Fs801%2Fc%2F3
+[/us/pl/105/362/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362%2FtVIII
 [/us/stat/112/3288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3288
 [/us/pl/107/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110
-[/us/pl/95/561/s1132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2Fs1132
+[/us/pl/95/561/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2FtXI
 [/us/stat/92/2326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2326
-[/us/pl/96/46/s2/b/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F46%2Fs2%2Fb%2F9
+[/us/pl/96/46]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F46
 [/us/stat/93/341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F341
-[/us/pl/98/511/s508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F511%2Fs508
+[/us/pl/98/511/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F511%2FtV
 [/us/stat/98/2397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2397
 [/us/pl/103/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382
-[/us/pl/104/208/s101/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Fd
+[/us/pl/104/208/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtI
 [/us/stat/110/3009-181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-181
 [/us/usc/t25/s2012/h/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs2012%2Fh%2F1%2FA
 [/us/usc/t25/s2012/g/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs2012%2Fg%2F1%2FA
 [/us/usc/t25/s2012/h/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs2012%2Fh%2F1%2FA
 [/us/usc/t25/s2012/h/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs2012%2Fh%2F1%2FA
 [/us/usc/t25/s2012/h/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs2012%2Fh%2F1%2FA
-[/us/pl/104/134/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs101%2Fc
+[/us/pl/104/134/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2FtI
 [/us/stat/110/1321-156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1321-156
-[/us/pl/104/140/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F140%2Fs1%2Fa
+[/us/pl/104/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F140
 [/us/stat/110/1327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1327
-[/us/pl/105/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F83
+[/us/pl/105/83/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F83%2FtI
 [/us/stat/111/1555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1555
 [/us/usc/t25/s2012/h/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs2012%2Fh%2F1%2FB
 [/us/usc/t25/s2012/g/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs2012%2Fg%2F1%2FB
 [/us/usc/t20/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs901
-[/us/pl/104/208/s101/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Fd
+[/us/pl/104/208/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtI
 [/us/stat/110/3009-181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-181
 
 

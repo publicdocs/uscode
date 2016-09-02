@@ -27,7 +27,7 @@
 
     (5) the Central Council of Tlingit and Haida Indian Tribes of Alaska continues to be a federally recognized Indian tribe.
 
-([Pub. L. 103–454, title II, § 202][/us/pl/103/454/s202], Nov. 2, 1994, [108 Stat. 4792][/us/stat/108/4792].)
+([Pub. L. 103–454, title II][/us/pl/103/454/tII], § 202, Nov. 2, 1994, [108 Stat. 4792][/us/stat/108/4792].)
 
  __References in Text__ 
 
@@ -35,7 +35,7 @@
 
  __Short Title__ 
 
-[Pub. L. 103–454, title II, § 201][/us/pl/103/454/s201], Nov. 2, 1994, [108 Stat. 4792][/us/stat/108/4792], provided that: 
+[Pub. L. 103–454, title II][/us/pl/103/454/tII], § 201, Nov. 2, 1994, [108 Stat. 4792][/us/stat/108/4792], provided that: 
 
 > “This title \[enacting this section and sections 1213 to 1215 of this title\] may be cited as the ‘Tlingit and Haida Status Clarification Act’.”
 
@@ -47,11 +47,11 @@
 ----------
 
 [/us/stat/49/388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F388
-[/us/pl/103/454/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F454%2Fs202
+[/us/pl/103/454/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F454%2FtII
 [/us/stat/108/4792]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4792
 [/us/act/1935-06-19/ch275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-06-19%2Fch275
 [/us/stat/49/388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F388
-[/us/pl/103/454/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F454%2Fs201
+[/us/pl/103/454/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F454%2FtII
 [/us/stat/108/4792]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4792
 
 

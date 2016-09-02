@@ -31,7 +31,7 @@
 
         Not later than one hundred and twenty days after the tribe  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be capitalized. </sup></sup>  adopts a constitution and bylaws, the Interim Council shall conduct an election by secret ballot for the purpose of electing the individuals who will serve as tribal officials as provided in the tribal constitution and bylaws. For the purpose of this election and notwithstanding any provision in the tribal constitution and bylaws to the contrary, absentee balloting shall be permitted.
 
-([Pub. L. 98–481, § 6][/us/pl/98/481/s6], Oct. 17, 1984, [98 Stat. 2252][/us/stat/98/2252].)
+([Pub. L. 98–481][/us/pl/98/481], § 6, Oct. 17, 1984, [98 Stat. 2252][/us/stat/98/2252].)
 
 ----------
 
@@ -42,7 +42,7 @@
 
 [/us/usc/t25/s476]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs476
 [/us/usc/t25/s714b/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs714b%2Fd
-[/us/pl/98/481/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F481%2Fs6
+[/us/pl/98/481]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F481
 [/us/stat/98/2252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2252
 
 

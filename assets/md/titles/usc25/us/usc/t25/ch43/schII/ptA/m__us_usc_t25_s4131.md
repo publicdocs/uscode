@@ -75,7 +75,7 @@
 
             Title VI of the Civil Rights Act of 1964 \[[42 U.S.C. 2000d][/us/usc/t42/s2000d] et seq.\] and title VIII of the Civil Rights Act of 1968 \[[42 U.S.C. 3601][/us/usc/t42/s3601] et seq.\] shall not apply to actions by federally recognized tribes and the tribally designated housing entities of those tribes under this chapter.
 
-([Pub. L. 104–330, title II, § 201][/us/pl/104/330/s201], Oct. 26, 1996, [110 Stat. 4031][/us/stat/110/4031]; [Pub. L. 105–276, title V, § 595(e)(7)][/us/pl/105/276/s595/e/7], Oct. 21, 1998, [112 Stat. 2657][/us/stat/112/2657]; [Pub. L. 106–377, § 1(a)(1)][/us/pl/106/377/s1/a/1] \[title II, § 210\], Oct. 27, 2000, [114 Stat. 1441][/us/stat/114/1441], 1441A–26; [Pub. L. 106–568, title X, § 1003(e)][/us/pl/106/568/s1003/e], Dec. 27, 2000, [114 Stat. 2926][/us/stat/114/2926]; [Pub. L. 110–411, title II, § 201][/us/pl/110/411/s201], Oct. 14, 2008, [122 Stat. 4324][/us/stat/122/4324].)
+([Pub. L. 104–330, title II][/us/pl/104/330/tII], § 201, Oct. 26, 1996, [110 Stat. 4031][/us/stat/110/4031]; [Pub. L. 105–276, title V][/us/pl/105/276/tV], § 595(e)(7), Oct. 21, 1998, [112 Stat. 2657][/us/stat/112/2657]; [Pub. L. 106–377][/us/pl/106/377], § 1(a)(1) \[title II, § 210\], Oct. 27, 2000, [114 Stat. 1441][/us/stat/114/1441], 1441A–26; [Pub. L. 106–568, title X][/us/pl/106/568/tX], § 1003(e), Dec. 27, 2000, [114 Stat. 2926][/us/stat/114/2926]; [Pub. L. 110–411, title II][/us/pl/110/411/tII], § 201, Oct. 14, 2008, [122 Stat. 4324][/us/stat/122/4324].)
 
  __References in Text__ 
 
@@ -87,27 +87,27 @@
 
  __Amendments__ 
 
-    2008—Subsec. (b)(1). [Pub. L. 110–411, § 201(1)][/us/pl/110/411/s201/1], inserted “and except with respect to loan guarantees under the demonstration program under subchapter VI,” after “paragraphs (2) and (4),”.
+    2008—Subsec. (b)(1). [Pub. L. 110–411][/us/pl/110/411], § 201(1), inserted “and except with respect to loan guarantees under the demonstration program under subchapter VI,” after “paragraphs (2) and (4),”.
 
-    Subsec. (b)(2). [Pub. L. 110–411, § 201(2)][/us/pl/110/411/s201/2], added subpar. (A), designated second sentence as subpar. (B) and inserted heading, and struck out former first sentence which read as follows: “A recipient may provide assistance for homeownership activities under [section 4132(2) of this title][/us/usc/t25/s4132/2], model activities under [section 4132(6) of this title][/us/usc/t25/s4132/6], or loan guarantee activities under subchapter VI of this chapter to Indian families who are not low-income families, to the extent that the Secretary approves the activities pursuant to such section or subchapter because there is a need for housing for such families that cannot reasonably be met without such assistance.”
+    Subsec. (b)(2). [Pub. L. 110–411][/us/pl/110/411], § 201(2), added subpar. (A), designated second sentence as subpar. (B) and inserted heading, and struck out former first sentence which read as follows: “A recipient may provide assistance for homeownership activities under [section 4132(2) of this title][/us/usc/t25/s4132/2], model activities under [section 4132(6) of this title][/us/usc/t25/s4132/6], or loan guarantee activities under subchapter VI of this chapter to Indian families who are not low-income families, to the extent that the Secretary approves the activities pursuant to such section or subchapter because there is a need for housing for such families that cannot reasonably be met without such assistance.”
 
-    Subsec. (b)(3). [Pub. L. 110–411, § 201(3)][/us/pl/110/411/s201/3], substituted “Essential” for “Non-Indian” in heading and “for a family” for “for a non-Indian family” in text.
+    Subsec. (b)(3). [Pub. L. 110–411][/us/pl/110/411], § 201(3), substituted “Essential” for “Non-Indian” in heading and “for a family” for “for a non-Indian family” in text.
 
-    Subsec. (b)(4)(A)(i). [Pub. L. 110–411, § 201(4)][/us/pl/110/411/s201/4], inserted “or other unit of local government,” after “county,”.
+    Subsec. (b)(4)(A)(i). [Pub. L. 110–411][/us/pl/110/411], § 201(4), inserted “or other unit of local government,” after “county,”.
 
-    2000—Subsec. (b)(1). [Pub. L. 106–568, § 1003(e)(1)][/us/pl/106/568/s1003/e/1], substituted “paragraphs (2) and (4)” for “paragraph (2)”.
+    2000—Subsec. (b)(1). [Pub. L. 106–568][/us/pl/106/568], § 1003(e)(1), substituted “paragraphs (2) and (4)” for “paragraph (2)”.
 
-    Subsec. (b)(4). [Pub. L. 106–568, § 1003(e)(3)][/us/pl/106/568/s1003/e/3], added par. (4). Former par. (4) redesignated (5).
+    Subsec. (b)(4). [Pub. L. 106–568][/us/pl/106/568], § 1003(e)(3), added par. (4). Former par. (4) redesignated (5).
 
-    [Pub. L. 106–377, § 1(a)(1)][/us/pl/106/377/s1/a/1] \[title II, § 210(2)\], added par. (4). Former par. (4) redesignated (5).
+    [Pub. L. 106–377][/us/pl/106/377], § 1(a)(1) \[title II, § 210(2)\], added par. (4). Former par. (4) redesignated (5).
 
-    Subsec. (b)(5). [Pub. L. 106–568, § 1003(e)(2)][/us/pl/106/568/s1003/e/2], redesignated par. (4) as (5). Former par. (5) redesignated (6).
+    Subsec. (b)(5). [Pub. L. 106–568][/us/pl/106/568], § 1003(e)(2), redesignated par. (4) as (5). Former par. (5) redesignated (6).
 
-    [Pub. L. 106–377, § 1(a)(1)][/us/pl/106/377/s1/a/1] \[title II, § 210(1)\], redesignated par. (4) as (5). Former par. (5) redesignated (6).
+    [Pub. L. 106–377][/us/pl/106/377], § 1(a)(1) \[title II, § 210(1)\], redesignated par. (4) as (5). Former par. (5) redesignated (6).
 
-    Subsec. (b)(6). [Pub. L. 106–568, § 1003(e)(2)][/us/pl/106/568/s1003/e/2], redesignated par. (5), relating to preference for tribal members and other Indian families, as (6).
+    Subsec. (b)(6). [Pub. L. 106–568][/us/pl/106/568], § 1003(e)(2), redesignated par. (5), relating to preference for tribal members and other Indian families, as (6).
 
-    [Pub. L. 106–377, § 1(a)(1)][/us/pl/106/377/s1/a/1] \[title II, § 210(1)\], redesignated par. (5), relating to exemption, as (6).
+    [Pub. L. 106–377][/us/pl/106/377], § 1(a)(1) \[title II, § 210(1)\], redesignated par. (5), relating to exemption, as (6).
 
     1998—Subsec. (b)(5). [Pub. L. 105–276][/us/pl/105/276] substituted “federally recognized tribes and the tribally designated housing entities of those tribes” for “Indian tribes” and “chapter” for “subsection”.
 
@@ -124,15 +124,15 @@
 
 [/us/usc/t42/s2000d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2000d
 [/us/usc/t42/s3601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3601
-[/us/pl/104/330/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330%2Fs201
+[/us/pl/104/330/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330%2FtII
 [/us/stat/110/4031]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F4031
-[/us/pl/105/276/s595/e/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs595%2Fe%2F7
+[/us/pl/105/276/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2FtV
 [/us/stat/112/2657]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2657
-[/us/pl/106/377/s1/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F377%2Fs1%2Fa%2F1
+[/us/pl/106/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F377
 [/us/stat/114/1441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1441
-[/us/pl/106/568/s1003/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F568%2Fs1003%2Fe
+[/us/pl/106/568/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F568%2FtX
 [/us/stat/114/2926]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2926
-[/us/pl/110/411/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F411%2Fs201
+[/us/pl/110/411/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F411%2FtII
 [/us/stat/122/4324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4324
 [/us/pl/104/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330
 [/us/stat/110/4016]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F4016
@@ -143,19 +143,19 @@
 [/us/pl/90/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F284
 [/us/stat/82/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F73
 [/us/usc/t42/s3601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3601
-[/us/pl/110/411/s201/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F411%2Fs201%2F1
-[/us/pl/110/411/s201/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F411%2Fs201%2F2
+[/us/pl/110/411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F411
+[/us/pl/110/411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F411
 [/us/usc/t25/s4132/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs4132%2F2
 [/us/usc/t25/s4132/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs4132%2F6
-[/us/pl/110/411/s201/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F411%2Fs201%2F3
-[/us/pl/110/411/s201/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F411%2Fs201%2F4
-[/us/pl/106/568/s1003/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F568%2Fs1003%2Fe%2F1
-[/us/pl/106/568/s1003/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F568%2Fs1003%2Fe%2F3
-[/us/pl/106/377/s1/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F377%2Fs1%2Fa%2F1
-[/us/pl/106/568/s1003/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F568%2Fs1003%2Fe%2F2
-[/us/pl/106/377/s1/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F377%2Fs1%2Fa%2F1
-[/us/pl/106/568/s1003/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F568%2Fs1003%2Fe%2F2
-[/us/pl/106/377/s1/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F377%2Fs1%2Fa%2F1
+[/us/pl/110/411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F411
+[/us/pl/110/411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F411
+[/us/pl/106/568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F568
+[/us/pl/106/568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F568
+[/us/pl/106/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F377
+[/us/pl/106/568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F568
+[/us/pl/106/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F377
+[/us/pl/106/568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F568
+[/us/pl/106/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F377
 [/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
 [/us/pl/104/330/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330%2Fs107
 [/us/usc/t25/s4101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs4101

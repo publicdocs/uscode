@@ -35,7 +35,7 @@
 
             If the Director concerned fails to approve or disapprove a request or subpoena for testimony or release of a document by the date that is 30 days after the date of receipt of notice of the request or subpoena, the request or subpoena shall be considered to be approved for purposes of this section.
 
-([Pub. L. 101–379, § 16][/us/pl/101/379/s16], as added [Pub. L. 111–211, title II, § 263][/us/pl/111/211/s263], July 29, 2010, [124 Stat. 2300][/us/stat/124/2300].)
+([Pub. L. 101–379][/us/pl/101/379], § 16, as added [Pub. L. 111–211, title II][/us/pl/111/211/tII], § 263, July 29, 2010, [124 Stat. 2300][/us/stat/124/2300].)
 
 ----------
 
@@ -44,8 +44,8 @@
 ----------
 ----------
 
-[/us/pl/101/379/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F379%2Fs16
-[/us/pl/111/211/s263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211%2Fs263
+[/us/pl/101/379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F379
+[/us/pl/111/211/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211%2FtII
 [/us/stat/124/2300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2300
 
 

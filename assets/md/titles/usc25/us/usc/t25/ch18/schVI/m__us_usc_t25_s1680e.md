@@ -23,7 +23,7 @@
 
         Nothing in this section may be construed as expanding the eligibility of members of the Turtle Mountain Band of Chippewa Indians for health services provided by the Service beyond the scope of eligibility for such health services that applied on May 1, 1986.
 
-([Pub. L. 94–437, title VIII, § 815][/us/pl/94/437/s815], formerly title VII, § 715, as added [Pub. L. 100–713, title VII, § 709][/us/pl/100/713/s709], Nov. 23, 1988, [102 Stat. 4831][/us/stat/102/4831]; renumbered title VIII, § 815, [Pub. L. 102–573, title VII, § 701(a)][/us/pl/102/573/s701/a], (b), Oct. 29, 1992, [106 Stat. 4572][/us/stat/106/4572].)
+([Pub. L. 94–437, title VIII][/us/pl/94/437/tVIII], § 815, formerly title VII, § 715, as added [Pub. L. 100–713, title VII][/us/pl/100/713/tVII], § 709, Nov. 23, 1988, [102 Stat. 4831][/us/stat/102/4831]; renumbered title VIII, § 815, [Pub. L. 102–573, title VII][/us/pl/102/573/tVII], § 701(a), (b), Oct. 29, 1992, [106 Stat. 4572][/us/stat/106/4572].)
 
 ----------
 
@@ -32,10 +32,10 @@
 ----------
 ----------
 
-[/us/pl/94/437/s815]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437%2Fs815
-[/us/pl/100/713/s709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F713%2Fs709
+[/us/pl/94/437/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437%2FtVIII
+[/us/pl/100/713/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F713%2FtVII
 [/us/stat/102/4831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4831
-[/us/pl/102/573/s701/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2Fs701%2Fa
+[/us/pl/102/573/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2FtVII
 [/us/stat/106/4572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4572
 
 

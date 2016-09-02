@@ -23,7 +23,7 @@
 
         Trees, portions of trees, or forest products provided under subsection (a) may not be used for commercial purposes.
 
-([Pub. L. 110–234, title VIII, § 8105][/us/pl/110/234/s8105], May 22, 2008, [122 Stat. 1288][/us/stat/122/1288]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VIII, § 8105, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2050.)
+([Pub. L. 110–234, title VIII][/us/pl/110/234/tVIII], § 8105, May 22, 2008, [122 Stat. 1288][/us/stat/122/1288]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title VIII, § 8105, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2050.)
 
  __Codification__ 
 
@@ -41,9 +41,9 @@
 ----------
 
 [/us/usc/t16/s472a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs472a
-[/us/pl/110/234/s8105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs8105
+[/us/pl/110/234/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtVIII
 [/us/stat/122/1288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1288
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246

@@ -35,7 +35,7 @@
 
         The Secretary shall evaluate and report to the Congress on the activities of programs funded under this section at least every 5 years.
 
-([Pub. L. 94–437, title V, § 513][/us/pl/94/437/s513], as added [Pub. L. 102–573, title V, § 504][/us/pl/102/573/s504], Oct. 29, 1992, [106 Stat. 4570][/us/stat/106/4570]; amended [Pub. L. 105–362, title VI, § 602(a)][/us/pl/105/362/s602/a], Nov. 10, 1998, [112 Stat. 3286][/us/stat/112/3286].)
+([Pub. L. 94–437, title V][/us/pl/94/437/tV], § 513, as added [Pub. L. 102–573, title V][/us/pl/102/573/tV], § 504, Oct. 29, 1992, [106 Stat. 4570][/us/stat/106/4570]; amended [Pub. L. 105–362, title VI][/us/pl/105/362/tVI], § 602(a), Nov. 10, 1998, [112 Stat. 3286][/us/stat/112/3286].)
 
  __Amendments__ 
 
@@ -52,10 +52,10 @@
 ----------
 ----------
 
-[/us/pl/94/437/s513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437%2Fs513
-[/us/pl/102/573/s504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2Fs504
+[/us/pl/94/437/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437%2FtV
+[/us/pl/102/573/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2FtV
 [/us/stat/106/4570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4570
-[/us/pl/105/362/s602/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362%2Fs602%2Fa
+[/us/pl/105/362/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362%2FtVI
 [/us/stat/112/3286]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3286
 [/us/pl/105/362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003

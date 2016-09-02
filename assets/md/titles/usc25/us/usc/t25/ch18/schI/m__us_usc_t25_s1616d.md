@@ -27,7 +27,7 @@
 
         Health professionals from Indian tribes and tribal and Indian organizations under the authority of the Indian Self-Determination Act \[[25 U.S.C. 450f][/us/usc/t25/s450f] et seq.\] shall be given an equal opportunity to participate in the program under subsection (a).
 
-([Pub. L. 94–437, title I, § 111][/us/pl/94/437/s111], as added [Pub. L. 100–713, title I, § 108][/us/pl/100/713/s108], Nov. 23, 1988, [102 Stat. 4795][/us/stat/102/4795]; amended [Pub. L. 102–573, title I, § 108][/us/pl/102/573/s108], Oct. 29, 1992, [106 Stat. 4538][/us/stat/106/4538]; [Pub. L. 103–435, § 16(a)][/us/pl/103/435/s16/a], Nov. 2, 1994, [108 Stat. 4573][/us/stat/108/4573].)
+([Pub. L. 94–437, title I][/us/pl/94/437/tI], § 111, as added [Pub. L. 100–713, title I][/us/pl/100/713/tI], § 108, Nov. 23, 1988, [102 Stat. 4795][/us/stat/102/4795]; amended [Pub. L. 102–573, title I][/us/pl/102/573/tI], § 108, Oct. 29, 1992, [106 Stat. 4538][/us/stat/106/4538]; [Pub. L. 103–435][/us/pl/103/435], § 16(a), Nov. 2, 1994, [108 Stat. 4573][/us/stat/108/4573].)
 
  __References in Text__ 
 
@@ -35,13 +35,13 @@
 
  __Amendments__ 
 
-    1994—Subsec. (a). [Pub. L. 103–435, § 16(a)(1)][/us/pl/103/435/s16/a/1], struck out “who have worked in an Indian health program (as defined in [section 1616a(a)(2) of this title][/us/usc/t25/s1616a/a/2]) for a substantial period of time” after “health professionals” and inserted at end “In selecting participants for a program established under this subsection, the Secretary, acting through the Service, shall give priority to applicants who are employed by the Indian Health Service, Indian tribes, tribal organizations, and urban Indian organizations, at the time of the submission of the applications.”
+    1994—Subsec. (a). [Pub. L. 103–435][/us/pl/103/435], § 16(a)(1), struck out “who have worked in an Indian health program (as defined in [section 1616a(a)(2) of this title][/us/usc/t25/s1616a/a/2]) for a substantial period of time” after “health professionals” and inserted at end “In selecting participants for a program established under this subsection, the Secretary, acting through the Service, shall give priority to applicants who are employed by the Indian Health Service, Indian tribes, tribal organizations, and urban Indian organizations, at the time of the submission of the applications.”
 
-    Subsec. (b). [Pub. L. 103–435, § 16(a)(2)][/us/pl/103/435/s16/a/2], inserted “(as defined in [section 1616a(a)(2) of this title][/us/usc/t25/s1616a/a/2])” after “Indian health program”.
+    Subsec. (b). [Pub. L. 103–435][/us/pl/103/435], § 16(a)(2), inserted “(as defined in [section 1616a(a)(2) of this title][/us/usc/t25/s1616a/a/2])” after “Indian health program”.
 
-    1992—Subsec. (b). [Pub. L. 102–573, § 108(1)][/us/pl/102/573/s108/1], amended last sentence generally. Prior to amendment, last sentence read as follows: “The Secretary shall develop standards for appropriate recoupment for such remaining service.”
+    1992—Subsec. (b). [Pub. L. 102–573][/us/pl/102/573], § 108(1), amended last sentence generally. Prior to amendment, last sentence read as follows: “The Secretary shall develop standards for appropriate recoupment for such remaining service.”
 
-    Subsec. (d). [Pub. L. 102–573, § 108(2)][/us/pl/102/573/s108/2], struck out subsec. (d) which directed Secretary to prescribe regulations to carry out this section.
+    Subsec. (d). [Pub. L. 102–573][/us/pl/102/573], § 108(2), struck out subsec. (d) which directed Secretary to prescribe regulations to carry out this section.
 
 ----------
 
@@ -53,21 +53,21 @@
 [/us/usc/t25/s1616a/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1616a%2Fa%2F2
 [/us/usc/t25/s1616a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1616a
 [/us/usc/t25/s450f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450f
-[/us/pl/94/437/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437%2Fs111
-[/us/pl/100/713/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F713%2Fs108
+[/us/pl/94/437/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437%2FtI
+[/us/pl/100/713/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F713%2FtI
 [/us/stat/102/4795]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4795
-[/us/pl/102/573/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2Fs108
+[/us/pl/102/573/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2FtI
 [/us/stat/106/4538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4538
-[/us/pl/103/435/s16/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F435%2Fs16%2Fa
+[/us/pl/103/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F435
 [/us/stat/108/4573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4573
 [/us/pl/93/638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638
 [/us/stat/88/2206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2206
 [/us/usc/t25/s450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450
-[/us/pl/103/435/s16/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F435%2Fs16%2Fa%2F1
+[/us/pl/103/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F435
 [/us/usc/t25/s1616a/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1616a%2Fa%2F2
-[/us/pl/103/435/s16/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F435%2Fs16%2Fa%2F2
+[/us/pl/103/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F435
 [/us/usc/t25/s1616a/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1616a%2Fa%2F2
-[/us/pl/102/573/s108/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2Fs108%2F1
-[/us/pl/102/573/s108/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2Fs108%2F2
+[/us/pl/102/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573
+[/us/pl/102/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573
 
 

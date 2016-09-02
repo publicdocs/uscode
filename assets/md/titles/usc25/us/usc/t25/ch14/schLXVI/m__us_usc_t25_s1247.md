@@ -17,7 +17,7 @@
 
     Sums payable to adult living enrollees or to adult heirs or legatees of deceased enrollees shall be paid directly to such persons. Sums payable to enrollees or their heirs or legatees who are less than twenty-one years of age or who are under legal disability shall be paid in accordance with such procedures, including the establishment of trusts, as the Secretary of the Interior determines appropriate to protect the best interests of such persons.
 
-([Pub. L. 92–59, § 7][/us/pl/92/59/s7], July 29, 1971, [85 Stat. 159][/us/stat/85/159].)
+([Pub. L. 92–59][/us/pl/92/59], § 7, July 29, 1971, [85 Stat. 159][/us/stat/85/159].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/92/59/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F59%2Fs7
+[/us/pl/92/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F59
 [/us/stat/85/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F159
 
 

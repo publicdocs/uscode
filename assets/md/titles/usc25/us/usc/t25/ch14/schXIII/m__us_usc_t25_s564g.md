@@ -43,15 +43,15 @@
 
         (3) the exchange of tribal property for real property in fee status. Title to all real property included in any sale or exchange as provided in this subsection shall be conveyed in fee simple.
 
-([Aug. 13, 1954, ch. 732, § 8][/us/act/1954-08-13/ch732/s8], [68 Stat. 720][/us/stat/68/720]; [Pub. L. 85–132, § 1(h)][/us/pl/85/132/s1/h], (i), Aug. 14, 1957, [71 Stat. 348][/us/stat/71/348]; [Pub. L. 85–731, § 11][/us/pl/85/731/s11], Aug. 23, 1958, [72 Stat. 819][/us/stat/72/819].)
+([Aug. 13, 1954, ch. 732][/us/act/1954-08-13/ch732], § 8, [68 Stat. 720][/us/stat/68/720]; [Pub. L. 85–132][/us/pl/85/132], § 1(h), (i), Aug. 14, 1957, [71 Stat. 348][/us/stat/71/348]; [Pub. L. 85–731][/us/pl/85/731], § 11, Aug. 23, 1958, [72 Stat. 819][/us/stat/72/819].)
 
  __Amendments__ 
 
     1958—Subsec. (b). [Pub. L. 85–731][/us/pl/85/731] struck out provision making subsection inapplicable to subsurface rights and directing Secretary to transfer subsurface rights to trustees for management for a period not less than ten years.
 
-    1957—Subsec. (b). [Pub. L. 85–132, § 1(i)][/us/pl/85/132/s1/i], substituted “interests in land, wherever located” for “land”, and inserted “purchasers” and “and on trust or restricted interests in land within the Klamath Reservation regardless of ownership” preceding proviso.
+    1957—Subsec. (b). [Pub. L. 85–132][/us/pl/85/132], § 1(i), substituted “interests in land, wherever located” for “land”, and inserted “purchasers” and “and on trust or restricted interests in land within the Klamath Reservation regardless of ownership” preceding proviso.
 
-    Subsec. (c). [Pub. L. 85–132, § 1(h)][/us/pl/85/132/s1/h], inserted “one or by” after “on land owned by”.
+    Subsec. (c). [Pub. L. 85–132][/us/pl/85/132], § 1(h), inserted “one or by” after “on land owned by”.
 
 ----------
 
@@ -60,14 +60,14 @@
 ----------
 ----------
 
-[/us/act/1954-08-13/ch732/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-13%2Fch732%2Fs8
+[/us/act/1954-08-13/ch732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-13%2Fch732
 [/us/stat/68/720]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F720
-[/us/pl/85/132/s1/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F132%2Fs1%2Fh
+[/us/pl/85/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F132
 [/us/stat/71/348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F71%2F348
-[/us/pl/85/731/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F731%2Fs11
+[/us/pl/85/731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F731
 [/us/stat/72/819]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F819
 [/us/pl/85/731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F731
-[/us/pl/85/132/s1/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F132%2Fs1%2Fi
-[/us/pl/85/132/s1/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F132%2Fs1%2Fh
+[/us/pl/85/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F132
+[/us/pl/85/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F132
 
 

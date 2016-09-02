@@ -29,7 +29,7 @@
 
         (B) according to such an agency or association, is making reasonable progress toward accreditation.
 
-([Pub. L. 95–471, title I, § 103][/us/pl/95/471/s103], Oct. 17, 1978, [92 Stat. 1326][/us/stat/92/1326]; [Pub. L. 105–244, title IX, § 901(b)(5)][/us/pl/105/244/s901/b/5], Oct. 7, 1998, [112 Stat. 1828][/us/stat/112/1828]; [Pub. L. 110–315, title IX, § 941(d)][/us/pl/110/315/s941/d], Aug. 14, 2008, [122 Stat. 3461][/us/stat/122/3461].)
+([Pub. L. 95–471, title I][/us/pl/95/471/tI], § 103, Oct. 17, 1978, [92 Stat. 1326][/us/stat/92/1326]; [Pub. L. 105–244, title IX][/us/pl/105/244/tIX], § 901(b)(5), Oct. 7, 1998, [112 Stat. 1828][/us/stat/112/1828]; [Pub. L. 110–315, title IX][/us/pl/110/315/tIX], § 941(d), Aug. 14, 2008, [122 Stat. 3461][/us/stat/122/3461].)
 
  __Amendments__ 
 
@@ -48,11 +48,11 @@
 ----------
 ----------
 
-[/us/pl/95/471/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F471%2Fs103
+[/us/pl/95/471/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F471%2FtI
 [/us/stat/92/1326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1326
-[/us/pl/105/244/s901/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs901%2Fb%2F5
+[/us/pl/105/244/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtIX
 [/us/stat/112/1828]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1828
-[/us/pl/110/315/s941/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs941%2Fd
+[/us/pl/110/315/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtIX
 [/us/stat/122/3461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3461
 [/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244

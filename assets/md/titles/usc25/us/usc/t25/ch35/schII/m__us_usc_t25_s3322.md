@@ -23,7 +23,7 @@
 
     (3) The term “Indian” has the meaning given such term in section 4(d) of the Indian Self Determination and Education Assistance Act \[[25 U.S.C. 450b(d)][/us/usc/t25/s450b/d]\].
 
-([Pub. L. 102–325, title XIII, § 1322][/us/pl/102/325/s1322], July 23, 1992, [106 Stat. 803][/us/stat/106/803].)
+([Pub. L. 102–325, title XIII][/us/pl/102/325/tXIII], § 1322, July 23, 1992, [106 Stat. 803][/us/stat/106/803].)
 
  __References in Text__ 
 
@@ -39,7 +39,7 @@
 [/us/usc/t25/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs13
 [/us/usc/t25/s450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450
 [/us/usc/t25/s450b/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450b%2Fd
-[/us/pl/102/325/s1322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs1322
+[/us/pl/102/325/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2FtXIII
 [/us/stat/106/803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F803
 [/us/pl/93/638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638
 [/us/stat/88/2203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2203

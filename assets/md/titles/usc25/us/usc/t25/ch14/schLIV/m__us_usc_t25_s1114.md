@@ -21,7 +21,7 @@
 
     (b) Their name or the name of an ancestor from whom they claim eligibility appears on any of the rolls cited in [section 1113(b) of this title][/us/usc/t25/s1113/b], or on the roll of the Western Miami Tribe of Indians of June 12, 1891, prepared and completed pursuant to the Act of March 3, 1891 ([26 Stat. 1000][/us/stat/26/1000]).
 
-([Pub. L. 89–659, § 4][/us/pl/89/659/s4], Oct. 14, 1966, [80 Stat. 909][/us/stat/80/909].)
+([Pub. L. 89–659][/us/pl/89/659], § 4, Oct. 14, 1966, [80 Stat. 909][/us/stat/80/909].)
 
  __References in Text__ 
 
@@ -41,7 +41,7 @@
 [/us/stat/77/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F43
 [/us/usc/t25/s1113/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1113%2Fb
 [/us/stat/26/1000]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F26%2F1000
-[/us/pl/89/659/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F659%2Fs4
+[/us/pl/89/659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F659
 [/us/stat/80/909]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F909
 [/us/pl/88/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F25
 [/us/stat/77/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F43

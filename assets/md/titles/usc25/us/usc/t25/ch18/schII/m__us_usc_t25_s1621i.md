@@ -31,7 +31,7 @@
 
         (2) a discussion of the findings and conclusions of such study.
 
-([Pub. L. 94–437, title II, § 210][/us/pl/94/437/s210], as added [Pub. L. 102–573, title II, § 206(b)][/us/pl/102/573/s206/b], Oct. 29, 1992, [106 Stat. 4549][/us/stat/106/4549].)
+([Pub. L. 94–437, title II][/us/pl/94/437/tII], § 210, as added [Pub. L. 102–573, title II][/us/pl/102/573/tII], § 206(b), Oct. 29, 1992, [106 Stat. 4549][/us/stat/106/4549].)
 
 ----------
 
@@ -40,8 +40,8 @@
 ----------
 ----------
 
-[/us/pl/94/437/s210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437%2Fs210
-[/us/pl/102/573/s206/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2Fs206%2Fb
+[/us/pl/94/437/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437%2FtII
+[/us/pl/102/573/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2FtII
 [/us/stat/106/4549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4549
 
 

@@ -17,7 +17,7 @@
 
     The funds apportioned to the Shoshone Tribe of the Wind River Reservation shall be placed to its credit in the United States Treasury and shall be distributed in accordance with the provisions of the Act of May 19, 1947, as amended ([61 Stat. 102][/us/stat/61/102]; [25 U.S.C. 611–613][/us/usc/t25/s611–613]).
 
-([Pub. L. 92–206, § 8][/us/pl/92/206/s8], Dec. 18, 1971, [85 Stat. 739][/us/stat/85/739].)
+([Pub. L. 92–206][/us/pl/92/206], § 8, Dec. 18, 1971, [85 Stat. 739][/us/stat/85/739].)
 
  __References in Text__ 
 
@@ -32,7 +32,7 @@
 
 [/us/stat/61/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F102
 [/us/usc/t25/s611–613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs611%E2%80%93613
-[/us/pl/92/206/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F206%2Fs8
+[/us/pl/92/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F206
 [/us/stat/85/739]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F739
 [/us/act/1947-05-19/ch80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-05-19%2Fch80
 [/us/stat/61/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F102

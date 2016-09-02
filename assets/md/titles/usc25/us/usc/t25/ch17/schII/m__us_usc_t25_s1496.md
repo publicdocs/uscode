@@ -29,7 +29,7 @@
 
     (f) complete, administer, operate, obtain, and pay for insurance on, and maintain, renovate, repair, modernize, lease, or otherwise deal with any property acquired or held pursuant to the guaranty or insurance program authorized by this subchapter.
 
-([Pub. L. 93–262, title II, § 216][/us/pl/93/262/s216], Apr. 12, 1974, [88 Stat. 81][/us/stat/88/81]; [Pub. L. 100–442, § 5(c)][/us/pl/100/442/s5/c], Sept. 22, 1988, [102 Stat. 1764][/us/stat/102/1764].)
+([Pub. L. 93–262, title II][/us/pl/93/262/tII], § 216, Apr. 12, 1974, [88 Stat. 81][/us/stat/88/81]; [Pub. L. 100–442][/us/pl/100/442], § 5(c), Sept. 22, 1988, [102 Stat. 1764][/us/stat/102/1764].)
 
  __Amendments__ 
 
@@ -42,9 +42,9 @@
 ----------
 ----------
 
-[/us/pl/93/262/s216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F262%2Fs216
+[/us/pl/93/262/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F262%2FtII
 [/us/stat/88/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F81
-[/us/pl/100/442/s5/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F442%2Fs5%2Fc
+[/us/pl/100/442]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F442
 [/us/stat/102/1764]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1764
 [/us/pl/100/442]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F442
 

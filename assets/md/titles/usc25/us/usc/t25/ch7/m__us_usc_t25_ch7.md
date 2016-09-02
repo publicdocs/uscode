@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t25/ch6/schIII/m__us_usc_t25_s264.md) | [Next](./../../../..//us/usc/t25/ch7/m__us_usc_t25_s271.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fch7)
+[Previous](./../../../..//us/usc/t25/ch6/schIII/m__us_usc_t25_s265 _us_usc_t25_s266.md) | [Next](./../../../..//us/usc/t25/ch7/m__us_usc_t25_s271.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fch7)
 
 ## CHAPTER 7—EDUCATION OF INDIANS
 
@@ -339,7 +339,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t25/ch6/schIII/m__us_usc_t25_s264.md) | [Next](./../../../..//us/usc/t25/ch7/m__us_usc_t25_s271.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fch7)
+[Previous](./../../../..//us/usc/t25/ch6/schIII/m__us_usc_t25_s265 _us_usc_t25_s266.md) | [Next](./../../../..//us/usc/t25/ch7/m__us_usc_t25_s271.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fch7)
 
 ----------
 ----------

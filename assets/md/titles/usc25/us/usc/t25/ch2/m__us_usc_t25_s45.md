@@ -21,7 +21,7 @@
 
  __Codification__ 
 
-    R.S. § 2069 derived from [act June 30, 1834, ch. 162, § 9][/us/act/1834-06-30/ch162/s9], [4 Stat. 737][/us/stat/4/737].
+    R.S. § 2069 derived from [act June 30, 1834, ch. 162][/us/act/1834-06-30/ch162], § 9, [4 Stat. 737][/us/stat/4/737].
 
  __Transfer of Functions__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/act/1834-06-30/ch162/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1834-06-30%2Fch162%2Fs9
+[/us/act/1834-06-30/ch162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1834-06-30%2Fch162
 [/us/stat/4/737]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F4%2F737
 [/us/stat/64/1262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1262
 

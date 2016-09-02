@@ -49,13 +49,13 @@
 
     (16) The term “Trust Funds” means the trust funds established by [section 941i of this title][/us/usc/t25/s941i].
 
-([Pub. L. 103–116, § 3][/us/pl/103/116/s3], Oct. 27, 1993, [107 Stat. 1120][/us/stat/107/1120].)
+([Pub. L. 103–116][/us/pl/103/116], § 3, Oct. 27, 1993, [107 Stat. 1120][/us/stat/107/1120].)
 
  __References in Text__ 
 
     The Agreement in Principle, referred to in par. (10), is set out at Cong. Rec., vol. 139, part 16, p. 22583.
 
-    The Act entitled “An Act to provide for the division of the tribal assets of the Catawba Indian Tribe of South Carolina among the members of the Tribe and for other purposes”, approved September 21, 1959, referred to in par. (14), is [Pub. L. 86–322][/us/pl/86/322], Sept. 21, 1959, [73 Stat. 592][/us/stat/73/592], which was classified generally to subchapter XLIII (§ 931 et seq.) of this chapter prior to repeal by [Pub. L. 103–116, § 4(c)][/us/pl/103/116/s4/c], Oct. 27, 1993, [107 Stat. 1121][/us/stat/107/1121].
+    The Act entitled “An Act to provide for the division of the tribal assets of the Catawba Indian Tribe of South Carolina among the members of the Tribe and for other purposes”, approved September 21, 1959, referred to in par. (14), is [Pub. L. 86–322][/us/pl/86/322], Sept. 21, 1959, [73 Stat. 592][/us/stat/73/592], which was classified generally to subchapter XLIII (§ 931 et seq.) of this chapter prior to repeal by [Pub. L. 103–116][/us/pl/103/116], § 4(c), Oct. 27, 1993, [107 Stat. 1121][/us/stat/107/1121].
 
 ----------
 
@@ -68,11 +68,11 @@
 [/us/stat/73/592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F592
 [/us/usc/t25/s931–938]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs931%E2%80%93938
 [/us/usc/t25/s941i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs941i
-[/us/pl/103/116/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F116%2Fs3
+[/us/pl/103/116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F116
 [/us/stat/107/1120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1120
 [/us/pl/86/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F322
 [/us/stat/73/592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F592
-[/us/pl/103/116/s4/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F116%2Fs4%2Fc
+[/us/pl/103/116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F116
 [/us/stat/107/1121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1121
 
 

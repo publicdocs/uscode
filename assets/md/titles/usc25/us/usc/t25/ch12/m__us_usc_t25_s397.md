@@ -17,7 +17,7 @@
 
     Where lands are occupied by Indians who have bought and paid for the same, and which lands are not needed for farming or agricultural purposes, and are not desired for individual allotments, the same may be leased by authority of the council speaking for such Indians, for a period not to exceed five years for grazing, or ten years for mining purposes in such quantities and upon such terms and conditions as the agent in charge of such reservation may recommend, subject to the approval of the Secretary of the Interior.
 
-([Feb. 28, 1891, ch. 383, § 3][/us/act/1891-02-28/ch383/s3], [26 Stat. 795][/us/stat/26/795].)
+([Feb. 28, 1891, ch. 383][/us/act/1891-02-28/ch383], § 3, [26 Stat. 795][/us/stat/26/795].)
 
  __Transfer of Functions__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1891-02-28/ch383/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1891-02-28%2Fch383%2Fs3
+[/us/act/1891-02-28/ch383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1891-02-28%2Fch383
 [/us/stat/26/795]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F26%2F795
 [/us/stat/64/1262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1262
 

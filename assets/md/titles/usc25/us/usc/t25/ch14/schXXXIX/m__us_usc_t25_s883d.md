@@ -17,7 +17,7 @@
 
     The Secretary of the Interior is authorized to prescribe rules and regulations to carry out the provisions of sections 883 to 883d of this title.
 
-([Pub. L. 92–586, § 5][/us/pl/92/586/s5], Oct. 27, 1972, [86 Stat. 1296][/us/stat/86/1296].)
+([Pub. L. 92–586][/us/pl/92/586], § 5, Oct. 27, 1972, [86 Stat. 1296][/us/stat/86/1296].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/92/586/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F586%2Fs5
+[/us/pl/92/586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F586
 [/us/stat/86/1296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1296
 
 

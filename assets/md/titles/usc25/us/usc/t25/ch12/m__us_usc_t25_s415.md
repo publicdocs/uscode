@@ -253,7 +253,7 @@
 
             Nothing in this subsection shall affect subsection (e) or any tribal regulations issued under that subsection.
 
-([Aug. 9, 1955, ch. 615, § 1][/us/act/1955-08-09/ch615/s1], [69 Stat. 539][/us/stat/69/539]; [Pub. L. 86–326][/us/pl/86/326], Sept. 21, 1959, [73 Stat. 597][/us/stat/73/597]; [Pub. L. 86–505, § 2][/us/pl/86/505/s2], June 11, 1960, [74 Stat. 199][/us/stat/74/199]; [Pub. L. 87–375][/us/pl/87/375], Oct. 4, 1961, [75 Stat. 804][/us/stat/75/804]; [Pub. L. 87–785][/us/pl/87/785], Oct. 10, 1962, [76 Stat. 805][/us/stat/76/805]; [Pub. L. 88–167][/us/pl/88/167], Nov. 4, 1963, [77 Stat. 301][/us/stat/77/301]; [Pub. L. 89–408][/us/pl/89/408], Apr. 27, 1966, [80 Stat. 132][/us/stat/80/132]; [Pub. L. 90–182][/us/pl/90/182], Dec. 8, 1967, [81 Stat. 559][/us/stat/81/559]; [Pub. L. 90–184][/us/pl/90/184], Dec. 10, 1967, [81 Stat. 560][/us/stat/81/560]; [Pub. L. 90–335, § 1(f)][/us/pl/90/335/s1/f], June 10, 1968, [82 Stat. 175][/us/stat/82/175]; [Pub. L. 90–355][/us/pl/90/355], June 20, 1968, [82 Stat. 242][/us/stat/82/242]; [Pub. L. 90–534, § 6][/us/pl/90/534/s6], Sept. 28, 1968, [82 Stat. 884][/us/stat/82/884]; [Pub. L. 90–570][/us/pl/90/570], Oct. 12, 1968, [82 Stat. 1003][/us/stat/82/1003]; [Pub. L. 91–274][/us/pl/91/274], §§ 2, 3, June 2, 1970, [84 Stat. 302][/us/stat/84/302]; [Pub. L. 91–275][/us/pl/91/275], §§ 1, 2, June 2, 1970, [84 Stat. 303][/us/stat/84/303]; [Pub. L. 91–557, § 8][/us/pl/91/557/s8], Dec. 17, 1970, [84 Stat. 1468][/us/stat/84/1468]; [Pub. L. 92–182, § 6][/us/pl/92/182/s6], Dec. 15, 1971, [85 Stat. 626][/us/stat/85/626]; [Pub. L. 92–431][/us/pl/92/431], Sept. 26, 1972, [86 Stat. 723][/us/stat/86/723]; [Pub. L. 92–472, § 7][/us/pl/92/472/s7], Oct. 9, 1972, [86 Stat. 788][/us/stat/86/788]; [Pub. L. 92–488, § 4][/us/pl/92/488/s4], Oct. 13, 1972, [86 Stat. 806][/us/stat/86/806]; [Pub. L. 96–216][/us/pl/96/216], Mar. 27, 1980, [94 Stat. 125][/us/stat/94/125]; [Pub. L. 96–491, § 3][/us/pl/96/491/s3], Dec. 2, 1980, [94 Stat. 2564][/us/stat/94/2564]; [Pub. L. 97–459, title I, § 107][/us/pl/97/459/s107], Jan. 12, 1983, [96 Stat. 2516][/us/stat/96/2516]; [Pub. L. 98–70][/us/pl/98/70], Aug. 8, 1983, [97 Stat. 401][/us/stat/97/401]; [Pub. L. 98–203, § 1(c)][/us/pl/98/203/s1/c], Dec. 2, 1983, [97 Stat. 1384][/us/stat/97/1384]; [Pub. L. 99–221, § 2][/us/pl/99/221/s2], Dec. 26, 1985, [99 Stat. 1735][/us/stat/99/1735]; [Pub. L. 99–389, § 3(a)][/us/pl/99/389/s3/a], Aug. 23, 1986, [100 Stat. 829][/us/stat/100/829]; [Pub. L. 99–500, § 101(h)][/us/pl/99/500/s101/h] \[title I, § 122\], Oct. 18, 1986, [100 Stat. 1783–242][/us/stat/100/1783-242], 1783–267, and [Pub. L. 99–591, § 101(h)][/us/pl/99/591/s101/h] \[title I, § 122\], Oct. 30, 1986, [100 Stat. 3341–242][/us/stat/100/3341-242], 3341–267; [Pub. L. 99–575, § 5][/us/pl/99/575/s5], Oct. 28, 1986, [100 Stat. 3246][/us/stat/100/3246]; [Pub. L. 101–630, title II, § 201][/us/pl/101/630/s201], Nov. 28, 1990, [104 Stat. 4532][/us/stat/104/4532]; [Pub. L. 102–497, § 5][/us/pl/102/497/s5], Oct. 24, 1992, [106 Stat. 3255][/us/stat/106/3255]; [Pub. L. 103–435, § 5][/us/pl/103/435/s5], Nov. 2, 1994, [108 Stat. 4569][/us/stat/108/4569]; [Pub. L. 104–301, § 9][/us/pl/104/301/s9], Oct. 11, 1996, [110 Stat. 3652][/us/stat/110/3652]; [Pub. L. 105–256, § 1][/us/pl/105/256/s1], Oct. 14, 1998, [112 Stat. 1896][/us/stat/112/1896]; [Pub. L. 106–216, § 1(a)][/us/pl/106/216/s1/a], June 20, 2000, [114 Stat. 343][/us/stat/114/343]; [Pub. L. 106–568, title XII, § 1203][/us/pl/106/568/s1203], Dec. 27, 2000, [114 Stat. 2934][/us/stat/114/2934]; [Pub. L. 107–102, § 1][/us/pl/107/102/s1], Dec. 27, 2001, [115 Stat. 974][/us/stat/115/974]; [Pub. L. 107–159][/us/pl/107/159], Apr. 4, 2002, [116 Stat. 122][/us/stat/116/122]; [Pub. L. 107–331, title X, § 1002(a)][/us/pl/107/331/s1002/a], Dec. 13, 2002, [116 Stat. 2869][/us/stat/116/2869]; [Pub. L. 108–199, div. H, § 149][/us/pl/108/199/s149], Jan. 23, 2004, [118 Stat. 446][/us/stat/118/446]; [Pub. L. 109–147, § 1(a)][/us/pl/109/147/s1/a], Dec. 22, 2005, [119 Stat. 2679][/us/stat/119/2679]; [Pub. L. 109–221, title II, § 202(a)][/us/pl/109/221/s202/a], May 12, 2006, [120 Stat. 340][/us/stat/120/340]; [Pub. L. 110–453, title II][/us/pl/110/453], §§ 202, 204, 205(a), Dec. 2, 2008, [122 Stat. 5029][/us/stat/122/5029]; [Pub. L. 111–334, § 1][/us/pl/111/334/s1], Dec. 22, 2010, [124 Stat. 3582][/us/stat/124/3582]; [Pub. L. 111–336, § 1][/us/pl/111/336/s1], Dec. 22, 2010, [124 Stat. 3587][/us/stat/124/3587]; [Pub. L. 111–381, § 1][/us/pl/111/381/s1], Jan. 4, 2011, [124 Stat. 4133][/us/stat/124/4133]; [Pub. L. 112–151, § 2][/us/pl/112/151/s2], July 30, 2012, [126 Stat. 1150][/us/stat/126/1150].)
+([Aug. 9, 1955, ch. 615][/us/act/1955-08-09/ch615], § 1, [69 Stat. 539][/us/stat/69/539]; [Pub. L. 86–326][/us/pl/86/326], Sept. 21, 1959, [73 Stat. 597][/us/stat/73/597]; [Pub. L. 86–505][/us/pl/86/505], § 2, June 11, 1960, [74 Stat. 199][/us/stat/74/199]; [Pub. L. 87–375][/us/pl/87/375], Oct. 4, 1961, [75 Stat. 804][/us/stat/75/804]; [Pub. L. 87–785][/us/pl/87/785], Oct. 10, 1962, [76 Stat. 805][/us/stat/76/805]; [Pub. L. 88–167][/us/pl/88/167], Nov. 4, 1963, [77 Stat. 301][/us/stat/77/301]; [Pub. L. 89–408][/us/pl/89/408], Apr. 27, 1966, [80 Stat. 132][/us/stat/80/132]; [Pub. L. 90–182][/us/pl/90/182], Dec. 8, 1967, [81 Stat. 559][/us/stat/81/559]; [Pub. L. 90–184][/us/pl/90/184], Dec. 10, 1967, [81 Stat. 560][/us/stat/81/560]; [Pub. L. 90–335][/us/pl/90/335], § 1(f), June 10, 1968, [82 Stat. 175][/us/stat/82/175]; [Pub. L. 90–355][/us/pl/90/355], June 20, 1968, [82 Stat. 242][/us/stat/82/242]; [Pub. L. 90–534][/us/pl/90/534], § 6, Sept. 28, 1968, [82 Stat. 884][/us/stat/82/884]; [Pub. L. 90–570][/us/pl/90/570], Oct. 12, 1968, [82 Stat. 1003][/us/stat/82/1003]; [Pub. L. 91–274][/us/pl/91/274], §§ 2, 3, June 2, 1970, [84 Stat. 302][/us/stat/84/302]; [Pub. L. 91–275][/us/pl/91/275], §§ 1, 2, June 2, 1970, [84 Stat. 303][/us/stat/84/303]; [Pub. L. 91–557][/us/pl/91/557], § 8, Dec. 17, 1970, [84 Stat. 1468][/us/stat/84/1468]; [Pub. L. 92–182][/us/pl/92/182], § 6, Dec. 15, 1971, [85 Stat. 626][/us/stat/85/626]; [Pub. L. 92–431][/us/pl/92/431], Sept. 26, 1972, [86 Stat. 723][/us/stat/86/723]; [Pub. L. 92–472][/us/pl/92/472], § 7, Oct. 9, 1972, [86 Stat. 788][/us/stat/86/788]; [Pub. L. 92–488][/us/pl/92/488], § 4, Oct. 13, 1972, [86 Stat. 806][/us/stat/86/806]; [Pub. L. 96–216][/us/pl/96/216], Mar. 27, 1980, [94 Stat. 125][/us/stat/94/125]; [Pub. L. 96–491][/us/pl/96/491], § 3, Dec. 2, 1980, [94 Stat. 2564][/us/stat/94/2564]; [Pub. L. 97–459, title I][/us/pl/97/459/tI], § 107, Jan. 12, 1983, [96 Stat. 2516][/us/stat/96/2516]; [Pub. L. 98–70][/us/pl/98/70], Aug. 8, 1983, [97 Stat. 401][/us/stat/97/401]; [Pub. L. 98–203][/us/pl/98/203], § 1(c), Dec. 2, 1983, [97 Stat. 1384][/us/stat/97/1384]; [Pub. L. 99–221][/us/pl/99/221], § 2, Dec. 26, 1985, [99 Stat. 1735][/us/stat/99/1735]; [Pub. L. 99–389][/us/pl/99/389], § 3(a), Aug. 23, 1986, [100 Stat. 829][/us/stat/100/829]; [Pub. L. 99–500][/us/pl/99/500], § 101(h) \[title I, § 122\], Oct. 18, 1986, [100 Stat. 1783–242][/us/stat/100/1783-242], 1783–267, and [Pub. L. 99–591][/us/pl/99/591], § 101(h) \[title I, § 122\], Oct. 30, 1986, [100 Stat. 3341–242][/us/stat/100/3341-242], 3341–267; [Pub. L. 99–575][/us/pl/99/575], § 5, Oct. 28, 1986, [100 Stat. 3246][/us/stat/100/3246]; [Pub. L. 101–630, title II][/us/pl/101/630/tII], § 201, Nov. 28, 1990, [104 Stat. 4532][/us/stat/104/4532]; [Pub. L. 102–497][/us/pl/102/497], § 5, Oct. 24, 1992, [106 Stat. 3255][/us/stat/106/3255]; [Pub. L. 103–435][/us/pl/103/435], § 5, Nov. 2, 1994, [108 Stat. 4569][/us/stat/108/4569]; [Pub. L. 104–301][/us/pl/104/301], § 9, Oct. 11, 1996, [110 Stat. 3652][/us/stat/110/3652]; [Pub. L. 105–256][/us/pl/105/256], § 1, Oct. 14, 1998, [112 Stat. 1896][/us/stat/112/1896]; [Pub. L. 106–216][/us/pl/106/216], § 1(a), June 20, 2000, [114 Stat. 343][/us/stat/114/343]; [Pub. L. 106–568, title XII][/us/pl/106/568/tXII], § 1203, Dec. 27, 2000, [114 Stat. 2934][/us/stat/114/2934]; [Pub. L. 107–102][/us/pl/107/102], § 1, Dec. 27, 2001, [115 Stat. 974][/us/stat/115/974]; [Pub. L. 107–159][/us/pl/107/159], Apr. 4, 2002, [116 Stat. 122][/us/stat/116/122]; [Pub. L. 107–331, title X][/us/pl/107/331/tX], § 1002(a), Dec. 13, 2002, [116 Stat. 2869][/us/stat/116/2869]; [Pub. L. 108–199, div. H][/us/pl/108/199/dH], § 149, Jan. 23, 2004, [118 Stat. 446][/us/stat/118/446]; [Pub. L. 109–147][/us/pl/109/147], § 1(a), Dec. 22, 2005, [119 Stat. 2679][/us/stat/119/2679]; [Pub. L. 109–221, title II][/us/pl/109/221/tII], § 202(a), May 12, 2006, [120 Stat. 340][/us/stat/120/340]; [Pub. L. 110–453, title II][/us/pl/110/453/tII], §§ 202, 204, 205(a), Dec. 2, 2008, [122 Stat. 5029][/us/stat/122/5029]; [Pub. L. 111–334][/us/pl/111/334], § 1, Dec. 22, 2010, [124 Stat. 3582][/us/stat/124/3582]; [Pub. L. 111–336][/us/pl/111/336], § 1, Dec. 22, 2010, [124 Stat. 3587][/us/stat/124/3587]; [Pub. L. 111–381][/us/pl/111/381], § 1, Jan. 4, 2011, [124 Stat. 4133][/us/stat/124/4133]; [Pub. L. 112–151][/us/pl/112/151], § 2, July 30, 2012, [126 Stat. 1150][/us/stat/126/1150].)
 
  __References in Text__ 
 
@@ -265,29 +265,29 @@
 
  __Amendments__ 
 
-    2012—Subsec. (d)(4). [Pub. L. 112–151, § 2(1)(A)][/us/pl/112/151/s2/1/A], substituted “an applicable Indian tribe” for “the Navajo Nation”.
+    2012—Subsec. (d)(4). [Pub. L. 112–151][/us/pl/112/151], § 2(1)(A), substituted “an applicable Indian tribe” for “the Navajo Nation”.
 
-    Subsec. (d)(6). [Pub. L. 112–151, § 2(1)(B)][/us/pl/112/151/s2/1/B], substituted “an Indian tribe” for “the Navajo Nation”.
+    Subsec. (d)(6). [Pub. L. 112–151][/us/pl/112/151], § 2(1)(B), substituted “an Indian tribe” for “the Navajo Nation”.
 
-    Subsec. (d)(8). [Pub. L. 112–151, § 2(1)(D)(i)][/us/pl/112/151/s2/1/D/i], (ii), struck out “the Navajo Nation” before “regulations” and substituted “with applicable tribal law” for “with Navajo Nation law”.
+    Subsec. (d)(8). [Pub. L. 112–151][/us/pl/112/151], § 2(1)(D)(i), (ii), struck out “the Navajo Nation” before “regulations” and substituted “with applicable tribal law” for “with Navajo Nation law”.
 
-    Subsec. (d)(9), (10). [Pub. L. 112–151, § 2(1)(C)][/us/pl/112/151/s2/1/C], (D)(iii), (E), added pars. (9) and (10).
+    Subsec. (d)(9), (10). [Pub. L. 112–151][/us/pl/112/151], § 2(1)(C), (D)(iii), (E), added pars. (9) and (10).
 
-    Subsec. (h). [Pub. L. 112–151, § 2(2)][/us/pl/112/151/s2/2], added subsec. (h).
+    Subsec. (h). [Pub. L. 112–151][/us/pl/112/151], § 2(2), added subsec. (h).
 
     2011—Subsec. (a). [Pub. L. 111–381][/us/pl/111/381] inserted “and lands held in trust for Ohkay Owingeh Pueblo” after “of land on the Devils Lake Sioux Reservation,”.
 
-    2010—Subsec. (a). [Pub. L. 111–336, § 1(1)][/us/pl/111/336/s1/1], inserted “and land held in trust for the Kalispel Tribe of Indians, the Puyallup Tribe of Indians,” after “the Kalispel Indian Reservation”.
+    2010—Subsec. (a). [Pub. L. 111–336][/us/pl/111/336], § 1(1), inserted “and land held in trust for the Kalispel Tribe of Indians, the Puyallup Tribe of Indians,” after “the Kalispel Indian Reservation”.
 
     [Pub. L. 111–334][/us/pl/111/334] inserted “land held in trust for the Coquille Indian Tribe, land held in trust for the Confederated Tribes of Siletz Indians, land held in trust for the Confederated Tribes of the Coos, Lower Umpqua, and Siuslaw Indians, land held in trust for the Klamath Tribes, and land held in trust for the Burns Paiute Tribe,” after “lands held in trust for the Confederated Tribes of the Warm Springs Reservation of Oregon,”.
 
-    Subsec. (b). [Pub. L. 111–336, § 1(2)][/us/pl/111/336/s1/2], inserted “, the Puyallup Tribe of Indians, the Swinomish Indian Tribal Community, or the Kalispel Tribe of Indians” after “Tulalip Tribes”.
+    Subsec. (b). [Pub. L. 111–336][/us/pl/111/336], § 1(2), inserted “, the Puyallup Tribe of Indians, the Swinomish Indian Tribal Community, or the Kalispel Tribe of Indians” after “Tulalip Tribes”.
 
-    2008—Subsec. (a). [Pub. L. 110–453, § 205(a)][/us/pl/110/453/s205/a], inserted “and lands held in trust for the Cow Creek Band of Umpqua Tribe of Indians,” after “lands held in trust for the Confederated Tribes of the Warm Springs Reservation of Oregon,”.
+    2008—Subsec. (a). [Pub. L. 110–453][/us/pl/110/453], § 205(a), inserted “and lands held in trust for the Cow Creek Band of Umpqua Tribe of Indians,” after “lands held in trust for the Confederated Tribes of the Warm Springs Reservation of Oregon,”.
 
-    [Pub. L. 110–453, § 204][/us/pl/110/453/s204], inserted “and except leases of land held in trust for the Morongo Band of Mission Indians which may be for a term of not to exceed 50 years,” after “which may be for a term of not to exceed ninety-nine years,”.
+    [Pub. L. 110–453][/us/pl/110/453], § 204, inserted “and except leases of land held in trust for the Morongo Band of Mission Indians which may be for a term of not to exceed 50 years,” after “which may be for a term of not to exceed ninety-nine years,”.
 
-    Subsec. (f). [Pub. L. 110–453, § 202][/us/pl/110/453/s202], substituted “lease or construction contract, affecting” for “lease, affecting”.
+    Subsec. (f). [Pub. L. 110–453][/us/pl/110/453], § 202, substituted “lease or construction contract, affecting” for “lease, affecting”.
 
     2006—Subsec. (a). [Pub. L. 109–221][/us/pl/109/221], in second sentence, substituted “Moapa Indian Reservation” for “Moapa Indian reservation” and “the lands comprising the Moses Allotment Numbered 8 and the Moses Allotment Numbered 10, Chelan County, Washington,” for “lands comprising the Moses Allotment Numbered 10, Chelan County, Washington,,” and inserted “the Confederated Tribes of the Umatilla Indian Reservation,” before “the Burns Paiute Reservation”, “the” before “Yavapai-Prescott”, “the Muckleshoot Indian Reservation and land held in trust for the Muckleshoot Indian Tribe,” after “the Cabazon Indian Reservation,”, “land held in trust for the Prairie Band Potawatomi Nation,” before “lands held in trust for the Cherokee Nation of Oklahoma”, “land held in trust for the Fallon Paiute Shoshone Tribes,” before “lands held in trust for the Pueblo of Santa Clara”, and “land held in trust for the Yurok Tribe, land held in trust for the Hopland Band of Pomo Indians of the Hopland Rancheria,” after “Pueblo of Santa Clara,”.
 
@@ -303,9 +303,9 @@
 
     2000—Subsec. (a). [Pub. L. 106–216][/us/pl/106/216] inserted “lands held in trust for the Torres Martinez Desert Cahuilla Indians, lands held in trust for the Guidiville Band of Pomo Indians of the Guidiville Indian Rancheria, lands held in trust for the Confederated Tribes of the Umatilla Indian Reservation” after “Sparks Indian Colony,”.
 
-    Subsec. (d)(3) to (8). [Pub. L. 106–568, § 1203(1)][/us/pl/106/568/s1203/1], added pars. (3) to (8).
+    Subsec. (d)(3) to (8). [Pub. L. 106–568][/us/pl/106/568], § 1203(1), added pars. (3) to (8).
 
-    Subsec. (e). [Pub. L. 106–568, § 1203(2)][/us/pl/106/568/s1203/2], added subsec. (e).
+    Subsec. (e). [Pub. L. 106–568][/us/pl/106/568], § 1203(2), added subsec. (e).
 
     1998—Subsec. (a). [Pub. L. 105–256][/us/pl/105/256], in second sentence, inserted “the Cabazon Indian Reservation,” after “the Navajo Reservation,” and “lands held in trust for the Confederated Tribes of the Grand Ronde Community of Oregon,” after “lands held in trust for the Cahuilla Band of Indians of California,”.
 
@@ -349,7 +349,7 @@
 
     [Pub. L. 91–274][/us/pl/91/274], §§ 2, 3, designated existing provisions as subsec. (a) and inserted “the Tulalip Indian Reservation,” after “the Gila River Reservation,”.
 
-    Subsec. (b). [Pub. L. 91–274, § 3][/us/pl/91/274/s3], added subsec. (b).
+    Subsec. (b). [Pub. L. 91–274][/us/pl/91/274], § 3, added subsec. (b).
 
     1968—[Pub. L. 90–570][/us/pl/90/570] inserted “the pueblo of Cochiti, the pueblo of Pojoaque, the pueblo of Tesuque, the pueblo of Zuni,” after “Fort Mojava Reservation,”.
 
@@ -377,65 +377,65 @@
 
  __Effective Date of 2008 Amendment__ 
 
-[Pub. L. 110–453, title II, § 205(b)][/us/pl/110/453/s205/b], Dec. 2, 2008, [122 Stat. 5030][/us/stat/122/5030], provided that: 
+[Pub. L. 110–453, title II][/us/pl/110/453/tII], § 205(b), Dec. 2, 2008, [122 Stat. 5030][/us/stat/122/5030], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply to any lease entered into or renewed after the date of the enactment of this Act \[Dec. 2, 2008\].”
 
  __Effective Date of 2006 Amendment__ 
 
-[Pub. L. 109–221, title II, § 202(b)][/us/pl/109/221/s202/b], May 12, 2006, [120 Stat. 341][/us/stat/120/341], provided that: 
+[Pub. L. 109–221, title II][/us/pl/109/221/tII], § 202(b), May 12, 2006, [120 Stat. 341][/us/stat/120/341], provided that: 
 
 > “The amendments made by subsection (a) \[amending this section\] shall apply to any lease entered into or renewed after the date of enactment of this Act \[May 12, 2006\].”
 
  __Effective Date of 2005 Amendment__ 
 
-[Pub. L. 109–147, § 1(b)][/us/pl/109/147/s1/b], Dec. 22, 2005, [119 Stat. 2679][/us/stat/119/2679], provided that: 
+[Pub. L. 109–147][/us/pl/109/147], § 1(b), Dec. 22, 2005, [119 Stat. 2679][/us/stat/119/2679], provided that: 
 
 > “The amendments made by subsection (a) \[amending this section\] shall take effect as if included in [Public Law 107–159][/us/pl/107/159] ([116 Stat. 122][/us/stat/116/122]).”
 
  __Effective Date of 2002 Amendment__ 
 
-[Pub. L. 107–331, title X, § 1002(b)][/us/pl/107/331/s1002/b], Dec. 13, 2002, [116 Stat. 2870][/us/stat/116/2870], provided that: 
+[Pub. L. 107–331, title X][/us/pl/107/331/tX], § 1002(b), Dec. 13, 2002, [116 Stat. 2870][/us/stat/116/2870], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply to any lease entered into or renewed after the date of the enactment of this title \[Dec. 13, 2002\].”
 
  __Effective Date of 2001 Amendment__ 
 
-[Pub. L. 107–102, § 3][/us/pl/107/102/s3], Dec. 27, 2001, [115 Stat. 975][/us/stat/115/975], provided that: 
+[Pub. L. 107–102][/us/pl/107/102], § 3, Dec. 27, 2001, [115 Stat. 975][/us/stat/115/975], provided that: 
 
 > “This Act \[amending this section\] shall take effect as of April 12, 2000.”
 
  __Effective Date of 2000 Amendment__ 
 
-[Pub. L. 106–216, § 1(b)][/us/pl/106/216/s1/b], June 20, 2000, [114 Stat. 343][/us/stat/114/343], provided that: 
+[Pub. L. 106–216][/us/pl/106/216], § 1(b), June 20, 2000, [114 Stat. 343][/us/stat/114/343], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply to any lease entered into or renewed after the date of the enactment of this Act \[June 20, 2000\].”
 
  __Effective Date of 1986 Amendment__ 
 
-    [Pub. L. 99–575, § 6(a)][/us/pl/99/575/s6/a], Oct. 28, 1986, [100 Stat. 3246][/us/stat/100/3246], provided in part that the amendment made by [Pub. L. 99–575][/us/pl/99/575] is effective Oct. 28, 1986.
+    [Pub. L. 99–575][/us/pl/99/575], § 6(a), Oct. 28, 1986, [100 Stat. 3246][/us/stat/100/3246], provided in part that the amendment made by [Pub. L. 99–575][/us/pl/99/575] is effective Oct. 28, 1986.
 
  __Short Title of 2012 Amendment__ 
 
-[Pub. L. 112–151, § 1][/us/pl/112/151/s1], July 30, 2012, [126 Stat. 1150][/us/stat/126/1150], provided that: 
+[Pub. L. 112–151][/us/pl/112/151], § 1, July 30, 2012, [126 Stat. 1150][/us/stat/126/1150], provided that: 
 
 > “This Act \[amending this section\] may be cited as the ‘Helping Expedite and Advance Responsible Tribal Home Ownership Act of 2012’ or the ‘HEARTH Act of 2012’.”
 
  __Short Title of 2000 Amendment__ 
 
-[Pub. L. 106–568, title XII, § 1201][/us/pl/106/568/s1201], Dec. 27, 2000, [114 Stat. 2933][/us/stat/114/2933], provided that: 
+[Pub. L. 106–568, title XII][/us/pl/106/568/tXII], § 1201, Dec. 27, 2000, [114 Stat. 2933][/us/stat/114/2933], provided that: 
 
 > “This title \[amending this section and enacting provisions set out as a note under this section\] may be cited as the ‘Navajo Nation Trust Land Leasing Act of 2000’.”
 
  __Short Title of 1985 Amendment__ 
 
-[Pub. L. 99–221, § 1][/us/pl/99/221/s1], Dec. 26, 1985, [99 Stat. 1735][/us/stat/99/1735], provided that: 
+[Pub. L. 99–221][/us/pl/99/221], § 1, Dec. 26, 1985, [99 Stat. 1735][/us/stat/99/1735], provided that: 
 
 > “This Act \[amending this section, [section 450i of this title][/us/usc/t25/s450i], [section 3121 of Title 26][/us/usc/t26/s3121], Internal Revenue Code, and [section 410 of Title 42][/us/usc/t42/s410], The Public Health and Welfare, and enacting a provision set out as a note under [section 410 of Title 42][/us/usc/t42/s410]\] may be cited as the ‘Cherokee Leasing Act’.”
 
  __Congressional Findings and Declaration of Purposes__ 
 
-[Pub. L. 106–568, title XII, § 1202][/us/pl/106/568/s1202], Dec. 27, 2000, [114 Stat. 2933][/us/stat/114/2933], provided that:
+[Pub. L. 106–568, title XII][/us/pl/106/568/tXII], § 1202, Dec. 27, 2000, [114 Stat. 2933][/us/stat/114/2933], provided that:
 
 >     “(a)  __Findings__  __.—__ 
 
@@ -480,11 +480,11 @@
 [/us/usc/t9/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft9%2Fs1
 [/us/usc/t28/s1331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1331
 [/us/usc/t25/s450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450
-[/us/act/1955-08-09/ch615/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-09%2Fch615%2Fs1
+[/us/act/1955-08-09/ch615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-09%2Fch615
 [/us/stat/69/539]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F539
 [/us/pl/86/326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F326
 [/us/stat/73/597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F597
-[/us/pl/86/505/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F505%2Fs2
+[/us/pl/86/505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F505
 [/us/stat/74/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F199
 [/us/pl/87/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F375
 [/us/stat/75/804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F804
@@ -498,11 +498,11 @@
 [/us/stat/81/559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F559
 [/us/pl/90/184]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F184
 [/us/stat/81/560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F560
-[/us/pl/90/335/s1/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F335%2Fs1%2Ff
+[/us/pl/90/335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F335
 [/us/stat/82/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F175
 [/us/pl/90/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F355
 [/us/stat/82/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F242
-[/us/pl/90/534/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F534%2Fs6
+[/us/pl/90/534]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F534
 [/us/stat/82/884]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F884
 [/us/pl/90/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F570
 [/us/stat/82/1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1003
@@ -510,89 +510,89 @@
 [/us/stat/84/302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F302
 [/us/pl/91/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F275
 [/us/stat/84/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F303
-[/us/pl/91/557/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F557%2Fs8
+[/us/pl/91/557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F557
 [/us/stat/84/1468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1468
-[/us/pl/92/182/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F182%2Fs6
+[/us/pl/92/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F182
 [/us/stat/85/626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F626
 [/us/pl/92/431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F431
 [/us/stat/86/723]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F723
-[/us/pl/92/472/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F472%2Fs7
+[/us/pl/92/472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F472
 [/us/stat/86/788]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F788
-[/us/pl/92/488/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F488%2Fs4
+[/us/pl/92/488]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F488
 [/us/stat/86/806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F806
 [/us/pl/96/216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F216
 [/us/stat/94/125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F125
-[/us/pl/96/491/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F491%2Fs3
+[/us/pl/96/491]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F491
 [/us/stat/94/2564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2564
-[/us/pl/97/459/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F459%2Fs107
+[/us/pl/97/459/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F459%2FtI
 [/us/stat/96/2516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2516
 [/us/pl/98/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F70
 [/us/stat/97/401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F401
-[/us/pl/98/203/s1/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F203%2Fs1%2Fc
+[/us/pl/98/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F203
 [/us/stat/97/1384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1384
-[/us/pl/99/221/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F221%2Fs2
+[/us/pl/99/221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F221
 [/us/stat/99/1735]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1735
-[/us/pl/99/389/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F389%2Fs3%2Fa
+[/us/pl/99/389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F389
 [/us/stat/100/829]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F829
-[/us/pl/99/500/s101/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500%2Fs101%2Fh
+[/us/pl/99/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500
 [/us/stat/100/1783-242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1783-242
-[/us/pl/99/591/s101/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591%2Fs101%2Fh
+[/us/pl/99/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591
 [/us/stat/100/3341-242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3341-242
-[/us/pl/99/575/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F575%2Fs5
+[/us/pl/99/575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F575
 [/us/stat/100/3246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3246
-[/us/pl/101/630/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F630%2Fs201
+[/us/pl/101/630/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F630%2FtII
 [/us/stat/104/4532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4532
-[/us/pl/102/497/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F497%2Fs5
+[/us/pl/102/497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F497
 [/us/stat/106/3255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3255
-[/us/pl/103/435/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F435%2Fs5
+[/us/pl/103/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F435
 [/us/stat/108/4569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4569
-[/us/pl/104/301/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F301%2Fs9
+[/us/pl/104/301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F301
 [/us/stat/110/3652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3652
-[/us/pl/105/256/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F256%2Fs1
+[/us/pl/105/256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F256
 [/us/stat/112/1896]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1896
-[/us/pl/106/216/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F216%2Fs1%2Fa
+[/us/pl/106/216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F216
 [/us/stat/114/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F343
-[/us/pl/106/568/s1203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F568%2Fs1203
+[/us/pl/106/568/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F568%2FtXII
 [/us/stat/114/2934]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2934
-[/us/pl/107/102/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F102%2Fs1
+[/us/pl/107/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F102
 [/us/stat/115/974]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F974
 [/us/pl/107/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F159
 [/us/stat/116/122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F122
-[/us/pl/107/331/s1002/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F331%2Fs1002%2Fa
+[/us/pl/107/331/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F331%2FtX
 [/us/stat/116/2869]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2869
-[/us/pl/108/199/s149]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2Fs149
+[/us/pl/108/199/dH]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2FdH
 [/us/stat/118/446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F446
-[/us/pl/109/147/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F147%2Fs1%2Fa
+[/us/pl/109/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F147
 [/us/stat/119/2679]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2679
-[/us/pl/109/221/s202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F221%2Fs202%2Fa
+[/us/pl/109/221/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F221%2FtII
 [/us/stat/120/340]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F340
-[/us/pl/110/453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F453
+[/us/pl/110/453/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F453%2FtII
 [/us/stat/122/5029]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F5029
-[/us/pl/111/334/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F334%2Fs1
+[/us/pl/111/334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F334
 [/us/stat/124/3582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3582
-[/us/pl/111/336/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F336%2Fs1
+[/us/pl/111/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F336
 [/us/stat/124/3587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3587
-[/us/pl/111/381/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F381%2Fs1
+[/us/pl/111/381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F381
 [/us/stat/124/4133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4133
-[/us/pl/112/151/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F151%2Fs2
+[/us/pl/112/151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F151
 [/us/stat/126/1150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1150
 [/us/pl/93/638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638
 [/us/stat/88/2206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2206
 [/us/usc/t25/s450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450
 [/us/pl/99/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591
 [/us/pl/99/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500
-[/us/pl/112/151/s2/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F151%2Fs2%2F1%2FA
-[/us/pl/112/151/s2/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F151%2Fs2%2F1%2FB
-[/us/pl/112/151/s2/1/D/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F151%2Fs2%2F1%2FD%2Fi
-[/us/pl/112/151/s2/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F151%2Fs2%2F1%2FC
-[/us/pl/112/151/s2/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F151%2Fs2%2F2
+[/us/pl/112/151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F151
+[/us/pl/112/151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F151
+[/us/pl/112/151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F151
+[/us/pl/112/151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F151
+[/us/pl/112/151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F151
 [/us/pl/111/381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F381
-[/us/pl/111/336/s1/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F336%2Fs1%2F1
+[/us/pl/111/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F336
 [/us/pl/111/334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F334
-[/us/pl/111/336/s1/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F336%2Fs1%2F2
-[/us/pl/110/453/s205/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F453%2Fs205%2Fa
-[/us/pl/110/453/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F453%2Fs204
-[/us/pl/110/453/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F453%2Fs202
+[/us/pl/111/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F336
+[/us/pl/110/453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F453
+[/us/pl/110/453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F453
+[/us/pl/110/453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F453
 [/us/pl/109/221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F221
 [/us/pl/109/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F147
 [/us/usc/t25/s81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs81
@@ -601,8 +601,8 @@
 [/us/pl/107/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F159
 [/us/pl/107/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F102
 [/us/pl/106/216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F216
-[/us/pl/106/568/s1203/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F568%2Fs1203%2F1
-[/us/pl/106/568/s1203/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F568%2Fs1203%2F2
+[/us/pl/106/568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F568
+[/us/pl/106/568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F568
 [/us/pl/105/256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F256
 [/us/pl/104/301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F301
 [/us/pl/103/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F435
@@ -625,7 +625,7 @@
 [/us/pl/91/557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F557
 [/us/pl/91/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F275
 [/us/pl/91/274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F274
-[/us/pl/91/274/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F274%2Fs3
+[/us/pl/91/274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F274
 [/us/pl/90/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F570
 [/us/pl/90/534]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F534
 [/us/pl/90/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F355
@@ -638,34 +638,34 @@
 [/us/pl/87/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F375
 [/us/pl/86/505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F505
 [/us/pl/86/326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F326
-[/us/pl/110/453/s205/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F453%2Fs205%2Fb
+[/us/pl/110/453/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F453%2FtII
 [/us/stat/122/5030]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F5030
-[/us/pl/109/221/s202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F221%2Fs202%2Fb
+[/us/pl/109/221/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F221%2FtII
 [/us/stat/120/341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F341
-[/us/pl/109/147/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F147%2Fs1%2Fb
+[/us/pl/109/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F147
 [/us/stat/119/2679]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2679
 [/us/pl/107/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F159
 [/us/stat/116/122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F122
-[/us/pl/107/331/s1002/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F331%2Fs1002%2Fb
+[/us/pl/107/331/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F331%2FtX
 [/us/stat/116/2870]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2870
-[/us/pl/107/102/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F102%2Fs3
+[/us/pl/107/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F102
 [/us/stat/115/975]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F975
-[/us/pl/106/216/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F216%2Fs1%2Fb
+[/us/pl/106/216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F216
 [/us/stat/114/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F343
-[/us/pl/99/575/s6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F575%2Fs6%2Fa
+[/us/pl/99/575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F575
 [/us/stat/100/3246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3246
 [/us/pl/99/575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F575
-[/us/pl/112/151/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F151%2Fs1
+[/us/pl/112/151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F151
 [/us/stat/126/1150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1150
-[/us/pl/106/568/s1201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F568%2Fs1201
+[/us/pl/106/568/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F568%2FtXII
 [/us/stat/114/2933]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2933
-[/us/pl/99/221/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F221%2Fs1
+[/us/pl/99/221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F221
 [/us/stat/99/1735]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1735
 [/us/usc/t25/s450i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450i
 [/us/usc/t26/s3121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs3121
 [/us/usc/t42/s410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs410
 [/us/usc/t42/s410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs410
-[/us/pl/106/568/s1202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F568%2Fs1202
+[/us/pl/106/568/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F568%2FtXII
 [/us/stat/114/2933]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2933
 [/us/usc/t25/s415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs415
 

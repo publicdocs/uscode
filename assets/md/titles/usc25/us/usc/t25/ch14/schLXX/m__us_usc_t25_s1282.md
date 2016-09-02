@@ -17,7 +17,7 @@
 
     None of the funds distributed per capita under the provisions of this subchapter shall be subject to Federal or State income taxes.
 
-([Pub. L. 92–438, § 2][/us/pl/92/438/s2], Sept. 29, 1972, [86 Stat. 741][/us/stat/86/741].)
+([Pub. L. 92–438][/us/pl/92/438], § 2, Sept. 29, 1972, [86 Stat. 741][/us/stat/86/741].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/92/438/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F438%2Fs2
+[/us/pl/92/438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F438
 [/us/stat/86/741]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F741
 
 

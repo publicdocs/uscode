@@ -17,7 +17,7 @@
 
     In the event of the death of any such Indian entitled to receive a payment in lieu of allotment after June 1, 1938, any unexpended balance of said $1,500 still due the decedent shall first be applied to the repayment of any loans received by such Indian from the United States or from the Klamath Tribal funds, and the balance thereafter shall be distributed as personal property.
 
-([June 1, 1938, ch. 310, § 4][/us/act/1938-06-01/ch310/s4], [52 Stat. 606][/us/stat/52/606].)
+([June 1, 1938, ch. 310][/us/act/1938-06-01/ch310], § 4, [52 Stat. 606][/us/stat/52/606].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1938-06-01/ch310/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-01%2Fch310%2Fs4
+[/us/act/1938-06-01/ch310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-01%2Fch310
 [/us/stat/52/606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F606
 
 

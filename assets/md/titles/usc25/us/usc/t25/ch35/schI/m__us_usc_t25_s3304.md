@@ -59,7 +59,7 @@
 
             (C) after hearing and appeals conducted under the same rules and regulations that apply to similar termination actions under the Indian Self-Determination and Education Assistance Act \[[25 U.S.C. 450][/us/usc/t25/s450] et seq.\].
 
-([Pub. L. 102–325, title XIII, § 1314][/us/pl/102/325/s1314], July 23, 1992, [106 Stat. 799][/us/stat/106/799].)
+([Pub. L. 102–325, title XIII][/us/pl/102/325/tXIII], § 1314, July 23, 1992, [106 Stat. 799][/us/stat/106/799].)
 
  __References in Text__ 
 
@@ -77,7 +77,7 @@
 [/us/usc/t25/s450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450
 [/us/usc/t25/s450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450
 [/us/usc/t25/s450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450
-[/us/pl/102/325/s1314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs1314
+[/us/pl/102/325/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2FtXIII
 [/us/stat/106/799]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F799
 [/us/pl/93/638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638
 [/us/stat/88/2203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2203

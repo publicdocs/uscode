@@ -33,11 +33,11 @@
 
     (8) Congress shares with the parties to the Settlement Agreement a desire to resolve the dispute and settle the lawsuit.
 
-([Pub. L. 105–83, title VII, § 702][/us/pl/105/83/s702], Nov. 14, 1997, [111 Stat. 1624][/us/stat/111/1624].)
+([Pub. L. 105–83, title VII][/us/pl/105/83/tVII], § 702, Nov. 14, 1997, [111 Stat. 1624][/us/stat/111/1624].)
 
  __Short Title__ 
 
-[Pub. L. 105–83, title VII, § 701][/us/pl/105/83/s701], Nov. 14, 1997, [111 Stat. 1624][/us/stat/111/1624], provided that: 
+[Pub. L. 105–83, title VII][/us/pl/105/83/tVII], § 701, Nov. 14, 1997, [111 Stat. 1624][/us/stat/111/1624], provided that: 
 
 > “This title \[enacting this part\] may be cited as the ‘Miccosukee Settlement Act of 1997’.”
 
@@ -48,9 +48,9 @@
 ----------
 ----------
 
-[/us/pl/105/83/s702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F83%2Fs702
+[/us/pl/105/83/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F83%2FtVII
 [/us/stat/111/1624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1624
-[/us/pl/105/83/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F83%2Fs701
+[/us/pl/105/83/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F83%2FtVII
 [/us/stat/111/1624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1624
 
 

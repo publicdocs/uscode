@@ -1361,7 +1361,7 @@ SUBCHAPTER XIV—PUEBLO DE SAN ILDEFONSO CLAIMS SETTLEMENT  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1780" data-uslm-ref="/us/usc/t25/s1780">1780</a>l.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1780l" data-uslm-ref="/us/usc/t25/s1780l">1780l.</a>  </td>
 
     <td> Distribution of funds plan.  </td>
 
@@ -1385,7 +1385,7 @@ SUBCHAPTER XIV—PUEBLO DE SAN ILDEFONSO CLAIMS SETTLEMENT  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1780" data-uslm-ref="/us/usc/t25/s1780">1780</a>o.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1780o" data-uslm-ref="/us/usc/t25/s1780o">1780o.</a>  </td>
 
     <td> Timing of actions.  </td>
 

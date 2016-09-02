@@ -23,7 +23,7 @@
 
         Subject to the provisions of subsection (a) of this section, the property conveyed by this subchapter shall hereafter be administered in accordance with the laws and regulations applicable to property held in trust by the United States for Indian tribes, including but not limited to sections 396a to 396g of this title.
 
-([Pub. L. 94–114, § 4][/us/pl/94/114/s4], Oct. 17, 1975, [89 Stat. 578][/us/stat/89/578].)
+([Pub. L. 94–114][/us/pl/94/114], § 4, Oct. 17, 1975, [89 Stat. 578][/us/stat/89/578].)
 
  __References in Text__ 
 
@@ -40,7 +40,7 @@
 [/us/usc/t30/s354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs354
 [/us/stat/41/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F437
 [/us/usc/t30/s181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs181
-[/us/pl/94/114/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F114%2Fs4
+[/us/pl/94/114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F114
 [/us/stat/89/578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F578
 [/us/act/1920-02-25/ch85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-02-25%2Fch85
 [/us/stat/41/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F437

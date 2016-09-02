@@ -17,7 +17,7 @@
 
     The Secretary of the Interior is authorized to convey to the State of Texas the lands held in trust by the United States for the tribe of Indians organized and known as the Alabama and Coushatta Tribes of Texas, located in Polk County, Texas; and such tribe is authorized to convey to the State of Texas the lands purchased for and deeded to the Alabama Indians in accordance with an act of the legislature of the State of Texas approved February 3, 1854, located in Polk County, Texas. All of the lands so conveyed shall be held by the State of Texas in trust for the benefit of the Indians of the Alabama and Coushatta Tribes of Texas, subject to such conditions regarding management and use as the State of Texas may prescribe and the disposition of such lands shall be subject to approval of a majority of the adult members of the Alabama and Coushatta Tribes of Texas.
 
-([Aug. 23, 1954, ch. 831, § 1][/us/act/1954-08-23/ch831/s1], [68 Stat. 768][/us/stat/68/768].)
+([Aug. 23, 1954, ch. 831][/us/act/1954-08-23/ch831], § 1, [68 Stat. 768][/us/stat/68/768].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1954-08-23/ch831/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-23%2Fch831%2Fs1
+[/us/act/1954-08-23/ch831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-23%2Fch831
 [/us/stat/68/768]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F768
 
 

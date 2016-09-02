@@ -27,7 +27,7 @@
 
         (2) any recommendations for legislation that the Secretary, in consultation with the Director, determines to be necessary to carry out sections 4303 through 4305 of this title.
 
-([Pub. L. 106–464, § 7][/us/pl/106/464/s7], Nov. 7, 2000, [114 Stat. 2018][/us/stat/114/2018].)
+([Pub. L. 106–464][/us/pl/106/464], § 7, Nov. 7, 2000, [114 Stat. 2018][/us/stat/114/2018].)
 
  __Change of Name__ 
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/106/464/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F464%2Fs7
+[/us/pl/106/464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F464
 [/us/stat/114/2018]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2018
 
 

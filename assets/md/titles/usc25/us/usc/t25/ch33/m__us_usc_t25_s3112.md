@@ -23,7 +23,7 @@
 
         The technical assistance to be provided by the Secretary pursuant to subsection (a) shall be made available through contracts, grants or agreements entered into in accordance with, and made available to entities eligible for, such contracts, grants, or agreements under the Indian Self-Determination Act \[[25 U.S.C. 450f][/us/usc/t25/s450f] et seq.\].
 
-([Pub. L. 101–630, title III, § 313][/us/pl/101/630/s313], Nov. 28, 1990, [104 Stat. 4540][/us/stat/104/4540].)
+([Pub. L. 101–630, title III][/us/pl/101/630/tIII], § 313, Nov. 28, 1990, [104 Stat. 4540][/us/stat/104/4540].)
 
  __References in Text__ 
 
@@ -40,7 +40,7 @@
 
 [/us/usc/t43/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1601
 [/us/usc/t25/s450f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450f
-[/us/pl/101/630/s313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F630%2Fs313
+[/us/pl/101/630/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F630%2FtIII
 [/us/stat/104/4540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4540
 [/us/pl/92/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F203
 [/us/stat/85/688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F688

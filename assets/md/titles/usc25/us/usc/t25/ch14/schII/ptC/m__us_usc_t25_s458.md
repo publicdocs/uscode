@@ -57,11 +57,11 @@
 
         For the purpose of carrying out the provisions of this section, there is authorized to be appropriated the sum of $35,000,000 for the fiscal year ending June 30, 1974; $35,000,000 for each of the four succeeding fiscal years; and thereafter, such sums as may be necessary, all of such sums to remain available until expended.
 
-([Pub. L. 93–638, title II, § 204][/us/pl/93/638/s204], Jan. 4, 1975, [88 Stat. 2214][/us/stat/88/2214]; [Pub. L. 96–88, title III, § 301][/us/pl/96/88/s301], title V, § 507, Oct. 17, 1979, [93 Stat. 677][/us/stat/93/677], 692.)
+([Pub. L. 93–638, title II][/us/pl/93/638/tII], § 204, Jan. 4, 1975, [88 Stat. 2214][/us/stat/88/2214]; [Pub. L. 96–88, title III][/us/pl/96/88/tIII], § 301, title V, § 507, Oct. 17, 1979, [93 Stat. 677][/us/stat/93/677], 692.)
 
  __References in Text__ 
 
-    [Section 644 of title 20][/us/usc/t20/s644], referred to in subsecs. (b) and (f)(5), was repealed by [Pub. L. 103–382, title III, § 331(a)][/us/pl/103/382/s331/a], Oct. 20, 1994, [108 Stat. 3965][/us/stat/108/3965].
+    [Section 644 of title 20][/us/usc/t20/s644], referred to in subsecs. (b) and (f)(5), was repealed by [Pub. L. 103–382, title III][/us/pl/103/382/tIII], § 331(a), Oct. 20, 1994, [108 Stat. 3965][/us/stat/108/3965].
 
     Act of March 3, 1921, referred to in subsec. (f)(1), probably means the [act of Mar. 3, 1931, ch. 411][/us/act/1931-03-03/ch411], [46 Stat. 1494][/us/stat/46/1494], as amended, known as the Davis-Bacon Act, which was classified generally to sections 276a to 276a–5 of former Title 40, Public Buildings, Property, and Works, and was repealed and reenacted as sections 3141–3144, 3146, and 3147 of Title 40, Public Buildings, Property, and Works, by [Pub. L. 107–217][/us/pl/107/217], §§ 1, 6(b), Aug. 21, 2002, [116 Stat. 1062][/us/stat/116/1062], 1304.
 
@@ -79,12 +79,12 @@
 [/us/usc/t25/s458d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs458d
 [/us/usc/t25/s456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs456
 [/us/stat/46/1491]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F1491
-[/us/pl/93/638/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638%2Fs204
+[/us/pl/93/638/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638%2FtII
 [/us/stat/88/2214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2214
-[/us/pl/96/88/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs301
+[/us/pl/96/88/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2FtIII
 [/us/stat/93/677]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F677
 [/us/usc/t20/s644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs644
-[/us/pl/103/382/s331/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs331%2Fa
+[/us/pl/103/382/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2FtIII
 [/us/stat/108/3965]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3965
 [/us/act/1931-03-03/ch411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1931-03-03%2Fch411
 [/us/stat/46/1494]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F1494

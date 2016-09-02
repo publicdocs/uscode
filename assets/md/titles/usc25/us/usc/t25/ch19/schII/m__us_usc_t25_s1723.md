@@ -35,7 +35,7 @@
 
         The provisions of this section shall take effect immediately upon appropriation of the funds authorized to be appropriated to implement the provisions of [section 1724 of this title][/us/usc/t25/s1724]. The Secretary shall publish notice of such appropriation in the Federal Register when such funds are appropriated.
 
-([Pub. L. 96–420, § 4][/us/pl/96/420/s4], Oct. 10, 1980, [94 Stat. 1787][/us/stat/94/1787].)
+([Pub. L. 96–420][/us/pl/96/420], § 4, Oct. 10, 1980, [94 Stat. 1787][/us/stat/94/1787].)
 
  __References in Text__ 
 
@@ -50,7 +50,7 @@
 
 [/us/stat/1/137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F1%2F137
 [/us/usc/t25/s1724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1724
-[/us/pl/96/420/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F420%2Fs4
+[/us/pl/96/420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F420
 [/us/stat/94/1787]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1787
 [/us/stat/1/137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F1%2F137
 

@@ -17,7 +17,7 @@
 
     Any State with an economic development program targeted to Indian tribes shall be eligible to receive, at no cost to the State, such Federal personnel assignments as the Secretary, in accordance with the applicable provisions of the Intergovernmental Personnel Act of 1970 \[[42 U.S.C. 4701][/us/usc/t42/s4701] et seq.\], may deem appropriate to help ensure the success of such program.
 
-([Pub. L. 102–477, § 18][/us/pl/102/477/s18], Oct. 23, 1992, [106 Stat. 2306][/us/stat/106/2306].)
+([Pub. L. 102–477][/us/pl/102/477], § 18, Oct. 23, 1992, [106 Stat. 2306][/us/stat/106/2306].)
 
  __References in Text__ 
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t42/s4701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4701
-[/us/pl/102/477/s18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F477%2Fs18
+[/us/pl/102/477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F477
 [/us/stat/106/2306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2306
 [/us/pl/91/648]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F648
 [/us/stat/84/1909]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1909

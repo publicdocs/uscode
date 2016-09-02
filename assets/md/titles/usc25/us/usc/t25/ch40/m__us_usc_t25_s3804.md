@@ -17,7 +17,7 @@
 
     There is authorized to be appropriated such sums as may be necessary to carry out this chapter. Funds provided under this chapter are to be considered nonreimbursable.
 
-([Pub. L. 103–302, § 5][/us/pl/103/302/s5], Aug. 23, 1994, [108 Stat. 1563][/us/stat/108/1563].)
+([Pub. L. 103–302][/us/pl/103/302], § 5, Aug. 23, 1994, [108 Stat. 1563][/us/stat/108/1563].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/103/302/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F302%2Fs5
+[/us/pl/103/302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F302
 [/us/stat/108/1563]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1563
 
 

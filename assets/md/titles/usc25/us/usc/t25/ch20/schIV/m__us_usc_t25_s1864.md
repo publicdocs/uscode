@@ -17,7 +17,7 @@
 
     There are authorized to be appropriated such sums as are necessary for fiscal year 2009 and each fiscal year thereafter to carry out this subchapter.
 
-([Pub. L. 95–471, title V, § 504][/us/pl/95/471/s504], as added [Pub. L. 110–315, title IX, § 941(j)(1)][/us/pl/110/315/s941/j/1], Aug. 14, 2008, [122 Stat. 3465][/us/stat/122/3465].)
+([Pub. L. 95–471, title V][/us/pl/95/471/tV], § 504, as added [Pub. L. 110–315, title IX][/us/pl/110/315/tIX], § 941(j)(1), Aug. 14, 2008, [122 Stat. 3465][/us/stat/122/3465].)
 
 ----------
 
@@ -26,8 +26,8 @@
 ----------
 ----------
 
-[/us/pl/95/471/s504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F471%2Fs504
-[/us/pl/110/315/s941/j/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs941%2Fj%2F1
+[/us/pl/95/471/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F471%2FtV
+[/us/pl/110/315/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtIX
 [/us/stat/122/3465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3465
 
 

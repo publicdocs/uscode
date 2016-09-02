@@ -21,7 +21,7 @@
 
  __Codification__ 
 
-    R.S. § 462 derived from [act July 9, 1832, ch. 174, § 1][/us/act/1832-07-09/ch174/s1], [4 Stat. 564][/us/stat/4/564].
+    R.S. § 462 derived from [act July 9, 1832, ch. 174][/us/act/1832-07-09/ch174], § 1, [4 Stat. 564][/us/stat/4/564].
 
     Provisions of this section relating to compensation of the Commissioner were omitted as obsolete. The position is in level V of the Executive Schedule under [section 5316 of Title 5][/us/usc/t5/s5316], Government Organization and Employees.
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/act/1832-07-09/ch174/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1832-07-09%2Fch174%2Fs1
+[/us/act/1832-07-09/ch174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1832-07-09%2Fch174
 [/us/stat/4/564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F4%2F564
 [/us/usc/t5/s5316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5316
 [/us/stat/64/1262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1262

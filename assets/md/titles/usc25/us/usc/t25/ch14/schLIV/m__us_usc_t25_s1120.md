@@ -17,7 +17,7 @@
 
     The funds distributed under the provisions of this subchapter shall not be subject to Federal or State income taxes, and any costs incurred by the Secretary in the preparation of the rolls and in the distribution of per capita shares in accordance with the provisions of this subchapter shall be paid by appropriate withdrawals from the judgment funds.
 
-([Pub. L. 89–659, § 10][/us/pl/89/659/s10], Oct. 14, 1966, [80 Stat. 910][/us/stat/80/910].)
+([Pub. L. 89–659][/us/pl/89/659], § 10, Oct. 14, 1966, [80 Stat. 910][/us/stat/80/910].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/89/659/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F659%2Fs10
+[/us/pl/89/659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F659
 [/us/stat/80/910]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F910
 
 

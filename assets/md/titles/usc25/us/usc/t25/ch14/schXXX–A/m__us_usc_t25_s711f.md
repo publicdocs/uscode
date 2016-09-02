@@ -17,7 +17,7 @@
 
     The Secretary may make such rules and regulations as are necessary to carry out the purposes of this subchapter.
 
-([Pub. L. 95–195, § 8][/us/pl/95/195/s8], Nov. 18, 1977, [91 Stat. 1419][/us/stat/91/1419].)
+([Pub. L. 95–195][/us/pl/95/195], § 8, Nov. 18, 1977, [91 Stat. 1419][/us/stat/91/1419].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/95/195/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F195%2Fs8
+[/us/pl/95/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F195
 [/us/stat/91/1419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1419
 
 

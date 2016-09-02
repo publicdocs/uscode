@@ -67,27 +67,27 @@
 
         The Memorandum of Agreement under subsection (a) shall be submitted to Congress and published in the Federal Register not later than 130 days after July 29, 2010. At the same time as publication in the Federal Register, the Secretary of the Interior shall provide a copy of this chapter and the Memorandum of Agreement under subsection (a) to each Indian tribe.
 
-([Pub. L. 99–570, title IV, § 4205][/us/pl/99/570/s4205], Oct. 27, 1986, [100 Stat. 3207–139][/us/stat/100/3207-139]; [Pub. L. 111–211, title II, § 241(a)(1)][/us/pl/111/211/s241/a/1], July 29, 2010, [124 Stat. 2287][/us/stat/124/2287].)
+([Pub. L. 99–570, title IV][/us/pl/99/570/tIV], § 4205, Oct. 27, 1986, [100 Stat. 3207–139][/us/stat/100/3207-139]; [Pub. L. 111–211, title II][/us/pl/111/211/tII], § 241(a)(1), July 29, 2010, [124 Stat. 2287][/us/stat/124/2287].)
 
  __References in Text__ 
 
     The Indian Self-Determination and Education Assistance Act, referred to in subsec. (b), is [Pub. L. 93–638][/us/pl/93/638], Jan. 4, 1975, [88 Stat. 2203][/us/stat/88/2203], as amended, which is classified principally to subchapter II (§ 450 et seq.) of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 450 of this title][/us/usc/t25/s450] and Tables.
 
-    [Section 2010 of this title][/us/usc/t25/s2010], referred to in subsec. (b), was in the original a reference to section 1130 of the Education Amendments of 1978, [Pub. L. 95–561][/us/pl/95/561]. [Section 1130 of Pub. L. 95–561][/us/pl/95/561/s1130] was omitted in the general amendment of chapter 22 (§ 2001 et seq.) of this title by [Pub. L. 103–382, title III, § 381][/us/pl/103/382/s381], Oct. 20, 1994, [108 Stat. 3979][/us/stat/108/3979]. [Pub. L. 103–382][/us/pl/103/382] enacted a new [section 1130 of Pub. L. 95–561][/us/pl/95/561/s1130], relating to uniform direct funding and support, which is classified to [section 2010 of this title][/us/usc/t25/s2010]. Provisions relating to Indian control of Indian education are now contained in [section 2011 of this title][/us/usc/t25/s2011].
+    [Section 2010 of this title][/us/usc/t25/s2010], referred to in subsec. (b), was in the original a reference to section 1130 of the Education Amendments of 1978, [Pub. L. 95–561][/us/pl/95/561]. [Section 1130 of Pub. L. 95–561][/us/pl/95/561/s1130] was omitted in the general amendment of chapter 22 (§ 2001 et seq.) of this title by [Pub. L. 103–382, title III][/us/pl/103/382/tIII], § 381, Oct. 20, 1994, [108 Stat. 3979][/us/stat/108/3979]. [Pub. L. 103–382][/us/pl/103/382] enacted a new [section 1130 of Pub. L. 95–561][/us/pl/95/561/s1130], relating to uniform direct funding and support, which is classified to [section 2010 of this title][/us/usc/t25/s2010]. Provisions relating to Indian control of Indian education are now contained in [section 2011 of this title][/us/usc/t25/s2011].
 
  __Amendments__ 
 
-    2010—Subsec. (a). [Pub. L. 111–211, § 241(a)(1)(A)(i)][/us/pl/111/211/s241/a/1/A/i], in introductory provisions, substituted “Not later than 1 year after July 29, 2010” for “Not later than 120 days after October 27, 1986” and inserted “, the Attorney General,” after “Secretary of the Interior”.
+    2010—Subsec. (a). [Pub. L. 111–211][/us/pl/111/211], § 241(a)(1)(A)(i), in introductory provisions, substituted “Not later than 1 year after July 29, 2010” for “Not later than 120 days after October 27, 1986” and inserted “, the Attorney General,” after “Secretary of the Interior”.
 
-    Subsec. (a)(2)(A). [Pub. L. 111–211, § 241(a)(1)(A)(ii)][/us/pl/111/211/s241/a/1/A/ii], which directed insertion of “, Office of Justice Programs, Substance Abuse and Mental Health Services Administration,” after “Bureau of Indian Affairs,”, was executed by making the insertion after “Bureau of Indian Affairs” to reflect the probable intent of Congress.
+    Subsec. (a)(2)(A). [Pub. L. 111–211][/us/pl/111/211], § 241(a)(1)(A)(ii), which directed insertion of “, Office of Justice Programs, Substance Abuse and Mental Health Services Administration,” after “Bureau of Indian Affairs,”, was executed by making the insertion after “Bureau of Indian Affairs” to reflect the probable intent of Congress.
 
-    Subsec. (a)(4), (5). [Pub. L. 111–211, § 241(a)(1)(A)(iii)][/us/pl/111/211/s241/a/1/A/iii], (iv), inserted “, Department of Justice, Substance Abuse and Mental Health Services Administration,” after “Bureau of Indian Affairs”.
+    Subsec. (a)(4), (5). [Pub. L. 111–211][/us/pl/111/211], § 241(a)(1)(A)(iii), (iv), inserted “, Department of Justice, Substance Abuse and Mental Health Services Administration,” after “Bureau of Indian Affairs”.
 
-    Subsec. (a)(7). [Pub. L. 111–211, § 241(a)(1)(A)(v)][/us/pl/111/211/s241/a/1/A/v], inserted “, the Attorney General,” after “Secretary of the Interior”.
+    Subsec. (a)(7). [Pub. L. 111–211][/us/pl/111/211], § 241(a)(1)(A)(v), inserted “, the Attorney General,” after “Secretary of the Interior”.
 
-    Subsec. (c). [Pub. L. 111–211, § 241(a)(1)(B)][/us/pl/111/211/s241/a/1/B], inserted “, the Attorney General,” after “Secretary of the Interior” in introductory provisions.
+    Subsec. (c). [Pub. L. 111–211][/us/pl/111/211], § 241(a)(1)(B), inserted “, the Attorney General,” after “Secretary of the Interior” in introductory provisions.
 
-    Subsec. (d). [Pub. L. 111–211, § 241(a)(1)(C)][/us/pl/111/211/s241/a/1/C], substituted “July 29, 2010” for “October 27, 1986”.
+    Subsec. (d). [Pub. L. 111–211][/us/pl/111/211], § 241(a)(1)(C), substituted “July 29, 2010” for “October 27, 1986”.
 
 ----------
 
@@ -98,9 +98,9 @@
 
 [/us/usc/t25/s2412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs2412
 [/us/usc/t25/s450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450
-[/us/pl/99/570/s4205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs4205
+[/us/pl/99/570/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2FtIV
 [/us/stat/100/3207-139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3207-139
-[/us/pl/111/211/s241/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211%2Fs241%2Fa%2F1
+[/us/pl/111/211/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211%2FtII
 [/us/stat/124/2287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2287
 [/us/pl/93/638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638
 [/us/stat/88/2203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2203
@@ -108,17 +108,17 @@
 [/us/usc/t25/s2010]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs2010
 [/us/pl/95/561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561
 [/us/pl/95/561/s1130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2Fs1130
-[/us/pl/103/382/s381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs381
+[/us/pl/103/382/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2FtIII
 [/us/stat/108/3979]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3979
 [/us/pl/103/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382
 [/us/pl/95/561/s1130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2Fs1130
 [/us/usc/t25/s2010]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs2010
 [/us/usc/t25/s2011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs2011
-[/us/pl/111/211/s241/a/1/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211%2Fs241%2Fa%2F1%2FA%2Fi
-[/us/pl/111/211/s241/a/1/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211%2Fs241%2Fa%2F1%2FA%2Fii
-[/us/pl/111/211/s241/a/1/A/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211%2Fs241%2Fa%2F1%2FA%2Fiii
-[/us/pl/111/211/s241/a/1/A/v]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211%2Fs241%2Fa%2F1%2FA%2Fv
-[/us/pl/111/211/s241/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211%2Fs241%2Fa%2F1%2FB
-[/us/pl/111/211/s241/a/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211%2Fs241%2Fa%2F1%2FC
+[/us/pl/111/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211
+[/us/pl/111/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211
+[/us/pl/111/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211
+[/us/pl/111/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211
+[/us/pl/111/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211
+[/us/pl/111/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211
 
 

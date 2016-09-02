@@ -11,40 +11,16 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t25/ch35/schIII/m__us_usc_t25_ch35_schIII.md) | [Next](./../../../../..//us/usc/t25/ch35/schV/m__us_usc_t25_ch35_schV.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fch35%2FschIV)
+[Previous](./../../../../..//us/usc/t25/ch35/schIII/m__us_usc_t25_s3331...3338.md) | [Next](./../../../../..//us/usc/t25/ch35/schIV/m__us_usc_t25_s3351...3355.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fch35%2FschIV)
 
 ### SUBCHAPTER IV—AMERICAN INDIAN POST-SECONDARY ECONOMIC DEVELOPMENT SCHOLARSHIP
 
-§§ 3351 to 3355. __Repealed.__  __[__  __Pub. L. 105–332, § 6(b)(1)__  __][/us/pl/105/332/s6/b/1]__  __,__  __Oct. 31, 1998__  __,__  __[__  __112 Stat. 3128__  __][/us/stat/112/3128]__ 
-
-    Section 3351, [Pub. L. 102–325, title XIII, § 1361][/us/pl/102/325/s1361], July 23, 1992, [106 Stat. 813][/us/stat/106/813], related to American Indian Post-Secondary Economic Development Scholarship.
-
-    Section 3352, [Pub. L. 102–325, title XIII, § 1362][/us/pl/102/325/s1362], July 23, 1992, [106 Stat. 813][/us/stat/106/813], related to Indian scholarships.
-
-    Section 3353, [Pub. L. 102–325, title XIII, § 1363][/us/pl/102/325/s1363], July 23, 1992, [106 Stat. 813][/us/stat/106/813], related to scholarship conditions.
-
-    Section 3354, [Pub. L. 102–325, title XIII, § 1364][/us/pl/102/325/s1364], July 23, 1992, [106 Stat. 815][/us/stat/106/815], required annual reports by Indian tribes receiving grants.
-
-    Section 3355, [Pub. L. 102–325, title XIII, § 1365][/us/pl/102/325/s1365], July 23, 1992, [106 Stat. 815][/us/stat/106/815], authorized appropriations.
-
 ----------
 
-[Previous](./../../../../..//us/usc/t25/ch35/schIII/m__us_usc_t25_ch35_schIII.md) | [Next](./../../../../..//us/usc/t25/ch35/schV/m__us_usc_t25_ch35_schV.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fch35%2FschIV)
+[Previous](./../../../../..//us/usc/t25/ch35/schIII/m__us_usc_t25_s3331...3338.md) | [Next](./../../../../..//us/usc/t25/ch35/schIV/m__us_usc_t25_s3351...3355.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fch35%2FschIV)
 
 ----------
 ----------
 
-[/us/pl/105/332/s6/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F332%2Fs6%2Fb%2F1
-[/us/stat/112/3128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3128
-[/us/pl/102/325/s1361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs1361
-[/us/stat/106/813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F813
-[/us/pl/102/325/s1362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs1362
-[/us/stat/106/813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F813
-[/us/pl/102/325/s1363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs1363
-[/us/stat/106/813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F813
-[/us/pl/102/325/s1364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs1364
-[/us/stat/106/815]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F815
-[/us/pl/102/325/s1365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs1365
-[/us/stat/106/815]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F815
 
 

@@ -21,7 +21,7 @@
 
  __Codification__ 
 
-    R.S. § 2080 derived from [act July 5, 1862, ch. 135, § 1][/us/act/1862-07-05/ch135/s1], [12 Stat. 528][/us/stat/12/528].
+    R.S. § 2080 derived from [act July 5, 1862, ch. 135][/us/act/1862-07-05/ch135], § 1, [12 Stat. 528][/us/stat/12/528].
 
 ----------
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1862-07-05/ch135/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1862-07-05%2Fch135%2Fs1
+[/us/act/1862-07-05/ch135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1862-07-05%2Fch135
 [/us/stat/12/528]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F12%2F528
 
 

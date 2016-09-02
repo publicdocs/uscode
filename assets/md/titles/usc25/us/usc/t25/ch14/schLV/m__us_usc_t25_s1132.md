@@ -17,7 +17,7 @@
 
     After the deduction of attorney fees, litigation expenses, the costs of roll preparation, and such sums as may be required to distribute individual shares, the funds, including interest, remaining to the credit of the Duwamish Tribe, which were appropriated by the Act of June 9, 1964 ([78 Stat. 213][/us/stat/78/213]), shall be distributed in equal shares to those persons whose names appear on the roll prepared in accordance with [section 1131 of this title][/us/usc/t25/s1131].
 
-([Pub. L. 89–660, § 2][/us/pl/89/660/s2], Oct. 14, 1966, [80 Stat. 911][/us/stat/80/911].)
+([Pub. L. 89–660][/us/pl/89/660], § 2, Oct. 14, 1966, [80 Stat. 911][/us/stat/80/911].)
 
  __References in Text__ 
 
@@ -32,7 +32,7 @@
 
 [/us/stat/78/213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F213
 [/us/usc/t25/s1131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1131
-[/us/pl/89/660/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F660%2Fs2
+[/us/pl/89/660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F660
 [/us/stat/80/911]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F911
 [/us/pl/88/317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F317
 [/us/stat/78/213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F213

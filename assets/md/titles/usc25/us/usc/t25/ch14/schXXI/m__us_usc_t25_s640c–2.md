@@ -19,7 +19,7 @@
 
     (b) Notwithstanding any other provision of law, funds provided under sections 640a to 640c–3 of this title to Diné College may be treated as non-Federal, private funds of the College for purposes of any provision of Federal law which requires that non-Federal or private funds of the College be used in a project or for a specific purpose.
 
-([Pub. L. 92–189, § 6][/us/pl/92/189/s6], as added [Pub. L. 96–374, title XIII, § 1351(c)][/us/pl/96/374/s1351/c], Oct. 3, 1980, [94 Stat. 1501][/us/stat/94/1501]; amended [Pub. L. 100–297, title V, § 5403(b)][/us/pl/100/297/s5403/b], Apr. 28, 1988, [102 Stat. 416][/us/stat/102/416]; [Pub. L. 110–315, title IX, § 946(e)][/us/pl/110/315/s946/e], Aug. 14, 2008, [122 Stat. 3469][/us/stat/122/3469].)
+([Pub. L. 92–189][/us/pl/92/189], § 6, as added [Pub. L. 96–374, title XIII][/us/pl/96/374/tXIII], § 1351(c), Oct. 3, 1980, [94 Stat. 1501][/us/stat/94/1501]; amended [Pub. L. 100–297, title V][/us/pl/100/297/tV], § 5403(b), Apr. 28, 1988, [102 Stat. 416][/us/stat/102/416]; [Pub. L. 110–315, title IX][/us/pl/110/315/tIX], § 946(e), Aug. 14, 2008, [122 Stat. 3469][/us/stat/122/3469].)
 
  __References in Text__ 
 
@@ -31,7 +31,7 @@
 
  __Amendments__ 
 
-    2008—Subsec. (a). [Pub. L. 110–315, § 946(e)(1)][/us/pl/110/315/s946/e/1], substituted “Diné College” for “the Navajo Community College”.
+    2008—Subsec. (a). [Pub. L. 110–315][/us/pl/110/315], § 946(e)(1), substituted “Diné College” for “the Navajo Community College”.
 
     Subsec. (b). [Pub. L. 110–315][/us/pl/110/315] substituted “Diné College” for “the Navajo Community College” and “College be used” for “college be used”.
 
@@ -54,19 +54,19 @@
 
 [/us/usc/t20/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1001
 [/us/usc/t42/s2751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2751
-[/us/pl/92/189/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F189%2Fs6
-[/us/pl/96/374/s1351/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F374%2Fs1351%2Fc
+[/us/pl/92/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F189
+[/us/pl/96/374/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F374%2FtXIII
 [/us/stat/94/1501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1501
-[/us/pl/100/297/s5403/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297%2Fs5403%2Fb
+[/us/pl/100/297/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297%2FtV
 [/us/stat/102/416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F416
-[/us/pl/110/315/s946/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs946%2Fe
+[/us/pl/110/315/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtIX
 [/us/stat/122/3469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3469
 [/us/pl/89/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329
 [/us/stat/79/1219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1219
 [/us/usc/t20/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1001
 [/us/act/1950-04-19/ch92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-04-19%2Fch92
 [/us/stat/64/44]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F44
-[/us/pl/110/315/s946/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs946%2Fe%2F1
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
 [/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
 [/us/pl/100/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297
 [/us/pl/100/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297

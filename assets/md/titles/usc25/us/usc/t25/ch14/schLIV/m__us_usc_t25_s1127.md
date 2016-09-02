@@ -17,7 +17,7 @@
 
     The funds on deposit in the Treasury of the United States to the credit of the Miami Tribe of Oklahoma that were appropriated by the Act of July 22, 1969 ([83 Stat. 49][/us/stat/83/49]), to pay a judgment by the Indian Claims Commission in docket numbered 251–A, together with the interest thereon, after payment of attorney fees and expenses, may be advanced or expended for any purpose that is authorized by the tribal governing body of the Miami Tribe of Oklahoma, and approved by the Secretary of the Interior.
 
-([Pub. L. 92–309, § 6][/us/pl/92/309/s6], June 2, 1972, [86 Stat. 200][/us/stat/86/200].)
+([Pub. L. 92–309][/us/pl/92/309], § 6, June 2, 1972, [86 Stat. 200][/us/stat/86/200].)
 
  __References in Text__ 
 
@@ -37,7 +37,7 @@
 ----------
 
 [/us/stat/83/49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F49
-[/us/pl/92/309/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F309%2Fs6
+[/us/pl/92/309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F309
 [/us/stat/86/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F200
 [/us/pl/91/665]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F665
 [/us/stat/83/49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F49

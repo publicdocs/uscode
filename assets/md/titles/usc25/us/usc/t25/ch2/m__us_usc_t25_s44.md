@@ -17,7 +17,7 @@
 
     In the Indian Service Indians shall be employed as herders, teamsters, and laborers, and where practicable in all other employments in connection with the agencies and the Indian Service. And it shall be the duty of the Secretary of the Interior and the Commissioner of Indian Affairs to enforce this provision.
 
-([Aug. 15, 1894, ch. 290, § 10][/us/act/1894-08-15/ch290/s10], [28 Stat. 313][/us/stat/28/313].)
+([Aug. 15, 1894, ch. 290][/us/act/1894-08-15/ch290], § 10, [28 Stat. 313][/us/stat/28/313].)
 
  __Transfer of Functions__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1894-08-15/ch290/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1894-08-15%2Fch290%2Fs10
+[/us/act/1894-08-15/ch290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1894-08-15%2Fch290
 [/us/stat/28/313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F28%2F313
 [/us/stat/64/1262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1262
 

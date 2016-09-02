@@ -17,7 +17,7 @@
 
     The United States approves, ratifies, and confirms the Settlement Agreement.
 
-([Pub. L. 105–83, title VII, § 704][/us/pl/105/83/s704], Nov. 14, 1997, [111 Stat. 1625][/us/stat/111/1625].)
+([Pub. L. 105–83, title VII][/us/pl/105/83/tVII], § 704, Nov. 14, 1997, [111 Stat. 1625][/us/stat/111/1625].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/105/83/s704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F83%2Fs704
+[/us/pl/105/83/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F83%2FtVII
 [/us/stat/111/1625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1625
 
 

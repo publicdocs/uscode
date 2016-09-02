@@ -45,7 +45,7 @@
 
         The USDSM, in cooperation with the Service, shall develop additional professional opportunities for program participants on Indian reservations in order to improve the recruitment and retention of qualified health professionals in the Aberdeen Area of the Service.
 
-([Pub. L. 94–437, title I, § 122][/us/pl/94/437/s122], as added [Pub. L. 102–573, title I, § 116][/us/pl/102/573/s116], Oct. 29, 1992, [106 Stat. 4543][/us/stat/106/4543].)
+([Pub. L. 94–437, title I][/us/pl/94/437/tI], § 122, as added [Pub. L. 102–573, title I][/us/pl/102/573/tI], § 116, Oct. 29, 1992, [106 Stat. 4543][/us/stat/106/4543].)
 
 ----------
 
@@ -54,8 +54,8 @@
 ----------
 ----------
 
-[/us/pl/94/437/s122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437%2Fs122
-[/us/pl/102/573/s116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2Fs116
+[/us/pl/94/437/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437%2FtI
+[/us/pl/102/573/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2FtI
 [/us/stat/106/4543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4543
 
 

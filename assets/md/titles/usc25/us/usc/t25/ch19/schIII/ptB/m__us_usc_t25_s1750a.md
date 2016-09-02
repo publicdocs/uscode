@@ -69,7 +69,7 @@
 
         (B) the State of Florida as a governmental entity.
 
-([Pub. L. 105–83, title VII, § 703][/us/pl/105/83/s703], Nov. 14, 1997, [111 Stat. 1624][/us/stat/111/1624].)
+([Pub. L. 105–83, title VII][/us/pl/105/83/tVII], § 703, Nov. 14, 1997, [111 Stat. 1624][/us/stat/111/1624].)
 
 ----------
 
@@ -79,7 +79,7 @@
 ----------
 
 [/us/usc/t25/s476]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs476
-[/us/pl/105/83/s703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F83%2Fs703
+[/us/pl/105/83/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F83%2FtVII
 [/us/stat/111/1624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1624
 
 

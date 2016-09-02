@@ -71,7 +71,7 @@
 
             The term “cost sharing” includes any deduction, deductible, copayment, coinsurance, or similar charge.
 
-([Pub. L. 94–437, title IV, § 404][/us/pl/94/437/s404], as added [Pub. L. 96–537, § 6][/us/pl/96/537/s6], Dec. 17, 1980, [94 Stat. 3176][/us/stat/94/3176]; amended [Pub. L. 102–573, title IV, § 403][/us/pl/102/573/s403], Oct. 29, 1992, [106 Stat. 4566][/us/stat/106/4566]; [Pub. L. 111–148, title X, § 10221(a)][/us/pl/111/148/s10221/a], Mar. 23, 2010, [124 Stat. 935][/us/stat/124/935].)
+([Pub. L. 94–437, title IV][/us/pl/94/437/tIV], § 404, as added [Pub. L. 96–537][/us/pl/96/537], § 6, Dec. 17, 1980, [94 Stat. 3176][/us/stat/94/3176]; amended [Pub. L. 102–573, title IV][/us/pl/102/573/tIV], § 403, Oct. 29, 1992, [106 Stat. 4566][/us/stat/106/4566]; [Pub. L. 111–148, title X][/us/pl/111/148/tX], § 10221(a), Mar. 23, 2010, [124 Stat. 935][/us/stat/124/935].)
 
  __References in Text__ 
 
@@ -87,9 +87,9 @@
 
     2010—[Pub. L. 111–148][/us/pl/111/148] amended section generally. Prior to amendment, section related to grants to and contracts with tribal organizations.
 
-    1992—Subsec. (b)(4). [Pub. L. 102–573, § 403(1)][/us/pl/102/573/s403/1], amended par. (4) generally. Prior to amendment, par. (4) read as follows: “develop and implement a schedule of income levels to determine the extent of payment of premiums by such organization for coverage of needy individuals; and methods of improving the participation of Indians in receiving the benefits provided pursuant to titles XVIII and XIX of the Social Security Act.”
+    1992—Subsec. (b)(4). [Pub. L. 102–573][/us/pl/102/573], § 403(1), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “develop and implement a schedule of income levels to determine the extent of payment of premiums by such organization for coverage of needy individuals; and methods of improving the participation of Indians in receiving the benefits provided pursuant to titles XVIII and XIX of the Social Security Act.”
 
-    Subsec. (c). [Pub. L. 102–573, § 403(2)][/us/pl/102/573/s403/2], amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “There are authorized to be appropriated $5,000,000 for the fiscal year ending September 30, 1981, $5,750,000 for the fiscal year ending September 30, 1982, $6,615,000 for the fiscal year ending September 30, 1983, and $7,610,000 for the fiscal year ending September 30, 1984.”
+    Subsec. (c). [Pub. L. 102–573][/us/pl/102/573], § 403(2), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “There are authorized to be appropriated $5,000,000 for the fiscal year ending September 30, 1981, $5,750,000 for the fiscal year ending September 30, 1982, $6,615,000 for the fiscal year ending September 30, 1983, and $7,610,000 for the fiscal year ending September 30, 1984.”
 
 ----------
 
@@ -103,12 +103,12 @@
 [/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
 [/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
 [/us/usc/t42/s1320b–9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320b%E2%80%939
-[/us/pl/94/437/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437%2Fs404
-[/us/pl/96/537/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F537%2Fs6
+[/us/pl/94/437/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437%2FtIV
+[/us/pl/96/537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F537
 [/us/stat/94/3176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3176
-[/us/pl/102/573/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2Fs403
+[/us/pl/102/573/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2FtIV
 [/us/stat/106/4566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4566
-[/us/pl/111/148/s10221/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10221%2Fa
+[/us/pl/111/148/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtX
 [/us/stat/124/935]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F935
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620
@@ -117,7 +117,7 @@
 [/us/pl/111/148/s10221/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10221%2Fa
 [/us/usc/t25/s1622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1622
 [/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
-[/us/pl/102/573/s403/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2Fs403%2F1
-[/us/pl/102/573/s403/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2Fs403%2F2
+[/us/pl/102/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573
+[/us/pl/102/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573
 
 

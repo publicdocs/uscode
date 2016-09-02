@@ -17,7 +17,7 @@
 
     The Secretary is authorized to make loans to individual Indians and to associations or corporate groups organized pursuant to this subchapter. For the making of such loans and for expenses of the cooperative associations organized pursuant to this subchapter there shall be appropriated, out of the Treasury of the United States, the sum of $2,000,000.
 
-([June 26, 1936, ch. 831, § 6][/us/act/1936-06-26/ch831/s6], [49 Stat. 1968][/us/stat/49/1968].)
+([June 26, 1936, ch. 831][/us/act/1936-06-26/ch831], § 6, [49 Stat. 1968][/us/stat/49/1968].)
 
  __Revolving Fund: Interest-Free Loans to Klamath Indians; Refinancing Lending Agency Loans__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1936-06-26/ch831/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-26%2Fch831%2Fs6
+[/us/act/1936-06-26/ch831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-26%2Fch831
 [/us/stat/49/1968]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1968
 [/us/usc/t25/s564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs564
 [/us/usc/t25/s1461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1461

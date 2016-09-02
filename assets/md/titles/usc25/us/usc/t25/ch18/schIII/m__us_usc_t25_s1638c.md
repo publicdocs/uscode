@@ -17,7 +17,7 @@
 
     In fiscal year 1995 and thereafter (a) the Secretary may enter into personal services contracts with entities, either individuals or organizations, for the provision of services in facilities owned, operated or constructed under the jurisdiction of the Indian Health Service; (b) the Secretary may exempt such a contract from competitive contracting requirements upon adequate notice of contracting opportunities to individuals and organizations residing in the geographic vicinity of the health facility; (c) consideration of individuals and organizations shall be based solely on the qualifications established for the contract and the proposed contract price; and (d) individuals providing health care services pursuant to these contracts are covered by the Federal Tort Claims Act.
 
-([Pub. L. 103–332, title II][/us/pl/103/332], Sept. 30, 1994, [108 Stat. 2530][/us/stat/108/2530].)
+([Pub. L. 103–332, title II][/us/pl/103/332/tII], Sept. 30, 1994, [108 Stat. 2530][/us/stat/108/2530].)
 
  __References in Text__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/pl/103/332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F332
+[/us/pl/103/332/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F332%2FtII
 [/us/stat/108/2530]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2530
 [/us/act/1946-08-02/ch753]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-02%2Fch753
 [/us/stat/60/842]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F842

@@ -35,11 +35,11 @@
 
         (2) Any transfer of lands under this section shall not confer upon the Miccosukee Tribe, or upon the lands within the reservation, any additional water rights.
 
-([Pub. L. 97–399, § 8][/us/pl/97/399/s8], Dec. 31, 1982, [96 Stat. 2015][/us/stat/96/2015].)
+([Pub. L. 97–399][/us/pl/97/399], § 8, Dec. 31, 1982, [96 Stat. 2015][/us/stat/96/2015].)
 
  __References in Text__ 
 
-    Section 7 of Act August 15, 1953 ([67 Stat. 588][/us/stat/67/588]), as in effect prior to its repeal, referred to in subsec. (b)(1), is section 7 of [act Aug. 15, 1953, ch. 505][/us/act/1953-08-15/ch505], [67 Stat. 590][/us/stat/67/590], which was set out as a note under [section 1360 of Title 28][/us/usc/t28/s1360], Judiciary and Judicial Procedure, and was repealed by [Pub. L. 90–284, title IV, § 403(b)][/us/pl/90/284/s403/b], Apr. 11, 1968, [82 Stat. 79][/us/stat/82/79].
+    Section 7 of Act August 15, 1953 ([67 Stat. 588][/us/stat/67/588]), as in effect prior to its repeal, referred to in subsec. (b)(1), is section 7 of [act Aug. 15, 1953, ch. 505][/us/act/1953-08-15/ch505], [67 Stat. 590][/us/stat/67/590], which was set out as a note under [section 1360 of Title 28][/us/usc/t28/s1360], Judiciary and Judicial Procedure, and was repealed by [Pub. L. 90–284, title IV][/us/pl/90/284/tIV], § 403(b), Apr. 11, 1968, [82 Stat. 79][/us/stat/82/79].
 
 ----------
 
@@ -52,13 +52,13 @@
 [/us/stat/67/588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F588
 [/us/usc/t18/s1162/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1162%2Fb
 [/us/usc/t28/s1360/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1360%2Fb
-[/us/pl/97/399/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F399%2Fs8
+[/us/pl/97/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F399
 [/us/stat/96/2015]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2015
 [/us/stat/67/588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F588
 [/us/act/1953-08-15/ch505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-08-15%2Fch505
 [/us/stat/67/590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F590
 [/us/usc/t28/s1360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1360
-[/us/pl/90/284/s403/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F284%2Fs403%2Fb
+[/us/pl/90/284/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F284%2FtIV
 [/us/stat/82/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F79
 
 

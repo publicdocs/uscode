@@ -177,7 +177,7 @@
 
         None of the funds, assets, income, payments, or distributions from the Trust Funds established pursuant to this section shall at any time affect the eligibility of the Tribe or its Members for, or be used as a basis for denying or reducing funds to the Tribe or its Members under any Federal, State, or local program. Distributions from these Trust Funds may be used as matching funds, where appropriate, for Federal grants or loans.
 
-([Pub. L. 103–116, § 11][/us/pl/103/116/s11], Oct. 27, 1993, [107 Stat. 1127][/us/stat/107/1127].)
+([Pub. L. 103–116][/us/pl/103/116], § 11, Oct. 27, 1993, [107 Stat. 1127][/us/stat/107/1127].)
 
  __References in Text__ 
 
@@ -197,7 +197,7 @@
 [/us/usc/t25/s941c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs941c
 [/us/usc/t25/s941c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs941c
 [/us/usc/t25/s941e/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs941e%2Fc
-[/us/pl/103/116/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F116%2Fs11
+[/us/pl/103/116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F116
 [/us/stat/107/1127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1127
 [/us/usc/t25/s941]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs941
 

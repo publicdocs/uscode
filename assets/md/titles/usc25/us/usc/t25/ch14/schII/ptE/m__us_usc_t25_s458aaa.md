@@ -75,7 +75,7 @@
 
         In any case in which an Indian tribe has authorized another Indian tribe, an inter-tribal consortium, or a tribal organization to plan for or carry out programs, services, functions, or activities (or portions thereof) on its behalf under this part, the authorized Indian tribe, inter-tribal consortium, or tribal organization shall have the rights and responsibilities of the authorizing Indian tribe (except as otherwise provided in the authorizing resolution or in this part). In such event, the term “Indian tribe” as used in this part shall include such other authorized Indian tribe, inter-tribal consortium, or tribal organization.
 
-([Pub. L. 93–638, title V, § 501][/us/pl/93/638/s501], as added [Pub. L. 106–260, § 4][/us/pl/106/260/s4], Aug. 18, 2000, [114 Stat. 712][/us/stat/114/712].)
+([Pub. L. 93–638, title V][/us/pl/93/638/tV], § 501, as added [Pub. L. 106–260][/us/pl/106/260], § 4, Aug. 18, 2000, [114 Stat. 712][/us/stat/114/712].)
 
  __Codification__ 
 
@@ -83,13 +83,13 @@
 
  __Effective Date__ 
 
-[Pub. L. 106–260, § 13][/us/pl/106/260/s13], Aug. 18, 2000, [114 Stat. 734][/us/stat/114/734], provided that: 
+[Pub. L. 106–260][/us/pl/106/260], § 13, Aug. 18, 2000, [114 Stat. 734][/us/stat/114/734], provided that: 
 
 > “Except as otherwise provided, the provisions of this Act \[enacting this part, amending sections 450f, 450j, and 450j–1 of this title, enacting provisions set out as notes under this section and sections 450 and 450f of this title, and repealing provisions set out as a note under [section 450f of this title][/us/usc/t25/s450f]\] shall take effect on the date of the enactment of this Act \[Aug. 18, 2000\].”
 
  __Findings__ 
 
-[Pub. L. 106–260, § 2][/us/pl/106/260/s2], Aug. 18, 2000, [114 Stat. 711][/us/stat/114/711], provided that: 
+[Pub. L. 106–260][/us/pl/106/260], § 2, Aug. 18, 2000, [114 Stat. 711][/us/stat/114/711], provided that: 
 
 > “Congress finds that—
 
@@ -113,7 +113,7 @@
 
  __Declaration of Policy__ 
 
-[Pub. L. 106–260, § 3][/us/pl/106/260/s3], Aug. 18, 2000, [114 Stat. 712][/us/stat/114/712], provided that: 
+[Pub. L. 106–260][/us/pl/106/260], § 3, Aug. 18, 2000, [114 Stat. 712][/us/stat/114/712], provided that: 
 
 > “It is the policy of Congress—
 
@@ -150,19 +150,19 @@
 
 [/us/usc/t25/s450b/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450b%2Fm
 [/us/usc/t25/s458aaa–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs458aaa%E2%80%931
-[/us/pl/93/638/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638%2Fs501
-[/us/pl/106/260/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F260%2Fs4
+[/us/pl/93/638/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638%2FtV
+[/us/pl/106/260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F260
 [/us/stat/114/712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F712
 [/us/pl/93/638/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638%2Fs501
 [/us/usc/t25/s458ddd]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs458ddd
-[/us/pl/106/260/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F260%2Fs13
+[/us/pl/106/260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F260
 [/us/stat/114/734]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F734
 [/us/usc/t25/s450f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450f
-[/us/pl/106/260/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F260%2Fs2
+[/us/pl/106/260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F260
 [/us/stat/114/711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F711
 [/us/pl/93/638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638
 [/us/usc/t25/s450f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450f
-[/us/pl/106/260/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F260%2Fs3
+[/us/pl/106/260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F260
 [/us/stat/114/712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F712
 [/us/usc/t25/s450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450
 [/us/usc/t25/s450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450

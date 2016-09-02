@@ -17,7 +17,7 @@
 
     No money shall be expended from Indian tribal funds without specific appropriation by Congress except as follows: Equalization of allotments, education of Indian children in accordance with existing law, per capita and other payments, all of which are hereby continued in full force and effect: Provided, That this shall not change existing law with reference to the Five Civilized Tribes.
 
-([May 18, 1916, ch. 125, § 27][/us/act/1916-05-18/ch125/s27], [39 Stat. 158][/us/stat/39/158].)
+([May 18, 1916, ch. 125][/us/act/1916-05-18/ch125], § 27, [39 Stat. 158][/us/stat/39/158].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1916-05-18/ch125/s27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-05-18%2Fch125%2Fs27
+[/us/act/1916-05-18/ch125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-05-18%2Fch125
 [/us/stat/39/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F158
 
 

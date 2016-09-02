@@ -63,7 +63,7 @@
 
     (9) __Family literacy services__ 
 
-        The term “family literacy services” has the meaning given that term in section 7801  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of title 20.
+        The term “family literacy services” has the meaning given that term in [section 7801 of title 20][/us/usc/t20/s7801].
 
     (10) __Financial plan__ 
 
@@ -137,13 +137,11 @@
 
         The term “tribe” means any Indian tribe, band, nation, or other organized group or community, including an Alaska Native Regional Corporation or Village Corporation (as defined in or established pursuant to the Alaska Native Claims Settlement Act \[[43 U.S.C. 1601][/us/usc/t43/s1601] et seq.\]), which is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians.
 
-([Pub. L. 95–561, title XI, § 1141][/us/pl/95/561/s1141], as added [Pub. L. 107–110, title X, § 1042][/us/pl/107/110/s1042], Jan. 8, 2002, [115 Stat. 2061][/us/stat/115/2061].)
+([Pub. L. 95–561, title XI][/us/pl/95/561/tXI], § 1141, as added [Pub. L. 107–110, title X][/us/pl/107/110/tX], § 1042, Jan. 8, 2002, [115 Stat. 2061][/us/stat/115/2061]; amended [Pub. L. 114–95, title IX][/us/pl/114/95/tIX], § 9215(cc)(2), Dec. 10, 2015, [129 Stat. 2173][/us/stat/129/2173].)
 
  __References in Text__ 
 
     The Tribally Controlled Schools Act of 1988, referred to in pars. (3)(C) and (6), is part B (§ 5201–5212) of title V of [Pub. L. 100–297][/us/pl/100/297], Apr. 28, 1988, [102 Stat. 385][/us/stat/102/385], as amended, which is classified generally to chapter 27 (§ 2501 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2501 of this title][/us/usc/t25/s2501] and Tables.
-
-    [Section 7801 of title 20][/us/usc/t20/s7801], referred to in par. (9), was in the original “section 8101 of the Elementary and Secondary Education Act of 1965”, meaning [section 8101 of Pub. L. 89–10][/us/pl/89/10/s8101], which was translated as if it referred to section 9101 of that Act to reflect the probable intent of Congress, because section 8101 was repealed by [Pub. L. 107–110, title X, § 1011(5)(C)][/us/pl/107/110/s1011/5/C], Jan. 8, 2002, [115 Stat. 1986][/us/stat/115/1986], and section 9101, as added by [Pub. L. 107–110, title IX, § 901][/us/pl/107/110/s901], Jan. 8, 2002, [115 Stat. 1956][/us/stat/115/1956], defines “family literacy services”.
 
     This Act, referred to in par. (16)(A), means [Pub. L. 95–561][/us/pl/95/561], Nov. 1, 1978, [92 Stat. 2143][/us/stat/92/2143], as amended, known as the Education Amendments of 1978. For complete classification of this Act to the Code, see Short Title of 1978 Amendment note set out under [section 6301 of Title 20][/us/usc/t20/s6301], Education, and Tables.
 
@@ -153,31 +151,39 @@
 
  __Prior Provisions__ 
 
-    A prior section 2021, [Pub. L. 95–561, title XI, § 1141][/us/pl/95/561/s1141], as added [Pub. L. 103–382, title III, § 381][/us/pl/103/382/s381], Oct. 20, 1994, [108 Stat. 4012][/us/stat/108/4012], related to proration of pay, prior to the general amendment of this chapter by [Pub. L. 107–110][/us/pl/107/110]. See [section 2012 of this title][/us/usc/t25/s2012].
+    A prior section 2021, [Pub. L. 95–561, title XI][/us/pl/95/561/tXI], § 1141, as added [Pub. L. 103–382, title III][/us/pl/103/382/tIII], § 381, Oct. 20, 1994, [108 Stat. 4012][/us/stat/108/4012], related to proration of pay, prior to the general amendment of this chapter by [Pub. L. 107–110][/us/pl/107/110]. See [section 2012 of this title][/us/usc/t25/s2012].
 
-    Another prior section 2021, [Pub. L. 95–561, title XI, § 1140A][/us/pl/95/561/s1140A], formerly § 1141, as added [Pub. L. 98–511, title V, § 512][/us/pl/98/511/s512], Oct. 19, 1984, [98 Stat. 2398][/us/stat/98/2398]; renumbered § 1140A and amended [Pub. L. 99–89, § 9(a)(1)][/us/pl/99/89/s9/a/1], (b), Aug. 15, 1985, [99 Stat. 383][/us/stat/99/383], related to proration of pay, prior to the general amendment of this chapter by [Pub. L. 103–382][/us/pl/103/382].
+    Another prior section 2021, [Pub. L. 95–561, title XI][/us/pl/95/561/tXI], § 1140A, formerly § 1141, as added [Pub. L. 98–511, title V][/us/pl/98/511/tV], § 512, Oct. 19, 1984, [98 Stat. 2398][/us/stat/98/2398]; renumbered § 1140A and amended [Pub. L. 99–89][/us/pl/99/89], § 9(a)(1), (b), Aug. 15, 1985, [99 Stat. 383][/us/stat/99/383], related to proration of pay, prior to the general amendment of this chapter by [Pub. L. 103–382][/us/pl/103/382].
 
-    A prior section 2022, [Pub. L. 95–561, title XI, § 1142][/us/pl/95/561/s1142], as added [Pub. L. 103–382, title III, § 381][/us/pl/103/382/s381], Oct. 20, 1994, [108 Stat. 4012][/us/stat/108/4012], related to extracurricular activities, prior to the general amendment of this chapter by [Pub. L. 107–110][/us/pl/107/110]. See [section 2012 of this title][/us/usc/t25/s2012].
+    A prior section 2022, [Pub. L. 95–561, title XI][/us/pl/95/561/tXI], § 1142, as added [Pub. L. 103–382, title III][/us/pl/103/382/tIII], § 381, Oct. 20, 1994, [108 Stat. 4012][/us/stat/108/4012], related to extracurricular activities, prior to the general amendment of this chapter by [Pub. L. 107–110][/us/pl/107/110]. See [section 2012 of this title][/us/usc/t25/s2012].
 
     Another prior section 2022 and prior sections 2022a and 2022b were omitted in the general amendment of this chapter by [Pub. L. 103–382][/us/pl/103/382].
 
-    Section 2022, [Pub. L. 95–561, title XI, § 1140B][/us/pl/95/561/s1140B], formerly § 1142, as added [Pub. L. 98–511, title V, § 512][/us/pl/98/511/s512], Oct. 19, 1984, [98 Stat. 2398][/us/stat/98/2398]; renumbered § 1140B, and amended [Pub. L. 99–89, § 9(a)(1)][/us/pl/99/89/s9/a/1], (c), Aug. 15, 1985, [99 Stat. 383][/us/stat/99/383], related to extracurricular activities.
+    Section 2022, [Pub. L. 95–561, title XI][/us/pl/95/561/tXI], § 1140B, formerly § 1142, as added [Pub. L. 98–511, title V][/us/pl/98/511/tV], § 512, Oct. 19, 1984, [98 Stat. 2398][/us/stat/98/2398]; renumbered § 1140B, and amended [Pub. L. 99–89][/us/pl/99/89], § 9(a)(1), (c), Aug. 15, 1985, [99 Stat. 383][/us/stat/99/383], related to extracurricular activities.
 
-    Section 2022a, [Pub. L. 95–561, title XI, § 1141][/us/pl/95/561/s1141], as added [Pub. L. 100–297, title V, § 5116(2)][/us/pl/100/297/s5116/2], Apr. 28, 1988, [102 Stat. 381][/us/stat/102/381], related to early childhood development program.
+    Section 2022a, [Pub. L. 95–561, title XI][/us/pl/95/561/tXI], § 1141, as added [Pub. L. 100–297, title V][/us/pl/100/297/tV], § 5116(2), Apr. 28, 1988, [102 Stat. 381][/us/stat/102/381], related to early childhood development program.
 
-    Section 2022b, [Pub. L. 95–561, title XI, § 1142][/us/pl/95/561/s1142], as added [Pub. L. 100–297, title V, § 5119][/us/pl/100/297/s5119], Apr. 28, 1988, [102 Stat. 383][/us/stat/102/383], related to tribal departments of education.
+    Section 2022b, [Pub. L. 95–561, title XI][/us/pl/95/561/tXI], § 1142, as added [Pub. L. 100–297, title V][/us/pl/100/297/tV], § 5119, Apr. 28, 1988, [102 Stat. 383][/us/stat/102/383], related to tribal departments of education.
 
-    A prior section 2023, [Pub. L. 95–561, title XI, § 1143][/us/pl/95/561/s1143], as added [Pub. L. 103–382, title III, § 381][/us/pl/103/382/s381], Oct. 20, 1994, [108 Stat. 4012][/us/stat/108/4012]; amended [Pub. L. 106–554, § 1(a)(4)][/us/pl/106/554/s1/a/4] \[div. B, title XVI, § 1607(a)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–335, related to early childhood development program, prior to the general amendment of this chapter by [Pub. L. 107–110][/us/pl/107/110]. See [section 2019 of this title][/us/usc/t25/s2019].
+    A prior section 2023, [Pub. L. 95–561, title XI][/us/pl/95/561/tXI], § 1143, as added [Pub. L. 103–382, title III][/us/pl/103/382/tIII], § 381, Oct. 20, 1994, [108 Stat. 4012][/us/stat/108/4012]; amended [Pub. L. 106–554][/us/pl/106/554], § 1(a)(4) \[div. B, title XVI, § 1607(a)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–335, related to early childhood development program, prior to the general amendment of this chapter by [Pub. L. 107–110][/us/pl/107/110]. See [section 2019 of this title][/us/usc/t25/s2019].
 
-    Another prior section 2023, [Pub. L. 95–561, title XI, § 1143][/us/pl/95/561/s1143], as added [Pub. L. 98–511, title V, § 512][/us/pl/98/511/s512], Oct. 19, 1984, [98 Stat. 2398][/us/stat/98/2398], related to employee housing, rental rates, and waiver of rentals during non-session periods and non-pay status, prior to repeal by [Pub. L. 99–89, § 9(a)(2)][/us/pl/99/89/s9/a/2], Aug. 15, 1985, [99 Stat. 383][/us/stat/99/383].
+    Another prior section 2023, [Pub. L. 95–561, title XI][/us/pl/95/561/tXI], § 1143, as added [Pub. L. 98–511, title V][/us/pl/98/511/tV], § 512, Oct. 19, 1984, [98 Stat. 2398][/us/stat/98/2398], related to employee housing, rental rates, and waiver of rentals during non-session periods and non-pay status, prior to repeal by [Pub. L. 99–89][/us/pl/99/89], § 9(a)(2), Aug. 15, 1985, [99 Stat. 383][/us/stat/99/383].
 
     Prior sections 2024 to 2026 were omitted in the general amendment of this chapter by [Pub. L. 107–110][/us/pl/107/110].
 
-    Section 2024, [Pub. L. 95–561, title XI, § 1144][/us/pl/95/561/s1144], as added [Pub. L. 103–382, title III, § 381][/us/pl/103/382/s381], Oct. 20, 1994, [108 Stat. 4013][/us/stat/108/4013]; amended [Pub. L. 105–244, title IX, § 901(d)][/us/pl/105/244/s901/d], Oct. 7, 1998, [112 Stat. 1828][/us/stat/112/1828], related to tribal departments of education. See [section 2020 of this title][/us/usc/t25/s2020].
+    Section 2024, [Pub. L. 95–561, title XI][/us/pl/95/561/tXI], § 1144, as added [Pub. L. 103–382, title III][/us/pl/103/382/tIII], § 381, Oct. 20, 1994, [108 Stat. 4013][/us/stat/108/4013]; amended [Pub. L. 105–244, title IX][/us/pl/105/244/tIX], § 901(d), Oct. 7, 1998, [112 Stat. 1828][/us/stat/112/1828], related to tribal departments of education. See [section 2020 of this title][/us/usc/t25/s2020].
 
-    Section 2025, [Pub. L. 95–561, title XI, § 1145][/us/pl/95/561/s1145], as added [Pub. L. 103–382, title III, § 381][/us/pl/103/382/s381], Oct. 20, 1994, [108 Stat. 4015][/us/stat/108/4015], related to payments to grantees.
+    Section 2025, [Pub. L. 95–561, title XI][/us/pl/95/561/tXI], § 1145, as added [Pub. L. 103–382, title III][/us/pl/103/382/tIII], § 381, Oct. 20, 1994, [108 Stat. 4015][/us/stat/108/4015], related to payments to grantees.
 
-    Section 2026, [Pub. L. 95–561, title XI, § 1146][/us/pl/95/561/s1146], as added [Pub. L. 103–382, title III, § 381][/us/pl/103/382/s381], Oct. 20, 1994, [108 Stat. 4015][/us/stat/108/4015]; amended [Pub. L. 106–554, § 1(a)(4)][/us/pl/106/554/s1/a/4] \[div. B, title XVI, § 1607(b)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–335, defined terms. See [section 2021 of this title][/us/usc/t25/s2021].
+    Section 2026, [Pub. L. 95–561, title XI][/us/pl/95/561/tXI], § 1146, as added [Pub. L. 103–382, title III][/us/pl/103/382/tIII], § 381, Oct. 20, 1994, [108 Stat. 4015][/us/stat/108/4015]; amended [Pub. L. 106–554][/us/pl/106/554], § 1(a)(4) \[div. B, title XVI, § 1607(b)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–335, defined terms. See [section 2021 of this title][/us/usc/t25/s2021].
+
+ __Amendments__ 
+
+    2015—Par. (9). [Pub. L. 114–95][/us/pl/114/95] made technical amendment to reference in original act which appears in text as reference to [section 7801 of title 20][/us/usc/t20/s7801].
+
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–95][/us/pl/114/95] effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see [section 5 of Pub. L. 114–95][/us/pl/114/95/s5], set out as a note under [section 6301 of Title 20][/us/usc/t20/s6301], Education.
 
 ----------
 
@@ -188,20 +194,17 @@
 
 [/us/usc/t25/s2501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs2501
 [/us/usc/t25/s2501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs2501
+[/us/usc/t20/s7801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7801
 [/us/usc/t25/s2006/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs2006%2Fc
 [/us/usc/t43/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1601
-[/us/pl/95/561/s1141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2Fs1141
-[/us/pl/107/110/s1042]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2Fs1042
+[/us/pl/95/561/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2FtXI
+[/us/pl/107/110/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2FtX
 [/us/stat/115/2061]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F2061
+[/us/pl/114/95/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2FtIX
+[/us/stat/129/2173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2173
 [/us/pl/100/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297
 [/us/stat/102/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F385
 [/us/usc/t25/s2501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs2501
-[/us/usc/t20/s7801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7801
-[/us/pl/89/10/s8101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs8101
-[/us/pl/107/110/s1011/5/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2Fs1011%2F5%2FC
-[/us/stat/115/1986]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1986
-[/us/pl/107/110/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2Fs901
-[/us/stat/115/1956]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1956
 [/us/pl/95/561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561
 [/us/stat/92/2143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2143
 [/us/usc/t20/s6301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6301
@@ -209,61 +212,66 @@
 [/us/pl/92/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F203
 [/us/stat/85/688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F688
 [/us/usc/t43/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1601
-[/us/pl/95/561/s1141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2Fs1141
-[/us/pl/103/382/s381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs381
+[/us/pl/95/561/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2FtXI
+[/us/pl/103/382/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2FtIII
 [/us/stat/108/4012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4012
 [/us/pl/107/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110
 [/us/usc/t25/s2012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs2012
-[/us/pl/95/561/s1140A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2Fs1140A
-[/us/pl/98/511/s512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F511%2Fs512
+[/us/pl/95/561/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2FtXI
+[/us/pl/98/511/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F511%2FtV
 [/us/stat/98/2398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2398
-[/us/pl/99/89/s9/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F89%2Fs9%2Fa%2F1
+[/us/pl/99/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F89
 [/us/stat/99/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F383
 [/us/pl/103/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382
-[/us/pl/95/561/s1142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2Fs1142
-[/us/pl/103/382/s381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs381
+[/us/pl/95/561/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2FtXI
+[/us/pl/103/382/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2FtIII
 [/us/stat/108/4012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4012
 [/us/pl/107/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110
 [/us/usc/t25/s2012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs2012
 [/us/pl/103/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382
-[/us/pl/95/561/s1140B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2Fs1140B
-[/us/pl/98/511/s512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F511%2Fs512
+[/us/pl/95/561/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2FtXI
+[/us/pl/98/511/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F511%2FtV
 [/us/stat/98/2398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2398
-[/us/pl/99/89/s9/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F89%2Fs9%2Fa%2F1
+[/us/pl/99/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F89
 [/us/stat/99/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F383
-[/us/pl/95/561/s1141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2Fs1141
-[/us/pl/100/297/s5116/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297%2Fs5116%2F2
+[/us/pl/95/561/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2FtXI
+[/us/pl/100/297/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297%2FtV
 [/us/stat/102/381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F381
-[/us/pl/95/561/s1142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2Fs1142
-[/us/pl/100/297/s5119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297%2Fs5119
+[/us/pl/95/561/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2FtXI
+[/us/pl/100/297/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297%2FtV
 [/us/stat/102/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F383
-[/us/pl/95/561/s1143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2Fs1143
-[/us/pl/103/382/s381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs381
+[/us/pl/95/561/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2FtXI
+[/us/pl/103/382/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2FtIII
 [/us/stat/108/4012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4012
-[/us/pl/106/554/s1/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F4
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
 [/us/pl/107/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110
 [/us/usc/t25/s2019]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs2019
-[/us/pl/95/561/s1143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2Fs1143
-[/us/pl/98/511/s512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F511%2Fs512
+[/us/pl/95/561/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2FtXI
+[/us/pl/98/511/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F511%2FtV
 [/us/stat/98/2398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2398
-[/us/pl/99/89/s9/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F89%2Fs9%2Fa%2F2
+[/us/pl/99/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F89
 [/us/stat/99/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F383
 [/us/pl/107/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110
-[/us/pl/95/561/s1144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2Fs1144
-[/us/pl/103/382/s381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs381
+[/us/pl/95/561/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2FtXI
+[/us/pl/103/382/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2FtIII
 [/us/stat/108/4013]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4013
-[/us/pl/105/244/s901/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs901%2Fd
+[/us/pl/105/244/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtIX
 [/us/stat/112/1828]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1828
 [/us/usc/t25/s2020]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs2020
-[/us/pl/95/561/s1145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2Fs1145
-[/us/pl/103/382/s381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs381
+[/us/pl/95/561/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2FtXI
+[/us/pl/103/382/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2FtIII
 [/us/stat/108/4015]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4015
-[/us/pl/95/561/s1146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2Fs1146
-[/us/pl/103/382/s381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs381
+[/us/pl/95/561/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2FtXI
+[/us/pl/103/382/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2FtIII
 [/us/stat/108/4015]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4015
-[/us/pl/106/554/s1/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F4
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
 [/us/usc/t25/s2021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs2021
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/usc/t20/s7801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7801
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/pl/114/95/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2Fs5
+[/us/usc/t20/s6301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6301
 
 

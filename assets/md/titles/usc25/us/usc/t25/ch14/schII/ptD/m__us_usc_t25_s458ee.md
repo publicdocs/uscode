@@ -53,7 +53,7 @@
 
         Within 90 days after October 25, 1994, the Secretary shall, in consultation with Indian tribes, develop a funding formula to determine the individual tribal share of funds controlled by the Central Office of the Bureau of Indian Affairs for inclusion in the Self-Governance compacts. The Secretary shall include such formula in the annual report submitted to the Congress under subsection (b), together with the views of the affected Indian tribes.
 
-([Pub. L. 93–638, title IV, § 405][/us/pl/93/638/s405], as added [Pub. L. 103–413, title II, § 204][/us/pl/103/413/s204], Oct. 25, 1994, [108 Stat. 4276][/us/stat/108/4276].)
+([Pub. L. 93–638, title IV][/us/pl/93/638/tIV], § 405, as added [Pub. L. 103–413, title II][/us/pl/103/413/tII], § 204, Oct. 25, 1994, [108 Stat. 4276][/us/stat/108/4276].)
 
 ----------
 
@@ -63,8 +63,8 @@
 ----------
 
 [/us/usc/t25/s458cc]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs458cc
-[/us/pl/93/638/s405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638%2Fs405
-[/us/pl/103/413/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F413%2Fs204
+[/us/pl/93/638/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638%2FtIV
+[/us/pl/103/413/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F413%2FtII
 [/us/stat/108/4276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4276
 
 

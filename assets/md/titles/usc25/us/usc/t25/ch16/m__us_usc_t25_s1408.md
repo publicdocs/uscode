@@ -17,7 +17,7 @@
 
     Interests of individual Indians in trust or restricted lands shall not be considered a resource, and up to $2,000 per year of income received by individual Indians that is derived from such interests shall not be considered income, in determining eligibility for assistance under the Social Security Act \[[42 U.S.C. 301][/us/usc/t42/s301] et seq.\] or any other Federal or federally assisted program.
 
-([Pub. L. 93–134, § 8][/us/pl/93/134/s8], as added [Pub. L. 97–458, § 4][/us/pl/97/458/s4], Jan. 12, 1983, [96 Stat. 2514][/us/stat/96/2514]; amended [Pub. L. 103–66, title XIII, § 13736(a)][/us/pl/103/66/s13736/a], Aug. 10, 1993, [107 Stat. 663][/us/stat/107/663].)
+([Pub. L. 93–134][/us/pl/93/134], § 8, as added [Pub. L. 97–458][/us/pl/97/458], § 4, Jan. 12, 1983, [96 Stat. 2514][/us/stat/96/2514]; amended [Pub. L. 103–66, title XIII][/us/pl/103/66/tXIII], § 13736(a), Aug. 10, 1993, [107 Stat. 663][/us/stat/107/663].)
 
  __References in Text__ 
 
@@ -29,7 +29,7 @@
 
  __Effective Date of 1993 Amendment__ 
 
-[Pub. L. 103–66, title XIII, § 13736(b)][/us/pl/103/66/s13736/b], Aug. 10, 1993, [107 Stat. 663][/us/stat/107/663], provided that: 
+[Pub. L. 103–66, title XIII][/us/pl/103/66/tXIII], § 13736(b), Aug. 10, 1993, [107 Stat. 663][/us/stat/107/663], provided that: 
 
 > “The amendment made by this section \[amending this section\] shall take effect on January 1, 1994.”
 
@@ -41,16 +41,16 @@
 ----------
 
 [/us/usc/t42/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs301
-[/us/pl/93/134/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F134%2Fs8
-[/us/pl/97/458/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F458%2Fs4
+[/us/pl/93/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F134
+[/us/pl/97/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F458
 [/us/stat/96/2514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2514
-[/us/pl/103/66/s13736/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13736%2Fa
+[/us/pl/103/66/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2FtXIII
 [/us/stat/107/663]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F663
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620
 [/us/usc/t42/s1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1305
 [/us/pl/103/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66
-[/us/pl/103/66/s13736/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13736%2Fb
+[/us/pl/103/66/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2FtXIII
 [/us/stat/107/663]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F663
 
 

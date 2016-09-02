@@ -85,7 +85,7 @@
 
         Any exception or problem cited in an audit conducted pursuant to [section 2505(b)(1) of this title][/us/usc/t25/s2505/b/1], any dispute regarding a grant authorized to be made pursuant to this chapter or any amendment to such grant, and any dispute involving an administrative cost grant under [section 2008 of this title][/us/usc/t25/s2008] shall be administered under the provisions governing such exceptions, problems, or disputes in the case of contracts under the Indian Self-Determination and Education Assistance Act \[[25 U.S.C. 450][/us/usc/t25/s450] et seq.\]. The Equal Access to Justice Act shall apply to administrative appeals filed after September 8, 1988, by grantees regarding a grant under this chapter, including an administrative cost grant.
 
-([Pub. L. 100–297, title V, § 5208][/us/pl/100/297/s5208], as added [Pub. L. 107–110, title X, § 1043][/us/pl/107/110/s1043], Jan. 8, 2002, [115 Stat. 2076][/us/stat/115/2076].)
+([Pub. L. 100–297, title V][/us/pl/100/297/tV], § 5208, as added [Pub. L. 107–110, title X][/us/pl/107/110/tX], § 1043, Jan. 8, 2002, [115 Stat. 2076][/us/stat/115/2076].)
 
  __References in Text__ 
 
@@ -95,7 +95,7 @@
 
  __Prior Provisions__ 
 
-    A prior section 2507, [Pub. L. 100–297, title V, § 5208][/us/pl/100/297/s5208], Apr. 28, 1988, [102 Stat. 393][/us/stat/102/393]; [Pub. L. 100–427, § 13][/us/pl/100/427/s13], Sept. 9, 1988, [102 Stat. 1609][/us/stat/102/1609]; [Pub. L. 103–382, title III, § 382(c)][/us/pl/103/382/s382/c], Oct. 20, 1994, [108 Stat. 4017][/us/stat/108/4017], related to payment of grants and investment of funds, prior to repeal by [Pub. L. 107–110, title X, § 1043][/us/pl/107/110/s1043], Jan. 8, 2002, [115 Stat. 2063][/us/stat/115/2063]. See [section 2506 of this title][/us/usc/t25/s2506].
+    A prior section 2507, [Pub. L. 100–297, title V][/us/pl/100/297/tV], § 5208, Apr. 28, 1988, [102 Stat. 393][/us/stat/102/393]; [Pub. L. 100–427][/us/pl/100/427], § 13, Sept. 9, 1988, [102 Stat. 1609][/us/stat/102/1609]; [Pub. L. 103–382, title III][/us/pl/103/382/tIII], § 382(c), Oct. 20, 1994, [108 Stat. 4017][/us/stat/108/4017], related to payment of grants and investment of funds, prior to repeal by [Pub. L. 107–110, title X][/us/pl/107/110/tX], § 1043, Jan. 8, 2002, [115 Stat. 2063][/us/stat/115/2063]. See [section 2506 of this title][/us/usc/t25/s2506].
 
  __Effective Date__ 
 
@@ -128,8 +128,8 @@
 [/us/usc/t25/s2505/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs2505%2Fb%2F1
 [/us/usc/t25/s2008]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs2008
 [/us/usc/t25/s450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450
-[/us/pl/100/297/s5208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297%2Fs5208
-[/us/pl/107/110/s1043]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2Fs1043
+[/us/pl/100/297/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297%2FtV
+[/us/pl/107/110/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2FtX
 [/us/stat/115/2076]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F2076
 [/us/pl/93/638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638
 [/us/stat/88/2203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2203
@@ -137,13 +137,13 @@
 [/us/pl/96/481]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F481
 [/us/stat/94/2325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2325
 [/us/usc/t5/s504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs504
-[/us/pl/100/297/s5208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297%2Fs5208
+[/us/pl/100/297/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297%2FtV
 [/us/stat/102/393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F393
-[/us/pl/100/427/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F427%2Fs13
+[/us/pl/100/427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F427
 [/us/stat/102/1609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1609
-[/us/pl/103/382/s382/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs382%2Fc
+[/us/pl/103/382/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2FtIII
 [/us/stat/108/4017]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4017
-[/us/pl/107/110/s1043]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2Fs1043
+[/us/pl/107/110/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2FtX
 [/us/stat/115/2063]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F2063
 [/us/usc/t25/s2506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs2506
 [/us/pl/107/110/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2Fs5

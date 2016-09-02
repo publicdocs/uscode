@@ -57,7 +57,7 @@
 
         For the purposes of this section, the term “inventory” means a simple itemized list that summarizes the information called for by this section.
 
-([Pub. L. 101–601, § 5][/us/pl/101/601/s5], Nov. 16, 1990, [104 Stat. 3052][/us/stat/104/3052].)
+([Pub. L. 101–601][/us/pl/101/601], § 5, Nov. 16, 1990, [104 Stat. 3052][/us/stat/104/3052].)
 
  __References in Text__ 
 
@@ -71,7 +71,7 @@
 ----------
 
 [/us/usc/t25/s3006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs3006
-[/us/pl/101/601/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F601%2Fs5
+[/us/pl/101/601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F601
 [/us/stat/104/3052]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3052
 [/us/pl/101/601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F601
 [/us/stat/104/3048]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3048

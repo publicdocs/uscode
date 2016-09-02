@@ -27,7 +27,7 @@
 
         No grant may be made to an applicant who is unable to obtain at least 60 per centum of the necessary funds for the economic enterprise from other sources.
 
-([Pub. L. 93–262, title IV, § 402][/us/pl/93/262/s402], Apr. 12, 1974, [88 Stat. 83][/us/stat/88/83]; [Pub. L. 98–449, § 9][/us/pl/98/449/s9], Oct. 4, 1984, [98 Stat. 1725][/us/stat/98/1725].)
+([Pub. L. 93–262, title IV][/us/pl/93/262/tIV], § 402, Apr. 12, 1974, [88 Stat. 83][/us/stat/88/83]; [Pub. L. 98–449][/us/pl/98/449], § 9, Oct. 4, 1984, [98 Stat. 1725][/us/stat/98/1725].)
 
  __Amendments__ 
 
@@ -40,9 +40,9 @@
 ----------
 ----------
 
-[/us/pl/93/262/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F262%2Fs402
+[/us/pl/93/262/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F262%2FtIV
 [/us/stat/88/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F83
-[/us/pl/98/449/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F449%2Fs9
+[/us/pl/98/449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F449
 [/us/stat/98/1725]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1725
 [/us/pl/98/449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F449
 

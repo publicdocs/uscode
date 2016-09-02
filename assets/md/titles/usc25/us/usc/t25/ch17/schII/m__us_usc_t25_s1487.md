@@ -17,7 +17,7 @@
 
     Any loans insured hereunder shall be restricted to those made by a financial institution subject to examination and supervision by an agency of the United States, a State, or the District of Columbia, and to loans made by Indian organizations from their own funds to other tribes or organizations of Indians.
 
-([Pub. L. 93–262, title II, § 207][/us/pl/93/262/s207], Apr. 12, 1974, [88 Stat. 80][/us/stat/88/80].)
+([Pub. L. 93–262, title II][/us/pl/93/262/tII], § 207, Apr. 12, 1974, [88 Stat. 80][/us/stat/88/80].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/93/262/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F262%2Fs207
+[/us/pl/93/262/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F262%2FtII
 [/us/stat/88/80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F80
 
 

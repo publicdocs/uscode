@@ -17,7 +17,7 @@
 
     The Secretary of the Interior is authorized to withdraw as much as may be necessary from the fund on deposit in the Treasury of the United States arising from the proceeds of the sale of timber and lumber within the Red Lake Reservation in Minnesota, according to the provisions of the Act of May 18, 1916 ([39 Stat. 137][/us/stat/39/137]), to the credit of the Red Lake Indians in Minnesota, and to pay therefrom $100 to each member of the Red Lake Band of Chippewa Indians of Minnesota who is living on August 28, 1958. Such payment shall be made under such rules and regulations as the Secretary of the Interior may prescribe.
 
-([Pub. L. 85–794, § 1][/us/pl/85/794/s1], Aug. 28, 1958, [72 Stat. 958][/us/stat/72/958].)
+([Pub. L. 85–794][/us/pl/85/794], § 1, Aug. 28, 1958, [72 Stat. 958][/us/stat/72/958].)
 
  __References in Text__ 
 
@@ -25,13 +25,13 @@
 
  __Per Capita Payments From Net Proceeds__ 
 
-[Act May 18, 1916, ch. 125, § 9(19)][/us/act/1916-05-18/ch125/s9/19], [39 Stat. 138][/us/stat/39/138], as amended by [Pub. L. 85–794, § 4][/us/pl/85/794/s4], Aug. 28, 1958, [72 Stat. 958][/us/stat/72/958], provided that: 
+[Act May 18, 1916, ch. 125][/us/act/1916-05-18/ch125], § 9(19), [39 Stat. 138][/us/stat/39/138], as amended by [Pub. L. 85–794][/us/pl/85/794], § 4, Aug. 28, 1958, [72 Stat. 958][/us/stat/72/958], provided that: 
 
 > “After the payment of all expenses connected with the administration of these lands as herein provided, the net proceeds therefrom shall be covered into the Treasury of the United States to the credit of the Red Lake Indians and draw interest at the rate of 4 per centum per annum. Any part of such fund or the interest thereon that is in excess of reserve and operating requirements, as determined by the Secretary of the Interior, may be distributed per capita to the members of the Red Lake Band upon request of the tribal council and approval by the Secretary.”
 
  __Administration of Red Lake Indian Forest__ 
 
-[Act May 18, 1916, ch. 125, § 9(17)][/us/act/1916-05-18/ch125/s9/17], [39 Stat. 137][/us/stat/39/137], as amended by [Pub. L. 85–794, § 5][/us/pl/85/794/s5], Aug. 28, 1958, [72 Stat. 958][/us/stat/72/958], provided that: 
+[Act May 18, 1916, ch. 125][/us/act/1916-05-18/ch125], § 9(17), [39 Stat. 137][/us/stat/39/137], as amended by [Pub. L. 85–794][/us/pl/85/794], § 5, Aug. 28, 1958, [72 Stat. 958][/us/stat/72/958], provided that: 
 
 > “The Red Lake Indian Forest shall be administered by the Secretary of the Interior in accordance with principles of scientific forestry that will encourage the production of successive timber crops for the benefit of the Indians of the Red Lake Band, and he is hereby authorized (a) to harvest, sell, and manufacture such marketable timber from any tribal lands within the Red Lake Indian Reservation as he may deem to be advisable and, if the timber is the growth of Red Lake Indian Forest, in keeping with the foregoing principles, (b) to establish nurseries and otherwise provide for the reforestation of said lands, (c) to construct and operate sawmills and other facilities for the manufacture into marketable products of the timber harvested from said lands, (d) to purchase, harvest, and manufacture such additional timber standing on or severed from any other lands, including lands outside the reservation, as in his opinion may contribute to the profitable operation of such sawmills and other facilities as a tribal enterprise, subject to such limitations on expenditures as may be prescribed in annual appropriations acts, and (e) to employ such persons and use such means as he may find necessary to carry out the purposes of the foregoing provisions. Any proceeds derived from sales of timber or timber products under this paragraph may be expended in payment of the expenses of any of the activities authorized by this paragraph including construction expenses.”
 
@@ -43,18 +43,18 @@
 ----------
 
 [/us/stat/39/137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F137
-[/us/pl/85/794/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F794%2Fs1
+[/us/pl/85/794]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F794
 [/us/stat/72/958]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F958
 [/us/act/1916-05-18/ch125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-05-18%2Fch125
 [/us/stat/39/123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F123
 [/us/stat/39/137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F137
-[/us/act/1916-05-18/ch125/s9/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-05-18%2Fch125%2Fs9%2F19
+[/us/act/1916-05-18/ch125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-05-18%2Fch125
 [/us/stat/39/138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F138
-[/us/pl/85/794/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F794%2Fs4
+[/us/pl/85/794]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F794
 [/us/stat/72/958]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F958
-[/us/act/1916-05-18/ch125/s9/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-05-18%2Fch125%2Fs9%2F17
+[/us/act/1916-05-18/ch125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-05-18%2Fch125
 [/us/stat/39/137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F137
-[/us/pl/85/794/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F794%2Fs5
+[/us/pl/85/794]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F794
 [/us/stat/72/958]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F958
 
 

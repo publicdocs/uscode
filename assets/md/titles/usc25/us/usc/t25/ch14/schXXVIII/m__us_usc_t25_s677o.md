@@ -27,7 +27,7 @@
 
         (2) upon request of any of the owners and a finding by the Secretary that partition of all or any part of the land is not practicable, cause all or any part of the land to be sold at not less than the appraised value thereof and distribute the proceeds of sale to the owners: Provided, That before a sale any one or more of the owners may elect to purchase the other interests in the land, or the tribe may elect to purchase the entire interest in the land, at not less than the appraised value thereof.
 
-([Aug. 27, 1954, ch. 1009, § 16][/us/act/1954-08-27/ch1009/s16], [68 Stat. 876][/us/stat/68/876].)
+([Aug. 27, 1954, ch. 1009][/us/act/1954-08-27/ch1009], § 16, [68 Stat. 876][/us/stat/68/876].)
 
  __References in Text__ 
 
@@ -41,7 +41,7 @@
 ----------
 
 [/us/usc/t25/s677i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs677i
-[/us/act/1954-08-27/ch1009/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-27%2Fch1009%2Fs16
+[/us/act/1954-08-27/ch1009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-27%2Fch1009
 [/us/stat/68/876]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F876
 [/us/act/1954-08-27/ch1009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-27%2Fch1009
 [/us/stat/68/868]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F868

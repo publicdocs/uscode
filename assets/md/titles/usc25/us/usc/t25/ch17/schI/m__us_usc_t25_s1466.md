@@ -17,7 +17,7 @@
 
     Title to any land purchased by a tribe or by an individual Indian with loans made from the revolving loan fund may be taken in trust unless the land is located outside the boundaries of a reservation or a tribal consolidation area approved by the Secretary. Title to any land purchased by a tribe or an individual Indian which is outside the boundaries of the reservation or approved consolidation area may be taken in trust if the purchaser was the owner of trust or restricted interests in the land before the purchase, otherwise title shall be taken in the name of the purchasers without any restriction on alienation, control, or use. Title to any personal property purchased with a loan from the revolving loan fund shall be taken in the name of the purchaser.
 
-([Pub. L. 93–262, title I, § 106][/us/pl/93/262/s106], Apr. 12, 1974, [88 Stat. 78][/us/stat/88/78].)
+([Pub. L. 93–262, title I][/us/pl/93/262/tI], § 106, Apr. 12, 1974, [88 Stat. 78][/us/stat/88/78].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/93/262/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F262%2Fs106
+[/us/pl/93/262/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F262%2FtI
 [/us/stat/88/78]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F78
 
 

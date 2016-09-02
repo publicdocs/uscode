@@ -23,7 +23,7 @@
 
         In providing services pursuant to subsection (a), the Secretary and the head of each department and agency shall consult and cooperate with appropriate officials or agencies of the Mexican Government to the greatest extent possible to ensure that such services meet the special tricultural needs of the Band and its members. Such consultation and cooperation may include, whenever practicable, joint funding agreements between such agency or department of the United States and the appropriate agencies and officials of the Mexican Government.
 
-([Pub. L. 97–429, § 7][/us/pl/97/429/s7], Jan. 8, 1983, [96 Stat. 2270][/us/stat/96/2270].)
+([Pub. L. 97–429][/us/pl/97/429], § 7, Jan. 8, 1983, [96 Stat. 2270][/us/stat/96/2270].)
 
 ----------
 
@@ -33,7 +33,7 @@
 ----------
 
 [/us/usc/t25/s1300b–13/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1300b%E2%80%9313%2Fa
-[/us/pl/97/429/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F429%2Fs7
+[/us/pl/97/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F429
 [/us/stat/96/2270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2270
 
 

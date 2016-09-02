@@ -21,7 +21,7 @@
 
     (2) by the individual and presented to the Secretary with supporting documentation, and is verified by the Secretary pursuant to the Department’s policy for addressing accountholder losses.
 
-([Pub. L. 103–412, title I, § 104][/us/pl/103/412/s104], Oct. 25, 1994, [108 Stat. 4241][/us/stat/108/4241].)
+([Pub. L. 103–412, title I][/us/pl/103/412/tI], § 104, Oct. 25, 1994, [108 Stat. 4241][/us/stat/108/4241].)
 
 ----------
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/103/412/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F412%2Fs104
+[/us/pl/103/412/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F412%2FtI
 [/us/stat/108/4241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4241
 
 

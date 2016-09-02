@@ -17,7 +17,7 @@
 
     After the deduction of attorney fees, litigation expenses, the costs of roll preparation, and such sums as may be required to distribute individual shares, the funds, including interest, remaining to the credit of the Upper and Lower Chehalis Tribes, which were appropriated by the Act of June 9, 1964 ([78 Stat. 213][/us/stat/78/213]), shall be distributed in equal shares to those persons whose names appear on the roll prepared in accordance with [section 1151 of this title][/us/usc/t25/s1151].
 
-([Pub. L. 90–114, § 2][/us/pl/90/114/s2], Oct. 24, 1967, [81 Stat. 335][/us/stat/81/335].)
+([Pub. L. 90–114][/us/pl/90/114], § 2, Oct. 24, 1967, [81 Stat. 335][/us/stat/81/335].)
 
  __References in Text__ 
 
@@ -32,7 +32,7 @@
 
 [/us/stat/78/213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F213
 [/us/usc/t25/s1151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1151
-[/us/pl/90/114/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F114%2Fs2
+[/us/pl/90/114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F114
 [/us/stat/81/335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F335
 [/us/pl/88/317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F317
 [/us/stat/78/213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F213

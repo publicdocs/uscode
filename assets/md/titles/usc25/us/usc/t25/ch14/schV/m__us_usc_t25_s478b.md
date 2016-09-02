@@ -17,7 +17,7 @@
 
     All laws, general and special, and all treaty provisions affecting any Indian reservation which has voted or may vote to exclude itself from the application of the Act of June 18, 1934 ([48 Stat. 984][/us/stat/48/984]) \[[25 U.S.C. 461][/us/usc/t25/s461] et seq.\], shall be deemed to have been continuously effective as to such reservation, notwithstanding the passage of said Act of June 18, 1934. Nothing in the Act of June 18, 1934, shall be construed to abrogate or impair any rights guaranteed under any existing treaty with any Indian tribe, where such tribe voted not to exclude itself from the application of said Act.
 
-([June 15, 1935, ch. 260, § 4][/us/act/1935-06-15/ch260/s4], [49 Stat. 378][/us/stat/49/378].)
+([June 15, 1935, ch. 260][/us/act/1935-06-15/ch260], § 4, [49 Stat. 378][/us/stat/49/378].)
 
  __References in Text__ 
 
@@ -32,7 +32,7 @@
 
 [/us/stat/48/984]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F984
 [/us/usc/t25/s461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs461
-[/us/act/1935-06-15/ch260/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-06-15%2Fch260%2Fs4
+[/us/act/1935-06-15/ch260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-06-15%2Fch260
 [/us/stat/49/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F378
 [/us/usc/t25/s461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs461
 

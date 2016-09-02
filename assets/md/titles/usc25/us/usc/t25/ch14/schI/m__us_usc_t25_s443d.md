@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t25/ch14/schI/m__us_usc_t25_s443c.md) | [Next](./../../../../..//us/usc/t25/ch14/schII/m__us_usc_t25_ch14_schII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs443d)
+[Previous](./../../../../..//us/usc/t25/ch14/schI/m__us_usc_t25_s443c.md) | [Next](./../../../../..//us/usc/t25/ch14/schI/m__us_usc_t25_s444...449.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs443d)
 
 ## § 443d. Service of traditional foods in public facilities
 
@@ -117,23 +117,15 @@
 
             Nothing in paragraph (1) alters any liability or other obligation of the United States under the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 1450][/us/usc/t25/s1450]  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “450”. </sup></sup>  et seq.).
 
-([Pub. L. 113–79, title IV, § 4033][/us/pl/113/79/s4033], Feb. 7, 2014, [128 Stat. 818][/us/stat/128/818].)
+([Pub. L. 113–79, title IV][/us/pl/113/79/tIV], § 4033, Feb. 7, 2014, [128 Stat. 818][/us/stat/128/818].)
 
  __References in Text__ 
 
     The Indian Self-Determination and Education Assistance Act, referred to in subsec. (d)(2), is [Pub. L. 93–638][/us/pl/93/638], Jan. 4, 1975, [88 Stat. 2203][/us/stat/88/2203], which is classified principally to subchapter II (§ 450 et seq.) of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 450 of this title][/us/usc/t25/s450] and Tables.
 
-§§ 444 to 449. __Repealed.__  __[__  __Aug. 5, 1954, ch. 658, § 5__  __][/us/act/1954-08-05/ch658/s5]__  __,__  __[__  __68 Stat. 675__  __][/us/stat/68/675]__ 
-
-    Sections, [act Apr. 3, 1952, ch. 129][/us/act/1952-04-03/ch129], §§ 1–6, [66 Stat. 35][/us/stat/66/35], related to Indian hospital services and facilities. See section 2001 et seq. of Title 42, The Public Health and Welfare.
-
- __Effective Date of Repeal__ 
-
-    Repeal effective July 1, 1959, see section 6 of act Aug. 5, 1954, set out as an Effective Date note under [section 2001 of Title 42][/us/usc/t42/s2001], The Public Health and Welfare.
-
 ----------
 
-[Previous](./../../../../..//us/usc/t25/ch14/schI/m__us_usc_t25_s443c.md) | [Next](./../../../../..//us/usc/t25/ch14/schII/m__us_usc_t25_ch14_schII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs443d)
+[Previous](./../../../../..//us/usc/t25/ch14/schI/m__us_usc_t25_s443c.md) | [Next](./../../../../..//us/usc/t25/ch14/schI/m__us_usc_t25_s444...449.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs443d)
 
 ----------
 ----------
@@ -143,15 +135,10 @@
 [/us/usc/t25/s450b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450b
 [/us/usc/t25/s450b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450b
 [/us/usc/t25/s1450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1450
-[/us/pl/113/79/s4033]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs4033
+[/us/pl/113/79/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtIV
 [/us/stat/128/818]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F818
 [/us/pl/93/638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638
 [/us/stat/88/2203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2203
 [/us/usc/t25/s450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450
-[/us/act/1954-08-05/ch658/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-05%2Fch658%2Fs5
-[/us/stat/68/675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F675
-[/us/act/1952-04-03/ch129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-04-03%2Fch129
-[/us/stat/66/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F35
-[/us/usc/t42/s2001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2001
 
 

@@ -17,7 +17,7 @@
 
     The Secretary of the Interior is authorized to make and enforce such rules and regulations as may be necessary to secure the enrollment and regular attendance of eligible Indian children who are wards of the Government in schools maintained for their benefit by the United States or in public schools.
 
-([Feb. 14, 1920, ch. 75, § 1][/us/act/1920-02-14/ch75/s1], [41 Stat. 410][/us/stat/41/410].)
+([Feb. 14, 1920, ch. 75][/us/act/1920-02-14/ch75], § 1, [41 Stat. 410][/us/stat/41/410].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1920-02-14/ch75/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-02-14%2Fch75%2Fs1
+[/us/act/1920-02-14/ch75]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-02-14%2Fch75
 [/us/stat/41/410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F410
 
 

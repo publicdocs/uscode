@@ -17,7 +17,7 @@
 
     The sum of $500,000, and the interest thereon, less attorneys’ fees and other appropriate deductions all in the proportion that the $500,000 bears to the $15,700,000, shall be credited to the Shoshone-Bannock Tribes of the Fort Hall Reservation for claims of the tribes enumerated in dockets numbered 326–D, 326–E, 326–F, 326–G, and 366.
 
-([Pub. L. 92–206, § 2][/us/pl/92/206/s2], Dec. 18, 1971, [85 Stat. 737][/us/stat/85/737].)
+([Pub. L. 92–206][/us/pl/92/206], § 2, Dec. 18, 1971, [85 Stat. 737][/us/stat/85/737].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/92/206/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F206%2Fs2
+[/us/pl/92/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F206
 [/us/stat/85/737]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F737
 
 

@@ -167,7 +167,7 @@
 
         Not later than 1 year after March 23, 2010, the Secretary, acting through the Service, shall make an assessment of the need for inpatient mental health care among Indians and the availability and cost of inpatient mental health facilities which can meet such need. In making such assessment, the Secretary shall consider the possible conversion of existing, underused Service hospital beds into psychiatric units to meet such need.
 
-([Pub. L. 94–437, title VII, § 702][/us/pl/94/437/s702], as added [Pub. L. 111–148, title X, § 10221(a)][/us/pl/111/148/s10221/a], Mar. 23, 2010, [124 Stat. 935][/us/stat/124/935].)
+([Pub. L. 94–437, title VII][/us/pl/94/437/tVII], § 702, as added [Pub. L. 111–148, title X][/us/pl/111/148/tX], § 10221(a), Mar. 23, 2010, [124 Stat. 935][/us/stat/124/935].)
 
  __Codification__ 
 
@@ -175,7 +175,7 @@
 
  __Prior Provisions__ 
 
-    A prior section 1665a, [Pub. L. 94–437, title VII, § 702][/us/pl/94/437/s702], as added [Pub. L. 102–573, title VII, § 702(a)][/us/pl/102/573/s702/a], Oct. 29, 1992, [106 Stat. 4573][/us/stat/106/4573], provided for Indian Health Service program, prior to the general amendment of this subchapter by [Pub. L. 111–148][/us/pl/111/148].
+    A prior section 1665a, [Pub. L. 94–437, title VII][/us/pl/94/437/tVII], § 702, as added [Pub. L. 102–573, title VII][/us/pl/102/573/tVII], § 702(a), Oct. 29, 1992, [106 Stat. 4573][/us/stat/106/4573], provided for Indian Health Service program, prior to the general amendment of this subchapter by [Pub. L. 111–148][/us/pl/111/148].
 
 ----------
 
@@ -184,13 +184,13 @@
 ----------
 ----------
 
-[/us/pl/94/437/s702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437%2Fs702
-[/us/pl/111/148/s10221/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10221%2Fa
+[/us/pl/94/437/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437%2FtVII
+[/us/pl/111/148/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtX
 [/us/stat/124/935]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F935
 [/us/pl/94/437/s702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437%2Fs702
 [/us/pl/111/148/s10221/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10221%2Fa
-[/us/pl/94/437/s702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437%2Fs702
-[/us/pl/102/573/s702/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2Fs702%2Fa
+[/us/pl/94/437/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437%2FtVII
+[/us/pl/102/573/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2FtVII
 [/us/stat/106/4573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4573
 [/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 

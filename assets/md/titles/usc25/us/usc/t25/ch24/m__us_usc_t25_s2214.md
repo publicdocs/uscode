@@ -17,7 +17,7 @@
 
     For purposes of this chapter, the Secretary may develop a system for establishing the fair market value of various types of lands and improvements. Such a system may include determinations of fair market value based on appropriate geographic units as determined by the Secretary. Such a system may govern the amounts offered for the purchase of interests in trust or restricted land under this chapter.
 
-([Pub. L. 97–459, title II, § 215][/us/pl/97/459/s215], as added [Pub. L. 106–462, title I, § 103(6)][/us/pl/106/462/s103/6], Nov. 7, 2000, [114 Stat. 2002][/us/stat/114/2002]; amended [Pub. L. 108–374, § 6(a)(7)][/us/pl/108/374/s6/a/7], Oct. 27, 2004, [118 Stat. 1802][/us/stat/118/1802]; [Pub. L. 109–157, § 6][/us/pl/109/157/s6], Dec. 30, 2005, [119 Stat. 2952][/us/stat/119/2952].)
+([Pub. L. 97–459, title II][/us/pl/97/459/tII], § 215, as added [Pub. L. 106–462, title I][/us/pl/106/462/tI], § 103(6), Nov. 7, 2000, [114 Stat. 2002][/us/stat/114/2002]; amended [Pub. L. 108–374][/us/pl/108/374], § 6(a)(7), Oct. 27, 2004, [118 Stat. 1802][/us/stat/118/1802]; [Pub. L. 109–157][/us/pl/109/157], § 6, Dec. 30, 2005, [119 Stat. 2952][/us/stat/119/2952].)
 
  __References in Text__ 
 
@@ -40,12 +40,12 @@
 ----------
 ----------
 
-[/us/pl/97/459/s215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F459%2Fs215
-[/us/pl/106/462/s103/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F462%2Fs103%2F6
+[/us/pl/97/459/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F459%2FtII
+[/us/pl/106/462/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F462%2FtI
 [/us/stat/114/2002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2002
-[/us/pl/108/374/s6/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F374%2Fs6%2Fa%2F7
+[/us/pl/108/374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F374
 [/us/stat/118/1802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1802
-[/us/pl/109/157/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F157%2Fs6
+[/us/pl/109/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F157
 [/us/stat/119/2952]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2952
 [/us/pl/97/459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F459
 [/us/pl/109/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F157

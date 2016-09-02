@@ -17,7 +17,7 @@
 
     The Secretary may promulgate such regulations as may be necessary to carry out the provisions of this subchapter.
 
-([Pub. L. 103–434, title II, § 209][/us/pl/103/434/s209], Oct. 31, 1994, [108 Stat. 4536][/us/stat/108/4536].)
+([Pub. L. 103–434, title II][/us/pl/103/434/tII], § 209, Oct. 31, 1994, [108 Stat. 4536][/us/stat/108/4536].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/103/434/s209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F434%2Fs209
+[/us/pl/103/434/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F434%2FtII
 [/us/stat/108/4536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4536
 
 

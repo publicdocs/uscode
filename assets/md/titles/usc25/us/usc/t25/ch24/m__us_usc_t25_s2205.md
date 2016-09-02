@@ -183,7 +183,7 @@
 
             The Secretary by regulation may provide for the use of findings of fact and conclusions of law, as rendered by a tribal justice system, as proposed findings of fact and conclusions of law in the adjudication of probate proceedings by the Department of the Interior.
 
-([Pub. L. 97–459, title II, § 206][/us/pl/97/459/s206], as added [Pub. L. 106–462, title I, § 103(3)][/us/pl/106/462/s103/3], Nov. 7, 2000, [114 Stat. 1993][/us/stat/114/1993]; amended [Pub. L. 108–374, § 6(a)(3)][/us/pl/108/374/s6/a/3], Oct. 27, 2004, [118 Stat. 1799][/us/stat/118/1799]; [Pub. L. 109–157, § 3][/us/pl/109/157/s3], Dec. 30, 2005, [119 Stat. 2950][/us/stat/119/2950].)
+([Pub. L. 97–459, title II][/us/pl/97/459/tII], § 206, as added [Pub. L. 106–462, title I][/us/pl/106/462/tI], § 103(3), Nov. 7, 2000, [114 Stat. 1993][/us/stat/114/1993]; amended [Pub. L. 108–374][/us/pl/108/374], § 6(a)(3), Oct. 27, 2004, [118 Stat. 1799][/us/stat/118/1799]; [Pub. L. 109–157][/us/pl/109/157], § 3, Dec. 30, 2005, [119 Stat. 2950][/us/stat/119/2950].)
 
  __References in Text__ 
 
@@ -193,25 +193,25 @@
 
  __Prior Provisions__ 
 
-    A prior section 2205, [Pub. L. 97–459, title II, § 206][/us/pl/97/459/s206], Jan. 12, 1983, [96 Stat. 2518][/us/stat/96/2518]; [Pub. L. 98–608, § 1(3)][/us/pl/98/608/s1/3], Oct. 30, 1984, [98 Stat. 3172][/us/stat/98/3172], related to descent and distribution of trust or restricted or controlled lands, tribal ordinance barring nonmembers of tribe or non-Indians from inheritance by devise or descent, and limitation on life estate, prior to repeal by [Pub. L. 106–462, title I, § 103(3)][/us/pl/106/462/s103/3], Nov. 7, 2000, [114 Stat. 1993][/us/stat/114/1993].
+    A prior section 2205, [Pub. L. 97–459, title II][/us/pl/97/459/tII], § 206, Jan. 12, 1983, [96 Stat. 2518][/us/stat/96/2518]; [Pub. L. 98–608][/us/pl/98/608], § 1(3), Oct. 30, 1984, [98 Stat. 3172][/us/stat/98/3172], related to descent and distribution of trust or restricted or controlled lands, tribal ordinance barring nonmembers of tribe or non-Indians from inheritance by devise or descent, and limitation on life estate, prior to repeal by [Pub. L. 106–462, title I][/us/pl/106/462/tI], § 103(3), Nov. 7, 2000, [114 Stat. 1993][/us/stat/114/1993].
 
  __Amendments__ 
 
-    2005—Subsec. (b)(3)(A). [Pub. L. 109–157, § 3(1)][/us/pl/109/157/s3/1], added subpar. (A) and struck out former subpar. (A) which read as follows: “the date specified in [section 2206(g)(5) of this title][/us/usc/t25/s2206/g/5]; or”.
+    2005—Subsec. (b)(3)(A). [Pub. L. 109–157][/us/pl/109/157], § 3(1), added subpar. (A) and struck out former subpar. (A) which read as follows: “the date specified in [section 2206(g)(5) of this title][/us/usc/t25/s2206/g/5]; or”.
 
-    Subsec. (c)(1)(A). [Pub. L. 109–157, § 3(2)(A)][/us/pl/109/157/s3/2/A], substituted “section 2206(b)(2)(A)(ii)” for “section 2206(a)(6)(A)”.
+    Subsec. (c)(1)(A). [Pub. L. 109–157][/us/pl/109/157], § 3(2)(A), substituted “section 2206(b)(2)(A)(ii)” for “section 2206(a)(6)(A)”.
 
-    Subsec. (c)(2)(A)(i)(II)(bb). [Pub. L. 109–157, § 3(2)(B)][/us/pl/109/157/s3/2/B], inserted “in writing” after “agrees”.
+    Subsec. (c)(2)(A)(i)(II)(bb). [Pub. L. 109–157][/us/pl/109/157], § 3(2)(B), inserted “in writing” after “agrees”.
 
-    2004—Subsec. (a)(3). [Pub. L. 108–374, § 6(a)(3)(A)][/us/pl/108/374/s6/a/3/A], added par. (3) and struck out heading and text of former par. (3). Text read as follows: “The Secretary shall not approve a tribal probate code if such code prevents an Indian person from inheriting an interest in an allotment that was originally allotted to his or her lineal ancestor.”
+    2004—Subsec. (a)(3). [Pub. L. 108–374][/us/pl/108/374], § 6(a)(3)(A), added par. (3) and struck out heading and text of former par. (3). Text read as follows: “The Secretary shall not approve a tribal probate code if such code prevents an Indian person from inheriting an interest in an allotment that was originally allotted to his or her lineal ancestor.”
 
-    Subsec. (c)(1). [Pub. L. 108–374, § 6(a)(3)(B)(i)(I)][/us/pl/108/374/s6/a/3/B/i/I], (III), substituted “Authority” for “In general” in heading, designated existing provisions as subpar. (A), inserted heading, and struck out at end “The Secretary shall transfer such payment to the devisee.”, and added subpar. (B).
+    Subsec. (c)(1). [Pub. L. 108–374][/us/pl/108/374], § 6(a)(3)(B)(i)(I), (III), substituted “Authority” for “In general” in heading, designated existing provisions as subpar. (A), inserted heading, and struck out at end “The Secretary shall transfer such payment to the devisee.”, and added subpar. (B).
 
-    Subsec. (c)(1)(A). [Pub. L. 108–374, § 6(a)(3)(B)(i)(II)][/us/pl/108/374/s6/a/3/B/i/II], which directed the substitution of “[section 207(b)(2)(A)(ii) of this title][/us/usc/t25/s207/b/2/A/ii]” for “[section 207(a)(6)(A) of this title][/us/usc/t25/s207/a/6/A]” in the original, could not be executed, because “of this title” did not appear in the original.
+    Subsec. (c)(1)(A). [Pub. L. 108–374][/us/pl/108/374], § 6(a)(3)(B)(i)(II), which directed the substitution of “[section 207(b)(2)(A)(ii) of this title][/us/usc/t25/s207/b/2/A/ii]” for “[section 207(a)(6)(A) of this title][/us/usc/t25/s207/a/6/A]” in the original, could not be executed, because “of this title” did not appear in the original.
 
-    Subsec. (c)(2)(A). [Pub. L. 108–374, § 6(a)(3)(B)(ii)(I)][/us/pl/108/374/s6/a/3/B/ii/I], substituted “Inapplicability to certain interests” for “In general” in heading, designated existing provisions as cl. (i) and inserted heading, inserted subcl. (I) designation and added subcl. (II), and added cls. (ii) to (iv).
+    Subsec. (c)(2)(A). [Pub. L. 108–374][/us/pl/108/374], § 6(a)(3)(B)(ii)(I), substituted “Inapplicability to certain interests” for “In general” in heading, designated existing provisions as cl. (i) and inserted heading, inserted subcl. (I) designation and added subcl. (II), and added cls. (ii) to (iv).
 
-    Subsec. (c)(2)(B). [Pub. L. 108–374, § 6(a)(3)(B)(ii)(II)][/us/pl/108/374/s6/a/3/B/ii/II], which directed the substitution of “paragraph (1)” for “subparagraph (A) or a non-Indian devisee described in [section 2206(a)(6)(B) of this title][/us/usc/t25/s2206/a/6/B]” was executed by making the substitution for language which did not contain the words “of this title” in the original, to reflect the probable intent of Congress.
+    Subsec. (c)(2)(B). [Pub. L. 108–374][/us/pl/108/374], § 6(a)(3)(B)(ii)(II), which directed the substitution of “paragraph (1)” for “subparagraph (A) or a non-Indian devisee described in [section 2206(a)(6)(B) of this title][/us/usc/t25/s2206/a/6/B]” was executed by making the substitution for language which did not contain the words “of this title” in the original, to reflect the probable intent of Congress.
 
  __Effective Date of 2005 Amendment__ 
 
@@ -228,33 +228,33 @@
 [/us/pl/108/374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F374
 [/us/usc/t25/s2206/b/2/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs2206%2Fb%2F2%2FA%2Fii
 [/us/usc/t25/s3602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs3602
-[/us/pl/97/459/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F459%2Fs206
-[/us/pl/106/462/s103/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F462%2Fs103%2F3
+[/us/pl/97/459/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F459%2FtII
+[/us/pl/106/462/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F462%2FtI
 [/us/stat/114/1993]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1993
-[/us/pl/108/374/s6/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F374%2Fs6%2Fa%2F3
+[/us/pl/108/374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F374
 [/us/stat/118/1799]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1799
-[/us/pl/109/157/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F157%2Fs3
+[/us/pl/109/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F157
 [/us/stat/119/2950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2950
 [/us/pl/106/462/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F462%2Fs102
 [/us/usc/t25/s2201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs2201
 [/us/pl/97/459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F459
-[/us/pl/97/459/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F459%2Fs206
+[/us/pl/97/459/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F459%2FtII
 [/us/stat/96/2518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2518
-[/us/pl/98/608/s1/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F608%2Fs1%2F3
+[/us/pl/98/608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F608
 [/us/stat/98/3172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3172
-[/us/pl/106/462/s103/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F462%2Fs103%2F3
+[/us/pl/106/462/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F462%2FtI
 [/us/stat/114/1993]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1993
-[/us/pl/109/157/s3/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F157%2Fs3%2F1
+[/us/pl/109/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F157
 [/us/usc/t25/s2206/g/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs2206%2Fg%2F5
-[/us/pl/109/157/s3/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F157%2Fs3%2F2%2FA
-[/us/pl/109/157/s3/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F157%2Fs3%2F2%2FB
-[/us/pl/108/374/s6/a/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F374%2Fs6%2Fa%2F3%2FA
-[/us/pl/108/374/s6/a/3/B/i/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F374%2Fs6%2Fa%2F3%2FB%2Fi%2FI
-[/us/pl/108/374/s6/a/3/B/i/II]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F374%2Fs6%2Fa%2F3%2FB%2Fi%2FII
+[/us/pl/109/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F157
+[/us/pl/109/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F157
+[/us/pl/108/374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F374
+[/us/pl/108/374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F374
+[/us/pl/108/374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F374
 [/us/usc/t25/s207/b/2/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs207%2Fb%2F2%2FA%2Fii
 [/us/usc/t25/s207/a/6/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs207%2Fa%2F6%2FA
-[/us/pl/108/374/s6/a/3/B/ii/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F374%2Fs6%2Fa%2F3%2FB%2Fii%2FI
-[/us/pl/108/374/s6/a/3/B/ii/II]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F374%2Fs6%2Fa%2F3%2FB%2Fii%2FII
+[/us/pl/108/374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F374
+[/us/pl/108/374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F374
 [/us/usc/t25/s2206/a/6/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs2206%2Fa%2F6%2FB
 [/us/pl/109/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F157
 [/us/pl/108/374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F374

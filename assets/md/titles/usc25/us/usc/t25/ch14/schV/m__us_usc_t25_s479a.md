@@ -23,7 +23,7 @@
 
     (3) The term “list” means the list of recognized tribes published by the Secretary pursuant to [section 479a–1 of this title][/us/usc/t25/s479a–1].
 
-([Pub. L. 103–454, title I, § 102][/us/pl/103/454/s102], Nov. 2, 1994, [108 Stat. 4791][/us/stat/108/4791].)
+([Pub. L. 103–454, title I][/us/pl/103/454/tI], § 102, Nov. 2, 1994, [108 Stat. 4791][/us/stat/108/4791].)
 
  __References in Text__ 
 
@@ -31,13 +31,13 @@
 
  __Short Title__ 
 
-[Pub. L. 103–454, title I, § 101][/us/pl/103/454/s101], Nov. 2, 1994, [108 Stat. 4791][/us/stat/108/4791], provided that: 
+[Pub. L. 103–454, title I][/us/pl/103/454/tI], § 101, Nov. 2, 1994, [108 Stat. 4791][/us/stat/108/4791], provided that: 
 
 > “This title \[enacting this section and [section 479a–1 of this title][/us/usc/t25/s479a–1] and provisions set out below\] may be cited as the ‘Federally Recognized Indian Tribe List Act of 1994’.”
 
  __Congressional Findings__ 
 
-[Pub. L. 103–454, title I, § 103][/us/pl/103/454/s103], Nov. 2, 1994, [108 Stat. 4791][/us/stat/108/4791], provided that: 
+[Pub. L. 103–454, title I][/us/pl/103/454/tI], § 103, Nov. 2, 1994, [108 Stat. 4791][/us/stat/108/4791], provided that: 
 
 > “The Congress finds that—
 
@@ -65,15 +65,15 @@
 ----------
 
 [/us/usc/t25/s479a–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs479a%E2%80%931
-[/us/pl/103/454/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F454%2Fs102
+[/us/pl/103/454/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F454%2FtI
 [/us/stat/108/4791]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4791
 [/us/pl/103/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F454
 [/us/stat/108/4791]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4791
 [/us/usc/t25/s479a–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs479a%E2%80%931
-[/us/pl/103/454/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F454%2Fs101
+[/us/pl/103/454/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F454%2FtI
 [/us/stat/108/4791]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4791
 [/us/usc/t25/s479a–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs479a%E2%80%931
-[/us/pl/103/454/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F454%2Fs103
+[/us/pl/103/454/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F454%2FtI
 [/us/stat/108/4791]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4791
 
 

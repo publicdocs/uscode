@@ -23,7 +23,7 @@
 
         It is the intent of the Congress that the terms under which lands located on the San Xavier and Salt River Pima-Maricopa Reservations are developed by non-Indian lessees shall, to the extent reasonably possible, be similar to those applicable under State or local law to the development of non-Indian lands in the municipalities contiguous thereto.
 
-([Pub. L. 89–715, § 3][/us/pl/89/715/s3], Nov. 2, 1966, [80 Stat. 1112][/us/stat/80/1112].)
+([Pub. L. 89–715][/us/pl/89/715], § 3, Nov. 2, 1966, [80 Stat. 1112][/us/stat/80/1112].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/89/715/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F715%2Fs3
+[/us/pl/89/715]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F715
 [/us/stat/80/1112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1112
 
 

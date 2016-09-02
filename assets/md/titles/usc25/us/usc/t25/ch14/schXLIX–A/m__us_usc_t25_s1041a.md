@@ -37,7 +37,7 @@
 
         The term “restricted land” means any land, the title to which is held in the name of an Indian or Indian tribe subject to restrictions by the United States against alienation.
 
-([Pub. L. 106–568, title VII, § 703][/us/pl/106/568/s703], Dec. 27, 2000, [114 Stat. 2913][/us/stat/114/2913].)
+([Pub. L. 106–568, title VII][/us/pl/106/568/tVII], § 703, Dec. 27, 2000, [114 Stat. 2913][/us/stat/114/2913].)
 
 ----------
 
@@ -46,7 +46,7 @@
 ----------
 ----------
 
-[/us/pl/106/568/s703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F568%2Fs703
+[/us/pl/106/568/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F568%2FtVII
 [/us/stat/114/2913]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2913
 
 

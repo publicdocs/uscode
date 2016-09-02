@@ -17,7 +17,7 @@
 
     Trust or restricted tribal or tribal corporation property mortgaged pursuant to sections 488 to 494 of this title shall be subject to foreclosure and sale or conveyance in lieu of foreclosure, free of such trust or restrictions, in accordance with the laws of the State in which the property is located.
 
-([Pub. L. 91–229, § 4][/us/pl/91/229/s4], Apr. 11, 1970, [84 Stat. 120][/us/stat/84/120].)
+([Pub. L. 91–229][/us/pl/91/229], § 4, Apr. 11, 1970, [84 Stat. 120][/us/stat/84/120].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/91/229/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F229%2Fs4
+[/us/pl/91/229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F229
 [/us/stat/84/120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F120
 
 

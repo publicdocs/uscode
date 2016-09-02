@@ -53,19 +53,19 @@
 
         (2) may not approve or disapprove an Indian housing plan based on the content of the particular benefits, activities, or results included pursuant to subsections (b)(4) 2 and (c)(7).3
 
-([Pub. L. 104–330, title I, § 103][/us/pl/104/330/s103], Oct. 26, 1996, [110 Stat. 4026][/us/stat/110/4026]; [Pub. L. 105–276, title V, § 595(e)(6)][/us/pl/105/276/s595/e/6], Oct. 21, 1998, [112 Stat. 2657][/us/stat/112/2657]; [Pub. L. 110–411, title I, § 103][/us/pl/110/411/s103], Oct. 14, 2008, [122 Stat. 4323][/us/stat/122/4323].)
+([Pub. L. 104–330, title I][/us/pl/104/330/tI], § 103, Oct. 26, 1996, [110 Stat. 4026][/us/stat/110/4026]; [Pub. L. 105–276, title V][/us/pl/105/276/tV], § 595(e)(6), Oct. 21, 1998, [112 Stat. 2657][/us/stat/112/2657]; [Pub. L. 110–411, title I][/us/pl/110/411/tI], § 103, Oct. 14, 2008, [122 Stat. 4323][/us/stat/122/4323].)
 
  __References in Text__ 
 
     This chapter, referred to in subsecs. (a)(2) and (c)(3), was in the original “this Act”, meaning [Pub. L. 104–330][/us/pl/104/330], Oct. 26, 1996, [110 Stat. 4016][/us/stat/110/4016], known as the Native American Housing Assistance and Self-Determination Act of 1996. For complete classification of this Act to the Code, see Short Title note set out under [section 4101 of this title][/us/usc/t25/s4101] and Tables.
 
-    [Section 4112(c)(5) of this title][/us/usc/t25/s4112/c/5], referred to in subsec. (c), was repealed by [Pub. L. 110–411, title I, § 102(2)][/us/pl/110/411/s102/2], Oct. 14, 2008, [122 Stat. 4321][/us/stat/122/4321].
+    [Section 4112(c)(5) of this title][/us/usc/t25/s4112/c/5], referred to in subsec. (c), was repealed by [Pub. L. 110–411, title I][/us/pl/110/411/tI], § 102(2), Oct. 14, 2008, [122 Stat. 4321][/us/stat/122/4321].
 
  __Amendments__ 
 
-    2008—Subsec. (d). [Pub. L. 110–411, § 103(1)][/us/pl/110/411/s103/1], substituted “tribal program” for “fiscal” in two places, struck out “(with respect to information included for the 5-year period under [section 4112(b) of this title][/us/usc/t25/s4112/b] or the 1-year period under [section 4112(c) of this title][/us/usc/t25/s4112/c])” before “by submitting only such information”, and struck out at end “Not less than once every 5 years, the tribe shall submit a complete plan.”
+    2008—Subsec. (d). [Pub. L. 110–411][/us/pl/110/411], § 103(1), substituted “tribal program” for “fiscal” in two places, struck out “(with respect to information included for the 5-year period under [section 4112(b) of this title][/us/usc/t25/s4112/b] or the 1-year period under [section 4112(c) of this title][/us/usc/t25/s4112/c])” before “by submitting only such information”, and struck out at end “Not less than once every 5 years, the tribe shall submit a complete plan.”
 
-    Subsec. (e). [Pub. L. 110–411, § 103(2)][/us/pl/110/411/s103/2], added subsec. (e) and struck out former subsec. (e). Prior to amendment, text read as follows: “This section and [section 4112 of this title][/us/usc/t25/s4112] shall take effect on the date provided by the Secretary pursuant to [section 4116(a) of this title][/us/usc/t25/s4116/a] to provide for timely submission and review of Indian housing plans as necessary for the provision of assistance under this chapter in fiscal year 1998.”
+    Subsec. (e). [Pub. L. 110–411][/us/pl/110/411], § 103(2), added subsec. (e) and struck out former subsec. (e). Prior to amendment, text read as follows: “This section and [section 4112 of this title][/us/usc/t25/s4112] shall take effect on the date provided by the Secretary pursuant to [section 4116(a) of this title][/us/usc/t25/s4116/a] to provide for timely submission and review of Indian housing plans as necessary for the provision of assistance under this chapter in fiscal year 1998.”
 
     1998—Subsec. (c)(3). [Pub. L. 105–276][/us/pl/105/276] inserted “not” before “prohibited”.
 
@@ -83,22 +83,22 @@
 [/us/usc/t25/s4112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs4112
 [/us/usc/t25/s4112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs4112
 [/us/usc/t25/s4145a/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs4145a%2Fb
-[/us/pl/104/330/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330%2Fs103
+[/us/pl/104/330/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330%2FtI
 [/us/stat/110/4026]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F4026
-[/us/pl/105/276/s595/e/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs595%2Fe%2F6
+[/us/pl/105/276/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2FtV
 [/us/stat/112/2657]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2657
-[/us/pl/110/411/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F411%2Fs103
+[/us/pl/110/411/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F411%2FtI
 [/us/stat/122/4323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4323
 [/us/pl/104/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330
 [/us/stat/110/4016]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F4016
 [/us/usc/t25/s4101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs4101
 [/us/usc/t25/s4112/c/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs4112%2Fc%2F5
-[/us/pl/110/411/s102/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F411%2Fs102%2F2
+[/us/pl/110/411/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F411%2FtI
 [/us/stat/122/4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4321
-[/us/pl/110/411/s103/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F411%2Fs103%2F1
+[/us/pl/110/411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F411
 [/us/usc/t25/s4112/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs4112%2Fb
 [/us/usc/t25/s4112/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs4112%2Fc
-[/us/pl/110/411/s103/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F411%2Fs103%2F2
+[/us/pl/110/411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F411
 [/us/usc/t25/s4112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs4112
 [/us/usc/t25/s4116/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs4116%2Fa
 [/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276

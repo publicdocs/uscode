@@ -27,7 +27,7 @@
 
         Subject to the conditions imposed by this section, any real property conveyed or transferred under this section shall be taken in the name of the United States in trust for the Tribe or, as applicable, an individual member of the Tribe, and shall be part of the Tribe’s reservation.
 
-([Pub. L. 103–434, title II, § 204][/us/pl/103/434/s204], Oct. 31, 1994, [108 Stat. 4534][/us/stat/108/4534]; [Pub. L. 104–122][/us/pl/104/122], Mar. 29, 1996, [110 Stat. 876][/us/stat/110/876].)
+([Pub. L. 103–434, title II][/us/pl/103/434/tII], § 204, Oct. 31, 1994, [108 Stat. 4534][/us/stat/108/4534]; [Pub. L. 104–122][/us/pl/104/122], Mar. 29, 1996, [110 Stat. 876][/us/stat/110/876].)
 
  __References in Text__ 
 
@@ -45,7 +45,7 @@
 ----------
 
 [/us/usc/t25/s461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs461
-[/us/pl/103/434/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F434%2Fs204
+[/us/pl/103/434/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F434%2FtII
 [/us/stat/108/4534]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4534
 [/us/pl/104/122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F122
 [/us/stat/110/876]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F876

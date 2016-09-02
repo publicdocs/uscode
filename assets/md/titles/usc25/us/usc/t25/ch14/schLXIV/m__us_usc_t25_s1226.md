@@ -17,7 +17,7 @@
 
     Any per capita share, whether payable to a living enrollee or to the heirs or legatees of a deceased enrollee, which the Secretary of the Interior is unable to deliver within two years after the date the check is issued, and all unexpended tribal and judgment funds set aside for tribal roll preparation and distribution, shall revert to the Peoria Tribe, and all claims for such per capita shall thereafter be barred forever.
 
-([Pub. L. 91–364, § 6][/us/pl/91/364/s6], July 31, 1970, [84 Stat. 689][/us/stat/84/689].)
+([Pub. L. 91–364][/us/pl/91/364], § 6, July 31, 1970, [84 Stat. 689][/us/stat/84/689].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/91/364/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F364%2Fs6
+[/us/pl/91/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F364
 [/us/stat/84/689]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F689
 
 

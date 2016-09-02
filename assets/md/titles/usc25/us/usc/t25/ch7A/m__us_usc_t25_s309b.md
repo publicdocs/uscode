@@ -17,7 +17,7 @@
 
     Notwithstanding any other provision of law, funds provided by the Bureau for adult vocational education to any vocational school (as defined for purposes of any program of assistance to students under the Higher Education Act of 1965 \[[20 U.S.C. 1001][/us/usc/t20/s1001] et seq., [42 U.S.C. 2751][/us/usc/t42/s2751] et seq.\]) may be treated as non-Federal, private funds of such school for purposes of any provision of Federal law which requires that non-Federal or private funds of such school be used in a project or for a specific purpose.
 
-([Pub. L. 100–297, title V, § 5403(c)][/us/pl/100/297/s5403/c], Apr. 28, 1988, [102 Stat. 416][/us/stat/102/416].)
+([Pub. L. 100–297, title V][/us/pl/100/297/tV], § 5403(c), Apr. 28, 1988, [102 Stat. 416][/us/stat/102/416].)
 
  __References in Text__ 
 
@@ -36,7 +36,7 @@
 
 [/us/usc/t20/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1001
 [/us/usc/t42/s2751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2751
-[/us/pl/100/297/s5403/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297%2Fs5403%2Fc
+[/us/pl/100/297/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297%2FtV
 [/us/stat/102/416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F416
 [/us/pl/89/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329
 [/us/stat/79/1219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1219

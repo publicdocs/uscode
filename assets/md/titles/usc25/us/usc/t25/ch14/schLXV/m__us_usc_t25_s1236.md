@@ -17,7 +17,7 @@
 
     The Secretary may make appropriate withdrawals from the judgment funds and interest thereon, using interest funds first, to pay costs incident to carrying out the provisions of this subchapter.
 
-([Pub. L. 91–417, § 6][/us/pl/91/417/s6], Sept. 25, 1970, [84 Stat. 868][/us/stat/84/868].)
+([Pub. L. 91–417][/us/pl/91/417], § 6, Sept. 25, 1970, [84 Stat. 868][/us/stat/84/868].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/91/417/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F417%2Fs6
+[/us/pl/91/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F417
 [/us/stat/84/868]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F868
 
 

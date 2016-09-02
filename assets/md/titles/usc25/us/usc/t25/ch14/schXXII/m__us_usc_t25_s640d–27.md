@@ -31,7 +31,7 @@
 
         This section shall apply to any litigation or court action pending upon July 8, 1980, in which a final order, decree, judgment has not been entered, but shall not apply to any action authorized by section 640d–7 or 640d–17(a) of this title.
 
-([Pub. L. 93–531, § 29][/us/pl/93/531/s29], as added [Pub. L. 96–305, § 11][/us/pl/96/305/s11], July 8, 1980, [94 Stat. 934][/us/stat/94/934].)
+([Pub. L. 93–531][/us/pl/93/531], § 29, as added [Pub. L. 96–305][/us/pl/96/305], § 11, July 8, 1980, [94 Stat. 934][/us/stat/94/934].)
 
  __References in Text__ 
 
@@ -45,8 +45,8 @@
 ----------
 
 [/us/usc/t28/s2517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2517
-[/us/pl/93/531/s29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F531%2Fs29
-[/us/pl/96/305/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F305%2Fs11
+[/us/pl/93/531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F531
+[/us/pl/96/305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F305
 [/us/stat/94/934]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F934
 [/us/pl/97/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164
 [/us/stat/96/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F25

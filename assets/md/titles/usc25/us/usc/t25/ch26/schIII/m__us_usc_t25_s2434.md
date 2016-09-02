@@ -27,13 +27,13 @@
 
         In carrying out the requirements of subsections (a) and (b), the Secretary shall insure that the data is compiled and reported in a manner which will preserve the confidentiality of the families and individuals.
 
-([Pub. L. 99–570, title IV, § 4214][/us/pl/99/570/s4214], Oct. 27, 1986, [100 Stat. 3207–145][/us/stat/100/3207-145].)
+([Pub. L. 99–570, title IV][/us/pl/99/570/tIV], § 4214, Oct. 27, 1986, [100 Stat. 3207–145][/us/stat/100/3207-145].)
 
  __References in Text__ 
 
     The Indian Self-Determination Act, referred to in subsec. (a), is title I of [Pub. L. 93–638][/us/pl/93/638], Jan. 4, 1975, [88 Stat. 2206][/us/stat/88/2206], as amended, which is classified principally to part A (§ 450f et seq.) of subchapter II of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 450 of this title][/us/usc/t25/s450] and Tables.
 
-    [Section 2477 of this title][/us/usc/t25/s2477], referred to in subsec. (b), was repealed by [Pub. L. 102–573, title VII, § 702(b)(2)][/us/pl/102/573/s702/b/2], Oct. 29, 1992, [106 Stat. 4582][/us/stat/106/4582].
+    [Section 2477 of this title][/us/usc/t25/s2477], referred to in subsec. (b), was repealed by [Pub. L. 102–573, title VII][/us/pl/102/573/tVII], § 702(b)(2), Oct. 29, 1992, [106 Stat. 4582][/us/stat/106/4582].
 
 ----------
 
@@ -43,13 +43,13 @@
 ----------
 
 [/us/usc/t25/s450f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450f
-[/us/pl/99/570/s4214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs4214
+[/us/pl/99/570/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2FtIV
 [/us/stat/100/3207-145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3207-145
 [/us/pl/93/638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638
 [/us/stat/88/2206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2206
 [/us/usc/t25/s450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450
 [/us/usc/t25/s2477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs2477
-[/us/pl/102/573/s702/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2Fs702%2Fb%2F2
+[/us/pl/102/573/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2FtVII
 [/us/stat/106/4582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4582
 
 

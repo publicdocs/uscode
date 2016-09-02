@@ -27,7 +27,7 @@
 
         Ownership and transfer of non-Reservation parcels shall not be subject to Federal law restrictions on alienation, including (but not limited to) the restrictions imposed by Federal common law and the provisions of [section 177 of this title][/us/usc/t25/s177].
 
-([Pub. L. 103–116, § 13][/us/pl/103/116/s13], Oct. 27, 1993, [107 Stat. 1136][/us/stat/107/1136].)
+([Pub. L. 103–116][/us/pl/103/116], § 13, Oct. 27, 1993, [107 Stat. 1136][/us/stat/107/1136].)
 
 ----------
 
@@ -37,7 +37,7 @@
 ----------
 
 [/us/usc/t25/s177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs177
-[/us/pl/103/116/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F116%2Fs13
+[/us/pl/103/116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F116
 [/us/stat/107/1136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1136
 
 

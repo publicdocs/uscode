@@ -17,7 +17,7 @@
 
     As used in this section and [section 465a of this title][/us/usc/t25/s465a] the term “Klamath Tribe of Indians” includes the Klamath and Modoc Tribes, and the Yahooskin Band of Snake Indians.
 
-([Feb. 24, 1942, ch. 113, § 2][/us/act/1942-02-24/ch113/s2], [56 Stat. 121][/us/stat/56/121].)
+([Feb. 24, 1942, ch. 113][/us/act/1942-02-24/ch113], § 2, [56 Stat. 121][/us/stat/56/121].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t25/s465a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs465a
-[/us/act/1942-02-24/ch113/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-02-24%2Fch113%2Fs2
+[/us/act/1942-02-24/ch113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-02-24%2Fch113
 [/us/stat/56/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F56%2F121
 
 

@@ -17,7 +17,7 @@
 
     There is authorized to be appropriated such sums as may be necessary to carry out the provisions of this chapter.
 
-([Pub. L. 103–412, title IV, § 401][/us/pl/103/412/s401], Oct. 25, 1994, [108 Stat. 4249][/us/stat/108/4249].)
+([Pub. L. 103–412, title IV][/us/pl/103/412/tIV], § 401, Oct. 25, 1994, [108 Stat. 4249][/us/stat/108/4249].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/103/412/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F412%2Fs401
+[/us/pl/103/412/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F412%2FtIV
 [/us/stat/108/4249]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4249
 
 

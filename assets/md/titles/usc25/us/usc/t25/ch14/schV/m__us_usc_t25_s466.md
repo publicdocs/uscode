@@ -17,7 +17,7 @@
 
     The Secretary of the Interior is directed to make rules and regulations for the operation and management of Indian forestry units on the principle of sustained-yield management, to restrict the number of livestock grazed on Indian range units to the estimated carrying capacity of such ranges, and to promulgate such other rules and regulations as may be necessary to protect the range from deterioration, to prevent soil erosion, to assure full utilization of the range, and like purposes.
 
-([June 18, 1934, ch. 576, § 6][/us/act/1934-06-18/ch576/s6], [48 Stat. 986][/us/stat/48/986].)
+([June 18, 1934, ch. 576][/us/act/1934-06-18/ch576], § 6, [48 Stat. 986][/us/stat/48/986].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1934-06-18/ch576/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-18%2Fch576%2Fs6
+[/us/act/1934-06-18/ch576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-18%2Fch576
 [/us/stat/48/986]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F986
 
 

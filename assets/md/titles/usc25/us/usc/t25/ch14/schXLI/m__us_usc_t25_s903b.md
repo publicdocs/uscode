@@ -27,7 +27,7 @@
 
         The membership roll of the tribe which was closed as of June 17, 1954, is hereby declared open. The Secretary, under contract with the Menominee Restoration Committee, shall proceed to make current the roll in accordance with the terms of this subchapter. The names of all enrollees who are deceased as of December 22, 1973, shall be stricken. The names of any descendants of an enrollee shall be added to the roll provided such descendant possesses at least one-quarter degree Menominee Indian blood. Upon installation of elected constitutional officers of the tribe, the Secretary and the Menominee Restoration Committee shall deliver their records, files, and any other material relating to enrollment matters to the tribal governing body. All further work in bringing and maintaining current the tribal roll shall be performed in such manner as may be prescribed in accordance with the tribal governing documents. Until responsibility for the tribal roll is assumed by the tribal governing body, appeals from the omission or inclusion of any name upon the tribal roll shall lie with the Secretary and his determination thereon shall be final. The Secretary shall make the final determination of each such appeal within ninety days after an appeal is initiated.
 
-([Pub. L. 93–197, § 4][/us/pl/93/197/s4], Dec. 22, 1973, [87 Stat. 771][/us/stat/87/771].)
+([Pub. L. 93–197][/us/pl/93/197], § 4, Dec. 22, 1973, [87 Stat. 771][/us/stat/87/771].)
 
  __References in Text__ 
 
@@ -41,7 +41,7 @@
 ----------
 
 [/us/usc/t25/s903a/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs903a%2Fe
-[/us/pl/93/197/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F197%2Fs4
+[/us/pl/93/197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F197
 [/us/stat/87/771]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F771
 [/us/usc/t25/s893]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs893
 [/us/pl/93/197/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F197%2Fs3%2Fb

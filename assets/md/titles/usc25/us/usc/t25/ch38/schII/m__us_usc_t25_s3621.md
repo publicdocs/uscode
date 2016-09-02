@@ -47,15 +47,15 @@
 
         No Federal agency shall offset funds made available pursuant to this chapter for tribal justice systems against other funds otherwise available for use in connection with tribal justice systems.
 
-([Pub. L. 103–176, title II, § 201][/us/pl/103/176/s201], Dec. 3, 1993, [107 Stat. 2009][/us/stat/107/2009]; [Pub. L. 106–559, title II, § 202][/us/pl/106/559/s202], Dec. 21, 2000, [114 Stat. 2782][/us/stat/114/2782]; [Pub. L. 111–211, title II, § 242(a)(2)][/us/pl/111/211/s242/a/2], July 29, 2010, [124 Stat. 2292][/us/stat/124/2292].)
+([Pub. L. 103–176, title II][/us/pl/103/176/tII], § 201, Dec. 3, 1993, [107 Stat. 2009][/us/stat/107/2009]; [Pub. L. 106–559, title II][/us/pl/106/559/tII], § 202, Dec. 21, 2000, [114 Stat. 2782][/us/stat/114/2782]; [Pub. L. 111–211, title II][/us/pl/111/211/tII], § 242(a)(2), July 29, 2010, [124 Stat. 2292][/us/stat/124/2292].)
 
  __Amendments__ 
 
-    2010—Subsec. (a). [Pub. L. 111–211, § 242(a)(2)(A)][/us/pl/111/211/s242/a/2/A], substituted “sections 3611 and 3612 of this title” for “the provisions of sections 3611 and 3612 of this title” and “fiscal years 2011 through 2015” for “the fiscal years 2000 through 2007”.
+    2010—Subsec. (a). [Pub. L. 111–211][/us/pl/111/211], § 242(a)(2)(A), substituted “sections 3611 and 3612 of this title” for “the provisions of sections 3611 and 3612 of this title” and “fiscal years 2011 through 2015” for “the fiscal years 2000 through 2007”.
 
-    Subsec. (b). [Pub. L. 111–211, § 242(a)(2)(B)][/us/pl/111/211/s242/a/2/B], substituted “[section 3613 of this title][/us/usc/t25/s3613]” for “the provisions of [section 3613 of this title][/us/usc/t25/s3613]” and “fiscal years 2011 through 2015” for “the fiscal years 2000 through 2007”.
+    Subsec. (b). [Pub. L. 111–211][/us/pl/111/211], § 242(a)(2)(B), substituted “[section 3613 of this title][/us/usc/t25/s3613]” for “the provisions of [section 3613 of this title][/us/usc/t25/s3613]” and “fiscal years 2011 through 2015” for “the fiscal years 2000 through 2007”.
 
-    Subsecs. (c), (d). [Pub. L. 111–211, § 242(a)(2)(C)][/us/pl/111/211/s242/a/2/C], (D), substituted “fiscal years 2011 through 2015” for “the fiscal years 2000 through 2007”.
+    Subsecs. (c), (d). [Pub. L. 111–211][/us/pl/111/211], § 242(a)(2)(C), (D), substituted “fiscal years 2011 through 2015” for “the fiscal years 2000 through 2007”.
 
     2000—Subsecs. (a) to (d). [Pub. L. 106–559][/us/pl/106/559] substituted “2000 through 2007” for “1994, 1995, 1996, 1997, 1998, 1999, and 2000”.
 
@@ -69,17 +69,17 @@
 [/us/usc/t25/s3613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs3613
 [/us/usc/t25/s3612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs3612
 [/us/usc/t25/s3613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs3613
-[/us/pl/103/176/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F176%2Fs201
+[/us/pl/103/176/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F176%2FtII
 [/us/stat/107/2009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2009
-[/us/pl/106/559/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F559%2Fs202
+[/us/pl/106/559/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F559%2FtII
 [/us/stat/114/2782]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2782
-[/us/pl/111/211/s242/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211%2Fs242%2Fa%2F2
+[/us/pl/111/211/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211%2FtII
 [/us/stat/124/2292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2292
-[/us/pl/111/211/s242/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211%2Fs242%2Fa%2F2%2FA
-[/us/pl/111/211/s242/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211%2Fs242%2Fa%2F2%2FB
+[/us/pl/111/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211
+[/us/pl/111/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211
 [/us/usc/t25/s3613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs3613
 [/us/usc/t25/s3613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs3613
-[/us/pl/111/211/s242/a/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211%2Fs242%2Fa%2F2%2FC
+[/us/pl/111/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211
 [/us/pl/106/559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F559
 
 

@@ -17,7 +17,7 @@
 
     No person whose name shall after August 9, 1946, be placed on the roll of the Yakima Tribes shall be entitled to any back annuities or per capita payments made to the members of the tribes out of tribal funds which were authorized to be paid to the members of the tribes before such person’s name shall have been placed upon such roll.
 
-([Aug. 9, 1946, ch. 933, § 6][/us/act/1946-08-09/ch933/s6], [60 Stat. 969][/us/stat/60/969].)
+([Aug. 9, 1946, ch. 933][/us/act/1946-08-09/ch933], § 6, [60 Stat. 969][/us/stat/60/969].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1946-08-09/ch933/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-09%2Fch933%2Fs6
+[/us/act/1946-08-09/ch933]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-09%2Fch933
 [/us/stat/60/969]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F969
 
 

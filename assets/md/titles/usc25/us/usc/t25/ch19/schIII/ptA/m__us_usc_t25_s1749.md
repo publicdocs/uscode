@@ -23,7 +23,7 @@
 
     (3) the approvals of prior transfers and the extinguishment of claims and aboriginal title of the Miccosukee Tribe otherwise effected by [section 1744 of this title][/us/usc/t25/s1744] shall be void ab initio.
 
-([Pub. L. 97–399, § 10][/us/pl/97/399/s10], Dec. 31, 1982, [96 Stat. 2016][/us/stat/96/2016].)
+([Pub. L. 97–399][/us/pl/97/399], § 10, Dec. 31, 1982, [96 Stat. 2016][/us/stat/96/2016].)
 
 ----------
 
@@ -34,7 +34,7 @@
 
 [/us/usc/t25/s1744]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1744
 [/us/usc/t25/s1744]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1744
-[/us/pl/97/399/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F399%2Fs10
+[/us/pl/97/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F399
 [/us/stat/96/2016]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2016
 
 

@@ -17,7 +17,7 @@
 
     Funds payable under sections 781 to 785 of this title to minors or to persons under legal disability shall be paid to such representatives and under such conditions as the Secretary of the Interior may direct. The distribution of funds under said sections shall not be subject to any lien, except for debts owed to the United States or to Indian organizations indebted to the United States, and shall not be taxable.
 
-([Aug. 1, 1955, ch. 444, § 4][/us/act/1955-08-01/ch444/s4], [69 Stat. 432][/us/stat/69/432].)
+([Aug. 1, 1955, ch. 444][/us/act/1955-08-01/ch444], § 4, [69 Stat. 432][/us/stat/69/432].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1955-08-01/ch444/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-01%2Fch444%2Fs4
+[/us/act/1955-08-01/ch444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-01%2Fch444
 [/us/stat/69/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F432
 
 

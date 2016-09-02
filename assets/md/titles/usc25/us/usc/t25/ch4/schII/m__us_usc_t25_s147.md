@@ -17,7 +17,7 @@
 
     Appropriations for specified buildings in the Indian Service shall be used for the transportation of materials purchased therefrom.
 
-([Jan. 12, 1927, ch. 27, § 1][/us/act/1927-01-12/ch27/s1], [44 Stat. 939][/us/stat/44/939].)
+([Jan. 12, 1927, ch. 27][/us/act/1927-01-12/ch27], § 1, [44 Stat. 939][/us/stat/44/939].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1927-01-12/ch27/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-01-12%2Fch27%2Fs1
+[/us/act/1927-01-12/ch27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-01-12%2Fch27
 [/us/stat/44/939]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F939
 
 

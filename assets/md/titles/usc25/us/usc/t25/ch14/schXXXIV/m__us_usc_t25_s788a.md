@@ -31,7 +31,7 @@
 
     Applications for enrollment must be filed with the Area Director of the Bureau of Indian Affairs, Muskogee, Oklahoma, in the manner and within the time limits prescribed for that purpose. The determination of the Secretary regarding the eligibility of an applicant shall be final.
 
-([Pub. L. 90–504, § 1][/us/pl/90/504/s1], Sept. 21, 1968, [82 Stat. 855][/us/stat/82/855].)
+([Pub. L. 90–504][/us/pl/90/504], § 1, Sept. 21, 1968, [82 Stat. 855][/us/stat/82/855].)
 
 ----------
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/90/504/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F504%2Fs1
+[/us/pl/90/504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F504
 [/us/stat/82/855]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F855
 
 

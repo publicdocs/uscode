@@ -23,7 +23,7 @@
 
         Notwithstanding any other provision of this subchapter, the provision of funds under this subchapter shall be subject to the availability of appropriations and the Secretary is not required to reduce funding for programs, projects, or activities serving a tribe in order to make funds available to another tribe or tribal organization under this subchapter.
 
-([Pub. L. 93–638, title V, § 519][/us/pl/93/638/s519], as added [Pub. L. 106–260, § 4][/us/pl/106/260/s4], Aug. 18, 2000, [114 Stat. 731][/us/stat/114/731].)
+([Pub. L. 93–638, title V][/us/pl/93/638/tV], § 519, as added [Pub. L. 106–260][/us/pl/106/260], § 4, Aug. 18, 2000, [114 Stat. 731][/us/stat/114/731].)
 
  __References in Text__ 
 
@@ -36,8 +36,8 @@
 ----------
 ----------
 
-[/us/pl/93/638/s519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638%2Fs519
-[/us/pl/106/260/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F260%2Fs4
+[/us/pl/93/638/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638%2FtV
+[/us/pl/106/260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F260
 [/us/stat/114/731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F731
 [/us/pl/93/638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638
 [/us/stat/88/2203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2203

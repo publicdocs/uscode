@@ -31,7 +31,7 @@
 
     (7) to strengthen support for the policy of the United States of protecting and preserving the traditional, cultural, and ceremonial rites and practices of Indian tribes, in accordance with [Public Law 95–341][/us/pl/95/341] (commonly known as the American Indian Religious Freedom Act; [42 U.S.C. 1996][/us/usc/t42/s1996]).
 
-([Pub. L. 110–234, title VIII, § 8101][/us/pl/110/234/s8101], May 22, 2008, [122 Stat. 1286][/us/stat/122/1286]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VIII, § 8101, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2048.)
+([Pub. L. 110–234, title VIII][/us/pl/110/234/tVIII], § 8101, May 22, 2008, [122 Stat. 1286][/us/stat/122/1286]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title VIII, § 8101, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2048.)
 
  __References in Text__ 
 
@@ -61,9 +61,9 @@
 [/us/usc/t25/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs3001
 [/us/pl/95/341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F341
 [/us/usc/t42/s1996]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1996
-[/us/pl/110/234/s8101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs8101
+[/us/pl/110/234/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtVIII
 [/us/stat/122/1286]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1286
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/101/601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F601
 [/us/stat/104/3048]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3048

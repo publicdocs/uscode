@@ -33,7 +33,7 @@
 
         (3) to bind any tribal governing body selected under any new constitution adopted in accordance with [section 735 of this title][/us/usc/t25/s735] as the successor in interest to the Tribal Council.
 
-([Pub. L. 100–89, title II, § 204][/us/pl/100/89/s204], Aug. 18, 1987, [101 Stat. 670][/us/stat/101/670]; [Pub. L. 103–437, § 10(d)][/us/pl/103/437/s10/d], Nov. 2, 1994, [108 Stat. 4589][/us/stat/108/4589].)
+([Pub. L. 100–89, title II][/us/pl/100/89/tII], § 204, Aug. 18, 1987, [101 Stat. 670][/us/stat/101/670]; [Pub. L. 103–437][/us/pl/103/437], § 10(d), Nov. 2, 1994, [108 Stat. 4589][/us/stat/108/4589].)
 
  __References in Text__ 
 
@@ -53,9 +53,9 @@
 [/us/usc/t25/s733/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs733%2Fa
 [/us/usc/t25/s476]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs476
 [/us/usc/t25/s735]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs735
-[/us/pl/100/89/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F89%2Fs204
+[/us/pl/100/89/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F89%2FtII
 [/us/stat/101/670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F670
-[/us/pl/103/437/s10/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437%2Fs10%2Fd
+[/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
 [/us/stat/108/4589]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4589
 [/us/pl/100/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F89
 [/us/stat/101/666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F666

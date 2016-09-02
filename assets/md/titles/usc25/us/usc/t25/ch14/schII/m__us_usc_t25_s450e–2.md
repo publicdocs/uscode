@@ -17,7 +17,7 @@
 
     Beginning in fiscal year 1998 and thereafter, where the actual costs of construction projects under self-determination contracts, compacts, or grants, pursuant to Public Laws 93–638, 103–413, or 100–297, are less than the estimated costs thereof, use of the resulting excess funds shall be determined by the appropriate Secretary after consultation with the tribes.
 
-([Pub. L. 105–83, title III, § 310][/us/pl/105/83/s310], Nov. 14, 1997, [111 Stat. 1590][/us/stat/111/1590].)
+([Pub. L. 105–83, title III][/us/pl/105/83/tIII], § 310, Nov. 14, 1997, [111 Stat. 1590][/us/stat/111/1590].)
 
  __References in Text__ 
 
@@ -35,9 +35,9 @@
 
 Provisions similar to those in this section were contained in the following prior appropriation acts:
 
-    [Pub. L. 104–208, div. A, title I, § 101(d)][/us/pl/104/208/s101/d] \[title III, § 310\], Sept. 30, 1996, [110 Stat. 3009–181][/us/stat/110/3009-181], 3009–221.
+    [Pub. L. 104–208, div. A, title I][/us/pl/104/208/dA/tI], § 101(d) \[title III, § 310\], Sept. 30, 1996, [110 Stat. 3009–181][/us/stat/110/3009-181], 3009–221.
 
-    [Pub. L. 104–134, title I, § 101(c)][/us/pl/104/134/s101/c] \[title III, § 310\], Apr. 26, 1996, [110 Stat. 1321–156][/us/stat/110/1321-156], 1321–197; renumbered title I, [Pub. L. 104–140, § 1(a)][/us/pl/104/140/s1/a], May 2, 1996, [110 Stat. 1327][/us/stat/110/1327].
+    [Pub. L. 104–134, title I][/us/pl/104/134/tI], § 101(c) \[title III, § 310\], Apr. 26, 1996, [110 Stat. 1321–156][/us/stat/110/1321-156], 1321–197; renumbered title I, [Pub. L. 104–140][/us/pl/104/140], § 1(a), May 2, 1996, [110 Stat. 1327][/us/stat/110/1327].
 
 ----------
 
@@ -46,7 +46,7 @@ Provisions similar to those in this section were contained in the following prio
 ----------
 ----------
 
-[/us/pl/105/83/s310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F83%2Fs310
+[/us/pl/105/83/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F83%2FtIII
 [/us/stat/111/1590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1590
 [/us/pl/93/638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638
 [/us/pl/93/638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638
@@ -60,11 +60,11 @@ Provisions similar to those in this section were contained in the following prio
 [/us/pl/100/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297
 [/us/stat/102/130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F130
 [/us/usc/t20/s6301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6301
-[/us/pl/104/208/s101/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Fd
+[/us/pl/104/208/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtI
 [/us/stat/110/3009-181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-181
-[/us/pl/104/134/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs101%2Fc
+[/us/pl/104/134/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2FtI
 [/us/stat/110/1321-156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1321-156
-[/us/pl/104/140/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F140%2Fs1%2Fa
+[/us/pl/104/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F140
 [/us/stat/110/1327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1327
 
 

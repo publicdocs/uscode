@@ -17,7 +17,7 @@
 
     The Secretary shall distribute a share payable to a living enrollee directly to such enrollee or in such manner as is deemed by the Secretary to be in the enrollee’s best interest. The Secretary shall distribute the per capita share of a deceased enrollee to his heirs or legatees upon proof of death and inheritance satisfactory to the Secretary whose findings upon such proof shall be final and conclusive. Sums payable to enrollees or their heirs or legatees who are less than twenty-one years of age or who are under a legal disability shall be paid to the persons whom the Secretary determines will best protect their interests. Proportional shares of heirs or legatees amounting to $5 or less shall not be distributed, and shall escheat to the United States. In the event that the sum of money reserved by the Secretary to pay the costs of distributing the individual shares exceeds the amount actually necessary to accomplish this purpose, such funds shall also escheat to the United States.
 
-([Pub. L. 89–660, § 3][/us/pl/89/660/s3], Oct. 14, 1966, [80 Stat. 911][/us/stat/80/911].)
+([Pub. L. 89–660][/us/pl/89/660], § 3, Oct. 14, 1966, [80 Stat. 911][/us/stat/80/911].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/89/660/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F660%2Fs3
+[/us/pl/89/660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F660
 [/us/stat/80/911]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F911
 
 

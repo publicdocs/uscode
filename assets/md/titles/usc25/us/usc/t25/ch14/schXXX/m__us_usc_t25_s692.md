@@ -25,7 +25,7 @@
 
     (d) “Tribal property” means any real or personal property, including water rights, or any interest in real or personal property, that belongs to the tribe and either is held by the United States in trust for the tribe or is subject to a restriction against alienation imposed by the United States.
 
-([Aug. 13, 1954, ch. 733, § 2][/us/act/1954-08-13/ch733/s2], [68 Stat. 724][/us/stat/68/724].)
+([Aug. 13, 1954, ch. 733][/us/act/1954-08-13/ch733], § 2, [68 Stat. 724][/us/stat/68/724].)
 
 ----------
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/act/1954-08-13/ch733/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-13%2Fch733%2Fs2
+[/us/act/1954-08-13/ch733]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-13%2Fch733
 [/us/stat/68/724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F724
 
 

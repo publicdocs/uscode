@@ -39,7 +39,7 @@
 
         The advisory board shall terminate upon termination of the Office of Special Trustee.
 
-([Pub. L. 103–412, title III, § 306][/us/pl/103/412/s306], Oct. 25, 1994, [108 Stat. 4249][/us/stat/108/4249]; [Pub. L. 104–109, § 6(b)][/us/pl/104/109/s6/b], Feb. 12, 1996, [110 Stat. 764][/us/stat/110/764].)
+([Pub. L. 103–412, title III][/us/pl/103/412/tIII], § 306, Oct. 25, 1994, [108 Stat. 4249][/us/stat/108/4249]; [Pub. L. 104–109][/us/pl/104/109], § 6(b), Feb. 12, 1996, [110 Stat. 764][/us/stat/110/764].)
 
  __References in Text__ 
 
@@ -51,7 +51,7 @@
 
  __Appointment of New Members__ 
 
-[Pub. L. 108–7, div. F, title I, § 133][/us/pl/108/7/s133], Feb. 20, 2003, [117 Stat. 243][/us/stat/117/243], provided that: 
+[Pub. L. 108–7, div. F, title I][/us/pl/108/7/dF/tI], § 133, Feb. 20, 2003, [117 Stat. 243][/us/stat/117/243], provided that: 
 
 > “Within 90 days of enactment of this Act \[Feb. 20, 2003\] the Special Trustee for American Indians, in consultation with the Secretary of the Interior and the Tribes, shall appoint new members to the Special Trustee Advisory Board.”
 
@@ -62,14 +62,14 @@
 ----------
 ----------
 
-[/us/pl/103/412/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F412%2Fs306
+[/us/pl/103/412/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F412%2FtIII
 [/us/stat/108/4249]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4249
-[/us/pl/104/109/s6/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F109%2Fs6%2Fb
+[/us/pl/104/109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F109
 [/us/stat/110/764]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F764
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770
 [/us/pl/104/109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F109
-[/us/pl/108/7/s133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs133
+[/us/pl/108/7/dF/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2FdF%2FtI
 [/us/stat/117/243]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F243
 
 

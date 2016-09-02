@@ -69,7 +69,7 @@
 
         (3) continue to enjoy all valid water rights appurtenant to the land existing immediately prior to the time of tribal acquisition.
 
-([Pub. L. 106–568, title VI, § 606][/us/pl/106/568/s606], Dec. 27, 2000, [114 Stat. 2909][/us/stat/114/2909].)
+([Pub. L. 106–568, title VI][/us/pl/106/568/tVI], § 606, Dec. 27, 2000, [114 Stat. 2909][/us/stat/114/2909].)
 
  __Effective Date__ 
 
@@ -82,7 +82,7 @@
 ----------
 ----------
 
-[/us/pl/106/568/s606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F568%2Fs606
+[/us/pl/106/568/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F568%2FtVI
 [/us/stat/114/2909]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2909
 [/us/pl/106/568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F568
 [/us/pl/106/568/s611/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F568%2Fs611%2Fb

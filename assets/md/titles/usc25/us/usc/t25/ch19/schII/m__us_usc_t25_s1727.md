@@ -39,7 +39,7 @@
 
         Until the Passamaquoddy Tribe or the Penobscot Nation has assumed exclusive jurisdiction over the Indian child custody proceedings pursuant to this section, the State of Maine shall have exclusive jurisdiction over Indian child custody proceedings of that tribe or nation.
 
-([Pub. L. 96–420, § 8][/us/pl/96/420/s8], Oct. 10, 1980, [94 Stat. 1795][/us/stat/94/1795].)
+([Pub. L. 96–420][/us/pl/96/420], § 8, Oct. 10, 1980, [94 Stat. 1795][/us/stat/94/1795].)
 
  __References in Text__ 
 
@@ -61,7 +61,7 @@
 [/us/usc/t25/s1903/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1903%2F8
 [/us/usc/t25/s1903/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1903%2F8
 [/us/usc/t25/s1725/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1725%2Fe%2F2
-[/us/pl/96/420/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F420%2Fs8
+[/us/pl/96/420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F420
 [/us/stat/94/1795]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1795
 [/us/stat/92/3069]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3069
 [/us/pl/95/608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F608

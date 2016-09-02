@@ -17,7 +17,7 @@
 
     The Alabama and Coushatta Indian Tribes of Texas shall be considered as one tribal unit for purposes of this subchapter and any other law or rule of law of the United States.
 
-([Pub. L. 100–89, title II, § 202][/us/pl/100/89/s202], Aug. 18, 1987, [101 Stat. 670][/us/stat/101/670].)
+([Pub. L. 100–89, title II][/us/pl/100/89/tII], § 202, Aug. 18, 1987, [101 Stat. 670][/us/stat/101/670].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/100/89/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F89%2Fs202
+[/us/pl/100/89/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F89%2FtII
 [/us/stat/101/670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F670
 
 

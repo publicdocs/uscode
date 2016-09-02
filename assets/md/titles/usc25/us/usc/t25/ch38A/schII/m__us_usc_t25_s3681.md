@@ -47,7 +47,7 @@
 
         For purposes of carrying out the activities under this section, there are authorized to be appropriated such sums as are necessary for fiscal years 2011 through 2015.
 
-([Pub. L. 106–559, title II, § 201][/us/pl/106/559/s201], Dec. 21, 2000, [114 Stat. 2781][/us/stat/114/2781]; [Pub. L. 111–211, title II, § 242(b)(3)(B)][/us/pl/111/211/s242/b/3/B], July 29, 2010, [124 Stat. 2292][/us/stat/124/2292].)
+([Pub. L. 106–559, title II][/us/pl/106/559/tII], § 201, Dec. 21, 2000, [114 Stat. 2781][/us/stat/114/2781]; [Pub. L. 111–211, title II][/us/pl/111/211/tII], § 242(b)(3)(B), July 29, 2010, [124 Stat. 2292][/us/stat/124/2292].)
 
  __Amendments__ 
 
@@ -60,9 +60,9 @@
 ----------
 ----------
 
-[/us/pl/106/559/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F559%2Fs201
+[/us/pl/106/559/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F559%2FtII
 [/us/stat/114/2781]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2781
-[/us/pl/111/211/s242/b/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211%2Fs242%2Fb%2F3%2FB
+[/us/pl/111/211/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211%2FtII
 [/us/stat/124/2292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2292
 [/us/pl/111/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211
 

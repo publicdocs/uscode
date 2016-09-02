@@ -53,7 +53,7 @@
 
         The Secretary of the Treasury, in cooperation with the Secretary of the Interior, acting through the Office of Trust Fund Management of the Department of the Interior, shall ensure that such accounts as are necessary are established in the Fund Account to provide for the distribution of funds under subsection (a)(2).
 
-([Pub. L. 105–387, § 4][/us/pl/105/387/s4], Nov. 13, 1998, [112 Stat. 3471][/us/stat/112/3471].)
+([Pub. L. 105–387][/us/pl/105/387], § 4, Nov. 13, 1998, [112 Stat. 3471][/us/stat/112/3471].)
 
 ----------
 
@@ -68,7 +68,7 @@
 [/us/usc/t25/s1300d–22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1300d%E2%80%9322
 [/us/usc/t25/s1300d–22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1300d%E2%80%9322
 [/us/usc/t25/s1300d–24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1300d%E2%80%9324
-[/us/pl/105/387/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F387%2Fs4
+[/us/pl/105/387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F387
 [/us/stat/112/3471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3471
 
 

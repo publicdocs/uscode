@@ -33,7 +33,7 @@
 
         The Secretary, in consultation with the Bureau of the Census of the Department of Commerce, and the National Center for Native American Studies and Policy Development authorized by [Public Law 101–301][/us/pl/101/301], shall prepare a report on the need for comprehensive, accurate and periodically updated information on the size and characteristics of the Indian and Alaska Native population throughout the entire United States. This report shall include the need for information, together with the cost of acquiring such information, on the characteristics and need for education, health, housing, job training, and other basic needs of such population, and shall take into consideration the need for this information by Indian tribes and organizations serving Indians in nonreservation areas. The report shall be submitted to the Committee on Indian Affairs of the Senate and the Committee on Natural Resources and the Committee on Education and Labor of the House of Representatives not later than 12 months after October 23, 1992.
 
-([Pub. L. 102–477, § 17][/us/pl/102/477/s17], Oct. 23, 1992, [106 Stat. 2305][/us/stat/106/2305]; [Pub. L. 103–437, § 10(e)(1)][/us/pl/103/437/s10/e/1], (2)(C), Nov. 2, 1994, [108 Stat. 4589][/us/stat/108/4589].)
+([Pub. L. 102–477][/us/pl/102/477], § 17, Oct. 23, 1992, [106 Stat. 2305][/us/stat/106/2305]; [Pub. L. 103–437][/us/pl/103/437], § 10(e)(1), (2)(C), Nov. 2, 1994, [108 Stat. 4589][/us/stat/108/4589].)
 
  __References in Text__ 
 
@@ -55,9 +55,9 @@
 ----------
 
 [/us/pl/101/301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F301
-[/us/pl/102/477/s17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F477%2Fs17
+[/us/pl/102/477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F477
 [/us/stat/106/2305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2305
-[/us/pl/103/437/s10/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437%2Fs10%2Fe%2F1
+[/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
 [/us/stat/108/4589]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4589
 [/us/pl/101/301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F301
 [/us/pl/101/301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F301

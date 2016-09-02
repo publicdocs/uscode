@@ -17,7 +17,7 @@
 
     The funds appropriated to pay a judgment to the Jicarilla Apache Tribe in Indian Claims Commission docket numbered 22–A, together with the interest thereon, after payment of attorney fees and other litigation expenses, may be advanced, expended, invested, or reinvested for any purpose that is authorized by the tribal governing body and approved by the Secretary of the Interior.
 
-([Pub. L. 92–295, § 1][/us/pl/92/295/s1], May 16, 1972, [86 Stat. 139][/us/stat/86/139].)
+([Pub. L. 92–295][/us/pl/92/295], § 1, May 16, 1972, [86 Stat. 139][/us/stat/86/139].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/92/295/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F295%2Fs1
+[/us/pl/92/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F295
 [/us/stat/86/139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F139
 
 

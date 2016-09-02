@@ -17,7 +17,7 @@
 
     The funds on deposit in the Treasury of the United States to the credit of the Minnesota Chippewa Tribe of Indians on behalf of the Mississippi Bands and the Pillager and Lake Winnibigoshish Bands of Chippewa Indians that were appropriated by the Act of October 31, 1965, to pay a judgment by the Indian Claims Commission in docket 18–B, and the interest thereon, after payment of attorney fees and expenses, may be advanced or expended for any purpose that is authorized by the tribal governing bodies of the Minnesota Chippewa Tribe and the White Earth, Leech Lake, and Mille Lacs Reservations with whom the members of the Mississippi Bands and Pillager and Lake Winnibigoshish Bands of Chippewa Indians are affiliated, and approved by the Secretary of the Interior. Only those persons who are descendants of the Mississippi Bands and the Pillager and Lake Winnibigoshish Bands of Chippewa Indians who were born on or prior to and living on September 27, 1967 and who meet the requirements for membership in the Minnesota Chippewa Tribe shall be entitled to share in the use or distribution of the funds. Any part of such funds that may be distributed per capita to the members of the tribe shall not be subject to the Federal or State income tax.
 
-([Pub. L. 90–94, § 1][/us/pl/90/94/s1], Sept. 27, 1967, [81 Stat. 230][/us/stat/81/230].)
+([Pub. L. 90–94][/us/pl/90/94], § 1, Sept. 27, 1967, [81 Stat. 230][/us/stat/81/230].)
 
  __References in Text__ 
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/90/94/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F94%2Fs1
+[/us/pl/90/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F94
 [/us/stat/81/230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F230
 [/us/pl/89/309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F309
 [/us/stat/79/1133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1133

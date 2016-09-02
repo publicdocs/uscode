@@ -17,7 +17,7 @@
 
     The Commissioner of Indian Affairs shall cause a seal to be made and provided for the said office, with such device as the President of the United States shall approve, and copies of any public documents, records, books, maps, or papers belonging to or on the files of said office, authenticated by the seal and certified by the Commissioner thereof, or by such officer as may, for the time being, be acting as or for such Commissioner, shall be evidence equally with the originals thereof.
 
-([July 26, 1892, ch. 256, § 3][/us/act/1892-07-26/ch256/s3], [27 Stat. 273][/us/stat/27/273].)
+([July 26, 1892, ch. 256][/us/act/1892-07-26/ch256], § 3, [27 Stat. 273][/us/stat/27/273].)
 
  __Transfer of Functions__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1892-07-26/ch256/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1892-07-26%2Fch256%2Fs3
+[/us/act/1892-07-26/ch256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1892-07-26%2Fch256
 [/us/stat/27/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F27%2F273
 [/us/stat/64/1262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1262
 

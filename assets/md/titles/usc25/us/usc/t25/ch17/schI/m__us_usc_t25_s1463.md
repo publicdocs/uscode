@@ -17,7 +17,7 @@
 
     Loans may be made only when, in the judgment of the Secretary, there is a reasonable prospect of repayment, and only to applicants who in the opinion of the Secretary are unable to obtain financing from other sources on reasonable terms and conditions.
 
-([Pub. L. 93–262, title I, § 103][/us/pl/93/262/s103], Apr. 12, 1974, [88 Stat. 78][/us/stat/88/78].)
+([Pub. L. 93–262, title I][/us/pl/93/262/tI], § 103, Apr. 12, 1974, [88 Stat. 78][/us/stat/88/78].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/93/262/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F262%2Fs103
+[/us/pl/93/262/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F262%2FtI
 [/us/stat/88/78]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F78
 
 

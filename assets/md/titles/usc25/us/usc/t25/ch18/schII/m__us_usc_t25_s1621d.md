@@ -69,7 +69,7 @@
 
         The Secretary, acting through the Service, Indian tribes, and tribal organizations, may also provide funding under this chapter to meet the objectives set forth in [section 1602 of this title][/us/usc/t25/s1602] for convenient care services programs pursuant to [section 1637(c)(2)(A) of this title][/us/usc/t25/s1637/c/2/A].
 
-([Pub. L. 94–437, title II, § 205][/us/pl/94/437/s205], as added [Pub. L. 102–573, title II, § 206(a)][/us/pl/102/573/s206/a], Oct. 29, 1992, [106 Stat. 4548][/us/stat/106/4548]; amended [Pub. L. 111–148, title X, § 10221(a)][/us/pl/111/148/s10221/a], Mar. 23, 2010, [124 Stat. 935][/us/stat/124/935].)
+([Pub. L. 94–437, title II][/us/pl/94/437/tII], § 205, as added [Pub. L. 102–573, title II][/us/pl/102/573/tII], § 206(a), Oct. 29, 1992, [106 Stat. 4548][/us/stat/106/4548]; amended [Pub. L. 111–148, title X][/us/pl/111/148/tX], § 10221(a), Mar. 23, 2010, [124 Stat. 935][/us/stat/124/935].)
 
  __References in Text__ 
 
@@ -83,7 +83,7 @@
 
  __Prior Provisions__ 
 
-    A prior section 1621d, [Pub. L. 94–437, title II, § 205][/us/pl/94/437/s205], as added [Pub. L. 100–713, title II, § 203(c)][/us/pl/100/713/s203/c], Nov. 23, 1988, [102 Stat. 4807][/us/stat/102/4807], related to Native Hawaiian health promotion and disease prevention, prior to repeal by [Pub. L. 100–579, § 14][/us/pl/100/579/s14], formerly § 10, Oct. 31, 1988, [102 Stat. 2923][/us/stat/102/2923]; [Pub. L. 100–690, title II, § 2310][/us/pl/100/690/s2310], Nov. 18, 1988, [102 Stat. 4229][/us/stat/102/4229]; renumbered § 14, [Pub. L. 102–396, title IX, § 9168][/us/pl/102/396/s9168], Oct. 6, 1992, [106 Stat. 1948][/us/stat/106/1948]. See section 11701 et seq. of Title 42, The Public Health and Welfare.
+    A prior section 1621d, [Pub. L. 94–437, title II][/us/pl/94/437/tII], § 205, as added [Pub. L. 100–713, title II][/us/pl/100/713/tII], § 203(c), Nov. 23, 1988, [102 Stat. 4807][/us/stat/102/4807], related to Native Hawaiian health promotion and disease prevention, prior to repeal by [Pub. L. 100–579][/us/pl/100/579], § 14, formerly § 10, Oct. 31, 1988, [102 Stat. 2923][/us/stat/102/2923]; [Pub. L. 100–690, title II][/us/pl/100/690/tII], § 2310, Nov. 18, 1988, [102 Stat. 4229][/us/stat/102/4229]; renumbered § 14, [Pub. L. 102–396, title IX][/us/pl/102/396/tIX], § 9168, Oct. 6, 1992, [106 Stat. 1948][/us/stat/106/1948]. See section 11701 et seq. of Title 42, The Public Health and Welfare.
 
  __Amendments__ 
 
@@ -104,10 +104,10 @@
 [/us/usc/t25/s1602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1602
 [/us/usc/t25/s1602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1602
 [/us/usc/t25/s1637/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1637%2Fc%2F2%2FA
-[/us/pl/94/437/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437%2Fs205
-[/us/pl/102/573/s206/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2Fs206%2Fa
+[/us/pl/94/437/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437%2FtII
+[/us/pl/102/573/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2FtII
 [/us/stat/106/4548]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4548
-[/us/pl/111/148/s10221/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10221%2Fa
+[/us/pl/111/148/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtX
 [/us/stat/124/935]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F935
 [/us/pl/93/638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638
 [/us/stat/88/2203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2203
@@ -117,14 +117,14 @@
 [/us/usc/t25/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1601
 [/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 [/us/pl/111/148/s10221/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10221%2Fa
-[/us/pl/94/437/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437%2Fs205
-[/us/pl/100/713/s203/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F713%2Fs203%2Fc
+[/us/pl/94/437/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437%2FtII
+[/us/pl/100/713/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F713%2FtII
 [/us/stat/102/4807]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4807
-[/us/pl/100/579/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F579%2Fs14
+[/us/pl/100/579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F579
 [/us/stat/102/2923]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2923
-[/us/pl/100/690/s2310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs2310
+[/us/pl/100/690/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtII
 [/us/stat/102/4229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4229
-[/us/pl/102/396/s9168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F396%2Fs9168
+[/us/pl/102/396/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F396%2FtIX
 [/us/stat/106/1948]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1948
 [/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 

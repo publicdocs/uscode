@@ -65,7 +65,7 @@
 
             Nothing in this subchapter affects, ratifies, or confirms the right, title, or interest of the Pueblo in the land held by, or for the benefit of, the Pueblo, including the land described in Appendix D of the Settlement Agreement.
 
-([Pub. L. 109–286, § 5][/us/pl/109/286/s5], Sept. 27, 2006, [120 Stat. 1220][/us/stat/120/1220].)
+([Pub. L. 109–286][/us/pl/109/286], § 5, Sept. 27, 2006, [120 Stat. 1220][/us/stat/120/1220].)
 
  __References in Text__ 
 
@@ -79,7 +79,7 @@
 ----------
 
 [/us/stat/43/636]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F43%2F636
-[/us/pl/109/286/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F286%2Fs5
+[/us/pl/109/286]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F286
 [/us/stat/120/1220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1220
 [/us/act/1924-06-07/ch331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1924-06-07%2Fch331
 [/us/stat/43/636]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F43%2F636

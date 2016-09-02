@@ -27,7 +27,7 @@
 
         Nothing in sections 117a to 117c of this title, except the provisions of subsection (a) of this section, shall apply to the Shoshone Tribe and the Arapahoe Tribe of the Wind River Reservation, Wyoming.
 
-([Pub. L. 98–64, § 2][/us/pl/98/64/s2], Aug. 2, 1983, [97 Stat. 365][/us/stat/97/365].)
+([Pub. L. 98–64][/us/pl/98/64], § 2, Aug. 2, 1983, [97 Stat. 365][/us/stat/97/365].)
 
  __References in Text__ 
 
@@ -46,7 +46,7 @@
 [/us/stat/87/466]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F466
 [/us/usc/t25/s1401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1401
 [/us/usc/t25/s117a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs117a
-[/us/pl/98/64/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F64%2Fs2
+[/us/pl/98/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F64
 [/us/stat/97/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F365
 [/us/pl/93/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F134
 [/us/stat/87/466]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F466

@@ -29,7 +29,7 @@
 
         In such budget request, the President shall identify the level of need presently funded and any shortfall in funding (including direct program and contract support costs) for each Indian tribe, either directly by the Secretary of Health and Human Services, under self-determination contracts, or under compacts and funding agreements authorized under this part.
 
-([Pub. L. 93–638, title V, § 513][/us/pl/93/638/s513], as added [Pub. L. 106–260, § 4][/us/pl/106/260/s4], Aug. 18, 2000, [114 Stat. 727][/us/stat/114/727].)
+([Pub. L. 93–638, title V][/us/pl/93/638/tV], § 513, as added [Pub. L. 106–260][/us/pl/106/260], § 4, Aug. 18, 2000, [114 Stat. 727][/us/stat/114/727].)
 
 ----------
 
@@ -40,8 +40,8 @@
 
 [/us/usc/t31/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105
 [/us/usc/t25/s458aaa–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs458aaa%E2%80%934
-[/us/pl/93/638/s513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638%2Fs513
-[/us/pl/106/260/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F260%2Fs4
+[/us/pl/93/638/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638%2FtV
+[/us/pl/106/260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F260
 [/us/stat/114/727]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F727
 
 

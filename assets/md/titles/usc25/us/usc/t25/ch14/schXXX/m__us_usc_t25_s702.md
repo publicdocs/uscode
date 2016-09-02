@@ -17,7 +17,7 @@
 
     The Secretary shall have authority to execute such patents, deeds, assignments, releases, certificates, contracts, and other instruments as may be necessary or appropriate to carry out the provisions of this subchapter, or to establish a marketable and recordable title to any property disposed of pursuant to this subchapter.
 
-([Aug. 13, 1954, ch. 733, § 12][/us/act/1954-08-13/ch733/s12], [68 Stat. 727][/us/stat/68/727].)
+([Aug. 13, 1954, ch. 733][/us/act/1954-08-13/ch733], § 12, [68 Stat. 727][/us/stat/68/727].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1954-08-13/ch733/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-13%2Fch733%2Fs12
+[/us/act/1954-08-13/ch733]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-13%2Fch733
 [/us/stat/68/727]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F727
 
 

@@ -17,7 +17,7 @@
 
     Allotments in accordance with the provisions of this subchapter shall be deemed complete and full equalization of allotments on the Agua Caliente Reservation.
 
-([Pub. L. 86–339, § 7][/us/pl/86/339/s7], Sept. 21, 1959, [73 Stat. 605][/us/stat/73/605].)
+([Pub. L. 86–339][/us/pl/86/339], § 7, Sept. 21, 1959, [73 Stat. 605][/us/stat/73/605].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/86/339/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F339%2Fs7
+[/us/pl/86/339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F339
 [/us/stat/73/605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F605
 
 

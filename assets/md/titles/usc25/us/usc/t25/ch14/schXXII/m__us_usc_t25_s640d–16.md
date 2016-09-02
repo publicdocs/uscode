@@ -23,7 +23,7 @@
 
         Nothing in this subchapter shall require the relocation from any area partitioned pursuant to this subchapter of the household of any Navajo or Hopi individual who is employed by the Federal Government within such area or to prevent such employees or their households from residing in such areas in the future: Provided, That any such Federal employee who would, except for the provisions of this subsection, be relocated under the terms of this subchapter may elect to be so relocated.
 
-([Pub. L. 93–531, § 17][/us/pl/93/531/s17], Dec. 22, 1974, [88 Stat. 1720][/us/stat/88/1720].)
+([Pub. L. 93–531][/us/pl/93/531], § 17, Dec. 22, 1974, [88 Stat. 1720][/us/stat/88/1720].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/93/531/s17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F531%2Fs17
+[/us/pl/93/531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F531
 [/us/stat/88/1720]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1720
 
 

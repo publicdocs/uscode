@@ -21,7 +21,7 @@
 
  __Codification__ 
 
-    R.S. § 2116 derived from [act June 30, 1834, ch. 161, § 12][/us/act/1834-06-30/ch161/s12], [4 Stat. 730][/us/stat/4/730].
+    R.S. § 2116 derived from [act June 30, 1834, ch. 161][/us/act/1834-06-30/ch161], § 12, [4 Stat. 730][/us/stat/4/730].
 
 ----------
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1834-06-30/ch161/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1834-06-30%2Fch161%2Fs12
+[/us/act/1834-06-30/ch161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1834-06-30%2Fch161
 [/us/stat/4/730]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F4%2F730
 
 

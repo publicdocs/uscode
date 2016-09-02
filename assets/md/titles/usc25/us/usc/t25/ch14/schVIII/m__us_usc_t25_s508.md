@@ -17,7 +17,7 @@
 
     This subchapter shall not relate to or affect Osage County, Oklahoma.
 
-([June 26, 1936, ch. 831, § 8][/us/act/1936-06-26/ch831/s8], [49 Stat. 1968][/us/stat/49/1968].)
+([June 26, 1936, ch. 831][/us/act/1936-06-26/ch831], § 8, [49 Stat. 1968][/us/stat/49/1968].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1936-06-26/ch831/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-26%2Fch831%2Fs8
+[/us/act/1936-06-26/ch831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-26%2Fch831
 [/us/stat/49/1968]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1968
 
 

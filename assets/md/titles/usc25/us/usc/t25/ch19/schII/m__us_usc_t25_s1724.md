@@ -111,11 +111,11 @@
 
         When trust or restricted land or natural resources of the Passamaquoddy Tribe, the Penobscot Nation, or the Houlton Band of Maliseet Indians are condemned pursuant to any law of the United States other than this subchapter, the proceeds paid in compensation for such condemnation shall be deposited and reinvested in accordance with subsection (i)(2) of this section.
 
-([Pub. L. 96–420, § 5][/us/pl/96/420/s5], Oct. 10, 1980, [94 Stat. 1788][/us/stat/94/1788].)
+([Pub. L. 96–420][/us/pl/96/420], § 5, Oct. 10, 1980, [94 Stat. 1788][/us/stat/94/1788].)
 
  __Codification__ 
 
-    “Sections 3113 and 3114(a) to (d) of title 40” substituted in subsec. (e) for “[section 1 of the Act of August 1, 1888][/us/act/1888-08-01/s1] ([25 Stat. 357][/us/stat/25/357]), as amended, and [section 1 of the Act of February 26, 1931][/us/act/1931-02-26/s1] ([46 Stat. 1421][/us/stat/46/1421])” on authority of [Pub. L. 107–217, § 5(c)][/us/pl/107/217/s5/c], Aug. 21, 2002, [116 Stat. 1303][/us/stat/116/1303], the first section of which enacted Title 40, Public Buildings, Property, and Works.
+    “Sections 3113 and 3114(a) to (d) of title 40” substituted in subsec. (e) for “[section 1 of the Act of August 1, 1888][/us/act/1888-08-01/s1] ([25 Stat. 357][/us/stat/25/357]), as amended, and [section 1 of the Act of February 26, 1931][/us/act/1931-02-26/s1] ([46 Stat. 1421][/us/stat/46/1421])” on authority of [Pub. L. 107–217][/us/pl/107/217], § 5(c), Aug. 21, 2002, [116 Stat. 1303][/us/stat/116/1303], the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
  __Houlton Band of Maliseet Indians Supplementary Claims Settlement__ 
 
@@ -248,13 +248,13 @@
 [/us/usc/t25/s177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs177
 [/us/usc/t25/s407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs407
 [/us/usc/t25/s450f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450f
-[/us/pl/96/420/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F420%2Fs5
+[/us/pl/96/420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F420
 [/us/stat/94/1788]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1788
 [/us/act/1888-08-01/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1888-08-01%2Fs1
 [/us/stat/25/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F25%2F357
 [/us/act/1931-02-26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1931-02-26%2Fs1
 [/us/stat/46/1421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F1421
-[/us/pl/107/217/s5/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs5%2Fc
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1303
 [/us/pl/99/566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F566
 [/us/stat/100/3184]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3184

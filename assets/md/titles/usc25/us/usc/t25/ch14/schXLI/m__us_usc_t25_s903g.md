@@ -17,7 +17,7 @@
 
     All contracts for labor or supplies necessary for the carrying on of operations on the Menominee Indian Reservation pursuant to the Act of March 28, 1908 ([35 Stat. 51][/us/stat/35/51]), as amended, shall be exempt from the requirements of [section 6101 of title 41][/us/usc/t41/s6101].
 
-([Oct. 10, 1940, ch. 851, § 3(c)][/us/act/1940-10-10/ch851/s3/c], [54 Stat. 1111][/us/stat/54/1111].)
+([Oct. 10, 1940, ch. 851][/us/act/1940-10-10/ch851], § 3(c), [54 Stat. 1111][/us/stat/54/1111].)
 
  __References in Text__ 
 
@@ -25,7 +25,7 @@
 
  __Codification__ 
 
-    In text, “[section 6101 of title 41][/us/usc/t41/s6101]” substituted for “section 3709 of the Revised Statutes” on authority of [Pub. L. 111–350, § 6(c)][/us/pl/111/350/s6/c], Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
+    In text, “[section 6101 of title 41][/us/usc/t41/s6101]” substituted for “section 3709 of the Revised Statutes” on authority of [Pub. L. 111–350][/us/pl/111/350], § 6(c), Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
 
     Section was formerly classified to section 6b(c) of former Title 41, Public Contracts.
 
@@ -40,12 +40,12 @@
 
 [/us/stat/35/51]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F35%2F51
 [/us/usc/t41/s6101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs6101
-[/us/act/1940-10-10/ch851/s3/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-10-10%2Fch851%2Fs3%2Fc
+[/us/act/1940-10-10/ch851]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-10-10%2Fch851
 [/us/stat/54/1111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F1111
 [/us/act/1908-03-28/ch111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1908-03-28%2Fch111
 [/us/stat/35/51]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F35%2F51
 [/us/usc/t41/s6101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs6101
-[/us/pl/111/350/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs6%2Fc
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3854
 
 

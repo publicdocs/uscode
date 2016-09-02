@@ -17,7 +17,7 @@
 
     Within thirty months after September 18, 1978, the Pascua Yaqui Tribe shall adopt a constitution and bylaws or other governing documents and a membership roll. The Secretary of the Interior shall review such documents to insure that they comply with the provisions of this subchapter and shall publish such documents and membership roll in the Federal Register. Publication of such roll shall not affect or delay the immediate eligibility of the members of the Association under [section 1300f of this title][/us/usc/t25/s1300f].
 
-([Pub. L. 95–375, § 2][/us/pl/95/375/s2], Sept. 18, 1978, [92 Stat. 712][/us/stat/92/712].)
+([Pub. L. 95–375][/us/pl/95/375], § 2, Sept. 18, 1978, [92 Stat. 712][/us/stat/92/712].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t25/s1300f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1300f
-[/us/pl/95/375/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F375%2Fs2
+[/us/pl/95/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F375
 [/us/stat/92/712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F712
 
 

@@ -17,7 +17,7 @@
 
     The funds on deposit in the Treasury of the United States to the credit of the Miami Tribe of Oklahoma that were appropriated by the Act of September 30, 1961 ([75 Stat. 747][/us/stat/75/747]), to pay a judgment by the Indian Claims Commission in docket numbered 251, together with the interest thereon, after payment of attorney fees and expenses, shall be advanced or expended in accordance with plans adopted by the governing body of the Miami Tribe of Oklahoma and approved by the Secretary of the Interior. The persons entitled to share in any per capita payment authorized by the governing body and approved by the Secretary shall be all individuals who are enrolled members of the Miami Tribe of Oklahoma, as organized under the Oklahoma Welfare Act ([49 Stat. 1967][/us/stat/49/1967]) \[[25 U.S.C. 501][/us/usc/t25/s501] et seq.\].
 
-([Pub. L. 89–659, § 2][/us/pl/89/659/s2], Oct. 14, 1966, [80 Stat. 909][/us/stat/80/909].)
+([Pub. L. 89–659][/us/pl/89/659], § 2, Oct. 14, 1966, [80 Stat. 909][/us/stat/80/909].)
 
  __References in Text__ 
 
@@ -37,7 +37,7 @@
 [/us/stat/75/747]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F747
 [/us/stat/49/1967]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1967
 [/us/usc/t25/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs501
-[/us/pl/89/659/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F659%2Fs2
+[/us/pl/89/659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F659
 [/us/stat/80/909]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F909
 [/us/pl/87/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F322
 [/us/stat/75/747]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F747

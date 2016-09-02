@@ -23,7 +23,7 @@
 
         Subject to the Mississippi Sioux Tribes Judgment Fund Distribution Act of 1998 \[[25 U.S.C. 1300d–21][/us/usc/t25/s1300d–21] et seq.\], the Secretary of the Interior shall prepare a roll of the lineal descendants of the Sisseton and Wahpeton Mississippi Sioux Tribe who were born on or prior to and are living on October 25, 1972, whose names or the name of a lineal ancestor appears on any available records and rolls acceptable to the Secretary, and who are not members of any of the organized groups listed in subsection (a). Applications for enrollment must be filed with the Area Director, Bureau of Indian Affairs, Aberdeen, South Dakota. The Secretary’s determination on all applications for enrollment shall be final.
 
-([Pub. L. 92–555, title II, § 201][/us/pl/92/555/s201], Oct. 25, 1972, [86 Stat. 1169][/us/stat/86/1169]; [Pub. L. 105–387, § 7(d)(2)][/us/pl/105/387/s7/d/2], Nov. 13, 1998, [112 Stat. 3475][/us/stat/112/3475].)
+([Pub. L. 92–555, title II][/us/pl/92/555/tII], § 201, Oct. 25, 1972, [86 Stat. 1169][/us/stat/86/1169]; [Pub. L. 105–387][/us/pl/105/387], § 7(d)(2), Nov. 13, 1998, [112 Stat. 3475][/us/stat/112/3475].)
 
  __References in Text__ 
 
@@ -41,9 +41,9 @@
 ----------
 
 [/us/usc/t25/s1300d–21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1300d%E2%80%9321
-[/us/pl/92/555/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F555%2Fs201
+[/us/pl/92/555/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F555%2FtII
 [/us/stat/86/1169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1169
-[/us/pl/105/387/s7/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F387%2Fs7%2Fd%2F2
+[/us/pl/105/387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F387
 [/us/stat/112/3475]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3475
 [/us/pl/105/387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F387
 [/us/stat/112/3471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3471

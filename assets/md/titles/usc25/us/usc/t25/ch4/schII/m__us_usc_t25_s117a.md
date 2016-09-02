@@ -17,7 +17,7 @@
 
     Funds which are held in trust by the Secretary of the Interior (hereinafter referred to as the “Secretary”) for an Indian tribe and which are to be distributed per capita to members of that tribe may be so distributed by either the Secretary or, at the request of the governing body of the tribe and subject to the approval of the Secretary, the tribe. Any funds so distributed shall be paid by the Secretary or the tribe directly to the members involved or, if such members are minors or have been legally determined not competent to handle their own affairs, to a parent or guardian of such members or to a trust fund for such minors or legal incompetents as determined by the governing body of the tribe.
 
-([Pub. L. 98–64, § 1][/us/pl/98/64/s1], Aug. 2, 1983, [97 Stat. 365][/us/stat/97/365].)
+([Pub. L. 98–64][/us/pl/98/64], § 1, Aug. 2, 1983, [97 Stat. 365][/us/stat/97/365].)
 
  __Short Title__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/98/64/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F64%2Fs1
+[/us/pl/98/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F64
 [/us/stat/97/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F365
 [/us/pl/98/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F64
 [/us/stat/97/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F365

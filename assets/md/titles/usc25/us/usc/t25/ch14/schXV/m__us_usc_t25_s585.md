@@ -43,7 +43,7 @@
 
         The proposed roll shall be published in the Federal Register, and in a newspaper of general circulation in the State of Utah. Any person claiming membership rights in the Northwestern Bands of Shoshone Indians, or any interest in said judgment funds, or a representative of the Secretary on behalf of any such person, within sixty days from the date of publication in the Federal Register, or in the newspaper of general circulation, as hereinbefore provided, whichever publication date is last, may file an appeal with the Secretary contesting the inclusion or omission of the name of any person on or from such proposed roll. The Secretary shall review such appeals, and his decision thereon shall be final and conclusive. After disposition of all such appeals to the Secretary, the roll of the Northwestern Bands of Shoshone Indians shall be published in the Federal Register and such roll shall be final.
 
-([Pub. L. 92–206, § 5][/us/pl/92/206/s5], Dec. 18, 1971, [85 Stat. 737][/us/stat/85/737].)
+([Pub. L. 92–206][/us/pl/92/206], § 5, Dec. 18, 1971, [85 Stat. 737][/us/stat/85/737].)
 
  __References in Text__ 
 
@@ -56,7 +56,7 @@
 ----------
 ----------
 
-[/us/pl/92/206/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F206%2Fs5
+[/us/pl/92/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F206
 [/us/stat/85/737]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F737
 
 

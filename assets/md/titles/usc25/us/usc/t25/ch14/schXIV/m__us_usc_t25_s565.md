@@ -17,7 +17,7 @@
 
     The Secretary of the Interior is authorized and directed to distribute in accordance with the provisions of this subchapter the funds appropriated in satisfaction of a judgment obtained by the Klamath and Modoc Tribes and Yahooskin Band of Snake Indians, hereinafter called the Klamath Tribe for the purposes of the administration of this subchapter, from the Indian Claims Commission against the United States in docket numbered 100, and all other funds heretofore or hereafter deposited in the United States Treasury to the credit of the Klamath Tribe or any of its constituent parts or groups, except the funds heretofore or hereafter set aside for the purpose of paying the usual and necessary expenses of prosecuting claims against the United States.
 
-([Pub. L. 89–224, § 1][/us/pl/89/224/s1], Oct. 1, 1965, [79 Stat. 897][/us/stat/79/897].)
+([Pub. L. 89–224][/us/pl/89/224], § 1, Oct. 1, 1965, [79 Stat. 897][/us/stat/79/897].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/89/224/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F224%2Fs1
+[/us/pl/89/224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F224
 [/us/stat/79/897]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F897
 
 

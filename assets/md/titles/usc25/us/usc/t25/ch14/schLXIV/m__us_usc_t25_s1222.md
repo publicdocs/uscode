@@ -17,7 +17,7 @@
 
     After the deduction of attorneys’ fees and expenses and the administrative costs involved in the preparation of the roll and the distribution of the individual shares, the remaining funds on deposit in the United States Treasury to the credit of the Peoria Tribe on behalf of the Wea Nation that were appropriated by the Acts of May 13, 1966 ([80 Stat. 141][/us/stat/80/141], 150), and June 19, 1968 ([82 Stat. 239][/us/stat/82/239]), in satisfaction of judgments that were obtained by the Peoria Tribe on behalf of the Wea Nation in Indian Claims Commission dockets numbered 314, amended, and 314–E, respectively, and the funds to the credit of the Peoria Tribe of Oklahoma on behalf of the Wea, Piankashaw, Peoria, and Kaskaskia Nations that were appropriated by the Act of July 22, 1969 ([83 Stat. 49][/us/stat/83/49], 62), in satisfaction of a judgment in docket numbered 65, shall be disposed of in the following manner: The Secretary shall pay $3,000 of such funds to the Peoria Tribe of Oklahoma for improvement and maintenance of the Peoria Indian Cemetery located approximately ten miles northeast of Miami, Oklahoma, and shall distribute the balance of such funds in equal shares to those persons whose names appear on the roll prepared pursuant to [section 1221 of this title][/us/usc/t25/s1221].
 
-([Pub. L. 91–364, § 2][/us/pl/91/364/s2], July 31, 1970, [84 Stat. 688][/us/stat/84/688].)
+([Pub. L. 91–364][/us/pl/91/364], § 2, July 31, 1970, [84 Stat. 688][/us/stat/84/688].)
 
  __References in Text__ 
 
@@ -40,7 +40,7 @@
 [/us/stat/82/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F239
 [/us/stat/83/49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F49
 [/us/usc/t25/s1221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1221
-[/us/pl/91/364/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F364%2Fs2
+[/us/pl/91/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F364
 [/us/stat/84/688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F688
 [/us/pl/89/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F426
 [/us/stat/80/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F141

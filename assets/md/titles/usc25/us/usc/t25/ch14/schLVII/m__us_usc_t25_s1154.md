@@ -17,7 +17,7 @@
 
     The funds distributed under the provisions of this subchapter shall not be subject to Federal or State income taxes.
 
-([Pub. L. 90–114, § 4][/us/pl/90/114/s4], Oct. 24, 1967, [81 Stat. 335][/us/stat/81/335].)
+([Pub. L. 90–114][/us/pl/90/114], § 4, Oct. 24, 1967, [81 Stat. 335][/us/stat/81/335].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/90/114/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F114%2Fs4
+[/us/pl/90/114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F114
 [/us/stat/81/335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F335
 
 

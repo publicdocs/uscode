@@ -17,7 +17,7 @@
 
     No property distributed under the provisions of this subchapter shall at the time of distribution be subject to Federal or State income tax. Following any distribution of property made under the provisions of this subchapter, such property and any income derived therefrom by the individual, corporation, or other legal entity shall be subject to the same taxes, State and Federal, as in the case of non-Indians: Provided, That for the purpose of capital gains or losses the base value of the property shall be the value of the property when distributed to the individual, corporation, or other legal entity.
 
-([Aug. 13, 1954, ch. 733, § 9][/us/act/1954-08-13/ch733/s9], [68 Stat. 726][/us/stat/68/726].)
+([Aug. 13, 1954, ch. 733][/us/act/1954-08-13/ch733], § 9, [68 Stat. 726][/us/stat/68/726].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1954-08-13/ch733/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-13%2Fch733%2Fs9
+[/us/act/1954-08-13/ch733]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-13%2Fch733
 [/us/stat/68/726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F726
 
 

@@ -17,7 +17,7 @@
 
     For the purpose of determining individual interests in the funds placed to the credit of the Cherokee Band of Shawnee Indians pursuant to [section 1031 of this title][/us/usc/t25/s1031], the Secretary shall prepare a new roll based on the roll of Cherokee Shawnees prepared in accordance with the Act of March 2, 1889 ([25 Stat. 994][/us/stat/25/994]). Eligible for inclusion on this new payment roll shall be all persons living on August 20, 1964, (a) who are, themselves, listed on the 1889 roll and (b) who are direct lineal descendants of persons listed on the 1889 roll. The Secretary may promulgate such rules and regulations as he considers necessary to carry out the purposes of this section.
 
-([Pub. L. 88–457, § 3][/us/pl/88/457/s3], Aug. 20, 1964, [78 Stat. 555][/us/stat/78/555].)
+([Pub. L. 88–457][/us/pl/88/457], § 3, Aug. 20, 1964, [78 Stat. 555][/us/stat/78/555].)
 
  __References in Text__ 
 
@@ -32,7 +32,7 @@
 
 [/us/usc/t25/s1031]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1031
 [/us/stat/25/994]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F25%2F994
-[/us/pl/88/457/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F457%2Fs3
+[/us/pl/88/457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F457
 [/us/stat/78/555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F555
 [/us/act/1889-03-02/ch412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1889-03-02%2Fch412
 [/us/stat/25/994]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F25%2F994

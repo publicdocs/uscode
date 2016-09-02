@@ -67,7 +67,7 @@
 
             (C) the Los Alamos Agreement.
 
-([Pub. L. 109–286, § 8][/us/pl/109/286/s8], Sept. 27, 2006, [120 Stat. 1224][/us/stat/120/1224].)
+([Pub. L. 109–286][/us/pl/109/286], § 8, Sept. 27, 2006, [120 Stat. 1224][/us/stat/120/1224].)
 
 ----------
 
@@ -77,7 +77,7 @@
 ----------
 
 [/us/usc/t31/s3302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3302
-[/us/pl/109/286/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F286%2Fs8
+[/us/pl/109/286]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F286
 [/us/stat/120/1224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1224
 
 

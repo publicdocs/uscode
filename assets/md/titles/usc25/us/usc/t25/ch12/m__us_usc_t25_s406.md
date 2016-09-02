@@ -39,7 +39,7 @@
 
         A change from a trust or restricted status to an unrestricted status of any interest in timber that has been sold pursuant to this section shall not affect the obligations of the Secretary of the Interior under any contract of sale that is in effect at the time such change in status occurs.
 
-([June 25, 1910, ch. 431, § 8][/us/act/1910-06-25/ch431/s8], [36 Stat. 857][/us/stat/36/857]; [Pub. L. 88–301][/us/pl/88/301], Apr. 30, 1964, [78 Stat. 187][/us/stat/78/187].)
+([June 25, 1910, ch. 431][/us/act/1910-06-25/ch431], § 8, [36 Stat. 857][/us/stat/36/857]; [Pub. L. 88–301][/us/pl/88/301], Apr. 30, 1964, [78 Stat. 187][/us/stat/78/187].)
 
  __References in Text__ 
 
@@ -57,7 +57,7 @@
 ----------
 
 [/us/usc/t25/s413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs413
-[/us/act/1910-06-25/ch431/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1910-06-25%2Fch431%2Fs8
+[/us/act/1910-06-25/ch431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1910-06-25%2Fch431
 [/us/stat/36/857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F857
 [/us/pl/88/301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F301
 [/us/stat/78/187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F187

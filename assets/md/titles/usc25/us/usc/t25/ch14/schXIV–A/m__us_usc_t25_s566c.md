@@ -17,7 +17,7 @@
 
     Nothing in this subchapter shall affect in any manner any hunting, fishing, trapping, gathering, or water right of the tribe and its members.
 
-([Pub. L. 99–398, § 5][/us/pl/99/398/s5], Aug. 27, 1986, [100 Stat. 850][/us/stat/100/850].)
+([Pub. L. 99–398][/us/pl/99/398], § 5, Aug. 27, 1986, [100 Stat. 850][/us/stat/100/850].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/99/398/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F398%2Fs5
+[/us/pl/99/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F398
 [/us/stat/100/850]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F850
 
 

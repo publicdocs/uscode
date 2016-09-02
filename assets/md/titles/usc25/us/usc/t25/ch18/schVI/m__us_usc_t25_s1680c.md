@@ -95,7 +95,7 @@
 
         For purposes of this section, the term “eligible Indian” means any Indian who is eligible for health services provided by the Service without regard to the provisions of this section.
 
-([Pub. L. 94–437, title VIII, § 813][/us/pl/94/437/s813], formerly title VII, § 713, as added [Pub. L. 100–713, title VII, § 707(a)][/us/pl/100/713/s707/a], Nov. 23, 1988, [102 Stat. 4829][/us/stat/102/4829]; renumbered title VIII, § 813, and amended [Pub. L. 102–573, title VII, § 701(a)][/us/pl/102/573/s701/a], (b), title IX, § 902(8), Oct. 29, 1992, [106 Stat. 4572][/us/stat/106/4572], 4592; [Pub. L. 111–148, title X, § 10221(a)][/us/pl/111/148/s10221/a], Mar. 23, 2010, [124 Stat. 935][/us/stat/124/935].)
+([Pub. L. 94–437, title VIII][/us/pl/94/437/tVIII], § 813, formerly title VII, § 713, as added [Pub. L. 100–713, title VII][/us/pl/100/713/tVII], § 707(a), Nov. 23, 1988, [102 Stat. 4829][/us/stat/102/4829]; renumbered title VIII, § 813, and amended [Pub. L. 102–573, title VII][/us/pl/102/573/tVII], § 701(a), (b), title IX, § 902(8), Oct. 29, 1992, [106 Stat. 4572][/us/stat/106/4572], 4592; [Pub. L. 111–148, title X][/us/pl/111/148/tX], § 10221(a), Mar. 23, 2010, [124 Stat. 935][/us/stat/124/935].)
 
  __References in Text__ 
 
@@ -113,7 +113,7 @@
 
     2010—[Pub. L. 111–148][/us/pl/111/148] amended section generally. Prior to amendment, section related to health services for ineligible persons and consisted of subsecs. (a) to (e).
 
-    1992—Subsec. (b)(2)(A). [Pub. L. 102–573, § 902(8)][/us/pl/102/573/s902/8], substituted “[section 1642(a) of this title][/us/usc/t25/s1642/a]” for “section 402(c) of this Act”.
+    1992—Subsec. (b)(2)(A). [Pub. L. 102–573][/us/pl/102/573], § 902(8), substituted “[section 1642(a) of this title][/us/usc/t25/s1642/a]” for “section 402(c) of this Act”.
 
 ----------
 
@@ -132,12 +132,12 @@
 [/us/usc/t25/s1641/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1641%2Fd%2F2
 [/us/usc/t25/s450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450
 [/us/usc/t25/s450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450
-[/us/pl/94/437/s813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437%2Fs813
-[/us/pl/100/713/s707/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F713%2Fs707%2Fa
+[/us/pl/94/437/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437%2FtVIII
+[/us/pl/100/713/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F713%2FtVII
 [/us/stat/102/4829]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4829
-[/us/pl/102/573/s701/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2Fs701%2Fa
+[/us/pl/102/573/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2FtVII
 [/us/stat/106/4572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4572
-[/us/pl/111/148/s10221/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10221%2Fa
+[/us/pl/111/148/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtX
 [/us/stat/124/935]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F935
 [/us/pl/93/638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638
 [/us/stat/88/2203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2203
@@ -150,7 +150,7 @@
 [/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 [/us/pl/111/148/s10221/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10221%2Fa
 [/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
-[/us/pl/102/573/s902/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2Fs902%2F8
+[/us/pl/102/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573
 [/us/usc/t25/s1642/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1642%2Fa
 
 

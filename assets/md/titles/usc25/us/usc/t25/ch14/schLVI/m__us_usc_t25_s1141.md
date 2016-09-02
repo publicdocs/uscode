@@ -17,7 +17,7 @@
 
     The funds on deposit in the Treasury of the United States to the credit of the Emigrant New York Indians that were appropriated by the Act of May 29, 1967 ([81 Stat. 50][/us/stat/81/50]), to pay a judgment by the Indian Claims Commission in Docket Numbered 75, and the interest thereon, after payment of attorney fees and expenses, shall be distributed as determined in sections 1144 and 1145 of this title.
 
-([Pub. L. 90–93, § 1][/us/pl/90/93/s1], Sept. 27, 1967, [81 Stat. 229][/us/stat/81/229].)
+([Pub. L. 90–93][/us/pl/90/93], § 1, Sept. 27, 1967, [81 Stat. 229][/us/stat/81/229].)
 
  __References in Text__ 
 
@@ -33,7 +33,7 @@
 ----------
 
 [/us/stat/81/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F50
-[/us/pl/90/93/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F93%2Fs1
+[/us/pl/90/93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F93
 [/us/stat/81/229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F229
 [/us/pl/90/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F21
 [/us/stat/81/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F50

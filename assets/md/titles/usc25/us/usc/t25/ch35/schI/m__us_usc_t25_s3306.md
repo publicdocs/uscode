@@ -55,7 +55,7 @@
 
         For the purposes of under recovery and over recovery determinations by any Federal agency for any other funds, from whatever source derived, funds received under this subchapter shall not be taken into consideration.
 
-([Pub. L. 102–325, title XIII, § 1316][/us/pl/102/325/s1316], July 23, 1992, [106 Stat. 801][/us/stat/106/801].)
+([Pub. L. 102–325, title XIII][/us/pl/102/325/tXIII], § 1316, July 23, 1992, [106 Stat. 801][/us/stat/106/801].)
 
 ----------
 
@@ -64,7 +64,7 @@
 ----------
 ----------
 
-[/us/pl/102/325/s1316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs1316
+[/us/pl/102/325/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2FtXIII
 [/us/stat/106/801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F801
 
 

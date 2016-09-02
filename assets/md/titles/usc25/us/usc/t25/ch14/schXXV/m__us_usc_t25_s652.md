@@ -19,7 +19,7 @@
 
     It is declared that the loss to the said Indians on account of their failure to secure the lands and compensation provided for in the eighteen unratified treaties is sufficient ground for equitable relief.
 
-([May 18, 1928, ch. 624, § 2][/us/act/1928-05-18/ch624/s2], [45 Stat. 602][/us/stat/45/602]; [Pub. L. 97–164, title I, § 150][/us/pl/97/164/s150], Apr. 2, 1982, [96 Stat. 46][/us/stat/96/46]; [Pub. L. 100–352, § 6(b)][/us/pl/100/352/s6/b], June 27, 1988, [102 Stat. 663][/us/stat/102/663]; [Pub. L. 102–572, title IX, § 902(b)(1)][/us/pl/102/572/s902/b/1], Oct. 29, 1992, [106 Stat. 4516][/us/stat/106/4516].)
+([May 18, 1928, ch. 624][/us/act/1928-05-18/ch624], § 2, [45 Stat. 602][/us/stat/45/602]; [Pub. L. 97–164, title I][/us/pl/97/164/tI], § 150, Apr. 2, 1982, [96 Stat. 46][/us/stat/96/46]; [Pub. L. 100–352][/us/pl/100/352], § 6(b), June 27, 1988, [102 Stat. 663][/us/stat/102/663]; [Pub. L. 102–572, title IX][/us/pl/102/572/tIX], § 902(b)(1), Oct. 29, 1992, [106 Stat. 4516][/us/stat/106/4516].)
 
  __Amendments__ 
 
@@ -49,13 +49,13 @@
 ----------
 
 [/us/usc/t25/s651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs651
-[/us/act/1928-05-18/ch624/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-05-18%2Fch624%2Fs2
+[/us/act/1928-05-18/ch624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-05-18%2Fch624
 [/us/stat/45/602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F45%2F602
-[/us/pl/97/164/s150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164%2Fs150
+[/us/pl/97/164/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164%2FtI
 [/us/stat/96/46]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F46
-[/us/pl/100/352/s6/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F352%2Fs6%2Fb
+[/us/pl/100/352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F352
 [/us/stat/102/663]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F663
-[/us/pl/102/572/s902/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2Fs902%2Fb%2F1
+[/us/pl/102/572/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2FtIX
 [/us/stat/106/4516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4516
 [/us/pl/102/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572
 [/us/pl/100/352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F352

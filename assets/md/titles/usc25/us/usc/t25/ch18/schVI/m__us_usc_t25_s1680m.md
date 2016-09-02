@@ -17,7 +17,7 @@
 
     The Secretary shall provide for the dissemination to Indian tribes of the findings and results of demonstration projects conducted under this chapter.
 
-([Pub. L. 94–437, title VIII, § 823][/us/pl/94/437/s823], as added [Pub. L. 102–573, title VIII, § 811][/us/pl/102/573/s811], Oct. 29, 1992, [106 Stat. 4589][/us/stat/106/4589].)
+([Pub. L. 94–437, title VIII][/us/pl/94/437/tVIII], § 823, as added [Pub. L. 102–573, title VIII][/us/pl/102/573/tVIII], § 811, Oct. 29, 1992, [106 Stat. 4589][/us/stat/106/4589].)
 
  __References in Text__ 
 
@@ -30,8 +30,8 @@
 ----------
 ----------
 
-[/us/pl/94/437/s823]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437%2Fs823
-[/us/pl/102/573/s811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2Fs811
+[/us/pl/94/437/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437%2FtVIII
+[/us/pl/102/573/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2FtVIII
 [/us/stat/106/4589]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4589
 [/us/pl/94/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437
 [/us/stat/90/1400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1400

@@ -27,7 +27,7 @@
 
         The Secretary shall establish such performance measures as may be necessary to assess compliance with the requirements of this chapter.
 
-([Pub. L. 104–330, title IV, § 403][/us/pl/104/330/s403], Oct. 26, 1996, [110 Stat. 4039][/us/stat/110/4039]; [Pub. L. 110–411, title IV, § 402][/us/pl/110/411/s402], Oct. 14, 2008, [122 Stat. 4330][/us/stat/122/4330].)
+([Pub. L. 104–330, title IV][/us/pl/104/330/tIV], § 403, Oct. 26, 1996, [110 Stat. 4039][/us/stat/110/4039]; [Pub. L. 110–411, title IV][/us/pl/110/411/tIV], § 402, Oct. 14, 2008, [122 Stat. 4330][/us/stat/122/4330].)
 
  __References in Text__ 
 
@@ -49,9 +49,9 @@
 ----------
 
 [/us/usc/t25/s4164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs4164
-[/us/pl/104/330/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330%2Fs403
+[/us/pl/104/330/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330%2FtIV
 [/us/stat/110/4039]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F4039
-[/us/pl/110/411/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F411%2Fs402
+[/us/pl/110/411/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F411%2FtIV
 [/us/stat/122/4330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4330
 [/us/pl/104/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330
 [/us/stat/110/4016]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F4016

@@ -17,7 +17,7 @@
 
     The Secretary of the Interior is authorized to make grants to the Navajo Nation to assist the tribe in the construction, maintenance, and operation of Diné College. Such college shall be designed and operated by the Navajo Nation to insure that the Navajo people and other qualified applicants have educational opportunities which are suited to their unique needs and interests.
 
-([Pub. L. 92–189, § 3][/us/pl/92/189/s3], Dec. 15, 1971, [85 Stat. 646][/us/stat/85/646]; [Pub. L. 110–315, title IX, § 946(b)][/us/pl/110/315/s946/b], Aug. 14, 2008, [122 Stat. 3468][/us/stat/122/3468].)
+([Pub. L. 92–189][/us/pl/92/189], § 3, Dec. 15, 1971, [85 Stat. 646][/us/stat/85/646]; [Pub. L. 110–315, title IX][/us/pl/110/315/tIX], § 946(b), Aug. 14, 2008, [122 Stat. 3468][/us/stat/122/3468].)
 
  __Codification__ 
 
@@ -34,9 +34,9 @@
 ----------
 ----------
 
-[/us/pl/92/189/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F189%2Fs3
+[/us/pl/92/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F189
 [/us/stat/85/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F646
-[/us/pl/110/315/s946/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs946%2Fb
+[/us/pl/110/315/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtIX
 [/us/stat/122/3468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3468
 [/us/act/1950-04-19/ch92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-04-19%2Fch92
 [/us/stat/64/44]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F44

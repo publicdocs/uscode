@@ -31,7 +31,7 @@
 
         Except as otherwise specifically provided in this subchapter, no provision contained in this subchapter shall alter any property right or obligation, any contractual right or obligation, or any obligation for taxes already levied.
 
-([Pub. L. 97–391, § 3][/us/pl/97/391/s3], Dec. 29, 1982, [96 Stat. 1960][/us/stat/96/1960]; [Pub. L. 100–139, § 5(b)][/us/pl/100/139/s5/b], Oct. 26, 1987, [101 Stat. 827][/us/stat/101/827].)
+([Pub. L. 97–391][/us/pl/97/391], § 3, Dec. 29, 1982, [96 Stat. 1960][/us/stat/96/1960]; [Pub. L. 100–139][/us/pl/100/139], § 5(b), Oct. 26, 1987, [101 Stat. 827][/us/stat/101/827].)
 
  __References in Text__ 
 
@@ -50,9 +50,9 @@
 
 [/us/usc/t25/s691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs691
 [/us/usc/t25/s691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs691
-[/us/pl/97/391/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F391%2Fs3
+[/us/pl/97/391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F391
 [/us/stat/96/1960]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1960
-[/us/pl/100/139/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F139%2Fs5%2Fb
+[/us/pl/100/139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F139
 [/us/stat/101/827]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F827
 [/us/act/1954-08-13/ch733]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-13%2Fch733
 [/us/stat/68/724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F724

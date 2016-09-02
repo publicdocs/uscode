@@ -59,7 +59,7 @@
 
             Nothing in paragraph (2) may be construed to limit the applicability of section 202(c) of the American Indian Trust Fund Management Reform Act 1 ([25 U.S.C. 4022(c)][/us/usc/t25/s4022/c]).
 
-([Pub. L. 105–387, § 5][/us/pl/105/387/s5], Nov. 13, 1998, [112 Stat. 3472][/us/stat/112/3472].)
+([Pub. L. 105–387][/us/pl/105/387], § 5, Nov. 13, 1998, [112 Stat. 3472][/us/stat/112/3472].)
 
  __References in Text__ 
 
@@ -84,7 +84,7 @@
 [/us/usc/t25/s4022/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs4022%2Fa
 [/us/usc/t25/s4023]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs4023
 [/us/usc/t25/s4022/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs4022%2Fc
-[/us/pl/105/387/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F387%2Fs5
+[/us/pl/105/387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F387
 [/us/stat/112/3472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3472
 [/us/pl/103/412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F412
 [/us/stat/108/4239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4239

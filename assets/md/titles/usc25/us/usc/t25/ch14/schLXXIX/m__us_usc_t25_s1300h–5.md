@@ -19,7 +19,7 @@
 
     (b) The Secretary may place such other land into trust for the benefit of the Band pursuant to the provisions of the Act of June 18, 1934 ([48 Stat. 84][/us/stat/48/84])  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “984)”. </sup></sup>  \[[25 U.S.C. 461][/us/usc/t25/s461] et seq.\], or any other Act: Provided, That any such land placed in trust which is located in Gogebic County, shall become part of the reservation.
 
-([Pub. L. 100–420, § 7][/us/pl/100/420/s7], Sept. 8, 1988, [102 Stat. 1579][/us/stat/102/1579].)
+([Pub. L. 100–420][/us/pl/100/420], § 7, Sept. 8, 1988, [102 Stat. 1579][/us/stat/102/1579].)
 
  __References in Text__ 
 
@@ -34,7 +34,7 @@
 
 [/us/stat/48/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F84
 [/us/usc/t25/s461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs461
-[/us/pl/100/420/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F420%2Fs7
+[/us/pl/100/420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F420
 [/us/stat/102/1579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1579
 [/us/usc/t25/s461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs461
 

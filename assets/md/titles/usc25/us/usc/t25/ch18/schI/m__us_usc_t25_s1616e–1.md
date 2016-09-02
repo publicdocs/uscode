@@ -45,7 +45,7 @@
 
         Out of amounts appropriated to carry out this subchapter for each of the fiscal years 1993 through 2000 not more than $5,000,000 may be used to carry out this section.
 
-([Pub. L. 94–437, title I, § 112A][/us/pl/94/437/s112A], as added [Pub. L. 102–573, title I, § 104(f)][/us/pl/102/573/s104/f], Oct. 29, 1992, [106 Stat. 4534][/us/stat/106/4534].)
+([Pub. L. 94–437, title I][/us/pl/94/437/tI], § 112A, as added [Pub. L. 102–573, title I][/us/pl/102/573/tI], § 104(f), Oct. 29, 1992, [106 Stat. 4534][/us/stat/106/4534].)
 
 ----------
 
@@ -57,8 +57,8 @@
 [/us/usc/t25/s1616e/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1616e%2Fa%2F1
 [/us/usc/t18/s1151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1151
 [/us/usc/t18/s1151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1151
-[/us/pl/94/437/s112A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437%2Fs112A
-[/us/pl/102/573/s104/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2Fs104%2Ff
+[/us/pl/94/437/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437%2FtI
+[/us/pl/102/573/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2FtI
 [/us/stat/106/4534]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4534
 
 

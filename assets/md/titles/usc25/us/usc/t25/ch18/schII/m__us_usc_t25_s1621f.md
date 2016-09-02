@@ -37,7 +37,7 @@
 
         The Service may not offset or limit any amount obligated to any Service Unit or entity receiving funding from the Service because of the receipt of reimbursements under subsection (a).
 
-([Pub. L. 94–437, title II, § 207][/us/pl/94/437/s207], as added [Pub. L. 100–713, title II, § 204][/us/pl/100/713/s204], Nov. 23, 1988, [102 Stat. 4812][/us/stat/102/4812]; amended [Pub. L. 102–573, title VII, § 701(c)(1)][/us/pl/102/573/s701/c/1], Oct. 29, 1992, [106 Stat. 4572][/us/stat/106/4572]; [Pub. L. 111–148, title X, § 10221(a)][/us/pl/111/148/s10221/a], Mar. 23, 2010, [124 Stat. 935][/us/stat/124/935].)
+([Pub. L. 94–437, title II][/us/pl/94/437/tII], § 207, as added [Pub. L. 100–713, title II][/us/pl/100/713/tII], § 204, Nov. 23, 1988, [102 Stat. 4812][/us/stat/102/4812]; amended [Pub. L. 102–573, title VII][/us/pl/102/573/tVII], § 701(c)(1), Oct. 29, 1992, [106 Stat. 4572][/us/stat/106/4572]; [Pub. L. 111–148, title X][/us/pl/111/148/tX], § 10221(a), Mar. 23, 2010, [124 Stat. 935][/us/stat/124/935].)
 
  __References in Text__ 
 
@@ -70,12 +70,12 @@
 [/us/usc/t25/s1680c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1680c
 [/us/pl/87/693]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F693
 [/us/usc/t42/s2651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2651
-[/us/pl/94/437/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437%2Fs207
-[/us/pl/100/713/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F713%2Fs204
+[/us/pl/94/437/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437%2FtII
+[/us/pl/100/713/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F713%2FtII
 [/us/stat/102/4812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4812
-[/us/pl/102/573/s701/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2Fs701%2Fc%2F1
+[/us/pl/102/573/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2FtVII
 [/us/stat/106/4572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4572
-[/us/pl/111/148/s10221/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10221%2Fa
+[/us/pl/111/148/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtX
 [/us/stat/124/935]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F935
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620

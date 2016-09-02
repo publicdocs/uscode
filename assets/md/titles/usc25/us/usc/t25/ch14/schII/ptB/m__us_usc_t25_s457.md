@@ -17,11 +17,11 @@
 
     Any school district educating Indian students who are members of recognized Indian tribes, who do not normally reside in the State in which such school district is located, and who are residing in Federal boarding facilities for the purposes of attending public schools within such district may, in the discretion of the Secretary of the Interior, be reimbursed by him for the full per capita costs of educating such Indian students.
 
-([Apr. 16, 1934, ch. 147, § 6][/us/act/1934-04-16/ch147/s6], as added [Pub. L. 93–638, title II, § 202][/us/pl/93/638/s202], Jan. 4, 1975, [88 Stat. 2214][/us/stat/88/2214].)
+([Apr. 16, 1934, ch. 147][/us/act/1934-04-16/ch147], § 6, as added [Pub. L. 93–638, title II][/us/pl/93/638/tII], § 202, Jan. 4, 1975, [88 Stat. 2214][/us/stat/88/2214].)
 
  __Indian Educational Report; Submission to Congressional Committees; Time of Submission; Scope and Content of Report__ 
 
-    [Pub. L. 93–638, title II, § 203][/us/pl/93/638/s203], Jan. 4, 1975, [88 Stat. 2214][/us/stat/88/2214], provided for a report to be prepared and submitted not later than Oct. 1, 1975, by the Secretary of the Interior to the Committees on Interior and Insular Affairs of the United States Senate and the House of Representatives after conferring with persons competent in the field of Indian education and consulting with the Secretary of Health, Education, and Welfare. The report was to include analysis of the act of Apr. 16, 1934, and a specific program to meet the special educational needs of Indian children who attend public schools.
+    [Pub. L. 93–638, title II][/us/pl/93/638/tII], § 203, Jan. 4, 1975, [88 Stat. 2214][/us/stat/88/2214], provided for a report to be prepared and submitted not later than Oct. 1, 1975, by the Secretary of the Interior to the Committees on Interior and Insular Affairs of the United States Senate and the House of Representatives after conferring with persons competent in the field of Indian education and consulting with the Secretary of Health, Education, and Welfare. The report was to include analysis of the act of Apr. 16, 1934, and a specific program to meet the special educational needs of Indian children who attend public schools.
 
 ----------
 
@@ -30,10 +30,10 @@
 ----------
 ----------
 
-[/us/act/1934-04-16/ch147/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-04-16%2Fch147%2Fs6
-[/us/pl/93/638/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638%2Fs202
+[/us/act/1934-04-16/ch147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-04-16%2Fch147
+[/us/pl/93/638/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638%2FtII
 [/us/stat/88/2214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2214
-[/us/pl/93/638/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638%2Fs203
+[/us/pl/93/638/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638%2FtII
 [/us/stat/88/2214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2214
 
 

@@ -17,7 +17,7 @@
 
     The funds now on deposit in the United Pueblos Agency in “special deposits” which have accrued from issuance of livestock-crossing permits and fees collected for grazing permits on the lands which have been under the jurisdiction of the Department of the Interior shall be expended or disbursed for the benefit of the Indians under such rules and regulations as the Secretary of the Interior may prescribe.
 
-([Aug. 13, 1949, ch. 425, § 3][/us/act/1949-08-13/ch425/s3], [63 Stat. 605][/us/stat/63/605].)
+([Aug. 13, 1949, ch. 425][/us/act/1949-08-13/ch425], § 3, [63 Stat. 605][/us/stat/63/605].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1949-08-13/ch425/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-08-13%2Fch425%2Fs3
+[/us/act/1949-08-13/ch425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-08-13%2Fch425
 [/us/stat/63/605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F605
 
 

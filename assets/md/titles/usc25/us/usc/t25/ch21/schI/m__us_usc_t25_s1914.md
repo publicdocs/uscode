@@ -17,7 +17,7 @@
 
     Any Indian child who is the subject of any action for foster care placement or termination of parental rights under State law, any parent or Indian custodian from whose custody such child was removed, and the Indian child’s tribe may petition any court of competent jurisdiction to invalidate such action upon a showing that such action violated any provision of sections 1911, 1912, and 1913 of this title.
 
-([Pub. L. 95–608, title I, § 104][/us/pl/95/608/s104], Nov. 8, 1978, [92 Stat. 3072][/us/stat/92/3072].)
+([Pub. L. 95–608, title I][/us/pl/95/608/tI], § 104, Nov. 8, 1978, [92 Stat. 3072][/us/stat/92/3072].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/95/608/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F608%2Fs104
+[/us/pl/95/608/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F608%2FtI
 [/us/stat/92/3072]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3072
 
 

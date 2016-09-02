@@ -27,7 +27,7 @@
 
         No entity may conduct any gaming activity (within the meaning of section 4 of the Indian Gaming Regulatory Act ([25 U.S.C. 2703][/us/usc/t25/s2703])) pursuant to a claim of inherent authority or any Federal law (including the Indian Gaming Regulatory Act ([25 U.S.C. 2701][/us/usc/t25/s2701] et seq.) and any regulations promulgated by the Secretary of the Interior or the National Indian Gaming Commission pursuant to that Act) on any land that is leased with an option to renew the lease in accordance with this section.
 
-([Pub. L. 110–228, § 1][/us/pl/110/228/s1], May 8, 2008, [122 Stat. 753][/us/stat/122/753].)
+([Pub. L. 110–228][/us/pl/110/228], § 1, May 8, 2008, [122 Stat. 753][/us/stat/122/753].)
 
  __References in Text__ 
 
@@ -47,7 +47,7 @@
 [/us/usc/t25/s477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs477
 [/us/usc/t25/s2703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs2703
 [/us/usc/t25/s2701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs2701
-[/us/pl/110/228/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F228%2Fs1
+[/us/pl/110/228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F228
 [/us/stat/122/753]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F753
 [/us/pl/100/497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F497
 [/us/stat/102/2467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2467

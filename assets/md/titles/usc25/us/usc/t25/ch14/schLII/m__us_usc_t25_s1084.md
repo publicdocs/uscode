@@ -17,7 +17,7 @@
 
     When preparing a Hoh tribal base roll, the Secretary shall include only the names of applicants who demonstrate that their names or the names of lineal ancestors from whom they are descended appear on the Census of the Hoh Indians of Neah Bay Agency, Washington, June 30, 1894. Upon approval by the Secretary, such roll shall henceforth serve as the Hoh base roll for all purposes.
 
-([Pub. L. 89–655, § 4][/us/pl/89/655/s4], Oct. 14, 1966, [80 Stat. 905][/us/stat/80/905].)
+([Pub. L. 89–655][/us/pl/89/655], § 4, Oct. 14, 1966, [80 Stat. 905][/us/stat/80/905].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/89/655/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F655%2Fs4
+[/us/pl/89/655]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F655
 [/us/stat/80/905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F905
 
 

@@ -37,7 +37,7 @@
 
         (2) The Band may modify such quarter Chippewa blood quantum requirement and base roll if such modifications are adopted in the tribal election as prescribed under paragraph (a) of [section 1300h–4 of this title][/us/usc/t25/s1300h–4] or in a referendum by a majority of the voters and approved by the Secretary of the Interior. The Secretary shall approve such new membership requirements once adopted by the tribal voters unless he finds that the proposed amendment is contrary to Federal law.
 
-([Pub. L. 100–420, § 5][/us/pl/100/420/s5], Sept. 8, 1988, [102 Stat. 1578][/us/stat/102/1578]; [Pub. L. 104–109, § 18][/us/pl/104/109/s18], Feb. 12, 1996, [110 Stat. 766][/us/stat/110/766].)
+([Pub. L. 100–420][/us/pl/100/420], § 5, Sept. 8, 1988, [102 Stat. 1578][/us/stat/102/1578]; [Pub. L. 104–109][/us/pl/104/109], § 18, Feb. 12, 1996, [110 Stat. 766][/us/stat/110/766].)
 
  __Amendments__ 
 
@@ -52,9 +52,9 @@
 
 [/us/usc/t25/s1300h–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1300h%E2%80%934
 [/us/usc/t25/s1300h–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1300h%E2%80%934
-[/us/pl/100/420/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F420%2Fs5
+[/us/pl/100/420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F420
 [/us/stat/102/1578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1578
-[/us/pl/104/109/s18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F109%2Fs18
+[/us/pl/104/109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F109
 [/us/stat/110/766]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F766
 [/us/pl/104/109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F109
 

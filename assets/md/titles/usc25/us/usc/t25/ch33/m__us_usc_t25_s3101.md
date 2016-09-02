@@ -39,17 +39,17 @@
 
     (6) there is a serious threat to Indian forest lands arising from trespass and unauthorized harvesting of Indian forest land resources.
 
-([Pub. L. 101–630, title III, § 302][/us/pl/101/630/s302], Nov. 28, 1990, [104 Stat. 4532][/us/stat/104/4532].)
+([Pub. L. 101–630, title III][/us/pl/101/630/tIII], § 302, Nov. 28, 1990, [104 Stat. 4532][/us/stat/104/4532].)
 
  __Short Title of 2004 Amendment__ 
 
-[Pub. L. 108–278, § 1][/us/pl/108/278/s1], July 22, 2004, [118 Stat. 868][/us/stat/118/868], provided that: 
+[Pub. L. 108–278][/us/pl/108/278], § 1, July 22, 2004, [118 Stat. 868][/us/stat/118/868], provided that: 
 
 > “This Act \[enacting [section 3115a of this title][/us/usc/t25/s3115a]\] may be cited as the ‘Tribal Forest Protection Act of 2004’.”
 
  __Short Title__ 
 
-[Pub. L. 101–630, title III, § 301][/us/pl/101/630/s301], Nov. 28, 1990, [104 Stat. 4532][/us/stat/104/4532], provided that: 
+[Pub. L. 101–630, title III][/us/pl/101/630/tIII], § 301, Nov. 28, 1990, [104 Stat. 4532][/us/stat/104/4532], provided that: 
 
 > “This title \[enacting this chapter\] may be cited as the ‘National Indian Forest Resources Management Act’.”
 
@@ -60,12 +60,12 @@
 ----------
 ----------
 
-[/us/pl/101/630/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F630%2Fs302
+[/us/pl/101/630/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F630%2FtIII
 [/us/stat/104/4532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4532
-[/us/pl/108/278/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F278%2Fs1
+[/us/pl/108/278]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F278
 [/us/stat/118/868]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F868
 [/us/usc/t25/s3115a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs3115a
-[/us/pl/101/630/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F630%2Fs301
+[/us/pl/101/630/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F630%2FtIII
 [/us/stat/104/4532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4532
 
 

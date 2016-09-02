@@ -49,7 +49,7 @@
 
         Except as otherwise specifically provided in this subchapter, no provision contained in this subchapter shall alter any property right or obligation, any contractual right or obligation, or any obligation for taxes already levied.
 
-([Pub. L. 98–165, § 4][/us/pl/98/165/s4], Nov. 22, 1983, [97 Stat. 1064][/us/stat/97/1064].)
+([Pub. L. 98–165][/us/pl/98/165], § 4, Nov. 22, 1983, [97 Stat. 1064][/us/stat/97/1064].)
 
  __References in Text__ 
 
@@ -66,7 +66,7 @@
 [/us/usc/t25/s477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs477
 [/us/usc/t25/s691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs691
 [/us/usc/t25/s713f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs713f
-[/us/pl/98/165/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F165%2Fs4
+[/us/pl/98/165]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F165
 [/us/stat/97/1064]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1064
 [/us/act/1954-08-13/ch733]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-13%2Fch733
 [/us/stat/68/724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F724

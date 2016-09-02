@@ -101,7 +101,7 @@
 
     (18) “Service” means the Indian Health Service of the Department of Health and Human Services.
 
-([Pub. L. 101–630, title IV, § 403][/us/pl/101/630/s403], Nov. 28, 1990, [104 Stat. 4545][/us/stat/104/4545].)
+([Pub. L. 101–630, title IV][/us/pl/101/630/tIV], § 403, Nov. 28, 1990, [104 Stat. 4545][/us/stat/104/4545].)
 
  __References in Text__ 
 
@@ -120,7 +120,7 @@
 [/us/usc/t18/s1151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1151
 [/us/usc/t43/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1601
 [/us/usc/t25/s450b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450b
-[/us/pl/101/630/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F630%2Fs403
+[/us/pl/101/630/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F630%2FtIV
 [/us/stat/104/4545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4545
 [/us/pl/101/630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F630
 [/us/stat/104/4544]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4544

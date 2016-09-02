@@ -17,7 +17,7 @@
 
     Whenever, in his judgment, it is practicable and to the best interests of the natives the Secretary shall appoint natives to the supervisory and other positions in the administration of such reindeer industry or business.
 
-([Sept. 1, 1937, ch. 897, § 13][/us/act/1937-09-01/ch897/s13], [50 Stat. 902][/us/stat/50/902].)
+([Sept. 1, 1937, ch. 897][/us/act/1937-09-01/ch897], § 13, [50 Stat. 902][/us/stat/50/902].)
 
  __Codification__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1937-09-01/ch897/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-09-01%2Fch897%2Fs13
+[/us/act/1937-09-01/ch897]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-09-01%2Fch897
 [/us/stat/50/902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F50%2F902
 
 

@@ -41,7 +41,7 @@
 
     (4) upon finding that all necessary conditions precedent to the transfer of Florida lands from the State of Florida to the United States have been or will be met so that the Agreement has been or will be fulfilled but for the execution of that land transfer and related land transfers, receive and accept in trust for the use and benefit of the Miccosukee Tribe ownership of all land identified in the Settlement Agreement for transfer to the United States.
 
-([Pub. L. 105–83, title VII, § 705][/us/pl/105/83/s705], Nov. 14, 1997, [111 Stat. 1625][/us/stat/111/1625].)
+([Pub. L. 105–83, title VII][/us/pl/105/83/tVII], § 705, Nov. 14, 1997, [111 Stat. 1625][/us/stat/111/1625].)
 
 ----------
 
@@ -50,7 +50,7 @@
 ----------
 ----------
 
-[/us/pl/105/83/s705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F83%2Fs705
+[/us/pl/105/83/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F83%2FtVII
 [/us/stat/111/1625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1625
 
 

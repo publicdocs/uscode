@@ -27,7 +27,7 @@
 
     (5) the term “final membership roll” means the final membership roll of the tribe published on April 15, 1955, on pages 2499 through 2503 of volume 20 of the Federal Register and on April 14, 1956, on pages 2453 through 2456 of volume 21 of the Federal Register.
 
-([Pub. L. 96–227, § 2][/us/pl/96/227/s2], Apr. 3, 1980, [94 Stat. 317][/us/stat/94/317]; [Pub. L. 109–126, § 4][/us/pl/109/126/s4], Dec. 7, 2005, [119 Stat. 2547][/us/stat/119/2547].)
+([Pub. L. 96–227][/us/pl/96/227], § 2, Apr. 3, 1980, [94 Stat. 317][/us/stat/94/317]; [Pub. L. 109–126][/us/pl/109/126], § 4, Dec. 7, 2005, [119 Stat. 2547][/us/stat/119/2547].)
 
  __Amendments__ 
 
@@ -35,7 +35,7 @@
 
  __Short Title__ 
 
-[Pub. L. 96–227, § 1][/us/pl/96/227/s1], Apr. 3, 1980, [94 Stat. 317][/us/stat/94/317], provided: 
+[Pub. L. 96–227][/us/pl/96/227], § 1, Apr. 3, 1980, [94 Stat. 317][/us/stat/94/317], provided: 
 
 > “That this act \[enacting this subchapter\] may be cited as the ‘Paiute Indian Tribe of Utah Restoration Act’.”
 
@@ -48,12 +48,12 @@
 
 [/us/usc/t25/s764]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs764
 [/us/usc/t25/s763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs763
-[/us/pl/96/227/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F227%2Fs2
+[/us/pl/96/227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F227
 [/us/stat/94/317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F317
-[/us/pl/109/126/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F126%2Fs4
+[/us/pl/109/126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F126
 [/us/stat/119/2547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2547
 [/us/pl/109/126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F126
-[/us/pl/96/227/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F227%2Fs1
+[/us/pl/96/227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F227
 [/us/stat/94/317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F317
 
 

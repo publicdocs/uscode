@@ -33,7 +33,7 @@
 
         There is authorized to be appropriated to the Secretary the amount of $25,500,000 for the Federal share of the costs associated with the Blair project, which shall be carried out in accordance with document 6 of the Technical Documents. For the purpose of this subsection, the Secretary shall transfer such amount to the Department of Transportation of the State of Washington. Such amount may only be used by the Department of Transportation of the State of Washington to carry out the Blair project in accordance with document 6 of the Technical Documents. Operation and maintenance of the Blair Waterway channel shall remain the responsibility of the Secretary of the Army, acting through the Chief of Engineers.
 
-([Pub. L. 101–41, § 8][/us/pl/101/41/s8], June 21, 1989, [103 Stat. 87][/us/stat/103/87].)
+([Pub. L. 101–41][/us/pl/101/41], § 8, June 21, 1989, [103 Stat. 87][/us/stat/103/87].)
 
 ----------
 
@@ -43,7 +43,7 @@
 ----------
 
 [/us/stat/11/1132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F11%2F1132
-[/us/pl/101/41/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F41%2Fs8
+[/us/pl/101/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F41
 [/us/stat/103/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F87
 
 

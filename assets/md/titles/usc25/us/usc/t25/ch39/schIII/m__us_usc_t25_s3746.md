@@ -17,7 +17,7 @@
 
     Nothing in this chapter shall be construed to affect, modify, diminish, or otherwise impair the sovereign immunity from suit enjoyed by Indian tribes.
 
-([Pub. L. 103–177, title III, § 306][/us/pl/103/177/s306], as added [Pub. L. 103–435, § 12(b)][/us/pl/103/435/s12/b], Nov. 2, 1994, [108 Stat. 4572][/us/stat/108/4572].)
+([Pub. L. 103–177, title III][/us/pl/103/177/tIII], § 306, as added [Pub. L. 103–435][/us/pl/103/435], § 12(b), Nov. 2, 1994, [108 Stat. 4572][/us/stat/108/4572].)
 
 ----------
 
@@ -26,8 +26,8 @@
 ----------
 ----------
 
-[/us/pl/103/177/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F177%2Fs306
-[/us/pl/103/435/s12/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F435%2Fs12%2Fb
+[/us/pl/103/177/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F177%2FtIII
+[/us/pl/103/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F435
 [/us/stat/108/4572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4572
 
 

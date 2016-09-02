@@ -17,7 +17,7 @@
 
     Notwithstanding any other provision of existing law, the tribal funds now on deposit or hereafter placed to the credit of the Navajo Tribe of Indians in the United States Treasury shall be available for such purposes as may be designated by the Navajo Tribal Council and approved by the Secretary of the Interior.
 
-([Apr. 19, 1950, ch. 92, § 7][/us/act/1950-04-19/ch92/s7], [64 Stat. 46][/us/stat/64/46].)
+([Apr. 19, 1950, ch. 92][/us/act/1950-04-19/ch92], § 7, [64 Stat. 46][/us/stat/64/46].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1950-04-19/ch92/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-04-19%2Fch92%2Fs7
+[/us/act/1950-04-19/ch92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-04-19%2Fch92
 [/us/stat/64/46]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F46
 
 

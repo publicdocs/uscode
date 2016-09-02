@@ -129,7 +129,7 @@
 
         The authority of the Secretary under this section to make new guarantees for notes and obligations shall terminate on October 1, 2013.
 
-([Pub. L. 104–330, title VI, § 606][/us/pl/104/330/s606], as added [Pub. L. 110–411, title VI, § 601(a)][/us/pl/110/411/s601/a], Oct. 14, 2008, [122 Stat. 4331][/us/stat/122/4331].)
+([Pub. L. 104–330, title VI][/us/pl/104/330/tVI], § 606, as added [Pub. L. 110–411, title VI][/us/pl/110/411/tVI], § 601(a), Oct. 14, 2008, [122 Stat. 4331][/us/stat/122/4331].)
 
  __Codification__ 
 
@@ -144,8 +144,8 @@
 
 [/us/usc/t42/s5308/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5308%2Fa
 [/us/usc/t2/s661a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs661a
-[/us/pl/104/330/s606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330%2Fs606
-[/us/pl/110/411/s601/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F411%2Fs601%2Fa
+[/us/pl/104/330/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330%2FtVI
+[/us/pl/110/411/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F411%2FtVI
 [/us/stat/122/4331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4331
 [/us/pl/104/330/s606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330%2Fs606
 [/us/usc/t25/s4191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs4191

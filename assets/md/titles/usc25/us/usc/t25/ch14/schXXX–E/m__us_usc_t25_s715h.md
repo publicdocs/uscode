@@ -31,7 +31,7 @@
 
         The United States shall not be held liable to any party (including the Tribe or any agent or instrumentality of the Tribe) for any term of, or any loss resulting from the term of any transfer, lease, encumbrance, or conveyance of land made pursuant to this section unless the United States or an agent or instrumentality of the United States is a party to the transaction or the United States would be liable pursuant to any other provision of law. This subsection shall not apply to land transferred or conveyed by the Tribe to the United States to be held in trust for the benefit of the Tribe.
 
-([Pub. L. 110–75, § 1][/us/pl/110/75/s1], Aug. 13, 2007, [121 Stat. 724][/us/stat/121/724].)
+([Pub. L. 110–75][/us/pl/110/75], § 1, Aug. 13, 2007, [121 Stat. 724][/us/stat/121/724].)
 
  __Codification__ 
 
@@ -44,7 +44,7 @@
 ----------
 ----------
 
-[/us/pl/110/75/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F75%2Fs1
+[/us/pl/110/75]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F75
 [/us/stat/121/724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F724
 
 

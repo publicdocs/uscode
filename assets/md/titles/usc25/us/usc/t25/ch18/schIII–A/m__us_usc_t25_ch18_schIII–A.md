@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    This subchapter was in the original title IV of [Pub. L. 94–437][/us/pl/94/437], as amended. Prior to amendment by [Pub. L. 102–573, title IV][/us/pl/102/573] enacted [section 1622 of this title][/us/usc/t25/s1622] and sections 1395qq and 1396j of Title 42, The Public Health and Welfare, amended sections 1395f, 1395n, and 1396d of Title 42, and enacted provisions set out as notes under [section 1671 of this title][/us/usc/t25/s1671] and sections 1395qq and 1396j of Title 42.
+    This subchapter was in the original title IV of [Pub. L. 94–437][/us/pl/94/437], as amended. Prior to amendment by [Pub. L. 102–573, title IV][/us/pl/102/573/tIV] enacted [section 1622 of this title][/us/usc/t25/s1622] and sections 1395qq and 1396j of Title 42, The Public Health and Welfare, amended sections 1395f, 1395n, and 1396d of Title 42, and enacted provisions set out as notes under [section 1671 of this title][/us/usc/t25/s1671] and sections 1395qq and 1396j of Title 42.
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/pl/94/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437
-[/us/pl/102/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573
+[/us/pl/102/573/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2FtIV
 [/us/usc/t25/s1622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1622
 [/us/usc/t25/s1671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1671
 

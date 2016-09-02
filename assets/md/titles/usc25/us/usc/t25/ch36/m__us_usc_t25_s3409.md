@@ -17,7 +17,7 @@
 
     A tribal government participating in a demonstration program under this chapter is authorized to utilize funds available under such plan to place participants in training positions with private employers and pay such participants a training allowance or wage for a period not to exceed 12 months, if the tribal government obtains a written agreement from the private employer to provide on-the-job training to such participants and, upon satisfactory completion of the training period, to guarantee permanent employment to such participants for a minimum of 12 months.
 
-([Pub. L. 102–477, § 10][/us/pl/102/477/s10], Oct. 23, 1992, [106 Stat. 2304][/us/stat/106/2304].)
+([Pub. L. 102–477][/us/pl/102/477], § 10, Oct. 23, 1992, [106 Stat. 2304][/us/stat/106/2304].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/102/477/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F477%2Fs10
+[/us/pl/102/477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F477
 [/us/stat/106/2304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2304
 
 

@@ -17,7 +17,7 @@
 
     The Secretary of the Interior is authorized to withdraw as much as may be necessary from the fund on deposit in the Treasury of the United States arising from the proceeds of the sale of timber and lumber within the Red Lake Reservation in Minnesota, according to the provisions of the Act of May 18, 1916 ([39 Stat. 137][/us/stat/39/137]), to the credit of the Red Lake Indians in Minnesota, and to pay therefrom $100 to each member of the Red Lake Band of Chippewa Indians of Minnesota who is living on June 19, 1952. Such payment shall be made under such rules and regulations as the Secretary of the Interior may prescribe: Provided, That such payment shall be made first from any funds on deposit in the Treasury of the United States to the credit of the Red Lake Band of the Chippewa Indians, of Minnesota, drawing interest at the rate of 5 per centum and thereafter from funds drawing 4 per centum.
 
-([June 19, 1952, ch. 445, § 1][/us/act/1952-06-19/ch445/s1], [66 Stat. 139][/us/stat/66/139].)
+([June 19, 1952, ch. 445][/us/act/1952-06-19/ch445], § 1, [66 Stat. 139][/us/stat/66/139].)
 
  __References in Text__ 
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/stat/39/137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F137
-[/us/act/1952-06-19/ch445/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-06-19%2Fch445%2Fs1
+[/us/act/1952-06-19/ch445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-06-19%2Fch445
 [/us/stat/66/139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F139
 [/us/act/1916-05-18/ch125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-05-18%2Fch125
 [/us/stat/39/123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F123

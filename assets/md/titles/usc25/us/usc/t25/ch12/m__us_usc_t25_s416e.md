@@ -17,7 +17,7 @@
 
     The Secretary of the Interior shall approve no lease pursuant to sections 416 to 416j of this title that contains any provision that will prevent or delay a termination of Federal trust responsibilities with respect to the land during the term of the lease.
 
-([Pub. L. 89–715, § 6][/us/pl/89/715/s6], Nov. 2, 1966, [80 Stat. 1113][/us/stat/80/1113].)
+([Pub. L. 89–715][/us/pl/89/715], § 6, Nov. 2, 1966, [80 Stat. 1113][/us/stat/80/1113].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/89/715/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F715%2Fs6
+[/us/pl/89/715]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F715
 [/us/stat/80/1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1113
 
 

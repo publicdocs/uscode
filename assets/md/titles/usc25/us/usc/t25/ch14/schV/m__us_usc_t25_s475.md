@@ -17,7 +17,7 @@
 
     Nothing in this Act shall be construed to impair or prejudice any claim or suit of any Indian tribe against the United States. It is declared to be the intent of Congress that no expenditures for the benefit of Indians made out of appropriations authorized by said sections shall be considered as offsets in any suit brought to recover upon any claim of such Indians against the United States.
 
-([June 18, 1934, ch. 576, § 15][/us/act/1934-06-18/ch576/s15], [48 Stat. 987][/us/stat/48/987].)
+([June 18, 1934, ch. 576][/us/act/1934-06-18/ch576], § 15, [48 Stat. 987][/us/stat/48/987].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1934-06-18/ch576/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-18%2Fch576%2Fs15
+[/us/act/1934-06-18/ch576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-18%2Fch576
 [/us/stat/48/987]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F987
 [/us/usc/t25/s461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs461
 

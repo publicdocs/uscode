@@ -27,7 +27,7 @@
 
         When a person who is prohibited by subsection (a) from acquiring any interest by devise or inheritance is a surviving spouse of the decedent, a life estate in one-half of the interest acquired by the Yakima Tribes shall, on the request of such spouse, be reserved for that spouse and the value of such life estate so reserved shall be reflected in the Secretary’s appraisal under subsection (a).
 
-([Aug. 9, 1946, ch. 933, § 7][/us/act/1946-08-09/ch933/s7], [60 Stat. 969][/us/stat/60/969]; [Pub. L. 91–627, § 1][/us/pl/91/627/s1], Dec. 31, 1970, [84 Stat. 1874][/us/stat/84/1874].)
+([Aug. 9, 1946, ch. 933][/us/act/1946-08-09/ch933], § 7, [60 Stat. 969][/us/stat/60/969]; [Pub. L. 91–627][/us/pl/91/627], § 1, Dec. 31, 1970, [84 Stat. 1874][/us/stat/84/1874].)
 
  __Amendments__ 
 
@@ -35,7 +35,7 @@
 
  __Effective Date of 1970 Amendment__ 
 
-[Pub. L. 91–627, § 2][/us/pl/91/627/s2], Dec. 31, 1970, [84 Stat. 1874][/us/stat/84/1874], provided that: 
+[Pub. L. 91–627][/us/pl/91/627], § 2, Dec. 31, 1970, [84 Stat. 1874][/us/stat/84/1874], provided that: 
 
 > “The provisions of [section 7 of the Act of August 9, 1946][/us/act/1946-08-09/s7], as amended by this Act \[this section\], shall apply to all estates pending before the Examiner of Inheritance on the date of this Act \[Dec. 31, 1970\], and to all future estates, but shall not apply to any estate heretofore closed.”
 
@@ -47,12 +47,12 @@
 ----------
 
 [/us/stat/12/1951]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F12%2F1951
-[/us/act/1946-08-09/ch933/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-09%2Fch933%2Fs7
+[/us/act/1946-08-09/ch933]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-09%2Fch933
 [/us/stat/60/969]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F969
-[/us/pl/91/627/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F627%2Fs1
+[/us/pl/91/627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F627
 [/us/stat/84/1874]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1874
 [/us/pl/91/627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F627
-[/us/pl/91/627/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F627%2Fs2
+[/us/pl/91/627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F627
 [/us/stat/84/1874]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1874
 [/us/act/1946-08-09/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-09%2Fs7
 

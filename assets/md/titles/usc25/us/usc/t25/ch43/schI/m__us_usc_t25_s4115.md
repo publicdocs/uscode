@@ -75,7 +75,7 @@
 
         (4) may be corrected through the sole action of the recipient.
 
-([Pub. L. 104–330, title I, § 105][/us/pl/104/330/s105], Oct. 26, 1996, [110 Stat. 4028][/us/stat/110/4028]; [Pub. L. 106–568, title X, § 1003(d)][/us/pl/106/568/s1003/d], Dec. 27, 2000, [114 Stat. 2926][/us/stat/114/2926]; [Pub. L. 106–569, title V, § 503(d)][/us/pl/106/569/s503/d], Dec. 27, 2000, [114 Stat. 2962][/us/stat/114/2962].)
+([Pub. L. 104–330, title I][/us/pl/104/330/tI], § 105, Oct. 26, 1996, [110 Stat. 4028][/us/stat/110/4028]; [Pub. L. 106–568, title X][/us/pl/106/568/tX], § 1003(d), Dec. 27, 2000, [114 Stat. 2926][/us/stat/114/2926]; [Pub. L. 106–569, title V][/us/pl/106/569/tV], § 503(d), Dec. 27, 2000, [114 Stat. 2962][/us/stat/114/2962].)
 
  __References in Text__ 
 
@@ -102,11 +102,11 @@
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
-[/us/pl/104/330/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330%2Fs105
+[/us/pl/104/330/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330%2FtI
 [/us/stat/110/4028]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F4028
-[/us/pl/106/568/s1003/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F568%2Fs1003%2Fd
+[/us/pl/106/568/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F568%2FtX
 [/us/stat/114/2926]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2926
-[/us/pl/106/569/s503/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs503%2Fd
+[/us/pl/106/569/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2FtV
 [/us/stat/114/2962]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2962
 [/us/pl/91/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F190
 [/us/stat/83/852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F852

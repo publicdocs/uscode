@@ -67,11 +67,11 @@
 
         (3) to authorize the actions and appropriations necessary to implement the provisions of the Settlement Agreement and this subchapter.
 
-([Pub. L. 101–41, § 2][/us/pl/101/41/s2], June 21, 1989, [103 Stat. 83][/us/stat/103/83].)
+([Pub. L. 101–41][/us/pl/101/41], § 2, June 21, 1989, [103 Stat. 83][/us/stat/103/83].)
 
  __Short Title__ 
 
-[Pub. L. 101–41, § 1][/us/pl/101/41/s1], June 21, 1989, [103 Stat. 83][/us/stat/103/83], provided that: 
+[Pub. L. 101–41][/us/pl/101/41], § 1, June 21, 1989, [103 Stat. 83][/us/stat/103/83], provided that: 
 
 > “This Act \[enacting this subchapter\] may be cited as the ‘Puyallup Tribe of Indians Settlement Act of 1989’.”
 
@@ -82,9 +82,9 @@
 ----------
 ----------
 
-[/us/pl/101/41/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F41%2Fs2
+[/us/pl/101/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F41
 [/us/stat/103/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F83
-[/us/pl/101/41/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F41%2Fs1
+[/us/pl/101/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F41
 [/us/stat/103/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F83
 
 

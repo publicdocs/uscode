@@ -17,7 +17,7 @@
 
     The Commissioner of Indian Affairs, under the direction of the Secretary of the Interior, may employ superintendents of irrigation who shall be skilled irrigation engineers, not to exceed seven in number.
 
-([Apr. 4, 1910, ch. 140, § 1][/us/act/1910-04-04/ch140/s1], [36 Stat. 271][/us/stat/36/271].)
+([Apr. 4, 1910, ch. 140][/us/act/1910-04-04/ch140], § 1, [36 Stat. 271][/us/stat/36/271].)
 
  __Transfer of Functions__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1910-04-04/ch140/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1910-04-04%2Fch140%2Fs1
+[/us/act/1910-04-04/ch140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1910-04-04%2Fch140
 [/us/stat/36/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F271
 [/us/stat/64/1262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1262
 

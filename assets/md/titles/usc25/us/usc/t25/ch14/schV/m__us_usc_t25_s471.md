@@ -17,7 +17,7 @@
 
     There is authorized to be appropriated, out of any funds in the United States Treasury not otherwise appropriated, a sum not to exceed $250,000 annually, together with any unexpended balances of previous appropriations made pursuant to this section, for loans to Indians for the payment of tuition and other expenses in recognized vocational and trade schools: Provided, That not more than $50,000 of such sum shall be available for loans to Indian students in high schools and colleges. Such loans shall be reimbursable under rules established by the Commissioner of Indian Affairs.
 
-([June 18, 1934, ch. 576, § 11][/us/act/1934-06-18/ch576/s11], [48 Stat. 986][/us/stat/48/986].)
+([June 18, 1934, ch. 576][/us/act/1934-06-18/ch576], § 11, [48 Stat. 986][/us/stat/48/986].)
 
  __Transfer of Functions__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1934-06-18/ch576/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-18%2Fch576%2Fs11
+[/us/act/1934-06-18/ch576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-18%2Fch576
 [/us/stat/48/986]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F986
 [/us/stat/64/1262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1262
 

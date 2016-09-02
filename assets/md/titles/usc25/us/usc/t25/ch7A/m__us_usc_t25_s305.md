@@ -19,11 +19,11 @@
 
     The commissioner shall serve without compensation: Provided, That each Commissioner shall be paid per diem in lieu of subsistence and other expenses at a rate that does not exceed the rate authorized by [section 5703 of title 5][/us/usc/t5/s5703] to be paid to persons serving without compensation.
 
-([Aug. 27, 1935, ch. 748, § 1][/us/act/1935-08-27/ch748/s1], [49 Stat. 891][/us/stat/49/891]; [Pub. L. 87–23, § 1][/us/pl/87/23/s1], Apr. 24, 1961, [75 Stat. 45][/us/stat/75/45].)
+([Aug. 27, 1935, ch. 748][/us/act/1935-08-27/ch748], § 1, [49 Stat. 891][/us/stat/49/891]; [Pub. L. 87–23][/us/pl/87/23], § 1, Apr. 24, 1961, [75 Stat. 45][/us/stat/75/45].)
 
  __Codification__ 
 
-    “[Section 5703 of title 5][/us/usc/t5/s5703]” substituted in text for “the Act of August 2, 1946 ([60 Stat. 808][/us/stat/60/808]) as heretofore or hereafter amended ([5 U.S.C. 73b–2][/us/usc/t5/s73b–2])” on authority of [Pub. L. 89–554, § 7(b)][/us/pl/89/554/s7/b], Sept. 6, 1966, [80 Stat. 631][/us/stat/80/631], the first section of which enacted Title 5, Government Organization and Employees.
+    “[Section 5703 of title 5][/us/usc/t5/s5703]” substituted in text for “the Act of August 2, 1946 ([60 Stat. 808][/us/stat/60/808]) as heretofore or hereafter amended ([5 U.S.C. 73b–2][/us/usc/t5/s73b–2])” on authority of [Pub. L. 89–554][/us/pl/89/554], § 7(b), Sept. 6, 1966, [80 Stat. 631][/us/stat/80/631], the first section of which enacted Title 5, Government Organization and Employees.
 
  __Amendments__ 
 
@@ -31,19 +31,19 @@
 
  __Short Title of 2010 Amendment__ 
 
-[Pub. L. 111–211, title I, § 101(a)][/us/pl/111/211/s101/a], July 29, 2010, [124 Stat. 2258][/us/stat/124/2258], provided that: 
+[Pub. L. 111–211, title I][/us/pl/111/211/tI], § 101(a), July 29, 2010, [124 Stat. 2258][/us/stat/124/2258], provided that: 
 
 > “This title \[amending sections 305d and 305e of this title and [section 1159 of Title 18][/us/usc/t18/s1159], Crimes and Criminal Procedure\] may be cited as the ‘Indian Arts and Crafts Amendments Act of 2010’.”
 
  __Short Title of 2000 Amendment__ 
 
-[Pub. L. 106–497, § 1][/us/pl/106/497/s1], Nov. 9, 2000, [114 Stat. 2219][/us/stat/114/2219], provided that: 
+[Pub. L. 106–497][/us/pl/106/497], § 1, Nov. 9, 2000, [114 Stat. 2219][/us/stat/114/2219], provided that: 
 
 > “This Act \[amending [section 305e of this title][/us/usc/t25/s305e]\] may be cited as the ‘Indian Arts and Crafts Enforcement Act of 2000’.”
 
  __Short Title of 1990 Amendment__ 
 
-[Pub. L. 101–644, title I, § 101][/us/pl/101/644/s101], Nov. 29, 1990, [104 Stat. 4662][/us/stat/104/4662], provided that: 
+[Pub. L. 101–644, title I][/us/pl/101/644/tI], § 101, Nov. 29, 1990, [104 Stat. 4662][/us/stat/104/4662], provided that: 
 
 > “This title \[enacting sections 305d and 305e of this title, amending [section 305a of this title][/us/usc/t25/s305a] and sections 1158 and 1159 of Title 18, Crimes and Criminal Procedure, and enacting provisions set out as a note under [section 305e of this title][/us/usc/t25/s305e]\] may be cited as the ‘Indian Arts and Crafts Act of 1990’.”
 
@@ -59,23 +59,23 @@
 ----------
 
 [/us/usc/t5/s5703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5703
-[/us/act/1935-08-27/ch748/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-27%2Fch748%2Fs1
+[/us/act/1935-08-27/ch748]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-27%2Fch748
 [/us/stat/49/891]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F891
-[/us/pl/87/23/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F23%2Fs1
+[/us/pl/87/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F23
 [/us/stat/75/45]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F45
 [/us/usc/t5/s5703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5703
 [/us/stat/60/808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F808
 [/us/usc/t5/s73b–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs73b%E2%80%932
-[/us/pl/89/554/s7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs7%2Fb
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F631
 [/us/pl/87/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F23
-[/us/pl/111/211/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211%2Fs101%2Fa
+[/us/pl/111/211/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211%2FtI
 [/us/stat/124/2258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2258
 [/us/usc/t18/s1159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1159
-[/us/pl/106/497/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F497%2Fs1
+[/us/pl/106/497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F497
 [/us/stat/114/2219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2219
 [/us/usc/t25/s305e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs305e
-[/us/pl/101/644/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F644%2Fs101
+[/us/pl/101/644/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F644%2FtI
 [/us/stat/104/4662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4662
 [/us/usc/t25/s305a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs305a
 [/us/usc/t25/s305e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs305e

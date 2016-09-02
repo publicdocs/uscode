@@ -17,7 +17,7 @@
 
     There are authorized to be appropriated for fiscal year 1985, and for each fiscal year thereafter, an amount which does not exceed $5,500,000 for purposes of making interest payments authorized under this subchapter. Sums appropriated under this section, shall remain available until expended.
 
-([Pub. L. 93–262, title III, § 302][/us/pl/93/262/s302], Apr. 12, 1974, [88 Stat. 82][/us/stat/88/82]; [Pub. L. 98–449, § 8][/us/pl/98/449/s8], Oct. 4, 1984, [98 Stat. 1725][/us/stat/98/1725].)
+([Pub. L. 93–262, title III][/us/pl/93/262/tIII], § 302, Apr. 12, 1974, [88 Stat. 82][/us/stat/88/82]; [Pub. L. 98–449][/us/pl/98/449], § 8, Oct. 4, 1984, [98 Stat. 1725][/us/stat/98/1725].)
 
  __Amendments__ 
 
@@ -30,9 +30,9 @@
 ----------
 ----------
 
-[/us/pl/93/262/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F262%2Fs302
+[/us/pl/93/262/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F262%2FtIII
 [/us/stat/88/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F82
-[/us/pl/98/449/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F449%2Fs8
+[/us/pl/98/449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F449
 [/us/stat/98/1725]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1725
 [/us/pl/98/449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F449
 

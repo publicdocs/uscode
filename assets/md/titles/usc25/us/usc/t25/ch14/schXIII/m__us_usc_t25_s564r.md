@@ -17,7 +17,7 @@
 
     Effective on the date of the proclamation provided for in [section 564q of this title][/us/usc/t25/s564q], all powers of the Secretary or other officer of the United States to take, review, or approve any action under the constitution and bylaws of the tribe are terminated. Any powers conferred upon the tribe by such constitution which are inconsistent with the provisions of this subchapter are terminated. Such termination shall not affect the power of the tribe to take any action under its constitution and bylaws that is consistent with this subchapter without the participation of the Secretary or other officer of the United States.
 
-([Aug. 13, 1954, ch. 732, § 19][/us/act/1954-08-13/ch732/s19], [68 Stat. 722][/us/stat/68/722].)
+([Aug. 13, 1954, ch. 732][/us/act/1954-08-13/ch732], § 19, [68 Stat. 722][/us/stat/68/722].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t25/s564q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs564q
-[/us/act/1954-08-13/ch732/s19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-13%2Fch732%2Fs19
+[/us/act/1954-08-13/ch732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-13%2Fch732
 [/us/stat/68/722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F722
 
 

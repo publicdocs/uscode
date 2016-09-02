@@ -17,7 +17,7 @@
 
     The Secretary of the Interior is authorized to prescribe such rules and regulations as may be necessary to carry out the purposes of this chapter.
 
-([Pub. L. 93–262, title IV, § 404][/us/pl/93/262/s404], Apr. 12, 1974, [88 Stat. 83][/us/stat/88/83].)
+([Pub. L. 93–262, title IV][/us/pl/93/262/tIV], § 404, Apr. 12, 1974, [88 Stat. 83][/us/stat/88/83].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/93/262/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F262%2Fs404
+[/us/pl/93/262/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F262%2FtIV
 [/us/stat/88/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F83
 
 

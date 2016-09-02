@@ -17,7 +17,7 @@
 
     For the purpose of carrying into effect the land-purchase provision of sections 463d to 463g of this title, the Secretary of the Interior is authorized to use so much as may be necessary of any funds heretofore or hereafter appropriated pursuant to [section 465 of this title][/us/usc/t25/s465].
 
-([Aug. 10, 1939, ch. 662, § 4][/us/act/1939-08-10/ch662/s4], [53 Stat. 1351][/us/stat/53/1351].)
+([Aug. 10, 1939, ch. 662][/us/act/1939-08-10/ch662], § 4, [53 Stat. 1351][/us/stat/53/1351].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t25/s465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs465
-[/us/act/1939-08-10/ch662/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-08-10%2Fch662%2Fs4
+[/us/act/1939-08-10/ch662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-08-10%2Fch662
 [/us/stat/53/1351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F1351
 
 

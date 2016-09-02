@@ -165,7 +165,7 @@
 
         (3) any other alternatives as the Secretary, in coordination with the Attorney General and in consultation with Indian tribes, determines to be necessary.
 
-([Pub. L. 101–379, § 3][/us/pl/101/379/s3], Aug. 18, 1990, [104 Stat. 473][/us/stat/104/473]; [Pub. L. 111–211, title II][/us/pl/111/211], §§ 211(b), 231(a), 262, July 29, 2010, [124 Stat. 2264][/us/stat/124/2264], 2272, 2299.)
+([Pub. L. 101–379][/us/pl/101/379], § 3, Aug. 18, 1990, [104 Stat. 473][/us/stat/104/473]; [Pub. L. 111–211, title II][/us/pl/111/211/tII], §§ 211(b), 231(a), 262, July 29, 2010, [124 Stat. 2264][/us/stat/124/2264], 2272, 2299.)
 
  __References in Text__ 
 
@@ -173,29 +173,29 @@
 
  __Amendments__ 
 
-    2010—Subsec. (b). [Pub. L. 111–211, § 211(b)(1)][/us/pl/111/211/s211/b/1], inserted heading and substituted “There is established in the Bureau an office, to be known as the ‘Office of Justice Services’, that” for “There is hereby established within the Bureau a Division of Law Enforcement Services which” in introductory provisions.
+    2010—Subsec. (b). [Pub. L. 111–211][/us/pl/111/211], § 211(b)(1), inserted heading and substituted “There is established in the Bureau an office, to be known as the ‘Office of Justice Services’, that” for “There is hereby established within the Bureau a Division of Law Enforcement Services which” in introductory provisions.
 
-    Subsec. (c). [Pub. L. 111–211, § 211(b)(2)(A)][/us/pl/111/211/s211/b/2/A], substituted “Office of Justice Services” for “Division of Law Enforcement Services” in introductory provisions.
+    Subsec. (c). [Pub. L. 111–211][/us/pl/111/211], § 211(b)(2)(A), substituted “Office of Justice Services” for “Division of Law Enforcement Services” in introductory provisions.
 
-    Subsec. (c)(9). [Pub. L. 111–211, § 262][/us/pl/111/211/s262], inserted before semicolon “, including training to properly interview victims of domestic and sexual violence and to collect, preserve, and present evidence to Federal and tribal prosecutors to increase the conviction rate for domestic and sexual violence offenses for purposes of addressing and preventing domestic and sexual violent offenses”.
+    Subsec. (c)(9). [Pub. L. 111–211][/us/pl/111/211], § 262, inserted before semicolon “, including training to properly interview victims of domestic and sexual violence and to collect, preserve, and present evidence to Federal and tribal prosecutors to increase the conviction rate for domestic and sexual violence offenses for purposes of addressing and preventing domestic and sexual violent offenses”.
 
-    Subsec. (c)(10) to (18). [Pub. L. 111–211, § 211(b)(2)(B)][/us/pl/111/211/s211/b/2/B]–(D), added pars. (10) to (18).
+    Subsec. (c)(10) to (18). [Pub. L. 111–211][/us/pl/111/211], § 211(b)(2)(B)–(D), added pars. (10) to (18).
 
-    Subsec. (d)(1). [Pub. L. 111–211, § 211(b)(3)(A)][/us/pl/111/211/s211/b/3/A], substituted “Office of Justice Services” for “Division of Law Enforcement Services”.
+    Subsec. (d)(1). [Pub. L. 111–211][/us/pl/111/211], § 211(b)(3)(A), substituted “Office of Justice Services” for “Division of Law Enforcement Services”.
 
-    Subsec. (d)(4)(i). [Pub. L. 111–211, § 211(b)(3)(B)][/us/pl/111/211/s211/b/3/B], substituted “Office of Justice Services” for “Division”.
+    Subsec. (d)(4)(i). [Pub. L. 111–211][/us/pl/111/211], § 211(b)(3)(B), substituted “Office of Justice Services” for “Division”.
 
-    Subsec. (e). [Pub. L. 111–211, § 231(a)(1)(A)][/us/pl/111/211/s231/a/1/A], inserted heading.
+    Subsec. (e). [Pub. L. 111–211][/us/pl/111/211], § 231(a)(1)(A), inserted heading.
 
-    [Pub. L. 111–211, § 211(b)(4)][/us/pl/111/211/s211/b/4], substituted “Office of Justice Services” for “Division of Law Enforcement Services” in pars. (1) to (3).
+    [Pub. L. 111–211][/us/pl/111/211], § 211(b)(4), substituted “Office of Justice Services” for “Division of Law Enforcement Services” in pars. (1) to (3).
 
-    Subsec. (e)(1). [Pub. L. 111–211, § 231(a)(1)][/us/pl/111/211/s231/a/1], inserted heading, designated existing provisions as subpar. (A), inserted subpar. (A) heading, and added subpars. (B) to (D).
+    Subsec. (e)(1). [Pub. L. 111–211][/us/pl/111/211], § 231(a)(1), inserted heading, designated existing provisions as subpar. (A), inserted subpar. (A) heading, and added subpars. (B) to (D).
 
-    Subsec. (e)(3). [Pub. L. 111–211, § 231(a)(2)][/us/pl/111/211/s231/a/2], substituted “agencies” for “Agencies”.
+    Subsec. (e)(3). [Pub. L. 111–211][/us/pl/111/211], § 231(a)(2), substituted “agencies” for “Agencies”.
 
-    Subsec. (e)(4). [Pub. L. 111–211, § 231(a)(3)][/us/pl/111/211/s231/a/3], added par. (4).
+    Subsec. (e)(4). [Pub. L. 111–211][/us/pl/111/211], § 231(a)(3), added par. (4).
 
-    Subsec. (f). [Pub. L. 111–211, § 211(b)(5)][/us/pl/111/211/s211/b/5], added subsec. (f).
+    Subsec. (f). [Pub. L. 111–211][/us/pl/111/211], § 211(b)(5), added subsec. (f).
 
 ----------
 
@@ -214,25 +214,25 @@
 [/us/usc/t5/s5104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5104
 [/us/usc/t25/s450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450
 [/us/usc/t25/s2453/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs2453%2Fa%2F3
-[/us/pl/101/379/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F379%2Fs3
+[/us/pl/101/379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F379
 [/us/stat/104/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F473
-[/us/pl/111/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211
+[/us/pl/111/211/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211%2FtII
 [/us/stat/124/2264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2264
 [/us/pl/93/638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638
 [/us/pl/93/638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638
 [/us/stat/88/2203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2203
 [/us/usc/t25/s450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450
-[/us/pl/111/211/s211/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211%2Fs211%2Fb%2F1
-[/us/pl/111/211/s211/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211%2Fs211%2Fb%2F2%2FA
-[/us/pl/111/211/s262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211%2Fs262
-[/us/pl/111/211/s211/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211%2Fs211%2Fb%2F2%2FB
-[/us/pl/111/211/s211/b/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211%2Fs211%2Fb%2F3%2FA
-[/us/pl/111/211/s211/b/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211%2Fs211%2Fb%2F3%2FB
-[/us/pl/111/211/s231/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211%2Fs231%2Fa%2F1%2FA
-[/us/pl/111/211/s211/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211%2Fs211%2Fb%2F4
-[/us/pl/111/211/s231/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211%2Fs231%2Fa%2F1
-[/us/pl/111/211/s231/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211%2Fs231%2Fa%2F2
-[/us/pl/111/211/s231/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211%2Fs231%2Fa%2F3
-[/us/pl/111/211/s211/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211%2Fs211%2Fb%2F5
+[/us/pl/111/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211
+[/us/pl/111/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211
+[/us/pl/111/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211
+[/us/pl/111/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211
+[/us/pl/111/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211
+[/us/pl/111/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211
+[/us/pl/111/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211
+[/us/pl/111/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211
+[/us/pl/111/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211
+[/us/pl/111/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211
+[/us/pl/111/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211
+[/us/pl/111/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211
 
 

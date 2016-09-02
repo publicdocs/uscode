@@ -31,7 +31,7 @@
 
         Nothing in this section shall be construed to constitute a ratification of any determination by any agency, instrumentality, or court of the United States that may support the assertion of tribal jurisdiction over allotment lands or interests in such land in Alaska.
 
-([Pub. L. 97–459, title II, § 220][/us/pl/97/459/s220], as added [Pub. L. 106–462, title I, § 103(6)][/us/pl/106/462/s103/6], Nov. 7, 2000, [114 Stat. 2006][/us/stat/114/2006].)
+([Pub. L. 97–459, title II][/us/pl/97/459/tII], § 220, as added [Pub. L. 106–462, title I][/us/pl/106/462/tI], § 103(6), Nov. 7, 2000, [114 Stat. 2006][/us/stat/114/2006].)
 
  __References in Text__ 
 
@@ -44,8 +44,8 @@
 ----------
 ----------
 
-[/us/pl/97/459/s220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F459%2Fs220
-[/us/pl/106/462/s103/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F462%2Fs103%2F6
+[/us/pl/97/459/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F459%2FtII
+[/us/pl/106/462/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F462%2FtI
 [/us/stat/114/2006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2006
 [/us/pl/97/459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F459
 

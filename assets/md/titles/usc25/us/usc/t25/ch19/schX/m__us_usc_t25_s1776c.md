@@ -147,7 +147,7 @@
 
         The Settlement Agreement shall include provisions governing the distribution of interest income to the Crow Tribe from the Crow Tribal Trust Fund pursuant to the terms and conditions described in [section 1776d of this title][/us/usc/t25/s1776d].
 
-([Pub. L. 103–444, § 5][/us/pl/103/444/s5], Nov. 2, 1994, [108 Stat. 4635][/us/stat/108/4635]; [Pub. L. 104–109, § 9(a)][/us/pl/104/109/s9/a], Feb. 12, 1996, [110 Stat. 765][/us/stat/110/765].)
+([Pub. L. 103–444][/us/pl/103/444], § 5, Nov. 2, 1994, [108 Stat. 4635][/us/stat/108/4635]; [Pub. L. 104–109][/us/pl/104/109], § 9(a), Feb. 12, 1996, [110 Stat. 765][/us/stat/110/765].)
 
  __References in Text__ 
 
@@ -171,9 +171,9 @@
 [/us/usc/t43/s1716]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1716
 [/us/usc/t43/s1716]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1716
 [/us/usc/t25/s1776d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1776d
-[/us/pl/103/444/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F444%2Fs5
+[/us/pl/103/444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F444
 [/us/stat/108/4635]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4635
-[/us/pl/104/109/s9/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F109%2Fs9%2Fa
+[/us/pl/104/109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F109
 [/us/stat/110/765]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F765
 [/us/act/1889-02-22/ch180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1889-02-22%2Fch180
 [/us/stat/25/676]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F25%2F676

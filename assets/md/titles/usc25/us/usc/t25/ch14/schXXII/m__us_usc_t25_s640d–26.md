@@ -23,7 +23,7 @@
 
         Any transfer of public lands pursuant to this subchapter shall be made notwithstanding the provisions of sections 1782 and 1752(g) of title 43.
 
-([Pub. L. 93–531, § 28][/us/pl/93/531/s28], as added [Pub. L. 96–305, § 11][/us/pl/96/305/s11], July 8, 1980, [94 Stat. 933][/us/stat/94/933].)
+([Pub. L. 93–531][/us/pl/93/531], § 28, as added [Pub. L. 96–305][/us/pl/96/305], § 11, July 8, 1980, [94 Stat. 933][/us/stat/94/933].)
 
  __References in Text__ 
 
@@ -37,8 +37,8 @@
 ----------
 
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
-[/us/pl/93/531/s28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F531%2Fs28
-[/us/pl/96/305/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F305%2Fs11
+[/us/pl/93/531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F531
+[/us/pl/96/305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F305
 [/us/stat/94/933]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F933
 [/us/pl/91/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F190
 [/us/stat/83/852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F852

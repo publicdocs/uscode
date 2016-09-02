@@ -17,7 +17,7 @@
 
     After the deduction of attorney fees and expenses, litigation expenses, all costs incident to the provisions of this subchapter, and to making the payments authorized by this subchapter, including the cost of roll preparation, which shall be paid by appropriate withdrawals from the judgment fund, the unexpended balance of the funds on deposit in the Treasury shall be distributed in equal shares to those persons whose names appear on the roll prepared in accordance with [section 1181 of this title][/us/usc/t25/s1181]. No person shall be entitled to more than one per capita share of the funds.
 
-([Pub. L. 90–508, § 3][/us/pl/90/508/s3], Sept. 21, 1968, [82 Stat. 862][/us/stat/82/862].)
+([Pub. L. 90–508][/us/pl/90/508], § 3, Sept. 21, 1968, [82 Stat. 862][/us/stat/82/862].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t25/s1181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1181
-[/us/pl/90/508/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F508%2Fs3
+[/us/pl/90/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F508
 [/us/stat/82/862]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F862
 
 

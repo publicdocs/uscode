@@ -161,7 +161,7 @@
 
         There are authorized to be appropriated to carry out the provisions of this section $30,000,000 for each of the fiscal years 1992, 1993, 1994, 1995, 1996, and 1997.
 
-([Pub. L. 101–630, title IV, § 411][/us/pl/101/630/s411], Nov. 28, 1990, [104 Stat. 4553][/us/stat/104/4553]; [Pub. L. 104–16, § 1][/us/pl/104/16/s1], June 21, 1995, [109 Stat. 190][/us/stat/109/190]; [Pub. L. 105–244, title IX, § 901(d)][/us/pl/105/244/s901/d], Oct. 7, 1998, [112 Stat. 1828][/us/stat/112/1828]; [Pub. L. 110–315, title IX, § 941(k)(2)(J)][/us/pl/110/315/s941/k/2/J], Aug. 14, 2008, [122 Stat. 3467][/us/stat/122/3467].)
+([Pub. L. 101–630, title IV][/us/pl/101/630/tIV], § 411, Nov. 28, 1990, [104 Stat. 4553][/us/stat/104/4553]; [Pub. L. 104–16][/us/pl/104/16], § 1, June 21, 1995, [109 Stat. 190][/us/stat/109/190]; [Pub. L. 105–244, title IX][/us/pl/105/244/tIX], § 901(d), Oct. 7, 1998, [112 Stat. 1828][/us/stat/112/1828]; [Pub. L. 110–315, title IX][/us/pl/110/315/tIX], § 941(k)(2)(J), Aug. 14, 2008, [122 Stat. 3467][/us/stat/122/3467].)
 
  __References in Text__ 
 
@@ -188,13 +188,13 @@
 
 [/us/usc/t25/s450f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450f
 [/us/usc/t25/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1801
-[/us/pl/101/630/s411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F630%2Fs411
+[/us/pl/101/630/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F630%2FtIV
 [/us/stat/104/4553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4553
-[/us/pl/104/16/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F16%2Fs1
+[/us/pl/104/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F16
 [/us/stat/109/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F190
-[/us/pl/105/244/s901/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs901%2Fd
+[/us/pl/105/244/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtIX
 [/us/stat/112/1828]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1828
-[/us/pl/110/315/s941/k/2/J]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs941%2Fk%2F2%2FJ
+[/us/pl/110/315/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtIX
 [/us/stat/122/3467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3467
 [/us/pl/93/638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638
 [/us/stat/88/2206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2206

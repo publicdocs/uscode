@@ -27,7 +27,7 @@
 
         (2) the payment (not including interest) would be less than $10.
 
-([Pub. L. 98–500, § 3][/us/pl/98/500/s3], Oct. 19, 1984, [98 Stat. 2317][/us/stat/98/2317]; [Pub. L. 100–581, title II, § 201][/us/pl/100/581/s201], Nov. 1, 1988, [102 Stat. 2939][/us/stat/102/2939].)
+([Pub. L. 98–500][/us/pl/98/500], § 3, Oct. 19, 1984, [98 Stat. 2317][/us/stat/98/2317]; [Pub. L. 100–581, title II][/us/pl/100/581/tII], § 201, Nov. 1, 1988, [102 Stat. 2939][/us/stat/102/2939].)
 
  __Amendments__ 
 
@@ -40,9 +40,9 @@
 ----------
 ----------
 
-[/us/pl/98/500/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F500%2Fs3
+[/us/pl/98/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F500
 [/us/stat/98/2317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2317
-[/us/pl/100/581/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F581%2Fs201
+[/us/pl/100/581/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F581%2FtII
 [/us/stat/102/2939]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2939
 [/us/pl/100/581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F581
 

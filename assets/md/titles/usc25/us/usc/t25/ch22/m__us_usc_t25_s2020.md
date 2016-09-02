@@ -77,13 +77,13 @@
 
         There are authorized to be appropriated to carry out this section $2,000,000.
 
-([Pub. L. 95–561, title XI, § 1140][/us/pl/95/561/s1140], as added [Pub. L. 107–110, title X, § 1042][/us/pl/107/110/s1042], Jan. 8, 2002, [115 Stat. 2059][/us/stat/115/2059].)
+([Pub. L. 95–561, title XI][/us/pl/95/561/tXI], § 1140, as added [Pub. L. 107–110, title X][/us/pl/107/110/tX], § 1042, Jan. 8, 2002, [115 Stat. 2059][/us/stat/115/2059].)
 
  __Prior Provisions__ 
 
-    A prior section 2020, [Pub. L. 95–561, title XI, § 1140][/us/pl/95/561/s1140], as added [Pub. L. 103–382, title III, § 381][/us/pl/103/382/s381], Oct. 20, 1994, [108 Stat. 4011][/us/stat/108/4011], related to voluntary services, prior to the general amendment of this chapter by [Pub. L. 107–110][/us/pl/107/110]. See [section 2012 of this title][/us/usc/t25/s2012].
+    A prior section 2020, [Pub. L. 95–561, title XI][/us/pl/95/561/tXI], § 1140, as added [Pub. L. 103–382, title III][/us/pl/103/382/tIII], § 381, Oct. 20, 1994, [108 Stat. 4011][/us/stat/108/4011], related to voluntary services, prior to the general amendment of this chapter by [Pub. L. 107–110][/us/pl/107/110]. See [section 2012 of this title][/us/usc/t25/s2012].
 
-    Another prior section 2020, [Pub. L. 95–561, title XI, § 1140][/us/pl/95/561/s1140], as added [Pub. L. 98–511, title V, § 511][/us/pl/98/511/s511], Oct. 19, 1984, [98 Stat. 2397][/us/stat/98/2397]; amended [Pub. L. 99–89, § 8][/us/pl/99/89/s8], Aug. 15, 1985, [99 Stat. 383][/us/stat/99/383], related to voluntary services, prior to the general amendment of this chapter by [Pub. L. 103–382][/us/pl/103/382].
+    Another prior section 2020, [Pub. L. 95–561, title XI][/us/pl/95/561/tXI], § 1140, as added [Pub. L. 98–511, title V][/us/pl/98/511/tV], § 511, Oct. 19, 1984, [98 Stat. 2397][/us/stat/98/2397]; amended [Pub. L. 99–89][/us/pl/99/89], § 8, Aug. 15, 1985, [99 Stat. 383][/us/stat/99/383], related to voluntary services, prior to the general amendment of this chapter by [Pub. L. 103–382][/us/pl/103/382].
 
 ----------
 
@@ -93,18 +93,18 @@
 ----------
 
 [/us/usc/t25/s450h/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450h%2Fa
-[/us/pl/95/561/s1140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2Fs1140
-[/us/pl/107/110/s1042]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2Fs1042
+[/us/pl/95/561/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2FtXI
+[/us/pl/107/110/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2FtX
 [/us/stat/115/2059]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F2059
-[/us/pl/95/561/s1140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2Fs1140
-[/us/pl/103/382/s381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs381
+[/us/pl/95/561/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2FtXI
+[/us/pl/103/382/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2FtIII
 [/us/stat/108/4011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4011
 [/us/pl/107/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110
 [/us/usc/t25/s2012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs2012
-[/us/pl/95/561/s1140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2Fs1140
-[/us/pl/98/511/s511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F511%2Fs511
+[/us/pl/95/561/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2FtXI
+[/us/pl/98/511/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F511%2FtV
 [/us/stat/98/2397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2397
-[/us/pl/99/89/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F89%2Fs8
+[/us/pl/99/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F89
 [/us/stat/99/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F383
 [/us/pl/103/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382
 

@@ -71,7 +71,7 @@
 
         (16) “Yurok Tribe” means the Indian tribe which is recognized and authorized to be organized pursuant to [section 1300i–8 of this title][/us/usc/t25/s1300i–8].
 
-([Pub. L. 100–580, § 1][/us/pl/100/580/s1], Oct. 31, 1988, [102 Stat. 2924][/us/stat/102/2924].)
+([Pub. L. 100–580][/us/pl/100/580], § 1, Oct. 31, 1988, [102 Stat. 2924][/us/stat/102/2924].)
 
  __References in Text__ 
 
@@ -91,7 +91,7 @@
 [/us/usc/t25/s1300i–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1300i%E2%80%934
 [/us/usc/t25/s1300i–1/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1300i%E2%80%931%2Fc
 [/us/usc/t25/s1300i–8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1300i%E2%80%938
-[/us/pl/100/580/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F580%2Fs1
+[/us/pl/100/580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F580
 [/us/stat/102/2924]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2924
 [/us/pl/100/580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F580
 [/us/stat/102/2924]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2924

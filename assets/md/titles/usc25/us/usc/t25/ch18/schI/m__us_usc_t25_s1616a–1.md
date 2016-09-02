@@ -51,7 +51,7 @@
 
         (2) Any obligation acquired by the Fund may be sold by the Secretary of the Treasury at the market price.
 
-([Pub. L. 94–437, title I, § 108A][/us/pl/94/437/s108A], as added [Pub. L. 102–573, title I, § 110][/us/pl/102/573/s110], Oct. 29, 1992, [106 Stat. 4538][/us/stat/106/4538].)
+([Pub. L. 94–437, title I][/us/pl/94/437/tI], § 108A, as added [Pub. L. 102–573, title I][/us/pl/102/573/tI], § 110, Oct. 29, 1992, [106 Stat. 4538][/us/stat/106/4538].)
 
  __References in Text__ 
 
@@ -72,8 +72,8 @@
 [/us/usc/t25/s1616a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1616a
 [/us/usc/t25/s1613a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1613a
 [/us/usc/t25/s1616a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1616a
-[/us/pl/94/437/s108A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437%2Fs108A
-[/us/pl/102/573/s110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2Fs110
+[/us/pl/94/437/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437%2FtI
+[/us/pl/102/573/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2FtI
 [/us/stat/106/4538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4538
 [/us/pl/93/638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638
 [/us/stat/88/2206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2206

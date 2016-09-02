@@ -29,7 +29,7 @@
 
         The Indian Health Service shall not refuse to provide necessary interim treatment for any Indian youth referred pursuant to subsection (a) who has been charged or is being prosecuted for any crime unless such referral is prohibited by a court of competent jurisdiction or the youth is determined by a court of competent jurisdiction to be a danger to others.
 
-([Pub. L. 99–570, title IV, § 4219][/us/pl/99/570/s4219], Oct. 27, 1986, [100 Stat. 3207–147][/us/stat/100/3207-147]; [Pub. L. 100–690, title II, § 2210][/us/pl/100/690/s2210], Nov. 18, 1988, [102 Stat. 4219][/us/stat/102/4219].)
+([Pub. L. 99–570, title IV][/us/pl/99/570/tIV], § 4219, Oct. 27, 1986, [100 Stat. 3207–147][/us/stat/100/3207-147]; [Pub. L. 100–690, title II][/us/pl/100/690/tII], § 2210, Nov. 18, 1988, [102 Stat. 4219][/us/stat/102/4219].)
 
  __Amendments__ 
 
@@ -43,9 +43,9 @@
 ----------
 
 [/us/usc/t25/s2411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs2411
-[/us/pl/99/570/s4219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs4219
+[/us/pl/99/570/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2FtIV
 [/us/stat/100/3207-147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3207-147
-[/us/pl/100/690/s2210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs2210
+[/us/pl/100/690/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtII
 [/us/stat/102/4219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4219
 [/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
 

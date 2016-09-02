@@ -21,7 +21,7 @@
 
  __Codification__ 
 
-    R.S. § 2059 derived from [act June 30, 1834, ch. 162, § 4][/us/act/1834-06-30/ch162/s4], [4 Stat. 735][/us/stat/4/735].
+    R.S. § 2059 derived from [act June 30, 1834, ch. 162][/us/act/1834-06-30/ch162], § 4, [4 Stat. 735][/us/stat/4/735].
 
  __Delegation of Functions__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/act/1834-06-30/ch162/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1834-06-30%2Fch162%2Fs4
+[/us/act/1834-06-30/ch162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1834-06-30%2Fch162
 [/us/stat/4/735]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F4%2F735
 [/us/usc/t3/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs301
 

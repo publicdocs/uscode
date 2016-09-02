@@ -35,7 +35,7 @@
 
         (2) September 14, 2000, in the case of Modification Four.
 
-([Pub. L. 106–568, title VI, § 609][/us/pl/106/568/s609], Dec. 27, 2000, [114 Stat. 2912][/us/stat/114/2912].)
+([Pub. L. 106–568, title VI][/us/pl/106/568/tVI], § 609, Dec. 27, 2000, [114 Stat. 2912][/us/stat/114/2912].)
 
 ----------
 
@@ -44,7 +44,7 @@
 ----------
 ----------
 
-[/us/pl/106/568/s609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F568%2Fs609
+[/us/pl/106/568/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F568%2FtVI
 [/us/stat/114/2912]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2912
 
 

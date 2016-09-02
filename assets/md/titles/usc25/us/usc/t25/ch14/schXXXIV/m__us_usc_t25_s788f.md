@@ -17,7 +17,7 @@
 
     All costs incident to carrying out the provisions of sections 788e to 788h of this title shall be paid by appropriate withdrawals from the judgment funds referred to in this section. After deducting attorney fees and all other costs, the remainder of the funds, including interest, to the credit of the Creek Nation appropriated by the Act of October 27, 1966 ([80 Stat. 1057][/us/stat/80/1057]), shall be distributed in equal shares to those persons whose names appear on the roll prepared in accordance with [section 788e of this title][/us/usc/t25/s788e]. The funds so distributed shall not be subject to Federal or State income taxes.
 
-([Pub. L. 90–506, § 2][/us/pl/90/506/s2], Sept. 21, 1968, [82 Stat. 859][/us/stat/82/859].)
+([Pub. L. 90–506][/us/pl/90/506], § 2, Sept. 21, 1968, [82 Stat. 859][/us/stat/82/859].)
 
  __References in Text__ 
 
@@ -32,7 +32,7 @@
 
 [/us/stat/80/1057]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1057
 [/us/usc/t25/s788e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs788e
-[/us/pl/90/506/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F506%2Fs2
+[/us/pl/90/506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F506
 [/us/stat/82/859]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F859
 [/us/pl/89/697]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F697
 [/us/stat/80/1057]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1057

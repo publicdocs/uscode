@@ -17,7 +17,7 @@
 
     Whoever, being an officer, director, agent, or employee of, or connected in any capacity with, any recipient of a contract, subcontract, grant, or subgrant pursuant to this subchapter or the Act of April 16, 1934 ([48 Stat. 596][/us/stat/48/596]), as amended \[[25 U.S.C. 452][/us/usc/t25/s452] et seq.\], embezzles, willfully misapplies, steals, or obtains by fraud any of the money, funds, assets, or property which are the subject of such a grant, subgrant, contract, or subcontract, shall be fined not more than $10,000 or imprisoned for not more than two years, or both, but if the amount so embezzled, misapplied, stolen, or obtained by fraud does not exceed $100, he shall be fined not more than $1,000 or imprisoned not more than one year, or both.
 
-([Pub. L. 93–638, § 6][/us/pl/93/638/s6], Jan. 4, 1975, [88 Stat. 2205][/us/stat/88/2205].)
+([Pub. L. 93–638][/us/pl/93/638], § 6, Jan. 4, 1975, [88 Stat. 2205][/us/stat/88/2205].)
 
  __References in Text__ 
 
@@ -34,7 +34,7 @@
 
 [/us/stat/48/596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F596
 [/us/usc/t25/s452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs452
-[/us/pl/93/638/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638%2Fs6
+[/us/pl/93/638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638
 [/us/stat/88/2205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2205
 [/us/pl/93/638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638
 [/us/stat/88/2203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2203

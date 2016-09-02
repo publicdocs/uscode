@@ -51,7 +51,7 @@
 
         (3) for the health facility maintenance and improvement program administered by the Secretary of Health and Human Services.
 
-([Pub. L. 93–638, § 4][/us/pl/93/638/s4], Jan. 4, 1975, [88 Stat. 2204][/us/stat/88/2204]; [Pub. L. 100–472, title I, § 103][/us/pl/100/472/s103], Oct. 5, 1988, [102 Stat. 2286][/us/stat/102/2286]; [Pub. L. 100–581, title II, § 208][/us/pl/100/581/s208], Nov. 1, 1988, [102 Stat. 2940][/us/stat/102/2940]; [Pub. L. 101–301, § 2(a)(1)][/us/pl/101/301/s2/a/1]–(3), May 24, 1990, [104 Stat. 206][/us/stat/104/206]; [Pub. L. 101–644, title II, § 202(1)][/us/pl/101/644/s202/1], (2), Nov. 29, 1990, [104 Stat. 4665][/us/stat/104/4665]; [Pub. L. 103–413, title I, § 102(1)][/us/pl/103/413/s102/1], Oct. 25, 1994, [108 Stat. 4250][/us/stat/108/4250].)
+([Pub. L. 93–638][/us/pl/93/638], § 4, Jan. 4, 1975, [88 Stat. 2204][/us/stat/88/2204]; [Pub. L. 100–472, title I][/us/pl/100/472/tI], § 103, Oct. 5, 1988, [102 Stat. 2286][/us/stat/102/2286]; [Pub. L. 100–581, title II][/us/pl/100/581/tII], § 208, Nov. 1, 1988, [102 Stat. 2940][/us/stat/102/2940]; [Pub. L. 101–301][/us/pl/101/301], § 2(a)(1)–(3), May 24, 1990, [104 Stat. 206][/us/stat/104/206]; [Pub. L. 101–644, title II][/us/pl/101/644/tII], § 202(1), (2), Nov. 29, 1990, [104 Stat. 4665][/us/stat/104/4665]; [Pub. L. 103–413, title I][/us/pl/103/413/tI], § 102(1), Oct. 25, 1994, [108 Stat. 4250][/us/stat/108/4250].)
 
  __References in Text__ 
 
@@ -61,29 +61,29 @@
 
     Part A of this subchapter, referred to in subsec. (j), was in the original “title I of this act”, meaning title I of [Pub. L. 93–638][/us/pl/93/638], known as the Indian Self-Determination Act, which is classified principally to part A (§ 450f et seq.) of this subchapter. For complete classification of title I to the Code, see Short Title note set out under [section 450 of this title][/us/usc/t25/s450] and Tables.
 
-    [Section 450j(a) of this title][/us/usc/t25/s450j/a], referred to in subsec. (j), was repealed and a new subsec. (a) of section 450j was added by [Pub. L. 103–413, title I, § 102(10)][/us/pl/103/413/s102/10], Oct. 25, 1994, [108 Stat. 4253][/us/stat/108/4253], which does not contain provisos.
+    [Section 450j(a) of this title][/us/usc/t25/s450j/a], referred to in subsec. (j), was repealed and a new subsec. (a) of section 450j was added by [Pub. L. 103–413, title I][/us/pl/103/413/tI], § 102(10), Oct. 25, 1994, [108 Stat. 4253][/us/stat/108/4253], which does not contain provisos.
 
  __Amendments__ 
 
-    1994—Subsec. (g). [Pub. L. 103–413, § 102(1)(A)][/us/pl/103/413/s102/1/A], substituted “indirect cost rate” for “indirect costs rate”.
+    1994—Subsec. (g). [Pub. L. 103–413][/us/pl/103/413], § 102(1)(A), substituted “indirect cost rate” for “indirect costs rate”.
 
-    Subsec. (m). [Pub. L. 103–413, § 102(1)(B)][/us/pl/103/413/s102/1/B]–(D), added subsec. (m).
+    Subsec. (m). [Pub. L. 103–413][/us/pl/103/413], § 102(1)(B)–(D), added subsec. (m).
 
-    1990—Subsec. (e). [Pub. L. 101–301, § 2(a)(1)][/us/pl/101/301/s2/a/1], inserted a comma before “which is recognized”.
+    1990—Subsec. (e). [Pub. L. 101–301][/us/pl/101/301], § 2(a)(1), inserted a comma before “which is recognized”.
 
-    Subsec. (h). [Pub. L. 101–644, § 202(1)][/us/pl/101/644/s202/1], struck out “in existence on October 5, 1988,” before “which meets this definition”.
+    Subsec. (h). [Pub. L. 101–644][/us/pl/101/644], § 202(1), struck out “in existence on October 5, 1988,” before “which meets this definition”.
 
-    Subsec. (j). [Pub. L. 101–644, § 202(2)][/us/pl/101/644/s202/2], substituted “contract (or grant or cooperative agreement utilized under [section 450e–1 of this title][/us/usc/t25/s450e–1]) entered” for “contract entered” in two places.
+    Subsec. (j). [Pub. L. 101–644][/us/pl/101/644], § 202(2), substituted “contract (or grant or cooperative agreement utilized under [section 450e–1 of this title][/us/usc/t25/s450e–1]) entered” for “contract entered” in two places.
 
-    [Pub. L. 101–301, § 2(a)(2)][/us/pl/101/301/s2/a/2], (3), substituted “under this subchapter” for “pursuant to this Act” in two places and struck out “the” before “Secretary”.
+    [Pub. L. 101–301][/us/pl/101/301], § 2(a)(2), (3), substituted “under this subchapter” for “pursuant to this Act” in two places and struck out “the” before “Secretary”.
 
     1988—[Pub. L. 100–472][/us/pl/100/472] amended section generally, substituting subsecs. (a) to (l) for former subsecs. (a) to (d) and (f) which defined “Indian”, “Indian tribe”, “Tribal organization”, “Secretary”, and “State education agency”.
 
-    Subsec. (h). [Pub. L. 100–581, § 208(a)(1)][/us/pl/100/581/s208/a/1], substituted “by a tribal organization” for “by tribal organization”.
+    Subsec. (h). [Pub. L. 100–581][/us/pl/100/581], § 208(a)(1), substituted “by a tribal organization” for “by tribal organization”.
 
-    [Pub. L. 100–581, § 208(a)(2)][/us/pl/100/581/s208/a/2], which directed the amendment of subsec. (h) by substituting “a tribal organization or the tribal organization’s Indian tribe for purposes of [section 450f(a) of this title][/us/usc/t25/s450f/a]” for “a tribal organization or a tribal governing body” was executed by substituting the new language for “a tribal organization or tribal governing body” to reflect the probable intent of Congress.
+    [Pub. L. 100–581][/us/pl/100/581], § 208(a)(2), which directed the amendment of subsec. (h) by substituting “a tribal organization or the tribal organization’s Indian tribe for purposes of [section 450f(a) of this title][/us/usc/t25/s450f/a]” for “a tribal organization or a tribal governing body” was executed by substituting the new language for “a tribal organization or tribal governing body” to reflect the probable intent of Congress.
 
-    Subsec. (j). [Pub. L. 100–581, § 208(b)][/us/pl/100/581/s208/b], substituted “the Secretary for the planning” for “Secretary the planning” and “except as provided the last proviso in [section 450j(a) of this title][/us/usc/t25/s450j/a], no contract” for “no contract”.
+    Subsec. (j). [Pub. L. 100–581][/us/pl/100/581], § 208(b), substituted “the Secretary for the planning” for “Secretary the planning” and “except as provided the last proviso in [section 450j(a) of this title][/us/usc/t25/s450j/a], no contract” for “no contract”.
 
 ----------
 
@@ -97,17 +97,17 @@
 [/us/usc/t25/s450f/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450f%2Fa
 [/us/usc/t25/s450e–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450e%E2%80%931
 [/us/usc/t25/s450e–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450e%E2%80%931
-[/us/pl/93/638/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638%2Fs4
+[/us/pl/93/638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638
 [/us/stat/88/2204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2204
-[/us/pl/100/472/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F472%2Fs103
+[/us/pl/100/472/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F472%2FtI
 [/us/stat/102/2286]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2286
-[/us/pl/100/581/s208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F581%2Fs208
+[/us/pl/100/581/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F581%2FtII
 [/us/stat/102/2940]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2940
-[/us/pl/101/301/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F301%2Fs2%2Fa%2F1
+[/us/pl/101/301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F301
 [/us/stat/104/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F206
-[/us/pl/101/644/s202/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F644%2Fs202%2F1
+[/us/pl/101/644/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F644%2FtII
 [/us/stat/104/4665]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4665
-[/us/pl/103/413/s102/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F413%2Fs102%2F1
+[/us/pl/103/413/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F413%2FtI
 [/us/stat/108/4250]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4250
 [/us/pl/93/638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638
 [/us/stat/88/2203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2203
@@ -118,20 +118,20 @@
 [/us/pl/93/638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638
 [/us/usc/t25/s450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450
 [/us/usc/t25/s450j/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450j%2Fa
-[/us/pl/103/413/s102/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F413%2Fs102%2F10
+[/us/pl/103/413/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F413%2FtI
 [/us/stat/108/4253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4253
-[/us/pl/103/413/s102/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F413%2Fs102%2F1%2FA
-[/us/pl/103/413/s102/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F413%2Fs102%2F1%2FB
-[/us/pl/101/301/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F301%2Fs2%2Fa%2F1
-[/us/pl/101/644/s202/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F644%2Fs202%2F1
-[/us/pl/101/644/s202/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F644%2Fs202%2F2
+[/us/pl/103/413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F413
+[/us/pl/103/413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F413
+[/us/pl/101/301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F301
+[/us/pl/101/644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F644
+[/us/pl/101/644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F644
 [/us/usc/t25/s450e–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450e%E2%80%931
-[/us/pl/101/301/s2/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F301%2Fs2%2Fa%2F2
+[/us/pl/101/301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F301
 [/us/pl/100/472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F472
-[/us/pl/100/581/s208/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F581%2Fs208%2Fa%2F1
-[/us/pl/100/581/s208/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F581%2Fs208%2Fa%2F2
+[/us/pl/100/581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F581
+[/us/pl/100/581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F581
 [/us/usc/t25/s450f/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450f%2Fa
-[/us/pl/100/581/s208/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F581%2Fs208%2Fb
+[/us/pl/100/581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F581
 [/us/usc/t25/s450j/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450j%2Fa
 
 

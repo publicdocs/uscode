@@ -21,7 +21,7 @@
 
  __Codification__ 
 
-    R.S. § 2109 derived from [act Feb. 14, 1873, ch. 138, § 7][/us/act/1873-02-14/ch138/s7], [17 Stat. 463][/us/stat/17/463], 464.
+    R.S. § 2109 derived from [act Feb. 14, 1873, ch. 138][/us/act/1873-02-14/ch138], § 7, [17 Stat. 463][/us/stat/17/463], 464.
 
  __Transfer of Functions__ 
 
@@ -38,7 +38,7 @@
 ----------
 ----------
 
-[/us/act/1873-02-14/ch138/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1873-02-14%2Fch138%2Fs7
+[/us/act/1873-02-14/ch138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1873-02-14%2Fch138
 [/us/stat/17/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F17%2F463
 [/us/stat/64/1262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1262
 [/us/usc/t25/s64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs64

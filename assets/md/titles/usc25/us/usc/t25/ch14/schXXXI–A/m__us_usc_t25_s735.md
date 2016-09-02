@@ -17,7 +17,7 @@
 
     Upon written request of the tribal council, <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “Tribal Council,”. </sup></sup>  the Secretary shall hold an election for the members of the tribe for the purpose of adopting a new constitution and bylaws in accordance with [section 476 of this title][/us/usc/t25/s476].
 
-([Pub. L. 100–89, title II, § 205][/us/pl/100/89/s205], Aug. 18, 1987, [101 Stat. 671][/us/stat/101/671].)
+([Pub. L. 100–89, title II][/us/pl/100/89/tII], § 205, Aug. 18, 1987, [101 Stat. 671][/us/stat/101/671].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t25/s476]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs476
-[/us/pl/100/89/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F89%2Fs205
+[/us/pl/100/89/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F89%2FtII
 [/us/stat/101/671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F671
 
 

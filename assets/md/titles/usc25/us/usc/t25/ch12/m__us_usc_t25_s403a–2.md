@@ -31,7 +31,7 @@
 
         Any moneys or credits received or credited to the Tulalip Tribes from the sale, exchange, mortgage, or granting of any security interest in any tribal land may be used for any tribal purpose.
 
-([June 18, 1956, ch. 400, § 2][/us/act/1956-06-18/ch400/s2], [70 Stat. 290][/us/stat/70/290]; [Pub. L. 91–274, § 1][/us/pl/91/274/s1], June 2, 1970, [84 Stat. 301][/us/stat/84/301].)
+([June 18, 1956, ch. 400][/us/act/1956-06-18/ch400], § 2, [70 Stat. 290][/us/stat/70/290]; [Pub. L. 91–274][/us/pl/91/274], § 1, June 2, 1970, [84 Stat. 301][/us/stat/84/301].)
 
  __Amendments__ 
 
@@ -44,9 +44,9 @@
 ----------
 ----------
 
-[/us/act/1956-06-18/ch400/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-06-18%2Fch400%2Fs2
+[/us/act/1956-06-18/ch400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-06-18%2Fch400
 [/us/stat/70/290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F290
-[/us/pl/91/274/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F274%2Fs1
+[/us/pl/91/274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F274
 [/us/stat/84/301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F301
 [/us/pl/91/274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F274
 

@@ -17,7 +17,7 @@
 
     The Secretary of the Interior is authorized to perform any and all acts and to make such rules and regulations, including minimum standards of service, as may be necessary and proper for the purpose of carrying the provisions of sections 452 to 457 of this title into effect: Provided, That such minimum standards of service are not less than the highest maintained by the States or Territories within which said contract or contracts, as herein provided, are to be effective.
 
-([Apr. 16, 1934, ch. 147, § 3][/us/act/1934-04-16/ch147/s3], [48 Stat. 596][/us/stat/48/596]; [June 4, 1936, ch. 490, § 3][/us/act/1936-06-04/ch490/s3], [49 Stat. 1459][/us/stat/49/1459].)
+([Apr. 16, 1934, ch. 147][/us/act/1934-04-16/ch147], § 3, [48 Stat. 596][/us/stat/48/596]; [June 4, 1936, ch. 490][/us/act/1936-06-04/ch490], § 3, [49 Stat. 1459][/us/stat/49/1459].)
 
  __Amendments__ 
 
@@ -30,9 +30,9 @@
 ----------
 ----------
 
-[/us/act/1934-04-16/ch147/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-04-16%2Fch147%2Fs3
+[/us/act/1934-04-16/ch147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-04-16%2Fch147
 [/us/stat/48/596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F596
-[/us/act/1936-06-04/ch490/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-04%2Fch490%2Fs3
+[/us/act/1936-06-04/ch490]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-04%2Fch490
 [/us/stat/49/1459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1459
 
 

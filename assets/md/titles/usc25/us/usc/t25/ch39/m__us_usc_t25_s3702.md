@@ -25,7 +25,7 @@
 
     (4) increase the educational and training opportunities available to Indian people and communities in the practical, technical, and professional aspects of agriculture and land management to improve the expertise and technical abilities of Indian tribes and their members.
 
-([Pub. L. 103–177, § 3][/us/pl/103/177/s3], Dec. 3, 1993, [107 Stat. 2011][/us/stat/107/2011].)
+([Pub. L. 103–177][/us/pl/103/177], § 3, Dec. 3, 1993, [107 Stat. 2011][/us/stat/107/2011].)
 
 ----------
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/pl/103/177/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F177%2Fs3
+[/us/pl/103/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F177
 [/us/stat/107/2011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2011
 
 

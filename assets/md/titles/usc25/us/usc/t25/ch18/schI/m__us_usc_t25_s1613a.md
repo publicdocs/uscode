@@ -113,7 +113,7 @@
 
         The Secretary shall, acting through the Service, establish a Placement Office to develop and implement a national policy for the placement, to available vacancies within the Service, of Indian Health Scholarship recipients required to meet the active duty service obligation prescribed under [section 254m of title 42][/us/usc/t42/s254m] without regard to any competitive personnel system, agency personnel limitation, or Indian preference policy.
 
-([Pub. L. 94–437, title I, § 104][/us/pl/94/437/s104], as added [Pub. L. 100–713, title I, § 104(a)][/us/pl/100/713/s104/a], Nov. 23, 1988, [102 Stat. 4786][/us/stat/102/4786]; amended [Pub. L. 102–573, title I][/us/pl/102/573], §§ 102(c), 103, Oct. 29, 1992, [106 Stat. 4531][/us/stat/106/4531], 4532; [Pub. L. 104–313, § 2(b)][/us/pl/104/313/s2/b], Oct. 19, 1996, [110 Stat. 3820][/us/stat/110/3820].)
+([Pub. L. 94–437, title I][/us/pl/94/437/tI], § 104, as added [Pub. L. 100–713, title I][/us/pl/100/713/tI], § 104(a), Nov. 23, 1988, [102 Stat. 4786][/us/stat/102/4786]; amended [Pub. L. 102–573, title I][/us/pl/102/573/tI], §§ 102(c), 103, Oct. 29, 1992, [106 Stat. 4531][/us/stat/106/4531], 4532; [Pub. L. 104–313][/us/pl/104/313], § 2(b), Oct. 19, 1996, [110 Stat. 3820][/us/stat/110/3820].)
 
  __References in Text__ 
 
@@ -125,43 +125,43 @@
 
  __Amendments__ 
 
-    1996—Subsec. (b)(3)(A). [Pub. L. 104–313, § 2(b)(1)(A)][/us/pl/104/313/s2/b/1/A], substituted “The active duty service obligation under a written contract with the Secretary under section 254l of title 42 that an individual has entered into under that section shall, if that individual is a recipient of an Indian Health Scholarship, be met in full-time practice, by service—” for “The active duty service obligation prescribed under [section 254m of title 42][/us/usc/t42/s254m] shall be met by a  recipient  of  an  Indian  Health  Scholarship  by service—” in introductory provisions, struck out “or” at end of cl. (iii), and substituted “; or” for period at end of cl. (iv).
+    1996—Subsec. (b)(3)(A). [Pub. L. 104–313][/us/pl/104/313], § 2(b)(1)(A), substituted “The active duty service obligation under a written contract with the Secretary under section 254l of title 42 that an individual has entered into under that section shall, if that individual is a recipient of an Indian Health Scholarship, be met in full-time practice, by service—” for “The active duty service obligation prescribed under [section 254m of title 42][/us/usc/t42/s254m] shall be met by a  recipient  of  an  Indian  Health  Scholarship  by service—” in introductory provisions, struck out “or” at end of cl. (iii), and substituted “; or” for period at end of cl. (iv).
 
-    Subsec. (b)(3)(B). [Pub. L. 104–313, § 2(b)(1)(C)][/us/pl/104/313/s2/b/1/C], added subpar. (B). Former subpar. (B) redesignated (C).
+    Subsec. (b)(3)(B). [Pub. L. 104–313][/us/pl/104/313], § 2(b)(1)(C), added subpar. (B). Former subpar. (B) redesignated (C).
 
-    Subsec. (b)(3)(C). [Pub. L. 104–313, § 2(b)(1)(D)][/us/pl/104/313/s2/b/1/D], substituted “described in subparagraph (A) by service in a program specified in that subparagraph” for “prescribed under [section 254m of title 42][/us/usc/t42/s254m] by service in a program specified in subparagraph (A)”.
+    Subsec. (b)(3)(C). [Pub. L. 104–313][/us/pl/104/313], § 2(b)(1)(D), substituted “described in subparagraph (A) by service in a program specified in that subparagraph” for “prescribed under [section 254m of title 42][/us/usc/t42/s254m] by service in a program specified in subparagraph (A)”.
 
-    [Pub. L. 104–313, § 2(b)(1)(B)][/us/pl/104/313/s2/b/1/B], redesignated subpar. (B) as (C). Former subpar. (C) redesignated (D).
+    [Pub. L. 104–313][/us/pl/104/313], § 2(b)(1)(B), redesignated subpar. (B) as (C). Former subpar. (C) redesignated (D).
 
-    Subsec. (b)(3)(D). [Pub. L. 104–313, § 2(b)(1)(E)][/us/pl/104/313/s2/b/1/E], substituted “Subject to subparagraph (C),” for “Subject to subparagraph (B),” and “described in subparagraph (A)” for “prescribed under [section 254m of title 42][/us/usc/t42/s254m]”.
+    Subsec. (b)(3)(D). [Pub. L. 104–313][/us/pl/104/313], § 2(b)(1)(E), substituted “Subject to subparagraph (C),” for “Subject to subparagraph (B),” and “described in subparagraph (A)” for “prescribed under [section 254m of title 42][/us/usc/t42/s254m]”.
 
-    [Pub. L. 104–313, § 2(b)(1)(B)][/us/pl/104/313/s2/b/1/B], redesignated subpar. (C) as (D).
+    [Pub. L. 104–313][/us/pl/104/313], § 2(b)(1)(B), redesignated subpar. (C) as (D).
 
-    Subsec. (b)(4)(B). [Pub. L. 104–313, § 2(b)(2)(A)][/us/pl/104/313/s2/b/2/A], substituted “the period of obligated service described in paragraph (3)(A) shall be equal to the greater of—” for “the period of obligated service specified in section 254l(f)(1)(B)(iv) of title 42 shall be equal to the greater of—” in introductory provisions.
+    Subsec. (b)(4)(B). [Pub. L. 104–313][/us/pl/104/313], § 2(b)(2)(A), substituted “the period of obligated service described in paragraph (3)(A) shall be equal to the greater of—” for “the period of obligated service specified in section 254l(f)(1)(B)(iv) of title 42 shall be equal to the greater of—” in introductory provisions.
 
-    Subsec. (b)(4)(C). [Pub. L. 104–313, § 2(b)(2)(B)][/us/pl/104/313/s2/b/2/B], made technical amendment to reference in original act which appears in text as reference to section 254l(g)(1)(B) of title 42.
+    Subsec. (b)(4)(C). [Pub. L. 104–313][/us/pl/104/313], § 2(b)(2)(B), made technical amendment to reference in original act which appears in text as reference to section 254l(g)(1)(B) of title 42.
 
-    Subsec. (b)(5)(C) to (F). [Pub. L. 104–313, § 2(b)(3)][/us/pl/104/313/s2/b/3], added subpars. (C) to (F).
+    Subsec. (b)(5)(C) to (F). [Pub. L. 104–313][/us/pl/104/313], § 2(b)(3), added subpars. (C) to (F).
 
-    1992—Subsec. (a). [Pub. L. 102–573, § 102(c)(1)(C)][/us/pl/102/573/s102/c/1/C], substituted “accredited schools and pursuing courses of study in the health professions” for “accredited schools of medicine, osteopathy, podiatry, psychology, dentistry, environmental health and engineering, nursing, optometry, public health, allied health professions, and social work”.
+    1992—Subsec. (a). [Pub. L. 102–573][/us/pl/102/573], § 102(c)(1)(C), substituted “accredited schools and pursuing courses of study in the health professions” for “accredited schools of medicine, osteopathy, podiatry, psychology, dentistry, environmental health and engineering, nursing, optometry, public health, allied health professions, and social work”.
 
-    [Pub. L. 102–573, § 102(c)(1)(A)][/us/pl/102/573/s102/c/1/A], (B), substituted “Indians, Indian tribes, tribal organizations, and urban Indian organizations” for “Indian communities” and “full or part time” for “full time”.
+    [Pub. L. 102–573][/us/pl/102/573], § 102(c)(1)(A), (B), substituted “Indians, Indian tribes, tribal organizations, and urban Indian organizations” for “Indian communities” and “full or part time” for “full time”.
 
-    Subsec. (b)(2). [Pub. L. 102–573, § 102(c)(2)(A)][/us/pl/102/573/s102/c/2/A], substituted “full or part time” for “full time” and “course of study” for “health profession school”.
+    Subsec. (b)(2). [Pub. L. 102–573][/us/pl/102/573], § 102(c)(2)(A), substituted “full or part time” for “full time” and “course of study” for “health profession school”.
 
-    Subsec. (b)(3). [Pub. L. 102–573, § 102(c)(2)(B)][/us/pl/102/573/s102/c/2/B], designated existing provisions as subpar. (A), redesignated former subpars. (A) to (D) as cls. (i) to (iv), respectively, and added subpars. (B) and (C).
+    Subsec. (b)(3). [Pub. L. 102–573][/us/pl/102/573], § 102(c)(2)(B), designated existing provisions as subpar. (A), redesignated former subpars. (A) to (D) as cls. (i) to (iv), respectively, and added subpars. (B) and (C).
 
-    Subsec. (b)(4). [Pub. L. 102–573, § 102(c)(2)(C)][/us/pl/102/573/s102/c/2/C], added par. (4).
+    Subsec. (b)(4). [Pub. L. 102–573][/us/pl/102/573], § 102(c)(2)(C), added par. (4).
 
-    Subsec. (b)(5). [Pub. L. 102–573, § 103][/us/pl/102/573/s103], added par. (5).
+    Subsec. (b)(5). [Pub. L. 102–573][/us/pl/102/573], § 103, added par. (5).
 
-    Subsec. (c). [Pub. L. 102–573, § 102(c)(3)][/us/pl/102/573/s102/c/3], amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “For purposes of this section, the term ‘Indian’ has the same meaning given that term by subsection (c) of [section 1603 of this title][/us/usc/t25/s1603], including all individuals described in clauses (1) through (4) of that subsection.”
+    Subsec. (c). [Pub. L. 102–573][/us/pl/102/573], § 102(c)(3), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “For purposes of this section, the term ‘Indian’ has the same meaning given that term by subsection (c) of [section 1603 of this title][/us/usc/t25/s1603], including all individuals described in clauses (1) through (4) of that subsection.”
 
-    Subsec. (d). [Pub. L. 102–573, § 102(c)(4)][/us/pl/102/573/s102/c/4], struck out subsec. (d) which authorized appropriations for fiscal years 1989 to 1992.
+    Subsec. (d). [Pub. L. 102–573][/us/pl/102/573], § 102(c)(4), struck out subsec. (d) which authorized appropriations for fiscal years 1989 to 1992.
 
  __Effective Date of 1992 Amendment__ 
 
-[Pub. L. 102–573, title I, § 102(d)][/us/pl/102/573/s102/d], Oct. 29, 1992, [106 Stat. 4532][/us/stat/106/4532], provided that: 
+[Pub. L. 102–573, title I][/us/pl/102/573/tI], § 102(d), Oct. 29, 1992, [106 Stat. 4532][/us/stat/106/4532], provided that: 
 
 > “The amendments made by subsection (c)(1)(C) and subsection (c)(2)(B) \[amending this section\] shall apply with respect to scholarships granted under section 104 of the Indian Health Care Improvement Act \[this section\] after the date of the enactment of this Act \[Oct. 29, 1992\].”
 
@@ -175,12 +175,12 @@
 [/us/usc/t25/s450f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450f
 [/us/usc/t25/s1616a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1616a
 [/us/usc/t42/s254m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs254m
-[/us/pl/94/437/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437%2Fs104
-[/us/pl/100/713/s104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F713%2Fs104%2Fa
+[/us/pl/94/437/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437%2FtI
+[/us/pl/100/713/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F713%2FtI
 [/us/stat/102/4786]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4786
-[/us/pl/102/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573
+[/us/pl/102/573/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2FtI
 [/us/stat/106/4531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4531
-[/us/pl/104/313/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F313%2Fs2%2Fb
+[/us/pl/104/313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F313
 [/us/stat/110/3820]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3820
 [/us/pl/93/638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638
 [/us/stat/88/2206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2206
@@ -188,28 +188,28 @@
 [/us/pl/94/437/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437%2Fs104
 [/us/stat/90/1403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1403
 [/us/usc/t42/s234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs234
-[/us/pl/104/313/s2/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F313%2Fs2%2Fb%2F1%2FA
+[/us/pl/104/313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F313
 [/us/usc/t42/s254m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs254m
-[/us/pl/104/313/s2/b/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F313%2Fs2%2Fb%2F1%2FC
-[/us/pl/104/313/s2/b/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F313%2Fs2%2Fb%2F1%2FD
+[/us/pl/104/313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F313
+[/us/pl/104/313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F313
 [/us/usc/t42/s254m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs254m
-[/us/pl/104/313/s2/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F313%2Fs2%2Fb%2F1%2FB
-[/us/pl/104/313/s2/b/1/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F313%2Fs2%2Fb%2F1%2FE
+[/us/pl/104/313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F313
+[/us/pl/104/313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F313
 [/us/usc/t42/s254m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs254m
-[/us/pl/104/313/s2/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F313%2Fs2%2Fb%2F1%2FB
-[/us/pl/104/313/s2/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F313%2Fs2%2Fb%2F2%2FA
-[/us/pl/104/313/s2/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F313%2Fs2%2Fb%2F2%2FB
-[/us/pl/104/313/s2/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F313%2Fs2%2Fb%2F3
-[/us/pl/102/573/s102/c/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2Fs102%2Fc%2F1%2FC
-[/us/pl/102/573/s102/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2Fs102%2Fc%2F1%2FA
-[/us/pl/102/573/s102/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2Fs102%2Fc%2F2%2FA
-[/us/pl/102/573/s102/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2Fs102%2Fc%2F2%2FB
-[/us/pl/102/573/s102/c/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2Fs102%2Fc%2F2%2FC
-[/us/pl/102/573/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2Fs103
-[/us/pl/102/573/s102/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2Fs102%2Fc%2F3
+[/us/pl/104/313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F313
+[/us/pl/104/313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F313
+[/us/pl/104/313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F313
+[/us/pl/104/313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F313
+[/us/pl/102/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573
+[/us/pl/102/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573
+[/us/pl/102/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573
+[/us/pl/102/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573
+[/us/pl/102/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573
+[/us/pl/102/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573
+[/us/pl/102/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573
 [/us/usc/t25/s1603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1603
-[/us/pl/102/573/s102/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2Fs102%2Fc%2F4
-[/us/pl/102/573/s102/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2Fs102%2Fd
+[/us/pl/102/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573
+[/us/pl/102/573/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2FtI
 [/us/stat/106/4532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4532
 
 

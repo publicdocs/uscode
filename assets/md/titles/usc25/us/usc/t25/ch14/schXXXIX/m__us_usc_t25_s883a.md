@@ -27,7 +27,7 @@
 
         A share or proportional share payable to a person of Osage Indian blood under eighteen years of age and any person under guardianship pursuant to an order of a court of competent jurisdiction notwithstanding the fact he has received a certificate of competency shall be disbursed under rules and regulations to be prescribed by the Secretary of the Interior.
 
-([Pub. L. 92–586, § 2][/us/pl/92/586/s2], Oct. 27, 1972, [86 Stat. 1295][/us/stat/86/1295].)
+([Pub. L. 92–586][/us/pl/92/586], § 2, Oct. 27, 1972, [86 Stat. 1295][/us/stat/86/1295].)
 
 ----------
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/92/586/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F586%2Fs2
+[/us/pl/92/586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F586
 [/us/stat/86/1295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1295
 
 

@@ -27,7 +27,7 @@
 
         Any contract, including a lease, affecting land within the Salt River Pima-Maricopa Indian Reservation may contain a provision for the binding arbitration of disputes arising out of such contract. Such contracts shall be considered within the meaning of “commerce” as defined and subject to the provisions of [section 1 of title 9][/us/usc/t9/s1]. Any refusal to submit to arbitration pursuant to a binding agreement for arbitration or the exercise of any right conferred by title 9 to abide by the outcome of arbitration pursuant to the provisions of chapter 1 of title 9, sections 1 through 14, shall be deemed to be a civil action arising under the Constitution, laws or treaties of the United States within the meaning of [section 1331 of title 28][/us/usc/t28/s1331].
 
-([Pub. L. 89–715, § 2][/us/pl/89/715/s2], Nov. 2, 1966, [80 Stat. 1112][/us/stat/80/1112]; [Pub. L. 98–163][/us/pl/98/163], Nov. 22, 1983, [97 Stat. 1016][/us/stat/97/1016]; [Pub. L. 108–329, § 1(a)][/us/pl/108/329/s1/a], Oct. 16, 2004, [118 Stat. 1274][/us/stat/118/1274].)
+([Pub. L. 89–715][/us/pl/89/715], § 2, Nov. 2, 1966, [80 Stat. 1112][/us/stat/80/1112]; [Pub. L. 98–163][/us/pl/98/163], Nov. 22, 1983, [97 Stat. 1016][/us/stat/97/1016]; [Pub. L. 108–329][/us/pl/108/329], § 1(a), Oct. 16, 2004, [118 Stat. 1274][/us/stat/118/1274].)
 
  __Amendments__ 
 
@@ -37,7 +37,7 @@
 
  __Effective Date of 2004 Amendment__ 
 
-[Pub. L. 108–329, § 1(b)][/us/pl/108/329/s1/b], Oct. 16, 2004, [118 Stat. 1274][/us/stat/118/1274], provided that: 
+[Pub. L. 108–329][/us/pl/108/329], § 1(b), Oct. 16, 2004, [118 Stat. 1274][/us/stat/118/1274], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall take effect as if included in the Indian Tribal Economic Development and Contract Encouragement Act of 2000 ([Public Law 106–179][/us/pl/106/179]).”
 
@@ -51,16 +51,16 @@
 [/us/usc/t25/s416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs416
 [/us/usc/t9/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft9%2Fs1
 [/us/usc/t28/s1331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1331
-[/us/pl/89/715/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F715%2Fs2
+[/us/pl/89/715]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F715
 [/us/stat/80/1112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1112
 [/us/pl/98/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F163
 [/us/stat/97/1016]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1016
-[/us/pl/108/329/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F329%2Fs1%2Fa
+[/us/pl/108/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F329
 [/us/stat/118/1274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1274
 [/us/pl/108/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F329
 [/us/usc/t25/s81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs81
 [/us/pl/98/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F163
-[/us/pl/108/329/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F329%2Fs1%2Fb
+[/us/pl/108/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F329
 [/us/stat/118/1274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1274
 [/us/pl/106/179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F179
 

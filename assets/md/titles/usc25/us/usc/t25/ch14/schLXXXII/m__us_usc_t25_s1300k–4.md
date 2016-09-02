@@ -31,7 +31,7 @@
 
         Subject to the conditions imposed by this section, the land acquired by or transferred to the Secretary under or pursuant to this section shall be taken in the name of the United States in trust for the Bands and shall be a part of the respective Bands’ reservation.
 
-([Pub. L. 103–324, § 6][/us/pl/103/324/s6], Sept. 21, 1994, [108 Stat. 2158][/us/stat/108/2158].)
+([Pub. L. 103–324][/us/pl/103/324], § 6, Sept. 21, 1994, [108 Stat. 2158][/us/stat/108/2158].)
 
  __References in Text__ 
 
@@ -46,7 +46,7 @@
 
 [/us/usc/t25/s1300k–2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1300k%E2%80%932%2Fb
 [/us/usc/t25/s461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs461
-[/us/pl/103/324/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F324%2Fs6
+[/us/pl/103/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F324
 [/us/stat/108/2158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2158
 [/us/act/1934-06-18/ch576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-18%2Fch576
 [/us/stat/48/984]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F984

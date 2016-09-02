@@ -35,11 +35,11 @@
 
     (3) reduction of the rate of fetal alcohol syndrome among Indians served by, or on behalf of, the Service to one per one thousand live births.
 
-([Pub. L. 94–437, title VIII, § 814][/us/pl/94/437/s814], formerly title VII, § 714, as added [Pub. L. 100–713, title VII, § 708][/us/pl/100/713/s708], Nov. 23, 1988, [102 Stat. 4831][/us/stat/102/4831]; renumbered title VIII, § 814, and amended [Pub. L. 102–573, title VII, § 701(a)][/us/pl/102/573/s701/a], (b), title VIII, § 804, Oct. 29, 1992, [106 Stat. 4572][/us/stat/106/4572], 4585.)
+([Pub. L. 94–437, title VIII][/us/pl/94/437/tVIII], § 814, formerly title VII, § 714, as added [Pub. L. 100–713, title VII][/us/pl/100/713/tVII], § 708, Nov. 23, 1988, [102 Stat. 4831][/us/stat/102/4831]; renumbered title VIII, § 814, and amended [Pub. L. 102–573, title VII][/us/pl/102/573/tVII], § 701(a), (b), title VIII, § 804, Oct. 29, 1992, [106 Stat. 4572][/us/stat/106/4572], 4585.)
 
  __Amendments__ 
 
-    1992—[Pub. L. 102–573, § 804][/us/pl/102/573/s804], struck out subsec. (a) designation before “By no later” and struck out subsec. (b) which read as follows: “The President shall include with the budget submitted under [section 1105 of title 31][/us/usc/t31/s1105] for each fiscal year a separate statement which specifies the total amount obligated or expended in the most recently completed fiscal year to achieve each of the objectives described in subsection (a) of this section.”
+    1992—[Pub. L. 102–573][/us/pl/102/573], § 804, struck out subsec. (a) designation before “By no later” and struck out subsec. (b) which read as follows: “The President shall include with the budget submitted under [section 1105 of title 31][/us/usc/t31/s1105] for each fiscal year a separate statement which specifies the total amount obligated or expended in the most recently completed fiscal year to achieve each of the objectives described in subsection (a) of this section.”
 
 ----------
 
@@ -48,12 +48,12 @@
 ----------
 ----------
 
-[/us/pl/94/437/s814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437%2Fs814
-[/us/pl/100/713/s708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F713%2Fs708
+[/us/pl/94/437/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437%2FtVIII
+[/us/pl/100/713/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F713%2FtVII
 [/us/stat/102/4831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4831
-[/us/pl/102/573/s701/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2Fs701%2Fa
+[/us/pl/102/573/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2FtVII
 [/us/stat/106/4572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4572
-[/us/pl/102/573/s804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2Fs804
+[/us/pl/102/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573
 [/us/usc/t31/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105
 
 

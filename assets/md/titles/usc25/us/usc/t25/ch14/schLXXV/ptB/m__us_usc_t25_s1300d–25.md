@@ -21,7 +21,7 @@
 
     (2) otherwise result in the reduction or denial of any service or program to which, pursuant to Federal law (including the Social Security Act ([42 U.S.C. 301][/us/usc/t42/s301] et seq.)), the covered Indian tribe, household, or individual would otherwise be entitled.
 
-([Pub. L. 105–387, § 6][/us/pl/105/387/s6], Nov. 13, 1998, [112 Stat. 3473][/us/stat/112/3473].)
+([Pub. L. 105–387][/us/pl/105/387], § 6, Nov. 13, 1998, [112 Stat. 3473][/us/stat/112/3473].)
 
  __References in Text__ 
 
@@ -35,7 +35,7 @@
 ----------
 
 [/us/usc/t42/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs301
-[/us/pl/105/387/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F387%2Fs6
+[/us/pl/105/387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F387
 [/us/stat/112/3473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3473
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620

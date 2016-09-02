@@ -17,7 +17,7 @@
 
     The Papago Council and the Salt River Pima-Maricopa Community Council, with the consent of the Secretary of the Interior, are hereby authorized, for their respective reservations, to enact zoning, building, and sanitary regulations covering the lands on their reservations for which leasing authority is granted by sections 416 to 416j of this title in the absence of State civil and criminal jurisdiction over such particular lands, and said councils may contract with local municipalities for assistance in preparing such regulations.
 
-([Pub. L. 89–715, § 9][/us/pl/89/715/s9], Nov. 2, 1966, [80 Stat. 1113][/us/stat/80/1113].)
+([Pub. L. 89–715][/us/pl/89/715], § 9, Nov. 2, 1966, [80 Stat. 1113][/us/stat/80/1113].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/89/715/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F715%2Fs9
+[/us/pl/89/715]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F715
 [/us/stat/80/1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1113
 
 

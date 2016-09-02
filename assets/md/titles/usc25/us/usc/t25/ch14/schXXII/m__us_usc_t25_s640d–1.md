@@ -35,11 +35,11 @@
 
         In the event of a disagreement within a negotiating team the majority of the members of the team shall prevail and act on behalf of the team unless the resolution of the tribal council certifying the team specifically provides otherwise.
 
-([Pub. L. 93–531, § 2][/us/pl/93/531/s2], Dec. 22, 1974, [88 Stat. 1712][/us/stat/88/1712].)
+([Pub. L. 93–531][/us/pl/93/531], § 2, Dec. 22, 1974, [88 Stat. 1712][/us/stat/88/1712].)
 
  __References in Text__ 
 
-    [Section 640d–3 of this title][/us/usc/t25/s640d–3], referred to in subsecs. (b) and (d), was amended by [Pub. L. 98–620, title IV, § 402(27)][/us/pl/98/620/s402/27], Nov. 8, 1984, [98 Stat. 3359][/us/stat/98/3359], by striking out subsec. (b) and redesignating subsec. (a) as the entire section.
+    [Section 640d–3 of this title][/us/usc/t25/s640d–3], referred to in subsecs. (b) and (d), was amended by [Pub. L. 98–620, title IV][/us/pl/98/620/tIV], § 402(27), Nov. 8, 1984, [98 Stat. 3359][/us/stat/98/3359], by striking out subsec. (b) and redesignating subsec. (a) as the entire section.
 
 ----------
 
@@ -48,10 +48,10 @@
 ----------
 ----------
 
-[/us/pl/93/531/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F531%2Fs2
+[/us/pl/93/531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F531
 [/us/stat/88/1712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1712
 [/us/usc/t25/s640d–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs640d%E2%80%933
-[/us/pl/98/620/s402/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620%2Fs402%2F27
+[/us/pl/98/620/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620%2FtIV
 [/us/stat/98/3359]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3359
 
 

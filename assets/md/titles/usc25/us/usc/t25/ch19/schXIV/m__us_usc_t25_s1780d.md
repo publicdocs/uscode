@@ -53,7 +53,7 @@
 
             The Act of October 19, 1973 ([Public Law 93–134][/us/pl/93/134]; [87 Stat. 466][/us/stat/87/466]) and [section 4023 of this title][/us/usc/t25/s4023] shall not apply to the Settlement Fund.
 
-([Pub. L. 109–286, § 6][/us/pl/109/286/s6], Sept. 27, 2006, [120 Stat. 1221][/us/stat/120/1221].)
+([Pub. L. 109–286][/us/pl/109/286], § 6, Sept. 27, 2006, [120 Stat. 1221][/us/stat/120/1221].)
 
  __References in Text__ 
 
@@ -72,7 +72,7 @@
 [/us/pl/93/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F134
 [/us/stat/87/466]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F466
 [/us/usc/t25/s4023]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs4023
-[/us/pl/109/286/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F286%2Fs6
+[/us/pl/109/286]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F286
 [/us/stat/120/1221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1221
 [/us/act/1938-06-24/ch648]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-24%2Fch648
 [/us/stat/52/1037]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F1037

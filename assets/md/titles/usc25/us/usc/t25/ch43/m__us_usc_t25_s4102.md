@@ -17,7 +17,7 @@
 
     The Secretary of Housing and Urban Development shall carry out this chapter through the Office of Native American Programs of the Department of Housing and Urban Development.
 
-([Pub. L. 104–330, § 3][/us/pl/104/330/s3], Oct. 26, 1996, [110 Stat. 4018][/us/stat/110/4018].)
+([Pub. L. 104–330][/us/pl/104/330], § 3, Oct. 26, 1996, [110 Stat. 4018][/us/stat/110/4018].)
 
  __References in Text__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/pl/104/330/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330%2Fs3
+[/us/pl/104/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330
 [/us/stat/110/4018]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F4018
 [/us/pl/104/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330
 [/us/stat/110/4016]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F4016

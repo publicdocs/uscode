@@ -37,7 +37,7 @@
 
         The term “tribal governing body” means the duly elected governing body of a covered Indian tribe.
 
-([Pub. L. 105–387, § 2][/us/pl/105/387/s2], Nov. 13, 1998, [112 Stat. 3471][/us/stat/112/3471].)
+([Pub. L. 105–387][/us/pl/105/387], § 2, Nov. 13, 1998, [112 Stat. 3471][/us/stat/112/3471].)
 
  __References in Text__ 
 
@@ -54,7 +54,7 @@
 
 [/us/usc/t25/s1300d–23/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1300d%E2%80%9323%2Fa
 [/us/usc/t25/s4001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs4001
-[/us/pl/105/387/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F387%2Fs2
+[/us/pl/105/387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F387
 [/us/stat/112/3471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3471
 [/us/pl/105/387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F387
 [/us/stat/112/3471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3471

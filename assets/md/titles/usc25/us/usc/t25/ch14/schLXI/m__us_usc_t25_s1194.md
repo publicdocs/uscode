@@ -17,7 +17,7 @@
 
     The per capita distributions of such funds shall not be subject to Federal or State income tax.
 
-([Pub. L. 91–259, § 4][/us/pl/91/259/s4], May 21, 1970, [84 Stat. 254][/us/stat/84/254].)
+([Pub. L. 91–259][/us/pl/91/259], § 4, May 21, 1970, [84 Stat. 254][/us/stat/84/254].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/91/259/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F259%2Fs4
+[/us/pl/91/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F259
 [/us/stat/84/254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F254
 
 

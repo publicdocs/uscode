@@ -31,7 +31,7 @@
 
         Any land or minerals received by a person who is not an Indian in an exchange referred to in subsection (a) shall be owned in fee.
 
-([Pub. L. 103–444, § 8][/us/pl/103/444/s8], Nov. 2, 1994, [108 Stat. 4640][/us/stat/108/4640].)
+([Pub. L. 103–444][/us/pl/103/444], § 8, Nov. 2, 1994, [108 Stat. 4640][/us/stat/108/4640].)
 
 ----------
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/103/444/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F444%2Fs8
+[/us/pl/103/444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F444
 [/us/stat/108/4640]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4640
 
 

@@ -17,7 +17,7 @@
 
     The Band shall have jurisdiction to the full extent allowed by law over all lands taken into trust for the benefit of the Band by the Secretary. The Band shall exercise jurisdiction over all its members who reside within the service area in matters pursuant to the Indian Child Welfare Act of 1978 ([25 U.S.C. 1901][/us/usc/t25/s1901] et seq.), as if the members were residing upon a reservation as defined in that Act.
 
-([Pub. L. 103–323, § 8][/us/pl/103/323/s8], Sept. 21, 1994, [108 Stat. 2154][/us/stat/108/2154].)
+([Pub. L. 103–323][/us/pl/103/323], § 8, Sept. 21, 1994, [108 Stat. 2154][/us/stat/108/2154].)
 
  __References in Text__ 
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t25/s1901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1901
-[/us/pl/103/323/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F323%2Fs8
+[/us/pl/103/323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F323
 [/us/stat/108/2154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2154
 [/us/pl/95/608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F608
 [/us/stat/92/3069]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3069

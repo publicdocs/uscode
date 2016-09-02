@@ -55,25 +55,25 @@
 
         In any fiscal year in which the amounts for which grant recipients are eligible to receive have been reduced under the first sentence of subsection (a) of this section, and in which additional funds have not been made available to pay in full the total of such amounts under the second sentence of such subsection, each grantee shall report to the Secretary any unused portion of received funds ninety days prior to the grant expiration date. The amounts so reported by any grant recipient shall be made available for reallocation to eligible grantees on a basis proportionate to the amount which is unfunded as a result of the ratable reduction, but no grant recipient shall receive, as a result of such reallocation, more than the amount provided for under [section 1807(a) of this title][/us/usc/t25/s1807/a].
 
-([Pub. L. 95–471, title I, § 111][/us/pl/95/471/s111], formerly § 110, Oct. 17, 1978, [92 Stat. 1328][/us/stat/92/1328]; renumbered § 111 and amended [Pub. L. 98–192][/us/pl/98/192], §§ 4(a)(1), (b)(3), 10, Dec. 1, 1983, [97 Stat. 1336][/us/stat/97/1336], 1338; [Pub. L. 101–477, § 1(c)][/us/pl/101/477/s1/c], Oct. 30, 1990, [104 Stat. 1152][/us/stat/104/1152]; [Pub. L. 105–244, title IX, § 901(b)(6)][/us/pl/105/244/s901/b/6], (8), Oct. 7, 1998, [112 Stat. 1828][/us/stat/112/1828].)
+([Pub. L. 95–471, title I][/us/pl/95/471/tI], § 111, formerly § 110, Oct. 17, 1978, [92 Stat. 1328][/us/stat/92/1328]; renumbered § 111 and amended [Pub. L. 98–192][/us/pl/98/192], §§ 4(a)(1), (b)(3), 10, Dec. 1, 1983, [97 Stat. 1336][/us/stat/97/1336], 1338; [Pub. L. 101–477][/us/pl/101/477], § 1(c), Oct. 30, 1990, [104 Stat. 1152][/us/stat/104/1152]; [Pub. L. 105–244, title IX][/us/pl/105/244/tIX], § 901(b)(6), (8), Oct. 7, 1998, [112 Stat. 1828][/us/stat/112/1828].)
 
  __Amendments__ 
 
     1998—Subsec. (a)(2). [Pub. L. 105–244][/us/pl/105/244] substituted “controlled colleges or universities” for “controlled community colleges” and “such colleges or universities” for “such colleges”.
 
-    1990—Subsec. (a)(1)(A). [Pub. L. 101–477, § 1(c)(1)][/us/pl/101/477/s1/c/1], amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “the Secretary shall first allocate to each such applicant which received funds under [section 1807 of this title][/us/usc/t25/s1807] for the preceding fiscal year an amount equal to 95 per centum of the product of—
+    1990—Subsec. (a)(1)(A). [Pub. L. 101–477][/us/pl/101/477], § 1(c)(1), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “the Secretary shall first allocate to each such applicant which received funds under [section 1807 of this title][/us/usc/t25/s1807] for the preceding fiscal year an amount equal to 95 per centum of the product of—
 
     “(i) the per capita payment for the preceding fiscal year; and
 
     “(ii) such applicant’s Indian student count for the current fiscal year;”.
 
-    Subsec. (a)(1)(B)(ii). [Pub. L. 101–477, § 1(c)(2)][/us/pl/101/477/s1/c/2], amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “the applicant’s Indian student count for the current fiscal year;”.
+    Subsec. (a)(1)(B)(ii). [Pub. L. 101–477][/us/pl/101/477], § 1(c)(2), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “the applicant’s Indian student count for the current fiscal year;”.
 
-    1983—Subsec. (a). [Pub. L. 98–192, § 10][/us/pl/98/192/s10], amended subsec. (a) generally, substituting provision establishing a formula to be used to determine funding between existing and newly eligible schools when funds appropriated are not sufficient to pay in full the total amount which approved applicants are eligible to receive under [section 1807 of this title][/us/usc/t25/s1807] for provision that if funds were insufficient to pay in full the total amounts which approved grant applicants were eligible to receive, the available funds would be ratably decreased and if funds later became available or there were excess funds, such funds would be ratably increased.
+    1983—Subsec. (a). [Pub. L. 98–192][/us/pl/98/192], § 10, amended subsec. (a) generally, substituting provision establishing a formula to be used to determine funding between existing and newly eligible schools when funds appropriated are not sufficient to pay in full the total amount which approved applicants are eligible to receive under [section 1807 of this title][/us/usc/t25/s1807] for provision that if funds were insufficient to pay in full the total amounts which approved grant applicants were eligible to receive, the available funds would be ratably decreased and if funds later became available or there were excess funds, such funds would be ratably increased.
 
-    Subsecs. (b), (c). [Pub. L. 98–192, § 10][/us/pl/98/192/s10], added subsec. (b) and redesignated former subsec. (b) as (c).
+    Subsecs. (b), (c). [Pub. L. 98–192][/us/pl/98/192], § 10, added subsec. (b) and redesignated former subsec. (b) as (c).
 
-    [Pub. L. 98–192, § 4(b)(3)][/us/pl/98/192/s4/b/3], made a technical amendment to reference to [section 1807 of this title][/us/usc/t25/s1807] to reflect renumbering of that section.
+    [Pub. L. 98–192][/us/pl/98/192], § 4(b)(3), made a technical amendment to reference to [section 1807 of this title][/us/usc/t25/s1807] to reflect renumbering of that section.
 
  __Effective Date of 1998 Amendment__ 
 
@@ -98,22 +98,22 @@
 [/us/usc/t25/s1807]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1807
 [/us/usc/t25/s1806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1806
 [/us/usc/t25/s1807/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1807%2Fa
-[/us/pl/95/471/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F471%2Fs111
+[/us/pl/95/471/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F471%2FtI
 [/us/stat/92/1328]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1328
 [/us/pl/98/192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F192
 [/us/stat/97/1336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1336
-[/us/pl/101/477/s1/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F477%2Fs1%2Fc
+[/us/pl/101/477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F477
 [/us/stat/104/1152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1152
-[/us/pl/105/244/s901/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs901%2Fb%2F6
+[/us/pl/105/244/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtIX
 [/us/stat/112/1828]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1828
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
-[/us/pl/101/477/s1/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F477%2Fs1%2Fc%2F1
+[/us/pl/101/477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F477
 [/us/usc/t25/s1807]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1807
-[/us/pl/101/477/s1/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F477%2Fs1%2Fc%2F2
-[/us/pl/98/192/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F192%2Fs10
+[/us/pl/101/477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F477
+[/us/pl/98/192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F192
 [/us/usc/t25/s1807]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1807
-[/us/pl/98/192/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F192%2Fs10
-[/us/pl/98/192/s4/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F192%2Fs4%2Fb%2F3
+[/us/pl/98/192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F192
+[/us/pl/98/192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F192
 [/us/usc/t25/s1807]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1807
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244

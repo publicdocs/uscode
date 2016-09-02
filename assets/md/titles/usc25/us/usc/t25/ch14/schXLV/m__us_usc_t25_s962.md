@@ -17,7 +17,7 @@
 
     The roll prepared pursuant to [section 961 of this title][/us/usc/t25/s961] shall constitute the membership roll of the Omaha Tribe of Nebraska as of September 14, 1961, notwithstanding the provisions of article II, section 1 of the tribal constitution, and children who are born after September 14, 1961, may be enrolled if they meet the requirements of section 1(b) of article II of the tribal constitution, applicable to children born after the date that amendment I to said constitution was approved, or any amendment thereof.
 
-([Pub. L. 87–235, § 2][/us/pl/87/235/s2], Sept. 14, 1961, [75 Stat. 508][/us/stat/75/508].)
+([Pub. L. 87–235][/us/pl/87/235], § 2, Sept. 14, 1961, [75 Stat. 508][/us/stat/75/508].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t25/s961]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs961
-[/us/pl/87/235/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F235%2Fs2
+[/us/pl/87/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F235
 [/us/stat/75/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F508
 
 

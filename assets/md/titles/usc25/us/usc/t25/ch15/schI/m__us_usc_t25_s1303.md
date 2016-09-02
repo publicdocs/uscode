@@ -17,7 +17,7 @@
 
     The privilege of the writ of habeas corpus shall be available to any person, in a court of the United States, to test the legality of his detention by order of an Indian tribe.
 
-([Pub. L. 90–284, title II, § 203][/us/pl/90/284/s203], Apr. 11, 1968, [82 Stat. 78][/us/stat/82/78].)
+([Pub. L. 90–284, title II][/us/pl/90/284/tII], § 203, Apr. 11, 1968, [82 Stat. 78][/us/stat/82/78].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/90/284/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F284%2Fs203
+[/us/pl/90/284/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F284%2FtII
 [/us/stat/82/78]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F78
 
 

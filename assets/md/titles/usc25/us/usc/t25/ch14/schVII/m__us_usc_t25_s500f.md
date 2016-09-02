@@ -17,7 +17,7 @@
 
     The Secretary of the Interior is authorized and directed to organize and manage the reindeer industry or business provided for by this subchapter in such manner as to establish and maintain for said natives of Alaska a complete and self-sustaining economy and to encourage and develop the activity and responsibility of said natives in all branches of said industry or business.
 
-([Sept. 1, 1937, ch. 897, § 7][/us/act/1937-09-01/ch897/s7], [50 Stat. 900][/us/stat/50/900].)
+([Sept. 1, 1937, ch. 897][/us/act/1937-09-01/ch897], § 7, [50 Stat. 900][/us/stat/50/900].)
 
  __Codification__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1937-09-01/ch897/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-09-01%2Fch897%2Fs7
+[/us/act/1937-09-01/ch897]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-09-01%2Fch897
 [/us/stat/50/900]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F50%2F900
 [/us/usc/t48/s250f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs250f
 

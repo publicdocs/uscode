@@ -17,7 +17,7 @@
 
     The funds on deposit in the United States Treasury to the credit of the Lemhi Tribe, represented by the Shoshone-Bannock Tribes of Indians of the Fort Hall Reservation, Idaho, appropriated by the Act of May 25, 1971 ([Public Law 92–18][/us/pl/92/18]), to pay a judgment of $4,500,000 entered by the Indian Claims Commission in docket numbered 326–I, and interest thereon less attorneys’ fees and expenses shall be credited to the Shoshone-Bannock Tribes of the Fort Hall Reservation for the claims of said tribes enumerated in docket numbered 326–I.
 
-([Pub. L. 92–442, § 1][/us/pl/92/442/s1], Sept. 29, 1972, [86 Stat. 743][/us/stat/86/743].)
+([Pub. L. 92–442][/us/pl/92/442], § 1, Sept. 29, 1972, [86 Stat. 743][/us/stat/86/743].)
 
  __References in Text__ 
 
@@ -33,7 +33,7 @@
 ----------
 
 [/us/pl/92/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F18
-[/us/pl/92/442/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F442%2Fs1
+[/us/pl/92/442]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F442
 [/us/stat/86/743]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F743
 [/us/pl/92/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F18
 [/us/stat/85/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F40

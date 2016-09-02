@@ -17,7 +17,7 @@
 
     Any part of such funds that may be distributed per capita to the members of the tribes shall not be subject to Federal or State income tax.
 
-([Pub. L. 90–278, § 2][/us/pl/90/278/s2], Mar. 30, 1968, [82 Stat. 69][/us/stat/82/69].)
+([Pub. L. 90–278][/us/pl/90/278], § 2, Mar. 30, 1968, [82 Stat. 69][/us/stat/82/69].)
 
  __Codification__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/90/278/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F278%2Fs2
+[/us/pl/90/278]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F278
 [/us/stat/82/69]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F69
 [/us/act/1946-08-09/ch933]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-09%2Fch933
 [/us/stat/60/968]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F968

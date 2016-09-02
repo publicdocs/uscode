@@ -21,7 +21,7 @@
 
     (2) deposited only into accounts that are insured by an agency or instrumentality of the United States, or are fully collateralized to ensure protection of the funds, even in the event of a bank failure.
 
-([Pub. L. 108–447, div. E, title I, § 111][/us/pl/108/447/s111], Dec. 8, 2004, [118 Stat. 3064][/us/stat/118/3064].)
+([Pub. L. 108–447, div. E, title I][/us/pl/108/447/dE/tI], § 111, Dec. 8, 2004, [118 Stat. 3064][/us/stat/118/3064].)
 
  __References in Text__ 
 
@@ -37,19 +37,19 @@
 
 Provisions similar to those in this section were contained in the following prior appropriation acts:
 
-    [Pub. L. 108–108, title I, § 111][/us/pl/108/108/s111], Nov. 10, 2003, [117 Stat. 1266][/us/stat/117/1266].
+    [Pub. L. 108–108, title I][/us/pl/108/108/tI], § 111, Nov. 10, 2003, [117 Stat. 1266][/us/stat/117/1266].
 
-    [Pub. L. 108–7, div. F, title I, § 111][/us/pl/108/7/s111], Feb. 20, 2003, [117 Stat. 239][/us/stat/117/239].
+    [Pub. L. 108–7, div. F, title I][/us/pl/108/7/dF/tI], § 111, Feb. 20, 2003, [117 Stat. 239][/us/stat/117/239].
 
-    [Pub. L. 107–63, title I, § 111][/us/pl/107/63/s111], Nov. 5, 2001, [115 Stat. 438][/us/stat/115/438].
+    [Pub. L. 107–63, title I][/us/pl/107/63/tI], § 111, Nov. 5, 2001, [115 Stat. 438][/us/stat/115/438].
 
-    [Pub. L. 106–291, title I, § 111][/us/pl/106/291/s111], Oct. 11, 2000, [114 Stat. 942][/us/stat/114/942].
+    [Pub. L. 106–291, title I][/us/pl/106/291/tI], § 111, Oct. 11, 2000, [114 Stat. 942][/us/stat/114/942].
 
-    [Pub. L. 106–113, div. B, § 1000(a)(3)][/us/pl/106/113/s1000/a/3], \[title I, § 111\], Nov. 29, 1999, [113 Stat. 1535][/us/stat/113/1535], 1501A–156.
+    [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(3), \[title I, § 111\], Nov. 29, 1999, [113 Stat. 1535][/us/stat/113/1535], 1501A–156.
 
-    [Pub. L. 105–277, div. A, § 101(e)][/us/pl/105/277/s101/e], \[title I, § 111\], Oct. 21, 1998, [112 Stat. 2681–231][/us/stat/112/2681-231], 2681–254.
+    [Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(e), \[title I, § 111\], Oct. 21, 1998, [112 Stat. 2681–231][/us/stat/112/2681-231], 2681–254.
 
-    [Pub. L. 105–83, title I, § 112][/us/pl/105/83/s112], Nov. 14, 1997, [111 Stat. 1562][/us/stat/111/1562].
+    [Pub. L. 105–83, title I][/us/pl/105/83/tI], § 112, Nov. 14, 1997, [111 Stat. 1562][/us/stat/111/1562].
 
 ----------
 
@@ -60,7 +60,7 @@ Provisions similar to those in this section were contained in the following prio
 
 [/us/usc/t25/s450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450
 [/us/usc/t25/s2501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs2501
-[/us/pl/108/447/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs111
+[/us/pl/108/447/dE/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2FdE%2FtI
 [/us/stat/118/3064]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3064
 [/us/pl/93/638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638
 [/us/stat/88/2203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2203
@@ -68,19 +68,19 @@ Provisions similar to those in this section were contained in the following prio
 [/us/pl/100/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297
 [/us/stat/102/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F385
 [/us/usc/t25/s2501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs2501
-[/us/pl/108/108/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F108%2Fs111
+[/us/pl/108/108/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F108%2FtI
 [/us/stat/117/1266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1266
-[/us/pl/108/7/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs111
+[/us/pl/108/7/dF/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2FdF%2FtI
 [/us/stat/117/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F239
-[/us/pl/107/63/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F63%2Fs111
+[/us/pl/107/63/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F63%2FtI
 [/us/stat/115/438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F438
-[/us/pl/106/291/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F291%2Fs111
+[/us/pl/106/291/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F291%2FtI
 [/us/stat/114/942]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F942
-[/us/pl/106/113/s1000/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F3
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1535
-[/us/pl/105/277/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fe
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-231
-[/us/pl/105/83/s112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F83%2Fs112
+[/us/pl/105/83/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F83%2FtI
 [/us/stat/111/1562]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1562
 
 

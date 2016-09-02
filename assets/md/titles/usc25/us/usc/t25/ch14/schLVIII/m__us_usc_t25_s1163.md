@@ -23,7 +23,7 @@
 
     (c) A share or proportional share payable to an enrollee or person under eighteen years of age or to an enrollee or person under legal disability other than because of age shall be paid and held in trust for such enrollee or person pursuant to a trust agreement to be made and entered into by and between the Cheyenne-Arapaho Tribes of Oklahoma, as grantor, and a national banking association located in the State of Oklahoma, as Trustee, which trust agreement shall be authorized and approved by the tribal governing body and approved by the Secretary of the Interior. The Secretary of the Interior is authorized to approve amendments to trust agreements entered into pursuant to this subchapter, to permit the distribution of assets to, and the termination of trusts for, minor beneficiaries, not under other legal disability, who have attained or who shall hereafter attain the age of eighteen years.
 
-([Pub. L. 90–117, § 3][/us/pl/90/117/s3], Oct. 31, 1967, [81 Stat. 337][/us/stat/81/337]; [Pub. L. 92–439][/us/pl/92/439], Sept. 29, 1972, [86 Stat. 742][/us/stat/86/742].)
+([Pub. L. 90–117][/us/pl/90/117], § 3, Oct. 31, 1967, [81 Stat. 337][/us/stat/81/337]; [Pub. L. 92–439][/us/pl/92/439], Sept. 29, 1972, [86 Stat. 742][/us/stat/86/742].)
 
  __Amendments__ 
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/90/117/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F117%2Fs3
+[/us/pl/90/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F117
 [/us/stat/81/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F337
 [/us/pl/92/439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F439
 [/us/stat/86/742]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F742

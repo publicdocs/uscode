@@ -37,7 +37,7 @@
 
         For the purpose of subsection (b) of this section, the Secretary shall accept any available evidence establishing Coquille ancestry and the required amount of Indian blood quantum. However, the Secretary shall accept as conclusive evidence of Coquille ancestry information contained in the Coquille roll compiled by the Bureau of Indian Affairs on August 29, 1960, and as conclusive evidence of Indian blood quantum the information contained in the January 1, 1940, census roll of nonreservation Indians of the Grand Ronde-Siletz Agency.
 
-([Pub. L. 101–42, § 7][/us/pl/101/42/s7], June 28, 1989, [103 Stat. 93][/us/stat/103/93].)
+([Pub. L. 101–42][/us/pl/101/42], § 7, June 28, 1989, [103 Stat. 93][/us/stat/103/93].)
 
 ----------
 
@@ -46,7 +46,7 @@
 ----------
 ----------
 
-[/us/pl/101/42/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F42%2Fs7
+[/us/pl/101/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F42
 [/us/stat/103/93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F93
 
 

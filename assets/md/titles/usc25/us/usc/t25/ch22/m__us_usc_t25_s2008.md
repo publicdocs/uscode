@@ -291,7 +291,7 @@
 
                 With respect to a budget request under paragraph (1), the amount required to provide full funding for an administrative cost grant for each tribe or tribal organization operating a contract or grant school at the time the annual budget request is submitted, which amount shall include the amount of funds required to provide full funding for an administrative cost grant for each tribe or tribal organization which began operation of a contract or grant school with administrative cost grant funds supplied from the amount described in subparagraph (A).
 
-([Pub. L. 95–561, title XI, § 1128][/us/pl/95/561/s1128], as added [Pub. L. 107–110, title X, § 1042][/us/pl/107/110/s1042], Jan. 8, 2002, [115 Stat. 2032][/us/stat/115/2032].)
+([Pub. L. 95–561, title XI][/us/pl/95/561/tXI], § 1128, as added [Pub. L. 107–110, title X][/us/pl/107/110/tX], § 1042, Jan. 8, 2002, [115 Stat. 2032][/us/stat/115/2032].)
 
  __References in Text__ 
 
@@ -301,13 +301,13 @@
 
  __Prior Provisions__ 
 
-    A prior section 2008, [Pub. L. 95–561, title XI, § 1128][/us/pl/95/561/s1128], as added [Pub. L. 103–382, title III, § 381][/us/pl/103/382/s381], Oct. 20, 1994, [108 Stat. 3993][/us/stat/108/3993], related to administrative cost grants, prior to the general amendment of this chapter by [Pub. L. 107–110][/us/pl/107/110].
+    A prior section 2008, [Pub. L. 95–561, title XI][/us/pl/95/561/tXI], § 1128, as added [Pub. L. 103–382, title III][/us/pl/103/382/tIII], § 381, Oct. 20, 1994, [108 Stat. 3993][/us/stat/108/3993], related to administrative cost grants, prior to the general amendment of this chapter by [Pub. L. 107–110][/us/pl/107/110].
 
     Another prior section 2008 and a prior section 2008a were omitted in the general amendment of this chapter by [Pub. L. 103–382][/us/pl/103/382].
 
-    Section 2008, [Pub. L. 95–561, title XI, § 1128][/us/pl/95/561/s1128], Nov. 1, 1978, [92 Stat. 2320][/us/stat/92/2320]; [Pub. L. 96–46, § 2(b)(7)][/us/pl/96/46/s2/b/7], (8), Aug. 6, 1979, [93 Stat. 341][/us/stat/93/341]; [Pub. L. 98–511, title V, § 505][/us/pl/98/511/s505], Oct. 19, 1984, [98 Stat. 2394][/us/stat/98/2394]; [Pub. L. 99–89, § 5][/us/pl/99/89/s5], Aug. 15, 1985, [99 Stat. 381][/us/stat/99/381]; [Pub. L. 99–228, § 1][/us/pl/99/228/s1], Dec. 28, 1985, [99 Stat. 1747][/us/stat/99/1747]; [Pub. L. 100–297, title V][/us/pl/100/297], §§ 5107(a), 5108(b), (c), Apr. 28, 1988, [102 Stat. 368][/us/stat/102/368], 375; [Pub. L. 100–427][/us/pl/100/427], §§ 2(a), (b)(1), (c), 3, 5, Sept. 9, 1988, [102 Stat. 1604][/us/stat/102/1604], 1605; [Pub. L. 101–301, § 5(d)(1)][/us/pl/101/301/s5/d/1], May 24, 1990, [104 Stat. 208][/us/stat/104/208]; [Pub. L. 103–382, title III, § 393(b)][/us/pl/103/382/s393/b], Oct. 20, 1994, [108 Stat. 4026][/us/stat/108/4026], related to allotment formula.
+    Section 2008, [Pub. L. 95–561, title XI][/us/pl/95/561/tXI], § 1128, Nov. 1, 1978, [92 Stat. 2320][/us/stat/92/2320]; [Pub. L. 96–46][/us/pl/96/46], § 2(b)(7), (8), Aug. 6, 1979, [93 Stat. 341][/us/stat/93/341]; [Pub. L. 98–511, title V][/us/pl/98/511/tV], § 505, Oct. 19, 1984, [98 Stat. 2394][/us/stat/98/2394]; [Pub. L. 99–89][/us/pl/99/89], § 5, Aug. 15, 1985, [99 Stat. 381][/us/stat/99/381]; [Pub. L. 99–228][/us/pl/99/228], § 1, Dec. 28, 1985, [99 Stat. 1747][/us/stat/99/1747]; [Pub. L. 100–297, title V][/us/pl/100/297/tV], §§ 5107(a), 5108(b), (c), Apr. 28, 1988, [102 Stat. 368][/us/stat/102/368], 375; [Pub. L. 100–427][/us/pl/100/427], §§ 2(a), (b)(1), (c), 3, 5, Sept. 9, 1988, [102 Stat. 1604][/us/stat/102/1604], 1605; [Pub. L. 101–301][/us/pl/101/301], § 5(d)(1), May 24, 1990, [104 Stat. 208][/us/stat/104/208]; [Pub. L. 103–382, title III][/us/pl/103/382/tIII], § 393(b), Oct. 20, 1994, [108 Stat. 4026][/us/stat/108/4026], related to allotment formula.
 
-    Section 2008a, [Pub. L. 95–561, title XI, § 1128A][/us/pl/95/561/s1128A], as added [Pub. L. 100–297, title V, § 5108(a)][/us/pl/100/297/s5108/a], Apr. 28, 1988, [102 Stat. 369][/us/stat/102/369]; amended [Pub. L. 100–427, § 4][/us/pl/100/427/s4], Sept. 9, 1988, [102 Stat. 1604][/us/stat/102/1604]; [Pub. L. 101–301, § 5(f)][/us/pl/101/301/s5/f], May 24, 1990, [104 Stat. 208][/us/stat/104/208], related to administrative cost grants.
+    Section 2008a, [Pub. L. 95–561, title XI][/us/pl/95/561/tXI], § 1128A, as added [Pub. L. 100–297, title V][/us/pl/100/297/tV], § 5108(a), Apr. 28, 1988, [102 Stat. 369][/us/stat/102/369]; amended [Pub. L. 100–427][/us/pl/100/427], § 4, Sept. 9, 1988, [102 Stat. 1604][/us/stat/102/1604]; [Pub. L. 101–301][/us/pl/101/301], § 5(f), May 24, 1990, [104 Stat. 208][/us/stat/104/208], related to administrative cost grants.
 
 ----------
 
@@ -322,8 +322,8 @@
 [/us/usc/t25/s2011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs2011
 [/us/usc/t25/s2501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs2501
 [/us/usc/t31/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105
-[/us/pl/95/561/s1128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2Fs1128
-[/us/pl/107/110/s1042]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2Fs1042
+[/us/pl/95/561/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2FtXI
+[/us/pl/107/110/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2FtX
 [/us/stat/115/2032]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F2032
 [/us/pl/100/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297
 [/us/stat/102/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F385
@@ -331,35 +331,35 @@
 [/us/pl/93/638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638
 [/us/stat/88/2203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2203
 [/us/usc/t25/s450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450
-[/us/pl/95/561/s1128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2Fs1128
-[/us/pl/103/382/s381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs381
+[/us/pl/95/561/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2FtXI
+[/us/pl/103/382/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2FtIII
 [/us/stat/108/3993]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3993
 [/us/pl/107/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110
 [/us/pl/103/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382
-[/us/pl/95/561/s1128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2Fs1128
+[/us/pl/95/561/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2FtXI
 [/us/stat/92/2320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2320
-[/us/pl/96/46/s2/b/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F46%2Fs2%2Fb%2F7
+[/us/pl/96/46]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F46
 [/us/stat/93/341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F341
-[/us/pl/98/511/s505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F511%2Fs505
+[/us/pl/98/511/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F511%2FtV
 [/us/stat/98/2394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2394
-[/us/pl/99/89/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F89%2Fs5
+[/us/pl/99/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F89
 [/us/stat/99/381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F381
-[/us/pl/99/228/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F228%2Fs1
+[/us/pl/99/228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F228
 [/us/stat/99/1747]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1747
-[/us/pl/100/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297
+[/us/pl/100/297/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297%2FtV
 [/us/stat/102/368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F368
 [/us/pl/100/427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F427
 [/us/stat/102/1604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1604
-[/us/pl/101/301/s5/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F301%2Fs5%2Fd%2F1
+[/us/pl/101/301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F301
 [/us/stat/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F208
-[/us/pl/103/382/s393/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs393%2Fb
+[/us/pl/103/382/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2FtIII
 [/us/stat/108/4026]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4026
-[/us/pl/95/561/s1128A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2Fs1128A
-[/us/pl/100/297/s5108/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297%2Fs5108%2Fa
+[/us/pl/95/561/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2FtXI
+[/us/pl/100/297/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297%2FtV
 [/us/stat/102/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F369
-[/us/pl/100/427/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F427%2Fs4
+[/us/pl/100/427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F427
 [/us/stat/102/1604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1604
-[/us/pl/101/301/s5/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F301%2Fs5%2Ff
+[/us/pl/101/301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F301
 [/us/stat/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F208
 
 

@@ -17,7 +17,7 @@
 
     The Secretary of the Interior, in cooperation with the Tribal Council, shall prepare a roll of all persons born on or prior to and living on October 6, 1972, who meet the requirements for membership of the Yankton Sioux tribal constitution approved on October 5, 1932, as amended.
 
-([Pub. L. 92–468, § 3][/us/pl/92/468/s3], Oct. 6, 1972, [86 Stat. 782][/us/stat/86/782].)
+([Pub. L. 92–468][/us/pl/92/468], § 3, Oct. 6, 1972, [86 Stat. 782][/us/stat/86/782].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/92/468/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F468%2Fs3
+[/us/pl/92/468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F468
 [/us/stat/86/782]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F782
 
 

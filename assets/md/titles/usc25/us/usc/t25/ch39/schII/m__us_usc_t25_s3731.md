@@ -93,7 +93,7 @@
 
         The Secretary shall administer the programs described in this section until a sufficient number of Indians are trained to ensure that there is an adequate number of qualified, professional Indian agricultural resource managers to manage the Bureau agricultural resource programs and programs maintained by or for Indian tribes.
 
-([Pub. L. 103–177, title II, § 201][/us/pl/103/177/s201], Dec. 3, 1993, [107 Stat. 2018][/us/stat/107/2018].)
+([Pub. L. 103–177, title II][/us/pl/103/177/tII], § 201, Dec. 3, 1993, [107 Stat. 2018][/us/stat/107/2018].)
 
  __References in Text__ 
 
@@ -376,7 +376,7 @@
 
 [/us/usc/t25/s3113/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs3113%2Fa
 [/us/usc/t25/s450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450
-[/us/pl/103/177/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F177%2Fs201
+[/us/pl/103/177/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F177%2FtII
 [/us/stat/107/2018]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2018
 [/us/pl/93/638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638
 [/us/stat/88/2203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2203

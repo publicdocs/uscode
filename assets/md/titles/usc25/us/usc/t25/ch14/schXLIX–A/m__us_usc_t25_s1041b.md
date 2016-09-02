@@ -47,7 +47,7 @@
 
             Nothing in this section shall restrict the Tribe and the Cherokee Nation from entering into cooperative agreements to provide such programs or services and such funding agreements shall be honored by Federal agencies, unless otherwise prohibited by law.
 
-([Pub. L. 106–568, title VII, § 704][/us/pl/106/568/s704], Dec. 27, 2000, [114 Stat. 2914][/us/stat/114/2914].)
+([Pub. L. 106–568, title VII][/us/pl/106/568/tVII], § 704, Dec. 27, 2000, [114 Stat. 2914][/us/stat/114/2914].)
 
  __References in Text__ 
 
@@ -62,7 +62,7 @@
 
 [/us/stat/49/1967]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1967
 [/us/usc/t25/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs501
-[/us/pl/106/568/s704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F568%2Fs704
+[/us/pl/106/568/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F568%2FtVII
 [/us/stat/114/2914]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2914
 [/us/act/1936-06-26/ch831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-26%2Fch831
 [/us/stat/49/1967]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1967

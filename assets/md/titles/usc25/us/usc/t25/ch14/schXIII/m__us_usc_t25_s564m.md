@@ -23,7 +23,7 @@
 
         Nothing in this subchapter shall abrogate any fishing rights or privileges of the tribe or the members thereof enjoyed under Federal treaty.
 
-([Aug. 13, 1954, ch. 732, § 14][/us/act/1954-08-13/ch732/s14], [68 Stat. 722][/us/stat/68/722].)
+([Aug. 13, 1954, ch. 732][/us/act/1954-08-13/ch732], § 14, [68 Stat. 722][/us/stat/68/722].)
 
 ----------
 
@@ -33,7 +33,7 @@
 ----------
 
 [/us/usc/t25/s564q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs564q
-[/us/act/1954-08-13/ch732/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-13%2Fch732%2Fs14
+[/us/act/1954-08-13/ch732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-13%2Fch732
 [/us/stat/68/722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F722
 
 

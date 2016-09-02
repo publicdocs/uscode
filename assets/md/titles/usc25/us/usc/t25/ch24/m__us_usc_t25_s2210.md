@@ -17,7 +17,7 @@
 
     All lands or interests in land acquired by the United States for an Indian or Indian tribe under authority of this chapter shall be exempt from Federal, State and local taxation.
 
-([Pub. L. 97–459, title II, § 211][/us/pl/97/459/s211], Jan. 12, 1983, [96 Stat. 2519][/us/stat/96/2519].)
+([Pub. L. 97–459, title II][/us/pl/97/459/tII], § 211, Jan. 12, 1983, [96 Stat. 2519][/us/stat/96/2519].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/97/459/s211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F459%2Fs211
+[/us/pl/97/459/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F459%2FtII
 [/us/stat/96/2519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2519
 
 

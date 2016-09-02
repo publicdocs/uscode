@@ -17,7 +17,7 @@
 
     No funds from any grant or contract pursuant to this part shall be made available to any school district unless the Secretary is satisfied that the quality and standard of education, including facilities and auxiliary services, for Indian students enrolled in the schools of such district are at least equal to that provided all other students from resources, other than resources provided in this part, available to the local school district.
 
-([Pub. L. 93–638, title II, § 205][/us/pl/93/638/s205], Jan. 4, 1975, [88 Stat. 2216][/us/stat/88/2216].)
+([Pub. L. 93–638, title II][/us/pl/93/638/tII], § 205, Jan. 4, 1975, [88 Stat. 2216][/us/stat/88/2216].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/93/638/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638%2Fs205
+[/us/pl/93/638/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638%2FtII
 [/us/stat/88/2216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2216
 [/us/pl/93/638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638
 [/us/usc/t25/s450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450

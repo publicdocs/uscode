@@ -49,7 +49,7 @@
 
         Notwithstanding any other provision of law, each patient shall have reasonable access to the medical or health records of such patient which are held by, or on behalf of, the Service.
 
-([Pub. L. 94–437, title VI, § 602][/us/pl/94/437/s602], as added [Pub. L. 100–713, title VI, § 601(a)][/us/pl/100/713/s601/a], Nov. 23, 1988, [102 Stat. 4825][/us/stat/102/4825]; amended [Pub. L. 102–573, title IX, § 901(3)][/us/pl/102/573/s901/3], Oct. 29, 1992, [106 Stat. 4591][/us/stat/106/4591].)
+([Pub. L. 94–437, title VI][/us/pl/94/437/tVI], § 602, as added [Pub. L. 100–713, title VI][/us/pl/100/713/tVI], § 601(a), Nov. 23, 1988, [102 Stat. 4825][/us/stat/102/4825]; amended [Pub. L. 102–573, title IX][/us/pl/102/573/tIX], § 901(3), Oct. 29, 1992, [106 Stat. 4591][/us/stat/106/4591].)
 
  __References in Text__ 
 
@@ -67,10 +67,10 @@
 ----------
 
 [/us/usc/t25/s450f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450f
-[/us/pl/94/437/s602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437%2Fs602
-[/us/pl/100/713/s601/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F713%2Fs601%2Fa
+[/us/pl/94/437/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437%2FtVI
+[/us/pl/100/713/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F713%2FtVI
 [/us/stat/102/4825]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4825
-[/us/pl/102/573/s901/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2Fs901%2F3
+[/us/pl/102/573/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2FtIX
 [/us/stat/106/4591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4591
 [/us/pl/93/638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638
 [/us/stat/88/2206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2206

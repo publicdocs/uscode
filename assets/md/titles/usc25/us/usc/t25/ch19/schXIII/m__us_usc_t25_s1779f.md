@@ -113,7 +113,7 @@
 
         (2) nothing in this section acknowledges, enhances, or establishes any prior right, title, or interest of any claimant tribe in or to the Arkansas Riverbed.
 
-([Pub. L. 107–331, title VI, § 608][/us/pl/107/331/s608], Dec. 13, 2002, [116 Stat. 2852][/us/stat/116/2852].)
+([Pub. L. 107–331, title VI][/us/pl/107/331/tVI], § 608, Dec. 13, 2002, [116 Stat. 2852][/us/stat/116/2852].)
 
  __References in Text__ 
 
@@ -138,7 +138,7 @@
 [/us/usc/t25/s1779d/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1779d%2Fa
 [/us/usc/t25/s1779c/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1779c%2Fd
 [/us/usc/t31/s1304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1304
-[/us/pl/107/331/s608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F331%2Fs608
+[/us/pl/107/331/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F331%2FtVI
 [/us/stat/116/2852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2852
 [/us/usc/t25/s1779d/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1779d%2Fa
 [/us/pl/107/331/s606/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F331%2Fs606%2Fa

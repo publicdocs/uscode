@@ -17,7 +17,7 @@
 
     In no case shall the amount of Federal funds available to a tribal government involved in any demonstration project be reduced as a result of the enactment of this chapter.
 
-([Pub. L. 102–477, § 12][/us/pl/102/477/s12], Oct. 23, 1992, [106 Stat. 2304][/us/stat/106/2304].)
+([Pub. L. 102–477][/us/pl/102/477], § 12, Oct. 23, 1992, [106 Stat. 2304][/us/stat/106/2304].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/102/477/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F477%2Fs12
+[/us/pl/102/477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F477
 [/us/stat/106/2304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2304
 
 

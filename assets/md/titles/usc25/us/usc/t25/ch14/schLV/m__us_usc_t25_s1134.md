@@ -17,7 +17,7 @@
 
     The funds distributed under the provisions of this subchapter shall not be subject to Federal or State income taxes.
 
-([Pub. L. 89–660, § 4][/us/pl/89/660/s4], Oct. 14, 1966, [80 Stat. 911][/us/stat/80/911].)
+([Pub. L. 89–660][/us/pl/89/660], § 4, Oct. 14, 1966, [80 Stat. 911][/us/stat/80/911].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/89/660/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F660%2Fs4
+[/us/pl/89/660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F660
 [/us/stat/80/911]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F911
 
 

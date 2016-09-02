@@ -17,11 +17,11 @@
 
     The Secretary of the Interior shall, under the direction of the President, cause to be discontinued the services of such agents, subagents, interpreters, and mechanics as may from time to time become unnecessary, in consequence of the emigration of the Indians, or other causes.
 
-(R.S. § 2073; [Feb. 27, 1877, ch. 69, § 1][/us/act/1877-02-27/ch69/s1], [19 Stat. 244][/us/stat/19/244].)
+(R.S. § 2073; [Feb. 27, 1877, ch. 69][/us/act/1877-02-27/ch69], § 1, [19 Stat. 244][/us/stat/19/244].)
 
  __Codification__ 
 
-    R.S. § 2073 derived from [act July 9, 1832, ch. 174, § 5][/us/act/1832-07-09/ch174/s5], [4 Stat. 564][/us/stat/4/564].
+    R.S. § 2073 derived from [act July 9, 1832, ch. 174][/us/act/1832-07-09/ch174], § 5, [4 Stat. 564][/us/stat/4/564].
 
  __Transfer of Functions__ 
 
@@ -38,9 +38,9 @@
 ----------
 ----------
 
-[/us/act/1877-02-27/ch69/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1877-02-27%2Fch69%2Fs1
+[/us/act/1877-02-27/ch69]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1877-02-27%2Fch69
 [/us/stat/19/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F19%2F244
-[/us/act/1832-07-09/ch174/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1832-07-09%2Fch174%2Fs5
+[/us/act/1832-07-09/ch174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1832-07-09%2Fch174
 [/us/stat/4/564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F4%2F564
 [/us/stat/64/1262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1262
 [/us/usc/t25/s64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs64

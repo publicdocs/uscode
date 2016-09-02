@@ -45,7 +45,7 @@
 
         Except as specifically provided in this subchapter, nothing in this subchapter shall alter any property right or obligation, any contractual right or obligation, or any obligation for taxes levied.
 
-([Pub. L. 106–568, title XIV, § 1404][/us/pl/106/568/s1404], Dec. 27, 2000, [114 Stat. 2939][/us/stat/114/2939].)
+([Pub. L. 106–568, title XIV][/us/pl/106/568/tXIV], § 1404, Dec. 27, 2000, [114 Stat. 2939][/us/stat/114/2939].)
 
  __References in Text__ 
 
@@ -63,7 +63,7 @@
 [/us/pl/85/671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F671
 [/us/stat/72/619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F619
 [/us/usc/t25/s450f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450f
-[/us/pl/106/568/s1404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F568%2Fs1404
+[/us/pl/106/568/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F568%2FtXIV
 [/us/stat/114/2939]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2939
 [/us/pl/85/671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F671
 [/us/stat/72/619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F619

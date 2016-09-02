@@ -29,7 +29,7 @@
 
     (6) diminish the trust responsibility of the United States to Indian tribal governments and tribal justice systems of such governments.
 
-([Pub. L. 103–176, title III, § 301][/us/pl/103/176/s301], Dec. 3, 1993, [107 Stat. 2009][/us/stat/107/2009].)
+([Pub. L. 103–176, title III][/us/pl/103/176/tIII], § 301, Dec. 3, 1993, [107 Stat. 2009][/us/stat/107/2009].)
 
 ----------
 
@@ -38,7 +38,7 @@
 ----------
 ----------
 
-[/us/pl/103/176/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F176%2Fs301
+[/us/pl/103/176/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F176%2FtIII
 [/us/stat/107/2009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2009
 
 

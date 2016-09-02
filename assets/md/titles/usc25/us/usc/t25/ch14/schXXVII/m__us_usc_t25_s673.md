@@ -13,9 +13,9 @@
 
 [Previous](./../../../../..//us/usc/t25/ch14/schXXVII/m__us_usc_t25_s672.md) | [Next](./../../../../..//us/usc/t25/ch14/schXXVII/m__us_usc_t25_s674.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs673)
 
-## § 673. Repealed. [Pub. L. 97–375, title I, § 108(b)][/us/pl/97/375/s108/b], Dec. 21, 1982, [96 Stat. 1820][/us/stat/96/1820]
+## § 673. Repealed. [Pub. L. 97–375, title I][/us/pl/97/375/tI], § 108(b), Dec. 21, 1982, [96 Stat. 1820][/us/stat/96/1820]
 
-    Section, [act Aug. 21, 1951, ch. 338, § 3][/us/act/1951-08-21/ch338/s3], [65 Stat. 194][/us/stat/65/194], directed Secretary of the Interior to make a full and complete progress report to Congress of his activities and of expenditures authorized under [section 671 of this title][/us/usc/t25/s671].
+    Section, [act Aug. 21, 1951, ch. 338][/us/act/1951-08-21/ch338], § 3, [65 Stat. 194][/us/stat/65/194], directed Secretary of the Interior to make a full and complete progress report to Congress of his activities and of expenditures authorized under [section 671 of this title][/us/usc/t25/s671].
 
 ----------
 
@@ -24,9 +24,9 @@
 ----------
 ----------
 
-[/us/pl/97/375/s108/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F375%2Fs108%2Fb
+[/us/pl/97/375/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F375%2FtI
 [/us/stat/96/1820]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1820
-[/us/act/1951-08-21/ch338/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-08-21%2Fch338%2Fs3
+[/us/act/1951-08-21/ch338]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-08-21%2Fch338
 [/us/stat/65/194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F65%2F194
 [/us/usc/t25/s671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs671
 

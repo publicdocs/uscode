@@ -17,7 +17,7 @@
 
     For the purpose of complying with the contribution requirement of [section 1832(b)(2)(B) of this title][/us/usc/t25/s1832/b/2/B], a tribally controlled college or university may use funds which are available from any private or tribal source. Any real or personal property received by a tribally controlled college or university as a donation or gift on or after October 30, 1990, may, to the extent of its fair market value as determined by the Secretary, be used by such college or university as its contribution pursuant to [section 1832(b)(2)(B) of this title][/us/usc/t25/s1832/b/2/B], or as part of such contribution, as the case may be. In any case in which any such real or personal property so used is thereafter sold or otherwise disposed of by such college or university, the proceeds therefrom shall be deposited pursuant to [section 1832(b)(2)(B) of this title][/us/usc/t25/s1832/b/2/B] but shall not again be considered for Federal capital contribution purposes.
 
-([Pub. L. 95–471, title III, § 304][/us/pl/95/471/s304], as added [Pub. L. 98–192, § 13][/us/pl/98/192/s13], Dec. 1, 1983, [97 Stat. 1342][/us/stat/97/1342]; amended [Pub. L. 101–477, § 1(d)(1)(C)][/us/pl/101/477/s1/d/1/C], Oct. 30, 1990, [104 Stat. 1153][/us/stat/104/1153]; [Pub. L. 105–244, title IX, § 901(b)(5)][/us/pl/105/244/s901/b/5], (7), Oct. 7, 1998, [112 Stat. 1828][/us/stat/112/1828].)
+([Pub. L. 95–471, title III][/us/pl/95/471/tIII], § 304, as added [Pub. L. 98–192][/us/pl/98/192], § 13, Dec. 1, 1983, [97 Stat. 1342][/us/stat/97/1342]; amended [Pub. L. 101–477][/us/pl/101/477], § 1(d)(1)(C), Oct. 30, 1990, [104 Stat. 1153][/us/stat/104/1153]; [Pub. L. 105–244, title IX][/us/pl/105/244/tIX], § 901(b)(5), (7), Oct. 7, 1998, [112 Stat. 1828][/us/stat/112/1828].)
 
  __Amendments__ 
 
@@ -43,12 +43,12 @@
 [/us/usc/t25/s1832/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1832%2Fb%2F2%2FB
 [/us/usc/t25/s1832/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1832%2Fb%2F2%2FB
 [/us/usc/t25/s1832/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1832%2Fb%2F2%2FB
-[/us/pl/95/471/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F471%2Fs304
-[/us/pl/98/192/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F192%2Fs13
+[/us/pl/95/471/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F471%2FtIII
+[/us/pl/98/192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F192
 [/us/stat/97/1342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1342
-[/us/pl/101/477/s1/d/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F477%2Fs1%2Fd%2F1%2FC
+[/us/pl/101/477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F477
 [/us/stat/104/1153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1153
-[/us/pl/105/244/s901/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs901%2Fb%2F5
+[/us/pl/105/244/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtIX
 [/us/stat/112/1828]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1828
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
 [/us/pl/101/477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F477

@@ -17,7 +17,7 @@
 
     The Commissioner of Indian Affairs may, when in his judgment the good of the service will be promoted thereby, suspend or discontinue any reservation Indian school, and, with the approval of the Secretary of the Interior, may sell any reservation school building or plant that is no longer desirable as an Indian school upon any reservation and invest the proceeds in other school buildings and plants, as the needs of the service may demand, under such rules and regulations as he may, with the approval of the Secretary of the Interior, prescribe.
 
-([Apr. 21, 1904, ch. 1402, § 1][/us/act/1904-04-21/ch1402/s1], [33 Stat. 211][/us/stat/33/211].)
+([Apr. 21, 1904, ch. 1402][/us/act/1904-04-21/ch1402], § 1, [33 Stat. 211][/us/stat/33/211].)
 
  __Transfer of Functions__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1904-04-21/ch1402/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1904-04-21%2Fch1402%2Fs1
+[/us/act/1904-04-21/ch1402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1904-04-21%2Fch1402
 [/us/stat/33/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F33%2F211
 [/us/stat/64/1262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1262
 

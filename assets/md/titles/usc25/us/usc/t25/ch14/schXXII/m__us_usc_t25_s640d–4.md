@@ -25,13 +25,13 @@
 
         (3) to recommend that, subject to the consent of the Secretary, there be undertaken a program for relocation of members of one tribe from lands which may be partitioned to the other tribe in the joint use area;
 
-        (4) Repealed. [Pub. L. 93–531, § 30(a)][/us/pl/93/531/s30/a], as added [Pub. L. 96–305, § 11][/us/pl/96/305/s11], July 8, 1980, [94 Stat. 934][/us/stat/94/934].
+        (4) Repealed. [Pub. L. 93–531][/us/pl/93/531], § 30(a), as added [Pub. L. 96–305][/us/pl/96/305], § 11, July 8, 1980, [94 Stat. 934][/us/stat/94/934].
 
         (5) to make any other recommendations as are in conformity with this subchapter and the Healing case to facilitate a settlement.
 
     (b) The authorizations contained in subsection (a) of this section shall be discretionary and shall not be construed to represent any directive of the Congress.
 
-([Pub. L. 93–531, § 5][/us/pl/93/531/s5], Dec. 22, 1974, [88 Stat. 1714][/us/stat/88/1714]; [Pub. L. 93–531, § 30(a)][/us/pl/93/531/s30/a], as added [Pub. L. 96–305, § 11][/us/pl/96/305/s11], July 8, 1980, [94 Stat. 934][/us/stat/94/934].)
+([Pub. L. 93–531][/us/pl/93/531], § 5, Dec. 22, 1974, [88 Stat. 1714][/us/stat/88/1714]; [Pub. L. 93–531][/us/pl/93/531], § 30(a), as added [Pub. L. 96–305][/us/pl/96/305], § 11, July 8, 1980, [94 Stat. 934][/us/stat/94/934].)
 
  __Amendments__ 
 
@@ -47,13 +47,13 @@
 [/us/usc/t25/s640d–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs640d%E2%80%932
 [/us/usc/t25/s640d–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs640d%E2%80%933
 [/us/usc/t25/s211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs211
-[/us/pl/93/531/s30/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F531%2Fs30%2Fa
-[/us/pl/96/305/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F305%2Fs11
+[/us/pl/93/531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F531
+[/us/pl/96/305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F305
 [/us/stat/94/934]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F934
-[/us/pl/93/531/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F531%2Fs5
+[/us/pl/93/531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F531
 [/us/stat/88/1714]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1714
-[/us/pl/93/531/s30/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F531%2Fs30%2Fa
-[/us/pl/96/305/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F305%2Fs11
+[/us/pl/93/531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F531
+[/us/pl/96/305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F305
 [/us/stat/94/934]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F934
 [/us/pl/96/305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F305
 

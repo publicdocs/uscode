@@ -17,7 +17,7 @@
 
     Five hundred thousand dollars of said funds shall be held in trust for the purpose of providing education and scholarships for members of said tribes pursuant to a trust agreement to be made and entered into by and between said tribes, as grantor, and a national banking association located in the State of Oklahoma, as trustee, which trust agreement shall be authorized and approved by the tribal governing body and approved by the Secretary of the Interior.
 
-([Pub. L. 90–117, § 2][/us/pl/90/117/s2], Oct. 31, 1967, [81 Stat. 337][/us/stat/81/337].)
+([Pub. L. 90–117][/us/pl/90/117], § 2, Oct. 31, 1967, [81 Stat. 337][/us/stat/81/337].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/90/117/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F117%2Fs2
+[/us/pl/90/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F117
 [/us/stat/81/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F337
 
 

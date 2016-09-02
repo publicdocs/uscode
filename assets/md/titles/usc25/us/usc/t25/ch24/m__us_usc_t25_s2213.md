@@ -67,7 +67,7 @@
 
             The lease or agreement described in paragraph (1) shall apply to the portion of the undivided interest in allotted land described in such paragraph (including entitlement of the Indian tribe to payment under the lease or agreement), and the Indian tribe shall not be treated as being a party to the lease or agreement. Nothing in this section (or in the lease or agreement) shall be construed to affect the sovereignty of the Indian tribe.
 
-([Pub. L. 97–459, title II, § 214][/us/pl/97/459/s214], as added [Pub. L. 106–462, title I, § 103(6)][/us/pl/106/462/s103/6], Nov. 7, 2000, [114 Stat. 2000][/us/stat/114/2000]; amended [Pub. L. 108–374, § 6(a)(6)][/us/pl/108/374/s6/a/6], Oct. 27, 2004, [118 Stat. 1801][/us/stat/118/1801].)
+([Pub. L. 97–459, title II][/us/pl/97/459/tII], § 214, as added [Pub. L. 106–462, title I][/us/pl/106/462/tI], § 103(6), Nov. 7, 2000, [114 Stat. 2000][/us/stat/114/2000]; amended [Pub. L. 108–374][/us/pl/108/374], § 6(a)(6), Oct. 27, 2004, [118 Stat. 1801][/us/stat/118/1801].)
 
  __References in Text__ 
 
@@ -89,10 +89,10 @@
 [/us/usc/t25/s2215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs2215
 [/us/usc/t25/s476]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs476
 [/us/usc/t25/s2212/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs2212%2Fb%2F3
-[/us/pl/97/459/s214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F459%2Fs214
-[/us/pl/106/462/s103/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F462%2Fs103%2F6
+[/us/pl/97/459/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F459%2FtII
+[/us/pl/106/462/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F462%2FtI
 [/us/stat/114/2000]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2000
-[/us/pl/108/374/s6/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F374%2Fs6%2Fa%2F6
+[/us/pl/108/374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F374
 [/us/stat/118/1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1801
 [/us/usc/t25/s2215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs2215
 [/us/pl/97/459/s216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F459%2Fs216

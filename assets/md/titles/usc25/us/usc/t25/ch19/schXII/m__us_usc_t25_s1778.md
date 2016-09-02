@@ -45,7 +45,7 @@
 
         The purpose of this subchapter is to facilitate and implement the settlement agreement negotiated and executed by the parties to the U.S. Suit and Indian Suit for the purpose of resolving their conflicting claims to their mutual satisfaction and in the public interest.
 
-([Pub. L. 106–568, title VI, § 602][/us/pl/106/568/s602], Dec. 27, 2000, [114 Stat. 2906][/us/stat/114/2906].)
+([Pub. L. 106–568, title VI][/us/pl/106/568/tVI], § 602, Dec. 27, 2000, [114 Stat. 2906][/us/stat/114/2906].)
 
  __References in Text__ 
 
@@ -53,7 +53,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 106–568, title VI, § 611][/us/pl/106/568/s611], Dec. 27, 2000, [114 Stat. 2912][/us/stat/114/2912], provided that:
+[Pub. L. 106–568, title VI][/us/pl/106/568/tVI], § 611, Dec. 27, 2000, [114 Stat. 2912][/us/stat/114/2912], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -71,7 +71,7 @@
 
  __Short Title__ 
 
-[Pub. L. 106–568, title VI, § 601][/us/pl/106/568/s601], Dec. 27, 2000, [114 Stat. 2906][/us/stat/114/2906], provided that: 
+[Pub. L. 106–568, title VI][/us/pl/106/568/tVI], § 601, Dec. 27, 2000, [114 Stat. 2906][/us/stat/114/2906], provided that: 
 
 > “This title \[enacting this subchapter and provisions set out as a note above\] may be cited as the ‘Torres-Martinez Desert Cahuilla Indians Claims Settlement Act’.”
 
@@ -82,14 +82,14 @@
 ----------
 ----------
 
-[/us/pl/106/568/s602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F568%2Fs602
+[/us/pl/106/568/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F568%2FtVI
 [/us/stat/114/2906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2906
 [/us/act/1891-01-12/ch65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1891-01-12%2Fch65
 [/us/stat/26/712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F26%2F712
-[/us/pl/106/568/s611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F568%2Fs611
+[/us/pl/106/568/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F568%2FtVI
 [/us/stat/114/2912]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2912
 [/us/pl/106/568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F568
-[/us/pl/106/568/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F568%2Fs601
+[/us/pl/106/568/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F568%2FtVI
 [/us/stat/114/2906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2906
 
 

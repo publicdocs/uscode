@@ -17,7 +17,7 @@
 
     Every Indian woman, member of any such tribe of Indians, who may be married after August 9, 1888, to any citizen of the United States, is hereby declared to become by such marriage a citizen of the United States, with all the rights, privileges, and immunities of any such citizen, being a married woman: Provided, That nothing in sections 181 to 183 of this title contained shall impair or in any way affect the right or title of such married woman to any tribal property or any interest therein.
 
-([Aug. 9, 1888, ch. 818, § 2][/us/act/1888-08-09/ch818/s2], [25 Stat. 392][/us/stat/25/392].)
+([Aug. 9, 1888, ch. 818][/us/act/1888-08-09/ch818], § 2, [25 Stat. 392][/us/stat/25/392].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1888-08-09/ch818/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1888-08-09%2Fch818%2Fs2
+[/us/act/1888-08-09/ch818]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1888-08-09%2Fch818
 [/us/stat/25/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F25%2F392
 
 

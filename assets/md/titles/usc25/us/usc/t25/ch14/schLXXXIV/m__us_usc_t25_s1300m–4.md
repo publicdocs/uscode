@@ -39,7 +39,7 @@
 
         For the purpose of subsection (b), the Secretary shall accept any available evidence establishing Paskenta Indian ancestry. The Secretary shall accept as conclusive evidence of Paskenta Indian ancestry, information contained in the census of the Indians in and near Paskenta, prepared by Special Indian Agent John J. Terrell, in any other roll or census of Paskenta Indians prepared by the Bureau of Indian Affairs, and in the Paskenta Indian Rancheria distribution list, compiled by the Bureau of Indian Affairs on February 26, 1959.
 
-([Pub. L. 103–454, title III, § 306][/us/pl/103/454/s306], Nov. 2, 1994, [108 Stat. 4794][/us/stat/108/4794].)
+([Pub. L. 103–454, title III][/us/pl/103/454/tIII], § 306, Nov. 2, 1994, [108 Stat. 4794][/us/stat/108/4794].)
 
  __References in Text__ 
 
@@ -55,7 +55,7 @@
 [/us/usc/t25/s1300m–6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1300m%E2%80%936
 [/us/pl/85/671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F671
 [/us/usc/t25/s1300m–6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1300m%E2%80%936
-[/us/pl/103/454/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F454%2Fs306
+[/us/pl/103/454/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F454%2FtIII
 [/us/stat/108/4794]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4794
 [/us/pl/85/671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F671
 [/us/pl/85/671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F671

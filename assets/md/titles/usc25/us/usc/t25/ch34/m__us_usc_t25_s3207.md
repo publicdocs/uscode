@@ -37,7 +37,7 @@
 
         (2) employ individuals in those positions only if the individuals meet standards of character, no less stringent than those prescribed under subsection (a), as the Indian tribe or tribal organization shall establish.
 
-([Pub. L. 101–630, title IV, § 408][/us/pl/101/630/s408], Nov. 28, 1990, [104 Stat. 4551][/us/stat/104/4551]; [Pub. L. 106–568, title VIII, § 814][/us/pl/106/568/s814], Dec. 27, 2000, [114 Stat. 2918][/us/stat/114/2918].)
+([Pub. L. 101–630, title IV][/us/pl/101/630/tIV], § 408, Nov. 28, 1990, [104 Stat. 4551][/us/stat/104/4551]; [Pub. L. 106–568, title VIII][/us/pl/106/568/tVIII], § 814, Dec. 27, 2000, [114 Stat. 2918][/us/stat/114/2918].)
 
  __References in Text__ 
 
@@ -58,9 +58,9 @@
 
 [/us/usc/t25/s450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450
 [/us/usc/t25/s2501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs2501
-[/us/pl/101/630/s408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F630%2Fs408
+[/us/pl/101/630/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F630%2FtIV
 [/us/stat/104/4551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4551
-[/us/pl/106/568/s814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F568%2Fs814
+[/us/pl/106/568/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F568%2FtVIII
 [/us/stat/114/2918]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2918
 [/us/pl/93/638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638
 [/us/stat/88/2203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2203

@@ -89,7 +89,7 @@
 
     (15) The term “Secretary” means the Secretary of the Interior.
 
-([Pub. L. 103–177, § 4][/us/pl/103/177/s4], Dec. 3, 1993, [107 Stat. 2012][/us/stat/107/2012].)
+([Pub. L. 103–177][/us/pl/103/177], § 4, Dec. 3, 1993, [107 Stat. 2012][/us/stat/107/2012].)
 
  __References in Text__ 
 
@@ -105,7 +105,7 @@
 [/us/usc/t25/s3711/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs3711%2Fb
 [/us/usc/t25/s3103/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs3103%2F3
 [/us/usc/t43/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1601
-[/us/pl/103/177/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F177%2Fs4
+[/us/pl/103/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F177
 [/us/stat/107/2012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2012
 [/us/pl/92/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F203
 [/us/stat/85/688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F688

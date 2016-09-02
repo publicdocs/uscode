@@ -17,7 +17,7 @@
 
     In the event that any section or provision of this chapter, or amendment made by this chapter, is held invalid, it is the intent of Congress that the remaining sections or provisions of this chapter, and amendments made by this chapter, shall continue in full force and effect.
 
-([Pub. L. 100–497, § 22][/us/pl/100/497/s22], Oct. 17, 1988, [102 Stat. 2486][/us/stat/102/2486].)
+([Pub. L. 100–497][/us/pl/100/497], § 22, Oct. 17, 1988, [102 Stat. 2486][/us/stat/102/2486].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/100/497/s22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F497%2Fs22
+[/us/pl/100/497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F497
 [/us/stat/102/2486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2486
 [/us/pl/100/497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F497
 [/us/stat/102/2467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2467

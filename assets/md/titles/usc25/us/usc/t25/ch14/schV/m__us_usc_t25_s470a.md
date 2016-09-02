@@ -17,7 +17,7 @@
 
     Interest or other charges heretofore or hereafter collected on loans shall be credited to the revolving fund created by [section 470 of this title][/us/usc/t25/s470] and shall be available for the establishment of a revolving fund for the purpose of making and administering loans to Indian-chartered corporations in accordance with the Act of June 18, 1934 ([48 Stat. 986][/us/stat/48/986]) \[[25 U.S.C. 461][/us/usc/t25/s461] et seq.\], and of making and administering loans to individual Indians and to associations or corporate groups of Indians of Oklahoma in accordance with the Act of June 26, 1936 ([49 Stat. 1967][/us/stat/49/1967]) \[[25 U.S.C. 501][/us/usc/t25/s501] et seq.\].
 
-([June 28, 1941, ch. 259, § 1][/us/act/1941-06-28/ch259/s1], [55 Stat. 316][/us/stat/55/316].)
+([June 28, 1941, ch. 259][/us/act/1941-06-28/ch259], § 1, [55 Stat. 316][/us/stat/55/316].)
 
  __References in Text__ 
 
@@ -37,7 +37,7 @@
 [/us/usc/t25/s461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs461
 [/us/stat/49/1967]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1967
 [/us/usc/t25/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs501
-[/us/act/1941-06-28/ch259/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1941-06-28%2Fch259%2Fs1
+[/us/act/1941-06-28/ch259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1941-06-28%2Fch259
 [/us/stat/55/316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F55%2F316
 [/us/usc/t25/s461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs461
 [/us/usc/t25/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs501

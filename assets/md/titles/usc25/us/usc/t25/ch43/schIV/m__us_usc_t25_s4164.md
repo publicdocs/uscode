@@ -41,7 +41,7 @@
 
         A recipient preparing a report under this section shall make the report publicly available to the citizens in the jurisdiction of the recipient in sufficient time to permit such citizens to comment on such report prior to its submission to the Secretary, and in such manner and at such times as the recipient may determine. The report shall include a summary of any comments received by the grant beneficiary or recipient from citizens in its jurisdiction regarding its program.
 
-([Pub. L. 104–330, title IV, § 404][/us/pl/104/330/s404], Oct. 26, 1996, [110 Stat. 4040][/us/stat/110/4040]; [Pub. L. 110–411, title IV, § 403][/us/pl/110/411/s403], Oct. 14, 2008, [122 Stat. 4330][/us/stat/122/4330].)
+([Pub. L. 104–330, title IV][/us/pl/104/330/tIV], § 404, Oct. 26, 1996, [110 Stat. 4040][/us/stat/110/4040]; [Pub. L. 110–411, title IV][/us/pl/110/411/tIV], § 403, Oct. 14, 2008, [122 Stat. 4330][/us/stat/122/4330].)
 
  __References in Text__ 
 
@@ -49,9 +49,9 @@
 
  __Amendments__ 
 
-    2008—Subsec. (b)(2). [Pub. L. 110–411, § 403(1)][/us/pl/110/411/s403/1], substituted “planned activities” for “goals” and inserted “and” after semicolon at end.
+    2008—Subsec. (b)(2). [Pub. L. 110–411][/us/pl/110/411], § 403(1), substituted “planned activities” for “goals” and inserted “and” after semicolon at end.
 
-    Subsec. (b)(3), (4). [Pub. L. 110–411, § 403(2)][/us/pl/110/411/s403/2], (3), substituted period for “; and” at end of par. (3) and struck out par. (4) which read as follows: “describe the manner in which the recipient would change its programs as a result of its experiences.”
+    Subsec. (b)(3), (4). [Pub. L. 110–411][/us/pl/110/411], § 403(2), (3), substituted period for “; and” at end of par. (3) and struck out par. (4) which read as follows: “describe the manner in which the recipient would change its programs as a result of its experiences.”
 
  __Effective Date__ 
 
@@ -64,15 +64,15 @@
 ----------
 ----------
 
-[/us/pl/104/330/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330%2Fs404
+[/us/pl/104/330/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330%2FtIV
 [/us/stat/110/4040]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F4040
-[/us/pl/110/411/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F411%2Fs403
+[/us/pl/110/411/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F411%2FtIV
 [/us/stat/122/4330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4330
 [/us/pl/104/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330
 [/us/stat/110/4016]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F4016
 [/us/usc/t25/s4101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs4101
-[/us/pl/110/411/s403/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F411%2Fs403%2F1
-[/us/pl/110/411/s403/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F411%2Fs403%2F2
+[/us/pl/110/411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F411
+[/us/pl/110/411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F411
 [/us/pl/104/330/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330%2Fs107
 [/us/usc/t25/s4101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs4101
 

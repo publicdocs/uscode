@@ -33,7 +33,7 @@
 
         Upon the request of the adopted Indian child over the age of eighteen, the adoptive or foster parents of an Indian child, or an Indian tribe, the Secretary shall disclose such information as may be necessary for the enrollment of an Indian child in the tribe in which the child may be eligible for enrollment or for determining any rights or benefits associated with that membership. Where the documents relating to such child contain an affidavit from the biological parent or parents requesting anonymity, the Secretary shall certify to the Indian child’s tribe, where the information warrants, that the child’s parentage and other circumstances of birth entitle the child to enrollment under the criteria established by such tribe.
 
-([Pub. L. 95–608, title III, § 301][/us/pl/95/608/s301], Nov. 8, 1978, [92 Stat. 3077][/us/stat/92/3077].)
+([Pub. L. 95–608, title III][/us/pl/95/608/tIII], § 301, Nov. 8, 1978, [92 Stat. 3077][/us/stat/92/3077].)
 
 ----------
 
@@ -43,7 +43,7 @@
 ----------
 
 [/us/usc/t5/s552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552
-[/us/pl/95/608/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F608%2Fs301
+[/us/pl/95/608/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F608%2FtIII
 [/us/stat/92/3077]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3077
 
 

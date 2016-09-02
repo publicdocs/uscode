@@ -31,7 +31,7 @@
 
             (B) eligible to vote in any election for the Tribal Council.
 
-([Pub. L. 100–420, § 9][/us/pl/100/420/s9], Sept. 8, 1988, [102 Stat. 1579][/us/stat/102/1579]; [Pub. L. 101–301, § 7][/us/pl/101/301/s7], May 24, 1990, [104 Stat. 210][/us/stat/104/210].)
+([Pub. L. 100–420][/us/pl/100/420], § 9, Sept. 8, 1988, [102 Stat. 1579][/us/stat/102/1579]; [Pub. L. 101–301][/us/pl/101/301], § 7, May 24, 1990, [104 Stat. 210][/us/stat/104/210].)
 
  __Amendments__ 
 
@@ -44,9 +44,9 @@
 ----------
 ----------
 
-[/us/pl/100/420/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F420%2Fs9
+[/us/pl/100/420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F420
 [/us/stat/102/1579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1579
-[/us/pl/101/301/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F301%2Fs7
+[/us/pl/101/301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F301
 [/us/stat/104/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F210
 [/us/pl/101/301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F301
 

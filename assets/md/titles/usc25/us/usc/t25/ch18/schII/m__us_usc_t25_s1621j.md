@@ -53,13 +53,13 @@
 
         (2) exceeds $1,000.
 
-([Pub. L. 94–437, title II, § 211][/us/pl/94/437/s211], as added [Pub. L. 102–573, title II, § 206(c)][/us/pl/102/573/s206/c], Oct. 29, 1992, [106 Stat. 4549][/us/stat/106/4549]; amended [Pub. L. 104–313, § 2(c)][/us/pl/104/313/s2/c], Oct. 19, 1996, [110 Stat. 3822][/us/stat/110/3822]; [Pub. L. 111–148, title X, § 10221(a)][/us/pl/111/148/s10221/a], Mar. 23, 2010, [124 Stat. 935][/us/stat/124/935].)
+([Pub. L. 94–437, title II][/us/pl/94/437/tII], § 211, as added [Pub. L. 102–573, title II][/us/pl/102/573/tII], § 206(c), Oct. 29, 1992, [106 Stat. 4549][/us/stat/106/4549]; amended [Pub. L. 104–313][/us/pl/104/313], § 2(c), Oct. 19, 1996, [110 Stat. 3822][/us/stat/110/3822]; [Pub. L. 111–148, title X][/us/pl/111/148/tX], § 10221(a), Mar. 23, 2010, [124 Stat. 935][/us/stat/124/935].)
 
  __References in Text__ 
 
-    [Section 1679 of this title][/us/usc/t25/s1679], referred to in subsec. (b)(1), was repealed and a new section 1679 was enacted by [Pub. L. 111–148, title X, § 10221(a)][/us/pl/111/148/s10221/a], Mar. 23, 2010, [124 Stat. 935][/us/stat/124/935]. Provisions describing California Indians, similar to those that appeared in former section 1679(b) are now contained in new section 1679(a).
+    [Section 1679 of this title][/us/usc/t25/s1679], referred to in subsec. (b)(1), was repealed and a new section 1679 was enacted by [Pub. L. 111–148, title X][/us/pl/111/148/tX], § 10221(a), Mar. 23, 2010, [124 Stat. 935][/us/stat/124/935]. Provisions describing California Indians, similar to those that appeared in former section 1679(b) are now contained in new section 1679(a).
 
-    [Section 1621a of this title][/us/usc/t25/s1621a], referred to in subsec. (f)(1), was amended generally by [Pub. L. 111–148, title X, § 10221(a)][/us/pl/111/148/s10221/a], Mar. 23, 2010, [124 Stat. 935][/us/stat/124/935], and, as so amended, no longer contains a subsec. (b)(2).
+    [Section 1621a of this title][/us/usc/t25/s1621a], referred to in subsec. (f)(1), was amended generally by [Pub. L. 111–148, title X][/us/pl/111/148/tX], § 10221(a), Mar. 23, 2010, [124 Stat. 935][/us/stat/124/935], and, as so amended, no longer contains a subsec. (b)(2).
 
  __Codification__ 
 
@@ -85,18 +85,18 @@
 [/us/usc/t25/s1680]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1680
 [/us/usc/t25/s1621a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1621a
 [/us/usc/t25/s1621a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1621a
-[/us/pl/94/437/s211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437%2Fs211
-[/us/pl/102/573/s206/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2Fs206%2Fc
+[/us/pl/94/437/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437%2FtII
+[/us/pl/102/573/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2FtII
 [/us/stat/106/4549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4549
-[/us/pl/104/313/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F313%2Fs2%2Fc
+[/us/pl/104/313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F313
 [/us/stat/110/3822]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3822
-[/us/pl/111/148/s10221/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10221%2Fa
+[/us/pl/111/148/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtX
 [/us/stat/124/935]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F935
 [/us/usc/t25/s1679]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1679
-[/us/pl/111/148/s10221/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10221%2Fa
+[/us/pl/111/148/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtX
 [/us/stat/124/935]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F935
 [/us/usc/t25/s1621a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1621a
-[/us/pl/111/148/s10221/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10221%2Fa
+[/us/pl/111/148/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtX
 [/us/stat/124/935]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F935
 [/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 [/us/pl/111/148/s10221/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10221%2Fa

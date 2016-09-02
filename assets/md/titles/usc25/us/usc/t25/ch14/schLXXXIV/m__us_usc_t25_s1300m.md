@@ -31,11 +31,11 @@
 
     (7) The term “service area” means the counties of Tehama and Glenn, in the State of California.
 
-([Pub. L. 103–454, title III, § 302][/us/pl/103/454/s302], Nov. 2, 1994, [108 Stat. 4793][/us/stat/108/4793].)
+([Pub. L. 103–454, title III][/us/pl/103/454/tIII], § 302, Nov. 2, 1994, [108 Stat. 4793][/us/stat/108/4793].)
 
  __Short Title__ 
 
-[Pub. L. 103–454, title III, § 301][/us/pl/103/454/s301], Nov. 2, 1994, [108 Stat. 4793][/us/stat/108/4793], provided that: 
+[Pub. L. 103–454, title III][/us/pl/103/454/tIII], § 301, Nov. 2, 1994, [108 Stat. 4793][/us/stat/108/4793], provided that: 
 
 > “This title \[enacting this subchapter\] may be cited as the ‘Paskenta Band Restoration Act’.”
 
@@ -49,9 +49,9 @@
 [/us/usc/t25/s1300m–5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1300m%E2%80%935
 [/us/usc/t25/s1300m–4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1300m%E2%80%934%2Fb
 [/us/usc/t25/s1300m–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1300m%E2%80%933
-[/us/pl/103/454/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F454%2Fs302
+[/us/pl/103/454/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F454%2FtIII
 [/us/stat/108/4793]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4793
-[/us/pl/103/454/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F454%2Fs301
+[/us/pl/103/454/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F454%2FtIII
 [/us/stat/108/4793]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4793
 
 

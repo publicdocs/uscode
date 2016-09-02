@@ -47,7 +47,7 @@
 
         (4) technical and other corrections and revisions to conform the State Act and the Agreement in Principle attached to the State Act to the Settlement Agreement.
 
-([Pub. L. 103–116, § 15][/us/pl/103/116/s15], Oct. 27, 1993, [107 Stat. 1136][/us/stat/107/1136].)
+([Pub. L. 103–116][/us/pl/103/116], § 15, Oct. 27, 1993, [107 Stat. 1136][/us/stat/107/1136].)
 
  __References in Text__ 
 
@@ -65,7 +65,7 @@
 [/us/usc/t42/s11501–115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11501%E2%80%93115
 [/us/usc/t19/s81a–81u]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs81a%E2%80%9381u
 [/us/usc/t25/s941b/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs941b%2Fa%2F2
-[/us/pl/103/116/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F116%2Fs15
+[/us/pl/103/116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F116
 [/us/stat/107/1136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1136
 [/us/pl/100/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242
 [/us/stat/101/1815]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1815

@@ -21,7 +21,7 @@
 
  __Chippewa Reservation and Ceded Lands in Minnesota__ 
 
-[Act June 27, 1902, ch. 1157, § 4][/us/act/1902-06-27/ch1157/s4], [32 Stat. 404][/us/stat/32/404], provided: 
+[Act June 27, 1902, ch. 1157][/us/act/1902-06-27/ch1157], § 4, [32 Stat. 404][/us/stat/32/404], provided: 
 
 > “That so much of the Act of June seventh, eighteen hundred and ninety-seven, entitled ‘An Act making appropriations for the current and contingent expenses of the Indian Department and fulfilling treaty stipulations with various Indian tribes for the fiscal year ending June thirtieth, eighteen hundred and ninety-eight, and for other purposes,’ as authorizes the sale of dead timber, standing or fallen, under regulations prescribed by the Secretary of the Interior, on the Chippewa reservations and ceded lands in the State of Minnesota, is hereby repealed: Provided, That nothing herein contained shall be held in any way to affect contracts already entered into and now in force for the sale and cutting of dead timber, standing or fallen, on said reservations and ceded lands.”
 
@@ -34,7 +34,7 @@
 
 [/us/act/1897-06-07/ch3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1897-06-07%2Fch3
 [/us/stat/30/90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F30%2F90
-[/us/act/1902-06-27/ch1157/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1902-06-27%2Fch1157%2Fs4
+[/us/act/1902-06-27/ch1157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1902-06-27%2Fch1157
 [/us/stat/32/404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F32%2F404
 
 

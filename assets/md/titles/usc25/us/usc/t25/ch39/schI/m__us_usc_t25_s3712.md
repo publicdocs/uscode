@@ -37,7 +37,7 @@
 
         This section does not constitute a waiver of the sovereign immunity of the United States, nor does it authorize tribal justice systems to review actions of the Secretary.
 
-([Pub. L. 103–177, title I, § 102][/us/pl/103/177/s102], Dec. 3, 1993, [107 Stat. 2015][/us/stat/107/2015].)
+([Pub. L. 103–177, title I][/us/pl/103/177/tI], § 102, Dec. 3, 1993, [107 Stat. 2015][/us/stat/107/2015].)
 
 ----------
 
@@ -47,7 +47,7 @@
 ----------
 
 [/us/usc/t25/s3711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs3711
-[/us/pl/103/177/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F177%2Fs102
+[/us/pl/103/177/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F177%2FtI
 [/us/stat/107/2015]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2015
 
 

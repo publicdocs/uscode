@@ -39,7 +39,7 @@
 
         Nothing herein shall be deemed to limit any authority possessed by the Secretary under any other provisions of law.
 
-([Pub. L. 86–339, § 4][/us/pl/86/339/s4], Sept. 21, 1959, [73 Stat. 604][/us/stat/73/604]; [Pub. L. 90–597][/us/pl/90/597], Oct. 17, 1968, [82 Stat. 1164][/us/stat/82/1164].)
+([Pub. L. 86–339][/us/pl/86/339], § 4, Sept. 21, 1959, [73 Stat. 604][/us/stat/73/604]; [Pub. L. 90–597][/us/pl/90/597], Oct. 17, 1968, [82 Stat. 1164][/us/stat/82/1164].)
 
  __References in Text__ 
 
@@ -47,7 +47,7 @@
 
  __Codification__ 
 
-    In subsec. (e), “subchapter II of chapter 5 of title 5” substituted for “the Administrative Procedure Act” on authority of [Pub. L. 89–554, § 7(b)][/us/pl/89/554/s7/b], Sept. 6, 1966, [80 Stat. 631][/us/stat/80/631], the first section of which enacted Title 5, Government Organization and Employees.
+    In subsec. (e), “subchapter II of chapter 5 of title 5” substituted for “the Administrative Procedure Act” on authority of [Pub. L. 89–554][/us/pl/89/554], § 7(b), Sept. 6, 1966, [80 Stat. 631][/us/stat/80/631], the first section of which enacted Title 5, Government Organization and Employees.
 
  __Amendments__ 
 
@@ -62,12 +62,12 @@
 ----------
 ----------
 
-[/us/pl/86/339/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F339%2Fs4
+[/us/pl/86/339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F339
 [/us/stat/73/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F604
 [/us/pl/90/597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F597
 [/us/stat/82/1164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1164
 [/us/pl/86/339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F339
-[/us/pl/89/554/s7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs7%2Fb
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F631
 [/us/pl/90/597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F597
 [/us/pl/90/597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F597

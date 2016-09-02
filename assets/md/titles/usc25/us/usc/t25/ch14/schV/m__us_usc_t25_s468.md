@@ -17,7 +17,7 @@
 
     Nothing contained in this Act shall be construed to relate to Indian holdings of allotments or homesteads upon the public domain outside of the geographic boundaries of any Indian reservation now existing or established hereafter.
 
-([June 18, 1934, ch. 576, § 8][/us/act/1934-06-18/ch576/s8], [48 Stat. 986][/us/stat/48/986].)
+([June 18, 1934, ch. 576][/us/act/1934-06-18/ch576], § 8, [48 Stat. 986][/us/stat/48/986].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1934-06-18/ch576/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-18%2Fch576%2Fs8
+[/us/act/1934-06-18/ch576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-18%2Fch576
 [/us/stat/48/986]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F986
 [/us/usc/t25/s461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs461
 

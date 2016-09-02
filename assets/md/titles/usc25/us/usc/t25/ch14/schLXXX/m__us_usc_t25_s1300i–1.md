@@ -79,7 +79,7 @@
 
         The Hoopa Valley Reservation and Yurok Reservation shall be subject to [section 1360 of title 28][/us/usc/t28/s1360];  <sup>\[1\]</sup>  <sup><sup> 1 So in original. The semicolon probably should be a comma. </sup></sup>  [section 1162 of title 18][/us/usc/t18/s1162], and [section 1323(a) of this title][/us/usc/t25/s1323/a].
 
-([Pub. L. 100–580, § 2][/us/pl/100/580/s2], Oct. 31, 1988, [102 Stat. 2925][/us/stat/102/2925].)
+([Pub. L. 100–580][/us/pl/100/580], § 2, Oct. 31, 1988, [102 Stat. 2925][/us/stat/102/2925].)
 
  __References in Text__ 
 
@@ -91,7 +91,7 @@
 
  __Hoopa Valley Reservation South Boundary Adjustment__ 
 
-[Pub. L. 105–79][/us/pl/105/79], Nov. 13, 1997, [111 Stat. 1527][/us/stat/111/1527], as amended by [Pub. L. 105–256, § 6][/us/pl/105/256/s6], Oct. 14, 1998, [112 Stat. 1897][/us/stat/112/1897], provided that:
+[Pub. L. 105–79][/us/pl/105/79], Nov. 13, 1997, [111 Stat. 1527][/us/stat/111/1527], as amended by [Pub. L. 105–256][/us/pl/105/256], § 6, Oct. 14, 1998, [112 Stat. 1897][/us/stat/112/1897], provided that:
 
 > “SECTION 1. __SHORT TITLE.__ 
 
@@ -140,14 +140,14 @@
 [/us/usc/t28/s1360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1360
 [/us/usc/t18/s1162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1162
 [/us/usc/t25/s1323/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1323%2Fa
-[/us/pl/100/580/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F580%2Fs2
+[/us/pl/100/580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F580
 [/us/stat/102/2925]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2925
 [/us/act/1864-04-08/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1864-04-08%2Fs2
 [/us/act/1864-04-08/ch48]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1864-04-08%2Fch48
 [/us/stat/13/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F13%2F40
 [/us/pl/105/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F79
 [/us/stat/111/1527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1527
-[/us/pl/105/256/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F256%2Fs6
+[/us/pl/105/256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F256
 [/us/stat/112/1897]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1897
 [/us/usc/t23/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101%2Fa
 

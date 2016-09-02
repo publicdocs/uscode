@@ -23,7 +23,7 @@
 
         The list shall be published within 60 days of November 2, 1994, and annually on or before every January 30 thereafter.
 
-([Pub. L. 103–454, title I, § 104][/us/pl/103/454/s104], Nov. 2, 1994, [108 Stat. 4792][/us/stat/108/4792].)
+([Pub. L. 103–454, title I][/us/pl/103/454/tI], § 104, Nov. 2, 1994, [108 Stat. 4792][/us/stat/108/4792].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/103/454/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F454%2Fs104
+[/us/pl/103/454/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F454%2FtI
 [/us/stat/108/4792]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4792
 
 

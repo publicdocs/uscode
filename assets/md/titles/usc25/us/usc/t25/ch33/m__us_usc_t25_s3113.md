@@ -77,7 +77,7 @@
 
         The Secretary shall administer the programs described in this section until a sufficient number of Indians and Alaska Natives are trained to ensure that there is an adequate number of qualified, professional Indian foresters to manage the Bureau of Indian Affairs forestry programs and forestry programs maintained by or for Indian tribes.
 
-([Pub. L. 101–630, title III, § 314][/us/pl/101/630/s314], Nov. 28, 1990, [104 Stat. 4540][/us/stat/104/4540].)
+([Pub. L. 101–630, title III][/us/pl/101/630/tIII], § 314, Nov. 28, 1990, [104 Stat. 4540][/us/stat/104/4540].)
 
  __References in Text__ 
 
@@ -91,7 +91,7 @@
 ----------
 
 [/us/usc/t25/s450f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450f
-[/us/pl/101/630/s314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F630%2Fs314
+[/us/pl/101/630/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F630%2FtIII
 [/us/stat/104/4540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4540
 [/us/pl/93/638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638
 [/us/stat/88/2206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2206

@@ -17,7 +17,7 @@
 
     The Secretary in carrying out his responsibility to regulate the descent and distribution of trust lands under [section 372 of this title][/us/usc/t25/s372], and other laws, shall give full faith and credit to any tribal actions taken pursuant to subsections (a) and (b) of [section 2205 of this title][/us/usc/t25/s2205], which provision shall apply only to estates of decedent’s whose deaths occur on or after the effective date of tribal ordinances adopted pursuant to this chapter.
 
-([Pub. L. 97–459, title II, § 208][/us/pl/97/459/s208], Jan. 12, 1983, [96 Stat. 2519][/us/stat/96/2519]; [Pub. L. 106–462, title I, § 103(5)][/us/pl/106/462/s103/5], Nov. 7, 2000, [114 Stat. 1999][/us/stat/114/1999].)
+([Pub. L. 97–459, title II][/us/pl/97/459/tII], § 208, Jan. 12, 1983, [96 Stat. 2519][/us/stat/96/2519]; [Pub. L. 106–462, title I][/us/pl/106/462/tI], § 103(5), Nov. 7, 2000, [114 Stat. 1999][/us/stat/114/1999].)
 
  __Amendments__ 
 
@@ -32,9 +32,9 @@
 
 [/us/usc/t25/s372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs372
 [/us/usc/t25/s2205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs2205
-[/us/pl/97/459/s208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F459%2Fs208
+[/us/pl/97/459/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F459%2FtII
 [/us/stat/96/2519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2519
-[/us/pl/106/462/s103/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F462%2Fs103%2F5
+[/us/pl/106/462/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F462%2FtI
 [/us/stat/114/1999]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1999
 [/us/pl/106/462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F462
 

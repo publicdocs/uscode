@@ -39,7 +39,7 @@
 
         Except as specifically provided in this subchapter, nothing in this subchapter shall alter any property right or obligation, any contractual right or obligation, or any obligation for taxes levied.
 
-([Pub. L. 103–434, title II, § 202][/us/pl/103/434/s202], Oct. 31, 1994, [108 Stat. 4533][/us/stat/108/4533].)
+([Pub. L. 103–434, title II][/us/pl/103/434/tII], § 202, Oct. 31, 1994, [108 Stat. 4533][/us/stat/108/4533].)
 
  __References in Text__ 
 
@@ -49,7 +49,7 @@
 
  __Short Title__ 
 
-[Pub. L. 103–434, title II, § 201][/us/pl/103/434/s201], Oct. 31, 1994, [108 Stat. 4533][/us/stat/108/4533], provided that: 
+[Pub. L. 103–434, title II][/us/pl/103/434/tII], § 201, Oct. 31, 1994, [108 Stat. 4533][/us/stat/108/4533], provided that: 
 
 > “This title \[enacting this subchapter\] may be cited as the ‘Auburn Indian Restoration Act’.”
 
@@ -62,12 +62,12 @@
 
 [/us/pl/85/671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F671
 [/us/usc/t25/s461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs461
-[/us/pl/103/434/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F434%2Fs202
+[/us/pl/103/434/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F434%2FtII
 [/us/stat/108/4533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4533
 [/us/pl/85/671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F671
 [/us/stat/72/619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F619
 [/us/usc/t25/s461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs461
-[/us/pl/103/434/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F434%2Fs201
+[/us/pl/103/434/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F434%2FtII
 [/us/stat/108/4533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4533
 
 

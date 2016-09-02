@@ -17,7 +17,7 @@
 
     With respect to an elderly or disabled Indian receiving emergency medical care or services from a non-Service provider or in a non-Service facility under the authority of this chapter, the time limitation (as a condition of payment) for notifying the Service of such treatment or admission shall be 30 days.
 
-([Pub. L. 94–437, title IV, § 406][/us/pl/94/437/s406], as added [Pub. L. 102–573, title IV, § 405][/us/pl/102/573/s405], Oct. 29, 1992, [106 Stat. 4566][/us/stat/106/4566].)
+([Pub. L. 94–437, title IV][/us/pl/94/437/tIV], § 406, as added [Pub. L. 102–573, title IV][/us/pl/102/573/tIV], § 405, Oct. 29, 1992, [106 Stat. 4566][/us/stat/106/4566].)
 
  __References in Text__ 
 
@@ -30,8 +30,8 @@
 ----------
 ----------
 
-[/us/pl/94/437/s406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437%2Fs406
-[/us/pl/102/573/s405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2Fs405
+[/us/pl/94/437/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437%2FtIV
+[/us/pl/102/573/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2FtIV
 [/us/stat/106/4566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4566
 [/us/pl/94/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437
 [/us/stat/90/1400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1400

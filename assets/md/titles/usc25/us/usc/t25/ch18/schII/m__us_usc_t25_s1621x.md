@@ -17,7 +17,7 @@
 
     Amounts appropriated to carry out this subchapter may not be used in a manner inconsistent with the Assisted Suicide Funding Restriction Act of 1997 \[[42 U.S.C. 14401][/us/usc/t42/s14401] et seq.\].
 
-([Pub. L. 94–437, title II, § 225][/us/pl/94/437/s225], as added [Pub. L. 105–12, § 9(f)][/us/pl/105/12/s9/f], Apr. 30, 1997, [111 Stat. 27][/us/stat/111/27].)
+([Pub. L. 94–437, title II][/us/pl/94/437/tII], § 225, as added [Pub. L. 105–12][/us/pl/105/12], § 9(f), Apr. 30, 1997, [111 Stat. 27][/us/stat/111/27].)
 
  __References in Text__ 
 
@@ -35,8 +35,8 @@
 ----------
 
 [/us/usc/t42/s14401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs14401
-[/us/pl/94/437/s225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437%2Fs225
-[/us/pl/105/12/s9/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F12%2Fs9%2Ff
+[/us/pl/94/437/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437%2FtII
+[/us/pl/105/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F12
 [/us/stat/111/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F27
 [/us/pl/105/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F12
 [/us/stat/111/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F23

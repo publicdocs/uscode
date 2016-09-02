@@ -25,11 +25,11 @@
 
     (d) the parties to the lawsuits and others interested in the settlement of Indian land claims within the State of Rhode Island have executed a Settlement Agreement which requires implementing legislation by the Congress of the United States and the legislature of the State of Rhode Island.
 
-([Pub. L. 95–395, § 2][/us/pl/95/395/s2], Sept. 30, 1978, [92 Stat. 813][/us/stat/92/813].)
+([Pub. L. 95–395][/us/pl/95/395], § 2, Sept. 30, 1978, [92 Stat. 813][/us/stat/92/813].)
 
  __Short Title__ 
 
-[Pub. L. 95–395, § 1][/us/pl/95/395/s1], Sept. 30, 1978, [92 Stat. 813][/us/stat/92/813], provided: 
+[Pub. L. 95–395][/us/pl/95/395], § 1, Sept. 30, 1978, [92 Stat. 813][/us/stat/92/813], provided: 
 
 > “That this Act \[enacting this subchapter\] may be cited as the ‘Rhode Island Indian Claims Settlement Act’.”
 
@@ -66,9 +66,9 @@
 ----------
 ----------
 
-[/us/pl/95/395/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F395%2Fs2
+[/us/pl/95/395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F395
 [/us/stat/92/813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F813
-[/us/pl/95/395/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F395%2Fs1
+[/us/pl/95/395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F395
 [/us/stat/92/813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F813
 [/us/pl/96/420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F420
 [/us/pl/96/420/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F420%2Fs1

@@ -67,7 +67,7 @@
 
             (C) would be consistent with other applicable laws.
 
-([Pub. L. 110–234, title VIII, § 8106][/us/pl/110/234/s8106], May 22, 2008, [122 Stat. 1288][/us/stat/122/1288]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VIII, § 8106, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2050.)
+([Pub. L. 110–234, title VIII][/us/pl/110/234/tVIII], § 8106, May 22, 2008, [122 Stat. 1288][/us/stat/122/1288]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title VIII, § 8106, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2050.)
 
  __Codification__ 
 
@@ -88,9 +88,9 @@
 [/us/usc/t25/s3053]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs3053
 [/us/usc/t5/s552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552
 [/us/usc/t25/s3053]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs3053
-[/us/pl/110/234/s8106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs8106
+[/us/pl/110/234/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtVIII
 [/us/stat/122/1288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1288
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246

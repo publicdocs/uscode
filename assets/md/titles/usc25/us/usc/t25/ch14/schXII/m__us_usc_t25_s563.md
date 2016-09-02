@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t25/ch14/schXII/m__us_usc_t25_ch14_schXII.md) | [Next](./../../../../..//us/usc/t25/ch14/schXIII/m__us_usc_t25_ch14_schXIII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs563)
+[Previous](./../../../../..//us/usc/t25/ch14/schXII/m__us_usc_t25_s561 _us_usc_t25_s562.md) | [Next](./../../../../..//us/usc/t25/ch14/schXIII/m__us_usc_t25_ch14_schXIII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs563)
 
 ## § 563. Salaries and expenses for Klamath Tribe Officials
 
     The Secretary of the Interior, or such official as may be designated by him, is authorized, until otherwise directed by Congress, to advance to the tribe or to pay out of any unobligated tribal funds of the Klamath Indians in the Treasury of the United States salaries and expenses of tribal officials or representatives (except the Klamath Loan Fund Board) at rates and/or limitations designated in advance by the Klamath General Council, or any governing body to which it may delegate such authority, and approved by the Secretary of the Interior: Provided, That the length of stay of representatives serving the tribe at the seat of government shall be determined by the Secretary of the Interior.
 
-([May 29, 1953, ch. 86, § 1][/us/act/1953-05-29/ch86/s1], [67 Stat. 40][/us/stat/67/40].)
+([May 29, 1953, ch. 86][/us/act/1953-05-29/ch86], § 1, [67 Stat. 40][/us/stat/67/40].)
 
  __Prior Provisions__ 
 
@@ -25,12 +25,12 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t25/ch14/schXII/m__us_usc_t25_ch14_schXII.md) | [Next](./../../../../..//us/usc/t25/ch14/schXIII/m__us_usc_t25_ch14_schXIII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs563)
+[Previous](./../../../../..//us/usc/t25/ch14/schXII/m__us_usc_t25_s561 _us_usc_t25_s562.md) | [Next](./../../../../..//us/usc/t25/ch14/schXIII/m__us_usc_t25_ch14_schXIII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs563)
 
 ----------
 ----------
 
-[/us/act/1953-05-29/ch86/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-05-29%2Fch86%2Fs1
+[/us/act/1953-05-29/ch86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-05-29%2Fch86
 [/us/stat/67/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F40
 [/us/act/1938-06-25/ch710]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch710
 [/us/stat/52/1207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F1207

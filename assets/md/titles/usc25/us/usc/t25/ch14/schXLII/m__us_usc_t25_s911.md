@@ -17,7 +17,7 @@
 
     The Secretary of the Interior is authorized and directed to prepare a roll of the persons whose names appear on the Quapaw membership roll forwarded under date of January 4, 1890, and whose membership in the tribe was then based upon Quapaw blood rather than solely upon adoption, and the descendants of such persons, who are living on July 17, 1959. Applications for enrollment must be filed with the area director of the Bureau of Indian Affairs, Muskogee, Oklahoma, on forms prescribed by the Secretary, within six months after July 17, 1959. For a period of three months thereafter, the Secretary shall permit the examination of the applications by the Quapaw Tribal Business Committee or by persons having a material interest therein for the purpose of lodging protests against any application. The determination of the Secretary regarding the eligibility of an applicant shall be final.
 
-([Pub. L. 86–97, § 1][/us/pl/86/97/s1], July 17, 1959, [73 Stat. 221][/us/stat/73/221].)
+([Pub. L. 86–97][/us/pl/86/97], § 1, July 17, 1959, [73 Stat. 221][/us/stat/73/221].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/86/97/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F97%2Fs1
+[/us/pl/86/97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F97
 [/us/stat/73/221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F221
 
 

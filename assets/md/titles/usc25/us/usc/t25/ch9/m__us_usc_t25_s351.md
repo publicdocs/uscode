@@ -17,7 +17,7 @@
 
     The Secretary of the Interior is authorized, whenever in his opinion it shall be conducive to the best welfare and interest of the Indians living within any Indian village on any of the Indian reservations in the State of Washington to issue a patent to each of said Indians for the village or town lot occupied by him, which patent shall contain restrictions against the alienation of the lot described therein to persons other than members of the tribe, except on approval of the Secretary of the Interior; and if any such Indian shall die subsequent to June 25, 1910, and before receiving patent to the lot occupied by him, the lot to which such Indian would have been entitled if living shall be patented in his name and shall be disposed of as provided for in [section 372 of this title][/us/usc/t25/s372].
 
-([June 25, 1910, ch. 431, § 10][/us/act/1910-06-25/ch431/s10], [36 Stat. 858][/us/stat/36/858].)
+([June 25, 1910, ch. 431][/us/act/1910-06-25/ch431], § 10, [36 Stat. 858][/us/stat/36/858].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t25/s372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs372
-[/us/act/1910-06-25/ch431/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1910-06-25%2Fch431%2Fs10
+[/us/act/1910-06-25/ch431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1910-06-25%2Fch431
 [/us/stat/36/858]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F858
 
 

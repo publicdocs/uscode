@@ -17,11 +17,11 @@
 
     The Secretary is authorized to issue regulations relating to the discharge of duties specifically assigned to the Secretary in this chapter. For all other matters relating to the details of planning, developing, implementing, and evaluating grants under this chapter, the Secretary shall not issue regulations.
 
-([Pub. L. 100–297, title V, § 5210][/us/pl/100/297/s5210], as added [Pub. L. 107–110, title X, § 1043][/us/pl/107/110/s1043], Jan. 8, 2002, [115 Stat. 2077][/us/stat/115/2077].)
+([Pub. L. 100–297, title V][/us/pl/100/297/tV], § 5210, as added [Pub. L. 107–110, title X][/us/pl/107/110/tX], § 1043, Jan. 8, 2002, [115 Stat. 2077][/us/stat/115/2077].)
 
  __Prior Provisions__ 
 
-    A prior section 2509, [Pub. L. 100–297, title V, § 5210][/us/pl/100/297/s5210], Apr. 28, 1988, [102 Stat. 394][/us/stat/102/394], related to role of Director, prior to repeal by [Pub. L. 107–110, title X, § 1043][/us/pl/107/110/s1043], Jan. 8, 2002, [115 Stat. 2063][/us/stat/115/2063]. See [section 2508 of this title][/us/usc/t25/s2508].
+    A prior section 2509, [Pub. L. 100–297, title V][/us/pl/100/297/tV], § 5210, Apr. 28, 1988, [102 Stat. 394][/us/stat/102/394], related to role of Director, prior to repeal by [Pub. L. 107–110, title X][/us/pl/107/110/tX], § 1043, Jan. 8, 2002, [115 Stat. 2063][/us/stat/115/2063]. See [section 2508 of this title][/us/usc/t25/s2508].
 
  __Effective Date__ 
 
@@ -34,12 +34,12 @@
 ----------
 ----------
 
-[/us/pl/100/297/s5210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297%2Fs5210
-[/us/pl/107/110/s1043]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2Fs1043
+[/us/pl/100/297/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297%2FtV
+[/us/pl/107/110/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2FtX
 [/us/stat/115/2077]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F2077
-[/us/pl/100/297/s5210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297%2Fs5210
+[/us/pl/100/297/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297%2FtV
 [/us/stat/102/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F394
-[/us/pl/107/110/s1043]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2Fs1043
+[/us/pl/107/110/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2FtX
 [/us/stat/115/2063]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F2063
 [/us/usc/t25/s2508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs2508
 [/us/pl/107/110/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2Fs5

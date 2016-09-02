@@ -37,11 +37,11 @@
 
     (10) language provides a direct and powerful means of promoting international communication by people who share languages.
 
-([Pub. L. 101–477, title I, § 102][/us/pl/101/477/s102], Oct. 30, 1990, [104 Stat. 1153][/us/stat/104/1153].)
+([Pub. L. 101–477, title I][/us/pl/101/477/tI], § 102, Oct. 30, 1990, [104 Stat. 1153][/us/stat/104/1153].)
 
  __Short Title__ 
 
-[Pub. L. 101–477, title I, § 101][/us/pl/101/477/s101], Oct. 30, 1990, [104 Stat. 1153][/us/stat/104/1153], provided that: 
+[Pub. L. 101–477, title I][/us/pl/101/477/tI], § 101, Oct. 30, 1990, [104 Stat. 1153][/us/stat/104/1153], provided that: 
 
 > “This title \[enacting this chapter\] may be cited as the ‘Native American Languages Act’.”
 
@@ -52,9 +52,9 @@
 ----------
 ----------
 
-[/us/pl/101/477/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F477%2Fs102
+[/us/pl/101/477/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F477%2FtI
 [/us/stat/104/1153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1153
-[/us/pl/101/477/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F477%2Fs101
+[/us/pl/101/477/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F477%2FtI
 [/us/stat/104/1153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1153
 
 

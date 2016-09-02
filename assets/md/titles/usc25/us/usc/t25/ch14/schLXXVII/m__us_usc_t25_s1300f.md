@@ -27,7 +27,7 @@
 
         The Secretary of the Interior is directed, upon request of the Pascua Yaqui Association, Incorporated, and without monetary consideration, to accept on behalf of the United States and in trust for the Pascua Yaqui Tribe, the title to the real property conveyed by the United States to such association under the Act of October 8, 1964 ([78 Stat. 1197][/us/stat/78/1197]), and such lands shall be held as Indian lands are held: Provided, That the State of Arizona shall exercise criminal and civil jurisdiction over such lands as if it had assumed jurisdiction pursuant to the Act of August 15, 1953 ([67 Stat. 588][/us/stat/67/588]), as amended by the Act of April 11, 1968 ([82 Stat. 79][/us/stat/82/79]).
 
-([Pub. L. 95–375, § 1][/us/pl/95/375/s1], Sept. 18, 1978, [92 Stat. 712][/us/stat/92/712]; [Pub. L. 103–357, § 1(a)][/us/pl/103/357/s1/a], Oct. 14, 1994, [108 Stat. 3418][/us/stat/108/3418].)
+([Pub. L. 95–375][/us/pl/95/375], § 1, Sept. 18, 1978, [92 Stat. 712][/us/stat/92/712]; [Pub. L. 103–357][/us/pl/103/357], § 1(a), Oct. 14, 1994, [108 Stat. 3418][/us/stat/108/3418].)
 
  __References in Text__ 
 
@@ -59,9 +59,9 @@
 [/us/stat/78/1197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F1197
 [/us/stat/67/588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F588
 [/us/stat/82/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F79
-[/us/pl/95/375/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F375%2Fs1
+[/us/pl/95/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F375
 [/us/stat/92/712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F712
-[/us/pl/103/357/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F357%2Fs1%2Fa
+[/us/pl/103/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F357
 [/us/stat/108/3418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3418
 [/us/usc/t25/s461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs461
 [/us/stat/78/1196]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F1196

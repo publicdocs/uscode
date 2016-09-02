@@ -17,7 +17,7 @@
 
     For the purpose of inducing Indians to labor and become self-supporting, it is provided that, in distributing the supplies and annuities to the Indians for whom the same are appropriated, the agent distributing the same shall require all able-bodied male Indians between the ages of eighteen and forty-five to perform service upon the reservation, for the benefit of themselves or of the tribe, at a reasonable rate, to be fixed by the agent in charge, and to an amount equal in value to the supplies to be delivered; and the allowances provided for such Indians shall be distributed to them only upon condition of the performance of such labor, under such rules and regulations as the agent may prescribe: Provided, That the Secretary of the Interior may, by written order, except any particular tribe, or portion of tribe, from the operation of this provision where he deems it proper and expedient.
 
-([Mar. 3, 1875, ch. 132, § 3][/us/act/1875-03-03/ch132/s3], [18 Stat. 449][/us/stat/18/449].)
+([Mar. 3, 1875, ch. 132][/us/act/1875-03-03/ch132], § 3, [18 Stat. 449][/us/stat/18/449].)
 
  __Transfer of Functions__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/act/1875-03-03/ch132/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1875-03-03%2Fch132%2Fs3
+[/us/act/1875-03-03/ch132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1875-03-03%2Fch132
 [/us/stat/18/449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F18%2F449
 [/us/stat/64/1262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1262
 [/us/usc/t25/s64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs64

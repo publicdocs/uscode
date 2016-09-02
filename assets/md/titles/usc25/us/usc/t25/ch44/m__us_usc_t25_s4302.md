@@ -79,7 +79,7 @@
 
         The term “tribal organization” has the meaning given that term in section 450b(l) of this title.
 
-([Pub. L. 106–464, § 3][/us/pl/106/464/s3], Nov. 7, 2000, [114 Stat. 2013][/us/stat/114/2013].)
+([Pub. L. 106–464][/us/pl/106/464], § 3, Nov. 7, 2000, [114 Stat. 2013][/us/stat/114/2013].)
 
 ----------
 
@@ -96,7 +96,7 @@
 [/us/usc/t25/s1903/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1903%2F10
 [/us/usc/t25/s1452/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1452%2Fd
 [/us/usc/t25/s450b/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450b%2Fe
-[/us/pl/106/464/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F464%2Fs3
+[/us/pl/106/464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F464
 [/us/stat/114/2013]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2013
 
 

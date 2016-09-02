@@ -63,7 +63,7 @@
 
         (3) alter or amend any ordinance, resolution, or charter of an Indian tribe that requires approval by the Secretary of any action by that Indian tribe.
 
-(R.S. § 2103; [Pub. L. 85–770][/us/pl/85/770], Aug. 27, 1958, [72 Stat. 927][/us/stat/72/927]; [Pub. L. 106–179, § 2][/us/pl/106/179/s2], Mar. 14, 2000, [114 Stat. 46][/us/stat/114/46].)
+(R.S. § 2103; [Pub. L. 85–770][/us/pl/85/770], Aug. 27, 1958, [72 Stat. 927][/us/stat/72/927]; [Pub. L. 106–179][/us/pl/106/179], § 2, Mar. 14, 2000, [114 Stat. 46][/us/stat/114/46].)
 
  __References in Text__ 
 
@@ -71,7 +71,7 @@
 
  __Codification__ 
 
-    R.S. § 2103 derived from acts [Mar. 3, 1871, ch. 120, § 3][/us/act/1871-03-03/ch120/s3], [16 Stat. 570][/us/stat/16/570]; [May 21, 1872, ch. 177][/us/act/1872-05-21/ch177], §§ 1, 2, [17 Stat. 136][/us/stat/17/136].
+    R.S. § 2103 derived from acts [Mar. 3, 1871, ch. 120][/us/act/1871-03-03/ch120], § 3, [16 Stat. 570][/us/stat/16/570]; [May 21, 1872, ch. 177][/us/act/1872-05-21/ch177], §§ 1, 2, [17 Stat. 136][/us/stat/17/136].
 
  __Amendments__ 
 
@@ -96,12 +96,12 @@
 [/us/usc/t25/s2701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs2701
 [/us/pl/85/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F770
 [/us/stat/72/927]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F927
-[/us/pl/106/179/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F179%2Fs2
+[/us/pl/106/179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F179
 [/us/stat/114/46]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F46
 [/us/pl/100/497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F497
 [/us/stat/102/2467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2467
 [/us/usc/t25/s2701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs2701
-[/us/act/1871-03-03/ch120/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1871-03-03%2Fch120%2Fs3
+[/us/act/1871-03-03/ch120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1871-03-03%2Fch120
 [/us/stat/16/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F16%2F570
 [/us/act/1872-05-21/ch177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1872-05-21%2Fch177
 [/us/stat/17/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F17%2F136

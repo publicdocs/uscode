@@ -29,7 +29,7 @@
 
             The assumption of criminal jurisdiction by the State pursuant to subsection (a) shall not be construed as a waiver of the jurisdiction of the United States under [section 1153 of title 18][/us/usc/t18/s1153].
 
-([Pub. L. 103–377, § 6][/us/pl/103/377/s6], Oct. 19, 1994, [108 Stat. 3505][/us/stat/108/3505].)
+([Pub. L. 103–377][/us/pl/103/377], § 6, Oct. 19, 1994, [108 Stat. 3505][/us/stat/108/3505].)
 
 ----------
 
@@ -39,7 +39,7 @@
 ----------
 
 [/us/usc/t18/s1153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1153
-[/us/pl/103/377/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F377%2Fs6
+[/us/pl/103/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F377
 [/us/stat/108/3505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3505
 
 

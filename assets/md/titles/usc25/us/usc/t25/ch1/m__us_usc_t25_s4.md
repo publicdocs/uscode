@@ -17,7 +17,7 @@
 
     The recording of all deeds and papers prior to July 26, 1892, in the office of the Commissioner of Indian Affairs is confirmed, approved, and legalized; and said record theretofore made shall be deemed, taken, and held to be good and valid and shall have all the force and effect and be entitled to the same credit as if it had been made in pursuance of and in conformity to law. But shall have no effect whatever upon the validity or invalidity of the deed or paper so recorded, and shall be no evidence of constructive notice to any persons not actually knowing the contents.
 
-([July 26, 1892, ch. 256, § 1][/us/act/1892-07-26/ch256/s1], [27 Stat. 272][/us/stat/27/272].)
+([July 26, 1892, ch. 256][/us/act/1892-07-26/ch256], § 1, [27 Stat. 272][/us/stat/27/272].)
 
  __Transfer of Functions__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1892-07-26/ch256/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1892-07-26%2Fch256%2Fs1
+[/us/act/1892-07-26/ch256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1892-07-26%2Fch256
 [/us/stat/27/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F27%2F272
 [/us/stat/64/1262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1262
 

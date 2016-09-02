@@ -17,7 +17,7 @@
 
     There is hereby authorized to be appropriated such sum as may be necessary to carry out the provisions of this subchapter.
 
-([Pub. L. 90–284, title III, § 302][/us/pl/90/284/s302], Apr. 11, 1968, [82 Stat. 78][/us/stat/82/78].)
+([Pub. L. 90–284, title III][/us/pl/90/284/tIII], § 302, Apr. 11, 1968, [82 Stat. 78][/us/stat/82/78].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/90/284/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F284%2Fs302
+[/us/pl/90/284/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F284%2FtIII
 [/us/stat/82/78]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F78
 
 

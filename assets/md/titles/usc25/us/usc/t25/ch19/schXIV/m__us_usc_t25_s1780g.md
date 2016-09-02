@@ -41,7 +41,7 @@
 
         (2) treated as reservation land.
 
-([Pub. L. 109–286, § 9][/us/pl/109/286/s9], Sept. 27, 2006, [120 Stat. 1224][/us/stat/120/1224].)
+([Pub. L. 109–286][/us/pl/109/286], § 9, Sept. 27, 2006, [120 Stat. 1224][/us/stat/120/1224].)
 
  __References in Text__ 
 
@@ -56,7 +56,7 @@
 
 [/us/usc/t25/s1780f/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1780f%2Fb
 [/us/usc/t25/s177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs177
-[/us/pl/109/286/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F286%2Fs9
+[/us/pl/109/286]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F286
 [/us/stat/120/1224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1224
 [/us/act/1834-06-30/ch161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1834-06-30%2Fch161
 [/us/stat/4/729]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F4%2F729

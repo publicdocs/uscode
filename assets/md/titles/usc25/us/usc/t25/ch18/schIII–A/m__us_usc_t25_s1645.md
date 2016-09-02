@@ -47,7 +47,7 @@
 
         Nothing in this section may be construed as creating any right of a non-Indian veteran to obtain health services from the Service.
 
-([Pub. L. 94–437, title IV, § 405][/us/pl/94/437/s405], as added [Pub. L. 100–713, title IV, § 402][/us/pl/100/713/s402], Nov. 23, 1988, [102 Stat. 4818][/us/stat/102/4818]; amended [Pub. L. 102–573, title IV, § 404][/us/pl/102/573/s404], title VII, § 701(c)(3), Oct. 29, 1992, [106 Stat. 4566][/us/stat/106/4566], 4572; [Pub. L. 104–313, § 2(d)][/us/pl/104/313/s2/d], Oct. 19, 1996, [110 Stat. 3822][/us/stat/110/3822]; [Pub. L. 105–277, div. A, § 101(e)][/us/pl/105/277/s101/e] \[title III, § 336\], Oct. 21, 1998, [112 Stat. 2681–231][/us/stat/112/2681-231], 2681–295; [Pub. L. 105–362, title VI, § 601(a)(2)(B)][/us/pl/105/362/s601/a/2/B], Nov. 10, 1998, [112 Stat. 3285][/us/stat/112/3285]; [Pub. L. 106–417][/us/pl/106/417], §§ 3(a), 4, Nov. 1, 2000, [114 Stat. 1813][/us/stat/114/1813], 1816; [Pub. L. 108–173, title IX, § 900(e)(6)(B)][/us/pl/108/173/s900/e/6/B], Dec. 8, 2003, [117 Stat. 2373][/us/stat/117/2373]; [Pub. L. 111–148, title X, § 10221(a)][/us/pl/111/148/s10221/a], Mar. 23, 2010, [124 Stat. 935][/us/stat/124/935].)
+([Pub. L. 94–437, title IV][/us/pl/94/437/tIV], § 405, as added [Pub. L. 100–713, title IV][/us/pl/100/713/tIV], § 402, Nov. 23, 1988, [102 Stat. 4818][/us/stat/102/4818]; amended [Pub. L. 102–573, title IV][/us/pl/102/573/tIV], § 404, title VII, § 701(c)(3), Oct. 29, 1992, [106 Stat. 4566][/us/stat/106/4566], 4572; [Pub. L. 104–313][/us/pl/104/313], § 2(d), Oct. 19, 1996, [110 Stat. 3822][/us/stat/110/3822]; [Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(e) \[title III, § 336\], Oct. 21, 1998, [112 Stat. 2681–231][/us/stat/112/2681-231], 2681–295; [Pub. L. 105–362, title VI][/us/pl/105/362/tVI], § 601(a)(2)(B), Nov. 10, 1998, [112 Stat. 3285][/us/stat/112/3285]; [Pub. L. 106–417][/us/pl/106/417], §§ 3(a), 4, Nov. 1, 2000, [114 Stat. 1813][/us/stat/114/1813], 1816; [Pub. L. 108–173, title IX][/us/pl/108/173/tIX], § 900(e)(6)(B), Dec. 8, 2003, [117 Stat. 2373][/us/stat/117/2373]; [Pub. L. 111–148, title X][/us/pl/111/148/tX], § 10221(a), Mar. 23, 2010, [124 Stat. 935][/us/stat/124/935].)
 
  __Codification__ 
 
@@ -61,11 +61,11 @@
 
     2003—Subsec. (d)(1). [Pub. L. 108–173][/us/pl/108/173] substituted “Centers for Medicare & Medicaid Services” for “Health Care Financing Administration” in introductory provisions.
 
-    2000—[Pub. L. 106–417, § 4(a)][/us/pl/106/417/s4/a], reenacted section as in effect on Nov. 9, 1998. For text of section as reenacted, see 1998 Amendment note below.
+    2000—[Pub. L. 106–417][/us/pl/106/417], § 4(a), reenacted section as in effect on Nov. 9, 1998. For text of section as reenacted, see 1998 Amendment note below.
 
-    [Pub. L. 106–417, § 3(a)][/us/pl/106/417/s3/a], amended section generally. For text of section prior to amendment, see subsecs. (a) to (d) of section as set out in 1998 Amendment note below.
+    [Pub. L. 106–417][/us/pl/106/417], § 3(a), amended section generally. For text of section prior to amendment, see subsecs. (a) to (d) of section as set out in 1998 Amendment note below.
 
-    Subsec. (e). [Pub. L. 106–417, § 4(b)][/us/pl/106/417/s4/b], struck out subsec. (e). For text of subsec. (e) prior to amendment, see subsec. (e) of section as set out in 1998 Amendment note below.
+    Subsec. (e). [Pub. L. 106–417][/us/pl/106/417], § 4(b), struck out subsec. (e). For text of subsec. (e) prior to amendment, see subsec. (e) of section as set out in 1998 Amendment note below.
 
     1998—[Pub. L. 105–362][/us/pl/105/362] repealed section. Prior to repeal, section read as follows:
 
@@ -115,27 +115,27 @@
 
     1996—Subsec. (c)(2). [Pub. L. 104–313][/us/pl/104/313] substituted “1998” for “1996”.
 
-    1992—Subsec. (b)(1). [Pub. L. 102–573, § 701(c)(3)(A)][/us/pl/102/573/s701/c/3/A], substituted “sections 1642(a)” for “sections 402(c)” and made technical amendment to reference to section 1680c(b)(2)(A) to reflect renumbering of corresponding section of original act.
+    1992—Subsec. (b)(1). [Pub. L. 102–573][/us/pl/102/573], § 701(c)(3)(A), substituted “sections 1642(a)” for “sections 402(c)” and made technical amendment to reference to section 1680c(b)(2)(A) to reflect renumbering of corresponding section of original act.
 
-    Subsec. (b)(4). [Pub. L. 102–573, § 701(c)(3)(B)][/us/pl/102/573/s701/c/3/B], substituted “section 1642(a)” for “section 402(c)” in two places.
+    Subsec. (b)(4). [Pub. L. 102–573][/us/pl/102/573], § 701(c)(3)(B), substituted “section 1642(a)” for “section 402(c)” in two places.
 
-    Subsec. (c)(2). [Pub. L. 102–573, § 404(1)][/us/pl/102/573/s404/1], substituted “1996” for “1995”.
+    Subsec. (c)(2). [Pub. L. 102–573][/us/pl/102/573], § 404(1), substituted “1996” for “1995”.
 
-    Subsec. (e). [Pub. L. 102–573, § 404(2)][/us/pl/102/573/s404/2], substituted “1996” for “1995”.
+    Subsec. (e). [Pub. L. 102–573][/us/pl/102/573], § 404(2), substituted “1996” for “1995”.
 
  __Effective Date of 2000 Amendment__ 
 
-[Pub. L. 106–417, § 3(c)][/us/pl/106/417/s3/c], Nov. 1, 2000, [114 Stat. 1816][/us/stat/114/1816], provided that: 
+[Pub. L. 106–417][/us/pl/106/417], § 3(c), Nov. 1, 2000, [114 Stat. 1816][/us/stat/114/1816], provided that: 
 
 > “The amendments made by this section \[amending this section and sections 1395qq and 1396j of Title 42, The Public Health and Welfare\] shall take effect on October 1, 2000.”
 
-    [Pub. L. 106–417, § 4(a)][/us/pl/106/417/s4/a], Nov. 1, 2000, [114 Stat. 1816][/us/stat/114/1816], provided that the reenactment of this section by section 4(a) is effective Nov. 9, 1998.
+    [Pub. L. 106–417][/us/pl/106/417], § 4(a), Nov. 1, 2000, [114 Stat. 1816][/us/stat/114/1816], provided that the reenactment of this section by section 4(a) is effective Nov. 9, 1998.
 
-    [Pub. L. 106–417, § 4(b)][/us/pl/106/417/s4/b], Nov. 1, 2000, [114 Stat. 1816][/us/stat/114/1816], provided that the amendment made by section 4(b) is effective Nov. 10, 1998.
+    [Pub. L. 106–417][/us/pl/106/417], § 4(b), Nov. 1, 2000, [114 Stat. 1816][/us/stat/114/1816], provided that the amendment made by section 4(b) is effective Nov. 10, 1998.
 
  __Findings__ 
 
-    [Pub. L. 106–417, § 2][/us/pl/106/417/s2], Nov. 1, 2000, [114 Stat. 1812][/us/stat/114/1812], provided findings of Congress relating to amendment of this section by [Pub. L. 106–417][/us/pl/106/417].
+    [Pub. L. 106–417][/us/pl/106/417], § 2, Nov. 1, 2000, [114 Stat. 1812][/us/stat/114/1812], provided findings of Congress relating to amendment of this section by [Pub. L. 106–417][/us/pl/106/417].
 
 ----------
 
@@ -144,47 +144,47 @@
 ----------
 ----------
 
-[/us/pl/94/437/s405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437%2Fs405
-[/us/pl/100/713/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F713%2Fs402
+[/us/pl/94/437/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437%2FtIV
+[/us/pl/100/713/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F713%2FtIV
 [/us/stat/102/4818]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4818
-[/us/pl/102/573/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2Fs404
+[/us/pl/102/573/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2FtIV
 [/us/stat/106/4566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4566
-[/us/pl/104/313/s2/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F313%2Fs2%2Fd
+[/us/pl/104/313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F313
 [/us/stat/110/3822]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3822
-[/us/pl/105/277/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fe
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-231
-[/us/pl/105/362/s601/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362%2Fs601%2Fa%2F2%2FB
+[/us/pl/105/362/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362%2FtVI
 [/us/stat/112/3285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3285
 [/us/pl/106/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F417
 [/us/stat/114/1813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1813
-[/us/pl/108/173/s900/e/6/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs900%2Fe%2F6%2FB
+[/us/pl/108/173/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2FtIX
 [/us/stat/117/2373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2373
-[/us/pl/111/148/s10221/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10221%2Fa
+[/us/pl/111/148/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtX
 [/us/stat/124/935]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F935
 [/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 [/us/pl/111/148/s10221/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10221%2Fa
 [/us/usc/t42/s1395qq]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395qq
 [/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 [/us/pl/108/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173
-[/us/pl/106/417/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F417%2Fs4%2Fa
-[/us/pl/106/417/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F417%2Fs3%2Fa
-[/us/pl/106/417/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F417%2Fs4%2Fb
+[/us/pl/106/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F417
+[/us/pl/106/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F417
+[/us/pl/106/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F417
 [/us/pl/105/362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362
 [/us/usc/t25/s1642/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1642%2Fa
 [/us/usc/t25/s1642/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1642%2Fa
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/pl/104/313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F313
-[/us/pl/102/573/s701/c/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2Fs701%2Fc%2F3%2FA
-[/us/pl/102/573/s701/c/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2Fs701%2Fc%2F3%2FB
-[/us/pl/102/573/s404/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2Fs404%2F1
-[/us/pl/102/573/s404/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2Fs404%2F2
-[/us/pl/106/417/s3/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F417%2Fs3%2Fc
+[/us/pl/102/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573
+[/us/pl/102/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573
+[/us/pl/102/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573
+[/us/pl/102/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573
+[/us/pl/106/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F417
 [/us/stat/114/1816]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1816
-[/us/pl/106/417/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F417%2Fs4%2Fa
+[/us/pl/106/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F417
 [/us/stat/114/1816]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1816
-[/us/pl/106/417/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F417%2Fs4%2Fb
+[/us/pl/106/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F417
 [/us/stat/114/1816]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1816
-[/us/pl/106/417/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F417%2Fs2
+[/us/pl/106/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F417
 [/us/stat/114/1812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1812
 [/us/pl/106/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F417
 

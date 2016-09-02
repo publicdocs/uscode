@@ -93,7 +93,7 @@
 
         Nothing in this section shall be construed to limit any right of recovery available to the United States, an Indian tribe, or tribal organization under the provisions of any applicable, Federal, State, or tribal law, including medical lien laws.
 
-([Pub. L. 94–437, title II, § 206][/us/pl/94/437/s206], as added [Pub. L. 100–713, title II, § 204][/us/pl/100/713/s204], Nov. 23, 1988, [102 Stat. 4811][/us/stat/102/4811]; amended [Pub. L. 102–573, title II, § 209][/us/pl/102/573/s209], Oct. 29, 1992, [106 Stat. 4551][/us/stat/106/4551]; [Pub. L. 111–148, title X, § 10221(a)][/us/pl/111/148/s10221/a], Mar. 23, 2010, [124 Stat. 935][/us/stat/124/935].)
+([Pub. L. 94–437, title II][/us/pl/94/437/tII], § 206, as added [Pub. L. 100–713, title II][/us/pl/100/713/tII], § 204, Nov. 23, 1988, [102 Stat. 4811][/us/stat/102/4811]; amended [Pub. L. 102–573, title II][/us/pl/102/573/tII], § 209, Oct. 29, 1992, [106 Stat. 4551][/us/stat/106/4551]; [Pub. L. 111–148, title X][/us/pl/111/148/tX], § 10221(a), Mar. 23, 2010, [124 Stat. 935][/us/stat/124/935].)
 
  __References in Text__ 
 
@@ -111,17 +111,17 @@
 
     2010—[Pub. L. 111–148][/us/pl/111/148] amended section generally. Prior to amendment, section related to right of recovery of costs of health services by the United States, an Indian tribe, or a tribal organization from certain third parties.
 
-    1992—Subsec. (a). [Pub. L. 102–573, § 209(b)(1)][/us/pl/102/573/s209/b/1], substituted “Except as provided in subsection (f) of this section, the” for “The”.
+    1992—Subsec. (a). [Pub. L. 102–573][/us/pl/102/573], § 209(b)(1), substituted “Except as provided in subsection (f) of this section, the” for “The”.
 
-    [Pub. L. 102–573, § 209(a)(1)][/us/pl/102/573/s209/a/1]–(3), inserted “, an Indian tribe, or a tribal organization” after “United States”, after “Service”, and after “Secretary”.
+    [Pub. L. 102–573][/us/pl/102/573], § 209(a)(1)–(3), inserted “, an Indian tribe, or a tribal organization” after “United States”, after “Service”, and after “Secretary”.
 
-    Subsec. (b). [Pub. L. 102–573, § 209(a)(4)][/us/pl/102/573/s209/a/4], struck out “, or any political subdivision of a State,” after “against any State”.
+    Subsec. (b). [Pub. L. 102–573][/us/pl/102/573], § 209(a)(4), struck out “, or any political subdivision of a State,” after “against any State”.
 
-    Subsecs. (c), (d). [Pub. L. 102–573, § 209(a)(1)][/us/pl/102/573/s209/a/1], inserted “, an Indian tribe, or a tribal organization” after “United States”.
+    Subsecs. (c), (d). [Pub. L. 102–573][/us/pl/102/573], § 209(a)(1), inserted “, an Indian tribe, or a tribal organization” after “United States”.
 
-    Subsec. (e). [Pub. L. 102–573, § 209(a)(1)][/us/pl/102/573/s209/a/1], (3), inserted “, an Indian tribe, or a tribal organization” after “United States” in two places and after “Secretary”.
+    Subsec. (e). [Pub. L. 102–573][/us/pl/102/573], § 209(a)(1), (3), inserted “, an Indian tribe, or a tribal organization” after “United States” in two places and after “Secretary”.
 
-    Subsec. (f). [Pub. L. 102–573, § 209(b)(2)][/us/pl/102/573/s209/b/2], added subsec. (f).
+    Subsec. (f). [Pub. L. 102–573][/us/pl/102/573], § 209(b)(2), added subsec. (f).
 
 ----------
 
@@ -136,12 +136,12 @@
 [/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
 [/us/usc/t42/s1320d–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320d%E2%80%934
 [/us/usc/t28/s2415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2415
-[/us/pl/94/437/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437%2Fs206
-[/us/pl/100/713/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F713%2Fs204
+[/us/pl/94/437/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437%2FtII
+[/us/pl/100/713/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F713%2FtII
 [/us/stat/102/4811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4811
-[/us/pl/102/573/s209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2Fs209
+[/us/pl/102/573/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2FtII
 [/us/stat/106/4551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4551
-[/us/pl/111/148/s10221/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10221%2Fa
+[/us/pl/111/148/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtX
 [/us/stat/124/935]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F935
 [/us/pl/93/638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638
 [/us/stat/88/2203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2203
@@ -154,11 +154,11 @@
 [/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 [/us/pl/111/148/s10221/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10221%2Fa
 [/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
-[/us/pl/102/573/s209/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2Fs209%2Fb%2F1
-[/us/pl/102/573/s209/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2Fs209%2Fa%2F1
-[/us/pl/102/573/s209/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2Fs209%2Fa%2F4
-[/us/pl/102/573/s209/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2Fs209%2Fa%2F1
-[/us/pl/102/573/s209/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2Fs209%2Fa%2F1
-[/us/pl/102/573/s209/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2Fs209%2Fb%2F2
+[/us/pl/102/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573
+[/us/pl/102/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573
+[/us/pl/102/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573
+[/us/pl/102/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573
+[/us/pl/102/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573
+[/us/pl/102/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573
 
 

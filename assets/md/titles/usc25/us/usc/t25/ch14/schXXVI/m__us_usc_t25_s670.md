@@ -17,7 +17,7 @@
 
     Any tribal lands that may be sold pursuant to [section 668 of this title][/us/usc/t25/s668] may, with the approval of the Secretary of the Interior, be encumbered by a mortgage or deed of trust, and shall be subject to foreclosure or sale pursuant to the terms of such mortgage or deed of trust in accordance with the laws of the State in which the land is located. The United States shall be an indispensable party to any such proceedings with the right of removal of the proceeding to the United States district court for the district in which the land is located, following the procedure in [section 1446 of title 28][/us/usc/t28/s1446], and the United States shall have the right to appeal from any order of remand in the proceeding.
 
-([Pub. L. 92–312, § 3][/us/pl/92/312/s3], June 14, 1972, [86 Stat. 216][/us/stat/86/216].)
+([Pub. L. 92–312][/us/pl/92/312], § 3, June 14, 1972, [86 Stat. 216][/us/stat/86/216].)
 
 ----------
 
@@ -28,7 +28,7 @@
 
 [/us/usc/t25/s668]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs668
 [/us/usc/t28/s1446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1446
-[/us/pl/92/312/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F312%2Fs3
+[/us/pl/92/312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F312
 [/us/stat/86/216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F216
 
 

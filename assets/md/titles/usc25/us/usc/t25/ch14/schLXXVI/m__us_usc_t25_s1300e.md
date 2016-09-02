@@ -17,7 +17,7 @@
 
     The funds appropriated by the Act of January 8, 1971 ([84 Stat. 1981][/us/stat/84/1981]), to pay a judgment to the Assiniboine Tribes of the Fort Peck and Fort Belknap Reservations, Montana, in Indian Claims Commission docket numbered 279–A, together with interest thereon, after payment of attorney fees and litigation expenses, shall be divided by the Secretary of the Interior on the basis of 50 per centum to the Assiniboine Tribe of the Fort Peck Reservation and 50 per centum to the Assiniboine Tribe of the Fort Belknap Reservation.
 
-([Pub. L. 92–557, § 1][/us/pl/92/557/s1], Oct. 25, 1972, [86 Stat. 1171][/us/stat/86/1171].)
+([Pub. L. 92–557][/us/pl/92/557], § 1, Oct. 25, 1972, [86 Stat. 1171][/us/stat/86/1171].)
 
  __References in Text__ 
 
@@ -33,7 +33,7 @@
 ----------
 
 [/us/stat/84/1981]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1981
-[/us/pl/92/557/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F557%2Fs1
+[/us/pl/92/557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F557
 [/us/stat/86/1171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1171
 [/us/pl/91/665]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F665
 [/us/stat/84/1981]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1981

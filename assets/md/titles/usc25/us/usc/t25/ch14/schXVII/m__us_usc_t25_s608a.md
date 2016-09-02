@@ -23,7 +23,7 @@
 
         Sums derived from the sale of tribal trust lands interests, improvements, and rights shall be credited to the tribal funds of the Yakima Tribes.
 
-([July 28, 1955, ch. 423, § 2][/us/act/1955-07-28/ch423/s2], [69 Stat. 393][/us/stat/69/393]; [Pub. L. 88–540, § 2][/us/pl/88/540/s2], Aug. 31, 1964, [78 Stat. 748][/us/stat/78/748].)
+([July 28, 1955, ch. 423][/us/act/1955-07-28/ch423], § 2, [69 Stat. 393][/us/stat/69/393]; [Pub. L. 88–540][/us/pl/88/540], § 2, Aug. 31, 1964, [78 Stat. 748][/us/stat/78/748].)
 
  __Codification__ 
 
@@ -40,9 +40,9 @@
 ----------
 ----------
 
-[/us/act/1955-07-28/ch423/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-28%2Fch423%2Fs2
+[/us/act/1955-07-28/ch423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-28%2Fch423
 [/us/stat/69/393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F393
-[/us/pl/88/540/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F540%2Fs2
+[/us/pl/88/540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F540
 [/us/stat/78/748]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F748
 [/us/act/1946-08-09/ch933]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-09%2Fch933
 [/us/stat/60/968]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F968

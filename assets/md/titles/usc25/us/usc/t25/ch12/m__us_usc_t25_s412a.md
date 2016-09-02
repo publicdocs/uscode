@@ -17,7 +17,7 @@
 
     All homesteads, heretofore purchased out of the trust or restricted funds of individual Indians, are hereby declared to be instrumentalities of the Federal Government and shall be nontaxable until otherwise directed by Congress: Provided, That the title to such homesteads shall be held subject to restrictions against alienation or encumbrance except with the approval of the Secretary of the Interior: And provided further, That the Indian owner or owners shall select, with the approval of the Secretary of the Interior, either the agricultural and grazing lands, not exceeding a total of one hundred and sixty acres, or the village, town, or city property, not exceeding in cost $5,000, to be designated as a homestead.
 
-([June 20, 1936, ch. 622, § 2][/us/act/1936-06-20/ch622/s2], [49 Stat. 1542][/us/stat/49/1542]; [May 19, 1937, ch. 227][/us/act/1937-05-19/ch227], [50 Stat. 188][/us/stat/50/188].)
+([June 20, 1936, ch. 622][/us/act/1936-06-20/ch622], § 2, [49 Stat. 1542][/us/stat/49/1542]; [May 19, 1937, ch. 227][/us/act/1937-05-19/ch227], [50 Stat. 188][/us/stat/50/188].)
 
  __Amendments__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1936-06-20/ch622/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-20%2Fch622%2Fs2
+[/us/act/1936-06-20/ch622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-20%2Fch622
 [/us/stat/49/1542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1542
 [/us/act/1937-05-19/ch227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-05-19%2Fch227
 [/us/stat/50/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F50%2F188

@@ -47,7 +47,7 @@
 
         The State shall exercise civil and criminal jurisdiction within the boundaries of the reservation as if such State had assumed such jurisdiction with the consent of the tribe under sections 1321 and 1322 of this title.
 
-([Pub. L. 100–89, title II, § 206][/us/pl/100/89/s206], Aug. 18, 1987, [101 Stat. 671][/us/stat/101/671].)
+([Pub. L. 100–89, title II][/us/pl/100/89/tII], § 206, Aug. 18, 1987, [101 Stat. 671][/us/stat/101/671].)
 
 ----------
 
@@ -56,7 +56,7 @@
 ----------
 ----------
 
-[/us/pl/100/89/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F89%2Fs206
+[/us/pl/100/89/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F89%2FtII
 [/us/stat/101/671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F671
 
 

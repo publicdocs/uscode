@@ -17,7 +17,7 @@
 
     The interest accruing on Indian tribal funds under sections 161a to 161c of this title shall be subject to the same disposition as prescribed by existing law for the respective principal funds.
 
-([Feb. 12, 1929, ch. 178, § 4][/us/act/1929-02-12/ch178/s4], as added [June 13, 1930, ch. 483][/us/act/1930-06-13/ch483], [46 Stat. 584][/us/stat/46/584].)
+([Feb. 12, 1929, ch. 178][/us/act/1929-02-12/ch178], § 4, as added [June 13, 1930, ch. 483][/us/act/1930-06-13/ch483], [46 Stat. 584][/us/stat/46/584].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1929-02-12/ch178/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1929-02-12%2Fch178%2Fs4
+[/us/act/1929-02-12/ch178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1929-02-12%2Fch178
 [/us/act/1930-06-13/ch483]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-13%2Fch483
 [/us/stat/46/584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F584
 

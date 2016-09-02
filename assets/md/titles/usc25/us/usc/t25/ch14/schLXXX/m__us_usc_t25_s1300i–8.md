@@ -63,7 +63,7 @@
 
         Upon written request of the Interim Council or the drafting committee and the submission of a draft constitution as provided in paragraph (4) of subsection (d), the Secretary shall conduct an election, pursuant to the provisions of the Indian Reorganization Act of June 18, 1934 ([25 U.S.C. 461][/us/usc/t25/s461] et seq.) and rules and regulations promulgated thereunder, for the adoption of such constitution and, working with the Interim Council, the election of the initial tribal governing body upon the adoption of such constitution.
 
-([Pub. L. 100–580, § 9][/us/pl/100/580/s9], Oct. 31, 1988, [102 Stat. 2932][/us/stat/102/2932]; [Pub. L. 101–121, title III, § 315][/us/pl/101/121/s315], Oct. 23, 1989, [103 Stat. 744][/us/stat/103/744]; [Pub. L. 101–301, § 9(3)][/us/pl/101/301/s9/3], May 24, 1990, [104 Stat. 211][/us/stat/104/211].)
+([Pub. L. 100–580][/us/pl/100/580], § 9, Oct. 31, 1988, [102 Stat. 2932][/us/stat/102/2932]; [Pub. L. 101–121, title III][/us/pl/101/121/tIII], § 315, Oct. 23, 1989, [103 Stat. 744][/us/stat/103/744]; [Pub. L. 101–301][/us/pl/101/301], § 9(3), May 24, 1990, [104 Stat. 211][/us/stat/104/211].)
 
  __References in Text__ 
 
@@ -89,11 +89,11 @@
 [/us/usc/t25/s1300i–5/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1300i%E2%80%935%2Fa%2F4
 [/us/usc/t25/s1300i–5/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1300i%E2%80%935%2Fc
 [/us/usc/t25/s461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs461
-[/us/pl/100/580/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F580%2Fs9
+[/us/pl/100/580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F580
 [/us/stat/102/2932]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2932
-[/us/pl/101/121/s315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F121%2Fs315
+[/us/pl/101/121/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F121%2FtIII
 [/us/stat/103/744]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F744
-[/us/pl/101/301/s9/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F301%2Fs9%2F3
+[/us/pl/101/301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F301
 [/us/stat/104/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F211
 [/us/act/1934-06-18/ch576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-18%2Fch576
 [/us/stat/48/984]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F984

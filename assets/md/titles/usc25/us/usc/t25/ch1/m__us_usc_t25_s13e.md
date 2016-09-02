@@ -17,7 +17,7 @@
 
     On and after October 12, 1984, such appropriations \[appropriations for the Bureau of Indian Affairs (except the revolving fund for loans and the Indian loan guarantee and insurance fund)\] under this or any other act shall be available for: the expenses of exhibits; advance payments for services (including services which may extend beyond the current fiscal year) under contracts executed pursuant to the Act of June 4, 1936 ([48 Stat. 596][/us/stat/48/596]), as amended ([25 U.S.C. 452][/us/usc/t25/s452] et seq.), the Act of August 3, 1956 ([70 Stat. 896][/us/stat/70/896]), as amended ([25 U.S.C. 309][/us/usc/t25/s309] et seq.), and legislation terminating Federal supervision over certain tribes; and expenses required by continuing or permanent treaty provision.
 
-([Pub. L. 98–473, title I, § 101(c)][/us/pl/98/473/s101/c] \[title I, § 100\], Oct. 12, 1984, [98 Stat. 1837][/us/stat/98/1837], 1850.)
+([Pub. L. 98–473, title I][/us/pl/98/473/tI], § 101(c) \[title I, § 100\], Oct. 12, 1984, [98 Stat. 1837][/us/stat/98/1837], 1850.)
 
  __References in Text__ 
 
@@ -36,7 +36,7 @@
 [/us/usc/t25/s452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs452
 [/us/stat/70/896]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F896
 [/us/usc/t25/s309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs309
-[/us/pl/98/473/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs101%2Fc
+[/us/pl/98/473/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtI
 [/us/stat/98/1837]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1837
 [/us/act/1934-04-16/ch147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-04-16%2Fch147
 [/us/stat/48/596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F596

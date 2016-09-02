@@ -17,7 +17,7 @@
 
     The Secretary shall prescribe such regulations as may be necessary to carry out the provisions of this subchapter.
 
-([Pub. L. 101–484, § 9][/us/pl/101/484/s9], Oct. 31, 1990, [104 Stat. 1169][/us/stat/104/1169].)
+([Pub. L. 101–484][/us/pl/101/484], § 9, Oct. 31, 1990, [104 Stat. 1169][/us/stat/104/1169].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/101/484/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F484%2Fs9
+[/us/pl/101/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F484
 [/us/stat/104/1169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1169
 
 

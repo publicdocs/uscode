@@ -43,7 +43,7 @@
 
             The provisions of this subsection shall be subject to the responsibility of the Secretary to protect the rights and property of life tenants and persons awaiting relocation as provided in subsections (c) and (d) of this section.
 
-([Pub. L. 93–531, § 10][/us/pl/93/531/s10], Dec. 22, 1974, [88 Stat. 1716][/us/stat/88/1716]; [Pub. L. 96–305, § 3][/us/pl/96/305/s3], July 8, 1980, [94 Stat. 929][/us/stat/94/929]; [Pub. L. 100–666, § 6][/us/pl/100/666/s6], Nov. 16, 1988, [102 Stat. 3932][/us/stat/102/3932]; [Pub. L. 111–18, § 1][/us/pl/111/18/s1], May 8, 2009, [123 Stat. 1611][/us/stat/123/1611].)
+([Pub. L. 93–531][/us/pl/93/531], § 10, Dec. 22, 1974, [88 Stat. 1716][/us/stat/88/1716]; [Pub. L. 96–305][/us/pl/96/305], § 3, July 8, 1980, [94 Stat. 929][/us/stat/94/929]; [Pub. L. 100–666][/us/pl/100/666], § 6, Nov. 16, 1988, [102 Stat. 3932][/us/stat/102/3932]; [Pub. L. 111–18][/us/pl/111/18], § 1, May 8, 2009, [123 Stat. 1611][/us/stat/123/1611].)
 
  __References in Text__ 
 
@@ -68,13 +68,13 @@
 [/us/usc/t25/s640d–7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs640d%E2%80%937
 [/us/usc/t25/s640d–7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs640d%E2%80%937
 [/us/usc/t25/s640d–28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs640d%E2%80%9328
-[/us/pl/93/531/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F531%2Fs10
+[/us/pl/93/531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F531
 [/us/stat/88/1716]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1716
-[/us/pl/96/305/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F305%2Fs3
+[/us/pl/96/305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F305
 [/us/stat/94/929]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F929
-[/us/pl/100/666/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F666%2Fs6
+[/us/pl/100/666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F666
 [/us/stat/102/3932]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3932
-[/us/pl/111/18/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F18%2Fs1
+[/us/pl/111/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F18
 [/us/stat/123/1611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1611
 [/us/act/1934-06-14/ch521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-14%2Fch521
 [/us/stat/48/960]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F960

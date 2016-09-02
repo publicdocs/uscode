@@ -19,7 +19,7 @@
 
     (b) Subsection (a) shall not apply to the Navajo Tribe or the Hopi Tribe, except that such tribes shall not spend any funds received from the Office in any activities designed to influence Federal legislation.
 
-([Pub. L. 93–531, § 31][/us/pl/93/531/s31], as added [Pub. L. 100–666, § 5][/us/pl/100/666/s5], Nov. 16, 1988, [102 Stat. 3931][/us/stat/102/3931].)
+([Pub. L. 93–531][/us/pl/93/531], § 31, as added [Pub. L. 100–666][/us/pl/100/666], § 5, Nov. 16, 1988, [102 Stat. 3931][/us/stat/102/3931].)
 
 ----------
 
@@ -28,8 +28,8 @@
 ----------
 ----------
 
-[/us/pl/93/531/s31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F531%2Fs31
-[/us/pl/100/666/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F666%2Fs5
+[/us/pl/93/531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F531
+[/us/pl/100/666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F666
 [/us/stat/102/3931]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3931
 
 

@@ -35,7 +35,7 @@
 
         (3) Should the study recommend establishment of a museum, and should the College of Santa Fe be selected as the best site, any agreement entered into by the Secretary of the Interior for construction of such museum shall contain assurances, satisfactory to the Secretary, that appropriate lands at the College of Santa Fe will be available at no cost to the Federal Government for the establishment of a museum facility.
 
-([Pub. L. 98–306, § 14][/us/pl/98/306/s14], May 31, 1984, [98 Stat. 226][/us/stat/98/226]; [Pub. L. 99–498, title XV, § 1514(c)][/us/pl/99/498/s1514/c], Oct. 17, 1986, [100 Stat. 1608][/us/stat/100/1608].)
+([Pub. L. 98–306][/us/pl/98/306], § 14, May 31, 1984, [98 Stat. 226][/us/stat/98/226]; [Pub. L. 99–498, title XV][/us/pl/99/498/tXV], § 1514(c), Oct. 17, 1986, [100 Stat. 1608][/us/stat/100/1608].)
 
  __Amendments__ 
 
@@ -43,7 +43,7 @@
 
  __Effective Date of 1986 Amendment__ 
 
-    [Pub. L. 99–498, title XV, § 1514(f)][/us/pl/99/498/s1514/f], Oct. 17, 1986, [100 Stat. 1608][/us/stat/100/1608], provided that amendment made by [Pub. L. 99–498][/us/pl/99/498] is effective Oct. 1, 1986.
+    [Pub. L. 99–498, title XV][/us/pl/99/498/tXV], § 1514(f), Oct. 17, 1986, [100 Stat. 1608][/us/stat/100/1608], provided that amendment made by [Pub. L. 99–498][/us/pl/99/498] is effective Oct. 1, 1986.
 
 ----------
 
@@ -52,12 +52,12 @@
 ----------
 ----------
 
-[/us/pl/98/306/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F306%2Fs14
+[/us/pl/98/306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F306
 [/us/stat/98/226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F226
-[/us/pl/99/498/s1514/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2Fs1514%2Fc
+[/us/pl/99/498/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2FtXV
 [/us/stat/100/1608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1608
 [/us/pl/99/498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498
-[/us/pl/99/498/s1514/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2Fs1514%2Ff
+[/us/pl/99/498/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2FtXV
 [/us/stat/100/1608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1608
 [/us/pl/99/498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498
 

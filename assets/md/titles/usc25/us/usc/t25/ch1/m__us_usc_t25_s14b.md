@@ -17,7 +17,7 @@
 
     The Secretary of the Interior is authorized to retain collections from the public in payment for goods and services provided by the Bureau of Indian Affairs. Such collections shall be credited to the appropriation account against which obligations were incurred in providing such goods and services.
 
-([Pub. L. 101–301, § 10][/us/pl/101/301/s10], May 24, 1990, [104 Stat. 211][/us/stat/104/211].)
+([Pub. L. 101–301][/us/pl/101/301], § 10, May 24, 1990, [104 Stat. 211][/us/stat/104/211].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/101/301/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F301%2Fs10
+[/us/pl/101/301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F301
 [/us/stat/104/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F211
 
 

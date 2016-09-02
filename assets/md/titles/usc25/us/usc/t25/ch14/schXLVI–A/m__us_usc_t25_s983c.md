@@ -17,7 +17,7 @@
 
     Notwithstanding any other provision of law, the Tribe and its members shall be eligible, on or after October 31, 1990, for all Federal services and benefits furnished to federally recognized tribes without regard to the existence of a reservation for the Tribe. In the case of Federal services available to members of federally recognized tribes residing on or near a reservation, members of the Tribe residing in Sarpy, Burt, Platte, Stanton, Holt, Hall, Wayne, Knox, Boyd, Madison, Douglas, or Lancaster Counties of Nebraska, Woodbury or Pottawattomie Counties of Iowa, or Charles Mix County of South Dakota shall be deemed to be residing on or near a reservation.
 
-([Pub. L. 101–484, § 5][/us/pl/101/484/s5], Oct. 31, 1990, [104 Stat. 1168][/us/stat/104/1168]; [Pub. L. 104–109, § 12][/us/pl/104/109/s12], Feb. 12, 1996, [110 Stat. 765][/us/stat/110/765].)
+([Pub. L. 101–484][/us/pl/101/484], § 5, Oct. 31, 1990, [104 Stat. 1168][/us/stat/104/1168]; [Pub. L. 104–109][/us/pl/104/109], § 12, Feb. 12, 1996, [110 Stat. 765][/us/stat/110/765].)
 
  __Amendments__ 
 
@@ -30,9 +30,9 @@
 ----------
 ----------
 
-[/us/pl/101/484/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F484%2Fs5
+[/us/pl/101/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F484
 [/us/stat/104/1168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1168
-[/us/pl/104/109/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F109%2Fs12
+[/us/pl/104/109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F109
 [/us/stat/110/765]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F765
 [/us/pl/104/109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F109
 

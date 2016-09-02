@@ -27,7 +27,7 @@
 
         No part of any payment hereunder shall be subject to any debt or debts created prior to August 30, 1954 by a beneficiary of Indian blood. Payment to living enrollees, unless under twenty-one years of age, or under legal disability, shall be completed within one year after approval of the tribal rolls. Payment to next of kin and legatees, and payment for the account of persons under twenty-one years of age or under legal disability shall be completed within the same period of time to the maximum extent possible.
 
-([Aug. 30, 1954, ch. 1085, § 3][/us/act/1954-08-30/ch1085/s3], [68 Stat. 979][/us/stat/68/979].)
+([Aug. 30, 1954, ch. 1085][/us/act/1954-08-30/ch1085], § 3, [68 Stat. 979][/us/stat/68/979].)
 
 ----------
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/act/1954-08-30/ch1085/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-30%2Fch1085%2Fs3
+[/us/act/1954-08-30/ch1085]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-30%2Fch1085
 [/us/stat/68/979]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F979
 
 

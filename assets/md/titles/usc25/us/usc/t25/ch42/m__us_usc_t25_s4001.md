@@ -29,7 +29,7 @@
 
     (6) The term “Department” means the Department of the Interior.
 
-([Pub. L. 103–412, § 2][/us/pl/103/412/s2], Oct. 25, 1994, [108 Stat. 4239][/us/stat/108/4239].)
+([Pub. L. 103–412][/us/pl/103/412], § 2, Oct. 25, 1994, [108 Stat. 4239][/us/stat/108/4239].)
 
  __References in Text__ 
 
@@ -39,7 +39,7 @@
 
  __Short Title__ 
 
-[Pub. L. 103–412, § 1(a)][/us/pl/103/412/s1/a], Oct. 25, 1994, [108 Stat. 4239][/us/stat/108/4239], provided that: 
+[Pub. L. 103–412][/us/pl/103/412], § 1(a), Oct. 25, 1994, [108 Stat. 4239][/us/stat/108/4239], provided that: 
 
 > “This Act \[enacting this chapter, amending sections 161a and 162a of this title, and enacting provisions set out as a note under [section 161a of this title][/us/usc/t25/s161a]\] may be cited as the ‘American Indian Trust Fund Management Reform Act of 1994’.”
 
@@ -54,14 +54,14 @@
 [/us/stat/85/688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F688
 [/us/usc/t43/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1601
 [/us/usc/t25/s4042]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs4042
-[/us/pl/103/412/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F412%2Fs2
+[/us/pl/103/412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F412
 [/us/stat/108/4239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4239
 [/us/pl/103/412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F412
 [/us/stat/108/4239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4239
 [/us/pl/92/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F203
 [/us/stat/85/688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F688
 [/us/usc/t43/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1601
-[/us/pl/103/412/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F412%2Fs1%2Fa
+[/us/pl/103/412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F412
 [/us/stat/108/4239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4239
 [/us/usc/t25/s161a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs161a
 

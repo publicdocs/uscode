@@ -17,7 +17,7 @@
 
     The term “natives of Alaska” as used herein shall be deemed to mean the native Indians, Eskimos, and Aleuts of whole or part blood inhabiting Alaska at the time of the Treaty of Cession of Alaska to the United States and their descendants of whole or part blood, together with the Indians and Eskimos who, since the year 1867 and prior to September 1, 1937, have migrated into Alaska from the Dominion of Canada, and their descendants of the whole or part blood.
 
-([Sept. 1, 1937, ch. 897, § 15][/us/act/1937-09-01/ch897/s15], [50 Stat. 902][/us/stat/50/902].)
+([Sept. 1, 1937, ch. 897][/us/act/1937-09-01/ch897], § 15, [50 Stat. 902][/us/stat/50/902].)
 
  __References in Text__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/act/1937-09-01/ch897/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-09-01%2Fch897%2Fs15
+[/us/act/1937-09-01/ch897]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-09-01%2Fch897
 [/us/stat/50/902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F50%2F902
 [/us/usc/t48/s250n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs250n
 

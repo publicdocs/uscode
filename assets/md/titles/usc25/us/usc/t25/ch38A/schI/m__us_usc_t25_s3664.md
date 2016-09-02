@@ -17,7 +17,7 @@
 
     No Federal agency shall offset funds made available pursuant to this chapter for Indian tribal court membership organizations or Indian legal services organizations against other funds otherwise available for use in connection with technical or legal assistance to tribal justice systems or members of Indian tribes.
 
-([Pub. L. 106–559, title I, § 104][/us/pl/106/559/s104], Dec. 21, 2000, [114 Stat. 2781][/us/stat/114/2781].)
+([Pub. L. 106–559, title I][/us/pl/106/559/tI], § 104, Dec. 21, 2000, [114 Stat. 2781][/us/stat/114/2781].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/106/559/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F559%2Fs104
+[/us/pl/106/559/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F559%2FtI
 [/us/stat/114/2781]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2781
 
 

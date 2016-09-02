@@ -17,7 +17,7 @@
 
     When the distribution of tribal assets in accordance with the provisions of this subchapter has been completed, the Secretary of the Interior shall publish in the Federal Register a proclamation declaring that the Federal trust relationship to such tribe and its members has terminated. Thereafter, the tribe and its members shall not be entitled to any of the special services performed by the United States for Indians or Indian tribes because of their Indian status, all statutes of the United States that affect Indians or Indian tribes because of their Indian status shall be inapplicable to them, and the laws of the several States shall apply to them in the same manner they apply to other persons or citizens within their jurisdiction. Nothing in this subchapter, however, shall affect the status of any Indian as a citizen of the United States.
 
-([Pub. L. 87–629, § 10][/us/pl/87/629/s10], Sept. 5, 1962, [76 Stat. 431][/us/stat/76/431].)
+([Pub. L. 87–629][/us/pl/87/629], § 10, Sept. 5, 1962, [76 Stat. 431][/us/stat/76/431].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/87/629/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F629%2Fs10
+[/us/pl/87/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F629
 [/us/stat/76/431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F431
 
 

@@ -29,7 +29,7 @@
 
         (2) The offers, and any acceptances thereof, referred to in subsection (a), and the relinquishment of claims against the State, the city, the congressional villages, and all prior lessees for payment of annual rents referred to in subsection (b) shall not be binding on the Seneca Nation until after the later of the dates on which (1) Congress, or (2) the legislature of the State appropriates the amount of funds set forth in [section 1774d of this title][/us/usc/t25/s1774d] or the Seneca Nation and the State agree upon a schedule and mechanism for payments for funds pursuant to [section 1774d(c) of this title][/us/usc/t25/s1774d/c]. Such agreement shall render the offers, acceptances and the relinquishment effective so long as the payments are made as agreed upon by the Seneca Nation and the State.
 
-([Pub. L. 101–503, § 4][/us/pl/101/503/s4], Nov. 3, 1990, [104 Stat. 1294][/us/stat/104/1294].)
+([Pub. L. 101–503][/us/pl/101/503], § 4, Nov. 3, 1990, [104 Stat. 1294][/us/stat/104/1294].)
 
 ----------
 
@@ -41,7 +41,7 @@
 [/us/usc/t25/s1774d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1774d
 [/us/usc/t25/s1774d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1774d
 [/us/usc/t25/s1774d/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1774d%2Fc
-[/us/pl/101/503/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F503%2Fs4
+[/us/pl/101/503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F503
 [/us/stat/104/1294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1294
 
 

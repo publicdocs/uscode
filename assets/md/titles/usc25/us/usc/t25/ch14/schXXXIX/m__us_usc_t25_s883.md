@@ -27,7 +27,7 @@
 
         The Secretary of the Interior may make appropriate withdrawals from the judgment funds and interest thereon, using interest funds first, to pay costs incident to carrying out the provisions of sections 883 to 883d of this title.
 
-([Pub. L. 92–586, § 1][/us/pl/92/586/s1], Oct. 27, 1972, [86 Stat. 1295][/us/stat/86/1295]; [Pub. L. 98–605, § 5][/us/pl/98/605/s5], Oct. 30, 1984, [98 Stat. 3168][/us/stat/98/3168].)
+([Pub. L. 92–586][/us/pl/92/586], § 1, Oct. 27, 1972, [86 Stat. 1295][/us/stat/86/1295]; [Pub. L. 98–605][/us/pl/98/605], § 5, Oct. 30, 1984, [98 Stat. 3168][/us/stat/98/3168].)
 
  __References in Text__ 
 
@@ -50,9 +50,9 @@
 
 [/us/stat/34/539]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F34%2F539
 [/us/stat/84/1981]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1981
-[/us/pl/92/586/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F586%2Fs1
+[/us/pl/92/586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F586
 [/us/stat/86/1295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1295
-[/us/pl/98/605/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F605%2Fs5
+[/us/pl/98/605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F605
 [/us/stat/98/3168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3168
 [/us/act/1906-06-28/ch3572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1906-06-28%2Fch3572
 [/us/stat/34/539]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F34%2F539

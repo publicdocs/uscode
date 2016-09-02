@@ -33,7 +33,7 @@
 
         (2) Upon request, Indian Tribes  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should not be capitalized. </sup></sup>  and Native Hawaiian organizations shall have access to records, catalogues, relevant studies or other pertinent data for the limited purposes of determining the geographic origin, cultural affiliation, and basic facts surrounding acquisition and accession of Native American objects subject to this section. Such information shall be provided in a reasonable manner to be agreed upon by all parties.
 
-([Pub. L. 101–601, § 6][/us/pl/101/601/s6], Nov. 16, 1990, [104 Stat. 3053][/us/stat/104/3053].)
+([Pub. L. 101–601][/us/pl/101/601], § 6, Nov. 16, 1990, [104 Stat. 3053][/us/stat/104/3053].)
 
 ----------
 
@@ -42,7 +42,7 @@
 ----------
 ----------
 
-[/us/pl/101/601/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F601%2Fs6
+[/us/pl/101/601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F601
 [/us/stat/104/3053]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3053
 
 

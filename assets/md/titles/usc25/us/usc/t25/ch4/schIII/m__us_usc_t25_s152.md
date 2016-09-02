@@ -21,7 +21,7 @@
 
  __Codification__ 
 
-    R.S. § 2093 derived from [act Jan. 9, 1837, ch. 1, § 1][/us/act/1837-01-09/ch1/s1], [5 Stat. 135][/us/stat/5/135].
+    R.S. § 2093 derived from [act Jan. 9, 1837, ch. 1][/us/act/1837-01-09/ch1], § 1, [5 Stat. 135][/us/stat/5/135].
 
 ----------
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1837-01-09/ch1/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1837-01-09%2Fch1%2Fs1
+[/us/act/1837-01-09/ch1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1837-01-09%2Fch1
 [/us/stat/5/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F5%2F135
 
 

@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t25/ch7/m__us_usc_t25_s298.md) | [Next](./../../../..//us/usc/t25/ch7/m__us_usc_t25_s303.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs302)
+[Previous](./../../../..//us/usc/t25/ch7/m__us_usc_t25_s299...301.md) | [Next](./../../../..//us/usc/t25/ch7/m__us_usc_t25_s303.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs302)
 
 ## § 302. Indian Reform School; rules and regulations; consent of parents to placing youth in reform school
 
@@ -25,7 +25,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t25/ch7/m__us_usc_t25_s298.md) | [Next](./../../../..//us/usc/t25/ch7/m__us_usc_t25_s303.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs302)
+[Previous](./../../../..//us/usc/t25/ch7/m__us_usc_t25_s299...301.md) | [Next](./../../../..//us/usc/t25/ch7/m__us_usc_t25_s303.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs302)
 
 ----------
 ----------

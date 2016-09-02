@@ -63,11 +63,11 @@
 
             Costs incurred by the Secretary in carrying out this section shall be nonreimbursable.
 
-([Pub. L. 102–486, title XXVI, § 2606][/us/pl/102/486/s2606], as added [Pub. L. 109–58, title V, § 503(a)][/us/pl/109/58/s503/a], Aug. 8, 2005, [119 Stat. 777][/us/stat/119/777].)
+([Pub. L. 102–486, title XXVI][/us/pl/102/486/tXXVI], § 2606, as added [Pub. L. 109–58, title V][/us/pl/109/58/tV], § 503(a), Aug. 8, 2005, [119 Stat. 777][/us/stat/119/777].)
 
  __Prior Provisions__ 
 
-    A prior section 3506, [Pub. L. 102–486, title XXVI, § 2606][/us/pl/102/486/s2606], Oct. 24, 1992, [106 Stat. 3118][/us/stat/106/3118], related to tribal government energy assistance program, prior to the general amendment of this chapter by [Pub. L. 109–58][/us/pl/109/58].
+    A prior section 3506, [Pub. L. 102–486, title XXVI][/us/pl/102/486/tXXVI], § 2606, Oct. 24, 1992, [106 Stat. 3118][/us/stat/106/3118], related to tribal government energy assistance program, prior to the general amendment of this chapter by [Pub. L. 109–58][/us/pl/109/58].
 
 ----------
 
@@ -76,10 +76,10 @@
 ----------
 ----------
 
-[/us/pl/102/486/s2606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs2606
-[/us/pl/109/58/s503/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs503%2Fa
+[/us/pl/102/486/tXXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtXXVI
+[/us/pl/109/58/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtV
 [/us/stat/119/777]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F777
-[/us/pl/102/486/s2606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs2606
+[/us/pl/102/486/tXXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtXXVI
 [/us/stat/106/3118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3118
 [/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
 

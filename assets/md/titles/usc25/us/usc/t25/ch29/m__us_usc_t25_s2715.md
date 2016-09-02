@@ -39,7 +39,7 @@
 
         Witnesses whose depositions are taken as authorized in this section, and the persons taking the same, shall severally be entitled to the same fees as are paid for like services in the courts of the United States.
 
-([Pub. L. 100–497, § 16][/us/pl/100/497/s16], Oct. 17, 1988, [102 Stat. 2483][/us/stat/102/2483].)
+([Pub. L. 100–497][/us/pl/100/497], § 16, Oct. 17, 1988, [102 Stat. 2483][/us/stat/102/2483].)
 
 ----------
 
@@ -48,7 +48,7 @@
 ----------
 ----------
 
-[/us/pl/100/497/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F497%2Fs16
+[/us/pl/100/497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F497
 [/us/stat/102/2483]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2483
 
 

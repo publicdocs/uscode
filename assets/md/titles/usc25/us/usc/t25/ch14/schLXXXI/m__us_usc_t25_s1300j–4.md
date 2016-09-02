@@ -35,7 +35,7 @@
 
             Until such time as the Band elects new officials pursuant to paragraph (1), the Band’s governing body shall be the governing body in place on September 21, 1994, or any new governing body selected under the election procedures specified in the interim governing documents of the Band.
 
-([Pub. L. 103–323, § 5][/us/pl/103/323/s5], Sept. 21, 1994, [108 Stat. 2154][/us/stat/108/2154].)
+([Pub. L. 103–323][/us/pl/103/323], § 5, Sept. 21, 1994, [108 Stat. 2154][/us/stat/108/2154].)
 
 ----------
 
@@ -45,7 +45,7 @@
 ----------
 
 [/us/usc/t25/s476]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs476
-[/us/pl/103/323/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F323%2Fs5
+[/us/pl/103/323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F323
 [/us/stat/108/2154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2154
 
 

@@ -67,7 +67,7 @@
 
         If any facility (or portion thereof) with respect to which funds have been paid under this section, ceases, at any time after completion of the construction, expansion, or modernization carried out with such funds, to be utilized for the purposes of providing ambulatory care services to eligible Indians, all of the right, title, and interest in and to such facility (or portion thereof) shall transfer to the United States.
 
-([Pub. L. 94–437, title III, § 306][/us/pl/94/437/s306], as added [Pub. L. 100–713, title III, § 304][/us/pl/100/713/s304], Nov. 23, 1988, [102 Stat. 4817][/us/stat/102/4817]; amended [Pub. L. 102–573, title III, § 303][/us/pl/102/573/s303], Oct. 29, 1992, [106 Stat. 4561][/us/stat/106/4561].)
+([Pub. L. 94–437, title III][/us/pl/94/437/tIII], § 306, as added [Pub. L. 100–713, title III][/us/pl/100/713/tIII], § 304, Nov. 23, 1988, [102 Stat. 4817][/us/stat/102/4817]; amended [Pub. L. 102–573, title III][/us/pl/102/573/tIII], § 303, Oct. 29, 1992, [106 Stat. 4561][/us/stat/106/4561].)
 
  __References in Text__ 
 
@@ -88,10 +88,10 @@
 [/us/usc/t25/s1631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1631
 [/us/usc/t25/s1637]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1637
 [/us/usc/t25/s450f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450f
-[/us/pl/94/437/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437%2Fs306
-[/us/pl/100/713/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F713%2Fs304
+[/us/pl/94/437/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437%2FtIII
+[/us/pl/100/713/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F713%2FtIII
 [/us/stat/102/4817]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4817
-[/us/pl/102/573/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2Fs303
+[/us/pl/102/573/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2FtIII
 [/us/stat/106/4561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4561
 [/us/pl/93/638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638
 [/us/stat/88/2206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2206

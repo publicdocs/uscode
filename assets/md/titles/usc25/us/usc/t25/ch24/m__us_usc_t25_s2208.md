@@ -17,7 +17,7 @@
 
     The Secretary shall have the authority to issue deeds, patents, or such other instruments of conveyance needed to effectuate a sale or exchange of tribal lands made pursuant to the terms of this chapter and to remove, at the request of an Indian owner, the trust status of individually held lands or interests therein, where authorized by law.
 
-([Pub. L. 97–459, title II, § 209][/us/pl/97/459/s209], Jan. 12, 1983, [96 Stat. 2519][/us/stat/96/2519].)
+([Pub. L. 97–459, title II][/us/pl/97/459/tII], § 209, Jan. 12, 1983, [96 Stat. 2519][/us/stat/96/2519].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/97/459/s209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F459%2Fs209
+[/us/pl/97/459/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F459%2FtII
 [/us/stat/96/2519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2519
 
 

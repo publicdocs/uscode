@@ -17,7 +17,7 @@
 
     It is the purpose of this subchapter to provide grants for the encouragement of endowment funds for the operation and improvement of tribally controlled colleges or universities.
 
-([Pub. L. 95–471, title III, § 301][/us/pl/95/471/s301], as added [Pub. L. 98–192, § 13][/us/pl/98/192/s13], Dec. 1, 1983, [97 Stat. 1341][/us/stat/97/1341]; amended [Pub. L. 105–244, title IX, § 901(b)(6)][/us/pl/105/244/s901/b/6], Oct. 7, 1998, [112 Stat. 1828][/us/stat/112/1828].)
+([Pub. L. 95–471, title III][/us/pl/95/471/tIII], § 301, as added [Pub. L. 98–192][/us/pl/98/192], § 13, Dec. 1, 1983, [97 Stat. 1341][/us/stat/97/1341]; amended [Pub. L. 105–244, title IX][/us/pl/105/244/tIX], § 901(b)(6), Oct. 7, 1998, [112 Stat. 1828][/us/stat/112/1828].)
 
  __Amendments__ 
 
@@ -34,10 +34,10 @@
 ----------
 ----------
 
-[/us/pl/95/471/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F471%2Fs301
-[/us/pl/98/192/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F192%2Fs13
+[/us/pl/95/471/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F471%2FtIII
+[/us/pl/98/192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F192
 [/us/stat/97/1341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1341
-[/us/pl/105/244/s901/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs901%2Fb%2F6
+[/us/pl/105/244/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtIX
 [/us/stat/112/1828]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1828
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244

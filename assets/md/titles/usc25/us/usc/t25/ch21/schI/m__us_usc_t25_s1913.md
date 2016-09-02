@@ -31,7 +31,7 @@
 
         After the entry of a final decree of adoption of an Indian child in any State court, the parent may withdraw consent thereto upon the grounds that consent was obtained through fraud or duress and may petition the court to vacate such decree. Upon a finding that such consent was obtained through fraud or duress, the court shall vacate such decree and return the child to the parent. No adoption which has been effective for at least two years may be invalidated under the provisions of this subsection unless otherwise permitted under State law.
 
-([Pub. L. 95–608, title I, § 103][/us/pl/95/608/s103], Nov. 8, 1978, [92 Stat. 3072][/us/stat/92/3072].)
+([Pub. L. 95–608, title I][/us/pl/95/608/tI], § 103, Nov. 8, 1978, [92 Stat. 3072][/us/stat/92/3072].)
 
 ----------
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/95/608/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F608%2Fs103
+[/us/pl/95/608/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F608%2FtI
 [/us/stat/92/3072]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3072
 
 

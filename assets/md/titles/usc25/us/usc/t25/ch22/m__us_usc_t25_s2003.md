@@ -23,7 +23,7 @@
 
         In this section, the term “regulation” means any rule, regulation, guideline, interpretation, order, or requirement of general applicability prescribed by any officer or employee of the executive branch.
 
-([Pub. L. 95–561, title XI, § 1123][/us/pl/95/561/s1123], as added [Pub. L. 107–110, title X, § 1042][/us/pl/107/110/s1042], Jan. 8, 2002, [115 Stat. 2019][/us/stat/115/2019].)
+([Pub. L. 95–561, title XI][/us/pl/95/561/tXI], § 1123, as added [Pub. L. 107–110, title X][/us/pl/107/110/tX], § 1042, Jan. 8, 2002, [115 Stat. 2019][/us/stat/115/2019].)
 
  __References in Text__ 
 
@@ -31,9 +31,9 @@
 
  __Prior Provisions__ 
 
-    A prior section 2003, [Pub. L. 95–561, title XI, § 1123][/us/pl/95/561/s1123], as added [Pub. L. 103–382, title III, § 381][/us/pl/103/382/s381], Oct. 20, 1994, [108 Stat. 3985][/us/stat/108/3985], related to the incorporation of regulations into, or the application of regulations to, [Pub. L. 95–561][/us/pl/95/561], prior to the general amendment of this chapter by [Pub. L. 107–110][/us/pl/107/110].
+    A prior section 2003, [Pub. L. 95–561, title XI][/us/pl/95/561/tXI], § 1123, as added [Pub. L. 103–382, title III][/us/pl/103/382/tIII], § 381, Oct. 20, 1994, [108 Stat. 3985][/us/stat/108/3985], related to the incorporation of regulations into, or the application of regulations to, [Pub. L. 95–561][/us/pl/95/561], prior to the general amendment of this chapter by [Pub. L. 107–110][/us/pl/107/110].
 
-    Another prior section 2003, [Pub. L. 95–561, title XI, § 1123][/us/pl/95/561/s1123], Nov. 1, 1978, [92 Stat. 2319][/us/stat/92/2319]; [Pub. L. 100–297, title V, § 5106][/us/pl/100/297/s5106], Apr. 28, 1988, [102 Stat. 367][/us/stat/102/367], related to the incorporation of regulations into, or the application of regulations to, [Pub. L. 95–561][/us/pl/95/561], prior to the general amendment of this chapter by [Pub. L. 103–382][/us/pl/103/382].
+    Another prior section 2003, [Pub. L. 95–561, title XI][/us/pl/95/561/tXI], § 1123, Nov. 1, 1978, [92 Stat. 2319][/us/stat/92/2319]; [Pub. L. 100–297, title V][/us/pl/100/297/tV], § 5106, Apr. 28, 1988, [102 Stat. 367][/us/stat/102/367], related to the incorporation of regulations into, or the application of regulations to, [Pub. L. 95–561][/us/pl/95/561], prior to the general amendment of this chapter by [Pub. L. 103–382][/us/pl/103/382].
 
 ----------
 
@@ -42,20 +42,20 @@
 ----------
 ----------
 
-[/us/pl/95/561/s1123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2Fs1123
-[/us/pl/107/110/s1042]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2Fs1042
+[/us/pl/95/561/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2FtXI
+[/us/pl/107/110/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2FtX
 [/us/stat/115/2019]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F2019
 [/us/pl/95/561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561
 [/us/stat/92/2143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2143
 [/us/usc/t20/s6301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6301
-[/us/pl/95/561/s1123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2Fs1123
-[/us/pl/103/382/s381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs381
+[/us/pl/95/561/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2FtXI
+[/us/pl/103/382/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2FtIII
 [/us/stat/108/3985]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3985
 [/us/pl/95/561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561
 [/us/pl/107/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110
-[/us/pl/95/561/s1123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2Fs1123
+[/us/pl/95/561/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2FtXI
 [/us/stat/92/2319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2319
-[/us/pl/100/297/s5106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297%2Fs5106
+[/us/pl/100/297/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297%2FtV
 [/us/stat/102/367]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F367
 [/us/pl/95/561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561
 [/us/pl/103/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382

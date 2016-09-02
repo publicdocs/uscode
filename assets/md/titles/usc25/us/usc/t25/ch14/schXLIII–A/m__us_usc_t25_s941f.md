@@ -43,7 +43,7 @@
 
             (B) oversee and implement the revision and proposal to the Tribe of a new constitution and conduct such tribal meetings and elections as are required by this subchapter.
 
-([Pub. L. 103–116, § 8][/us/pl/103/116/s8], Oct. 27, 1993, [107 Stat. 1125][/us/stat/107/1125].)
+([Pub. L. 103–116][/us/pl/103/116], § 8, Oct. 27, 1993, [107 Stat. 1125][/us/stat/107/1125].)
 
 ----------
 
@@ -53,7 +53,7 @@
 ----------
 
 [/us/usc/t25/s941e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs941e
-[/us/pl/103/116/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F116%2Fs8
+[/us/pl/103/116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F116
 [/us/stat/107/1125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1125
 
 

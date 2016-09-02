@@ -17,7 +17,7 @@
 
     The Cheyenne River Sioux Tribe and the Standing Rock Sioux Tribe are authorized to pay to each holder of an exchange assignment of tribal lands all moneys collected by the tribe for the lease or use of subsurface rights in such lands.
 
-([July 14, 1954, ch. 472, § 2][/us/act/1954-07-14/ch472/s2], [68 Stat. 468][/us/stat/68/468].)
+([July 14, 1954, ch. 472][/us/act/1954-07-14/ch472], § 2, [68 Stat. 468][/us/stat/68/468].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1954-07-14/ch472/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-07-14%2Fch472%2Fs2
+[/us/act/1954-07-14/ch472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-07-14%2Fch472
 [/us/stat/68/468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F468
 
 

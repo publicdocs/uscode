@@ -31,7 +31,7 @@
 
         Not more than thirty days after the expiration of the one hundred and eighty day period provided for in subsection (c) of this section, the Secretary shall publish in the Federal Register a list containing the additional unauthorized disbursement claims submitted during such period.
 
-([Pub. L. 98–500, § 4][/us/pl/98/500/s4], Oct. 19, 1984, [98 Stat. 2317][/us/stat/98/2317].)
+([Pub. L. 98–500][/us/pl/98/500], § 4, Oct. 19, 1984, [98 Stat. 2317][/us/stat/98/2317].)
 
 ----------
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/98/500/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F500%2Fs4
+[/us/pl/98/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F500
 [/us/stat/98/2317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2317
 
 

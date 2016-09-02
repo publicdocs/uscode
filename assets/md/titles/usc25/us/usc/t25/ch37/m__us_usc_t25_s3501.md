@@ -75,7 +75,7 @@
 
     (12) The term “tribal land” means any land or interests in land owned by any Indian tribe, title to which is held in trust by the United States, or is subject to a restriction against alienation under laws of the United States.
 
-([Pub. L. 102–486, title XXVI, § 2601][/us/pl/102/486/s2601], as added [Pub. L. 109–58, title V, § 503(a)][/us/pl/109/58/s503/a], Aug. 8, 2005, [119 Stat. 764][/us/stat/119/764].)
+([Pub. L. 102–486, title XXVI][/us/pl/102/486/tXXVI], § 2601, as added [Pub. L. 109–58, title V][/us/pl/109/58/tV], § 503(a), Aug. 8, 2005, [119 Stat. 764][/us/stat/119/764].)
 
  __References in Text__ 
 
@@ -83,11 +83,11 @@
 
  __Prior Provisions__ 
 
-    A prior section 3501, [Pub. L. 102–486, title XXVI, § 2601][/us/pl/102/486/s2601], Oct. 24, 1992, [106 Stat. 3113][/us/stat/106/3113], defined terms, prior to the general amendment of this chapter by [Pub. L. 109–58][/us/pl/109/58].
+    A prior section 3501, [Pub. L. 102–486, title XXVI][/us/pl/102/486/tXXVI], § 2601, Oct. 24, 1992, [106 Stat. 3113][/us/stat/106/3113], defined terms, prior to the general amendment of this chapter by [Pub. L. 109–58][/us/pl/109/58].
 
  __Consultation With Indian Tribes__ 
 
-[Pub. L. 109–58, title V, § 504][/us/pl/109/58/s504], Aug. 8, 2005, [119 Stat. 778][/us/stat/119/778], provided that: 
+[Pub. L. 109–58, title V][/us/pl/109/58/tV], § 504, Aug. 8, 2005, [119 Stat. 778][/us/stat/119/778], provided that: 
 
 > “In carrying out this title \[enacting this chapter, [section 7144e of Title 42][/us/usc/t42/s7144e], The Public Health and Welfare, and subchapter V (§ 16001) of chapter 149 of Title 42, amending [section 4132 of this title][/us/usc/t25/s4132] and [section 5315 of Title 5][/us/usc/t5/s5315], Government Organization and Employees, and enacting provisions set out as a note under [section 15801 of Title 42][/us/usc/t42/s15801]\] and the amendments made by this title, the Secretary \[of Energy\] and the Secretary of the Interior shall, as appropriate and to the maximum extent practicable, involve and consult with Indian tribes.”
 
@@ -103,16 +103,16 @@
 [/us/usc/t43/s1602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1602
 [/us/usc/t25/s3502/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs3502%2Fa
 [/us/usc/t25/s3502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs3502
-[/us/pl/102/486/s2601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs2601
-[/us/pl/109/58/s503/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs503%2Fa
+[/us/pl/102/486/tXXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtXXVI
+[/us/pl/109/58/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtV
 [/us/stat/119/764]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F764
 [/us/pl/92/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F203
 [/us/stat/85/688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F688
 [/us/usc/t43/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1601
-[/us/pl/102/486/s2601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs2601
+[/us/pl/102/486/tXXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtXXVI
 [/us/stat/106/3113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3113
 [/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
-[/us/pl/109/58/s504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs504
+[/us/pl/109/58/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtV
 [/us/stat/119/778]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F778
 [/us/usc/t42/s7144e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7144e
 [/us/usc/t25/s4132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs4132

@@ -17,7 +17,7 @@
 
     The pro rata share of any Indian who is mentally or physically incapable of managing his or her own affairs may be withdrawn from the Treasury in the discretion of the Secretary of the Interior and expended for the benefit of such Indian under such rules, regulations, and conditions as the said Secretary may prescribe: Provided, That said funds of any Indian shall not be withdrawn from the Treasury until needed by the Indian and upon his application and when approved by the Secretary of the Interior.
 
-([Mar. 2, 1907, ch. 2523, § 2][/us/act/1907-03-02/ch2523/s2], [34 Stat. 1221][/us/stat/34/1221]; [May 18, 1916, ch. 125, § 1][/us/act/1916-05-18/ch125/s1], [39 Stat. 128][/us/stat/39/128].)
+([Mar. 2, 1907, ch. 2523][/us/act/1907-03-02/ch2523], § 2, [34 Stat. 1221][/us/stat/34/1221]; [May 18, 1916, ch. 125][/us/act/1916-05-18/ch125], § 1, [39 Stat. 128][/us/stat/39/128].)
 
  __Transfer of Functions__ 
 
@@ -30,9 +30,9 @@
 ----------
 ----------
 
-[/us/act/1907-03-02/ch2523/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1907-03-02%2Fch2523%2Fs2
+[/us/act/1907-03-02/ch2523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1907-03-02%2Fch2523
 [/us/stat/34/1221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F34%2F1221
-[/us/act/1916-05-18/ch125/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-05-18%2Fch125%2Fs1
+[/us/act/1916-05-18/ch125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-05-18%2Fch125
 [/us/stat/39/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F128
 [/us/stat/64/1262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1262
 

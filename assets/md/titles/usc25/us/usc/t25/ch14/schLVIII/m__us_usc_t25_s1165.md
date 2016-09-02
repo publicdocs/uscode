@@ -17,7 +17,7 @@
 
     No part of any funds distributed or held in trust under the provisions of this subchapter shall be subject to Federal or State income taxes.
 
-([Pub. L. 90–117, § 5][/us/pl/90/117/s5], Oct. 31, 1967, [81 Stat. 338][/us/stat/81/338].)
+([Pub. L. 90–117][/us/pl/90/117], § 5, Oct. 31, 1967, [81 Stat. 338][/us/stat/81/338].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/90/117/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F117%2Fs5
+[/us/pl/90/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F117
 [/us/stat/81/338]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F338
 
 

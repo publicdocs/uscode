@@ -17,7 +17,7 @@
 
     Sums payable to persons or to their heirs or legatees who are less than twenty-one years of age or who are under a legal disability shall be paid in accordance with such procedures as the Secretary, after consultation with the tribal governing body, determines will adequately protect their best interests. Proportional shares of heirs or legatees amounting to $5 or less shall not be distributed and such amounts shall escheat to the Omaha Tribe of Nebraska.
 
-([Pub. L. 89–717, § 2][/us/pl/89/717/s2], Nov. 2, 1966, [80 Stat. 1115][/us/stat/80/1115].)
+([Pub. L. 89–717][/us/pl/89/717], § 2, Nov. 2, 1966, [80 Stat. 1115][/us/stat/80/1115].)
 
  __Codification__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/89/717/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F717%2Fs2
+[/us/pl/89/717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F717
 [/us/stat/80/1115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1115
 [/us/pl/87/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F235
 [/us/stat/75/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F508

@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t25/ch14/schVI/m__us_usc_t25_s495.md) | [Next](./../../../../..//us/usc/t25/ch14/schVII/m__us_usc_t25_s500.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fch14%2FschVII)
+[Previous](./../../../../..//us/usc/t25/ch14/schVI/m__us_usc_t25_s496 _us_usc_t25_s497.md) | [Next](./../../../../..//us/usc/t25/ch14/schVII/m__us_usc_t25_s500.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fch14%2FschVII)
 
 ### SUBCHAPTER VII—REINDEER INDUSTRY
 
 ----------
 
-[Previous](./../../../../..//us/usc/t25/ch14/schVI/m__us_usc_t25_s495.md) | [Next](./../../../../..//us/usc/t25/ch14/schVII/m__us_usc_t25_s500.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fch14%2FschVII)
+[Previous](./../../../../..//us/usc/t25/ch14/schVI/m__us_usc_t25_s496 _us_usc_t25_s497.md) | [Next](./../../../../..//us/usc/t25/ch14/schVII/m__us_usc_t25_s500.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fch14%2FschVII)
 
 ----------
 ----------

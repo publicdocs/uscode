@@ -17,7 +17,7 @@
 
     Subject to the provisions of the Southern Ute Indian tribal constitution and the ordinances and resolutions adopted thereunder, any lands that are held by the United States in trust for the Southern Ute Indian Tribe or that are subject to a restriction against alienation or taxation imposed by the United States, and that are not needed for Indian use, may be sold by the Southern Ute Indian Tribe, with the approval of the Secretary of the Interior, and such sales shall terminate the Federal trust or restrictions against alienation or taxation of the lands, except that the trust or restricted status of said lands may be retained, upon approval of the Secretary of the Interior, in any sale to a member of the tribe.
 
-([Pub. L. 92–312, § 1][/us/pl/92/312/s1], June 14, 1972, [86 Stat. 216][/us/stat/86/216].)
+([Pub. L. 92–312][/us/pl/92/312], § 1, June 14, 1972, [86 Stat. 216][/us/stat/86/216].)
 
  __Southern Ute Indian Reservation in Colorado; Confirmation of Reservation Boundaries__ 
 
@@ -86,7 +86,7 @@
 ----------
 ----------
 
-[/us/pl/92/312/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F312%2Fs1
+[/us/pl/92/312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F312
 [/us/stat/86/216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F216
 [/us/pl/98/290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F290
 [/us/stat/98/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F201

@@ -23,7 +23,7 @@
 
         Nothing in this subchapter shall be construed to diminish any right or privilege of the Bands, or of their members, that existed prior to September 21, 1994. Except as otherwise specifically provided in any other provision of this subchapter, nothing in this subchapter shall be construed as altering or affecting any legal or equitable claim the Bands might have to enforce any right or privilege reserved by or granted to the Bands which were wrongfully denied to or taken from the Bands prior to September 21, 1994.
 
-([Pub. L. 103–324, § 5][/us/pl/103/324/s5], Sept. 21, 1994, [108 Stat. 2158][/us/stat/108/2158]; [Pub. L. 104–109, § 2(a)][/us/pl/104/109/s2/a], Feb. 12, 1996, [110 Stat. 763][/us/stat/110/763].)
+([Pub. L. 103–324][/us/pl/103/324], § 5, Sept. 21, 1994, [108 Stat. 2158][/us/stat/108/2158]; [Pub. L. 104–109][/us/pl/104/109], § 2(a), Feb. 12, 1996, [110 Stat. 763][/us/stat/110/763].)
 
  __Amendments__ 
 
@@ -36,9 +36,9 @@
 ----------
 ----------
 
-[/us/pl/103/324/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F324%2Fs5
+[/us/pl/103/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F324
 [/us/stat/108/2158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2158
-[/us/pl/104/109/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F109%2Fs2%2Fa
+[/us/pl/104/109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F109
 [/us/stat/110/763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F763
 [/us/pl/104/109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F109
 

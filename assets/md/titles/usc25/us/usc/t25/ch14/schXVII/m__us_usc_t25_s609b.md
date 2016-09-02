@@ -17,7 +17,7 @@
 
     The funds appropriated by the Act of October 31, 1965 ([79 Stat. 1133][/us/stat/79/1133], 1152), to pay judgments to the Yakima Tribes of the Yakima Reservation in Indian Claims Commission docket numbered 47–A and 162, and by the Act of July 22, 1969 ([83 Stat. 49][/us/stat/83/49]), in consolidated dockets 47 and 164, together with interests thereon, after payment of attorney fees and litigation expenses, may be advanced, expended, invested, or reinvested for any purpose that is authorized by the tribal governing body and approved by the Secretary of the Interior.
 
-([Pub. L. 91–413, § 1][/us/pl/91/413/s1], Sept. 25, 1970, [84 Stat. 865][/us/stat/84/865].)
+([Pub. L. 91–413][/us/pl/91/413], § 1, Sept. 25, 1970, [84 Stat. 865][/us/stat/84/865].)
 
  __References in Text__ 
 
@@ -40,7 +40,7 @@
 
 [/us/stat/79/1133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1133
 [/us/stat/83/49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F49
-[/us/pl/91/413/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F413%2Fs1
+[/us/pl/91/413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F413
 [/us/stat/84/865]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F865
 [/us/pl/89/309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F309
 [/us/stat/79/1133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1133

@@ -13,7 +13,7 @@
 
 [Previous](./../../../../..//us/usc/t25/ch3/schII/m__us_usc_t25_s82a.md) | [Next](./../../../../..//us/usc/t25/ch3/schII/m__us_usc_t25_s84.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs83)
 
-## § 83. Repealed. [June 25, 1948, ch. 645, § 21][/us/act/1948-06-25/ch645/s21], [62 Stat. 862][/us/stat/62/862]
+## § 83. Repealed. [June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], § 21, [62 Stat. 862][/us/stat/62/862]
 
     Section, R.S. § 2105, related to payments under prohibited contracts.
 
@@ -28,7 +28,7 @@
 ----------
 ----------
 
-[/us/act/1948-06-25/ch645/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645%2Fs21
+[/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/862]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F862
 
 

@@ -21,7 +21,7 @@
 
  __Codification__ 
 
-    R.S. § 2066 derived from acts [June 30, 1834, ch. 162, § 7][/us/act/1834-06-30/ch162/s7], [4 Stat. 736][/us/stat/4/736]; [Mar. 3, 1847, ch. 66, § 1][/us/act/1847-03-03/ch66/s1], [9 Stat. 203][/us/stat/9/203].
+    R.S. § 2066 derived from acts [June 30, 1834, ch. 162][/us/act/1834-06-30/ch162], § 7, [4 Stat. 736][/us/stat/4/736]; [Mar. 3, 1847, ch. 66][/us/act/1847-03-03/ch66], § 1, [9 Stat. 203][/us/stat/9/203].
 
  __Transfer of Functions__ 
 
@@ -34,9 +34,9 @@
 ----------
 ----------
 
-[/us/act/1834-06-30/ch162/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1834-06-30%2Fch162%2Fs7
+[/us/act/1834-06-30/ch162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1834-06-30%2Fch162
 [/us/stat/4/736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F4%2F736
-[/us/act/1847-03-03/ch66/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1847-03-03%2Fch66%2Fs1
+[/us/act/1847-03-03/ch66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1847-03-03%2Fch66
 [/us/stat/9/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F9%2F203
 [/us/stat/64/1262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1262
 

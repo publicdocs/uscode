@@ -23,7 +23,7 @@
 
         Tribal funds that revert to the tribes pursuant to subsection (a) of this section, including interest and income therefrom, may be advanced or expended for any purpose that is authorized by the tribal governing body.
 
-([Pub. L. 90–117, § 4][/us/pl/90/117/s4], Oct. 31, 1967, [81 Stat. 338][/us/stat/81/338].)
+([Pub. L. 90–117][/us/pl/90/117], § 4, Oct. 31, 1967, [81 Stat. 338][/us/stat/81/338].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/90/117/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F117%2Fs4
+[/us/pl/90/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F117
 [/us/stat/81/338]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F338
 
 

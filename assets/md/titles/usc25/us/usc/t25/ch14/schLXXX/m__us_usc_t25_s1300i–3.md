@@ -39,7 +39,7 @@
 
         There is hereby authorized to be appropriated the sum of $10,000,000 which shall be deposited into the Settlement Fund after the payments are made pursuant to subsections (c) and (d) and [section 1300i–5(c) of this title][/us/usc/t25/s1300i–5/c]. The Settlement Fund, including the amount deposited pursuant to this subsection and all income earned subsequent to the payments made pursuant to subsections (c) and (d) and [section 1300i–5(c) of this title][/us/usc/t25/s1300i–5/c], shall be available to make the payments authorized by [section 1300i–5(d) of this title][/us/usc/t25/s1300i–5/d].
 
-([Pub. L. 100–580, § 4][/us/pl/100/580/s4], Oct. 31, 1988, [102 Stat. 2927][/us/stat/102/2927].)
+([Pub. L. 100–580][/us/pl/100/580], § 4, Oct. 31, 1988, [102 Stat. 2927][/us/stat/102/2927].)
 
 ----------
 
@@ -61,7 +61,7 @@
 [/us/usc/t25/s1300i–5/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1300i%E2%80%935%2Fc
 [/us/usc/t25/s1300i–5/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1300i%E2%80%935%2Fc
 [/us/usc/t25/s1300i–5/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1300i%E2%80%935%2Fd
-[/us/pl/100/580/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F580%2Fs4
+[/us/pl/100/580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F580
 [/us/stat/102/2927]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2927
 
 

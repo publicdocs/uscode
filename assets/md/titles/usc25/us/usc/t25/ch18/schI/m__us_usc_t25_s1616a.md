@@ -301,7 +301,7 @@
 
         (8) the measures the Secretary plans to take to fill the health professional positions maintained by the Service or by tribes or tribal or Indian organizations for which recruitment or retention is difficult.
 
-([Pub. L. 94–437, title I, § 108][/us/pl/94/437/s108], as added [Pub. L. 100–713, title I, § 108][/us/pl/100/713/s108], Nov. 23, 1988, [102 Stat. 4789][/us/stat/102/4789]; amended [Pub. L. 102–573, title I][/us/pl/102/573], §§ 106(a)–(g)(1), (h), (i), 117(b)(3), title IX, § 902(2)(C), (D), Oct. 29, 1992, [106 Stat. 4535–4537][/us/stat/106/4535-4537], 4544, 4591.)
+([Pub. L. 94–437, title I][/us/pl/94/437/tI], § 108, as added [Pub. L. 100–713, title I][/us/pl/100/713/tI], § 108, Nov. 23, 1988, [102 Stat. 4789][/us/stat/102/4789]; amended [Pub. L. 102–573, title I][/us/pl/102/573/tI], §§ 106(a)–(g)(1), (h), (i), 117(b)(3), title IX, § 902(2)(C), (D), Oct. 29, 1992, [106 Stat. 4535–4537][/us/stat/106/4535-4537], 4544, 4591.)
 
  __References in Text__ 
 
@@ -309,51 +309,51 @@
 
     [Section 23 of the Act of April 30, 1908][/us/act/1908-04-30/s23], referred to in subsec. (a)(2)(A)(ii)(II), probably should be a reference to section 23 of [act June 25, 1910, ch. 431][/us/act/1910-06-25/ch431], [36 Stat. 861][/us/stat/36/861], which is popularly known as the “Buy Indian Act”, and is classified to [section 47 of this title][/us/usc/t25/s47]. [Act Apr. 30, 1908, ch. 153][/us/act/1908-04-30/ch153], [35 Stat. 70][/us/stat/35/70], does not contain a section 23 but does have provisions (at [35 Stat. 71][/us/stat/35/71]) similar to those in section 23 of [act June 25, 1910, ch. 431][/us/act/1910-06-25/ch431], [36 Stat. 861][/us/stat/36/861].
 
-    [Section 254d(i)(4) of title 42][/us/usc/t42/s254d/i/4], referred to in subsec. (a)(2)(B), was redesignated [section 254d(j)(4) of title 42][/us/usc/t42/s254d/j/4] by [Pub. L. 107–251, title III, § 310(b)(1)][/us/pl/107/251/s310/b/1], Oct. 26, 2002, [116 Stat. 1643][/us/stat/116/1643].
+    [Section 254d(i)(4) of title 42][/us/usc/t42/s254d/i/4], referred to in subsec. (a)(2)(B), was redesignated [section 254d(j)(4) of title 42][/us/usc/t42/s254d/j/4] by [Pub. L. 107–251, title III][/us/pl/107/251/tIII], § 310(b)(1), Oct. 26, 2002, [116 Stat. 1643][/us/stat/116/1643].
 
  __Amendments__ 
 
-    1992—Subsec. (a)(1). [Pub. L. 102–573, § 106(a)(1)][/us/pl/102/573/s106/a/1], substituted “health professionals” for “physicians, dentists, nurses, nurse practitioners, physician assistants, clinical and counseling psychologists, graduates of schools of public health, graduates of schools of social work, and other health professionals”.
+    1992—Subsec. (a)(1). [Pub. L. 102–573][/us/pl/102/573], § 106(a)(1), substituted “health professionals” for “physicians, dentists, nurses, nurse practitioners, physician assistants, clinical and counseling psychologists, graduates of schools of public health, graduates of schools of social work, and other health professionals”.
 
-    Subsec. (b)(1)(A)(i). [Pub. L. 102–573, § 106(a)(2)(A)(i)][/us/pl/102/573/s106/a/2/A/i], amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: “as a full-time student in the final year of a course of study or program in an accredited institution, as determined by the Secretary, within any State; or”.
+    Subsec. (b)(1)(A)(i). [Pub. L. 102–573][/us/pl/102/573], § 106(a)(2)(A)(i), amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: “as a full-time student in the final year of a course of study or program in an accredited institution, as determined by the Secretary, within any State; or”.
 
-    Subsec. (b)(1)(A)(ii). [Pub. L. 102–573, § 106(a)(2)(A)(ii)][/us/pl/102/573/s106/a/2/A/ii], substituted “a health profession” for “medicine, osteopathy, dentistry, or other health profession”.
+    Subsec. (b)(1)(A)(ii). [Pub. L. 102–573][/us/pl/102/573], § 106(a)(2)(A)(ii), substituted “a health profession” for “medicine, osteopathy, dentistry, or other health profession”.
 
-    Subsec. (b)(1)(B). [Pub. L. 102–573, § 106(a)(2)(B)][/us/pl/102/573/s106/a/2/B], in cl. (i), substituted “a degree in a health profession; and” for “a degree in medicine, osteopathy, dentistry, or other health profession;”, redesignated cl. (iii) as (ii) and substituted “a health profession” for “medicine, osteopathy, dentistry, or other health profession”, and struck out former cl. (ii) which read as follows: “completed an approved graduate training program in medicine, osteopathy, dentistry, or other health profession in a State, except that the Secretary may waive the completion requirement of this clause for good cause; and”.
+    Subsec. (b)(1)(B). [Pub. L. 102–573][/us/pl/102/573], § 106(a)(2)(B), in cl. (i), substituted “a degree in a health profession; and” for “a degree in medicine, osteopathy, dentistry, or other health profession;”, redesignated cl. (iii) as (ii) and substituted “a health profession” for “medicine, osteopathy, dentistry, or other health profession”, and struck out former cl. (ii) which read as follows: “completed an approved graduate training program in medicine, osteopathy, dentistry, or other health profession in a State, except that the Secretary may waive the completion requirement of this clause for good cause; and”.
 
-    Subsec. (b)(2) to (4). [Pub. L. 102–573, § 106(a)(2)(C)][/us/pl/102/573/s106/a/2/C], inserted “and” at end of par. (2)(D), added par. (3), and struck out former pars. (3) and (4) which read as follows:
+    Subsec. (b)(2) to (4). [Pub. L. 102–573][/us/pl/102/573], § 106(a)(2)(C), inserted “and” at end of par. (2)(D), added par. (3), and struck out former pars. (3) and (4) which read as follows:
 
     “(3) submit an application to participate in the Loan Repayment Program; and
 
     “(4) sign and submit to the Secretary, at the time of submission of such application, a written contract (described in subsection (f) of this section) to accept repayment of educational loans and to serve (in accordance with this section) for the applicable period of obligated service in an Indian health program.”
 
-    Subsec. (d)(1). [Pub. L. 102–573, § 106(b)(1)][/us/pl/102/573/s106/b/1], substituted “Consistent with paragraph (3), the” for “The”.
+    Subsec. (d)(1). [Pub. L. 102–573][/us/pl/102/573], § 106(b)(1), substituted “Consistent with paragraph (3), the” for “The”.
 
-    Subsec. (d)(1)(A). [Pub. L. 102–573, § 902(2)(C)][/us/pl/102/573/s902/2/C], substituted “Indian health” for “Indian Health”.
+    Subsec. (d)(1)(A). [Pub. L. 102–573][/us/pl/102/573], § 902(2)(C), substituted “Indian health” for “Indian Health”.
 
-    Subsec. (d)(3). [Pub. L. 102–573, § 106(b)(2)][/us/pl/102/573/s106/b/2], added par. (3).
+    Subsec. (d)(3). [Pub. L. 102–573][/us/pl/102/573], § 106(b)(2), added par. (3).
 
-    Subsec. (e)(1). [Pub. L. 102–573, § 106(c)][/us/pl/102/573/s106/c], amended par. (1) generally. Prior to amendment, par. (1) read as follows: “An individual becomes a participant in the Loan Repayment Program only on the Secretary’s approval of the individual’s application submitted under subsection (b)(3) of this section and the Secretary’s acceptance of the contract submitted by the individual under subsection (b)(4) of this section.”
+    Subsec. (e)(1). [Pub. L. 102–573][/us/pl/102/573], § 106(c), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “An individual becomes a participant in the Loan Repayment Program only on the Secretary’s approval of the individual’s application submitted under subsection (b)(3) of this section and the Secretary’s acceptance of the contract submitted by the individual under subsection (b)(4) of this section.”
 
-    Subsec. (e)(2)(A). [Pub. L. 102–573, § 106(d)][/us/pl/102/573/s106/d], inserted “, including extensions resulting in an aggregate period of obligated service in excess of 4 years” before “; or”.
+    Subsec. (e)(2)(A). [Pub. L. 102–573][/us/pl/102/573], § 106(d), inserted “, including extensions resulting in an aggregate period of obligated service in excess of 4 years” before “; or”.
 
-    Subsec. (g)(1). [Pub. L. 102–573, § 106(e)][/us/pl/102/573/s106/e], in introductory provisions, substituted “loans received by the individual regarding the undergraduate or graduate education of the individual (or both), which loans were made for” for “loans received by the individual for”.
+    Subsec. (g)(1). [Pub. L. 102–573][/us/pl/102/573], § 106(e), in introductory provisions, substituted “loans received by the individual regarding the undergraduate or graduate education of the individual (or both), which loans were made for” for “loans received by the individual for”.
 
-    Subsec. (g)(2)(A). [Pub. L. 102–573, § 106(f)][/us/pl/102/573/s106/f], amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “Except as provided in subparagraph (B) and paragraph (3), for each year of obligated service for which an individual contracts to serve under subsection (f) of this section, the Secretary may pay up to $25,000 on behalf of the individual for loans described in paragraph (1).”
+    Subsec. (g)(2)(A). [Pub. L. 102–573][/us/pl/102/573], § 106(f), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “Except as provided in subparagraph (B) and paragraph (3), for each year of obligated service for which an individual contracts to serve under subsection (f) of this section, the Secretary may pay up to $25,000 on behalf of the individual for loans described in paragraph (1).”
 
-    Subsec. (g)(3). [Pub. L. 102–573, § 106(g)(1)][/us/pl/102/573/s106/g/1], amended par. (3) generally. Prior to amendment, par. (3) read as follows: “In addition to payments made under paragraph (2), in any case in which payments on behalf of an individual under the Loan Repayment Program result in an increase in Federal, State, or local income tax liability for such individual, the Secretary may, on the request of such individual, make payments to such individual in a reasonable amount, as determined by the Secretary, to reimburse such individual for all or part of the increased tax liability of the individual.”
+    Subsec. (g)(3). [Pub. L. 102–573][/us/pl/102/573], § 106(g)(1), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “In addition to payments made under paragraph (2), in any case in which payments on behalf of an individual under the Loan Repayment Program result in an increase in Federal, State, or local income tax liability for such individual, the Secretary may, on the request of such individual, make payments to such individual in a reasonable amount, as determined by the Secretary, to reimburse such individual for all or part of the increased tax liability of the individual.”
 
-    Subsec. (i). [Pub. L. 102–573, § 902(2)(D)][/us/pl/102/573/s902/2/D], substituted “health professional programs of the Service” for “Service manpower programs”.
+    Subsec. (i). [Pub. L. 102–573][/us/pl/102/573], § 902(2)(D), substituted “health professional programs of the Service” for “Service manpower programs”.
 
-    Subsec. (k). [Pub. L. 102–573, § 106(h)][/us/pl/102/573/s106/h], amended subsec. (k) generally. Prior to amendment, subsec. (k) read as follows: “The Secretary shall ensure that the staffing needs of Indian health programs administered by any Indian tribe or tribal or Indian organization receive consideration on an equal basis with programs that are administered directly by the Service.”
+    Subsec. (k). [Pub. L. 102–573][/us/pl/102/573], § 106(h), amended subsec. (k) generally. Prior to amendment, subsec. (k) read as follows: “The Secretary shall ensure that the staffing needs of Indian health programs administered by any Indian tribe or tribal or Indian organization receive consideration on an equal basis with programs that are administered directly by the Service.”
 
-    Subsec. (n). [Pub. L. 102–573, § 106(i)][/us/pl/102/573/s106/i], amended subsec. (n) generally. Prior to amendment, subsec. (n) consisted of pars. (1) and (2) requiring submission of annual reports to Congress by the first of March and the first of July of each year.
+    Subsec. (n). [Pub. L. 102–573][/us/pl/102/573], § 106(i), amended subsec. (n) generally. Prior to amendment, subsec. (n) consisted of pars. (1) and (2) requiring submission of annual reports to Congress by the first of March and the first of July of each year.
 
-    Subsec. (o). [Pub. L. 102–573, § 117(b)(3)][/us/pl/102/573/s117/b/3], struck out subsec. (o) which read as follows: “There are authorized to be appropriated such sums as may be necessary for each fiscal year to carry out the provisions of this section.”
+    Subsec. (o). [Pub. L. 102–573][/us/pl/102/573], § 117(b)(3), struck out subsec. (o) which read as follows: “There are authorized to be appropriated such sums as may be necessary for each fiscal year to carry out the provisions of this section.”
 
  __Effective Date of 1992 Amendment__ 
 
-[Pub. L. 102–573, title I, § 106(g)(2)][/us/pl/102/573/s106/g/2], Oct. 29, 1992, [106 Stat. 4537][/us/stat/106/4537], provided that: 
+[Pub. L. 102–573, title I][/us/pl/102/573/tI], § 106(g)(2), Oct. 29, 1992, [106 Stat. 4537][/us/stat/106/4537], provided that: 
 
 > “The amendment made by paragraph (1) \[amending this section\] shall apply only with respect to contracts under section 108 of the Indian Health Care Improvement Act \[this section\] entered into on or after the date of enactment of this Act \[Oct. 29, 1992\].”
 
@@ -373,10 +373,10 @@
 [/us/usc/t25/s1671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1671
 [/us/usc/t25/s1613a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1613a
 [/us/usc/t25/s1613a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1613a
-[/us/pl/94/437/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437%2Fs108
-[/us/pl/100/713/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F713%2Fs108
+[/us/pl/94/437/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437%2FtI
+[/us/pl/100/713/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F713%2FtI
 [/us/stat/102/4789]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4789
-[/us/pl/102/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573
+[/us/pl/102/573/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2FtI
 [/us/stat/106/4535-4537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4535-4537
 [/us/pl/93/638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638
 [/us/stat/88/2206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2206
@@ -392,26 +392,26 @@
 [/us/stat/36/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F861
 [/us/usc/t42/s254d/i/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs254d%2Fi%2F4
 [/us/usc/t42/s254d/j/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs254d%2Fj%2F4
-[/us/pl/107/251/s310/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F251%2Fs310%2Fb%2F1
+[/us/pl/107/251/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F251%2FtIII
 [/us/stat/116/1643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1643
-[/us/pl/102/573/s106/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2Fs106%2Fa%2F1
-[/us/pl/102/573/s106/a/2/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2Fs106%2Fa%2F2%2FA%2Fi
-[/us/pl/102/573/s106/a/2/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2Fs106%2Fa%2F2%2FA%2Fii
-[/us/pl/102/573/s106/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2Fs106%2Fa%2F2%2FB
-[/us/pl/102/573/s106/a/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2Fs106%2Fa%2F2%2FC
-[/us/pl/102/573/s106/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2Fs106%2Fb%2F1
-[/us/pl/102/573/s902/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2Fs902%2F2%2FC
-[/us/pl/102/573/s106/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2Fs106%2Fb%2F2
-[/us/pl/102/573/s106/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2Fs106%2Fc
-[/us/pl/102/573/s106/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2Fs106%2Fd
-[/us/pl/102/573/s106/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2Fs106%2Fe
-[/us/pl/102/573/s106/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2Fs106%2Ff
-[/us/pl/102/573/s106/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2Fs106%2Fg%2F1
-[/us/pl/102/573/s902/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2Fs902%2F2%2FD
-[/us/pl/102/573/s106/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2Fs106%2Fh
-[/us/pl/102/573/s106/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2Fs106%2Fi
-[/us/pl/102/573/s117/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2Fs117%2Fb%2F3
-[/us/pl/102/573/s106/g/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2Fs106%2Fg%2F2
+[/us/pl/102/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573
+[/us/pl/102/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573
+[/us/pl/102/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573
+[/us/pl/102/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573
+[/us/pl/102/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573
+[/us/pl/102/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573
+[/us/pl/102/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573
+[/us/pl/102/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573
+[/us/pl/102/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573
+[/us/pl/102/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573
+[/us/pl/102/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573
+[/us/pl/102/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573
+[/us/pl/102/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573
+[/us/pl/102/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573
+[/us/pl/102/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573
+[/us/pl/102/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573
+[/us/pl/102/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573
+[/us/pl/102/573/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2FtI
 [/us/stat/106/4537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4537
 
 

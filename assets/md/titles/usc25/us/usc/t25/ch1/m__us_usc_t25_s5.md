@@ -17,7 +17,7 @@
 
     The Commissioner of Indian Affairs is hereby empowered and directed to continue to make and keep a record of every deed executed by any Indian, his heirs, representatives, or assigns, which may require the approval of the President of the United States or of the Secretary of the Interior, whenever such approval shall have been given, and the deed so approved returned to said office.
 
-([July 26, 1892, ch. 256, § 2][/us/act/1892-07-26/ch256/s2], [27 Stat. 273][/us/stat/27/273].)
+([July 26, 1892, ch. 256][/us/act/1892-07-26/ch256], § 2, [27 Stat. 273][/us/stat/27/273].)
 
  __Transfer of Functions__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1892-07-26/ch256/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1892-07-26%2Fch256%2Fs2
+[/us/act/1892-07-26/ch256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1892-07-26%2Fch256
 [/us/stat/27/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F27%2F273
 [/us/stat/64/1262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1262
 

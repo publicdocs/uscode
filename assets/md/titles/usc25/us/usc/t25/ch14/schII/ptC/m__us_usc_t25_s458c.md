@@ -29,7 +29,7 @@
 
         The Secretary is authorized to revise and amend any rules or regulations promulgated pursuant to subsection (a) of this section: Provided, That prior to any revision or amendment to such rules or regulations the Secretary shall, to the extent practicable, consult with appropriate national and regional Indian organizations, and shall publish any proposed revisions in the Federal Register not less than sixty days prior to the effective date of such rules and regulations in order to provide adequate notice to, and receive comments from, other interested parties.
 
-([Pub. L. 93–638, title II, § 207][/us/pl/93/638/s207], Jan. 4, 1975, [88 Stat. 2216][/us/stat/88/2216].)
+([Pub. L. 93–638, title II][/us/pl/93/638/tII], § 207, Jan. 4, 1975, [88 Stat. 2216][/us/stat/88/2216].)
 
  __Change of Name__ 
 
@@ -44,7 +44,7 @@
 ----------
 ----------
 
-[/us/pl/93/638/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638%2Fs207
+[/us/pl/93/638/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638%2FtII
 [/us/stat/88/2216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2216
 
 

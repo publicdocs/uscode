@@ -29,7 +29,7 @@
 
     (6) The term “General Council” means the governing body of the tribe under the Constitution and Bylaws.
 
-([Pub. L. 99–398, § 9][/us/pl/99/398/s9], Aug. 27, 1986, [100 Stat. 851][/us/stat/100/851].)
+([Pub. L. 99–398][/us/pl/99/398], § 9, Aug. 27, 1986, [100 Stat. 851][/us/stat/100/851].)
 
 ----------
 
@@ -38,7 +38,7 @@
 ----------
 ----------
 
-[/us/pl/99/398/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F398%2Fs9
+[/us/pl/99/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F398
 [/us/stat/100/851]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F851
 
 

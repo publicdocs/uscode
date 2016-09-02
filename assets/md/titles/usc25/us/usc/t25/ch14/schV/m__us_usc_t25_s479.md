@@ -17,7 +17,7 @@
 
     The term “Indian” as used in this Act shall include all persons of Indian descent who are members of any recognized Indian tribe now under Federal jurisdiction, and all persons who are descendants of such members who were, on June 1, 1934, residing within the present boundaries of any Indian reservation, and shall further include all other persons of one-half or more Indian blood. For the purposes of this Act, Eskimos and other aboriginal peoples of Alaska shall be considered Indians. The term “tribe” wherever used in this Act shall be construed to refer to any Indian tribe, organized band, pueblo, or the Indians residing on one reservation. The words “adult Indians” wherever used in this Act shall be construed to refer to Indians who have attained the age of twenty-one years.
 
-([June 18, 1934, ch. 576, § 19][/us/act/1934-06-18/ch576/s19], [48 Stat. 988][/us/stat/48/988].)
+([June 18, 1934, ch. 576][/us/act/1934-06-18/ch576], § 19, [48 Stat. 988][/us/stat/48/988].)
 
  __References in Text__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/act/1934-06-18/ch576/s19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-18%2Fch576%2Fs19
+[/us/act/1934-06-18/ch576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-18%2Fch576
 [/us/stat/48/988]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F988
 [/us/usc/t25/s461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs461
 [/us/pl/85/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F508

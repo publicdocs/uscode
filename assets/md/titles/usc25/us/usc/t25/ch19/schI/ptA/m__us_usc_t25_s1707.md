@@ -27,7 +27,7 @@
 
         Upon the discharge of the Secretary’s duties under sections 1704, 1705, 1706, and 1707 of this title, the United States shall have no further duties or liabilities under this subchapter with respect to the Indian Corporation or its successor, the State Corporation, or the settlement lands: Provided, however, That if the Secretary subsequently acknowledges the existence of the Narragansett Tribe of Indians, then the settlement lands may not be sold, granted, or otherwise conveyed or leased to anyone other than the Indian Corporation, and no such disposition of the settlement lands shall be of any validity in law or equity, unless the same is approved by the Secretary pursuant to regulations adopted by him for that purpose: Provided, however, That nothing in this subchapter shall affect or otherwise impair the ability of the State Corporation to grant or otherwise convey (including any involuntary conveyance by means of eminent domain or condemnation proceedings) any easement for public or private purposes pursuant to the laws of the State of Rhode Island.
 
-([Pub. L. 95–395, § 8][/us/pl/95/395/s8], Sept. 30, 1978, [92 Stat. 816][/us/stat/92/816].)
+([Pub. L. 95–395][/us/pl/95/395], § 8, Sept. 30, 1978, [92 Stat. 816][/us/stat/92/816].)
 
 ----------
 
@@ -39,7 +39,7 @@
 [/us/usc/t25/s1706/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1706%2Fa
 [/us/usc/t25/s1704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1704
 [/us/usc/t25/s1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1703
-[/us/pl/95/395/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F395%2Fs8
+[/us/pl/95/395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F395
 [/us/stat/92/816]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F816
 
 

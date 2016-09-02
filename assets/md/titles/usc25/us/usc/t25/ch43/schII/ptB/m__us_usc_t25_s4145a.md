@@ -43,7 +43,7 @@
 
         (2) $2,000,000.
 
-([Pub. L. 104–330, title II, § 232][/us/pl/104/330/s232], as added [Pub. L. 110–411, title II, § 206(a)(2)][/us/pl/110/411/s206/a/2], Oct. 14, 2008, [122 Stat. 4326][/us/stat/122/4326].)
+([Pub. L. 104–330, title II][/us/pl/104/330/tII], § 232, as added [Pub. L. 110–411, title II][/us/pl/110/411/tII], § 206(a)(2), Oct. 14, 2008, [122 Stat. 4326][/us/stat/122/4326].)
 
 ----------
 
@@ -55,8 +55,8 @@
 [/us/usc/t25/s4111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs4111
 [/us/usc/t25/s4112/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs4112%2Fb
 [/us/usc/t25/s4111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs4111
-[/us/pl/104/330/s232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330%2Fs232
-[/us/pl/110/411/s206/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F411%2Fs206%2Fa%2F2
+[/us/pl/104/330/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330%2FtII
+[/us/pl/110/411/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F411%2FtII
 [/us/stat/122/4326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4326
 
 

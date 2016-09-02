@@ -17,7 +17,7 @@
 
     The Secretary of the Interior is authorized to prescribe rules and regulations to carry out the provisions of this subchapter, including appropriate deadline for filing enrollment applications.
 
-([Pub. L. 90–114, § 5][/us/pl/90/114/s5], Oct. 24, 1967, [81 Stat. 335][/us/stat/81/335].)
+([Pub. L. 90–114][/us/pl/90/114], § 5, Oct. 24, 1967, [81 Stat. 335][/us/stat/81/335].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/90/114/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F114%2Fs5
+[/us/pl/90/114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F114
 [/us/stat/81/335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F335
 
 

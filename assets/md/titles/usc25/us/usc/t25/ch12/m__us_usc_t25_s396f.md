@@ -17,7 +17,7 @@
 
     Sections 396a, 396b, 396c, and 396d of this title shall not apply to the Crow Reservation in Montana, the ceded lands of the Shoshone Reservation in Wyoming, the Osage Reservation in Oklahoma, nor to the coal and asphalt lands of the Choctaw and Chickasaw Tribes in Oklahoma.
 
-([May 11, 1938, ch. 198, § 6][/us/act/1938-05-11/ch198/s6], [52 Stat. 348][/us/stat/52/348]; [May 27, 1955, ch. 106, § 2][/us/act/1955-05-27/ch106/s2], [69 Stat. 68][/us/stat/69/68].)
+([May 11, 1938, ch. 198][/us/act/1938-05-11/ch198], § 6, [52 Stat. 348][/us/stat/52/348]; [May 27, 1955, ch. 106][/us/act/1955-05-27/ch106], § 2, [69 Stat. 68][/us/stat/69/68].)
 
  __Amendments__ 
 
@@ -38,9 +38,9 @@
 ----------
 ----------
 
-[/us/act/1938-05-11/ch198/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-05-11%2Fch198%2Fs6
+[/us/act/1938-05-11/ch198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-05-11%2Fch198
 [/us/stat/52/348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F348
-[/us/act/1955-05-27/ch106/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-05-27%2Fch106%2Fs2
+[/us/act/1955-05-27/ch106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-05-27%2Fch106
 [/us/stat/69/68]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F68
 [/us/usc/t25/s396a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs396a
 [/us/usc/t25/s463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs463

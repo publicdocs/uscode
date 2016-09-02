@@ -35,7 +35,7 @@
 
         An extension of the one-year period, not to exceed one hundred and eighty days, may be requested by the Secretary or by the affected Indian tribe, submitting such request to the committees through the Secretary, and any such request will be subject to the approval of both the Senate Committee on Indian Affairs and the United States House of Representatives Committee on Natural Resources.
 
-([Pub. L. 93–134, § 2][/us/pl/93/134/s2], Oct. 19, 1973, [87 Stat. 466][/us/stat/87/466]; [Pub. L. 97–164, title I, § 160(a)(1)][/us/pl/97/164/s160/a/1], Apr. 2, 1982, [96 Stat. 48][/us/stat/96/48]; [Pub. L. 97–458, § 1][/us/pl/97/458/s1], Jan. 12, 1983, [96 Stat. 2512][/us/stat/96/2512]; [Pub. L. 102–572, title IX, § 902(b)(1)][/us/pl/102/572/s902/b/1], Oct. 29, 1992, [106 Stat. 4516][/us/stat/106/4516]; [Pub. L. 103–437, § 10(e)(1)][/us/pl/103/437/s10/e/1], (2)(A), Nov. 2, 1994, [108 Stat. 4589][/us/stat/108/4589].)
+([Pub. L. 93–134][/us/pl/93/134], § 2, Oct. 19, 1973, [87 Stat. 466][/us/stat/87/466]; [Pub. L. 97–164, title I][/us/pl/97/164/tI], § 160(a)(1), Apr. 2, 1982, [96 Stat. 48][/us/stat/96/48]; [Pub. L. 97–458][/us/pl/97/458], § 1, Jan. 12, 1983, [96 Stat. 2512][/us/stat/96/2512]; [Pub. L. 102–572, title IX][/us/pl/102/572/tIX], § 902(b)(1), Oct. 29, 1992, [106 Stat. 4516][/us/stat/106/4516]; [Pub. L. 103–437][/us/pl/103/437], § 10(e)(1), (2)(A), Nov. 2, 1994, [108 Stat. 4589][/us/stat/108/4589].)
 
  __References in Text__ 
 
@@ -78,15 +78,15 @@
 ----------
 ----------
 
-[/us/pl/93/134/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F134%2Fs2
+[/us/pl/93/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F134
 [/us/stat/87/466]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F466
-[/us/pl/97/164/s160/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164%2Fs160%2Fa%2F1
+[/us/pl/97/164/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164%2FtI
 [/us/stat/96/48]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F48
-[/us/pl/97/458/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F458%2Fs1
+[/us/pl/97/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F458
 [/us/stat/96/2512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2512
-[/us/pl/102/572/s902/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2Fs902%2Fb%2F1
+[/us/pl/102/572/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2FtIX
 [/us/stat/106/4516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4516
-[/us/pl/103/437/s10/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437%2Fs10%2Fe%2F1
+[/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
 [/us/stat/108/4589]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4589
 [/us/pl/97/164/s160/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164%2Fs160%2Fa%2F1
 [/us/pl/97/458/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F458%2Fs1

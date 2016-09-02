@@ -29,7 +29,7 @@
 
         This section shall not apply to any claim, right, or title of any Indian, Indian nation, or tribe of Indians that is asserted in an action commenced in a court of competent jurisdiction within one hundred and eighty days of September 30, 1978: Provided, That the plaintiff in any such action shall cause notice of the action to be served upon the Secretary and the Governor of the State of Rhode Island.
 
-([Pub. L. 95–395, § 13][/us/pl/95/395/s13], Sept. 30, 1978, [92 Stat. 817][/us/stat/92/817].)
+([Pub. L. 95–395][/us/pl/95/395], § 13, Sept. 30, 1978, [92 Stat. 817][/us/stat/92/817].)
 
  __References in Text__ 
 
@@ -44,7 +44,7 @@
 
 [/us/usc/t25/s1705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1705
 [/us/stat/1/137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F1%2F137
-[/us/pl/95/395/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F395%2Fs13
+[/us/pl/95/395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F395
 [/us/stat/92/817]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F817
 [/us/stat/1/137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F1%2F137
 

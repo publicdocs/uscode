@@ -67,7 +67,7 @@
 
         (3) shall annually certify to the Secretary the amount of service performed, and the amount remaining to be performed, by each such individual under such agreements.
 
-([Pub. L. 102–325, title XIII, § 1324][/us/pl/102/325/s1324], July 23, 1992, [106 Stat. 803][/us/stat/106/803].)
+([Pub. L. 102–325, title XIII][/us/pl/102/325/tXIII], § 1324, July 23, 1992, [106 Stat. 803][/us/stat/106/803].)
 
  __References in Text__ 
 
@@ -82,7 +82,7 @@
 
 [/us/usc/t20/s1085/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1085%2Fa
 [/us/usc/t25/s3323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs3323
-[/us/pl/102/325/s1324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs1324
+[/us/pl/102/325/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2FtXIII
 [/us/stat/106/803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F803
 [/us/usc/t25/s3323/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs3323%2Fb
 [/us/pl/102/325/s1322/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs1322%2Fb

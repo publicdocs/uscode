@@ -31,7 +31,7 @@
 
         Notwithstanding the Immigration and Nationality Act \[[8 U.S.C. 1101][/us/usc/t8/s1101] et seq.\], all members of the Band shall be entitled to freely pass and repass the borders of the United States and to live and work in the United States.
 
-([Pub. L. 97–429, § 4][/us/pl/97/429/s4], Jan. 8, 1983, [96 Stat. 2269][/us/stat/96/2269].)
+([Pub. L. 97–429][/us/pl/97/429], § 4, Jan. 8, 1983, [96 Stat. 2269][/us/stat/96/2269].)
 
  __References in Text__ 
 
@@ -49,7 +49,7 @@
 ----------
 
 [/us/usc/t8/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101
-[/us/pl/97/429/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F429%2Fs4
+[/us/pl/97/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F429
 [/us/stat/96/2269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2269
 [/us/act/1952-06-27/ch477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-06-27%2Fch477
 [/us/stat/66/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F163

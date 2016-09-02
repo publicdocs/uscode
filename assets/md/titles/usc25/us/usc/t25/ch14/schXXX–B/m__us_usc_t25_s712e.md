@@ -17,7 +17,7 @@
 
     The Secretary of the Interior shall accept title to 2000 acres of real property and may accept title to any additional number of acres of real property located in Umpqua River watershed upstream from Scottsburg, Oregon, or the northern slope of the Rogue River watershed upstream from Agness, Oregon, if such real property is conveyed or otherwise transferred to the United States by or on behalf of the Tribe. The Secretary shall take into trust for the benefit of the Tribe all real property conveyed or otherwise transferred to the United States pursuant to this section. Real property taken into trust pursuant to this section shall become part of the Tribe’s reservation, and shall be treated as on-reservation land for the purpose of processing acquisitions of real property into trust. Real property taken into trust pursuant to this section shall not be considered to have been taken into trust for gaming (as that term is used in the Indian Gaming Regulatory Act ([25 U.S.C. 2701][/us/usc/t25/s2701] et seq.)).
 
-([Pub. L. 97–391, § 7][/us/pl/97/391/s7], as added [Pub. L. 105–256, § 9][/us/pl/105/256/s9], Oct. 14, 1998, [112 Stat. 1898][/us/stat/112/1898]; amended [Pub. L. 108–204, title I, § 104][/us/pl/108/204/s104], Mar. 2, 2004, [118 Stat. 543][/us/stat/118/543].)
+([Pub. L. 97–391][/us/pl/97/391], § 7, as added [Pub. L. 105–256][/us/pl/105/256], § 9, Oct. 14, 1998, [112 Stat. 1898][/us/stat/112/1898]; amended [Pub. L. 108–204, title I][/us/pl/108/204/tI], § 104, Mar. 2, 2004, [118 Stat. 543][/us/stat/118/543].)
 
  __References in Text__ 
 
@@ -35,10 +35,10 @@
 ----------
 
 [/us/usc/t25/s2701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs2701
-[/us/pl/97/391/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F391%2Fs7
-[/us/pl/105/256/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F256%2Fs9
+[/us/pl/97/391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F391
+[/us/pl/105/256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F256
 [/us/stat/112/1898]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1898
-[/us/pl/108/204/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F204%2Fs104
+[/us/pl/108/204/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F204%2FtI
 [/us/stat/118/543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F543
 [/us/pl/100/497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F497
 [/us/stat/102/2467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2467

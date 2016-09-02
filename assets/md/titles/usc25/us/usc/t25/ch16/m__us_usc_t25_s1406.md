@@ -27,7 +27,7 @@
 
         No later than thirty days prior to the promulgation of such rules and regulations, the Secretary shall provide, with adequate public notice, the opportunity for hearings on the proposed rules and regulations, once published, to all interested parties.
 
-([Pub. L. 93–134, § 6][/us/pl/93/134/s6], Oct. 19, 1973, [87 Stat. 468][/us/stat/87/468].)
+([Pub. L. 93–134][/us/pl/93/134], § 6, Oct. 19, 1973, [87 Stat. 468][/us/stat/87/468].)
 
 ----------
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/93/134/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F134%2Fs6
+[/us/pl/93/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F134
 [/us/stat/87/468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F468
 
 

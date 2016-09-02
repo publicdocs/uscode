@@ -17,7 +17,7 @@
 
     The Secretary of the Interior is authorized to prescribe any necessary regulations for the purpose of administering the provisions of sections 323 to 328 of this title.
 
-([Feb. 5, 1948, ch. 45, § 6][/us/act/1948-02-05/ch45/s6], [62 Stat. 18][/us/stat/62/18].)
+([Feb. 5, 1948, ch. 45][/us/act/1948-02-05/ch45], § 6, [62 Stat. 18][/us/stat/62/18].)
 
  __Transfer of Functions__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1948-02-05/ch45/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-02-05%2Fch45%2Fs6
+[/us/act/1948-02-05/ch45]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-02-05%2Fch45
 [/us/stat/62/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F18
 [/us/stat/93/1373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1373
 [/us/usc/t15/s719e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs719e

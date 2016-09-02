@@ -17,7 +17,7 @@
 
     The lands transferred and held in trust for the Miccosukee Tribe under [section 1750c(4) of this title][/us/usc/t25/s1750c/4] shall be Miccosukee Indian Reservation lands.
 
-([Pub. L. 105–83, title VII, § 706][/us/pl/105/83/s706], Nov. 14, 1997, [111 Stat. 1626][/us/stat/111/1626].)
+([Pub. L. 105–83, title VII][/us/pl/105/83/tVII], § 706, Nov. 14, 1997, [111 Stat. 1626][/us/stat/111/1626].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t25/s1750c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1750c%2F4
-[/us/pl/105/83/s706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F83%2Fs706
+[/us/pl/105/83/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F83%2FtVII
 [/us/stat/111/1626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1626
 
 

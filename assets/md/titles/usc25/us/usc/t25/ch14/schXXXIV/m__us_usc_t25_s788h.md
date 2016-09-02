@@ -17,7 +17,7 @@
 
     The Secretary of the Interior is authorized to prescribe rules and regulations to carry out the provisions of sections 788e to 788h of this title, including an appropriate deadline for filing applications for enrollment.
 
-([Pub. L. 90–506, § 4][/us/pl/90/506/s4], Sept. 21, 1968, [82 Stat. 859][/us/stat/82/859].)
+([Pub. L. 90–506][/us/pl/90/506], § 4, Sept. 21, 1968, [82 Stat. 859][/us/stat/82/859].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/90/506/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F506%2Fs4
+[/us/pl/90/506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F506
 [/us/stat/82/859]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F859
 
 

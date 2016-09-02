@@ -17,7 +17,7 @@
 
     Where the Secretary finds that any such lands are permanently nonirrigable he may, with the consent of the landowner, eliminate such lands from the project.
 
-([June 22, 1936, ch. 692, § 3][/us/act/1936-06-22/ch692/s3], [49 Stat. 1804][/us/stat/49/1804].)
+([June 22, 1936, ch. 692][/us/act/1936-06-22/ch692], § 3, [49 Stat. 1804][/us/stat/49/1804].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1936-06-22/ch692/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-22%2Fch692%2Fs3
+[/us/act/1936-06-22/ch692]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-22%2Fch692
 [/us/stat/49/1804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1804
 
 

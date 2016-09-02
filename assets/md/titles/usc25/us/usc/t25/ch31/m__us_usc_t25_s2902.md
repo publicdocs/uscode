@@ -33,17 +33,25 @@
 
     (8) The term “Indian reservation” has the same meaning given to the term “reservation” under [section 1452 of this title][/us/usc/t25/s1452].
 
-([Pub. L. 101–477, title I, § 103][/us/pl/101/477/s103], Oct. 30, 1990, [104 Stat. 1154][/us/stat/104/1154]; [Pub. L. 104–109, § 11][/us/pl/104/109/s11], Feb. 12, 1996, [110 Stat. 765][/us/stat/110/765]; [Pub. L. 107–110, title VII, § 702(f)][/us/pl/107/110/s702/f], Jan. 8, 2002, [115 Stat. 1947][/us/stat/115/1947].)
+([Pub. L. 101–477, title I][/us/pl/101/477/tI], § 103, Oct. 30, 1990, [104 Stat. 1154][/us/stat/104/1154]; [Pub. L. 104–109][/us/pl/104/109], § 11, Feb. 12, 1996, [110 Stat. 765][/us/stat/110/765]; [Pub. L. 107–110, title VII][/us/pl/107/110/tVII], § 702(f), Jan. 8, 2002, [115 Stat. 1947][/us/stat/115/1947]; [Pub. L. 114–95, title IX][/us/pl/114/95/tIX], § 9215(iii), Dec. 10, 2015, [129 Stat. 2187][/us/stat/129/2187].)
 
  __Amendments__ 
 
-    2002—Par. (2). [Pub. L. 107–110, § 702(f)(1)][/us/pl/107/110/s702/f/1], substituted “[section 7491(3) of title 20][/us/usc/t20/s7491/3]” for “[section 7881(4) of title 20][/us/usc/t20/s7881/4]”.
+    2015—Par. (2). [Pub. L. 114–95][/us/pl/114/95], § 9215(iii)(1), made technical amendment to reference in original act which appears in text as reference to [section 7491(3) of title 20][/us/usc/t20/s7491/3].
 
-    Par. (3). [Pub. L. 107–110, § 702(f)(2)][/us/pl/107/110/s702/f/2], substituted “[section 7517 of title 20][/us/usc/t20/s7517]” for “[section 7912(1) of title 20][/us/usc/t20/s7912/1]”.
+    Par. (3). [Pub. L. 114–95][/us/pl/114/95], § 9215(iii)(2), made technical amendment to reference in original act which appears in text as reference to [section 7517 of title 20][/us/usc/t20/s7517].
 
-    1996—Par. (2). [Pub. L. 104–109, § 11(1)][/us/pl/104/109/s11/1], substituted “[section 7881(4) of title 20][/us/usc/t20/s7881/4]” for “[section 2651(4) of this title][/us/usc/t25/s2651/4]”.
+    2002—Par. (2). [Pub. L. 107–110][/us/pl/107/110], § 702(f)(1), substituted “[section 7491(3) of title 20][/us/usc/t20/s7491/3]” for “[section 7881(4) of title 20][/us/usc/t20/s7881/4]”.
 
-    Par. (3). [Pub. L. 104–109, § 11(2)][/us/pl/104/109/s11/2], substituted “[section 7912(1) of title 20][/us/usc/t20/s7912/1]” for “[section 4909 of title 20][/us/usc/t20/s4909]”.
+    Par. (3). [Pub. L. 107–110][/us/pl/107/110], § 702(f)(2), substituted “[section 7517 of title 20][/us/usc/t20/s7517]” for “[section 7912(1) of title 20][/us/usc/t20/s7912/1]”.
+
+    1996—Par. (2). [Pub. L. 104–109][/us/pl/104/109], § 11(1), substituted “[section 7881(4) of title 20][/us/usc/t20/s7881/4]” for “[section 2651(4) of this title][/us/usc/t25/s2651/4]”.
+
+    Par. (3). [Pub. L. 104–109][/us/pl/104/109], § 11(2), substituted “[section 7912(1) of title 20][/us/usc/t20/s7912/1]” for “[section 4909 of title 20][/us/usc/t20/s4909]”.
+
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–95][/us/pl/114/95] effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see [section 5 of Pub. L. 114–95][/us/pl/114/95/s5], set out as a note under [section 6301 of Title 20][/us/usc/t20/s6301], Education.
 
  __Effective Date of 2002 Amendment__ 
 
@@ -60,24 +68,33 @@
 [/us/usc/t20/s7517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7517
 [/us/usc/t25/s450b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450b
 [/us/usc/t25/s1452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1452
-[/us/pl/101/477/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F477%2Fs103
+[/us/pl/101/477/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F477%2FtI
 [/us/stat/104/1154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1154
-[/us/pl/104/109/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F109%2Fs11
+[/us/pl/104/109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F109
 [/us/stat/110/765]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F765
-[/us/pl/107/110/s702/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2Fs702%2Ff
+[/us/pl/107/110/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2FtVII
 [/us/stat/115/1947]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1947
-[/us/pl/107/110/s702/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2Fs702%2Ff%2F1
+[/us/pl/114/95/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2FtIX
+[/us/stat/129/2187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2187
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/usc/t20/s7491/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7491%2F3
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/usc/t20/s7517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7517
+[/us/pl/107/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110
 [/us/usc/t20/s7491/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7491%2F3
 [/us/usc/t20/s7881/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7881%2F4
-[/us/pl/107/110/s702/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2Fs702%2Ff%2F2
+[/us/pl/107/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110
 [/us/usc/t20/s7517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7517
 [/us/usc/t20/s7912/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7912%2F1
-[/us/pl/104/109/s11/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F109%2Fs11%2F1
+[/us/pl/104/109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F109
 [/us/usc/t20/s7881/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7881%2F4
 [/us/usc/t25/s2651/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs2651%2F4
-[/us/pl/104/109/s11/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F109%2Fs11%2F2
+[/us/pl/104/109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F109
 [/us/usc/t20/s7912/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7912%2F1
 [/us/usc/t20/s4909]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs4909
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/pl/114/95/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2Fs5
+[/us/usc/t20/s6301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6301
 [/us/pl/107/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110
 [/us/pl/107/110/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2Fs5
 [/us/usc/t20/s6301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6301

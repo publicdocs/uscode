@@ -17,7 +17,7 @@
 
     Nothing in this subchapter shall be construed to affect the restrictions against alienation of any individual Indian’s land and those restrictions shall continue in force and effect.
 
-([Pub. L. 106–568, title VII, § 709][/us/pl/106/568/s709], Dec. 27, 2000, [114 Stat. 2916][/us/stat/114/2916].)
+([Pub. L. 106–568, title VII][/us/pl/106/568/tVII], § 709, Dec. 27, 2000, [114 Stat. 2916][/us/stat/114/2916].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/106/568/s709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F568%2Fs709
+[/us/pl/106/568/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F568%2FtVII
 [/us/stat/114/2916]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2916
 
 

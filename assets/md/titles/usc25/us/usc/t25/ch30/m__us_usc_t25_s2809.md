@@ -81,7 +81,7 @@
 
             The Attorney General shall establish, by regulation, standards for the protection of the confidential or privileged communications, information, and sources described in this section.
 
-([Pub. L. 101–379, § 10][/us/pl/101/379/s10], Aug. 18, 1990, [104 Stat. 477][/us/stat/104/477]; [Pub. L. 111–211, title II, § 212][/us/pl/111/211/s212], July 29, 2010, [124 Stat. 2267][/us/stat/124/2267].)
+([Pub. L. 101–379][/us/pl/101/379], § 10, Aug. 18, 1990, [104 Stat. 477][/us/stat/104/477]; [Pub. L. 111–211, title II][/us/pl/111/211/tII], § 212, July 29, 2010, [124 Stat. 2267][/us/stat/124/2267].)
 
  __References in Text__ 
 
@@ -98,9 +98,9 @@
 ----------
 ----------
 
-[/us/pl/101/379/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F379%2Fs10
+[/us/pl/101/379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F379
 [/us/stat/104/477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F477
-[/us/pl/111/211/s212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211%2Fs212
+[/us/pl/111/211/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211%2FtII
 [/us/stat/124/2267]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2267
 [/us/pl/111/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211
 

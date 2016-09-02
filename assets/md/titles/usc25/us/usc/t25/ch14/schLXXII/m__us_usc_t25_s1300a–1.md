@@ -17,7 +17,7 @@
 
     For the purposes of apportioning the funds, the Yavapai Apache Indian Community of the Camp Verde Reservation, the Fort McDowell Mohave-Apache Community, and the Yavapai-Prescott Community shall prepare rolls of all persons who were born on or prior to and living on October 6, 1972, and who are enrolled or entitled to be enrolled in accordance with the respective tribal constitutions or articles of association, as the case may be, in effect on April 1, 1972. The Secretary of the Interior shall verify and approve the rolls.
 
-([Pub. L. 92–461, § 3][/us/pl/92/461/s3], Oct. 6, 1972, [86 Stat. 769][/us/stat/86/769].)
+([Pub. L. 92–461][/us/pl/92/461], § 3, Oct. 6, 1972, [86 Stat. 769][/us/stat/86/769].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/92/461/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F461%2Fs3
+[/us/pl/92/461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F461
 [/us/stat/86/769]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F769
 
 

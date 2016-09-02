@@ -17,7 +17,7 @@
 
     The provisions of this act shall not extend to the territory occupied by the Cherokees, Creeks, Choctaws, Chickasaws, Seminoles, and Osage, Miamies and Peorias, and Sacs and Foxes, in Oklahoma, nor to any of the reservations of the Seneca Nation of New York Indians in the State of New York, nor to that strip of territory in the State of Nebraska adjoining the Sioux Nation on the south added by Executive order.
 
-([Feb. 8, 1887, ch. 119, § 8][/us/act/1887-02-08/ch119/s8], [24 Stat. 391][/us/stat/24/391].)
+([Feb. 8, 1887, ch. 119][/us/act/1887-02-08/ch119], § 8, [24 Stat. 391][/us/stat/24/391].)
 
  __References in Text__ 
 
@@ -25,7 +25,7 @@
 
  __Sacs and Foxes; Missouri Indians__ 
 
-    No allotment of lands was to be made or annuities of money to be paid to any of the Sacs and Foxes of the Missouri Indians who were not enrolled as members of the tribe on Jan. 1, 1890, by a proviso annexed to [act Feb. 28, 1891, ch. 383, § 5][/us/act/1891-02-28/ch383/s5], [26 Stat. 796][/us/stat/26/796].
+    No allotment of lands was to be made or annuities of money to be paid to any of the Sacs and Foxes of the Missouri Indians who were not enrolled as members of the tribe on Jan. 1, 1890, by a proviso annexed to [act Feb. 28, 1891, ch. 383][/us/act/1891-02-28/ch383], § 5, [26 Stat. 796][/us/stat/26/796].
 
 ----------
 
@@ -34,12 +34,12 @@
 ----------
 ----------
 
-[/us/act/1887-02-08/ch119/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1887-02-08%2Fch119%2Fs8
+[/us/act/1887-02-08/ch119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1887-02-08%2Fch119
 [/us/stat/24/391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F24%2F391
 [/us/act/1887-02-08/ch119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1887-02-08%2Fch119
 [/us/stat/24/388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F24%2F388
 [/us/usc/t25/s331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs331
-[/us/act/1891-02-28/ch383/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1891-02-28%2Fch383%2Fs5
+[/us/act/1891-02-28/ch383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1891-02-28%2Fch383
 [/us/stat/26/796]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F26%2F796
 
 

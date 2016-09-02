@@ -59,7 +59,7 @@
 
         Nothing in this subchapter shall be construed to effectuate an extinguishment of, or to otherwise impair, the Pueblo’s title to or interest in lands or water rights as described in [section 1777c(a)(2) of this title][/us/usc/t25/s1777c/a/2].
 
-([Pub. L. 106–425, § 2][/us/pl/106/425/s2], Nov. 1, 2000, [114 Stat. 1890][/us/stat/114/1890].)
+([Pub. L. 106–425][/us/pl/106/425], § 2, Nov. 1, 2000, [114 Stat. 1890][/us/stat/114/1890].)
 
  __References in Text__ 
 
@@ -69,7 +69,7 @@
 
  __Short Title__ 
 
-[Pub. L. 106–425, § 1][/us/pl/106/425/s1], Nov. 1, 2000, [114 Stat. 1890][/us/stat/114/1890], provided that: 
+[Pub. L. 106–425][/us/pl/106/425], § 1, Nov. 1, 2000, [114 Stat. 1890][/us/stat/114/1890], provided that: 
 
 > “This Act \[enacting this subchapter\] may be cited as the ‘Santo Domingo Pueblo Claims Settlement Act of 2000’.”
 
@@ -84,14 +84,14 @@
 [/us/stat/60/1049]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F1049
 [/us/stat/60/1049]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F1049
 [/us/usc/t25/s1777c/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1777c%2Fa%2F2
-[/us/pl/106/425/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F425%2Fs2
+[/us/pl/106/425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F425
 [/us/stat/114/1890]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1890
 [/us/act/1924-06-07/ch331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1924-06-07%2Fch331
 [/us/stat/43/636]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F43%2F636
 [/us/usc/t25/s331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs331
 [/us/act/1946-08-13/ch959]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-13%2Fch959
 [/us/stat/60/1049]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F1049
-[/us/pl/106/425/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F425%2Fs1
+[/us/pl/106/425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F425
 [/us/stat/114/1890]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1890
 
 

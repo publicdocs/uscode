@@ -37,29 +37,29 @@
 
         The Mediator may retain the services of such staff assistants and consultants as he shall deem necessary, subject to the approval of the Director of the Federal Mediation and Conciliation Service.
 
-([Pub. L. 93–531, § 1][/us/pl/93/531/s1], Dec. 22, 1974, [88 Stat. 1712][/us/stat/88/1712].)
+([Pub. L. 93–531][/us/pl/93/531], § 1, Dec. 22, 1974, [88 Stat. 1712][/us/stat/88/1712].)
 
  __Short Title of 1991 Amendment__ 
 
-[Pub. L. 102–180, § 1][/us/pl/102/180/s1], Dec. 2, 1991, [105 Stat. 1230][/us/stat/105/1230], provided that: 
+[Pub. L. 102–180][/us/pl/102/180], § 1, Dec. 2, 1991, [105 Stat. 1230][/us/stat/105/1230], provided that: 
 
 > “This Act \[amending sections 640d–11 and 640d–24 of this title and [section 5315 of Title 5][/us/usc/t5/s5315], Government Organization and Employees, and enacting provisions set out as notes under [section 640d–11 of this title][/us/usc/t25/s640d–11]\] may be cited as the ‘Navajo-Hopi Relocation Housing Program Reauthorization Act of 1991’.”
 
  __Short Title of 1988 Amendment__ 
 
-[Pub. L. 100–666, § 1][/us/pl/100/666/s1], Nov. 16, 1988, [102 Stat. 3929][/us/stat/102/3929], provided that: 
+[Pub. L. 100–666][/us/pl/100/666], § 1, Nov. 16, 1988, [102 Stat. 3929][/us/stat/102/3929], provided that: 
 
 > “This Act \[enacting sections 640d–29 and 640d–30 of this title, amending sections 640d–7, 640d–9 to 640d–14, 640d–22, 640d–24, 640d–25, and 640d–28 of this title, and enacting provisions set out as a note under [section 640d–11 of this title][/us/usc/t25/s640d–11]\] may be cited as the ‘Navajo and Hopi Indian Relocation Amendments of 1988’.”
 
  __Short Title of 1980 Amendment__ 
 
-[Pub. L. 96–305, § 1][/us/pl/96/305/s1], July 8, 1980, [94 Stat. 929][/us/stat/94/929], provided: 
+[Pub. L. 96–305][/us/pl/96/305], § 1, July 8, 1980, [94 Stat. 929][/us/stat/94/929], provided: 
 
 > “That this Act \[enacting sections 640d–25 to 640d–28 of this title and amending sections 640d–4, 640d–7, 640d–9 to 640d–12, 640d–14, 640d–18, 640d–22, and 640d–24 of this title\] may be cited as the ‘Navajo and Hopi Indian Relocation Amendments Act of 1980’.”
 
  __Navajo-Hopi Land Dispute Settlement Act of 1996__ 
 
-[Pub. L. 104–301][/us/pl/104/301], Oct. 11, 1996, [110 Stat. 3649][/us/stat/110/3649], as amended by [Pub. L. 105–256, § 3][/us/pl/105/256/s3], Oct. 14, 1998, [112 Stat. 1897][/us/stat/112/1897], provided that:
+[Pub. L. 104–301][/us/pl/104/301], Oct. 11, 1996, [110 Stat. 3649][/us/stat/110/3649], as amended by [Pub. L. 105–256][/us/pl/105/256], § 3, Oct. 14, 1998, [112 Stat. 1897][/us/stat/112/1897], provided that:
 
 > “SECTION 1. __SHORT TITLE.__ 
 
@@ -294,20 +294,20 @@
 
 [/us/usc/t25/s640d–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs640d%E2%80%932
 [/us/usc/t25/s640d–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs640d%E2%80%933
-[/us/pl/93/531/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F531%2Fs1
+[/us/pl/93/531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F531
 [/us/stat/88/1712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1712
-[/us/pl/102/180/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F180%2Fs1
+[/us/pl/102/180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F180
 [/us/stat/105/1230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1230
 [/us/usc/t5/s5315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5315
 [/us/usc/t25/s640d–11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs640d%E2%80%9311
-[/us/pl/100/666/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F666%2Fs1
+[/us/pl/100/666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F666
 [/us/stat/102/3929]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3929
 [/us/usc/t25/s640d–11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs640d%E2%80%9311
-[/us/pl/96/305/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F305%2Fs1
+[/us/pl/96/305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F305
 [/us/stat/94/929]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F929
 [/us/pl/104/301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F301
 [/us/stat/110/3649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3649
-[/us/pl/105/256/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F256%2Fs3
+[/us/pl/105/256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F256
 [/us/stat/112/1897]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1897
 [/us/pl/93/531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F531
 [/us/usc/t25/s640d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs640d

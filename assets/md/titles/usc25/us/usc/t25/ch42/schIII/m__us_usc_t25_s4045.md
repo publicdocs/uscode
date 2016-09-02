@@ -23,7 +23,7 @@
 
         To the extent and in such amounts as may be provided in advance by appropriations Acts, the Special Trustee may enter into contracts and other arrangements with public agencies and with private persons and organizations for consulting services and make such payments as necessary to carry out the provisions of this subchapter.
 
-([Pub. L. 103–412, title III, § 305][/us/pl/103/412/s305], Oct. 25, 1994, [108 Stat. 4248][/us/stat/108/4248].)
+([Pub. L. 103–412, title III][/us/pl/103/412/tIII], § 305, Oct. 25, 1994, [108 Stat. 4248][/us/stat/108/4248].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/103/412/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F412%2Fs305
+[/us/pl/103/412/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F412%2FtIII
 [/us/stat/108/4248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4248
 
 

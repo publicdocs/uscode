@@ -17,7 +17,7 @@
 
     The unexpended balance of funds on deposit in the Treasury to the credit of the Confederated Bands of Ute Indians appropriated by the Act of May 13, 1966 ([80 Stat. 141][/us/stat/80/141]), pursuant to the final judgment entered in Court of Claims case numbered 47567; and the funds on deposit to the credit of the Ute Tribe of the Uintah and Ouray Reservation, for and on behalf of the Uncompahgre Band of Ute Indians, that were appropriated by the Act of April 30, 1965 ([79 Stat. 81][/us/stat/79/81]), to pay a judgment by the Indian Claims Commission in docket numbered 349; and the interest thereon, less attorney fees and litigation expenses, shall be available for use by the respective tribes in accordance with the Act of August 21, 1951 ([65 Stat. 193][/us/stat/65/193]; [25 U.S.C. 672][/us/usc/t25/s672]), the Act of August 12, 1953 ([67 Stat. 540][/us/stat/67/540]; [25 U.S.C. 674][/us/usc/t25/s674]), the Act of June 28, 1954 ([68 Stat. 300][/us/stat/68/300]; [25 U.S.C. 676][/us/usc/t25/s676]), and the Act of August 27, 1954 ([68 Stat. 868][/us/stat/68/868]; [25 U.S.C. 677][/us/usc/t25/s677]), as amended.
 
-([Pub. L. 91–420, § 1][/us/pl/91/420/s1], Sept. 25, 1970, [84 Stat. 871][/us/stat/84/871].)
+([Pub. L. 91–420][/us/pl/91/420], § 1, Sept. 25, 1970, [84 Stat. 871][/us/stat/84/871].)
 
  __References in Text__ 
 
@@ -48,7 +48,7 @@
 [/us/usc/t25/s676]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs676
 [/us/stat/68/868]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F868
 [/us/usc/t25/s677]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs677
-[/us/pl/91/420/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F420%2Fs1
+[/us/pl/91/420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F420
 [/us/stat/84/871]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F871
 [/us/pl/89/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F426
 [/us/stat/80/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F141

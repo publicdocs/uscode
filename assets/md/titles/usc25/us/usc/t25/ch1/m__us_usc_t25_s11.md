@@ -17,7 +17,7 @@
 
     The Secretary of the Interior is authorized to designate an employee or employees of the Department of the Interior to sign, under the direction of the Secretary, in his name and for him, his approval of tribal deeds to allottees, to purchasers of town lots, to purchasers of unallotted lands, to persons, corporations, or organizations for lands reserved to them under the law for their use and benefit, and to any tribal deeds made and executed according to law for any of the Five Civilized Tribes of Indians in Oklahoma.
 
-([Mar. 3, 1911, ch. 210, § 17][/us/act/1911-03-03/ch210/s17], [36 Stat. 1069][/us/stat/36/1069].)
+([Mar. 3, 1911, ch. 210][/us/act/1911-03-03/ch210], § 17, [36 Stat. 1069][/us/stat/36/1069].)
 
  __Transfer of Functions__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1911-03-03/ch210/s17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch210%2Fs17
+[/us/act/1911-03-03/ch210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch210
 [/us/stat/36/1069]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F1069
 [/us/stat/64/1262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1262
 

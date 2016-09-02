@@ -27,7 +27,7 @@
 
     (e) “Adult” means a person who is an adult according to the law of the place of his residence.
 
-([Aug. 13, 1954, ch. 732, § 2][/us/act/1954-08-13/ch732/s2], [68 Stat. 718][/us/stat/68/718]; [Pub. L. 85–132, § 1(f)][/us/pl/85/132/s1/f], Aug. 14, 1957, [71 Stat. 348][/us/stat/71/348].)
+([Aug. 13, 1954, ch. 732][/us/act/1954-08-13/ch732], § 2, [68 Stat. 718][/us/stat/68/718]; [Pub. L. 85–132][/us/pl/85/132], § 1(f), Aug. 14, 1957, [71 Stat. 348][/us/stat/71/348].)
 
  __Amendments__ 
 
@@ -40,9 +40,9 @@
 ----------
 ----------
 
-[/us/act/1954-08-13/ch732/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-13%2Fch732%2Fs2
+[/us/act/1954-08-13/ch732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-13%2Fch732
 [/us/stat/68/718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F718
-[/us/pl/85/132/s1/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F132%2Fs1%2Ff
+[/us/pl/85/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F132
 [/us/stat/71/348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F71%2F348
 [/us/pl/85/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F132
 

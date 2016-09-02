@@ -23,7 +23,7 @@
 
         A share payable to a person under twenty-one years of age or to a person under legal disability shall be paid in accordance with such procedures, including the establishment of trusts, as the Secretary determines will adequately protect the best interest of such person.
 
-([Pub. L. 91–364, § 3][/us/pl/91/364/s3], July 31, 1970, [84 Stat. 688][/us/stat/84/688].)
+([Pub. L. 91–364][/us/pl/91/364], § 3, July 31, 1970, [84 Stat. 688][/us/stat/84/688].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/91/364/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F364%2Fs3
+[/us/pl/91/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F364
 [/us/stat/84/688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F688
 
 

@@ -17,7 +17,7 @@
 
     By submitting or approving a plan under this subchapter, neither the tribe nor the Secretary shall be deemed to have accepted the account balance as accurate or to have waived any rights regarding such balance and to seek compensation.
 
-([Pub. L. 103–412, title II, § 207][/us/pl/103/412/s207], Oct. 25, 1994, [108 Stat. 4243][/us/stat/108/4243].)
+([Pub. L. 103–412, title II][/us/pl/103/412/tII], § 207, Oct. 25, 1994, [108 Stat. 4243][/us/stat/108/4243].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/103/412/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F412%2Fs207
+[/us/pl/103/412/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F412%2FtII
 [/us/stat/108/4243]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4243
 
 

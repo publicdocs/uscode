@@ -41,29 +41,29 @@
 
         (6) includes such other provisions as may be necessary to protect the financial interest of the United States and promote the purpose of this subchapter and as are agreed to by the Secretary and the college or university, including a description of recordkeeping procedures for the expenditure of accumulated interest which will allow the Secretary to audit and monitor programs and activities conducted with such interest.
 
-([Pub. L. 95–471, title III, § 302][/us/pl/95/471/s302], as added [Pub. L. 98–192, § 13][/us/pl/98/192/s13], Dec. 1, 1983, [97 Stat. 1341][/us/stat/97/1341]; amended [Pub. L. 101–477, § 1(d)(1)(A)][/us/pl/101/477/s1/d/1/A], (B), Oct. 30, 1990, [104 Stat. 1152][/us/stat/104/1152], 1153; [Pub. L. 103–382, title III, § 383][/us/pl/103/382/s383], Oct. 20, 1994, [108 Stat. 4018][/us/stat/108/4018]; [Pub. L. 105–244, title IX, § 901(b)(5)][/us/pl/105/244/s901/b/5]–(7), (12), (14), (15), Oct. 7, 1998, [112 Stat. 1828][/us/stat/112/1828].)
+([Pub. L. 95–471, title III][/us/pl/95/471/tIII], § 302, as added [Pub. L. 98–192][/us/pl/98/192], § 13, Dec. 1, 1983, [97 Stat. 1341][/us/stat/97/1341]; amended [Pub. L. 101–477][/us/pl/101/477], § 1(d)(1)(A), (B), Oct. 30, 1990, [104 Stat. 1152][/us/stat/104/1152], 1153; [Pub. L. 103–382, title III][/us/pl/103/382/tIII], § 383, Oct. 20, 1994, [108 Stat. 4018][/us/stat/108/4018]; [Pub. L. 105–244, title IX][/us/pl/105/244/tIX], § 901(b)(5)–(7), (12), (14), (15), Oct. 7, 1998, [112 Stat. 1828][/us/stat/112/1828].)
 
  __Amendments__ 
 
-    1998—Subsec. (a). [Pub. L. 105–244, § 901(b)(6)][/us/pl/105/244/s901/b/6], (7), substituted “colleges or universities” for “community colleges” and substituted “such college or university” for “such college” wherever appearing.
+    1998—Subsec. (a). [Pub. L. 105–244][/us/pl/105/244], § 901(b)(6), (7), substituted “colleges or universities” for “community colleges” and substituted “such college or university” for “such college” wherever appearing.
 
-    Subsec. (b). [Pub. L. 105–244, § 901(b)(5)][/us/pl/105/244/s901/b/5], (7), in introductory provisions, substituted “controlled college or university” for “controlled community college” and “such college or university” for “such college”.
+    Subsec. (b). [Pub. L. 105–244][/us/pl/105/244], § 901(b)(5), (7), in introductory provisions, substituted “controlled college or university” for “controlled community college” and “such college or university” for “such college”.
 
-    Subsec. (b)(2)(B). [Pub. L. 105–244, § 901(b)(7)][/us/pl/105/244/s901/b/7], substituted “such college or university” for “such college”.
+    Subsec. (b)(2)(B). [Pub. L. 105–244][/us/pl/105/244], § 901(b)(7), substituted “such college or university” for “such college”.
 
-    Subsec. (b)(4). [Pub. L. 105–244, § 901(b)(7)][/us/pl/105/244/s901/b/7], (14), (15), substituted “such college or university” for “such college”, “that college or university” for “that college”, and “other colleges or universities” for “other colleges”.
+    Subsec. (b)(4). [Pub. L. 105–244][/us/pl/105/244], § 901(b)(7), (14), (15), substituted “such college or university” for “such college”, “that college or university” for “that college”, and “other colleges or universities” for “other colleges”.
 
-    Subsec. (b)(6). [Pub. L. 105–244, § 901(b)(12)][/us/pl/105/244/s901/b/12], substituted “the college or university” for “the college”.
+    Subsec. (b)(6). [Pub. L. 105–244][/us/pl/105/244], § 901(b)(12), substituted “the college or university” for “the college”.
 
-    1994—Subsec. (a). [Pub. L. 103–382, § 383(1)][/us/pl/103/382/s383/1], substituted “[section 1065 of title 20][/us/usc/t20/s1065]” for “[section 1065a of title 20][/us/usc/t20/s1065a]”.
+    1994—Subsec. (a). [Pub. L. 103–382][/us/pl/103/382], § 383(1), substituted “[section 1065 of title 20][/us/usc/t20/s1065]” for “[section 1065a of title 20][/us/usc/t20/s1065a]”.
 
-    Subsec. (b)(1). [Pub. L. 103–382, § 383(2)(A)][/us/pl/103/382/s383/2/A], amended par. (1) generally. Prior to amendment, par. (1) read as follows: “provides for the establishment and maintenance of a trust fund at a federally insured banking or savings institution;”.
+    Subsec. (b)(1). [Pub. L. 103–382][/us/pl/103/382], § 383(2)(A), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “provides for the establishment and maintenance of a trust fund at a federally insured banking or savings institution;”.
 
-    Subsec. (b)(3). [Pub. L. 103–382, § 383(2)(B)][/us/pl/103/382/s383/2/B], struck out “same” before “banking or savings institution”.
+    Subsec. (b)(3). [Pub. L. 103–382][/us/pl/103/382], § 383(2)(B), struck out “same” before “banking or savings institution”.
 
-    1990—Subsec. (b)(2)(B). [Pub. L. 101–477, § 1(d)(1)(A)][/us/pl/101/477/s1/d/1/A], substituted “(or of a value) equal to half of” for “equal to”.
+    1990—Subsec. (b)(2)(B). [Pub. L. 101–477][/us/pl/101/477], § 1(d)(1)(A), substituted “(or of a value) equal to half of” for “equal to”.
 
-    Subsec. (b)(4). [Pub. L. 101–477, § 1(d)(1)(B)][/us/pl/101/477/s1/d/1/B], substituted “an amount of Federal capital contribution equal to twice the amount of (or value of) such withdrawal” for “an equal amount of Federal capital contribution”.
+    Subsec. (b)(4). [Pub. L. 101–477][/us/pl/101/477], § 1(d)(1)(B), substituted “an amount of Federal capital contribution equal to twice the amount of (or value of) such withdrawal” for “an equal amount of Federal capital contribution”.
 
  __Effective Date of 1998 Amendment__ 
 
@@ -71,7 +71,7 @@
 
  __Effective Date of 1990 Amendment__ 
 
-[Pub. L. 101–477, § 1(d)(2)][/us/pl/101/477/s1/d/2], Oct. 30, 1990, [104 Stat. 1153][/us/stat/104/1153], provided that: 
+[Pub. L. 101–477][/us/pl/101/477], § 1(d)(2), Oct. 30, 1990, [104 Stat. 1153][/us/stat/104/1153], provided that: 
 
 > “The amendments made by paragraphs (A) through (E) of subsection (a) \[probably means subpars. (A) to (E) of subsec. (d)(1), amending this section and sections 1834 and 1835 of this title\] shall take effect October 1, 1991.”
 
@@ -88,32 +88,32 @@
 [/us/usc/t20/s1065]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1065
 [/us/usc/t20/s1065/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1065%2Fc
 [/us/usc/t25/s1836]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1836
-[/us/pl/95/471/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F471%2Fs302
-[/us/pl/98/192/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F192%2Fs13
+[/us/pl/95/471/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F471%2FtIII
+[/us/pl/98/192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F192
 [/us/stat/97/1341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1341
-[/us/pl/101/477/s1/d/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F477%2Fs1%2Fd%2F1%2FA
+[/us/pl/101/477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F477
 [/us/stat/104/1152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1152
-[/us/pl/103/382/s383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs383
+[/us/pl/103/382/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2FtIII
 [/us/stat/108/4018]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4018
-[/us/pl/105/244/s901/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs901%2Fb%2F5
+[/us/pl/105/244/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtIX
 [/us/stat/112/1828]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1828
-[/us/pl/105/244/s901/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs901%2Fb%2F6
-[/us/pl/105/244/s901/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs901%2Fb%2F5
-[/us/pl/105/244/s901/b/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs901%2Fb%2F7
-[/us/pl/105/244/s901/b/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs901%2Fb%2F7
-[/us/pl/105/244/s901/b/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs901%2Fb%2F12
-[/us/pl/103/382/s383/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs383%2F1
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/103/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382
 [/us/usc/t20/s1065]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1065
 [/us/usc/t20/s1065a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1065a
-[/us/pl/103/382/s383/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs383%2F2%2FA
-[/us/pl/103/382/s383/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs383%2F2%2FB
-[/us/pl/101/477/s1/d/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F477%2Fs1%2Fd%2F1%2FA
-[/us/pl/101/477/s1/d/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F477%2Fs1%2Fd%2F1%2FB
+[/us/pl/103/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382
+[/us/pl/103/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382
+[/us/pl/101/477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F477
+[/us/pl/101/477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F477
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
 [/us/pl/105/244/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs3
 [/us/usc/t20/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1001
-[/us/pl/101/477/s1/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F477%2Fs1%2Fd%2F2
+[/us/pl/101/477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F477
 [/us/stat/104/1153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1153
 
 

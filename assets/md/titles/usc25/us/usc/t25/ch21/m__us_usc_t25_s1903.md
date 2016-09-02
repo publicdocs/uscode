@@ -53,7 +53,7 @@
 
     (12) “tribal court” means a court with jurisdiction over child custody proceedings and which is either a Court of Indian Offenses, a court established and operated under the code or custom of an Indian tribe, or any other administrative body of a tribe which is vested with authority over child custody proceedings.
 
-([Pub. L. 95–608, § 4][/us/pl/95/608/s4], Nov. 8, 1978, [92 Stat. 3069][/us/stat/92/3069].)
+([Pub. L. 95–608][/us/pl/95/608], § 4, Nov. 8, 1978, [92 Stat. 3069][/us/stat/92/3069].)
 
 ----------
 
@@ -64,7 +64,7 @@
 
 [/us/usc/t43/s1602/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1602%2Fc
 [/us/usc/t18/s1151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1151
-[/us/pl/95/608/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F608%2Fs4
+[/us/pl/95/608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F608
 [/us/stat/92/3069]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3069
 
 

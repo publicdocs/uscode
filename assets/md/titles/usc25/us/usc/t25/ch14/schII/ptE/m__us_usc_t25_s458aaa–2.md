@@ -75,11 +75,11 @@
 
         Receipt of a grant under subsection (e) shall not be a requirement of participation in self-governance.
 
-([Pub. L. 93–638, title V, § 503][/us/pl/93/638/s503], as added [Pub. L. 106–260, § 4][/us/pl/106/260/s4], Aug. 18, 2000, [114 Stat. 714][/us/stat/114/714].)
+([Pub. L. 93–638, title V][/us/pl/93/638/tV], § 503, as added [Pub. L. 106–260][/us/pl/106/260], § 4, Aug. 18, 2000, [114 Stat. 714][/us/stat/114/714].)
 
  __References in Text__ 
 
-    Title III, referred to in subsec. (a), means title III of [Pub. L. 93–638][/us/pl/93/638], as added by [Pub. L. 100–472, title II, § 209][/us/pl/100/472/s209], Oct. 5, 1988, [102 Stat. 2296][/us/stat/102/2296], and amended, which was set out as a note under [section 450f of this title][/us/usc/t25/s450f] prior to repeal by [Pub. L. 106–260, § 10][/us/pl/106/260/s10], Aug. 18, 2000, [114 Stat. 734][/us/stat/114/734].
+    Title III, referred to in subsec. (a), means title III of [Pub. L. 93–638][/us/pl/93/638], as added by [Pub. L. 100–472, title II][/us/pl/100/472/tII], § 209, Oct. 5, 1988, [102 Stat. 2296][/us/stat/102/2296], and amended, which was set out as a note under [section 450f of this title][/us/usc/t25/s450f] prior to repeal by [Pub. L. 106–260][/us/pl/106/260], § 10, Aug. 18, 2000, [114 Stat. 734][/us/stat/114/734].
 
  __Codification__ 
 
@@ -92,14 +92,14 @@
 ----------
 ----------
 
-[/us/pl/93/638/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638%2Fs503
-[/us/pl/106/260/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F260%2Fs4
+[/us/pl/93/638/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638%2FtV
+[/us/pl/106/260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F260
 [/us/stat/114/714]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F714
 [/us/pl/93/638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638
-[/us/pl/100/472/s209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F472%2Fs209
+[/us/pl/100/472/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F472%2FtII
 [/us/stat/102/2296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2296
 [/us/usc/t25/s450f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450f
-[/us/pl/106/260/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F260%2Fs10
+[/us/pl/106/260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F260
 [/us/stat/114/734]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F734
 [/us/pl/93/638/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638%2Fs503
 [/us/usc/t25/s458ddd–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs458ddd%E2%80%932

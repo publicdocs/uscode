@@ -17,7 +17,7 @@
 
     Until such time as a new tribal constitution and bylaws are adopted in accordance with [section 714d of this title][/us/usc/t25/s714d], the Tribe shall be governed by an Interim Council, the membership of which shall consist of the members of the current council of the Confederated Tribes of Coos, Lower Umpqua, and Siuslaw Indians, Incorporated or such new members as may be elected in accordance with election procedures followed by the tribal corporate body prior to October 17, 1984.
 
-([Pub. L. 98–481, § 5][/us/pl/98/481/s5], Oct. 17, 1984, [98 Stat. 2252][/us/stat/98/2252].)
+([Pub. L. 98–481][/us/pl/98/481], § 5, Oct. 17, 1984, [98 Stat. 2252][/us/stat/98/2252].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t25/s714d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs714d
-[/us/pl/98/481/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F481%2Fs5
+[/us/pl/98/481]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F481
 [/us/stat/98/2252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2252
 
 

@@ -23,7 +23,7 @@
 
         Subject to [section 1656 of this title][/us/usc/t25/s1656], the Secretary, acting through the Service, shall include such conditions as the Secretary considers necessary to effect the purpose of this subchapter in any contract into which the Secretary enters with, or in any grant the Secretary makes to, any urban Indian organization pursuant to this subchapter.
 
-([Pub. L. 94–437, title V, § 502][/us/pl/94/437/s502], as added [Pub. L. 100–713, title V, § 501][/us/pl/100/713/s501], Nov. 23, 1988, [102 Stat. 4820][/us/stat/102/4820]; amended [Pub. L. 102–573, title V, § 501(a)][/us/pl/102/573/s501/a], Oct. 29, 1992, [106 Stat. 4567][/us/stat/106/4567]; [Pub. L. 111–148, title X, § 10221(a)][/us/pl/111/148/s10221/a], Mar. 23, 2010, [124 Stat. 935][/us/stat/124/935].)
+([Pub. L. 94–437, title V][/us/pl/94/437/tV], § 502, as added [Pub. L. 100–713, title V][/us/pl/100/713/tV], § 501, Nov. 23, 1988, [102 Stat. 4820][/us/stat/102/4820]; amended [Pub. L. 102–573, title V][/us/pl/102/573/tV], § 501(a), Oct. 29, 1992, [106 Stat. 4567][/us/stat/106/4567]; [Pub. L. 111–148, title X][/us/pl/111/148/tX], § 10221(a), Mar. 23, 2010, [124 Stat. 935][/us/stat/124/935].)
 
  __Codification__ 
 
@@ -31,7 +31,7 @@
 
  __Prior Provisions__ 
 
-    A prior section 1652, [Pub. L. 94–437, title V, § 502][/us/pl/94/437/s502], Sept. 30, 1976, [90 Stat. 1410][/us/stat/90/1410]; [Pub. L. 96–537, § 7][/us/pl/96/537/s7], Dec. 17, 1980, [94 Stat. 3177][/us/stat/94/3177], related to contracts with urban and rural Indian organizations, prior to the general revision of this subchapter by [Pub. L. 100–713][/us/pl/100/713].
+    A prior section 1652, [Pub. L. 94–437, title V][/us/pl/94/437/tV], § 502, Sept. 30, 1976, [90 Stat. 1410][/us/stat/90/1410]; [Pub. L. 96–537][/us/pl/96/537], § 7, Dec. 17, 1980, [94 Stat. 3177][/us/stat/94/3177], related to contracts with urban and rural Indian organizations, prior to the general revision of this subchapter by [Pub. L. 100–713][/us/pl/100/713].
 
  __Amendments__ 
 
@@ -48,18 +48,18 @@
 
 [/us/usc/t25/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs13
 [/us/usc/t25/s1656]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1656
-[/us/pl/94/437/s502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437%2Fs502
-[/us/pl/100/713/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F713%2Fs501
+[/us/pl/94/437/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437%2FtV
+[/us/pl/100/713/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F713%2FtV
 [/us/stat/102/4820]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4820
-[/us/pl/102/573/s501/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2Fs501%2Fa
+[/us/pl/102/573/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2FtV
 [/us/stat/106/4567]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4567
-[/us/pl/111/148/s10221/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10221%2Fa
+[/us/pl/111/148/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtX
 [/us/stat/124/935]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F935
 [/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 [/us/pl/111/148/s10221/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10221%2Fa
-[/us/pl/94/437/s502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437%2Fs502
+[/us/pl/94/437/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437%2FtV
 [/us/stat/90/1410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1410
-[/us/pl/96/537/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F537%2Fs7
+[/us/pl/96/537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F537
 [/us/stat/94/3177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3177
 [/us/pl/100/713]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F713
 [/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148

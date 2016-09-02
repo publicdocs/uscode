@@ -23,7 +23,7 @@
 
         The review required by subsection (a) of this section may be performed prior to the promulgation of regulations required under [section 2107 of this title][/us/usc/t25/s2107] and shall not be considered a Federal action within the meaning of that term in [section 4332(2)(C) of title 42][/us/usc/t42/s4332/2/C].
 
-([Pub. L. 97–382, § 5][/us/pl/97/382/s5], Dec. 22, 1982, [96 Stat. 1939][/us/stat/96/1939].)
+([Pub. L. 97–382][/us/pl/97/382], § 5, Dec. 22, 1982, [96 Stat. 1939][/us/stat/96/1939].)
 
 ----------
 
@@ -34,7 +34,7 @@
 
 [/us/usc/t25/s2107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs2107
 [/us/usc/t42/s4332/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4332%2F2%2FC
-[/us/pl/97/382/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F382%2Fs5
+[/us/pl/97/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F382
 [/us/stat/96/1939]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1939
 
 

@@ -21,7 +21,7 @@
 
  __Codification__ 
 
-    R.S. § 463 derived from acts [July 9, 1832, ch. 174, § 1][/us/act/1832-07-09/ch174/s1], [4 Stat. 564][/us/stat/4/564]; [July 27, 1868, ch. 259, § 1][/us/act/1868-07-27/ch259/s1], [15 Stat. 228][/us/stat/15/228].
+    R.S. § 463 derived from acts [July 9, 1832, ch. 174][/us/act/1832-07-09/ch174], § 1, [4 Stat. 564][/us/stat/4/564]; [July 27, 1868, ch. 259][/us/act/1868-07-27/ch259], § 1, [15 Stat. 228][/us/stat/15/228].
 
  __Transfer of Functions__ 
 
@@ -38,9 +38,9 @@
 ----------
 ----------
 
-[/us/act/1832-07-09/ch174/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1832-07-09%2Fch174%2Fs1
+[/us/act/1832-07-09/ch174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1832-07-09%2Fch174
 [/us/stat/4/564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F4%2F564
-[/us/act/1868-07-27/ch259/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1868-07-27%2Fch259%2Fs1
+[/us/act/1868-07-27/ch259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1868-07-27%2Fch259
 [/us/stat/15/228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F15%2F228
 [/us/stat/64/1262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1262
 [/us/act/1868-07-27/ch259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1868-07-27%2Fch259

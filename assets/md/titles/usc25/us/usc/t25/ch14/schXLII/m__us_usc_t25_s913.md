@@ -23,7 +23,7 @@
 
         A share payable to a person under twenty-one years of age or to a person under legal disability shall be paid in accordance with the laws applicable to such person in the place of his domicile, or in the discretion of the Secretary to the natural parent or guardian of such person.
 
-([Pub. L. 86–97, § 3][/us/pl/86/97/s3], July 17, 1959, [73 Stat. 222][/us/stat/73/222].)
+([Pub. L. 86–97][/us/pl/86/97], § 3, July 17, 1959, [73 Stat. 222][/us/stat/73/222].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/86/97/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F97%2Fs3
+[/us/pl/86/97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F97
 [/us/stat/73/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F222
 
 

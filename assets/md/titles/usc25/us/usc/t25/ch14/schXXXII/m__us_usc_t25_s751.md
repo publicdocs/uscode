@@ -17,7 +17,7 @@
 
     Nothing in this subchapter shall abrogate any valid lease, permit, license, right-of-way, lien, or other contract heretofore approved. Whenever any such instrument places in or reserves to the Secretary any powers, duties, or other functions with respect to the property subject thereto, the Secretary may transfer such functions, in whole or in part, to any Federal agency with the consent of such agency and may transfer such function, in whole or in part, to a State agency with the consent of such agency and the other party or parties to such instrument.
 
-([Sept. 1, 1954, ch. 1207, § 11][/us/act/1954-09-01/ch1207/s11], [68 Stat. 1103][/us/stat/68/1103].)
+([Sept. 1, 1954, ch. 1207][/us/act/1954-09-01/ch1207], § 11, [68 Stat. 1103][/us/stat/68/1103].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1954-09-01/ch1207/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-09-01%2Fch1207%2Fs11
+[/us/act/1954-09-01/ch1207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-09-01%2Fch1207
 [/us/stat/68/1103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F1103
 
 

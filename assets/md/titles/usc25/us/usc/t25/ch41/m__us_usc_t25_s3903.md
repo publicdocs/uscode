@@ -39,7 +39,7 @@
 
         (2) the level of funding needed to develop comprehensive solid waste management plans for every Indian tribal government and Alaska Native entity.
 
-([Pub. L. 103–399, § 4][/us/pl/103/399/s4], Oct. 22, 1994, [108 Stat. 4166][/us/stat/108/4166].)
+([Pub. L. 103–399][/us/pl/103/399], § 4, Oct. 22, 1994, [108 Stat. 4166][/us/stat/108/4166].)
 
 ----------
 
@@ -48,7 +48,7 @@
 ----------
 ----------
 
-[/us/pl/103/399/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F399%2Fs4
+[/us/pl/103/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F399
 [/us/stat/108/4166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4166
 
 

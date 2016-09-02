@@ -17,7 +17,7 @@
 
     All applications for enrollment must be filed either with the Area Director of the Bureau of Indian Affairs, Muskogee, Oklahoma, or with the Area Director of the Bureau of Indian Affairs, Anadarko, Oklahoma, on or before the last day of the fourth full month following October 3, 1972, and no application shall be accepted thereafter. The Secretary of the Interior shall give a rejection notice within sixty days after receipt of an application if the applicant is ineligible for enrollment. An appeal from a rejected application must be filed with the Area Director not later than thirty days from receipt of the notice of rejection. The Secretary shall make a final determination on each appeal not later than sixty days from the date it is filed. Each application and each appeal filed with the Area Director shall be reviewed by a committee composed of representatives of the two Oklahoma Delaware groups prior to submission of the application or appeal to the Secretary, and the committee shall advise the Area Director in writing of its judgment regarding the eligibility of the applicant.
 
-([Pub. L. 92–456, § 3][/us/pl/92/456/s3], Oct. 3, 1972, [86 Stat. 762][/us/stat/86/762].)
+([Pub. L. 92–456][/us/pl/92/456], § 3, Oct. 3, 1972, [86 Stat. 762][/us/stat/86/762].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/92/456/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F456%2Fs3
+[/us/pl/92/456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F456
 [/us/stat/86/762]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F762
 
 

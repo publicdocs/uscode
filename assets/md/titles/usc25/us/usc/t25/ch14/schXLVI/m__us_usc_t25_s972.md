@@ -17,7 +17,7 @@
 
     Each member whose name appears on the final roll of the tribe as published in the Federal Register shall be entitled to receive in accordance with the provisions of this subchapter an equal share of the tribe’s assets that are held in trust by the United States. This right shall constitute personal property which may be inherited or bequeathed, but it shall not otherwise be subject to alienation or encumbrance.
 
-([Pub. L. 87–629, § 2][/us/pl/87/629/s2], Sept. 5, 1962, [76 Stat. 429][/us/stat/76/429].)
+([Pub. L. 87–629][/us/pl/87/629], § 2, Sept. 5, 1962, [76 Stat. 429][/us/stat/76/429].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/87/629/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F629%2Fs2
+[/us/pl/87/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F629
 [/us/stat/76/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F429
 
 

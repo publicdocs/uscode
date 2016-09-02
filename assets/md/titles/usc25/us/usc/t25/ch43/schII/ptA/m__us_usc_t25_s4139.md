@@ -17,7 +17,7 @@
 
     If a recipient uses grant amounts to provide affordable housing under this subchapter, and at any time during the useful life of the housing the recipient does not comply with the requirement under [section 4135(a)(2) of this title][/us/usc/t25/s4135/a/2], the Secretary shall take appropriate action under [section 4161(a) of this title][/us/usc/t25/s4161/a].
 
-([Pub. L. 104–330, title II, § 209][/us/pl/104/330/s209], Oct. 26, 1996, [110 Stat. 4035][/us/stat/110/4035]; [Pub. L. 105–276, title V, § 595(c)][/us/pl/105/276/s595/c], Oct. 21, 1998, [112 Stat. 2656][/us/stat/112/2656]; [Pub. L. 106–568, title X, § 1003(f)(1)][/us/pl/106/568/s1003/f/1], Dec. 27, 2000, [114 Stat. 2927][/us/stat/114/2927]; [Pub. L. 106–569, title V, § 503(e)(1)][/us/pl/106/569/s503/e/1], Dec. 27, 2000, [114 Stat. 2962][/us/stat/114/2962].)
+([Pub. L. 104–330, title II][/us/pl/104/330/tII], § 209, Oct. 26, 1996, [110 Stat. 4035][/us/stat/110/4035]; [Pub. L. 105–276, title V][/us/pl/105/276/tV], § 595(c), Oct. 21, 1998, [112 Stat. 2656][/us/stat/112/2656]; [Pub. L. 106–568, title X][/us/pl/106/568/tX], § 1003(f)(1), Dec. 27, 2000, [114 Stat. 2927][/us/stat/114/2927]; [Pub. L. 106–569, title V][/us/pl/106/569/tV], § 503(e)(1), Dec. 27, 2000, [114 Stat. 2962][/us/stat/114/2962].)
 
  __Amendments__ 
 
@@ -38,13 +38,13 @@
 
 [/us/usc/t25/s4135/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs4135%2Fa%2F2
 [/us/usc/t25/s4161/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs4161%2Fa
-[/us/pl/104/330/s209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330%2Fs209
+[/us/pl/104/330/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330%2FtII
 [/us/stat/110/4035]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F4035
-[/us/pl/105/276/s595/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs595%2Fc
+[/us/pl/105/276/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2FtV
 [/us/stat/112/2656]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2656
-[/us/pl/106/568/s1003/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F568%2Fs1003%2Ff%2F1
+[/us/pl/106/568/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F568%2FtX
 [/us/stat/114/2927]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2927
-[/us/pl/106/569/s503/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs503%2Fe%2F1
+[/us/pl/106/569/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2FtV
 [/us/stat/114/2962]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2962
 [/us/pl/106/568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F568
 [/us/pl/106/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569

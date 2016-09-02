@@ -25,7 +25,7 @@
 
     (4) guidance, legal representation, and advice to Indian families involved in child custody proceedings.
 
-([Pub. L. 95–608, title II, § 202][/us/pl/95/608/s202], Nov. 8, 1978, [92 Stat. 3076][/us/stat/92/3076].)
+([Pub. L. 95–608, title II][/us/pl/95/608/tII], § 202, Nov. 8, 1978, [92 Stat. 3076][/us/stat/92/3076].)
 
 ----------
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/pl/95/608/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F608%2Fs202
+[/us/pl/95/608/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F608%2FtII
 [/us/stat/92/3076]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3076
 
 

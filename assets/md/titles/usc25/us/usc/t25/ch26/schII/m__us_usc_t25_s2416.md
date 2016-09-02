@@ -43,7 +43,7 @@
 
         There are authorized to be appropriated to carry out this section $500,000 for fiscal year 1993 and such sums as may be necessary for each of the fiscal years 1994, 1995, 1996, 1997, 1998, 1999, and 2000.
 
-([Pub. L. 99–570, title IV, § 4210][/us/pl/99/570/s4210], Oct. 27, 1986, [100 Stat. 3207–143][/us/stat/100/3207-143]; [Pub. L. 100–690, title II, § 2218][/us/pl/100/690/s2218], Nov. 18, 1988, [102 Stat. 4222][/us/stat/102/4222]; [Pub. L. 102–573, title VII, § 703(3)][/us/pl/102/573/s703/3], Oct. 29, 1992, [106 Stat. 4583][/us/stat/106/4583].)
+([Pub. L. 99–570, title IV][/us/pl/99/570/tIV], § 4210, Oct. 27, 1986, [100 Stat. 3207–143][/us/stat/100/3207-143]; [Pub. L. 100–690, title II][/us/pl/100/690/tII], § 2218, Nov. 18, 1988, [102 Stat. 4222][/us/stat/102/4222]; [Pub. L. 102–573, title VII][/us/pl/102/573/tVII], § 703(3), Oct. 29, 1992, [106 Stat. 4583][/us/stat/106/4583].)
 
  __Amendments__ 
 
@@ -58,11 +58,11 @@
 ----------
 ----------
 
-[/us/pl/99/570/s4210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs4210
+[/us/pl/99/570/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2FtIV
 [/us/stat/100/3207-143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3207-143
-[/us/pl/100/690/s2218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs2218
+[/us/pl/100/690/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtII
 [/us/stat/102/4222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4222
-[/us/pl/102/573/s703/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2Fs703%2F3
+[/us/pl/102/573/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2FtVII
 [/us/stat/106/4583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4583
 [/us/pl/102/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573
 [/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690

@@ -25,7 +25,7 @@
 
         (2) Indian tribes and tribal and Indian organizations under the authority of the Indian Self-Determination Act \[[25 U.S.C. 450f][/us/usc/t25/s450f] et seq.\] shall be given an equal opportunity with programs that are administered directly by the Service to compete for, and receive, grants under subsection (a) for such projects.
 
-([Pub. L. 94–437, title I, § 110][/us/pl/94/437/s110], as added [Pub. L. 100–713, title I, § 108][/us/pl/100/713/s108], Nov. 23, 1988, [102 Stat. 4794][/us/stat/102/4794]; amended [Pub. L. 102–573, title I, § 117(b)(4)][/us/pl/102/573/s117/b/4], Oct. 29, 1992, [106 Stat. 4544][/us/stat/106/4544].)
+([Pub. L. 94–437, title I][/us/pl/94/437/tI], § 110, as added [Pub. L. 100–713, title I][/us/pl/100/713/tI], § 108, Nov. 23, 1988, [102 Stat. 4794][/us/stat/102/4794]; amended [Pub. L. 102–573, title I][/us/pl/102/573/tI], § 117(b)(4), Oct. 29, 1992, [106 Stat. 4544][/us/stat/106/4544].)
 
  __References in Text__ 
 
@@ -44,10 +44,10 @@
 
 [/us/usc/t25/s1616a/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1616a%2Fa%2F2
 [/us/usc/t25/s450f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450f
-[/us/pl/94/437/s110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437%2Fs110
-[/us/pl/100/713/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F713%2Fs108
+[/us/pl/94/437/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437%2FtI
+[/us/pl/100/713/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F713%2FtI
 [/us/stat/102/4794]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4794
-[/us/pl/102/573/s117/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2Fs117%2Fb%2F4
+[/us/pl/102/573/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2FtI
 [/us/stat/106/4544]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4544
 [/us/pl/93/638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638
 [/us/stat/88/2206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2206

@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Section, [act July 2, 1942, ch. 473, § 1][/us/act/1942-07-02/ch473/s1], [56 Stat. 513][/us/stat/56/513], which related to an allowance to Indians traveling away from home involved in tribal organization work, was from the Interior Department Appropriation Act, 1943, and was not repeated in subsequent appropriations acts.
+    Section, [act July 2, 1942, ch. 473][/us/act/1942-07-02/ch473], § 1, [56 Stat. 513][/us/stat/56/513], which related to an allowance to Indians traveling away from home involved in tribal organization work, was from the Interior Department Appropriation Act, 1943, and was not repeated in subsequent appropriations acts.
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1942-07-02/ch473/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-07-02%2Fch473%2Fs1
+[/us/act/1942-07-02/ch473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-07-02%2Fch473
 [/us/stat/56/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F56%2F513
 
 

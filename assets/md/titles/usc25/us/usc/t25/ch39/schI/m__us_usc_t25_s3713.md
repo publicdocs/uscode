@@ -41,7 +41,7 @@
 
         Indian tribes which adopt the regulations promulgated by the Secretary pursuant to subsection (a) shall have concurrent jurisdiction with the United States to enforce the provisions of this section and the regulations promulgated thereunder. The Bureau and other agencies of the Federal Government shall, at the request of the tribal government, defer to tribal prosecutions of Indian agricultural land trespass cases. Tribal court judgments regarding agricultural trespass shall be entitled to full faith and credit in Federal and State courts to the same extent as a Federal court judgment obtained under this section. Nothing in this chapter shall be construed to diminish the sovereign authority of Indian tribes with respect to trespass.
 
-([Pub. L. 103–177, title I, § 103][/us/pl/103/177/s103], Dec. 3, 1993, [107 Stat. 2015][/us/stat/107/2015].)
+([Pub. L. 103–177, title I][/us/pl/103/177/tI], § 103, Dec. 3, 1993, [107 Stat. 2015][/us/stat/107/2015].)
 
 ----------
 
@@ -50,7 +50,7 @@
 ----------
 ----------
 
-[/us/pl/103/177/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F177%2Fs103
+[/us/pl/103/177/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F177%2FtI
 [/us/stat/107/2015]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2015
 
 

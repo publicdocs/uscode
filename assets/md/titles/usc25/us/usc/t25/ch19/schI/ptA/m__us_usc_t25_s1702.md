@@ -37,7 +37,7 @@
 
     (j) “transfer” includes but is not limited to any sale, grant, lease, allotment, partition, or conveyance, any transaction the purpose of which was to effect a sale, grant, lease, allotment, partition, or conveyance, or any event or events that resulted in a change of possession or control of land or natural resources.
 
-([Pub. L. 95–395, § 3][/us/pl/95/395/s3], Sept. 30, 1978, [92 Stat. 813][/us/stat/92/813].)
+([Pub. L. 95–395][/us/pl/95/395], § 3, Sept. 30, 1978, [92 Stat. 813][/us/stat/92/813].)
 
 ----------
 
@@ -48,7 +48,7 @@
 
 [/us/usc/t25/s1706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1706
 [/us/usc/t25/s1706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1706
-[/us/pl/95/395/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F395%2Fs3
+[/us/pl/95/395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F395
 [/us/stat/92/813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F813
 
 

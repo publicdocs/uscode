@@ -21,7 +21,7 @@
 
  __Codification__ 
 
-    R.S. § 2092 derived from [act June 27, 1846, ch. 34, § 1][/us/act/1846-06-27/ch34/s1], [9 Stat. 20][/us/stat/9/20].
+    R.S. § 2092 derived from [act June 27, 1846, ch. 34][/us/act/1846-06-27/ch34], § 1, [9 Stat. 20][/us/stat/9/20].
 
  __Transfer of Functions__ 
 
@@ -35,7 +35,7 @@
 
  __Superintendent of Indian Affairs__ 
 
-    No appropriation for any superintendent of Indian affairs has been made since [act Mar. 3, 1877, ch. 101, § 1][/us/act/1877-03-03/ch101/s1], [19 Stat. 271][/us/stat/19/271].
+    No appropriation for any superintendent of Indian affairs has been made since [act Mar. 3, 1877, ch. 101][/us/act/1877-03-03/ch101], § 1, [19 Stat. 271][/us/stat/19/271].
 
 ----------
 
@@ -44,12 +44,12 @@
 ----------
 ----------
 
-[/us/act/1846-06-27/ch34/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1846-06-27%2Fch34%2Fs1
+[/us/act/1846-06-27/ch34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1846-06-27%2Fch34
 [/us/stat/9/20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F9%2F20
 [/us/stat/64/1262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1262
 [/us/usc/t25/s53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs53
 [/us/usc/t25/s64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs64
-[/us/act/1877-03-03/ch101/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1877-03-03%2Fch101%2Fs1
+[/us/act/1877-03-03/ch101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1877-03-03%2Fch101
 [/us/stat/19/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F19%2F271
 
 

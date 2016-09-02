@@ -21,7 +21,7 @@
 
  __Codification__ 
 
-    R.S. § 2132 derived from [act June 30, 1834, ch. 161, § 3][/us/act/1834-06-30/ch161/s3], [4 Stat. 729][/us/stat/4/729].
+    R.S. § 2132 derived from [act June 30, 1834, ch. 161][/us/act/1834-06-30/ch161], § 3, [4 Stat. 729][/us/stat/4/729].
 
 ----------
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1834-06-30/ch161/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1834-06-30%2Fch161%2Fs3
+[/us/act/1834-06-30/ch161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1834-06-30%2Fch161
 [/us/stat/4/729]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F4%2F729
 
 

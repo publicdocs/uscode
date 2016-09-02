@@ -17,7 +17,7 @@
 
     None of the funds distributed per capita under the provisions of this subchapter shall be subject to Federal or State income taxes, and the per capita payments shall not be considered as income or resources when determining the extent of eligibility for assistance under the Social Security Act \[[42 U.S.C. 301][/us/usc/t42/s301] et seq.\]. The provision of this section regarding eligibility for assistance under the Social Security Act is enacted in recognition of unique circumstances applicable to the tribes involved, and shall not be regarded as a precedent or as a general policy for application to other tribes.
 
-([Pub. L. 92–254, § 4][/us/pl/92/254/s4], Mar. 18, 1972, [86 Stat. 65][/us/stat/86/65].)
+([Pub. L. 92–254][/us/pl/92/254], § 4, Mar. 18, 1972, [86 Stat. 65][/us/stat/86/65].)
 
  __References in Text__ 
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t42/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs301
-[/us/pl/92/254/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F254%2Fs4
+[/us/pl/92/254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F254
 [/us/stat/86/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F65
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620

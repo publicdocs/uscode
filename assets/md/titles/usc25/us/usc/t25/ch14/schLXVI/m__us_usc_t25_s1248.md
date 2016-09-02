@@ -17,7 +17,7 @@
 
     The Secretary of the Interior is authorized to prescribe rules and regulations to effect the provisions of this subchapter, including the establishment of deadlines.
 
-([Pub. L. 92–59, § 8][/us/pl/92/59/s8], July 29, 1971, [85 Stat. 159][/us/stat/85/159].)
+([Pub. L. 92–59][/us/pl/92/59], § 8, July 29, 1971, [85 Stat. 159][/us/stat/85/159].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/92/59/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F59%2Fs8
+[/us/pl/92/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F59
 [/us/stat/85/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F159
 
 

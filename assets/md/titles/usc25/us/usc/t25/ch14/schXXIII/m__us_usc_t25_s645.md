@@ -17,7 +17,7 @@
 
     All bonds issued by the Hopi Tribal Council for and on behalf of the Hopi Tribe and the interest provided in said bonds shall be exempt from taxation to the same extent they would have been exempt if the bonds had been issued by the State of Arizona or a political subdivision thereof.
 
-([Pub. L. 91–264, § 5][/us/pl/91/264/s5], May 22, 1970, [84 Stat. 261][/us/stat/84/261].)
+([Pub. L. 91–264][/us/pl/91/264], § 5, May 22, 1970, [84 Stat. 261][/us/stat/84/261].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/91/264/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F264%2Fs5
+[/us/pl/91/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F264
 [/us/stat/84/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F261
 
 

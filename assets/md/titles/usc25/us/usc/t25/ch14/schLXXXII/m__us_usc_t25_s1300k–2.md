@@ -35,7 +35,7 @@
 
                 For purposes of the delivery of Federal services to enrolled members of the Little River Band of Ottawa Indians, the Counties of Manistee, Mason, Wexford and Lake, in the State of Michigan, shall be deemed to be within or near a reservation, notwithstanding the establishment of a reservation for the tribe after September 21, 1994. Services may be provided to members outside the named Counties unless prohibited by law or program regulations.
 
-([Pub. L. 103–324, § 4][/us/pl/103/324/s4], Sept. 21, 1994, [108 Stat. 2157][/us/stat/108/2157].)
+([Pub. L. 103–324][/us/pl/103/324], § 4, Sept. 21, 1994, [108 Stat. 2157][/us/stat/108/2157].)
 
  __References in Text__ 
 
@@ -50,7 +50,7 @@
 
 [/us/usc/t25/s461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs461
 [/us/stat/11/621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F11%2F621
-[/us/pl/103/324/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F324%2Fs4
+[/us/pl/103/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F324
 [/us/stat/108/2157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2157
 [/us/act/1934-06-18/ch576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-18%2Fch576
 [/us/stat/48/984]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F984

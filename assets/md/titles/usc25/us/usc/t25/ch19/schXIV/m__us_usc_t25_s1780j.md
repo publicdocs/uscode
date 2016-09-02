@@ -131,7 +131,7 @@
 
             (B) shall not vacate the reservations over the Northern Tier Land for administrative access under subsection (c)(2).
 
-([Pub. L. 109–286, § 12][/us/pl/109/286/s12], Sept. 27, 2006, [120 Stat. 1225][/us/stat/120/1225].)
+([Pub. L. 109–286][/us/pl/109/286], § 12, Sept. 27, 2006, [120 Stat. 1225][/us/stat/120/1225].)
 
 ----------
 
@@ -140,7 +140,7 @@
 ----------
 ----------
 
-[/us/pl/109/286/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F286%2Fs12
+[/us/pl/109/286]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F286
 [/us/stat/120/1225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1225
 
 

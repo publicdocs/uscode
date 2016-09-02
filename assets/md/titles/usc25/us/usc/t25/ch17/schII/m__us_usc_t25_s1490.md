@@ -17,7 +17,7 @@
 
     The maturity of any loan guaranteed or insured hereunder shall not exceed thirty years.
 
-([Pub. L. 93–262, title II, § 210][/us/pl/93/262/s210], Apr. 12, 1974, [88 Stat. 80][/us/stat/88/80].)
+([Pub. L. 93–262, title II][/us/pl/93/262/tII], § 210, Apr. 12, 1974, [88 Stat. 80][/us/stat/88/80].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/93/262/s210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F262%2Fs210
+[/us/pl/93/262/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F262%2FtII
 [/us/stat/88/80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F80
 
 

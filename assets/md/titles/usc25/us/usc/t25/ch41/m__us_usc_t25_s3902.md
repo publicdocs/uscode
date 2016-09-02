@@ -63,7 +63,7 @@
 
         The term “solid waste” has the meaning provided that term by section 1004(27) of the Solid Waste Disposal Act ([42 U.S.C. 6903][/us/usc/t42/s6903]) and any regulations promulgated thereunder.
 
-([Pub. L. 103–399, § 3][/us/pl/103/399/s3], Oct. 22, 1994, [108 Stat. 4164][/us/stat/108/4164]; [Pub. L. 104–109, § 5][/us/pl/104/109/s5], Feb. 12, 1996, [110 Stat. 764][/us/stat/110/764].)
+([Pub. L. 103–399][/us/pl/103/399], § 3, Oct. 22, 1994, [108 Stat. 4164][/us/stat/108/4164]; [Pub. L. 104–109][/us/pl/104/109], § 5, Feb. 12, 1996, [110 Stat. 764][/us/stat/110/764].)
 
  __References in Text__ 
 
@@ -71,7 +71,7 @@
 
     The Fur Seal Act of 1966, referred to in par. (4), is [Pub. L. 89–702][/us/pl/89/702], Nov. 2, 1966, [80 Stat. 1091][/us/stat/80/1091], as amended, which is classified principally to chapter 24 (§ 1151 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under [section 1151 of Title 16][/us/usc/t16/s1151] and Tables.
 
-    The Solid Waste Disposal Act, referred to in par. (8), is title II of [Pub. L. 89–272][/us/pl/89/272], Oct. 20, 1965, [79 Stat. 997][/us/stat/79/997], as amended generally by [Pub. L. 94–580, § 2][/us/pl/94/580/s2], Oct. 21, 1976, [90 Stat. 2795][/us/stat/90/2795]. Subtitle D of the Act is classified generally to subchapter IV (§ 6941 et seq.) of chapter 82 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 6901 of Title 42][/us/usc/t42/s6901] and Tables.
+    The Solid Waste Disposal Act, referred to in par. (8), is title II of [Pub. L. 89–272][/us/pl/89/272], Oct. 20, 1965, [79 Stat. 997][/us/stat/79/997], as amended generally by [Pub. L. 94–580][/us/pl/94/580], § 2, Oct. 21, 1976, [90 Stat. 2795][/us/stat/90/2795]. Subtitle D of the Act is classified generally to subchapter IV (§ 6941 et seq.) of chapter 82 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 6901 of Title 42][/us/usc/t42/s6901] and Tables.
 
  __Amendments__ 
 
@@ -91,9 +91,9 @@
 [/us/usc/t42/s6944]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6944
 [/us/usc/t42/s6941]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6941
 [/us/usc/t42/s6903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6903
-[/us/pl/103/399/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F399%2Fs3
+[/us/pl/103/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F399
 [/us/stat/108/4164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4164
-[/us/pl/104/109/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F109%2Fs5
+[/us/pl/104/109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F109
 [/us/stat/110/764]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F764
 [/us/pl/92/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F203
 [/us/stat/85/688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F688
@@ -103,7 +103,7 @@
 [/us/usc/t16/s1151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1151
 [/us/pl/89/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272
 [/us/stat/79/997]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F997
-[/us/pl/94/580/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F580%2Fs2
+[/us/pl/94/580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F580
 [/us/stat/90/2795]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2795
 [/us/usc/t42/s6901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6901
 [/us/pl/104/109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F109

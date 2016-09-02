@@ -81,7 +81,7 @@
 
             The Secretary may not provide under this section assistance for any activity related to the operation of a gaming activity on Indian lands pursuant to the Indian Gaming Regulatory Act \[[25 U.S.C. 2701][/us/usc/t25/s2701] et seq.\].
 
-([Pub. L. 106–464, § 4][/us/pl/106/464/s4], Nov. 7, 2000, [114 Stat. 2015][/us/stat/114/2015].)
+([Pub. L. 106–464][/us/pl/106/464], § 4, Nov. 7, 2000, [114 Stat. 2015][/us/stat/114/2015].)
 
  __References in Text__ 
 
@@ -96,7 +96,7 @@
 
 [/us/usc/t5/s5316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5316
 [/us/usc/t25/s2701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs2701
-[/us/pl/106/464/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F464%2Fs4
+[/us/pl/106/464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F464
 [/us/stat/114/2015]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2015
 [/us/pl/100/497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F497
 [/us/stat/102/2467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2467

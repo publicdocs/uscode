@@ -17,7 +17,7 @@
 
     Prior to the transfer of title to, or the removal of restrictions from, property in accordance with the provisions of this subchapter, the Secretary shall protect the rights of members of a tribe who are minors, non compos mentis, or in the opinion of the Secretary in need of assistance in conducting their affairs by causing the appointment of guardians in courts of competent jurisdiction, or by such other means as he may deem adequate.
 
-([Sept. 1, 1954, ch. 1207, § 13][/us/act/1954-09-01/ch1207/s13], [68 Stat. 1103][/us/stat/68/1103].)
+([Sept. 1, 1954, ch. 1207][/us/act/1954-09-01/ch1207], § 13, [68 Stat. 1103][/us/stat/68/1103].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1954-09-01/ch1207/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-09-01%2Fch1207%2Fs13
+[/us/act/1954-09-01/ch1207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-09-01%2Fch1207
 [/us/stat/68/1103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F1103
 
 

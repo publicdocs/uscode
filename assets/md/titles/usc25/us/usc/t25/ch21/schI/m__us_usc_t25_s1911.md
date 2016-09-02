@@ -31,7 +31,7 @@
 
         The United States, every State, every territory or possession of the United States, and every Indian tribe shall give full faith and credit to the public acts, records, and judicial proceedings of any Indian tribe applicable to Indian child custody proceedings to the same extent that such entities give full faith and credit to the public acts, records, and judicial proceedings of any other entity.
 
-([Pub. L. 95–608, title I, § 101][/us/pl/95/608/s101], Nov. 8, 1978, [92 Stat. 3071][/us/stat/92/3071].)
+([Pub. L. 95–608, title I][/us/pl/95/608/tI], § 101, Nov. 8, 1978, [92 Stat. 3071][/us/stat/92/3071].)
 
 ----------
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/95/608/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F608%2Fs101
+[/us/pl/95/608/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F608%2FtI
 [/us/stat/92/3071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3071
 
 

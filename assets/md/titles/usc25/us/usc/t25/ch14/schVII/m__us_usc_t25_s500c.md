@@ -17,7 +17,7 @@
 
     The Secretary of the Interior is hereby authorized to receive, in the name of the United States, for and on behalf of said natives of Alaska, gifts made for the purposes of this subchapter.
 
-([Sept. 1, 1937, ch. 897, § 4][/us/act/1937-09-01/ch897/s4], [50 Stat. 900][/us/stat/50/900].)
+([Sept. 1, 1937, ch. 897][/us/act/1937-09-01/ch897], § 4, [50 Stat. 900][/us/stat/50/900].)
 
  __Codification__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1937-09-01/ch897/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-09-01%2Fch897%2Fs4
+[/us/act/1937-09-01/ch897]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-09-01%2Fch897
 [/us/stat/50/900]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F50%2F900
 [/us/usc/t48/s250c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs250c
 

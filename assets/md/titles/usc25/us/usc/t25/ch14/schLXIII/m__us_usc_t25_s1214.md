@@ -23,7 +23,7 @@
 
         Nothing in sections 1212 to 1215 of this title shall be construed as codifying the Constitution of the Central Council of the Tlingit and Haida Indian Tribes of Alaska into Federal law.
 
-([Pub. L. 103–454, title II, § 204][/us/pl/103/454/s204], Nov. 2, 1994, [108 Stat. 4793][/us/stat/108/4793].)
+([Pub. L. 103–454, title II][/us/pl/103/454/tII], § 204, Nov. 2, 1994, [108 Stat. 4793][/us/stat/108/4793].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/103/454/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F454%2Fs204
+[/us/pl/103/454/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F454%2FtII
 [/us/stat/108/4793]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4793
 
 

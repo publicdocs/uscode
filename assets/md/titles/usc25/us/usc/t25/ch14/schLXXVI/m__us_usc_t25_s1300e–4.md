@@ -17,7 +17,7 @@
 
     The $100,000 withheld from distribution under [section 1300e–3 of this title][/us/usc/t25/s1300e–3], and interest thereon, may be used for any purpose authorized by the Assiniboine Treaty Committee of the Fort Belknap Assiniboine Tribe and approved by the Secretary of the Interior, including contributions to Reservation community projects and further per capita distribution.
 
-([Pub. L. 92–557, § 5][/us/pl/92/557/s5], Oct. 25, 1972, [86 Stat. 1172][/us/stat/86/1172].)
+([Pub. L. 92–557][/us/pl/92/557], § 5, Oct. 25, 1972, [86 Stat. 1172][/us/stat/86/1172].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t25/s1300e–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1300e%E2%80%933
-[/us/pl/92/557/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F557%2Fs5
+[/us/pl/92/557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F557
 [/us/stat/86/1172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1172
 
 

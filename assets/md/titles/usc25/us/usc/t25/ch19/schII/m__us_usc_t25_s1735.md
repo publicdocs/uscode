@@ -23,7 +23,7 @@
 
         The provisions of any Federal law enacted after October 10, 1980, for the benefit of Indians, Indian nations, or tribes or bands of Indians, which would affect or preempt the application of the laws of the State of Maine, including application of the laws of the State to lands owned by or held in trust for Indians, or Indian nations, tribes, or bands of Indians, as provided in this subchapter and the Maine Implementing Act, shall not apply within the State of Maine, unless such provision of such subsequently enacted Federal law is specifically made applicable within the State of Maine.
 
-([Pub. L. 96–420, § 16][/us/pl/96/420/s16], Oct. 10, 1980, [94 Stat. 1797][/us/stat/94/1797].)
+([Pub. L. 96–420][/us/pl/96/420], § 16, Oct. 10, 1980, [94 Stat. 1797][/us/stat/94/1797].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/96/420/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F420%2Fs16
+[/us/pl/96/420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F420
 [/us/stat/94/1797]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1797
 
 

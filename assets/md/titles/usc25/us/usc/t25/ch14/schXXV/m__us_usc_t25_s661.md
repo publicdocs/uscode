@@ -23,7 +23,7 @@
 
         The Secretary of the Treasury is authorized and directed to credit to the judgment account referred to in subsection (a), for distribution as a part of such account, the sum of $83,275, plus interest at 4 per centum per annum from December 4, 1944, which sum represents the value of sixty-six thousand six hundred and twenty acres of land erroneously used as an offset against said judgment.
 
-([Pub. L. 90–507, § 3][/us/pl/90/507/s3], Sept. 21, 1968, [82 Stat. 860][/us/stat/82/860]; [Pub. L. 91–64][/us/pl/91/64], Aug. 25, 1969, [83 Stat. 105][/us/stat/83/105].)
+([Pub. L. 90–507][/us/pl/90/507], § 3, Sept. 21, 1968, [82 Stat. 860][/us/stat/82/860]; [Pub. L. 91–64][/us/pl/91/64], Aug. 25, 1969, [83 Stat. 105][/us/stat/83/105].)
 
  __References in Text__ 
 
@@ -53,7 +53,7 @@
 [/us/stat/60/348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F348
 [/us/stat/69/460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F460
 [/us/stat/74/512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F512
-[/us/pl/90/507/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F507%2Fs3
+[/us/pl/90/507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F507
 [/us/stat/82/860]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F860
 [/us/pl/91/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F64
 [/us/stat/83/105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F105

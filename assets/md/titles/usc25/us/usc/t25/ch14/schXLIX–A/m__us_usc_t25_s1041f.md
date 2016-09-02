@@ -27,7 +27,7 @@
 
         Nothing in this subchapter shall be construed to diminish or otherwise limit the jurisdiction of any Indian tribe that is federally recognized on the day before December 27, 2000, over trust land, restricted land, or other forms of Indian country of that Indian tribe on such date.
 
-([Pub. L. 106–568, title VII, § 708][/us/pl/106/568/s708], Dec. 27, 2000, [114 Stat. 2916][/us/stat/114/2916].)
+([Pub. L. 106–568, title VII][/us/pl/106/568/tVII], § 708, Dec. 27, 2000, [114 Stat. 2916][/us/stat/114/2916].)
 
 ----------
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/106/568/s708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F568%2Fs708
+[/us/pl/106/568/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F568%2FtVII
 [/us/stat/114/2916]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2916
 
 

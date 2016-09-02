@@ -33,7 +33,7 @@
 
         No demonstration project shall be funded for more than three fiscal years.
 
-([Pub. L. 103–399, § 7][/us/pl/103/399/s7], Oct. 22, 1994, [108 Stat. 4167][/us/stat/108/4167].)
+([Pub. L. 103–399][/us/pl/103/399], § 7, Oct. 22, 1994, [108 Stat. 4167][/us/stat/108/4167].)
 
 ----------
 
@@ -42,7 +42,7 @@
 ----------
 ----------
 
-[/us/pl/103/399/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F399%2Fs7
+[/us/pl/103/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F399
 [/us/stat/108/4167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4167
 
 

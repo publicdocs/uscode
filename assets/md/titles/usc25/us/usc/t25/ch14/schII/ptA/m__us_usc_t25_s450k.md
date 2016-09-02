@@ -65,7 +65,7 @@
 
         The Secretary may, with respect to a contract entered into under this subchapter, make exceptions in the regulations promulgated to carry out this subchapter, or waive such regulations, if the Secretary finds that such exception or waiver is in the best interest of the Indians served by the contract or is consistent with the policies of this subchapter, and is not contrary to statutory law. In reviewing each request, the Secretary shall follow the timeline, findings, assistance, hearing, and appeal procedures set forth in [section 450f of this title][/us/usc/t25/s450f].
 
-([Pub. L. 93–638, title I, § 107][/us/pl/93/638/s107], Jan. 4, 1975, [88 Stat. 2212][/us/stat/88/2212]; [Pub. L. 96–88, title V, § 509(b)][/us/pl/96/88/s509/b], Oct. 17, 1979, [93 Stat. 695][/us/stat/93/695]; [Pub. L. 100–472, title II, § 207][/us/pl/100/472/s207], Oct. 5, 1988, [102 Stat. 2295][/us/stat/102/2295]; [Pub. L. 101–644, title II, § 203(f)][/us/pl/101/644/s203/f], Nov. 29, 1990, [104 Stat. 4666][/us/stat/104/4666]; [Pub. L. 103–413, title I, § 105][/us/pl/103/413/s105], Oct. 25, 1994, [108 Stat. 4269][/us/stat/108/4269]; [Pub. L. 103–435, § 22(a)(1)][/us/pl/103/435/s22/a/1], Nov. 2, 1994, [108 Stat. 4575][/us/stat/108/4575]; [Pub. L. 103–437, § 10(c)(2)][/us/pl/103/437/s10/c/2], Nov. 2, 1994, [108 Stat. 4589][/us/stat/108/4589]; [Pub. L. 104–133, § 1][/us/pl/104/133/s1], Apr. 25, 1996, [110 Stat. 1320][/us/stat/110/1320]; [Pub. L. 104–287, § 6(e)][/us/pl/104/287/s6/e], Oct. 11, 1996, [110 Stat. 3399][/us/stat/110/3399].)
+([Pub. L. 93–638, title I][/us/pl/93/638/tI], § 107, Jan. 4, 1975, [88 Stat. 2212][/us/stat/88/2212]; [Pub. L. 96–88, title V][/us/pl/96/88/tV], § 509(b), Oct. 17, 1979, [93 Stat. 695][/us/stat/93/695]; [Pub. L. 100–472, title II][/us/pl/100/472/tII], § 207, Oct. 5, 1988, [102 Stat. 2295][/us/stat/102/2295]; [Pub. L. 101–644, title II][/us/pl/101/644/tII], § 203(f), Nov. 29, 1990, [104 Stat. 4666][/us/stat/104/4666]; [Pub. L. 103–413, title I][/us/pl/103/413/tI], § 105, Oct. 25, 1994, [108 Stat. 4269][/us/stat/108/4269]; [Pub. L. 103–435][/us/pl/103/435], § 22(a)(1), Nov. 2, 1994, [108 Stat. 4575][/us/stat/108/4575]; [Pub. L. 103–437][/us/pl/103/437], § 10(c)(2), Nov. 2, 1994, [108 Stat. 4589][/us/stat/108/4589]; [Pub. L. 104–133][/us/pl/104/133], § 1, Apr. 25, 1996, [110 Stat. 1320][/us/stat/110/1320]; [Pub. L. 104–287][/us/pl/104/287], § 6(e), Oct. 11, 1996, [110 Stat. 3399][/us/stat/110/3399].)
 
  __References in Text__ 
 
@@ -75,21 +75,21 @@
 
  __Codification__ 
 
-    In subsec. (a)(1), “chapter 71 of title 41” substituted for “the Contract Disputes Act of 1978 ([41 U.S.C. 601][/us/usc/t41/s601] et seq.)” on authority of [Pub. L. 111–350, § 6(c)][/us/pl/111/350/s6/c], Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
+    In subsec. (a)(1), “chapter 71 of title 41” substituted for “the Contract Disputes Act of 1978 ([41 U.S.C. 601][/us/usc/t41/s601] et seq.)” on authority of [Pub. L. 111–350][/us/pl/111/350], § 6(c), Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
 
  __Amendments__ 
 
     1996—Subsec. (a)(2)(B). [Pub. L. 104–133][/us/pl/104/133] substituted “20 months” for “18 months”.
 
-    Subsec. (b). [Pub. L. 104–287][/us/pl/104/287] repealed [Pub. L. 103–437, § 10(c)(2)(A)][/us/pl/103/437/s10/c/2/A]. See 1994 Amendment note below.
+    Subsec. (b). [Pub. L. 104–287][/us/pl/104/287] repealed [Pub. L. 103–437][/us/pl/103/437], § 10(c)(2)(A). See 1994 Amendment note below.
 
-    1994—Subsec. (a). [Pub. L. 103–413, § 105(1)][/us/pl/103/413/s105/1], added subsec. (a) and struck out former subsec. (a) which read as follows: “The Secretaries of the Interior and of Health and Human Services are each authorized to perform any and all acts and to make such rules and regulations as may be necessary and proper for the purposes of carrying out the provisions of this subchapter: Provided, however, That all Federal requirements for self-determination contracts and grants under this Act shall be promulgated as regulations in conformity with sections 552 and 553 of title 5.”
+    1994—Subsec. (a). [Pub. L. 103–413][/us/pl/103/413], § 105(1), added subsec. (a) and struck out former subsec. (a) which read as follows: “The Secretaries of the Interior and of Health and Human Services are each authorized to perform any and all acts and to make such rules and regulations as may be necessary and proper for the purposes of carrying out the provisions of this subchapter: Provided, however, That all Federal requirements for self-determination contracts and grants under this Act shall be promulgated as regulations in conformity with sections 552 and 553 of title 5.”
 
-    Subsec. (b). [Pub. L. 103–437, § 10(c)(2)(A)][/us/pl/103/437/s10/c/2/A], which directed that subsec. (b) be repealed, was itself repealed by [Pub. L. 104–287, § 6(e)][/us/pl/104/287/s6/e]. See Effective Date and Construction of 1996 Amendment note below.
+    Subsec. (b). [Pub. L. 103–437][/us/pl/103/437], § 10(c)(2)(A), which directed that subsec. (b) be repealed, was itself repealed by [Pub. L. 104–287][/us/pl/104/287], § 6(e). See Effective Date and Construction of 1996 Amendment note below.
 
-    [Pub. L. 103–435][/us/pl/103/435], which directed substitution of “Committee on Natural Resources” for “Committee on Interior and Insular Affairs” in par. (2), could not be executed because “Committee on Interior and Insular Affairs” did not appear in text subsequent to amendment by [Pub. L. 103–413, § 105(1)][/us/pl/103/413/s105/1]. See below.
+    [Pub. L. 103–435][/us/pl/103/435], which directed substitution of “Committee on Natural Resources” for “Committee on Interior and Insular Affairs” in par. (2), could not be executed because “Committee on Interior and Insular Affairs” did not appear in text subsequent to amendment by [Pub. L. 103–413][/us/pl/103/413], § 105(1). See below.
 
-    [Pub. L. 103–413, § 105(1)][/us/pl/103/413/s105/1], added subsec. (b) and struck out former subsec. (b) which read as follows:
+    [Pub. L. 103–413][/us/pl/103/413], § 105(1), added subsec. (b) and struck out former subsec. (b) which read as follows:
 
     “(b)(1) Within three months from October 5, 1988, the Secretary shall consider and formulate appropriate regulations to implement the provisions of this Act, with the participation of Indian tribes. Such proposed regulations shall contain all Federal requirements applicable to self-determination contracts and grants under this Act.
 
@@ -99,15 +99,15 @@
 
     “(4) Within ten months from October 5, 1988, the Secretary shall promulgate regulations to implement the provisions of such Act.”
 
-    Subsec. (c). [Pub. L. 103–437, § 10(c)(2)(B)][/us/pl/103/437/s10/c/2/B], substituted “Committee on Energy and Natural Resources of the Senate and the Committee on Natural Resources of the House of Representatives” for “Committees on Interior and Insular Affairs of the United States Senate and House of Representatives”.
+    Subsec. (c). [Pub. L. 103–437][/us/pl/103/437], § 10(c)(2)(B), substituted “Committee on Energy and Natural Resources of the Senate and the Committee on Natural Resources of the House of Representatives” for “Committees on Interior and Insular Affairs of the United States Senate and House of Representatives”.
 
-    Subsecs. (d), (e). [Pub. L. 103–413, § 105(2)][/us/pl/103/413/s105/2], added subsecs. (d) and (e).
+    Subsecs. (d), (e). [Pub. L. 103–413][/us/pl/103/413], § 105(2), added subsecs. (d) and (e).
 
     1990—Subsec. (c). [Pub. L. 101–644][/us/pl/101/644] inserted “, with the participation of Indian tribes and tribal organizations,” after “authorized”.
 
-    1988—Subsec. (a). [Pub. L. 100–472, § 207(a)][/us/pl/100/472/s207/a], substituted “Health and Human Services” for “Health, Education, and Welfare”, and inserted proviso relating to promulgation of Federal requirements for self-determination contracts as regulations.
+    1988—Subsec. (a). [Pub. L. 100–472][/us/pl/100/472], § 207(a), substituted “Health and Human Services” for “Health, Education, and Welfare”, and inserted proviso relating to promulgation of Federal requirements for self-determination contracts as regulations.
 
-    Subsec. (b). [Pub. L. 100–472, § 207(b)][/us/pl/100/472/s207/b], amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows:
+    Subsec. (b). [Pub. L. 100–472][/us/pl/100/472], § 207(b), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows:
 
     “(1) Within six months from January 4, 1975, the Secretary of the Interior and the Secretary of Health and Human Services shall each to the extent practicable, consult with national and regional Indian organizations to consider and formulate appropriate rules and regulations to implement the provisions of this subchapter.
 
@@ -123,7 +123,7 @@
 
  __Effective Date and Construction of 1996 Amendment__ 
 
-[Pub. L. 104–287, § 6(e)][/us/pl/104/287/s6/e], Oct. 11, 1996, [110 Stat. 3399][/us/stat/110/3399], provided that: 
+[Pub. L. 104–287][/us/pl/104/287], § 6(e), Oct. 11, 1996, [110 Stat. 3399][/us/stat/110/3399], provided that: 
 
 > “Effective November 2, 1994, [section 10(c)(2)(A) of the Act of November 2, 1994][/us/act/1994-11-02/s10/c/2/A] ([Public Law 103–437][/us/pl/103/437], [108 Stat. 4589][/us/stat/108/4589]) \[amending this section\], is repealed and section 107(b) of the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450k(b)][/us/usc/t25/s450k/b]), as amended by section 105(1) of the Indian Self-Determination Act ([Public Law 103–413][/us/pl/103/413], [108 Stat. 4269][/us/stat/108/4269]), is revived and shall read as if [section 10(c)(2)(A) of the Act of November 2, 1994][/us/act/1994-11-02/s10/c/2/A] ([Public Law 103–437][/us/pl/103/437], [108 Stat. 4589][/us/stat/108/4589]), had not been enacted.”
 
@@ -137,23 +137,23 @@
 [/us/usc/t25/s450h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450h
 [/us/usc/t25/s450j/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450j%2Ff
 [/us/usc/t25/s450f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450f
-[/us/pl/93/638/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638%2Fs107
+[/us/pl/93/638/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638%2FtI
 [/us/stat/88/2212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2212
-[/us/pl/96/88/s509/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs509%2Fb
+[/us/pl/96/88/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2FtV
 [/us/stat/93/695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F695
-[/us/pl/100/472/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F472%2Fs207
+[/us/pl/100/472/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F472%2FtII
 [/us/stat/102/2295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2295
-[/us/pl/101/644/s203/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F644%2Fs203%2Ff
+[/us/pl/101/644/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F644%2FtII
 [/us/stat/104/4666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4666
-[/us/pl/103/413/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F413%2Fs105
+[/us/pl/103/413/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F413%2FtI
 [/us/stat/108/4269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4269
-[/us/pl/103/435/s22/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F435%2Fs22%2Fa%2F1
+[/us/pl/103/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F435
 [/us/stat/108/4575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4575
-[/us/pl/103/437/s10/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437%2Fs10%2Fc%2F2
+[/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
 [/us/stat/108/4589]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4589
-[/us/pl/104/133/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F133%2Fs1
+[/us/pl/104/133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F133
 [/us/stat/110/1320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1320
-[/us/pl/104/287/s6/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs6%2Fe
+[/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 [/us/stat/110/3399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3399
 [/us/pl/93/638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638
 [/us/stat/88/2203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2203
@@ -163,25 +163,25 @@
 [/us/usc/t25/s450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450
 [/us/usc/t25/s450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450
 [/us/usc/t41/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs601
-[/us/pl/111/350/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs6%2Fc
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3854
 [/us/pl/104/133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F133
 [/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
-[/us/pl/103/437/s10/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437%2Fs10%2Fc%2F2%2FA
-[/us/pl/103/413/s105/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F413%2Fs105%2F1
-[/us/pl/103/437/s10/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437%2Fs10%2Fc%2F2%2FA
-[/us/pl/104/287/s6/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs6%2Fe
+[/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
+[/us/pl/103/413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F413
+[/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
+[/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 [/us/pl/103/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F435
-[/us/pl/103/413/s105/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F413%2Fs105%2F1
-[/us/pl/103/413/s105/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F413%2Fs105%2F1
-[/us/pl/103/437/s10/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437%2Fs10%2Fc%2F2%2FB
-[/us/pl/103/413/s105/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F413%2Fs105%2F2
+[/us/pl/103/413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F413
+[/us/pl/103/413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F413
+[/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
+[/us/pl/103/413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F413
 [/us/pl/101/644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F644
-[/us/pl/100/472/s207/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F472%2Fs207%2Fa
-[/us/pl/100/472/s207/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F472%2Fs207%2Fb
+[/us/pl/100/472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F472
+[/us/pl/100/472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F472
 [/us/pl/96/88/s509/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs509%2Fb
 [/us/usc/t20/s3508/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs3508%2Fb
-[/us/pl/104/287/s6/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs6%2Fe
+[/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 [/us/stat/110/3399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3399
 [/us/act/1994-11-02/s10/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1994-11-02%2Fs10%2Fc%2F2%2FA
 [/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437

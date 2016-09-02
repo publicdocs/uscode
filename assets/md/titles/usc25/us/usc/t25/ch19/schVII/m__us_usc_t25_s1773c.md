@@ -17,7 +17,7 @@
 
     In accepting lands in trust (other than those described in [section 1773b of this title][/us/usc/t25/s1773b]) for the Puyallup Tribe or its members, the Secretary shall exercise the authority provided him in [section 465 of this title][/us/usc/t25/s465], and shall apply the standards set forth in part 151 of title 25, Code of Federal Regulations, as those standards now exist or as they may be amended in the future.
 
-([Pub. L. 101–41, § 5][/us/pl/101/41/s5], June 21, 1989, [103 Stat. 86][/us/stat/103/86].)
+([Pub. L. 101–41][/us/pl/101/41], § 5, June 21, 1989, [103 Stat. 86][/us/stat/103/86].)
 
 ----------
 
@@ -28,7 +28,7 @@
 
 [/us/usc/t25/s1773b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1773b
 [/us/usc/t25/s465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs465
-[/us/pl/101/41/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F41%2Fs5
+[/us/pl/101/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F41
 [/us/stat/103/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F86
 
 

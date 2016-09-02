@@ -49,7 +49,7 @@
 
         (3) development training of Indian agricultural resource personnel in agricultural resource based enterprises and marketing.
 
-([Pub. L. 103–177, title II, § 202][/us/pl/103/177/s202], Dec. 3, 1993, [107 Stat. 2020][/us/stat/107/2020].)
+([Pub. L. 103–177, title II][/us/pl/103/177/tII], § 202, Dec. 3, 1993, [107 Stat. 2020][/us/stat/107/2020].)
 
 ----------
 
@@ -58,7 +58,7 @@
 ----------
 ----------
 
-[/us/pl/103/177/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F177%2Fs202
+[/us/pl/103/177/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F177%2FtII
 [/us/stat/107/2020]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2020
 
 

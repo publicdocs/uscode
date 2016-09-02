@@ -17,7 +17,7 @@
 
     Any person desiring to trade with the Indians on any Indian reservation shall, upon establishing the fact, to the satisfaction of the Commissioner of Indian Affairs, that he is a proper person to engage in such trade, be permitted to do so under such rules and regulations as the Commissioner of Indian Affairs may prescribe for the protection of said Indians.
 
-([Mar. 3, 1901, ch. 832, § 1][/us/act/1901-03-03/ch832/s1], [31 Stat. 1066][/us/stat/31/1066]; [Mar. 3, 1903, ch. 994, § 10][/us/act/1903-03-03/ch994/s10], [32 Stat. 1009][/us/stat/32/1009].)
+([Mar. 3, 1901, ch. 832][/us/act/1901-03-03/ch832], § 1, [31 Stat. 1066][/us/stat/31/1066]; [Mar. 3, 1903, ch. 994][/us/act/1903-03-03/ch994], § 10, [32 Stat. 1009][/us/stat/32/1009].)
 
  __Codification__ 
 
@@ -34,9 +34,9 @@
 ----------
 ----------
 
-[/us/act/1901-03-03/ch832/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1901-03-03%2Fch832%2Fs1
+[/us/act/1901-03-03/ch832]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1901-03-03%2Fch832
 [/us/stat/31/1066]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F31%2F1066
-[/us/act/1903-03-03/ch994/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1903-03-03%2Fch994%2Fs10
+[/us/act/1903-03-03/ch994]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1903-03-03%2Fch994
 [/us/stat/32/1009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F32%2F1009
 [/us/stat/64/1262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1262
 

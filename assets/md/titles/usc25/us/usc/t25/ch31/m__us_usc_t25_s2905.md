@@ -27,7 +27,7 @@
 
     (b) By no later than the date that is 1 year after October 30, 1990, the President shall submit to the Congress a report containing recommendations for amendments to Federal laws that are needed to bring such laws into compliance with the provisions of this chapter.
 
-([Pub. L. 101–477, title I, § 106][/us/pl/101/477/s106], Oct. 30, 1990, [104 Stat. 1156][/us/stat/104/1156].)
+([Pub. L. 101–477, title I][/us/pl/101/477/tI], § 106, Oct. 30, 1990, [104 Stat. 1156][/us/stat/104/1156].)
 
 ----------
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/101/477/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F477%2Fs106
+[/us/pl/101/477/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F477%2FtI
 [/us/stat/104/1156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1156
 
 

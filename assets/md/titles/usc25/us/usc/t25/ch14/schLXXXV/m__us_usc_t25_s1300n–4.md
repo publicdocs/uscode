@@ -39,7 +39,7 @@
 
         For the purpose of subsection (b), the Secretary shall accept any available evidence establishing Graton Indian ancestry. The Secretary shall accept as conclusive evidence of Graton Indian ancestry information contained in the census of the Indians from the Graton, Marshall, Bodega, Tomales, or Sebastopol, California, vicinities, prepared by or at the direction of Special Indian Agent John J. Terrell in any other roll or census of Graton Indians prepared by or at the direction of the Bureau of Indian Affairs and in the Graton Indian Rancheria distribution list compiled by the Bureau of Indian Affairs and approved by the Secretary on September 17, 1959.
 
-([Pub. L. 106–568, title XIV, § 1406][/us/pl/106/568/s1406], Dec. 27, 2000, [114 Stat. 2940][/us/stat/114/2940].)
+([Pub. L. 106–568, title XIV][/us/pl/106/568/tXIV], § 1406, Dec. 27, 2000, [114 Stat. 2940][/us/stat/114/2940].)
 
  __References in Text__ 
 
@@ -55,7 +55,7 @@
 [/us/usc/t25/s1300n–6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1300n%E2%80%936
 [/us/pl/85/671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F671
 [/us/usc/t25/s1300n–6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1300n%E2%80%936
-[/us/pl/106/568/s1406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F568%2Fs1406
+[/us/pl/106/568/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F568%2FtXIV
 [/us/stat/114/2940]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2940
 [/us/pl/85/671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F671
 [/us/pl/85/671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F671

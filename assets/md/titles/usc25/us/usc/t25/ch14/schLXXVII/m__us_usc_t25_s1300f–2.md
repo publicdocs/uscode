@@ -17,7 +17,7 @@
 
     For the purposes of [section 1300f of this title][/us/usc/t25/s1300f], membership of the Pascua Yaqui Tribe shall consist of any United States citizen of Pascua Yaqui blood enrolled by the tribe.
 
-([Pub. L. 95–375, § 3][/us/pl/95/375/s3], Sept. 18, 1978, [92 Stat. 712][/us/stat/92/712]; [Pub. L. 103–357, § 1(b)][/us/pl/103/357/s1/b], Oct. 14, 1994, [108 Stat. 3418][/us/stat/108/3418]; [Pub. L. 112–214, § 1][/us/pl/112/214/s1], Dec. 20, 2012, [126 Stat. 1588][/us/stat/126/1588].)
+([Pub. L. 95–375][/us/pl/95/375], § 3, Sept. 18, 1978, [92 Stat. 712][/us/stat/92/712]; [Pub. L. 103–357][/us/pl/103/357], § 1(b), Oct. 14, 1994, [108 Stat. 3418][/us/stat/108/3418]; [Pub. L. 112–214][/us/pl/112/214], § 1, Dec. 20, 2012, [126 Stat. 1588][/us/stat/126/1588].)
 
  __Amendments__ 
 
@@ -33,11 +33,11 @@
 ----------
 
 [/us/usc/t25/s1300f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1300f
-[/us/pl/95/375/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F375%2Fs3
+[/us/pl/95/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F375
 [/us/stat/92/712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F712
-[/us/pl/103/357/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F357%2Fs1%2Fb
+[/us/pl/103/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F357
 [/us/stat/108/3418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3418
-[/us/pl/112/214/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F214%2Fs1
+[/us/pl/112/214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F214
 [/us/stat/126/1588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1588
 [/us/pl/112/214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F214
 [/us/pl/103/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F357

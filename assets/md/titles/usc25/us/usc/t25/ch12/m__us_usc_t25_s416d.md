@@ -17,7 +17,7 @@
 
     No rent or other consideration for the use of land leased under sections 416 to 416j of this title shall be paid or collected more than one year in advance, unless so provided in the lease.
 
-([Pub. L. 89–715, § 5][/us/pl/89/715/s5], Nov. 2, 1966, [80 Stat. 1113][/us/stat/80/1113].)
+([Pub. L. 89–715][/us/pl/89/715], § 5, Nov. 2, 1966, [80 Stat. 1113][/us/stat/80/1113].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/89/715/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F715%2Fs5
+[/us/pl/89/715]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F715
 [/us/stat/80/1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1113
 
 

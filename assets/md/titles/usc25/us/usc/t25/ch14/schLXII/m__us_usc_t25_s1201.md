@@ -17,7 +17,7 @@
 
     The funds appropriated by the Act of October 21, 1968 ([82 Stat. 1190][/us/stat/82/1190], 1198), to pay a judgment to the Sioux Tribe of the Fort Peck Reservation, Montana, in Indian Claims Commission Docket Numbered 279A and the interest thereon, after payment of attorney’s fees and all appropriate expenses, and after deducting $50,000 to be used as provided in [section 1205 of this title][/us/usc/t25/s1205], and after deducting the estimated costs of distribution, shall be distributed per capita to each person born on or before, and living on, June 19, 1970, who is a citizen of the United States and duly enrolled, on a roll approved by the Secretary of the Interior, as a member of the Sioux Tribe of the Fort Peck Reservation, in accordance with eligibility requirements and procedures agreed upon by the Secretary of the Interior and the tribe, or its authorized representatives.
 
-([Pub. L. 91–283, § 1][/us/pl/91/283/s1], June 19, 1970, [84 Stat. 313][/us/stat/84/313].)
+([Pub. L. 91–283][/us/pl/91/283], § 1, June 19, 1970, [84 Stat. 313][/us/stat/84/313].)
 
  __References in Text__ 
 
@@ -34,7 +34,7 @@
 
 [/us/stat/82/1190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1190
 [/us/usc/t25/s1205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1205
-[/us/pl/91/283/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F283%2Fs1
+[/us/pl/91/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F283
 [/us/stat/84/313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F313
 [/us/pl/90/608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F608
 [/us/stat/82/1190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1190

@@ -17,7 +17,7 @@
 
     The Secretary of the Interior be, and he is hereby, authorized, in his discretion, to grant concessions on reservoir sites, reserves for canals or flowage areas, and other lands under his jurisdiction which have been withdrawn or otherwise acquired in connection with the San Carlos, Fort Hall, Flathead, and Duck Valley or Western Shoshone irrigation projects for the benefit in whole or in part of Indians, and to lease such lands for agricultural, grazing, or other purposes: Provided, That no lands so leased shall be eligible for benefit payments under the crop control program, or the soil conservation act: Provided further, That such concessions may be granted or lands leased by the Secretary of the Interior under such rules, regulations, and laws as govern his administration of the public domain as far as applicable, for such considerations, monetary or otherwise, and for such periods of time as he may deem proper, the term of no concession to exceed a period of ten years: Provided further, That the funds derived from such concessions or leases, except funds so derived from Indian tribal property withdrawn for irrigation purposes and for which the tribe has not been compensated, shall be available for expenditure in accordance with the existing laws in the operation and maintenance of the irrigation projects with which they are connected. Any funds derived from reserves for which the tribe has not been compensated shall be deposited to the credit of the proper tribe: Provided further, That where tribal lands of any Indian tribe organized under [section 476 of this title][/us/usc/t25/s476], have been withdrawn or reserved for the purposes hereinbefore mentioned, such lands may be leased or concessions may be granted thereon only by the proper tribal authorities, upon such conditions and subject to such limitations as may be set forth in the constitution and bylaws or charter of the respective tribes: Provided further, That concessions for recreation and fish and wildlife purposes on San Carlos Lake may be granted only by the governing body of the San Carlos Apache Tribe upon such conditions and subject to such limitations as may be set forth in the constitution and bylaws of such Tribe.
 
-([Apr. 4, 1938, ch. 63][/us/act/1938-04-04/ch63], [52 Stat. 193][/us/stat/52/193]; [Pub. L. 102–575, title XXXVII, § 3710(e)][/us/pl/102/575/s3710/e], Oct. 30, 1992, [106 Stat. 4750][/us/stat/106/4750].)
+([Apr. 4, 1938, ch. 63][/us/act/1938-04-04/ch63], [52 Stat. 193][/us/stat/52/193]; [Pub. L. 102–575, title XXXVII][/us/pl/102/575/tXXXVII], § 3710(e), Oct. 30, 1992, [106 Stat. 4750][/us/stat/106/4750].)
 
  __Amendments__ 
 
@@ -25,7 +25,7 @@
 
  __Effective and Termination Dates of 1992 Amendment__ 
 
-[Pub. L. 102–575, title XXXVII, § 3711][/us/pl/102/575/s3711], Oct. 30, 1992, [106 Stat. 4751][/us/stat/106/4751], as amended by [Pub. L. 103–435, § 13][/us/pl/103/435/s13], Nov. 2, 1994, [108 Stat. 4572][/us/stat/108/4572]; [Pub. L. 104–91, title II, § 202(a)][/us/pl/104/91/s202/a], Jan. 6, 1996, [110 Stat. 14][/us/stat/110/14]; [Pub. L. 104–261, § 3][/us/pl/104/261/s3], Oct. 9, 1996, [110 Stat. 3176][/us/stat/110/3176]; [Pub. L. 105–18, title II, § 5003(a)][/us/pl/105/18/s5003/a], (b), June 12, 1997, [111 Stat. 181][/us/stat/111/181], provided that:
+[Pub. L. 102–575, title XXXVII][/us/pl/102/575/tXXXVII], § 3711, Oct. 30, 1992, [106 Stat. 4751][/us/stat/106/4751], as amended by [Pub. L. 103–435][/us/pl/103/435], § 13, Nov. 2, 1994, [108 Stat. 4572][/us/stat/108/4572]; [Pub. L. 104–91, title II][/us/pl/104/91/tII], § 202(a), Jan. 6, 1996, [110 Stat. 14][/us/stat/110/14]; [Pub. L. 104–261][/us/pl/104/261], § 3, Oct. 9, 1996, [110 Stat. 3176][/us/stat/110/3176]; [Pub. L. 105–18, title II][/us/pl/105/18/tII], § 5003(a), (b), June 12, 1997, [111 Stat. 181][/us/stat/111/181], provided that:
 
 >     “(a)  __Effective Date of Authorization__  __.—__ 
 
@@ -57,7 +57,7 @@
 
     \[For definitions of terms used in [section 3711 of Pub. L. 102–575][/us/pl/102/575/s3711], set out above, see [section 3703 of Pub. L. 102–575][/us/pl/102/575/s3703], title XXXVII, Oct. 30, 1992, [106 Stat. 4741][/us/stat/106/4741], as amended.\]
 
-\[[Pub. L. 104–91, title II, § 202(b)][/us/pl/104/91/s202/b], Jan. 6, 1996, [110 Stat. 14][/us/stat/110/14], provided that:
+\[[Pub. L. 104–91, title II][/us/pl/104/91/tII], § 202(b), Jan. 6, 1996, [110 Stat. 14][/us/stat/110/14], provided that:
 
     \[“(1) In general.—The amendment made by subsection (a) \[amending [section 3711 of Pub. L. 102–575][/us/pl/102/575/s3711], set out above\] shall take effect as of December 31, 1995.
 
@@ -73,18 +73,18 @@
 [/us/usc/t25/s476]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs476
 [/us/act/1938-04-04/ch63]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-04-04%2Fch63
 [/us/stat/52/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F193
-[/us/pl/102/575/s3710/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F575%2Fs3710%2Fe
+[/us/pl/102/575/tXXXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F575%2FtXXXVII
 [/us/stat/106/4750]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4750
 [/us/pl/102/575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F575
-[/us/pl/102/575/s3711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F575%2Fs3711
+[/us/pl/102/575/tXXXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F575%2FtXXXVII
 [/us/stat/106/4751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4751
-[/us/pl/103/435/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F435%2Fs13
+[/us/pl/103/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F435
 [/us/stat/108/4572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4572
-[/us/pl/104/91/s202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F91%2Fs202%2Fa
+[/us/pl/104/91/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F91%2FtII
 [/us/stat/110/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F14
-[/us/pl/104/261/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F261%2Fs3
+[/us/pl/104/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F261
 [/us/stat/110/3176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3176
-[/us/pl/105/18/s5003/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F18%2Fs5003%2Fa
+[/us/pl/105/18/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F18%2FtII
 [/us/stat/111/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F181
 [/us/usc/t25/s3708/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs3708%2Fb
 [/us/stat/106/4748]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4748
@@ -108,7 +108,7 @@
 [/us/pl/102/575/s3711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F575%2Fs3711
 [/us/pl/102/575/s3703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F575%2Fs3703
 [/us/stat/106/4741]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4741
-[/us/pl/104/91/s202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F91%2Fs202%2Fb
+[/us/pl/104/91/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F91%2FtII
 [/us/stat/110/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F14
 [/us/pl/102/575/s3711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F575%2Fs3711
 [/us/stat/106/4743]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4743

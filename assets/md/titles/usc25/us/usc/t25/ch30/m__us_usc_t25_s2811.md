@@ -31,7 +31,7 @@
 
         (4) carry out such other duties as the Attorney General may prescribe.
 
-([Pub. L. 101–379, § 14][/us/pl/101/379/s14], as added [Pub. L. 111–211, title II, § 214(b)][/us/pl/111/211/s214/b], July 29, 2010, [124 Stat. 2271][/us/stat/124/2271].)
+([Pub. L. 101–379][/us/pl/101/379], § 14, as added [Pub. L. 111–211, title II][/us/pl/111/211/tII], § 214(b), July 29, 2010, [124 Stat. 2271][/us/stat/124/2271].)
 
 ----------
 
@@ -40,8 +40,8 @@
 ----------
 ----------
 
-[/us/pl/101/379/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F379%2Fs14
-[/us/pl/111/211/s214/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211%2Fs214%2Fb
+[/us/pl/101/379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F379
+[/us/pl/111/211/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211%2FtII
 [/us/stat/124/2271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2271
 
 

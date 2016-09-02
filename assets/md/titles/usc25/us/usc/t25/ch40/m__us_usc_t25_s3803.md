@@ -99,7 +99,7 @@
 
         The report shall be submitted at the time the budget is required to be submitted under [section 1105 of title 31][/us/usc/t31/s1105] to the Subcommittee on Native American Affairs of the Committee on Natural Resources of the House of Representatives and the Committee on Indian Affairs of the Senate.
 
-([Pub. L. 103–302, § 4][/us/pl/103/302/s4], Aug. 23, 1994, [108 Stat. 1561][/us/stat/108/1561]; [Pub. L. 104–109, § 3][/us/pl/104/109/s3], Feb. 12, 1996, [110 Stat. 764][/us/stat/110/764].)
+([Pub. L. 103–302][/us/pl/103/302], § 4, Aug. 23, 1994, [108 Stat. 1561][/us/stat/108/1561]; [Pub. L. 104–109][/us/pl/104/109], § 3, Feb. 12, 1996, [110 Stat. 764][/us/stat/110/764].)
 
  __References in Text__ 
 
@@ -122,9 +122,9 @@
 
 [/us/usc/t25/s450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450
 [/us/usc/t31/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105
-[/us/pl/103/302/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F302%2Fs4
+[/us/pl/103/302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F302
 [/us/stat/108/1561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1561
-[/us/pl/104/109/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F109%2Fs3
+[/us/pl/104/109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F109
 [/us/stat/110/764]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F764
 [/us/pl/93/638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638
 [/us/stat/88/2203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2203

@@ -33,7 +33,7 @@
 
             In carrying out paragraph (1), the Secretary shall avoid adverse impacts to cultural items and human remains, to the maximum extent practicable.
 
-([Pub. L. 110–234, title VIII, § 8103][/us/pl/110/234/s8103], May 22, 2008, [122 Stat. 1287][/us/stat/122/1287]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VIII, § 8103, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2049.)
+([Pub. L. 110–234, title VIII][/us/pl/110/234/tVIII], § 8103, May 22, 2008, [122 Stat. 1287][/us/stat/122/1287]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title VIII, § 8103, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2049.)
 
  __Codification__ 
 
@@ -50,9 +50,9 @@
 ----------
 ----------
 
-[/us/pl/110/234/s8103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs8103
+[/us/pl/110/234/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtVIII
 [/us/stat/122/1287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1287
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246

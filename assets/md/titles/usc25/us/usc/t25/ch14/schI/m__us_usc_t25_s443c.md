@@ -93,7 +93,7 @@
 
             (C) domestic and community sanitation facilities serving members of Indian tribes (as defined in section 4 of the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450b][/us/usc/t25/s450b])) pursuant to [section 2004a of title 42][/us/usc/t42/s2004a].
 
-([Pub. L. 110–293, title VI, § 601][/us/pl/110/293/s601], July 30, 2008, [122 Stat. 2968][/us/stat/122/2968]; [Pub. L. 111–291, title VIII, § 831][/us/pl/111/291/s831], Dec. 8, 2010, [124 Stat. 3163][/us/stat/124/3163].)
+([Pub. L. 110–293, title VI][/us/pl/110/293/tVI], § 601, July 30, 2008, [122 Stat. 2968][/us/stat/122/2968]; [Pub. L. 111–291, title VIII][/us/pl/111/291/tVIII], § 831, Dec. 8, 2010, [124 Stat. 3163][/us/stat/124/3163].)
 
  __References in Text__ 
 
@@ -101,9 +101,9 @@
 
  __Amendments__ 
 
-    2010—Subsec. (b)(1). [Pub. L. 111–291, § 831(1)][/us/pl/111/291/s831/1], substituted “$1,602,619,000” for “$2,000,000,000”.
+    2010—Subsec. (b)(1). [Pub. L. 111–291][/us/pl/111/291], § 831(1), substituted “$1,602,619,000” for “$2,000,000,000”.
 
-    Subsec. (f)(2)(B). [Pub. L. 111–291, § 831(2)][/us/pl/111/291/s831/2], substituted “not more than $602,619,000” for “50 percent”.
+    Subsec. (f)(2)(B). [Pub. L. 111–291][/us/pl/111/291], § 831(2), substituted “not more than $602,619,000” for “50 percent”.
 
 ----------
 
@@ -121,14 +121,14 @@
 [/us/usc/t25/s450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450
 [/us/usc/t25/s450b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450b
 [/us/usc/t42/s2004a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2004a
-[/us/pl/110/293/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F293%2Fs601
+[/us/pl/110/293/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F293%2FtVI
 [/us/stat/122/2968]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2968
-[/us/pl/111/291/s831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F291%2Fs831
+[/us/pl/111/291/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F291%2FtVIII
 [/us/stat/124/3163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3163
 [/us/pl/93/638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638
 [/us/stat/88/2203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2203
 [/us/usc/t25/s450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450
-[/us/pl/111/291/s831/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F291%2Fs831%2F1
-[/us/pl/111/291/s831/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F291%2Fs831%2F2
+[/us/pl/111/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F291
+[/us/pl/111/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F291
 
 

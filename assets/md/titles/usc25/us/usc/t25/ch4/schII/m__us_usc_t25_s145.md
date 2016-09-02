@@ -17,7 +17,7 @@
 
     The Secretary of the Interior shall cause to be stated annual accounts between the United States and each tribe of Indians arising under appropriations made, which by law are required to be reimbursed to the United States, crediting in said accounts the sums so reimbursed, if any; and the Secretary of the Interior shall pay, out of any fund or funds belonging to such tribe or tribes of Indians applicable thereto and held by the United States in trust or otherwise, all balances of accounts due to the United States and not already reimbursed to the Treasury, and deposit such sums in the Treasury as miscellaneous receipts; and such accounts shall be received and examined by the Government Accountability Office and the balances arising thereon certified to the Secretary of the Treasury.
 
-([Apr. 4, 1910, ch. 140, § 1][/us/act/1910-04-04/ch140/s1], [36 Stat. 270][/us/stat/36/270]; [June 10, 1921, ch. 18][/us/act/1921-06-10/ch18], title III, § 304, [42 Stat. 24][/us/stat/42/24]; [Pub. L. 108–271, § 8(b)][/us/pl/108/271/s8/b], July 7, 2004, [118 Stat. 814][/us/stat/118/814].)
+([Apr. 4, 1910, ch. 140][/us/act/1910-04-04/ch140], § 1, [36 Stat. 270][/us/stat/36/270]; [June 10, 1921, ch. 18][/us/act/1921-06-10/ch18], title III, § 304, [42 Stat. 24][/us/stat/42/24]; [Pub. L. 108–271][/us/pl/108/271], § 8(b), July 7, 2004, [118 Stat. 814][/us/stat/118/814].)
 
  __Transfer of Functions__ 
 
@@ -32,11 +32,11 @@
 ----------
 ----------
 
-[/us/act/1910-04-04/ch140/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1910-04-04%2Fch140%2Fs1
+[/us/act/1910-04-04/ch140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1910-04-04%2Fch140
 [/us/stat/36/270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F270
 [/us/act/1921-06-10/ch18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1921-06-10%2Fch18
 [/us/stat/42/24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F24
-[/us/pl/108/271/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271%2Fs8%2Fb
+[/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
 [/us/stat/118/814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F814
 [/us/stat/64/1262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1262
 [/us/pl/108/271/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271%2Fs8%2Fb

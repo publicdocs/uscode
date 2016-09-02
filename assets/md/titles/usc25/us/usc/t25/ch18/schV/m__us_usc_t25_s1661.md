@@ -93,7 +93,7 @@
 
             Notwithstanding any other provision of law, the provisions of [section 472 of this title][/us/usc/t25/s472], <sup>\[1\]</sup>  <sup><sup> 1 So in original. The comma probably should not appear. </sup></sup>  shall apply to all personnel actions taken with respect to new positions created within the Service as a result of its establishment under subsection (a).
 
-([Pub. L. 94–437, title VI, § 601][/us/pl/94/437/s601], as added [Pub. L. 100–713, title VI, § 601(a)][/us/pl/100/713/s601/a], Nov. 23, 1988, [102 Stat. 4824][/us/stat/102/4824]; amended [Pub. L. 102–573, title VI][/us/pl/102/573], §§ 601, 602(a)(1), (c), title IX, § 902(6), (7), Oct. 29, 1992, [106 Stat. 4571][/us/stat/106/4571], 4592; [Pub. L. 111–148, title X, § 10221(a)][/us/pl/111/148/s10221/a], Mar. 23, 2010, [124 Stat. 935][/us/stat/124/935].)
+([Pub. L. 94–437, title VI][/us/pl/94/437/tVI], § 601, as added [Pub. L. 100–713, title VI][/us/pl/100/713/tVI], § 601(a), Nov. 23, 1988, [102 Stat. 4824][/us/stat/102/4824]; amended [Pub. L. 102–573, title VI][/us/pl/102/573/tVI], §§ 601, 602(a)(1), (c), title IX, § 902(6), (7), Oct. 29, 1992, [106 Stat. 4571][/us/stat/106/4571], 4592; [Pub. L. 111–148, title X][/us/pl/111/148/tX], § 10221(a), Mar. 23, 2010, [124 Stat. 935][/us/stat/124/935].)
 
  __References in Text__ 
 
@@ -113,31 +113,31 @@
 
  __Prior Provisions__ 
 
-    A prior section 1661, [Pub. L. 94–437, title VI, § 601][/us/pl/94/437/s601], Sept. 30, 1976, [90 Stat. 1412][/us/stat/90/1412], related to feasibility study and report to Congress, prior to the general revision of this subchapter by [Pub. L. 100–713][/us/pl/100/713].
+    A prior section 1661, [Pub. L. 94–437, title VI][/us/pl/94/437/tVI], § 601, Sept. 30, 1976, [90 Stat. 1412][/us/stat/90/1412], related to feasibility study and report to Congress, prior to the general revision of this subchapter by [Pub. L. 100–713][/us/pl/100/713].
 
  __Amendments__ 
 
     2010—[Pub. L. 111–148][/us/pl/111/148] amended section generally, revising and restating provisions relating to establishment of the Indian Health Service as an agency of the Public Health Service and inserting additional provisions relating to responsibilities of the Director.
 
-    1992—Subsec. (a). [Pub. L. 102–573, § 602(c)][/us/pl/102/573/s602/c], inserted at end “Effective with respect to an individual appointed by the President, by and with the advice and consent of the Senate, after January 1, 1993, the term of service of the Director shall be 4 years. A Director may serve more than 1 term.”
+    1992—Subsec. (a). [Pub. L. 102–573][/us/pl/102/573], § 602(c), inserted at end “Effective with respect to an individual appointed by the President, by and with the advice and consent of the Senate, after January 1, 1993, the term of service of the Director shall be 4 years. A Director may serve more than 1 term.”
 
-    [Pub. L. 102–573, § 602(a)(1)][/us/pl/102/573/s602/a/1], substituted “President, by and with the advice and consent of the Senate” for “Secretary” in second sentence.
+    [Pub. L. 102–573][/us/pl/102/573], § 602(a)(1), substituted “President, by and with the advice and consent of the Senate” for “Secretary” in second sentence.
 
-    Subsec. (c)(3)(D). [Pub. L. 102–573, § 902(6)][/us/pl/102/573/s902/6], substituted “([42 U.S.C. 2005][/us/usc/t42/s2005] et seq.)” for “([25 U.S.C. 2005][/us/usc/t25/s2005], et seq.)”.
+    Subsec. (c)(3)(D). [Pub. L. 102–573][/us/pl/102/573], § 902(6), substituted “([42 U.S.C. 2005][/us/usc/t42/s2005] et seq.)” for “([25 U.S.C. 2005][/us/usc/t25/s2005], et seq.)”.
 
-    Subsec. (c)(4). [Pub. L. 102–573, § 601][/us/pl/102/573/s601], added par. (4).
+    Subsec. (c)(4). [Pub. L. 102–573][/us/pl/102/573], § 601, added par. (4).
 
-    Subsec. (d)(1)(C). [Pub. L. 102–573, § 902(7)][/us/pl/102/573/s902/7], substituted “appropriated” for “appropriate”.
+    Subsec. (d)(1)(C). [Pub. L. 102–573][/us/pl/102/573], § 902(7), substituted “appropriated” for “appropriate”.
 
  __Effective Date of 1992 Amendment__ 
 
-[Pub. L. 102–573, title VI, § 602(a)(2)][/us/pl/102/573/s602/a/2], Oct. 29, 1992, [106 Stat. 4571][/us/stat/106/4571], provided that: 
+[Pub. L. 102–573, title VI][/us/pl/102/573/tVI], § 602(a)(2), Oct. 29, 1992, [106 Stat. 4571][/us/stat/106/4571], provided that: 
 
 > “The amendment made by paragraph (1) \[amending this section\] shall take effect January 1, 1993.”
 
  __Effective Date__ 
 
-[Pub. L. 100–713, title VI, § 601(c)][/us/pl/100/713/s601/c], Nov. 23, 1988, [102 Stat. 4826][/us/stat/102/4826], provided that:
+[Pub. L. 100–713, title VI][/us/pl/100/713/tVI], § 601(c), Nov. 23, 1988, [102 Stat. 4826][/us/stat/102/4826], provided that:
 
 >     “(1) Except as provided in paragraph (2), section 601 of the Indian Health Care Improvement Act \[this section\] added by subsection (a) of this section shall take effect 9 months from the date of the enactment of this section \[Nov. 23, 1988\].
 
@@ -145,11 +145,11 @@
 
  __Interim Appointment__ 
 
-    [Pub. L. 102–573, title VI, § 602(b)][/us/pl/102/573/s602/b], Oct. 29, 1992, [106 Stat. 4571][/us/stat/106/4571], authorized the President to appoint an individual to serve as Interim Director of the Service from Jan. 1, 1993, until confirmation of a Director.
+    [Pub. L. 102–573, title VI][/us/pl/102/573/tVI], § 602(b), Oct. 29, 1992, [106 Stat. 4571][/us/stat/106/4571], authorized the President to appoint an individual to serve as Interim Director of the Service from Jan. 1, 1993, until confirmation of a Director.
 
  __Transfer of Personnel, Records, Equipment, Etc., to Indian Health Service__ 
 
-    [Pub. L. 100–713, title VI, § 601(b)][/us/pl/100/713/s601/b], Nov. 23, 1988, [102 Stat. 4826][/us/stat/102/4826], provided for the transfer within 9 months of Nov. 23, 1988, of personnel, records, equipment, facilities, and interests in property of the Indian Health Service to the Indian Health Service established by [Pub. L. 100–713][/us/pl/100/713].
+    [Pub. L. 100–713, title VI][/us/pl/100/713/tVI], § 601(b), Nov. 23, 1988, [102 Stat. 4826][/us/stat/102/4826], provided for the transfer within 9 months of Nov. 23, 1988, of personnel, records, equipment, facilities, and interests in property of the Indian Health Service to the Indian Health Service established by [Pub. L. 100–713][/us/pl/100/713].
 
 ----------
 
@@ -163,12 +163,12 @@
 [/us/usc/t42/s2005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2005
 [/us/usc/t25/s450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450
 [/us/usc/t25/s472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs472
-[/us/pl/94/437/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437%2Fs601
-[/us/pl/100/713/s601/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F713%2Fs601%2Fa
+[/us/pl/94/437/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437%2FtVI
+[/us/pl/100/713/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F713%2FtVI
 [/us/stat/102/4824]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4824
-[/us/pl/102/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573
+[/us/pl/102/573/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2FtVI
 [/us/stat/106/4571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4571
-[/us/pl/111/148/s10221/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10221%2Fa
+[/us/pl/111/148/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtX
 [/us/stat/124/935]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F935
 [/us/pl/94/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437
 [/us/stat/90/1400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1400
@@ -184,24 +184,24 @@
 [/us/pl/111/148/s10221/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10221%2Fa
 [/us/pl/100/713]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F713
 [/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
-[/us/pl/94/437/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437%2Fs601
+[/us/pl/94/437/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437%2FtVI
 [/us/stat/90/1412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1412
 [/us/pl/100/713]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F713
 [/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
-[/us/pl/102/573/s602/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2Fs602%2Fc
-[/us/pl/102/573/s602/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2Fs602%2Fa%2F1
-[/us/pl/102/573/s902/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2Fs902%2F6
+[/us/pl/102/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573
+[/us/pl/102/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573
+[/us/pl/102/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573
 [/us/usc/t42/s2005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2005
 [/us/usc/t25/s2005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs2005
-[/us/pl/102/573/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2Fs601
-[/us/pl/102/573/s902/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2Fs902%2F7
-[/us/pl/102/573/s602/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2Fs602%2Fa%2F2
+[/us/pl/102/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573
+[/us/pl/102/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573
+[/us/pl/102/573/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2FtVI
 [/us/stat/106/4571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4571
-[/us/pl/100/713/s601/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F713%2Fs601%2Fc
+[/us/pl/100/713/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F713%2FtVI
 [/us/stat/102/4826]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4826
-[/us/pl/102/573/s602/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2Fs602%2Fb
+[/us/pl/102/573/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2FtVI
 [/us/stat/106/4571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4571
-[/us/pl/100/713/s601/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F713%2Fs601%2Fb
+[/us/pl/100/713/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F713%2FtVI
 [/us/stat/102/4826]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4826
 [/us/pl/100/713]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F713
 

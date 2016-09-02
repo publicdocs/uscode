@@ -35,7 +35,7 @@
 
     (5) Sale of any portion of the assets of said group subject to the approval of the Secretary. In addition to the sales herein otherwise authorized, authority is granted to the authorized representatives of said group to sell any property of said group when, in the opinion of the majority of said mixed-blood group, a practicable partition cannot be made, or for any other reason it is deemed to the best interests of the group, and the proceeds of such sales shall be distributed equitably among the members of said mixed-blood group; after deducting reasonable cost of sale and distribution.
 
-([Aug. 27, 1954, ch. 1009, § 13][/us/act/1954-08-27/ch1009/s13], [68 Stat. 874][/us/stat/68/874].)
+([Aug. 27, 1954, ch. 1009][/us/act/1954-08-27/ch1009], § 13, [68 Stat. 874][/us/stat/68/874].)
 
 ----------
 
@@ -45,7 +45,7 @@
 ----------
 
 [/us/usc/t25/s677m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs677m
-[/us/act/1954-08-27/ch1009/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-27%2Fch1009%2Fs13
+[/us/act/1954-08-27/ch1009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-27%2Fch1009
 [/us/stat/68/874]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F874
 
 

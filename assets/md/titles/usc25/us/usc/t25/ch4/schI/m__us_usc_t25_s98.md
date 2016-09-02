@@ -21,7 +21,7 @@
 
  __Codification__ 
 
-    R.S. § 2085 derived from [act July 15, 1870, ch. 296, § 2][/us/act/1870-07-15/ch296/s2], [16 Stat. 360][/us/stat/16/360].
+    R.S. § 2085 derived from [act July 15, 1870, ch. 296][/us/act/1870-07-15/ch296], § 2, [16 Stat. 360][/us/stat/16/360].
 
  __Transfer of Functions__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/act/1870-07-15/ch296/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1870-07-15%2Fch296%2Fs2
+[/us/act/1870-07-15/ch296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1870-07-15%2Fch296
 [/us/stat/16/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F16%2F360
 [/us/stat/64/1262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1262
 

@@ -21,7 +21,7 @@
 
     (2) shall affect the treatment under title 26 of any person or transaction other than by reason of the restoration of the trust relationship between the United States and the Tribe.
 
-([Pub. L. 103–116, § 16][/us/pl/103/116/s16], Oct. 27, 1993, [107 Stat. 1137][/us/stat/107/1137].)
+([Pub. L. 103–116][/us/pl/103/116], § 16, Oct. 27, 1993, [107 Stat. 1137][/us/stat/107/1137].)
 
 ----------
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t25/s941m/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs941m%2Ff
-[/us/pl/103/116/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F116%2Fs16
+[/us/pl/103/116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F116
 [/us/stat/107/1137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1137
 
 

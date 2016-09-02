@@ -17,7 +17,7 @@
 
     No property distributed under the provisions of this subchapter shall at the time of distribution be subject to any Federal or State income tax. Following any distribution of property made under the provisions of this subchapter, such property and income derived therefrom by the distributee shall be subject to the same taxes, State and Federal as in the case of non-Indians: Provided, That for the purpose of capital gains or losses the base value of the property shall be the value of the property when distributed to the grantee.
 
-([Pub. L. 87–629, § 8][/us/pl/87/629/s8], Sept. 5, 1962, [76 Stat. 430][/us/stat/76/430].)
+([Pub. L. 87–629][/us/pl/87/629], § 8, Sept. 5, 1962, [76 Stat. 430][/us/stat/76/430].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/87/629/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F629%2Fs8
+[/us/pl/87/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F629
 [/us/stat/76/430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F430
 
 

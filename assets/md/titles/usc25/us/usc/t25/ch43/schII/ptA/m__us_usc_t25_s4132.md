@@ -71,7 +71,7 @@
 
             A reserve account established under subparagraph (A) shall consist of not more than an amount equal to ¼ of the 5-year average of the annual amount used by a recipient for administration and planning under paragraph (2).
 
-([Pub. L. 104–330, title II, § 202][/us/pl/104/330/s202], Oct. 26, 1996, [110 Stat. 4032][/us/stat/110/4032]; [Pub. L. 107–292, § 8][/us/pl/107/292/s8], Nov. 13, 2002, [116 Stat. 2055][/us/stat/116/2055]; [Pub. L. 109–58, title V, § 506(b)][/us/pl/109/58/s506/b], Aug. 8, 2005, [119 Stat. 779][/us/stat/119/779]; [Pub. L. 110–411, title II, § 202][/us/pl/110/411/s202], Oct. 14, 2008, [122 Stat. 4325][/us/stat/122/4325].)
+([Pub. L. 104–330, title II][/us/pl/104/330/tII], § 202, Oct. 26, 1996, [110 Stat. 4032][/us/stat/110/4032]; [Pub. L. 107–292][/us/pl/107/292], § 8, Nov. 13, 2002, [116 Stat. 2055][/us/stat/116/2055]; [Pub. L. 109–58, title V][/us/pl/109/58/tV], § 506(b), Aug. 8, 2005, [119 Stat. 779][/us/stat/119/779]; [Pub. L. 110–411, title II][/us/pl/110/411/tII], § 202, Oct. 14, 2008, [122 Stat. 4325][/us/stat/122/4325].)
 
  __References in Text__ 
 
@@ -83,13 +83,13 @@
 
  __Amendments__ 
 
-    2008—[Pub. L. 110–411, § 202(1)][/us/pl/110/411/s202/1], substituted “to develop, operate, maintain, or support” for “to develop or to support” in introductory provisions.
+    2008—[Pub. L. 110–411][/us/pl/110/411], § 202(1), substituted “to develop, operate, maintain, or support” for “to develop or to support” in introductory provisions.
 
-    Par. (2). [Pub. L. 110–411, § 202(2)][/us/pl/110/411/s202/2], substituted “development and rehabilitation of utilities, necessary infrastructure,” for “development of utilities” and inserted “mold remediation,” after “energy efficiency,”.
+    Par. (2). [Pub. L. 110–411][/us/pl/110/411], § 202(2), substituted “development and rehabilitation of utilities, necessary infrastructure,” for “development of utilities” and inserted “mold remediation,” after “energy efficiency,”.
 
-    Par. (4). [Pub. L. 110–411, § 202(3)][/us/pl/110/411/s202/3], inserted “the costs of operation and maintenance of units developed with funds provided under this chapter,” after “rental assistance,”.
+    Par. (4). [Pub. L. 110–411][/us/pl/110/411], § 202(3), inserted “the costs of operation and maintenance of units developed with funds provided under this chapter,” after “rental assistance,”.
 
-    Par. (9). [Pub. L. 110–411, § 202(4)][/us/pl/110/411/s202/4], added par. (9).
+    Par. (9). [Pub. L. 110–411][/us/pl/110/411], § 202(4), added par. (9).
 
     2005—Par. (2). [Pub. L. 109–58][/us/pl/109/58], which directed amendment of section 202 of the Native American Housing and Self-Determination Act of 1996 by inserting “improvement to achieve greater energy efficiency,” after “planning,” in par. (2), was executed by making the insertion in par. (2) of this section, which is section 202 of the Native American Housing Assistance and Self-Determination Act of 1996, to reflect the probable intent of Congress.
 
@@ -112,13 +112,13 @@
 
 [/us/usc/t25/s450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450
 [/us/usc/t25/s4111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs4111
-[/us/pl/104/330/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330%2Fs202
+[/us/pl/104/330/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330%2FtII
 [/us/stat/110/4032]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F4032
-[/us/pl/107/292/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F292%2Fs8
+[/us/pl/107/292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F292
 [/us/stat/116/2055]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2055
-[/us/pl/109/58/s506/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs506%2Fb
+[/us/pl/109/58/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtV
 [/us/stat/119/779]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F779
-[/us/pl/110/411/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F411%2Fs202
+[/us/pl/110/411/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F411%2FtII
 [/us/stat/122/4325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4325
 [/us/pl/104/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330
 [/us/stat/110/4016]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F4016
@@ -129,10 +129,10 @@
 [/us/pl/93/638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638
 [/us/stat/88/2203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2203
 [/us/usc/t25/s450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450
-[/us/pl/110/411/s202/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F411%2Fs202%2F1
-[/us/pl/110/411/s202/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F411%2Fs202%2F2
-[/us/pl/110/411/s202/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F411%2Fs202%2F3
-[/us/pl/110/411/s202/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F411%2Fs202%2F4
+[/us/pl/110/411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F411
+[/us/pl/110/411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F411
+[/us/pl/110/411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F411
+[/us/pl/110/411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F411
 [/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
 [/us/pl/107/292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F292
 [/us/pl/104/330/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330%2Fs107

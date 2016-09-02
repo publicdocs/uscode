@@ -65,7 +65,7 @@
 
         The status of an Indian (as defined in [section 479 of this title][/us/usc/t25/s479]) appointed (except temporary appointments) to the Federal service under an excepted appointment under the authority of [section 472 of this title][/us/usc/t25/s472], or any other provision of law granting a preference to Indians in personnel actions, shall be converted to a career appointment in the competitive service after three years of continuous service and satisfactory performance. The conversion shall not alter the Indian’s eligibility for preference in personnel actions.
 
-([Pub. L. 93–638, title I, § 104][/us/pl/93/638/s104], formerly § 105, Jan. 4, 1975, [88 Stat. 2208][/us/stat/88/2208]; [Pub. L. 89–702, title II, § 210(a)][/us/pl/89/702/s210/a], as added [Pub. L. 98–129, § 2][/us/pl/98/129/s2], Oct. 14, 1983, [97 Stat. 843][/us/stat/97/843]; [Pub. L. 99–221, § 3(a)][/us/pl/99/221/s3/a], Dec. 26, 1985, [99 Stat. 1735][/us/stat/99/1735]; renumbered § 104 and amended [Pub. L. 100–472, title II, § 203][/us/pl/100/472/s203], Oct. 5, 1988, [102 Stat. 2290][/us/stat/102/2290]; [Pub. L. 101–301, § 2(a)(6)][/us/pl/101/301/s2/a/6], May 24, 1990, [104 Stat. 206][/us/stat/104/206]; [Pub. L. 110–81, title I, § 104(b)][/us/pl/110/81/s104/b], Sept. 14, 2007, [121 Stat. 740][/us/stat/121/740].)
+([Pub. L. 93–638, title I][/us/pl/93/638/tI], § 104, formerly § 105, Jan. 4, 1975, [88 Stat. 2208][/us/stat/88/2208]; [Pub. L. 89–702, title II][/us/pl/89/702/tII], § 210(a), as added [Pub. L. 98–129][/us/pl/98/129], § 2, Oct. 14, 1983, [97 Stat. 843][/us/stat/97/843]; [Pub. L. 99–221][/us/pl/99/221], § 3(a), Dec. 26, 1985, [99 Stat. 1735][/us/stat/99/1735]; renumbered § 104 and amended [Pub. L. 100–472, title II][/us/pl/100/472/tII], § 203, Oct. 5, 1988, [102 Stat. 2290][/us/stat/102/2290]; [Pub. L. 101–301][/us/pl/101/301], § 2(a)(6), May 24, 1990, [104 Stat. 206][/us/stat/104/206]; [Pub. L. 110–81, title I][/us/pl/110/81/tI], § 104(b), Sept. 14, 2007, [121 Stat. 740][/us/stat/121/740].)
 
  __Codification__ 
 
@@ -81,27 +81,27 @@
 
     1990—Subsec. (m). [Pub. L. 101–301][/us/pl/101/301] substituted “an Indian (as defined in [section 479 of this title][/us/usc/t25/s479]) appointed (except temporary appointments)” for “an Indian appointed”.
 
-    1988—Subsecs. (a), (b). [Pub. L. 100–472, § 203(b)][/us/pl/100/472/s203/b], (c), amended subsecs. (a) and (b). See Codification note above.
+    1988—Subsecs. (a), (b). [Pub. L. 100–472][/us/pl/100/472], § 203(b), (c), amended subsecs. (a) and (b). See Codification note above.
 
-    Subsec. (e). [Pub. L. 100–472, § 203(d)][/us/pl/100/472/s203/d], (e), in introductory provisions, substituted “Notwithstanding the provisions of sections 8347(o), 8713, and 8914 of title 5” for “Notwithstanding any other law” and struck out “on or before December 31, 1988” after “title 43”, and in par. (2), inserted “or chapter 84 (‘Federal Employees Retirement System’)”. Notwithstanding directory language that the substitution of “Notwithstanding the provisions of sections 8347(o), 8713, and 8914 of title 5” be made in par. (2) of subsec. (e), the substitution was made in introductory provisions of subsec. (e) to reflect the probable intent of Congress because the language replaced appeared only in those introductory provisions.
+    Subsec. (e). [Pub. L. 100–472][/us/pl/100/472], § 203(d), (e), in introductory provisions, substituted “Notwithstanding the provisions of sections 8347(o), 8713, and 8914 of title 5” for “Notwithstanding any other law” and struck out “on or before December 31, 1988” after “title 43”, and in par. (2), inserted “or chapter 84 (‘Federal Employees Retirement System’)”. Notwithstanding directory language that the substitution of “Notwithstanding the provisions of sections 8347(o), 8713, and 8914 of title 5” be made in par. (2) of subsec. (e), the substitution was made in introductory provisions of subsec. (e) to reflect the probable intent of Congress because the language replaced appeared only in those introductory provisions.
 
-    Subsecs. (k), (l). [Pub. L. 100–472, § 203(f)][/us/pl/100/472/s203/f], added subsecs. (k) and (l). See Codification note above.
+    Subsecs. (k), (l). [Pub. L. 100–472][/us/pl/100/472], § 203(f), added subsecs. (k) and (l). See Codification note above.
 
-    Subsec. (m). [Pub. L. 100–472, § 203(f)][/us/pl/100/472/s203/f], added subsec. (m).
+    Subsec. (m). [Pub. L. 100–472][/us/pl/100/472], § 203(f), added subsec. (m).
 
     1985—Subsec. (e). [Pub. L. 99–221][/us/pl/99/221] substituted “1988” for “1985”.
 
-    1983—Subsec. (e). [Pub. L. 89–702, § 210(a)][/us/pl/89/702/s210/a], as added by [Pub. L. 98–129][/us/pl/98/129], inserted “, the city of St. Paul, Alaska, the city of St. George, Alaska, upon incorporation, or the Village Corporations of St. Paul and St. George Islands established pursuant to [section 1607 of title 43][/us/usc/t43/s1607]”.
+    1983—Subsec. (e). [Pub. L. 89–702][/us/pl/89/702], § 210(a), as added by [Pub. L. 98–129][/us/pl/98/129], inserted “, the city of St. Paul, Alaska, the city of St. George, Alaska, upon incorporation, or the Village Corporations of St. Paul and St. George Islands established pursuant to [section 1607 of title 43][/us/usc/t43/s1607]”.
 
  __Effective Date of 2007 Amendment__ 
 
-[Pub. L. 110–81, title I, § 105(d)][/us/pl/110/81/s105/d], Sept. 14, 2007, [121 Stat. 741][/us/stat/121/741], provided that: 
+[Pub. L. 110–81, title I][/us/pl/110/81/tI], § 105(d), Sept. 14, 2007, [121 Stat. 741][/us/stat/121/741], provided that: 
 
 > “The amendments made by section 104 \[amending this section and [section 207 of Title 18][/us/usc/t18/s207], Crimes and Criminal Procedure\] shall take effect on the date of the enactment of this Act \[Sept. 14, 2007\], except that section 104(j)(2) of the Indian Self-Determination and Education Assistance Act \[[25 U.S.C. 450i(j)(2)][/us/usc/t25/s450i/j/2]\] (as amended by section 104(b)) shall apply to individuals who leave Federal office or employment to which such amendments apply on or after the 60th day after the date of the enactment of this Act.”
 
  __Pribilof Island Natives Employed by Federal Government on__  __October 28, 1983__ 
 
-[Pub. L. 89–702, title II, § 210(b)][/us/pl/89/702/s210/b], as added by [Pub. L. 98–129, § 2][/us/pl/98/129/s2], Oct. 14, 1983, [97 Stat. 844][/us/stat/97/844], provided that: 
+[Pub. L. 89–702, title II][/us/pl/89/702/tII], § 210(b), as added by [Pub. L. 98–129][/us/pl/98/129], § 2, Oct. 14, 1983, [97 Stat. 844][/us/stat/97/844], provided that: 
 
 > “Notwithstanding any other provision of law, any Native of the Pribilof Islands employed by the Federal government on October 28, 1983, shall be deemed to have been covered under chapters 81, 83, 85 and 87 of title 5, United States Code, on such date for the purposes of determining eligibility for continuity of benefits under [section 105(e) of the Act of January 4, 1975][/us/act/1975-01-04/s105/e] ([Public Law 93–638][/us/pl/93/638]), known as the Indian Self-Determination and Education Assistance Act \[subsec. (e) of this section\].”
 
@@ -136,18 +136,18 @@
 [/us/usc/t25/s458aaa]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs458aaa
 [/us/usc/t25/s479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs479
 [/us/usc/t25/s472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs472
-[/us/pl/93/638/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638%2Fs104
+[/us/pl/93/638/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638%2FtI
 [/us/stat/88/2208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2208
-[/us/pl/89/702/s210/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F702%2Fs210%2Fa
-[/us/pl/98/129/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F129%2Fs2
+[/us/pl/89/702/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F702%2FtII
+[/us/pl/98/129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F129
 [/us/stat/97/843]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F843
-[/us/pl/99/221/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F221%2Fs3%2Fa
+[/us/pl/99/221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F221
 [/us/stat/99/1735]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1735
-[/us/pl/100/472/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F472%2Fs203
+[/us/pl/100/472/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F472%2FtII
 [/us/stat/102/2290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2290
-[/us/pl/101/301/s2/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F301%2Fs2%2Fa%2F6
+[/us/pl/101/301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F301
 [/us/stat/104/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F206
-[/us/pl/110/81/s104/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F81%2Fs104%2Fb
+[/us/pl/110/81/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F81%2FtI
 [/us/stat/121/740]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F740
 [/us/pl/93/638/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638%2Fs104
 [/us/pl/93/638/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638%2Fs104
@@ -165,20 +165,20 @@
 [/us/usc/t25/s48]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs48
 [/us/pl/101/301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F301
 [/us/usc/t25/s479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs479
-[/us/pl/100/472/s203/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F472%2Fs203%2Fb
-[/us/pl/100/472/s203/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F472%2Fs203%2Fd
-[/us/pl/100/472/s203/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F472%2Fs203%2Ff
-[/us/pl/100/472/s203/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F472%2Fs203%2Ff
+[/us/pl/100/472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F472
+[/us/pl/100/472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F472
+[/us/pl/100/472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F472
+[/us/pl/100/472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F472
 [/us/pl/99/221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F221
-[/us/pl/89/702/s210/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F702%2Fs210%2Fa
+[/us/pl/89/702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F702
 [/us/pl/98/129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F129
 [/us/usc/t43/s1607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1607
-[/us/pl/110/81/s105/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F81%2Fs105%2Fd
+[/us/pl/110/81/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F81%2FtI
 [/us/stat/121/741]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F741
 [/us/usc/t18/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs207
 [/us/usc/t25/s450i/j/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450i%2Fj%2F2
-[/us/pl/89/702/s210/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F702%2Fs210%2Fb
-[/us/pl/98/129/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F129%2Fs2
+[/us/pl/89/702/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F702%2FtII
+[/us/pl/98/129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F129
 [/us/stat/97/844]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F844
 [/us/act/1975-01-04/s105/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1975-01-04%2Fs105%2Fe
 [/us/pl/93/638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638

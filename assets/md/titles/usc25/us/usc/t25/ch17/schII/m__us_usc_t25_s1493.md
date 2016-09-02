@@ -17,7 +17,7 @@
 
     Whenever the Secretary finds that any lender or holder of a guaranty certificate fails to maintain adequate accounting records, or to demonstrate proper ability to service adequately loans guaranteed or insured, or to exercise proper credit judgment, or has willfully or negligently engaged in practices otherwise detrimental to the interests of a borrower or of the United States, he may refuse, either temporarily or permanently, to guarantee or insure any further loans made by such lender or holder, and may bar such lender or holder from acquiring additional loans guaranteed or insured hereunder: Provided, That the Secretary shall not refuse to pay a valid guaranty or insurance claim on loans previously made in good faith.
 
-([Pub. L. 93–262, title II, § 213][/us/pl/93/262/s213], Apr. 12, 1974, [88 Stat. 81][/us/stat/88/81].)
+([Pub. L. 93–262, title II][/us/pl/93/262/tII], § 213, Apr. 12, 1974, [88 Stat. 81][/us/stat/88/81].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/93/262/s213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F262%2Fs213
+[/us/pl/93/262/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F262%2FtII
 [/us/stat/88/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F81
 
 

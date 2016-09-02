@@ -43,7 +43,7 @@
 
         After adoption of a tribal constitution in accordance with [section 983f of this title][/us/usc/t25/s983f], the constitution of the Tribe shall govern membership in the Tribe.
 
-([Pub. L. 101–484, § 7][/us/pl/101/484/s7], Oct. 31, 1990, [104 Stat. 1168][/us/stat/104/1168].)
+([Pub. L. 101–484][/us/pl/101/484], § 7, Oct. 31, 1990, [104 Stat. 1168][/us/stat/104/1168].)
 
 ----------
 
@@ -55,7 +55,7 @@
 [/us/usc/t25/s983f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs983f
 [/us/usc/t25/s983f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs983f
 [/us/usc/t25/s983f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs983f
-[/us/pl/101/484/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F484%2Fs7
+[/us/pl/101/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F484
 [/us/stat/104/1168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1168
 
 

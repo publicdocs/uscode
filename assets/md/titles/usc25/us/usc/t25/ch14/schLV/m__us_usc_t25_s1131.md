@@ -17,7 +17,7 @@
 
     The Secretary of the Interior shall prepare a roll of all persons who meet the following requirements for eligibility: (a) They were born on or prior to and living on October 14, 1966, and (b) they are descendants of members of the Duwamish Tribe as it existed in 1855. Applications for enrollment must be filed with the area director of the Bureau of Indian Affairs, Portland, Oregon, on forms prescribed for that purpose. The determination of the Secretary regarding the utilization of available rolls or rec­ords and the eligibility for enrollment of an applicant shall be final.
 
-([Pub. L. 89–660, § 1][/us/pl/89/660/s1], Oct. 14, 1966, [80 Stat. 910][/us/stat/80/910].)
+([Pub. L. 89–660][/us/pl/89/660], § 1, Oct. 14, 1966, [80 Stat. 910][/us/stat/80/910].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/89/660/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F660%2Fs1
+[/us/pl/89/660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F660
 [/us/stat/80/910]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F910
 
 

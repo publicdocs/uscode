@@ -31,7 +31,7 @@
 
     (g) “Adult” means a member of the tribe who has attained the age of twenty-one years.
 
-([Aug. 27, 1954, ch. 1009, § 2][/us/act/1954-08-27/ch1009/s2], [68 Stat. 868][/us/stat/68/868].)
+([Aug. 27, 1954, ch. 1009][/us/act/1954-08-27/ch1009], § 2, [68 Stat. 868][/us/stat/68/868].)
 
 ----------
 
@@ -42,7 +42,7 @@
 
 [/us/usc/t25/s677c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs677c
 [/us/usc/t25/s677c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs677c
-[/us/act/1954-08-27/ch1009/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-27%2Fch1009%2Fs2
+[/us/act/1954-08-27/ch1009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-27%2Fch1009
 [/us/stat/68/868]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F868
 
 

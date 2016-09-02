@@ -17,7 +17,7 @@
 
     The activities of the Department of the Interior associated with the Department’s consultation with Indian tribes and organizations related to the management of funds held in trust by the United States for Indian tribes shall be exempt from the Federal Advisory Committee Act (5 U.S.C. App.).
 
-([Pub. L. 103–435, § 19][/us/pl/103/435/s19], Nov. 2, 1994, [108 Stat. 4574][/us/stat/108/4574].)
+([Pub. L. 103–435][/us/pl/103/435], § 19, Nov. 2, 1994, [108 Stat. 4574][/us/stat/108/4574].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/103/435/s19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F435%2Fs19
+[/us/pl/103/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F435
 [/us/stat/108/4574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4574
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770

@@ -17,7 +17,7 @@
 
     It is the intent of Congress that the land conveyances and adjustments contemplated in this subchapter (except the conveyances and adjustments relating to Los Alamos Townsite Land) shall be completed not later than 180 days after September 27, 2006.
 
-([Pub. L. 109–286, § 17][/us/pl/109/286/s17], Sept. 27, 2006, [120 Stat. 1229][/us/stat/120/1229].)
+([Pub. L. 109–286][/us/pl/109/286], § 17, Sept. 27, 2006, [120 Stat. 1229][/us/stat/120/1229].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/109/286/s17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F286%2Fs17
+[/us/pl/109/286]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F286
 [/us/stat/120/1229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1229
 
 

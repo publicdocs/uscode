@@ -29,7 +29,7 @@
 
         Nothing in this section shall authorize the alienation, encumbrance, or taxation of any real or personal property, including water rights, belonging to any Indian or any Indian tribe, band, or community that is held in trust by the United States or is subject to a restriction against alienation imposed by the United States; or shall authorize regulation of the use of such property in a manner inconsistent with any Federal treaty, agreement, or statute or with any regulation made pursuant thereto; or shall deprive any Indian or any Indian tribe, band, or community of any right, privilege, or immunity afforded under Federal treaty, agreement, or statute with respect to hunting, trapping, or fishing or the control, licensing, or regulation thereof.
 
-([Pub. L. 90–284, title IV, § 401][/us/pl/90/284/s401], Apr. 11, 1968, [82 Stat. 78][/us/stat/82/78]; [Pub. L. 111–211, title II, § 221(a)][/us/pl/111/211/s221/a], July 29, 2010, [124 Stat. 2271][/us/stat/124/2271].)
+([Pub. L. 90–284, title IV][/us/pl/90/284/tIV], § 401, Apr. 11, 1968, [82 Stat. 78][/us/stat/82/78]; [Pub. L. 111–211, title II][/us/pl/111/211/tII], § 221(a), July 29, 2010, [124 Stat. 2271][/us/stat/124/2271].)
 
  __Amendments__ 
 
@@ -42,9 +42,9 @@
 ----------
 ----------
 
-[/us/pl/90/284/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F284%2Fs401
+[/us/pl/90/284/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F284%2FtIV
 [/us/stat/82/78]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F78
-[/us/pl/111/211/s221/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211%2Fs221%2Fa
+[/us/pl/111/211/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211%2FtII
 [/us/stat/124/2271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2271
 [/us/pl/111/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211
 

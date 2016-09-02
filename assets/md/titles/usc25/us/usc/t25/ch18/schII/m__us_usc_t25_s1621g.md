@@ -17,7 +17,7 @@
 
     Of the amounts appropriated for the Service in any fiscal year, other than amounts made available for the Indian Health Care Improvement Fund, not less than $200,000 shall be available only for research to further the performance of the health service responsibilities of the Service. Indian tribes and tribal organizations contracting with the Service under the authority of the Indian Self-Determination Act \[[25 U.S.C. 450f][/us/usc/t25/s450f] et seq.\] shall be given an equal opportunity to compete for, and receive, research funds under this section.
 
-([Pub. L. 94–437, title II, § 208][/us/pl/94/437/s208], as added [Pub. L. 100–713, title II, § 204][/us/pl/100/713/s204], Nov. 23, 1988, [102 Stat. 4812][/us/stat/102/4812].)
+([Pub. L. 94–437, title II][/us/pl/94/437/tII], § 208, as added [Pub. L. 100–713, title II][/us/pl/100/713/tII], § 204, Nov. 23, 1988, [102 Stat. 4812][/us/stat/102/4812].)
 
  __References in Text__ 
 
@@ -31,8 +31,8 @@
 ----------
 
 [/us/usc/t25/s450f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450f
-[/us/pl/94/437/s208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437%2Fs208
-[/us/pl/100/713/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F713%2Fs204
+[/us/pl/94/437/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437%2FtII
+[/us/pl/100/713/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F713%2FtII
 [/us/stat/102/4812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4812
 [/us/pl/93/638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638
 [/us/stat/88/2206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2206

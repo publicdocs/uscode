@@ -33,7 +33,7 @@
 
         None of the funds or assets transferred to the Tribe or its members by the Settlement Agreement of  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “or”. </sup></sup>  this subchapter, and none of the interest earned or income received on amounts in the funds established under section 1773d(a) and (b) of this title, shall be deemed to be taxable, nor shall such transfers be taxable events.
 
-([Pub. L. 101–41, § 10][/us/pl/101/41/s10], June 21, 1989, [103 Stat. 88][/us/stat/103/88].)
+([Pub. L. 101–41][/us/pl/101/41], § 10, June 21, 1989, [103 Stat. 88][/us/stat/103/88].)
 
  __References in Text__ 
 
@@ -50,7 +50,7 @@
 [/us/usc/t25/s1773d/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1773d%2Fa
 [/us/usc/t25/s117a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs117a
 [/us/usc/t25/s1773d/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1773d%2Fb
-[/us/pl/101/41/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F41%2Fs10
+[/us/pl/101/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F41
 [/us/stat/103/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F88
 [/us/pl/98/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F64
 [/us/stat/97/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F365

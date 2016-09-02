@@ -49,7 +49,7 @@
 
         Congress repudiates and rejects House Concurrent Resolution 108 of the 83d Congress and any policy of unilateral termination of Federal relations with any Indian nation.
 
-([Pub. L. 100–297, title V, § 5202][/us/pl/100/297/s5202], as added [Pub. L. 107–110, title X, § 1043][/us/pl/107/110/s1043], Jan. 8, 2002, [115 Stat. 2063][/us/stat/115/2063].)
+([Pub. L. 100–297, title V][/us/pl/100/297/tV], § 5202, as added [Pub. L. 107–110, title X][/us/pl/107/110/tX], § 1043, Jan. 8, 2002, [115 Stat. 2063][/us/stat/115/2063].)
 
  __References in Text__ 
 
@@ -59,7 +59,7 @@
 
  __Prior Provisions__ 
 
-    A prior section 2501, [Pub. L. 100–297, title V, § 5202][/us/pl/100/297/s5202], Apr. 28, 1988, [102 Stat. 385][/us/stat/102/385], set forth findings, prior to repeal by [Pub. L. 107–110, title X, § 1043][/us/pl/107/110/s1043], Jan. 8, 2002, [115 Stat. 2063][/us/stat/115/2063].
+    A prior section 2501, [Pub. L. 100–297, title V][/us/pl/100/297/tV], § 5202, Apr. 28, 1988, [102 Stat. 385][/us/stat/102/385], set forth findings, prior to repeal by [Pub. L. 107–110, title X][/us/pl/107/110/tX], § 1043, Jan. 8, 2002, [115 Stat. 2063][/us/stat/115/2063].
 
  __Effective Date__ 
 
@@ -67,13 +67,13 @@
 
  __Short Title__ 
 
-[Pub. L. 100–297, title V, § 5201][/us/pl/100/297/s5201], Apr. 28, 1988, [102 Stat. 385][/us/stat/102/385], provided that: 
+[Pub. L. 100–297, title V][/us/pl/100/297/tV], § 5201, Apr. 28, 1988, [102 Stat. 385][/us/stat/102/385], provided that: 
 
 > “This part \[part B (§§ 5201–5212) of title V of [Pub. L. 100–297][/us/pl/100/297], enacting this chapter\] may be cited as the ‘Tribally Controlled Schools Act of 1988’.”
 
  __Tribal School Construction Demonstration Program__ 
 
-[Pub. L. 108–7, div. F, title I, § 122][/us/pl/108/7/s122], Feb. 20, 2003, [117 Stat. 241][/us/stat/117/241], as amended by [Pub. L. 108–108, title I, § 136(a)][/us/pl/108/108/s136/a], Nov. 10, 2003, [117 Stat. 1270][/us/stat/117/1270], provided that:
+[Pub. L. 108–7, div. F, title I][/us/pl/108/7/dF/tI], § 122, Feb. 20, 2003, [117 Stat. 241][/us/stat/117/241], as amended by [Pub. L. 108–108, title I][/us/pl/108/108/tI], § 136(a), Nov. 10, 2003, [117 Stat. 1270][/us/stat/117/1270], provided that:
 
 >     “(a)  __Definitions__  __.—__ 
 
@@ -145,9 +145,9 @@
 
 Similar provisions were contained in the following prior appropriation acts:
 
-    [Pub. L. 107–63, title I, § 125][/us/pl/107/63/s125], Nov. 5, 2001, [115 Stat. 440][/us/stat/115/440].
+    [Pub. L. 107–63, title I][/us/pl/107/63/tI], § 125, Nov. 5, 2001, [115 Stat. 440][/us/stat/115/440].
 
-    [Pub. L. 106–291, title I, § 153][/us/pl/106/291/s153], Oct. 11, 2000, [114 Stat. 960][/us/stat/114/960].
+    [Pub. L. 106–291, title I][/us/pl/106/291/tI], § 153, Oct. 11, 2000, [114 Stat. 960][/us/stat/114/960].
 
 ----------
 
@@ -157,24 +157,24 @@ Similar provisions were contained in the following prior appropriation acts:
 ----------
 
 [/us/usc/t25/s450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450
-[/us/pl/100/297/s5202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297%2Fs5202
-[/us/pl/107/110/s1043]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2Fs1043
+[/us/pl/100/297/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297%2FtV
+[/us/pl/107/110/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2FtX
 [/us/stat/115/2063]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F2063
 [/us/pl/93/638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638
 [/us/stat/88/2203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2203
 [/us/usc/t25/s450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450
-[/us/pl/100/297/s5202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297%2Fs5202
+[/us/pl/100/297/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297%2FtV
 [/us/stat/102/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F385
-[/us/pl/107/110/s1043]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2Fs1043
+[/us/pl/107/110/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2FtX
 [/us/stat/115/2063]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F2063
 [/us/pl/107/110/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2Fs5
 [/us/usc/t20/s6301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6301
-[/us/pl/100/297/s5201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297%2Fs5201
+[/us/pl/100/297/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297%2FtV
 [/us/stat/102/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F385
 [/us/pl/100/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297
-[/us/pl/108/7/s122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs122
+[/us/pl/108/7/dF/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2FdF%2FtI
 [/us/stat/117/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F241
-[/us/pl/108/108/s136/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F108%2Fs136%2Fa
+[/us/pl/108/108/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F108%2FtI
 [/us/stat/117/1270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1270
 [/us/usc/t25/s450b/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450b%2Fe
 [/us/usc/t25/s2501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs2501
@@ -183,9 +183,9 @@ Similar provisions were contained in the following prior appropriation acts:
 [/us/usc/t25/s450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450
 [/us/usc/t25/s2501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs2501
 [/us/usc/t25/s450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450
-[/us/pl/107/63/s125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F63%2Fs125
+[/us/pl/107/63/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F63%2FtI
 [/us/stat/115/440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F440
-[/us/pl/106/291/s153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F291%2Fs153
+[/us/pl/106/291/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F291%2FtI
 [/us/stat/114/960]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F960
 
 

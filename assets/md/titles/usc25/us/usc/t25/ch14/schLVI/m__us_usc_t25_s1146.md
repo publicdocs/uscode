@@ -17,7 +17,7 @@
 
     None of the funds that may be distributed per capita shall be subject to Federal or State income taxes.
 
-([Pub. L. 90–93, § 6][/us/pl/90/93/s6], Sept. 27, 1967, [81 Stat. 230][/us/stat/81/230].)
+([Pub. L. 90–93][/us/pl/90/93], § 6, Sept. 27, 1967, [81 Stat. 230][/us/stat/81/230].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/90/93/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F93%2Fs6
+[/us/pl/90/93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F93
 [/us/stat/81/230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F230
 
 

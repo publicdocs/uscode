@@ -43,7 +43,7 @@
 
             (D) any other tribal interest.
 
-([Pub. L. 106–559, title I, § 106][/us/pl/106/559/s106], as added [Pub. L. 111–211, title II, § 214(a)(2)(B)][/us/pl/111/211/s214/a/2/B], July 29, 2010, [124 Stat. 2270][/us/stat/124/2270].)
+([Pub. L. 106–559, title I][/us/pl/106/559/tI], § 106, as added [Pub. L. 111–211, title II][/us/pl/111/211/tII], § 214(a)(2)(B), July 29, 2010, [124 Stat. 2270][/us/stat/124/2270].)
 
  __Prior Provisions__ 
 
@@ -56,8 +56,8 @@
 ----------
 ----------
 
-[/us/pl/106/559/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F559%2Fs106
-[/us/pl/111/211/s214/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211%2Fs214%2Fa%2F2%2FB
+[/us/pl/106/559/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F559%2FtI
+[/us/pl/111/211/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211%2FtII
 [/us/stat/124/2270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2270
 [/us/pl/106/559/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F559%2Fs106
 [/us/usc/t25/s3666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs3666

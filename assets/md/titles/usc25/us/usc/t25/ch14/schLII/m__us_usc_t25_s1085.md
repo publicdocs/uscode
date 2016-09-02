@@ -17,7 +17,7 @@
 
     Upon completion of a Hoh base roll in accordance with [section 1084 of this title][/us/usc/t25/s1084], the Secretary shall assist the Hoh Indians in developing a tribal organizational document and shall call an election for the purpose of voting on the adoption of such document.
 
-([Pub. L. 89–655, § 5][/us/pl/89/655/s5], Oct. 14, 1966, [80 Stat. 905][/us/stat/80/905].)
+([Pub. L. 89–655][/us/pl/89/655], § 5, Oct. 14, 1966, [80 Stat. 905][/us/stat/80/905].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t25/s1084]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1084
-[/us/pl/89/655/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F655%2Fs5
+[/us/pl/89/655]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F655
 [/us/stat/80/905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F905
 
 

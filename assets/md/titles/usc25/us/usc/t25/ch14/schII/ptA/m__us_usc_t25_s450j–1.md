@@ -183,7 +183,7 @@
 
         Notwithstanding any other provision of law (including any regulation), a tribal organization that carries out a self-determination contract may, with respect to allocations within the approved budget of the contract, rebudget to meet contract requirements, if such rebudgeting would not have an adverse effect on the performance of the contract.
 
-([Pub. L. 93–638, title I, § 106][/us/pl/93/638/s106], as added [Pub. L. 100–472, title II, § 205][/us/pl/100/472/s205], Oct. 5, 1988, [102 Stat. 2292][/us/stat/102/2292]; amended [Pub. L. 101–301, § 2(a)(8)][/us/pl/101/301/s2/a/8], (9), May 24, 1990, [104 Stat. 207][/us/stat/104/207]; [Pub. L. 101–644, title II, § 203(a)][/us/pl/101/644/s203/a], Nov. 29, 1990, [104 Stat. 4666][/us/stat/104/4666]; [Pub. L. 103–413, title I, § 102(14)][/us/pl/103/413/s102/14]–(19), Oct. 25, 1994, [108 Stat. 4257–4259][/us/stat/108/4257-4259]; [Pub. L. 105–362, title VIII, § 801(g)][/us/pl/105/362/s801/g], Nov. 10, 1998, [112 Stat. 3288][/us/stat/112/3288]; [Pub. L. 106–260, § 9][/us/pl/106/260/s9], Aug. 18, 2000, [114 Stat. 733][/us/stat/114/733].)
+([Pub. L. 93–638, title I][/us/pl/93/638/tI], § 106, as added [Pub. L. 100–472, title II][/us/pl/100/472/tII], § 205, Oct. 5, 1988, [102 Stat. 2292][/us/stat/102/2292]; amended [Pub. L. 101–301][/us/pl/101/301], § 2(a)(8), (9), May 24, 1990, [104 Stat. 207][/us/stat/104/207]; [Pub. L. 101–644, title II][/us/pl/101/644/tII], § 203(a), Nov. 29, 1990, [104 Stat. 4666][/us/stat/104/4666]; [Pub. L. 103–413, title I][/us/pl/103/413/tI], § 102(14)–(19), Oct. 25, 1994, [108 Stat. 4257–4259][/us/stat/108/4257-4259]; [Pub. L. 105–362, title VIII][/us/pl/105/362/tVIII], § 801(g), Nov. 10, 1998, [112 Stat. 3288][/us/stat/112/3288]; [Pub. L. 106–260][/us/pl/106/260], § 9, Aug. 18, 2000, [114 Stat. 733][/us/stat/114/733].)
 
  __References in Text__ 
 
@@ -199,33 +199,33 @@
 
     1998—Subsecs. (c) to (o). [Pub. L. 105–362][/us/pl/105/362] redesignated subsecs. (d) to (o) as (c) to (n), respectively, and struck out former subsec. (c) which related to Secretary’s annual report to Congress on implementation of this subchapter.
 
-    1994—Subsec. (a)(1). [Pub. L. 103–413, § 102(14)(A)][/us/pl/103/413/s102/14/A], inserted before period at end “, without regard to any organizational level within the Department of the Interior or the Department of Health and Human Services, as appropriate, at which the program, function, service, or activity or portion thereof, including supportive administrative functions that are otherwise contractable, is operated”.
+    1994—Subsec. (a)(1). [Pub. L. 103–413][/us/pl/103/413], § 102(14)(A), inserted before period at end “, without regard to any organizational level within the Department of the Interior or the Department of Health and Human Services, as appropriate, at which the program, function, service, or activity or portion thereof, including supportive administrative functions that are otherwise contractable, is operated”.
 
-    Subsec. (a)(2). [Pub. L. 103–413, § 102(14)(B)][/us/pl/103/413/s102/14/B], inserted “an amount for” after “consist of”.
+    Subsec. (a)(2). [Pub. L. 103–413][/us/pl/103/413], § 102(14)(B), inserted “an amount for” after “consist of”.
 
-    Subsec. (a)(3). [Pub. L. 103–413, § 102(14)(C)][/us/pl/103/413/s102/14/C], added par. (3) and struck out former par. (3) which read as follows: “Any savings in operation under a self-determination contract shall be utilized to provide additional services or benefits under the contract or be expended in the succeeding fiscal year as provided in [section 13a of this title][/us/usc/t25/s13a].”
+    Subsec. (a)(3). [Pub. L. 103–413][/us/pl/103/413], § 102(14)(C), added par. (3) and struck out former par. (3) which read as follows: “Any savings in operation under a self-determination contract shall be utilized to provide additional services or benefits under the contract or be expended in the succeeding fiscal year as provided in [section 13a of this title][/us/usc/t25/s13a].”
 
-    Subsec. (a)(4) to (6). [Pub. L. 103–413, § 102(14)(C)][/us/pl/103/413/s102/14/C], added pars. (4) to (6).
+    Subsec. (a)(4) to (6). [Pub. L. 103–413][/us/pl/103/413], § 102(14)(C), added pars. (4) to (6).
 
-    Subsec. (c). [Pub. L. 103–413, § 102(15)(A)][/us/pl/103/413/s102/15/A], substituted “May 15” for “March 15” in introductory provisions.
+    Subsec. (c). [Pub. L. 103–413][/us/pl/103/413], § 102(15)(A), substituted “May 15” for “March 15” in introductory provisions.
 
-    Subsec. (c)(1), (2). [Pub. L. 103–413, § 102(15)(B)][/us/pl/103/413/s102/15/B], substituted “contract support costs” for “indirect costs”.
+    Subsec. (c)(1), (2). [Pub. L. 103–413][/us/pl/103/413], § 102(15)(B), substituted “contract support costs” for “indirect costs”.
 
-    Subsec. (c)(6). [Pub. L. 103–413, § 102(15)(C)][/us/pl/103/413/s102/15/C]–(E), added par. (6).
+    Subsec. (c)(6). [Pub. L. 103–413][/us/pl/103/413], § 102(15)(C)–(E), added par. (6).
 
-    Subsec. (f). [Pub. L. 103–413, § 102(16)][/us/pl/103/413/s102/16], inserted after second sentence “For the purpose of determining the 365-day period specified in this paragraph, an audit report shall be deemed to have been received on the date of actual receipt by the Secretary, if, within 60 days after receiving the report, the Secretary does not give notice of a determination by the Secretary to reject the single-agency report as insufficient due to noncompliance with chapter 75 of title 31 or noncompliance with any other applicable law.”
+    Subsec. (f). [Pub. L. 103–413][/us/pl/103/413], § 102(16), inserted after second sentence “For the purpose of determining the 365-day period specified in this paragraph, an audit report shall be deemed to have been received on the date of actual receipt by the Secretary, if, within 60 days after receiving the report, the Secretary does not give notice of a determination by the Secretary to reject the single-agency report as insufficient due to noncompliance with chapter 75 of title 31 or noncompliance with any other applicable law.”
 
-    Subsec. (g). [Pub. L. 103–413, § 102(17)][/us/pl/103/413/s102/17], added subsec. (g) and struck out former subsec. (g) which read as follows: “Upon the approval of a self-determination contract and at the request of an Indian tribe or tribal organization, the Secretary shall add the indirect cost funding amount awarded for a self-determination contract to the amount awarded for direct program funding for the first year and, subject to adjustments in the amount of direct program costs for the contract, for each subsequent year that the program remains continuously under contract.”
+    Subsec. (g). [Pub. L. 103–413][/us/pl/103/413], § 102(17), added subsec. (g) and struck out former subsec. (g) which read as follows: “Upon the approval of a self-determination contract and at the request of an Indian tribe or tribal organization, the Secretary shall add the indirect cost funding amount awarded for a self-determination contract to the amount awarded for direct program funding for the first year and, subject to adjustments in the amount of direct program costs for the contract, for each subsequent year that the program remains continuously under contract.”
 
-    Subsec. (i). [Pub. L. 103–413, § 102(18)][/us/pl/103/413/s102/18], added subsec. (i) and struck out former subsec. (i) which read as follows: “Within one month after October 5, 1988, the Secretary is mandated to establish a team in each area of the Bureau of Indian Affairs which consists of agency personnel (area personnel in the Navajo Area and in the case of Indian tribes not served by an agency) and tribal representatives for the purpose of analyzing the ‘Indian Priority System’ and other aspects of the budgeting and funding allocation process of the Bureau of Indian Affairs for the purpose of making a report to Congress with appropriate recommendations for changes and legislative actions to achieve greater tribal decision-making authority over the use of funds appropriated for the benefit of the tribes and their members. The report along with the analysis, findings and recommendations of the area teams shall be submitted to Congress within six months of October 5, 1988. The Secretary may submit to Congress separate comments on the information and recommendations on the report.”
+    Subsec. (i). [Pub. L. 103–413][/us/pl/103/413], § 102(18), added subsec. (i) and struck out former subsec. (i) which read as follows: “Within one month after October 5, 1988, the Secretary is mandated to establish a team in each area of the Bureau of Indian Affairs which consists of agency personnel (area personnel in the Navajo Area and in the case of Indian tribes not served by an agency) and tribal representatives for the purpose of analyzing the ‘Indian Priority System’ and other aspects of the budgeting and funding allocation process of the Bureau of Indian Affairs for the purpose of making a report to Congress with appropriate recommendations for changes and legislative actions to achieve greater tribal decision-making authority over the use of funds appropriated for the benefit of the tribes and their members. The report along with the analysis, findings and recommendations of the area teams shall be submitted to Congress within six months of October 5, 1988. The Secretary may submit to Congress separate comments on the information and recommendations on the report.”
 
-    Subsecs. (j) to (o). [Pub. L. 103–413, § 102(19)][/us/pl/103/413/s102/19], added subsecs. (j) to (o).
+    Subsecs. (j) to (o). [Pub. L. 103–413][/us/pl/103/413], § 102(19), added subsecs. (j) to (o).
 
     1990—Subsec. (e). [Pub. L. 101–644][/us/pl/101/644] substituted “1992” for “1988”.
 
-    Subsec. (f). [Pub. L. 101–301, § 2(a)(8)][/us/pl/101/301/s2/a/8], substituted “prior to enactment of chapter 75 of title 31” for “prior to enactment of the Single Agency Audit Act of 1984 (chapter 75 of title 31)”, which for purposes of codification was translated as “prior to October 19, 1984”, requiring no change in text.
+    Subsec. (f). [Pub. L. 101–301][/us/pl/101/301], § 2(a)(8), substituted “prior to enactment of chapter 75 of title 31” for “prior to enactment of the Single Agency Audit Act of 1984 (chapter 75 of title 31)”, which for purposes of codification was translated as “prior to October 19, 1984”, requiring no change in text.
 
-    Subsec. (i). [Pub. L. 101–301, § 2(a)(9)][/us/pl/101/301/s2/a/9], substituted “agency personnel (area personnel in the Navajo Area and in the case of Indian tribes not served by an agency)” for “agency personnel”.
+    Subsec. (i). [Pub. L. 101–301][/us/pl/101/301], § 2(a)(9), substituted “agency personnel (area personnel in the Navajo Area and in the case of Indian tribes not served by an agency)” for “agency personnel”.
 
 ----------
 
@@ -240,18 +240,18 @@
 [/us/usc/t25/s450m–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450m%E2%80%931
 [/us/usc/t25/s476]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs476
 [/us/usc/t31/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105
-[/us/pl/93/638/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638%2Fs106
-[/us/pl/100/472/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F472%2Fs205
+[/us/pl/93/638/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638%2FtI
+[/us/pl/100/472/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F472%2FtII
 [/us/stat/102/2292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2292
-[/us/pl/101/301/s2/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F301%2Fs2%2Fa%2F8
+[/us/pl/101/301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F301
 [/us/stat/104/207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F207
-[/us/pl/101/644/s203/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F644%2Fs203%2Fa
+[/us/pl/101/644/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F644%2FtII
 [/us/stat/104/4666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4666
-[/us/pl/103/413/s102/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F413%2Fs102%2F14
+[/us/pl/103/413/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F413%2FtI
 [/us/stat/108/4257-4259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4257-4259
-[/us/pl/105/362/s801/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362%2Fs801%2Fg
+[/us/pl/105/362/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362%2FtVIII
 [/us/stat/112/3288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3288
-[/us/pl/106/260/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F260%2Fs9
+[/us/pl/106/260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F260
 [/us/stat/114/733]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F733
 [/us/pl/93/638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638
 [/us/stat/88/2203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2203
@@ -261,20 +261,20 @@
 [/us/usc/t25/s450j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450j
 [/us/pl/106/260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F260
 [/us/pl/105/362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362
-[/us/pl/103/413/s102/14/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F413%2Fs102%2F14%2FA
-[/us/pl/103/413/s102/14/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F413%2Fs102%2F14%2FB
-[/us/pl/103/413/s102/14/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F413%2Fs102%2F14%2FC
+[/us/pl/103/413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F413
+[/us/pl/103/413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F413
+[/us/pl/103/413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F413
 [/us/usc/t25/s13a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs13a
-[/us/pl/103/413/s102/14/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F413%2Fs102%2F14%2FC
-[/us/pl/103/413/s102/15/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F413%2Fs102%2F15%2FA
-[/us/pl/103/413/s102/15/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F413%2Fs102%2F15%2FB
-[/us/pl/103/413/s102/15/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F413%2Fs102%2F15%2FC
-[/us/pl/103/413/s102/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F413%2Fs102%2F16
-[/us/pl/103/413/s102/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F413%2Fs102%2F17
-[/us/pl/103/413/s102/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F413%2Fs102%2F18
-[/us/pl/103/413/s102/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F413%2Fs102%2F19
+[/us/pl/103/413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F413
+[/us/pl/103/413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F413
+[/us/pl/103/413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F413
+[/us/pl/103/413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F413
+[/us/pl/103/413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F413
+[/us/pl/103/413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F413
+[/us/pl/103/413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F413
+[/us/pl/103/413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F413
 [/us/pl/101/644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F644
-[/us/pl/101/301/s2/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F301%2Fs2%2Fa%2F8
-[/us/pl/101/301/s2/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F301%2Fs2%2Fa%2F9
+[/us/pl/101/301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F301
+[/us/pl/101/301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F301
 
 

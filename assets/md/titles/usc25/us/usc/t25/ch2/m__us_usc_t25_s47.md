@@ -21,7 +21,7 @@
 
     (2) the terms “protege firm” and “mentor firm” have the meaning given such terms in subsection (c) of such section 831.
 
-([June 25, 1910, ch. 431, § 23][/us/act/1910-06-25/ch431/s23], [36 Stat. 861][/us/stat/36/861]; [Pub. L. 100–581, title II, § 206][/us/pl/100/581/s206], Nov. 1, 1988, [102 Stat. 2940][/us/stat/102/2940]; [Pub. L. 103–435, § 14][/us/pl/103/435/s14], Nov. 2, 1994, [108 Stat. 4572][/us/stat/108/4572].)
+([June 25, 1910, ch. 431][/us/act/1910-06-25/ch431], § 23, [36 Stat. 861][/us/stat/36/861]; [Pub. L. 100–581, title II][/us/pl/100/581/tII], § 206, Nov. 1, 1988, [102 Stat. 2940][/us/stat/102/2940]; [Pub. L. 103–435][/us/pl/103/435], § 14, Nov. 2, 1994, [108 Stat. 4572][/us/stat/108/4572].)
 
  __References in Text__ 
 
@@ -29,7 +29,7 @@
 
  __Codification__ 
 
-    Section is based on proviso of first sentence of section 23 of act of June 25, 1910. Remainder of first sentence of section 23 was classified to [section 93 of this title][/us/usc/t25/s93] prior to repeal by [act Oct. 10, 1940, ch. 851, § 4][/us/act/1940-10-10/ch851/s4], [54 Stat. 1112][/us/stat/54/1112].
+    Section is based on proviso of first sentence of section 23 of act of June 25, 1910. Remainder of first sentence of section 23 was classified to [section 93 of this title][/us/usc/t25/s93] prior to repeal by [act Oct. 10, 1940, ch. 851][/us/act/1940-10-10/ch851], § 4, [54 Stat. 1112][/us/stat/54/1112].
 
  __Prior Provisions__ 
 
@@ -58,16 +58,16 @@
 
 [/us/usc/t10/s2301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2301
 [/us/usc/t10/s2301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2301
-[/us/act/1910-06-25/ch431/s23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1910-06-25%2Fch431%2Fs23
+[/us/act/1910-06-25/ch431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1910-06-25%2Fch431
 [/us/stat/36/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F861
-[/us/pl/100/581/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F581%2Fs206
+[/us/pl/100/581/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F581%2FtII
 [/us/stat/102/2940]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2940
-[/us/pl/103/435/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F435%2Fs14
+[/us/pl/103/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F435
 [/us/stat/108/4572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4572
 [/us/pl/101/510/s831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs831
 [/us/usc/t10/s2302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2302
 [/us/usc/t25/s93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs93
-[/us/act/1940-10-10/ch851/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-10-10%2Fch851%2Fs4
+[/us/act/1940-10-10/ch851]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-10-10%2Fch851
 [/us/stat/54/1112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F1112
 [/us/act/1908-04-30/ch153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1908-04-30%2Fch153
 [/us/stat/35/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F35%2F71

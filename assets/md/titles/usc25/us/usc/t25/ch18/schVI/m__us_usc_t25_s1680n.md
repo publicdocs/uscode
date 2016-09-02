@@ -27,7 +27,7 @@
 
         (2) any lands title which is held in trust by the United States for the benefit of any Indian tribe or individual Indian, or held by any Indian tribe or individual Indian subject to restriction by the United States against alienation and over which an Indian tribe exercises governmental power.
 
-([Pub. L. 94–437, title VIII, § 824][/us/pl/94/437/s824], as added [Pub. L. 102–573, title VIII, § 812][/us/pl/102/573/s812], Oct. 29, 1992, [106 Stat. 4589][/us/stat/106/4589].)
+([Pub. L. 94–437, title VIII][/us/pl/94/437/tVIII], § 824, as added [Pub. L. 102–573, title VIII][/us/pl/102/573/tVIII], § 812, Oct. 29, 1992, [106 Stat. 4589][/us/stat/106/4589].)
 
 ----------
 
@@ -36,8 +36,8 @@
 ----------
 ----------
 
-[/us/pl/94/437/s824]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437%2Fs824
-[/us/pl/102/573/s812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2Fs812
+[/us/pl/94/437/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437%2FtVIII
+[/us/pl/102/573/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2FtVIII
 [/us/stat/106/4589]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4589
 
 

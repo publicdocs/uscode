@@ -17,7 +17,7 @@
 
     There shall be appointed by the President, by and with the advice and consent of the Senate, a person of knowledge and experience in the management, training, and practical education of children, to be Superintendent of Indian Schools, whose duty it shall be to visit and inspect the schools in which Indians are taught in whole or in part from appropriations from the United States Treasury, and report to the Commissioner of Indian Affairs, what, in his judgment, are the defects, if any, in any of them, in system, in administration, or in means for the most effective advancement of the pupils therein toward civilization and self-support, and what changes are needed to remedy such defects as may exist, and to perform such other duties in connection with Indian schools as may be prescribed by the Secretary of the Interior.
 
-([Mar. 2, 1889, ch. 412, § 10][/us/act/1889-03-02/ch412/s10], [25 Stat. 1003][/us/stat/25/1003].)
+([Mar. 2, 1889, ch. 412][/us/act/1889-03-02/ch412], § 10, [25 Stat. 1003][/us/stat/25/1003].)
 
  __Transfer of Functions__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1889-03-02/ch412/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1889-03-02%2Fch412%2Fs10
+[/us/act/1889-03-02/ch412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1889-03-02%2Fch412
 [/us/stat/25/1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F25%2F1003
 [/us/stat/64/1262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1262
 

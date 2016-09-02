@@ -17,7 +17,7 @@
 
     The per capita shares shall be determined on the basis of the number of persons eligible for per capitas and the number of persons rejected for per capitas who have taken a timely appeal. The shares of those persons whose appeals are denied shall revert to the tribe from whose share the per capita would have been paid, to be expended for any purpose designated by such tribe and approved by the Secretary.
 
-([Pub. L. 92–557, § 6][/us/pl/92/557/s6], Oct. 25, 1972, [86 Stat. 1172][/us/stat/86/1172].)
+([Pub. L. 92–557][/us/pl/92/557], § 6, Oct. 25, 1972, [86 Stat. 1172][/us/stat/86/1172].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/92/557/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F557%2Fs6
+[/us/pl/92/557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F557
 [/us/stat/86/1172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1172
 
 

@@ -17,7 +17,7 @@
 
     Any portion of such funds that may be distributed per capita to members of the tribe shall not be subject to Federal or State income tax.
 
-([Pub. L. 91–404, § 2][/us/pl/91/404/s2], Sept. 19, 1970, [84 Stat. 845][/us/stat/84/845].)
+([Pub. L. 91–404][/us/pl/91/404], § 2, Sept. 19, 1970, [84 Stat. 845][/us/stat/84/845].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/91/404/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F404%2Fs2
+[/us/pl/91/404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F404
 [/us/stat/84/845]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F845
 
 

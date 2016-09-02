@@ -31,7 +31,7 @@
 
     (7) these services are part of the Federal Government’s continuing trust responsibility to provide education services to American Indian and Alaska Natives.
 
-([Pub. L. 102–325, title XIII, § 1312][/us/pl/102/325/s1312], July 23, 1992, [106 Stat. 798][/us/stat/106/798].)
+([Pub. L. 102–325, title XIII][/us/pl/102/325/tXIII], § 1312, July 23, 1992, [106 Stat. 798][/us/stat/106/798].)
 
  __References in Text__ 
 
@@ -45,7 +45,7 @@
 ----------
 
 [/us/usc/t25/s450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450
-[/us/pl/102/325/s1312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs1312
+[/us/pl/102/325/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2FtXIII
 [/us/stat/106/798]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F798
 [/us/pl/93/638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638
 [/us/stat/88/2203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2203

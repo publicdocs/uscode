@@ -17,7 +17,7 @@
 
     On and after October 12, 1984, any cost of providing lunches to nonboarding students in public schools from funds appropriated under this or any other Act for the Bureau of Indian Affairs shall be paid from the amount of such funds otherwise allocated for the schools involved without regard to the cost of providing lunches for such students.
 
-([Pub. L. 98–473, title I, § 101(c)][/us/pl/98/473/s101/c] \[title I, § 100\], Oct. 12, 1984, [98 Stat. 1837][/us/stat/98/1837], 1848.)
+([Pub. L. 98–473, title I][/us/pl/98/473/tI], § 101(c) \[title I, § 100\], Oct. 12, 1984, [98 Stat. 1837][/us/stat/98/1837], 1848.)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/98/473/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs101%2Fc
+[/us/pl/98/473/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtI
 [/us/stat/98/1837]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1837
 
 

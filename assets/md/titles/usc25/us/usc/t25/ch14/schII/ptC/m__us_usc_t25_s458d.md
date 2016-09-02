@@ -17,7 +17,7 @@
 
     The Secretary is authorized and directed to provide funds, pursuant to this subchapter; the the  <sup>\[1\]</sup>  <sup><sup> 1 So in original. </sup></sup>  Act of April 16, 1934 ([48 Stat. 596][/us/stat/48/596]), as amended \[[25 U.S.C. 452][/us/usc/t25/s452] et seq.\]; or any other authority granted to him to any tribe or tribal organization which controls and manages any previously private school.
 
-([Pub. L. 93–638, title II, § 208][/us/pl/93/638/s208], Jan. 4, 1975, [88 Stat. 2216][/us/stat/88/2216]; [Pub. L. 97–375, title I, § 108(d)][/us/pl/97/375/s108/d], Dec. 21, 1982, [96 Stat. 1820][/us/stat/96/1820].)
+([Pub. L. 93–638, title II][/us/pl/93/638/tII], § 208, Jan. 4, 1975, [88 Stat. 2216][/us/stat/88/2216]; [Pub. L. 97–375, title I][/us/pl/97/375/tI], § 108(d), Dec. 21, 1982, [96 Stat. 1820][/us/stat/96/1820].)
 
  __References in Text__ 
 
@@ -38,9 +38,9 @@
 
 [/us/stat/48/596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F596
 [/us/usc/t25/s452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs452
-[/us/pl/93/638/s208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638%2Fs208
+[/us/pl/93/638/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638%2FtII
 [/us/stat/88/2216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2216
-[/us/pl/97/375/s108/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F375%2Fs108%2Fd
+[/us/pl/97/375/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F375%2FtI
 [/us/stat/96/1820]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1820
 [/us/pl/93/638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638
 [/us/stat/88/2203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2203

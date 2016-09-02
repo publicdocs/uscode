@@ -27,7 +27,7 @@
 
         Within thirty days after receiving notice of a vacancy on the Interim Council, the Interim Council shall hold a general council meeting for the purpose of electing a person to fill such vacancy. The Interim Council shall provide notice of the time, place, and purpose of such meeting and election to members described in [section 711b(d) of this title][/us/usc/t25/s711b/d] at least ten days before such general meeting and election. The person nominated to fill such vacancy at the general council meeting who received the highest number of votes in the election shall fill such vacancy.
 
-([Pub. L. 95–195, § 5][/us/pl/95/195/s5], Nov. 18, 1977, [91 Stat. 1416][/us/stat/91/1416]; [Pub. L. 96–88, title V, § 509(b)][/us/pl/96/88/s509/b], Oct. 17, 1979, [93 Stat. 695][/us/stat/93/695].)
+([Pub. L. 95–195][/us/pl/95/195], § 5, Nov. 18, 1977, [91 Stat. 1416][/us/stat/91/1416]; [Pub. L. 96–88, title V][/us/pl/96/88/tV], § 509(b), Oct. 17, 1979, [93 Stat. 695][/us/stat/93/695].)
 
  __Change of Name__ 
 
@@ -43,9 +43,9 @@
 [/us/usc/t25/s711b/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs711b%2Fd
 [/us/usc/t25/s711d/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs711d%2Fc
 [/us/usc/t25/s711b/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs711b%2Fd
-[/us/pl/95/195/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F195%2Fs5
+[/us/pl/95/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F195
 [/us/stat/91/1416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1416
-[/us/pl/96/88/s509/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs509%2Fb
+[/us/pl/96/88/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2FtV
 [/us/stat/93/695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F695
 [/us/pl/96/88/s509/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs509%2Fb
 [/us/usc/t20/s3508/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs3508%2Fb

@@ -85,11 +85,11 @@
 
         There are authorized to be appropriated to carry out this section $750,000, non-reimbursable, to remain available until expended.
 
-([Pub. L. 102–486, title XXVI, § 2605][/us/pl/102/486/s2605], as added [Pub. L. 109–58, title V, § 503(a)][/us/pl/109/58/s503/a], Aug. 8, 2005, [119 Stat. 776][/us/stat/119/776].)
+([Pub. L. 102–486, title XXVI][/us/pl/102/486/tXXVI], § 2605, as added [Pub. L. 109–58, title V][/us/pl/109/58/tV], § 503(a), Aug. 8, 2005, [119 Stat. 776][/us/stat/119/776].)
 
  __Prior Provisions__ 
 
-    A prior section 3505, [Pub. L. 102–486, title XXVI, § 2605][/us/pl/102/486/s2605], Oct. 24, 1992, [106 Stat. 3115][/us/stat/106/3115]; [Pub. L. 103–437, § 10(e)(1)][/us/pl/103/437/s10/e/1], (2)(D), Nov. 2, 1994, [108 Stat. 4589][/us/stat/108/4589], related to Indian Energy Resource Commission, prior to the general amendment of this chapter by [Pub. L. 109–58][/us/pl/109/58].
+    A prior section 3505, [Pub. L. 102–486, title XXVI][/us/pl/102/486/tXXVI], § 2605, Oct. 24, 1992, [106 Stat. 3115][/us/stat/106/3115]; [Pub. L. 103–437][/us/pl/103/437], § 10(e)(1), (2)(D), Nov. 2, 1994, [108 Stat. 4589][/us/stat/108/4589], related to Indian Energy Resource Commission, prior to the general amendment of this chapter by [Pub. L. 109–58][/us/pl/109/58].
 
 ----------
 
@@ -98,12 +98,12 @@
 ----------
 ----------
 
-[/us/pl/102/486/s2605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs2605
-[/us/pl/109/58/s503/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs503%2Fa
+[/us/pl/102/486/tXXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtXXVI
+[/us/pl/109/58/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtV
 [/us/stat/119/776]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F776
-[/us/pl/102/486/s2605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs2605
+[/us/pl/102/486/tXXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtXXVI
 [/us/stat/106/3115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3115
-[/us/pl/103/437/s10/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437%2Fs10%2Fe%2F1
+[/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
 [/us/stat/108/4589]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4589
 [/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
 

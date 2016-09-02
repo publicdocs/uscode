@@ -31,7 +31,7 @@
 
         (4) alters, abridges, diminishes, repeals, or affects any other valid existing right relating to National Forest System land or other public land.
 
-([Pub. L. 110–234, title VIII, § 8107][/us/pl/110/234/s8107], May 22, 2008, [122 Stat. 1289][/us/stat/122/1289]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VIII, § 8107, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2051.)
+([Pub. L. 110–234, title VIII][/us/pl/110/234/tVIII], § 8107, May 22, 2008, [122 Stat. 1289][/us/stat/122/1289]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title VIII, § 8107, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2051.)
 
  __Codification__ 
 
@@ -44,9 +44,9 @@
 ----------
 ----------
 
-[/us/pl/110/234/s8107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs8107
+[/us/pl/110/234/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtVIII
 [/us/stat/122/1289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1289
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246

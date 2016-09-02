@@ -241,7 +241,7 @@
 
             A tribally designated housing entity may be authorized or established by one or more Indian tribes to act on behalf of each such tribe authorizing or establishing the housing entity.
 
-([Pub. L. 104–330, § 4][/us/pl/104/330/s4], Oct. 26, 1996, [110 Stat. 4018][/us/stat/110/4018]; [Pub. L. 105–256, § 13(b)][/us/pl/105/256/s13/b], Oct. 14, 1998, [112 Stat. 1900][/us/stat/112/1900]; [Pub. L. 105–276, title V, § 595(e)(1)][/us/pl/105/276/s595/e/1], (2), Oct. 21, 1998, [112 Stat. 2656][/us/stat/112/2656]; [Pub. L. 106–402, title IV, § 401(b)(2)][/us/pl/106/402/s401/b/2], Oct. 30, 2000, [114 Stat. 1737][/us/stat/114/1737]; [Pub. L. 107–292, § 3][/us/pl/107/292/s3], Nov. 13, 2002, [116 Stat. 2053][/us/stat/116/2053]; [Pub. L. 110–411, § 3][/us/pl/110/411/s3], Oct. 14, 2008, [122 Stat. 4320][/us/stat/122/4320]; [Pub. L. 111–269, § 2][/us/pl/111/269/s2], Oct. 12, 2010, [124 Stat. 2850][/us/stat/124/2850].)
+([Pub. L. 104–330][/us/pl/104/330], § 4, Oct. 26, 1996, [110 Stat. 4018][/us/stat/110/4018]; [Pub. L. 105–256][/us/pl/105/256], § 13(b), Oct. 14, 1998, [112 Stat. 1900][/us/stat/112/1900]; [Pub. L. 105–276, title V][/us/pl/105/276/tV], § 595(e)(1), (2), Oct. 21, 1998, [112 Stat. 2656][/us/stat/112/2656]; [Pub. L. 106–402, title IV][/us/pl/106/402/tIV], § 401(b)(2), Oct. 30, 2000, [114 Stat. 1737][/us/stat/114/1737]; [Pub. L. 107–292][/us/pl/107/292], § 3, Nov. 13, 2002, [116 Stat. 2053][/us/stat/116/2053]; [Pub. L. 110–411][/us/pl/110/411], § 3, Oct. 14, 2008, [122 Stat. 4320][/us/stat/122/4320]; [Pub. L. 111–269][/us/pl/111/269], § 2, Oct. 12, 2010, [124 Stat. 2850][/us/stat/124/2850].)
 
  __References in Text__ 
 
@@ -255,7 +255,7 @@
 
     For the effective date under section 705, referred to in par. (13)(C)(i)(II), as Oct. 26, 1996, see [section 705 of Pub. L. 104–330][/us/pl/104/330/s705], set out as an Effective Date note under [section 4211 of this title][/us/usc/t25/s4211].
 
-    The United States Housing Act of 1937, referred to in pars. (13)(C)(i)(II) and (22)(A)(i), is [act Sept. 1, 1937, ch. 896][/us/act/1937-09-01/ch896], as revised generally by [Pub. L. 93–383, title II, § 201(a)][/us/pl/93/383/s201/a], Aug. 22, 1974, [88 Stat. 653][/us/stat/88/653], which is classified generally to chapter 8 (§ 1437 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 1437 of Title 42][/us/usc/t42/s1437] and Tables.
+    The United States Housing Act of 1937, referred to in pars. (13)(C)(i)(II) and (22)(A)(i), is [act Sept. 1, 1937, ch. 896][/us/act/1937-09-01/ch896], as revised generally by [Pub. L. 93–383, title II][/us/pl/93/383/tII], § 201(a), Aug. 22, 1974, [88 Stat. 653][/us/stat/88/653], which is classified generally to chapter 8 (§ 1437 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 1437 of Title 42][/us/usc/t42/s1437] and Tables.
 
  __Amendments__ 
 
@@ -267,11 +267,11 @@
 
     2000—Par. (17)(C). [Pub. L. 106–402][/us/pl/106/402] substituted “as defined in [section 15002 of title 42][/us/usc/t42/s15002]” for “as defined in [section 6001 of title 42][/us/usc/t42/s6001]”.
 
-    1998—Par. (10). [Pub. L. 105–276, § 595(e)(1)][/us/pl/105/276/s595/e/1], amended heading and text of par. (10) generally. Prior to amendment, text read as follows: “The term ‘Indian area’ means the area within which a tribally designated housing entity is authorized by one or more Indian tribes to provide assistance under this chapter for affordable housing.”
+    1998—Par. (10). [Pub. L. 105–276][/us/pl/105/276], § 595(e)(1), amended heading and text of par. (10) generally. Prior to amendment, text read as follows: “The term ‘Indian area’ means the area within which a tribally designated housing entity is authorized by one or more Indian tribes to provide assistance under this chapter for affordable housing.”
 
     Par. (12)(B). [Pub. L. 105–256][/us/pl/105/256] substituted “Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450][/us/usc/t25/s450] et seq.)” for “Indian Self-Determination and Education Assistance Act of 1975”.
 
-    Par. (12)(C)(i)(II). [Pub. L. 105–276, § 595(e)(2)][/us/pl/105/276/s595/e/2], substituted “705” for “107”.
+    Par. (12)(C)(i)(II). [Pub. L. 105–276][/us/pl/105/276], § 595(e)(2), substituted “705” for “107”.
 
  __Effective Date__ 
 
@@ -295,19 +295,19 @@
 [/us/usc/t42/s423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs423
 [/us/usc/t42/s15002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs15002
 [/us/usc/t42/s1437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437
-[/us/pl/104/330/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330%2Fs4
+[/us/pl/104/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330
 [/us/stat/110/4018]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F4018
-[/us/pl/105/256/s13/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F256%2Fs13%2Fb
+[/us/pl/105/256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F256
 [/us/stat/112/1900]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1900
-[/us/pl/105/276/s595/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs595%2Fe%2F1
+[/us/pl/105/276/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2FtV
 [/us/stat/112/2656]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2656
-[/us/pl/106/402/s401/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F402%2Fs401%2Fb%2F2
+[/us/pl/106/402/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F402%2FtIV
 [/us/stat/114/1737]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1737
-[/us/pl/107/292/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F292%2Fs3
+[/us/pl/107/292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F292
 [/us/stat/116/2053]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2053
-[/us/pl/110/411/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F411%2Fs3
+[/us/pl/110/411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F411
 [/us/stat/122/4320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4320
-[/us/pl/111/269/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F269%2Fs2
+[/us/pl/111/269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F269
 [/us/stat/124/2850]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2850
 [/us/pl/104/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330
 [/us/stat/110/4016]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F4016
@@ -324,7 +324,7 @@
 [/us/pl/104/330/s705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330%2Fs705
 [/us/usc/t25/s4211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs4211
 [/us/act/1937-09-01/ch896]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-09-01%2Fch896
-[/us/pl/93/383/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2Fs201%2Fa
+[/us/pl/93/383/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2FtII
 [/us/stat/88/653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F653
 [/us/usc/t42/s1437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437
 [/us/pl/111/269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F269
@@ -333,10 +333,10 @@
 [/us/pl/106/402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F402
 [/us/usc/t42/s15002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs15002
 [/us/usc/t42/s6001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6001
-[/us/pl/105/276/s595/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs595%2Fe%2F1
+[/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
 [/us/pl/105/256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F256
 [/us/usc/t25/s450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450
-[/us/pl/105/276/s595/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs595%2Fe%2F2
+[/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
 [/us/pl/104/330/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330%2Fs107
 [/us/usc/t25/s4101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs4101
 

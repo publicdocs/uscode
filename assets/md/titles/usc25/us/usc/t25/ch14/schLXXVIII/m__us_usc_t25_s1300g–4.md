@@ -65,7 +65,7 @@
 
             (B) hold such title, upon such conveyance by the Tribal Council, in trust for the benefit of the tribe.
 
-([Pub. L. 100–89, title I, § 105][/us/pl/100/89/s105], Aug. 18, 1987, [101 Stat. 667][/us/stat/101/667].)
+([Pub. L. 100–89, title I][/us/pl/100/89/tI], § 105, Aug. 18, 1987, [101 Stat. 667][/us/stat/101/667].)
 
 ----------
 
@@ -74,7 +74,7 @@
 ----------
 ----------
 
-[/us/pl/100/89/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F89%2Fs105
+[/us/pl/100/89/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F89%2FtI
 [/us/stat/101/667]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F667
 
 

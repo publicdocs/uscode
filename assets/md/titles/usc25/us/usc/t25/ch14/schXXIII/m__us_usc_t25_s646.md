@@ -17,7 +17,7 @@
 
     Any securities issued by the Hopi Tribal Council (including any guarantee by such council), and any securities guaranteed by the council as to both principal and interest, shall be deemed to be exempted securities within the meaning of sections 77c(a)(2) and 78e(a)(12) of title 15, and shall be exempt from all registration requirements of Acts of May 27, 1933, and June 6, 1934.
 
-([Pub. L. 91–264, § 6][/us/pl/91/264/s6], May 22, 1970, [84 Stat. 261][/us/stat/84/261].)
+([Pub. L. 91–264][/us/pl/91/264], § 6, May 22, 1970, [84 Stat. 261][/us/stat/84/261].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/91/264/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F264%2Fs6
+[/us/pl/91/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F264
 [/us/stat/84/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F261
 [/us/act/1933-05-27/ch38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-05-27%2Fch38
 [/us/stat/48/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F74

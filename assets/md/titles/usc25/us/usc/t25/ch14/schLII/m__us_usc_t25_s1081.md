@@ -17,7 +17,7 @@
 
     The unexpended balance of funds on deposit in the Treasury of the United States to the credit of the Quileute and Hoh Tribes that were appropriated by the Act of January 6, 1964 ([77 Stat. 857][/us/stat/77/857]), to pay a judgment by the Indian Claims Commission in docket numbered 155, and the interest thereon, after payment of attorney fees and expenses, shall be divided on the basis of tribal membership rolls for the respective groups after approval of such rolls by the Secretary of the Interior, and the funds so divided, including the interest thereon, may be advanced or expended for any purpose that is authorized by the respective tribal governing bodies and approved by the Secretary of the Interior: Provided, That until the Hoh Indians develop a formal organization with a recognized governing body, their share of the judgment funds, and any other Hoh tribal funds, may be expended by the Secretary for the benefit of the Hoh Reservation and the Hoh tribal members, upon approval by him of plans adopted by a majority of the adult Hoh Indians voting at a general meeting of the tribal membership called by the Secretary.
 
-([Pub. L. 89–655, § 1][/us/pl/89/655/s1], Oct. 14, 1966, [80 Stat. 905][/us/stat/80/905].)
+([Pub. L. 89–655][/us/pl/89/655], § 1, Oct. 14, 1966, [80 Stat. 905][/us/stat/80/905].)
 
  __References in Text__ 
 
@@ -33,7 +33,7 @@
 ----------
 
 [/us/stat/77/857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F857
-[/us/pl/89/655/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F655%2Fs1
+[/us/pl/89/655]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F655
 [/us/stat/80/905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F905
 [/us/pl/88/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F258
 [/us/stat/77/857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F857

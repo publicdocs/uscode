@@ -17,7 +17,7 @@
 
     The Secretary of the Interior is authorized to withhold, from any tribe of Indians who may hold any captives other than Indians, any moneys due them from the United States until said captives shall be surrendered to the lawful authorities of the United States.
 
-([Mar. 3, 1875, ch. 132, § 1][/us/act/1875-03-03/ch132/s1], [18 Stat. 424][/us/stat/18/424].)
+([Mar. 3, 1875, ch. 132][/us/act/1875-03-03/ch132], § 1, [18 Stat. 424][/us/stat/18/424].)
 
  __Transfer of Functions__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1875-03-03/ch132/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1875-03-03%2Fch132%2Fs1
+[/us/act/1875-03-03/ch132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1875-03-03%2Fch132
 [/us/stat/18/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F18%2F424
 [/us/stat/64/1262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1262
 

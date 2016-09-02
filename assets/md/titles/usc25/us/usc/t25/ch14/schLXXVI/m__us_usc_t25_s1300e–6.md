@@ -17,7 +17,7 @@
 
     None of the funds distributed per capita under the provisions of this subchapter shall be subject to Federal or State income taxes. Sums payable to persons under eighteen years of age or under legal disability shall be paid in accordance with such procedures, including the establishment of trusts, as the Secretary determines will protect the best interests of such persons.
 
-([Pub. L. 92–557, § 7][/us/pl/92/557/s7], Oct. 25, 1972, [86 Stat. 1172][/us/stat/86/1172].)
+([Pub. L. 92–557][/us/pl/92/557], § 7, Oct. 25, 1972, [86 Stat. 1172][/us/stat/86/1172].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/92/557/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F557%2Fs7
+[/us/pl/92/557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F557
 [/us/stat/86/1172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1172
 
 

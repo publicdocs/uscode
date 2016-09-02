@@ -23,7 +23,7 @@
 
         A share payable to a person under twenty-one years of age or to a person under legal disability shall be paid in accordance with such procedures as the Secretary determines will adequately protect the best interests of such persons.
 
-([Pub. L. 88–457, § 5][/us/pl/88/457/s5], Aug. 20, 1964, [78 Stat. 555][/us/stat/78/555].)
+([Pub. L. 88–457][/us/pl/88/457], § 5, Aug. 20, 1964, [78 Stat. 555][/us/stat/78/555].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/88/457/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F457%2Fs5
+[/us/pl/88/457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F457
 [/us/stat/78/555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F555
 
 

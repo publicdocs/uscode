@@ -17,7 +17,7 @@
 
     Sections 461, 465, 467, 468, 475, 477, and 479 of this title shall after May 1, 1936, apply to the Territory of Alaska: Provided, That groups of Indians in Alaska not recognized prior to May 1, 1936, as bands or tribes, but having a common bond of occupation, or association, or residence within a well-defined neighborhood, community, or rural district, may organize to adopt constitutions and bylaws and to receive charters of incorporation and Federal loans under sections 470, 476, and 477 of this title.
 
-([May 1, 1936, ch. 254, § 1][/us/act/1936-05-01/ch254/s1], [49 Stat. 1250][/us/stat/49/1250].)
+([May 1, 1936, ch. 254][/us/act/1936-05-01/ch254], § 1, [49 Stat. 1250][/us/stat/49/1250].)
 
  __Codification__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/act/1936-05-01/ch254/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-05-01%2Fch254%2Fs1
+[/us/act/1936-05-01/ch254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-05-01%2Fch254
 [/us/stat/49/1250]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1250
 [/us/usc/t48/s362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs362
 [/us/pl/85/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F508

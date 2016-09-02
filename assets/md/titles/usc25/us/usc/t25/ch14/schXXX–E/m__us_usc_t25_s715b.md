@@ -29,7 +29,7 @@
 
         Any proposed transfer of real property contained in the plan developed by the Secretary under subsection (a) shall be consistent with the requirements of [section 715c of this title][/us/usc/t25/s715c].
 
-([Pub. L. 101–42, § 4][/us/pl/101/42/s4], June 28, 1989, [103 Stat. 92][/us/stat/103/92].)
+([Pub. L. 101–42][/us/pl/101/42], § 4, June 28, 1989, [103 Stat. 92][/us/stat/103/92].)
 
 ----------
 
@@ -40,7 +40,7 @@
 
 [/us/usc/t25/s715g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs715g
 [/us/usc/t25/s715c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs715c
-[/us/pl/101/42/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F42%2Fs4
+[/us/pl/101/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F42
 [/us/stat/103/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F92
 
 

@@ -41,7 +41,7 @@
 
         The term “permanent flowage easement” means the perpetual right by the water districts to use the described lands in the Salton Sink within and below the minus 220-foot contour as a drainage reservoir to receive and store water from their respective water and drainage systems, including flood water, return flows from irrigation, tail water, leach water, operational spills, and any other water which overflows and floods such lands, originating from lands within such water districts.
 
-([Pub. L. 106–568, title VI, § 603][/us/pl/106/568/s603], Dec. 27, 2000, [114 Stat. 2908][/us/stat/114/2908].)
+([Pub. L. 106–568, title VI][/us/pl/106/568/tVI], § 603, Dec. 27, 2000, [114 Stat. 2908][/us/stat/114/2908].)
 
 ----------
 
@@ -50,7 +50,7 @@
 ----------
 ----------
 
-[/us/pl/106/568/s603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F568%2Fs603
+[/us/pl/106/568/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F568%2FtVI
 [/us/stat/114/2908]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2908
 
 

@@ -67,7 +67,7 @@
 
         The Office of Navajo and Hopi Indian Relocation shall cease to exist when the President determines that its functions have been fully discharged.
 
-([Pub. L. 93–531, § 12][/us/pl/93/531/s12], Dec. 22, 1974, [88 Stat. 1716][/us/stat/88/1716]; [Pub. L. 96–305, § 5][/us/pl/96/305/s5], July 8, 1980, [94 Stat. 932][/us/stat/94/932]; [Pub. L. 100–666, § 4(a)][/us/pl/100/666/s4/a], Nov. 16, 1988, [102 Stat. 3929][/us/stat/102/3929]; [Pub. L. 100–696, title IV, § 406][/us/pl/100/696/s406], Nov. 18, 1988, [102 Stat. 4592][/us/stat/102/4592]; [Pub. L. 102–180, § 3(a)][/us/pl/102/180/s3/a]–(c), Dec. 2, 1991, [105 Stat. 1230][/us/stat/105/1230]; [Pub. L. 112–166, § 2(u)][/us/pl/112/166/s2/u], Aug. 10, 2012, [126 Stat. 1288][/us/stat/126/1288].)
+([Pub. L. 93–531][/us/pl/93/531], § 12, Dec. 22, 1974, [88 Stat. 1716][/us/stat/88/1716]; [Pub. L. 96–305][/us/pl/96/305], § 5, July 8, 1980, [94 Stat. 932][/us/stat/94/932]; [Pub. L. 100–666][/us/pl/100/666], § 4(a), Nov. 16, 1988, [102 Stat. 3929][/us/stat/102/3929]; [Pub. L. 100–696, title IV][/us/pl/100/696/tIV], § 406, Nov. 18, 1988, [102 Stat. 4592][/us/stat/102/4592]; [Pub. L. 102–180][/us/pl/102/180], § 3(a)–(c), Dec. 2, 1991, [105 Stat. 1230][/us/stat/105/1230]; [Pub. L. 112–166][/us/pl/112/166], § 2(u), Aug. 10, 2012, [126 Stat. 1288][/us/stat/126/1288].)
 
  __References in Text__ 
 
@@ -81,11 +81,11 @@
 
     2012—Subsec. (b)(1). [Pub. L. 112–166][/us/pl/112/166] struck out “by and with the advice and consent of the Senate” before period at end.
 
-    1991—Subsec. (b)(2). [Pub. L. 102–180, § 3(a)][/us/pl/102/180/s3/a], inserted at end “The Commissioner serving at the end of a term shall continue to serve until his or her successor has been confirmed in accordance with paragraph (1) of this subsection.”
+    1991—Subsec. (b)(2). [Pub. L. 102–180][/us/pl/102/180], § 3(a), inserted at end “The Commissioner serving at the end of a term shall continue to serve until his or her successor has been confirmed in accordance with paragraph (1) of this subsection.”
 
-    Subsec. (b)(3). [Pub. L. 102–180, § 3(b)][/us/pl/102/180/s3/b], amended par. (3) generally. Prior to amendment, par. (3) read as follows: “The Commissioner shall be a full time employee of the United States and shall be paid at the rate of GS–18 of the General Schedule under [section 5332 of title 5][/us/usc/t5/s5332].”
+    Subsec. (b)(3). [Pub. L. 102–180][/us/pl/102/180], § 3(b), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “The Commissioner shall be a full time employee of the United States and shall be paid at the rate of GS–18 of the General Schedule under [section 5332 of title 5][/us/usc/t5/s5332].”
 
-    Subsec. (d)(1). [Pub. L. 102–180, § 3(c)][/us/pl/102/180/s3/c], amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The Commissioner shall have the power to—
+    Subsec. (d)(1). [Pub. L. 102–180][/us/pl/102/180], § 3(c), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The Commissioner shall have the power to—
 
     “(A) appoint and fix the compensation of such staff and personnel as he deems necessary, without regard to the provisions of title 5 governing appointments in the competitive service, and without regard to chapter 51 and subchapter III of chapter 53 of such title relating to classification and General Schedule pay rates, but at rates not in excess of the maximum rate for GS–18 of the General Schedule under section 5332 of such title; and
 
@@ -93,11 +93,11 @@
 
     1988—[Pub. L. 100–666][/us/pl/100/666] amended section generally, substituting subsecs. (a) to (f) relating to the Office of Navajo and Hopi Indian Relocation, for former subsecs. (a) to (j) which related to the Navajo and Hopi Relocation Commission.
 
-    1980—Subsec. (g)(1). [Pub. L. 96–305, § 5(1)][/us/pl/96/305/s5/1], inserted “an independent legal counsel,” after “an Executive Director,”.
+    1980—Subsec. (g)(1). [Pub. L. 96–305][/us/pl/96/305], § 5(1), inserted “an independent legal counsel,” after “an Executive Director,”.
 
-    Subsec. (h). [Pub. L. 96–305, § 5(2)][/us/pl/96/305/s5/2], substituted provision authorizing Commission to provide for its own administrative, fiscal, and housekeeping services for provision authorizing Department of the Interior, on a nonreimbursable basis, to furnish necessary administrative and housekeeping services for Commission.
+    Subsec. (h). [Pub. L. 96–305][/us/pl/96/305], § 5(2), substituted provision authorizing Commission to provide for its own administrative, fiscal, and housekeeping services for provision authorizing Department of the Interior, on a nonreimbursable basis, to furnish necessary administrative and housekeeping services for Commission.
 
-    Subsecs. (i), (j). [Pub. L. 96–305, § 5(3)][/us/pl/96/305/s5/3], added subsec. (i) and redesignated former subsec. (i) as (j).
+    Subsecs. (i), (j). [Pub. L. 96–305][/us/pl/96/305], § 5(3), added subsec. (i) and redesignated former subsec. (i) as (j).
 
  __Effective Date of 2012 Amendment__ 
 
@@ -105,25 +105,25 @@
 
  __Separation or Reduction in Grade or Compensation of Employee__ 
 
-[Pub. L. 102–180, § 3(d)][/us/pl/102/180/s3/d], Dec. 2, 1991, [105 Stat. 1230][/us/stat/105/1230], provided that: 
+[Pub. L. 102–180][/us/pl/102/180], § 3(d), Dec. 2, 1991, [105 Stat. 1230][/us/stat/105/1230], provided that: 
 
 > “The amendments made by this section \[amending this section and [section 5315 of Title 5][/us/usc/t5/s5315], Government Organization and Employees\] shall not cause any employee of the Office of Navajo and Hopi Indian Relocation to be separated or reduced in grade or compensation for 12 months after the date of enactment of this Act \[Dec. 2, 1991\].”
 
  __Positions in Senior Executive Service__ 
 
-[Pub. L. 102–180, § 3(e)][/us/pl/102/180/s3/e], Dec. 2, 1991, [105 Stat. 1230][/us/stat/105/1230], provided that: 
+[Pub. L. 102–180][/us/pl/102/180], § 3(e), Dec. 2, 1991, [105 Stat. 1230][/us/stat/105/1230], provided that: 
 
 > “The position of Executive Director of the Office of Navajo and Hopi Indian Relocation and Deputy Executive Director of such Office shall on and after the date of the enactment of this Act \[Dec. 2, 1991\], be in the Senior Executive Service.”
 
  __Employees of Office as Government Employees__ 
 
-[Pub. L. 102–180, § 3(f)][/us/pl/102/180/s3/f], Dec. 2, 1991, [105 Stat. 1231][/us/stat/105/1231], provided that: 
+[Pub. L. 102–180][/us/pl/102/180], § 3(f), Dec. 2, 1991, [105 Stat. 1231][/us/stat/105/1231], provided that: 
 
 > “Any employee of the Office of Navajo and Hopi Indian Relocation on the date of the enactment of this Act \[Dec. 2, 1991\], shall be considered an employee as defined in [section 2105 of title 5][/us/usc/t5/s2105], United States Code.”
 
  __Continuation of Relocation Commission and Retention of Existing Commissioners Pending Confirmation of Commissioner; Transfer of Existing Personnel; Change of Name__ 
 
-[Pub. L. 100–666, § 4(c)][/us/pl/100/666/s4/c], Nov. 16, 1988, [102 Stat. 3930][/us/stat/102/3930], provided that:
+[Pub. L. 100–666][/us/pl/100/666], § 4(c), Nov. 16, 1988, [102 Stat. 3930][/us/stat/102/3930], provided that:
 
 >     “(1)
 
@@ -155,17 +155,17 @@
 [/us/pl/99/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F190
 [/us/pl/99/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F190
 [/us/usc/t5/s3109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3109
-[/us/pl/93/531/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F531%2Fs12
+[/us/pl/93/531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F531
 [/us/stat/88/1716]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1716
-[/us/pl/96/305/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F305%2Fs5
+[/us/pl/96/305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F305
 [/us/stat/94/932]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F932
-[/us/pl/100/666/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F666%2Fs4%2Fa
+[/us/pl/100/666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F666
 [/us/stat/102/3929]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3929
-[/us/pl/100/696/s406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F696%2Fs406
+[/us/pl/100/696/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F696%2FtIV
 [/us/stat/102/4592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4592
-[/us/pl/102/180/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F180%2Fs3%2Fa
+[/us/pl/102/180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F180
 [/us/stat/105/1230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1230
-[/us/pl/112/166/s2/u]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F166%2Fs2%2Fu
+[/us/pl/112/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F166
 [/us/stat/126/1288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1288
 [/us/usc/t5/s5315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5315
 [/us/pl/100/666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F666
@@ -178,27 +178,27 @@
 [/us/stat/99/1236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1236
 [/us/pl/99/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F190
 [/us/pl/112/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F166
-[/us/pl/102/180/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F180%2Fs3%2Fa
-[/us/pl/102/180/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F180%2Fs3%2Fb
+[/us/pl/102/180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F180
+[/us/pl/102/180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F180
 [/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332
-[/us/pl/102/180/s3/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F180%2Fs3%2Fc
+[/us/pl/102/180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F180
 [/us/usc/t5/s3109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3109
 [/us/pl/100/666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F666
-[/us/pl/96/305/s5/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F305%2Fs5%2F1
-[/us/pl/96/305/s5/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F305%2Fs5%2F2
-[/us/pl/96/305/s5/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F305%2Fs5%2F3
+[/us/pl/96/305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F305
+[/us/pl/96/305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F305
+[/us/pl/96/305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F305
 [/us/pl/112/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F166
 [/us/pl/112/166/s6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F166%2Fs6%2Fa
 [/us/usc/t6/s113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs113
-[/us/pl/102/180/s3/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F180%2Fs3%2Fd
+[/us/pl/102/180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F180
 [/us/stat/105/1230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1230
 [/us/usc/t5/s5315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5315
-[/us/pl/102/180/s3/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F180%2Fs3%2Fe
+[/us/pl/102/180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F180
 [/us/stat/105/1230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1230
-[/us/pl/102/180/s3/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F180%2Fs3%2Ff
+[/us/pl/102/180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F180
 [/us/stat/105/1231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1231
 [/us/usc/t5/s2105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs2105
-[/us/pl/100/666/s4/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F666%2Fs4%2Fc
+[/us/pl/100/666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F666
 [/us/stat/102/3930]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3930
 [/us/usc/t25/s640d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs640d
 [/us/pl/93/531/s12/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F531%2Fs12%2Fc%2F2

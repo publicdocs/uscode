@@ -17,7 +17,7 @@
 
     A necessity for providing means of subsistence for the Eskimos and other natives of Alaska is hereby declared to exist. It is also declared to be the policy of Congress, and the purpose of this subchapter, to establish and maintain for the said natives of Alaska a self-sustaining economy by acquiring and organizing for and on behalf of said natives a reindeer industry or business, by encouraging and developing native activity and responsibility in all branches of the said industry or business, and by preserving the native character of the said industry or business thus established.
 
-([Sept. 1, 1937, ch. 897, § 1][/us/act/1937-09-01/ch897/s1], [50 Stat. 900][/us/stat/50/900].)
+([Sept. 1, 1937, ch. 897][/us/act/1937-09-01/ch897], § 1, [50 Stat. 900][/us/stat/50/900].)
 
  __Codification__ 
 
@@ -29,13 +29,13 @@
 
  __Repeals__ 
 
-[Act Sept. 1, 1937, ch. 897, § 17][/us/act/1937-09-01/ch897/s17], [50 Stat. 902][/us/stat/50/902], provided: 
+[Act Sept. 1, 1937, ch. 897][/us/act/1937-09-01/ch897], § 17, [50 Stat. 902][/us/stat/50/902], provided: 
 
 > “All Acts of Congress or parts thereof which are inconsistent with the provisions of this Act are hereby repealed.”
 
  __Authorization of Appropriations__ 
 
-    [Act Sept. 1, 1937, ch. 897, § 16][/us/act/1937-09-01/ch897/s16], [50 Stat. 902][/us/stat/50/902], authorized the appropriation of $2,000,000 for the use of the Secretary of the Interior in carrying out this subchapter.
+    [Act Sept. 1, 1937, ch. 897][/us/act/1937-09-01/ch897], § 16, [50 Stat. 902][/us/stat/50/902], authorized the appropriation of $2,000,000 for the use of the Secretary of the Interior in carrying out this subchapter.
 
 ----------
 
@@ -44,14 +44,14 @@
 ----------
 ----------
 
-[/us/act/1937-09-01/ch897/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-09-01%2Fch897%2Fs1
+[/us/act/1937-09-01/ch897]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-09-01%2Fch897
 [/us/stat/50/900]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F50%2F900
 [/us/usc/t48/s250]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs250
 [/us/act/1937-09-01/ch897]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-09-01%2Fch897
 [/us/stat/50/900]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F50%2F900
-[/us/act/1937-09-01/ch897/s17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-09-01%2Fch897%2Fs17
+[/us/act/1937-09-01/ch897]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-09-01%2Fch897
 [/us/stat/50/902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F50%2F902
-[/us/act/1937-09-01/ch897/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-09-01%2Fch897%2Fs16
+[/us/act/1937-09-01/ch897]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-09-01%2Fch897
 [/us/stat/50/902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F50%2F902
 
 

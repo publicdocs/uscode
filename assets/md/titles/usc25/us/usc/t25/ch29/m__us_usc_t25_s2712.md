@@ -35,7 +35,7 @@
 
         (3) If the Chairman determines that a contract submitted under subsection (a), or the management contractor under a contract submitted under subsection (a), does not meet the requirements of [section 2711 of this title][/us/usc/t25/s2711], the Chairman shall provide written notification to the parties to such contract of necessary modifications and the parties shall have not more than 120 days to come into compliance. If a management contract has been approved by the Secretary prior to October 17, 1988, the parties shall have not more than 180 days after notification of necessary modifications to come into compliance.
 
-([Pub. L. 100–497, § 13][/us/pl/100/497/s13], Oct. 17, 1988, [102 Stat. 2481][/us/stat/102/2481].)
+([Pub. L. 100–497][/us/pl/100/497], § 13, Oct. 17, 1988, [102 Stat. 2481][/us/stat/102/2481].)
 
  __References in Text__ 
 
@@ -54,7 +54,7 @@
 [/us/usc/t25/s2711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs2711
 [/us/usc/t25/s2711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs2711
 [/us/usc/t25/s2711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs2711
-[/us/pl/100/497/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F497%2Fs13
+[/us/pl/100/497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F497
 [/us/stat/102/2481]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2481
 [/us/pl/100/497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F497
 [/us/stat/102/2467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2467

@@ -35,7 +35,7 @@
 
             Until such time as the Bands elect new officials pursuant to paragraph (1), the Bands’ governing bodies shall be those governing bodies in place on September 21, 1994, or any new governing bodies selected under the election procedures specified in the respective interim governing documents of the Bands.
 
-([Pub. L. 103–324, § 8][/us/pl/103/324/s8], Sept. 21, 1994, [108 Stat. 2159][/us/stat/108/2159].)
+([Pub. L. 103–324][/us/pl/103/324], § 8, Sept. 21, 1994, [108 Stat. 2159][/us/stat/108/2159].)
 
 ----------
 
@@ -45,7 +45,7 @@
 ----------
 
 [/us/usc/t25/s476]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs476
-[/us/pl/103/324/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F324%2Fs8
+[/us/pl/103/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F324
 [/us/stat/108/2159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2159
 
 

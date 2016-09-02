@@ -25,7 +25,7 @@
 
         (2) The Secretary shall take steps to recover any unexpended and unobligated funds provided under this subchapter held by an institution determined to be in violation of paragraph (1).
 
-([Pub. L. 95–471, title I, § 114][/us/pl/95/471/s114], formerly § 113, Oct. 17, 1978, [92 Stat. 1329][/us/stat/92/1329]; renumbered § 114, [Pub. L. 98–192, § 4(a)(1)][/us/pl/98/192/s4/a/1], Dec. 1, 1983, [97 Stat. 1336][/us/stat/97/1336].)
+([Pub. L. 95–471, title I][/us/pl/95/471/tI], § 114, formerly § 113, Oct. 17, 1978, [92 Stat. 1329][/us/stat/92/1329]; renumbered § 114, [Pub. L. 98–192][/us/pl/98/192], § 4(a)(1), Dec. 1, 1983, [97 Stat. 1336][/us/stat/97/1336].)
 
 ----------
 
@@ -34,9 +34,9 @@
 ----------
 ----------
 
-[/us/pl/95/471/s114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F471%2Fs114
+[/us/pl/95/471/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F471%2FtI
 [/us/stat/92/1329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1329
-[/us/pl/98/192/s4/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F192%2Fs4%2Fa%2F1
+[/us/pl/98/192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F192
 [/us/stat/97/1336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1336
 
 

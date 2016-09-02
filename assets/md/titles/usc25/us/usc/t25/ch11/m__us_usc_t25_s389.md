@@ -17,7 +17,7 @@
 
     The Secretary of the Interior is authorized and directed to cause an investigation to be made to determine whether the owners of non-Indian lands under Indian irrigation projects and under projects where the United States has purchased water rights for Indians are unable to pay irrigation charges, including construction, maintenance, and operating charges, because of inability to operate such lands profitably by reason of lack of fertility of the soil, inadequacy of water supply, defects of irrigation works, or for any other causes. Where the Secretary finds that said landowners are unable to make payment due to the existence of such causes, he may adjust, defer, or cancel such charges, in whole or in part, as the facts and conditions warrant. In adjusting or deferring any such charges the Secretary may enter into contracts with said land owners for the payment of past due charges, but such contracts shall not extend the payment of such charges over a period in excess of ten years.
 
-([June 22, 1936, ch. 692, § 1][/us/act/1936-06-22/ch692/s1], [49 Stat. 1803][/us/stat/49/1803].)
+([June 22, 1936, ch. 692][/us/act/1936-06-22/ch692], § 1, [49 Stat. 1803][/us/stat/49/1803].)
 
  __Flathead Indian Irrigation Project__ 
 
@@ -62,7 +62,7 @@
 ----------
 ----------
 
-[/us/act/1936-06-22/ch692/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-22%2Fch692%2Fs1
+[/us/act/1936-06-22/ch692]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-22%2Fch692
 [/us/stat/49/1803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1803
 [/us/act/1947-07-26/ch340]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch340
 [/us/stat/61/494]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F494

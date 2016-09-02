@@ -17,7 +17,7 @@
 
     Nothing in this part shall grant to the Miccosukee Tribe any greater rights or interests in the leased area other than those expressly set forth in the Lease Agreement, and, notwithstanding any other provision of this part, nothing in this part shall diminish, modify, or otherwise affect the extent of the civil and criminal jurisdiction of the State of Florida in the leased area.
 
-([Pub. L. 97–399, § 7][/us/pl/97/399/s7], Dec. 31, 1982, [96 Stat. 2015][/us/stat/96/2015].)
+([Pub. L. 97–399][/us/pl/97/399], § 7, Dec. 31, 1982, [96 Stat. 2015][/us/stat/96/2015].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/97/399/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F399%2Fs7
+[/us/pl/97/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F399
 [/us/stat/96/2015]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2015
 
 

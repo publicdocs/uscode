@@ -27,7 +27,7 @@
 
         For the purpose of this section, the negotiating teams may make any provision in the agreement or partial agreement not inconsistent with existing law. No such agreement or any provision in it shall result in a taking by the United States of private property compensable under the Fifth Amendment of the Constitution of the United States.
 
-([Pub. L. 93–531, § 3][/us/pl/93/531/s3], Dec. 22, 1974, [88 Stat. 1713][/us/stat/88/1713].)
+([Pub. L. 93–531][/us/pl/93/531], § 3, Dec. 22, 1974, [88 Stat. 1713][/us/stat/88/1713].)
 
 ----------
 
@@ -38,7 +38,7 @@
 
 [/us/usc/t25/s640d–1/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs640d%E2%80%931%2Fc
 [/us/usc/t25/s640d–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs640d%E2%80%933
-[/us/pl/93/531/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F531%2Fs3
+[/us/pl/93/531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F531
 [/us/stat/88/1713]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1713
 
 

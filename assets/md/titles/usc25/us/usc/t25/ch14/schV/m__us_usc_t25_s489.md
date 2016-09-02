@@ -17,7 +17,7 @@
 
     Title to land acquired by a tribe or tribal corporation with a loan made or insured pursuant to sections 488 to 494 of this title may, with the approval of the Secretary of the Interior, be taken by the United States in trust for the tribe or tribal corporation.
 
-([Pub. L. 91–229, § 2][/us/pl/91/229/s2], Apr. 11, 1970, [84 Stat. 120][/us/stat/84/120].)
+([Pub. L. 91–229][/us/pl/91/229], § 2, Apr. 11, 1970, [84 Stat. 120][/us/stat/84/120].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/91/229/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F229%2Fs2
+[/us/pl/91/229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F229
 [/us/stat/84/120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F120
 
 

@@ -27,7 +27,7 @@
 
         Promptly after organization of the Modoc Tribe of Oklahoma, the Secretary of the Interior shall publish a notice of such fact in the Federal Register including a statement that such organization completes fulfillment of the requirements of the provisos in [section 2 of the Act of January 2, 1975][/us/act/1975-01-02/s2] ([88 Stat. 1920][/us/stat/88/1920], 1921), and that the land described in section 1 of said Act is held in trust by the United States for the eight tribes named in said Act.
 
-([Pub. L. 95–281, § 3][/us/pl/95/281/s3], May 15, 1978, [92 Stat. 247][/us/stat/92/247].)
+([Pub. L. 95–281][/us/pl/95/281], § 3, May 15, 1978, [92 Stat. 247][/us/stat/92/247].)
 
  __References in Text__ 
 
@@ -48,7 +48,7 @@
 [/us/stat/88/1920]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1920
 [/us/act/1975-01-02/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1975-01-02%2Fs2
 [/us/stat/88/1920]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1920
-[/us/pl/95/281/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F281%2Fs3
+[/us/pl/95/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F281
 [/us/stat/92/247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F247
 [/us/pl/95/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F281
 [/us/stat/92/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F246

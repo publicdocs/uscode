@@ -295,7 +295,7 @@
 
         The term “Urban Indian organization” means a nonprofit corporate body situated in an urban center, governed by an urban Indian controlled board of directors, and providing for the maximum participation of all interested Indian groups and individuals, which body is capable of legally cooperating with other public and private entities for the purpose of performing the activities described in [section 1653(a) of this title][/us/usc/t25/s1653/a].
 
-([Pub. L. 94–437, § 4][/us/pl/94/437/s4], Sept. 30, 1976, [90 Stat. 1401][/us/stat/90/1401]; [Pub. L. 96–537, § 2][/us/pl/96/537/s2], Dec. 17, 1980, [94 Stat. 3173][/us/stat/94/3173]; [Pub. L. 100–713, title II][/us/pl/100/713], §§ 201(b), 203(b), title V, § 502, Nov. 23, 1988, [102 Stat. 4803][/us/stat/102/4803], 4804, 4824; [Pub. L. 102–573, § 3(c)][/us/pl/102/573/s3/c], title IX, § 902(1), Oct. 29, 1992, [106 Stat. 4529][/us/stat/106/4529], 4591; [Pub. L. 104–313, § 2(a)][/us/pl/104/313/s2/a], Oct. 19, 1996, [110 Stat. 3820][/us/stat/110/3820]; [Pub. L. 111–148, title X, § 10221(a)][/us/pl/111/148/s10221/a], Mar. 23, 2010, [124 Stat. 935][/us/stat/124/935].)
+([Pub. L. 94–437][/us/pl/94/437], § 4, Sept. 30, 1976, [90 Stat. 1401][/us/stat/90/1401]; [Pub. L. 96–537][/us/pl/96/537], § 2, Dec. 17, 1980, [94 Stat. 3173][/us/stat/94/3173]; [Pub. L. 100–713, title II][/us/pl/100/713/tII], §§ 201(b), 203(b), title V, § 502, Nov. 23, 1988, [102 Stat. 4803][/us/stat/102/4803], 4804, 4824; [Pub. L. 102–573][/us/pl/102/573], § 3(c), title IX, § 902(1), Oct. 29, 1992, [106 Stat. 4529][/us/stat/106/4529], 4591; [Pub. L. 104–313][/us/pl/104/313], § 2(a), Oct. 19, 1996, [110 Stat. 3820][/us/stat/110/3820]; [Pub. L. 111–148, title X][/us/pl/111/148/tX], § 10221(a), Mar. 23, 2010, [124 Stat. 935][/us/stat/124/935].)
 
  __References in Text__ 
 
@@ -305,7 +305,7 @@
 
     The Alaska Native Claims Settlement Act, referred to in pars. (14) and (16)(B)(iii), is [Pub. L. 92–203][/us/pl/92/203], Dec. 18, 1971, [85 Stat. 688][/us/stat/85/688], which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 43][/us/usc/t43/s1601], and Tables.
 
-    [Section 1058(e) of title 20][/us/usc/t20/s1058/e], referred to in par. (15), probably means [section 1058(f) of title 20][/us/usc/t20/s1058/f], which defines “junior or community college”. [Section 1058(e) of title 20][/us/usc/t20/s1058/e] was redesignated [section 1058(f) of title 20][/us/usc/t20/s1058/f] by [Pub. L. 105–244, title III, § 303(b)(1)][/us/pl/105/244/s303/b/1], Oct. 7, 1998, [112 Stat. 1639][/us/stat/112/1639].
+    [Section 1058(e) of title 20][/us/usc/t20/s1058/e], referred to in par. (15), probably means [section 1058(f) of title 20][/us/usc/t20/s1058/f], which defines “junior or community college”. [Section 1058(e) of title 20][/us/usc/t20/s1058/e] was redesignated [section 1058(f) of title 20][/us/usc/t20/s1058/f] by [Pub. L. 105–244, title III][/us/pl/105/244/tIII], § 303(b)(1), Oct. 7, 1998, [112 Stat. 1639][/us/stat/112/1639].
 
     The Indian Self-Determination and Education Assistance Act, referred to in par. (25), is [Pub. L. 93–638][/us/pl/93/638], Jan. 4, 1975, [88 Stat. 2203][/us/stat/88/2203], which is classified principally to subchapter II (§ 450 et seq.) of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 450 of this title][/us/usc/t25/s450] and Tables.
 
@@ -323,25 +323,25 @@
 
     1996—Subsec. (n). [Pub. L. 104–313][/us/pl/104/313] inserted “allopathic medicine,” before “family medicine” and substituted “an allied health profession, or any other health profession” for “and allied health professions”.
 
-    1992—Subsec. (c). [Pub. L. 102–573, § 902(1)][/us/pl/102/573/s902/1], substituted “sections 1612 and 1613 of this title” for “sections 1612, 1613, and 1621(c)(5) of this title”.
+    1992—Subsec. (c). [Pub. L. 102–573][/us/pl/102/573], § 902(1), substituted “sections 1612 and 1613 of this title” for “sections 1612, 1613, and 1621(c)(5) of this title”.
 
-    Subsecs. (m) to (q). [Pub. L. 102–573, § 3(c)][/us/pl/102/573/s3/c], added subsecs. (m) to (q).
+    Subsecs. (m) to (q). [Pub. L. 102–573][/us/pl/102/573], § 3(c), added subsecs. (m) to (q).
 
-    1988—Subsec. (h). [Pub. L. 100–713, § 502][/us/pl/100/713/s502], inserted “urban” after “governed by an”.
+    1988—Subsec. (h). [Pub. L. 100–713][/us/pl/100/713], § 502, inserted “urban” after “governed by an”.
 
-    Subsec. (i). [Pub. L. 100–713, § 201(b)][/us/pl/100/713/s201/b], added subsec. (i) and struck out former subsec. (i) which defined “rural Indian”.
+    Subsec. (i). [Pub. L. 100–713][/us/pl/100/713], § 201(b), added subsec. (i) and struck out former subsec. (i) which defined “rural Indian”.
 
-    Subsec. (j). [Pub. L. 100–713, § 201(b)][/us/pl/100/713/s201/b], added subsec. (j) and struck out former subsec. (j) which defined “rural community”.
+    Subsec. (j). [Pub. L. 100–713][/us/pl/100/713], § 201(b), added subsec. (j) and struck out former subsec. (j) which defined “rural community”.
 
     Subsec. (k). [Pub. L. 100–713][/us/pl/100/713], §§ 201(b), 203(b), added subsec. (k) and struck out former subsec. (k) which defined “rural Indian organization”.
 
-    Subsec. (l). [Pub. L. 100–713, § 203(b)][/us/pl/100/713/s203/b], added subsec. (l).
+    Subsec. (l). [Pub. L. 100–713][/us/pl/100/713], § 203(b), added subsec. (l).
 
-    1980—Subsec. (a). [Pub. L. 96–537, § 2(a)][/us/pl/96/537/s2/a], substituted “Secretary of Health and Human Services” for “Secretary of Health, Education, and Welfare”.
+    1980—Subsec. (a). [Pub. L. 96–537][/us/pl/96/537], § 2(a), substituted “Secretary of Health and Human Services” for “Secretary of Health, Education, and Welfare”.
 
-    Subsec. (h). [Pub. L. 96–537, § 2(b)][/us/pl/96/537/s2/b], substituted “governed by an Indian controlled board of directors” for “composed of urban Indians”.
+    Subsec. (h). [Pub. L. 96–537][/us/pl/96/537], § 2(b), substituted “governed by an Indian controlled board of directors” for “composed of urban Indians”.
 
-    Subsecs. (i) to (k). [Pub. L. 96–537, § 2(c)][/us/pl/96/537/s2/c], added subsecs. (i) to (k).
+    Subsecs. (i) to (k). [Pub. L. 96–537][/us/pl/96/537], § 2(c), added subsecs. (i) to (k).
 
 ----------
 
@@ -361,17 +361,17 @@
 [/us/usc/t25/s450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450
 [/us/usc/t25/s450b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450b
 [/us/usc/t25/s1653/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1653%2Fa
-[/us/pl/94/437/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437%2Fs4
+[/us/pl/94/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437
 [/us/stat/90/1401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1401
-[/us/pl/96/537/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F537%2Fs2
+[/us/pl/96/537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F537
 [/us/stat/94/3173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3173
-[/us/pl/100/713]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F713
+[/us/pl/100/713/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F713%2FtII
 [/us/stat/102/4803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4803
-[/us/pl/102/573/s3/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2Fs3%2Fc
+[/us/pl/102/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573
 [/us/stat/106/4529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4529
-[/us/pl/104/313/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F313%2Fs2%2Fa
+[/us/pl/104/313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F313
 [/us/stat/110/3820]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3820
-[/us/pl/111/148/s10221/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10221%2Fa
+[/us/pl/111/148/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtX
 [/us/stat/124/935]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F935
 [/us/pl/94/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437
 [/us/stat/90/1400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1400
@@ -384,7 +384,7 @@
 [/us/usc/t20/s1058/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1058%2Ff
 [/us/usc/t20/s1058/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1058%2Fe
 [/us/usc/t20/s1058/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1058%2Ff
-[/us/pl/105/244/s303/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs303%2Fb%2F1
+[/us/pl/105/244/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtIII
 [/us/stat/112/1639]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1639
 [/us/pl/93/638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638
 [/us/stat/88/2203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2203
@@ -395,15 +395,15 @@
 [/us/pl/111/148/s10221/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10221%2Fa
 [/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 [/us/pl/104/313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F313
-[/us/pl/102/573/s902/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2Fs902%2F1
-[/us/pl/102/573/s3/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2Fs3%2Fc
-[/us/pl/100/713/s502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F713%2Fs502
-[/us/pl/100/713/s201/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F713%2Fs201%2Fb
-[/us/pl/100/713/s201/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F713%2Fs201%2Fb
+[/us/pl/102/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573
+[/us/pl/102/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573
 [/us/pl/100/713]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F713
-[/us/pl/100/713/s203/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F713%2Fs203%2Fb
-[/us/pl/96/537/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F537%2Fs2%2Fa
-[/us/pl/96/537/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F537%2Fs2%2Fb
-[/us/pl/96/537/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F537%2Fs2%2Fc
+[/us/pl/100/713]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F713
+[/us/pl/100/713]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F713
+[/us/pl/100/713]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F713
+[/us/pl/100/713]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F713
+[/us/pl/96/537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F537
+[/us/pl/96/537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F537
+[/us/pl/96/537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F537
 
 

@@ -17,7 +17,7 @@
 
     Loans guaranteed hereunder may be made by any lender satisfactory to the Secretary, except as provided in [section 1486 of this title][/us/usc/t25/s1486]. The liability under the guaranty shall decrease or increase pro rata with any decrease or increase in the unpaid portion of the obligation.
 
-([Pub. L. 93–262, title II, § 208][/us/pl/93/262/s208], Apr. 12, 1974, [88 Stat. 80][/us/stat/88/80].)
+([Pub. L. 93–262, title II][/us/pl/93/262/tII], § 208, Apr. 12, 1974, [88 Stat. 80][/us/stat/88/80].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t25/s1486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1486
-[/us/pl/93/262/s208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F262%2Fs208
+[/us/pl/93/262/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F262%2FtII
 [/us/stat/88/80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F80
 
 

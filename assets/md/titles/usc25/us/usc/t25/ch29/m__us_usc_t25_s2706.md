@@ -65,7 +65,7 @@
 
             In addition to any plan required under the Government Performance and Results Act of 1993 ([Public Law 103–62][/us/pl/103/62]; [107 Stat. 285][/us/stat/107/285]), the Commission shall submit a plan to provide technical assistance to tribal gaming operations in accordance with that Act.
 
-([Pub. L. 100–497, § 7][/us/pl/100/497/s7], Oct. 17, 1988, [102 Stat. 2470][/us/stat/102/2470]; [Pub. L. 109–221, title III, § 301(a)][/us/pl/109/221/s301/a], May 12, 2006, [120 Stat. 341][/us/stat/120/341].)
+([Pub. L. 100–497][/us/pl/100/497], § 7, Oct. 17, 1988, [102 Stat. 2470][/us/stat/102/2470]; [Pub. L. 109–221, title III][/us/pl/109/221/tIII], § 301(a), May 12, 2006, [120 Stat. 341][/us/stat/120/341].)
 
  __References in Text__ 
 
@@ -97,9 +97,9 @@
 [/us/stat/107/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F285
 [/us/pl/103/62]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F62
 [/us/stat/107/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F285
-[/us/pl/100/497/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F497%2Fs7
+[/us/pl/100/497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F497
 [/us/stat/102/2470]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2470
-[/us/pl/109/221/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F221%2Fs301%2Fa
+[/us/pl/109/221/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F221%2FtIII
 [/us/stat/120/341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F341
 [/us/pl/100/497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F497
 [/us/stat/102/2467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2467

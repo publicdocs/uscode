@@ -49,13 +49,13 @@
 
         (3) The provisions of subsection (b) shall not apply to a parcel of trust or restricted land if the owners of at least 50 percent of the legal or beneficial interest in such land file with the Secretary a written objection to the application of all or any part of such tribal rules to the leasing of such parcel of land.
 
-([Pub. L. 103–177, title I, § 105][/us/pl/103/177/s105], Dec. 3, 1993, [107 Stat. 2017][/us/stat/107/2017]; [Pub. L. 103–435, § 12(a)][/us/pl/103/435/s12/a], Nov. 2, 1994, [108 Stat. 4572][/us/stat/108/4572].)
+([Pub. L. 103–177, title I][/us/pl/103/177/tI], § 105, Dec. 3, 1993, [107 Stat. 2017][/us/stat/107/2017]; [Pub. L. 103–435][/us/pl/103/435], § 12(a), Nov. 2, 1994, [108 Stat. 4572][/us/stat/108/4572].)
 
  __Amendments__ 
 
-    1994—Subsec. (b)(5). [Pub. L. 103–435, § 12(a)(1)][/us/pl/103/435/s12/a/1], added par. (5).
+    1994—Subsec. (b)(5). [Pub. L. 103–435][/us/pl/103/435], § 12(a)(1), added par. (5).
 
-    Subsec. (c)(1). [Pub. L. 103–435, § 12(a)(2)][/us/pl/103/435/s12/a/2], amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Nothing in this section shall be construed as limiting or altering the authority or right of an individual allottee in the legal or beneficial use of his or her own land or to enter into an agricultural lease of the surface interest of his or her allotment under any other provision of law.”
+    Subsec. (c)(1). [Pub. L. 103–435][/us/pl/103/435], § 12(a)(2), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Nothing in this section shall be construed as limiting or altering the authority or right of an individual allottee in the legal or beneficial use of his or her own land or to enter into an agricultural lease of the surface interest of his or her allotment under any other provision of law.”
 
 ----------
 
@@ -64,11 +64,11 @@
 ----------
 ----------
 
-[/us/pl/103/177/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F177%2Fs105
+[/us/pl/103/177/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F177%2FtI
 [/us/stat/107/2017]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2017
-[/us/pl/103/435/s12/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F435%2Fs12%2Fa
+[/us/pl/103/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F435
 [/us/stat/108/4572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4572
-[/us/pl/103/435/s12/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F435%2Fs12%2Fa%2F1
-[/us/pl/103/435/s12/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F435%2Fs12%2Fa%2F2
+[/us/pl/103/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F435
+[/us/pl/103/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F435
 
 

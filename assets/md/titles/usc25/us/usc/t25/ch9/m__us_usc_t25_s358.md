@@ -17,7 +17,7 @@
 
     Any and all provisions contained in any Act passed prior to March 7, 1928, for the survey, resurvey, classification, and allotment of lands in severalty under the provisions of the Act of February 8, 1887 ([24 Stat. 388][/us/stat/24/388]), which provide for the repayment of funds appropriated proportionately out of any Indian moneys held in trust or otherwise by the United States and available by law for such reimbursable purposes, are repealed: Provided further, That the repeal shall not affect any funds authorized to be reimbursed by any special Act of Congress wherein a particular or special fund is mentioned from which reimbursement shall be made.
 
-([Mar. 7, 1928, ch. 137, § 1][/us/act/1928-03-07/ch137/s1], [45 Stat. 206][/us/stat/45/206].)
+([Mar. 7, 1928, ch. 137][/us/act/1928-03-07/ch137], § 1, [45 Stat. 206][/us/stat/45/206].)
 
  __References in Text__ 
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/stat/24/388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F24%2F388
-[/us/act/1928-03-07/ch137/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-03-07%2Fch137%2Fs1
+[/us/act/1928-03-07/ch137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-03-07%2Fch137
 [/us/stat/45/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F45%2F206
 [/us/usc/t25/s331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs331
 

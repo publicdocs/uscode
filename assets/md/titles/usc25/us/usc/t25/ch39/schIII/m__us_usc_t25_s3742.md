@@ -17,7 +17,7 @@
 
     Nothing in this chapter shall be construed to diminish or expand the trust responsibility of the United States toward Indian trust lands or natural resources, or any legal obligation or remedy resulting therefrom.
 
-([Pub. L. 103–177, title III, § 302][/us/pl/103/177/s302], Dec. 3, 1993, [107 Stat. 2022][/us/stat/107/2022].)
+([Pub. L. 103–177, title III][/us/pl/103/177/tIII], § 302, Dec. 3, 1993, [107 Stat. 2022][/us/stat/107/2022].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/103/177/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F177%2Fs302
+[/us/pl/103/177/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F177%2FtIII
 [/us/stat/107/2022]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2022
 
 

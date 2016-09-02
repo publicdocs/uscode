@@ -17,7 +17,7 @@
 
     Title to any land purchased by a tribe or by an individual Indian with loans guaranteed or insured pursuant to this subchapter may be taken in trust, unless the land is located outside the boundaries of a reservation or a tribal consolidation area approved by the Secretary. Title to any land purchased by a tribe or an individual Indian which is outside the boundaries of the reservation or approved consolidation area may be taken in trust if the purchaser was the owner of trust or restricted interests in the land before the purchase, otherwise title shall be taken in the name of the purchaser without any restriction on alienation, control, or use. Title to any personal property purchased with loans guaranteed or insured hereunder shall be taken in the name of the purchaser.
 
-([Pub. L. 93–262, title II, § 215][/us/pl/93/262/s215], Apr. 12, 1974, [88 Stat. 81][/us/stat/88/81].)
+([Pub. L. 93–262, title II][/us/pl/93/262/tII], § 215, Apr. 12, 1974, [88 Stat. 81][/us/stat/88/81].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/93/262/s215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F262%2Fs215
+[/us/pl/93/262/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F262%2FtII
 [/us/stat/88/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F81
 
 

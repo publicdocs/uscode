@@ -31,7 +31,7 @@
 
         Nothing in this section shall be construed to prevent the joint acquisition of lands for the benefit of the Eastern Shoshone Tribe of the Wind River Reservation and the Northern Arapaho Tribe of the Wind River Reservation.
 
-([Pub. L. 103–435, § 15][/us/pl/103/435/s15], Nov. 2, 1994, [108 Stat. 4573][/us/stat/108/4573].)
+([Pub. L. 103–435][/us/pl/103/435], § 15, Nov. 2, 1994, [108 Stat. 4573][/us/stat/108/4573].)
 
 ----------
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/103/435/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F435%2Fs15
+[/us/pl/103/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F435
 [/us/stat/108/4573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4573
 
 

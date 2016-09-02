@@ -17,7 +17,7 @@
 
     Individual or tribal owners of trust or restricted Indian land on the San Xavier and Salt River Pima-Maricopa Reservations may, with the approval of the Secretary, dedicate land to the public for streets, alleys, or other public purposes under those laws of the State of Arizona that are applicable to the dedication of land for public purposes.
 
-([Pub. L. 89–715, § 7][/us/pl/89/715/s7], Nov. 2, 1966, [80 Stat. 1113][/us/stat/80/1113].)
+([Pub. L. 89–715][/us/pl/89/715], § 7, Nov. 2, 1966, [80 Stat. 1113][/us/stat/80/1113].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/89/715/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F715%2Fs7
+[/us/pl/89/715]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F715
 [/us/stat/80/1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1113
 
 

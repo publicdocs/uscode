@@ -23,7 +23,7 @@
 
         The tribe or tribal organization may establish in writing, subject to the review of the Secretary, procedures for determining additional, excess, or inducement costs to be associated with grants for critical area service agreements.
 
-([Pub. L. 102–325, title XIII, § 1325][/us/pl/102/325/s1325], July 23, 1992, [106 Stat. 805][/us/stat/106/805].)
+([Pub. L. 102–325, title XIII][/us/pl/102/325/tXIII], § 1325, July 23, 1992, [106 Stat. 805][/us/stat/106/805].)
 
  __References in Text__ 
 
@@ -37,7 +37,7 @@
 ----------
 
 [/us/usc/t25/s450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450
-[/us/pl/102/325/s1325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs1325
+[/us/pl/102/325/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2FtXIII
 [/us/stat/106/805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F805
 [/us/pl/93/638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638
 [/us/stat/88/2203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2203

@@ -17,7 +17,7 @@
 
     No money paid to Indians under sections 687 to 689 of this title shall be subject to any lien or claim of attorneys, or other persons.
 
-([Pub. L. 85–794, § 2][/us/pl/85/794/s2], Aug. 28, 1958, [72 Stat. 958][/us/stat/72/958].)
+([Pub. L. 85–794][/us/pl/85/794], § 2, Aug. 28, 1958, [72 Stat. 958][/us/stat/72/958].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/85/794/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F794%2Fs2
+[/us/pl/85/794]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F794
 [/us/stat/72/958]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F958
 
 

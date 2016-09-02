@@ -17,7 +17,7 @@
 
     The Papago Council and the Salt River Pima-Maricopa Community Council, with the approval of the Secretary of the Interior, may contract with the State of Arizona or its political subdivisions for the furnishing of water, sewerage, law enforcement, or other public services on terms and conditions deemed advantageous to the tribe and individual Indian landowners.
 
-([Pub. L. 89–715, § 8][/us/pl/89/715/s8], Nov. 2, 1966, [80 Stat. 1113][/us/stat/80/1113].)
+([Pub. L. 89–715][/us/pl/89/715], § 8, Nov. 2, 1966, [80 Stat. 1113][/us/stat/80/1113].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/89/715/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F715%2Fs8
+[/us/pl/89/715]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F715
 [/us/stat/80/1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1113
 
 

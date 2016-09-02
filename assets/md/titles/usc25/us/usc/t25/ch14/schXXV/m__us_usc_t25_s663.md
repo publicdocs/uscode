@@ -17,7 +17,7 @@
 
     The Secretary is authorized to prescribe rules and regulations to carry out the provisions of sections 659 to 663 of this title, which rules and regulations shall include an appropriate deadline for the filing of applications for enrollment under [section 659 of this title][/us/usc/t25/s659]. The determinations of the Secretary regarding eligibility for enrollment, the affiliation of an applicant’s ancestors, and the shares of the cost of roll preparation to be charged to each of the two funds referred to in sections 660 and 661 of this title shall be final. Not more than $325,000 in all shall be available under sections 659 to 663 of this title for the costs of roll preparation and of the distribution of shares.
 
-([Pub. L. 90–507, § 5][/us/pl/90/507/s5], Sept. 21, 1968, [82 Stat. 861][/us/stat/82/861].)
+([Pub. L. 90–507][/us/pl/90/507], § 5, Sept. 21, 1968, [82 Stat. 861][/us/stat/82/861].)
 
  __Codification__ 
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t25/s659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs659
-[/us/pl/90/507/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F507%2Fs5
+[/us/pl/90/507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F507
 [/us/stat/82/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F861
 [/us/act/1928-05-18/ch624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-05-18%2Fch624
 [/us/stat/45/602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F45%2F602

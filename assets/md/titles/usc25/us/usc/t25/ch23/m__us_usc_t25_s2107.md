@@ -17,7 +17,7 @@
 
     Within one hundred and eighty days of December 22, 1982, the Secretary of the Interior shall promulgate rules and regulations to facilitate implementation of this chapter. The Secretary shall, to the extent practicable, consult with national and regional Indian organizations and tribes with expertise in mineral development both in the initial formulation of rules and regulations and any future revision or amendment of such rules and regulations. Where there is pending before the Secretary for his approval a Minerals Agreement of the type authorized by [section 2102 of this title][/us/usc/t25/s2102] which was submitted prior to December 22, 1982, the Secretary shall evaluate and approve or disapprove such agreement based upon [section 2103 of this title][/us/usc/t25/s2103], but shall not withhold or delay such approval or disapproval on the grounds that the rules and regulations implementing this chapter have not been promulgated.
 
-([Pub. L. 97–382, § 8][/us/pl/97/382/s8], Dec. 22, 1982, [96 Stat. 1940][/us/stat/96/1940].)
+([Pub. L. 97–382][/us/pl/97/382], § 8, Dec. 22, 1982, [96 Stat. 1940][/us/stat/96/1940].)
 
 ----------
 
@@ -28,7 +28,7 @@
 
 [/us/usc/t25/s2102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs2102
 [/us/usc/t25/s2103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs2103
-[/us/pl/97/382/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F382%2Fs8
+[/us/pl/97/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F382
 [/us/stat/96/1940]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1940
 
 

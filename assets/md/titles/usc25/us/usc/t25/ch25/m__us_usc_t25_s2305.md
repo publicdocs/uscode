@@ -23,7 +23,7 @@
 
         The provisions of this chapter shall not affect claims arising from any unauthorized disbursement which were filed in any court of competent jurisdiction prior to October 19, 1984.
 
-([Pub. L. 98–500, § 6][/us/pl/98/500/s6], Oct. 19, 1984, [98 Stat. 2318][/us/stat/98/2318].)
+([Pub. L. 98–500][/us/pl/98/500], § 6, Oct. 19, 1984, [98 Stat. 2318][/us/stat/98/2318].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/98/500/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F500%2Fs6
+[/us/pl/98/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F500
 [/us/stat/98/2318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2318
 
 

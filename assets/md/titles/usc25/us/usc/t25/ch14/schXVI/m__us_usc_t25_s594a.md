@@ -17,7 +17,7 @@
 
     The Secretary of the Interior is authorized to prescribe rules and regulations to carry out the provisions of this section and [section 594 of this title][/us/usc/t25/s594].
 
-([Pub. L. 90–94, § 2][/us/pl/90/94/s2], Sept. 27, 1967, [81 Stat. 230][/us/stat/81/230].)
+([Pub. L. 90–94][/us/pl/90/94], § 2, Sept. 27, 1967, [81 Stat. 230][/us/stat/81/230].)
 
  __Codification__ 
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t25/s594]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs594
-[/us/pl/90/94/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F94%2Fs2
+[/us/pl/90/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F94
 [/us/stat/81/230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F230
 [/us/act/1940-06-08/ch285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-06-08%2Fch285
 [/us/stat/54/254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F254

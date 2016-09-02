@@ -17,7 +17,7 @@
 
     Nothing in this subchapter shall affect the rights, privileges, or obligations of the tribe and its members under the laws of Nebraska.
 
-([Pub. L. 87–629, § 7][/us/pl/87/629/s7], Sept. 5, 1962, [76 Stat. 430][/us/stat/76/430].)
+([Pub. L. 87–629][/us/pl/87/629], § 7, Sept. 5, 1962, [76 Stat. 430][/us/stat/76/430].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/87/629/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F629%2Fs7
+[/us/pl/87/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F629
 [/us/stat/76/430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F430
 
 

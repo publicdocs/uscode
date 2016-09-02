@@ -19,7 +19,7 @@
 
     Provided further, That whenever the Secretary of the Interior shall be satisfied that any of the Indians of the Siletz Indian Reservation, in the State of Oregon, fully capable of managing their own business affairs, and being of the age of twenty-one years or upward, shall, through inheritance or otherwise, become the owner of more than eighty acres of land upon said reservation, he shall cause patents to be issued to such Indian or Indians for all of such lands over and above the eighty acres thereof. Said patent or patents shall be issued for the least valuable portions of said lands, and the same shall be discharged of any trust and free of all charge, incumbrance, or restriction whatsoever; and the Secretary of the Interior is authorized and directed to ascertain, as soon as shall be practicable, whether any of said Indians of the Siletz Reservation should receive patents conveying in fee lands to them under the provisions of this Act.
 
-([Feb. 8, 1887, ch. 119, § 5][/us/act/1887-02-08/ch119/s5], [24 Stat. 389][/us/stat/24/389]; [Mar. 3, 1901, ch. 832, § 9][/us/act/1901-03-03/ch832/s9], [31 Stat. 1085][/us/stat/31/1085]; 1946 Reorg. Plan No. 3, § 403, eff. July 16, 1946, 11 F.R. 7876, [60 Stat. 1100][/us/stat/60/1100]; [Pub. L. 106–462, title I, § 106(a)(2)][/us/pl/106/462/s106/a/2], Nov. 7, 2000, [114 Stat. 2007][/us/stat/114/2007]; [Pub. L. 108–374, § 6(c)][/us/pl/108/374/s6/c], Oct. 27, 2004, [118 Stat. 1805][/us/stat/118/1805]; [Pub. L. 109–221, title V, § 501(b)(2)][/us/pl/109/221/s501/b/2], May 12, 2006, [120 Stat. 344][/us/stat/120/344].)
+([Feb. 8, 1887, ch. 119][/us/act/1887-02-08/ch119], § 5, [24 Stat. 389][/us/stat/24/389]; [Mar. 3, 1901, ch. 832][/us/act/1901-03-03/ch832], § 9, [31 Stat. 1085][/us/stat/31/1085]; 1946 Reorg. Plan No. 3, § 403, eff. July 16, 1946, 11 F.R. 7876, [60 Stat. 1100][/us/stat/60/1100]; [Pub. L. 106–462, title I][/us/pl/106/462/tI], § 106(a)(2), Nov. 7, 2000, [114 Stat. 2007][/us/stat/114/2007]; [Pub. L. 108–374][/us/pl/108/374], § 6(c), Oct. 27, 2004, [118 Stat. 1805][/us/stat/118/1805]; [Pub. L. 109–221, title V][/us/pl/109/221/tV], § 501(b)(2), May 12, 2006, [120 Stat. 344][/us/stat/120/344].)
 
  __References in Text__ 
 
@@ -39,7 +39,7 @@
 
  __Effective Date of 2006 Amendment__ 
 
-[Pub. L. 109–221, title V, § 501(c)][/us/pl/109/221/s501/c], May 12, 2006, [120 Stat. 344][/us/stat/120/344], provided that: 
+[Pub. L. 109–221, title V][/us/pl/109/221/tV], § 501(c), May 12, 2006, [120 Stat. 344][/us/stat/120/344], provided that: 
 
 > “The amendments made by subsection (b) \[amending this section, [section 464 of this title][/us/usc/t25/s464], and provisions set out as a note under [section 2201 of this title][/us/usc/t25/s2201]\] shall take effect as if included in the enactment of the American Indian Probate Reform Act of 2004 ([Public Law 108–374][/us/pl/108/374]; [118 Stat. 1773][/us/stat/118/1773]).”
 
@@ -81,16 +81,16 @@
 [/us/pl/108/374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F374
 [/us/stat/118/1810]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1810
 [/us/usc/t25/s2201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs2201
-[/us/act/1887-02-08/ch119/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1887-02-08%2Fch119%2Fs5
+[/us/act/1887-02-08/ch119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1887-02-08%2Fch119
 [/us/stat/24/389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F24%2F389
-[/us/act/1901-03-03/ch832/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1901-03-03%2Fch832%2Fs9
+[/us/act/1901-03-03/ch832]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1901-03-03%2Fch832
 [/us/stat/31/1085]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F31%2F1085
 [/us/stat/60/1100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F1100
-[/us/pl/106/462/s106/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F462%2Fs106%2Fa%2F2
+[/us/pl/106/462/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F462%2FtI
 [/us/stat/114/2007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2007
-[/us/pl/108/374/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F374%2Fs6%2Fc
+[/us/pl/108/374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F374
 [/us/stat/118/1805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1805
-[/us/pl/109/221/s501/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F221%2Fs501%2Fb%2F2
+[/us/pl/109/221/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F221%2FtV
 [/us/stat/120/344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F344
 [/us/act/1887-02-08/ch119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1887-02-08%2Fch119
 [/us/stat/24/388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F24%2F388
@@ -105,7 +105,7 @@
 [/us/stat/118/1810]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1810
 [/us/pl/108/374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F374
 [/us/pl/106/462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F462
-[/us/pl/109/221/s501/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F221%2Fs501%2Fc
+[/us/pl/109/221/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F221%2FtV
 [/us/stat/120/344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F344
 [/us/usc/t25/s464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs464
 [/us/usc/t25/s2201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs2201

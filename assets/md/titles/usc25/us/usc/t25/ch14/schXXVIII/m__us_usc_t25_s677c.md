@@ -17,7 +17,7 @@
 
     Any member of the tribe whose name appears on the proposed roll of full-blood members as provided in [section 677g of this title][/us/usc/t25/s677g] and any person whose name is added to such proposed roll as the result of an appeal to the Secretary may apply to the Superintendent to become identified with and a part of the mixed-blood group: Provided, That such application is made within thirty days subsequent to the publication of such proposed roll or in the event of an appeal within thirty days subsequent to notification of the decision on said appeal: And provided further, That before such transfer is made upon the official rolls the Secretary shall first certify that, in his opinion, such change in status is not detrimental to the best interest of the person seeking such change.
 
-([Aug. 27, 1954, ch. 1009, § 4][/us/act/1954-08-27/ch1009/s4], [68 Stat. 868][/us/stat/68/868].)
+([Aug. 27, 1954, ch. 1009][/us/act/1954-08-27/ch1009], § 4, [68 Stat. 868][/us/stat/68/868].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t25/s677g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs677g
-[/us/act/1954-08-27/ch1009/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-27%2Fch1009%2Fs4
+[/us/act/1954-08-27/ch1009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-27%2Fch1009
 [/us/stat/68/868]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F868
 
 

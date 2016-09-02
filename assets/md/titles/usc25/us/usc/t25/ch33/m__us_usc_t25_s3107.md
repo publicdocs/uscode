@@ -23,7 +23,7 @@
 
         Upon the request of an Indian tribe, the Secretary shall provide that the purchaser of the forest products of such tribe, which are harvested under a timber sale contract, permit or other harvest sale document which has been approved by the Secretary, shall make prompt direct payments of the gross proceeds of sales of such forest products, less any amounts segregated as forest management deductions pursuant to [section 3105 of this title][/us/usc/t25/s3105], into a bank depository account designated by such Indian tribe.
 
-([Pub. L. 101–630, title III, § 308][/us/pl/101/630/s308], Nov. 28, 1990, [104 Stat. 4537][/us/stat/104/4537].)
+([Pub. L. 101–630, title III][/us/pl/101/630/tIII], § 308, Nov. 28, 1990, [104 Stat. 4537][/us/stat/104/4537].)
 
 ----------
 
@@ -33,7 +33,7 @@
 ----------
 
 [/us/usc/t25/s3105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs3105
-[/us/pl/101/630/s308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F630%2Fs308
+[/us/pl/101/630/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F630%2FtIII
 [/us/stat/104/4537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4537
 
 

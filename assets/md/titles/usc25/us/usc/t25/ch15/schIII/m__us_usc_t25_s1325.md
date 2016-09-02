@@ -23,7 +23,7 @@
 
         No cession made by the United States under this subchapter shall deprive any court of the United States of jurisdiction to hear, determine, render judgment, or impose sentence in any criminal action instituted against any person for any offense committed before the effective date of such cession, if the offense charged in such action was cognizable under any law of the United States at the time of the commission of such offense. For the purposes of any such criminal action, such cession shall take effect on the day following the date of final determination of such action.
 
-([Pub. L. 90–284, title IV, § 405][/us/pl/90/284/s405], Apr. 11, 1968, [82 Stat. 80][/us/stat/82/80].)
+([Pub. L. 90–284, title IV][/us/pl/90/284/tIV], § 405, Apr. 11, 1968, [82 Stat. 80][/us/stat/82/80].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/90/284/s405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F284%2Fs405
+[/us/pl/90/284/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F284%2FtIV
 [/us/stat/82/80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F80
 
 

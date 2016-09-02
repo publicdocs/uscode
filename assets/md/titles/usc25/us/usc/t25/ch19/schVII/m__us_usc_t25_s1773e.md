@@ -17,7 +17,7 @@
 
     In order to carry out the Federal part of the fisheries aspect of the Settlement Agreement, there is authorized to be appropriated $100,000 for navigation equipment at Commencement Bay to be used in accordance with section A of document 4 of the Technical Documents.
 
-([Pub. L. 101–41, § 7][/us/pl/101/41/s7], June 21, 1989, [103 Stat. 87][/us/stat/103/87].)
+([Pub. L. 101–41][/us/pl/101/41], § 7, June 21, 1989, [103 Stat. 87][/us/stat/103/87].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/101/41/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F41%2Fs7
+[/us/pl/101/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F41
 [/us/stat/103/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F87
 
 

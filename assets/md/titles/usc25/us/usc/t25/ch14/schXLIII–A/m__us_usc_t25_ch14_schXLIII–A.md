@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t25/ch14/schXLIII/m__us_usc_t25_ch14_schXLIII.md) | [Next](./../../../../..//us/usc/t25/ch14/schXLIII–A/m__us_usc_t25_s941.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fch14%2FschXLIII%E2%80%93A)
+[Previous](./../../../../..//us/usc/t25/ch14/schXLIII/m__us_usc_t25_s931...938.md) | [Next](./../../../../..//us/usc/t25/ch14/schXLIII–A/m__us_usc_t25_s941.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fch14%2FschXLIII%E2%80%93A)
 
 ### SUBCHAPTER XLIII–A—CATAWBA INDIAN TRIBE OF SOUTH CAROLINA; RESTORATION OF FEDERAL TRUST RELATIONSHIP
 
 ----------
 
-[Previous](./../../../../..//us/usc/t25/ch14/schXLIII/m__us_usc_t25_ch14_schXLIII.md) | [Next](./../../../../..//us/usc/t25/ch14/schXLIII–A/m__us_usc_t25_s941.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fch14%2FschXLIII%E2%80%93A)
+[Previous](./../../../../..//us/usc/t25/ch14/schXLIII/m__us_usc_t25_s931...938.md) | [Next](./../../../../..//us/usc/t25/ch14/schXLIII–A/m__us_usc_t25_s941.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fch14%2FschXLIII%E2%80%93A)
 
 ----------
 ----------

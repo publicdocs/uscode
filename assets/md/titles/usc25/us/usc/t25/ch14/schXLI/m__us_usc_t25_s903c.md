@@ -35,7 +35,7 @@
 
         The time periods set forth in [section 903b(c) of this title][/us/usc/t25/s903b/c] and subsections (a) and (c) of this section may be changed by the written agreement of the Secretary and the Menominee Restoration Committee.
 
-([Pub. L. 93–197, § 5][/us/pl/93/197/s5], Dec. 22, 1973, [87 Stat. 772][/us/stat/87/772].)
+([Pub. L. 93–197][/us/pl/93/197], § 5, Dec. 22, 1973, [87 Stat. 772][/us/stat/87/772].)
 
  __References in Text__ 
 
@@ -50,7 +50,7 @@
 
 [/us/usc/t25/s461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs461
 [/us/usc/t25/s903b/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs903b%2Fc
-[/us/pl/93/197/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F197%2Fs5
+[/us/pl/93/197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F197
 [/us/stat/87/772]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F772
 [/us/usc/t25/s461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs461
 

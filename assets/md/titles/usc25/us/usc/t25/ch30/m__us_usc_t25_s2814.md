@@ -17,7 +17,7 @@
 
     The Director of the Indian Health Service, in coordination with the Director of the Office of Justice Services and the Director of the Office on Violence Against Women of the Department of Justice, in consultation with Indian Tribes and Tribal Organizations, and in conference with Urban Indian Organizations, shall develop standardized sexual assault policies and protocol for the facilities of the Service, based on similar protocol that has been established by the Department of Justice.
 
-([Pub. L. 101–379, § 17][/us/pl/101/379/s17], as added [Pub. L. 111–211, title II, § 265][/us/pl/111/211/s265], July 29, 2010, [124 Stat. 2300][/us/stat/124/2300].)
+([Pub. L. 101–379][/us/pl/101/379], § 17, as added [Pub. L. 111–211, title II][/us/pl/111/211/tII], § 265, July 29, 2010, [124 Stat. 2300][/us/stat/124/2300].)
 
 ----------
 
@@ -26,8 +26,8 @@
 ----------
 ----------
 
-[/us/pl/101/379/s17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F379%2Fs17
-[/us/pl/111/211/s265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211%2Fs265
+[/us/pl/101/379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F379
+[/us/pl/111/211/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211%2FtII
 [/us/stat/124/2300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2300
 
 

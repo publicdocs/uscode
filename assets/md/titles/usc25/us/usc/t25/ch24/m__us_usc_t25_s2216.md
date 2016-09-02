@@ -89,21 +89,21 @@
 
                 [Section 2205(c)(2)(A) of this title][/us/usc/t25/s2205/c/2/A] shall apply with respect to the recording and mortgaging of any trust or restricted land referred to in subparagraph (A).
 
-([Pub. L. 97–459, title II, § 217][/us/pl/97/459/s217], as added [Pub. L. 106–462, title I, § 103(6)][/us/pl/106/462/s103/6], Nov. 7, 2000, [114 Stat. 2002][/us/stat/114/2002]; amended [Pub. L. 108–374, § 6(a)(9)][/us/pl/108/374/s6/a/9], Oct. 27, 2004, [118 Stat. 1803][/us/stat/118/1803]; [Pub. L. 109–157, § 7][/us/pl/109/157/s7], Dec. 30, 2005, [119 Stat. 2952][/us/stat/119/2952].)
+([Pub. L. 97–459, title II][/us/pl/97/459/tII], § 217, as added [Pub. L. 106–462, title I][/us/pl/106/462/tI], § 103(6), Nov. 7, 2000, [114 Stat. 2002][/us/stat/114/2002]; amended [Pub. L. 108–374][/us/pl/108/374], § 6(a)(9), Oct. 27, 2004, [118 Stat. 1803][/us/stat/118/1803]; [Pub. L. 109–157][/us/pl/109/157], § 7, Dec. 30, 2005, [119 Stat. 2952][/us/stat/119/2952].)
 
  __Amendments__ 
 
     2005—Subsec. (e). [Pub. L. 109–157][/us/pl/109/157] substituted “be made available to—” for “be made available to”.
 
-    2004—Subsec. (b)(1)(B). [Pub. L. 108–374, § 6(a)(9)(A)][/us/pl/108/374/s6/a/9/A], added subpar. (B) and struck out heading and text of former subpar. (B). Text read as follows: “The requirement for an estimate of value under subparagraph (A) may be waived in writing by an Indian selling, exchanging, or conveying by gift deed for no or nominal consideration an interest in land with an Indian person who is the owner’s spouse, brother, sister, lineal ancestor of Indian blood, lineal descendant, or collateral heir.”
+    2004—Subsec. (b)(1)(B). [Pub. L. 108–374][/us/pl/108/374], § 6(a)(9)(A), added subpar. (B) and struck out heading and text of former subpar. (B). Text read as follows: “The requirement for an estimate of value under subparagraph (A) may be waived in writing by an Indian selling, exchanging, or conveying by gift deed for no or nominal consideration an interest in land with an Indian person who is the owner’s spouse, brother, sister, lineal ancestor of Indian blood, lineal descendant, or collateral heir.”
 
-    Subsec. (e). [Pub. L. 108–374, § 6(a)(9)(B)][/us/pl/108/374/s6/a/9/B], added introductory provisions and struck out former introductory provisions which read as follows: “Notwithstanding any other provision of law, the names and mailing addresses of the Indian owners of trust or restricted lands, and information on the location of the parcel and the percentage of undivided interest owned by each individual, or of any interest in trust or restricted lands, shall, upon written request, be made available to—”.
+    Subsec. (e). [Pub. L. 108–374][/us/pl/108/374], § 6(a)(9)(B), added introductory provisions and struck out former introductory provisions which read as follows: “Notwithstanding any other provision of law, the names and mailing addresses of the Indian owners of trust or restricted lands, and information on the location of the parcel and the percentage of undivided interest owned by each individual, or of any interest in trust or restricted lands, shall, upon written request, be made available to—”.
 
-    Subsec. (e)(1). [Pub. L. 108–374, § 6(a)(9)(C)][/us/pl/108/374/s6/a/9/C], struck out “Indian” before “owners”.
+    Subsec. (e)(1). [Pub. L. 108–374][/us/pl/108/374], § 6(a)(9)(C), struck out “Indian” before “owners”.
 
-    Subsec. (e)(3). [Pub. L. 108–374, § 6(a)(9)(D)][/us/pl/108/374/s6/a/9/D], substituted “any person that is leasing, using, or consolidating, or is applying to lease, use, or consolidate,” for “prospective applicants for the leasing, use, or consolidation of”.
+    Subsec. (e)(3). [Pub. L. 108–374][/us/pl/108/374], § 6(a)(9)(D), substituted “any person that is leasing, using, or consolidating, or is applying to lease, use, or consolidate,” for “prospective applicants for the leasing, use, or consolidation of”.
 
-    Subsec. (f). [Pub. L. 108–374, § 6(a)(9)(E)][/us/pl/108/374/s6/a/9/E], added subsec. (f) and struck out heading and text of former subsec. (f). Text read as follows: “After the expiration of the limitation period provided for in subsection (b)(2) of this section and prior to considering an Indian application to terminate the trust status or to remove the restrictions on alienation from trust or restricted land sold, exchanged or otherwise conveyed under this section, the Indian tribe that exercises jurisdiction over the parcel of such land shall be notified of the application and given the opportunity to match the purchase price that has been offered for the trust or restricted land involved.”
+    Subsec. (f). [Pub. L. 108–374][/us/pl/108/374], § 6(a)(9)(E), added subsec. (f) and struck out heading and text of former subsec. (f). Text read as follows: “After the expiration of the limitation period provided for in subsection (b)(2) of this section and prior to considering an Indian application to terminate the trust status or to remove the restrictions on alienation from trust or restricted land sold, exchanged or otherwise conveyed under this section, the Indian tribe that exercises jurisdiction over the parcel of such land shall be notified of the application and given the opportunity to match the purchase price that has been offered for the trust or restricted land involved.”
 
  __Effective Date of 2005 Amendment__ 
 
@@ -118,19 +118,19 @@
 
 [/us/usc/t25/s2205/c/2/A/iv]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs2205%2Fc%2F2%2FA%2Fiv
 [/us/usc/t25/s2205/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs2205%2Fc%2F2%2FA
-[/us/pl/97/459/s217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F459%2Fs217
-[/us/pl/106/462/s103/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F462%2Fs103%2F6
+[/us/pl/97/459/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F459%2FtII
+[/us/pl/106/462/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F462%2FtI
 [/us/stat/114/2002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2002
-[/us/pl/108/374/s6/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F374%2Fs6%2Fa%2F9
+[/us/pl/108/374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F374
 [/us/stat/118/1803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1803
-[/us/pl/109/157/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F157%2Fs7
+[/us/pl/109/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F157
 [/us/stat/119/2952]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2952
 [/us/pl/109/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F157
-[/us/pl/108/374/s6/a/9/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F374%2Fs6%2Fa%2F9%2FA
-[/us/pl/108/374/s6/a/9/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F374%2Fs6%2Fa%2F9%2FB
-[/us/pl/108/374/s6/a/9/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F374%2Fs6%2Fa%2F9%2FC
-[/us/pl/108/374/s6/a/9/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F374%2Fs6%2Fa%2F9%2FD
-[/us/pl/108/374/s6/a/9/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F374%2Fs6%2Fa%2F9%2FE
+[/us/pl/108/374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F374
+[/us/pl/108/374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F374
+[/us/pl/108/374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F374
+[/us/pl/108/374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F374
+[/us/pl/108/374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F374
 [/us/pl/109/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F157
 [/us/pl/108/374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F374
 [/us/pl/109/157/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F157%2Fs9

@@ -17,7 +17,7 @@
 
     Notwithstanding any other provision of law, any action to contest the constitutionality of this subchapter shall be barred unless the complaint is filed within one hundred and eighty days of September 30, 1978. Exclusive jurisdiction over any such action is hereby vested in the United States District Court for the District of Rhode Island.
 
-([Pub. L. 95–395, § 12][/us/pl/95/395/s12], Sept. 30, 1978, [92 Stat. 817][/us/stat/92/817].)
+([Pub. L. 95–395][/us/pl/95/395], § 12, Sept. 30, 1978, [92 Stat. 817][/us/stat/92/817].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/95/395/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F395%2Fs12
+[/us/pl/95/395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F395
 [/us/stat/92/817]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F817
 
 

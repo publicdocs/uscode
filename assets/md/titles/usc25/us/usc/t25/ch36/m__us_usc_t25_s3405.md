@@ -33,7 +33,7 @@
 
     (8) be approved by the governing body of the affected tribe.
 
-([Pub. L. 102–477, § 6][/us/pl/102/477/s6], Oct. 23, 1992, [106 Stat. 2303][/us/stat/106/2303].)
+([Pub. L. 102–477][/us/pl/102/477], § 6, Oct. 23, 1992, [106 Stat. 2303][/us/stat/106/2303].)
 
 ----------
 
@@ -43,7 +43,7 @@
 ----------
 
 [/us/usc/t25/s3403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs3403
-[/us/pl/102/477/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F477%2Fs6
+[/us/pl/102/477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F477
 [/us/stat/106/2303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2303
 
 

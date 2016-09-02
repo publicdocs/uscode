@@ -27,7 +27,7 @@
 
         Land within its aboriginal area in the State or situated within or near proximity to former reservation land may be acquired by the Seneca Nation with funds appropriated pursuant to this subchapter. State and local governments shall have a period of 30 days after notification by the Secretary or the Seneca Nation of acquisition of, or intent to acquire such lands to comment on the impact of the removal of such lands from real property tax rolls of State political subdivisions. Unless the Secretary determines within 30 days after the comment period that such lands should not be subject to the provisions of section 2116 of the Revised Statutes ([25 U.S.C. 177][/us/usc/t25/s177]), such lands shall be subject to the provisions of that Act  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “section”. </sup></sup>  and shall be held in restricted fee status by the Seneca Nation. Based on the proximity of the land acquired to the Seneca Nation’s reservations, land acquired may become a part of and expand the boundaries of the Allegany Reservation, the Cattaraugus Reservation, or the Oil Spring Reservation in accordance with the procedures established by the Secretary for this purpose.
 
-([Pub. L. 101–503, § 8][/us/pl/101/503/s8], Nov. 3, 1990, [104 Stat. 1296][/us/stat/104/1296].)
+([Pub. L. 101–503][/us/pl/101/503], § 8, Nov. 3, 1990, [104 Stat. 1296][/us/stat/104/1296].)
 
 ----------
 
@@ -38,7 +38,7 @@
 
 [/us/usc/t25/s1407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1407
 [/us/usc/t25/s177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs177
-[/us/pl/101/503/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F503%2Fs8
+[/us/pl/101/503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F503
 [/us/stat/104/1296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1296
 
 

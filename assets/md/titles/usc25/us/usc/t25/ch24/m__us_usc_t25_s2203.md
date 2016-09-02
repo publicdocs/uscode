@@ -37,13 +37,13 @@
 
         The Secretary may execute instruments of conveyance for less than fair market value to effectuate the transfer of lands used as homesites held, on December 17, 1991, by the United States in trust for the Cherokee Nation of Oklahoma. Only the lands used as homesites, and described in the land consolidation plan of the Cherokee Nation of Oklahoma approved by the Secretary on February 6, 1987, shall be subject to this subsection.
 
-([Pub. L. 97–459, title II, § 204][/us/pl/97/459/s204], Jan. 12, 1983, [96 Stat. 2517][/us/stat/96/2517]; [Pub. L. 98–608, § 1(1)][/us/pl/98/608/s1/1], Oct. 30, 1984, [98 Stat. 3171][/us/stat/98/3171]; [Pub. L. 102–238, § 3][/us/pl/102/238/s3], Dec. 17, 1991, [105 Stat. 1908][/us/stat/105/1908].)
+([Pub. L. 97–459, title II][/us/pl/97/459/tII], § 204, Jan. 12, 1983, [96 Stat. 2517][/us/stat/96/2517]; [Pub. L. 98–608][/us/pl/98/608], § 1(1), Oct. 30, 1984, [98 Stat. 3171][/us/stat/98/3171]; [Pub. L. 102–238][/us/pl/102/238], § 3, Dec. 17, 1991, [105 Stat. 1908][/us/stat/105/1908].)
 
  __Amendments__ 
 
-    1991—Subsec. (a)(1). [Pub. L. 102–238, § 3(1)][/us/pl/102/238/s3/1], substituted “(1) except as provided by subsection (c), the sale price” for “(1) the sale price”.
+    1991—Subsec. (a)(1). [Pub. L. 102–238][/us/pl/102/238], § 3(1), substituted “(1) except as provided by subsection (c), the sale price” for “(1) the sale price”.
 
-    Subsec. (c). [Pub. L. 102–238, § 3(2)][/us/pl/102/238/s3/2], added subsec. (c).
+    Subsec. (c). [Pub. L. 102–238][/us/pl/102/238], § 3(2), added subsec. (c).
 
     1984—Subsec. (a). [Pub. L. 98–608][/us/pl/98/608] amended subsec. (a) generally, substituting “: Provided, That—” for period at end and inserting five numbered pars., thereby correcting errors originally contained in this section as enacted by [Pub. L. 97–459][/us/pl/97/459], the text of which had a portion of section 204 appearing in section 206 (classified to [section 2205 of this title][/us/usc/t25/s2205]) as the result of inadvertent error in the execution of committee amendments (see House Report No. 97–908, Sept. 30, 1982) to the bill. [Pub. L. 97–459][/us/pl/97/459] enacted subsec. (a) as ending with “tribal landholdings.”, and included portion of section 204 containing proviso and five numbered pars. within text of section 206.
 
@@ -56,14 +56,14 @@
 ----------
 ----------
 
-[/us/pl/97/459/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F459%2Fs204
+[/us/pl/97/459/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F459%2FtII
 [/us/stat/96/2517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2517
-[/us/pl/98/608/s1/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F608%2Fs1%2F1
+[/us/pl/98/608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F608
 [/us/stat/98/3171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3171
-[/us/pl/102/238/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F238%2Fs3
+[/us/pl/102/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F238
 [/us/stat/105/1908]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1908
-[/us/pl/102/238/s3/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F238%2Fs3%2F1
-[/us/pl/102/238/s3/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F238%2Fs3%2F2
+[/us/pl/102/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F238
+[/us/pl/102/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F238
 [/us/pl/98/608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F608
 [/us/pl/97/459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F459
 [/us/usc/t25/s2205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs2205

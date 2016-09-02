@@ -17,7 +17,7 @@
 
     Any part of such funds that may be distributed to members of the Tribes shall not be subject to Federal or State income tax.
 
-([Pub. L. 92–253, § 2][/us/pl/92/253/s2], Mar. 17, 1972, [86 Stat. 64][/us/stat/86/64].)
+([Pub. L. 92–253][/us/pl/92/253], § 2, Mar. 17, 1972, [86 Stat. 64][/us/stat/86/64].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/92/253/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F253%2Fs2
+[/us/pl/92/253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F253
 [/us/stat/86/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F64
 
 

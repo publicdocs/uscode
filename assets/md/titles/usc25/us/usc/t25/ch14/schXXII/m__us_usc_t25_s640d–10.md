@@ -63,7 +63,7 @@
 
         The Commissioner shall have authority to enter into negotiations with the Navajo and Hopi Tribes with a view to arranging and carrying out land exchanges or leases, or both, between such tribes; and lands which may be acquired or transferred pursuant to this section may, with the approval of the Commissioner, be included in any land exchange between the tribes authorized under [section 640d–22 of this title][/us/usc/t25/s640d–22].
 
-([Pub. L. 93–531, § 11][/us/pl/93/531/s11], Dec. 22, 1974, [88 Stat. 1716][/us/stat/88/1716]; [Pub. L. 96–305, § 4][/us/pl/96/305/s4], July 8, 1980, [94 Stat. 930][/us/stat/94/930]; [Pub. L. 98–603, title I, § 106][/us/pl/98/603/s106], Oct. 30, 1984, [98 Stat. 3157][/us/stat/98/3157]; [Pub. L. 100–666][/us/pl/100/666], §§ 4(b), 8, Nov. 16, 1988, [102 Stat. 3930][/us/stat/102/3930], 3933.)
+([Pub. L. 93–531][/us/pl/93/531], § 11, Dec. 22, 1974, [88 Stat. 1716][/us/stat/88/1716]; [Pub. L. 96–305][/us/pl/96/305], § 4, July 8, 1980, [94 Stat. 930][/us/stat/94/930]; [Pub. L. 98–603, title I][/us/pl/98/603/tI], § 106, Oct. 30, 1984, [98 Stat. 3157][/us/stat/98/3157]; [Pub. L. 100–666][/us/pl/100/666], §§ 4(b), 8, Nov. 16, 1988, [102 Stat. 3930][/us/stat/102/3930], 3933.)
 
  __References in Text__ 
 
@@ -77,21 +77,21 @@
 
  __Codification__ 
 
-    In subsec. (e), “chapter 69 of title 31” substituted for “the Act of October 20, 1976 ([90 Stat. 2662][/us/stat/90/2662]; [31 U.S.C. 1601][/us/usc/t31/s1601] et seq.)” on authority of [Pub. L. 97–258, § 4(b)][/us/pl/97/258/s4/b], Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], the first section of which enacted Title 31, Money and Finance.
+    In subsec. (e), “chapter 69 of title 31” substituted for “the Act of October 20, 1976 ([90 Stat. 2662][/us/stat/90/2662]; [31 U.S.C. 1601][/us/usc/t31/s1601] et seq.)” on authority of [Pub. L. 97–258][/us/pl/97/258], § 4(b), Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], the first section of which enacted Title 31, Money and Finance.
 
  __Amendments__ 
 
-    1988—Subsecs. (c), (d), (f)(2). [Pub. L. 100–666, § 4(b)][/us/pl/100/666/s4/b], substituted “Commissioner” for “Commission” wherever appearing.
+    1988—Subsecs. (c), (d), (f)(2). [Pub. L. 100–666][/us/pl/100/666], § 4(b), substituted “Commissioner” for “Commission” wherever appearing.
 
     Subsec. (h). [Pub. L. 100–666][/us/pl/100/666], §§ 4(b), 8, substituted “by the Commissioner” for “by the Commission” and “December 22, 1974: Provided, That the sole authority for final planning decisions regarding the development of lands acquired pursuant to this subchapter shall rest with the Commissioner until such time as the Commissioner has discharged his statutory responsibility under this subchapter” for “July 8, 1980, who are awaiting relocation under this subchapter”.
 
-    Subsec. (i). [Pub. L. 100–666, § 4(b)][/us/pl/100/666/s4/b], substituted “Commissioner” for “Commission” in two places.
+    Subsec. (i). [Pub. L. 100–666][/us/pl/100/666], § 4(b), substituted “Commissioner” for “Commission” in two places.
 
-    1984—Subsec. (a). [Pub. L. 98–603, § 106(2)][/us/pl/98/603/s106/2], inserted provisions relating to transfer without cost to the Navajo Tribe with title taken by the United States in trust for the benefit of the Navajo Tribe as part of the Navajo Reservation of all rights, title, and interests of the United States in the lands described in par. (1), subject to existing leaseholds.
+    1984—Subsec. (a). [Pub. L. 98–603][/us/pl/98/603], § 106(2), inserted provisions relating to transfer without cost to the Navajo Tribe with title taken by the United States in trust for the benefit of the Navajo Tribe as part of the Navajo Reservation of all rights, title, and interests of the United States in the lands described in par. (1), subject to existing leaseholds.
 
-    Subsec. (a)(1). [Pub. L. 98–603, § 106(1)][/us/pl/98/603/s106/1], struck out provisions requiring transfer of lands without cost to the Navajo Tribe with title taken by the United States in trust for the benefit of the Navajo Tribe as part of the Navajo Reservation.
+    Subsec. (a)(1). [Pub. L. 98–603][/us/pl/98/603], § 106(1), struck out provisions requiring transfer of lands without cost to the Navajo Tribe with title taken by the United States in trust for the benefit of the Navajo Tribe as part of the Navajo Reservation.
 
-    Subsec. (a)(2). [Pub. L. 98–603, § 106(3)][/us/pl/98/603/s106/3], added the par. (2) relating to interests in lands acquired in New Mexico.
+    Subsec. (a)(2). [Pub. L. 98–603][/us/pl/98/603], § 106(3), added the par. (2) relating to interests in lands acquired in New Mexico.
 
     1980—Subsec. (a). [Pub. L. 96–305][/us/pl/96/305] substituted provision authorizing the Secretary to transfer not more than 250,000 acres of land under the jurisdiction of the Bureau of Land Management to the Navajo Tribe, at no cost to the Navajo Tribe, and in order to facilitate this transfer, exchange Bureau of Land Management land, at equal valuation, for State and private land, and to accept title to not more than 150,000 acres of private lands acquired by the Navajo Tribe, with title to both the transferred and privately acquired lands to be held by the United States in trust for the benefit of the Navajo Tribe for provision authorizing the Secretary to transfer not more than 250,000 acres of land under the jurisdiction of the Bureau of Land Management to the Navajo Tribe providing the Navajo Tribe pay the fair market value of the land transferred and providing that title to the transferred land be held by the United States for the benefit of the Navajo Tribe.
 
@@ -115,11 +115,11 @@
 [/us/usc/t30/s181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs181
 [/us/usc/t30/s181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs181
 [/us/usc/t25/s640d–22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs640d%E2%80%9322
-[/us/pl/93/531/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F531%2Fs11
+[/us/pl/93/531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F531
 [/us/stat/88/1716]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1716
-[/us/pl/96/305/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F305%2Fs4
+[/us/pl/96/305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F305
 [/us/stat/94/930]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F930
-[/us/pl/98/603/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F603%2Fs106
+[/us/pl/98/603/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F603%2FtI
 [/us/stat/98/3157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3157
 [/us/pl/100/666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F666
 [/us/stat/102/3930]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3930
@@ -130,14 +130,14 @@
 [/us/stat/17/91]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F17%2F91
 [/us/stat/90/2662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2662
 [/us/usc/t31/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1601
-[/us/pl/97/258/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs4%2Fb
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1067
-[/us/pl/100/666/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F666%2Fs4%2Fb
 [/us/pl/100/666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F666
-[/us/pl/100/666/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F666%2Fs4%2Fb
-[/us/pl/98/603/s106/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F603%2Fs106%2F2
-[/us/pl/98/603/s106/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F603%2Fs106%2F1
-[/us/pl/98/603/s106/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F603%2Fs106%2F3
+[/us/pl/100/666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F666
+[/us/pl/100/666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F666
+[/us/pl/98/603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F603
+[/us/pl/98/603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F603
+[/us/pl/98/603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F603
 [/us/pl/96/305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F305
 [/us/pl/96/305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F305
 [/us/pl/96/305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F305

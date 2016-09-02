@@ -17,7 +17,7 @@
 
     The Secretary of the Interior is authorized and directed to distribute per capita to all persons whose names appear on the rolls of the Cherokee Nation, which rolls were closed and made final as of March 4, 1907, pursuant to the Act of April 26, 1906 ([34 Stat. 137][/us/stat/34/137]), and subsequent additions thereto, all funds which were appropriated by the Act of September 30, 1961 ([75 Stat. 733][/us/stat/75/733]), in satisfaction of a judgment that was obtained by the Cherokee Tribe in the Indian Claims Commission against the United States in docket numbered 173, together with the interest accrued thereon, except $1,432,084.17 which by stipulation of the parties has been set aside for the payments of any offsets that are finally determined to be due the United States, and except the amount allowed for attorney fees and expenses.
 
-([Pub. L. 87–775, § 1][/us/pl/87/775/s1], Oct. 9, 1962, [76 Stat. 776][/us/stat/76/776].)
+([Pub. L. 87–775][/us/pl/87/775], § 1, Oct. 9, 1962, [76 Stat. 776][/us/stat/76/776].)
 
  __References in Text__ 
 
@@ -36,7 +36,7 @@
 
 [/us/stat/34/137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F34%2F137
 [/us/stat/75/733]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F733
-[/us/pl/87/775/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F775%2Fs1
+[/us/pl/87/775]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F775
 [/us/stat/76/776]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F776
 [/us/act/1906-04-26/ch1876]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1906-04-26%2Fch1876
 [/us/stat/34/137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F34%2F137

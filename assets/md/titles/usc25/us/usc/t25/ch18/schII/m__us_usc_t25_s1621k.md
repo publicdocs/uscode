@@ -17,7 +17,7 @@
 
     The Secretary, through the Service, shall provide for screening mammography (as defined in section 1861(jj) of the Social Security Act \[[42 U.S.C. 1395x(jj)][/us/usc/t42/s1395x/jj]\]) for Indian and urban Indian women 35 years of age or older at a frequency, determined by the Secretary (in consultation with the Director of the National Cancer Institute), appropriate to such women, and under such terms and conditions as are consistent with standards established by the Secretary to assure the safety and accuracy of screening mammography under part B of title XVIII of the Social Security Act \[[42 U.S.C. 1395j][/us/usc/t42/s1395j] et seq.\] and other cancer screenings.
 
-([Pub. L. 94–437, title II, § 212][/us/pl/94/437/s212], as added [Pub. L. 102–573, title II, § 207(a)][/us/pl/102/573/s207/a], Oct. 29, 1992, [106 Stat. 4550][/us/stat/106/4550]; amended [Pub. L. 111–148, title X, § 10221(a)][/us/pl/111/148/s10221/a], Mar. 23, 2010, [124 Stat. 935][/us/stat/124/935].)
+([Pub. L. 94–437, title II][/us/pl/94/437/tII], § 212, as added [Pub. L. 102–573, title II][/us/pl/102/573/tII], § 207(a), Oct. 29, 1992, [106 Stat. 4550][/us/stat/106/4550]; amended [Pub. L. 111–148, title X][/us/pl/111/148/tX], § 10221(a), Mar. 23, 2010, [124 Stat. 935][/us/stat/124/935].)
 
  __References in Text__ 
 
@@ -40,10 +40,10 @@
 
 [/us/usc/t42/s1395x/jj]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395x%2Fjj
 [/us/usc/t42/s1395j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395j
-[/us/pl/94/437/s212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437%2Fs212
-[/us/pl/102/573/s207/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2Fs207%2Fa
+[/us/pl/94/437/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437%2FtII
+[/us/pl/102/573/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2FtII
 [/us/stat/106/4550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4550
-[/us/pl/111/148/s10221/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10221%2Fa
+[/us/pl/111/148/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtX
 [/us/stat/124/935]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F935
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620

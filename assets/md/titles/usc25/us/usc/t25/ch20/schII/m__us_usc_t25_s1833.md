@@ -17,7 +17,7 @@
 
     Interest deposited, pursuant to [section 1832(b)(2)(C) of this title][/us/usc/t25/s1832/b/2/C], in the trust fund of any tribally controlled college or university may be periodically withdrawn and used, at the discretion of such college or university, to defray any expenses associated with the operation of such college or university, including expense of operations and maintenance, administration, academic and support personnel, community and student services programs, and technical assistance.
 
-([Pub. L. 95–471, title III, § 303][/us/pl/95/471/s303], as added [Pub. L. 98–192, § 13][/us/pl/98/192/s13], Dec. 1, 1983, [97 Stat. 1342][/us/stat/97/1342]; amended [Pub. L. 105–244, title IX, § 901(b)(5)][/us/pl/105/244/s901/b/5], (7), Oct. 7, 1998, [112 Stat. 1828][/us/stat/112/1828].)
+([Pub. L. 95–471, title III][/us/pl/95/471/tIII], § 303, as added [Pub. L. 98–192][/us/pl/98/192], § 13, Dec. 1, 1983, [97 Stat. 1342][/us/stat/97/1342]; amended [Pub. L. 105–244, title IX][/us/pl/105/244/tIX], § 901(b)(5), (7), Oct. 7, 1998, [112 Stat. 1828][/us/stat/112/1828].)
 
  __Amendments__ 
 
@@ -35,10 +35,10 @@
 ----------
 
 [/us/usc/t25/s1832/b/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1832%2Fb%2F2%2FC
-[/us/pl/95/471/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F471%2Fs303
-[/us/pl/98/192/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F192%2Fs13
+[/us/pl/95/471/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F471%2FtIII
+[/us/pl/98/192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F192
 [/us/stat/97/1342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1342
-[/us/pl/105/244/s901/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs901%2Fb%2F5
+[/us/pl/105/244/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtIX
 [/us/stat/112/1828]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1828
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244

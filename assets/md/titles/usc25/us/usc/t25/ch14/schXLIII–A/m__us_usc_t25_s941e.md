@@ -47,7 +47,7 @@
 
         The Tribe shall have the right to determine future membership in the Tribe; however, in no event may an individual be enrolled as a tribal member unless the individual is a lineal descendant of a person on the final base membership roll and has continued to maintain political relations with the Tribe.
 
-([Pub. L. 103–116, § 7][/us/pl/103/116/s7], Oct. 27, 1993, [107 Stat. 1124][/us/stat/107/1124].)
+([Pub. L. 103–116][/us/pl/103/116], § 7, Oct. 27, 1993, [107 Stat. 1124][/us/stat/107/1124].)
 
 ----------
 
@@ -57,7 +57,7 @@
 ----------
 
 [/us/usc/t25/s941i/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs941i%2Fh
-[/us/pl/103/116/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F116%2Fs7
+[/us/pl/103/116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F116
 [/us/stat/107/1124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1124
 
 

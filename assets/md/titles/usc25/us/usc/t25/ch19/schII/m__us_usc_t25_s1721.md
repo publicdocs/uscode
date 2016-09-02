@@ -49,7 +49,7 @@
 
         (4) to confirm that all other Indians, Indian nations and tribes and bands of Indians now or hereafter existing or recognized in the State of Maine are and shall be subject to all laws of the State of Maine, as provided herein.
 
-([Pub. L. 96–420, § 2][/us/pl/96/420/s2], Oct. 10, 1980, [94 Stat. 1785][/us/stat/94/1785].)
+([Pub. L. 96–420][/us/pl/96/420], § 2, Oct. 10, 1980, [94 Stat. 1785][/us/stat/94/1785].)
 
  __References in Text__ 
 
@@ -57,7 +57,7 @@
 
  __Short Title__ 
 
-[Pub. L. 96–420, § 1][/us/pl/96/420/s1], Oct. 10, 1980, [94 Stat. 1785][/us/stat/94/1785], provided: 
+[Pub. L. 96–420][/us/pl/96/420], § 1, Oct. 10, 1980, [94 Stat. 1785][/us/stat/94/1785], provided: 
 
 > “That this Act \[enacting this subchapter\] may be cited as the ‘Maine Indian Claims Settlement Act of 1980’.”
 
@@ -295,12 +295,12 @@
 ----------
 
 [/us/stat/1/137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F1%2F137
-[/us/pl/96/420/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F420%2Fs2
+[/us/pl/96/420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F420
 [/us/stat/94/1785]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1785
 [/us/stat/1/137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F1%2F137
 [/us/act/1790-07-22/ch33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1790-07-22%2Fch33
 [/us/stat/1/137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F1%2F137
-[/us/pl/96/420/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F420%2Fs1
+[/us/pl/96/420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F420
 [/us/stat/94/1785]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1785
 [/us/pl/102/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F171
 [/us/stat/105/1143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1143

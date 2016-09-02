@@ -23,7 +23,7 @@
 
         The Hopi Tribe shall pay to the Navajo Tribe the fair rental value as determined by the Secretary for all use by Hopi individuals of any lands partitioned to the Navajo Tribe pursuant to sections 640d–7 and 640d–2 or 640d–3 of this title subsequent to the date of the partition thereof.
 
-([Pub. L. 93–531, § 16][/us/pl/93/531/s16], Dec. 22, 1974, [88 Stat. 1720][/us/stat/88/1720].)
+([Pub. L. 93–531][/us/pl/93/531], § 16, Dec. 22, 1974, [88 Stat. 1720][/us/stat/88/1720].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/93/531/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F531%2Fs16
+[/us/pl/93/531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F531
 [/us/stat/88/1720]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1720
 
 

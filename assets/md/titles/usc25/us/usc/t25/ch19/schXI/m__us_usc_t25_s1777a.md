@@ -41,7 +41,7 @@
 
         The term “Settlement Agreement” means the Settlement Agreement dated May 26, 2000, between the Departments of the Interior, Agriculture, and Justice and the Pueblo of Santo Domingo to Resolve All of the Pueblo’s Land Title and Trespass Claims.
 
-([Pub. L. 106–425, § 3][/us/pl/106/425/s3], Nov. 1, 2000, [114 Stat. 1891][/us/stat/114/1891].)
+([Pub. L. 106–425][/us/pl/106/425], § 3, Nov. 1, 2000, [114 Stat. 1891][/us/stat/114/1891].)
 
 ----------
 
@@ -51,7 +51,7 @@
 ----------
 
 [/us/usc/t25/s1777c/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1777c%2Fb%2F1
-[/us/pl/106/425/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F425%2Fs3
+[/us/pl/106/425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F425
 [/us/stat/114/1891]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1891
 
 

@@ -59,7 +59,7 @@
 
         The Secretary shall administer and distribute funds held in the Torres-Martinez Settlement Trust Funds Account, the Torres-Martinez Allottees Settlement Account I, and the Torres-Martinez Allottees Settlement Account II in accordance with the terms and conditions of the Settlement Agreement.
 
-([Pub. L. 106–568, title VI, § 605][/us/pl/106/568/s605], Dec. 27, 2000, [114 Stat. 2908][/us/stat/114/2908].)
+([Pub. L. 106–568, title VI][/us/pl/106/568/tVI], § 605, Dec. 27, 2000, [114 Stat. 2908][/us/stat/114/2908].)
 
  __Effective Date__ 
 
@@ -74,7 +74,7 @@
 
 [/us/usc/t31/s1304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1304
 [/us/usc/t28/s2414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2414
-[/us/pl/106/568/s605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F568%2Fs605
+[/us/pl/106/568/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F568%2FtVI
 [/us/stat/114/2908]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2908
 [/us/pl/106/568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F568
 [/us/pl/106/568/s611/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F568%2Fs611%2Fb

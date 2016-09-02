@@ -17,7 +17,7 @@
 
     Notwithstanding the provisions of any enabling Act for the admission of a State, the consent of the United States is hereby given to the people of any State to amend, where necessary, their State constitution or existing statutes, as the case may be, to remove any legal impediment to the assumption of civil or criminal jurisdiction in accordance with the provisions of this subchapter. The provisions of this subchapter shall not become effective with respect to such assumption of jurisdiction by any such State until the people thereof have appropriately amended their State constitution or statutes, as the case may be.
 
-([Pub. L. 90–284, title IV, § 404][/us/pl/90/284/s404], Apr. 11, 1968, [82 Stat. 79][/us/stat/82/79].)
+([Pub. L. 90–284, title IV][/us/pl/90/284/tIV], § 404, Apr. 11, 1968, [82 Stat. 79][/us/stat/82/79].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/90/284/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F284%2Fs404
+[/us/pl/90/284/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F284%2FtIV
 [/us/stat/82/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F79
 
 

@@ -23,7 +23,7 @@
 
         Notwithstanding subsection (a), the total fees payable to attorneys under such contracts with an Indian Nation shall not exceed 10 percent of that Indian Nation’s allocation of funds appropriated under [section 1779c(c) of this title][/us/usc/t25/s1779c/c].
 
-([Pub. L. 107–331, title VI, § 607][/us/pl/107/331/s607], Dec. 13, 2002, [116 Stat. 2852][/us/stat/116/2852].)
+([Pub. L. 107–331, title VI][/us/pl/107/331/tVI], § 607, Dec. 13, 2002, [116 Stat. 2852][/us/stat/116/2852].)
 
 ----------
 
@@ -34,7 +34,7 @@
 
 [/us/usc/t25/s1779c/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1779c%2Fc
 [/us/usc/t25/s1779c/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1779c%2Fc
-[/us/pl/107/331/s607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F331%2Fs607
+[/us/pl/107/331/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F331%2FtVI
 [/us/stat/116/2852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2852
 
 

@@ -17,7 +17,7 @@
 
     All funds derived from the sale of lands pursuant to this subchapter shall be used only for the purchase of real property within the boundaries of the Southern Ute Indian Reservation. Title to any lands purchased with such funds and title to any lands reacquired by the tribe by foreclosure of a mortgage or deed of trust shall be taken in the name of the United States in trust for the Southern Ute Indian Tribe.
 
-([Pub. L. 92–312, § 2][/us/pl/92/312/s2], June 14, 1972, [86 Stat. 216][/us/stat/86/216].)
+([Pub. L. 92–312][/us/pl/92/312], § 2, June 14, 1972, [86 Stat. 216][/us/stat/86/216].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/92/312/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F312%2Fs2
+[/us/pl/92/312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F312
 [/us/stat/86/216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F216
 
 

@@ -23,7 +23,7 @@
 
     (3) to declare that the establishment of independent Federal regulatory authority for gaming on Indian lands, the establishment of Federal standards for gaming on Indian lands, and the establishment of a National Indian Gaming Commission are necessary to meet congressional concerns regarding gaming and to protect such gaming as a means of generating tribal revenue.
 
-([Pub. L. 100–497, § 3][/us/pl/100/497/s3], Oct. 17, 1988, [102 Stat. 2467][/us/stat/102/2467].)
+([Pub. L. 100–497][/us/pl/100/497], § 3, Oct. 17, 1988, [102 Stat. 2467][/us/stat/102/2467].)
 
  __References in Text__ 
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/100/497/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F497%2Fs3
+[/us/pl/100/497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F497
 [/us/stat/102/2467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2467
 [/us/pl/100/497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F497
 [/us/stat/102/2467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2467

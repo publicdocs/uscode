@@ -21,7 +21,7 @@
 
  __Codification__ 
 
-    R.S. § 2119 derived from [act June 14, 1862, ch. 101, § 1][/us/act/1862-06-14/ch101/s1], [12 Stat. 427][/us/stat/12/427].
+    R.S. § 2119 derived from [act June 14, 1862, ch. 101][/us/act/1862-06-14/ch101], § 1, [12 Stat. 427][/us/stat/12/427].
 
  __Transfer of Functions__ 
 
@@ -38,7 +38,7 @@
 ----------
 ----------
 
-[/us/act/1862-06-14/ch101/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1862-06-14%2Fch101%2Fs1
+[/us/act/1862-06-14/ch101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1862-06-14%2Fch101
 [/us/stat/12/427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F12%2F427
 [/us/stat/64/1262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1262
 [/us/usc/t25/s64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs64

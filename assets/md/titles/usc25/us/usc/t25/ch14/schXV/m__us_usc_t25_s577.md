@@ -17,7 +17,7 @@
 
     In no event shall any portion of the Shoshone judgment fund become liable, payable, or subject to any debt or debts contracted prior to July 27, 1939, by any Indian of the Shoshone Tribe except debts to the United States or to the tribe.
 
-([July 27, 1939, ch. 387, § 7][/us/act/1939-07-27/ch387/s7], [53 Stat. 1130][/us/stat/53/1130].)
+([July 27, 1939, ch. 387][/us/act/1939-07-27/ch387], § 7, [53 Stat. 1130][/us/stat/53/1130].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1939-07-27/ch387/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-07-27%2Fch387%2Fs7
+[/us/act/1939-07-27/ch387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-07-27%2Fch387
 [/us/stat/53/1130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F1130
 
 

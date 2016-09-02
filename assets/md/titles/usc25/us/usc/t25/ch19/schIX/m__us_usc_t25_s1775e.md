@@ -27,7 +27,7 @@
 
         (2) consistent with applicable law.
 
-([Pub. L. 103–377, § 7][/us/pl/103/377/s7], Oct. 19, 1994, [108 Stat. 3505][/us/stat/108/3505].)
+([Pub. L. 103–377][/us/pl/103/377], § 7, Oct. 19, 1994, [108 Stat. 3505][/us/stat/108/3505].)
 
 ----------
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/103/377/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F377%2Fs7
+[/us/pl/103/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F377
 [/us/stat/108/3505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3505
 
 

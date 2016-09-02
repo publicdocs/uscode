@@ -17,7 +17,7 @@
 
     The provisions of this Act shall not apply to any of the Territories, colonies, or insular possessions of the United States, except that sections 9, 10, 11, 12, and 16 \[[25 U.S.C. 469][/us/usc/t25/s469], 470, 471, 472, 476\] shall apply to the Territory of Alaska: Provided, That sections 4, 7, 16, 17, and 18 of this Act \[[25 U.S.C. 464][/us/usc/t25/s464], 467, 476, 477, 478\] shall not apply to the following-named Indian tribes, the members of such Indian tribes, together with members of other tribes affiliated with such named tribes located in the State of Oklahoma, as follows: Cheyenne, Arapaho, Apache, Comanche, Kiowa, Caddo, Delaware, Wichita, Osage, Kaw, Otoe, Tonkawa, Pawnee, Ponca, Shawnee, Ottawa, Quapaw, Seneca, Wyandotte, Iowa, Sac and Fox, Kickapoo, Pottawatomi, Cherokee, Chickasaw, Choctaw, Creek, and Seminole. Section 4 of this Act \[[25 U.S.C. 464][/us/usc/t25/s464]\] shall not apply to the Indians of the Klamath Reservation in Oregon.
 
-([June 18, 1934, ch. 576, § 13][/us/act/1934-06-18/ch576/s13], [48 Stat. 986][/us/stat/48/986]; [Pub. L. 101–301, § 3(b)][/us/pl/101/301/s3/b], May 24, 1990, [104 Stat. 207][/us/stat/104/207].)
+([June 18, 1934, ch. 576][/us/act/1934-06-18/ch576], § 13, [48 Stat. 986][/us/stat/48/986]; [Pub. L. 101–301][/us/pl/101/301], § 3(b), May 24, 1990, [104 Stat. 207][/us/stat/104/207].)
 
  __References in Text__ 
 
@@ -41,9 +41,9 @@
 [/us/usc/t25/s469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs469
 [/us/usc/t25/s464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs464
 [/us/usc/t25/s464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs464
-[/us/act/1934-06-18/ch576/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-18%2Fch576%2Fs13
+[/us/act/1934-06-18/ch576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-18%2Fch576
 [/us/stat/48/986]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F986
-[/us/pl/101/301/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F301%2Fs3%2Fb
+[/us/pl/101/301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F301
 [/us/stat/104/207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F207
 [/us/usc/t25/s461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs461
 [/us/pl/101/301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F301

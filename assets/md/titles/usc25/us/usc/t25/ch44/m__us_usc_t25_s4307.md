@@ -17,7 +17,7 @@
 
     There are authorized to be appropriated such sums as are necessary to carry out this chapter, to remain available until expended.
 
-([Pub. L. 106–464, § 8][/us/pl/106/464/s8], Nov. 7, 2000, [114 Stat. 2018][/us/stat/114/2018].)
+([Pub. L. 106–464][/us/pl/106/464], § 8, Nov. 7, 2000, [114 Stat. 2018][/us/stat/114/2018].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/106/464/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F464%2Fs8
+[/us/pl/106/464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F464
 [/us/stat/114/2018]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2018
 
 

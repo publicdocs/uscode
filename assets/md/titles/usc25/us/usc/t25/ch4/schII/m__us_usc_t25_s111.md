@@ -29,7 +29,7 @@
 
  __Codification__ 
 
-    R.S. § 2086 derived from acts [June 30, 1834, ch. 162, § 11][/us/act/1834-06-30/ch162/s11], [4 Stat. 737][/us/stat/4/737]; [Mar. 3, 1847, ch. 66, § 3][/us/act/1847-03-03/ch66/s3], [9 Stat. 203][/us/stat/9/203]; [Aug. 30, 1852, ch. 103, § 3][/us/act/1852-08-30/ch103/s3], [10 Stat. 56][/us/stat/10/56]; [July 15, 1870, ch. 296][/us/act/1870-07-15/ch296], §§ 2, 3, [16 Stat. 360][/us/stat/16/360].
+    R.S. § 2086 derived from acts [June 30, 1834, ch. 162][/us/act/1834-06-30/ch162], § 11, [4 Stat. 737][/us/stat/4/737]; [Mar. 3, 1847, ch. 66][/us/act/1847-03-03/ch66], § 3, [9 Stat. 203][/us/stat/9/203]; [Aug. 30, 1852, ch. 103][/us/act/1852-08-30/ch103], § 3, [10 Stat. 56][/us/stat/10/56]; [July 15, 1870, ch. 296][/us/act/1870-07-15/ch296], §§ 2, 3, [16 Stat. 360][/us/stat/16/360].
 
  __Transfer of Functions__ 
 
@@ -42,11 +42,11 @@
 ----------
 ----------
 
-[/us/act/1834-06-30/ch162/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1834-06-30%2Fch162%2Fs11
+[/us/act/1834-06-30/ch162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1834-06-30%2Fch162
 [/us/stat/4/737]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F4%2F737
-[/us/act/1847-03-03/ch66/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1847-03-03%2Fch66%2Fs3
+[/us/act/1847-03-03/ch66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1847-03-03%2Fch66
 [/us/stat/9/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F9%2F203
-[/us/act/1852-08-30/ch103/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1852-08-30%2Fch103%2Fs3
+[/us/act/1852-08-30/ch103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1852-08-30%2Fch103
 [/us/stat/10/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F10%2F56
 [/us/act/1870-07-15/ch296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1870-07-15%2Fch296
 [/us/stat/16/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F16%2F360

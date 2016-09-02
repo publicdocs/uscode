@@ -17,7 +17,7 @@
 
     The Secretary shall promulgate rules and regulations to carry out the provisions of this subchapter.
 
-([Pub. L. 93–262, title I, § 109][/us/pl/93/262/s109], Apr. 12, 1974, [88 Stat. 79][/us/stat/88/79].)
+([Pub. L. 93–262, title I][/us/pl/93/262/tI], § 109, Apr. 12, 1974, [88 Stat. 79][/us/stat/88/79].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/93/262/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F262%2Fs109
+[/us/pl/93/262/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F262%2FtI
 [/us/stat/88/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F79
 
 

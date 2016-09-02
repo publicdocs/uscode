@@ -37,7 +37,7 @@
 
         Except as specifically provided in this subchapter, nothing contained in this subchapter shall alter any property rights or obligations, any contractual rights or obligations, including existing fishing rights, or any obligation for taxes already levied.
 
-([Pub. L. 95–281, § 1][/us/pl/95/281/s1], May 15, 1978, [92 Stat. 246][/us/stat/92/246].)
+([Pub. L. 95–281][/us/pl/95/281], § 1, May 15, 1978, [92 Stat. 246][/us/stat/92/246].)
 
  __References in Text__ 
 
@@ -62,7 +62,7 @@
 [/us/usc/t25/s821–826]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs821%E2%80%93826
 [/us/stat/70/963]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F963
 [/us/usc/t25/s841–853]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs841%E2%80%93853
-[/us/pl/95/281/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F281%2Fs1
+[/us/pl/95/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F281
 [/us/stat/92/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F246
 [/us/act/1956-08-01/ch843]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-01%2Fch843
 [/us/stat/70/893]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F893

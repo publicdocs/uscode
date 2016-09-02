@@ -47,7 +47,7 @@
 
         The only amounts available to carry out this subchapter shall be those amounts specifically appropriated by the Congress or the legislature of the State to carry out this subchapter.
 
-([Pub. L. 101–503, § 6][/us/pl/101/503/s6], Nov. 3, 1990, [104 Stat. 1295][/us/stat/104/1295].)
+([Pub. L. 101–503][/us/pl/101/503], § 6, Nov. 3, 1990, [104 Stat. 1295][/us/stat/104/1295].)
 
 ----------
 
@@ -59,7 +59,7 @@
 [/us/usc/t25/s1774]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1774
 [/us/usc/t25/s1774b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1774b
 [/us/usc/t25/s1774b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1774b
-[/us/pl/101/503/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F503%2Fs6
+[/us/pl/101/503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F503
 [/us/stat/104/1295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1295
 
 

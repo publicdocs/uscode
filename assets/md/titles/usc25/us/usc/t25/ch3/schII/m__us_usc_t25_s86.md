@@ -17,7 +17,7 @@
 
     Land allotted to any applicant for enrollment as a citizen in the Five Civilized Tribes whether an Indian or freedman, shall not be affected or encumbered by any deed, debt, or obligation of any character contracted prior to the time at which said land may be alienated under the laws of the United States: Provided further, That the interest accruing from tribal funds and deposited in banks in the State of Oklahoma may be used as authorized by the Act of March third, nineteen hundred and eleven, under the direction of the Secretary of the Interior, to defray the expense of per capita payments authorized by Congress.
 
-([Aug. 1, 1914, ch. 222, § 17][/us/act/1914-08-01/ch222/s17], [38 Stat. 601][/us/stat/38/601]; [June 25, 1948, ch. 645, § 3][/us/act/1948-06-25/ch645/s3], [62 Stat. 859][/us/stat/62/859].)
+([Aug. 1, 1914, ch. 222][/us/act/1914-08-01/ch222], § 17, [38 Stat. 601][/us/stat/38/601]; [June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], § 3, [62 Stat. 859][/us/stat/62/859].)
 
  __References in Text__ 
 
@@ -42,9 +42,9 @@
 ----------
 ----------
 
-[/us/act/1914-08-01/ch222/s17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1914-08-01%2Fch222%2Fs17
+[/us/act/1914-08-01/ch222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1914-08-01%2Fch222
 [/us/stat/38/601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F601
-[/us/act/1948-06-25/ch645/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645%2Fs3
+[/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/859]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F859
 [/us/act/1911-03-03/ch210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch210
 [/us/stat/36/1060]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F1060

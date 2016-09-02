@@ -27,7 +27,7 @@
 
         For purposes of this section, the term “housing program” means a program under the administration of the Secretary of Housing and Urban Development or the Secretary of Agriculture (through the Administrator of the Farmers Home Administration) that provides assistance in the form of contracts, grants, loans, cooperative agreements, or any other form of assistance (including the insurance or guarantee of a loan, mortgage, or pool of mortgages) for housing.
 
-([Pub. L. 101–625, title IX, § 959][/us/pl/101/625/s959], Nov. 28, 1990, [104 Stat. 4423][/us/stat/104/4423].)
+([Pub. L. 101–625, title IX][/us/pl/101/625/tIX], § 959, Nov. 28, 1990, [104 Stat. 4423][/us/stat/104/4423].)
 
  __References in Text__ 
 
@@ -48,7 +48,7 @@
 
 [/us/usc/t42/s5301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5301
 [/us/usc/t42/s5301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5301
-[/us/pl/101/625/s959]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs959
+[/us/pl/101/625/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtIX
 [/us/stat/104/4423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4423
 [/us/pl/93/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383
 [/us/stat/88/633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F633

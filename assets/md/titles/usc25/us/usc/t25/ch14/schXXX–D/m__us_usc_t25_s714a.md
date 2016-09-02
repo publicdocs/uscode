@@ -31,7 +31,7 @@
 
         Except as specifically provided in this subchapter, nothing in this subchapter shall alter any property right or obligation, any contractual right or obligation, or any obligation for taxes already levied.
 
-([Pub. L. 98–481, § 3][/us/pl/98/481/s3], Oct. 17, 1984, [98 Stat. 2250][/us/stat/98/2250].)
+([Pub. L. 98–481][/us/pl/98/481], § 3, Oct. 17, 1984, [98 Stat. 2250][/us/stat/98/2250].)
 
  __References in Text__ 
 
@@ -49,7 +49,7 @@
 ----------
 
 [/us/usc/t25/s691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs691
-[/us/pl/98/481/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F481%2Fs3
+[/us/pl/98/481]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F481
 [/us/stat/98/2250]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2250
 [/us/act/1954-08-13/ch733]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-13%2Fch733
 [/us/stat/68/724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F724

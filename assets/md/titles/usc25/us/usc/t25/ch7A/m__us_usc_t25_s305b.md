@@ -17,7 +17,7 @@
 
     The Board shall prescribe from time to time rules and regulations governing the conduct of its business and containing such provisions as it may deem appropriate for the effective execution and administration of the powers conferred upon it by this Act: Provided, That before prescribing any procedure for the disbursement of money the Board shall advise and consult with the Government Accountability Office: Provided further, That all rules and regulations proposed by the Board shall be submitted to the Secretary of the Interior and shall become effective upon his approval.
 
-([Aug. 27, 1935, ch. 748, § 3][/us/act/1935-08-27/ch748/s3], [49 Stat. 892][/us/stat/49/892]; [Pub. L. 108–271, § 8(b)][/us/pl/108/271/s8/b], July 7, 2004, [118 Stat. 814][/us/stat/118/814].)
+([Aug. 27, 1935, ch. 748][/us/act/1935-08-27/ch748], § 3, [49 Stat. 892][/us/stat/49/892]; [Pub. L. 108–271][/us/pl/108/271], § 8(b), July 7, 2004, [118 Stat. 814][/us/stat/118/814].)
 
  __References in Text__ 
 
@@ -40,9 +40,9 @@
 ----------
 ----------
 
-[/us/act/1935-08-27/ch748/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-27%2Fch748%2Fs3
+[/us/act/1935-08-27/ch748]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-27%2Fch748
 [/us/stat/49/892]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F892
-[/us/pl/108/271/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271%2Fs8%2Fb
+[/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
 [/us/stat/118/814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F814
 [/us/act/1935-08-27/ch748]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-27%2Fch748
 [/us/stat/49/891]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F891

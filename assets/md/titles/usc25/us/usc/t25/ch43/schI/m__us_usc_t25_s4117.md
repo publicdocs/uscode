@@ -17,7 +17,7 @@
 
     There are authorized to be appropriated for grants under this subchapter such sums as may be necessary for each of fiscal years 2009 through 2013. This section shall take effect on October 26, 1996.
 
-([Pub. L. 104–330, title I, § 108][/us/pl/104/330/s108], Oct. 26, 1996, [110 Stat. 4030][/us/stat/110/4030]; [Pub. L. 107–292, § 2(a)][/us/pl/107/292/s2/a], Nov. 13, 2002, [116 Stat. 2053][/us/stat/116/2053]; [Pub. L. 110–411, title VII, § 701(a)][/us/pl/110/411/s701/a], Oct. 14, 2008, [122 Stat. 4334][/us/stat/122/4334].)
+([Pub. L. 104–330, title I][/us/pl/104/330/tI], § 108, Oct. 26, 1996, [110 Stat. 4030][/us/stat/110/4030]; [Pub. L. 107–292][/us/pl/107/292], § 2(a), Nov. 13, 2002, [116 Stat. 2053][/us/stat/116/2053]; [Pub. L. 110–411, title VII][/us/pl/110/411/tVII], § 701(a), Oct. 14, 2008, [122 Stat. 4334][/us/stat/122/4334].)
 
  __Amendments__ 
 
@@ -32,11 +32,11 @@
 ----------
 ----------
 
-[/us/pl/104/330/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330%2Fs108
+[/us/pl/104/330/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330%2FtI
 [/us/stat/110/4030]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F4030
-[/us/pl/107/292/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F292%2Fs2%2Fa
+[/us/pl/107/292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F292
 [/us/stat/116/2053]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2053
-[/us/pl/110/411/s701/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F411%2Fs701%2Fa
+[/us/pl/110/411/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F411%2FtVII
 [/us/stat/122/4334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4334
 [/us/pl/110/411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F411
 [/us/pl/107/292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F292

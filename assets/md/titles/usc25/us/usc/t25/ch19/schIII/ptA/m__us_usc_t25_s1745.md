@@ -31,7 +31,7 @@
 
         Nothing in this part or in any grant of leasehold rights by the State of Florida under the Lease Agreement shall affect or otherwise impair in any adverse manner any benefits received by the State of Florida under the Act of September 2, 1937 ([16 U.S.C. 669][/us/usc/t16/s669] et seq.), or the Act of August 9, 1950 ([16 U.S.C. 777][/us/usc/t16/s777] et seq.).
 
-([Pub. L. 97–399, § 6][/us/pl/97/399/s6], Dec. 31, 1982, [96 Stat. 2014][/us/stat/96/2014].)
+([Pub. L. 97–399][/us/pl/97/399], § 6, Dec. 31, 1982, [96 Stat. 2014][/us/stat/96/2014].)
 
  __References in Text__ 
 
@@ -48,7 +48,7 @@
 
 [/us/usc/t16/s669]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs669
 [/us/usc/t16/s777]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs777
-[/us/pl/97/399/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F399%2Fs6
+[/us/pl/97/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F399
 [/us/stat/96/2014]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2014
 [/us/act/1937-09-02/ch899]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-09-02%2Fch899
 [/us/stat/50/917]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F50%2F917

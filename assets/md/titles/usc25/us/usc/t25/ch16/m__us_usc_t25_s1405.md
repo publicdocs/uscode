@@ -35,15 +35,15 @@
 
         Upon the introduction of the first such resolution of disapproval in either the House of Representatives or the Senate, the sixty-day period shall be recomputed from the date of such introduction and shall not again be extended.
 
-([Pub. L. 93–134, § 5][/us/pl/93/134/s5], Oct. 19, 1973, [87 Stat. 468][/us/stat/87/468]; [Pub. L. 97–458, § 3][/us/pl/97/458/s3], Jan. 12, 1983, [96 Stat. 2513][/us/stat/96/2513].)
+([Pub. L. 93–134][/us/pl/93/134], § 5, Oct. 19, 1973, [87 Stat. 468][/us/stat/87/468]; [Pub. L. 97–458][/us/pl/97/458], § 3, Jan. 12, 1983, [96 Stat. 2513][/us/stat/96/2513].)
 
  __Amendments__ 
 
-    1983—Subsec. (a). [Pub. L. 97–458, § 3(a)][/us/pl/97/458/s3/a], substituted “unless during such sixty-day period a joint resolution is enacted” for “unless during such sixty-day period either House adopts a resolution disapproving such plans”.
+    1983—Subsec. (a). [Pub. L. 97–458][/us/pl/97/458], § 3(a), substituted “unless during such sixty-day period a joint resolution is enacted” for “unless during such sixty-day period either House adopts a resolution disapproving such plans”.
 
-    Subsec. (b). [Pub. L. 97–458, § 3(b)][/us/pl/97/458/s3/b], substituted “date of enactment of a joint resolution disapproving a plan” for “date of adoption of a resolution disapproving a plan”.
+    Subsec. (b). [Pub. L. 97–458][/us/pl/97/458], § 3(b), substituted “date of enactment of a joint resolution disapproving a plan” for “date of adoption of a resolution disapproving a plan”.
 
-    Subsecs. (c) to (e). [Pub. L. 97–458, § 3(c)][/us/pl/97/458/s3/c], added subsecs. (c) to (e).
+    Subsecs. (c) to (e). [Pub. L. 97–458][/us/pl/97/458], § 3(c), added subsecs. (c) to (e).
 
 ----------
 
@@ -53,12 +53,12 @@
 ----------
 
 [/us/usc/t25/s1402/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1402%2Fd
-[/us/pl/93/134/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F134%2Fs5
+[/us/pl/93/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F134
 [/us/stat/87/468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F468
-[/us/pl/97/458/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F458%2Fs3
+[/us/pl/97/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F458
 [/us/stat/96/2513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2513
-[/us/pl/97/458/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F458%2Fs3%2Fa
-[/us/pl/97/458/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F458%2Fs3%2Fb
-[/us/pl/97/458/s3/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F458%2Fs3%2Fc
+[/us/pl/97/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F458
+[/us/pl/97/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F458
+[/us/pl/97/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F458
 
 

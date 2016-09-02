@@ -23,7 +23,7 @@
 
     shall be liberally construed and administered to achieve the purposes of this chapter.
 
-([Pub. L. 99–570, title IV, § 4208][/us/pl/99/570/s4208], Oct. 27, 1986, [100 Stat. 3207–142][/us/stat/100/3207-142].)
+([Pub. L. 99–570, title IV][/us/pl/99/570/tIV], § 4208, Oct. 27, 1986, [100 Stat. 3207–142][/us/stat/100/3207-142].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/99/570/s4208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs4208
+[/us/pl/99/570/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2FtIV
 [/us/stat/100/3207-142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3207-142
 
 

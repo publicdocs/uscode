@@ -31,7 +31,7 @@
 
         The single report format shall be developed by the Secretary, consistent with the requirements of this chapter. Such report format, together with records maintained on the consolidated program at the tribal level shall contain such information as will allow a determination that the tribe has complied with the requirements incorporated in its approved plan and will provide assurances to each Secretary that the tribe has complied with all directly applicable statutory requirements and with those directly applicable regulatory requirements which have not been waived.
 
-([Pub. L. 102–477, § 11][/us/pl/102/477/s11], Oct. 23, 1992, [106 Stat. 2304][/us/stat/106/2304].)
+([Pub. L. 102–477][/us/pl/102/477], § 11, Oct. 23, 1992, [106 Stat. 2304][/us/stat/106/2304].)
 
 ----------
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/102/477/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F477%2Fs11
+[/us/pl/102/477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F477
 [/us/stat/106/2304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2304
 
 

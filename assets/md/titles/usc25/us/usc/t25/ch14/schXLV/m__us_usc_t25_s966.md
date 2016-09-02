@@ -17,7 +17,7 @@
 
     All costs incurred by the Secretary in the preparation of the roll and in the payment of the per capita shares in accordance with provisions of this subchapter shall be paid by appropriate withdrawals from the judgment fund.
 
-([Pub. L. 87–235, § 6][/us/pl/87/235/s6], Sept. 14, 1961, [75 Stat. 509][/us/stat/75/509].)
+([Pub. L. 87–235][/us/pl/87/235], § 6, Sept. 14, 1961, [75 Stat. 509][/us/stat/75/509].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/87/235/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F235%2Fs6
+[/us/pl/87/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F235
 [/us/stat/75/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F509
 
 

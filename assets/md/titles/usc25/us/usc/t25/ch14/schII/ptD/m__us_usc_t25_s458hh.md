@@ -17,7 +17,7 @@
 
     There are authorized to be appropriated such sums as may be necessary to carry out this part.
 
-([Pub. L. 93–638, title IV, § 408][/us/pl/93/638/s408], as added [Pub. L. 103–413, title II, § 204][/us/pl/103/413/s204], Oct. 25, 1994, [108 Stat. 4278][/us/stat/108/4278].)
+([Pub. L. 93–638, title IV][/us/pl/93/638/tIV], § 408, as added [Pub. L. 103–413, title II][/us/pl/103/413/tII], § 204, Oct. 25, 1994, [108 Stat. 4278][/us/stat/108/4278].)
 
 ----------
 
@@ -26,8 +26,8 @@
 ----------
 ----------
 
-[/us/pl/93/638/s408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638%2Fs408
-[/us/pl/103/413/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F413%2Fs204
+[/us/pl/93/638/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638%2FtIV
+[/us/pl/103/413/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F413%2FtII
 [/us/stat/108/4278]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4278
 
 

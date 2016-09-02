@@ -17,7 +17,7 @@
 
     The Confederated Tribes of the Grand Ronde Community of Oregon shall be considered as one tribal unit for purposes of Federal recognition and eligibility for Federal benefits under [section 713b of this title][/us/usc/t25/s713b], the establishment of tribal self-government under sections 713c and 713d of this title, the compilation of a tribal membership roll under [section 713e of this title][/us/usc/t25/s713e], and the establishment of a tribal reservation under [section 713f of this title][/us/usc/t25/s713f].
 
-([Pub. L. 98–165, § 3][/us/pl/98/165/s3], Nov. 22, 1983, [97 Stat. 1064][/us/stat/97/1064].)
+([Pub. L. 98–165][/us/pl/98/165], § 3, Nov. 22, 1983, [97 Stat. 1064][/us/stat/97/1064].)
 
 ----------
 
@@ -29,7 +29,7 @@
 [/us/usc/t25/s713b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs713b
 [/us/usc/t25/s713e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs713e
 [/us/usc/t25/s713f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs713f
-[/us/pl/98/165/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F165%2Fs3
+[/us/pl/98/165]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F165
 [/us/stat/97/1064]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1064
 
 

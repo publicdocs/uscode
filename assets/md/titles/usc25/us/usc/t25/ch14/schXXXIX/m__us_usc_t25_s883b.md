@@ -17,7 +17,7 @@
 
     All claims for per capita shares by heirs of Osage Indian blood shall be filed with the Superintendent, Osage Agency, Pawhuska, Oklahoma, not later than eighteen months from October 27, 1972. Thereafter, all claims and the right to file same shall be forever barred and the unclaimed shares shall revert to the Osage Tribe. Unclaimed shares of distributees shall revert to the Osage Tribe six months after determination by the Secretary of the Interior of their right to share.
 
-([Pub. L. 92–586, § 3][/us/pl/92/586/s3], Oct. 27, 1972, [86 Stat. 1296][/us/stat/86/1296].)
+([Pub. L. 92–586][/us/pl/92/586], § 3, Oct. 27, 1972, [86 Stat. 1296][/us/stat/86/1296].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/92/586/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F586%2Fs3
+[/us/pl/92/586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F586
 [/us/stat/86/1296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1296
 
 

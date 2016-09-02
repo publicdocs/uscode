@@ -17,7 +17,7 @@
 
     “Reindeer” as used in this subchapter shall be understood to include reindeer and such caribou as have been introduced into animal husbandry or have actually joined reindeer herds, and the increase thereof.
 
-([Sept. 1, 1937, ch. 897, § 11][/us/act/1937-09-01/ch897/s11], [50 Stat. 902][/us/stat/50/902].)
+([Sept. 1, 1937, ch. 897][/us/act/1937-09-01/ch897], § 11, [50 Stat. 902][/us/stat/50/902].)
 
  __Codification__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1937-09-01/ch897/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-09-01%2Fch897%2Fs11
+[/us/act/1937-09-01/ch897]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-09-01%2Fch897
 [/us/stat/50/902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F50%2F902
 [/us/usc/t48/s250j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs250j
 

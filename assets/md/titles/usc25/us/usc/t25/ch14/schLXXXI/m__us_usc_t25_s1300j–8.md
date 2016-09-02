@@ -23,7 +23,7 @@
 
     (3) the term “Secretary” means the Secretary of the Interior.
 
-([Pub. L. 103–323, § 10][/us/pl/103/323/s10], formerly § 9, Sept. 21, 1994, [108 Stat. 2155][/us/stat/108/2155]; renumbered § 10, [Pub. L. 103–435, § 20(1)][/us/pl/103/435/s20/1], Nov. 2, 1994, [108 Stat. 4574][/us/stat/108/4574].)
+([Pub. L. 103–323][/us/pl/103/323], § 10, formerly § 9, Sept. 21, 1994, [108 Stat. 2155][/us/stat/108/2155]; renumbered § 10, [Pub. L. 103–435][/us/pl/103/435], § 20(1), Nov. 2, 1994, [108 Stat. 4574][/us/stat/108/4574].)
 
 ----------
 
@@ -33,9 +33,9 @@
 ----------
 
 [/us/usc/t25/s1300j–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1300j%E2%80%933
-[/us/pl/103/323/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F323%2Fs10
+[/us/pl/103/323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F323
 [/us/stat/108/2155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2155
-[/us/pl/103/435/s20/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F435%2Fs20%2F1
+[/us/pl/103/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F435
 [/us/stat/108/4574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4574
 
 

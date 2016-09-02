@@ -35,11 +35,11 @@
 
     (9) tribal government involvement in and commitment to improving tribal justice systems is essential to the accomplishment of the goals of this chapter.
 
-([Pub. L. 103–176, § 2][/us/pl/103/176/s2], Dec. 3, 1993, [107 Stat. 2004][/us/stat/107/2004].)
+([Pub. L. 103–176][/us/pl/103/176], § 2, Dec. 3, 1993, [107 Stat. 2004][/us/stat/107/2004].)
 
  __Short Title__ 
 
-[Pub. L. 103–176, § 1][/us/pl/103/176/s1], Dec. 3, 1993, [107 Stat. 2004][/us/stat/107/2004], provided that: 
+[Pub. L. 103–176][/us/pl/103/176], § 1, Dec. 3, 1993, [107 Stat. 2004][/us/stat/107/2004], provided that: 
 
 > “This Act \[enacting this chapter\] may be cited as the ‘Indian Tribal Justice Act’.”
 
@@ -50,9 +50,9 @@
 ----------
 ----------
 
-[/us/pl/103/176/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F176%2Fs2
+[/us/pl/103/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F176
 [/us/stat/107/2004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2004
-[/us/pl/103/176/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F176%2Fs1
+[/us/pl/103/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F176
 [/us/stat/107/2004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2004
 
 

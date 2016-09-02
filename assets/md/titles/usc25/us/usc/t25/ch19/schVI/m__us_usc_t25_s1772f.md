@@ -19,7 +19,7 @@
 
     (b) Notwithstanding any present immunity from suit enjoyed by any of the parties, jurisdiction regarding any controversy arising under the Settlement Agreement or compact or private agreement between the tribe and any third party entered into under authority of the compact is hereby vested in the United States District Court for the southern district of Florida. Such jurisdiction shall be exclusive except that the court shall not have jurisdiction to award money damages against the State, the district or the tribe. Proceedings in the district court under this section shall be expedited consistent with sound judicial discretion.
 
-([Pub. L. 100–228, § 8][/us/pl/100/228/s8], Dec. 31, 1987, [101 Stat. 1561][/us/stat/101/1561].)
+([Pub. L. 100–228][/us/pl/100/228], § 8, Dec. 31, 1987, [101 Stat. 1561][/us/stat/101/1561].)
 
 ----------
 
@@ -28,7 +28,7 @@
 ----------
 ----------
 
-[/us/pl/100/228/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F228%2Fs8
+[/us/pl/100/228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F228
 [/us/stat/101/1561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1561
 
 

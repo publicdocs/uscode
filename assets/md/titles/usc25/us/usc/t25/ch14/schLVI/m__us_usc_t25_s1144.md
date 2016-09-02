@@ -17,7 +17,7 @@
 
     The Secretary of the Interior shall apportion to each group mentioned in [section 1142 of this title][/us/usc/t25/s1142] so much of the aforementioned judgment and accrued interest as the ratio of its enrollees bears to the total enrollees of all of said groups.
 
-([Pub. L. 90–93, § 4][/us/pl/90/93/s4], Sept. 27, 1967, [81 Stat. 229][/us/stat/81/229].)
+([Pub. L. 90–93][/us/pl/90/93], § 4, Sept. 27, 1967, [81 Stat. 229][/us/stat/81/229].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t25/s1142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1142
-[/us/pl/90/93/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F93%2Fs4
+[/us/pl/90/93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F93
 [/us/stat/81/229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F229
 
 

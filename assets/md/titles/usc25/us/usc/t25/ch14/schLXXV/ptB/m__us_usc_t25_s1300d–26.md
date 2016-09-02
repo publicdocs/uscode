@@ -51,7 +51,7 @@
 
         (4) any other Sisseton or Wahpeton payment or census roll that preceded a roll referred to in paragraph (1), (2), or (3).
 
-([Pub. L. 105–387, § 7][/us/pl/105/387/s7], Nov. 13, 1998, [112 Stat. 3474][/us/stat/112/3474].)
+([Pub. L. 105–387][/us/pl/105/387], § 7, Nov. 13, 1998, [112 Stat. 3474][/us/stat/112/3474].)
 
  __References in Text__ 
 
@@ -76,7 +76,7 @@
 [/us/usc/t25/s1300d–23/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1300d%E2%80%9323%2Fa%2F1
 [/us/usc/t25/s1300d–23/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1300d%E2%80%9323%2Fa%2F2
 [/us/stat/26/989]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F26%2F989
-[/us/pl/105/387/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F387%2Fs7
+[/us/pl/105/387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F387
 [/us/stat/112/3474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3474
 [/us/act/1891-03-03/ch543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1891-03-03%2Fch543
 [/us/stat/26/989]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F26%2F989

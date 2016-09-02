@@ -27,11 +27,11 @@
 
         Nothing in this subchapter shall prevent the making of payments in lieu of taxes by the State Corporation for services provided in connection with the settlement lands.
 
-([Pub. L. 95–395, title II, § 201][/us/pl/95/395/s201], as added [Pub. L. 96–601, § 5(a)][/us/pl/96/601/s5/a], Dec. 24, 1980, [94 Stat. 3498][/us/stat/94/3498].)
+([Pub. L. 95–395, title II][/us/pl/95/395/tII], § 201, as added [Pub. L. 96–601][/us/pl/96/601], § 5(a), Dec. 24, 1980, [94 Stat. 3498][/us/stat/94/3498].)
 
  __Effective Date__ 
 
-[Pub. L. 96–601, § 5(b)][/us/pl/96/601/s5/b], Dec. 24, 1980, [94 Stat. 3499][/us/stat/94/3499], provided that: 
+[Pub. L. 96–601][/us/pl/96/601], § 5(b), Dec. 24, 1980, [94 Stat. 3499][/us/stat/94/3499], provided that: 
 
 > “The amendment made by subsection (a) \[enacting this part\] shall take effect on September 30, 1978.”
 
@@ -42,10 +42,10 @@
 ----------
 ----------
 
-[/us/pl/95/395/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F395%2Fs201
-[/us/pl/96/601/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F601%2Fs5%2Fa
+[/us/pl/95/395/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F395%2FtII
+[/us/pl/96/601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F601
 [/us/stat/94/3498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3498
-[/us/pl/96/601/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F601%2Fs5%2Fb
+[/us/pl/96/601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F601
 [/us/stat/94/3499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3499
 
 

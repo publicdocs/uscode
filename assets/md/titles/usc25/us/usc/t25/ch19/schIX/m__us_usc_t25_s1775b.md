@@ -93,7 +93,7 @@
 
             Nothing in this section may be construed to offset or eliminate the personal claim of any individual Indian if the individual Indian pursues such claim under any law of general applicability.
 
-([Pub. L. 103–377, § 4][/us/pl/103/377/s4], Oct. 19, 1994, [108 Stat. 3502][/us/stat/108/3502].)
+([Pub. L. 103–377][/us/pl/103/377], § 4, Oct. 19, 1994, [108 Stat. 3502][/us/stat/108/3502].)
 
  __References in Text__ 
 
@@ -115,7 +115,7 @@
 [/us/stat/1/137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F1%2F137
 [/us/act/1790-07-22/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1790-07-22%2Fs4
 [/us/stat/1/137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F1%2F137
-[/us/pl/103/377/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F377%2Fs4
+[/us/pl/103/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F377
 [/us/stat/108/3502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3502
 [/us/pl/100/497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F497
 [/us/stat/102/2467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2467

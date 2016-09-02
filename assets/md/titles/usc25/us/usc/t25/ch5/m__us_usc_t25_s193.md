@@ -25,7 +25,7 @@
 
  __Codification__ 
 
-    R.S. § 2125 derived from [act June 30, 1834, ch. 161, § 28][/us/act/1834-06-30/ch161/s28], [4 Stat. 734][/us/stat/4/734].
+    R.S. § 2125 derived from [act June 30, 1834, ch. 161][/us/act/1834-06-30/ch161], § 28, [4 Stat. 734][/us/stat/4/734].
 
 ----------
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/act/1834-06-30/ch161/s28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1834-06-30%2Fch161%2Fs28
+[/us/act/1834-06-30/ch161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1834-06-30%2Fch161
 [/us/stat/4/734]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F4%2F734
 
 

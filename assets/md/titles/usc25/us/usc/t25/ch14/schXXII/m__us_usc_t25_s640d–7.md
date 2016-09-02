@@ -47,7 +47,7 @@
 
         (3) There is hereby authorized to be appropriated not to exceed $250,000 to pay for the legal expenses incurred by the Southern Paiute Tribe on legal action arising under this section prior to November 16, 1988.
 
-([Pub. L. 93–531, § 8][/us/pl/93/531/s8], Dec. 22, 1974, [88 Stat. 1715][/us/stat/88/1715]; [Pub. L. 96–305, § 2][/us/pl/96/305/s2], July 8, 1980, [94 Stat. 929][/us/stat/94/929]; [Pub. L. 100–666, § 9][/us/pl/100/666/s9], Nov. 16, 1988, [102 Stat. 3933][/us/stat/102/3933].)
+([Pub. L. 93–531][/us/pl/93/531], § 8, Dec. 22, 1974, [88 Stat. 1715][/us/stat/88/1715]; [Pub. L. 96–305][/us/pl/96/305], § 2, July 8, 1980, [94 Stat. 929][/us/stat/94/929]; [Pub. L. 100–666][/us/pl/100/666], § 9, Nov. 16, 1988, [102 Stat. 3933][/us/stat/102/3933].)
 
  __References in Text__ 
 
@@ -57,9 +57,9 @@
 
  __Amendments__ 
 
-    1988—Subsec. (e). [Pub. L. 100–666, § 9(a)][/us/pl/100/666/s9/a], inserted “, San Juan Southern Paiute” after “Navajo”.
+    1988—Subsec. (e). [Pub. L. 100–666][/us/pl/100/666], § 9(a), inserted “, San Juan Southern Paiute” after “Navajo”.
 
-    Subsec. (f). [Pub. L. 100–666, § 9(b)][/us/pl/100/666/s9/b], added subsec. (f).
+    Subsec. (f). [Pub. L. 100–666][/us/pl/100/666], § 9(b), added subsec. (f).
 
     1980—Subsec. (c). [Pub. L. 96–305][/us/pl/96/305] substituted provision authorizing, as part of the determination of tribal rights and interests in land, actions for accounting, fair value of grazing, and claims for damages, specifying the formula for determining recovery, and limiting defenses for provision authorizing exchange of reservation lands.
 
@@ -73,16 +73,16 @@
 [/us/usc/t25/s640d–17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs640d%E2%80%9317
 [/us/usc/t25/s640d–17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs640d%E2%80%9317
 [/us/stat/48/960]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F960
-[/us/pl/93/531/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F531%2Fs8
+[/us/pl/93/531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F531
 [/us/stat/88/1715]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1715
-[/us/pl/96/305/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F305%2Fs2
+[/us/pl/96/305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F305
 [/us/stat/94/929]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F929
-[/us/pl/100/666/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F666%2Fs9
+[/us/pl/100/666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F666
 [/us/stat/102/3933]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3933
 [/us/act/1934-06-14/ch521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-14%2Fch521
 [/us/stat/48/960]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F960
-[/us/pl/100/666/s9/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F666%2Fs9%2Fa
-[/us/pl/100/666/s9/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F666%2Fs9%2Fb
+[/us/pl/100/666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F666
+[/us/pl/100/666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F666
 [/us/pl/96/305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F305
 
 

@@ -17,7 +17,7 @@
 
     There is established within the Department of the Interior the Indian Business Development Program whose purpose is to stimulate and increase Indian entrepreneurship and employment by providing equity capital through nonreimbursable grants made by the Secretary of the Interior to Indians and Indian tribes to establish and expand profit-making Indian-owned economic enterprises on or near reservations.
 
-([Pub. L. 93–262, title IV, § 401][/us/pl/93/262/s401], Apr. 12, 1974, [88 Stat. 82][/us/stat/88/82].)
+([Pub. L. 93–262, title IV][/us/pl/93/262/tIV], § 401, Apr. 12, 1974, [88 Stat. 82][/us/stat/88/82].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/93/262/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F262%2Fs401
+[/us/pl/93/262/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F262%2FtIV
 [/us/stat/88/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F82
 
 

@@ -17,7 +17,7 @@
 
     Any organization receiving a loan from the revolving loan fund shall be required to assign to the United States as security for the loan all securities acquired in connection with the loans made to its members from such funds unless the Secretary determines that the repayment of the loan to the United States is otherwise reasonably assured.
 
-([Pub. L. 93–262, title I, § 107][/us/pl/93/262/s107], Apr. 12, 1974, [88 Stat. 79][/us/stat/88/79].)
+([Pub. L. 93–262, title I][/us/pl/93/262/tI], § 107, Apr. 12, 1974, [88 Stat. 79][/us/stat/88/79].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/93/262/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F262%2Fs107
+[/us/pl/93/262/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F262%2FtI
 [/us/stat/88/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F79
 
 

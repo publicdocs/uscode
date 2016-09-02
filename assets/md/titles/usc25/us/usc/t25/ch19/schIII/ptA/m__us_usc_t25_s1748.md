@@ -17,7 +17,7 @@
 
     Notwithstanding any other provision of law, any action to contest the constitutionality of this part shall be barred unless the complaint is filed within one hundred and eighty days after December 31, 1982. An action to contest the constitutionality of this part may only be brought in the United States District Court for the Southern District of Florida.
 
-([Pub. L. 97–399, § 9][/us/pl/97/399/s9], Dec. 31, 1982, [96 Stat. 2016][/us/stat/96/2016].)
+([Pub. L. 97–399][/us/pl/97/399], § 9, Dec. 31, 1982, [96 Stat. 2016][/us/stat/96/2016].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/97/399/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F399%2Fs9
+[/us/pl/97/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F399
 [/us/stat/96/2016]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2016
 
 

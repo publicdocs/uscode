@@ -23,11 +23,11 @@
 
     (3) The term “Menominee Restoration Committee” means that committee of nine Menominee Indians who shall be elected pursuant to subsections (a) and (b) of [section 903b of this title][/us/usc/t25/s903b].
 
-([Pub. L. 93–197, § 2][/us/pl/93/197/s2], Dec. 22, 1973, [87 Stat. 770][/us/stat/87/770].)
+([Pub. L. 93–197][/us/pl/93/197], § 2, Dec. 22, 1973, [87 Stat. 770][/us/stat/87/770].)
 
  __Short Title__ 
 
-[Pub. L. 93–197, § 1][/us/pl/93/197/s1], Dec. 22, 1973, [87 Stat. 770][/us/stat/87/770], provided: 
+[Pub. L. 93–197][/us/pl/93/197], § 1, Dec. 22, 1973, [87 Stat. 770][/us/stat/87/770], provided: 
 
 > “That this Act \[enacting this subchapter and repealing sections 891 to 902 of this title\] may be cited as the ‘Menominee Restoration Act’.”
 
@@ -39,9 +39,9 @@
 ----------
 
 [/us/usc/t25/s903b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs903b
-[/us/pl/93/197/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F197%2Fs2
+[/us/pl/93/197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F197
 [/us/stat/87/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F770
-[/us/pl/93/197/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F197%2Fs1
+[/us/pl/93/197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F197
 [/us/stat/87/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F770
 
 

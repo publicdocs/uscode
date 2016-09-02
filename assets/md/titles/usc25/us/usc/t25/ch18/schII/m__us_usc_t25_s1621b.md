@@ -31,23 +31,23 @@
 
         (4) the resources which would be required to enable the Service to undertake the health promotion and disease prevention activities necessary to meet such needs.
 
-([Pub. L. 94–437, title II, § 203][/us/pl/94/437/s203], as added [Pub. L. 100–713, title II, § 203(c)][/us/pl/100/713/s203/c], Nov. 23, 1988, [102 Stat. 4805][/us/stat/102/4805]; amended [Pub. L. 102–573, title II, § 203][/us/pl/102/573/s203], Oct. 29, 1992, [106 Stat. 4546][/us/stat/106/4546].)
+([Pub. L. 94–437, title II][/us/pl/94/437/tII], § 203, as added [Pub. L. 100–713, title II][/us/pl/100/713/tII], § 203(c), Nov. 23, 1988, [102 Stat. 4805][/us/stat/102/4805]; amended [Pub. L. 102–573, title II][/us/pl/102/573/tII], § 203, Oct. 29, 1992, [106 Stat. 4546][/us/stat/106/4546].)
 
  __References in Text__ 
 
-    [Section 1602 of this title][/us/usc/t25/s1602], referred to in subsec. (a), was amended generally by [Pub. L. 111–148, title X, § 10221(a)][/us/pl/111/148/s10221/a], Mar. 23, 2010, [124 Stat. 935][/us/stat/124/935], and, as so amended, no longer contains a subsec. (b).
+    [Section 1602 of this title][/us/usc/t25/s1602], referred to in subsec. (a), was amended generally by [Pub. L. 111–148, title X][/us/pl/111/148/tX], § 10221(a), Mar. 23, 2010, [124 Stat. 935][/us/stat/124/935], and, as so amended, no longer contains a subsec. (b).
 
  __Amendments__ 
 
-    1992—Subsec. (a). [Pub. L. 102–573, § 203(1)][/us/pl/102/573/s203/1], inserted before period at end “so as to achieve the health status objectives set forth in [section 1602(b) of this title][/us/usc/t25/s1602/b]”.
+    1992—Subsec. (a). [Pub. L. 102–573][/us/pl/102/573], § 203(1), inserted before period at end “so as to achieve the health status objectives set forth in [section 1602(b) of this title][/us/usc/t25/s1602/b]”.
 
-    Subsec. (b). [Pub. L. 102–573, § 203(2)][/us/pl/102/573/s203/2], in introductory provisions, substituted “section 1671” for “section 1621(f)”.
+    Subsec. (b). [Pub. L. 102–573][/us/pl/102/573], § 203(2), in introductory provisions, substituted “section 1671” for “section 1621(f)”.
 
-    Subsec. (c). [Pub. L. 102–573, § 203(3)][/us/pl/102/573/s203/3], struck out subsec. (c) which directed establishment of between 1 and 4 health-related demonstration projects to terminate 30 months after Nov. 23, 1988.
+    Subsec. (c). [Pub. L. 102–573][/us/pl/102/573], § 203(3), struck out subsec. (c) which directed establishment of between 1 and 4 health-related demonstration projects to terminate 30 months after Nov. 23, 1988.
 
  __Congressional Findings on Health Promotion and Disease Prevention__ 
 
-[Pub. L. 100–713, title II, § 203(a)][/us/pl/100/713/s203/a], Nov. 23, 1988, [102 Stat. 4804][/us/stat/102/4804], provided that: 
+[Pub. L. 100–713, title II][/us/pl/100/713/tII], § 203(a), Nov. 23, 1988, [102 Stat. 4804][/us/stat/102/4804], provided that: 
 
 > “The Congress finds that health promotion and disease prevention activities will—
 
@@ -63,19 +63,19 @@
 ----------
 
 [/us/usc/t25/s1671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1671
-[/us/pl/94/437/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437%2Fs203
-[/us/pl/100/713/s203/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F713%2Fs203%2Fc
+[/us/pl/94/437/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437%2FtII
+[/us/pl/100/713/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F713%2FtII
 [/us/stat/102/4805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4805
-[/us/pl/102/573/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2Fs203
+[/us/pl/102/573/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2FtII
 [/us/stat/106/4546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4546
 [/us/usc/t25/s1602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1602
-[/us/pl/111/148/s10221/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10221%2Fa
+[/us/pl/111/148/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtX
 [/us/stat/124/935]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F935
-[/us/pl/102/573/s203/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2Fs203%2F1
+[/us/pl/102/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573
 [/us/usc/t25/s1602/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1602%2Fb
-[/us/pl/102/573/s203/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2Fs203%2F2
-[/us/pl/102/573/s203/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2Fs203%2F3
-[/us/pl/100/713/s203/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F713%2Fs203%2Fa
+[/us/pl/102/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573
+[/us/pl/102/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573
+[/us/pl/100/713/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F713%2FtII
 [/us/stat/102/4804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4804
 
 

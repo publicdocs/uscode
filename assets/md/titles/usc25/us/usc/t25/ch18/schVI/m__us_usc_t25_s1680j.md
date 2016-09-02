@@ -17,7 +17,7 @@
 
     Indian tribes providing health care services pursuant to a contract entered into under the Indian Self-Determination Act \[[25 U.S.C. 450f][/us/usc/t25/s450f] et seq.\] may lease permanent structures for the purpose of providing such health care services without obtaining advance approval in appropriation Acts.
 
-([Pub. L. 94–437, title VIII, § 820][/us/pl/94/437/s820], formerly title VII, § 720, as added [Pub. L. 100–713, title VII, § 716][/us/pl/100/713/s716], Nov. 23, 1988, [102 Stat. 4837][/us/stat/102/4837]; renumbered title VIII, § 820, and amended [Pub. L. 102–573, title VII, § 701(a)][/us/pl/102/573/s701/a], (b), title VIII, § 807, Oct. 29, 1992, [106 Stat. 4572][/us/stat/106/4572], 4586.)
+([Pub. L. 94–437, title VIII][/us/pl/94/437/tVIII], § 820, formerly title VII, § 720, as added [Pub. L. 100–713, title VII][/us/pl/100/713/tVII], § 716, Nov. 23, 1988, [102 Stat. 4837][/us/stat/102/4837]; renumbered title VIII, § 820, and amended [Pub. L. 102–573, title VII][/us/pl/102/573/tVII], § 701(a), (b), title VIII, § 807, Oct. 29, 1992, [106 Stat. 4572][/us/stat/106/4572], 4586.)
 
  __References in Text__ 
 
@@ -25,7 +25,7 @@
 
  __Amendments__ 
 
-    1992—[Pub. L. 102–573, § 807][/us/pl/102/573/s807], amended section generally. Prior to amendment, section read as follows:
+    1992—[Pub. L. 102–573][/us/pl/102/573], § 807, amended section generally. Prior to amendment, section read as follows:
 
     “(a) The Secretary, through the Service, shall make grants to the Eight Northern Indian Pueblos Council, San Juan Pueblo, New Mexico, for the purpose of providing substance abuse treatment services to Indians in need of such services.
 
@@ -39,14 +39,14 @@
 ----------
 
 [/us/usc/t25/s450f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450f
-[/us/pl/94/437/s820]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437%2Fs820
-[/us/pl/100/713/s716]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F713%2Fs716
+[/us/pl/94/437/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437%2FtVIII
+[/us/pl/100/713/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F713%2FtVII
 [/us/stat/102/4837]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4837
-[/us/pl/102/573/s701/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2Fs701%2Fa
+[/us/pl/102/573/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2FtVII
 [/us/stat/106/4572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4572
 [/us/pl/93/638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638
 [/us/stat/88/2206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2206
 [/us/usc/t25/s450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450
-[/us/pl/102/573/s807]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2Fs807
+[/us/pl/102/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573
 
 

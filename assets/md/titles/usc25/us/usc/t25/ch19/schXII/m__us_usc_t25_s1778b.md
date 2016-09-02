@@ -17,7 +17,7 @@
 
     The United States hereby approves, ratifies, and confirms the Settlement Agreement.
 
-([Pub. L. 106–568, title VI, § 604][/us/pl/106/568/s604], Dec. 27, 2000, [114 Stat. 2908][/us/stat/114/2908].)
+([Pub. L. 106–568, title VI][/us/pl/106/568/tVI], § 604, Dec. 27, 2000, [114 Stat. 2908][/us/stat/114/2908].)
 
  __Effective Date__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/106/568/s604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F568%2Fs604
+[/us/pl/106/568/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F568%2FtVI
 [/us/stat/114/2908]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2908
 [/us/pl/106/568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F568
 [/us/pl/106/568/s611/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F568%2Fs611%2Fb

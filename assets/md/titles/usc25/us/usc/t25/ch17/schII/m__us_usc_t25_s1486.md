@@ -17,7 +17,7 @@
 
     Loans made by any agency or instrumentality of the Federal Government (not including an eligible Community Development Finance Institution), or by an organization of Indians from funds borrowed from the United States, and loans the interest on which is not included in gross income for the purposes of chapter 1 of title 26 shall not be eligible for guaranty or insurance hereunder.
 
-([Pub. L. 93–262, title II, § 206][/us/pl/93/262/s206], Apr. 12, 1974, [88 Stat. 80][/us/stat/88/80]; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 109–221, title IV, § 401(c)][/us/pl/109/221/s401/c], May 12, 2006, [120 Stat. 342][/us/stat/120/342].)
+([Pub. L. 93–262, title II][/us/pl/93/262/tII], § 206, Apr. 12, 1974, [88 Stat. 80][/us/stat/88/80]; [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 109–221, title IV][/us/pl/109/221/tIV], § 401(c), May 12, 2006, [120 Stat. 342][/us/stat/120/342].)
 
  __Amendments__ 
 
@@ -32,11 +32,11 @@
 ----------
 ----------
 
-[/us/pl/93/262/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F262%2Fs206
+[/us/pl/93/262/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F262%2FtII
 [/us/stat/88/80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F80
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
-[/us/pl/109/221/s401/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F221%2Fs401%2Fc
+[/us/pl/109/221/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F221%2FtIV
 [/us/stat/120/342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F342
 [/us/pl/109/221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F221
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514

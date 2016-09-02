@@ -27,7 +27,7 @@
 
         The Congress declares that a major national goal of the United States is to provide the quantity and quality of educational services and opportunities which will permit Indian children to compete and excel in the life areas of their choice, and to achieve the measure of self-determination essential to their social and economic well-being.
 
-([Pub. L. 93–638, § 3][/us/pl/93/638/s3], Jan. 4, 1975, [88 Stat. 2203][/us/stat/88/2203]; [Pub. L. 100–472, title I, § 102][/us/pl/100/472/s102], Oct. 5, 1988, [102 Stat. 2285][/us/stat/102/2285].)
+([Pub. L. 93–638][/us/pl/93/638], § 3, Jan. 4, 1975, [88 Stat. 2203][/us/stat/88/2203]; [Pub. L. 100–472, title I][/us/pl/100/472/tI], § 102, Oct. 5, 1988, [102 Stat. 2285][/us/stat/102/2285].)
 
  __Amendments__ 
 
@@ -40,9 +40,9 @@
 ----------
 ----------
 
-[/us/pl/93/638/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638%2Fs3
+[/us/pl/93/638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638
 [/us/stat/88/2203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2203
-[/us/pl/100/472/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F472%2Fs102
+[/us/pl/100/472/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F472%2FtI
 [/us/stat/102/2285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2285
 [/us/pl/100/472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F472
 

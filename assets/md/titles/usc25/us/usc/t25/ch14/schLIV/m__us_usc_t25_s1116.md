@@ -17,7 +17,7 @@
 
     The funds on deposit in the Treasury of the United States to the credit of the Miami Indians of Indiana that were appropriated by the Act of September 30, 1961 ([75 Stat. 747][/us/stat/75/747]), to pay a judgment in Indian Claims Commission docket numbered 124–A, and the interest thereon, after payment of attorney fees and expenses, shall be distributed to the individuals whose names appear on the roll prepared pursuant to [section 1113 of this title][/us/usc/t25/s1113], and in accordance with the instructions contained in sections 1118 and 1119 of this title.
 
-([Pub. L. 89–659, § 6][/us/pl/89/659/s6], Oct. 14, 1966, [80 Stat. 909][/us/stat/80/909].)
+([Pub. L. 89–659][/us/pl/89/659], § 6, Oct. 14, 1966, [80 Stat. 909][/us/stat/80/909].)
 
  __References in Text__ 
 
@@ -34,7 +34,7 @@
 
 [/us/stat/75/747]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F747
 [/us/usc/t25/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1113
-[/us/pl/89/659/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F659%2Fs6
+[/us/pl/89/659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F659
 [/us/stat/80/909]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F909
 [/us/pl/87/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F322
 [/us/stat/75/747]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F747

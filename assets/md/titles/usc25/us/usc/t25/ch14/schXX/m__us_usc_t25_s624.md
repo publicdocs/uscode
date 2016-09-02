@@ -31,7 +31,7 @@
 
         Title to all lands acquired under the provisions of this section shall be taken in the name of the United States in trust for the respective Pueblo Indian tribes.
 
-([Pub. L. 87–231, § 10][/us/pl/87/231/s10], Sept. 14, 1961, [75 Stat. 505][/us/stat/75/505].)
+([Pub. L. 87–231][/us/pl/87/231], § 10, Sept. 14, 1961, [75 Stat. 505][/us/stat/75/505].)
 
  __Codification__ 
 
@@ -44,7 +44,7 @@
 ----------
 ----------
 
-[/us/pl/87/231/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F231%2Fs10
+[/us/pl/87/231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F231
 [/us/stat/75/505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F505
 [/us/act/1949-08-13/ch425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-08-13%2Fch425
 [/us/stat/63/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F604

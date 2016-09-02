@@ -27,7 +27,7 @@
 
         Until the Band elects a new governing body pursuant to the new governing document, the Band’s governing body shall consist of its current Band officers, elected at the Band’s election held on November 5, 1986, or any new officers selected under election procedures of the interim governing document identified under subsection (b) of this section.
 
-([Pub. L. 100–420, § 6][/us/pl/100/420/s6], Sept. 8, 1988, [102 Stat. 1578][/us/stat/102/1578].)
+([Pub. L. 100–420][/us/pl/100/420], § 6, Sept. 8, 1988, [102 Stat. 1578][/us/stat/102/1578].)
 
 ----------
 
@@ -37,7 +37,7 @@
 ----------
 
 [/us/usc/t25/s476]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs476
-[/us/pl/100/420/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F420%2Fs6
+[/us/pl/100/420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F420
 [/us/stat/102/1578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1578
 
 

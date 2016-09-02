@@ -17,7 +17,7 @@
 
     In order to provide credit that is not available from private money markets, or to supplement funds from private lenders, including loans guaranteed by the Secretary pursuant to [section 1481 of this title][/us/usc/t25/s1481], all funds that are now or hereafter a part of the revolving fund authorized by the Act of June 18, 1934 ([48 Stat. 986][/us/stat/48/986]) \[[25 U.S.C. 461][/us/usc/t25/s461] et seq.\], the Act of June 26, 1936 ([49 Stat. 1967][/us/stat/49/1967]) \[[25 U.S.C. 501][/us/usc/t25/s501] et seq.\], and the Act of April 19, 1950 ([64 Stat. 44][/us/stat/64/44]) \[[25 U.S.C. 631][/us/usc/t25/s631] et seq.\], as amended and supplemented, including sums received in settlement of debts of livestock pursuant to sections 442 and 443 of this title, and sums collected in repayment of loans heretofore or hereafter made, and as interest or other charges on loans, shall hereafter be administered as a single Indian Revolving Loan Fund. The fund shall be available for loans to Indians having a form of organization that is satisfactory to the Secretary and for loans to individual Indians: Provided, That, where the Secretary determines a rejection of a loan application from a member of an organization making loans to its membership from moneys borrowed from the fund is unwarranted, he may, in his discretion, make a direct loan to such individual from the fund. The fund shall also be available for administrative expenses incurred in connection therewith, or, in the discretion of the Secretary of the Interior, as a contribution to the Indian Loan Guaranty and Insurance Fund authorized by [section 1497 of this title][/us/usc/t25/s1497], or for the payment of interest subsidies authorized by [section 1511 of this title][/us/usc/t25/s1511].
 
-([Pub. L. 93–262, title I, § 101][/us/pl/93/262/s101], Apr. 12, 1974, [88 Stat. 78][/us/stat/88/78]; [Pub. L. 98–449, § 2][/us/pl/98/449/s2], Oct. 4, 1984, [98 Stat. 1725][/us/stat/98/1725]; [Pub. L. 101–644, title III, § 303(a)][/us/pl/101/644/s303/a], Nov. 29, 1990, [104 Stat. 4667][/us/stat/104/4667].)
+([Pub. L. 93–262, title I][/us/pl/93/262/tI], § 101, Apr. 12, 1974, [88 Stat. 78][/us/stat/88/78]; [Pub. L. 98–449][/us/pl/98/449], § 2, Oct. 4, 1984, [98 Stat. 1725][/us/stat/98/1725]; [Pub. L. 101–644, title III][/us/pl/101/644/tIII], § 303(a), Nov. 29, 1990, [104 Stat. 4667][/us/stat/104/4667].)
 
  __References in Text__ 
 
@@ -49,11 +49,11 @@
 [/us/usc/t25/s631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs631
 [/us/usc/t25/s1497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1497
 [/us/usc/t25/s1511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1511
-[/us/pl/93/262/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F262%2Fs101
+[/us/pl/93/262/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F262%2FtI
 [/us/stat/88/78]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F78
-[/us/pl/98/449/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F449%2Fs2
+[/us/pl/98/449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F449
 [/us/stat/98/1725]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1725
-[/us/pl/101/644/s303/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F644%2Fs303%2Fa
+[/us/pl/101/644/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F644%2FtIII
 [/us/stat/104/4667]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4667
 [/us/usc/t25/s470]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs470
 [/us/usc/t25/s461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs461

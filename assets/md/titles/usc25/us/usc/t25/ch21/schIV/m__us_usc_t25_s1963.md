@@ -17,7 +17,7 @@
 
     If any provision of this chapter or the applicability thereof is held invalid, the remaining provisions of this chapter shall not be affected thereby.
 
-([Pub. L. 95–608, title IV, § 403][/us/pl/95/608/s403], Nov. 8, 1978, [92 Stat. 3078][/us/stat/92/3078].)
+([Pub. L. 95–608, title IV][/us/pl/95/608/tIV], § 403, Nov. 8, 1978, [92 Stat. 3078][/us/stat/92/3078].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/95/608/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F608%2Fs403
+[/us/pl/95/608/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F608%2FtIV
 [/us/stat/92/3078]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3078
 
 

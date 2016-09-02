@@ -17,11 +17,11 @@
 
     The Secretary of the Interior is authorized and directed to divide the trust funds on deposit in the Treasury of the United States to the joint credit of the Shoshone and Arapaho Tribes of the Wind River Reservation, Wyoming, including the unexpended balance of the treaty funds arising under [section 12 of the Act of June 7, 1897][/us/act/1897-06-07/s12] ([30 Stat. 93][/us/stat/30/93]), between the Shoshone Tribe and the Arapaho Tribe, crediting one-half of the total amount in the principal account to a principal trust fund account and one-half of the total amount in the interest account to an interest trust fund account for each tribe: Provided, That in dividing the funds there shall be taken into consideration in determining the amount to be credited to each tribe the outstanding loans made from joint trust funds to the Indians of each tribe.
 
-([May 19, 1947, ch. 80, § 1][/us/act/1947-05-19/ch80/s1], [61 Stat. 102][/us/stat/61/102].)
+([May 19, 1947, ch. 80][/us/act/1947-05-19/ch80], § 1, [61 Stat. 102][/us/stat/61/102].)
 
  __References in Text__ 
 
-    [Section 12 of the Act of June 7, 1897][/us/act/1897-06-07/s12] ([30 Stat. 93][/us/stat/30/93]), referred to in text, is [act June 7, 1897, ch. 3, § 12][/us/act/1897-06-07/ch3/s12], [30 Stat. 93][/us/stat/30/93], which was not classified to the Code.
+    [Section 12 of the Act of June 7, 1897][/us/act/1897-06-07/s12] ([30 Stat. 93][/us/stat/30/93]), referred to in text, is [act June 7, 1897, ch. 3][/us/act/1897-06-07/ch3], § 12, [30 Stat. 93][/us/stat/30/93], which was not classified to the Code.
 
  __Wind River Indian Reservation; Mineral Rights__ 
 
@@ -62,11 +62,11 @@
 
 [/us/act/1897-06-07/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1897-06-07%2Fs12
 [/us/stat/30/93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F30%2F93
-[/us/act/1947-05-19/ch80/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-05-19%2Fch80%2Fs1
+[/us/act/1947-05-19/ch80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-05-19%2Fch80
 [/us/stat/61/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F102
 [/us/act/1897-06-07/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1897-06-07%2Fs12
 [/us/stat/30/93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F30%2F93
-[/us/act/1897-06-07/ch3/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1897-06-07%2Fch3%2Fs12
+[/us/act/1897-06-07/ch3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1897-06-07%2Fch3
 [/us/stat/30/93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F30%2F93
 [/us/pl/85/780]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F780
 [/us/stat/72/935]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F935

@@ -225,7 +225,7 @@ SUBCHAPTER I—INDIAN HEALTH PROFESSIONAL PERSONNEL  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1616" data-uslm-ref="/us/usc/t25/s1616">1616</a>l.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1616l" data-uslm-ref="/us/usc/t25/s1616l">1616l.</a>  </td>
 
     <td> Community health aide program.  </td>
 
@@ -249,7 +249,7 @@ SUBCHAPTER I—INDIAN HEALTH PROFESSIONAL PERSONNEL  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1616" data-uslm-ref="/us/usc/t25/s1616">1616</a>o.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1616o" data-uslm-ref="/us/usc/t25/s1616o">1616o.</a>  </td>
 
     <td> University of South Dakota pilot program.  </td>
 
@@ -385,7 +385,7 @@ SUBCHAPTER II—HEALTH SERVICES  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1621" data-uslm-ref="/us/usc/t25/s1621">1621</a>l.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1621l" data-uslm-ref="/us/usc/t25/s1621l">1621l.</a>  </td>
 
     <td> Patient travel costs.  </td>
 
@@ -409,7 +409,7 @@ SUBCHAPTER II—HEALTH SERVICES  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1621" data-uslm-ref="/us/usc/t25/s1621">1621</a>o.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1621o" data-uslm-ref="/us/usc/t25/s1621o">1621o.</a>  </td>
 
     <td> Indian youth grant program.  </td>
 
@@ -1041,7 +1041,7 @@ Part A—General Programs  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1665" data-uslm-ref="/us/usc/t25/s1665">1665</a>l.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1665l" data-uslm-ref="/us/usc/t25/s1665l">1665l.</a>  </td>
 
     <td> Child sexual abuse prevention and treatment programs.  </td>
 
@@ -1305,7 +1305,7 @@ SUBCHAPTER VI—MISCELLANEOUS  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1680" data-uslm-ref="/us/usc/t25/s1680">1680</a>l.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1680l" data-uslm-ref="/us/usc/t25/s1680l">1680l.</a>  </td>
 
     <td> Shared services for long-term care.  </td>
 
@@ -1329,7 +1329,7 @@ SUBCHAPTER VI—MISCELLANEOUS  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1680" data-uslm-ref="/us/usc/t25/s1680">1680</a>o.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1680o" data-uslm-ref="/us/usc/t25/s1680o">1680o.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 

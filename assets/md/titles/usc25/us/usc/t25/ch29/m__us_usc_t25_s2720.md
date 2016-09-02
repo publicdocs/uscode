@@ -17,7 +17,7 @@
 
     Consistent with the requirements of this chapter, sections 1301, 1302, 1303 and 1304 of title 18 shall not apply to any gaming conducted by an Indian tribe pursuant to this chapter.
 
-([Pub. L. 100–497, § 21][/us/pl/100/497/s21], Oct. 17, 1988, [102 Stat. 2486][/us/stat/102/2486].)
+([Pub. L. 100–497][/us/pl/100/497], § 21, Oct. 17, 1988, [102 Stat. 2486][/us/stat/102/2486].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/100/497/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F497%2Fs21
+[/us/pl/100/497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F497
 [/us/stat/102/2486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2486
 [/us/pl/100/497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F497
 [/us/stat/102/2467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2467

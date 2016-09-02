@@ -67,7 +67,7 @@
 
         (3) Any person making an election to receive, and having received, a lump sum payment under this subsection shall not thereafter have any interest or right whatsoever in the tribal, communal, or unallotted land, property, resources, or rights within, or appertaining to, the Hoopa Valley Reservation, the Hoopa Valley Tribe, the Yurok Reservation, or the Yurok Tribe or, except authorized by paragraph (1), in the Settlement Fund.
 
-([Pub. L. 100–580, § 6][/us/pl/100/580/s6], Oct. 31, 1988, [102 Stat. 2929][/us/stat/102/2929].)
+([Pub. L. 100–580][/us/pl/100/580], § 6, Oct. 31, 1988, [102 Stat. 2929][/us/stat/102/2929].)
 
 ----------
 
@@ -83,7 +83,7 @@
 [/us/usc/t25/s1407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1407
 [/us/usc/t25/s1300i–8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1300i%E2%80%938
 [/us/usc/t25/s1300i–8/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1300i%E2%80%938%2Fd%2F2
-[/us/pl/100/580/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F580%2Fs6
+[/us/pl/100/580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F580
 [/us/stat/102/2929]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2929
 
 

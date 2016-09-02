@@ -33,7 +33,7 @@
 
         (3) if the whereabouts of none of the owners can be ascertained, cause such lands to be sold and deposit the proceeds of sale in the Treasury of the United States for safekeeping.
 
-([Sept. 1, 1954, ch. 1207, § 6][/us/act/1954-09-01/ch1207/s6], [68 Stat. 1101][/us/stat/68/1101].)
+([Sept. 1, 1954, ch. 1207][/us/act/1954-09-01/ch1207], § 6, [68 Stat. 1101][/us/stat/68/1101].)
 
 ----------
 
@@ -42,7 +42,7 @@
 ----------
 ----------
 
-[/us/act/1954-09-01/ch1207/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-09-01%2Fch1207%2Fs6
+[/us/act/1954-09-01/ch1207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-09-01%2Fch1207
 [/us/stat/68/1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F1101
 
 

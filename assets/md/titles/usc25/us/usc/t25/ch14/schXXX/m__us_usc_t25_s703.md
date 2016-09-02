@@ -27,7 +27,7 @@
 
         Prior to the issuance of a proclamation in accordance with the provisions of this section, the Secretary is authorized to undertake, within the limits of available appropriations, a special program of education and training designed to help the members of the tribe to earn a livelihood, to conduct their own affairs, and to assume their responsibilities as citizens without special services because of their status as Indians. Such program may include language training, orientation in non-Indian community customs and living standards, vocational training and related subjects, transportation to the place of training or instruction, and subsistence during the course of training or instruction. For the purposes of such program the Secretary is authorized to enter into contracts or agreements with any Federal, State, or local governmental agency, corporation, association, or person. Nothing in this section shall preclude any Federal agency from undertaking any other program for the education and training of Indians with funds appropriated to it.
 
-([Aug. 13, 1954, ch. 733, § 13][/us/act/1954-08-13/ch733/s13], [68 Stat. 727][/us/stat/68/727].)
+([Aug. 13, 1954, ch. 733][/us/act/1954-08-13/ch733], § 13, [68 Stat. 727][/us/stat/68/727].)
 
 ----------
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/act/1954-08-13/ch733/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-13%2Fch733%2Fs13
+[/us/act/1954-08-13/ch733]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-13%2Fch733
 [/us/stat/68/727]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F727
 
 

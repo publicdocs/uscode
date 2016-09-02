@@ -25,7 +25,7 @@
 
     (4) provide for the authorization of necessary appropriations to carry out this chapter for the protection, conservation, utilization, management, and enhancement of Indian forest lands.
 
-([Pub. L. 101–630, title III, § 303][/us/pl/101/630/s303], Nov. 28, 1990, [104 Stat. 4532][/us/stat/104/4532].)
+([Pub. L. 101–630, title III][/us/pl/101/630/tIII], § 303, Nov. 28, 1990, [104 Stat. 4532][/us/stat/104/4532].)
 
 ----------
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/pl/101/630/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F630%2Fs303
+[/us/pl/101/630/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F630%2FtIII
 [/us/stat/104/4532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4532
 
 

@@ -33,7 +33,7 @@
 
     (8) The term “tribal justice system” means the entire judicial branch, and employees thereof, of an Indian tribe, including (but not limited to) traditional methods and forums for dispute resolution, lower courts, appellate courts (including intertribal appellate courts), alternative dispute resolution systems, and circuit rider systems, established by inherent tribal authority whether or not they constitute a court of record.
 
-([Pub. L. 103–176, § 3][/us/pl/103/176/s3], Dec. 3, 1993, [107 Stat. 2004][/us/stat/107/2004].)
+([Pub. L. 103–176][/us/pl/103/176], § 3, Dec. 3, 1993, [107 Stat. 2004][/us/stat/107/2004].)
 
 ----------
 
@@ -42,7 +42,7 @@
 ----------
 ----------
 
-[/us/pl/103/176/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F176%2Fs3
+[/us/pl/103/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F176
 [/us/stat/107/2004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2004
 
 

@@ -17,7 +17,7 @@
 
     It shall be the duty of the Commissioner of Indian Affairs to cause to be compiled and printed for the use of Indian agents and inspectors the provisions of the statutes regulating the performance of their respective duties, and also to furnish said officers from time to time information of new enactments upon the same subject.
 
-([May 17, 1882, ch. 163, § 7][/us/act/1882-05-17/ch163/s7], [22 Stat. 88][/us/stat/22/88].)
+([May 17, 1882, ch. 163][/us/act/1882-05-17/ch163], § 7, [22 Stat. 88][/us/stat/22/88].)
 
  __Codification__ 
 
@@ -38,7 +38,7 @@
 ----------
 ----------
 
-[/us/act/1882-05-17/ch163/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1882-05-17%2Fch163%2Fs7
+[/us/act/1882-05-17/ch163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1882-05-17%2Fch163
 [/us/stat/22/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F22%2F88
 [/us/stat/64/1262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1262
 [/us/usc/t25/s64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs64

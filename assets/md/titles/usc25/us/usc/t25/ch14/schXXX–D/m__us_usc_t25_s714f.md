@@ -17,7 +17,7 @@
 
     The Secretary may promulgate such regulations as may be necessary to carry out the provisions of this subchapter.
 
-([Pub. L. 98–481, § 8][/us/pl/98/481/s8], Oct. 17, 1984, [98 Stat. 2254][/us/stat/98/2254].)
+([Pub. L. 98–481][/us/pl/98/481], § 8, Oct. 17, 1984, [98 Stat. 2254][/us/stat/98/2254].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/98/481/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F481%2Fs8
+[/us/pl/98/481]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F481
 [/us/stat/98/2254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2254
 
 

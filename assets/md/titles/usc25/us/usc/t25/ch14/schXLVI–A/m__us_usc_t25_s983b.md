@@ -43,7 +43,7 @@
 
         Reservation status shall not be granted any land acquired by or for the Tribe.
 
-([Pub. L. 101–484, § 4][/us/pl/101/484/s4], Oct. 31, 1990, [104 Stat. 1167][/us/stat/104/1167].)
+([Pub. L. 101–484][/us/pl/101/484], § 4, Oct. 31, 1990, [104 Stat. 1167][/us/stat/104/1167].)
 
  __References in Text__ 
 
@@ -61,7 +61,7 @@
 [/us/pl/87/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F629
 [/us/usc/t25/s971]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs971
 [/us/usc/t25/s461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs461
-[/us/pl/101/484/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F484%2Fs4
+[/us/pl/101/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F484
 [/us/stat/104/1167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1167
 [/us/pl/87/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F629
 [/us/pl/87/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F629

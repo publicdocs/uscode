@@ -17,7 +17,7 @@
 
     The Secretary of the Interior may, in his discretion, authorize superintendents or other officials in the Indian Service to approve leases for oil, gas, or other mining purposes covering any restricted Indian lands, tribal or allotted.
 
-([May 11, 1938, ch. 198, § 5][/us/act/1938-05-11/ch198/s5], [52 Stat. 348][/us/stat/52/348].)
+([May 11, 1938, ch. 198][/us/act/1938-05-11/ch198], § 5, [52 Stat. 348][/us/stat/52/348].)
 
  __Repeal of Inconsistent Acts__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/act/1938-05-11/ch198/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-05-11%2Fch198%2Fs5
+[/us/act/1938-05-11/ch198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-05-11%2Fch198
 [/us/stat/52/348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F348
 [/us/usc/t25/s396a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs396a
 [/us/stat/64/1262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1262

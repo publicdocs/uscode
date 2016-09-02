@@ -63,11 +63,11 @@
 
         For the purposes of underrecovery and overrecovery determinations by any Federal agency for any other funds, from whatever source derived, funds received under this chapter shall not be taken into consideration.
 
-([Pub. L. 100–297, title V, § 5207][/us/pl/100/297/s5207], as added [Pub. L. 107–110, title X, § 1043][/us/pl/107/110/s1043], Jan. 8, 2002, [115 Stat. 2074][/us/stat/115/2074].)
+([Pub. L. 100–297, title V][/us/pl/100/297/tV], § 5207, as added [Pub. L. 107–110, title X][/us/pl/107/110/tX], § 1043, Jan. 8, 2002, [115 Stat. 2074][/us/stat/115/2074].)
 
  __Prior Provisions__ 
 
-    A prior section 2506, [Pub. L. 100–297, title V, § 5207][/us/pl/100/297/s5207], Apr. 28, 1988, [102 Stat. 391][/us/stat/102/391]; [Pub. L. 100–427, § 12][/us/pl/100/427/s12], Sept. 9, 1988, [102 Stat. 1608][/us/stat/102/1608], related to duration of eligibility determination, prior to repeal by [Pub. L. 107–110, title X, § 1043][/us/pl/107/110/s1043], Jan. 8, 2002, [115 Stat. 2063][/us/stat/115/2063]. See [section 2505 of this title][/us/usc/t25/s2505].
+    A prior section 2506, [Pub. L. 100–297, title V][/us/pl/100/297/tV], § 5207, Apr. 28, 1988, [102 Stat. 391][/us/stat/102/391]; [Pub. L. 100–427][/us/pl/100/427], § 12, Sept. 9, 1988, [102 Stat. 1608][/us/stat/102/1608], related to duration of eligibility determination, prior to repeal by [Pub. L. 107–110, title X][/us/pl/107/110/tX], § 1043, Jan. 8, 2002, [115 Stat. 2063][/us/stat/115/2063]. See [section 2505 of this title][/us/usc/t25/s2505].
 
  __Effective Date__ 
 
@@ -80,14 +80,14 @@
 ----------
 ----------
 
-[/us/pl/100/297/s5207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297%2Fs5207
-[/us/pl/107/110/s1043]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2Fs1043
+[/us/pl/100/297/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297%2FtV
+[/us/pl/107/110/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2FtX
 [/us/stat/115/2074]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F2074
-[/us/pl/100/297/s5207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297%2Fs5207
+[/us/pl/100/297/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297%2FtV
 [/us/stat/102/391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F391
-[/us/pl/100/427/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F427%2Fs12
+[/us/pl/100/427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F427
 [/us/stat/102/1608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1608
-[/us/pl/107/110/s1043]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2Fs1043
+[/us/pl/107/110/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2FtX
 [/us/stat/115/2063]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F2063
 [/us/usc/t25/s2505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs2505
 [/us/pl/107/110/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2Fs5

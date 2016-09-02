@@ -47,7 +47,7 @@
 
             In carrying out this subsection, the Secretary shall provide assistance to Indian tribes and tribal organizations to develop criteria for the certification of behavioral health service providers and accreditation of service facilities which meet minimum standards for such services and facilities.
 
-([Pub. L. 94–437, title VII, § 704][/us/pl/94/437/s704], as added [Pub. L. 111–148, title X, § 10221(a)][/us/pl/111/148/s10221/a], Mar. 23, 2010, [124 Stat. 935][/us/stat/124/935].)
+([Pub. L. 94–437, title VII][/us/pl/94/437/tVII], § 704, as added [Pub. L. 111–148, title X][/us/pl/111/148/tX], § 10221(a), Mar. 23, 2010, [124 Stat. 935][/us/stat/124/935].)
 
  __Codification__ 
 
@@ -55,7 +55,7 @@
 
  __Prior Provisions__ 
 
-    A prior section 1665c, [Pub. L. 94–437, title VII, § 704][/us/pl/94/437/s704], as added [Pub. L. 102–573, title VII, § 702(a)][/us/pl/102/573/s702/a], Oct. 29, 1992, [106 Stat. 4574][/us/stat/106/4574], provided for Indian Health Service program of alcohol and substance abuse detoxification and rehabilitation for Indian youth, prior to the general amendment of this subchapter by [Pub. L. 111–148][/us/pl/111/148].
+    A prior section 1665c, [Pub. L. 94–437, title VII][/us/pl/94/437/tVII], § 704, as added [Pub. L. 102–573, title VII][/us/pl/102/573/tVII], § 702(a), Oct. 29, 1992, [106 Stat. 4574][/us/stat/106/4574], provided for Indian Health Service program of alcohol and substance abuse detoxification and rehabilitation for Indian youth, prior to the general amendment of this subchapter by [Pub. L. 111–148][/us/pl/111/148].
 
 ----------
 
@@ -64,13 +64,13 @@
 ----------
 ----------
 
-[/us/pl/94/437/s704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437%2Fs704
-[/us/pl/111/148/s10221/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10221%2Fa
+[/us/pl/94/437/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437%2FtVII
+[/us/pl/111/148/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtX
 [/us/stat/124/935]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F935
 [/us/pl/94/437/s704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437%2Fs704
 [/us/pl/111/148/s10221/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10221%2Fa
-[/us/pl/94/437/s704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437%2Fs704
-[/us/pl/102/573/s702/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2Fs702%2Fa
+[/us/pl/94/437/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437%2FtVII
+[/us/pl/102/573/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2FtVII
 [/us/stat/106/4574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4574
 [/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 

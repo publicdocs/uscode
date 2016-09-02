@@ -17,7 +17,7 @@
 
     The lands, or any part thereof, allotted to any Indian, or any inherited interest therein, which can be sold under existing law by authority of the Secretary of the Interior, except the lands in Oklahoma and the States of Minnesota and South Dakota, may be sold on the petition of the allottee, or his heirs, on such terms and conditions and under such regulations as the Secretary of the Interior may prescribe; and the lands of a minor, or of a person deemed incompetent by the Secretary of the Interior to petition for himself, may be sold in the same manner, on the petition of the natural guardian in the case of infants, and in the case of Indians deemed incompetent as aforesaid, and of orphans without a natural guardian, on petition of a person designated for the purpose by the Secretary of the Interior. When any Indian who has received an allotment of land dies before the expiration of the trust period, the Secretary of the Interior shall ascertain the legal heirs of such Indian, and if satisfied of their ability to manage their own affairs shall cause to be issued in their names a patent in fee simple for said lands; but if he finds them incapable of managing their own affairs, the land may be sold as hereinbefore provided: Provided, That the proceeds derived from all sales hereunder shall be used, during the trust period, for the benefit of the allottee, or heir, so disposing of his interest, under the supervision of the Commissioner of Indian Affairs: And provided further, That upon the approval of any sale hereunder by the Secretary of the Interior, he shall cause a patent in fee to issue in the name of the purchaser for the lands so sold: And provided further, That nothing in this section shall apply to the States of Minnesota and South Dakota.
 
-([May 29, 1908, ch. 216, § 1][/us/act/1908-05-29/ch216/s1], [35 Stat. 444][/us/stat/35/444].)
+([May 29, 1908, ch. 216][/us/act/1908-05-29/ch216], § 1, [35 Stat. 444][/us/stat/35/444].)
 
  __Transfer of Functions__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/act/1908-05-29/ch216/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1908-05-29%2Fch216%2Fs1
+[/us/act/1908-05-29/ch216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1908-05-29%2Fch216
 [/us/stat/35/444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F35%2F444
 [/us/stat/64/1262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1262
 [/us/act/1908-03-27/ch107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1908-03-27%2Fch107

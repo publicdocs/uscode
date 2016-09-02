@@ -17,7 +17,7 @@
 
     The funds placed to the credit of the Absentee and the Eastern Bands of Shawnee Indians in the United States Treasury, and the interest thereon may be advanced or expended for any purpose and in such manner as the respective tribal governing bodies authorize and the Secretary of the Interior approves.
 
-([Pub. L. 88–457, § 2][/us/pl/88/457/s2], Aug. 20, 1964, [78 Stat. 555][/us/stat/78/555].)
+([Pub. L. 88–457][/us/pl/88/457], § 2, Aug. 20, 1964, [78 Stat. 555][/us/stat/78/555].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/88/457/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F457%2Fs2
+[/us/pl/88/457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F457
 [/us/stat/78/555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F555
 
 

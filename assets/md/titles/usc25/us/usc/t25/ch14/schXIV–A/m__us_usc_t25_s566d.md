@@ -17,7 +17,7 @@
 
     The Secretary shall accept real property for the benefit of the tribe if conveyed or otherwise transferred to the Secretary. Such property shall be subject to all valid existing rights including liens, outstanding taxes (local and State), and mortgages. Subject to the conditions imposed by this section, the land transferred shall be taken in the name of the United States in trust for the tribe and shall be part of their reservation. The transfer of real property authorized by this section shall be exempt from all local, State, and Federal taxation as of the date of transfer.
 
-([Pub. L. 99–398, § 6][/us/pl/99/398/s6], Aug. 27, 1986, [100 Stat. 850][/us/stat/100/850].)
+([Pub. L. 99–398][/us/pl/99/398], § 6, Aug. 27, 1986, [100 Stat. 850][/us/stat/100/850].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/99/398/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F398%2Fs6
+[/us/pl/99/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F398
 [/us/stat/100/850]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F850
 
 

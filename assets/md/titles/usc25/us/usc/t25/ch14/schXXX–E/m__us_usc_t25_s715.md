@@ -31,11 +31,11 @@
 
     (7) “Reservation” means those lands subsequently acquired and held in trust by the Secretary for the benefit of the Tribe.
 
-([Pub. L. 101–42, § 2][/us/pl/101/42/s2], June 28, 1989, [103 Stat. 91][/us/stat/103/91].)
+([Pub. L. 101–42][/us/pl/101/42], § 2, June 28, 1989, [103 Stat. 91][/us/stat/103/91].)
 
  __Short Title__ 
 
-[Pub. L. 101–42, § 1][/us/pl/101/42/s1], June 28, 1989, [103 Stat. 91][/us/stat/103/91], provided that: 
+[Pub. L. 101–42][/us/pl/101/42], § 1, June 28, 1989, [103 Stat. 91][/us/stat/103/91], provided that: 
 
 > “This Act \[enacting this subchapter\] may be cited as the ‘Coquille Restoration Act’.”
 
@@ -48,9 +48,9 @@
 
 [/us/usc/t25/s715f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs715f
 [/us/usc/t25/s715e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs715e
-[/us/pl/101/42/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F42%2Fs2
+[/us/pl/101/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F42
 [/us/stat/103/91]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F91
-[/us/pl/101/42/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F42%2Fs1
+[/us/pl/101/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F42
 [/us/stat/103/91]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F91
 
 

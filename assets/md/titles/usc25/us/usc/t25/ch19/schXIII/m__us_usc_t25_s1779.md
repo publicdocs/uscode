@@ -57,7 +57,7 @@
 
     (17) In those resolutions, each Indian Nation expressly reserved all of its beneficial interest and title to all other Riverbed lands, including minerals, as determined by the Supreme Court in Choctaw Nation v. Oklahoma, 397 U.S. 620 (1970), and further reserved any and all right, title, or interest that each Nation may have in and to the water flowing in the Arkansas River and its tributaries.
 
-([Pub. L. 107–331, title VI, § 602][/us/pl/107/331/s602], Dec. 13, 2002, [116 Stat. 2845][/us/stat/116/2845].)
+([Pub. L. 107–331, title VI][/us/pl/107/331/tVI], § 602, Dec. 13, 2002, [116 Stat. 2845][/us/stat/116/2845].)
 
  __References in Text__ 
 
@@ -65,7 +65,7 @@
 
  __Short Title__ 
 
-[Pub. L. 107–331, title VI, § 601][/us/pl/107/331/s601], Dec. 13, 2002, [116 Stat. 2845][/us/stat/116/2845], provided that: 
+[Pub. L. 107–331, title VI][/us/pl/107/331/tVI], § 601, Dec. 13, 2002, [116 Stat. 2845][/us/stat/116/2845], provided that: 
 
 > “This title \[enacting this subchapter\] may be cited as the ‘Cherokee, Choctaw, and Chickasaw Nations Claims Settlement Act’.”
 
@@ -84,13 +84,13 @@
 [/us/stat/7/24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F7%2F24
 [/us/stat/7/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F7%2F21
 [/us/stat/34/137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F34%2F137
-[/us/pl/107/331/s602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F331%2Fs602
+[/us/pl/107/331/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F331%2FtVI
 [/us/stat/116/2845]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2845
 [/us/stat/34/137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F34%2F137
 [/us/act/1906-04-26/ch1876]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1906-04-26%2Fch1876
 [/us/stat/34/137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F34%2F137
 [/us/usc/t25/s355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs355
-[/us/pl/107/331/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F331%2Fs601
+[/us/pl/107/331/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F331%2FtVI
 [/us/stat/116/2845]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2845
 
 

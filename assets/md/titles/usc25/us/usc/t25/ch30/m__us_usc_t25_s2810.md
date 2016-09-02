@@ -69,7 +69,7 @@
 
             It is the sense of Congress that, in appointing Special Assistant United States Attorneys under this subsection, a United States Attorney should consult with tribal justice officials of each Indian tribe that would be affected by the appointment.
 
-([Pub. L. 101–379, § 13][/us/pl/101/379/s13], as added [Pub. L. 111–211, title II, § 213(b)(1)][/us/pl/111/211/s213/b/1], July 29, 2010, [124 Stat. 2268][/us/stat/124/2268].)
+([Pub. L. 101–379][/us/pl/101/379], § 13, as added [Pub. L. 111–211, title II][/us/pl/111/211/tII], § 213(b)(1), July 29, 2010, [124 Stat. 2268][/us/stat/124/2268].)
 
 ----------
 
@@ -79,8 +79,8 @@
 ----------
 
 [/us/usc/t28/s543/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs543%2Fa
-[/us/pl/101/379/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F379%2Fs13
-[/us/pl/111/211/s213/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211%2Fs213%2Fb%2F1
+[/us/pl/101/379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F379
+[/us/pl/111/211/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211%2FtII
 [/us/stat/124/2268]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2268
 
 

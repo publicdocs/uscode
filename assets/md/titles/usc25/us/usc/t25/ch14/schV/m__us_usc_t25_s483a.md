@@ -19,7 +19,7 @@
 
     (b) In the event such land is acquired by an Indian or an Indian tribe, such land shall not be removed from trust or restricted status except upon application to the Secretary under existing law.
 
-([Mar. 29, 1956, ch. 107][/us/act/1956-03-29/ch107], [70 Stat. 62][/us/stat/70/62]; [Pub. L. 98–608, § 2][/us/pl/98/608/s2], Oct. 30, 1984, [98 Stat. 3173][/us/stat/98/3173]; [Pub. L. 101–644, title III, § 301(c)][/us/pl/101/644/s301/c], Nov. 29, 1990, [104 Stat. 4667][/us/stat/104/4667].)
+([Mar. 29, 1956, ch. 107][/us/act/1956-03-29/ch107], [70 Stat. 62][/us/stat/70/62]; [Pub. L. 98–608][/us/pl/98/608], § 2, Oct. 30, 1984, [98 Stat. 3173][/us/stat/98/3173]; [Pub. L. 101–644, title III][/us/pl/101/644/tIII], § 301(c), Nov. 29, 1990, [104 Stat. 4667][/us/stat/104/4667].)
 
  __Amendments__ 
 
@@ -36,9 +36,9 @@
 
 [/us/act/1956-03-29/ch107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-03-29%2Fch107
 [/us/stat/70/62]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F62
-[/us/pl/98/608/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F608%2Fs2
+[/us/pl/98/608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F608
 [/us/stat/98/3173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3173
-[/us/pl/101/644/s301/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F644%2Fs301%2Fc
+[/us/pl/101/644/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F644%2FtIII
 [/us/stat/104/4667]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4667
 [/us/pl/101/644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F644
 [/us/pl/98/608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F608

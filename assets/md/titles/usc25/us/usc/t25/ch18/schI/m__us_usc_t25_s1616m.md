@@ -105,7 +105,7 @@
 
         The Secretary may not make any payments under subsection (a) to an Indian tribe or tribal organization for any fiscal year subsequent to the first fiscal year of such payments unless the Secretary determines that, for the immediately preceding fiscal year, the Indian tribe or tribal organization has complied with requirements of this section.
 
-([Pub. L. 94–437, title I, § 120][/us/pl/94/437/s120], as added [Pub. L. 102–573, title I, § 112][/us/pl/102/573/s112], Oct. 29, 1992, [106 Stat. 4540][/us/stat/106/4540].)
+([Pub. L. 94–437, title I][/us/pl/94/437/tI], § 120, as added [Pub. L. 102–573, title I][/us/pl/102/573/tI], § 112, Oct. 29, 1992, [106 Stat. 4540][/us/stat/106/4540].)
 
  __References in Text__ 
 
@@ -127,8 +127,8 @@
 [/us/usc/t42/s1395u/b/3/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395u%2Fb%2F3%2FB%2Fii
 [/us/usc/t42/s1395j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395j
 [/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
-[/us/pl/94/437/s120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437%2Fs120
-[/us/pl/102/573/s112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2Fs112
+[/us/pl/94/437/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437%2FtI
+[/us/pl/102/573/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2FtI
 [/us/stat/106/4540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4540
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620

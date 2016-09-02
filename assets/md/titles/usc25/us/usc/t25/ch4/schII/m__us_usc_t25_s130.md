@@ -21,7 +21,7 @@
 
  __Codification__ 
 
-    R.S. § 2087 derived from [act Mar. 3, 1847, ch. 66, § 3][/us/act/1847-03-03/ch66/s3], [9 Stat. 203][/us/stat/9/203].
+    R.S. § 2087 derived from [act Mar. 3, 1847, ch. 66][/us/act/1847-03-03/ch66], § 3, [9 Stat. 203][/us/stat/9/203].
 
 ----------
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1847-03-03/ch66/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1847-03-03%2Fch66%2Fs3
+[/us/act/1847-03-03/ch66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1847-03-03%2Fch66
 [/us/stat/9/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F9%2F203
 
 

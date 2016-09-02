@@ -17,7 +17,7 @@
 
     If any such company shall fail to construct and put in operation one-tenth of its entire line in one year, or to complete its road within three years after the approval of its map of location by the Secretary of the Interior, the right of way granted shall be deemed forfeited and abandoned ipso facto as to that portion of the road not then constructed and in operation: Provided, That the Secretary may, when he deems proper, extend, for a period not exceeding two years, the time for the completion of any road for which right of way has been granted and a part of which shall have been built.
 
-([Mar. 2, 1899, ch. 374, § 4][/us/act/1899-03-02/ch374/s4], [30 Stat. 991][/us/stat/30/991].)
+([Mar. 2, 1899, ch. 374][/us/act/1899-03-02/ch374], § 4, [30 Stat. 991][/us/stat/30/991].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1899-03-02/ch374/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1899-03-02%2Fch374%2Fs4
+[/us/act/1899-03-02/ch374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1899-03-02%2Fch374
 [/us/stat/30/991]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F30%2F991
 
 

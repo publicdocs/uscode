@@ -41,7 +41,7 @@
 
         The term “Wetbed Lands” means those Riverbed lands which lie below the mean high water mark of the Arkansas River in the State of Oklahoma as of December 13, 2002, exclusive of the Drybed Lands. The term “Wetbed Lands” is intended to have the same meaning as the term “Present Channel Claim Areas” as utilized by the Bureau of Land Management Cadastral Survey Geographic Team in its preliminary survey of the Arkansas River.
 
-([Pub. L. 107–331, title VI, § 604][/us/pl/107/331/s604], Dec. 13, 2002, [116 Stat. 2847][/us/stat/116/2847].)
+([Pub. L. 107–331, title VI][/us/pl/107/331/tVI], § 604, Dec. 13, 2002, [116 Stat. 2847][/us/stat/116/2847].)
 
 ----------
 
@@ -50,7 +50,7 @@
 ----------
 ----------
 
-[/us/pl/107/331/s604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F331%2Fs604
+[/us/pl/107/331/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F331%2FtVI
 [/us/stat/116/2847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2847
 
 

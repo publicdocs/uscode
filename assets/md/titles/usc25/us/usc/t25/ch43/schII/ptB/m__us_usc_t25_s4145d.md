@@ -49,7 +49,7 @@
 
         Notwithstanding any other provision of this chapter, recipients participating in the program under this part shall provide such information to the Secretary as the Secretary may request, in sufficient detail and in a timely manner sufficient to ensure that the review and report required by this section is accomplished in a timely manner.
 
-([Pub. L. 104–330, title II, § 235][/us/pl/104/330/s235], as added [Pub. L. 110–411, title II, § 206(a)(2)][/us/pl/110/411/s206/a/2], Oct. 14, 2008, [122 Stat. 4328][/us/stat/122/4328].)
+([Pub. L. 104–330, title II][/us/pl/104/330/tII], § 235, as added [Pub. L. 110–411, title II][/us/pl/110/411/tII], § 206(a)(2), Oct. 14, 2008, [122 Stat. 4328][/us/stat/122/4328].)
 
  __References in Text__ 
 
@@ -64,8 +64,8 @@
 
 [/us/usc/t25/s4111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs4111
 [/us/usc/t25/s4145a/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs4145a%2Fc
-[/us/pl/104/330/s235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330%2Fs235
-[/us/pl/110/411/s206/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F411%2Fs206%2Fa%2F2
+[/us/pl/104/330/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330%2FtII
+[/us/pl/110/411/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F411%2FtII
 [/us/stat/122/4328]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4328
 [/us/pl/104/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330
 [/us/stat/110/4016]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F4016

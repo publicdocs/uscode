@@ -17,7 +17,7 @@
 
     The amount held in any tribal fund account which, in the judgment of the Secretary of the Interior, is not required for the purpose for which the fund was created, shall be covered into the surplus fund of the Treasury; and so much thereof as is found to be necessary for such purpose may at any time thereafter be restored to the account on books of the Treasury without appropriation by Congress.
 
-([Feb. 12, 1929, ch. 178, § 3][/us/act/1929-02-12/ch178/s3], as added [June 13, 1930, ch. 483][/us/act/1930-06-13/ch483], [46 Stat. 584][/us/stat/46/584].)
+([Feb. 12, 1929, ch. 178][/us/act/1929-02-12/ch178], § 3, as added [June 13, 1930, ch. 483][/us/act/1930-06-13/ch483], [46 Stat. 584][/us/stat/46/584].)
 
  __Transfer of Functions__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1929-02-12/ch178/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1929-02-12%2Fch178%2Fs3
+[/us/act/1929-02-12/ch178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1929-02-12%2Fch178
 [/us/act/1930-06-13/ch483]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-13%2Fch483
 [/us/stat/46/584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F584
 [/us/stat/64/1262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1262

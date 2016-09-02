@@ -19,7 +19,7 @@
 
     If the tribe which owned the land at the time of allotment has been reorganized or reconstituted by reason of amalgamation with another tribe or group of Indians or of subdivision within the tribe or otherwise, the land shall escheat to the tribe or group which has succeeded to the jurisdiction of the original tribe over the area in question. If neither the tribe which owned the land at the time of allotment nor a successor tribe or group exists, the land or interest therein shall be held in trust for such Indians as the Secretary may designate within the State or States wherein the land is situated or, if the Secretary determines that the land cannot appropriately be used by or for such Indians, it shall be sold, subject to all valid existing agricultural, surface, and mineral leases and the rights of any person thereunder, and the proceeds of such sale shall be held in trust for such Indians as the Secretary may designate, within the State or States wherein the land is situated.
 
-([Nov. 24, 1942, ch. 640, § 1][/us/act/1942-11-24/ch640/s1], [56 Stat. 1021][/us/stat/56/1021].)
+([Nov. 24, 1942, ch. 640][/us/act/1942-11-24/ch640], § 1, [56 Stat. 1021][/us/stat/56/1021].)
 
 ----------
 
@@ -28,7 +28,7 @@
 ----------
 ----------
 
-[/us/act/1942-11-24/ch640/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-11-24%2Fch640%2Fs1
+[/us/act/1942-11-24/ch640]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-11-24%2Fch640
 [/us/stat/56/1021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F56%2F1021
 
 

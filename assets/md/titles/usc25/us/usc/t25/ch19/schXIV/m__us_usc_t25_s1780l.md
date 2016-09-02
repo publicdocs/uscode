@@ -17,7 +17,7 @@
 
     Not later than 2 years after September 27, 2006, the Secretary of the Interior shall act in accordance with the Indian Tribal Judgment Funds Use or Distribution Act ([25 U.S.C. 1401][/us/usc/t25/s1401] et seq.) with respect to the award entered in the compromise and settlement of claims under the case styled Pueblo of San Ildefonso v. United States, No. 660–87L, United States Court of Federal Claims.
 
-([Pub. L. 109–286, § 14][/us/pl/109/286/s14], Sept. 27, 2006, [120 Stat. 1229][/us/stat/120/1229].)
+([Pub. L. 109–286][/us/pl/109/286], § 14, Sept. 27, 2006, [120 Stat. 1229][/us/stat/120/1229].)
 
  __References in Text__ 
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t25/s1401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1401
-[/us/pl/109/286/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F286%2Fs14
+[/us/pl/109/286]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F286
 [/us/stat/120/1229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1229
 [/us/pl/93/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F134
 [/us/stat/87/466]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F466

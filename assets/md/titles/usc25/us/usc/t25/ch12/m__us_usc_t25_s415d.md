@@ -17,7 +17,7 @@
 
     Nothing contained in sections 415 to 415d of this title shall be construed to repeal any authority to lease restricted Indian lands conferred by or pursuant to any other provision of law.
 
-([Aug. 9, 1955, ch. 615, § 6][/us/act/1955-08-09/ch615/s6], [69 Stat. 540][/us/stat/69/540].)
+([Aug. 9, 1955, ch. 615][/us/act/1955-08-09/ch615], § 6, [69 Stat. 540][/us/stat/69/540].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1955-08-09/ch615/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-09%2Fch615%2Fs6
+[/us/act/1955-08-09/ch615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-09%2Fch615
 [/us/stat/69/540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F540
 
 

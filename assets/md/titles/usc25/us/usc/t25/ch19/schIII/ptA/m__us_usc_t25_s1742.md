@@ -35,7 +35,7 @@
 
     (9) The term “transfer” includes but is not limited to any sale, grant, lease, allotment, partition, or conveyance, any transaction the purpose of which was to effect a sale, grant, lease, allotment, partition, or conveyance, or any event or events that resulted in a change of possession or control of lands or natural resources.
 
-([Pub. L. 97–399, § 3][/us/pl/97/399/s3], Dec. 31, 1982, [96 Stat. 2012][/us/stat/96/2012].)
+([Pub. L. 97–399][/us/pl/97/399], § 3, Dec. 31, 1982, [96 Stat. 2012][/us/stat/96/2012].)
 
 ----------
 
@@ -45,7 +45,7 @@
 ----------
 
 [/us/usc/t25/s476]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs476
-[/us/pl/97/399/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F399%2Fs3
+[/us/pl/97/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F399
 [/us/stat/96/2012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2012
 
 

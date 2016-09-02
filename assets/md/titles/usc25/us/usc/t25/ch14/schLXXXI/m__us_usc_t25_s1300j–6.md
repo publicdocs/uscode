@@ -17,7 +17,7 @@
 
     The Band’s service area shall consist of the Michigan counties of Allegan, Berrien, Van Buren, and Cass and the Indiana counties of La Porte, St. Joseph, Elkhart, Starke, Marshall, and Kosciusko.
 
-([Pub. L. 103–323, § 7][/us/pl/103/323/s7], Sept. 21, 1994, [108 Stat. 2154][/us/stat/108/2154].)
+([Pub. L. 103–323][/us/pl/103/323], § 7, Sept. 21, 1994, [108 Stat. 2154][/us/stat/108/2154].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/103/323/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F323%2Fs7
+[/us/pl/103/323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F323
 [/us/stat/108/2154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2154
 
 

@@ -29,7 +29,7 @@
 
         Any Indian, Indian nation, or tribe of Indians (other than the Indian Corporation or any other entity presently or at any time in the past known as the Narragansett Tribe of Indians, or any predecessor or successor in interest, member or stockholder thereof) whose transfer of land or natural resources was approved or whose aboriginal title or claims were extinguished by subsection (a) of this section may, within a period of one hundred and eighty days after publication of the Secretary’s findings pursuant to this section, bring an action against the State Corporation in lieu of an action against any other person against whom a cause may have existed in the absence of this section. In any such action, the remedy shall be limited to a right of possession of the settlement lands.
 
-([Pub. L. 95–395, § 6][/us/pl/95/395/s6], Sept. 30, 1978, [92 Stat. 815][/us/stat/92/815].)
+([Pub. L. 95–395][/us/pl/95/395], § 6, Sept. 30, 1978, [92 Stat. 815][/us/stat/92/815].)
 
  __References in Text__ 
 
@@ -45,7 +45,7 @@
 [/us/usc/t25/s1706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1706
 [/us/act/1790-07-22/ch33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1790-07-22%2Fch33
 [/us/stat/1/137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F1%2F137
-[/us/pl/95/395/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F395%2Fs6
+[/us/pl/95/395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F395
 [/us/stat/92/815]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F815
 [/us/act/1790-07-22/ch33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1790-07-22%2Fch33
 [/us/stat/1/137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F1%2F137

@@ -17,7 +17,7 @@
 
     In the expenditure of money appropriated for any of the purposes of education of Indian children, those children of Indians who have taken or may take lands in severalty under any existing law shall not, by reason thereof, be excluded from the benefits of such appropriation.
 
-([Aug. 15, 1894, ch. 290, § 1][/us/act/1894-08-15/ch290/s1], [28 Stat. 311][/us/stat/28/311].)
+([Aug. 15, 1894, ch. 290][/us/act/1894-08-15/ch290], § 1, [28 Stat. 311][/us/stat/28/311].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1894-08-15/ch290/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1894-08-15%2Fch290%2Fs1
+[/us/act/1894-08-15/ch290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1894-08-15%2Fch290
 [/us/stat/28/311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F28%2F311
 
 

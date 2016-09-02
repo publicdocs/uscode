@@ -17,7 +17,7 @@
 
     The Secretary of the Interior (hereinafter in this part referred to as the “Secretary”) shall establish and carry out a program within the Department of the Interior to be known as Tribal Self-Governance (hereinafter in this part referred to as “Self-Governance”) in accordance with this part.
 
-([Pub. L. 93–638, title IV, § 401][/us/pl/93/638/s401], as added [Pub. L. 103–413, title II, § 204][/us/pl/103/413/s204], Oct. 25, 1994, [108 Stat. 4271][/us/stat/108/4271].)
+([Pub. L. 93–638, title IV][/us/pl/93/638/tIV], § 401, as added [Pub. L. 103–413, title II][/us/pl/103/413/tII], § 204, Oct. 25, 1994, [108 Stat. 4271][/us/stat/108/4271].)
 
  __Short Title__ 
 
@@ -25,7 +25,7 @@
 
  __Congressional Statement of Findings__ 
 
-[Pub. L. 103–413, title II, § 202][/us/pl/103/413/s202], Oct. 25, 1994, [108 Stat. 4270][/us/stat/108/4270], provided that: 
+[Pub. L. 103–413, title II][/us/pl/103/413/tII], § 202, Oct. 25, 1994, [108 Stat. 4270][/us/stat/108/4270], provided that: 
 
 > “Congress finds that—
 
@@ -47,7 +47,7 @@
 
  __Congressional Declaration of Policy__ 
 
-[Pub. L. 103–413, title II, § 203][/us/pl/103/413/s203], Oct. 25, 1994, [108 Stat. 4271][/us/stat/108/4271], provided that: 
+[Pub. L. 103–413, title II][/us/pl/103/413/tII], § 203, Oct. 25, 1994, [108 Stat. 4271][/us/stat/108/4271], provided that: 
 
 > “It is the policy of this title \[enacting this part\] to permanently establish and implement tribal self-governance—
 
@@ -70,17 +70,17 @@
 ----------
 ----------
 
-[/us/pl/93/638/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638%2Fs401
-[/us/pl/103/413/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F413%2Fs204
+[/us/pl/93/638/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638%2FtIV
+[/us/pl/103/413/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F413%2FtII
 [/us/stat/108/4271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4271
 [/us/pl/103/413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F413
 [/us/pl/103/413/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F413%2Fs201
 [/us/usc/t25/s450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450
-[/us/pl/103/413/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F413%2Fs202
+[/us/pl/103/413/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F413%2FtII
 [/us/stat/108/4270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4270
 [/us/pl/93/638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638
 [/us/usc/t25/s450f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450f
-[/us/pl/103/413/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F413%2Fs203
+[/us/pl/103/413/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F413%2FtII
 [/us/stat/108/4271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4271
 [/us/pl/93/638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638
 [/us/usc/t25/s450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450

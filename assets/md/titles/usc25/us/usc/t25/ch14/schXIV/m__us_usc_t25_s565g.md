@@ -17,7 +17,7 @@
 
     The Secretary is authorized to prescribe rules and regulations to carry out the provisions of this subchapter.
 
-([Pub. L. 89–224, § 8][/us/pl/89/224/s8], Oct. 1, 1965, [79 Stat. 898][/us/stat/79/898].)
+([Pub. L. 89–224][/us/pl/89/224], § 8, Oct. 1, 1965, [79 Stat. 898][/us/stat/79/898].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/89/224/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F224%2Fs8
+[/us/pl/89/224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F224
 [/us/stat/79/898]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F898
 
 

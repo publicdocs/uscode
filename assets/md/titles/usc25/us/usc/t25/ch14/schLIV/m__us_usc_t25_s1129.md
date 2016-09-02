@@ -17,7 +17,7 @@
 
     None of the funds distributed under the provisions of sections 1122 to 1130 of this title shall be subject to Federal or State income taxes.
 
-([Pub. L. 92–309, § 8][/us/pl/92/309/s8], June 2, 1972, [86 Stat. 200][/us/stat/86/200].)
+([Pub. L. 92–309][/us/pl/92/309], § 8, June 2, 1972, [86 Stat. 200][/us/stat/86/200].)
 
  __Codification__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/92/309/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F309%2Fs8
+[/us/pl/92/309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F309
 [/us/stat/86/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F200
 [/us/pl/89/659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F659
 [/us/stat/80/909]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F909

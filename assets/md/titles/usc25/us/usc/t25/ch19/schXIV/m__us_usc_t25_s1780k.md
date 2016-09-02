@@ -31,7 +31,7 @@
 
         (4) accept conveyances of exchanged lands into trust for the benefit of the grantee tribe.
 
-([Pub. L. 109–286, § 13][/us/pl/109/286/s13], Sept. 27, 2006, [120 Stat. 1228][/us/stat/120/1228].)
+([Pub. L. 109–286][/us/pl/109/286], § 13, Sept. 27, 2006, [120 Stat. 1228][/us/stat/120/1228].)
 
 ----------
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/109/286/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F286%2Fs13
+[/us/pl/109/286]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F286
 [/us/stat/120/1228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1228
 
 

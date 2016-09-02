@@ -53,11 +53,11 @@
 
         (2) To facilitate the removal of any encumbrance to any title to land in the State of Connecticut that would have resulted from the action referred to in subsection (a).
 
-([Pub. L. 103–377, § 2][/us/pl/103/377/s2], Oct. 19, 1994, [108 Stat. 3501][/us/stat/108/3501].)
+([Pub. L. 103–377][/us/pl/103/377], § 2, Oct. 19, 1994, [108 Stat. 3501][/us/stat/108/3501].)
 
  __Short Title__ 
 
-[Pub. L. 103–377, § 1][/us/pl/103/377/s1], Oct. 19, 1994, [108 Stat. 3501][/us/stat/108/3501], provided that: 
+[Pub. L. 103–377][/us/pl/103/377], § 1, Oct. 19, 1994, [108 Stat. 3501][/us/stat/108/3501], provided that: 
 
 > “This Act \[enacting this subchapter\] may be cited as the ‘Mohegan Nation of Connecticut Land Claims Settlement Act of 1994’.”
 
@@ -69,9 +69,9 @@
 ----------
 
 [/us/usc/t25/s1775a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1775a
-[/us/pl/103/377/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F377%2Fs2
+[/us/pl/103/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F377
 [/us/stat/108/3501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3501
-[/us/pl/103/377/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F377%2Fs1
+[/us/pl/103/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F377
 [/us/stat/108/3501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3501
 
 

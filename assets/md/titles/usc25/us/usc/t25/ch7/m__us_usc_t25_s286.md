@@ -17,7 +17,7 @@
 
     No Indian child shall be sent from any Indian reservation to a school beyond the State or Territory in which said reservation is situated without the voluntary consent of the father or mother of such child if either of them is living, and if neither of them is living without the voluntary consent of the next of kin of such child. Such consent shall be made before the agent of the reservation, and he shall send to the Commissioner of Indian Affairs his certificate that such consent has been voluntarily given before such child shall be removed from such reservation. And it shall be unlawful for any Indian agent or other employee of the Government to induce, or seek to induce, by withholding rations or by other improper means, the parents or next of kin of any Indian to consent to the removal of any Indian child beyond the limits of any reservation.
 
-([Aug. 15, 1894, ch. 290, § 11][/us/act/1894-08-15/ch290/s11], [28 Stat. 313][/us/stat/28/313]; [Mar. 2, 1895, ch. 188, § 1][/us/act/1895-03-02/ch188/s1], [28 Stat. 906][/us/stat/28/906].)
+([Aug. 15, 1894, ch. 290][/us/act/1894-08-15/ch290], § 11, [28 Stat. 313][/us/stat/28/313]; [Mar. 2, 1895, ch. 188][/us/act/1895-03-02/ch188], § 1, [28 Stat. 906][/us/stat/28/906].)
 
  __Transfer of Functions__ 
 
@@ -34,9 +34,9 @@
 ----------
 ----------
 
-[/us/act/1894-08-15/ch290/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1894-08-15%2Fch290%2Fs11
+[/us/act/1894-08-15/ch290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1894-08-15%2Fch290
 [/us/stat/28/313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F28%2F313
-[/us/act/1895-03-02/ch188/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1895-03-02%2Fch188%2Fs1
+[/us/act/1895-03-02/ch188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1895-03-02%2Fch188
 [/us/stat/28/906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F28%2F906
 [/us/stat/64/1262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1262
 [/us/usc/t25/s64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs64

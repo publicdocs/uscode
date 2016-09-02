@@ -43,15 +43,15 @@
 
         A borrower that had a loan or loans reduced under this section shall not submit an application for another reduction on such loan or loans for a period of 5 years after the initial reduction.
 
-([Pub. L. 91–229, § 6][/us/pl/91/229/s6], as added [Pub. L. 101–82, title III, § 303][/us/pl/101/82/s303], Aug. 14, 1989, [103 Stat. 583][/us/stat/103/583].)
+([Pub. L. 91–229][/us/pl/91/229], § 6, as added [Pub. L. 101–82, title III][/us/pl/101/82/tIII], § 303, Aug. 14, 1989, [103 Stat. 583][/us/stat/103/583].)
 
  __References in Text__ 
 
-    Section 333B of the Consolidated Farm and Rural Development Act ([7 U.S.C. 1983b][/us/usc/t7/s1983b]), referred to in subsec. (c), was repealed by [Pub. L. 103–354, title II, § 281(c)][/us/pl/103/354/s281/c], Oct. 13, 1994, [108 Stat. 3233][/us/stat/108/3233].
+    Section 333B of the Consolidated Farm and Rural Development Act ([7 U.S.C. 1983b][/us/usc/t7/s1983b]), referred to in subsec. (c), was repealed by [Pub. L. 103–354, title II][/us/pl/103/354/tII], § 281(c), Oct. 13, 1994, [108 Stat. 3233][/us/stat/108/3233].
 
  __Codification__ 
 
-    Another [section 6 of Pub. L. 91–229][/us/pl/91/229/s6] was added by [Pub. L. 101–624, title XVIII, § 1854(b)][/us/pl/101/624/s1854/b], Nov. 28, 1990, [104 Stat. 3837][/us/stat/104/3837], and is classified to [section 494 of this title][/us/usc/t25/s494].
+    Another [section 6 of Pub. L. 91–229][/us/pl/91/229/s6] was added by [Pub. L. 101–624, title XVIII][/us/pl/101/624/tXVIII], § 1854(b), Nov. 28, 1990, [104 Stat. 3837][/us/stat/104/3837], and is classified to [section 494 of this title][/us/usc/t25/s494].
 
 ----------
 
@@ -61,14 +61,14 @@
 ----------
 
 [/us/usc/t7/s1983b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1983b
-[/us/pl/91/229/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F229%2Fs6
-[/us/pl/101/82/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F82%2Fs303
+[/us/pl/91/229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F229
+[/us/pl/101/82/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F82%2FtIII
 [/us/stat/103/583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F583
 [/us/usc/t7/s1983b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1983b
-[/us/pl/103/354/s281/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2Fs281%2Fc
+[/us/pl/103/354/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2FtII
 [/us/stat/108/3233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3233
 [/us/pl/91/229/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F229%2Fs6
-[/us/pl/101/624/s1854/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1854%2Fb
+[/us/pl/101/624/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXVIII
 [/us/stat/104/3837]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3837
 [/us/usc/t25/s494]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs494
 

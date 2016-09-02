@@ -17,7 +17,7 @@
 
     In any election heretofore or hereafter held under the Act of June 18, 1934 ([48 Stat. 984][/us/stat/48/984]) \[[25 U.S.C. 461][/us/usc/t25/s461] et seq.\], on the question of excluding a reservation from the application of the said Act or on the question of adopting a constitution and bylaws or amendments thereto or on the question of ratifying a charter, the vote of a majority of those actually voting shall be necessary and sufficient to effectuate such exclusion, adoption, or ratification, as the case may be: Provided, however, That in each instance the total vote cast shall not be less than 30 per centum of those entitled to vote.
 
-([June 15, 1935, ch. 260, § 1][/us/act/1935-06-15/ch260/s1], [49 Stat. 378][/us/stat/49/378].)
+([June 15, 1935, ch. 260][/us/act/1935-06-15/ch260], § 1, [49 Stat. 378][/us/stat/49/378].)
 
  __References in Text__ 
 
@@ -32,7 +32,7 @@
 
 [/us/stat/48/984]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F984
 [/us/usc/t25/s461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs461
-[/us/act/1935-06-15/ch260/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-06-15%2Fch260%2Fs1
+[/us/act/1935-06-15/ch260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-06-15%2Fch260
 [/us/stat/49/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F378
 [/us/usc/t25/s461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs461
 

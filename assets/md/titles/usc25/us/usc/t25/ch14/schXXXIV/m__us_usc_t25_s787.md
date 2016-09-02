@@ -17,7 +17,7 @@
 
     Funds that are deposited to the Creek Nation pursuant to sections 786 to 788 of this title, including interest and income therefrom, may be advanced or expended for any purpose that is authorized by the principal chief of the Creek Nation and the Secretary of the Interior.
 
-([Pub. L. 90–76, § 2][/us/pl/90/76/s2], Aug. 29, 1967, [81 Stat. 177][/us/stat/81/177].)
+([Pub. L. 90–76][/us/pl/90/76], § 2, Aug. 29, 1967, [81 Stat. 177][/us/stat/81/177].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/90/76/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F76%2Fs2
+[/us/pl/90/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F76
 [/us/stat/81/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F177
 
 

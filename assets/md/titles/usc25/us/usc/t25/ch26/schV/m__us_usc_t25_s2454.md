@@ -17,7 +17,7 @@
 
     The Secretary of the Interior, either directly or by contract, shall provide for the development of a Model Indian Juvenile Code which shall be consistent with the Juvenile Justice and Delinquency Prevention Act of 1974 \[[42 U.S.C. 5601][/us/usc/t42/s5601] et seq.\] and which shall include provisions relating to the disposition of cases involving Indian youth arrested or detained by Bureau of Indian Affairs or tribal law enforcement personnel for alcohol or drug related offenses. The development of such model code  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “Model Code”. </sup></sup>  shall be accomplished in cooperation with Indian organizations having an expertise or knowledge in the field of law enforcement and judicial procedure and in consultation with Indian tribes. Upon completion of the Model Code, the Secretary shall make copies available to each Indian tribe.
 
-([Pub. L. 99–570, title IV, § 4221][/us/pl/99/570/s4221], Oct. 27, 1986, [100 Stat. 3207–147][/us/stat/100/3207-147].)
+([Pub. L. 99–570, title IV][/us/pl/99/570/tIV], § 4221, Oct. 27, 1986, [100 Stat. 3207–147][/us/stat/100/3207-147].)
 
  __References in Text__ 
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t42/s5601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5601
-[/us/pl/99/570/s4221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs4221
+[/us/pl/99/570/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2FtIV
 [/us/stat/100/3207-147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3207-147
 [/us/pl/93/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F415
 [/us/stat/88/1109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1109

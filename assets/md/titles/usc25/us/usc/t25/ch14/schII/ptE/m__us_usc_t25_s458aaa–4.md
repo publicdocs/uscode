@@ -83,7 +83,7 @@
 
         At the option of an Indian tribe, a funding agreement may provide for a stable base budget specifying the recurring funds (including, for purposes of this provision, funds available under [section 450j–1(a) of this title][/us/usc/t25/s450j–1/a]) to be transferred to such Indian tribe, for such period as may be specified in the funding agreement, subject to annual adjustment only to reflect changes in congressional appropriations by sub-sub activity excluding earmarks.
 
-([Pub. L. 93–638, title V, § 505][/us/pl/93/638/s505], as added [Pub. L. 106–260, § 4][/us/pl/106/260/s4], Aug. 18, 2000, [114 Stat. 716][/us/stat/114/716].)
+([Pub. L. 93–638, title V][/us/pl/93/638/tV], § 505, as added [Pub. L. 106–260][/us/pl/106/260], § 4, Aug. 18, 2000, [114 Stat. 716][/us/stat/114/716].)
 
  __References in Text__ 
 
@@ -95,7 +95,7 @@
 
     The Indian Alcohol and Substance Abuse Prevention and Treatment Act of 1986, referred to in subsec. (b)(2)(E), is subtitle C of title IV of [Pub. L. 99–570][/us/pl/99/570], Oct. 27, 1986, [100 Stat. 3207–137][/us/stat/100/3207-137], as amended, which is classified generally to chapter 26 (§ 2401 et seq.) of this title. For complete classification of subtitle C to the Code, see Short Title note set out under [section 2401 of this title][/us/usc/t25/s2401] and Tables.
 
-    Title III, referred to in subsec. (f), means title III of [Pub. L. 93–638][/us/pl/93/638], as added by [Pub. L. 100–472, title II, § 209][/us/pl/100/472/s209], Oct. 5, 1988, [102 Stat. 2296][/us/stat/102/2296], and amended, which was set out as a note under [section 450f of this title][/us/usc/t25/s450f] prior to repeal by [Pub. L. 106–260, § 10][/us/pl/106/260/s10], Aug. 18, 2000, [114 Stat. 734][/us/stat/114/734].
+    Title III, referred to in subsec. (f), means title III of [Pub. L. 93–638][/us/pl/93/638], as added by [Pub. L. 100–472, title II][/us/pl/100/472/tII], § 209, Oct. 5, 1988, [102 Stat. 2296][/us/stat/102/2296], and amended, which was set out as a note under [section 450f of this title][/us/usc/t25/s450f] prior to repeal by [Pub. L. 106–260][/us/pl/106/260], § 10, Aug. 18, 2000, [114 Stat. 734][/us/stat/114/734].
 
 ----------
 
@@ -112,8 +112,8 @@
 [/us/usc/t25/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1601
 [/us/usc/t25/s2401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs2401
 [/us/usc/t25/s450j–1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450j%E2%80%931%2Fa
-[/us/pl/93/638/s505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638%2Fs505
-[/us/pl/106/260/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F260%2Fs4
+[/us/pl/93/638/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638%2FtV
+[/us/pl/106/260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F260
 [/us/stat/114/716]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F716
 [/us/act/1934-04-16/ch147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-04-16%2Fch147
 [/us/stat/48/596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F596
@@ -127,10 +127,10 @@
 [/us/stat/100/3207-137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3207-137
 [/us/usc/t25/s2401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs2401
 [/us/pl/93/638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638
-[/us/pl/100/472/s209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F472%2Fs209
+[/us/pl/100/472/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F472%2FtII
 [/us/stat/102/2296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2296
 [/us/usc/t25/s450f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450f
-[/us/pl/106/260/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F260%2Fs10
+[/us/pl/106/260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F260
 [/us/stat/114/734]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F734
 
 

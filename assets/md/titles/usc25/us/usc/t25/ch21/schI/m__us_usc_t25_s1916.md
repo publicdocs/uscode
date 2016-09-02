@@ -23,7 +23,7 @@
 
         Whenever an Indian child is removed from a foster care home or institution for the purpose of further foster care, preadoptive, or adoptive placement, such placement shall be in accordance with the provisions of this chapter, except in the case where an Indian child is being returned to the parent or Indian custodian from whose custody the child was originally removed.
 
-([Pub. L. 95–608, title I, § 106][/us/pl/95/608/s106], Nov. 8, 1978, [92 Stat. 3073][/us/stat/92/3073].)
+([Pub. L. 95–608, title I][/us/pl/95/608/tI], § 106, Nov. 8, 1978, [92 Stat. 3073][/us/stat/92/3073].)
 
 ----------
 
@@ -33,7 +33,7 @@
 ----------
 
 [/us/usc/t25/s1912]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1912
-[/us/pl/95/608/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F608%2Fs106
+[/us/pl/95/608/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F608%2FtI
 [/us/stat/92/3073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3073
 
 

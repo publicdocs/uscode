@@ -17,7 +17,7 @@
 
     Notwithstanding any provision of this part or any other provision of law, the Attorney General is authorized to negotiate and settle any action that may be or has been brought to contest the constitutionality or validity under law of the distribution to all other Sisseton and Wahpeton Sioux provided for in [section 1300d–4 of this title][/us/usc/t25/s1300d–4].
 
-([Pub. L. 92–555, title III, § 306][/us/pl/92/555/s306], as added [Pub. L. 102–497, § 17][/us/pl/102/497/s17], Oct. 24, 1992, [106 Stat. 3261][/us/stat/106/3261].)
+([Pub. L. 92–555, title III][/us/pl/92/555/tIII], § 306, as added [Pub. L. 102–497][/us/pl/102/497], § 17, Oct. 24, 1992, [106 Stat. 3261][/us/stat/106/3261].)
 
 ----------
 
@@ -27,8 +27,8 @@
 ----------
 
 [/us/usc/t25/s1300d–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1300d%E2%80%934
-[/us/pl/92/555/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F555%2Fs306
-[/us/pl/102/497/s17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F497%2Fs17
+[/us/pl/92/555/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F555%2FtIII
+[/us/pl/102/497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F497
 [/us/stat/106/3261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3261
 
 

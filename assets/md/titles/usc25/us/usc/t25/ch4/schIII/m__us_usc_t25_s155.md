@@ -17,11 +17,11 @@
 
     All miscellaneous revenues derived from Indian reservations, agencies, and schools, except those of the Five Civilized Tribes and not the result of the labor of any member of such tribe, which are not required by existing law to be otherwise disposed of, shall be covered into the Treasury of the United States under the caption “Indian moneys, proceeds of labor”, and are made available for expenditure, in the discretion of the Secretary of the Interior, for the benefit of the Indian tribes, agencies, and schools on whose behalf they are collected, subject, however, to the limitations as to tribal funds, imposed by sections 123 and 142  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title.
 
-([Mar. 3, 1883, ch. 141, § 2][/us/act/1883-03-03/ch141/s2], [22 Stat. 590][/us/stat/22/590]; [Mar. 2, 1887, ch. 320][/us/act/1887-03-02/ch320], [24 Stat. 463][/us/stat/24/463]; [May 17, 1926, ch. 309, § 1][/us/act/1926-05-17/ch309/s1], [44 Stat. 560][/us/stat/44/560]; [May 29, 1928, ch. 901, § 1(68)][/us/act/1928-05-29/ch901/s1/68], [45 Stat. 991][/us/stat/45/991].)
+([Mar. 3, 1883, ch. 141][/us/act/1883-03-03/ch141], § 2, [22 Stat. 590][/us/stat/22/590]; [Mar. 2, 1887, ch. 320][/us/act/1887-03-02/ch320], [24 Stat. 463][/us/stat/24/463]; [May 17, 1926, ch. 309][/us/act/1926-05-17/ch309], § 1, [44 Stat. 560][/us/stat/44/560]; [May 29, 1928, ch. 901][/us/act/1928-05-29/ch901], § 1(68), [45 Stat. 991][/us/stat/45/991].)
 
  __References in Text__ 
 
-    [Section 142 of this title][/us/usc/t25/s142], referred to in text, was repealed by [act May 29, 1928, ch. 901, § 1(87)][/us/act/1928-05-29/ch901/s1/87], [45 Stat. 992][/us/stat/45/992].
+    [Section 142 of this title][/us/usc/t25/s142], referred to in text, was repealed by [act May 29, 1928, ch. 901][/us/act/1928-05-29/ch901], § 1(87), [45 Stat. 992][/us/stat/45/992].
 
  __Repeals__ 
 
@@ -38,16 +38,16 @@
 ----------
 ----------
 
-[/us/act/1883-03-03/ch141/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1883-03-03%2Fch141%2Fs2
+[/us/act/1883-03-03/ch141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1883-03-03%2Fch141
 [/us/stat/22/590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F22%2F590
 [/us/act/1887-03-02/ch320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1887-03-02%2Fch320
 [/us/stat/24/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F24%2F463
-[/us/act/1926-05-17/ch309/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1926-05-17%2Fch309%2Fs1
+[/us/act/1926-05-17/ch309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1926-05-17%2Fch309
 [/us/stat/44/560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F560
-[/us/act/1928-05-29/ch901/s1/68]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-05-29%2Fch901%2Fs1%2F68
+[/us/act/1928-05-29/ch901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-05-29%2Fch901
 [/us/stat/45/991]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F45%2F991
 [/us/usc/t25/s142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs142
-[/us/act/1928-05-29/ch901/s1/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-05-29%2Fch901%2Fs1%2F87
+[/us/act/1928-05-29/ch901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-05-29%2Fch901
 [/us/stat/45/992]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F45%2F992
 [/us/stat/64/1262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1262
 

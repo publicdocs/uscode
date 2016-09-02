@@ -21,7 +21,7 @@
 
     (2) to satisfy the requirement for appraisal of that land.
 
-([Pub. L. 109–221, title II, § 203][/us/pl/109/221/s203], May 12, 2006, [120 Stat. 341][/us/stat/120/341].)
+([Pub. L. 109–221, title II][/us/pl/109/221/tII], § 203, May 12, 2006, [120 Stat. 341][/us/stat/120/341].)
 
 ----------
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t25/s488]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs488
-[/us/pl/109/221/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F221%2Fs203
+[/us/pl/109/221/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F221%2FtII
 [/us/stat/120/341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F341
 
 

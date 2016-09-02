@@ -43,7 +43,7 @@
 
         Any time periods prescribed in subsections (b) and (c) may be altered by written agreement between the Executive Committee and the Secretary.
 
-([Pub. L. 103–116, § 9][/us/pl/103/116/s9], Oct. 27, 1993, [107 Stat. 1125][/us/stat/107/1125].)
+([Pub. L. 103–116][/us/pl/103/116], § 9, Oct. 27, 1993, [107 Stat. 1125][/us/stat/107/1125].)
 
  __References in Text__ 
 
@@ -59,7 +59,7 @@
 ----------
 
 [/us/usc/t25/s461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs461
-[/us/pl/103/116/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F116%2Fs9
+[/us/pl/103/116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F116
 [/us/stat/107/1125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1125
 [/us/act/1934-06-18/ch576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-18%2Fch576
 [/us/stat/48/984]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F984

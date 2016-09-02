@@ -17,7 +17,7 @@
 
     Lands allotted in severalty to Indians may be condemned for any public purpose under the laws of the State or Territory where located in the same manner as land owned in fee may be condemned, and the money awarded as damages shall be paid to the allottee.
 
-([Mar. 3, 1901, ch. 832, § 3][/us/act/1901-03-03/ch832/s3], [31 Stat. 1084][/us/stat/31/1084].)
+([Mar. 3, 1901, ch. 832][/us/act/1901-03-03/ch832], § 3, [31 Stat. 1084][/us/stat/31/1084].)
 
  __Codification__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1901-03-03/ch832/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1901-03-03%2Fch832%2Fs3
+[/us/act/1901-03-03/ch832]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1901-03-03%2Fch832
 [/us/stat/31/1084]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F31%2F1084
 [/us/usc/t25/s319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs319
 

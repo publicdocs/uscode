@@ -23,7 +23,7 @@
 
         Any Indian owning a beneficial or restricted interest in mineral resources may include such resources in a tribal Minerals Agreement subject to the concurrence of the parties and a finding by the Secretary that such participation is in the best interest of the Indian.
 
-([Pub. L. 97–382, § 3][/us/pl/97/382/s3], Dec. 22, 1982, [96 Stat. 1938][/us/stat/96/1938].)
+([Pub. L. 97–382][/us/pl/97/382], § 3, Dec. 22, 1982, [96 Stat. 1938][/us/stat/96/1938].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/97/382/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F382%2Fs3
+[/us/pl/97/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F382
 [/us/stat/96/1938]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1938
 
 

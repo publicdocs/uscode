@@ -243,7 +243,7 @@
 
             (B) pursuant to a request of an Indian tribe or tribal organization.
 
-([Pub. L. 94–437, title III, § 301][/us/pl/94/437/s301], Sept. 30, 1976, [90 Stat. 1406][/us/stat/90/1406]; [Pub. L. 100–713, title III, § 301][/us/pl/100/713/s301], Nov. 23, 1988, [102 Stat. 4812][/us/stat/102/4812]; [Pub. L. 102–573, title III, § 301][/us/pl/102/573/s301], title IX, § 902(4)(B), Oct. 29, 1992, [106 Stat. 4560][/us/stat/106/4560], 4591; [Pub. L. 111–148, title X, § 10221(a)][/us/pl/111/148/s10221/a], Mar. 23, 2010, [124 Stat. 935][/us/stat/124/935].)
+([Pub. L. 94–437, title III][/us/pl/94/437/tIII], § 301, Sept. 30, 1976, [90 Stat. 1406][/us/stat/90/1406]; [Pub. L. 100–713, title III][/us/pl/100/713/tIII], § 301, Nov. 23, 1988, [102 Stat. 4812][/us/stat/102/4812]; [Pub. L. 102–573, title III][/us/pl/102/573/tIII], § 301, title IX, § 902(4)(B), Oct. 29, 1992, [106 Stat. 4560][/us/stat/106/4560], 4591; [Pub. L. 111–148, title X][/us/pl/111/148/tX], § 10221(a), Mar. 23, 2010, [124 Stat. 935][/us/stat/124/935].)
 
  __References in Text__ 
 
@@ -257,19 +257,19 @@
 
     2010—[Pub. L. 111–148][/us/pl/111/148] added subsecs. (c) to (f), redesignated former subsec. (d) as (h), added subsec. (g) at end, and struck out former subsec. (c) which related to annual report on health facility priority system.
 
-    1992—Subsec. (a)(2). [Pub. L. 102–573, § 301(1)][/us/pl/102/573/s301/1], substituted “Health Care Organizations” for “Hospitals”.
+    1992—Subsec. (a)(2). [Pub. L. 102–573][/us/pl/102/573], § 301(1), substituted “Health Care Organizations” for “Hospitals”.
 
-    Subsec. (b)(1). [Pub. L. 102–573, § 301(2)][/us/pl/102/573/s301/2], struck out “other” before “outpatient health care facility” in introductory provisions and added subpars. (F) and (G).
+    Subsec. (b)(1). [Pub. L. 102–573][/us/pl/102/573], § 301(2), struck out “other” before “outpatient health care facility” in introductory provisions and added subpars. (F) and (G).
 
-    Subsec. (c). [Pub. L. 102–573, § 301(3)][/us/pl/102/573/s301/3], redesignated subsec. (d) as (c) and struck out former subsec. (c) which read as follows: “The President shall include with the budget submitted under [section 1105 of title 31][/us/usc/t31/s1105], for each of the fiscal years 1990, 1991, and 1992, program information documents for the construction of 10 Indian health facilities which—
+    Subsec. (c). [Pub. L. 102–573][/us/pl/102/573], § 301(3), redesignated subsec. (d) as (c) and struck out former subsec. (c) which read as follows: “The President shall include with the budget submitted under [section 1105 of title 31][/us/usc/t31/s1105], for each of the fiscal years 1990, 1991, and 1992, program information documents for the construction of 10 Indian health facilities which—
 
     “(1) comply with applicable construction standards, and
 
     “(2) have been approved by the Secretary.”
 
-    Subsec. (c)(1). [Pub. L. 102–573, § 301(4)][/us/pl/102/573/s301/4], amended introductory provisions generally. Prior to amendment, introductory provisions read as follows: “The Secretary shall submit to the Congress an annual report which sets forth—”.
+    Subsec. (c)(1). [Pub. L. 102–573][/us/pl/102/573], § 301(4), amended introductory provisions generally. Prior to amendment, introductory provisions read as follows: “The Secretary shall submit to the Congress an annual report which sets forth—”.
 
-    Subsec. (c)(2) to (5). [Pub. L. 102–573, § 301(5)][/us/pl/102/573/s301/5], redesignated pars. (3) to (5) as (2) to (4), respectively, and struck out former par. (2) which read as follows: “The first report required under paragraph (1) shall be submitted by no later than the date that is 180 days after November 23, 1988, and, beginning in 1990, each subsequent annual report shall be submitted by the date that is 60 days after the date on which the President submits the budget to the Congress under [section 1105 of title 31][/us/usc/t31/s1105].”
+    Subsec. (c)(2) to (5). [Pub. L. 102–573][/us/pl/102/573], § 301(5), redesignated pars. (3) to (5) as (2) to (4), respectively, and struck out former par. (2) which read as follows: “The first report required under paragraph (1) shall be submitted by no later than the date that is 180 days after November 23, 1988, and, beginning in 1990, each subsequent annual report shall be submitted by the date that is 60 days after the date on which the President submits the budget to the Congress under [section 1105 of title 31][/us/usc/t31/s1105].”
 
     Subsecs. (d), (e). [Pub. L. 102–573][/us/pl/102/573], §§ 301(3), 902(4)(B), redesignated subsec. (e) as (d) and substituted “section 102 of the Indian Self-Determination Act” for “sections 102 and 103(b) of the Indian Self-Determination Act”. Former subsec. (d) redesignated (c).
 
@@ -293,13 +293,13 @@
 [/us/usc/t25/s450f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450f
 [/us/usc/t25/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs13
 [/us/usc/t25/s450f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450f
-[/us/pl/94/437/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437%2Fs301
+[/us/pl/94/437/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437%2FtIII
 [/us/stat/90/1406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1406
-[/us/pl/100/713/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F713%2Fs301
+[/us/pl/100/713/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F713%2FtIII
 [/us/stat/102/4812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4812
-[/us/pl/102/573/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2Fs301
+[/us/pl/102/573/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2FtIII
 [/us/stat/106/4560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4560
-[/us/pl/111/148/s10221/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10221%2Fa
+[/us/pl/111/148/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtX
 [/us/stat/124/935]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F935
 [/us/pl/93/638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638
 [/us/stat/88/2203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2203
@@ -307,12 +307,12 @@
 [/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 [/us/pl/111/148/s10221/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10221%2Fa
 [/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
-[/us/pl/102/573/s301/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2Fs301%2F1
-[/us/pl/102/573/s301/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2Fs301%2F2
-[/us/pl/102/573/s301/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2Fs301%2F3
+[/us/pl/102/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573
+[/us/pl/102/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573
+[/us/pl/102/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573
 [/us/usc/t31/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105
-[/us/pl/102/573/s301/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2Fs301%2F4
-[/us/pl/102/573/s301/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2Fs301%2F5
+[/us/pl/102/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573
+[/us/pl/102/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573
 [/us/usc/t31/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105
 [/us/pl/102/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573
 [/us/pl/100/713]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F713

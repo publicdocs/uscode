@@ -53,7 +53,7 @@
 
         Nothing in this section shall be construed as interfering with, or suspending the obligation of the Bureau for, the implementation of all legislative provisions enacted prior to April 28, 1988, specifically including those of [Public Law 98–192][/us/pl/98/192].
 
-([Pub. L. 95–471, title I, § 108][/us/pl/95/471/s108], formerly § 107, Oct. 17, 1978, [92 Stat. 1327][/us/stat/92/1327]; [Pub. L. 97–375, title I, § 108(c)][/us/pl/97/375/s108/c], Dec. 21, 1982, [96 Stat. 1820][/us/stat/96/1820]; renumbered § 108 and amended [Pub. L. 98–192][/us/pl/98/192], §§ 4(a)(1), 7, Dec. 1, 1983, [97 Stat. 1336][/us/stat/97/1336], 1337; [Pub. L. 99–428, § 4][/us/pl/99/428/s4], Sept. 30, 1986, [100 Stat. 983][/us/stat/100/983]; [Pub. L. 100–297, title V, § 5402(a)][/us/pl/100/297/s5402/a], Apr. 28, 1988, [102 Stat. 415][/us/stat/102/415]; [Pub. L. 100–427, § 24][/us/pl/100/427/s24], Sept. 9, 1988, [102 Stat. 1613][/us/stat/102/1613]; [Pub. L. 101–477, § 1(a)][/us/pl/101/477/s1/a], Oct. 30, 1990, [104 Stat. 1152][/us/stat/104/1152]; [Pub. L. 105–244, title IX, § 901(a)(1)][/us/pl/105/244/s901/a/1], (b)(5)–(7), Oct. 7, 1998, [112 Stat. 1827][/us/stat/112/1827], 1828; [Pub. L. 110–315, title IX, § 941(f)][/us/pl/110/315/s941/f], Aug. 14, 2008, [122 Stat. 3462][/us/stat/122/3462].)
+([Pub. L. 95–471, title I][/us/pl/95/471/tI], § 108, formerly § 107, Oct. 17, 1978, [92 Stat. 1327][/us/stat/92/1327]; [Pub. L. 97–375, title I][/us/pl/97/375/tI], § 108(c), Dec. 21, 1982, [96 Stat. 1820][/us/stat/96/1820]; renumbered § 108 and amended [Pub. L. 98–192][/us/pl/98/192], §§ 4(a)(1), 7, Dec. 1, 1983, [97 Stat. 1336][/us/stat/97/1336], 1337; [Pub. L. 99–428][/us/pl/99/428], § 4, Sept. 30, 1986, [100 Stat. 983][/us/stat/100/983]; [Pub. L. 100–297, title V][/us/pl/100/297/tV], § 5402(a), Apr. 28, 1988, [102 Stat. 415][/us/stat/102/415]; [Pub. L. 100–427][/us/pl/100/427], § 24, Sept. 9, 1988, [102 Stat. 1613][/us/stat/102/1613]; [Pub. L. 101–477][/us/pl/101/477], § 1(a), Oct. 30, 1990, [104 Stat. 1152][/us/stat/104/1152]; [Pub. L. 105–244, title IX][/us/pl/105/244/tIX], § 901(a)(1), (b)(5)–(7), Oct. 7, 1998, [112 Stat. 1827][/us/stat/112/1827], 1828; [Pub. L. 110–315, title IX][/us/pl/110/315/tIX], § 941(f), Aug. 14, 2008, [122 Stat. 3462][/us/stat/122/3462].)
 
  __References in Text__ 
 
@@ -63,17 +63,17 @@
 
     2008—Subsec. (a). [Pub. L. 110–315][/us/pl/110/315] inserted subsec. (a) and par. (1) headings, designated introductory provisions and pars. (1) and (2) as par. (1), redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), in introductory provisions, substituted “Except as provided in paragraph (2) and [section 1811 of this title][/us/usc/t25/s1811],” for “Except as provided in [section 1811 of this title][/us/usc/t25/s1811],”, “approved by the Secretary” for “approved by him”, and “product obtained by multiplying” for “product of”, in subpar. (A), substituted “[section 1801(a)(8) of this title][/us/usc/t25/s1801/a/8]” for “[section 1801(a)(7) of this title][/us/usc/t25/s1801/a/7]”, in subpar. (B), substituted “$8,000, as adjusted annually for inflation.” for “$6,000,”, added par. (2), and struck out former concluding provisions which read as follows: “except that no grant shall exceed the total cost of the education program provided by such college or university.”
 
-    1998—Subsec. (a). [Pub. L. 105–244, § 901(a)(1)][/us/pl/105/244/s901/a/1], (b)(5), (7), substituted “controlled college or university” for “controlled community college” in introductory provisions, “such college or university” for “such college” in par. (1) and concluding provisions, and “$6,000” for “$5,820” in par. (2).
+    1998—Subsec. (a). [Pub. L. 105–244][/us/pl/105/244], § 901(a)(1), (b)(5), (7), substituted “controlled college or university” for “controlled community college” in introductory provisions, “such college or university” for “such college” in par. (1) and concluding provisions, and “$6,000” for “$5,820” in par. (2).
 
-    Subsec. (b)(3), (4). [Pub. L. 105–244, § 901(b)(5)][/us/pl/105/244/s901/b/5], substituted “college or university” for “community college” wherever appearing.
+    Subsec. (b)(3), (4). [Pub. L. 105–244][/us/pl/105/244], § 901(b)(5), substituted “college or university” for “community college” wherever appearing.
 
-    Subsec. (c)(2). [Pub. L. 105–244, § 901(b)(6)][/us/pl/105/244/s901/b/6], substituted “colleges or universities” for “community colleges”.
+    Subsec. (c)(2). [Pub. L. 105–244][/us/pl/105/244], § 901(b)(6), substituted “colleges or universities” for “community colleges”.
 
-    1990—Subsec. (a)(1). [Pub. L. 101–477, § 1(a)(1)][/us/pl/101/477/s1/a/1], amended par. (1) generally. Prior to amendment, par. (1) read as follows: “the Indian student count at such college during such academic year, as determined by the Secretary in accordance with [section 1801(a)(7) of this title][/us/usc/t25/s1801/a/7]; and”.
+    1990—Subsec. (a)(1). [Pub. L. 101–477][/us/pl/101/477], § 1(a)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “the Indian student count at such college during such academic year, as determined by the Secretary in accordance with [section 1801(a)(7) of this title][/us/usc/t25/s1801/a/7]; and”.
 
-    Subsec. (b)(1). [Pub. L. 101–477, § 1(a)(2)][/us/pl/101/477/s1/a/2], amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The Secretary shall make payments, pursuant to grants under this subchapter, in advance installments of not less than 40 per centum of the funds available for allotment, based on anticipated or actual numbers of full-time equivalent Indian students or such other factors as determined by the Secretary. Adjustments for overpayments and underpayments shall be applied to the remainder of such funds and such remainder shall be delivered no later than July 1 of each year.”
+    Subsec. (b)(1). [Pub. L. 101–477][/us/pl/101/477], § 1(a)(2), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The Secretary shall make payments, pursuant to grants under this subchapter, in advance installments of not less than 40 per centum of the funds available for allotment, based on anticipated or actual numbers of full-time equivalent Indian students or such other factors as determined by the Secretary. Adjustments for overpayments and underpayments shall be applied to the remainder of such funds and such remainder shall be delivered no later than July 1 of each year.”
 
-    Subsecs. (c), (d). [Pub. L. 101–477, § 1(a)(3)][/us/pl/101/477/s1/a/3], redesignated subsec. (c), relating to construction of section, as (d).
+    Subsecs. (c), (d). [Pub. L. 101–477][/us/pl/101/477], § 1(a)(3), redesignated subsec. (c), relating to construction of section, as (d).
 
     1988—Subsec. (b). [Pub. L. 100–297][/us/pl/100/297] designated existing provisions as par. (1) and added pars. (2) to (4).
 
@@ -111,23 +111,23 @@
 [/us/usc/t25/s1811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1811
 [/us/usc/t25/s1801/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1801%2Fa%2F8
 [/us/pl/98/192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F192
-[/us/pl/95/471/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F471%2Fs108
+[/us/pl/95/471/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F471%2FtI
 [/us/stat/92/1327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1327
-[/us/pl/97/375/s108/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F375%2Fs108%2Fc
+[/us/pl/97/375/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F375%2FtI
 [/us/stat/96/1820]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1820
 [/us/pl/98/192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F192
 [/us/stat/97/1336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1336
-[/us/pl/99/428/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F428%2Fs4
+[/us/pl/99/428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F428
 [/us/stat/100/983]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F983
-[/us/pl/100/297/s5402/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297%2Fs5402%2Fa
+[/us/pl/100/297/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297%2FtV
 [/us/stat/102/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F415
-[/us/pl/100/427/s24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F427%2Fs24
+[/us/pl/100/427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F427
 [/us/stat/102/1613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1613
-[/us/pl/101/477/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F477%2Fs1%2Fa
+[/us/pl/101/477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F477
 [/us/stat/104/1152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1152
-[/us/pl/105/244/s901/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs901%2Fa%2F1
+[/us/pl/105/244/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtIX
 [/us/stat/112/1827]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1827
-[/us/pl/110/315/s941/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs941%2Ff
+[/us/pl/110/315/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtIX
 [/us/stat/122/3462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3462
 [/us/pl/98/192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F192
 [/us/pl/98/192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F192
@@ -139,13 +139,13 @@
 [/us/usc/t25/s1811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1811
 [/us/usc/t25/s1801/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1801%2Fa%2F8
 [/us/usc/t25/s1801/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1801%2Fa%2F7
-[/us/pl/105/244/s901/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs901%2Fa%2F1
-[/us/pl/105/244/s901/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs901%2Fb%2F5
-[/us/pl/105/244/s901/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs901%2Fb%2F6
-[/us/pl/101/477/s1/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F477%2Fs1%2Fa%2F1
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/101/477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F477
 [/us/usc/t25/s1801/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1801%2Fa%2F7
-[/us/pl/101/477/s1/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F477%2Fs1%2Fa%2F2
-[/us/pl/101/477/s1/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F477%2Fs1%2Fa%2F3
+[/us/pl/101/477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F477
+[/us/pl/101/477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F477
 [/us/pl/100/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297
 [/us/pl/100/427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F427
 [/us/pl/99/428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F428

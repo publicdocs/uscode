@@ -23,7 +23,7 @@
 
         Upon written request of the General Council, the Secretary shall conduct an election pursuant to section 16 of the Act approved on June 18, 1934 ([43 Stat. 987][/us/stat/43/987]; [25 U.S.C. 476][/us/usc/t25/s476]), for the purpose of adopting a new constitution for the tribe.
 
-([Pub. L. 99–398, § 4][/us/pl/99/398/s4], Aug. 27, 1986, [100 Stat. 850][/us/stat/100/850].)
+([Pub. L. 99–398][/us/pl/99/398], § 4, Aug. 27, 1986, [100 Stat. 850][/us/stat/100/850].)
 
  __References in Text__ 
 
@@ -40,7 +40,7 @@
 [/us/usc/t25/s478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs478
 [/us/stat/43/987]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F43%2F987
 [/us/usc/t25/s476]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs476
-[/us/pl/99/398/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F398%2Fs4
+[/us/pl/99/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F398
 [/us/stat/100/850]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F850
 [/us/usc/t25/s461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs461
 

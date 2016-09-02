@@ -43,7 +43,7 @@
 
         (2) The Secretary shall publish notice of such appropriation in the Federal Register when the funds are deposited in the fund established under [section 1754(a) of this title][/us/usc/t25/s1754/a].
 
-([Pub. L. 98–134, § 4][/us/pl/98/134/s4], Oct. 18, 1983, [97 Stat. 852][/us/stat/97/852].)
+([Pub. L. 98–134][/us/pl/98/134], § 4, Oct. 18, 1983, [97 Stat. 852][/us/stat/97/852].)
 
  __References in Text__ 
 
@@ -63,7 +63,7 @@
 [/us/stat/1/137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F1%2F137
 [/us/usc/t25/s1754/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1754%2Fe
 [/us/usc/t25/s1754/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1754%2Fa
-[/us/pl/98/134/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F134%2Fs4
+[/us/pl/98/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F134
 [/us/stat/97/852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F852
 [/us/stat/1/137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F1%2F137
 [/us/pl/98/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F134

@@ -93,11 +93,11 @@
 
         The general land acquisition regulations of the Bureau of Indian Affairs, contained in part 151 of title 25, Code of Federal Regulations, shall not apply to the acquisition of lands authorized by this section.
 
-([Pub. L. 103–116, § 12][/us/pl/103/116/s12], Oct. 27, 1993, [107 Stat. 1133][/us/stat/107/1133].)
+([Pub. L. 103–116][/us/pl/103/116], § 12, Oct. 27, 1993, [107 Stat. 1133][/us/stat/107/1133].)
 
  __Codification__ 
 
-    “Sections 3113 and 3114(a) to (d) of title 40” substituted in subsec. (e)(2) for “the first section of the Act of August 1, 1888 (ch. 728, [25 Stat. 357][/us/stat/25/357]; [40 U.S.C. 257][/us/usc/t40/s257]), and the first section of the Act of February 26, 1931 (ch. 307, [46 Stat. 1421][/us/stat/46/1421]; [40 U.S.C. 258a][/us/usc/t40/s258a])” on authority of [Pub. L. 107–217, § 5(c)][/us/pl/107/217/s5/c], Aug. 21, 2002, [116 Stat. 1303][/us/stat/116/1303], the first section of which enacted Title 40, Public Buildings, Property, and Works.
+    “Sections 3113 and 3114(a) to (d) of title 40” substituted in subsec. (e)(2) for “the first section of the Act of August 1, 1888 (ch. 728, [25 Stat. 357][/us/stat/25/357]; [40 U.S.C. 257][/us/usc/t40/s257]), and the first section of the Act of February 26, 1931 (ch. 307, [46 Stat. 1421][/us/stat/46/1421]; [40 U.S.C. 258a][/us/usc/t40/s258a])” on authority of [Pub. L. 107–217][/us/pl/107/217], § 5(c), Aug. 21, 2002, [116 Stat. 1303][/us/stat/116/1303], the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
 ----------
 
@@ -107,13 +107,13 @@
 ----------
 
 [/us/usc/t25/s415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs415
-[/us/pl/103/116/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F116%2Fs12
+[/us/pl/103/116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F116
 [/us/stat/107/1133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1133
 [/us/stat/25/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F25%2F357
 [/us/usc/t40/s257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs257
 [/us/stat/46/1421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F1421
 [/us/usc/t40/s258a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs258a
-[/us/pl/107/217/s5/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs5%2Fc
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1303
 
 

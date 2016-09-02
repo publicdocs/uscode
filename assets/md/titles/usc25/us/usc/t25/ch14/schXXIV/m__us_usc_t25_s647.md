@@ -17,7 +17,7 @@
 
     The unexpended balance of funds on deposit in the Treasury of the United States to the credit of the Hualapai Tribe of Indians that were appropriated to pay a judgment granted by the Indian Claims Commission in dockets Numbered 90 and 122, and the interest thereon, less payment of attorney fees and expenses, may be advanced, expended, invested or reinvested for any purpose that is authorized by the tribal governing body and approved by the Secretary of the Interior.
 
-([Pub. L. 91–400, § 1][/us/pl/91/400/s1], Sept. 16, 1970, [84 Stat. 838][/us/stat/84/838].)
+([Pub. L. 91–400][/us/pl/91/400], § 1, Sept. 16, 1970, [84 Stat. 838][/us/stat/84/838].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/91/400/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F400%2Fs1
+[/us/pl/91/400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F400
 [/us/stat/84/838]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F838
 
 

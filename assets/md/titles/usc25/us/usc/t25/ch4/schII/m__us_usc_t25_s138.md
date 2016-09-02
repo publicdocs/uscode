@@ -21,7 +21,7 @@
 
  __Codification__ 
 
-    R.S. § 2101 derived from [act Apr. 10, 1869, ch. 16, § 2][/us/act/1869-04-10/ch16/s2], [16 Stat. 39][/us/stat/16/39].
+    R.S. § 2101 derived from [act Apr. 10, 1869, ch. 16][/us/act/1869-04-10/ch16], § 2, [16 Stat. 39][/us/stat/16/39].
 
 ----------
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1869-04-10/ch16/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1869-04-10%2Fch16%2Fs2
+[/us/act/1869-04-10/ch16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1869-04-10%2Fch16
 [/us/stat/16/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F16%2F39
 
 

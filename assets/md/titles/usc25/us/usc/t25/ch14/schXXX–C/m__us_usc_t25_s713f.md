@@ -71,7 +71,7 @@
 
         (4) including any written comments or reports submitted to the Secretary by any party named in paragraph (2).
 
-([Pub. L. 98–165, § 8][/us/pl/98/165/s8], Nov. 22, 1983, [97 Stat. 1068][/us/stat/97/1068].)
+([Pub. L. 98–165][/us/pl/98/165], § 8, Nov. 22, 1983, [97 Stat. 1068][/us/stat/97/1068].)
 
  __References in Text__ 
 
@@ -79,7 +79,7 @@
 
  __Confederated Tribes of the Grand Ronde Community of Oregon Reservation__ 
 
-    [Pub. L. 100–425][/us/pl/100/425], Sept. 9, 1988, [102 Stat. 1594][/us/stat/102/1594], as amended by [Pub. L. 100–581, title II, § 202][/us/pl/100/581/s202], Nov. 1, 1988, [102 Stat. 2939][/us/stat/102/2939]; [Pub. L. 101–301, § 4][/us/pl/101/301/s4], May 24, 1990, [104 Stat. 207][/us/stat/104/207]; [Pub. L. 102–497, § 1][/us/pl/102/497/s1], Oct. 24, 1992, [106 Stat. 3255][/us/stat/106/3255]; [Pub. L. 103–263, § 5(a)][/us/pl/103/263/s5/a], May 31, 1994, [108 Stat. 708][/us/stat/108/708]; [Pub. L. 103–435, § 2][/us/pl/103/435/s2], Nov. 2, 1994, [108 Stat. 4566][/us/stat/108/4566]; [Pub. L. 105–256, § 2][/us/pl/105/256/s2], Oct. 14, 1998, [112 Stat. 1896][/us/stat/112/1896], established a reservation for Confederated Tribes of the Grand Ronde Community of Oregon, specifying hunting, fishing, and trapping rights and vesting civil and criminal jurisdiction in State of Oregon, directed treatment of certain lands as revested Oregon and California railroad grant lands, and provided economic development for the Tribes.
+    [Pub. L. 100–425][/us/pl/100/425], Sept. 9, 1988, [102 Stat. 1594][/us/stat/102/1594], as amended by [Pub. L. 100–581, title II][/us/pl/100/581/tII], § 202, Nov. 1, 1988, [102 Stat. 2939][/us/stat/102/2939]; [Pub. L. 101–301][/us/pl/101/301], § 4, May 24, 1990, [104 Stat. 207][/us/stat/104/207]; [Pub. L. 102–497][/us/pl/102/497], § 1, Oct. 24, 1992, [106 Stat. 3255][/us/stat/106/3255]; [Pub. L. 103–263][/us/pl/103/263], § 5(a), May 31, 1994, [108 Stat. 708][/us/stat/108/708]; [Pub. L. 103–435][/us/pl/103/435], § 2, Nov. 2, 1994, [108 Stat. 4566][/us/stat/108/4566]; [Pub. L. 105–256][/us/pl/105/256], § 2, Oct. 14, 1998, [112 Stat. 1896][/us/stat/112/1896], established a reservation for Confederated Tribes of the Grand Ronde Community of Oregon, specifying hunting, fishing, and trapping rights and vesting civil and criminal jurisdiction in State of Oregon, directed treatment of certain lands as revested Oregon and California railroad grant lands, and provided economic development for the Tribes.
 
 ----------
 
@@ -91,24 +91,24 @@
 [/us/usc/t18/s1162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1162
 [/us/usc/t28/s1360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1360
 [/us/usc/t43/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1701
-[/us/pl/98/165/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F165%2Fs8
+[/us/pl/98/165]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F165
 [/us/stat/97/1068]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1068
 [/us/pl/94/579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F579
 [/us/stat/90/2743]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2743
 [/us/usc/t43/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1701
 [/us/pl/100/425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F425
 [/us/stat/102/1594]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1594
-[/us/pl/100/581/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F581%2Fs202
+[/us/pl/100/581/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F581%2FtII
 [/us/stat/102/2939]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2939
-[/us/pl/101/301/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F301%2Fs4
+[/us/pl/101/301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F301
 [/us/stat/104/207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F207
-[/us/pl/102/497/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F497%2Fs1
+[/us/pl/102/497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F497
 [/us/stat/106/3255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3255
-[/us/pl/103/263/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F263%2Fs5%2Fa
+[/us/pl/103/263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F263
 [/us/stat/108/708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F708
-[/us/pl/103/435/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F435%2Fs2
+[/us/pl/103/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F435
 [/us/stat/108/4566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4566
-[/us/pl/105/256/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F256%2Fs2
+[/us/pl/105/256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F256
 [/us/stat/112/1896]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1896
 
 

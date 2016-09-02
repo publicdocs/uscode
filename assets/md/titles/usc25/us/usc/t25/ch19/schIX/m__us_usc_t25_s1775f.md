@@ -17,7 +17,7 @@
 
     Except as expressly provided in this subchapter, the State Agreement, or the Town Agreement, this subchapter shall constitute a general discharge and release of all obligations of the State of Connecticut and the political subdivisions, agencies, departments, officers, or employees of the State of Connecticut arising from any treaty or agreement with, or on behalf of, the Mohegan Tribe or the United States as trustee for the Mohegan Tribe.
 
-([Pub. L. 103–377, § 8][/us/pl/103/377/s8], Oct. 19, 1994, [108 Stat. 3505][/us/stat/108/3505].)
+([Pub. L. 103–377][/us/pl/103/377], § 8, Oct. 19, 1994, [108 Stat. 3505][/us/stat/108/3505].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/103/377/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F377%2Fs8
+[/us/pl/103/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F377
 [/us/stat/108/3505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3505
 
 

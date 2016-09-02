@@ -17,7 +17,7 @@
 
     Except as otherwise provided by this chapter, the Secretary shall promulgate final regulations for the implementation of this chapter within 24 months after December 3, 1993. All regulations promulgated pursuant to this chapter shall be developed by the Secretary with the participation of the affected Indian tribes.
 
-([Pub. L. 103–177, title III, § 301][/us/pl/103/177/s301], Dec. 3, 1993, [107 Stat. 2022][/us/stat/107/2022].)
+([Pub. L. 103–177, title III][/us/pl/103/177/tIII], § 301, Dec. 3, 1993, [107 Stat. 2022][/us/stat/107/2022].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/103/177/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F177%2Fs301
+[/us/pl/103/177/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F177%2FtIII
 [/us/stat/107/2022]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2022
 
 

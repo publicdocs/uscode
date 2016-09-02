@@ -41,7 +41,7 @@
 
         may be used to support a program of instruction relating to alcohol and substance abuse prevention and treatment.
 
-([Pub. L. 99–570, title IV, § 4212][/us/pl/99/570/s4212], Oct. 27, 1986, [100 Stat. 3207–144][/us/stat/100/3207-144]; [Pub. L. 100–690, title II, § 2206][/us/pl/100/690/s2206], Nov. 18, 1988, [102 Stat. 4218][/us/stat/102/4218]; [Pub. L. 102–573, title VII, § 703(4)][/us/pl/102/573/s703/4], Oct. 29, 1992, [106 Stat. 4583][/us/stat/106/4583]; [Pub. L. 111–211, title II, § 241(b)][/us/pl/111/211/s241/b], July 29, 2010, [124 Stat. 2289][/us/stat/124/2289].)
+([Pub. L. 99–570, title IV][/us/pl/99/570/tIV], § 4212, Oct. 27, 1986, [100 Stat. 3207–144][/us/stat/100/3207-144]; [Pub. L. 100–690, title II][/us/pl/100/690/tII], § 2206, Nov. 18, 1988, [102 Stat. 4218][/us/stat/102/4218]; [Pub. L. 102–573, title VII][/us/pl/102/573/tVII], § 703(4), Oct. 29, 1992, [106 Stat. 4583][/us/stat/106/4583]; [Pub. L. 111–211, title II][/us/pl/111/211/tII], § 241(b), July 29, 2010, [124 Stat. 2289][/us/stat/124/2289].)
 
  __References in Text__ 
 
@@ -51,13 +51,13 @@
 
     The Indian Education Assistance Act, referred to in subsec. (b)(1), is title II of [Pub. L. 93–638][/us/pl/93/638], Jan. 4, 1975, [88 Stat. 2213][/us/stat/88/2213], which enacted part C (§ 458a et seq.) of subchapter II of chapter 14 of this title, sections 455 to 457 of this title, and provisions set out as a note under [section 457 of this title][/us/usc/t25/s457]. For complete classification of this Act to the Code, see Short Title note set out under [section 450 of this title][/us/usc/t25/s450] and Tables.
 
-    The Indian Elementary and Secondary School Assistance Act, referred to in subsec. (b)(2), is title III of [act Sept. 30, 1950, ch. 1124][/us/act/1950-09-30/ch1124], as added by [Pub. L. 92–318, title IV, § 411(a)][/us/pl/92/318/s411/a], June 23, 1972, [86 Stat. 334][/us/stat/86/334], as amended, which was classified generally to subchapter III (§ 241aa et seq.) of chapter 13 of Title 20, Education, and was repealed by [Pub. L. 100–297, title V, § 5352(1)][/us/pl/100/297/s5352/1], Apr. 28, 1988, [102 Stat. 414][/us/stat/102/414].
+    The Indian Elementary and Secondary School Assistance Act, referred to in subsec. (b)(2), is title III of [act Sept. 30, 1950, ch. 1124][/us/act/1950-09-30/ch1124], as added by [Pub. L. 92–318, title IV][/us/pl/92/318/tIV], § 411(a), June 23, 1972, [86 Stat. 334][/us/stat/86/334], as amended, which was classified generally to subchapter III (§ 241aa et seq.) of chapter 13 of Title 20, Education, and was repealed by [Pub. L. 100–297, title V][/us/pl/100/297/tV], § 5352(1), Apr. 28, 1988, [102 Stat. 414][/us/stat/102/414].
 
-    The Indian Education Act, referred to in subsec. (b)(3), is title IV of [Pub. L. 92–318][/us/pl/92/318], June 23, 1972, [86 Stat. 334][/us/stat/86/334], as amended. [Section 3385 of Title 20][/us/usc/t20/s3385], which was enacted by section 421(a) of the Act, was repealed by [Pub. L. 100–297, title V, § 5352(2)][/us/pl/100/297/s5352/2], Apr. 28, 1988. For complete classification of this Act to the Code, see Tables.
+    The Indian Education Act, referred to in subsec. (b)(3), is title IV of [Pub. L. 92–318][/us/pl/92/318], June 23, 1972, [86 Stat. 334][/us/stat/86/334], as amended. [Section 3385 of Title 20][/us/usc/t20/s3385], which was enacted by section 421(a) of the Act, was repealed by [Pub. L. 100–297, title V][/us/pl/100/297/tV], § 5352(2), Apr. 28, 1988. For complete classification of this Act to the Code, see Tables.
 
  __Codification__ 
 
-    [Pub. L. 111–211, § 241(b)][/us/pl/111/211/s241/b], which directed amendment of “\[s\]ection 4212 of the Indian Alcohol and Substance Abuse Prevention Act of 1986”, was executed to this section, which is section 4212 of the Indian Alcohol and Substance Abuse Prevention and Treatment Act of 1986, to reflect the probable intent of Congress. See 2010 Amendment note below.
+    [Pub. L. 111–211][/us/pl/111/211], § 241(b), which directed amendment of “\[s\]ection 4212 of the Indian Alcohol and Substance Abuse Prevention Act of 1986”, was executed to this section, which is section 4212 of the Indian Alcohol and Substance Abuse Prevention and Treatment Act of 1986, to reflect the probable intent of Congress. See 2010 Amendment note below.
 
  __Amendments__ 
 
@@ -77,13 +77,13 @@
 [/us/usc/t25/s452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs452
 [/us/usc/t20/s241aa]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs241aa
 [/us/usc/t20/s3385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs3385
-[/us/pl/99/570/s4212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs4212
+[/us/pl/99/570/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2FtIV
 [/us/stat/100/3207-144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3207-144
-[/us/pl/100/690/s2206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs2206
+[/us/pl/100/690/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtII
 [/us/stat/102/4218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4218
-[/us/pl/102/573/s703/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2Fs703%2F4
+[/us/pl/102/573/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2FtVII
 [/us/stat/106/4583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4583
-[/us/pl/111/211/s241/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211%2Fs241%2Fb
+[/us/pl/111/211/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211%2FtII
 [/us/stat/124/2289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2289
 [/us/pl/99/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570
 [/us/stat/100/3207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3207
@@ -96,15 +96,15 @@
 [/us/usc/t25/s457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs457
 [/us/usc/t25/s450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450
 [/us/act/1950-09-30/ch1124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-30%2Fch1124
-[/us/pl/92/318/s411/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F318%2Fs411%2Fa
+[/us/pl/92/318/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F318%2FtIV
 [/us/stat/86/334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F334
-[/us/pl/100/297/s5352/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297%2Fs5352%2F1
+[/us/pl/100/297/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297%2FtV
 [/us/stat/102/414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F414
 [/us/pl/92/318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F318
 [/us/stat/86/334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F334
 [/us/usc/t20/s3385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs3385
-[/us/pl/100/297/s5352/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297%2Fs5352%2F2
-[/us/pl/111/211/s241/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211%2Fs241%2Fb
+[/us/pl/100/297/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297%2FtV
+[/us/pl/111/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211
 [/us/pl/111/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211
 [/us/pl/102/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573
 [/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690

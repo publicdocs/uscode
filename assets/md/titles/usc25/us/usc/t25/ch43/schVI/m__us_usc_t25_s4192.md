@@ -39,7 +39,7 @@
 
         The full faith and credit of the United States is pledged to the payment of all guarantees made under this subchapter. Any such guarantee made by the Secretary shall be conclusive evidence of the eligibility of the obligations for such guarantee with respect to principal and interest, and the validity of any such guarantee so made shall be incontestable in the hands of a holder of the guaranteed obligations.
 
-([Pub. L. 104–330, title VI, § 602][/us/pl/104/330/s602], Oct. 26, 1996, [110 Stat. 4046][/us/stat/110/4046].)
+([Pub. L. 104–330, title VI][/us/pl/104/330/tVI], § 602, Oct. 26, 1996, [110 Stat. 4046][/us/stat/110/4046].)
 
  __References in Text__ 
 
@@ -57,7 +57,7 @@
 ----------
 
 [/us/usc/t25/s4133/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs4133%2Fb
-[/us/pl/104/330/s602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330%2Fs602
+[/us/pl/104/330/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330%2FtVI
 [/us/stat/110/4046]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F4046
 [/us/pl/104/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330
 [/us/stat/110/4016]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F4016

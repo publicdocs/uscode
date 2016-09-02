@@ -17,7 +17,7 @@
 
     After the deduction of attorney fees, litigation expenses, the costs of roll preparation, and such sums as may be required to distribute individual shares, the funds, including interest, remaining to the credit of the Nooksack Tribe, which were appropriated by the Act of April 30, 1965 ([Public Law 89–16][/us/pl/89/16]), shall be distributed in equal shares to those persons whose names appear on the roll prepared in accordance with [section 1101 of this title][/us/usc/t25/s1101].
 
-([Pub. L. 89–656, § 2][/us/pl/89/656/s2], Oct. 14, 1966, [80 Stat. 906][/us/stat/80/906].)
+([Pub. L. 89–656][/us/pl/89/656], § 2, Oct. 14, 1966, [80 Stat. 906][/us/stat/80/906].)
 
  __References in Text__ 
 
@@ -32,7 +32,7 @@
 
 [/us/pl/89/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F16
 [/us/usc/t25/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1101
-[/us/pl/89/656/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F656%2Fs2
+[/us/pl/89/656]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F656
 [/us/stat/80/906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F906
 [/us/pl/89/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F16
 [/us/stat/79/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F92

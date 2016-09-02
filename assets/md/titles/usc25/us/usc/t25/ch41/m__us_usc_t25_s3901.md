@@ -41,11 +41,11 @@
 
         (3) provide financial and technical assistance to Indian tribal governments and Alaska Native entities, either directly or by contract, to close such dumps in compliance with applicable Federal standards and regulations, or standards promulgated by an Indian tribal government or Alaska Native entity, if such standards are more stringent than the Federal standards.
 
-([Pub. L. 103–399, § 2][/us/pl/103/399/s2], Oct. 22, 1994, [108 Stat. 4164][/us/stat/108/4164].)
+([Pub. L. 103–399][/us/pl/103/399], § 2, Oct. 22, 1994, [108 Stat. 4164][/us/stat/108/4164].)
 
  __Short Title__ 
 
-[Pub. L. 103–399, § 1][/us/pl/103/399/s1], Oct. 22, 1994, [108 Stat. 4164][/us/stat/108/4164], provided that: 
+[Pub. L. 103–399][/us/pl/103/399], § 1, Oct. 22, 1994, [108 Stat. 4164][/us/stat/108/4164], provided that: 
 
 > “This Act \[enacting this chapter\] may be cited as the ‘Indian Lands Open Dump Cleanup Act of 1994’.”
 
@@ -56,9 +56,9 @@
 ----------
 ----------
 
-[/us/pl/103/399/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F399%2Fs2
+[/us/pl/103/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F399
 [/us/stat/108/4164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4164
-[/us/pl/103/399/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F399%2Fs1
+[/us/pl/103/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F399
 [/us/stat/108/4164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4164
 
 

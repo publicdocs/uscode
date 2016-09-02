@@ -17,7 +17,7 @@
 
     The Secretary of the Interior is authorized to prescribe rules and regulations to carry out the provisions of this part, including the establishment of deadlines.
 
-([Pub. L. 92–555, title III, § 305][/us/pl/92/555/s305], Oct. 25, 1972, [86 Stat. 1170][/us/stat/86/1170].)
+([Pub. L. 92–555, title III][/us/pl/92/555/tIII], § 305, Oct. 25, 1972, [86 Stat. 1170][/us/stat/86/1170].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/92/555/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F555%2Fs305
+[/us/pl/92/555/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F555%2FtIII
 [/us/stat/86/1170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1170
 
 

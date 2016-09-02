@@ -43,7 +43,7 @@
 
  __Effective Date__ 
 
-[Act July 8, 1940, ch. 555, § 3][/us/act/1940-07-08/ch555/s3], [54 Stat. 746][/us/stat/54/746], provided that: 
+[Act July 8, 1940, ch. 555][/us/act/1940-07-08/ch555], § 3, [54 Stat. 746][/us/stat/54/746], provided that: 
 
 > “This Act shall become effective six months after the date of its approval \[July 8, 1940\].”
 
@@ -60,7 +60,7 @@
 
 [/us/act/1940-07-08/ch555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-07-08%2Fch555
 [/us/stat/54/746]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F746
-[/us/act/1940-07-08/ch555/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-07-08%2Fch555%2Fs3
+[/us/act/1940-07-08/ch555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-07-08%2Fch555
 [/us/stat/54/746]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F746
 [/us/stat/64/1262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1262
 

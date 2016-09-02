@@ -45,7 +45,7 @@
 
         Any funds received by an urban Indian organization under this chapter for substance abuse prevention, treatment, and rehabilitation shall be subject to the criteria set forth in subsection (c).
 
-([Pub. L. 94–437, title V, § 511][/us/pl/94/437/s511], as added [Pub. L. 102–573, title V, § 502][/us/pl/102/573/s502], Oct. 29, 1992, [106 Stat. 4569][/us/stat/106/4569].)
+([Pub. L. 94–437, title V][/us/pl/94/437/tV], § 511, as added [Pub. L. 102–573, title V][/us/pl/102/573/tV], § 502, Oct. 29, 1992, [106 Stat. 4569][/us/stat/106/4569].)
 
  __References in Text__ 
 
@@ -63,8 +63,8 @@
 ----------
 
 [/us/usc/t25/s1621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1621
-[/us/pl/94/437/s511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437%2Fs511
-[/us/pl/102/573/s502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2Fs502
+[/us/pl/94/437/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437%2FtV
+[/us/pl/102/573/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2FtV
 [/us/stat/106/4569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4569
 [/us/pl/94/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437
 [/us/stat/90/1400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1400

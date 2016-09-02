@@ -21,7 +21,7 @@
 
  __Codification__ 
 
-    R.S. § 2096 derived from [act Jan. 9, 1837, ch. 1, § 4][/us/act/1837-01-09/ch1/s4], [5 Stat. 135][/us/stat/5/135].
+    R.S. § 2096 derived from [act Jan. 9, 1837, ch. 1][/us/act/1837-01-09/ch1], § 4, [5 Stat. 135][/us/stat/5/135].
 
  __Transfer of Functions__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/act/1837-01-09/ch1/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1837-01-09%2Fch1%2Fs4
+[/us/act/1837-01-09/ch1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1837-01-09%2Fch1
 [/us/stat/5/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F5%2F135
 [/us/stat/64/1262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1262
 

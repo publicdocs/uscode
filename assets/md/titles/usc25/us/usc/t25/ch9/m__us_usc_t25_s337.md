@@ -17,7 +17,7 @@
 
     The Secretary of the Interior is authorized, in his discretion, to make allotments within the national forests in conformity with the general allotment laws, to any Indian occupying, living on, or having improvements on land included within any such national forest who is not entitled to an allotment on any existing Indian reservation, or for whose tribe no reservation has been provided, or whose reservation was not sufficient to afford an allotment to each member thereof. All applications for allotments under the provisions of this section shall be submitted to the Secretary of Agriculture who shall determine whether the lands applied for are more valuable for agricultural or grazing purposes than for the timber found thereon; and if it be found that the lands applied for are more valuable for agricultural or grazing purposes, then the Secretary of the Interior shall cause allotment to be made as herein provided.
 
-([June 25, 1910, ch. 431, § 31][/us/act/1910-06-25/ch431/s31], [36 Stat. 863][/us/stat/36/863].)
+([June 25, 1910, ch. 431][/us/act/1910-06-25/ch431], § 31, [36 Stat. 863][/us/stat/36/863].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1910-06-25/ch431/s31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1910-06-25%2Fch431%2Fs31
+[/us/act/1910-06-25/ch431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1910-06-25%2Fch431
 [/us/stat/36/863]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F863
 
 

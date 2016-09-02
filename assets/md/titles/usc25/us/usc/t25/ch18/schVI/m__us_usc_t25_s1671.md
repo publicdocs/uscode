@@ -45,35 +45,35 @@
 
     (9) for fiscal year 1999, the reports required by sections 1637(h)(2),2 1660b(b),2 1665j(f),2 and 1680k(g) 2 of this title.
 
-([Pub. L. 94–437, title VIII, § 801][/us/pl/94/437/s801], formerly title VII, § 701, Sept. 30, 1976, [90 Stat. 1413][/us/stat/90/1413]; renumbered title VIII, § 801, and amended [Pub. L. 102–573, title VII, § 701(a)][/us/pl/102/573/s701/a], (b), title VIII, § 801, Oct. 29, 1992, [106 Stat. 4572][/us/stat/106/4572], 4584.)
+([Pub. L. 94–437, title VIII][/us/pl/94/437/tVIII], § 801, formerly title VII, § 701, Sept. 30, 1976, [90 Stat. 1413][/us/stat/90/1413]; renumbered title VIII, § 801, and amended [Pub. L. 102–573, title VII][/us/pl/102/573/tVII], § 701(a), (b), title VIII, § 801, Oct. 29, 1992, [106 Stat. 4572][/us/stat/106/4572], 4584.)
 
  __References in Text__ 
 
-    [Section 1602 of this title][/us/usc/t25/s1602], referred to in par. (6), was amended generally by [Pub. L. 111–148, title X, § 10221(a)][/us/pl/111/148/s10221/a], Mar. 23, 2010, [124 Stat. 935][/us/stat/124/935], and, as so amended, no longer contains a subsec. (d).
+    [Section 1602 of this title][/us/usc/t25/s1602], referred to in par. (6), was amended generally by [Pub. L. 111–148, title X][/us/pl/111/148/tX], § 10221(a), Mar. 23, 2010, [124 Stat. 935][/us/stat/124/935], and, as so amended, no longer contains a subsec. (d).
 
-    [Section 1665g of this title][/us/usc/t25/s1665g], referred to in par. (6), was omitted and a new section 1665g was enacted in the general amendment of subchapter V–A by [Pub. L. 111–148, title X, § 10221(a)][/us/pl/111/148/s10221/a], Mar. 23, 2010, [124 Stat. 935][/us/stat/124/935]. Subsec. (e) of the new section 1665g does not relate to reporting requirements.
+    [Section 1665g of this title][/us/usc/t25/s1665g], referred to in par. (6), was omitted and a new section 1665g was enacted in the general amendment of subchapter V–A by [Pub. L. 111–148, title X][/us/pl/111/148/tX], § 10221(a), Mar. 23, 2010, [124 Stat. 935][/us/stat/124/935]. Subsec. (e) of the new section 1665g does not relate to reporting requirements.
 
-    Section 1680l of this title, referred to in par. (6), was amended generally by [Pub. L. 111–148, title X, § 10221(a)][/us/pl/111/148/s10221/a], Mar. 23, 2010, [124 Stat. 935][/us/stat/124/935], and, as so amended, no longer contains a subsec. (f).
+    Section 1680l of this title, referred to in par. (6), was amended generally by [Pub. L. 111–148, title X][/us/pl/111/148/tX], § 10221(a), Mar. 23, 2010, [124 Stat. 935][/us/stat/124/935], and, as so amended, no longer contains a subsec. (f).
 
-    [Section 1665a of this title][/us/usc/t25/s1665a], referred to in par. (7), was omitted and a new section 1665a was enacted in the general amendment of subchapter V–A by [Pub. L. 111–148, title X, § 10221(a)][/us/pl/111/148/s10221/a], Mar. 23, 2010, [124 Stat. 935][/us/stat/124/935]. Subsec. (c)(3) of the new section 1665a does not relate to reporting requirements.
+    [Section 1665a of this title][/us/usc/t25/s1665a], referred to in par. (7), was omitted and a new section 1665a was enacted in the general amendment of subchapter V–A by [Pub. L. 111–148, title X][/us/pl/111/148/tX], § 10221(a), Mar. 23, 2010, [124 Stat. 935][/us/stat/124/935]. Subsec. (c)(3) of the new section 1665a does not relate to reporting requirements.
 
-    Section 1665l of this title, referred to in par. (7), was omitted and a new section 1665l was enacted in the general amendment of subchapter V–A by [Pub. L. 111–148, title X, § 10221(a)][/us/pl/111/148/s10221/a], Mar. 23, 2010, [124 Stat. 935][/us/stat/124/935]. The new section 1665l does not contain provisions relating to reporting requirements.
+    Section 1665l of this title, referred to in par. (7), was omitted and a new section 1665l was enacted in the general amendment of subchapter V–A by [Pub. L. 111–148, title X][/us/pl/111/148/tX], § 10221(a), Mar. 23, 2010, [124 Stat. 935][/us/stat/124/935]. The new section 1665l does not contain provisions relating to reporting requirements.
 
-    [Section 1637 of this title][/us/usc/t25/s1637], referred to in pars. (8) and (9), was amended generally by [Pub. L. 111–148, title X, § 10221(a)][/us/pl/111/148/s10221/a], Mar. 23, 2010, [124 Stat. 935][/us/stat/124/935], and, as so amended, no longer contains a subsec. (h).
+    [Section 1637 of this title][/us/usc/t25/s1637], referred to in pars. (8) and (9), was amended generally by [Pub. L. 111–148, title X][/us/pl/111/148/tX], § 10221(a), Mar. 23, 2010, [124 Stat. 935][/us/stat/124/935], and, as so amended, no longer contains a subsec. (h).
 
-    [Section 1660b of this title][/us/usc/t25/s1660b], referred to in par. (9), was amended generally by [Pub. L. 111–148, title X, § 10221(a)][/us/pl/111/148/s10221/a], Mar. 23, 2010, [124 Stat. 935][/us/stat/124/935], and, as so amended, no longer contains a subsec. (b).
+    [Section 1660b of this title][/us/usc/t25/s1660b], referred to in par. (9), was amended generally by [Pub. L. 111–148, title X][/us/pl/111/148/tX], § 10221(a), Mar. 23, 2010, [124 Stat. 935][/us/stat/124/935], and, as so amended, no longer contains a subsec. (b).
 
-    [Section 1665j of this title][/us/usc/t25/s1665j], referred to in par. (9), was omitted and a new section 1665j was enacted in the general amendment of subchapter V–A by [Pub. L. 111–148, title X, § 10221(a)][/us/pl/111/148/s10221/a], Mar. 23, 2010, [124 Stat. 935][/us/stat/124/935]. The new section 1665j does not contain a subsec. (f).
+    [Section 1665j of this title][/us/usc/t25/s1665j], referred to in par. (9), was omitted and a new section 1665j was enacted in the general amendment of subchapter V–A by [Pub. L. 111–148, title X][/us/pl/111/148/tX], § 10221(a), Mar. 23, 2010, [124 Stat. 935][/us/stat/124/935]. The new section 1665j does not contain a subsec. (f).
 
-    [Section 1680k of this title][/us/usc/t25/s1680k], referred to in par. (9), was repealed by [Pub. L. 111–148, title X, § 10221(a)][/us/pl/111/148/s10221/a], Mar. 23, 2010, [124 Stat. 935][/us/stat/124/935].
+    [Section 1680k of this title][/us/usc/t25/s1680k], referred to in par. (9), was repealed by [Pub. L. 111–148, title X][/us/pl/111/148/tX], § 10221(a), Mar. 23, 2010, [124 Stat. 935][/us/stat/124/935].
 
  __Amendments__ 
 
-    1992—[Pub. L. 102–573, § 801][/us/pl/102/573/s801], amended section generally. Prior to amendment, section read as follows: “The Secretary shall report annually to the President and the Congress on progress made in effecting the purposes of this chapter. Within three months after the end of fiscal year 1979, the Secretary shall review expenditures and progress made under this chapter and make recommendations to the Congress concerning any additional authorizations for fiscal years 1981 through 1984 for programs authorized under this chapter which he deems appropriate. In the event the Congress enacts legislation authorizing appropriations for programs under this chapter for fiscal years 1981 through 1984, within three months after the end of fiscal year 1983, the Secretary shall review programs established or assisted pursuant to this chapter and shall submit to the Congress his assessment and recommendations of additional programs or additional assistance necessary to, at a minimum, provide health services to Indians, and insure a health status for Indians, which are at a parity with the health services available to, and the health status, of the general population.”
+    1992—[Pub. L. 102–573][/us/pl/102/573], § 801, amended section generally. Prior to amendment, section read as follows: “The Secretary shall report annually to the President and the Congress on progress made in effecting the purposes of this chapter. Within three months after the end of fiscal year 1979, the Secretary shall review expenditures and progress made under this chapter and make recommendations to the Congress concerning any additional authorizations for fiscal years 1981 through 1984 for programs authorized under this chapter which he deems appropriate. In the event the Congress enacts legislation authorizing appropriations for programs under this chapter for fiscal years 1981 through 1984, within three months after the end of fiscal year 1983, the Secretary shall review programs established or assisted pursuant to this chapter and shall submit to the Congress his assessment and recommendations of additional programs or additional assistance necessary to, at a minimum, provide health services to Indians, and insure a health status for Indians, which are at a parity with the health services available to, and the health status, of the general population.”
 
  __Commission on Indian and Native Alaskan Health Care__ 
 
-[Pub. L. 106–310, div. B, title XXXIII, § 3307][/us/pl/106/310/s3307], Oct. 17, 2000, [114 Stat. 1216][/us/stat/114/1216], provided that:
+[Pub. L. 106–310, div. B, title XXXIII][/us/pl/106/310/dB/tXXXIII], § 3307, Oct. 17, 2000, [114 Stat. 1216][/us/stat/114/1216], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -203,7 +203,7 @@
 
  __References to Sections 701 to 720 of__  __[__  __Public Law 94–437__  __][/us/pl/94/437]__ 
 
-[Pub. L. 102–573, title VII, § 701(d)][/us/pl/102/573/s701/d], Oct. 29, 1992, [106 Stat. 4572][/us/stat/106/4572], provided that: 
+[Pub. L. 102–573, title VII][/us/pl/102/573/tVII], § 701(d), Oct. 29, 1992, [106 Stat. 4572][/us/stat/106/4572], provided that: 
 
 > “Any reference in a provision of law other than the Indian Health Care Improvement Act \[[25 U.S.C. 1601][/us/usc/t25/s1601] et seq.\] to sections redesignated by subsection (b) \[renumbering sections 701 to 720 of [Pub. L. 94–437][/us/pl/94/437] as sections 801 to 820 of [Pub. L. 94–437][/us/pl/94/437], which are classified to sections 1671 to 1680j of this title\] shall be deemed to refer to the section as so redesignated.”
 
@@ -217,43 +217,43 @@
 [/us/usc/t31/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105
 [/us/usc/t25/s1621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1621
 [/us/usc/t25/s1680d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1680d
-[/us/pl/94/437/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437%2Fs801
+[/us/pl/94/437/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437%2FtVIII
 [/us/stat/90/1413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1413
-[/us/pl/102/573/s701/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2Fs701%2Fa
+[/us/pl/102/573/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2FtVII
 [/us/stat/106/4572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4572
 [/us/usc/t25/s1602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1602
-[/us/pl/111/148/s10221/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10221%2Fa
+[/us/pl/111/148/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtX
 [/us/stat/124/935]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F935
 [/us/usc/t25/s1665g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1665g
-[/us/pl/111/148/s10221/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10221%2Fa
+[/us/pl/111/148/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtX
 [/us/stat/124/935]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F935
-[/us/pl/111/148/s10221/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10221%2Fa
+[/us/pl/111/148/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtX
 [/us/stat/124/935]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F935
 [/us/usc/t25/s1665a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1665a
-[/us/pl/111/148/s10221/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10221%2Fa
+[/us/pl/111/148/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtX
 [/us/stat/124/935]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F935
-[/us/pl/111/148/s10221/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10221%2Fa
+[/us/pl/111/148/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtX
 [/us/stat/124/935]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F935
 [/us/usc/t25/s1637]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1637
-[/us/pl/111/148/s10221/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10221%2Fa
+[/us/pl/111/148/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtX
 [/us/stat/124/935]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F935
 [/us/usc/t25/s1660b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1660b
-[/us/pl/111/148/s10221/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10221%2Fa
+[/us/pl/111/148/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtX
 [/us/stat/124/935]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F935
 [/us/usc/t25/s1665j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1665j
-[/us/pl/111/148/s10221/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10221%2Fa
+[/us/pl/111/148/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtX
 [/us/stat/124/935]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F935
 [/us/usc/t25/s1680k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1680k
-[/us/pl/111/148/s10221/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10221%2Fa
+[/us/pl/111/148/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtX
 [/us/stat/124/935]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F935
-[/us/pl/102/573/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2Fs801
-[/us/pl/106/310/s3307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs3307
+[/us/pl/102/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573
+[/us/pl/106/310/dB/tXXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2FdB%2FtXXXIII
 [/us/stat/114/1216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1216
 [/us/usc/t5/s5315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5315
 [/us/usc/t5/s5703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5703
 [/us/usc/t5/s3109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3109
 [/us/pl/94/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437
-[/us/pl/102/573/s701/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2Fs701%2Fd
+[/us/pl/102/573/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2FtVII
 [/us/stat/106/4572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4572
 [/us/usc/t25/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1601
 [/us/pl/94/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437

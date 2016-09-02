@@ -29,7 +29,7 @@
 
     (6) diminish the trust responsibility of the United States to Indian tribal governments and tribal justice systems of such governments.
 
-([Pub. L. 106–559, title I, § 105][/us/pl/106/559/s105], Dec. 21, 2000, [114 Stat. 2781][/us/stat/114/2781].)
+([Pub. L. 106–559, title I][/us/pl/106/559/tI], § 105, Dec. 21, 2000, [114 Stat. 2781][/us/stat/114/2781].)
 
 ----------
 
@@ -38,7 +38,7 @@
 ----------
 ----------
 
-[/us/pl/106/559/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F559%2Fs105
+[/us/pl/106/559/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F559%2FtI
 [/us/stat/114/2781]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2781
 
 

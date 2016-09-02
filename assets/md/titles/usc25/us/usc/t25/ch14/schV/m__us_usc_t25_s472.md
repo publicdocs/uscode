@@ -17,7 +17,7 @@
 
     The Secretary of the Interior is directed to establish standards of health, age, character, experience, knowledge, and ability for Indians who may be appointed, without regard to civil-service laws, to the various positions maintained, now or hereafter, by the Indian Office, in the administration of functions or services affecting any Indian tribe. Such qualified Indians shall hereafter have the preference to appointment to vacancies in any such positions.
 
-([June 18, 1934, ch. 576, § 12][/us/act/1934-06-18/ch576/s12], [48 Stat. 986][/us/stat/48/986].)
+([June 18, 1934, ch. 576][/us/act/1934-06-18/ch576], § 12, [48 Stat. 986][/us/stat/48/986].)
 
  __Transfer of Functions__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/act/1934-06-18/ch576/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-18%2Fch576%2Fs12
+[/us/act/1934-06-18/ch576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-18%2Fch576
 [/us/stat/48/986]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F986
 [/us/stat/64/1262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1262
 [/us/usc/t25/s450i/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450i%2Fm

@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Section, [act May 17, 1926, ch. 309, § 1][/us/act/1926-05-17/ch309/s1], [44 Stat. 560][/us/stat/44/560], which related to disposal of miscellaneous revenues from Indian reservations, was merged into [section 155 of this title][/us/usc/t25/s155].
+    Section, [act May 17, 1926, ch. 309][/us/act/1926-05-17/ch309], § 1, [44 Stat. 560][/us/stat/44/560], which related to disposal of miscellaneous revenues from Indian reservations, was merged into [section 155 of this title][/us/usc/t25/s155].
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1926-05-17/ch309/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1926-05-17%2Fch309%2Fs1
+[/us/act/1926-05-17/ch309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1926-05-17%2Fch309
 [/us/stat/44/560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F560
 [/us/usc/t25/s155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs155
 

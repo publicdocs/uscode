@@ -17,7 +17,7 @@
 
     The Secretary shall, beginning one year after October 25, 1994, submit an annual report to the Committee on Natural Resources of the House of Representatives and the Committee on Indian Affairs of the Senate on the implementation of programs under this subchapter. Such report shall include recommendations (if any) for changes necessary to better implement the purpose of this subchapter.
 
-([Pub. L. 103–412, title II, § 208][/us/pl/103/412/s208], Oct. 25, 1994, [108 Stat. 4243][/us/stat/108/4243].)
+([Pub. L. 103–412, title II][/us/pl/103/412/tII], § 208, Oct. 25, 1994, [108 Stat. 4243][/us/stat/108/4243].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/103/412/s208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F412%2Fs208
+[/us/pl/103/412/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F412%2FtII
 [/us/stat/108/4243]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4243
 
 

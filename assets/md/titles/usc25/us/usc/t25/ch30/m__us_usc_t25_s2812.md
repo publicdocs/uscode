@@ -277,7 +277,7 @@
 
         The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the Commission.
 
-([Pub. L. 101–379, § 15][/us/pl/101/379/s15], as added [Pub. L. 111–211, title II, § 235][/us/pl/111/211/s235], July 29, 2010, [124 Stat. 2282][/us/stat/124/2282]; amended [Pub. L. 113–4, title IX, § 909(a)][/us/pl/113/4/s909/a], Mar. 7, 2013, [127 Stat. 126][/us/stat/127/126].)
+([Pub. L. 101–379][/us/pl/101/379], § 15, as added [Pub. L. 111–211, title II][/us/pl/111/211/tII], § 235, July 29, 2010, [124 Stat. 2282][/us/stat/124/2282]; amended [Pub. L. 113–4, title IX][/us/pl/113/4/tIX], § 909(a), Mar. 7, 2013, [127 Stat. 126][/us/stat/127/126].)
 
  __References in Text__ 
 
@@ -302,10 +302,10 @@
 
 [/us/usc/t25/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1301
 [/us/usc/t28/s1821]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1821
-[/us/pl/101/379/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F379%2Fs15
-[/us/pl/111/211/s235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211%2Fs235
+[/us/pl/101/379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F379
+[/us/pl/111/211/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211%2FtII
 [/us/stat/124/2282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2282
-[/us/pl/113/4/s909/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs909%2Fa
+[/us/pl/113/4/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2FtIX
 [/us/stat/127/126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F126
 [/us/pl/111/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211
 [/us/pl/90/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F284

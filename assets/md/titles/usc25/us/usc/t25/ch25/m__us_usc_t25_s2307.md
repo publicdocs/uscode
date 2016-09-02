@@ -17,7 +17,7 @@
 
     Funds distributed under the provisions of this chapter shall not be considered as income or resources nor otherwise utilized as the basis for denying or reducing the financial assistance or other benefits to which such household or member would otherwise be entitled under the Social Security Act \[[42 U.S.C. 301][/us/usc/t42/s301] et seq.\] or, except for per capita shares in excess of $2,000, any Federal or federally assisted program.
 
-([Pub. L. 98–500, § 8][/us/pl/98/500/s8], Oct. 19, 1984, [98 Stat. 2319][/us/stat/98/2319].)
+([Pub. L. 98–500][/us/pl/98/500], § 8, Oct. 19, 1984, [98 Stat. 2319][/us/stat/98/2319].)
 
  __References in Text__ 
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t42/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs301
-[/us/pl/98/500/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F500%2Fs8
+[/us/pl/98/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F500
 [/us/stat/98/2319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2319
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620

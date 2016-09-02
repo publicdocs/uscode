@@ -17,7 +17,7 @@
 
     Notwithstanding any provision of State law, the Settlement Agreement and the Los Alamos Agreement (including any real property conveyance under the agreements) shall be interpreted and implemented as matters of Federal law.
 
-([Pub. L. 109–286, § 15][/us/pl/109/286/s15], Sept. 27, 2006, [120 Stat. 1229][/us/stat/120/1229].)
+([Pub. L. 109–286][/us/pl/109/286], § 15, Sept. 27, 2006, [120 Stat. 1229][/us/stat/120/1229].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/109/286/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F286%2Fs15
+[/us/pl/109/286]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F286
 [/us/stat/120/1229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1229
 
 

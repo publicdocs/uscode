@@ -37,7 +37,7 @@
 
             (B) the occurrence of specific conditions, which conditions shall be specified in written notice provided by the Secretary to the tribe upon making the determination under subsection (b).
 
-([Pub. L. 104–330, title IV, § 402][/us/pl/104/330/s402], Oct. 26, 1996, [110 Stat. 4039][/us/stat/110/4039].)
+([Pub. L. 104–330, title IV][/us/pl/104/330/tIV], § 402, Oct. 26, 1996, [110 Stat. 4039][/us/stat/110/4039].)
 
  __References in Text__ 
 
@@ -54,7 +54,7 @@
 ----------
 ----------
 
-[/us/pl/104/330/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330%2Fs402
+[/us/pl/104/330/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330%2FtIV
 [/us/stat/110/4039]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F4039
 [/us/pl/104/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330
 [/us/stat/110/4016]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F4016

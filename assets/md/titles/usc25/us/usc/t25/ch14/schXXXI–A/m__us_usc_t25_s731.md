@@ -37,17 +37,17 @@
 
     (6) the term “Tribal Council” means the governing body of the tribe under the constitution and bylaws.
 
-([Pub. L. 100–89, title II, § 201][/us/pl/100/89/s201], Aug. 18, 1987, [101 Stat. 669][/us/stat/101/669].)
+([Pub. L. 100–89, title II][/us/pl/100/89/tII], § 201, Aug. 18, 1987, [101 Stat. 669][/us/stat/101/669].)
 
  __Short Title__ 
 
-[Pub. L. 100–89, § 1][/us/pl/100/89/s1], Aug. 18, 1987, [101 Stat. 666][/us/stat/101/666], provided that: 
+[Pub. L. 100–89][/us/pl/100/89], § 1, Aug. 18, 1987, [101 Stat. 666][/us/stat/101/666], provided that: 
 
 > “This Act \[enacting this subchapter and subchapter LXXVIII (§ 1300g et seq.) of this chapter and provisions set out below\] may be cited as the ‘Ysleta del Sur Pueblo and Alabama and Coushatta Indian Tribes of Texas Restoration Act’.”
 
  __Regulations__ 
 
-[Pub. L. 100–89, § 2][/us/pl/100/89/s2], Aug. 18, 1987, [101 Stat. 666][/us/stat/101/666], provided that: 
+[Pub. L. 100–89][/us/pl/100/89], § 2, Aug. 18, 1987, [101 Stat. 666][/us/stat/101/666], provided that: 
 
 > “The Secretary of the Interior or his designated representative may promulgate such regulations as may be necessary to carry out the provisions of this Act \[see Short Title note above\].”
 
@@ -60,11 +60,11 @@
 
 [/us/usc/t25/s732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs732
 [/us/usc/t25/s721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs721
-[/us/pl/100/89/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F89%2Fs201
+[/us/pl/100/89/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F89%2FtII
 [/us/stat/101/669]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F669
-[/us/pl/100/89/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F89%2Fs1
+[/us/pl/100/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F89
 [/us/stat/101/666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F666
-[/us/pl/100/89/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F89%2Fs2
+[/us/pl/100/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F89
 [/us/stat/101/666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F666
 
 

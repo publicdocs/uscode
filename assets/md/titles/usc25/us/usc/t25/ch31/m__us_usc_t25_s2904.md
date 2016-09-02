@@ -17,7 +17,7 @@
 
     The right of Native Americans to express themselves through the use of Native American languages shall not be restricted in any public proceeding, including publicly supported education programs.
 
-([Pub. L. 101–477, title I, § 105][/us/pl/101/477/s105], Oct. 30, 1990, [104 Stat. 1155][/us/stat/104/1155].)
+([Pub. L. 101–477, title I][/us/pl/101/477/tI], § 105, Oct. 30, 1990, [104 Stat. 1155][/us/stat/104/1155].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/101/477/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F477%2Fs105
+[/us/pl/101/477/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F477%2FtI
 [/us/stat/104/1155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1155
 
 

@@ -17,7 +17,7 @@
 
     $10,000,000 shall remain available until expended, for the establishment of an Indian Catastrophic Health Emergency Fund (hereinafter referred to as the “Fund”). On and after October 18, 1986, the Fund is to cover the Indian Health Service portion of the medical expenses of catastrophic illness falling within the responsibility of the Service and shall be administered by the Secretary of Health and Human Services, acting through the central office of the Indian Health Service. No part of the Fund or its administration shall be subject to contract or grant under the Indian Self-Determination and Education Assistance Act ([Public Law 93–638][/us/pl/93/638]) \[[25 U.S.C. 450][/us/usc/t25/s450] et seq.\]. There shall be deposited into the Fund all amounts recovered under the authority of the Federal Medical Care Recovery Act ([42 U.S.C. 2651][/us/usc/t42/s2651] et seq.), which shall become available for obligation upon receipt and which shall remain available for obligation until expended. The Fund shall not be used to pay for health services provided to eligible Indians to the extent that alternate Federal, State, local, or private insurance resources for payment: (1) are available and accessible to the beneficiary; or (2) would be available and accessible if the beneficiary were to apply for them; or (3) would be available and accessible to other citizens similarly situated under Federal, State, or local law or regulation or private insurance program notwithstanding Indian Health Service eligibility or residency on or off a Federal Indian reservation.
 
-([Pub. L. 99–500, § 101(h)][/us/pl/99/500/s101/h] \[title II\], Oct. 18, 1986, [100 Stat. 1783–242][/us/stat/100/1783-242], 1783–276, and [Pub. L. 99–591, § 101(h)][/us/pl/99/591/s101/h] \[title II\], Oct. 30, 1986, [100 Stat. 3341–242][/us/stat/100/3341-242], 3341–276.)
+([Pub. L. 99–500][/us/pl/99/500], § 101(h) \[title II\], Oct. 18, 1986, [100 Stat. 1783–242][/us/stat/100/1783-242], 1783–276, and [Pub. L. 99–591][/us/pl/99/591], § 101(h) \[title II\], Oct. 30, 1986, [100 Stat. 3341–242][/us/stat/100/3341-242], 3341–276.)
 
  __References in Text__ 
 
@@ -41,9 +41,9 @@
 [/us/pl/93/638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638
 [/us/usc/t25/s450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450
 [/us/usc/t42/s2651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2651
-[/us/pl/99/500/s101/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500%2Fs101%2Fh
+[/us/pl/99/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500
 [/us/stat/100/1783-242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1783-242
-[/us/pl/99/591/s101/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591%2Fs101%2Fh
+[/us/pl/99/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591
 [/us/stat/100/3341-242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3341-242
 [/us/pl/93/638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638
 [/us/pl/93/638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638

@@ -17,7 +17,7 @@
 
     Nothing in this subchapter shall affect the authority to make timber sales otherwise authorized by law prior to the termination of Federal control over such timber.
 
-([Pub. L. 85–132, § 2][/us/pl/85/132/s2], Aug. 14, 1957, [71 Stat. 348][/us/stat/71/348].)
+([Pub. L. 85–132][/us/pl/85/132], § 2, Aug. 14, 1957, [71 Stat. 348][/us/stat/71/348].)
 
  __Codification__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/85/132/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F132%2Fs2
+[/us/pl/85/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F132
 [/us/stat/71/348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F71%2F348
 [/us/act/1954-08-13/ch732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-13%2Fch732
 [/us/stat/68/718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F718

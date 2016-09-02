@@ -23,7 +23,7 @@
 
         In the event that the sum of money reserved by the Secretary of the Interior to pay the costs of distributing said funds exceeds the amount actually necessary to accomplish this purpose, the money remaining shall revert to the tribes and may be advanced or expended for any purpose that is authorized and approved by the tribal governing body.
 
-([Pub. L. 90–117, § 6][/us/pl/90/117/s6], Oct. 31, 1967, [81 Stat. 338][/us/stat/81/338].)
+([Pub. L. 90–117][/us/pl/90/117], § 6, Oct. 31, 1967, [81 Stat. 338][/us/stat/81/338].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/90/117/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F117%2Fs6
+[/us/pl/90/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F117
 [/us/stat/81/338]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F338
 
 

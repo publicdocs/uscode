@@ -27,13 +27,13 @@
 
         The Secretary of the Interior and the Secretary of Health and Human Services, as appropriate, shall assign the highest priority, in the next fiscal year after July 8, 1980, to the funding and construction of the Hopi high school and Hopi medical center consistent with any plans already completed and approved by appropriate agencies of the respective departments.
 
-([Pub. L. 93–531, § 27][/us/pl/93/531/s27], as added [Pub. L. 96–305, § 11][/us/pl/96/305/s11], July 8, 1980, [94 Stat. 933][/us/stat/94/933]; amended [Pub. L. 100–666][/us/pl/100/666], §§ 3, 4(b), Nov. 16, 1988, [102 Stat. 3929][/us/stat/102/3929], 3930.)
+([Pub. L. 93–531][/us/pl/93/531], § 27, as added [Pub. L. 96–305][/us/pl/96/305], § 11, July 8, 1980, [94 Stat. 933][/us/stat/94/933]; amended [Pub. L. 100–666][/us/pl/100/666], §§ 3, 4(b), Nov. 16, 1988, [102 Stat. 3929][/us/stat/102/3929], 3930.)
 
  __Amendments__ 
 
-    1988—Subsec. (a). [Pub. L. 100–666, § 4(b)][/us/pl/100/666/s4/b], substituted “Commissioner” for “Commission”.
+    1988—Subsec. (a). [Pub. L. 100–666][/us/pl/100/666], § 4(b), substituted “Commissioner” for “Commission”.
 
-    Subsec. (b). [Pub. L. 100–666, § 3][/us/pl/100/666/s3], amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Such funds may only be used by the Commission to—
+    Subsec. (b). [Pub. L. 100–666][/us/pl/100/666], § 3, amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Such funds may only be used by the Commission to—
 
     “(1) match or pay not to exceed 30 per centum of any grant, contract, or other expenditure of the Federal Government, State or local government, tribal government or chapter, or private organization for the benefit of the Navajo or Hopi Tribe, if such grant, contract, or expenditure would significantly assist the Commission in carrying out its responsibilities or assist either tribe in meeting the burdens imposed by this subchapter;
 
@@ -48,12 +48,12 @@
 ----------
 ----------
 
-[/us/pl/93/531/s27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F531%2Fs27
-[/us/pl/96/305/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F305%2Fs11
+[/us/pl/93/531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F531
+[/us/pl/96/305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F305
 [/us/stat/94/933]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F933
 [/us/pl/100/666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F666
 [/us/stat/102/3929]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3929
-[/us/pl/100/666/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F666%2Fs4%2Fb
-[/us/pl/100/666/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F666%2Fs3
+[/us/pl/100/666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F666
+[/us/pl/100/666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F666
 
 

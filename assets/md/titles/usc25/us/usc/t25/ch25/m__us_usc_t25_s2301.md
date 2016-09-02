@@ -23,7 +23,7 @@
 
     (3) “trust estate” means that portion of the estate that consists of real or personal property, title to which is held by the United States for the benefit of the Indian or which may not be alienated without the consent of the Secretary.
 
-([Pub. L. 98–500, § 2][/us/pl/98/500/s2], Oct. 19, 1984, [98 Stat. 2317][/us/stat/98/2317]; [Pub. L. 100–153, § 5][/us/pl/100/153/s5], Nov. 5, 1987, [101 Stat. 886][/us/stat/101/886].)
+([Pub. L. 98–500][/us/pl/98/500], § 2, Oct. 19, 1984, [98 Stat. 2317][/us/stat/98/2317]; [Pub. L. 100–153][/us/pl/100/153], § 5, Nov. 5, 1987, [101 Stat. 886][/us/stat/101/886].)
 
  __Amendments__ 
 
@@ -31,7 +31,7 @@
 
  __Short Title__ 
 
-[Pub. L. 98–500, § 1][/us/pl/98/500/s1], Oct. 19, 1984, [98 Stat. 2317][/us/stat/98/2317], provided: 
+[Pub. L. 98–500][/us/pl/98/500], § 1, Oct. 19, 1984, [98 Stat. 2317][/us/stat/98/2317], provided: 
 
 > “That this Act \[enacting this chapter\] may be cited as the ‘Old Age Assistance Claims Settlement Act’.”
 
@@ -43,12 +43,12 @@
 ----------
 
 [/us/usc/t25/s2303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs2303
-[/us/pl/98/500/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F500%2Fs2
+[/us/pl/98/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F500
 [/us/stat/98/2317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2317
-[/us/pl/100/153/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F153%2Fs5
+[/us/pl/100/153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F153
 [/us/stat/101/886]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F886
 [/us/pl/100/153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F153
-[/us/pl/98/500/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F500%2Fs1
+[/us/pl/98/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F500
 [/us/stat/98/2317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2317
 
 

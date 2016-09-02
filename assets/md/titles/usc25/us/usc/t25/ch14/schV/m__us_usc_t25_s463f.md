@@ -17,7 +17,7 @@
 
     Title to lands or any interest therein acquired pursuant to sections 463d to 463g of this title for Indian use shall be taken in the name of the United States of America in trust for the tribe or individual Indian for which acquired.
 
-([Aug. 10, 1939, ch. 662, § 3][/us/act/1939-08-10/ch662/s3], [53 Stat. 1351][/us/stat/53/1351].)
+([Aug. 10, 1939, ch. 662][/us/act/1939-08-10/ch662], § 3, [53 Stat. 1351][/us/stat/53/1351].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1939-08-10/ch662/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-08-10%2Fch662%2Fs3
+[/us/act/1939-08-10/ch662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-08-10%2Fch662
 [/us/stat/53/1351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F1351
 
 

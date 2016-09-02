@@ -41,7 +41,7 @@
 
         At the request of an Indian tribe or upon the Secretary’s own volition, the Secretary may conduct audits of the Indian forest land assistance account and shall publish the results of such audit.
 
-([Pub. L. 101–630, title III, § 310][/us/pl/101/630/s310], Nov. 28, 1990, [104 Stat. 4538][/us/stat/104/4538].)
+([Pub. L. 101–630, title III][/us/pl/101/630/tIII], § 310, Nov. 28, 1990, [104 Stat. 4538][/us/stat/104/4538].)
 
 ----------
 
@@ -50,7 +50,7 @@
 ----------
 ----------
 
-[/us/pl/101/630/s310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F630%2Fs310
+[/us/pl/101/630/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F630%2FtIII
 [/us/stat/104/4538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4538
 
 

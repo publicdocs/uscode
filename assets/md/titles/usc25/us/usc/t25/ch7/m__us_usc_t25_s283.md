@@ -19,7 +19,7 @@
 
     The amount and value of subsistence so withheld shall be credited to the tribe or tribes from whom the same is withheld, to be issued and paid when in the judgment of the Secretary of the Interior they shall have fully complied with such regulations. The Secretary of the Interior may in his discretion withhold rations, clothing and other annuities from Indian parents or guardians who refuse or neglect to send and keep their children of proper school age in some school a reasonable portion of the year.
 
-([Mar. 3, 1893, ch. 209, § 1][/us/act/1893-03-03/ch209/s1], [27 Stat. 628][/us/stat/27/628], 635.)
+([Mar. 3, 1893, ch. 209][/us/act/1893-03-03/ch209], § 1, [27 Stat. 628][/us/stat/27/628], 635.)
 
 ----------
 
@@ -28,7 +28,7 @@
 ----------
 ----------
 
-[/us/act/1893-03-03/ch209/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1893-03-03%2Fch209%2Fs1
+[/us/act/1893-03-03/ch209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1893-03-03%2Fch209
 [/us/stat/27/628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F27%2F628
 
 

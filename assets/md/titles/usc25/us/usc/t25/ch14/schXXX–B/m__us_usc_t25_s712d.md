@@ -17,7 +17,7 @@
 
     The Secretary of the Interior may make such rules as are necessary to carry out the provisions of this subchapter.
 
-([Pub. L. 97–391, § 6][/us/pl/97/391/s6], Dec. 29, 1982, [96 Stat. 1961][/us/stat/96/1961].)
+([Pub. L. 97–391][/us/pl/97/391], § 6, Dec. 29, 1982, [96 Stat. 1961][/us/stat/96/1961].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/97/391/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F391%2Fs6
+[/us/pl/97/391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F391
 [/us/stat/96/1961]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1961
 
 

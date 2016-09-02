@@ -85,7 +85,7 @@
 
         (7) to ratify the Los Alamos Agreement.
 
-([Pub. L. 109–286, § 2][/us/pl/109/286/s2], Sept. 27, 2006, [120 Stat. 1218][/us/stat/120/1218].)
+([Pub. L. 109–286][/us/pl/109/286], § 2, Sept. 27, 2006, [120 Stat. 1218][/us/stat/120/1218].)
 
  __References in Text__ 
 
@@ -93,7 +93,7 @@
 
  __Short Title__ 
 
-[Pub. L. 109–286, § 1][/us/pl/109/286/s1], Sept. 27, 2006, [120 Stat. 1218][/us/stat/120/1218], provided that: 
+[Pub. L. 109–286][/us/pl/109/286], § 1, Sept. 27, 2006, [120 Stat. 1218][/us/stat/120/1218], provided that: 
 
 > “This Act \[enacting this subchapter\] may be cited as the ‘Pueblo de San Ildefonso Claims Settlement Act of 2005’.”
 
@@ -108,14 +108,14 @@
 [/us/pl/90/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F171
 [/us/usc/t16/s484a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs484a
 [/us/usc/t25/s1780c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1780c
-[/us/pl/109/286/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F286%2Fs2
+[/us/pl/109/286]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F286
 [/us/stat/120/1218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1218
 [/us/pl/90/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F171
 [/us/pl/90/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F171
 [/us/stat/81/531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F531
 [/us/usc/t16/s484a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs484a
 [/us/usc/t16/s484a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs484a
-[/us/pl/109/286/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F286%2Fs1
+[/us/pl/109/286]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F286
 [/us/stat/120/1218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1218
 
 

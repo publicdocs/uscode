@@ -49,11 +49,11 @@
 
         There is hereby authorized to be appropriated for the Navajo Rehabilitation Trust Fund not  <sup>\[3\]</sup>  <sup><sup> 3 So in original. Probably should be “not to”. </sup></sup>  exceed $10,000,000 in each of fiscal years 1990, 1991, 1992, 1993, 1994 and 1995. The income from the land referred to in subsection (b) of this section shall be used to reimburse the General Fund of the United States Treasury for amounts appropriated to the Fund.
 
-([Pub. L. 93–531, § 32][/us/pl/93/531/s32], as added [Pub. L. 100–666, § 7][/us/pl/100/666/s7], Nov. 16, 1988, [102 Stat. 3932][/us/stat/102/3932]; amended [Pub. L. 101–121, title I, § 120][/us/pl/101/121/s120], Oct. 23, 1989, [103 Stat. 722][/us/stat/103/722].)
+([Pub. L. 93–531][/us/pl/93/531], § 32, as added [Pub. L. 100–666][/us/pl/100/666], § 7, Nov. 16, 1988, [102 Stat. 3932][/us/stat/102/3932]; amended [Pub. L. 101–121, title I][/us/pl/101/121/tI], § 120, Oct. 23, 1989, [103 Stat. 722][/us/stat/103/722].)
 
  __Codification__ 
 
-    Another [section 32 of Pub. L. 93–531][/us/pl/93/531/s32] was enacted by [Pub. L. 100–696, title IV, § 407][/us/pl/100/696/s407], Nov. 18, 1988, [102 Stat. 4593][/us/stat/102/4593], and is classified to [section 640d–31 of this title][/us/usc/t25/s640d–31].
+    Another [section 32 of Pub. L. 93–531][/us/pl/93/531/s32] was enacted by [Pub. L. 100–696, title IV][/us/pl/100/696/tIV], § 407, Nov. 18, 1988, [102 Stat. 4593][/us/stat/102/4593], and is classified to [section 640d–31 of this title][/us/usc/t25/s640d–31].
 
  __Amendments__ 
 
@@ -67,13 +67,13 @@
 ----------
 
 [/us/usc/t25/s640d–10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs640d%E2%80%9310
-[/us/pl/93/531/s32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F531%2Fs32
-[/us/pl/100/666/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F666%2Fs7
+[/us/pl/93/531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F531
+[/us/pl/100/666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F666
 [/us/stat/102/3932]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3932
-[/us/pl/101/121/s120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F121%2Fs120
+[/us/pl/101/121/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F121%2FtI
 [/us/stat/103/722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F722
 [/us/pl/93/531/s32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F531%2Fs32
-[/us/pl/100/696/s407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F696%2Fs407
+[/us/pl/100/696/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F696%2FtIV
 [/us/stat/102/4593]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4593
 [/us/usc/t25/s640d–31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs640d%E2%80%9331
 [/us/pl/101/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F121

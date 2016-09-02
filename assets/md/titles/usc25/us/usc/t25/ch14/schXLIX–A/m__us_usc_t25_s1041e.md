@@ -23,7 +23,7 @@
 
         No land recognized by the Secretary to be within the Cherokee Nation or any other Indian tribe may be taken into trust for the benefit of the Tribe under this section without the consent of the Cherokee Nation or such other tribe, respectively.
 
-([Pub. L. 106–568, title VII, § 707][/us/pl/106/568/s707], Dec. 27, 2000, [114 Stat. 2915][/us/stat/114/2915]; [Pub. L. 109–59, title X, § 10213][/us/pl/109/59/s10213], Aug. 10, 2005, [119 Stat. 1939][/us/stat/119/1939].)
+([Pub. L. 106–568, title VII][/us/pl/106/568/tVII], § 707, Dec. 27, 2000, [114 Stat. 2915][/us/stat/114/2915]; [Pub. L. 109–59, title X][/us/pl/109/59/tX], § 10213, Aug. 10, 2005, [119 Stat. 1939][/us/stat/119/1939].)
 
  __Amendments__ 
 
@@ -38,9 +38,9 @@
 
 [/us/usc/t25/s465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs465
 [/us/usc/t25/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs501
-[/us/pl/106/568/s707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F568%2Fs707
+[/us/pl/106/568/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F568%2FtVII
 [/us/stat/114/2915]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2915
-[/us/pl/109/59/s10213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs10213
+[/us/pl/109/59/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtX
 [/us/stat/119/1939]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1939
 [/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
 

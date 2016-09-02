@@ -37,7 +37,7 @@
 
         No provision of this section shall be construed to offset or eliminate the personal claim of any individual Indian which is pursued under any law of general applicability that protects non-Indians as well as Indians.
 
-([Pub. L. 100–95, § 4][/us/pl/100/95/s4], Aug. 18, 1987, [101 Stat. 705][/us/stat/101/705].)
+([Pub. L. 100–95][/us/pl/100/95], § 4, Aug. 18, 1987, [101 Stat. 705][/us/stat/101/705].)
 
  __References in Text__ 
 
@@ -55,7 +55,7 @@
 ----------
 
 [/us/stat/1/137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F1%2F137
-[/us/pl/100/95/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F95%2Fs4
+[/us/pl/100/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F95
 [/us/stat/101/705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F705
 [/us/stat/1/137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F1%2F137
 [/us/pl/100/95/s11/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F95%2Fs11%2Fb

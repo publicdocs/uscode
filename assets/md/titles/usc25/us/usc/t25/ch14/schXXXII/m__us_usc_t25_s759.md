@@ -17,7 +17,7 @@
 
     The Secretary is authorized to issue rules and regulations necessary to effectuate the purposes of this subchapter, and may in his discretion provide for tribal referenda on matters pertaining to management or disposition of tribal assets.
 
-([Sept. 1, 1954, ch. 1207, § 19][/us/act/1954-09-01/ch1207/s19], [68 Stat. 1104][/us/stat/68/1104].)
+([Sept. 1, 1954, ch. 1207][/us/act/1954-09-01/ch1207], § 19, [68 Stat. 1104][/us/stat/68/1104].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1954-09-01/ch1207/s19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-09-01%2Fch1207%2Fs19
+[/us/act/1954-09-01/ch1207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-09-01%2Fch1207
 [/us/stat/68/1104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F1104
 
 

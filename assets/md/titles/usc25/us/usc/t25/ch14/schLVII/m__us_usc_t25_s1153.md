@@ -17,7 +17,7 @@
 
     Sums payable to enrollees or to their heirs or legatees who are less than twenty-one years of age or who are under a legal disability shall be held in trust by the Secretary of the Interior with use limited to emergency medical care and direct educational expenses, until such minor becomes of age or disability ceases. Proportional shares of heirs or legatees amounting to $5 or less shall not be distributed, and shall escheat to the United States. In the event that the sum of money reserved by the Secretary to pay the costs of distributing the individual shares exceeds the amount actually necessary to accomplish this purpose, the money remaining shall also be distributed per capita unless individual shares would have a value of less than $5. Individual shares or proportional shares of heirs or legatees amounting to $5 or less shall not be distributed, but shall escheat to the United States.
 
-([Pub. L. 90–114, § 3][/us/pl/90/114/s3], Oct. 24, 1967, [81 Stat. 335][/us/stat/81/335].)
+([Pub. L. 90–114][/us/pl/90/114], § 3, Oct. 24, 1967, [81 Stat. 335][/us/stat/81/335].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/90/114/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F114%2Fs3
+[/us/pl/90/114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F114
 [/us/stat/81/335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F335
 
 

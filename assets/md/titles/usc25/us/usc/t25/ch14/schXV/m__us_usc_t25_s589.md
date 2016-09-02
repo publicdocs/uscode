@@ -17,7 +17,7 @@
 
     Any funds distributed per capita under provisions of sections 581 to 590 of this title shall not be subject to Federal or State income tax.
 
-([Pub. L. 92–206, § 9][/us/pl/92/206/s9], Dec. 18, 1971, [85 Stat. 739][/us/stat/85/739].)
+([Pub. L. 92–206][/us/pl/92/206], § 9, Dec. 18, 1971, [85 Stat. 739][/us/stat/85/739].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/92/206/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F206%2Fs9
+[/us/pl/92/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F206
 [/us/stat/85/739]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F739
 
 

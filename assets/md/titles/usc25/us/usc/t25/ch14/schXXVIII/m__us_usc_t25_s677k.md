@@ -17,7 +17,7 @@
 
     Fifty per centum of all per capita payments to any individual mixed-blood member made pursuant to any division or distribution hereunder shall have deducted therefrom any sum or sums of money owed by such member to the tribe, whether due or to become due, unless in the opinion of the Secretary said debts are not adequately secured in which event the entire per capita payment shall be subject to such offset. Any other division, partition or distribution of property to any individual mixed-blood member made pursuant to this subchapter shall be subject to a mortgage to be made in favor of the tribe securing the payment of all sums of money owed by him to the tribe on the date of such division, partition or distribution to such individual mixed-blood member. The Secretary shall require the execution of any mortgage required under this section as a condition to any such division, partition or distribution.
 
-([Aug. 27, 1954, ch. 1009, § 12][/us/act/1954-08-27/ch1009/s12], [68 Stat. 874][/us/stat/68/874].)
+([Aug. 27, 1954, ch. 1009][/us/act/1954-08-27/ch1009], § 12, [68 Stat. 874][/us/stat/68/874].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1954-08-27/ch1009/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-27%2Fch1009%2Fs12
+[/us/act/1954-08-27/ch1009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-27%2Fch1009
 [/us/stat/68/874]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F874
 [/us/act/1954-08-27/ch1009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-27%2Fch1009
 [/us/stat/68/868]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F868

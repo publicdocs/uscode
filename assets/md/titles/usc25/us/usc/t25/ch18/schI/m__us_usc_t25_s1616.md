@@ -45,19 +45,19 @@
 
         (6) promote traditional health care practices of the Indian tribes served consistent with the Service standards for the provision of health care, health promotion, and disease prevention.
 
-([Pub. L. 94–437, title I, § 107][/us/pl/94/437/s107], as added [Pub. L. 100–713, title I, § 107][/us/pl/100/713/s107], Nov. 23, 1988, [102 Stat. 4788][/us/stat/102/4788]; amended [Pub. L. 102–573, title I, § 105][/us/pl/102/573/s105], Oct. 29, 1992, [106 Stat. 4535][/us/stat/106/4535].)
+([Pub. L. 94–437, title I][/us/pl/94/437/tI], § 107, as added [Pub. L. 100–713, title I][/us/pl/100/713/tI], § 107, Nov. 23, 1988, [102 Stat. 4788][/us/stat/102/4788]; amended [Pub. L. 102–573, title I][/us/pl/102/573/tI], § 105, Oct. 29, 1992, [106 Stat. 4535][/us/stat/106/4535].)
 
  __Amendments__ 
 
-    1992—Subsec. (b)(2). [Pub. L. 102–573, § 105(1)][/us/pl/102/573/s105/1], inserted “and maintain” in introductory provisions.
+    1992—Subsec. (b)(2). [Pub. L. 102–573][/us/pl/102/573], § 105(1), inserted “and maintain” in introductory provisions.
 
-    Subsec. (b)(2)(B). [Pub. L. 102–573, § 105(2)][/us/pl/102/573/s105/2], inserted at end “with appropriate consideration given to lifestyle factors that have an impact on Indian health status, such as alcoholism, family dysfunction, and poverty,”.
+    Subsec. (b)(2)(B). [Pub. L. 102–573][/us/pl/102/573], § 105(2), inserted at end “with appropriate consideration given to lifestyle factors that have an impact on Indian health status, such as alcoholism, family dysfunction, and poverty,”.
 
-    Subsec. (b)(3). [Pub. L. 102–573, § 105(3)][/us/pl/102/573/s105/3], substituted “maintain” for “develop” in two places.
+    Subsec. (b)(3). [Pub. L. 102–573][/us/pl/102/573], § 105(3), substituted “maintain” for “develop” in two places.
 
-    Subsec. (b)(4). [Pub. L. 102–573, § 105(4)][/us/pl/102/573/s105/4], struck out “develop and” before “maintain”.
+    Subsec. (b)(4). [Pub. L. 102–573][/us/pl/102/573], § 105(4), struck out “develop and” before “maintain”.
 
-    Subsec. (b)(5). [Pub. L. 102–573, § 105(3)][/us/pl/102/573/s105/3], substituted “maintain” for “develop”.
+    Subsec. (b)(5). [Pub. L. 102–573][/us/pl/102/573], § 105(3), substituted “maintain” for “develop”.
 
 ----------
 
@@ -67,15 +67,15 @@
 ----------
 
 [/us/usc/t25/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs13
-[/us/pl/94/437/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437%2Fs107
-[/us/pl/100/713/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F713%2Fs107
+[/us/pl/94/437/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437%2FtI
+[/us/pl/100/713/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F713%2FtI
 [/us/stat/102/4788]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4788
-[/us/pl/102/573/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2Fs105
+[/us/pl/102/573/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2FtI
 [/us/stat/106/4535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4535
-[/us/pl/102/573/s105/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2Fs105%2F1
-[/us/pl/102/573/s105/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2Fs105%2F2
-[/us/pl/102/573/s105/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2Fs105%2F3
-[/us/pl/102/573/s105/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2Fs105%2F4
-[/us/pl/102/573/s105/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2Fs105%2F3
+[/us/pl/102/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573
+[/us/pl/102/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573
+[/us/pl/102/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573
+[/us/pl/102/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573
+[/us/pl/102/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573
 
 

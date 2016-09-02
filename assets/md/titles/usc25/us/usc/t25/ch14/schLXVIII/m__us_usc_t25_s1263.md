@@ -17,7 +17,7 @@
 
     The balance of each tribe’s share of the funds may be advanced, expended, invested, or reinvested for any purposes that are authorized by the respective tribal governing bodies and approved by the Secretary of the Interior.
 
-([Pub. L. 92–254, § 3][/us/pl/92/254/s3], Mar. 18, 1972, [86 Stat. 65][/us/stat/86/65].)
+([Pub. L. 92–254][/us/pl/92/254], § 3, Mar. 18, 1972, [86 Stat. 65][/us/stat/86/65].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/92/254/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F254%2Fs3
+[/us/pl/92/254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F254
 [/us/stat/86/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F65
 
 

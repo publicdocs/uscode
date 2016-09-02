@@ -17,7 +17,7 @@
 
     It shall not be unlawful to introduce and use wines solely for sacramental purposes, under church authority, at any place within the Indian country or any Indian reservation, including the Pueblo Reservations in New Mexico.
 
-([Aug. 24, 1912, ch. 388, § 1][/us/act/1912-08-24/ch388/s1], [37 Stat. 519][/us/stat/37/519].)
+([Aug. 24, 1912, ch. 388][/us/act/1912-08-24/ch388], § 1, [37 Stat. 519][/us/stat/37/519].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1912-08-24/ch388/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1912-08-24%2Fch388%2Fs1
+[/us/act/1912-08-24/ch388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1912-08-24%2Fch388
 [/us/stat/37/519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F37%2F519
 
 

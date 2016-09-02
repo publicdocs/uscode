@@ -27,7 +27,7 @@
 
         All provisions of sections 450c(d), 450d, 450f(c), 450i, 450j(f), 450m–1, and 450n of this title shall apply to agreements provided under this part.
 
-([Pub. L. 93–638, title IV, § 406][/us/pl/93/638/s406], as added [Pub. L. 103–413, title II, § 204][/us/pl/103/413/s204], Oct. 25, 1994, [108 Stat. 4277][/us/stat/108/4277]; amended [Pub. L. 105–277, div. A, § 101(e)][/us/pl/105/277/s101/e] \[title I, § 133\], Oct. 21, 1998, [112 Stat. 2681–231][/us/stat/112/2681-231], 2681–264.)
+([Pub. L. 93–638, title IV][/us/pl/93/638/tIV], § 406, as added [Pub. L. 103–413, title II][/us/pl/103/413/tII], § 204, Oct. 25, 1994, [108 Stat. 4277][/us/stat/108/4277]; amended [Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(e) \[title I, § 133\], Oct. 21, 1998, [112 Stat. 2681–231][/us/stat/112/2681-231], 2681–264.)
 
  __References in Text__ 
 
@@ -45,10 +45,10 @@
 ----------
 
 [/us/usc/t25/s450f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450f
-[/us/pl/93/638/s406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638%2Fs406
-[/us/pl/103/413/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F413%2Fs204
+[/us/pl/93/638/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638%2FtIV
+[/us/pl/103/413/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F413%2FtII
 [/us/stat/108/4277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4277
-[/us/pl/105/277/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fe
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-231
 [/us/pl/93/638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638
 [/us/stat/88/2203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2203

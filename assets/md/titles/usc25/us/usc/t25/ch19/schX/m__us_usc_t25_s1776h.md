@@ -75,7 +75,7 @@
 
             With respect to a Suspension Account established under subsection (b) that is not terminated pursuant to paragraph (1), at such time as the corpus and the accrued interest of the Suspension Account of the Crow Tribe or the Northern Cheyenne Tribe is approximately equal to the amount specified in paragraph (1) or (2) of subsection (a), the Secretary of the Treasury shall terminate the Suspension Account and the Secretary of the Interior shall distribute the funds from the Suspension Account to the tribe.
 
-([Pub. L. 103–444, § 10][/us/pl/103/444/s10], Nov. 2, 1994, [108 Stat. 4641][/us/stat/108/4641]; [Pub. L. 104–109, § 9(c)][/us/pl/104/109/s9/c], Feb. 12, 1996, [110 Stat. 765][/us/stat/110/765].)
+([Pub. L. 103–444][/us/pl/103/444], § 10, Nov. 2, 1994, [108 Stat. 4641][/us/stat/108/4641]; [Pub. L. 104–109][/us/pl/104/109], § 9(c), Feb. 12, 1996, [110 Stat. 765][/us/stat/110/765].)
 
  __References in Text__ 
 
@@ -100,9 +100,9 @@
 [/us/usc/t25/s1776d/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1776d%2Fb%2F1
 [/us/stat/52/1037]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F1037
 [/us/usc/t25/s162a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs162a
-[/us/pl/103/444/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F444%2Fs10
+[/us/pl/103/444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F444
 [/us/stat/108/4641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4641
-[/us/pl/104/109/s9/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F109%2Fs9%2Fc
+[/us/pl/104/109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F109
 [/us/stat/110/765]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F765
 [/us/act/1938-06-24/ch648]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-24%2Fch648
 [/us/stat/52/1037]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F1037

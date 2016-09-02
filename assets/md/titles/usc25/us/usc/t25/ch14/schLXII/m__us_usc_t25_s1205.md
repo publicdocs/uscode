@@ -17,7 +17,7 @@
 
     Upon agreement by the Fort Peck Sioux Tribe and the Fort Peck Assiniboine Tribe on the amount each agrees to contribute from any award to each tribe in Indian Claims Commission Docket No. 279A, the agreed contribution of the Fort Peck Sioux Tribe shall be withdrawn from the $50,000, and interest thereon, withheld from per capita distribution pursuant to [section 1201 of this title][/us/usc/t25/s1201], and credited to the joint account for expenditure pursuant to the Act of June 29, 1954 ([68 Stat. 329][/us/stat/68/329]): Provided, That upon request of the Fort Peck Sioux Tribe the Secretary of the Interior in his discretion may distribute all or part of the aforesaid $50,000 and interest thereon per capita to each person eligible under [section 1201 of this title][/us/usc/t25/s1201].
 
-([Pub. L. 91–283, § 5][/us/pl/91/283/s5], June 19, 1970, [84 Stat. 313][/us/stat/84/313].)
+([Pub. L. 91–283][/us/pl/91/283], § 5, June 19, 1970, [84 Stat. 313][/us/stat/84/313].)
 
  __References in Text__ 
 
@@ -35,7 +35,7 @@
 [/us/usc/t25/s1201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1201
 [/us/stat/68/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F329
 [/us/usc/t25/s1201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1201
-[/us/pl/91/283/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F283%2Fs5
+[/us/pl/91/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F283
 [/us/stat/84/313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F313
 [/us/act/1954-06-29/ch421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-06-29%2Fch421
 [/us/stat/68/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F329

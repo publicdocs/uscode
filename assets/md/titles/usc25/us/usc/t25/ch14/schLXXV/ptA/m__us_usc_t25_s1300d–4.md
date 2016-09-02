@@ -79,7 +79,7 @@
 
         The funds allocated to all other Sisseton and Wahpeton Sioux, as provided in subsection (a), shall be distributed per capita to the persons enrolled on the roll prepared by the Secretary pursuant to [section 1300d–3(b) of this title][/us/usc/t25/s1300d–3/b].
 
-([Pub. L. 92–555, title II, § 202][/us/pl/92/555/s202], Oct. 25, 1972, [86 Stat. 1169][/us/stat/86/1169]; [Pub. L. 105–387, § 7(d)(1)][/us/pl/105/387/s7/d/1], Nov. 13, 1998, [112 Stat. 3474][/us/stat/112/3474].)
+([Pub. L. 92–555, title II][/us/pl/92/555/tII], § 202, Oct. 25, 1972, [86 Stat. 1169][/us/stat/86/1169]; [Pub. L. 105–387][/us/pl/105/387], § 7(d)(1), Nov. 13, 1998, [112 Stat. 3474][/us/stat/112/3474].)
 
  __References in Text__ 
 
@@ -89,11 +89,11 @@
 
  __Amendments__ 
 
-    1998—Subsec. (a). [Pub. L. 105–387, § 7(d)(1)(B)][/us/pl/105/387/s7/d/1/B], in table struck out at end item which had apportioned 25.0225 percent of funds to all other Sisseton and Wahpeton Sioux.
+    1998—Subsec. (a). [Pub. L. 105–387][/us/pl/105/387], § 7(d)(1)(B), in table struck out at end item which had apportioned 25.0225 percent of funds to all other Sisseton and Wahpeton Sioux.
 
-    [Pub. L. 105–387, § 7(d)(1)(A)(ii)][/us/pl/105/387/s7/d/1/A/ii], which directed amendment of introductory provisions by inserting “plus interest received (other than funds otherwise distributed to the Sisseton and Wahpeton Tribes of Sioux Indians in accordance with the Mississippi Sioux Tribes Judgment Fund Distribution Act of 1998),” after “docket numbered 359,” was executed by making the insertion after “docket numbered 359”, to reflect the probable intent of Congress and the amendment by [Pub. L. 105–387, § 7(d)(1)(A)(i)][/us/pl/105/387/s7/d/1/A/i]. See below.
+    [Pub. L. 105–387][/us/pl/105/387], § 7(d)(1)(A)(ii), which directed amendment of introductory provisions by inserting “plus interest received (other than funds otherwise distributed to the Sisseton and Wahpeton Tribes of Sioux Indians in accordance with the Mississippi Sioux Tribes Judgment Fund Distribution Act of 1998),” after “docket numbered 359,” was executed by making the insertion after “docket numbered 359”, to reflect the probable intent of Congress and the amendment by [Pub. L. 105–387][/us/pl/105/387], § 7(d)(1)(A)(i). See below.
 
-    [Pub. L. 105–387, § 7(d)(1)(A)(i)][/us/pl/105/387/s7/d/1/A/i], struck out “, plus accrued interest,” after “docket numbered 359” in introductory provisions.
+    [Pub. L. 105–387][/us/pl/105/387], § 7(d)(1)(A)(i), struck out “, plus accrued interest,” after “docket numbered 359” in introductory provisions.
 
 ----------
 
@@ -106,16 +106,16 @@
 [/us/usc/t25/s1300d–21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1300d%E2%80%9321
 [/us/usc/t25/s1300d–3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1300d%E2%80%933%2Fa
 [/us/usc/t25/s1300d–3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1300d%E2%80%933%2Fb
-[/us/pl/92/555/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F555%2Fs202
+[/us/pl/92/555/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F555%2FtII
 [/us/stat/86/1169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1169
-[/us/pl/105/387/s7/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F387%2Fs7%2Fd%2F1
+[/us/pl/105/387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F387
 [/us/stat/112/3474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3474
 [/us/pl/105/387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F387
 [/us/stat/112/3471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3471
 [/us/usc/t25/s1300d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1300d
-[/us/pl/105/387/s7/d/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F387%2Fs7%2Fd%2F1%2FB
-[/us/pl/105/387/s7/d/1/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F387%2Fs7%2Fd%2F1%2FA%2Fii
-[/us/pl/105/387/s7/d/1/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F387%2Fs7%2Fd%2F1%2FA%2Fi
-[/us/pl/105/387/s7/d/1/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F387%2Fs7%2Fd%2F1%2FA%2Fi
+[/us/pl/105/387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F387
+[/us/pl/105/387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F387
+[/us/pl/105/387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F387
+[/us/pl/105/387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F387
 
 

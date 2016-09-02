@@ -299,7 +299,7 @@
 
         There are authorized to be appropriated to the Secretary such sums as are necessary for each of fiscal years 2006 through 2016 to carry out this section and to make grants or provide other appropriate assistance to Indian tribes to assist the Indian tribes in developing and implementing tribal energy resource agreements in accordance with this section.
 
-([Pub. L. 102–486, title XXVI, § 2604][/us/pl/102/486/s2604], as added [Pub. L. 109–58, title V, § 503(a)][/us/pl/109/58/s503/a], Aug. 8, 2005, [119 Stat. 769][/us/stat/119/769].)
+([Pub. L. 102–486, title XXVI][/us/pl/102/486/tXXVI], § 2604, as added [Pub. L. 109–58, title V][/us/pl/109/58/tV], § 503(a), Aug. 8, 2005, [119 Stat. 769][/us/stat/119/769].)
 
  __References in Text__ 
 
@@ -309,7 +309,7 @@
 
  __Prior Provisions__ 
 
-    A prior section 3504, [Pub. L. 102–486, title XXVI, § 2604][/us/pl/102/486/s2604], Oct. 24, 1992, [106 Stat. 3114][/us/stat/106/3114], related to Indian energy resource regulation, prior to the general amendment of this chapter by [Pub. L. 109–58][/us/pl/109/58].
+    A prior section 3504, [Pub. L. 102–486, title XXVI][/us/pl/102/486/tXXVI], § 2604, Oct. 24, 1992, [106 Stat. 3114][/us/stat/106/3114], related to Indian energy resource regulation, prior to the general amendment of this chapter by [Pub. L. 109–58][/us/pl/109/58].
 
 ----------
 
@@ -321,8 +321,8 @@
 [/us/usc/t25/s81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs81
 [/us/usc/t30/s1201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1201
 [/us/usc/t25/s2101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs2101
-[/us/pl/102/486/s2604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs2604
-[/us/pl/109/58/s503/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs503%2Fa
+[/us/pl/102/486/tXXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtXXVI
+[/us/pl/109/58/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtV
 [/us/stat/119/769]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F769
 [/us/pl/95/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F87
 [/us/stat/91/445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F445
@@ -330,7 +330,7 @@
 [/us/pl/97/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F382
 [/us/stat/96/1938]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1938
 [/us/usc/t25/s2101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs2101
-[/us/pl/102/486/s2604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs2604
+[/us/pl/102/486/tXXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtXXVI
 [/us/stat/106/3114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3114
 [/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
 

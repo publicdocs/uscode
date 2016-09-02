@@ -17,7 +17,7 @@
 
     The Secretary, in cooperation with eligible public entities, shall carry out training and information activities with respect to the guarantee program under this subchapter.
 
-([Pub. L. 104–330, title VI, § 604][/us/pl/104/330/s604], Oct. 26, 1996, [110 Stat. 4047][/us/stat/110/4047].)
+([Pub. L. 104–330, title VI][/us/pl/104/330/tVI], § 604, Oct. 26, 1996, [110 Stat. 4047][/us/stat/110/4047].)
 
  __Effective Date__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/104/330/s604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330%2Fs604
+[/us/pl/104/330/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330%2FtVI
 [/us/stat/110/4047]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F4047
 [/us/pl/104/330/s606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330%2Fs606
 [/us/usc/t25/s4191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs4191

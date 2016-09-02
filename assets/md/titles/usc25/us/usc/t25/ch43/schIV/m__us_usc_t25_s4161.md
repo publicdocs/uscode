@@ -131,7 +131,7 @@
 
             Upon the filing of the record with the court, the jurisdiction of the court shall be exclusive and its judgment shall be final, except that such judgment shall be subject to review by the Supreme Court of the United States upon writ of certiorari or certification as provided in [section 1254 of title 28][/us/usc/t28/s1254].
 
-([Pub. L. 104–330, title IV, § 401][/us/pl/104/330/s401], Oct. 26, 1996, [110 Stat. 4037][/us/stat/110/4037]; [Pub. L. 106–568, title X, § 1003(h)][/us/pl/106/568/s1003/h], (i), Dec. 27, 2000, [114 Stat. 2928][/us/stat/114/2928], 2929; [Pub. L. 106–569, title V, § 503(g)][/us/pl/106/569/s503/g], (h), Dec. 27, 2000, [114 Stat. 2964][/us/stat/114/2964], 2965; [Pub. L. 110–411, title IV, § 401][/us/pl/110/411/s401], Oct. 14, 2008, [122 Stat. 4330][/us/stat/122/4330].)
+([Pub. L. 104–330, title IV][/us/pl/104/330/tIV], § 401, Oct. 26, 1996, [110 Stat. 4037][/us/stat/110/4037]; [Pub. L. 106–568, title X][/us/pl/106/568/tX], § 1003(h), (i), Dec. 27, 2000, [114 Stat. 2928][/us/stat/114/2928], 2929; [Pub. L. 106–569, title V][/us/pl/106/569/tV], § 503(g), (h), Dec. 27, 2000, [114 Stat. 2964][/us/stat/114/2964], 2965; [Pub. L. 110–411, title IV][/us/pl/110/411/tIV], § 401, Oct. 14, 2008, [122 Stat. 4330][/us/stat/122/4330].)
 
  __References in Text__ 
 
@@ -141,9 +141,9 @@
 
     2008—Subsec. (a)(2) to (4). [Pub. L. 110–411][/us/pl/110/411] added par. (2) and redesignated former pars. (2) and (3) as (3) and (4), respectively.
 
-    2000—Subsec. (a). [Pub. L. 106–568, § 1003(h)][/us/pl/106/568/s1003/h], and [Pub. L. 106–569, § 503(g)][/us/pl/106/569/s503/g], amended subsec. (a) identically, designating existing provisions as par. (1), inserting heading, redesignating former pars. (1) to (4) as subpars. (A) to (D), respectively, of par. (1), realigning margins, designating concluding provisions as par. (2), inserting heading, substituting “If the Secretary takes an action under subparagraph (A), (B), or (C) of paragraph (1)” for “If the Secretary takes an action under paragraph (1), (2), or (3)”, and adding par. (3).
+    2000—Subsec. (a). [Pub. L. 106–568][/us/pl/106/568], § 1003(h), and [Pub. L. 106–569][/us/pl/106/569], § 503(g), amended subsec. (a) identically, designating existing provisions as par. (1), inserting heading, redesignating former pars. (1) to (4) as subpars. (A) to (D), respectively, of par. (1), realigning margins, designating concluding provisions as par. (2), inserting heading, substituting “If the Secretary takes an action under subparagraph (A), (B), or (C) of paragraph (1)” for “If the Secretary takes an action under paragraph (1), (2), or (3)”, and adding par. (3).
 
-    Subsec. (b). [Pub. L. 106–568, § 1003(i)][/us/pl/106/568/s1003/i], and [Pub. L. 106–569, § 503(h)][/us/pl/106/569/s503/h], amended subsec. (b) identically, designating existing provisions as par. (1), inserting heading, redesignating former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), realigning margins of concluding provisions, inserting “, if the recipient enters into a performance agreement with the Secretary that specifies the compliance objectives that the recipient will be required to achieve by the termination date of the performance agreement” before period at end of concluding provisions, and adding pars. (2) to (4).
+    Subsec. (b). [Pub. L. 106–568][/us/pl/106/568], § 1003(i), and [Pub. L. 106–569][/us/pl/106/569], § 503(h), amended subsec. (b) identically, designating existing provisions as par. (1), inserting heading, redesignating former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), realigning margins of concluding provisions, inserting “, if the recipient enters into a performance agreement with the Secretary that specifies the compliance objectives that the recipient will be required to achieve by the termination date of the performance agreement” before period at end of concluding provisions, and adding pars. (2) to (4).
 
  __Effective Date__ 
 
@@ -161,22 +161,22 @@
 [/us/usc/t25/s4152/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs4152%2Fb%2F1
 [/us/usc/t28/s2112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2112
 [/us/usc/t28/s1254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1254
-[/us/pl/104/330/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330%2Fs401
+[/us/pl/104/330/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330%2FtIV
 [/us/stat/110/4037]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F4037
-[/us/pl/106/568/s1003/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F568%2Fs1003%2Fh
+[/us/pl/106/568/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F568%2FtX
 [/us/stat/114/2928]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2928
-[/us/pl/106/569/s503/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs503%2Fg
+[/us/pl/106/569/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2FtV
 [/us/stat/114/2964]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2964
-[/us/pl/110/411/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F411%2Fs401
+[/us/pl/110/411/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F411%2FtIV
 [/us/stat/122/4330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4330
 [/us/pl/104/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330
 [/us/stat/110/4016]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F4016
 [/us/usc/t25/s4101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs4101
 [/us/pl/110/411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F411
-[/us/pl/106/568/s1003/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F568%2Fs1003%2Fh
-[/us/pl/106/569/s503/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs503%2Fg
-[/us/pl/106/568/s1003/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F568%2Fs1003%2Fi
-[/us/pl/106/569/s503/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs503%2Fh
+[/us/pl/106/568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F568
+[/us/pl/106/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569
+[/us/pl/106/568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F568
+[/us/pl/106/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569
 [/us/pl/104/330/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330%2Fs107
 [/us/usc/t25/s4101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs4101
 

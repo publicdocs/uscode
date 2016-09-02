@@ -109,7 +109,7 @@
 
         Nothing in this chapter shall be construed to supersede, repeal, or modify any general or specific statute authorizing the grant or approval of any type of land use transaction involving fractional interests in trust or restricted land.
 
-([Pub. L. 97–459, title II, § 219][/us/pl/97/459/s219], as added [Pub. L. 106–462, title I, § 103(6)][/us/pl/106/462/s103/6], Nov. 7, 2000, [114 Stat. 2004][/us/stat/114/2004]; amended [Pub. L. 108–374, § 6(a)(10)][/us/pl/108/374/s6/a/10], (11), Oct. 27, 2004, [118 Stat. 1804][/us/stat/118/1804].)
+([Pub. L. 97–459, title II][/us/pl/97/459/tII], § 219, as added [Pub. L. 106–462, title I][/us/pl/106/462/tI], § 103(6), Nov. 7, 2000, [114 Stat. 2004][/us/stat/114/2004]; amended [Pub. L. 108–374][/us/pl/108/374], § 6(a)(10), (11), Oct. 27, 2004, [118 Stat. 1804][/us/stat/118/1804].)
 
  __References in Text__ 
 
@@ -121,9 +121,9 @@
 
  __Amendments__ 
 
-    2004—Subsec. (b)(1)(A). [Pub. L. 108–374, § 6(a)(10)][/us/pl/108/374/s6/a/10], substituted “90” for “100”.
+    2004—Subsec. (b)(1)(A). [Pub. L. 108–374][/us/pl/108/374], § 6(a)(10), substituted “90” for “100”.
 
-    Subsec. (g). [Pub. L. 108–374, § 6(a)(11)][/us/pl/108/374/s6/a/11], added subsec. (g).
+    Subsec. (g). [Pub. L. 108–374][/us/pl/108/374], § 6(a)(11), added subsec. (g).
 
 ----------
 
@@ -136,10 +136,10 @@
 [/us/pl/105/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F188
 [/us/usc/t25/s396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs396
 [/us/usc/t25/s3701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs3701
-[/us/pl/97/459/s219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F459%2Fs219
-[/us/pl/106/462/s103/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F462%2Fs103%2F6
+[/us/pl/97/459/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F459%2FtII
+[/us/pl/106/462/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F462%2FtI
 [/us/stat/114/2004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2004
-[/us/pl/108/374/s6/a/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F374%2Fs6%2Fa%2F10
+[/us/pl/108/374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F374
 [/us/stat/118/1804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1804
 [/us/pl/103/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F177
 [/us/stat/107/2011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2011
@@ -149,7 +149,7 @@
 [/us/usc/t25/s396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs396
 [/us/usc/t25/s2201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs2201
 [/us/pl/97/459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F459
-[/us/pl/108/374/s6/a/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F374%2Fs6%2Fa%2F10
-[/us/pl/108/374/s6/a/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F374%2Fs6%2Fa%2F11
+[/us/pl/108/374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F374
+[/us/pl/108/374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F374
 
 

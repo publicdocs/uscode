@@ -29,27 +29,27 @@
 
         (2) A tribally owned or leased facility may be leased pursuant to this authority to house a regional treatment center to be established pursuant to section 2474(b)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title only if all the tribes within the Indian Health Service area to be served by such regional treatment center initially consent to such Federal lease.
 
-([Pub. L. 99–570, title IV, § 4209][/us/pl/99/570/s4209], Oct. 27, 1986, [100 Stat. 3207–142][/us/stat/100/3207-142]; [Pub. L. 100–690, title II, § 2205][/us/pl/100/690/s2205], Nov. 18, 1988, [102 Stat. 4217][/us/stat/102/4217]; [Pub. L. 111–211, title II, § 241(a)(5)][/us/pl/111/211/s241/a/5], July 29, 2010, [124 Stat. 2289][/us/stat/124/2289].)
+([Pub. L. 99–570, title IV][/us/pl/99/570/tIV], § 4209, Oct. 27, 1986, [100 Stat. 3207–142][/us/stat/100/3207-142]; [Pub. L. 100–690, title II][/us/pl/100/690/tII], § 2205, Nov. 18, 1988, [102 Stat. 4217][/us/stat/102/4217]; [Pub. L. 111–211, title II][/us/pl/111/211/tII], § 241(a)(5), July 29, 2010, [124 Stat. 2289][/us/stat/124/2289].)
 
  __References in Text__ 
 
-    [Section 2474(b) of this title][/us/usc/t25/s2474/b], referred to in subsec. (c)(2), was repealed by [Pub. L. 102–573, title VII, § 702(b)(2)][/us/pl/102/573/s702/b/2], Oct. 29, 1992, [106 Stat. 4582][/us/stat/106/4582].
+    [Section 2474(b) of this title][/us/usc/t25/s2474/b], referred to in subsec. (c)(2), was repealed by [Pub. L. 102–573, title VII][/us/pl/102/573/tVII], § 702(b)(2), Oct. 29, 1992, [106 Stat. 4582][/us/stat/106/4582].
 
  __Amendments__ 
 
-    2010—Subsec. (a). [Pub. L. 111–211, § 241(a)(5)(A)][/us/pl/111/211/s241/a/5/A], inserted “, the Attorney General,” after “the Secretary of the Interior”.
+    2010—Subsec. (a). [Pub. L. 111–211][/us/pl/111/211], § 241(a)(5)(A), inserted “, the Attorney General,” after “the Secretary of the Interior”.
 
-    Subsec. (b). [Pub. L. 111–211, § 241(a)(5)(B)][/us/pl/111/211/s241/a/5/B], inserted “, the Attorney General,” after “the Secretary of the Interior” in first sentence, “, nor the Attorney General,” after “the Secretary of the Interior” in second sentence, and “, the Department of Justice,” after “the Department of the Interior” in third sentence.
+    Subsec. (b). [Pub. L. 111–211][/us/pl/111/211], § 241(a)(5)(B), inserted “, the Attorney General,” after “the Secretary of the Interior” in first sentence, “, nor the Attorney General,” after “the Secretary of the Interior” in second sentence, and “, the Department of Justice,” after “the Department of the Interior” in third sentence.
 
-    Subsec. (c)(1). [Pub. L. 111–211, § 241(a)(5)(C)][/us/pl/111/211/s241/a/5/C], which directed insertion of “, the Attorney General,” after “the Secretary of the Interior”, was executed by making the insertion after “The Secretary of the Interior”, to reflect the probable intent of Congress.
+    Subsec. (c)(1). [Pub. L. 111–211][/us/pl/111/211], § 241(a)(5)(C), which directed insertion of “, the Attorney General,” after “the Secretary of the Interior”, was executed by making the insertion after “The Secretary of the Interior”, to reflect the probable intent of Congress.
 
-    1988—[Pub. L. 100–690, § 2205(1)][/us/pl/100/690/s2205/1], inserted “; leasing of tribal property” in section catchline.
+    1988—[Pub. L. 100–690][/us/pl/100/690], § 2205(1), inserted “; leasing of tribal property” in section catchline.
 
-    Subsec. (c). [Pub. L. 100–690, § 2205(2)][/us/pl/100/690/s2205/2], added subsec. (c).
+    Subsec. (c). [Pub. L. 100–690][/us/pl/100/690], § 2205(2), added subsec. (c).
 
  __Lease and Operation of Facilities in Fairbanks, Alaska__ 
 
-[Pub. L. 101–630, title V, § 509(b)][/us/pl/101/630/s509/b], (c), Nov. 28, 1990, [104 Stat. 4567][/us/stat/104/4567], provided that:
+[Pub. L. 101–630, title V][/us/pl/101/630/tV], § 509(b), (c), Nov. 28, 1990, [104 Stat. 4567][/us/stat/104/4567], provided that:
 
 >     “(b)  __Lease of Facilities__  __.—__ 
 
@@ -70,21 +70,21 @@
 ----------
 ----------
 
-[/us/pl/99/570/s4209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs4209
+[/us/pl/99/570/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2FtIV
 [/us/stat/100/3207-142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3207-142
-[/us/pl/100/690/s2205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs2205
+[/us/pl/100/690/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtII
 [/us/stat/102/4217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4217
-[/us/pl/111/211/s241/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211%2Fs241%2Fa%2F5
+[/us/pl/111/211/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211%2FtII
 [/us/stat/124/2289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2289
 [/us/usc/t25/s2474/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs2474%2Fb
-[/us/pl/102/573/s702/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2Fs702%2Fb%2F2
+[/us/pl/102/573/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2FtVII
 [/us/stat/106/4582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4582
-[/us/pl/111/211/s241/a/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211%2Fs241%2Fa%2F5%2FA
-[/us/pl/111/211/s241/a/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211%2Fs241%2Fa%2F5%2FB
-[/us/pl/111/211/s241/a/5/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211%2Fs241%2Fa%2F5%2FC
-[/us/pl/100/690/s2205/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs2205%2F1
-[/us/pl/100/690/s2205/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs2205%2F2
-[/us/pl/101/630/s509/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F630%2Fs509%2Fb
+[/us/pl/111/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211
+[/us/pl/111/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211
+[/us/pl/111/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211
+[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
+[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
+[/us/pl/101/630/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F630%2FtV
 [/us/stat/104/4567]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4567
 [/us/usc/t25/s2415/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs2415%2Fc
 [/us/usc/t25/s450f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450f

@@ -49,7 +49,7 @@
 
         (3) The request for appropriations pursuant to paragraph (2) shall be subject to the approval of the Secretary and shall be included as a part of the budget request of the Department of the Interior.
 
-([Pub. L. 100–497, § 18][/us/pl/100/497/s18], Oct. 17, 1988, [102 Stat. 2484][/us/stat/102/2484]; [Pub. L. 105–83, title I, § 123(a)(1)][/us/pl/105/83/s123/a/1]–(2)(B), Nov. 14, 1997, [111 Stat. 1566][/us/stat/111/1566]; [Pub. L. 109–221, title III, § 301(b)][/us/pl/109/221/s301/b], May 12, 2006, [120 Stat. 341][/us/stat/120/341].)
+([Pub. L. 100–497][/us/pl/100/497], § 18, Oct. 17, 1988, [102 Stat. 2484][/us/stat/102/2484]; [Pub. L. 105–83, title I][/us/pl/105/83/tI], § 123(a)(1)–(2)(B), Nov. 14, 1997, [111 Stat. 1566][/us/stat/111/1566]; [Pub. L. 109–221, title III][/us/pl/109/221/tIII], § 301(b), May 12, 2006, [120 Stat. 341][/us/stat/120/341].)
 
  __References in Text__ 
 
@@ -59,15 +59,15 @@
 
     2006—Subsec. (a)(2)(B). [Pub. L. 109–221][/us/pl/109/221] added subpar. (B) and struck out former subpar. (B) which read as follows: “The total amount of all fees imposed during any fiscal year under the schedule established under paragraph (1) shall not exceed $8,000,000.”
 
-    1997—Subsec. (a)(1). [Pub. L. 105–83, § 123(a)(1)][/us/pl/105/83/s123/a/1], substituted “gaming operation that conducts a class II or class III gaming activity” for “class II gaming activity”.
+    1997—Subsec. (a)(1). [Pub. L. 105–83][/us/pl/105/83], § 123(a)(1), substituted “gaming operation that conducts a class II or class III gaming activity” for “class II gaming activity”.
 
-    Subsec. (a)(2)(A)(i). [Pub. L. 105–83, § 123(a)(2)(A)][/us/pl/105/83/s123/a/2/A], substituted “no more than 2.5 percent” for “no less than 0.5 percent nor more than 2.5 percent”.
+    Subsec. (a)(2)(A)(i). [Pub. L. 105–83][/us/pl/105/83], § 123(a)(2)(A), substituted “no more than 2.5 percent” for “no less than 0.5 percent nor more than 2.5 percent”.
 
-    Subsec. (a)(2)(B). [Pub. L. 105–83, § 123(a)(2)(B)][/us/pl/105/83/s123/a/2/B], substituted “$8,000,000” for “$1,500,000”.
+    Subsec. (a)(2)(B). [Pub. L. 105–83][/us/pl/105/83], § 123(a)(2)(B), substituted “$8,000,000” for “$1,500,000”.
 
  __Application to Self-Regulated Tribes__ 
 
-[Pub. L. 105–83, title I, § 123(a)(2)(C)][/us/pl/105/83/s123/a/2/C], Nov. 14, 1997, [111 Stat. 1566][/us/stat/111/1566], as amended by [Pub. L. 105–277, div. A, § 101(e)][/us/pl/105/277/s101/e] \[title III, § 338\], Oct. 21, 1998, [112 Stat. 2681–231][/us/stat/112/2681-231], 2681–295, provided that: 
+[Pub. L. 105–83, title I][/us/pl/105/83/tI], § 123(a)(2)(C), Nov. 14, 1997, [111 Stat. 1566][/us/stat/111/1566], as amended by [Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(e) \[title III, § 338\], Oct. 21, 1998, [112 Stat. 2681–231][/us/stat/112/2681-231], 2681–295, provided that: 
 
 > “\[N\]othing in subsection (a) of this section \[amending this section\] shall apply to the Mississippi Band of Choctaw.”
 
@@ -79,22 +79,22 @@
 ----------
 
 [/us/usc/t25/s2718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs2718
-[/us/pl/100/497/s18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F497%2Fs18
+[/us/pl/100/497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F497
 [/us/stat/102/2484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2484
-[/us/pl/105/83/s123/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F83%2Fs123%2Fa%2F1
+[/us/pl/105/83/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F83%2FtI
 [/us/stat/111/1566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1566
-[/us/pl/109/221/s301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F221%2Fs301%2Fb
+[/us/pl/109/221/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F221%2FtIII
 [/us/stat/120/341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F341
 [/us/pl/100/497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F497
 [/us/stat/102/2467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2467
 [/us/usc/t25/s2701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs2701
 [/us/pl/109/221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F221
-[/us/pl/105/83/s123/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F83%2Fs123%2Fa%2F1
-[/us/pl/105/83/s123/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F83%2Fs123%2Fa%2F2%2FA
-[/us/pl/105/83/s123/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F83%2Fs123%2Fa%2F2%2FB
-[/us/pl/105/83/s123/a/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F83%2Fs123%2Fa%2F2%2FC
+[/us/pl/105/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F83
+[/us/pl/105/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F83
+[/us/pl/105/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F83
+[/us/pl/105/83/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F83%2FtI
 [/us/stat/111/1566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1566
-[/us/pl/105/277/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fe
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-231
 
 

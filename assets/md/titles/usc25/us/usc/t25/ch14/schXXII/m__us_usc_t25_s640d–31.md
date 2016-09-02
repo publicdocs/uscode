@@ -17,11 +17,11 @@
 
     Nothing in this subchapter prohibits the Commissioner from providing relocation assistance to families certified as eligible, regardless of their current place of residence, with funds appropriated to implement this subchapter.
 
-([Pub. L. 93–531, § 32][/us/pl/93/531/s32], as added [Pub. L. 100–696, title IV, § 407][/us/pl/100/696/s407], Nov. 18, 1988, [102 Stat. 4593][/us/stat/102/4593].)
+([Pub. L. 93–531][/us/pl/93/531], § 32, as added [Pub. L. 100–696, title IV][/us/pl/100/696/tIV], § 407, Nov. 18, 1988, [102 Stat. 4593][/us/stat/102/4593].)
 
  __Codification__ 
 
-    Another [section 32 of Pub. L. 93–531][/us/pl/93/531/s32] was enacted by [Pub. L. 100–666, § 7][/us/pl/100/666/s7], Nov. 16, 1988, [102 Stat. 3932][/us/stat/102/3932], and is classified to [section 640d–30 of this title][/us/usc/t25/s640d–30].
+    Another [section 32 of Pub. L. 93–531][/us/pl/93/531/s32] was enacted by [Pub. L. 100–666][/us/pl/100/666], § 7, Nov. 16, 1988, [102 Stat. 3932][/us/stat/102/3932], and is classified to [section 640d–30 of this title][/us/usc/t25/s640d–30].
 
 ----------
 
@@ -30,11 +30,11 @@
 ----------
 ----------
 
-[/us/pl/93/531/s32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F531%2Fs32
-[/us/pl/100/696/s407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F696%2Fs407
+[/us/pl/93/531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F531
+[/us/pl/100/696/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F696%2FtIV
 [/us/stat/102/4593]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4593
 [/us/pl/93/531/s32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F531%2Fs32
-[/us/pl/100/666/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F666%2Fs7
+[/us/pl/100/666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F666
 [/us/stat/102/3932]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3932
 [/us/usc/t25/s640d–30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs640d%E2%80%9330
 

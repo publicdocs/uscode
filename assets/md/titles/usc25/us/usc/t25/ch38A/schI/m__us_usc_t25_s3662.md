@@ -17,7 +17,7 @@
 
     Subject to the availability of appropriations, the Attorney General, in consultation with the Office of Tribal Justice, shall award grants to non-profit entities, as defined under [section 501(c)(3) of title 26][/us/usc/t26/s501/c/3], which provide legal assistance services for Indian tribes, members of Indian tribes, or tribal justice systems pursuant to Federal poverty guidelines that submit an application to the Attorney General in such form and manner as the Attorney General may prescribe for the provision of civil legal assistance (including guardians ad litem and court-appointed special advocates for children and juveniles) to members of Indian tribes and tribal justice systems, and/or other purposes consistent with this chapter.
 
-([Pub. L. 106–559, title I, § 102][/us/pl/106/559/s102], Dec. 21, 2000, [114 Stat. 2780][/us/stat/114/2780]; [Pub. L. 111–211, title II, § 242(b)(1)][/us/pl/111/211/s242/b/1], July 29, 2010, [124 Stat. 2292][/us/stat/124/2292].)
+([Pub. L. 106–559, title I][/us/pl/106/559/tI], § 102, Dec. 21, 2000, [114 Stat. 2780][/us/stat/114/2780]; [Pub. L. 111–211, title II][/us/pl/111/211/tII], § 242(b)(1), July 29, 2010, [124 Stat. 2292][/us/stat/124/2292].)
 
  __Amendments__ 
 
@@ -31,9 +31,9 @@
 ----------
 
 [/us/usc/t26/s501/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs501%2Fc%2F3
-[/us/pl/106/559/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F559%2Fs102
+[/us/pl/106/559/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F559%2FtI
 [/us/stat/114/2780]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2780
-[/us/pl/111/211/s242/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211%2Fs242%2Fb%2F1
+[/us/pl/111/211/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211%2FtII
 [/us/stat/124/2292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2292
 [/us/pl/111/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211
 

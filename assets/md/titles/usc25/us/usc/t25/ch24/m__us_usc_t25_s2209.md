@@ -17,7 +17,7 @@
 
     Title to any land acquired under this chapter by any Indian or Indian tribe shall be taken in trust by the United States for that Indian or Indian tribe.
 
-([Pub. L. 97–459, title II, § 210][/us/pl/97/459/s210], Jan. 12, 1983, [96 Stat. 2519][/us/stat/96/2519].)
+([Pub. L. 97–459, title II][/us/pl/97/459/tII], § 210, Jan. 12, 1983, [96 Stat. 2519][/us/stat/96/2519].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/97/459/s210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F459%2Fs210
+[/us/pl/97/459/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F459%2FtII
 [/us/stat/96/2519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2519
 
 

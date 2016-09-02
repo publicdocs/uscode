@@ -59,11 +59,11 @@
 
         The Secretary shall append to the plan a detailed statement describing the manner in which the notification and consultation prescribed by subsection (d) was carried out and shall include any written comments with respect to the enlargement of the reservation for the tribe submitted to the Secretary by State and local officials and other interested parties in the course of such consultation.
 
-([Pub. L. 96–227, § 7][/us/pl/96/227/s7], Apr. 3, 1980, [94 Stat. 320][/us/stat/94/320]; [Pub. L. 109–126, § 4][/us/pl/109/126/s4], Dec. 7, 2005, [119 Stat. 2547][/us/stat/119/2547].)
+([Pub. L. 96–227][/us/pl/96/227], § 7, Apr. 3, 1980, [94 Stat. 320][/us/stat/94/320]; [Pub. L. 109–126][/us/pl/109/126], § 4, Dec. 7, 2005, [119 Stat. 2547][/us/stat/119/2547].)
 
  __References in Text__ 
 
-    Act of August 15, 1953 ([67 Stat. 588][/us/stat/67/588]), as amended by the Act of April 11, 1968 ([82 Stat. 79][/us/stat/82/79]), referred to in subsecs. (b) and (e)(4), probably means section 7 of [act Aug. 15, 1953, ch. 505][/us/act/1953-08-15/ch505], [67 Stat. 590][/us/stat/67/590], which was set out as a note under [section 1360 of Title 28][/us/usc/t28/s1360], Judiciary and Judicial Procedure, and was repealed by [Pub. L. 90–284, title IV, § 403(b)][/us/pl/90/284/s403/b], Apr. 11, 1968, [82 Stat. 79][/us/stat/82/79]. For complete classification of this Act to the Code, see Tables.
+    Act of August 15, 1953 ([67 Stat. 588][/us/stat/67/588]), as amended by the Act of April 11, 1968 ([82 Stat. 79][/us/stat/82/79]), referred to in subsecs. (b) and (e)(4), probably means section 7 of [act Aug. 15, 1953, ch. 505][/us/act/1953-08-15/ch505], [67 Stat. 590][/us/stat/67/590], which was set out as a note under [section 1360 of Title 28][/us/usc/t28/s1360], Judiciary and Judicial Procedure, and was repealed by [Pub. L. 90–284, title IV][/us/pl/90/284/tIV], § 403(b), Apr. 11, 1968, [82 Stat. 79][/us/stat/82/79]. For complete classification of this Act to the Code, see Tables.
 
  __Amendments__ 
 
@@ -71,7 +71,7 @@
 
  __Transfer of Land Into Trust for Shivwits Band of Paiute Indian Tribe of Utah__ 
 
-[Pub. L. 111–11, title I, § 1982][/us/pl/111/11/s1982], Mar. 30, 2009, [123 Stat. 1093][/us/stat/123/1093], provided that:
+[Pub. L. 111–11, title I][/us/pl/111/11/tI], § 1982, Mar. 30, 2009, [123 Stat. 1093][/us/stat/123/1093], provided that:
 
 >     “(a)  __Definitions__  __.—__ 
 
@@ -213,7 +213,7 @@
 
  __Reservation of Paiute Indian Tribe of Utah__ 
 
-[Pub. L. 98–219][/us/pl/98/219], Feb. 17, 1984, [98 Stat. 11][/us/stat/98/11], as amended by [Pub. L. 109–126, § 4][/us/pl/109/126/s4], Dec. 7, 2005, [119 Stat. 2547][/us/stat/119/2547], provided that:
+[Pub. L. 98–219][/us/pl/98/219], Feb. 17, 1984, [98 Stat. 11][/us/stat/98/11], as amended by [Pub. L. 109–126][/us/pl/109/126], § 4, Dec. 7, 2005, [119 Stat. 2547][/us/stat/119/2547], provided that:
 
 > “Section 1.
 
@@ -293,26 +293,26 @@
 [/us/usc/t25/s765]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs765
 [/us/stat/67/588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F588
 [/us/stat/82/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F79
-[/us/pl/96/227/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F227%2Fs7
+[/us/pl/96/227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F227
 [/us/stat/94/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F320
-[/us/pl/109/126/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F126%2Fs4
+[/us/pl/109/126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F126
 [/us/stat/119/2547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2547
 [/us/stat/67/588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F588
 [/us/stat/82/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F79
 [/us/act/1953-08-15/ch505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-08-15%2Fch505
 [/us/stat/67/590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F590
 [/us/usc/t28/s1360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1360
-[/us/pl/90/284/s403/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F284%2Fs403%2Fb
+[/us/pl/90/284/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F284%2FtIV
 [/us/stat/82/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F79
 [/us/pl/109/126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F126
-[/us/pl/111/11/s1982]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2Fs1982
+[/us/pl/111/11/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2FtI
 [/us/stat/123/1093]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1093
 [/us/pl/109/126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F126
 [/us/stat/119/2546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2546
 [/us/usc/t25/s761]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs761
 [/us/pl/98/219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F219
 [/us/stat/98/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F11
-[/us/pl/109/126/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F126%2Fs4
+[/us/pl/109/126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F126
 [/us/stat/119/2547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2547
 [/us/stat/48/985]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F985
 [/us/usc/t25/s465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs465

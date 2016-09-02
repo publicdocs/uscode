@@ -27,7 +27,7 @@
 
         A recipient may invest grant amounts for the purposes of carrying out affordable housing activities in investment securities and other obligations as approved by the Secretary.
 
-([Pub. L. 104–330, title II, § 204][/us/pl/104/330/s204], Oct. 26, 1996, [110 Stat. 4033][/us/stat/110/4033].)
+([Pub. L. 104–330, title II][/us/pl/104/330/tII], § 204, Oct. 26, 1996, [110 Stat. 4033][/us/stat/110/4033].)
 
  __References in Text__ 
 
@@ -45,7 +45,7 @@
 ----------
 
 [/us/usc/t25/s4133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs4133
-[/us/pl/104/330/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330%2Fs204
+[/us/pl/104/330/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330%2FtII
 [/us/stat/110/4033]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F4033
 [/us/pl/104/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330
 [/us/stat/110/4016]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F4016

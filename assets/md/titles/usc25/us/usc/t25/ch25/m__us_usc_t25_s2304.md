@@ -35,7 +35,7 @@
 
         (4) publication of notice in newspapers of general circulation in the appropriate area.
 
-([Pub. L. 98–500, § 5][/us/pl/98/500/s5], Oct. 19, 1984, [98 Stat. 2318][/us/stat/98/2318].)
+([Pub. L. 98–500][/us/pl/98/500], § 5, Oct. 19, 1984, [98 Stat. 2318][/us/stat/98/2318].)
 
 ----------
 
@@ -45,7 +45,7 @@
 ----------
 
 [/us/usc/t25/s2302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs2302
-[/us/pl/98/500/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F500%2Fs5
+[/us/pl/98/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F500
 [/us/stat/98/2318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2318
 
 

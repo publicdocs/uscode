@@ -23,7 +23,7 @@
 
         Not later than 120 days after the Tribe adopts a constitution and bylaws under subsection (a), the Secretary shall conduct an election by secret ballot for the purpose of electing tribal officials as provided in such tribal constitution. Such election shall be conducted according to the procedures specified in subsection (a) except to the extent that such procedures conflict with the tribal constitution.
 
-([Pub. L. 103–434, title II, § 207][/us/pl/103/434/s207], Oct. 31, 1994, [108 Stat. 4535][/us/stat/108/4535].)
+([Pub. L. 103–434, title II][/us/pl/103/434/tII], § 207, Oct. 31, 1994, [108 Stat. 4535][/us/stat/108/4535].)
 
 ----------
 
@@ -33,7 +33,7 @@
 ----------
 
 [/us/usc/t25/s476]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs476
-[/us/pl/103/434/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F434%2Fs207
+[/us/pl/103/434/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F434%2FtII
 [/us/stat/108/4535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4535
 
 

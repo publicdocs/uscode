@@ -29,7 +29,7 @@
 
         All administrative costs may be commingled and participating Indian tribes shall be entitled to the full amount of such costs (under each program or department’s regulations), and no overage shall be counted for Federal audit purposes, provided that the overage is used for the purposes provided for under this chapter.
 
-([Pub. L. 102–477, § 14][/us/pl/102/477/s14], Oct. 23, 1992, [106 Stat. 2305][/us/stat/106/2305].)
+([Pub. L. 102–477][/us/pl/102/477], § 14, Oct. 23, 1992, [106 Stat. 2305][/us/stat/106/2305].)
 
 ----------
 
@@ -38,7 +38,7 @@
 ----------
 ----------
 
-[/us/pl/102/477/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F477%2Fs14
+[/us/pl/102/477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F477
 [/us/stat/106/2305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2305
 
 

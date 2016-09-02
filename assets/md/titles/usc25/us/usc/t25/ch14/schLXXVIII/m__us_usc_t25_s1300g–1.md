@@ -17,7 +17,7 @@
 
     The Indians designated as the Tiwa Indians of Ysleta, Texas, by the Tiwa Indians Act shall, on and after August 18, 1987, be known and designated as the Ysleta del Sur Pueblo. Any reference in any law, map, regulation, document, record, or other paper of the United States to the Tiwa Indians of Ysleta, Texas, shall be deemed to be a reference to the Ysleta del Sur Pueblo.
 
-([Pub. L. 100–89, title I, § 102][/us/pl/100/89/s102], Aug. 18, 1987, [101 Stat. 666][/us/stat/101/666].)
+([Pub. L. 100–89, title I][/us/pl/100/89/tI], § 102, Aug. 18, 1987, [101 Stat. 666][/us/stat/101/666].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/100/89/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F89%2Fs102
+[/us/pl/100/89/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F89%2FtI
 [/us/stat/101/666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F666
 [/us/pl/90/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F287
 [/us/stat/82/93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F93

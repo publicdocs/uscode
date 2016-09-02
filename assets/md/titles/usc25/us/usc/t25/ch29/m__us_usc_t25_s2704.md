@@ -85,7 +85,7 @@
 
         (3) All members of the Commission shall be reimbursed in accordance with title 5 for travel, subsistence, and other necessary expenses incurred by them in the performance of their duties.
 
-([Pub. L. 100–497, § 5][/us/pl/100/497/s5], Oct. 17, 1988, [102 Stat. 2469][/us/stat/102/2469].)
+([Pub. L. 100–497][/us/pl/100/497], § 5, Oct. 17, 1988, [102 Stat. 2469][/us/stat/102/2469].)
 
 ----------
 
@@ -97,7 +97,7 @@
 [/us/usc/t25/s2711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs2711
 [/us/usc/t5/s5315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5315
 [/us/usc/t5/s5316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5316
-[/us/pl/100/497/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F497%2Fs5
+[/us/pl/100/497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F497
 [/us/stat/102/2469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2469
 
 

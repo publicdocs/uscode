@@ -45,7 +45,7 @@
 
         A member who is eighteen years of age or older is entitled and eligible to be given notice of, attend, participate in, and vote at, general council meetings and to nominate candidates for, to run for any office in, and to vote in elections of members to the interim council  <sup>\[2\]</sup>  <sup><sup> 2 So in original. Probably should be “Interim Council”. </sup></sup>  and to other tribal councils.
 
-([Pub. L. 98–481, § 4][/us/pl/98/481/s4], Oct. 17, 1984, [98 Stat. 2251][/us/stat/98/2251].)
+([Pub. L. 98–481][/us/pl/98/481], § 4, Oct. 17, 1984, [98 Stat. 2251][/us/stat/98/2251].)
 
 ----------
 
@@ -55,7 +55,7 @@
 ----------
 
 [/us/usc/t25/s714d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs714d
-[/us/pl/98/481/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F481%2Fs4
+[/us/pl/98/481]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F481
 [/us/stat/98/2251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2251
 
 

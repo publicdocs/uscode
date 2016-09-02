@@ -43,7 +43,7 @@
 
             The Office shall terminate 180 legislative days after the date on which the notice to the Congress under paragraph (2) is provided, unless the Congress extends the authorities of the Special Trustee. For the purposes of this section, a legislative day is a day on which either House of the Congress is in session.
 
-([Pub. L. 103–412, title III, § 302][/us/pl/103/412/s302], Oct. 25, 1994, [108 Stat. 4244][/us/stat/108/4244].)
+([Pub. L. 103–412, title III][/us/pl/103/412/tIII], § 302, Oct. 25, 1994, [108 Stat. 4244][/us/stat/108/4244].)
 
 ----------
 
@@ -54,7 +54,7 @@
 
 [/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313
 [/us/usc/t25/s4043/a/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs4043%2Fa%2F2%2FC
-[/us/pl/103/412/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F412%2Fs302
+[/us/pl/103/412/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F412%2FtIII
 [/us/stat/108/4244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4244
 
 

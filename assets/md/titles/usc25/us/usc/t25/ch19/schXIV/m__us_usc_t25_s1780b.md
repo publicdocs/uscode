@@ -23,7 +23,7 @@
 
         Upon entry of the final judgment under subsection (a), $6,900,000 shall be paid into the Settlement Fund as compensation to the Pueblo in accordance with [section 1304 of title 31][/us/usc/t31/s1304].
 
-([Pub. L. 109–286, § 4][/us/pl/109/286/s4], Sept. 27, 2006, [120 Stat. 1219][/us/stat/120/1219].)
+([Pub. L. 109–286][/us/pl/109/286], § 4, Sept. 27, 2006, [120 Stat. 1219][/us/stat/120/1219].)
 
 ----------
 
@@ -33,7 +33,7 @@
 ----------
 
 [/us/usc/t31/s1304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1304
-[/us/pl/109/286/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F286%2Fs4
+[/us/pl/109/286]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F286
 [/us/stat/120/1219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1219
 
 

@@ -17,7 +17,7 @@
 
     The costs of distribution may be paid out of the deductions authorized by sections 565a and 565c of this title. Any unused portion of such amounts shall remain in the United States Treasury to the credit of the Klamath Tribe.
 
-([Pub. L. 89–224, § 6][/us/pl/89/224/s6], Oct. 1, 1965, [79 Stat. 898][/us/stat/79/898].)
+([Pub. L. 89–224][/us/pl/89/224], § 6, Oct. 1, 1965, [79 Stat. 898][/us/stat/79/898].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/89/224/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F224%2Fs6
+[/us/pl/89/224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F224
 [/us/stat/79/898]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F898
 
 

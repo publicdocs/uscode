@@ -49,7 +49,7 @@
 
         (3) developmental training of Indian and Alaska Native personnel in forest land based enterprises and marketing.
 
-([Pub. L. 101–630, title III, § 315][/us/pl/101/630/s315], Nov. 28, 1990, [104 Stat. 4542][/us/stat/104/4542].)
+([Pub. L. 101–630, title III][/us/pl/101/630/tIII], § 315, Nov. 28, 1990, [104 Stat. 4542][/us/stat/104/4542].)
 
 ----------
 
@@ -58,7 +58,7 @@
 ----------
 ----------
 
-[/us/pl/101/630/s315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F630%2Fs315
+[/us/pl/101/630/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F630%2FtIII
 [/us/stat/104/4542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4542
 
 

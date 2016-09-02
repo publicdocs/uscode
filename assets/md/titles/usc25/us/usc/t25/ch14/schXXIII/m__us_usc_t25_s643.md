@@ -17,7 +17,7 @@
 
     The exercise of all powers granted the Hopi Tribal Council by this subchapter shall be subject to the approval of the Secretary of the Interior, or his duly authorized representatives.
 
-([Pub. L. 91–264, § 3][/us/pl/91/264/s3], May 22, 1970, [84 Stat. 261][/us/stat/84/261].)
+([Pub. L. 91–264][/us/pl/91/264], § 3, May 22, 1970, [84 Stat. 261][/us/stat/84/261].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/91/264/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F264%2Fs3
+[/us/pl/91/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F264
 [/us/stat/84/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F261
 
 

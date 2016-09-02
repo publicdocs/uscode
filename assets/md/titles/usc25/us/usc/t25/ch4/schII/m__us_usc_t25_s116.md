@@ -17,7 +17,7 @@
 
     All Indians, when they shall arrive at the age of eighteen years, shall have the right to receive and receipt for all annuity money that may be due or become due to them, if not otherwise incapacitated under the regulations of the Indian Office.
 
-([Mar. 1, 1899, ch. 324, § 8][/us/act/1899-03-01/ch324/s8], [30 Stat. 947][/us/stat/30/947].)
+([Mar. 1, 1899, ch. 324][/us/act/1899-03-01/ch324], § 8, [30 Stat. 947][/us/stat/30/947].)
 
  __Transfer of Functions__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1899-03-01/ch324/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1899-03-01%2Fch324%2Fs8
+[/us/act/1899-03-01/ch324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1899-03-01%2Fch324
 [/us/stat/30/947]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F30%2F947
 [/us/stat/64/1262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1262
 

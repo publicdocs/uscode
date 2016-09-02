@@ -17,7 +17,7 @@
 
     Beginning July 1, 2008, and thereafter, any funds (including investments and interest earned, except for construction funds) held by a [Public Law 100–297][/us/pl/100/297] grant or a [Public Law 93–638][/us/pl/93/638] contract school shall, upon retrocession to or re-assumption by the Bureau of Indian Education, remain available to the Bureau of Indian Education for a period of 5 years from the date of retrocession or re-assumption for the benefit of the programs approved for the school on October 1, 1995.
 
-([Pub. L. 113–76, div. G, title I, § 110][/us/pl/113/76/s110], Jan. 17, 2014, [128 Stat. 312][/us/stat/128/312].)
+([Pub. L. 113–76, div. G, title I][/us/pl/113/76/dG/tI], § 110, Jan. 17, 2014, [128 Stat. 312][/us/stat/128/312].)
 
  __References in Text__ 
 
@@ -38,7 +38,7 @@
 
 [/us/pl/100/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297
 [/us/pl/93/638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638
-[/us/pl/113/76/s110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs110
+[/us/pl/113/76/dG/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2FdG%2FtI
 [/us/stat/128/312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F312
 [/us/pl/100/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297
 [/us/pl/100/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297

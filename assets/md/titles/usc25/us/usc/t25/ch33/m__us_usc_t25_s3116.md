@@ -23,7 +23,7 @@
 
         Where an individual fails to accept a reasonable offer of employment in fulfillment of such obligated service or unreasonably terminates or fails to perform the duties of such employment, the Secretary shall require a repayment of the financial assistance provided, prorated for the amount of time of obligated service performed, together with interest on such amount which would be payable if at the time the amounts were paid they were loans bearing interest at the maximum legal prevailing rate, as determined by the Treasurer of the United States.
 
-([Pub. L. 101–630, title III, § 317][/us/pl/101/630/s317], Nov. 28, 1990, [104 Stat. 4544][/us/stat/104/4544].)
+([Pub. L. 101–630, title III][/us/pl/101/630/tIII], § 317, Nov. 28, 1990, [104 Stat. 4544][/us/stat/104/4544].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/101/630/s317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F630%2Fs317
+[/us/pl/101/630/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F630%2FtIII
 [/us/stat/104/4544]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4544
 
 

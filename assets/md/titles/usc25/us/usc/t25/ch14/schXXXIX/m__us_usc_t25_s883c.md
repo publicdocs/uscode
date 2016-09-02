@@ -17,7 +17,7 @@
 
     None of the funds distributed per capita under the provisions of sections 883 to 883d of this title shall be subject to Federal or State income taxes.
 
-([Pub. L. 92–586, § 4][/us/pl/92/586/s4], Oct. 27, 1972, [86 Stat. 1296][/us/stat/86/1296].)
+([Pub. L. 92–586][/us/pl/92/586], § 4, Oct. 27, 1972, [86 Stat. 1296][/us/stat/86/1296].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/92/586/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F586%2Fs4
+[/us/pl/92/586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F586
 [/us/stat/86/1296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1296
 
 

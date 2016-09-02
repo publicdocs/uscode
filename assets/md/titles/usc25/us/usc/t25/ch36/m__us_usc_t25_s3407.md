@@ -17,7 +17,7 @@
 
     Within 90 days after the receipt of a tribal government’s plan by the Secretary, the Secretary shall inform the tribal government, in writing, of the Secretary’s approval or disapproval of the plan, including any request for a waiver that is made as part of the plan submitted by the tribal government. If the plan is disapproved, the tribal government shall be informed, in writing, of the reasons for the disapproval and shall be given an opportunity to amend its plan or to petition the Secretary to reconsider such disapproval, including reconsidering the disapproval of any waiver requested by the Indian tribe.
 
-([Pub. L. 102–477, § 8][/us/pl/102/477/s8], Oct. 23, 1992, [106 Stat. 2303][/us/stat/106/2303]; [Pub. L. 106–568, title XI, § 1103(d)][/us/pl/106/568/s1103/d], Dec. 27, 2000, [114 Stat. 2932][/us/stat/114/2932].)
+([Pub. L. 102–477][/us/pl/102/477], § 8, Oct. 23, 1992, [106 Stat. 2303][/us/stat/106/2303]; [Pub. L. 106–568, title XI][/us/pl/106/568/tXI], § 1103(d), Dec. 27, 2000, [114 Stat. 2932][/us/stat/114/2932].)
 
  __Amendments__ 
 
@@ -30,9 +30,9 @@
 ----------
 ----------
 
-[/us/pl/102/477/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F477%2Fs8
+[/us/pl/102/477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F477
 [/us/stat/106/2303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2303
-[/us/pl/106/568/s1103/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F568%2Fs1103%2Fd
+[/us/pl/106/568/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F568%2FtXI
 [/us/stat/114/2932]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2932
 [/us/pl/106/568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F568
 

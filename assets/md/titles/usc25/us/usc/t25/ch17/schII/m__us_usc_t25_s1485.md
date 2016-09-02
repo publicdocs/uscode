@@ -83,33 +83,33 @@
 
         Not later than 180 days after December 13, 2002, the Secretary shall develop such procedures and promulgate such regulations as are necessary to facilitate, administer, and promote transfers of loans and guaranteed and insured portions of loans under this section.
 
-([Pub. L. 93–262, title II, § 205][/us/pl/93/262/s205], Apr. 12, 1974, [88 Stat. 80][/us/stat/88/80]; [Pub. L. 100–442, § 2][/us/pl/100/442/s2], Sept. 22, 1988, [102 Stat. 1763][/us/stat/102/1763]; [Pub. L. 107–331, title I, § 103(b)][/us/pl/107/331/s103/b], Dec. 13, 2002, [116 Stat. 2836][/us/stat/116/2836]; [Pub. L. 109–221, title IV, § 401(b)][/us/pl/109/221/s401/b], May 12, 2006, [120 Stat. 342][/us/stat/120/342].)
+([Pub. L. 93–262, title II][/us/pl/93/262/tII], § 205, Apr. 12, 1974, [88 Stat. 80][/us/stat/88/80]; [Pub. L. 100–442][/us/pl/100/442], § 2, Sept. 22, 1988, [102 Stat. 1763][/us/stat/102/1763]; [Pub. L. 107–331, title I][/us/pl/107/331/tI], § 103(b), Dec. 13, 2002, [116 Stat. 2836][/us/stat/116/2836]; [Pub. L. 109–221, title IV][/us/pl/109/221/tIV], § 401(b), May 12, 2006, [120 Stat. 342][/us/stat/120/342].)
 
  __References in Text__ 
 
-    Subsection (i), referred to in subsec. (g)(2), was redesignated as subsection (h) of this section by [Pub. L. 109–221, title IV, § 401(b)(3)][/us/pl/109/221/s401/b/3], May 12, 2006, [120 Stat. 342][/us/stat/120/342].
+    Subsection (i), referred to in subsec. (g)(2), was redesignated as subsection (h) of this section by [Pub. L. 109–221, title IV][/us/pl/109/221/tIV], § 401(b)(3), May 12, 2006, [120 Stat. 342][/us/stat/120/342].
 
  __Amendments__ 
 
-    2006—[Pub. L. 109–221, § 401(b)(1)][/us/pl/109/221/s401/b/1], inserted section catchline.
+    2006—[Pub. L. 109–221][/us/pl/109/221], § 401(b)(1), inserted section catchline.
 
-    Subsecs. (a), (b). [Pub. L. 109–221, § 401(b)(1)][/us/pl/109/221/s401/b/1], added subsecs. (a) and (b) and struck out former subsecs. (a) and (b), which authorized loan sale or assignment and set forth parameters for initial transfers.
+    Subsecs. (a), (b). [Pub. L. 109–221][/us/pl/109/221], § 401(b)(1), added subsecs. (a) and (b) and struck out former subsecs. (a) and (b), which authorized loan sale or assignment and set forth parameters for initial transfers.
 
-    Subsec. (c). [Pub. L. 109–221, § 401(b)(2)][/us/pl/109/221/s401/b/2], (3), redesignated subsec. (d) as (c) and struck out former subsec. (c) which set forth requirements for secondary transfers under this subchapter.
+    Subsec. (c). [Pub. L. 109–221][/us/pl/109/221], § 401(b)(2), (3), redesignated subsec. (d) as (c) and struck out former subsec. (c) which set forth requirements for secondary transfers under this subchapter.
 
-    Subsec. (c)(2). [Pub. L. 109–221, § 401(b)(4)][/us/pl/109/221/s401/b/4], added par. (2) and struck out former par (2) which provided for the incontestability of a guarantee or insurance of a loan under this subchapter with an exception for fraud or misrepresentation.
+    Subsec. (c)(2). [Pub. L. 109–221][/us/pl/109/221], § 401(b)(4), added par. (2) and struck out former par (2) which provided for the incontestability of a guarantee or insurance of a loan under this subchapter with an exception for fraud or misrepresentation.
 
-    Subsec. (d). [Pub. L. 109–221, § 401(b)(3)][/us/pl/109/221/s401/b/3], redesignated subsec. (e) as (d). Former subsec. (d) redesignated (c).
+    Subsec. (d). [Pub. L. 109–221][/us/pl/109/221], § 401(b)(3), redesignated subsec. (e) as (d). Former subsec. (d) redesignated (c).
 
-    Subsec. (e). [Pub. L. 109–221, § 401(b)(5)][/us/pl/109/221/s401/b/5], designated existing provisions as par. (1), inserted heading, and added par. (2).
+    Subsec. (e). [Pub. L. 109–221][/us/pl/109/221], § 401(b)(5), designated existing provisions as par. (1), inserted heading, and added par. (2).
 
-    [Pub. L. 109–221, § 401(b)(3)][/us/pl/109/221/s401/b/3], redesignated subsec. (f) as (e). Former subsec. (e) redesignated (d).
+    [Pub. L. 109–221][/us/pl/109/221], § 401(b)(3), redesignated subsec. (f) as (e). Former subsec. (e) redesignated (d).
 
-    Subsec. (f). [Pub. L. 109–221, § 401(b)(6)][/us/pl/109/221/s401/b/6], substituted “subsection (h)” for “subsection (i)” in introductory provisions and struck out “, and issuance of acknowledgments,” after “agent functions” in par. (2)(B).
+    Subsec. (f). [Pub. L. 109–221][/us/pl/109/221], § 401(b)(6), substituted “subsection (h)” for “subsection (i)” in introductory provisions and struck out “, and issuance of acknowledgments,” after “agent functions” in par. (2)(B).
 
-    [Pub. L. 109–221, § 401(b)(3)][/us/pl/109/221/s401/b/3], redesignated subsec. (g) as (f). Former subsec. (f) redesignated (e).
+    [Pub. L. 109–221][/us/pl/109/221], § 401(b)(3), redesignated subsec. (g) as (f). Former subsec. (f) redesignated (e).
 
-    Subsec. (g) to (i). [Pub. L. 109–221, § 401(b)(3)][/us/pl/109/221/s401/b/3], redesignated subsecs. (h) and (i) as (g) and (h), respectively. Former subsec. (g) redesignated (f).
+    Subsec. (g) to (i). [Pub. L. 109–221][/us/pl/109/221], § 401(b)(3), redesignated subsecs. (h) and (i) as (g) and (h), respectively. Former subsec. (g) redesignated (f).
 
     2002—[Pub. L. 107–331][/us/pl/107/331] designated existing provisions as subsec. (a), inserted heading and substituted “Any loan guaranteed or insured” for “Any loan guaranteed”, and added subsecs. (b) to (i).
 
@@ -117,7 +117,7 @@
 
  __Findings and Purpose__ 
 
-[Pub. L. 107–331, title I, § 102][/us/pl/107/331/s102], Dec. 13, 2002, [116 Stat. 2835][/us/stat/116/2835], provided that:
+[Pub. L. 107–331, title I][/us/pl/107/331/tI], § 102, Dec. 13, 2002, [116 Stat. 2835][/us/stat/116/2835], provided that:
 
 >     “(a)  __Findings__  __.—__ 
 
@@ -165,29 +165,29 @@
 ----------
 
 [/us/usc/t31/s3302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3302
-[/us/pl/93/262/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F262%2Fs205
+[/us/pl/93/262/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F262%2FtII
 [/us/stat/88/80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F80
-[/us/pl/100/442/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F442%2Fs2
+[/us/pl/100/442]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F442
 [/us/stat/102/1763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1763
-[/us/pl/107/331/s103/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F331%2Fs103%2Fb
+[/us/pl/107/331/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F331%2FtI
 [/us/stat/116/2836]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2836
-[/us/pl/109/221/s401/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F221%2Fs401%2Fb
+[/us/pl/109/221/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F221%2FtIV
 [/us/stat/120/342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F342
-[/us/pl/109/221/s401/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F221%2Fs401%2Fb%2F3
+[/us/pl/109/221/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F221%2FtIV
 [/us/stat/120/342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F342
-[/us/pl/109/221/s401/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F221%2Fs401%2Fb%2F1
-[/us/pl/109/221/s401/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F221%2Fs401%2Fb%2F1
-[/us/pl/109/221/s401/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F221%2Fs401%2Fb%2F2
-[/us/pl/109/221/s401/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F221%2Fs401%2Fb%2F4
-[/us/pl/109/221/s401/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F221%2Fs401%2Fb%2F3
-[/us/pl/109/221/s401/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F221%2Fs401%2Fb%2F5
-[/us/pl/109/221/s401/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F221%2Fs401%2Fb%2F3
-[/us/pl/109/221/s401/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F221%2Fs401%2Fb%2F6
-[/us/pl/109/221/s401/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F221%2Fs401%2Fb%2F3
-[/us/pl/109/221/s401/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F221%2Fs401%2Fb%2F3
+[/us/pl/109/221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F221
+[/us/pl/109/221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F221
+[/us/pl/109/221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F221
+[/us/pl/109/221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F221
+[/us/pl/109/221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F221
+[/us/pl/109/221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F221
+[/us/pl/109/221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F221
+[/us/pl/109/221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F221
+[/us/pl/109/221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F221
+[/us/pl/109/221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F221
 [/us/pl/107/331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F331
 [/us/pl/100/442]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F442
-[/us/pl/107/331/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F331%2Fs102
+[/us/pl/107/331/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F331%2FtI
 [/us/stat/116/2835]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2835
 [/us/usc/t25/s1451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1451
 [/us/usc/t25/s1451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1451

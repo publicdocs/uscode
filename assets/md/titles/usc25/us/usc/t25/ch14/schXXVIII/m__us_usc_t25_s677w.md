@@ -17,7 +17,7 @@
 
     Within three months after August 27, 1954, the business committee of the tribe representing the full-blood group thereof shall present to the Secretary a development program calculated to assist in making the tribe and the members thereof selfsupporting, without any special Government assistance, with a view of eventually terminating all Federal supervision of the tribe and its members.
 
-([Aug. 27, 1954, ch. 1009, § 24][/us/act/1954-08-27/ch1009/s24], [68 Stat. 877][/us/stat/68/877]; [Pub. L. 93–608, § 1(15)][/us/pl/93/608/s1/15], Jan. 2, 1975, [88 Stat. 1969][/us/stat/88/1969].)
+([Aug. 27, 1954, ch. 1009][/us/act/1954-08-27/ch1009], § 24, [68 Stat. 877][/us/stat/68/877]; [Pub. L. 93–608][/us/pl/93/608], § 1(15), Jan. 2, 1975, [88 Stat. 1969][/us/stat/88/1969].)
 
  __Amendments__ 
 
@@ -30,9 +30,9 @@
 ----------
 ----------
 
-[/us/act/1954-08-27/ch1009/s24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-27%2Fch1009%2Fs24
+[/us/act/1954-08-27/ch1009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-27%2Fch1009
 [/us/stat/68/877]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F877
-[/us/pl/93/608/s1/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F608%2Fs1%2F15
+[/us/pl/93/608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F608
 [/us/stat/88/1969]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1969
 [/us/pl/93/608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F608
 

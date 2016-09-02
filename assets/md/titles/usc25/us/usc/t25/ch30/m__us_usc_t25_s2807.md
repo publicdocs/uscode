@@ -17,7 +17,7 @@
 
     Notwithstanding the limitation in [section 5901(a) of title 5][/us/usc/t5/s5901/a], the Secretary may provide a uniform allowance for uniformed law enforcement officers under [section 2803 of this title][/us/usc/t25/s2803] of not more than $400 a year.
 
-([Pub. L. 101–379, § 8][/us/pl/101/379/s8], Aug. 18, 1990, [104 Stat. 477][/us/stat/104/477].)
+([Pub. L. 101–379][/us/pl/101/379], § 8, Aug. 18, 1990, [104 Stat. 477][/us/stat/104/477].)
 
 ----------
 
@@ -28,7 +28,7 @@
 
 [/us/usc/t5/s5901/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5901%2Fa
 [/us/usc/t25/s2803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs2803
-[/us/pl/101/379/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F379%2Fs8
+[/us/pl/101/379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F379
 [/us/stat/104/477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F477
 
 

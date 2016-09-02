@@ -21,7 +21,7 @@
 
     (2) authorizing or requiring the termination of any existing trust responsibility of the United States with respect to the Indian people.
 
-([Pub. L. 93–638, title I, § 111][/us/pl/93/638/s111], formerly § 110, Jan. 4, 1975, [88 Stat. 2213][/us/stat/88/2213]; renumbered § 111, [Pub. L. 100–472, title II, § 206(b)][/us/pl/100/472/s206/b], Oct. 5, 1988, [102 Stat. 2295][/us/stat/102/2295].)
+([Pub. L. 93–638, title I][/us/pl/93/638/tI], § 111, formerly § 110, Jan. 4, 1975, [88 Stat. 2213][/us/stat/88/2213]; renumbered § 111, [Pub. L. 100–472, title II][/us/pl/100/472/tII], § 206(b), Oct. 5, 1988, [102 Stat. 2295][/us/stat/102/2295].)
 
  __References in Text__ 
 
@@ -34,9 +34,9 @@
 ----------
 ----------
 
-[/us/pl/93/638/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638%2Fs111
+[/us/pl/93/638/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638%2FtI
 [/us/stat/88/2213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2213
-[/us/pl/100/472/s206/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F472%2Fs206%2Fb
+[/us/pl/100/472/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F472%2FtII
 [/us/stat/102/2295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2295
 [/us/pl/93/638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638
 [/us/stat/88/2203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2203

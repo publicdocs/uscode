@@ -33,7 +33,7 @@
 
         (2) Such report shall be submitted no later than 180 days after the entry of final judgment in such litigation. The report shall include any recommendations of the Secretary for action by Congress, including, but not limited to, any supplemental funding proposals necessary to implement the terms of this subchapter and any modifications to the resource and management authorities established by this subchapter. Notwithstanding the provisions of [section 2517 of title 28][/us/usc/t28/s2517], any judgment entered against the United States shall not be paid for 180 days after the entry of judgment; and, if the Secretary of the Interior submits a report to Congress pursuant to this section, then payment shall be made no earlier than 120 days after submission of the report.
 
-([Pub. L. 100–580, § 14][/us/pl/100/580/s14], Oct. 31, 1988, [102 Stat. 2936][/us/stat/102/2936]; [Pub. L. 101–301, § 9(4)][/us/pl/101/301/s9/4], May 24, 1990, [104 Stat. 211][/us/stat/104/211]; [Pub. L. 102–572, title IX, § 902(b)(1)][/us/pl/102/572/s902/b/1], Oct. 29, 1992, [106 Stat. 4516][/us/stat/106/4516].)
+([Pub. L. 100–580][/us/pl/100/580], § 14, Oct. 31, 1988, [102 Stat. 2936][/us/stat/102/2936]; [Pub. L. 101–301][/us/pl/101/301], § 9(4), May 24, 1990, [104 Stat. 211][/us/stat/104/211]; [Pub. L. 102–572, title IX][/us/pl/102/572/tIX], § 902(b)(1), Oct. 29, 1992, [106 Stat. 4516][/us/stat/106/4516].)
 
  __Amendments__ 
 
@@ -59,11 +59,11 @@
 [/us/usc/t25/s1300i–8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1300i%E2%80%938
 [/us/usc/t25/s1300i–8/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1300i%E2%80%938%2Fd%2F2
 [/us/usc/t28/s2517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2517
-[/us/pl/100/580/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F580%2Fs14
+[/us/pl/100/580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F580
 [/us/stat/102/2936]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2936
-[/us/pl/101/301/s9/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F301%2Fs9%2F4
+[/us/pl/101/301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F301
 [/us/stat/104/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F211
-[/us/pl/102/572/s902/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2Fs902%2Fb%2F1
+[/us/pl/102/572/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2FtIX
 [/us/stat/106/4516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4516
 [/us/pl/102/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572
 [/us/pl/101/301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F301

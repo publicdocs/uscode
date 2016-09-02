@@ -23,7 +23,7 @@
 
         The laws of the several States, Territories, possessions, and the District of Columbia with respect to the probate of wills, the determination of heirs, and the administration of decedents’ estates shall apply to the individual property of members of the tribe who die six months or more after August 13, 1954.
 
-([Aug. 13, 1954, ch. 732, § 9(a)][/us/act/1954-08-13/ch732/s9/a], (b), [68 Stat. 720][/us/stat/68/720], 721.)
+([Aug. 13, 1954, ch. 732][/us/act/1954-08-13/ch732], § 9(a), (b), [68 Stat. 720][/us/stat/68/720], 721.)
 
  __References in Text__ 
 
@@ -44,7 +44,7 @@
 
 [/us/stat/36/855]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F855
 [/us/stat/37/678]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F37%2F678
-[/us/act/1954-08-13/ch732/s9/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-13%2Fch732%2Fs9%2Fa
+[/us/act/1954-08-13/ch732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-13%2Fch732
 [/us/stat/68/720]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F720
 [/us/act/1910-06-25/ch431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1910-06-25%2Fch431
 [/us/stat/36/855]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F855

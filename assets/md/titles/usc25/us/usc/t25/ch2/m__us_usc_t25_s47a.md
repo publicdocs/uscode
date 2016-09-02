@@ -17,11 +17,11 @@
 
     The Secretary, in his discretion, may require security other than bonds required by sections 3131 and 3133 of title 40 when entering into a contract with an Indian-owned economic enterprise pursuant to the provisions of the Act of June 25, 1910 ([25 U.S.C. 47][/us/usc/t25/s47]), for the construction, alteration, or repair of any public work of the United States: Provided, That, the alternative form of security provides the United States with adequate security for performance and payment.
 
-([Pub. L. 98–449, § 11][/us/pl/98/449/s11], Oct. 4, 1984, [98 Stat. 1726][/us/stat/98/1726].)
+([Pub. L. 98–449][/us/pl/98/449], § 11, Oct. 4, 1984, [98 Stat. 1726][/us/stat/98/1726].)
 
  __Codification__ 
 
-    “Sections 3131 and 3133 of title 40” substituted in text for “the Miller Act ([40 U.S.C. 270a][/us/usc/t40/s270a])” on authority of [Pub. L. 107–217, § 5(c)][/us/pl/107/217/s5/c], Aug. 21, 2002, [116 Stat. 1303][/us/stat/116/1303], the first section of which enacted Title 40, Public Buildings, Property, and Works.
+    “Sections 3131 and 3133 of title 40” substituted in text for “the Miller Act ([40 U.S.C. 270a][/us/usc/t40/s270a])” on authority of [Pub. L. 107–217][/us/pl/107/217], § 5(c), Aug. 21, 2002, [116 Stat. 1303][/us/stat/116/1303], the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
 ----------
 
@@ -31,10 +31,10 @@
 ----------
 
 [/us/usc/t25/s47]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs47
-[/us/pl/98/449/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F449%2Fs11
+[/us/pl/98/449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F449
 [/us/stat/98/1726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1726
 [/us/usc/t40/s270a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs270a
-[/us/pl/107/217/s5/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs5%2Fc
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1303
 
 

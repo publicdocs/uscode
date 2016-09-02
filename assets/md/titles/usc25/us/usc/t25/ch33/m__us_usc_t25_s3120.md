@@ -17,7 +17,7 @@
 
     Nothing in this chapter shall be construed to diminish or expand the trust responsibility of the United States toward Indian forest lands, or any legal obligation or remedy resulting therefrom.
 
-([Pub. L. 101–630, title III, § 321][/us/pl/101/630/s321], Nov. 28, 1990, [104 Stat. 4544][/us/stat/104/4544].)
+([Pub. L. 101–630, title III][/us/pl/101/630/tIII], § 321, Nov. 28, 1990, [104 Stat. 4544][/us/stat/104/4544].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/101/630/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F630%2Fs321
+[/us/pl/101/630/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F630%2FtIII
 [/us/stat/104/4544]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4544
 
 

@@ -23,7 +23,7 @@
 
         All restrictions on the alienation or taxation of interests in land that are owned by members of the Ponca Tribe of Native Americans of Nebraska three years after September 5, 1962 shall be deemed removed by operation of law, and an unrestricted title shall be vested in each such member.
 
-([Pub. L. 87–629, § 4][/us/pl/87/629/s4], Sept. 5, 1962, [76 Stat. 430][/us/stat/76/430].)
+([Pub. L. 87–629][/us/pl/87/629], § 4, Sept. 5, 1962, [76 Stat. 430][/us/stat/76/430].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/87/629/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F629%2Fs4
+[/us/pl/87/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F629
 [/us/stat/76/430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F430
 
 

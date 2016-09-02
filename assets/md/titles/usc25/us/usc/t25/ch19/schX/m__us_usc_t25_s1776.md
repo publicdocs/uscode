@@ -37,11 +37,11 @@
 
         The purpose of this subchapter is to settle the 107th meridian boundary dispute created by the erroneous survey of the eastern boundary of the Crow Indian Reservation made by the Federal Government described in subsection (a)(3).
 
-([Pub. L. 103–444, § 2][/us/pl/103/444/s2], Nov. 2, 1994, [108 Stat. 4632][/us/stat/108/4632].)
+([Pub. L. 103–444][/us/pl/103/444], § 2, Nov. 2, 1994, [108 Stat. 4632][/us/stat/108/4632].)
 
  __Short Title__ 
 
-[Pub. L. 103–444, § 1][/us/pl/103/444/s1], Nov. 2, 1994, [108 Stat. 4632][/us/stat/108/4632], provided that: 
+[Pub. L. 103–444][/us/pl/103/444], § 1, Nov. 2, 1994, [108 Stat. 4632][/us/stat/108/4632], provided that: 
 
 > “This Act \[enacting this subchapter\] may be cited as the ‘Crow Boundary Settlement Act of 1994’.”
 
@@ -53,9 +53,9 @@
 ----------
 
 [/us/stat/15/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F15%2F649
-[/us/pl/103/444/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F444%2Fs2
+[/us/pl/103/444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F444
 [/us/stat/108/4632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4632
-[/us/pl/103/444/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F444%2Fs1
+[/us/pl/103/444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F444
 [/us/stat/108/4632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4632
 
 

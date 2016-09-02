@@ -19,7 +19,7 @@
 
     When proceedings are commenced in court as aforesaid, the railroad company shall deposit the amount of the award made by the referees with the court to abide the judgment thereof, and then have the right to enter upon the property sought to be condemned and proceed with the construction of the railway. Each of the referees shall receive for his compensation the sum of $4 per day while engaged in the hearing of any case submitted to them under sections 312 to 318 of this title. Witnesses shall receive the fees usually allowed by courts within the district where such land is located. Costs, including compensation of the referees, shall be made part of the award or judgment, and be paid by such railroad company.
 
-([Mar. 2, 1899, ch. 374, § 3][/us/act/1899-03-02/ch374/s3], [30 Stat. 991][/us/stat/30/991]; [Feb. 28, 1902, ch. 134, § 23][/us/act/1902-02-28/ch134/s23], [32 Stat. 50][/us/stat/32/50].)
+([Mar. 2, 1899, ch. 374][/us/act/1899-03-02/ch374], § 3, [30 Stat. 991][/us/stat/30/991]; [Feb. 28, 1902, ch. 134][/us/act/1902-02-28/ch134], § 23, [32 Stat. 50][/us/stat/32/50].)
 
 ----------
 
@@ -28,9 +28,9 @@
 ----------
 ----------
 
-[/us/act/1899-03-02/ch374/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1899-03-02%2Fch374%2Fs3
+[/us/act/1899-03-02/ch374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1899-03-02%2Fch374
 [/us/stat/30/991]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F30%2F991
-[/us/act/1902-02-28/ch134/s23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1902-02-28%2Fch134%2Fs23
+[/us/act/1902-02-28/ch134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1902-02-28%2Fch134
 [/us/stat/32/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F32%2F50
 
 

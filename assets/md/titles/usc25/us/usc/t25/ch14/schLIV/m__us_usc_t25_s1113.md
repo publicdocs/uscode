@@ -21,7 +21,7 @@
 
     (b) Their name or the name of an ancestor from whom they claim eligibility appears on the roll of Miami Indians of Indiana of June 12, 1895, or the roll of “Miami Indians of Indiana, now living in Kansas, Quapaw Agency, I.T., and Oklahoma Territory,” prepared and completed pursuant to the Act of March 2, 1895 ([28 Stat. 903][/us/stat/28/903]), or the roll of the Eel River Miami Tribe of Indians of May 27, 1889, prepared and completed pursuant to the Act of June 29, 1888 ([25 Stat. 223][/us/stat/25/223]). No person whose name appears on the current tribal roll of the Miami Tribe of Oklahoma shall be eligible to be enrolled under this section.
 
-([Pub. L. 89–659, § 3][/us/pl/89/659/s3], Oct. 14, 1966, [80 Stat. 909][/us/stat/80/909].)
+([Pub. L. 89–659][/us/pl/89/659], § 3, Oct. 14, 1966, [80 Stat. 909][/us/stat/80/909].)
 
  __References in Text__ 
 
@@ -43,7 +43,7 @@
 [/us/stat/75/747]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F747
 [/us/stat/28/903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F28%2F903
 [/us/stat/25/223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F25%2F223
-[/us/pl/89/659/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F659%2Fs3
+[/us/pl/89/659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F659
 [/us/stat/80/909]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F909
 [/us/pl/87/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F322
 [/us/stat/75/747]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F747

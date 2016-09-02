@@ -31,7 +31,7 @@
 
         (2) that only funds held for Indian tribes may be withdrawn and that any funds held for individual tribal members are not to be included in the plan.
 
-([Pub. L. 103–412, title II, § 203][/us/pl/103/412/s203], Oct. 25, 1994, [108 Stat. 4242][/us/stat/108/4242].)
+([Pub. L. 103–412, title II][/us/pl/103/412/tII], § 203, Oct. 25, 1994, [108 Stat. 4242][/us/stat/108/4242].)
 
  __References in Text__ 
 
@@ -46,7 +46,7 @@
 
 [/us/usc/t25/s4022]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs4022
 [/us/usc/t25/s1401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1401
-[/us/pl/103/412/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F412%2Fs203
+[/us/pl/103/412/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F412%2FtII
 [/us/stat/108/4242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4242
 [/us/pl/93/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F134
 [/us/stat/87/466]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F466

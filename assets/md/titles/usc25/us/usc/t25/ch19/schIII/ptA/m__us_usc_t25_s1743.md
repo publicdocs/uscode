@@ -23,7 +23,7 @@
 
     (3) the State of Florida has enacted appropriate legislation to carry out its commitments under paragraph 1b of the Settlement Agreement between the State of Florida and the Miccosukee Tribe and has given the waiver specified in paragraph 4d of such Agreement.
 
-([Pub. L. 97–399, § 4][/us/pl/97/399/s4], Dec. 31, 1982, [96 Stat. 2013][/us/stat/96/2013].)
+([Pub. L. 97–399][/us/pl/97/399], § 4, Dec. 31, 1982, [96 Stat. 2013][/us/stat/96/2013].)
 
 ----------
 
@@ -33,7 +33,7 @@
 ----------
 
 [/us/usc/t25/s1744]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1744
-[/us/pl/97/399/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F399%2Fs4
+[/us/pl/97/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F399
 [/us/stat/96/2013]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2013
 
 

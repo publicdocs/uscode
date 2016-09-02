@@ -27,11 +27,11 @@
 
     (5) it is necessary to institute a regular dam maintenance and repair program, utilizing the expertise in the Bureau, Indian tribes, and other Federal agencies.
 
-([Pub. L. 103–302, § 2][/us/pl/103/302/s2], Aug. 23, 1994, [108 Stat. 1560][/us/stat/108/1560].)
+([Pub. L. 103–302][/us/pl/103/302], § 2, Aug. 23, 1994, [108 Stat. 1560][/us/stat/108/1560].)
 
  __Short Title__ 
 
-[Pub. L. 103–302, § 1][/us/pl/103/302/s1], Aug. 23, 1994, [108 Stat. 1560][/us/stat/108/1560], provided that: 
+[Pub. L. 103–302][/us/pl/103/302], § 1, Aug. 23, 1994, [108 Stat. 1560][/us/stat/108/1560], provided that: 
 
 > “This Act \[enacting this chapter\] may be cited as the ‘Indian Dams Safety Act of 1994’.”
 
@@ -42,9 +42,9 @@
 ----------
 ----------
 
-[/us/pl/103/302/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F302%2Fs2
+[/us/pl/103/302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F302
 [/us/stat/108/1560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1560
-[/us/pl/103/302/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F302%2Fs1
+[/us/pl/103/302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F302
 [/us/stat/108/1560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1560
 
 

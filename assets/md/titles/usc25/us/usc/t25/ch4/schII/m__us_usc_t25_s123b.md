@@ -17,7 +17,7 @@
 
     On and after May 9, 1938, tribal funds shall be available for appropriation by Congress for traveling and other expenses, including supplies and equipment, of members of tribal councils, business committees, or other tribal organizations, when engaged on business of the tribes.
 
-([May 9, 1938, ch. 187, § 1][/us/act/1938-05-09/ch187/s1], [52 Stat. 315][/us/stat/52/315].)
+([May 9, 1938, ch. 187][/us/act/1938-05-09/ch187], § 1, [52 Stat. 315][/us/stat/52/315].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1938-05-09/ch187/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-05-09%2Fch187%2Fs1
+[/us/act/1938-05-09/ch187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-05-09%2Fch187
 [/us/stat/52/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F315
 
 

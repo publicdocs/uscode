@@ -17,7 +17,7 @@
 
     After the deduction of attorney fees, litigation expenses, the costs of distribution, and the cost of preparing the roll pursuant to [section 788a of this title][/us/usc/t25/s788a], the funds, including interest, remaining to the credit of the Creek Nation as constituted August 9, 1814, which were appropriated by the Act of April 30, 1965, to pay a judgment obtained in Indian Claims Commission docket numbered 21, shall be distributed on a per capita basis to all persons whose names appear on the roll. The funds so distributed shall not be subject to Federal or State income taxes.
 
-([Pub. L. 90–504, § 2][/us/pl/90/504/s2], Sept. 21, 1968, [82 Stat. 855][/us/stat/82/855].)
+([Pub. L. 90–504][/us/pl/90/504], § 2, Sept. 21, 1968, [82 Stat. 855][/us/stat/82/855].)
 
  __References in Text__ 
 
@@ -69,7 +69,7 @@
 ----------
 
 [/us/usc/t25/s788a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs788a
-[/us/pl/90/504/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F504%2Fs2
+[/us/pl/90/504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F504
 [/us/stat/82/855]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F855
 [/us/pl/89/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F16
 [/us/stat/79/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F81

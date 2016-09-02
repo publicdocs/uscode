@@ -47,7 +47,7 @@
 
         Each member who is eighteen years of age or older shall be eligible to attend, participate in, and vote at each general council meeting. Each such member may nominate candidates for any office, run for any office, and vote in any election of members to the Interim Council and to such other tribal governing body as may be established under the constitution and bylaws adopted in accordance with [section 713d of this title][/us/usc/t25/s713d].
 
-([Pub. L. 98–165, § 7][/us/pl/98/165/s7], Nov. 22, 1983, [97 Stat. 1067][/us/stat/97/1067].)
+([Pub. L. 98–165][/us/pl/98/165], § 7, Nov. 22, 1983, [97 Stat. 1067][/us/stat/97/1067].)
 
 ----------
 
@@ -66,7 +66,7 @@
 [/us/usc/t25/s713d/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs713d%2Fa
 [/us/usc/t25/s713d/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs713d%2Fa
 [/us/usc/t25/s713d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs713d
-[/us/pl/98/165/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F165%2Fs7
+[/us/pl/98/165]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F165
 [/us/stat/97/1067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1067
 
 

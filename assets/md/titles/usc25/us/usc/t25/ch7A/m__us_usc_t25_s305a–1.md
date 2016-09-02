@@ -17,7 +17,7 @@
 
     In fiscal year 1997 and thereafter, the Indian Arts and Crafts Board may charge admission fees at its museums; charge rent and/or franchise fees for shops located in its museums; publish and sell publications; sell or rent or license use of photographs or other images in hard copy or other forms; license the use of designs, in whole or in part, by others; charge for consulting services provided to others; and may accept the services of volunteers to carry out its mission: Provided, That all revenue derived from such activities is covered into the special fund established by [section 305c of this title][/us/usc/t25/s305c].
 
-([Pub. L. 104–208, div. A, title I, § 101(d)][/us/pl/104/208/s101/d] \[title I, § 118\], Sept. 30, 1996, [110 Stat. 3009–181][/us/stat/110/3009-181], 3009–202.)
+([Pub. L. 104–208, div. A, title I][/us/pl/104/208/dA/tI], § 101(d) \[title I, § 118\], Sept. 30, 1996, [110 Stat. 3009–181][/us/stat/110/3009-181], 3009–202.)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t25/s305c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs305c
-[/us/pl/104/208/s101/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Fd
+[/us/pl/104/208/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtI
 [/us/stat/110/3009-181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-181
 
 

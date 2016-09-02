@@ -17,7 +17,7 @@
 
     The Secretary of the Interior is authorized to receive on behalf of the United States from individual members of the Klamath Tribe of Indians voluntarily executed deeds to such lands as said Indians may own in fee simple free from all encumbrances, said lands to be held in trust by the United States for said Indians and their heirs; and, whenever restricted funds are used for the purchase of lands for individual members of the Klamath Tribe of Indians, the Secretary of the Interior is authorized, in his discretion, to take title to said lands in the United States, the same to be held in trust for said individual Indians: Provided, however, That while any of the foregoing lands are held in trust by the United States for said Indians, the same shall be subject to the same restrictions, immunities, and exemptions as homesteads purchased out of trust or restricted funds of individual Indians pursuant to [section 412a of this title][/us/usc/t25/s412a], except the restrictions, immunities, or exemptions of the second proviso of said section.
 
-([Feb. 24, 1942, ch. 113, § 1][/us/act/1942-02-24/ch113/s1], [56 Stat. 121][/us/stat/56/121].)
+([Feb. 24, 1942, ch. 113][/us/act/1942-02-24/ch113], § 1, [56 Stat. 121][/us/stat/56/121].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t25/s412a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs412a
-[/us/act/1942-02-24/ch113/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-02-24%2Fch113%2Fs1
+[/us/act/1942-02-24/ch113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-02-24%2Fch113
 [/us/stat/56/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F56%2F121
 
 

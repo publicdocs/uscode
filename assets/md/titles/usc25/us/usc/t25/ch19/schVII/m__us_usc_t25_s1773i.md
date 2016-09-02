@@ -17,7 +17,7 @@
 
     The Secretary in administering this subchapter shall be aware of the trust responsibility of the United States to the Tribe and shall take such actions as may be necessary or appropriate to carry out this subchapter and the Settlement Agreement.
 
-([Pub. L. 101–41, § 11][/us/pl/101/41/s11], June 21, 1989, [103 Stat. 89][/us/stat/103/89].)
+([Pub. L. 101–41][/us/pl/101/41], § 11, June 21, 1989, [103 Stat. 89][/us/stat/103/89].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/101/41/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F41%2Fs11
+[/us/pl/101/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F41
 [/us/stat/103/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F89
 
 

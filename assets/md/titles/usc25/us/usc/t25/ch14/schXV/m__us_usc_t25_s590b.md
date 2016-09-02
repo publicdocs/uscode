@@ -17,7 +17,7 @@
 
     The funds credited to the Shoshone-Bannock Tribes of the Fort Hall Reservation pursuant to [section 590a of this title][/us/usc/t25/s590a], may be advanced, deposited, expended, invested, or reinvested for any purposes that are authorized by the tribal governing body and approved by the Secretary of the Interior.
 
-([Pub. L. 92–442, § 2][/us/pl/92/442/s2], Sept. 29, 1972, [86 Stat. 744][/us/stat/86/744].)
+([Pub. L. 92–442][/us/pl/92/442], § 2, Sept. 29, 1972, [86 Stat. 744][/us/stat/86/744].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t25/s590a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs590a
-[/us/pl/92/442/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F442%2Fs2
+[/us/pl/92/442]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F442
 [/us/stat/86/744]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F744
 
 

@@ -25,11 +25,11 @@
 
     (4) “member” used with respect to the Tribe means a person enrolled on the membership roll of the Tribe provided for in [section 714b of this title][/us/usc/t25/s714b].
 
-([Pub. L. 98–481, § 2][/us/pl/98/481/s2], Oct. 17, 1984, [98 Stat. 2250][/us/stat/98/2250].)
+([Pub. L. 98–481][/us/pl/98/481], § 2, Oct. 17, 1984, [98 Stat. 2250][/us/stat/98/2250].)
 
  __Short Title__ 
 
-[Pub. L. 98–481, § 1][/us/pl/98/481/s1], Oct. 17, 1984, [98 Stat. 2250][/us/stat/98/2250], provided: 
+[Pub. L. 98–481][/us/pl/98/481], § 1, Oct. 17, 1984, [98 Stat. 2250][/us/stat/98/2250], provided: 
 
 > “That this Act \[enacting this subchapter\] may be cited as the ‘Coos, Lower Umpqua, and Siuslaw Restoration Act’.”
 
@@ -42,9 +42,9 @@
 
 [/us/usc/t25/s714c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs714c
 [/us/usc/t25/s714b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs714b
-[/us/pl/98/481/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F481%2Fs2
+[/us/pl/98/481]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F481
 [/us/stat/98/2250]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2250
-[/us/pl/98/481/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F481%2Fs1
+[/us/pl/98/481]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F481
 [/us/stat/98/2250]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2250
 
 

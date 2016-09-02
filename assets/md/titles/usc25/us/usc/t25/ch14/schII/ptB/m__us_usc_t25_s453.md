@@ -17,7 +17,7 @@
 
     The Secretary of the Interior, in making any contract authorized by sections 452 to 457 of this title, may permit such contracting party to utilize, for the purposes of said sections, existing school buildings, hospitals, and other facilities, and all equipment therein or appertaining thereto, including livestock and other personal property owned by the Government, under such terms and conditions as may be agreed upon for their use and maintenance.
 
-([Apr. 16, 1934, ch. 147, § 2][/us/act/1934-04-16/ch147/s2], [48 Stat. 596][/us/stat/48/596]; [June 4, 1936, ch. 490, § 2][/us/act/1936-06-04/ch490/s2], [49 Stat. 1459][/us/stat/49/1459].)
+([Apr. 16, 1934, ch. 147][/us/act/1934-04-16/ch147], § 2, [48 Stat. 596][/us/stat/48/596]; [June 4, 1936, ch. 490][/us/act/1936-06-04/ch490], § 2, [49 Stat. 1459][/us/stat/49/1459].)
 
  __Amendments__ 
 
@@ -30,9 +30,9 @@
 ----------
 ----------
 
-[/us/act/1934-04-16/ch147/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-04-16%2Fch147%2Fs2
+[/us/act/1934-04-16/ch147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-04-16%2Fch147
 [/us/stat/48/596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F596
-[/us/act/1936-06-04/ch490/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-04%2Fch490%2Fs2
+[/us/act/1936-06-04/ch490]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-04%2Fch490
 [/us/stat/49/1459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1459
 
 

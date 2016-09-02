@@ -17,7 +17,7 @@
 
     The Secretary is authorized and directed to withdraw the funds on deposit in the Treasury of the United States to the credit of the Snake or Paiute Tribe that were appropriated by the Act of April 13, 1960 ([74 Stat. 42][/us/stat/74/42]), in satisfaction of a judgment that was obtained by the tribe in the Indian Claims Commission against the United States in docket numbered 17 together with the interest accrued thereon, after payment of attorney fees and expenses, as well as all other expenses, and to prorate such funds among those persons whose names appear on the roll prepared pursuant to [section 1011 of this title][/us/usc/t25/s1011] for distribution as hereinafter provided.
 
-([Pub. L. 88–464, § 2][/us/pl/88/464/s2], Aug. 20, 1964, [78 Stat. 563][/us/stat/78/563].)
+([Pub. L. 88–464][/us/pl/88/464], § 2, Aug. 20, 1964, [78 Stat. 563][/us/stat/78/563].)
 
  __References in Text__ 
 
@@ -34,7 +34,7 @@
 
 [/us/stat/74/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F42
 [/us/usc/t25/s1011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1011
-[/us/pl/88/464/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F464%2Fs2
+[/us/pl/88/464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F464
 [/us/stat/78/563]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F563
 [/us/pl/86/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F424
 [/us/stat/74/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F42

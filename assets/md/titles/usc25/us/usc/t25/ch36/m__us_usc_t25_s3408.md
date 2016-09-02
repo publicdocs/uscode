@@ -37,7 +37,7 @@
 
         The funds used for an expenditure described in subsection (a) may only include funds made available to the Indian tribe by a Federal agency under a statutory or administrative formula.
 
-([Pub. L. 102–477, § 9][/us/pl/102/477/s9], Oct. 23, 1992, [106 Stat. 2303][/us/stat/106/2303]; [Pub. L. 106–568, title XI, § 1103(e)][/us/pl/106/568/s1103/e], Dec. 27, 2000, [114 Stat. 2932][/us/stat/114/2932].)
+([Pub. L. 102–477][/us/pl/102/477], § 9, Oct. 23, 1992, [106 Stat. 2303][/us/stat/106/2303]; [Pub. L. 106–568, title XI][/us/pl/106/568/tXI], § 1103(e), Dec. 27, 2000, [114 Stat. 2932][/us/stat/114/2932].)
 
  __Amendments__ 
 
@@ -51,9 +51,9 @@
 ----------
 
 [/us/usc/t25/s3409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs3409
-[/us/pl/102/477/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F477%2Fs9
+[/us/pl/102/477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F477
 [/us/stat/106/2303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2303
-[/us/pl/106/568/s1103/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F568%2Fs1103%2Fe
+[/us/pl/106/568/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F568%2FtXI
 [/us/stat/114/2932]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2932
 [/us/pl/106/568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F568
 

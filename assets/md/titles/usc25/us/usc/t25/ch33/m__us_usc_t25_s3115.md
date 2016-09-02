@@ -39,7 +39,7 @@
 
         Nothing in this chapter shall be construed to limit the authority of the Secretary to enter into cooperative agreements otherwise authorized by law.
 
-([Pub. L. 101–630, title III, § 316][/us/pl/101/630/s316], Nov. 28, 1990, [104 Stat. 4543][/us/stat/104/4543].)
+([Pub. L. 101–630, title III][/us/pl/101/630/tIII], § 316, Nov. 28, 1990, [104 Stat. 4543][/us/stat/104/4543].)
 
 ----------
 
@@ -48,7 +48,7 @@
 ----------
 ----------
 
-[/us/pl/101/630/s316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F630%2Fs316
+[/us/pl/101/630/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F630%2FtIII
 [/us/stat/104/4543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4543
 
 

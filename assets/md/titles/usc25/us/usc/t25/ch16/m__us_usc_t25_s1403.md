@@ -39,17 +39,17 @@
 
         (6) methods exist and will be employed to insure the proper performance of the plan once it becomes effective under [section 1405 of this title][/us/usc/t25/s1405].
 
-([Pub. L. 93–134, § 3][/us/pl/93/134/s3], Oct. 19, 1973, [87 Stat. 467][/us/stat/87/467]; [Pub. L. 97–458, § 2][/us/pl/97/458/s2], Jan. 12, 1983, [96 Stat. 2512][/us/stat/96/2512].)
+([Pub. L. 93–134][/us/pl/93/134], § 3, Oct. 19, 1973, [87 Stat. 467][/us/stat/87/467]; [Pub. L. 97–458][/us/pl/97/458], § 2, Jan. 12, 1983, [96 Stat. 2512][/us/stat/96/2512].)
 
  __Amendments__ 
 
-    1983—Subsec. (b)(3). [Pub. L. 97–458, § 2(a)][/us/pl/97/458/s2/a], inserted proviso.
+    1983—Subsec. (b)(3). [Pub. L. 97–458][/us/pl/97/458], § 2(a), inserted proviso.
 
-    Subsec. (b)(5). [Pub. L. 97–458, § 2(b)][/us/pl/97/458/s2/b], inserted proviso.
+    Subsec. (b)(5). [Pub. L. 97–458][/us/pl/97/458], § 2(b), inserted proviso.
 
  __Disbursements for Urgent Needs of Minors and Legal Incompetents and Accounting for Expenditures__ 
 
-    [Pub. L. 97–458, § 2(a)][/us/pl/97/458/s2/a], Jan. 12, 1983, [96 Stat. 2512][/us/stat/96/2512], provided in part that plan or plans approved by the Secretary and the tribal governing body of an Indian tribe for disbursements to parents or legal guardian of minors or legal incompetents for health, education, welfare, or emergencies of their charges “shall be limited to urgent needs arising from extenuating circumstances and shall accord with general principles governing administration of trust funds of minors and legal incompetents, including a requirement for strict accounting for expenditures.”
+    [Pub. L. 97–458][/us/pl/97/458], § 2(a), Jan. 12, 1983, [96 Stat. 2512][/us/stat/96/2512], provided in part that plan or plans approved by the Secretary and the tribal governing body of an Indian tribe for disbursements to parents or legal guardian of minors or legal incompetents for health, education, welfare, or emergencies of their charges “shall be limited to urgent needs arising from extenuating circumstances and shall accord with general principles governing administration of trust funds of minors and legal incompetents, including a requirement for strict accounting for expenditures.”
 
 ----------
 
@@ -59,13 +59,13 @@
 ----------
 
 [/us/usc/t25/s1405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1405
-[/us/pl/93/134/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F134%2Fs3
+[/us/pl/93/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F134
 [/us/stat/87/467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F467
-[/us/pl/97/458/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F458%2Fs2
+[/us/pl/97/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F458
 [/us/stat/96/2512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2512
-[/us/pl/97/458/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F458%2Fs2%2Fa
-[/us/pl/97/458/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F458%2Fs2%2Fb
-[/us/pl/97/458/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F458%2Fs2%2Fa
+[/us/pl/97/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F458
+[/us/pl/97/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F458
+[/us/pl/97/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F458
 [/us/stat/96/2512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2512
 
 

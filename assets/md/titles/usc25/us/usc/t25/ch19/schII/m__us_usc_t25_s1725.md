@@ -61,11 +61,11 @@
 
         As federally recognized Indian tribes, the Passamaquoddy Tribe, the Penobscot Nation, and the Houlton Band of Maliseet Indians shall be eligible to receive all of the financial benefits which the United States provides to Indians, Indian nations, or tribes or bands of Indians to the same extent and subject to the same eligibility criteria generally applicable to other Indians, Indian nations or tribes or bands of Indians. The Passamaquoddy Tribe, the Penobscot Nation, and the Houlton Band of Maliseet Indians shall be treated in the same manner as other federally recognized tribes for the purposes of Federal taxation and any lands which are held by the respective tribe, nation, or band subject to a restriction against alienation or which are held in trust for the benefit of the respective tribe, nation, or band shall be considered Federal Indian reservations for purposes of Federal taxation. Notwithstanding any other provision of law authorizing the provision of special programs and services by the United States to Indians because of their status as Indians, any member of the Houlton Band of Maliseet Indians in or near the town of Houlton, Maine, shall be eligible for such programs and services without regard to the existence of a reservation or of the residence of such member on or near a reservation.
 
-([Pub. L. 96–420, § 6][/us/pl/96/420/s6], Oct. 10, 1980, [94 Stat. 1793][/us/stat/94/1793]; [Pub. L. 97–428, § 3][/us/pl/97/428/s3], Jan. 8, 1983, [96 Stat. 2268][/us/stat/96/2268].)
+([Pub. L. 96–420][/us/pl/96/420], § 6, Oct. 10, 1980, [94 Stat. 1793][/us/stat/94/1793]; [Pub. L. 97–428][/us/pl/97/428], § 3, Jan. 8, 1983, [96 Stat. 2268][/us/stat/96/2268].)
 
  __Codification__ 
 
-    In subsec. (d)(2), “[section 3727 of title 31][/us/usc/t31/s3727]” substituted for “section 3477 of the Revised Statutes, as amended” on authority of [Pub. L. 97–258, § 4(b)][/us/pl/97/258/s4/b], Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], the first section of which enacted Title 31, Money and Finance.
+    In subsec. (d)(2), “[section 3727 of title 31][/us/usc/t31/s3727]” substituted for “section 3477 of the Revised Statutes, as amended” on authority of [Pub. L. 97–258][/us/pl/97/258], § 4(b), Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], the first section of which enacted Title 31, Money and Finance.
 
  __Amendments__ 
 
@@ -84,12 +84,12 @@
 [/us/usc/t28/s1362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1362
 [/us/usc/t31/s3727]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3727
 [/us/usc/t25/s1724/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1724%2Fa
-[/us/pl/96/420/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F420%2Fs6
+[/us/pl/96/420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F420
 [/us/stat/94/1793]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1793
-[/us/pl/97/428/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F428%2Fs3
+[/us/pl/97/428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F428
 [/us/stat/96/2268]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2268
 [/us/usc/t31/s3727]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3727
-[/us/pl/97/258/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs4%2Fb
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1067
 [/us/pl/97/428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F428
 

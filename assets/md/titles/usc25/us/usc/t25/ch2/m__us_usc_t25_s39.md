@@ -13,7 +13,7 @@
 
 [Previous](./../../../..//us/usc/t25/ch2/m__us_usc_t25_s38.md) | [Next](./../../../..//us/usc/t25/ch2/m__us_usc_t25_s40.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs39)
 
-## § 39. Repealed. [Pub. L. 89–554, § 8(a)][/us/pl/89/554/s8/a], Sept. 6, 1966, [80 Stat. 632][/us/stat/80/632]
+## § 39. Repealed. [Pub. L. 89–554][/us/pl/89/554], § 8(a), Sept. 6, 1966, [80 Stat. 632][/us/stat/80/632]
 
     Section, R.S. § 2063, related to compensation for extra services rendered by Indian Agents.
 
@@ -24,7 +24,7 @@
 ----------
 ----------
 
-[/us/pl/89/554/s8/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs8%2Fa
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F632
 
 

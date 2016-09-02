@@ -19,7 +19,7 @@
 
     In any case in which a claim against a State, county, or political subdivision thereof, for taxes collected upon such lands during the trust period has been reduced to judgment and such judgment remains unsatisfied in whole or in part, the Secretary of the Interior is authorized, upon reimbursement by him to the Indian of the amount of taxes including penalties and interest paid thereon, and upon payment by the judgment debtor of the costs of the suit, to cause such judgment to be released: Provided further, That in any case, upon submission of adequate proof, the claims for taxes paid by or on behalf of the patentee or his Indian heirs or Indian devisees have been satisfied, in whole or in part, by the State, county, or political subdivision thereof, the Secretary of the Interior is authorized to reimburse the State, county, or political subdivision for such amounts as may have been paid by them.
 
-([June 11, 1940, ch. 315, § 1][/us/act/1940-06-11/ch315/s1], [54 Stat. 298][/us/stat/54/298]; [Feb. 10, 1942, ch. 56, § 1][/us/act/1942-02-10/ch56/s1], [56 Stat. 87][/us/stat/56/87].)
+([June 11, 1940, ch. 315][/us/act/1940-06-11/ch315], § 1, [54 Stat. 298][/us/stat/54/298]; [Feb. 10, 1942, ch. 56][/us/act/1942-02-10/ch56], § 1, [56 Stat. 87][/us/stat/56/87].)
 
  __Amendments__ 
 
@@ -27,7 +27,7 @@
 
  __Appropriations__ 
 
-    [Act Feb. 10, 1942, ch. 56, § 2][/us/act/1942-02-10/ch56/s2], [56 Stat. 88][/us/stat/56/88], authorized appropriations to remain available until expended.
+    [Act Feb. 10, 1942, ch. 56][/us/act/1942-02-10/ch56], § 2, [56 Stat. 88][/us/stat/56/88], authorized appropriations to remain available until expended.
 
 ----------
 
@@ -36,11 +36,11 @@
 ----------
 ----------
 
-[/us/act/1940-06-11/ch315/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-06-11%2Fch315%2Fs1
+[/us/act/1940-06-11/ch315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-06-11%2Fch315
 [/us/stat/54/298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F298
-[/us/act/1942-02-10/ch56/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-02-10%2Fch56%2Fs1
+[/us/act/1942-02-10/ch56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-02-10%2Fch56
 [/us/stat/56/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F56%2F87
-[/us/act/1942-02-10/ch56/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-02-10%2Fch56%2Fs2
+[/us/act/1942-02-10/ch56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-02-10%2Fch56
 [/us/stat/56/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F56%2F88
 
 

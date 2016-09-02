@@ -45,7 +45,7 @@
 
         For purposes of sections 711c and 711d of this title, a member who is eighteen years of age or older is entitled and eligible to be given notice of, attend, participate in, and vote at, general council meetings and to nominate candidates for, to run for any office in, and to vote in, elections of members to the Interim Council and to other tribal councils.
 
-([Pub. L. 95–195, § 4][/us/pl/95/195/s4], Nov. 18, 1977, [91 Stat. 1416][/us/stat/91/1416].)
+([Pub. L. 95–195][/us/pl/95/195], § 4, Nov. 18, 1977, [91 Stat. 1416][/us/stat/91/1416].)
 
 ----------
 
@@ -54,7 +54,7 @@
 ----------
 ----------
 
-[/us/pl/95/195/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F195%2Fs4
+[/us/pl/95/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F195
 [/us/stat/91/1416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1416
 
 

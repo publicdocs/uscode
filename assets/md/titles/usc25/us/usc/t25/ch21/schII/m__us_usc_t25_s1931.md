@@ -39,7 +39,7 @@
 
         Funds appropriated for use by the Secretary in accordance with this section may be utilized as non-Federal matching share in connection with funds provided under titles IV–B and XX of the Social Security Act \[[42 U.S.C. 620][/us/usc/t42/s620] et seq., 1397 et seq.\] or under any other Federal financial assistance programs which contribute to the purpose for which such funds are authorized to be appropriated for use under this chapter. The provision or possibility of assistance under this chapter shall not be a basis for the denial or reduction of any assistance otherwise authorized under titles IV–B and XX of the Social Security Act or any other federally assisted program. For purposes of qualifying for assistance under a federally assisted program, licensing or approval of foster or adoptive homes or institutions by an Indian tribe shall be deemed equivalent to licensing or approval by a State.
 
-([Pub. L. 95–608, title II, § 201][/us/pl/95/608/s201], Nov. 8, 1978, [92 Stat. 3075][/us/stat/92/3075].)
+([Pub. L. 95–608, title II][/us/pl/95/608/tII], § 201, Nov. 8, 1978, [92 Stat. 3075][/us/stat/92/3075].)
 
  __References in Text__ 
 
@@ -53,7 +53,7 @@
 ----------
 
 [/us/usc/t42/s620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs620
-[/us/pl/95/608/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F608%2Fs201
+[/us/pl/95/608/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F608%2FtII
 [/us/stat/92/3075]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3075
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620

@@ -17,7 +17,7 @@
 
     The band may, at any time it wishes to do so, organize a legal entity under the laws of the State of California and request the Secretary to transfer to such legal entity title to the lands in the reserves established by [section 953(b) of this title][/us/usc/t25/s953/b]. The Secretary shall transfer an unrestricted title to such property if the organization of the legal entity and request for the transfer have been approved by a majority of the adult members of the band who are eligible to vote, and if in the judgment of the Secretary the legal entity is organized in a form and manner that is fair to all members of the band: Provided, however, That if the lands to which the proviso to the fourth item in [section 953(b) of this title][/us/usc/t25/s953/b] is applicable are transferred to such an entity, they shall be held by it subject to the terms provided in said proviso, and the rights and duties therein set forth shall be preserved and reflected in any distribution of securities of, or other evidences of participation in, said entity.
 
-([Pub. L. 86–339, § 8][/us/pl/86/339/s8], Sept. 21, 1959, [73 Stat. 605][/us/stat/73/605].)
+([Pub. L. 86–339][/us/pl/86/339], § 8, Sept. 21, 1959, [73 Stat. 605][/us/stat/73/605].)
 
 ----------
 
@@ -28,7 +28,7 @@
 
 [/us/usc/t25/s953/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs953%2Fb
 [/us/usc/t25/s953/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs953%2Fb
-[/us/pl/86/339/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F339%2Fs8
+[/us/pl/86/339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F339
 [/us/stat/73/605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F605
 
 

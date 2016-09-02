@@ -17,7 +17,7 @@
 
     The Secretary of the Interior is authorized to prescribe such regulations as may be necessary to carry out the provisions of sections 484 to 486 of this title.
 
-([July 14, 1954, ch. 472, § 3][/us/act/1954-07-14/ch472/s3], [68 Stat. 468][/us/stat/68/468].)
+([July 14, 1954, ch. 472][/us/act/1954-07-14/ch472], § 3, [68 Stat. 468][/us/stat/68/468].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1954-07-14/ch472/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-07-14%2Fch472%2Fs3
+[/us/act/1954-07-14/ch472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-07-14%2Fch472
 [/us/stat/68/468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F468
 
 

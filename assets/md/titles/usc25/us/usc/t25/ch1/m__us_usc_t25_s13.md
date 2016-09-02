@@ -37,7 +37,7 @@
 
     Notwithstanding any other provision of this section or any other law, postsecondary schools administered by the Secretary of the Interior for Indians, and which meet the definition of an “institution of higher education” under section 101 of the Higher Education Act of 1965 \[[20 U.S.C. 1001][/us/usc/t20/s1001]\], shall be eligible to participate in and receive appropriated funds under any program authorized by the Higher Education Act of 1965 \[[20 U.S.C. 1001][/us/usc/t20/s1001] et seq., [42 U.S.C. 2751][/us/usc/t42/s2751] et seq.\] or any other applicable program for the benefit of institutions of higher education, community colleges, or postsecondary educational institutions.
 
-([Nov. 2, 1921, ch. 115][/us/act/1921-11-02/ch115], [42 Stat. 208][/us/stat/42/208]; [Pub. L. 94–482, title IV, § 410][/us/pl/94/482/s410], Oct. 12, 1976, [90 Stat. 2233][/us/stat/90/2233]; [Pub. L. 105–244, title I, § 102(a)(8)(A)][/us/pl/105/244/s102/a/8/A], Oct. 7, 1998, [112 Stat. 1619][/us/stat/112/1619].)
+([Nov. 2, 1921, ch. 115][/us/act/1921-11-02/ch115], [42 Stat. 208][/us/stat/42/208]; [Pub. L. 94–482, title IV][/us/pl/94/482/tIV], § 410, Oct. 12, 1976, [90 Stat. 2233][/us/stat/90/2233]; [Pub. L. 105–244, title I][/us/pl/105/244/tI], § 102(a)(8)(A), Oct. 7, 1998, [112 Stat. 1619][/us/stat/112/1619].)
 
  __References in Text__ 
 
@@ -67,13 +67,13 @@
 
  __Availability of Housing Improvement Program Grant Repayments for Program Obligations__ 
 
-[Pub. L. 101–121, title I][/us/pl/101/121], Oct. 23, 1989, [103 Stat. 714][/us/stat/103/714], provided: 
+[Pub. L. 101–121, title I][/us/pl/101/121/tI], Oct. 23, 1989, [103 Stat. 714][/us/stat/103/714], provided: 
 
 > “That hereafter, notwithstanding any other provision of law, amounts collected from grantees by the Secretary as grant repayments required under the Secretary’s regulations for the Housing Improvement Program shall be credited in the year collected and shall be available for obligation under the terms and conditions applicable to the Program under that year’s appropriation”.
 
  __Alternative Methods for Equitable Distribution of Supplemental Program Funds; Development, Publication, etc., of Formula__ 
 
-[Pub. L. 95–561, title XI, § 1102][/us/pl/95/561/s1102], Nov. 1, 1978, [92 Stat. 2316][/us/stat/92/2316], provided that:
+[Pub. L. 95–561, title XI][/us/pl/95/561/tXI], § 1102, Nov. 1, 1978, [92 Stat. 2316][/us/stat/92/2316], provided that:
 
 >     “(a) The Secretary of the Interior shall develop alternative methods for the equitable distribution of any supplement program funds provided, pursuant to an appropriation under the Act of November 2, 1921, commonly referred to as the Snyder Act \[this section\], for contracting under the Act of April 16, 1934, commonly referred to as the Johnson-O’Malley Act \[sections 452 to 457 of this title\], and shall publish in the Federal Register by March 1, 1979, such alternatives for the purpose of allowing eligible tribes to comment by May 1, 1979. At that time, the Secretary shall conduct a field survey listing all alternative formula.
 
@@ -81,7 +81,7 @@
 
  __Payments for Basic Educational Support Grants or Contracts; Authorization; Time__ 
 
-    [Pub. L. 95–561, title XI, § 1103(a)][/us/pl/95/561/s1103/a], Nov. 1, 1978, [92 Stat. 2316][/us/stat/92/2316], as amended by [Pub. L. 96–46, § 2(b)(1)][/us/pl/96/46/s2/b/1], Aug. 6, 1979, [93 Stat. 341][/us/stat/93/341], provided that payments for basic educational support grants or contracts for fiscal year 1978, including any fiscal year 1978 funds subsequently obligated in fiscal year 1979, were to be made under the authority of act Apr. 16, 1934, and set forth conditions, time, etc., for payments.
+    [Pub. L. 95–561, title XI][/us/pl/95/561/tXI], § 1103(a), Nov. 1, 1978, [92 Stat. 2316][/us/stat/92/2316], as amended by [Pub. L. 96–46][/us/pl/96/46], § 2(b)(1), Aug. 6, 1979, [93 Stat. 341][/us/stat/93/341], provided that payments for basic educational support grants or contracts for fiscal year 1978, including any fiscal year 1978 funds subsequently obligated in fiscal year 1979, were to be made under the authority of act Apr. 16, 1934, and set forth conditions, time, etc., for payments.
 
 ----------
 
@@ -95,9 +95,9 @@
 [/us/usc/t42/s2751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2751
 [/us/act/1921-11-02/ch115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1921-11-02%2Fch115
 [/us/stat/42/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F208
-[/us/pl/94/482/s410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F482%2Fs410
+[/us/pl/94/482/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F482%2FtIV
 [/us/stat/90/2233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2233
-[/us/pl/105/244/s102/a/8/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs102%2Fa%2F8%2FA
+[/us/pl/105/244/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtI
 [/us/stat/112/1619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1619
 [/us/pl/89/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329
 [/us/stat/79/1219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1219
@@ -115,13 +115,13 @@
 [/us/pl/94/482/s532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F482%2Fs532
 [/us/usc/t20/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1001
 [/us/stat/64/1262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1262
-[/us/pl/101/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F121
+[/us/pl/101/121/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F121%2FtI
 [/us/stat/103/714]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F714
-[/us/pl/95/561/s1102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2Fs1102
+[/us/pl/95/561/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2FtXI
 [/us/stat/92/2316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2316
-[/us/pl/95/561/s1103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2Fs1103%2Fa
+[/us/pl/95/561/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2FtXI
 [/us/stat/92/2316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2316
-[/us/pl/96/46/s2/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F46%2Fs2%2Fb%2F1
+[/us/pl/96/46]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F46
 [/us/stat/93/341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F341
 
 
